@@ -50,15 +50,17 @@ The grooming category (~₹3,300 Cr in India) is dominated by Gillette with an e
 | Interest | 7 | 8 | 5 | 5 | 11 | 8 | 13 | 9 | 13 |
 | PBT | 345 | 339 | 314 | 429 | 411 | 473 | 562 | 554 | 765 |
 | Tax Rate | 34% | 25% | 27% | 28% | 30% | 25% | 27% | 25% | ~25% |
-| **Net Profit** | 229 | 253 | **230** | 310 | 289 | 356 | 412 | 418 | **574** |
+| **Net Profit** | 229 | 253 | **230** | 310 | 289 | 356 | 412 | 418 | **621** |
 | Net Profit Growth | — | 10.5% | **-9.1%** | 34.8% | -6.8% | 23.2% | 15.7% | — | ~27% |
-| Net Profit Margin | 13.7% | 13.6% | **13.7%** | 15.6% | 12.8% | 14.4% | 15.6% | 18.7% | **19.3%** |
+| Net Profit Margin | 13.7% | 13.6% | **13.7%** | 15.6% | 12.8% | 14.4% | 15.6% | 18.7% | **~20.9%** |
 | **EPS (Diluted) ₹** | 70.29 | 77.62 | **70.64** | 95.25 | 88.79 | 109.15 | 126.35 | 128.17 | **~190** |
 | EPS Growth | — | 10.4% | **-9.0%** | 34.8% | -6.8% | 22.9% | 15.8% | — | ~27% |
 | Shares Outstanding (Cr) | 3.26 | 3.26 | 3.26 | 3.26 | 3.26 | 3.26 | 3.26 | 3.26 | 3.26 |
 | Shares Change YoY | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
 | EBITDA (approx.) | 429 | 432 | 411 | 518 | 551 | 621 | 721 | 664 | ~911 |
 | EBITDA Margin | 25.6% | 23.2% | 24.5% | 26.1% | 24.4% | 25.1% | **27.4%** | **29.7%** | **~30.7%** |
+
+*TTM reconciliation (four quarters to Dec 2025 per Screener quarterly results): Net Profit ₹621 Cr (159+146+144+172); sum of quarterly EPS ≈ ₹190.4; ₹621 Cr ÷ 3.26 Cr shares ≈ ₹190.5 — matches reported TTM EPS. An earlier draft used ₹574 Cr TTM net profit, which did not reconcile to quarterly sums.*
 
 ### Trend Narrative
 
@@ -158,12 +160,12 @@ Given that Gillette India's manufacturing is relatively mature (two plants in Ra
 
 | Component | FY2024 | TTM (Est.) |
 |---|---|---|
-| Net Income | 412 | ~574 |
+| Net Income | 412 | ~621 |
 | Add: D&A | 83 | ~85 |
 | Less: Maintenance CapEx (est.) | -45 | -45 |
 | Less: SBC (minimal) | ~0 | ~0 |
-| **= Owner Earnings** | **~450** | **~614** |
-| Owner Earnings Per Share ₹ | ~138 | **~188** |
+| **= Owner Earnings** | **~450** | **~661** |
+| Owner Earnings Per Share ₹ | ~138 | **~203** |
 
 > *"The calculation of owner earnings is not exact, but the purpose is clear: to provide a framework for gauging the intrinsic value of a business."* — Warren Buffett
 
@@ -368,7 +370,7 @@ In Gillette's case, the business economics are so good that management quality i
 | **PB Ratio** | ~8.3x | ~5.7x | ~7.7x | ~7.1x | ~6.4x | ~8.6x | **~22x** |
 | PS Ratio | ~3.5x | ~3.1x | ~3.0x | ~2.6x | ~2.5x | ~2.5x | ~8.7x |
 | P/FCF Ratio | ~94x | ~26x | ~16x | ~17x | ~16x | ~14x | ~45x |
-| P/Owner Earnings | — | — | — | — | — | ~57x | ~42x |
+| P/Owner Earnings | — | — | — | — | — | ~57x | ~39x |
 | EV/EBITDA | ~15x | ~12x | ~11x | ~11x | ~10x | ~9x | ~28x |
 | Earnings Yield | 1.2% | 1.4% | 1.6% | 1.5% | 1.8% | 1.9% | **2.4%** |
 | FCF Yield | 1.1% | 3.8% | 6.1% | 5.9% | 6.2% | 7.0% | ~2.2% |
@@ -394,28 +396,28 @@ At current levels, the stock is moderately valued relative to its own history �
 
 ### Traditional Buffett DCF Using Owner Earnings
 
-**Starting Owner Earnings (TTM): ~₹614 Cr (~₹188 per share)**
+**Starting Owner Earnings (TTM): ~₹661 Cr (~₹203 per share)** — based on TTM net income ₹621 Cr + D&A − maintenance CapEx (same methodology as before; net income updated to match quarterly TTM).
 
 | Scenario | Conservative | Base | Optimistic |
 |---|---|---|---|
-| Owner Earnings (Starting) | ₹188/share | ₹188/share | ₹188/share |
+| Owner Earnings (Starting) | ₹203/share | ₹203/share | ₹203/share |
 | Growth Rate Yrs 1-5 | 10% | 13% | 16% |
 | Growth Rate Yrs 6-10 | 7% | 10% | 12% |
 | Terminal Growth Rate | 4% | 5% | 5% |
 | Discount Rate | 11% | 11% | 11% |
-| PV of 10-Yr Cash Flows | ₹1,676/share | ₹2,068/share | ₹2,531/share |
-| Terminal Value (PV) | ₹3,074/share | ₹5,174/share | ₹7,024/share |
-| **Intrinsic Value Per Share** | **₹4,750** | **₹7,242** | **₹9,555** |
-| CMP (₹7,900) | **-40% overvalued** | **-8% overvalued** | **+21% upside** |
-| **Margin of Safety** | **Negative** | **~-8%** | **+21%** |
+| PV of 10-Yr Cash Flows | ₹1,810/share | ₹2,233/share | ₹2,733/share |
+| Terminal Value (PV) | ₹3,319/share | ₹5,587/share | ₹7,584/share |
+| **Intrinsic Value Per Share** | **₹5,130** | **₹7,820** | **₹10,320** |
+| CMP (₹7,900) | **-35% overvalued** | **~-1% overvalued** | **+31% upside** |
+| **Margin of Safety** | **Negative** | **~-1%** | **+31%** |
 
 ### Summary
 
 | Scenario | Intrinsic Value | Margin of Safety | Verdict |
 |---|---|---|---|
-| Conservative | ₹4,750 | **-40%** (overvalued) | Too expensive |
-| Base | ₹7,242 | **-8%** (slightly overvalued) | Fairly valued |
-| Optimistic | ₹9,555 | **+21%** (undervalued) | Moderate upside |
+| Conservative | ₹5,130 | **-35%** (overvalued) | Too expensive |
+| Base | ₹7,820 | **~-1%** (slightly overvalued) | Fairly valued |
+| Optimistic | ₹10,320 | **+31%** (undervalued) | Moderate upside |
 
 At ₹7,900, the stock is roughly **fairly valued under base-case assumptions**. There is no meaningful margin of safety for a conservative investor, but neither is it dramatically overvalued — unlike when it traded at ₹11,500 (where it was clearly in overvalued territory).
 
@@ -502,14 +504,14 @@ Gillette India is undoubtedly a wonderful company. The question is whether ₹7,
 | Normalised Earnings × Bear PE | ₹150 EPS × 30x | ₹4,500 | -43% |
 | Historical Low PE × Current Earnings | ₹190 × 32x | ₹6,080 | -23% |
 
-The most probable downside floor is the **₹6,000-6,500 range** (current earnings at historical low-end multiples). At ₹6,000, the company would be trading at ~32x earnings — the lowest PE multiple it has seen in recent history.
+The most probable downside floor is the **₹6,000-6,500 range** (current earnings at historical low-end multiples). At ₹6,000, the company would be trading at ~32x reported TTM EPS — the lowest PE multiple it has seen in recent history.
 
 **Part 2: Upside Case**
 
 | Scenario | Basis | Implied Price | Upside |
 |---|---|---|---|
-| Base Case (DCF) | ₹7,242 | ₹7,242 | -8% |
-| Bull Case (DCF) | ₹9,555 | ₹9,555 | +21% |
+| Base Case (DCF) | ₹7,820 | ₹7,820 | -1% |
+| Bull Case (DCF) | ₹10,320 | ₹10,320 | +31% |
 | 5-Year EPS at 12% CAGR × 40x PE | ₹335 × 40 | ₹13,400 | +70% |
 | Re-rating to Historical Mean PE | ₹190 × 55x | ₹10,450 | +32% |
 
@@ -710,12 +712,12 @@ Remember, Buffett bought the original Gillette convertible preferred in 1989 at 
 
 **YES — The Napkin Math:**
 
-- Gillette India earns ~₹190 per share
+- Gillette India earns ~₹190 per share (reported TTM EPS; owner earnings ~₹203/share on adjusted cash basis)
 - Growing earnings at ~11-12% per year
 - In 5 years: ~₹320-335 per share in earnings
 - If market pays 35-40x earnings: Stock price = ₹11,200–₹13,400
 - Current price: ₹7,900
-- That's ~8-11% annual return + ~1.4% dividend = **~9.5-12.5% total return**
+- That's ~8-11% annual price return + ~1.4% dividend = **~9.5-12.5% total return**
 
 Is that good enough? It's decent, not spectacular. You don't need Excel to see that.
 
