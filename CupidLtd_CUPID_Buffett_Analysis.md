@@ -11,7 +11,7 @@
 ---
 
 > **Important Note on Share Capital Adjustments:**  
-> Cupid Ltd underwent a 1:10 stock split (FV ₹10 → ₹1) and a 1:1 bonus issue on April 4, 2024, followed by a 4:1 bonus issue with ex-date March 9, 2026. One original share (pre-April 2024) is now equivalent to 80 shares. All per-share data in this analysis is presented on the LATEST adjusted basis unless otherwise noted. Screener.in data is already adjusted for these corporate actions.
+> Cupid Ltd underwent a 1:10 stock split (FV ₹10 → ₹1) and a 1:1 bonus issue on April 4, 2024, followed by a 4:1 bonus issue with ex-date March 9, 2026. One original share (pre-April 2024) is now equivalent to 100 shares (10 × 2 × 5 from the 1:10 split, 1:1 bonus, and 4:1 bonus). All per-share data in this analysis is presented on the LATEST adjusted basis unless otherwise noted. Screener.in data is already adjusted for these corporate actions.
 
 ---
 
