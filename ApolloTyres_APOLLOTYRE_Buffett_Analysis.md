@@ -157,17 +157,17 @@ Normalised Owner Earnings: **~₹1,150-1,200 Cr/year** or **~₹18-19 per share.
 
 | Metric | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **ROE %** | 17.0% | 15.1% | 7.4% | 6.8% | **4.8%** | 3.1% | 5.4% | 8.3% | **12.4%** | **8.6%** |
+| **ROE %** | 17.0% | 15.1% | 7.4% | 6.8% | **4.8%** | 3.1% | 5.4% | 8.3% | **12.4%** | **7.6%** |
 | **ROA %** | 9.7% | 7.2% | 3.6% | 3.4% | **2.1%** | 1.4% | 2.4% | 3.8% | **6.4%** | 4.1% |
 | **ROCE %** | **23%** | 16% | **9%** | **9%** | **5%** | 9% | 7% | 10% | **16%** | **11%** |
 
 **10-Year Average ROE: ~9%**
-**5-Year Average ROE: ~9%**
-**3-Year Average ROE: ~10%**
+**5-Year Average ROE: ~7%**
+**3-Year Average ROE: ~9%**
 
 This is the single most damning metric for a Buffett analysis. **A 9-10% ROE is mediocre.** It barely covers the cost of equity (which is ~11-12% for an Indian mid-cap). The business is, on average, **not earning above its cost of capital.**
 
-FY24's 12.4% ROE was the cyclical peak — rubber was cheap, prices were sticky, debt was falling. FY25 reverted to 8.6% as rubber costs rose and pricing power proved limited.
+FY24's 12.4% ROE was the cyclical peak — rubber was cheap, prices were sticky, debt was falling. FY25 reverted to 7.6% as rubber costs rose and pricing power proved limited.
 
 ROCE tells the same story: the 23-26% ROCE of FY14-FY16 (pre-expansion, smaller capital base) has given way to 9-16% as the massive capital invested in Hungary and AP has not yet generated proportional returns.
 
@@ -485,7 +485,7 @@ This is **roughly neutral asymmetry.** The upside approximately equals the downs
 | FY2022 | 3.1% | 0.77x | 2.30x | **5.4%** |
 | FY2023 | 4.3% | 0.90x | 2.17x | **8.3%** |
 | FY2024 | 6.8% | 0.94x | 1.93x | **12.4%** |
-| FY2025 | 4.3% | 0.96x | 1.84x | **8.6%** |
+| FY2025 | 4.3% | 0.96x | 1.84x | **7.6%** |
 
 **Key Findings:**
 
@@ -495,7 +495,7 @@ This is **roughly neutral asymmetry.** The upside approximately equals the downs
 
 3. **Equity Multiplier is DECLINING** from 2.34x to 1.84x — the company is deleveraging. This is dragging ROE down but making the balance sheet safer.
 
-4. **ROCE (11%) > ROE (8.6%)** in FY25 — this is the healthy pattern. The underlying business returns are decent; lower ROE reflects taxes and lower leverage. Not a red flag.
+4. **ROCE (11%) > ROE (7.6%)** in FY25 — this is the healthy pattern. The underlying business returns are decent; lower ROE reflects taxes and lower leverage. Not a red flag.
 
 **Quality Assessment:** The ROE is driven by margin (cyclical) + efficiency (improving) with declining leverage (safer). The quality is acceptable, but the level (8-10% average) is simply too low for a Buffett investment.
 
