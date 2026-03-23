@@ -414,25 +414,25 @@ This means the **core banking business is trading at an effective P/B of ~1.9x**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 12.7% CAGR | 18.5% CAGR | 24.6% CAGR |
-| 10 Years | 8.5% CAGR | 12.7% CAGR | 17.1% CAGR |
-| 15 Years | 7.2% CAGR | 10.8% CAGR | 14.6% CAGR |
+| 5 Years | 12.6% CAGR | 17.7% CAGR | 22.9% CAGR |
+| 10 Years | 11.3% CAGR | 16.4% CAGR | 21.4% CAGR |
+| 15 Years | 10.9% CAGR | 15.9% CAGR | 20.9% CAGR |
 
 #### At Terminal PE = 18x (Market Average for Quality Banks)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 9.0% CAGR | 14.6% CAGR | 20.5% CAGR |
-| 10 Years | 7.5% CAGR | 11.6% CAGR | 15.9% CAGR |
-| 15 Years | 6.6% CAGR | 10.0% CAGR | 13.7% CAGR |
+| 5 Years | 8.6% CAGR | 13.5% CAGR | 18.5% CAGR |
+| 10 Years | 9.3% CAGR | 14.3% CAGR | 19.2% CAGR |
+| 15 Years | 9.5% CAGR | 14.5% CAGR | 19.5% CAGR |
 
 #### At Terminal PE = 22x (Premium Compounder)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 5.3% CAGR | 10.6% CAGR | 16.3% CAGR |
-| 10 Years | 6.1% CAGR | 10.0% CAGR | 14.2% CAGR |
-| 15 Years | 5.7% CAGR | 9.0% CAGR | 12.5% CAGR |
+| 5 Years | 4.3% CAGR | 9.1% CAGR | 13.8% CAGR |
+| 10 Years | 7.1% CAGR | 12.0% CAGR | 16.9% CAGR |
+| 15 Years | 8.1% CAGR | 13.0% CAGR | 17.9% CAGR |
 
 ### Step 4: Reality Check
 
@@ -446,13 +446,13 @@ This means the **core banking business is trading at an effective P/B of ~1.9x**
 
 ### Traffic Light Assessment
 
-🟢 **GREEN** — At Terminal PE of 18x, to earn 10% annual return over 10 years, the bank needs ~7.5% EPS CAGR. This is BELOW both historical performance and nominal GDP growth. The market is pricing in very modest expectations.
+🟢 **GREEN** — At Terminal PE of 18x, to earn 10% annual return over 10 years, the bank needs ~9.3% EPS CAGR. This is BELOW both historical performance and nominal GDP growth. The market is pricing in very modest expectations.
 
-🟢 **GREEN** — Even to earn 15% over 10 years at 18x terminal PE, the required 11.6% EPS CAGR is at or below the bank's historical capability.
+🟢 **GREEN** — Even to earn 15% over 10 years at 18x terminal PE, the required 14.3% EPS CAGR is at or below the bank's historical pre-merger capability.
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹810, to earn a 12% annualised return over 10 years assuming the market values the bank at 18x PE at exit, HDFC Bank needs to grow EPS at just ~9% CAGR. The bank has historically grown EPS at ~15-18% CAGR. The market is pricing in BELOW-AVERAGE growth expectations — this is a reasonable to attractive price for a wonderful business."
+> "At the current price of ₹810, to earn a 12% annualised return over 10 years assuming the market values the bank at 18x PE at exit, HDFC Bank needs to grow EPS at ~11% CAGR. The bank has historically grown EPS at ~15-18% CAGR. The market is pricing in BELOW-AVERAGE growth expectations — this is a reasonable to attractive price for a wonderful business."
 
 **Buffett's Napkin Test: PASS.** You don't need a spreadsheet. The bank earns ~₹48 EPS. At 15% growth for 10 years, EPS reaches ~₹194. At 18x PE, that's ₹3,492 — a 4.3x return or 15.7% CAGR. At 12% growth, EPS reaches ~₹149, stock at ₹2,682 — 12.7% CAGR. Even at a pessimistic 10% growth and 15x terminal PE, you get ₹1,866 — 8.7% CAGR. The math works on a napkin.
 
@@ -542,21 +542,21 @@ Asymmetry Ratio = 69% / 10% = ~7:1 (Base) to 13:1 (Bull)
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| 2.2x (stays at current) | No re-rating | 11.4% | 11.4% | 11.4% |
-| 1.8x (mild compression) | Market stays cautious | 5.5% | 7.3% | 8.8% |
-| 1.5x (significant compression) | Severe de-rating | -0.2% | 3.8% | 6.4% |
-| 2.5x (mild re-rating) | ROE recovery recognised | 15.1% | 14.2% | 13.4% |
-| 2.8x (fair value for 15% ROE) | Full re-rating | 18.4% | 16.5% | 15.0% |
-| 3.0x (historical median) | Back to pre-merger multiples | 20.5% | 17.8% | 16.0% |
-| 1.0x (catastrophic) | Valued at book | -14.7% | -9.2% | -5.4% |
+| 2.2x (stays at current) | No re-rating | 11.1% | 11.2% | 11.3% |
+| 1.8x (mild compression) | Market stays cautious | 6.8% | 8.1% | 9.1% |
+| 1.5x (significant compression) | Severe de-rating | 3.0% | 5.3% | 7.1% |
+| 2.5x (mild re-rating) | ROE recovery recognised | 14.0% | 13.3% | 12.7% |
+| 2.8x (fair value for 15% ROE) | Full re-rating | 16.6% | 15.1% | 14.0% |
+| 3.0x (historical median) | Back to pre-merger multiples | 18.3% | 16.3% | 14.8% |
+| 1.0x (catastrophic) | Valued at book | -5.1% | -0.6% | 2.8% |
 
 ### Key Insight
 
-> "At entry P/B of 2.2x with sustainable ROE of 15% and 76% retention, book value compounds at 11.4% annually. If P/B stays at 2.2x, the return equals the BV compounding rate of 11.4%. The stock can tolerate P/B compression from 2.2x to ~1.5x before the 10-year return drops below 10%."
+> "At entry P/B of 2.2x with sustainable ROE of 15% and 76% retention, book value compounds at 11.4% annually. If P/B stays at 2.2x, the return equals ~11.1% (BV compounding rate). The stock can tolerate P/B compression from 2.2x to ~1.5x before the 10-year return drops below 7%."
 
 ### Traffic Light Verdict
 
-🟢 **GREEN** — 10-year return exceeds 10% hurdle even if P/B drops from 2.2x to 1.8x (mild compression). BV compounding of 11.4% overwhelms moderate multiple compression. This is a safe entry point for long-term holders.
+🟢 **GREEN** — 10-year return exceeds 9% even if P/B drops from 2.2x to 1.8x (mild compression). BV compounding of 11.4% overwhelms moderate multiple compression. This is a safe entry point for long-term holders.
 
 ---
 
@@ -662,10 +662,10 @@ HDFC Bank is NOT a turnaround situation. It is a high-quality bank going through
 
 - Book value per share: ₹364
 - Book value grows at ~11% per year (bank earns ~15% on equity and keeps most of it)
-- In 7 years, BV reaches ~₹780
-- If market pays 2.5x book (reasonable for a good bank), price = ₹1,950
+- In 7 years, BV reaches ~₹755
+- If market pays 2.5x book (reasonable for a good bank), price = ₹1,890
 - You bought at ₹810
-- Return = ₹810 → ₹1,950 = ~13% CAGR + 1.3% dividend yield = ~14% total return
+- Return = ₹810 → ₹1,890 = ~13% CAGR + 1.3% dividend yield = ~14% total return
 
 No Excel needed. **Buffett would do this on a napkin and say yes.**
 
@@ -682,4 +682,3 @@ This one works on a napkin. It's not the cheapest it's ever been, but it's a goo
 **Analysis compiled on:** March 19, 2026
 **Analyst Framework:** Warren Buffett Value Investing Methodology (Bank/NBFC Mode)
 **Data Sources:** Screener.in, BSE/NSE filings, HDFC Bank Investor Presentations (Q1-Q4 FY25, Q1-Q3 FY26), CareEdge Ratings, Equitymaster, various financial portals.
-
