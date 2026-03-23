@@ -36,7 +36,7 @@ The company is a subsidiary of Colgate-Palmolive Company, USA (the parent holds 
 | Metric | Mar 2016 | Mar 2017 | Mar 2018 | Mar 2019 | Mar 2020 | Mar 2021 | Mar 2022 | Mar 2023 | Mar 2024 | **Mar 2025** | TTM |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 3,868 | 3,982 | 4,188 | 4,462 | 4,525 | 4,841 | 5,100 | 5,226 | 5,680 | **6,040** | 5,902 |
-| Revenue Growth YoY | -2.9% | 2.9% | 5.2% | 6.5% | 1.4% | 7.0% | 5.3% | 2.5% | 8.7% | 6.3% | **-3%** |
+| Revenue Growth YoY | -2.9% | 2.9% | 5.2% | 6.5% | 1.4% | 7.0% | 5.3% | 2.5% | 8.7% | 6.3% | **-2%** |
 | Operating Profit | 940 | 944 | 1,114 | 1,236 | 1,202 | 1,510 | 1,566 | 1,547 | 1,901 | 1,958 | 1,858 |
 | **OPM %** | 24% | 24% | 27% | 28% | 27% | 31% | 31% | 30% | **33%** | 32% | 31% |
 | Other Income | 7 | 41 | 26 | 68 | 49 | 30 | 26 | 42 | 57 | 139 | 83 |
@@ -311,13 +311,13 @@ Colgate India is a wonderful business — but time alone won't make you rich her
 ### Buffett's $1 Test
 
 Over the last 10 years (FY15 to FY25):
-- **Total earnings:** ~₹9,300 Cr
-- **Total dividends paid:** ~₹9,100 Cr (retained: ~₹200 Cr)
+- **Total earnings:** ~₹9,900 Cr
+- **Total dividends paid:** ~₹9,060 Cr (retained: ~₹840 Cr)
 - **Market cap change:** From ~₹27,000 Cr (FY15) to ~₹52,800 Cr (Mar 2026) = +₹25,800 Cr
 
-For every ₹1 retained, the company created **~₹129 of market value.** This is an extraordinary ratio — but it's misleading because the company retained almost nothing. The bulk of the market cap increase came from PE re-rating (PE moved from ~30x to ~40x+) and earnings growth, not from reinvestment.
+For every ₹1 retained, the company created **~₹31 of market value.** This is a strong ratio — driven primarily by PE re-rating (PE moved from ~30x to ~40x+) and earnings growth, not from reinvestment of retained capital.
 
-**A more meaningful test:** For every ₹1 of earnings, what market value was created? Total earnings of ₹9,300 Cr over 10 years supported a market cap increase of ₹25,800 Cr plus ₹9,100 Cr in dividends = ₹34,900 Cr total return. That's ₹3.75 of value for every ₹1 of earnings. Excellent.
+**A more meaningful test:** For every ₹1 of earnings, what market value was created? Total earnings of ₹9,900 Cr over 10 years supported a market cap increase of ₹25,800 Cr plus ₹9,060 Cr in dividends = ₹34,860 Cr total return. That's **₹3.52 of value for every ₹1 of earnings.** Excellent.
 
 ### Capital Allocation Track Record
 
@@ -447,25 +447,25 @@ Even in the **optimistic scenario**, the DCF intrinsic value (₹1,610) is **bel
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 20.2% | 25.4% | 30.8% |
-| 10 Years | 14.0% | 16.7% | 19.3% |
-| 15 Years | 12.0% | 13.8% | 15.7% |
+| 5 Years | 20.6% | 26.1% | 31.6% |
+| 10 Years | 15.2% | 20.4% | 25.6% |
+| 15 Years | 13.4% | 18.6% | 23.7% |
 
 **At Terminal PE = 35x (Historical Avg)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 13.3% | 18.4% | 23.6% |
-| 10 Years | 10.5% | 13.1% | 15.8% |
-| 15 Years | 9.5% | 11.3% | 13.1% |
+| 5 Years | 12.7% | 17.9% | 23.0% |
+| 10 Years | 11.4% | 16.4% | 21.5% |
+| 15 Years | 10.9% | 15.9% | 21.0% |
 
 **At Terminal PE = 40x (Current Sustained)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 10.0% | 15.0% | 20.0% |
-| 10 Years | 10.0% | 12.6% | 15.2% |
-| 15 Years | 9.1% | 10.8% | 12.6% |
+| 5 Years | 9.8% | 14.8% | 19.8% |
+| 10 Years | 9.9% | 14.9% | 19.9% |
+| 15 Years | 9.9% | 14.9% | 19.9% |
 
 ### Step 4: Reality Check
 
@@ -478,14 +478,14 @@ Even in the **optimistic scenario**, the DCF intrinsic value (₹1,610) is **bel
 
 **Traffic Light Assessment:**
 
-- To earn a **10% return** at a **40x exit PE**: You need 10% EPS CAGR — achievable, in line with history. 🟢 GREEN
-- To earn a **15% return** at a **35x exit PE**: You need 13.1% EPS CAGR over 10 years — above historical track record. 🟡 YELLOW
-- To earn a **15% return** at a **25x exit PE**: You need 16.7% EPS CAGR — unrealistic for a mature FMCG company. 🔴 RED
-- **If the PE compresses from 40x to 25x** (a realistic risk if growth disappoints), you need **14% EPS CAGR** just to earn a 10% return. That's above the company's entire historical track record.
+- To earn a **10% return** at a **40x exit PE**: You need ~10% EPS CAGR — achievable, in line with history. 🟢 GREEN
+- To earn a **15% return** at a **35x exit PE**: You need 16.4% EPS CAGR over 10 years — significantly above historical track record. 🔴 RED
+- To earn a **10% return** at a **25x exit PE**: You need 15.2% EPS CAGR — well above track record. 🔴 RED
+- **Key insight:** Even a modest PE compression from 40x to 35x makes the 10-year 10% hurdle challenging (requires 11.4% EPS CAGR vs 10% historical).
 
 ### Step 5: Verdict
 
-> "At the current price of ₹1,940, to earn a 10% annualised return over 10 years assuming the market values the business at 35x PE at exit, the company needs to grow EPS at 10.5% CAGR. The company has historically grown EPS at ~10% CAGR. **This implies the market is pricing in roughly what the company has historically delivered — fair but with zero margin of error.** Any disappointment in growth or any PE compression will deliver sub-10% returns."
+> "At the current price of ₹1,940, to earn a 10% annualised return over 10 years assuming the market values the business at 35x PE at exit, the company needs to grow EPS at 11.4% CAGR. The company has historically grown EPS at ~10% CAGR. **This implies the market is pricing in slightly MORE than what the company has historically delivered — there is virtually no margin of safety.** Any disappointment in growth or any PE compression will deliver sub-10% returns."
 
 **This is a 🟡 YELLOW situation** — the price is not crazy, but it's certainly not a bargain. There's no margin of safety.
 
@@ -573,9 +573,9 @@ If the PE compresses from 40x to 35x over 10 years, that creates ~1.3% annual dr
 
 | Condition | Verdict |
 |---|---|
-| Returns > 10% even if PE compresses to 35x | 🟢 Barely GREEN (11%) |
-| Returns > 10% if PE compresses to 30x | 🟡 YELLOW (~9%) |
-| Returns > 10% if PE compresses to 25x | 🔴 RED (~6%) |
+| Returns > 10% even if PE compresses to 35x | 🟢 Barely GREEN (~11%) |
+| Returns > 10% if PE compresses to 30x | 🟡 YELLOW (~9.5%) |
+| Returns > 10% if PE compresses to 25x | 🔴 RED (~7.6%) |
 
 ---
 
