@@ -371,15 +371,15 @@ At ₹420, you are paying a premium-to-history valuation for a business with 9% 
 | Growth Years 6-10 | 4% | 7% | 10% |
 | Terminal Growth | 4% | 5% | 5.5% |
 | Discount Rate | 11% | 11% | 11% |
-| **PV of 10Y Cash Flows** | ₹9,200 Cr | ₹11,300 Cr | ₹13,900 Cr |
-| **Terminal Value (PV)** | ₹8,700 Cr | ₹13,000 Cr | ₹18,300 Cr |
-| **Enterprise Value** | ₹17,900 Cr | ₹24,300 Cr | ₹32,200 Cr |
+| **PV of 10Y Cash Flows** | ₹8,900 Cr | ₹10,700 Cr | ₹12,800 Cr |
+| **Terminal Value (PV)** | ₹10,000 Cr | ₹16,300 Cr | ₹24,500 Cr |
+| **Enterprise Value** | ₹18,900 Cr | ₹27,000 Cr | ₹37,300 Cr |
 | Less: Net Debt | (1,300) | (1,300) | (1,300) |
-| **Equity Value** | ₹16,600 Cr | ₹23,000 Cr | ₹30,900 Cr |
-| **Intrinsic Value/Share** | **₹261** | **₹362** | **₹487** |
-| Margin of Safety at ₹420 | **-61% (overvalued)** | **-16% (overvalued)** | **+16%** |
+| **Equity Value** | ₹17,600 Cr | ₹25,700 Cr | ₹36,000 Cr |
+| **Intrinsic Value/Share** | **₹277** | **₹405** | **₹568** |
+| Margin of Safety at ₹420 | **-52% (overvalued)** | **-4% (roughly fair value)** | **+26%** |
 
-**Verdict:** At ₹420, the stock is **overvalued** on conservative and base case assumptions. Only the optimistic case provides a margin of safety — and it requires 14% earnings growth for 5 years, which would be historically unprecedented for Apollo on a sustained basis.
+**Verdict:** At ₹420, the stock is **overvalued** on conservative assumptions and approximately **fairly valued** on the base case. The optimistic case provides a 26% margin of safety — but it requires 14% earnings growth for 5 years, which would be historically unprecedented for Apollo on a sustained basis. The base case suggests the current price is neither a bargain nor egregiously expensive — it is priced for decent execution.
 
 ---
 
@@ -448,7 +448,7 @@ To earn just a **10% return** over 10 years at a terminal PE of 18x, Apollo need
 | Tangible Book Value | ₹245 BVPS × 1.0x | ₹245 | -42% |
 | Trough Earnings × Trough PE | ₹8.33 EPS (FY20) × 12x | ₹100 | -76% |
 | Historical Lowest P/B × Current BV | 0.7x × ₹245 | ₹172 | -59% |
-| Conservative DCF | From Section 12 | ₹261 | -38% |
+| Conservative DCF | From Section 12 | ₹277 | -34% |
 
 **Most probable downside floor: ₹260-280** (1.0-1.1x book value, where institutional buyers historically step in).
 
@@ -456,21 +456,21 @@ To earn just a **10% return** over 10 years at a terminal PE of 18x, Apollo need
 
 | Scenario | Basis | Implied Price | Upside from ₹420 |
 |---|---|---|---|
-| Base DCF | Section 12 | ₹362 | -14% (actually downside) |
-| Optimistic DCF | Section 12 | ₹487 | +16% |
+| Base DCF | Section 12 | ₹405 | -4% (roughly fair value) |
+| Optimistic DCF | Section 12 | ₹568 | +35% |
 | Bull Case (18% EPS growth 5Y × 20x PE) | Normalised EPS grows to ₹42 | ₹840 | +100% |
 | Capacity expansion + margin recovery | EBITDA ₹5,000 Cr @ 8x EV/EBITDA | ₹550 | +31% |
 
 **Asymmetry Ratio:**
-- Realistic Upside: ~30-35% (to ₹550 over 3-5 years if execution is strong)
-- Realistic Downside: ~35-40% (to ₹260-280 in a bear case)
-- **Asymmetry Ratio: ~0.8:1 to 1.0:1**
+- Realistic Upside: ~35% (to ₹550-568 over 3-5 years if execution is strong)
+- Realistic Downside: ~34% (to ₹277 in a conservative DCF bear case)
+- **Asymmetry Ratio: ~1.0:1**
 
-This is **negative to neutral asymmetry.** The upside roughly equals the downside. Not a fat pitch.
+This is **roughly neutral asymmetry.** The upside approximately equals the downside. Not a fat pitch.
 
-> **Mispricing Assessment:** There is **NO obvious mispricing.** The stock is trading at roughly fair-to-slightly-expensive levels for a business with 9% ROE and single-digit revenue growth. There is no temporary crisis being mistaken for terminal decline. The recent FY25 earnings dip is mild, not catastrophic. The market appears to be correctly pricing in "decent business, fair price" — not handing you a gift.
+> **Mispricing Assessment:** There is **NO obvious mispricing.** The stock is trading at roughly fair value on a base-case DCF (₹405 vs ₹420 CMP), which is consistent with a business earning 9% ROE with single-digit revenue growth. There is no temporary crisis being mistaken for terminal decline. The recent FY25 earnings dip is mild, not catastrophic. The market appears to be correctly pricing in "decent business, fair price" — not handing you a gift.
 
-**Fat Pitch Verdict:** This is **NOT a fat pitch.** The risk/reward at ₹420 is roughly balanced, leaning slightly negative. There is no overwhelming asymmetry. Buffett would **not swing hard** at this price.
+**Fat Pitch Verdict:** This is **NOT a fat pitch.** The risk/reward at ₹420 is roughly balanced. There is no overwhelming asymmetry. Buffett would **not swing hard** at this price.
 
 ---
 
@@ -642,7 +642,7 @@ Apollo Tyres is NOT in distress — this section is less applicable. However, it
 | **Scalability** | 4.5 | Physical goods; margins driven by rubber, not scale |
 | **Earnings Quality** | 5 | Volatile; FY24 peak was cyclical, not structural |
 | **Valuation** | 4 | Above historical median P/B and PE; limited margin of safety |
-| **Margin of Safety** | 3 | Overvalued on base case DCF; negative asymmetry |
+| **Margin of Safety** | 4 | Roughly fair value on base case DCF; neutral asymmetry |
 | **Buffett Verdict** | — | **Fair company at a fair-to-expensive price. PASS at ₹420.** |
 | **Buy Zone** | — | Fully Valued / Trim zone. Strong Buy below ₹270 (1.1x book). |
 | **Overall Recommendation** | — | **AVOID at current levels. Watchlist for ₹260-280.** |
