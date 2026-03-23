@@ -288,7 +288,7 @@ Nestle India epitomises this. The business will look fundamentally the same in 2
 | Metric | CY2018 | CY2019 | CY2020 | CY2021 | CY2022 | CY2023 | FY Mar25 |
 |---|---|---|---|---|---|---|---|
 | CapEx as % of Revenue | 3.1% | 2.8% | 4.1% | 10.2% | 4.1% | 4.7% | **12.4%** |
-| Revenue / Total Assets | 1.53x | 1.72x | 1.69x | 1.79x | 1.88x | **2.13x** | 1.64x |
+| Revenue / Total Assets | 1.40x | 1.72x | 1.69x | 1.79x | 1.88x | **2.13x** | 1.64x |
 | Working Capital / Revenue | Negative | Negative | Negative | Negative | Negative | Negative | Negative |
 
 In normal years, Nestle India is a capital-light scaling machine — negative working capital, low CapEx (3-5% of revenue), and rising asset turnover. The current period is anomalous because of the large capacity expansion.
@@ -427,21 +427,21 @@ But the current price may be beyond "fair" and into "full" territory. Let's quan
 
 | Component | Conservative | Base | Optimistic |
 |---|---|---|---|
-| PV of Cash Flows (Yr 1-10) | ₹24,200 Cr | ₹30,800 Cr | ₹38,200 Cr |
-| Terminal Value | ₹72,000 Cr | ₹1,04,000 Cr | ₹1,52,000 Cr |
-| PV of Terminal Value | ₹25,400 Cr | ₹40,100 Cr | ₹58,600 Cr |
-| **Enterprise Value** | **₹49,600 Cr** | **₹70,900 Cr** | **₹96,800 Cr** |
+| PV of Cash Flows (Yr 1-10) | ₹30,726 Cr | ₹36,932 Cr | ₹42,304 Cr |
+| Terminal Value | ₹1,37,237 Cr | ₹2,06,504 Cr | ₹2,87,589 Cr |
+| PV of Terminal Value | ₹48,333 Cr | ₹79,616 Cr | ₹1,10,878 Cr |
+| **Enterprise Value** | **₹79,059 Cr** | **₹1,16,548 Cr** | **₹1,53,182 Cr** |
 | Less: Net Debt | (461) | (461) | (461) |
-| **Equity Value (₹ Cr)** | **₹49,100 Cr** | **₹70,400 Cr** | **₹96,300 Cr** |
+| **Equity Value (₹ Cr)** | **₹78,598 Cr** | **₹1,16,087 Cr** | **₹1,52,721 Cr** |
 | Shares Outstanding (Cr) | 192.8 | 192.8 | 192.8 |
-| **Intrinsic Value / Share** | **₹255** | **₹365** | **₹500** |
-| CMP (₹1,194) Margin of Safety | **-79%** (overvalued) | **-69%** (overvalued) | **-58%** (overvalued) |
+| **Intrinsic Value / Share** | **₹408** | **₹602** | **₹792** |
+| CMP (₹1,194) Margin of Safety | **-66%** (overvalued) | **-50%** (overvalued) | **-34%** (overvalued) |
 
 ### Interpretation
 
-Even in the **optimistic scenario** with 16% growth for 5 years and 12% growth for 5 more years, the intrinsic value comes out to ~₹500 per share — a **massive discount to the current price of ₹1,194.**
+Even in the **optimistic scenario** with 16% growth for 5 years and 12% growth for 5 more years, the intrinsic value comes out to ~₹792 per share — still a **significant discount to the current price of ₹1,194.**
 
-This tells us something critical: **Traditional DCF cannot justify Nestle India's current price.** The stock is pricing in growth and quality that goes far beyond what a 10-year DCF can capture. The market is essentially valuing the perpetuity of the franchise — the right to own a slice of India's food consumption forever.
+This tells us something critical: **Traditional DCF cannot justify Nestle India's current price.** Even with aggressive assumptions, the DCF yields ₹408-792 per share. The stock is pricing in growth and quality that goes far beyond what a 10-year DCF can capture. The market is essentially valuing the perpetuity of the franchise — the right to own a slice of India's food consumption forever.
 
 This does not necessarily mean the stock is a bad investment — but it means **your return will come primarily from earnings growth, not from closing a valuation gap.** There is no margin of safety in the traditional Buffett sense.
 
@@ -477,29 +477,29 @@ At ₹1,194, you are paying a very high price for a very wonderful business.
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 33.1% | 37.9% | 42.8% |
-| 10 Years | 23.4% | 26.1% | 28.8% |
+| 5 Years | 34.9% | 41.1% | 47.2% |
+| 10 Years | 21.8% | 27.4% | 32.9% |
 
 #### At Terminal PE = 40x (FMCG Average)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 22.2% | 26.7% | 31.3% |
-| 10 Years | 17.0% | 19.6% | 22.3% |
+| 5 Years | 22.8% | 28.4% | 34.0% |
+| 10 Years | 16.2% | 21.5% | 26.8% |
 
 #### At Terminal PE = 55x (Compounder)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 15.2% | 19.5% | 23.9% |
-| 10 Years | 13.3% | 15.8% | 18.4% |
+| 5 Years | 15.2% | 20.5% | 25.7% |
+| 10 Years | 12.6% | 17.7% | 22.8% |
 
 #### At Terminal PE = 70x (Historical Average)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 10.0% | 14.1% | 18.3% |
-| 10 Years | 10.7% | 13.2% | 15.7% |
+| 5 Years | 9.8% | 14.8% | 19.8% |
+| 10 Years | 9.9% | 14.9% | 19.9% |
 
 ### Step 4: Reality Check
 
@@ -512,13 +512,13 @@ At ₹1,194, you are paying a very high price for a very wonderful business.
 
 #### Traffic Light Assessment
 
-**At Terminal PE of 25x (mature):** You need 23-43% EPS CAGR — **🔴 RED.** Impossible. The company has never grown this fast.
+**At Terminal PE of 25x (mature):** You need 22-47% EPS CAGR — **🔴 RED.** Impossible. The company has never grown this fast.
 
-**At Terminal PE of 40x (FMCG avg):** You need 17-31% EPS CAGR — **🔴 RED.** Still unreasonable. 2x the historical rate.
+**At Terminal PE of 40x (FMCG avg):** You need 16-34% EPS CAGR — **🔴 RED.** Still unreasonable. 1.5-3x the historical rate.
 
-**At Terminal PE of 55x (compounder):** You need 13-24% EPS CAGR — **🟠 ORANGE.** At the 10% hurdle rate, you need 13% EPS CAGR, which is slightly above history but achievable if the new capex cycle delivers. But 15%+ returns require 16%+ EPS CAGR — above anything the company has sustained.
+**At Terminal PE of 55x (compounder):** You need 13-26% EPS CAGR — **🟠 ORANGE.** At the 10% hurdle rate, you need ~13% EPS CAGR, which is slightly above history but achievable if the new capex cycle delivers. But 15%+ returns require 18%+ EPS CAGR — above anything the company has sustained.
 
-**At Terminal PE of 70x (historical avg):** You need 10-16% EPS CAGR — **🟡 YELLOW.** At 10% return target, you need 10.7% EPS CAGR — roughly in line with historical delivery. But this REQUIRES the PE to stay at 70x for a decade. If PE compresses at all, returns deteriorate sharply.
+**At Terminal PE of 70x (historical avg):** You need 10-20% EPS CAGR — **🟡 YELLOW.** At 10% return target, you need ~10% EPS CAGR — roughly in line with historical delivery. But this REQUIRES the PE to stay at 70x for a decade. If PE compresses at all, returns deteriorate sharply.
 
 ### Step 5: The Verdict
 
@@ -538,7 +538,7 @@ By Buffett's napkin test, Nestle India at ₹1,194 is not a no-brainer. The math
 |---|---|---|---|
 | Asset / Liquidation Floor | Tangible BV per share (~₹21) | ₹21 | -98% |
 | Trough Earnings | Worst EPS (₹10.8) × Trough PE (40x) | ₹432 | -64% |
-| Normalised Bear Case | Conservative DCF | ₹255 | -79% |
+| Normalised Bear Case | Conservative DCF | ₹408 | -66% |
 | Historical Lowest PE | ~55x × Current EPS ₹17.2 | ₹946 | **-21%** |
 
 The most **probable** downside floor is ₹946-1,050 — based on the stock's historical lowest PE ranges and the 52-week low of ₹1,074. A 20-25% drawdown is realistic in a bear market.
@@ -589,7 +589,7 @@ There is no pessimism to exploit here. Nestle India is widely loved, widely held
 
 | Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE (Product) |
 |---|---|---|---|---|
-| CY2018 | 14.2% | 1.53x | 2.20x | 48% |
+| CY2018 | 14.2% | 1.40x | 2.20x | 44% |
 | CY2019 | 15.9% | 1.72x | 3.74x | 103% |
 | CY2020 | 15.6% | 1.69x | 3.91x | 103% |
 | CY2021 | 14.4% | 1.79x | 4.23x | 109% |
@@ -620,23 +620,23 @@ There is no pessimism to exploit here. Nestle India is widely loved, widely held
 | Year | Projected BVPS |
 |---|---|
 | Current | ₹21.4 |
-| Year 5 | ₹47.3 |
-| Year 7 | ₹64.7 |
-| Year 10 | ₹104.2 |
+| Year 5 | ₹46.9 |
+| Year 7 | ₹64.2 |
+| Year 10 | ₹102.9 |
 
 **Expected Annual Return (CAGR) at CMP ₹1,194:**
 
 | Exit P/B | Rationale | 5Y CAGR | 7Y CAGR | 10Y CAGR |
 |---|---|---|---|---|
-| 55x (current) | Multiple sustains | 17.2% | 17.2% | 17.2% |
-| 40x | Mild de-rating | 10.4% | 12.3% | 14.0% |
-| 30x | Significant de-rating | 4.4% | 8.0% | 11.1% |
-| 25x | Historical trough | 0.0% | 5.3% | 9.2% |
-| 15x | Severe de-rating | -8.0% | -1.2% | 4.9% |
+| 55x (current) | Multiple sustains | 16.7% | 16.8% | 16.8% |
+| 40x | Mild de-rating | 9.5% | 11.6% | 13.2% |
+| 30x | Significant de-rating | 3.3% | 7.1% | 10.0% |
+| 25x | Historical trough | -0.4% | 4.3% | 8.0% |
+| 15x | Severe de-rating | -10.0% | -3.0% | 2.6% |
 
 **Key Insight:**
 
-> "At the current entry P/B of ~56x with a sustainable ROE of ~85% and 20% retention, book value compounds at ~17% annually. If the P/B multiple remains at 56x, the return equals 17% — excellent. But the stock can tolerate P/B compression from 56x down to approximately 30x before the 10-year return drops below the 10% hurdle rate."
+> "At the current entry P/B of ~56x with a sustainable ROE of ~85% and 20% retention, book value compounds at ~17% annually. If the P/B multiple remains at 55x, the return equals ~17% — excellent. But the stock can tolerate P/B compression from 56x down to approximately 30x before the 10-year return drops below the 10% hurdle rate."
 
 **However**, this analysis is somewhat misleading for Nestle India because the P/B ratio is artificially inflated by the tiny equity base. The 85% ROE is partly a function of the company distributing almost all earnings. The more meaningful metric is the PE-based analysis.
 
