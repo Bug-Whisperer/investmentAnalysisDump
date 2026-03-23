@@ -1,7 +1,7 @@
 # MRF Ltd (NSE: MRF / BSE: 500290) — Warren Buffett-Style Deep Analysis
 
 **Current Market Price:** ₹1,30,575 (as of 19 Mar 2026)
-**Market Cap:** ₹54,089 Cr (~$6.4B)
+**Market Cap:** ~₹55,400 Cr (~$6.5B)
 **Shares Outstanding:** 4.24 million (diluted)
 **52-Week Range:** ₹1,02,012 – ₹1,63,600
 **Analysis Mode:** STANDARD MODE (Non-Financial Company)
@@ -61,7 +61,7 @@ The key insight: **MRF cannot fully control its margins.** Natural rubber is ~40
 
 **Compounded Growth Summary:**
 - Sales CAGR 10Y: 8% | 5Y: 12% | 3Y: 13%
-- Profit CAGR 10Y: 8% | 5Y: 6% | 3Y: 50% (cyclical recovery inflating 3Y)
+- Profit CAGR 10Y: 8% | 5Y: 6% | 3Y: 41% (cyclical recovery inflating 3Y; screener.in reports ~50% using slightly different base periods)
 - EPS CAGR 5Y: ~6% (shares are constant, so EPS = profit growth)
 
 The 5-year EPS CAGR of ~6% is the honest number. The 3-year CAGR of 50% reflects recovery from trough, not sustainable growth.
@@ -167,7 +167,7 @@ Maintenance CapEx for a tyre company can be approximated at 70-80% of depreciati
 
 > *"The first step in thinking about these purchases is to understand a company's 'owner earnings.' These represent (a) reported earnings plus (b) depreciation, depletion, amortization, and certain other non-cash charges less (c) the average annual amount of capitalized expenditures for plant and equipment, etc. that the business requires to fully maintain its long-term competitive position and its unit volume."* — Buffett (1986 Letter)
 
-Owner Earnings of ~₹2,625 Cr (TTM) imply a P/Owner Earnings ratio of ~20.6x at the current market cap of ~₹54,089 Cr. This is more meaningful than the reported PE of ~24-25x.
+Owner Earnings of ~₹2,625 Cr (TTM) imply a P/Owner Earnings ratio of ~21.1x at the current market cap of ~₹55,400 Cr. This is more meaningful than the reported PE of ~24-25x.
 
 ---
 
@@ -426,18 +426,18 @@ The Mammen family has demonstrated integrity over seven decades. No scandals, no
 | **PV of Cash Flows Y1-10 (₹ Cr)** | ~16,800 | ~20,900 | ~26,900 |
 | **Terminal Value PV (₹ Cr)** | ~20,600 | ~33,400 | ~57,400 |
 | **Enterprise Value (₹ Cr)** | ~37,400 | ~54,300 | ~84,300 |
-| Less: Net Debt (₹ Cr) | -1,000 | -1,000 | -1,000 |
-| **Equity Value (₹ Cr)** | ~36,400 | ~53,300 | ~83,300 |
-| **Intrinsic Value/Share (₹)** | ~85,800 | ~1,25,700 | ~1,96,500 |
-| **Margin of Safety at ₹1,30,575** | **-34% (overvalued)** | **-4% (slightly overvalued)** | **+50% (undervalued)** |
+| Add: Net Cash (₹ Cr) | +1,000 | +1,000 | +1,000 |
+| **Equity Value (₹ Cr)** | ~38,400 | ~55,300 | ~85,300 |
+| **Intrinsic Value/Share (₹)** | ~90,600 | ~1,30,400 | ~2,01,200 |
+| **Margin of Safety at ₹1,30,575** | **-31% (overvalued)** | **~0% (fair)** | **+54% (undervalued)** |
 
 | Scenario | Intrinsic Value/Share | Margin of Safety | Upside/Downside |
 |---|---|---|---|
-| **Conservative** | ₹85,800 | **-34%** | -34% downside |
-| **Base** | ₹1,25,700 | **-4%** | Slightly overvalued |
-| **Optimistic** | ₹1,96,500 | **+50%** | +50% upside |
+| **Conservative** | ₹90,600 | **-31%** | -31% downside |
+| **Base** | ₹1,30,400 | **~0%** | ~Fairly valued |
+| **Optimistic** | ₹2,01,200 | **+54%** | +54% upside |
 
-**Verdict:** At ₹1,30,575, MRF is **slightly overvalued** under the base case DCF (~4% above intrinsic value). There is no margin of safety. In the conservative case, the stock is overvalued by ~34%. Only under the optimistic case does significant upside exist.
+**Verdict:** At ₹1,30,575, MRF is **approximately fairly valued** under the base case. There is essentially no margin of safety. In the conservative case, the stock is materially overvalued. Only under the optimistic case does meaningful upside exist.
 
 ---
 
@@ -549,8 +549,8 @@ ROE is margin-driven, NOT leverage-driven. Quality is acceptable when margins ar
 
 **Key Insight:** At entry P/B of 2.85x with a normalised ROE of ~10.5%:
 - If P/B stays constant, returns ≈ BV compounding rate of ~10%
-- The stock can tolerate P/B compression from 2.85x to approximately **2.5x** before the 10-year return drops below 10%
-- Any compression below 2.0x P/B over 10 years would result in sub-7% returns
+- The stock can tolerate P/B compression from 2.85x to approximately **2.5x** before the 10-year return drops below 10%. At 2.5x exit P/B, the 10-year CAGR is ~8.5%.
+- Any compression below 2.0x P/B over 10 years would result in ~6% returns — below the hurdle rate
 
 **Traffic Light Verdict:**
 
