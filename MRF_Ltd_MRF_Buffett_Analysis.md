@@ -548,13 +548,13 @@ ROE is margin-driven, NOT leverage-driven. Quality is acceptable when margins ar
 | 1.0x (book value) | Worst case | -10.8% | -5.3% | -0.9% |
 
 **Key Insight:** At entry P/B of 2.85x with a normalised ROE of ~10.5%:
-- If P/B stays constant, returns ≈ BV compounding rate of ~10%
-- The stock can tolerate P/B compression from 2.85x to approximately **2.5x** before the 10-year return drops below 10%. At 2.5x exit P/B, the 10-year CAGR is ~8.5%.
-- Any compression below 2.0x P/B over 10 years would result in ~6% returns — below the hurdle rate
+- If P/B stays constant, returns ≈ BV compounding rate of ~10% — just barely meeting the hurdle
+- There is **essentially zero tolerance for P/B compression**. Even a mild de-rating to 2.5x P/B drops the 10-year CAGR to ~8.6%, already below the 10% hurdle rate
+- Any compression below 2.0x P/B over 10 years would result in ~6% returns — well below acceptable levels
 
 **Traffic Light Verdict:**
 
-🟡 **YELLOW** — 10-year return > hurdle only if P/B stays within ~25% of current. There is meaningful multiple compression risk given that MRF's ROE of 10.5% doesn't justify a 2.85x P/B premium.
+🔴 **RED** — 10-year return falls below the hurdle rate with ANY P/B compression. You need the multiple to fully sustain at 2.85x just to earn 10% — and this for a business with a normalised ROE of only 10.5% that doesn't fundamentally justify a near-3x book premium. This is a dangerous entry point from a valuation safety perspective.
 
 ---
 
