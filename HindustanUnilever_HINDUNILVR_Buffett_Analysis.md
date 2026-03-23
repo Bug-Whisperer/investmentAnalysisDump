@@ -362,33 +362,33 @@ It is **not cheap on any metric**. It is merely **less expensive than its own hi
 
 | Scenario | Years 1-5 Growth | Years 6-10 Growth | Terminal Growth | Intrinsic Value/Share | MoS at ₹2,083 |
 |---|---|---|---|---|---|
-| **Conservative** | 6% | 5% | 4.5% | **₹1,280** | **-38.6% (Overvalued)** |
-| **Base** | 8% | 6% | 5% | **₹1,590** | **-23.7% (Overvalued)** |
-| **Optimistic** | 12% | 8% | 5% | **₹2,200** | **+5.6% (Fair Value)** |
+| **Conservative** | 6% | 5% | 4.5% | **₹922** | **-55.7% (Overvalued)** |
+| **Base** | 8% | 6% | 5% | **₹1,104** | **-47.0% (Overvalued)** |
+| **Optimistic** | 12% | 8% | 5% | **₹1,400** | **-32.8% (Overvalued)** |
 
 **Workings (Base Case):**
 
 | Year | Owner Earnings (₹ Cr) | Discounted |
 |---|---|---|
 | Y1 | 11,232 | 10,211 |
-| Y2 | 12,130 | 10,025 |
-| Y3 | 13,101 | 9,841 |
+| Y2 | 12,131 | 10,025 |
+| Y3 | 13,101 | 9,843 |
 | Y4 | 14,149 | 9,664 |
-| Y5 | 15,281 | 9,490 |
-| Y6 | 16,198 | 9,147 |
-| Y7 | 17,170 | 8,819 |
-| Y8 | 18,200 | 8,497 |
-| Y9 | 19,292 | 8,191 |
-| Y10 | 20,450 | 7,895 |
-| **PV of 10-Year Cash Flows** | | **91,780** |
-| Terminal Value (5% growth, 10% discount) | | 2,86,030 |
-| **Total Enterprise Value** | | 3,77,810 |
-| Less: Net Debt | | -2,162 (net cash) |
-| **Equity Value (₹ Cr)** | | **3,79,972** |
-| **Intrinsic Value / Share** | | **₹1,617** |
-| **Rounded Estimate** | | **~₹1,590** |
+| Y5 | 15,281 | 9,488 |
+| Y6 | 16,198 | 9,143 |
+| Y7 | 17,170 | 8,811 |
+| Y8 | 18,200 | 8,490 |
+| Y9 | 19,292 | 8,182 |
+| Y10 | 20,449 | 7,884 |
+| **PV of 10-Year Cash Flows** | | **91,742** |
+| Terminal Value = Y10 OE × (1+5%)/(10%-5%) | | 4,29,429 |
+| PV of Terminal Value ÷ (1.10)^10 | | **1,65,567** |
+| **Total Enterprise Value** | | **2,57,309** |
+| Plus: Net Cash | | +2,162 |
+| **Equity Value (₹ Cr)** | | **2,59,471** |
+| **Intrinsic Value / Share** | | **₹1,104** |
 
-**Verdict:** At the base case, HUL is **overvalued by ~24%** at ₹2,083. Only under the optimistic scenario (12% EPS growth for 5 years — significantly above current trend) does the stock approach fair value.
+**Verdict:** At the base case, HUL is **overvalued by ~47%** at ₹2,083. Even under the optimistic scenario (12% EPS growth for 5 years — significantly above current trend), the stock remains overvalued by ~33%. The DCF analysis confirms what the earnings yield of 2.2% already tells us — at 45x PE, HUL is priced for perfection and beyond.
 
 ---
 
@@ -409,25 +409,25 @@ It is **not cheap on any metric**. It is merely **less expensive than its own hi
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **21.0%** | **27.1%** | **33.4%** |
-| 10 Years | **16.3%** | **19.4%** | **22.6%** |
-| 15 Years | **13.7%** | **15.9%** | **18.2%** |
+| 5 Years | **23.9%** | **29.5%** | **35.1%** |
+| 10 Years | **16.7%** | **22.0%** | **27.3%** |
+| 15 Years | **14.4%** | **19.6%** | **24.8%** |
 
 #### At Terminal PE = 35x (Compounder)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **13.7%** | **19.5%** | **25.6%** |
-| 10 Years | **13.5%** | **16.5%** | **19.6%** |
-| 15 Years | **12.3%** | **14.4%** | **16.5%** |
+| 5 Years | **15.8%** | **21.1%** | **26.3%** |
+| 10 Years | **12.9%** | **18.0%** | **23.1%** |
+| 15 Years | **11.9%** | **17.0%** | **22.1%** |
 
 #### At Terminal PE = 45x (Historical Avg, Multiple Sustains)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **10.0%** | **15.0%** | **20.0%** |
-| 10 Years | **10.0%** | **15.0%** | **20.0%** |
-| 15 Years | **10.0%** | **15.0%** | **20.0%** |
+| 5 Years | **10.1%** | **15.1%** | **20.2%** |
+| 10 Years | **10.1%** | **15.1%** | **20.1%** |
+| 15 Years | **10.0%** | **15.0%** | **20.1%** |
 
 ### Step 4: Reality Check
 
@@ -441,13 +441,13 @@ It is **not cheap on any metric**. It is merely **less expensive than its own hi
 
 **Traffic Light:**
 
-If the terminal PE compresses to 25x (very possible over 10 years as growth matures), you need **16.3% EPS CAGR** just to earn your 10% hurdle. HUL has historically grown EPS at 8-9%. This is **1.8x the historical rate** → 🟠 **ORANGE — EXPENSIVE**.
+If the terminal PE compresses to 25x (very possible over 10 years as growth matures), you need **16.7% EPS CAGR** just to earn your 10% hurdle. HUL has historically grown EPS at 8-9%. This is **~2x the historical rate** → 🟠 **ORANGE — EXPENSIVE**.
 
 If the terminal PE stays at 45x (extremely optimistic), you earn exactly your hurdle rate if EPS grows at 10%. Given current growth of 3%, this requires a **3x acceleration** from current trends → 🟡 **YELLOW — DEPENDENT ON RE-ACCELERATION**.
 
 ### Step 5: The Verdict
 
-> **"At ₹2,083, to earn a 10% annualised return over 10 years assuming the market values HUL at 25x PE at exit, the company needs to grow EPS at 16.3% CAGR. HUL has historically grown EPS at 8-9% CAGR. This implies the market is pricing in growth acceleration that significantly exceeds HUL's track record. Even if the PE sustains at 35x, you need 13.5% EPS CAGR — still above historical averages. The stock is EXPENSIVE."**
+> **"At ₹2,083, to earn a 10% annualised return over 10 years assuming the market values HUL at 25x PE at exit, the company needs to grow EPS at 16.7% CAGR. HUL has historically grown EPS at 8-9% CAGR. This implies the market is pricing in growth acceleration that significantly exceeds HUL's track record. Even if the PE sustains at 35x, you need 12.9% EPS CAGR — still above historical averages. The stock is EXPENSIVE."**
 
 ### Step 6: Asymmetric Upside Check
 
@@ -466,15 +466,15 @@ Most probable downside floor: **~₹1,400-1,600** (PE compresses to 30-35x).
 
 | Scenario | Basis | Implied Price | Upside |
 |---|---|---|---|
-| Base Intrinsic Value | DCF Base | ₹1,590 | **-24%** |
-| Bull Case (12% growth) | DCF Optimistic | ₹2,200 | **+6%** |
+| Base Intrinsic Value | DCF Base | ₹1,104 | **-47%** |
+| Bull Case (12% growth) | DCF Optimistic | ₹1,400 | **-33%** |
 | Growth Re-acceleration | 12% EPS CAGR × 40x PE in 5 years | ₹3,240 | **+56%** |
 
 **Asymmetry Ratio:**
 
-Realistic Upside (Base): -24% / Realistic Downside: -23% → **Asymmetry Ratio: ~1:1**
+Realistic Upside (Base): -47% / Realistic Downside: -23% → **Asymmetry Ratio: Negative (upside is actually further downside)**
 
-This is **NOT a fat pitch**. The risk-reward is roughly symmetric, and the base case actually suggests you lose money. Only in the aggressive bull case does meaningful upside emerge.
+This is **NOT a fat pitch**. The risk-reward is unfavourable — even the "base case" intrinsic value suggests significant overvaluation. Only in an aggressive growth re-acceleration scenario (12% EPS CAGR × 40x PE) does meaningful upside emerge.
 
 > **"The mispricing opportunity here is ABSENT. The stock appears roughly fairly valued to slightly overvalued for its current fundamentals. There is no temporary crisis being mistaken for permanent decline. HUL is simply a wonderful business trading at a price that makes it a mediocre investment."**
 
@@ -489,12 +489,14 @@ This is **NOT a fat pitch**. The risk-reward is roughly symmetric, and the base 
 | FY2022 | 17.0% | 0.75x | 1.44x | 18.4% |
 | FY2023 | 16.7% | 0.84x | 1.45x | 20.4% |
 | FY2024 | 16.6% | 0.82x | 1.53x | 20.2% |
-| FY2025 | 16.9% | 0.80x | 1.56x | 21.1% |
+| FY2025 | 16.9% | 0.79x | 1.62x | 21.6% |
 
 **Quality Assessment:**
 - ROE is driven by **high net profit margin (17%)** and decent asset turnover — this is QUALITY ROE
 - The equity multiplier of 1.4-1.6x is very low — **leverage is NOT inflating ROE**
 - ROCE (28%) > ROE (21%) — confirming the healthy pattern where pre-interest returns exceed after-tax returns
+
+*Note: DuPont decomposition uses end-of-year balance sheet values. Product may differ slightly from reported ROE (which uses average equity). The directional conclusion — that ROE is margin-driven, not leverage-driven — is robust regardless of methodology.*
 
 ### Part B: P/B Multiple Scenario Analysis
 
@@ -514,8 +516,8 @@ This is **NOT a fat pitch**. The risk-reward is roughly symmetric, and the base 
 | Scenario | 5-Year CAGR | 10-Year CAGR |
 |---|---|---|
 | P/B stays at 9.9x | ~2.1% (dividend yield only) | ~2.1% |
-| P/B compresses to 7x | **-5.0%** | **-1.5%** |
-| P/B compresses to 5x | **-12.0%** | **-5.0%** |
+| P/B compresses to 7x | **-4.6%** | **-1.3%** |
+| P/B compresses to 5x | **-10.7%** | **-4.5%** |
 
 Since book value isn't compounding, the **entire return comes from dividends (~2.1%) plus any PE/PB re-rating.** If the multiple compresses even modestly, your total return turns negative.
 
@@ -558,7 +560,7 @@ Since book value isn't compounding, the **entire return comes from dividends (~2
 | Is management trustworthy? | ✅ PASS | Professional management; Unilever parent alignment; clean track record |
 | Resistant to disruption? | ✅ PASS | Core consumption patterns don't change; distribution shifting but manageable |
 | Can sustain economics 10+ years? | ✅ PASS | 20% ROE, dominant market position — highly likely to sustain |
-| **Is the price below intrinsic value?** | ❌ FAIL | At 45x PE, the price is 20-30% ABOVE intrinsic value under base assumptions |
+| **Is the price below intrinsic value?** | ❌ FAIL | At 45x PE, the price is 47% ABOVE intrinsic value under base assumptions |
 
 **Verdict: 5 of 6 criteria pass. The ONLY failure is price.**
 
@@ -603,7 +605,7 @@ This is the classic Buffett dilemma: HUL is a **wonderful business at a not-so-w
 | **Earnings Quality** | **9/10** | Owner earnings ≈ net income; FCF conversion >100%; no accounting tricks |
 | **Scalability** | **5/10** | Mature business; linear scaling; limited reinvestment at high ROIC |
 | **Valuation** | **3/10** | 45x PE, 10x P/B for 3-5% growth; expensive by any rational standard |
-| **Margin of Safety** | **2/10** | Negative margin of safety under base DCF; overvalued by ~20-30% |
+| **Margin of Safety** | **2/10** | Negative margin of safety under base DCF; overvalued by ~47% |
 | **Overall Score** | **53/80 (66%)** | Outstanding business, poor investment at current price |
 
 | | |
@@ -626,9 +628,9 @@ This is the classic Buffett dilemma: HUL is a **wonderful business at a not-so-w
 - Growth: ~5% (being generous)
 - In 10 years: ₹46 × 1.05^10 = ~₹75 EPS
 - If market pays 30x PE then: ₹75 × 30 = ₹2,250
-- Plus ~₹430 in cumulative dividends over 10 years
-- Total value: ~₹2,680 on ₹2,083 investment
-- Return: ~₹600 profit on ₹2,083 over 10 years = **~2.6% CAGR**
+- Plus ~₹540 in cumulative dividends over 10 years
+- Total value: ~₹2,790 on ₹2,083 investment
+- Return: ~₹710 profit on ₹2,083 over 10 years = **~3.0% CAGR**
 
 That's barely above a savings account.
 
