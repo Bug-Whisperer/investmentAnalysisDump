@@ -413,7 +413,7 @@ On forward estimates (analyst consensus FY2027 EPS of ~₹186-222), the forward 
 | **Base** | 5,098 | 7,369 | 12,467 | 2,136 | 10,331 | **2,557** | **-26% (Overvalued)** |
 | **Optimistic** | 6,235 | 9,975 | 16,211 | 2,136 | 14,075 | **3,484** | **+0.4% (Fair Value)** |
 
-**Interpretation:** Even in the optimistic scenario (20% earnings growth for 5 years, then 12% for 5 more — which would require CAMSO to be a massive success AND commodity prices to remain benign), the intrinsic value is approximately equal to the current market price. In the base and conservative cases, the stock is 29-53% overvalued.
+**Interpretation:** Even in the optimistic scenario (20% earnings growth for 5 years, then 12% for 5 more — which would require CAMSO to be a massive success AND commodity prices to remain benign), the intrinsic value is approximately equal to the current market price. In the base and conservative cases, the stock is **26–54% overvalued** (consistent with the **-26%** and **-54%** margin of safety in the table).
 
 This means there is essentially ZERO margin of safety at the current price. You need heroic assumptions just to justify the current price, let alone get a discount.
 
