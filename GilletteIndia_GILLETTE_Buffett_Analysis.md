@@ -41,24 +41,26 @@ The grooming category (~₹3,300 Cr in India) is dominated by Gillette with an e
 
 | Metric | FY2018 (Jun) | FY2019 (Jun) | FY2020 (Jun) | FY2021 (Jun) | FY2022 (Jun) | FY2023 (Jun) | FY2024 (Jun) | FY25 (9M Mar) | TTM (Mar 26) |
 |---|---|---|---|---|---|---|---|---|---|
-| **Revenue** | 1,677 | 1,862 | **1,679** | 1,982 | 2,256 | 2,477 | 2,633 | 2,235 | **2,971** |
-| Revenue Growth YoY | -3.2% | 11.0% | **-9.8%** | 18.0% | 13.8% | 9.8% | 6.3% | — | ~8% |
-| Operating Profit | 387 | 384 | 360 | 460 | 483 | 540 | 638 | 600 | **826** |
-| Operating Margin (OPM) | **23%** | 21% | 21% | 23% | 21% | 22% | 24% | **27%** | **28%** |
-| Other Income | 8 | 11 | 11 | 32 | 7 | 22 | 20 | 27 | 36 |
-| Depreciation | 42 | 48 | 51 | 58 | 68 | 81 | 83 | 64 | 85 |
-| Interest | 7 | 8 | 5 | 5 | 11 | 8 | 13 | 9 | 13 |
-| PBT | 345 | 339 | 314 | 429 | 411 | 473 | 562 | 554 | 765 |
+| **Revenue** | 1,677 | 1,862 | **1,679** | 1,982 | 2,256 | 2,477 | 2,633 | 2,235 | **3,075** |
+| Revenue Growth YoY | -3.2% | 11.0% | **-9.8%** | 18.0% | 13.8% | 9.8% | 6.3% | — | ~13% |
+| Operating Profit | 387 | 384 | 360 | 460 | 483 | 540 | 638 | 600 | **~892** |
+| Operating Margin (OPM) | **23%** | 21% | 21% | 23% | 21% | 22% | 24% | **27%** | **~29%** |
+| Other Income | 8 | 11 | 11 | 32 | 7 | 22 | 20 | 27 | ~36 |
+| Depreciation | 42 | 48 | 51 | 58 | 68 | 81 | 83 | 64 | ~85 |
+| Interest | 7 | 8 | 5 | 5 | 11 | 8 | 13 | 9 | ~13 |
+| PBT | 345 | 339 | 314 | 429 | 411 | 473 | 562 | 554 | ~830 |
 | Tax Rate | 34% | 25% | 27% | 28% | 30% | 25% | 27% | 25% | ~25% |
-| **Net Profit** | 229 | 253 | **230** | 310 | 289 | 356 | 412 | 418 | **574** |
-| Net Profit Growth | — | 10.5% | **-9.1%** | 34.8% | -6.8% | 23.2% | 15.7% | — | ~27% |
-| Net Profit Margin | 13.7% | 13.6% | **13.7%** | 15.6% | 12.8% | 14.4% | 15.6% | 18.7% | **19.3%** |
+| **Net Profit** | 229 | 253 | **230** | 310 | 289 | 356 | 412 | 418 | **621** |
+| Net Profit Growth | — | 10.5% | **-9.1%** | 34.8% | -6.8% | 23.2% | 15.7% | — | ~31% |
+| Net Profit Margin | 13.7% | 13.6% | **13.7%** | 15.6% | 12.8% | 14.4% | 15.6% | 18.7% | **20.2%** |
 | **EPS (Diluted) ₹** | 70.29 | 77.62 | **70.64** | 95.25 | 88.79 | 109.15 | 126.35 | 128.17 | **~190** |
-| EPS Growth | — | 10.4% | **-9.0%** | 34.8% | -6.8% | 22.9% | 15.8% | — | ~27% |
+| EPS Growth | — | 10.4% | **-9.0%** | 34.8% | -6.8% | 22.9% | 15.8% | — | ~31% |
 | Shares Outstanding (Cr) | 3.26 | 3.26 | 3.26 | 3.26 | 3.26 | 3.26 | 3.26 | 3.26 | 3.26 |
 | Shares Change YoY | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
-| EBITDA (approx.) | 429 | 432 | 411 | 518 | 551 | 621 | 721 | 664 | ~911 |
-| EBITDA Margin | 25.6% | 23.2% | 24.5% | 26.1% | 24.4% | 25.1% | **27.4%** | **29.7%** | **~30.7%** |
+| EBITDA (approx.) | 429 | 432 | 411 | 518 | 551 | 621 | 721 | 664 | ~977 |
+| EBITDA Margin | 25.6% | 23.2% | 24.5% | 26.1% | 24.4% | 25.1% | **27.4%** | **29.7%** | **~31.8%** |
+
+*Note: TTM figures are for the trailing twelve months ending December 2025 (Q4 FY25 + Q1-Q3 FY26), calculated by summing quarterly data: Mar 2025, Jun 2025, Sep 2025, and Dec 2025. TTM Operating Profit and EBITDA for the Dec 2025 quarter are estimated from reported PBT of ₹232 Cr, with depreciation, interest, and other income estimated from recent quarter trends.*
 
 ### Trend Narrative
 
@@ -158,12 +160,12 @@ Given that Gillette India's manufacturing is relatively mature (two plants in Ra
 
 | Component | FY2024 | TTM (Est.) |
 |---|---|---|
-| Net Income | 412 | ~574 |
+| Net Income | 412 | ~621 |
 | Add: D&A | 83 | ~85 |
 | Less: Maintenance CapEx (est.) | -45 | -45 |
 | Less: SBC (minimal) | ~0 | ~0 |
-| **= Owner Earnings** | **~450** | **~614** |
-| Owner Earnings Per Share ₹ | ~138 | **~188** |
+| **= Owner Earnings** | **~450** | **~661** |
+| Owner Earnings Per Share ₹ | ~138 | **~203** |
 
 > *"The calculation of owner earnings is not exact, but the purpose is clear: to provide a framework for gauging the intrinsic value of a business."* — Warren Buffett
 
@@ -262,7 +264,7 @@ Gillette India scores well here — men will shave tomorrow just as they shaved 
 | FY2021 → FY2022 | +274 | +23 | 8.4% |
 | FY2022 → FY2023 | +221 | +57 | 25.8% |
 | FY2023 → FY2024 | +156 | +98 | **62.8%** |
-| FY2024 → TTM | +338 | +188 | **55.6%** |
+| FY2024 → TTM | +442 | +254 | **57.5%** |
 
 **Incremental margins of 56-63% in recent periods vs. current OPM of ~28% → the business is scaling beautifully.** Each new rupee of revenue is delivering 2x the profitability of the existing base. This is the hallmark of a business where fixed costs (brand investment, distribution, factory) are already absorbed and growth flows disproportionately to profit.
 
@@ -305,13 +307,13 @@ The grooming business is in a mature but slowly growing phase in India. The real
 
 ### Buffett's $1 Test
 
-Over the period FY2019 to FY2024 (6 years):
+Over the period FY2019 to FY2024 (6 fiscal years, i.e. earnings generated from July 2018 to June 2024):
 
 - **Total earnings retained:** Net Income over 6 years ≈ ₹1,850 Cr. Dividends paid ≈ ₹1,596 Cr. Retained ≈ ₹254 Cr.
-- **Change in market cap:** From ~₹16,000 Cr (FY2018, price ~₹4,900) to ~₹25,800 Cr (current ₹7,900) = ~₹9,800 Cr increase.
-- **Market value created per ₹1 retained:** ₹9,800 / ₹254 = **~₹39 per ₹1 retained!**
+- **Change in market cap (matched period):** From ~₹15,970 Cr (end-FY2018, June 2018, price ~₹4,900) to ~₹21,420 Cr (end-FY2024, June 2024, price ~₹6,570) = ~₹5,450 Cr increase.
+- **Market value created per ₹1 retained:** ₹5,450 / ₹254 = **~₹21 per ₹1 retained.**
 
-This is an absurdly high number, but it's somewhat misleading because the company retains almost nothing — it pays out nearly everything as dividends. The more relevant observation is that the stock has roughly doubled while the company has distributed most of its earnings back to shareholders.
+This is a strong result — well above Buffett's $1:$1 hurdle — but it is somewhat misleading because the company retains very little of its earnings, paying out nearly everything as dividends. The more relevant observation is that the stock appreciated ~34% (₹4,900 to ₹6,570) over this period while the company distributed most of its ₹1,850 Cr in earnings back to shareholders as dividends.
 
 ### Capital Allocation Assessment
 
@@ -370,7 +372,7 @@ In Gillette's case, the business economics are so good that management quality i
 | **PB Ratio** | ~8.3x | ~5.7x | ~7.7x | ~7.1x | ~6.4x | ~8.6x | **~22x** |
 | PS Ratio | ~3.5x | ~3.1x | ~3.0x | ~2.6x | ~2.5x | ~2.5x | ~8.7x |
 | P/FCF Ratio | ~94x | ~26x | ~16x | ~17x | ~16x | ~14x | ~45x |
-| P/Owner Earnings | — | — | — | — | — | ~57x | ~42x |
+| P/Owner Earnings | — | — | — | — | — | ~57x | ~39x |
 | EV/EBITDA | ~15x | ~12x | ~11x | ~11x | ~10x | ~9x | ~28x |
 | Earnings Yield | 1.2% | 1.4% | 1.6% | 1.5% | 1.8% | 1.9% | **2.4%** |
 | FCF Yield | 1.1% | 3.8% | 6.1% | 5.9% | 6.2% | 7.0% | ~2.2% |
@@ -398,30 +400,30 @@ At current levels, the stock is moderately valued relative to its own history �
 
 ### Traditional Buffett DCF Using Owner Earnings
 
-**Starting Owner Earnings (TTM): ~₹614 Cr (~₹188 per share)**
+**Starting Owner Earnings (TTM): ~₹661 Cr (~₹203 per share)**
 
 | Scenario | Conservative | Base | Optimistic |
 |---|---|---|---|
-| Owner Earnings (Starting) | ₹188/share | ₹188/share | ₹188/share |
+| Owner Earnings (Starting) | ₹203/share | ₹203/share | ₹203/share |
 | Growth Rate Yrs 1-5 | 10% | 13% | 16% |
 | Growth Rate Yrs 6-10 | 7% | 10% | 12% |
 | Terminal Growth Rate | 4% | 5% | 5% |
 | Discount Rate | 11% | 11% | 11% |
-| PV of 10-Yr Cash Flows | ₹1,676/share | ₹2,068/share | ₹2,531/share |
-| Terminal Value (PV) | ₹3,074/share | ₹5,174/share | ₹7,024/share |
-| **Intrinsic Value Per Share** | **₹4,750** | **₹7,242** | **₹9,555** |
-| CMP (₹7,900) | **-40% overvalued** | **-8% overvalued** | **+21% upside** |
-| **Margin of Safety** | **Negative** | **~-8%** | **+21%** |
+| PV of 10-Yr Cash Flows | ₹1,810/share | ₹2,233/share | ₹2,733/share |
+| Terminal Value (PV) | ₹3,319/share | ₹5,586/share | ₹7,582/share |
+| **Intrinsic Value Per Share** | **₹5,129** | **₹7,819** | **₹10,315** |
+| CMP (₹7,900) | **-35% overvalued** | **-1% overvalued** | **+31% upside** |
+| **Margin of Safety** | **Negative** | **~-1%** | **+31%** |
 
 ### Summary
 
 | Scenario | Intrinsic Value | Margin of Safety | Verdict |
 |---|---|---|---|
-| Conservative | ₹4,750 | **-40%** (overvalued) | Too expensive |
-| Base | ₹7,242 | **-8%** (slightly overvalued) | Fairly valued |
-| Optimistic | ₹9,555 | **+21%** (undervalued) | Moderate upside |
+| Conservative | ₹5,129 | **-35%** (overvalued) | Too expensive |
+| Base | ₹7,819 | **-1%** (essentially fair value) | Fairly valued |
+| Optimistic | ₹10,315 | **+31%** (undervalued) | Good upside |
 
-At ₹7,900, the stock is roughly **fairly valued under base-case assumptions**. There is no meaningful margin of safety for a conservative investor, but neither is it dramatically overvalued — unlike when it traded at ₹11,500 (where it was clearly in overvalued territory).
+At ₹7,900, the stock is roughly **at fair value under base-case assumptions**. There is no meaningful margin of safety for a conservative investor, but neither is it overvalued — unlike when it traded at ₹11,500 (where it was clearly in overvalued territory).
 
 > *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* — Warren Buffett
 
@@ -512,8 +514,8 @@ The most probable downside floor is the **₹6,000-6,500 range** (current earnin
 
 | Scenario | Basis | Implied Price | Upside |
 |---|---|---|---|
-| Base Case (DCF) | ₹7,242 | ₹7,242 | -8% |
-| Bull Case (DCF) | ₹9,555 | ₹9,555 | +21% |
+| Base Case (DCF) | ₹7,819 | ₹7,819 | -1% |
+| Bull Case (DCF) | ₹10,315 | ₹10,315 | +31% |
 | 5-Year EPS at 12% CAGR × 40x PE | ₹335 × 40 | ₹13,400 | +70% |
 | Re-rating to Historical Mean PE | ₹190 × 55x | ₹10,450 | +32% |
 
