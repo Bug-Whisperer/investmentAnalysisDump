@@ -366,7 +366,7 @@ Time IS DMart's friend — the store base compounds, India's organised retail pe
 
 For every ₹1 of retained earnings, has the company created at least ₹1 of market value?
 
-- **Total retained earnings from FY2017 to FY2025:** ₹320 + 479 + 806 + 902 + 1,301 + 1,099 + 1,492 + 2,378 + 2,536 + 2,707 = ~₹14,020 Cr (cumulative since FY2016)
+- **Total retained earnings from FY2016 to FY2025:** ₹320 + 479 + 806 + 902 + 1,301 + 1,099 + 1,492 + 2,378 + 2,536 + 2,707 = ~₹14,020 Cr (cumulative since FY2016)
 - **Change in market capitalisation (IPO price ₹299 in Mar 2017 → ₹3,844 in Mar 2026):** Market cap went from ~₹18,700 Cr (IPO) to ~₹2,50,000 Cr = **₹2,31,300 Cr increase**
 - **$1 Test:** ₹2,31,300 Cr / ₹14,020 Cr = **₹16.50 of market value created per ₹1 of retained earnings**
 
@@ -434,7 +434,7 @@ The **store addition pace** has accelerated dramatically — 50 stores in FY2025
 | P/Sales Ratio | ~8.5 | ~7.0 | ~9.0 | ~8.5 | ~6.0 | ~7.7 | ~6.5 | ~3.8 |
 | **EV/EBITDA** | ~90 | ~65 | ~100 | ~90 | ~58 | ~80 | ~70 | ~50 |
 | P/FCF | Negative | Negative | ~800+ | Negative | ~470 | ~1,000+ | Negative | Negative |
-| P/Owner Earnings | ~92 | ~67 | ~105 | ~95 | ~58 | ~85 | ~78 | ~87 |
+| P/Owner Earnings | ~92 | ~67 | ~105 | ~95 | ~58 | ~85 | ~78 | ~102 |
 | Earnings Yield | 0.9% | 1.2% | 0.8% | 0.9% | 1.4% | 1.0% | 1.1% | **1.1%** |
 | PEG Ratio (on 5Y growth) | — | — | — | — | — | — | ~5.5 | ~17+ |
 
@@ -525,33 +525,33 @@ But even Buffett would not call ₹3,844 a "fair price" for a business with ₹3
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 38.2% CAGR | 43.5% CAGR | 49.0% CAGR |
-| 10 Years | 24.7% CAGR | 27.9% CAGR | 31.2% CAGR |
-| 15 Years | 20.9% CAGR | 23.3% CAGR | 25.8% CAGR |
+| 5 Years | 41.3% CAGR needed | 47.7% CAGR | 54.1% CAGR |
+| 10 Years | 24.7% CAGR needed | 30.3% CAGR | 36.0% CAGR |
+| 15 Years | 19.6% CAGR needed | 25.0% CAGR | 30.4% CAGR |
 
 #### At Terminal PE = 35x
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 31.2% CAGR | 36.2% CAGR | 41.4% CAGR |
-| 10 Years | 21.0% CAGR | 24.1% CAGR | 27.3% CAGR |
-| 15 Years | 18.0% CAGR | 20.3% CAGR | 22.8% CAGR |
+| 5 Years | 32.1% CAGR needed | 38.1% CAGR | 44.1% CAGR |
+| 10 Years | 20.5% CAGR needed | 26.0% CAGR | 31.5% CAGR |
+| 15 Years | 16.9% CAGR needed | 22.2% CAGR | 27.5% CAGR |
 
 #### At Terminal PE = 50x
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 23.6% CAGR | 28.5% CAGR | 33.5% CAGR |
-| 10 Years | 17.0% CAGR | 20.0% CAGR | 23.2% CAGR |
-| 15 Years | 14.9% CAGR | 17.2% CAGR | 19.6% CAGR |
+| 5 Years | 23.0% CAGR needed | 28.6% CAGR | 34.2% CAGR |
+| 10 Years | 16.3% CAGR needed | 21.6% CAGR | 26.9% CAGR |
+| 15 Years | 14.2% CAGR needed | 19.4% CAGR | 24.5% CAGR |
 
 #### At Terminal PE = 85x (Historical Average)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 10.0% CAGR | 15.0% CAGR | 20.0% CAGR |
-| 10 Years | 10.0% CAGR | 15.0% CAGR | 20.0% CAGR |
-| 15 Years | 10.0% CAGR | 15.0% CAGR | 20.0% CAGR |
+| 5 Years | 10.6% CAGR needed | 15.6% CAGR | 20.7% CAGR |
+| 10 Years | 10.3% CAGR needed | 15.3% CAGR | 20.3% CAGR |
+| 15 Years | 10.2% CAGR needed | 15.2% CAGR | 20.2% CAGR |
 
 ### Step 4: Reality Check
 
@@ -565,15 +565,15 @@ But even Buffett would not call ₹3,844 a "fair price" for a business with ₹3
 
 **Traffic Light Assessment:**
 
-- **If terminal PE reverts to 25-35x** (realistic for a maturing retailer): You need 21-38% EPS CAGR for a decade to earn even a 10% return. This is **1.2-2.1x the historical 5Y CAGR** and **far above current TTM growth of 5%.** 🔴 **RED — Crazy price.**
+- **If terminal PE reverts to 25-35x** (realistic for a maturing retailer): You need 20-41% EPS CAGR for a decade to earn even a 10% return. This is **1.1-2.3x the historical 5Y CAGR** and **far above current TTM growth of 5%.** 🔴 **RED — Crazy price.**
 
-- **If terminal PE stays at 50x** (still-premium quality compounder): You need 17% EPS CAGR for a decade to earn 10%. This is roughly equal to the 5Y historical CAGR. 🟡 **YELLOW — Fair but optimistic.** Requires the company to accelerate EPS growth significantly from current levels.
+- **If terminal PE stays at 50x** (still-premium quality compounder): You need 16.3% EPS CAGR for a decade to earn 10%. This is roughly equal to the 5Y historical CAGR. 🟡 **YELLOW — Fair but optimistic.** Requires the company to accelerate EPS growth significantly from current levels.
 
-- **If terminal PE stays at 85x** (current multiple sustained forever): Returns simply equal EPS growth. At 17-20% EPS growth, you get 17-20% returns. But this assumes the market NEVER re-rates DMart cheaper — a heroic assumption. 🟡 **YELLOW — Requires perpetual premium pricing.**
+- **If terminal PE stays at 85x** (current multiple sustained forever): Returns roughly equal EPS growth plus a tiny ~0.3% annual boost from the slight PE compression (entry at ~87x, exit at 85x). At 17-20% EPS growth, you get 17-20% returns. But this assumes the market NEVER re-rates DMart cheaper — a heroic assumption. 🟡 **YELLOW — Requires perpetual premium pricing.**
 
 ### Step 5: The Verdict
 
-> **At the current price of ₹3,844, to earn a 15% annualised return over 10 years assuming the market values the business at 35x PE at exit, the company needs to grow EPS at 24.1% CAGR. The company has historically grown EPS at 18% CAGR over 5 years and is currently growing at just 5% TTM. This implies the market is pricing in growth acceleration that has not yet materialised.** 🟠 **ORANGE — Expensive.**
+> **At the current price of ₹3,844, to earn a 15% annualised return over 10 years assuming the market values the business at 35x PE at exit, the company needs to grow EPS at 26.0% CAGR. The company has historically grown EPS at 18% CAGR over 5 years and is currently growing at just 5% TTM. This implies the market is pricing in growth acceleration that has not yet materialised.** 🟠 **ORANGE — Expensive.**
 
 > *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* — Warren Buffett
 
@@ -661,8 +661,8 @@ The declining trend in ROE is driven by **margin compression** (from 5.6% to 4.6
 | P/B stays at 10.9x | Premium sustained | 14.0% | 14.0% | 14.0% |
 | P/B compresses to 8.0x | Mild de-rating | 8.0% | 9.8% | 10.8% |
 | P/B compresses to 6.0x | Significant de-rating | 1.2% | 5.1% | 7.5% |
-| P/B compresses to 4.0x | Reverts to quality-bank-level | -8.3% | -1.8% | 2.9% |
-| P/B compresses to 3.0x | Market sours on growth | -14.5% | -6.0% | 0.0% |
+| P/B compresses to 4.0x | Reverts to quality-bank-level | -6.7% | -1.2% | 3.1% |
+| P/B compresses to 3.0x | Market sours on growth | -12.0% | -5.2% | 0.2% |
 | P/B compresses to 1.0x | Valued at book (extreme bear) | **-30.2%** | **-18.4%** | **-10.2%** |
 
 ### Key Insight
