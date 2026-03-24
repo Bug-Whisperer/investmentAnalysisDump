@@ -42,12 +42,18 @@ AU Small Finance Bank is India's **largest Small Finance Bank**, founded in 1996
 | Other Income (₹ Cr) | 706 | 1,421 | 994 | 1,034 | 1,697 | 2,526 | 3,008 |
 | Other Inc. as % of Total Inc. | 14% | **22%** | 14% | 11% | 14% | 14% | 15% |
 | Total Income (₹ Cr) | 4,992 | 6,371 | 6,916 | 9,239 | 12,252 | 18,590 | 20,896 |
-| Operating Expenses (₹ Cr) | 1,612 | 2,224 | 2,634 | 3,410 | 4,629 | 7,491 | 8,583 |
-| **Cost-to-Income Ratio** | ~46% | ~49% | ~45% | ~44% | ~48% | ~48% | ~47% |
-| Pre-Provision Op. Profit (PPOP) | 1,080 | 1,561 | 1,894 | 2,415 | 2,225 | 3,547 | 4,090 |
-| PPOP Growth YoY | — | 45% | 21% | 28% | **-8%** | **59%** | — |
-| Provisions & Contingencies | ~166 | ~103 | ~440 | ~550 | ~226 | ~759 | ~1,041 |
-| Provision as % of PPOP | **15%** | **7%** | 23% | 23% | 10% | 21% | 25% |
+| Total Expenses (incl. Prov.) (₹ Cr) | 1,612 | 2,224 | 2,634 | 3,410 | 4,629 | 7,491 | 8,583 |
+| **Cost-to-Income Ratio*** | ~58% | ~59% | ~57% | ~56% | ~61% | **~57%** | ~55% |
+| Pre-Provision Op. Profit (PPOP)** | ~1,170 | ~1,770 | ~2,060 | ~2,900 | ~3,340 | **~4,581** | ~5,100 |
+| PPOP Growth YoY | — | ~51% | ~16% | ~41% | ~15% | **~37%** | — |
+| Provisions & Contingencies*** | ~256 | ~312 | ~606 | ~1,035 | ~1,341 | **~1,793** | ~2,050 |
+| Provision as % of PPOP | **22%** | **18%** | 29% | 36% | 40% | **39%** | ~40% |
+
+*\*C/I = Operating Expenses (excl. provisions) / (NII + Other Income). Screener's 'Expenses' line includes provisions; pure OpEx was derived using quarterly PPOP data. Quarterly C/I for FY25: Q1=60.8%, Q2=56.7%, Q3=54.4%, Q4≈52%.*
+
+*\*\*PPOP = NII + Other Income - Operating Expenses (excl. provisions) - Depreciation. FY25 PPOP confirmed from quarterly data: Q1=952 + Q2=1,132 + Q3=1,205 + Q4=1,292 = ₹4,581 Cr.*
+
+*\*\*\*Provisions = PPOP - PBT. FY25: 4,581 - 2,788 = ₹1,793 Cr. Confirmed by search data: net credit cost for FY25 = 1.3% of total assets.*
 | Profit Before Tax (₹ Cr) | 914 | 1,458 | 1,454 | 1,865 | 1,999 | 2,788 | 3,049 |
 | **Net Income (₹ Cr)** | 675 | **1,171** | 1,130 | 1,428 | 1,535 | **2,106** | 2,313 |
 | Net Income Growth YoY | — | **73%** | **-4%** | 26% | 7% | **37%** | — |
@@ -64,11 +70,11 @@ AU Small Finance Bank is India's **largest Small Finance Bank**, founded in 1996
 
 **NIM** compressed from ~5.6-5.8% (FY20-FY23) to ~5.1% in FY24 as the Fincare merger brought in higher-cost liabilities and the rate cycle tightened. It recovered to ~5.5% in FY25 as the merged portfolio settled. NIM of 5.5%+ remains significantly above universal bank peers — this is the yield advantage of lending to underserved segments.
 
-**Cost-to-Income** has been volatile (44-49%) — the Fincare merger in FY24 caused a spike as overlapping infrastructure was absorbed. It's now trending toward 54% on a quarterly basis (Q3 FY26), which is acceptable for a growing bank but needs monitoring.
+**Cost-to-Income** has been in the 56-61% range — the Fincare merger in FY24-25 caused a spike as overlapping infrastructure was absorbed. Quarterly C/I data shows improvement: Q1 FY25 = 60.8% → Q3 FY26 = 54%, suggesting operating leverage is gradually kicking in, but the ratio needs to drop below 50% for ROE to meaningfully recover.
 
-**Provision Intensity** is the red flag: provisions surged from 10% of PPOP in FY24 to 21% in FY25 and ~25% TTM. This is driven by the microfinance portfolio (inherited from Fincare) experiencing industry-wide stress. Earnings growth in FY24 (7%) was flattered by LOW provisions — the chickens are now coming home to roost in FY25-FY26.
+**Provision Intensity** has risen materially: provisions jumped from ~₹1,035 Cr in FY23 to ~₹1,793 Cr in FY25 (39% of PPOP). This is driven by the microfinance portfolio (inherited from Fincare) experiencing industry-wide stress, plus the bank proactively building buffers. FY25 credit cost of 1.3% of total assets is ABOVE the 5-year normalised level (~1.0%), suggesting the bank is provisioning conservatively — a sign of management prudence, not earnings manipulation.
 
-**The Critical Question:** Is the FY25-26 provisioning spike a one-time cleanup of the Fincare MFI book, or the beginning of a broader asset quality deterioration? The answer determines whether the 14% ROE is sustainable.
+**The Critical Question:** The bank is currently provisioning ABOVE normalised levels (conservative). Can ROE recover to 15-17% as MFI stress subsides and operating efficiency improves post-merger?
 
 > *Buffett: "Earnings can be as pliable as putty when a charlatan heads the company reporting them."* For banks, watch provisions — they are the single biggest lever management can pull to inflate or deflate reported earnings.
 
@@ -183,18 +189,18 @@ For banks, the equivalent of "maintenance CapEx" is **credit cost (provisions)**
 
 | Year | Actual Provisions (₹ Cr) | Normalised Provisions (₹ Cr) | Actual vs. Normal |
 |---|---|---|---|
-| FY20 | ~166 | ~310 | **Below Normal** — flattering earnings |
-| FY21 | ~103 | ~400 | **Well Below Normal** — earnings inflated by low provisions |
-| FY22 | ~440 | ~530 | Roughly Normal |
-| FY23 | ~550 | ~690 | Below Normal |
-| FY24 | **~226** | ~810 | **Extremely Below Normal** — earnings heavily flattered |
-| FY25 | **~759** | ~1,190 | Below Normal — provisions rising but still not at normalised levels |
+| FY20 | ~256 | ~310 | **Below Normal** — slightly flattering earnings |
+| FY21 | ~312 | ~400 | **Below Normal** — earnings mildly inflated |
+| FY22 | ~606 | ~530 | **Above Normal** — conservative provisioning |
+| FY23 | ~1,035 | ~690 | **Well Above Normal** — building buffers |
+| FY24 | **~1,341** | ~810 | **Well Above Normal** — heavy provisioning year |
+| FY25 | **~1,793** | ~1,190 | **Well Above Normal** — bank is OVER-provisioning (conservative) |
 
-**Critical Finding:** FY24's reported profit of ₹1,535 Cr was significantly inflated by abnormally low provisions (₹226 Cr vs. normalised ₹810 Cr). This is why FY24 earnings growth looked weak (7%) despite NII growth — even the low provisions couldn't fully offset the NIM compression. FY25's provisions are rising toward normal levels but are still below what a normalised credit environment would require.
+**Critical Finding:** Contrary to initial assumptions, AU Bank has been provisioning ABOVE normalised levels in FY22-FY25. FY25's actual credit cost of ~₹1,793 Cr significantly exceeds the normalised ~₹1,190 Cr. This means reported earnings are CONSERVATIVELY stated — the true sustainable earnings power is HIGHER than reported.
 
-**Implication:** The "true" sustainable earnings power of AU Bank is LOWER than reported earnings suggest. When using EPS for valuation, use the normalised figure (~₹14-15) rather than reported (~₹28-31).
+**Implication:** The reported EPS of ~₹28 is depressed by above-normal provisioning. If provisions normalise, true earnings power is closer to ₹32-35 per share. This makes the reported PE of 31x more reasonable when viewed on normalised (provision-adjusted) earnings.
 
-> *Buffett on owner earnings: "The figures in financial statements are the beginning, not the end, of business valuation."* For banks, normalising for credit costs is the most important adjustment — a bank can look like it's earning ₹2,100 Cr when its sustainable earning power might be ₹1,100 Cr.
+> *Buffett on owner earnings: "The figures in financial statements are the beginning, not the end, of business valuation."* For banks, normalising for credit costs is the most important adjustment — and in AU's case, the normalisation reveals a CONSERVATIVE management that is building buffers, not one inflating earnings.
 
 ---
 
@@ -207,7 +213,7 @@ For banks, the equivalent of "maintenance CapEx" is **credit cost (provisions)**
 | **ROE** | **18%** | **22%** | 16% | 15% | 13% | 14% | 13.3% | 12.4% | ~14.5% |
 | **ROA** | **~1.7%** | **~2.3%** | ~1.6% | ~1.6% | ~1.5% | ~1.5% | 1.5% | 1.4% | ~1.6% |
 | NIM | ~5.8% | ~5.7% | ~5.6% | ~5.6% | ~5.1% | ~5.5% | 5.4% | 5.5% | 5.7% |
-| Cost-to-Income | ~46% | ~49% | ~45% | ~44% | ~48% | ~48% | 54% | 57% | 54% |
+| Cost-to-Income | ~57% | ~56% | ~61% | ~57% | 54% | 57% | 54% |
 | Credit Cost (% of Advances) | ~0.5% | ~0.3% | ~0.8% | ~0.8% | **~0.3%** | ~0.6% | — | — | — |
 | Leverage (Assets/Equity) | 9.6x | 8.2x | 9.2x | 8.2x | 8.7x | 9.2x | 9.1x | — | — |
 
@@ -217,8 +223,8 @@ For banks, the equivalent of "maintenance CapEx" is **credit cost (provisions)**
 |---|---|---|---|---|---|
 | NIM (Spread Efficiency) | ~5.6% | ~5.6% | ~5.1% | ~5.5% | Strong yield on assets; competitive advantage |
 | Fee Income Ratio | ~14% | ~11% | ~14% | ~14% | Moderate diversification |
-| Operating Efficiency (1 - C/I) | ~55% | ~56% | ~52% | ~52% | Needs improvement; C/I rising |
-| Provision Intensity (1 - Prov/PPOP) | ~77% | ~77% | **~90%** | ~79% | FY24 was unsustainably low; normalising |
+| Operating Efficiency (1 - C/I) | ~43% | ~44% | ~39% | ~43% | Needs improvement; C/I is high for a maturing bank |
+| Provision Intensity (1 - Prov/PPOP) | ~71% | ~64% | **~60%** | ~61% | Provisions running above normal; conservative |
 | Tax Efficiency | ~78% | ~77% | ~77% | ~76% | Stable |
 | Leverage (Assets/Equity) | 9.2x | 8.2x | 8.7x | 9.2x | Moderate for a bank |
 | **ROA** | ~1.6% | ~1.6% | ~1.5% | ~1.5% | Decent but not elite |
@@ -405,7 +411,7 @@ However, this includes significant re-rating (P/B expanded from ~4x to ~4x while
 | NNPA % | ~0.5% | ~0.4% | ~0.6% | ~0.7% | ~0.9% |
 | PCR (incl. write-offs) | — | ~75% | ~68% | ~68% | ~80% |
 | **Efficiency** | | | | | |
-| Cost-to-Income | ~45% | ~44% | ~48% | ~48% | ~54% |
+| Cost-to-Income | ~57% | ~56% | ~61% | ~57% | ~54% |
 | **Capital & Solvency** | | | | | |
 | CRAR | ~21% | ~23.6% | ~20.1% | ~20.1% | ~19.4% |
 | Tier-1 | — | — | ~18.8% | ~18.1% | ~17.5% |
@@ -491,17 +497,17 @@ Fair P/B = (14% - 7%) / (11% - 7%) = 7% / 4% = 1.75x
 
 | Scenario | Sustainable ROE | Retention | BV Compounding | Exit P/B | Year 5 Price | Year 10 Price |
 |---|---|---|---|---|---|---|
-| **Conservative** | 13% | 95% | 12.4% | 2.0x | ₹875 | ₹1,580 |
-| **Base** | 15% | 95% | 14.3% | 2.5x | ₹1,185 | ₹2,360 |
-| **Optimistic** | 17% | 95% | 16.2% | 3.0x | ₹1,535 | ₹3,430 |
+| **Conservative** | 13% | 95% | 12.4% | 2.0x | ₹870 | ₹1,557 |
+| **Base** | 15% | 95% | 14.3% | 2.5x | ₹1,183 | ₹2,302 |
+| **Optimistic** | 17% | 95% | 16.2% | 3.0x | ₹1,541 | ₹3,258 |
 
 | Scenario | 5-Year CAGR from ₹950 | 10-Year CAGR from ₹950 |
 |---|---|---|
-| **Conservative** | **-1.6%** | **5.2%** |
-| **Base** | 4.5% | **9.5%** |
-| **Optimistic** | 10.1% | **13.7%** |
+| **Conservative** | **-1.7%** | **5.1%** |
+| **Base** | 4.5% | **9.3%** |
+| **Optimistic** | 10.2% | **13.1%** |
 
-**Key Takeaway:** Even in the BASE case (15% ROE, 2.5x exit P/B), the 10-year CAGR is only 9.5% — barely meeting a 10% hurdle rate. In the CONSERVATIVE case, you actually LOSE money over 5 years. Only in the OPTIMISTIC case (17% ROE sustained) do returns become attractive.
+**Key Takeaway:** Even in the BASE case (15% ROE, 2.5x exit P/B), the 10-year CAGR is only 9.3% — below a 10% hurdle rate. In the CONSERVATIVE case, you actually LOSE money over 5 years. Only in the OPTIMISTIC case (17% ROE sustained) do returns become attractive at 13.1%.
 
 ### Method 2: Excess Return Model (Residual Income)
 
@@ -510,31 +516,35 @@ Intrinsic Value = Book Value + PV of Future Excess Returns
 Where: Excess Return = (ROE - CoE) × Book Value
 ```
 
+*Note: This uses a two-stage model — 10 years of excess returns growing at the book value compounding rate, followed by a terminal value at a terminal growth rate of ~5%. Results are sensitive to terminal growth assumptions.*
+
 | Scenario | Book Value (₹) | ROE | CoE | Excess Spread | Intrinsic Value Per Share |
 |---|---|---|---|---|---|
-| **Conservative** (ROE 13%) | 243 | 13% | 11% | 2% | **₹420** |
-| **Base** (ROE 15%) | 243 | 15% | 11% | 4% | **₹610** |
-| **Optimistic** (ROE 17%) | 243 | 17% | 11% | 6% | **₹830** |
+| **Conservative** (ROE 13%) | 243 | 13% | 11% | 2% | **₹324-420** |
+| **Base** (ROE 15%) | 243 | 15% | 11% | 4% | **₹405-610** |
+| **Optimistic** (ROE 17%) | 243 | 17% | 11% | 6% | **₹486-830** |
 
-| Scenario | Intrinsic Value | Margin of Safety at ₹950 |
+*Range reflects terminal growth assumptions of 5% (lower bound) to 8% (upper bound). The lower bound is more conservative and realistic.*
+
+| Scenario | Intrinsic Value (Midpoint) | Margin of Safety at ₹950 |
 |---|---|---|
-| **Conservative** | ₹420 | **-56% (OVERVALUED)** |
-| **Base** | ₹610 | **-36% (OVERVALUED)** |
-| **Optimistic** | ₹830 | **-13% (OVERVALUED)** |
+| **Conservative** | ~₹370 | **-61% (OVERVALUED)** |
+| **Base** | ~₹510 | **-46% (OVERVALUED)** |
+| **Optimistic** | ~₹660 | **-30% (OVERVALUED)** |
 
-**Stark Reality:** Under ALL THREE scenarios using the Excess Return Model, AU Small Finance Bank is OVERVALUED at ₹950. Even in the optimistic case (17% sustainable ROE), the stock is 13% above intrinsic value.
+**Stark Reality:** Under ALL THREE scenarios using the Excess Return Model, AU Small Finance Bank is OVERVALUED at ₹950. Even in the optimistic case (17% sustainable ROE), the stock is significantly above intrinsic value.
 
 ### Method 3: Not Applicable (AU is a standalone bank, not a conglomerate)
 
 ### Valuation Summary
 
-| Scenario | BV Compounding (10Y CAGR) | Excess Return Model (Intrinsic Value) | Margin of Safety |
+| Scenario | BV Compounding (10Y CAGR) | Excess Return Model (IV Midpoint) | Margin of Safety |
 |---|---|---|---|
-| Conservative | 5.2% | ₹420 | -56% |
-| Base | 9.5% | ₹610 | -36% |
-| Optimistic | 13.7% | ₹830 | -13% |
+| Conservative | 5.1% | ~₹370 | -61% |
+| Base | 9.3% | ~₹510 | -46% |
+| Optimistic | 13.1% | ~₹660 | -30% |
 
-**The valuation is STRETCHED at ₹950.** The current price embeds expectations of a successful universal bank transition, ROE recovery to 17%+, and multiple sustaining at 3.5x+. All three need to go right.
+**The valuation is STRETCHED at ₹950.** The current price embeds expectations of a successful universal bank transition, ROE recovery to 17%+, and multiple sustaining at 3.5x+. All three need to go right. However, note that reported earnings are CONSERVATIVELY stated (provisions above normal), which provides some comfort that the business is not deteriorating — it's the PRICE that is the issue, not the fundamentals.
 
 ---
 
@@ -546,40 +556,42 @@ Where: Excess Return = (ROE - CoE) × Book Value
 |---|---|---|
 | CMP | ₹950 | Market |
 | TTM EPS (Reported) | ₹31 | Screener |
-| TTM EPS (Normalised) | ₹15 | Section 5 analysis |
+| TTM EPS (Normalised — provision-adjusted) | ~₹33 | Section 5: actual provisions exceed normalised → reported EPS is depressed |
 | Current PE (Reported) | 31x | Market |
-| Current PE (Normalised) | 63x | Calculated |
+| Current PE (Normalised) | ~29x | Calculated (950/33) |
 | Shares Outstanding | ~74.8 Cr | Latest |
 
-### Step 3: Implied EPS CAGR — Using NORMALISED EPS of ₹15
+**Note:** Because AU is OVER-provisioning (actual provisions above normalised), the normalised EPS is slightly HIGHER than reported EPS. We use reported EPS of ₹31 as the more conservative base for reverse DCF, which is close to normalised.
+
+### Step 3: Implied EPS CAGR — Using Reported EPS of ₹31
 
 #### At Terminal PE = 15x (Mature Bank)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 29% CAGR needed | 35% | 41% |
-| 10 Years | 22% CAGR needed | 26% | 30% |
+| 5 Years | 16% CAGR needed | 22% | 28% |
+| 10 Years | 12% CAGR needed | 16% | 20% |
 
 #### At Terminal PE = 20x (Market Average)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 22% CAGR needed | 28% | 34% |
-| 10 Years | 19% CAGR needed | 23% | 26% |
+| 5 Years | 10% CAGR needed | 16% | 22% |
+| 10 Years | 8% CAGR needed | 13% | 17% |
 
 #### At Terminal PE = 28x (Compounder Premium)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 16% CAGR needed | 22% | 28% |
-| 10 Years | 15% CAGR needed | 19% | 23% |
+| 5 Years | 4% CAGR needed | 10% | 15% |
+| 10 Years | 5% CAGR needed | 9% | 13% |
 
-#### Using REPORTED EPS of ₹31 and Terminal PE = 20x
+#### At Terminal PE = 31x (Historical Average — current PE)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 12% CAGR needed | 18% | 24% |
-| 10 Years | 7% CAGR needed | 11% | 14% |
+| 5 Years | 10% CAGR needed | 15% | 20% |
+| 10 Years | 10% CAGR needed | 15% | 20% |
 
 ### Step 4: Reality Check
 
@@ -587,26 +599,26 @@ Where: Excess Return = (ROE - CoE) × Book Value
 |---|---|
 | India nominal GDP growth | 10-12% |
 | AU's 5-year historical EPS CAGR (reported) | ~20% |
-| AU's 5-year historical EPS CAGR (normalised) | ~5-8% |
 | Industry average | 12-15% |
 
 ### Traffic Light Assessment
 
-Using normalised EPS (the honest approach):
+Using reported EPS of ₹31 (conservative base given over-provisioning):
 
 | Scenario | Verdict |
 |---|---|
-| 10% return at 20x exit PE → 19% CAGR needed for 10 years | 🟠 **ORANGE — requires EPS growth well above historical normalised performance** |
-| 15% return at 20x exit PE → 23% CAGR needed for 10 years | 🔴 **RED — requires heroic growth for a decade** |
-| Using reported EPS at 20x exit PE → 7% CAGR for 10% return | 🟢 **GREEN — but this uses inflated EPS** |
+| 10% return at 20x exit PE → 8% CAGR needed for 10 years | 🟢 **GREEN — well below historical growth rate** |
+| 10% return at 15x exit PE → 12% CAGR needed for 10 years | 🟡 **YELLOW — achievable but requires sustained execution** |
+| 15% return at 20x exit PE → 13% CAGR needed for 10 years | 🟡 **YELLOW — in line with historical but demanding for a decade** |
+| 20% return at any exit PE → 17-28% CAGR needed | 🔴 **RED — requires heroic growth for a ₹71,000 Cr bank** |
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹950, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow NORMALISED EPS at 19% CAGR. The company has historically grown normalised EPS at only ~5-8% CAGR. This implies **the market is pricing in heroic growth assumptions that far exceed historical delivery**."
+> "At the current price of ₹950, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at ~8% CAGR. The company has historically grown reported EPS at ~20% CAGR. On an EPS CAGR basis, the growth requirement appears reasonable — a 🟢 GREEN signal."
 
-> Using reported EPS (which includes unsustainably low provisions), the math looks reasonable (7-12% CAGR needed). But this is exactly the trap — reported EPS flatters the business through provision under-runs.
+> "However, the P/B-based analysis tells a different story: at 3.9x P/B with a 14% ROE, any multiple compression toward the fair P/B of 2.0-2.5x would significantly erode returns. The REAL risk is not earnings growth — it is MULTIPLE COMPRESSION."
 
-**Buffett's Napkin Test: 🟡 YELLOW to 🟠 ORANGE.** The investment case requires the universal bank transition to significantly boost ROE and earnings — it's a bet on transformation, not on proven sustainable economics.
+**Buffett's Napkin Test: 🟡 YELLOW.** The earnings growth requirement is achievable, but the valuation multiple is stretched. The investment case rests on the P/B multiple sustaining at 3.0x+ — which requires ROE recovery to 16%+ via the universal bank transition. This is a bet on transformation sustaining the premium, not on impossible growth.
 
 ### Step 6: Asymmetric Upside Check
 
@@ -704,12 +716,14 @@ Asymmetry Ratio = 1.2:1 — MARGINAL
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 3.9x | Multiple sustains | 14-16% | 14-16% | 14-16% |
-| P/B compresses to 3.0x | Mild de-rating | 8-11% | 10-12% | 11-13% |
-| P/B compresses to 2.5x | Moderate de-rating | 3-7% | 7-9% | 9-11% |
-| P/B compresses to 2.0x (Fair P/B) | Reverts to fair value | **-2% to +3%** | **4-6%** | **7-9%** |
-| P/B compresses to 1.5x | Severe de-rating | -9% to -5% | 0-2% | 4-6% |
-| P/B compresses to 1.0x Book | Worst case | **-16% to -12%** | **-4% to -2%** | **1-3%** |
+| P/B stays at 3.9x | Multiple sustains | ~13.3% | ~13.4% | ~13.4% |
+| P/B compresses to 3.0x | Mild de-rating | ~7.6% | ~9.2% | ~10.4% |
+| P/B compresses to 2.5x | Moderate de-rating | ~3.7% | ~6.4% | ~8.4% |
+| P/B compresses to 2.0x (Fair P/B) | Reverts to fair value | **~-0.8%** | **~3.0%** | **~6.0%** |
+| P/B compresses to 1.5x | Severe de-rating | ~-6.4% | ~-1.1% | ~3.0% |
+| P/B compresses to 1.0x Book | Worst case | **~-13.7%** | **~-6.7%** | **~-1.1%** |
+
+*Calculations: BV compounds at 13.4% (ROE 14% × Retention 96%). Projected BVPS: Year 5 = ₹456, Year 7 = ₹586, Year 10 = ₹855. Future Price = Projected BVPS × Exit P/B. CAGR = (Future Price / 950)^(1/n) - 1.*
 
 ### Key Insight
 
@@ -719,7 +733,7 @@ Asymmetry Ratio = 1.2:1 — MARGINAL
 
 | Condition | Assessment |
 |---|---|
-| 10-year return > 10% even if P/B halves (to ~2.0x)? | **NO — returns would be 7-9%** |
+| 10-year return > 10% even if P/B halves (to ~2.0x)? | **NO — returns would be ~6.0%** |
 | 10-year return > 10% if P/B stays within 25% of current? | **YES — but requires multiple to sustain at 3.0x+** |
 | 10-year return requires P/B EXPANSION? | **NO — but requires P/B to sustain near current levels** |
 
@@ -832,7 +846,7 @@ However, for the MFI-specific stress:
 | **Asset Quality (NPA, PCR, Credit Cost)** | 6/10 | GNPA risen to 2.3-2.5%; MFI stress; PCR adequate |
 | **Capital Adequacy (CRAR, Tier-1)** | 9/10 | CRAR 19-20%; well above regulatory minimums |
 | **Management Quality & Risk Culture** | 9/10 | Sanjay Agarwal — exceptional founder-banker |
-| **Earnings Quality (Normalised vs Reported)** | 5/10 | Reported EPS ~₹31 vs normalised ~₹15; provisions below normal |
+| **Earnings Quality (Normalised vs Reported)** | 7/10 | Provisions ABOVE normalised — earnings conservatively stated; management building buffers |
 | **Scalability** | 7.5/10 | Universal bank transition opens massive runway |
 | **Valuation (P/B vs Fair P/B)** | 3/10 | **3.9x P/B vs Fair 2.0-2.5x — significantly overvalued** |
 | **Margin of Safety** | 2/10 | **Negative margin of safety under all scenarios** |
@@ -845,7 +859,7 @@ However, for the MFI-specific stress:
 
 AU Small Finance Bank is India's best Small Finance Bank — a franchise built over 30 years by a visionary founder, with proven underwriting skills in India's vast underserved retail credit market. The universal bank transition (first SFB ever to receive RBI approval) is a genuine inflection point that opens massive growth runway. The business quality is unquestionable.
 
-**The problem is purely PRICE.** At 3.9x book value with a 14% ROE, the stock is priced as if the universal bank transformation has already succeeded and ROE has already recovered to 17%+. This leaves no margin of safety and negative asymmetry. Even in the base case (15% ROE, 2.5x exit P/B), the 5-year return is only ~4.5% annually — barely beating fixed deposits.
+**The problem is purely PRICE.** At 3.9x book value with a 14% ROE, the stock is priced as if the universal bank transformation has already succeeded and ROE has already recovered to 17%+. This leaves limited margin of safety. The positive: management is provisioning conservatively (actual provisions above normalised levels), which means reported earnings understate true earning power — the franchise is not deteriorating. But even accounting for this, the P/B multiple is stretched. The base-case 10-year CAGR (BV compounding model) is only ~9.3%, below the 10% hurdle rate.
 
 Buffett would ADMIRE this business. He would put it on his watchlist. He would study the annual reports. And he would WAIT for a better price — perhaps a 30-40% correction during a credit cycle scare, an NPA spike, or a broader market de-rating. At ₹535-600 (2.2-2.5x P/B), this becomes a high-conviction buy. At ₹365 (1.5x P/B), it becomes a "back up the truck" opportunity. At ₹950, it is a pass.
 
@@ -862,11 +876,12 @@ Buffett would ADMIRE this business. He would put it on his watchlist. He would s
 **Does the math work on a napkin?**
 
 - Book value: ₹243
-- ROE: 14% → BV grows to ~₹490 in 5 years
-- Fair P/B: 2.5x → Fair price in 5 years: ₹1,225
-- Buy at ₹950 → 5-year return: ~5% CAGR
+- BV compounding: ~13.4% annually (ROE 14% × 96% retention)
+- BV in 5 years: ₹243 × 1.134^5 ≈ ₹456
+- Fair P/B: 2.5x → Fair price in 5 years: ₹1,140
+- Buy at ₹950 → 5-year return: ~3.7% CAGR
 
-**The napkin says: 5% annual return for a bank stock with execution risk. NOT a no-brainer. Pass.**
+**The napkin says: ~4% annual return for a bank stock with execution risk. NOT a no-brainer. Pass at current price — but watch for a correction to ₹600-700.**
 
 > *Buffett: "If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* At ₹950, this is a spreadsheet stock — you need complex assumptions about ROE recovery, multiple sustaining, and transformation success to make the numbers work. That's not how Buffett invests.
 
