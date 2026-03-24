@@ -47,7 +47,7 @@ Cupid's B2B business has a structural advantage — WHO/UNFPA certification is d
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 61 | 84 | 81 | 85 | **160** | 143 | 133 | 159 | 172 | 183 | **320** |
 | Revenue Growth YoY | 39% | 38% | -4% | 5% | **88%** | -11% | -7% | 20% | 8% | 6% | 54% |
-| Operating Profit | 25 | 34 | 27 | 21 | **52** | 36 | **23** | 41 | 51 | 42 | **118** |
+| Operating Profit | 25 | 34 | 27 | 21 | **52** | 36 | **23** | 41 | 51 | 42 | **119** |
 | OPM % | **41%** | **41%** | 33% | **25%** | 32% | 25% | **17%** | 26% | 30% | 23% | **37%** |
 | Other Income | 2 | 1 | 1 | 2 | 3 | 5 | 4 | 5 | 7 | 19 | 0 |
 | Interest | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 2 | 2 | 3 |
@@ -265,9 +265,9 @@ The condom industry is remarkably stable — but Cupid's POSITION within it is w
 | FY2023 | 159 | 20% | 41 | 78% | **69%** |
 | FY2024 | 172 | 8% | 51 | 24% | **77%** |
 | FY2025 | 183 | 6% | 42 | -18% | N/A (declining) |
-| TTM Dec'25 | 320 | 54% | 118 | ~51% | **36%** |
+| TTM Dec'25 | 320 | 54% | 119 | ~53% | **37%** |
 
-The incremental margins are impressive in growth years (69-77% in FY2023-24, 36% TTM) — indicating operating leverage when revenue grows. But they collapse when revenue stalls or declines — confirming the high fixed-cost, tender-dependent nature of the business.
+The incremental margins are impressive in growth years (69-77% in FY2023-24, 37% TTM) — indicating operating leverage when revenue grows. But they collapse when revenue stalls or declines — confirming the high fixed-cost, tender-dependent nature of the business.
 
 **Capital Scalability:**
 
@@ -300,7 +300,7 @@ Cupid appears to be at a genuine inflection point:
 | Dimension | Score (1-10) | Evidence |
 |---|---|---|
 | Revenue scalability | 6 | Institutional channel has ceiling per tender; FMCG unproven |
-| Profit scalability | 7 | Strong operating leverage (36-77% incremental margins when growing) |
+| Profit scalability | 7 | Strong operating leverage (37-77% incremental margins when growing) |
 | Capital scalability | 5 | Currently heavy capex phase; post-Palava should improve |
 | Scaling runway | 8 | <0.3% of global market, massive TAM, 110+ country presence |
 | S-Curve position | 7 | At inflection — capacity expanding 2.5x, record order book, FY26 breakout year |
