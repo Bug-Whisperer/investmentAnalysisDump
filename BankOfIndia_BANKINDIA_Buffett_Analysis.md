@@ -221,7 +221,7 @@ For banks specifically: A bank that must repeatedly raise equity capital at belo
 |---|---|---|---|---|
 | NIM (Spread Efficiency) | ~2.7% | ~2.9% | ~2.6% | ⬇️ Compressing |
 | Fee Income Ratio | 13% | 9.5% | 11.6% | Volatile |
-| Operating Efficiency (1 - C:I)† | ~40% | ~40% | ~42% | ⬆️ Improving |
+| Operating Efficiency (1 - C:I)† | ~45% | ~45% | ~45% | ➡️ Stable |
 | Provision Intensity (declining) | Elevated | Moderate | Lower | ⬆️ Improving (lower provisions) |
 | Leverage (Avg Assets/Avg Equity) | ~13.7x | ~13.1x | ~13.1x | Stable |
 | **ROA** | 0.49% | 0.74% | **0.95%** | ⬆️ Improving |
@@ -490,7 +490,7 @@ Using a more conservative g of 10%: Fair P/B = (15% - 10%) / (12% - 10%) = **2.5
 | CMP | ₹170 |
 | TTM Normalised EPS | ₹21.58 (reported TTM) |
 | Current PE | 7.9x |
-| Shares Outstanding | 45.53 Cr |
+| Shares Outstanding | 455.3 Cr |
 
 ### Implied EPS CAGR at Terminal PE = 8x (Mature PSB)
 
