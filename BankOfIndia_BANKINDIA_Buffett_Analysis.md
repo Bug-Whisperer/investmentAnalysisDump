@@ -380,7 +380,7 @@ PSB management is structurally constrained — decisions are influenced by gover
 | Slippage Ratio | ~2.5% | ~2.0% | ~1.5% | ~1.0% | ~0.78% | **~0.64%** |
 | Credit Cost | ~2.5% | ~2.0% | ~1.2% | ~0.8% | ~0.47% | **~0.42%** |
 | **Efficiency** | | | | | | |
-| Cost-to-Income† | ~65% | ~60% | ~58% | ~55% | ~55% | **~55%** |
+| Cost-to-Income† | ~60% | ~58% | ~55% | ~55% | ~55% | **~55%** |
 | **Capital** | | | | | | |
 | CRAR | ~14.0% | ~15.5% | ~16.0% | ~16.7% | ~16.8% | **~17.1%** |
 | CET-1 | ~11.5% | ~12.5% | ~13.0% | ~14.0% | ~14.8% | ~14.5% |
