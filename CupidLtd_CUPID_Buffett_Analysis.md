@@ -11,7 +11,7 @@
 ---
 
 > **Important Note on Share Capital Adjustments:**  
-> Cupid Ltd underwent a 1:10 stock split (FV ₹10 → ₹1) and a 1:1 bonus issue on April 4, 2024, followed by a 4:1 bonus issue with ex-date March 9, 2026. One original share (pre-April 2024) is now equivalent to 100 shares (10 × 2 × 5 from the 1:10 split, 1:1 bonus, and 4:1 bonus). All per-share data in this analysis is presented on the LATEST adjusted basis unless otherwise noted. Screener.in data is already adjusted for these corporate actions.
+> Cupid Ltd underwent a 1:10 stock split (FV ₹10 → ₹1) and a 1:1 bonus issue on April 4, 2024, followed by a 4:1 bonus issue with ex-date March 9, 2026. One original share (pre-April 2024) is now equivalent to 100 shares (10 from split × 2 from 1:1 bonus × 5 from 4:1 bonus). Note: Some media reports incorrectly state 80 shares — that error arises from treating 4:1 as 4x rather than 5x (4 new + 1 existing). All per-share data in this analysis is presented on the LATEST adjusted basis unless otherwise noted. Screener.in data is already adjusted for these corporate actions.
 
 ---
 
@@ -47,8 +47,8 @@ Cupid's B2B business has a structural advantage — WHO/UNFPA certification is d
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 61 | 84 | 81 | 85 | **160** | 143 | 133 | 159 | 172 | 183 | **320** |
 | Revenue Growth YoY | 39% | 38% | -4% | 5% | **88%** | -11% | -7% | 20% | 8% | 6% | 54% |
-| Operating Profit | 25 | 34 | 27 | 21 | **52** | 36 | **23** | 41 | 51 | 42 | **119** |
-| OPM % | **41%** | **41%** | 34% | **24%** | 33% | 25% | **17%** | 26% | 30% | 23% | **37%** |
+| Operating Profit | 25 | 34 | 27 | 21 | **52** | 36 | **23** | 41 | 51 | 42 | **118** |
+| OPM % | **41%** | **41%** | 33% | **25%** | 32% | 25% | **17%** | 26% | 30% | 23% | **37%** |
 | Other Income | 2 | 1 | 1 | 2 | 3 | 5 | 4 | 5 | 7 | 19 | 0 |
 | Interest | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 2 | 2 | 3 |
 | Depreciation | 2 | 2 | 2 | 2 | 2 | 3 | 3 | 3 | 3 | 4 | 5 |
@@ -325,9 +325,9 @@ Cupid appears to be at a genuine inflection point:
 ### Buffett's $1 Test
 
 Over the last 5 years (FY2020-FY2025):
-- Total retained earnings: ~₹160 Cr (cumulative net profit ₹182 Cr minus ~₹22 Cr dividends)
+- Total retained earnings: ~₹174 Cr (cumulative net profit ₹199 Cr minus ~₹25 Cr dividends)
 - Market cap change: From ~₹600 Cr (FY2020) to ~₹10,300 Cr (current) = **₹9,700 Cr increase**
-- **Value created per ₹1 retained: ₹60+**
+- **Value created per ₹1 retained: ~₹56**
 
 This is extraordinary — but it's almost entirely driven by a massive PE re-rating (from ~15x to ~124x), not by proportional earnings growth. The underlying earnings only grew from ₹40 Cr to ₹41 Cr (FY2020 to FY2025) — essentially ZERO growth in 5 years. The $1 test is spectacularly passed on market value terms, but fails on business value terms.
 
@@ -415,19 +415,19 @@ At current prices, you are paying a massive premium for the HOPE of sustained hy
 
 | Scenario | Growth Yr 1-5 | Growth Yr 6-10 | Terminal Growth | PV of Cash Flows | Terminal Value (PV) | Enterprise Value | Less: Net Debt | Equity Value | Value/Share | MoS at ₹76.2 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Conservative** | 12% | 8% | 5% | ₹460 Cr | ₹1,070 Cr | ₹1,530 Cr | ~₹0 | ₹1,530 Cr | **₹11.4** | **-85%** (overvalued) |
-| **Base** | 20% | 12% | 5% | ₹580 Cr | ₹1,700 Cr | ₹2,280 Cr | ~₹0 | ₹2,280 Cr | **₹17.0** | **-78%** (overvalued) |
-| **Optimistic** | 30% | 15% | 5% | ₹780 Cr | ₹2,800 Cr | ₹3,580 Cr | ~₹0 | ₹3,580 Cr | **₹26.6** | **-65%** (overvalued) |
+| **Conservative** | 12% | 8% | 5% | ₹778 Cr | ₹1,025 Cr | ₹1,804 Cr | ~₹0 | ₹1,804 Cr | **₹13.4** | **-82%** (overvalued) |
+| **Base** | 20% | 12% | 5% | ₹1,086 Cr | ₹1,737 Cr | ₹2,822 Cr | ~₹0 | ₹2,822 Cr | **₹21.0** | **-72%** (overvalued) |
+| **Optimistic** | 30% | 15% | 5% | ₹1,591 Cr | ₹2,958 Cr | ₹4,549 Cr | ~₹0 | ₹4,549 Cr | **₹33.8** | **-56%** (overvalued) |
 
 ### Summary
 
 | Scenario | Intrinsic Value/Share | CMP | Margin of Safety | Verdict |
 |---|---|---|---|---|
-| Conservative | ₹11.4 | ₹76.2 | **-85%** | Massively overvalued |
-| Base | ₹17.0 | ₹76.2 | **-78%** | Massively overvalued |
-| Optimistic | ₹26.6 | ₹76.2 | **-65%** | Still significantly overvalued |
+| Conservative | ₹13.4 | ₹76.2 | **-82%** | Massively overvalued |
+| Base | ₹21.0 | ₹76.2 | **-72%** | Massively overvalued |
+| Optimistic | ₹33.8 | ₹76.2 | **-56%** | Still significantly overvalued |
 
-**Even in the most optimistic DCF scenario (30% earnings growth for 5 years, then 15% for 5 more years), the intrinsic value is ₹26.6 — less than HALF the current market price.**
+**Even in the most optimistic DCF scenario (30% earnings growth for 5 years, then 15% for 5 more years), the intrinsic value is ₹33.8 — less than HALF the current market price.**
 
 > *Buffett: "For the investor, a too-high purchase price for the stock of an excellent company can undo the effects of a subsequent decade of favorable business developments."*
 
@@ -445,7 +445,7 @@ At current prices, you are paying a massive premium for the HOPE of sustained hy
 | FY26E EPS (management guided ₹100 Cr PAT) | ₹0.74 |
 | Forward PE (on FY26E) | 103x |
 | Historical 5Y EPS CAGR | ~1% (FY2020 ₹0.30 → FY2025 ₹0.30) |
-| Historical 10Y EPS CAGR | ~18% |
+| Historical 10Y EPS CAGR | ~17% |
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -453,25 +453,25 @@ At current prices, you are paying a massive premium for the HOPE of sustained hy
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **53% CAGR** | **60% CAGR** | **67% CAGR** |
-| 10 Years | **32% CAGR** | **36% CAGR** | **40% CAGR** |
-| 15 Years | **25% CAGR** | **28% CAGR** | **32% CAGR** |
+| 5 Years | **51% CAGR** | **58% CAGR** | **65% CAGR** |
+| 10 Years | **29% CAGR** | **35% CAGR** | **41% CAGR** |
+| 15 Years | **22% CAGR** | **28% CAGR** | **33% CAGR** |
 
 **At Terminal PE = 35x (Optimistic)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **46% CAGR** | **53% CAGR** | **60% CAGR** |
-| 10 Years | **29% CAGR** | **33% CAGR** | **37% CAGR** |
-| 15 Years | **23% CAGR** | **27% CAGR** | **30% CAGR** |
+| 5 Years | **41% CAGR** | **48% CAGR** | **54% CAGR** |
+| 10 Years | **25% CAGR** | **30% CAGR** | **36% CAGR** |
+| 15 Years | **20% CAGR** | **25% CAGR** | **30% CAGR** |
 
 **At Terminal PE = 50x (Euphoric — unlikely sustained)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **39% CAGR** | **46% CAGR** | **53% CAGR** |
-| 10 Years | **26% CAGR** | **30% CAGR** | **34% CAGR** |
-| 15 Years | **21% CAGR** | **24% CAGR** | **28% CAGR** |
+| 5 Years | **32% CAGR** | **38% CAGR** | **44% CAGR** |
+| 10 Years | **20% CAGR** | **26% CAGR** | **31% CAGR** |
+| 15 Years | **17% CAGR** | **22% CAGR** | **27% CAGR** |
 
 ### Reality Check
 
@@ -481,13 +481,13 @@ At current prices, you are paying a massive premium for the HOPE of sustained hy
 | Cupid Historical 5Y EPS CAGR | ~1% |
 | Cupid Historical 10Y EPS CAGR | ~18% |
 | Management FY26 Implied EPS Growth | ~147% (from ₹0.30 to ~₹0.74) |
-| Required for 15% return over 10Y at 25x terminal PE | **36% CAGR** |
+| Required for 15% return over 10Y at 25x terminal PE | **35% CAGR** |
 
 ### Traffic Light: 🔴 RED
 
-**At the current price of ₹76.2, to earn even a 10% annualised return over 10 years assuming the market values the business at 25x PE at exit, the company needs to grow EPS at 32% CAGR for a DECADE.** The company has historically grown EPS at 18% CAGR over 10 years and ~1% CAGR over 5 years. The implied growth is 1.8x the best historical performance. This is heroic-to-impossible territory.
+**At the current price of ₹76.2, to earn even a 10% annualised return over 10 years assuming the market values the business at 25x PE at exit, the company needs to grow EPS at 29% CAGR for a DECADE.** The company has historically grown EPS at 17% CAGR over 10 years and ~1% CAGR over 5 years. The implied growth is 1.7x the best historical performance. This is heroic territory.
 
-Even if FY26 is truly the inflection point and the company grows EPS at 25% CAGR for a decade (which would require EPS to reach ₹6.9 — implying ₹928 Cr net profit from a company that currently makes ₹84 Cr TTM), you would still only earn a ~10% annual return IF the terminal PE is 25x and your entry is ₹76.2.
+Even if FY26 is truly the inflection point and the company grows EPS at 25% CAGR for a decade (which would require EPS to reach ₹5.8 — implying ₹776 Cr net profit from a company that currently makes ₹84 Cr TTM), you would still only earn a ~7% annual return IF the terminal PE is 25x and your entry is ₹76.2.
 
 > *Buffett's Napkin Test: "If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."*
 
@@ -538,17 +538,17 @@ Even if FY26 is truly the inflection point and the company grows EPS at 25% CAGR
 | Exit P/B | Rationale | 5Y CAGR | 7Y CAGR | 10Y CAGR |
 |---|---|---|---|---|
 | 26.8x (stays same) | Multiple sustains (extremely unlikely) | 18% | 18% | 18% |
-| 15x (mild compression) | Still a premium | 5% | 9% | 12% |
-| 10x (significant compression) | Moderate premium over book | -1% | 4% | 9% |
-| 5x (revert to historical) | Historical fair value for this quality | -12% | -5% | 2% |
-| 3x (Fair P/B given ROE) | For 18% ROE, 3x is justified | -19% | -11% | -3% |
-| 1x (at book value) | Absolute floor for a profitable company | -31% | -20% | -11% |
+| 15x (mild compression) | Still a premium | 5% | 9% | 11% |
+| 10x (significant compression) | Moderate premium over book | -3% | 2% | 7% |
+| 5x (revert to historical) | Historical fair value for this quality | -16% | -7% | 0% |
+| 3x (Fair P/B given ROE) | For 18% ROE, 3x is justified | -24% | -14% | -5% |
+| 1x (at book value) | Absolute floor for a profitable company | -39% | -26% | -15% |
 
 ### Traffic Light Verdict: 🔴 RED — DANGEROUS ENTRY
 
-**At the current entry P/B of 26.8x, even with a generous 18% ROE assumption, the 10-year return drops below 10% if P/B compresses to just 15x — still a hefty premium.** To earn a 15% annual return over 10 years, the P/B multiple must STAY at 26.8x for a decade. This has never been sustained for a manufacturing company of this size and cyclicality.
+**At the current entry P/B of 26.8x, even with a generous 18% ROE assumption, the 10-year return drops below 10% if P/B compresses to just 10x — still a hefty premium.** To earn a 15% annual return over 10 years, the P/B multiple must STAY at 26.8x for a decade. This has never been sustained for a manufacturing company of this size and cyclicality.
 
-If the P/B compresses to 5x (its historical average), you LOSE money over a decade even while the business compounds book value at 18%. That is the brutal maths of paying 27x book for a company earning 13-18% ROE.
+If the P/B compresses to 5x (its historical average), you earn 0% over a decade even while the business compounds book value at 18%. That is the brutal maths of paying 27x book for a company earning 13-18% ROE.
 
 > *Munger: "Over the long term, it's hard for a stock to earn a much better return than the business earns."*
 
@@ -591,7 +591,7 @@ At 27x book, the stock needs to earn 27x what the business actually earns on equ
 | Trustworthy management? | ✅ High promoter holding (46%), personal buying, no fraud history | ✅ PASS |
 | Resistant to disruption? | ✅ Condoms are not being disrupted | ✅ PASS |
 | Sustainable economics for 10+ years? | ⚠️ Cyclical profits, unproven FMCG transition | ⚠️ MARGINAL |
-| Price significantly below intrinsic value? | ❌ Priced at 3-7x intrinsic value | ❌ FAIL |
+| Price significantly below intrinsic value? | ❌ Priced at 2-6x intrinsic value | ❌ FAIL |
 
 ### Verdict
 
@@ -642,7 +642,7 @@ If Cupid fell to ₹10-15 (3-5x book value, 15-25x normalised PE), Buffett worki
 | Management Quality | 7 | High promoter holding, personal buying, competent; working capital needs watching |
 | Scalability | 6.5 | Good runway (global TAM), capacity expanding 2.5x; but execution unproven |
 | Valuation | **1** | 124x PE, 27x P/B — absurdly expensive by any metric |
-| Margin of Safety | **0** | NEGATIVE margin of safety — priced at 3-7x intrinsic value |
+| Margin of Safety | **0** | NEGATIVE margin of safety — priced at 2-6x intrinsic value |
 | Cash Flow Quality | 4 | Negative OCF in FY2025 despite ₹41 Cr profit; working capital consuming cash |
 | **Buffett Verdict** | — | **PASS at current price.** This is a decent small business with an interesting moat — but the stock is priced as if it were the next Asian Paints. At 124x PE, even flawless execution for a decade barely earns your cost of capital. Buffett would watch with interest and wait for a 70-80% correction before buying. If you own it from lower levels, take significant profits. The business may well deserve ₹15-25 per share — not ₹76. |
 | Buy Zone | — | **₹9-15 (3-5x book, 15-25x PE) — this is where Buffett would get interested** |
@@ -678,9 +678,9 @@ That's an instant Buffett pass.
 
 ## Appendix: Key Buffett Quotes Applied to Cupid
 
-1. **"Price is what you pay. Value is what you get."** — At ₹76, you are paying ₹10,300 Cr for a business worth ₹1,500-2,500 Cr. You are getting 15-25 paisa of value for every rupee you pay.
+1. **"Price is what you pay. Value is what you get."** — At ₹76, you are paying ₹10,300 Cr for a business worth ₹1,800-4,500 Cr. You are getting roughly 17-44 paisa of value for every rupee you pay.
 
-2. **"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."** — Cupid is a "good" company (not wonderful — too cyclical, too small, too tender-dependent). And the price is not fair — it is 3-7x fair value. You have the worst of both worlds.
+2. **"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."** — Cupid is a "good" company (not wonderful — too cyclical, too small, too tender-dependent). And the price is not fair — it is 2-6x fair value. You have the worst of both worlds.
 
 3. **"Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1."** — At 124x PE, the probability of losing money over a 3-5 year holding period is extremely high.
 
