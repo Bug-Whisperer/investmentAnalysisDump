@@ -479,7 +479,7 @@ At current prices, you are paying a massive premium for the HOPE of sustained hy
 |---|---|
 | India Nominal GDP Growth | 10-12% |
 | Cupid Historical 5Y EPS CAGR | ~1% |
-| Cupid Historical 10Y EPS CAGR | ~18% |
+| Cupid Historical 10Y EPS CAGR | ~17% |
 | Management FY26 Implied EPS Growth | ~147% (from ₹0.30 to ~₹0.74) |
 | Required for 15% return over 10Y at 25x terminal PE | **35% CAGR** |
 
