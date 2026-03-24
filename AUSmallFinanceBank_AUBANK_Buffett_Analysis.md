@@ -581,22 +581,22 @@ Where: Excess Return = (ROE - CoE) × Book Value
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 16% CAGR needed | 22% | 28% |
-| 10 Years | 12% CAGR needed | 16% | 20% |
+| 5 Years | 27% CAGR needed | 33% | 38% |
+| 10 Years | 18% CAGR needed | 24% | 29% |
 
 #### At Terminal PE = 20x (Market Average)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 10% CAGR needed | 16% | 22% |
-| 10 Years | 8% CAGR needed | 13% | 17% |
+| 5 Years | 20% CAGR needed | 25% | 31% |
+| 10 Years | 15% CAGR needed | 20% | 25% |
 
 #### At Terminal PE = 28x (Compounder Premium)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 4% CAGR needed | 10% | 15% |
-| 10 Years | 5% CAGR needed | 9% | 13% |
+| 5 Years | 12% CAGR needed | 17% | 22% |
+| 10 Years | 11% CAGR needed | 16% | 21% |
 
 #### At Terminal PE = 31x (Historical Average — current PE)
 
@@ -619,18 +619,18 @@ Using reported EPS of ₹31 (conservative base given over-provisioning):
 
 | Scenario | Verdict |
 |---|---|
-| 10% return at 20x exit PE → 8% CAGR needed for 10 years | 🟢 **GREEN — well below historical growth rate** |
-| 10% return at 15x exit PE → 12% CAGR needed for 10 years | 🟡 **YELLOW — achievable but requires sustained execution** |
-| 15% return at 20x exit PE → 13% CAGR needed for 10 years | 🟡 **YELLOW — in line with historical but demanding for a decade** |
-| 20% return at any exit PE → 17-28% CAGR needed | 🔴 **RED — requires heroic growth for a ₹71,000 Cr bank** |
+| 10% return at 31x exit PE (current PE sustains) → 10% CAGR needed for 10 years | 🟡 **YELLOW — achievable at historical rates, but requires PE to sustain at 31x for a decade** |
+| 10% return at 20x exit PE → 15% CAGR needed for 10 years | 🟠 **ORANGE — requires above-industry growth AND assumes meaningful PE compression** |
+| 10% return at 15x exit PE → 18% CAGR needed for 10 years | 🔴 **RED — requires near-historical-peak growth to merely earn 10% at a mature PE** |
+| 15% return at 28x exit PE → 16% CAGR needed for 10 years | 🟠 **ORANGE — demanding growth even with generous exit multiple** |
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹950, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at ~8% CAGR. The company has historically grown reported EPS at ~20% CAGR. On an EPS CAGR basis, the growth requirement appears reasonable — a 🟢 GREEN signal."
+> "At the current price of ₹950, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at ~15% CAGR. The company has historically grown reported EPS at ~20% CAGR, but that includes extraordinary periods. Sustaining 15% EPS growth for a decade at this scale is demanding. If the exit PE compresses to 15x (mature bank), the required CAGR rises to 18% — at the edge of historical performance. This implies **the market is pricing in above-average but not impossible growth, provided the PE multiple does not compress significantly**."
 
-> "However, the P/B-based analysis tells a different story: at 3.9x P/B with a 14% ROE, any multiple compression toward the fair P/B of 2.0-2.5x would significantly erode returns. The REAL risk is not earnings growth — it is MULTIPLE COMPRESSION."
+> "The critical risk is MULTIPLE COMPRESSION. At the current PE of ~31x, even if AU delivers 15% EPS CAGR for a decade, a PE de-rating to 20x (reasonable for a mature bank) would cap returns at ~10%. If the PE de-rates to 15x, returns turn negative despite strong growth. You are paying a premium price that leaves little room for disappointment."
 
-**Buffett's Napkin Test: 🟡 YELLOW.** The earnings growth requirement is achievable, but the valuation multiple is stretched. The investment case rests on the P/B multiple sustaining at 3.0x+ — which requires ROE recovery to 16%+ via the universal bank transition. This is a bet on transformation sustaining the premium, not on impossible growth.
+**Buffett's Napkin Test: 🟡 YELLOW to 🟠 ORANGE.** The earnings growth requirement (15% at 20x exit, 18% at 15x exit) is not impossible but is demanding for a decade. The real risk is not growth — it is the elevated starting PE compressing. At 31x PE, you need sustained execution AND multiple sustaining to earn reasonable returns.
 
 ### Step 6: Asymmetric Upside Check
 
