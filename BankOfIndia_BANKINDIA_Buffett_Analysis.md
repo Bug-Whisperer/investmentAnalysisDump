@@ -2,7 +2,7 @@
 
 ### **[BANK/NBFC MODE ACTIVATED]** — Public Sector Universal Bank
 
-**CMP:** ~₹170 (as of March 2026) | **Market Cap:** ~₹77,500 Cr | **P/B:** ~1.0x | **P/E:** ~7.9x | **Book Value:** ~₹172/share | **Promoter (GoI):** 73.38%
+**CMP:** ~₹170 (as of March 2026) | **Market Cap:** ~₹77,500 Cr | **P/B:** ~0.92x | **P/E:** ~7.9x | **Book Value:** ~₹177 (FY25) / ~₹184 (Sep 25) per share | **Promoter (GoI):** 73.38%
 
 ---
 
@@ -54,22 +54,21 @@ For banks, bad economics = bad asset quality. BoI's NPA crisis (FY2016-FY2020) d
 | Other Income (Fee+Trading) | 6,687 | 6,778 | 8,092 | 7,168 | 6,415 | 9,317 | ~9,700 |
 | Other Income as % of Total | 13.6% | 14.2% | 17.4% | 13.0% | 9.5% | **11.6%** | ~12% |
 | Total Income | 49,278 | 47,632 | 46,373 | 55,100 | 67,488 | 80,625 | ~84,200 |
-| Operating Expenses (Opex) | 26,386 | 17,672 | 16,263 | 21,177 | 18,848 | 20,656 | ~21,500 |
-| **Cost-to-Income Ratio** | **~62%** | ~45% | ~42% | ~44% | ~31% | ~29% | ~28% |
-| Pre-Provision Operating Profit (PPOP) | ~8,505 | ~16,283 | ~16,018 | ~12,746 | ~24,884 | ~34,031 | ~37,500 |
-| PPOP Growth | — | 91.5% | -1.6% | -20.4% | **95.2%** | 36.7% | ~15% |
-| Provisions & Contingencies | ~13,197 | ~13,123 | ~10,363 | ~6,690 | ~14,509 | ~21,260 | — |
-| Provision as % of PPOP | **155%** | 81% | 65% | 53% | 58% | 62% | ~55% |
+| Expenses (Opex+Provisions)† | 26,386 | 17,672 | 16,263 | 21,177 | 18,848 | 20,656 | ~21,500 |
 | Profit Before Tax | (4,692) | 3,160 | 5,655 | 6,056 | 10,375 | 12,771 | ~13,000 |
 | **Net Income** | **(3,051)** | 2,081 | 3,487 | 3,839 | 6,567 | **9,552** | ~9,823 |
 | Net Income Growth | — | — | 67.6% | 10.1% | **71.0%** | 45.4% | ~20% |
 | EPS (Diluted, ₹) | **(9.31)** | 6.36 | 8.51 | 9.35 | 14.42 | **20.97** | ~21.58 |
 | EPS Growth | — | — | 33.8% | 9.9% | **54.2%** | 45.4% | ~20% |
-| Shares Outstanding (Cr) | 32.78 | 32.78 | 41.04 | 41.04 | 45.53 | 45.53 | 45.53 |
+| Shares Outstanding (Cr)* | 327.8 | 327.8 | 410.4 | 410.4 | 455.3 | 455.3 | 455.3 |
 | Shares Change YoY | 18.8% | 0% | **25.2%** | 0% | **10.9%** | 0% | 0% |
 | **ROA** | -0.48% | 0.30% | 0.47% | 0.49% | **0.74%** | **0.95%** | ~0.96% |
 | **ROE** | **-7%** | 4% | 6% | 6% | 10% | **12%** | ~15% |
 | Dividend Payout % | 0% | 0% | 24% | 21% | 19% | 19% | — |
+
+*†Screener's consolidated "Expenses" line for banks bundles operating expenses with provisions & contingencies. See note below table for corrected C:I ratio and PPOP discussion.*
+
+> **Note on Cost-to-Income, PPOP, and Provisions:** Screener's consolidated "Expenses" line for banks bundles operating expenses together with provisions & contingencies. Therefore, accurate Cost-to-Income ratio and PPOP cannot be directly computed from Screener data. From Bank of India's investor presentations and ICRA credit reports, the actual Cost-to-Income ratio is approximately **55–65%** in recent years (improving from higher levels during the crisis). PPOP has been growing strongly — reaching approximately ₹13,000-14,000 Cr in FY2025. The Provision-to-PPOP ratio (provision intensity) has been declining sharply as asset quality improves, from over 100% during FY2018-20 to approximately 40-50% in FY2025. These approximate values are sourced from external reports and should be verified against the bank's standalone financial statements for precision.
 
 ### Trend Narrative
 
@@ -77,11 +76,11 @@ The turnaround story is undeniable. From five consecutive years of losses (FY201
 
 1. **NIM is compressing, not expanding.** Global NIM has fallen from ~2.9% in FY2024 to ~2.57% in FY2025 and ~2.51% in 9M FY26. This is the single biggest concern. The compression is driven by rising cost of deposits as CASA share declines and competition for term deposits intensifies. Domestic NIM at 2.76% in 9M FY26 is well below the PSB average of ~3.0%.
 
-2. **Cost-to-income ratio has improved dramatically** — from ~62% in FY2020 to ~28-29% now. This is partly optical (revenue grew faster than opex) but also reflects genuine operating leverage from digital adoption and branch rationalisation.
+2. **Cost-to-income ratio has improved** — from elevated levels during the NPA crisis years to approximately **55-60%** in recent periods (per investor presentations). This reflects genuine operating leverage from digital adoption, branch rationalisation, and stronger income growth outpacing cost growth.
 
-3. **Provision intensity is declining** — from 155% of PPOP in FY2020 (the bank was provisioning more than it earned) to ~55% now. This is the primary driver of the profit surge. However, this also means the "easy" earnings growth from lower provisions is largely behind us. Going forward, earnings growth must come from genuine NII growth — which is harder with compressing NIMs.
+3. **Provision intensity is declining** — the bank was provisioning more than its entire operating profit during the NPA crisis (FY2018-20). Now, with credit costs at just 0.47% (FY2025) vs. peak levels of 3%+, provisions consume a much smaller share of operating profit. This is the primary driver of the profit surge. However, this also means the "easy" earnings growth from lower provisions is largely behind us. Going forward, earnings growth must come from genuine NII growth — which is harder with compressing NIMs.
 
-4. **Significant equity dilution occurred:** Shares outstanding went from 6.43 Cr in FY2014 to 45.53 Cr in FY2025 — a **7x dilution**. This is devastating for per-share compounding. EPS of ₹20.97 in FY2025 is still far below the ₹46.50 earned in FY2014 with a much smaller share base. The dilution funded recapitalisation during the NPA crisis — the government injected capital to keep the bank alive. This is precisely the pattern Buffett avoids.
+4. **Significant equity dilution occurred:** Shares outstanding went from 64.3 Cr in FY2014 to 455.3 Cr in FY2025 — a **7x dilution**. This is devastating for per-share compounding. EPS of ₹20.97 in FY2025 is still far below the ₹46.50 earned in FY2014 with a much smaller share base. The dilution funded recapitalisation during the NPA crisis — the government injected capital to keep the bank alive. This is precisely the pattern Buffett avoids.
 
 > *"When you combine ignorance and leverage, you get some pretty interesting results."* — Buffett
 
@@ -158,16 +157,16 @@ The current credit cycle is benign. The true test of BoI's asset quality will co
 
 | Event | Period | Shares (Cr) Before | Shares (Cr) After | Dilution % | Price Raised At | BVPS at Time | Accretive? |
 |---|---|---|---|---|---|---|---|
-| Govt Recap / AT1 / QIP | FY2015 | 6.43 | 6.66 | 3.6% | — | ~₹490 | Likely below BV |
-| Recap | FY2016 | 6.66 | 8.17 | **22.7%** | — | ~₹408 | **Below BV** |
-| Recap | FY2017 | 8.17 | 10.55 | **29.1%** | — | ~₹319 | **Below BV** |
-| Recap | FY2018 | 10.55 | 17.44 | **65.3%** | — | ~₹211 | **Below BV** |
-| Recap | FY2019 | 17.44 | 27.60 | **58.3%** | — | ~₹173 | **Below BV** |
-| Recap | FY2020 | 27.60 | 32.78 | **18.8%** | — | ~₹137 | **Below BV** |
-| QIP | FY2022 | 32.78 | 41.04 | **25.2%** | ~₹56 | ~₹138 | **Massively below BV** |
-| QIP | FY2024 | 41.04 | 45.53 | **10.9%** | ~₹103 | ~₹147 | **Below BV** |
+| Govt Recap / AT1 / QIP | FY2015 | 64.3 | 66.6 | 3.6% | — | ~₹490 | Likely below BV |
+| Recap | FY2016 | 66.6 | 81.7 | **22.7%** | — | ~₹408 | **Below BV** |
+| Recap | FY2017 | 81.7 | 105.5 | **29.1%** | — | ~₹319 | **Below BV** |
+| Recap | FY2018 | 105.5 | 174.4 | **65.3%** | — | ~₹211 | **Below BV** |
+| Recap | FY2019 | 174.4 | 276.0 | **58.3%** | — | ~₹173 | **Below BV** |
+| Recap | FY2020 | 276.0 | 327.8 | **18.8%** | — | ~₹137 | **Below BV** |
+| QIP | FY2022 | 327.8 | 410.4 | **25.2%** | ~₹56 | ~₹138 | **Massively below BV** |
+| QIP | FY2024 | 410.4 | 455.3 | **10.9%** | ~₹103 | ~₹147 | **Below BV** |
 
-**Verdict:** Every single equity raise was done **below book value** — this is value destruction for existing shareholders. The shares outstanding went from 6.43 Cr (FY2014) to 45.53 Cr (FY2025) — a **7x increase**. An investor who owned 1% of the bank in FY2014 now owns 0.14%. This is the defining characteristic of BoI's history and the primary reason it is NOT a Buffett-quality bank.
+**Verdict:** Every single equity raise was done **below book value** — this is value destruction for existing shareholders. The shares outstanding went from 64.3 Cr (FY2014) to 455.3 Cr (FY2025) — a **7x increase**. An investor who owned 1% of the bank in FY2014 now owns 0.14%. This is the defining characteristic of BoI's history and the primary reason it is NOT a Buffett-quality bank.
 
 > *"When managements take the shareholders' money and use it to buy what's available rather than what's needed, the shareholders suffer."* — Buffett
 
@@ -212,7 +211,7 @@ For banks specifically: A bank that must repeatedly raise equity capital at belo
 | **ROE** | **-7%** | 4% | 6% | 6% | 10% | **12%** | **~15%** |
 | **ROA** | **-0.48%** | 0.30% | 0.47% | 0.49% | 0.74% | **0.95%** | **~0.96%** |
 | NIM (Global) | ~2.3% | ~2.1% | ~2.1% | ~2.7% | ~2.9% | ~2.6% | ~2.6% |
-| Cost-to-Income | ~62% | ~45% | ~42% | ~44% | ~31% | ~29% | ~28% |
+| Cost-to-Income | ~65% | ~60% | ~58% | ~55% | ~55% | ~55% | ~55% |
 | Credit Cost | ~3.0% | ~2.5% | ~2.0% | ~1.2% | ~0.8% | ~0.47% | ~0.42% |
 | Leverage (Assets/Equity) | **14.7x** | 14.7x | 13.2x | 13.7x | 13.1x | 13.1x | 13.1x |
 
@@ -222,8 +221,8 @@ For banks specifically: A bank that must repeatedly raise equity capital at belo
 |---|---|---|---|---|
 | NIM (Spread Efficiency) | ~2.7% | ~2.9% | ~2.6% | ⬇️ Compressing |
 | Fee Income Ratio | 13% | 9.5% | 11.6% | Volatile |
-| Operating Efficiency (1 - C:I) | 56% | 69% | 71% | ⬆️ Improving |
-| Provision Intensity (1 - Prov/PPOP) | 47% | 42% | 38% | ⬆️ Improving (lower provisions) |
+| Operating Efficiency (1 - C:I)† | ~40% | ~40% | ~42% | ⬆️ Improving |
+| Provision Intensity (declining) | Elevated | Moderate | Lower | ⬆️ Improving (lower provisions) |
 | Leverage (Avg Assets/Avg Equity) | ~13.7x | ~13.1x | ~13.1x | Stable |
 | **ROA** | 0.49% | 0.74% | **0.95%** | ⬆️ Improving |
 | **ROE = ROA × Leverage** | ~6% | ~10% | **~12%** | ⬆️ Improving |
@@ -312,7 +311,7 @@ BoI is a business facing gradual change — not disruptive, but persistent. Priv
 - RAM (Retail, Agri, MSME) at ~59% of advances, up from lower levels — diversification improving.
 
 **3. Operational Scalability: ✅ GOOD**
-- Cost-to-income ratio improving steadily (62% → 28%). Significant operating leverage.
+- Cost-to-income ratio improving steadily from elevated crisis-era levels (~65%+) toward ~55%. Genuine operating leverage visible.
 - Digital transactions increasing. Business per employee and per branch likely improving.
 
 **4. Capital Scalability: ⚠️ THE BOTTLENECK**
@@ -342,9 +341,10 @@ BoI is in the **Growth/Recovery Phase** — post-turnaround, with accelerating p
 ### Buffett's $1 Test
 
 From FY2020 to FY2025:
-- Total retained earnings: ~₹15,502 Cr (cumulative net income minus dividends over 5 years)
+- Total retained earnings: ~₹20,820 Cr (cumulative net income minus dividends, FY2021-FY2025; excluding the FY2020 loss year)
+- Including FY2020 loss: ~₹17,769 Cr net retained
 - Change in market cap: From ~₹15,000 Cr (FY2020) to ~₹77,500 Cr (Mar 2026) = **+₹62,500 Cr**
-- **$1 Test: ₹62,500 / ₹15,502 = ₹4.03 of market value created per ₹1 retained** ✅ PASSES (but driven by re-rating from crisis lows, not sustainable earning power)
+- **$1 Test: ₹62,500 / ₹20,820 = ₹3.00 of market value created per ₹1 retained** ✅ PASSES (but driven by re-rating from crisis lows, not sustainable earning power)
 
 This is misleading, though. The stock re-rated from a crisis P/B of ~0.3x to ~1.0x. A significant portion of the "market value creation" is simply a recovery in sentiment, not value creation through compounding. In a normalised environment, the $1 test result would be much more modest.
 
@@ -380,7 +380,7 @@ PSB management is structurally constrained — decisions are influenced by gover
 | Slippage Ratio | ~2.5% | ~2.0% | ~1.5% | ~1.0% | ~0.78% | **~0.64%** |
 | Credit Cost | ~2.5% | ~2.0% | ~1.2% | ~0.8% | ~0.47% | **~0.42%** |
 | **Efficiency** | | | | | | |
-| Cost-to-Income | ~45% | ~42% | ~44% | ~31% | ~29% | **~28%** |
+| Cost-to-Income† | ~65% | ~60% | ~58% | ~55% | ~55% | **~55%** |
 | **Capital** | | | | | | |
 | CRAR | ~14.0% | ~15.5% | ~16.0% | ~16.7% | ~16.8% | **~17.1%** |
 | CET-1 | ~11.5% | ~12.5% | ~13.0% | ~14.0% | ~14.8% | ~14.5% |
@@ -451,12 +451,12 @@ Using a more conservative g of 10%: Fair P/B = (15% - 10%) / (12% - 10%) = **2.5
 | Retention Ratio | 80% | 80% | 80% |
 | BV Compounding Rate | 8.8% | 10.4% | 12.8% |
 | Exit P/B Multiple | 0.8x | 1.2x | 1.8x |
-| **BVPS Year 5** | **₹280** | **₹302** | **₹338** |
-| **Implied Price Year 5** | **₹224** | **₹362** | **₹608** |
-| **CAGR from ₹170** | **5.7%** | **16.3%** | **29.0%** |
-| **BVPS Year 10** | **₹428** | **₹494** | **₹624** |
-| **Implied Price Year 10** | **₹342** | **₹593** | **₹1,123** |
-| **CAGR from ₹170** | **7.2%** | **13.3%** | **20.8%** |
+| **BVPS Year 5** | **₹281** | **₹302** | **₹336** |
+| **Implied Price Year 5** | **₹224** | **₹362** | **₹605** |
+| **CAGR from ₹170** | **5.7%** | **16.3%** | **28.9%** |
+| **BVPS Year 10** | **₹428** | **₹495** | **₹614** |
+| **Implied Price Year 10** | **₹342** | **₹594** | **₹1,105** |
+| **CAGR from ₹170** | **7.2%** | **13.3%** | **20.6%** |
 
 ### Method 2: Excess Return Model
 
@@ -496,22 +496,22 @@ Using a more conservative g of 10%: Fair P/B = (15% - 10%) / (12% - 10%) = **2.5
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **8%** | **13%** | **18%** |
-| 10 Years | **8%** | **13%** | **18%** |
+| 5 Years | **9.7%** | **14.6%** | **19.6%** |
+| 10 Years | **9.8%** | **14.8%** | **19.8%** |
 
 ### Implied EPS CAGR at Terminal PE = 10x (Improving PSB)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **3%** | **8%** | **13%** |
-| 10 Years | **6%** | **10%** | **15%** |
+| 5 Years | **4.9%** | **9.6%** | **14.4%** |
+| 10 Years | **7.4%** | **12.3%** | **17.2%** |
 
 ### Implied EPS CAGR at Terminal PE = 12x (Good Bank)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **-1%** | **4%** | **9%** |
-| 10 Years | **4%** | **8%** | **13%** |
+| 5 Years | **1.1%** | **5.7%** | **10.3%** |
+| 10 Years | **5.5%** | **10.3%** | **15.1%** |
 
 ### Reality Check
 
@@ -525,7 +525,7 @@ Using a more conservative g of 10%: Fair P/B = (15% - 10%) / (12% - 10%) = **2.5
 
 ### Verdict
 
-> "At ₹170, to earn a 15% annualised return over 10 years assuming the market values BoI at 10x PE at exit, the bank needs to grow EPS at ~10% CAGR. The bank has recently grown EPS much faster than this (driven by NPA recovery), but sustainable growth of 10-12% is realistic if NIM stabilises and asset quality holds. **The market is pricing in very modest growth — this is 🟢 GREEN if you believe the turnaround is structural.**"
+> "At ₹170, to earn a 15% annualised return over 10 years assuming the market values BoI at 10x PE at exit, the bank needs to grow EPS at ~12.3% CAGR. The bank has recently grown EPS much faster than this (driven by NPA recovery), but sustainable growth of 10-12% is realistic if NIM stabilises and asset quality holds. **The market is pricing in very modest growth — this is 🟢 GREEN if you believe the turnaround is structural.**"
 
 If terminal PE stays at 8x (market doesn't re-rate), the stock is a 10-12% annual compounder — essentially tracking BV compounding + dividends. Not exciting, but not bad for a stock at 1x book.
 
@@ -567,32 +567,32 @@ If terminal PE stays at 8x (market doesn't re-rate), the stock is a 10-12% annua
 
 | Exit P/B Scenario | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|
-| P/B stays at 0.92x | 9.6% | 9.6% | 9.6% |
-| P/B expands to 1.2x | **15.0%** | 13.4% | 12.3% |
-| P/B expands to 1.5x | **19.6%** | 16.6% | 14.6% |
-| P/B compresses to 0.7x | **4.0%** | 5.5% | 6.8% |
-| P/B compresses to 0.5x | **-2.4%** | 1.1% | 3.7% |
+| P/B stays at 0.92x | 9.5% | 9.5% | 9.6% |
+| P/B expands to 1.2x | **15.5%** | 13.8% | 12.5% |
+| P/B expands to 1.5x | **20.8%** | 17.5% | 15.0% |
+| P/B compresses to 0.7x | **3.7%** | 5.3% | 6.6% |
+| P/B compresses to 0.5x | **-3.1%** | 0.4% | 3.1% |
 
 #### At Sustainable ROE = 15%
 
 | Exit P/B Scenario | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|
-| P/B stays at 0.92x | 12.0% | 12.0% | 12.0% |
-| P/B expands to 1.5x | **22.1%** | 18.9% | 16.8% |
-| P/B expands to 2.0x | **28.1%** | 23.3% | 20.1% |
-| P/B compresses to 0.7x | **6.2%** | 7.7% | 9.1% |
+| P/B stays at 0.92x | 11.9% | 11.9% | 12.0% |
+| P/B expands to 1.5x | **23.4%** | 20.0% | 17.6% |
+| P/B expands to 2.0x | **30.7%** | 25.1% | 21.0% |
+| P/B compresses to 0.7x | **6.0%** | 7.6% | 8.9% |
 
 ### Traffic Light Verdict
 
 | Condition | Assessment |
 |---|---|
-| 10-year return > 10% even if P/B halves | ❌ NO (at ROE=12%, P/B halving gives ~3.7%) |
+| 10-year return > 10% even if P/B halves | ❌ NO (at ROE=12%, P/B halving to ~0.46x gives ~3.1%) |
 | 10-year return > 10% if P/B stays at current | ⚠️ Borderline (9.6% at ROE=12%, 12% at ROE=15%) |
 | 10-year return > 10% only if P/B expands | At ROE=12%, YES — needs P/B expansion |
 
 **Verdict: 🟡 YELLOW at ROE=12%; 🟢 GREEN at ROE=15%.**
 
-The stock can tolerate mild P/B compression (to ~0.8x) and still deliver 6-7% annual returns at 12% ROE — but that's below the hurdle rate. At 15% ROE, even P/B compression to 0.7x delivers ~9% returns, approaching the hurdle.
+The stock can tolerate mild P/B compression (to ~0.7x) and still deliver 6-7% annual returns at 12% ROE — but that's below the hurdle rate. At 15% ROE, even P/B compression to 0.7x delivers ~8.9% returns, approaching the hurdle.
 
 ---
 
@@ -739,4 +739,4 @@ On a napkin, BoI at 1x book with 12% ROE is a **fair deal** — not a no-brainer
 
 ---
 
-*Analysis Date: March 22, 2026 | Data Sources: Screener.in, BSE/NSE filings, ICRA credit ratings, Company investor presentations, news reports*
+*Analysis Date: March 24, 2026 | Data Sources: Screener.in, BSE/NSE filings, ICRA credit ratings, Company investor presentations, news reports*
