@@ -174,16 +174,28 @@ For banks, the equivalent of "maintenance CapEx" is **credit cost (provisions)**
 
 ### Normalised Earnings (Bank "Owner Earnings")
 
+The correct formula for bank owner earnings adjusts reported net income for the difference between actual and normalised provisions, then subtracts SBC (a real cost often excluded) and adds back D&A:
+
+`Normalised Earnings = Net Income + D&A + (Actual Provisions - Normalised Provisions) - SBC`
+
+When actual provisions EXCEED normalised (conservative bank), this adds back the excess buffer, revealing higher sustainable earnings. When actual provisions are BELOW normalised (aggressive bank), this subtracts the shortfall, revealing lower sustainable earnings.
+
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|---|---|
 | Net Income (₹ Cr) | 675 | 1,171 | 1,130 | 1,428 | 1,535 | 2,106 |
 | Add: D&A (₹ Cr) | 89 | 104 | 140 | 185 | 225 | 259 |
-| Less: Normalised Credit Cost* (₹ Cr) | ~310 | ~400 | ~530 | ~690 | ~810 | ~1,190 |
+| Actual Provisions (₹ Cr) | ~256 | ~312 | ~606 | ~1,035 | ~1,341 | ~1,793 |
+| Normalised Provisions (₹ Cr) | ~310 | ~400 | ~530 | ~690 | ~810 | ~1,190 |
+| Provision Adjustment (Actual - Normalised) | **-54** | **-88** | **+76** | **+345** | **+531** | **+603** |
 | Less: SBC (Est. ₹ Cr) | ~30 | ~40 | ~50 | ~60 | ~70 | ~90 |
-| **= Normalised Earnings ("Owner Earnings")** | **~424** | **~835** | **~690** | **~863** | **~880** | **~1,085** |
-| Normalised EPS (₹) | ~13.9 | ~26.8 | ~21.9 | ~12.9 | ~13.2 | ~14.6 |
+| **= Normalised Earnings ("Owner Earnings")** | **~680** | **~1,147** | **~1,296** | **~1,898** | **~2,221** | **~2,878** |
+| Normalised EPS (₹) | ~22.4 | ~36.8 | ~41.1 | ~28.5 | ~33.2 | **~38.6** |
 
-*\*Normalised Credit Cost = 5-year average credit cost as % of advances (~1.0%) applied to current year's average advances.*
+*\*Normalised Provisions = 5-year average credit cost as % of advances (~1.0%) applied to current year's average advances. Actual Provisions = PPOP - PBT (derived from quarterly PPOP data and Screener PBT).*
+
+**Interpretation:** In years where the bank OVER-provisions (FY22-FY25), normalised earnings are HIGHER than reported — the excess provisioning is depressing reported profits. In years where the bank UNDER-provisions (FY20-FY21), normalised earnings are LOWER than reported.
+
+For FY25: Reported Net Income = ₹2,106 Cr. The bank over-provisioned by ~₹603 Cr (actual ₹1,793 vs normalised ₹1,190). After adding back D&A and the excess provision buffer, and subtracting SBC, normalised owner earnings = **~₹2,878 Cr** or **~₹38.6 per share**.
 
 ### Actual vs. Normalised Credit Cost
 
@@ -198,7 +210,7 @@ For banks, the equivalent of "maintenance CapEx" is **credit cost (provisions)**
 
 **Critical Finding:** Contrary to initial assumptions, AU Bank has been provisioning ABOVE normalised levels in FY22-FY25. FY25's actual credit cost of ~₹1,793 Cr significantly exceeds the normalised ~₹1,190 Cr. This means reported earnings are CONSERVATIVELY stated — the true sustainable earnings power is HIGHER than reported.
 
-**Implication:** The reported EPS of ~₹28 is depressed by above-normal provisioning. If provisions normalise, true earnings power is closer to ₹32-35 per share. This makes the reported PE of 31x more reasonable when viewed on normalised (provision-adjusted) earnings.
+**Implication:** The reported EPS of ~₹28 (FY25) is depressed by above-normal provisioning. Normalised owner earnings EPS is ~₹38.6. On normalised earnings, the PE drops from ~31x to ~25x — still not cheap, but meaningfully more reasonable. This confirms that AU's management is building credit buffers, not inflating earnings.
 
 > *Buffett on owner earnings: "The figures in financial statements are the beginning, not the end, of business valuation."* For banks, normalising for credit costs is the most important adjustment — and in AU's case, the normalisation reveals a CONSERVATIVE management that is building buffers, not one inflating earnings.
 
@@ -213,7 +225,7 @@ For banks, the equivalent of "maintenance CapEx" is **credit cost (provisions)**
 | **ROE** | **18%** | **22%** | 16% | 15% | 13% | 14% | 13.3% | 12.4% | ~14.5% |
 | **ROA** | **~1.7%** | **~2.3%** | ~1.6% | ~1.6% | ~1.5% | ~1.5% | 1.5% | 1.4% | ~1.6% |
 | NIM | ~5.8% | ~5.7% | ~5.6% | ~5.6% | ~5.1% | ~5.5% | 5.4% | 5.5% | 5.7% |
-| Cost-to-Income | ~57% | ~56% | ~61% | ~57% | 54% | 57% | 54% |
+| Cost-to-Income | ~58% | ~59% | ~57% | ~56% | ~61% | ~57% | 54% | 57% | 54% |
 | Credit Cost (% of Advances) | ~0.5% | ~0.3% | ~0.8% | ~0.8% | **~0.3%** | ~0.6% | — | — | — |
 | Leverage (Assets/Equity) | 9.6x | 8.2x | 9.2x | 8.2x | 8.7x | 9.2x | 9.1x | — | — |
 
@@ -556,9 +568,9 @@ Where: Excess Return = (ROE - CoE) × Book Value
 |---|---|---|
 | CMP | ₹950 | Market |
 | TTM EPS (Reported) | ₹31 | Screener |
-| TTM EPS (Normalised — provision-adjusted) | ~₹33 | Section 5: actual provisions exceed normalised → reported EPS is depressed |
+| TTM EPS (Normalised — provision-adjusted) | ~₹39 | Section 5: actual provisions exceed normalised → reported EPS is depressed |
 | Current PE (Reported) | 31x | Market |
-| Current PE (Normalised) | ~29x | Calculated (950/33) |
+| Current PE (Normalised) | ~24x | Calculated (950/39) |
 | Shares Outstanding | ~74.8 Cr | Latest |
 
 **Note:** Because AU is OVER-provisioning (actual provisions above normalised), the normalised EPS is slightly HIGHER than reported EPS. We use reported EPS of ₹31 as the more conservative base for reverse DCF, which is close to normalised.
