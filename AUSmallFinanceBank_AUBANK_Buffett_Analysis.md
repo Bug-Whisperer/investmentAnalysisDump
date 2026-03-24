@@ -437,7 +437,7 @@ However, this includes significant re-rating (P/B expanded from ~4x to ~4x while
 1. **Loan book diversification is IMPROVING** — vehicle finance concentration has dropped from 40% to 27% as MSME, housing, and gold loans grow. This reduces single-segment risk.
 2. **CASA ratio is DECLINING** — the most concerning operational trend. A bank transitioning to universal bank needs to reverse this.
 3. **NIM is recovering** — from the 5.1% trough in FY24 to 5.7% in Q3 FY26, as the Fincare integration settles and rate cuts benefit.
-4. **Cost-to-Income has risen** — from 44% to 54%, driven by merger-related expenses. This needs to drop below 50% for ROE to recover.
+4. **Cost-to-Income remains elevated** — in the 56-61% range over FY22-FY25, now trending down to ~54% in Q3 FY26 as post-merger operating leverage kicks in. This needs to drop below 50% for ROE to meaningfully recover.
 5. **Asset quality has deteriorated** — GNPA from 1.7% to 2.3-2.5%. The MFI cleanup is in progress; management guided it will stabilise.
 
 ---

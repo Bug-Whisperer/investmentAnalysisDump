@@ -513,7 +513,7 @@ Terminal Growth of Excess:      4%
 | **Optimistic** (17% ROE, 2.5x exit P/B, 5-year) | ~3,537 | 1,204 | 66% margin of safety | +194% upside |
 | **Excess Return Model (Base)** | ~1,400 | 1,204 | 14% margin of safety | +16% upside |
 
-The Excess Return Model gives a higher intrinsic value than the simplified BV Compounding approach because it explicitly values the premium from earning above cost of equity. The BV Compounding Model provides the clearest framework for returns — what you actually earn depends on the exit multiple the market assigns.
+The Excess Return Model is the most conservative of the four approaches because it discounts only the present value of future excess returns without assuming any terminal P/B re-rating. The BV Compounding scenarios produce higher values because they assume the market will assign a specific P/B multiple at exit — the actual outcome depends on which multiple materialises.
 
 ---
 
@@ -705,7 +705,7 @@ Asymmetry Ratio = 117 / 24 = ~4.9:1
 | 10-year return > 10% even if P/B halves (to 0.9x) | No — 10Y CAGR at 0.9x P/B would be ~6.9% |
 | **10-year return > 10% if P/B drops 35% (to 1.2x)** | **Yes — 10.0% CAGR** 🟢 |
 | **10-year return > 10% if P/B drops 20% (to 1.5x)** | **Yes — 12.5% CAGR** 🟢 |
-| 10-year return > 15% if P/B stays constant | Yes — 14.9% CAGR 🟢 |
+| 10-year return > 15% if P/B stays constant | Borderline — 14.9% CAGR falls just short of 15%; needs slight P/B expansion to 2.0x for 15.8% 🟡 |
 
 **🟢 GREEN — Safe entry. BV compounding at 15% overwhelms moderate multiple compression. Only an extreme de-rating to below 1.2x book would impair long-term returns, and that would require a fundamental deterioration in ROE to below 12%.**
 
