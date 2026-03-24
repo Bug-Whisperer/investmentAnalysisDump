@@ -40,7 +40,7 @@ Bandhan's moat WAS its unmatched rural distribution (6,300+ banking outlets), de
 | NII Growth YoY | — | 26% | 48% | 41% | 20% | 15% | 6% | 11% | 11% | ~-6% |
 | **NIM (%)** | ~9.5% | ~8.5% | ~8.5% | **~8.0%** | ~7.6% | ~7.1% | 6.8% | 6.9% | **6.7%** | ~5.9% |
 | Other Income (₹ Cr) | 411 | 706 | 1,063 | 1,549 | 2,022 | 2,823 | 2,469 | 2,171 | 2,967 | ~2,000 |
-| Other Income as % of Total Income | 10.5% | 14.7% | 16.0% | 14.2% | 16.1% | 20.3% | 15.5% | 11.5% | 13.5% | ~15% |
+| Other Income as % of Net Revenue (NII+OI) | ~14.6% | ~18.9% | ~19.1% | ~19.7% | ~21.1% | ~24.5% | ~21.1% | ~17.4% | ~20.5% | ~15% |
 | **Total Income (₹ Cr)** | 4,320 | 5,508 | 7,706 | 12,434 | 14,546 | 16,694 | 18,374 | 21,041 | 24,915 | ~23,700 |
 | Operating Expenses (₹ Cr) | 1,044 | 1,597 | 2,467 | 3,739 | 6,534 | **11,298** | 8,693 | 9,310 | 10,555 | ~12,200 |
 | **Cost-to-Income Ratio (%)** | ~30% | ~35% | ~35% | ~38% | ~55% | **~77%** | ~58% | ~55% | ~54% | ~60%+ |
@@ -50,7 +50,7 @@ Bandhan's moat WAS its unmatched rural distribution (6,300+ banking outlets), de
 | Net Income Growth YoY | — | 21% | 45% | **55%** | -27% | **-94%** | 1,642% | 2% | 23% | ~-75% |
 | **EPS (Diluted) (₹)** | 10.15 | 11.28 | 16.36 | **18.78** | 13.69 | **0.78** | 13.62 | 13.84 | 17.04 | ~4.28 |
 | EPS Growth YoY | — | 11% | 45% | 15% | -27% | **-94%** | 1,646% | 2% | 23% | ~-75% |
-| Shares Outstanding (Cr) | 10.95 | 11.93 | 11.93 | **16.10** | 16.11 | 16.11 | 16.11 | 16.11 | 16.11 | 16.11 |
+| Shares Outstanding (Cr) | 109.5 | 119.3 | 119.3 | **161.0** | 161.1 | 161.1 | 161.1 | 161.1 | 161.1 | 161.1 |
 | Shares Change YoY | — | +9% | 0% | **+35%** | 0% | 0% | 0% | 0% | 0% | 0% |
 | **ROA (%)** | ~4.4% | ~3.6% | ~3.9% | **~4.1%** | ~2.1% | **0.09%** | 1.41% | 1.25% | 1.43% | ~0.5% |
 | **ROE (%)** | **29%** | 19% | 19% | **23%** | 14% | **1%** | 12% | 11% | 12% | ~4% |
@@ -135,10 +135,10 @@ The restructured book post-COVID has largely resolved, but slippages remain elev
 
 | Event | Year | Shares Before | Shares After | Dilution | Price vs. BVPS |
 |---|---|---|---|---|---|
-| IPO | FY18 | 10.95 Cr | 11.93 Cr | +9% | IPO at ₹375, BVPS ~₹41 → **Hugely accretive** |
-| GRUH Finance Swap | FY20 | 11.93 Cr | **16.10 Cr** | **+35%** | Swap ratio was expensive; dilutive to existing shareholders |
+| IPO | FY18 | 109.5 Cr | 119.3 Cr | +9% | IPO at ₹375, BVPS ~₹41 → **Hugely accretive** |
+| GRUH Finance Swap | FY20 | 119.3 Cr | **161.0 Cr** | **+35%** | Swap ratio was expensive; dilutive to existing shareholders |
 
-**The GRUH Finance acquisition is the elephant in the room.** Bandhan issued ~4.17 Cr new shares to acquire GRUH, diluting existing shareholders by 35%. At the time, Bandhan was trading at ₹400-500/share and had BVPS of ~₹94. The acquisition brought in a housing finance portfolio but at a steep dilution cost. This is one reason BVPS growth has been sluggish — the dilution reset the per-share math.
+**The GRUH Finance acquisition is the elephant in the room.** Bandhan issued ~41.7 Cr new shares to acquire GRUH, diluting existing shareholders by 35%. At the time, Bandhan was trading at ₹400-500/share and had BVPS of ~₹94. The acquisition brought in a housing finance portfolio but at a steep dilution cost. This is one reason BVPS growth has been sluggish — the dilution reset the per-share math.
 
 **Since FY20, no further equity dilution.** The bank has funded growth through retained earnings, which is positive. However, the internal capital generation rate (~10-11%) is modest — barely enough to fund 10-12% advance growth while maintaining CRAR above 16%. **If the bank wants to grow faster, it will eventually need to raise equity, which would be dilutive at current prices (~1.05x book).**
 
@@ -321,10 +321,10 @@ The business model is proven (it works in good years) but NOT consistently profi
 
 | Period | Retained Earnings (₹ Cr) | Market Cap Change (₹ Cr) | Value Created per ₹1 Retained |
 |---|---|---|---|
-| FY18-FY25 (8 years) | ~₹15,200 Cr cumulative retained | Market cap went from ~₹60,000 Cr (post-IPO peak) to ~₹25,800 Cr | **-₹2.25 per ₹1 retained** |
+| FY18-FY25 (8 years) | ~₹14,500 Cr cumulative retained | Market cap went from ~₹60,000 Cr (post-IPO peak) to ~₹25,800 Cr | **-₹2.36 per ₹1 retained** |
 | FY23-FY25 (3 years) | ~₹6,437 Cr retained | Market cap from ~₹32,000 to ~₹25,800 | **-₹0.96 per ₹1 retained** |
 
-**The $1 test is a CATASTROPHIC FAIL.** The company has retained over ₹15,000 Cr of shareholder money since IPO and the market cap has DECLINED from its post-listing peak. Every rupee retained has destroyed market value. This is the single most damning metric for any management team.
+**The $1 test is a CATASTROPHIC FAIL.** The company has retained over ₹14,500 Cr of shareholder money since IPO and the market cap has DECLINED from its post-listing peak. Every rupee retained has destroyed market value. This is the single most damning metric for any management team.
 
 ### Management Changes
 
@@ -445,19 +445,19 @@ Fair P/B = (14% - 8%) / (12% - 8%) = 6% / 4% = 1.5x
 
 | Year | Conservative (9% BV growth) | Base (11.7% BV growth) | Optimistic (13.6% BV growth) |
 |---|---|---|---|
-| **Year 3 BVPS** | ₹198 | ₹213 | ₹226 |
-| Year 3 Price (at exit P/B) | ₹158 (0.8x) | ₹256 (1.2x) | ₹407 (1.8x) |
-| **Year 5 BVPS** | ₹235 | ₹266 | ₹292 |
-| Year 5 Price | ₹188 (0.8x) | ₹319 (1.2x) | ₹526 (1.8x) |
-| **Year 10 BVPS** | ₹362 | ₹468 | ₹560 |
-| Year 10 Price | ₹290 (0.8x) | ₹562 (1.2x) | ₹1,008 (1.8x) |
+| **Year 3 BVPS** | ₹198 | ₹213 | ₹224 |
+| Year 3 Price (at exit P/B) | ₹159 (0.8x) | ₹256 (1.2x) | ₹404 (1.8x) |
+| **Year 5 BVPS** | ₹235 | ₹266 | ₹289 |
+| Year 5 Price | ₹188 (0.8x) | ₹319 (1.2x) | ₹521 (1.8x) |
+| **Year 10 BVPS** | ₹362 | ₹463 | ₹548 |
+| Year 10 Price | ₹290 (0.8x) | ₹555 (1.2x) | ₹986 (1.8x) |
 
 **Implied Annual Returns from CMP ₹160:**
 
 | Horizon | Conservative | Base | Optimistic |
 |---|---|---|---|
-| 5-Year CAGR | 3.3% | **14.8%** | 26.9% |
-| 10-Year CAGR | 6.1% | **13.4%** | 20.2% |
+| 5-Year CAGR | 3.3% | **14.8%** | 26.6% |
+| 10-Year CAGR | 6.1% | **13.2%** | 19.9% |
 
 ### Method 2: Excess Return Model (Residual Income)
 
@@ -467,18 +467,18 @@ Fair P/B = (14% - 8%) / (12% - 8%) = 6% / 4% = 1.5x
 | Sustainable ROE | 10% | 13% | 16% |
 | Cost of Equity | 12% | 12% | 12% |
 | Excess Return Spread | **-2%** | **+1%** | **+4%** |
-| PV of 10-Year Excess Returns/Share | -₹20 | +₹15 | +₹55 |
-| Terminal Value of Excess Returns/Share | 0 | +₹20 | +₹75 |
-| **Intrinsic Value/Share** | **₹133** | **₹188** | **₹283** |
-| **Margin of Safety at ₹160** | **-20% (overvalued)** | **+18%** | **+77%** |
+| PV of 10-Year Excess Returns/Share | -₹24 | +₹13 | +₹58 |
+| Terminal Value of Excess Returns/Share | -₹26 | +₹17 | +₹78 |
+| **Intrinsic Value/Share** | **₹103** | **₹183** | **₹289** |
+| **Margin of Safety at ₹160** | **-55% (significantly overvalued)** | **+13%** | **+45%** |
 
 ### Intrinsic Value Summary
 
 | Scenario | Intrinsic Value | Margin of Safety | Upside/Downside |
 |---|---|---|---|
-| **Conservative** | ₹133 | -20% | -17% downside |
-| **Base** | ₹188 | +18% | +18% upside |
-| **Optimistic** | ₹283 | +77% | +77% upside |
+| **Conservative** | ₹103 | -55% | -36% downside |
+| **Base** | ₹183 | +13% | +14% upside |
+| **Optimistic** | ₹289 | +45% | +81% upside |
 
 ---
 
@@ -500,22 +500,22 @@ Fair P/B = (14% - 8%) / (12% - 8%) = 6% / 4% = 1.5x
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 16% | 21% | 27% |
-| 10 Years | 11% | 16% | 21% |
+| 5 Years | 9% | 14% | 19% |
+| 10 Years | 9% | 14% | 19% |
 
 **At Terminal PE = 15x (Average Private Bank)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 10% | 16% | 21% |
-| 10 Years | 8% | 13% | 18% |
+| 5 Years | 4% | 9% | 14% |
+| 10 Years | 7% | 12% | 17% |
 
 **At Terminal PE = 20x (Compounder)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 3% | 9% | 14% |
-| 10 Years | 5% | 10% | 15% |
+| 5 Years | -2% | 3% | 7% |
+| 10 Years | 4% | 9% | 14% |
 
 ### Reality Check
 
@@ -529,9 +529,9 @@ Fair P/B = (14% - 8%) / (12% - 8%) = 6% / 4% = 1.5x
 
 ### Traffic Light Verdict
 
-At terminal PE of 15x (fair for a private bank), to earn a 15% return over 10 years, Bandhan needs 13% EPS CAGR. Given India's nominal GDP growth of 10-12% and the bank's advance growth of 10-12%, this is **achievable but not guaranteed** — it requires NIM stabilisation and credit cost normalisation.
+At terminal PE of 15x (fair for a private bank), to earn a 15% return over 10 years, Bandhan needs ~12% EPS CAGR. Given India's nominal GDP growth of 10-12% and the bank's advance growth of 10-12%, this is **achievable but not guaranteed** — it requires NIM stabilisation and credit cost normalisation.
 
-**🟡 YELLOW — Fair but optimistic.** The market is NOT pricing in heroic assumptions at ₹160. The implied growth is reasonable IF (big if) asset quality stabilises. But the "if" is doing a lot of heavy lifting.
+**🟢 GREEN — Reasonably priced.** At ₹160 with normalised EPS of ₹14, the market is NOT pricing in heroic assumptions. The implied growth for a 10% return at PE 15x exit is just ~7%, well below GDP growth. Even for 15% returns, you need ~12% EPS CAGR — achievable IF asset quality stabilises.
 
 > *Buffett: "Price is what you pay, value is what you get."* — At ₹160, you're not paying a crazy price. But the business quality must improve for you to actually receive value.
 
@@ -567,15 +567,15 @@ At terminal PE of 15x (fair for a private bank), to earn a 15% return over 10 ye
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 1.05x | Sentiment unchanged | 9.9% | 10.2% | 10.1% |
-| P/B compresses to 0.8x | Stress de-rating | 2.6% | 4.5% | 5.7% |
-| P/B expands to 1.2x | Normalised ROE re-rating | 13.7% | 12.6% | 12.0% |
-| P/B expands to 1.5x | Good bank re-rating | **19.3%** | **16.0%** | **14.5%** |
-| P/B compresses to 1.0x (book value) | Worst case for quality bank | 9.8% | 10.3% | 10.2% |
+| P/B stays at 1.05x | Sentiment unchanged | 10.9% | 10.9% | 10.8% |
+| P/B compresses to 0.8x | Stress de-rating | 4.8% | 6.4% | 7.7% |
+| P/B expands to 1.2x | Normalised ROE re-rating | 13.9% | 13.0% | 12.3% |
+| P/B expands to 1.5x | Good bank re-rating | **19.1%** | **16.7%** | **14.9%** |
+| P/B compresses to 1.0x (book value) | Worst case for quality bank | 9.8% | 10.1% | 10.3% |
 
 ### Traffic Light Verdict on Valuation Safety
 
-At 1.05x book, even if P/B compresses to 0.8x over 10 years, the return is ~5.7% — not great but not catastrophic. If P/B stays flat, returns approximate BV compounding at ~10%. **This is a 🟢 GREEN signal for valuation safety — the downside from multiple compression at 1.05x book is limited because there's almost no premium to lose.**
+At 1.05x book, even if P/B compresses to 0.8x over 10 years, the return is ~7.7% — not great but not catastrophic. If P/B stays flat, returns approximate BV compounding at ~10.8%. **This is a 🟢 GREEN signal for valuation safety — the downside from multiple compression at 1.05x book is limited because there's almost no premium to lose.**
 
 > *Munger: "Over the long term, it's hard for a stock to earn a much better return than the business earns."* — At 1.05x book, your returns will closely track BV compounding (~10-11%), plus or minus any multiple expansion/compression. The entry price is not the problem here — the business quality is the question.
 
