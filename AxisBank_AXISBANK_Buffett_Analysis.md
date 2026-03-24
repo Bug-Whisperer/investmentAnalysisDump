@@ -394,7 +394,7 @@ The market has rewarded every rupee retained with nearly 3 rupees of value creat
 | Metric | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current (Mar 2026) |
 |---|---|---|---|---|---|---|---|---|
 | Price (Mar-end, approx ₹) | 760 | 440 | 710 | 750 | 870 | 1,110 | 1,140 | **1,204** |
-| **P/B** | 2.9x | 1.4x | 2.1x | 2.0x | 2.1x | 2.3x | 2.0x | **1.86x** |
+| **P/B** | 2.9x | 1.4x | 2.1x | 2.0x | 2.1x | 2.3x | 2.0x | **1.82x** |
 | **PE** | 39x | **67x** | 30x | 16x | 25x | 13x | 13x | **~14x** |
 | P/Normalised Earnings | — | — | — | ~20x | ~35x | ~14x | ~18x | ~18x |
 | BVPS (₹) | 264 | 306 | 337 | 384 | 406 | 487 | 577 | **~650** (estimated Mar 2026) |
@@ -488,21 +488,21 @@ Growth in Book Value:           14.9% (ROE × Retention)
 Terminal Growth of Excess:      4%
 ```
 
-| Year | BVPS | Excess Return (₹/share) | PV of Excess Return (₹) |
+| Year | Beginning BVPS | Excess Return (₹/share) | PV of Excess Return (₹) |
 |---|---|---|---|
-| 1 | 747 | 29.9 | 26.9 |
-| 2 | 858 | 34.3 | 27.9 |
-| 3 | 986 | 39.4 | 28.8 |
-| 4 | 1,133 | 45.3 | 29.9 |
-| 5 | 1,302 | 52.1 | 30.9 |
-| 6 | 1,496 | 59.8 | 32.0 |
-| 7 | 1,719 | 68.7 | 33.1 |
-| 8 | 1,975 | 79.0 | 34.3 |
-| 9 | 2,270 | 90.8 | 35.5 |
-| 10 | 2,607 | 104.3 | 36.7 |
-| **PV of 10-year Excess Returns** | | | **316** |
-| **Terminal Value of Excess Returns** | | PV = ~546 | **546** |
-| **Intrinsic Value** | | **650 + 316 + 546** | **~₹1,512** |
+| 1 | 650 | 26.0 | 23.4 |
+| 2 | 747 | 29.9 | 24.2 |
+| 3 | 858 | 34.3 | 25.1 |
+| 4 | 986 | 39.4 | 26.0 |
+| 5 | 1,133 | 45.3 | 26.9 |
+| 6 | 1,302 | 52.1 | 27.8 |
+| 7 | 1,496 | 59.8 | 28.8 |
+| 8 | 1,719 | 68.7 | 29.8 |
+| 9 | 1,975 | 79.0 | 30.9 |
+| 10 | 2,269 | 90.8 | 32.0 |
+| **PV of 10-year Excess Returns** | | | **275** |
+| **Terminal Value of Excess Returns** | | PV = ~475 | **475** |
+| **Intrinsic Value** | | **650 + 275 + 475** | **~₹1,400** |
 
 ### Valuation Summary
 
@@ -511,7 +511,7 @@ Terminal Growth of Excess:      4%
 | **Conservative** (13% ROE, 1.5x exit P/B, 5-year) | ~1,786 | 1,204 | 33% margin of safety | +48% upside |
 | **Base** (15% ROE, 2.0x exit P/B, 5-year) | ~2,610 | 1,204 | 54% margin of safety | +117% upside |
 | **Optimistic** (17% ROE, 2.5x exit P/B, 5-year) | ~3,537 | 1,204 | 66% margin of safety | +194% upside |
-| **Excess Return Model (Base)** | ~1,512 | 1,204 | 20% margin of safety | +26% upside |
+| **Excess Return Model (Base)** | ~1,400 | 1,204 | 14% margin of safety | +16% upside |
 
 The Excess Return Model gives a higher intrinsic value than the simplified BV Compounding approach because it explicitly values the premium from earning above cost of equity. The BV Compounding Model provides the clearest framework for returns — what you actually earn depends on the exit multiple the market assigns.
 
@@ -560,11 +560,6 @@ The Excess Return Model gives a higher intrinsic value than the simplified BV Co
 | 5 Years | 3% EPS CAGR | 7% | 12% |
 | 10 Years | 6% EPS CAGR | 11% | 16% |
 
-| Holding Period | 10% Return CAGR | 15% Return | 20% Return |
-|---|---|---|---|
-| 5 Years | 5% EPS CAGR | 11% | 16% |
-| 10 Years | 5% EPS CAGR | 8% | 11% |
-
 ### Step 4: Reality Check
 
 | Benchmark | EPS CAGR |
@@ -577,8 +572,8 @@ The Excess Return Model gives a higher intrinsic value than the simplified BV Co
 ### Step 5: Traffic Light Verdict
 
 **At Terminal PE = 16x (market average) and 10-year holding period:**
-- To earn 10% CAGR: Need 8% EPS CAGR → ₹85 → ₹183 EPS in 10 years
-- To earn 15% CAGR: Need 11% EPS CAGR → ₹85 → ₹241 EPS in 10 years
+- To earn 10% CAGR: Need 9% EPS CAGR → ₹85 → ₹201 EPS in 10 years
+- To earn 15% CAGR: Need 14% EPS CAGR → ₹85 → ₹315 EPS in 10 years
 
 Both are well within Axis Bank's capability (12-16% normalised EPS growth expected). **🟢 GREEN — Reasonable price. The market is NOT demanding heroic assumptions.**
 
@@ -599,7 +594,7 @@ Even at the pessimistic Terminal PE of 12x, you need ~12% EPS CAGR for a 10% ret
 | NPA-Adjusted Book | BVPS minus potential losses on restructured/SMA book | ~₹620 | -49% |
 | Historical Trough P/B | 1.4x (FY20 COVID low) × ₹650 | **₹910** | **-24%** |
 
-The most probable downside floor is **₹910-₹1,000** — the bank would need to experience a severe credit crisis or significant earnings deterioration to trade below 1.4x book persistently. At 1.86x book currently, the downside to the most probable floor is **~20-25%**.
+The most probable downside floor is **₹910-₹1,000** — the bank would need to experience a severe credit crisis or significant earnings deterioration to trade below 1.4x book persistently. At ~1.82x book currently, the downside to the most probable floor is **~20-25%**.
 
 **Part 2: Upside Case**
 
@@ -707,7 +702,7 @@ Asymmetry Ratio = 117 / 24 = ~4.9:1
 
 | Condition | Verdict |
 |---|---|
-| 10-year return > 10% even if P/B halves (to 0.9x) | No — 10Y CAGR at 0.9x P/B would be ~5.5% |
+| 10-year return > 10% even if P/B halves (to 0.9x) | No — 10Y CAGR at 0.9x P/B would be ~6.9% |
 | **10-year return > 10% if P/B drops 35% (to 1.2x)** | **Yes — 10.0% CAGR** 🟢 |
 | **10-year return > 10% if P/B drops 20% (to 1.5x)** | **Yes — 12.5% CAGR** 🟢 |
 | 10-year return > 15% if P/B stays constant | Yes — 14.9% CAGR 🟢 |
@@ -801,7 +796,7 @@ Not applicable — **the turnaround is COMPLETE.** Axis Bank has already transit
 | Management Quality & Risk Culture | **8** | Chaudhry has delivered a remarkable turnaround; candid, disciplined, risk-aware |
 | Earnings Quality (Normalised vs Reported) | **7** | FY25 earnings roughly at normalised levels; NIM compression is the headwind |
 | Valuation (P/B vs Fair P/B) | **8** | ~1.82x consolidated P/B for 16% ROE business — below deserved 2.0-2.5x; attractive |
-| Margin of Safety (Excess Return Model) | **7** | ~20% margin of safety on Excess Return Model; wider on BV compounding model |
+| Margin of Safety (Excess Return Model) | **7** | ~14% margin of safety on Excess Return Model; wider on BV compounding model |
 | Book Value Compounding Potential | **8** | 15%+ BVPS growth with 99% retention; self-funding; minimal dilution |
 | **Buffett Verdict** | | **True Buffett Bank — quality franchise at a fair-to-attractive price. India's 3rd largest private bank earning 16% ROE, trading at ~1.82x consolidated book when fundamentals justify 2.0-2.5x+. NIM compression and retail NPA uptick are cyclical headwinds creating a buying window. BV compounds at ~15% annually. At current price, expect 14-17% CAGR over 5-10 years with moderate re-rating potential. BUY and hold for long-term compounding.** |
 | **Buy Zone** | | **Currently in FAIR VALUE / ACCUMULATE zone (₹1,105-₹1,430). More aggressive buying below ₹1,100 (1.7x book).** |
