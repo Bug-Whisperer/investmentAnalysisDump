@@ -265,9 +265,9 @@ The condom industry is remarkably stable — but Cupid's POSITION within it is w
 | FY2023 | 159 | 20% | 41 | 78% | **69%** |
 | FY2024 | 172 | 8% | 51 | 24% | **77%** |
 | FY2025 | 183 | 6% | 42 | -18% | N/A (declining) |
-| TTM Dec'25 | 320 | 54% | 118 | ~181% | **55%** |
+| TTM Dec'25 | 320 | 54% | 118 | ~51% | **36%** |
 
-The incremental margins are impressive in growth years (69-77% in FY2023-24, 55% TTM) — indicating strong operating leverage when revenue grows. But they collapse when revenue stalls or declines — confirming the high fixed-cost, tender-dependent nature of the business.
+The incremental margins are impressive in growth years (69-77% in FY2023-24, 36% TTM) — indicating operating leverage when revenue grows. But they collapse when revenue stalls or declines — confirming the high fixed-cost, tender-dependent nature of the business.
 
 **Capital Scalability:**
 
@@ -300,7 +300,7 @@ Cupid appears to be at a genuine inflection point:
 | Dimension | Score (1-10) | Evidence |
 |---|---|---|
 | Revenue scalability | 6 | Institutional channel has ceiling per tender; FMCG unproven |
-| Profit scalability | 7 | Strong operating leverage (55-77% incremental margins when growing) |
+| Profit scalability | 7 | Strong operating leverage (36-77% incremental margins when growing) |
 | Capital scalability | 5 | Currently heavy capex phase; post-Palava should improve |
 | Scaling runway | 8 | <0.3% of global market, massive TAM, 110+ country presence |
 | S-Curve position | 7 | At inflection — capacity expanding 2.5x, record order book, FY26 breakout year |
