@@ -90,7 +90,7 @@ NIM is **compressing** — from a peak of 5.32% in FY2024 to 4.96% in FY2025 and
 | **Total Assets** | 395,171 | 443,173 | 478,854 | 546,498 | 620,430 | 767,667 | **879,774** | **912,952** |
 | Total Asset Growth | 17% | 12% | 8% | 14% | 14% | **24%** | 15% | — |
 | **Shareholders' Equity** | 57,781 | 66,637 | 84,339 | 96,665 | 111,814 | 129,972 | **157,489** | 167,935 |
-| Book Value Per Share (₹, post-split) | 12.1 | 13.9 | 17.0 | 19.5 | 22.5 | 26.2 | **31.7** | **33.8** |
+| Book Value Per Share (₹) | 303 | 348 | 426 | 487 | 563 | 654 | **792** | **~845** |
 | BVPS Growth YoY | — | 15% | 22% | 15% | 15% | **16%** | 21% | — |
 | **Capital Adequacy (CRAR)** | ~18% | ~18% | ~23% | ~22% | ~22% | ~22% | **~22.2%** | **22.8%** |
 | CET-1 Ratio | — | — | — | — | — | — | **~22.3%** | 21.5% |
@@ -307,7 +307,7 @@ The bank is generating ~15% internal capital, sufficient to fund 15-16% loan gro
 ## 9. MANAGEMENT QUALITY & BUFFETT'S $1 TEST
 
 **The $1 Test:**
-Over FY2019 to FY2025, Kotak retained approximately ₹80,000 Cr of earnings. Market cap moved from ~₹2.5 lakh Cr to ~₹3.7 lakh Cr, an increase of ~₹1.2 lakh Cr. **For every ₹1 retained, ~₹1.5 of market value was created.** ✅ Passes the $1 test.
+Over FY2019 to FY2025, Kotak earned cumulative consolidated PAT of ~₹93,100 Cr and retained ~₹91,300 Cr (98% retention). Market cap moved from ~₹2.5 lakh Cr (FY2019) to ~₹3.7 lakh Cr (Mar 2026), an increase of ~₹1.2 lakh Cr. **For every ₹1 retained, ~₹1.3 of market value was created.** ✅ Passes the $1 test, though the ratio is modest — reflecting the market's de-rating of the stock from ~4.5x P/B to 2.4x P/B over this period. Had the P/B multiple stayed constant, the value created would have been >₹2 per ₹1 retained.
 
 **Capital Allocation:**
 - **No significant acquisitions** post ING Vysya (2014) — disciplined.
@@ -356,18 +356,18 @@ Uday Kotak stepped down as MD & CEO in September 2023 (post RBI term limits). As
 
 | Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | **FY2025** | **Current (Mar 2026)** |
 |---|---|---|---|---|---|---|---|
-| **P/B** | ~4.5x | ~4.5x | ~4.0x | ~3.5x | ~3.0x | ~2.4x | **~2.2x** |
+| **P/B** | ~4.5x | ~4.5x | ~4.0x | ~3.5x | ~3.0x | ~2.4x | **~2.37x** |
 | P/TBV | ~4.8x | ~4.7x | ~4.2x | ~3.6x | ~3.2x | ~2.5x | ~2.3x |
 | **PE** | ~36x | ~38x | ~32x | ~26x | ~21x | ~17x | **~20x*** |
 | Forward PE (est. FY2026E) | — | — | — | — | — | — | ~20-22x |
 | Earnings Yield | 2.8% | 2.6% | 3.1% | 3.8% | 4.8% | 5.9% | **~5.0%** |
 | Dividend Yield | ~0.04% | 0% | ~0.05% | ~0.05% | ~0.07% | ~0.1% | **~0.13%** |
-| BVPS (post-split ₹) | 13.9 | 17.0 | 19.5 | 22.5 | 26.2 | 31.7 | ~33.8 (Dec 25) |
+| BVPS (₹) | 348 | 426 | 487 | 563 | 654 | 792 | ~845 (Dec 25) |
 | BV Growth Rate | 15% | 22% | 15% | 15% | 16% | 21% | — |
 
 *\*PE of ~20x based on TTM consolidated EPS of ~₹18.9 (post-split). Using normalised FY2025 EPS excluding KGI gain, normalised PE is higher.*
 
-**Historical Comparison:** Kotak has historically traded at 4-5x book value. The current 2.2x book is **near the lowest valuation the stock has seen in over a decade**. This de-rating reflects: (a) NIM compression fears, (b) the RBI embargo aftermath, (c) lower ROE vs. peers, and (d) concerns about the management transition.
+**Historical Comparison:** Kotak has historically traded at 4-5x book value. The current 2.37x book is **near the lowest valuation the stock has seen in over a decade**. This de-rating reflects: (a) NIM compression fears, (b) the RBI embargo aftermath, (c) lower ROE vs. peers, and (d) concerns about the management transition.
 
 ### Fair P/B Calculation (Gordon Growth Model):
 
@@ -390,10 +390,10 @@ Fair P/B = (0.14 - 0.137) / (0.11 - 0.137) = 0.003 / (-0.027) → Model breaks d
 |---|---|---|
 | ROE ≈ CoE (~11%) | ~1.0x | — |
 | ROE = 13-14% | 1.5-2.0x | — |
-| **ROE = 15-16%** | **2.0-3.0x** | **✅ Kotak is here at 2.2x** |
+| **ROE = 15-16%** | **2.0-3.0x** | **✅ Kotak is here at 2.37x** |
 | ROE = 17-20% | 3.0-4.0x | — |
 
-At 15% ROE, the fair P/B for Kotak is approximately **2.0-3.0x book**. Current P/B of 2.2x is at the **lower end of the justified range**, suggesting the stock is **fairly to slightly undervalued**.
+At 15% ROE, the fair P/B for Kotak is approximately **2.0-3.0x book**. Current P/B of 2.37x is at the **lower end of the justified range**, suggesting the stock is **fairly to slightly undervalued**.
 
 ---
 
@@ -405,7 +405,7 @@ At 15% ROE, the fair P/B for Kotak is approximately **2.0-3.0x book**. Current P
 
 | Input | Conservative | Base | Optimistic |
 |---|---|---|---|
-| Current BVPS (₹) | 33.8 | 33.8 | 33.8 |
+| Current BVPS (₹) | 158 | 158 | 158 |
 | Sustainable ROE | 13% | 15% | 16% |
 | Retention Ratio | 98% | 98% | 98% |
 | BV Compounding Rate | 12.7% | 14.7% | 15.7% |
@@ -413,50 +413,14 @@ At 15% ROE, the fair P/B for Kotak is approximately **2.0-3.0x book**. Current P
 
 **Projected BVPS and Implied Stock Price:**
 
-| Year | Conservative BVPS → Price | Base BVPS → Price | Optimistic BVPS → Price |
-|---|---|---|---|
-| Year 3 (FY2029) | ₹48.4 → ₹97 | ₹51.0 → ₹128 | ₹52.7 → ₹158 |
-| Year 5 (FY2031) | ₹61.5 → ₹123 | ₹67.2 → ₹168 | ₹71.2 → ₹214 |
-| Year 7 (FY2033) | ₹78.2 → ₹156 | ₹88.6 → ₹222 | ₹96.3 → ₹289 |
-| Year 10 (FY2036) | ₹112.6 → ₹225 | ₹136.5 → ₹341 | ₹155.9 → ₹468 |
-
-**Implied Annual Return (CAGR) from CMP ₹375:**
-
-| Scenario | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
-|---|---|---|---|
-| Conservative (13% ROE, 2.0x exit) | -20% | -12% | -5% |
-| Base (15% ROE, 2.5x exit) | -15% | -7% | -1% |
-| Optimistic (16% ROE, 3.0x exit) | -11% | -4% | 2% |
-
-**⚠️ IMPORTANT NOTE:** These results look alarming, but this is because the current share price (₹375 post-split) already embeds significant premium. Let me recalculate using pre-split comparables for clarity.
-
-*Post-split BVPS = ₹33.8, CMP = ₹375. Current P/B = 375/33.8 = **11.1x**!*
-
-**CORRECTION — Data Reconciliation:**
-The screener shows Book Value = ₹169 (this appears to be PRE-SPLIT). Post the 5:1 split, BV per share = ₹169/5 = ₹33.8. CMP post-split = ₹375. This gives P/B = 375/33.8 = **11.1x**, which seems extremely high.
-
-Let me verify: Market Cap = ₹3,73,390 Cr. Equity = ₹157,489 Cr (FY2025). P/B = 373,390/157,489 = **2.37x**. This is correct.
-
-The reconciliation: Shares outstanding = 994 Cr. BVPS = 157,489/994 = **₹158.4** (pre-split ₹792). Post 5:1 split: ₹158.4/5 = ₹31.7. CMP = ₹375... 
-
-**WAIT — The stock price shown on screener as ₹400 was pre-split (March 6, 2026 close). Post-split price is indeed ~₹375 but the FACE VALUE became ₹1 (was ₹5). Shares outstanding went from ~199 Cr to ~994 Cr. BVPS post-split = ₹158.4 per share with 994 Cr shares... No, that's not right either.**
-
-Let me use the market-cap based calculation which is unambiguous:
-
-**Market Cap = ₹3,73,390 Cr. Equity = ₹157,489 Cr. P/B = 2.37x. ✅ This is correct.**
-
-**So: BVPS = ₹157,489 Cr / 994 Cr shares = ₹158.4 and CMP = ₹375... that gives P/B = 2.37x only if shares are ~994 Cr at face value ₹1.**
-
-**Actually, the 5:1 split means old 199 Cr shares became 994 Cr shares. Old BVPS was ~₹792, new BVPS = ₹158.4. Old price was ~₹1,875 equivalent, new price is ₹375. P/B = 375/158.4 = 2.37x. ✅ CONFIRMED.**
-
-**Let me redo the analysis with correct BVPS = ₹158.4:**
+> *Note: BVPS = ₹158 per share (Equity of ₹157,489 Cr / 994 Cr shares). CMP = ₹375. P/B = 375/158 = 2.37x. Confirmed via Market Cap / Equity = 373,390/157,489 = 2.37x.*
 
 | Year | Conservative BVPS → Price | Base BVPS → Price | Optimistic BVPS → Price |
 |---|---|---|---|
 | Current | ₹158 → ₹375 (2.37x P/B) | ₹158 → ₹375 | ₹158 → ₹375 |
-| Year 5 (FY2031) | ₹289 → ₹578 | ₹316 → ₹790 | ₹335 → ₹1,004 |
-| Year 7 (FY2033) | ₹368 → ₹735 | ₹417 → ₹1,042 | ₹453 → ₹1,358 |
-| Year 10 (FY2036) | ₹530 → ₹1,060 | ₹642 → ₹1,605 | ₹733 → ₹2,198 |
+| Year 5 (FY2031) | ₹288 → ₹576 | ₹314 → ₹784 | ₹327 → ₹982 |
+| Year 7 (FY2033) | ₹366 → ₹732 | ₹413 → ₹1,032 | ₹438 → ₹1,314 |
+| Year 10 (FY2036) | ₹524 → ₹1,048 | ₹623 → ₹1,557 | ₹678 → ₹2,034 |
 
 **Assumptions:**
 
@@ -470,11 +434,9 @@ Let me use the market-cap based calculation which is unambiguous:
 
 | Scenario | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|
-| **Conservative** | 9.0% | 10.0% | 10.9% |
-| **Base** | 16.1% | 15.8% | 15.6% |
-| **Optimistic** | 21.8% | 20.3% | 19.3% |
-
-**This is much more sensible.**
+| **Conservative** | 8.9% | 10.0% | 10.8% |
+| **Base** | 15.9% | 15.6% | 15.3% |
+| **Optimistic** | 21.2% | 19.6% | 18.4% |
 
 ### Method 2: Excess Return Model (Residual Income)
 
@@ -485,16 +447,16 @@ Let me use the market-cap based calculation which is unambiguous:
 | Cost of Equity | 11% | 11% | 11% |
 | Excess Return Spread | 2% | 4% | 5% |
 | Terminal Growth of Excess Returns | 3% | 4% | 5% |
-| Intrinsic Value Per Share | ~₹310 | ~₹450 | ~₹580 |
-| Margin of Safety at ₹375 | **-21%** (overvalued) | **+17%** (fair) | **+35%** (undervalued) |
+| Intrinsic Value Per Share | ~₹237 | ~₹356 | ~₹455 |
+| Margin of Safety at ₹375 | **-58%** (overvalued) | **-5%** (fairly valued) | **+18%** (undervalued) |
 
 ### Valuation Summary:
 
 | Scenario | Intrinsic Value | Margin of Safety | 10-Year CAGR |
 |---|---|---|---|
-| Conservative | ~₹310 | -21% (overvalued) | ~11% |
-| **Base** | **~₹450** | **+17%** | **~16%** |
-| Optimistic | ~₹580 | +35% | ~19% |
+| Conservative | ~₹237 | -58% (overvalued) | ~11% |
+| **Base** | **~₹356** | **-5%** (fairly valued) | **~15%** |
+| Optimistic | ~₹455 | +18% (undervalued) | ~19% |
 
 ---
 
@@ -503,8 +465,8 @@ Let me use the market-cap based calculation which is unambiguous:
 | Input | Value |
 |---|---|
 | CMP | ₹375 |
-| Normalised EPS (FY2025, excl. KGI gain) | ~₹16 (pre-split ~₹80, post-split ~₹16) |
-| Current PE (on normalised EPS) | ~23x |
+| TTM EPS (post-split, normalised — KGI gain has rolled out of TTM) | ~₹18.9 |
+| Current PE (on TTM EPS) | ~20x |
 | Historical 5Y EPS CAGR | ~22% |
 
 ### Implied EPS CAGR Needed:
@@ -513,22 +475,22 @@ Let me use the market-cap based calculation which is unambiguous:
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 21% | 28% | 35% |
-| 10 Years | 14% | 18% | 22% |
+| 5 Years | 16% | 22% | 27% |
+| 10 Years | 13% | 18% | 23% |
 
 **At Terminal PE = 20x (Market Average):**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 15% | 22% | 29% |
-| 10 Years | 11% | 15% | 19% |
+| 5 Years | 10% | 15% | 20% |
+| 10 Years | 10% | 15% | 20% |
 
 **At Terminal PE = 25x (Quality Compounder):**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 11% | 18% | 24% |
-| 10 Years | 9% | 13% | 17% |
+| 5 Years | 5% | 10% | 15% |
+| 10 Years | 7% | 12% | 17% |
 
 ### Reality Check:
 
@@ -540,11 +502,11 @@ Let me use the market-cap based calculation which is unambiguous:
 | Analyst Consensus (Forward) | ~15-18% |
 
 **Traffic Light:**
-At a terminal PE of 20x and a 10-year horizon, you need ~11% EPS CAGR for a 10% return. Kotak has historically delivered 22% EPS CAGR, and analysts expect 15-18%. The implied growth needed is **well below historical delivery**. 🟢 **GREEN — Reasonable price.**
+At a terminal PE of 20x and a 10-year horizon, you need ~10% EPS CAGR for a 10% return. Kotak has historically delivered ~20% EPS CAGR, and analysts expect 15-18%. The implied growth needed is **well below historical delivery**. 🟢 **GREEN — Reasonable price.**
 
-For a 15% return over 10 years at 20x terminal PE, you need ~15% EPS CAGR — exactly in line with analyst expectations and below historical delivery. 🟢 **GREEN.**
+For a 15% return over 10 years at 20x terminal PE, you need ~15% EPS CAGR — below historical delivery and in line with analyst expectations. 🟢 **GREEN.**
 
-> *"At the current price of ₹375, to earn a 15% annualised return over 10 years assuming the market values the bank at 20x PE at exit, the company needs to grow EPS at ~15% CAGR. The company has historically grown EPS at ~22% CAGR. This implies the market is pricing in a DECELERATION in growth, which is reasonable given the bank's size — but the growth expectation is achievable, not heroic."*
+> *"At the current price of ₹375, to earn a 15% annualised return over 10 years assuming the market values the bank at 20x PE at exit, the company needs to grow EPS at ~15% CAGR. The company has historically grown EPS at ~20% CAGR. This implies the market is pricing in a DECELERATION in growth, which is reasonable given the bank's size — but the growth expectation is very achievable, not heroic."*
 
 ### Asymmetric Upside Check:
 
@@ -563,18 +525,18 @@ The **most probable downside floor** is ~₹237 (1.5x book) — the stock has ne
 
 | Scenario | Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
-| Base intrinsic value | 2.5x BVPS in FY2031 | ₹790 | +111% |
-| Bull case | 3.0x BVPS in FY2031 | ₹1,004 | +168% |
+| Base intrinsic value | 2.5x BVPS in FY2031 | ₹784 | +109% |
+| Bull case | 3.0x BVPS in FY2031 | ₹982 | +162% |
 | ROE improvement | If ROE reaches 17% → 3.5x justified P/B | ₹1,100+ | +193% |
 
 **Asymmetry Ratio:**
-Realistic Upside: +111% (base case, 5 years)
+Realistic Upside: +109% (base case, 5 years)
 Realistic Downside: -37% (trough P/B)
-**Asymmetry Ratio = 111/37 = 3.0:1** — **Strong Fat Pitch.**
+**Asymmetry Ratio = 109/37 = 2.9:1** — **Strong Fat Pitch.**
 
 **Mispricing Opportunity:**
 
-> *"The mispricing opportunity is PRESENT. The market is mispricing Kotak because: (1) NIM compression from 5.3% to 4.5% has spooked investors, but this is partially cyclical and will stabilise; (2) the RBI embargo created a narrative of regulatory risk that has since been resolved; (3) the management transition from Uday Kotak created uncertainty that appears overblown given Vaswani's steady performance; (4) FII selling has been relentless — FII holding dropped from 41% to 29% — creating technical selling pressure independent of fundamentals. The current P/B of 2.2x for a 15% ROE, 1.9% ROA bank with best-in-class asset quality is a multi-year low and represents temporary pessimism being priced as permanent."*
+> *"The mispricing opportunity is PRESENT. The market is mispricing Kotak because: (1) NIM compression from 5.3% to 4.5% has spooked investors, but this is partially cyclical and will stabilise; (2) the RBI embargo created a narrative of regulatory risk that has since been resolved; (3) the management transition from Uday Kotak created uncertainty that appears overblown given Vaswani's steady performance; (4) FII selling has been relentless — FII holding dropped from 41% to 29% — creating technical selling pressure independent of fundamentals. The current P/B of 2.37x for a 15% ROE, 1.9% ROA bank with best-in-class asset quality is a multi-year low and represents temporary pessimism being priced as permanent."*
 
 ---
 
@@ -584,11 +546,13 @@ Realistic Downside: -37% (trough P/B)
 
 | Component | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|
-| ROA | 2.3% | 2.5% | 2.0% (excl. KGI: ~2.0%) |
-| Leverage (Assets/Equity) | 5.5x | 5.9x | 5.6x |
-| **ROE = ROA × Leverage** | **~13.5%** | **~14.8%** | **~15.4%** |
+| ROA (Standalone, excl. one-offs) | 2.3% | 2.5% | 2.0% |
+| ROA (Consol., incl. KGI gain FY25) | ~2.4% | ~2.5% | ~2.7% |
+| Leverage (Consol. Assets/Equity) | 5.5x | 5.9x | 5.6x |
+| **Consol. ROA × Leverage** | **~13.2%** | **~14.8%** | **~15.1%** |
+| **Consolidated ROE (reported)** | **~14%** | **~15%** | **~15%** |
 
-**Quality Assessment:** ROE is driven by **HIGH ROA (2.0%) with LOW leverage (5.6x)**. This is the highest quality configuration for a bank. Most Indian banks operate at 10-15x leverage; Kotak is at 5.6x. The ROE looks modest only because of conservative capitalisation.
+**Quality Assessment:** FY2025 reported ROE of ~15% includes the one-time KGI divestment gain. Excluding the gain, normalised consolidated ROA falls to ~2.0%, producing a normalised ROE of ~11-12%. Even this normalised level reflects HIGH QUALITY returns — driven by strong ROA with LOW leverage (5.6x, among the lowest in Indian banking). The gap between standalone and consolidated returns also reflects the earnings contribution from Kotak's non-bank subsidiaries (broking, AMC, insurance, vehicle finance) — an additional moat.
 
 ### Part B: P/B Scenario Analysis
 
@@ -614,15 +578,15 @@ Realistic Downside: -37% (trough P/B)
 
 | Exit P/B | Rationale | 5Y CAGR | 7Y CAGR | 10Y CAGR |
 |---|---|---|---|---|
-| 2.37x (current) | Sustains | 13.5% | 13.8% | 14.0% |
-| 2.0x (mild compression) | Market rationalises | 10.3% | 11.2% | 12.0% |
-| 1.75x (significant compression) | Derating | 7.8% | 9.3% | 10.6% |
-| 1.5x (trough) | Historical low | 4.7% | 7.0% | 8.9% |
-| 2.5x (mild expansion) | ROE improves | 15.3% | 15.2% | 15.0% |
-| 3.0x (full re-rating) | Return to historical avg | 19.2% | 17.8% | 16.7% |
+| 2.37x (current) | Sustains | 14.2% | 14.2% | 14.2% |
+| 2.0x (mild compression) | Market rationalises | 10.4% | 11.3% | 12.3% |
+| 1.75x (significant compression) | Derating | 7.5% | 9.3% | 10.8% |
+| 1.5x (trough) | Historical low | 4.2% | 6.9% | 9.1% |
+| 2.5x (mild expansion) | ROE improves | 15.4% | 15.1% | 14.8% |
+| 3.0x (full re-rating) | Return to historical avg | 19.7% | 17.9% | 16.9% |
 
 **Key Insight:**
-> *"At the current entry P/B of 2.37x with sustainable ROE of ~14.5% and 98% retention, book value compounds at ~14.2% annually. If P/B stays at 2.37x, return equals the BV compounding rate of ~14%. The stock can tolerate P/B compression from 2.37x down to ~1.75x before the 10-year return drops below 10%."*
+> *"At the current entry P/B of 2.37x with sustainable ROE of ~14.5% and 98% retention, book value compounds at ~14.2% annually. If P/B stays at 2.37x, return equals the BV compounding rate of ~14.2%. The stock can tolerate P/B compression from 2.37x down to ~1.75x before the 10-year return drops below 11%."*
 
 **Traffic Light Verdict:**
 10-year return exceeds 10% hurdle even if P/B compresses from 2.37x to 1.75x (a 26% compression). 🟢 **GREEN — Safe entry. BV compounding overwhelms moderate multiple compression.**
@@ -720,7 +684,7 @@ If Buffett were working with a **small capital base** (which he often says he'd 
 | **Book Value Compounding Potential** | **8** | 14%+ annual BV compounding with no dilution |
 | **Scalability** | **7** | Strong capital scalability; India credit runway; NIM headwinds |
 
-| **Buffett Verdict** | **True Buffett Bank.** A wonderful business — India's best-managed private bank with 40 years of conservative risk culture, best-in-class asset quality, and high ROA-driven returns. Trading at 2.2-2.4x book, which is the lowest in a decade and at the lower end of justified valuation for a 15% ROE bank. NIM compression is cyclical, not fatal. Management transition is progressing well. At ₹375, this is a fair price for a wonderful business. A 10-year buy-and-hold investor earning a 14%+ CAGR from book value compounding alone, with potential upside from multiple re-rating if ROE improves. Not a fat pitch at current levels, but a very solid long-term compounding opportunity. Buffett would likely accumulate slowly at current prices and buy aggressively below ₹300 (2.0x book). |
+| **Buffett Verdict** | **True Buffett Bank.** A wonderful business — India's best-managed private bank with 40 years of conservative risk culture, best-in-class asset quality, and high ROA-driven returns. Trading at ~2.37x book, which is near the lowest in a decade and at the lower end of justified valuation for a 15% ROE bank. NIM compression is cyclical, not fatal. Management transition is progressing well. At ₹375, this is a fair price for a wonderful business. A 10-year buy-and-hold investor earning a 14%+ CAGR from book value compounding alone, with potential upside from multiple re-rating if ROE improves. Not a fat pitch at current levels, but a very solid long-term compounding opportunity. Buffett would likely accumulate slowly at current prices and buy aggressively below ₹316 (2.0x book). |
 |---|---|
 | **Buy Zone** | Fair Value / Hold zone (P/B 2.0-2.5x) |
 | **Overall Recommendation** | **ACCUMULATE** at CMP ₹375. **BUY aggressively** below ₹316 (2.0x book). **HOLD** if already owned. Target 10-year price: ₹800-1,000+ (base-bull case). |

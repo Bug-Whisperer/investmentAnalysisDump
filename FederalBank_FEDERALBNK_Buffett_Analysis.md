@@ -30,23 +30,33 @@ Federal Bank is one of India's oldest private sector banks, incorporated in 1931
 
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | TTM |
 |---|---|---|---|---|---|---|---|
-| **Total Income (₹Cr)** | 13,590 | 14,314 | 14,382 | 17,812 | 23,565 | 28,106 | ~28,835 |
-| Interest Income | 8,678 | 8,435 | 7,959 | 9,975 | 14,495 | 17,631 | ~17,800 |
-| Interest Expense | 4,608 | 5,527 | 5,758 | 5,828 | 6,792 | 8,523 | ~9,800 |
-| **NIM** | 3.20% | 3.10% | 3.24% | 3.03% | 2.85% | **3.13%** | 3.18% |
+| **Interest Earned (₹Cr)** | 13,590 | 14,314 | 14,382 | 17,812 | 23,565 | 28,106 | ~28,835 |
+| Interest Expended | 8,678 | 8,435 | 7,959 | 9,975 | 14,495 | 17,631 | ~17,826 |
+| **NII (₹Cr)** | 4,912 | 5,879 | 6,423 | 7,837 | 9,070 | 10,475 | ~11,009 |
+| NII Growth YoY | — | +19.7% | +9.3% | **+22.0%** | +15.7% | +15.5% | — |
+| **NIM (Standalone)** | ~3.08% | ~3.15% | ~3.15% | **~3.43%** | ~3.16% | ~3.13% | 3.18% (Q3FY26) |
 | Other Income | 1,882 | 1,972 | 2,121 | 2,436 | 3,216 | 3,924 | ~4,460 |
+| Other Inc. as % of Total Ops Income | 27.7% | 25.1% | 24.8% | 23.7% | 26.2% | 27.2% | — |
+| **Total Operating Income (NII + Other)** | 6,794 | 7,851 | 8,544 | 10,273 | 12,286 | 14,399 | ~15,469 |
 | Operating Expenses | 4,608 | 5,527 | 5,758 | 5,828 | 6,792 | 8,523 | ~9,885 |
-| **Cost-to-Income** | ~54.8% | ~54.7% | ~53.7% | ~55.7% | ~55.7% | **56.7%** | ~54% |
-| PPOP (₹Cr) | ~2,060 | ~2,209 | ~2,646 | ~4,263 | ~5,261 | ~5,588 | ~5,583 |
+| **Cost-to-Income Ratio** | **67.8%** | **70.4%** | 67.4% | 56.7% | **55.3%** | 59.2% | ~54% (Q3FY26) |
+| **PPOP (₹Cr)** | 2,186 | 2,324 | 2,786 | **4,445** | **5,494** | 5,876 | ~5,584 |
+| PPOP Growth YoY | — | +6.3% | +19.9% | **+59.5%** | +23.6% | +7.0% | — |
+| Depreciation & Amortisation | ~126 | ~115 | ~140 | ~182 | ~233 | ~288 | — |
+| **PBT (₹Cr)** | 2,060 | 2,209 | 2,646 | **4,263** | **5,261** | 5,588 | 5,583 |
 | **Net Income (₹Cr)** | 1,590 | 1,680 | 1,996 | **3,210** | 3,964 | 4,234 | 4,219 |
 | Net Income Growth | — | +5.7% | +18.8% | **+60.8%** | +23.5% | +6.8% | ~0% |
 | **EPS (₹)** | 7.93 | 8.34 | 9.37 | **14.95** | 15.93 | 16.93 | 16.65 |
 | Shares Out (Cr) | 199.5 | 199.5 | 210.5 | 211.5 | **243.5** | 245.5 | ~246 |
 | Shares Change | — | 0% | +5.5% | +0.5% | **+15.1%** | +0.8% | — |
-| **ROA** | 0.94% | **0.85%** | 0.94% | **1.28%** | **1.32%** | 1.24% | 1.15% |
-| **ROE** | 11.1% | 10.8% | 11.4% | **15.4%** | 14.7% | 12.8% | 11.7% |
+| **ROA** | 0.92% | 0.87% | 0.93% | **1.30%** | **1.35%** | 1.25% | ~1.15% |
+| **ROE** | ~11% | ~11% | ~11% | **~15%** | **~15%** | ~13% | ~12% |
 
-**Narrative:** FY23 was the **inflection year** — net profit jumped 61%, ROA crossed 1.28%. But FY24-FY25 show **deceleration** (61% → 24% → 7%). This is normalisation, not deterioration — the FY23 surge was partly driven by credit costs falling from COVID levels. Key concern: C/I ratio stuck at 54-57% — no operating leverage yet. The FY24 share dilution of ~15% diluted EPS growth significantly.
+**Narrative:** FY23 was the **inflection year** — net profit jumped 61%, ROA crossed 1.3%, and NIM peaked at ~3.43% as assets repriced faster than liabilities during the rate-hiking cycle. The **Cost-to-Income ratio improved dramatically** from ~70% (FY20-FY21) to ~55% (FY23-FY24), reflecting genuine operating leverage. However, C/I crept back to ~59% in FY25 due to investment in branches and technology — management is working to bring it back below 55%.
+
+*Note: C/I ratios above are on a CONSOLIDATED basis (OpEx / (NII + Other Income)). Standalone C/I is ~5-8% lower (e.g., standalone FY24 ~47-49% vs consolidated ~55%) because consolidated figures include subsidiary operating costs. Q3FY26 standalone C/I was 53.92% per press release.*
+
+FY24-FY25 show **profit growth deceleration** (61% → 24% → 7%). This is normalisation, not deterioration — NIM compressed from 3.43% to 3.13% as deposit costs caught up, and the FY24 QIP (~15% share dilution) significantly dampened EPS growth. NIM is now recovering (3.18% in Q3FY26) as RBI rate cuts lower funding costs.
 
 ---
 
@@ -60,9 +70,9 @@ Federal Bank is one of India's oldest private sector banks, incorporated in 1931
 | **Total Assets (₹Cr)** | 1,83,353 | 2,04,967 | 2,26,241 | 2,68,004 | 3,17,839 | 3,60,244 | 3,67,566 |
 | **BVPS (₹)** | 74.3 | 82.7 | 91.5 | 104.6 | **123.6** | 140.6 | ~147 |
 | BVPS Growth | — | +11.3% | +10.6% | +14.3% | **+18.2%** | +13.8% | — |
-| **CRAR** | ~15.3% | ~15.7% | ~15.8% | ~15.0% | 15.8% | **16.40%** | 15.20% |
-| **GNPA %** | 2.84% | **3.35%** | 2.80% | 2.35% | 2.11% | **1.84%** | **1.72%** |
-| **NNPA %** | 1.30% | **1.59%** | 0.96% | 0.73% | 0.63% | **0.44%** | **0.42%** |
+| **CRAR** | ~14.5% | ~14.6% | ~14.5% | ~14.8% | **16.1%** | **16.40%** | 15.20% |
+| **GNPA %** | 2.84% | **3.00%** | 2.42% | 2.35% | 2.11% | **1.84%** | **1.72%** |
+| **NNPA %** | 1.30% | **1.23%** | 0.96% | 0.73% | 0.63% | **0.44%** | **0.42%** |
 | **PCR** | — | — | — | — | — | **75.4%** | 75.1% |
 | Leverage (A/E) | 12.4x | 12.4x | 11.7x | 12.1x | 10.6x | 10.4x | 10.1x |
 
@@ -93,13 +103,13 @@ Internal capital generation of ~12% is sufficient for 12-15% advance growth with
 | Metric | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|
 | Reported Net Income (₹Cr) | 1,996 | 3,210 | 3,964 | 4,234 |
-| Less: Normalised Credit Cost (0.40% × avg advances) | ~800 | ~900 | ~1,050 | ~1,175 |
+| Less: Normalised Credit Cost (0.55% × avg advances) | ~1,000 | ~1,100 | ~1,200 | ~1,400 |
 | Add: D&A | 139 | 182 | 234 | 288 |
 | Less: SBC | ~60 | ~70 | ~80 | ~90 |
-| **= Normalised Earnings** | **~1,275** | **~2,422** | **~3,068** | **~3,257** |
-| **Normalised EPS (₹)** | ~6.1 | ~11.5 | ~12.6 | ~13.3 |
+| **= Normalised Earnings** | **~1,075** | **~2,222** | **~2,918** | **~3,032** |
+| **Normalised EPS (₹)** | ~5.1 | ~10.5 | ~12.0 | ~12.3 |
 
-Reported earnings are ~25-30% above normalised levels because credit costs are at cyclical lows. Prudent investors should value on normalised earnings. *"Accounting reality and economic reality are often different things."* — Buffett
+Reported earnings are ~30-40% above normalised levels because credit costs are at cyclical lows (~0.50% vs normalised ~0.55%). Prudent investors should value on normalised earnings. *"Accounting reality and economic reality are often different things."* — Buffett
 
 ---
 
@@ -107,10 +117,10 @@ Reported earnings are ~25-30% above normalised levels because credit costs are a
 
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Q3FY26 |
 |---|---|---|---|---|---|---|---|
-| **ROE** | 11.1% | 10.8% | 11.4% | **15.4%** | **14.7%** | 12.8% | 11.7% |
-| **ROA** | 0.94% | **0.85%** | 0.94% | **1.28%** | **1.32%** | 1.24% | 1.15% |
-| NIM | 3.20% | 3.10% | 3.24% | 3.03% | 2.85% | 3.13% | 3.18% |
-| Credit Cost | ~0.60% | ~0.70% | ~0.45% | ~0.40% | **0.23%** | 0.26% | 0.47% |
+| **ROE** | ~11% | ~11% | ~11% | **~15%** | **~15%** | ~13% | ~12% |
+| **ROA** | 0.92% | 0.87% | 0.93% | **1.30%** | **1.35%** | 1.25% | ~1.15% |
+| NIM | ~3.08% | ~3.15% | ~3.15% | **~3.43%** | ~3.16% | ~3.13% | 3.18% |
+| Credit Cost | ~0.50% | ~0.60% | ~0.55% | ~0.55% | ~0.50% | ~0.55% | ~0.50% |
 
 **Quality Tier: GOOD** (ROA 1.0-1.5%, ROE 12-15%, Deserved P/B 1.5-2.5x). ROE is ROA-driven, not leverage-driven — the healthy pattern. But it's "Good", not "Excellent". Needs ROA above 1.3%+ sustainably to move up a tier.
 
@@ -165,13 +175,13 @@ Risk culture is strong (decadal-best asset quality), capital allocation is sensi
 | Deposits (₹Cr) | 1,81,678 | 2,12,988 | 2,52,455 | 2,83,484 | 2,97,796 |
 | CASA Ratio | ~34% | ~32% | ~29.4% | **30.2%** | **32.07%** |
 | Cost of Deposits | ~4.2% | ~4.5% | ~5.3% | ~5.5% | **5.48%** |
-| NIM | 3.24% | 3.03% | 2.85% | 3.13% | **3.18%** |
-| GNPA % | 2.80% | 2.35% | 2.11% | 1.84% | **1.72%** |
+| NIM | ~3.15% | **~3.43%** | ~3.16% | ~3.13% | **3.18%** |
+| GNPA % | 2.42% | 2.35% | 2.11% | 1.84% | **1.72%** |
 | NNPA % | 0.96% | 0.73% | 0.63% | 0.44% | **0.42%** |
 | PCR | ~70% | ~72% | ~73% | **75.4%** | 75.1% |
-| Credit Cost | ~0.45% | ~0.40% | **0.23%** | 0.26% | 0.47% |
-| C/I Ratio | ~53.7% | ~55.7% | ~55.7% | **56.7%** | ~54% |
-| CRAR | 15.8% | 15.0% | 15.8% | **16.40%** | 15.20% |
+| Credit Cost | ~0.55% | ~0.55% | ~0.50% | ~0.55% | ~0.50% |
+| C/I Ratio (Consolidated) | 67.4% | 56.7% | 55.3% | 59.2% | ~54% |
+| CRAR | ~14.5% | ~14.8% | **16.1%** | **16.40%** | 15.20% |
 | Branches | ~1,330 | ~1,400 | ~1,504 | **1,589** | 1,591 |
 | Digital Tx % | ~82% | ~84% | ~85% | **86%** | ~87% |
 
@@ -187,7 +197,7 @@ Operational fundamentals are improving across the board. The ONE negative: C/I r
 | **PE** | ~8x | ~8x | ~10x | ~7x | ~11x | ~13x | **~16.2x** |
 | **BVPS (₹)** | 74.3 | 82.7 | 91.5 | 104.6 | 123.6 | 140.6 | ~147 |
 
-**Fair P/B (ROE-based):** At 12-13% ROE → deserved P/B of **1.3-1.8x**. Current 1.85x is at the **high end**, pricing in ROE improvement to 14-15%. The stock has NEVER sustainably traded above 2.0x book.
+**Fair P/B (ROE-based):** At 13% ROE → deserved P/B of **1.5-2.0x** (Good tier). Current 1.86x is at the **higher end**, pricing in ROE improvement to 14-15%. The stock has historically traded between 0.8x (COVID low) and ~2.0x (recent peak). The **5-year median P/B was approximately 1.0-1.2x** during FY20-FY23 when ROE was lower (10-11%). The current higher P/B is justified by the structural improvement in ROE and asset quality, but leaves limited room for error.
 
 ---
 
@@ -215,12 +225,14 @@ At ₹273, priced for base-to-optimistic. NO margin of safety if conservative sc
 
 ## 13. REVERSE DCF — Implied Growth at Terminal PE 15x
 
-| Holding Period | 10% Return Needed | Historical CAGR |
-|---|---|---|
-| 5 Years | **16.0%** EPS CAGR | ~16% (5Y historical) |
-| 10 Years | **11.5%** EPS CAGR | ~13% (10Y historical) |
+*(Formula: Required Future Price = CMP × (1 + Hurdle)^n; Required EPS = Price / Terminal PE; Implied CAGR = (Req EPS / Current EPS)^(1/n) - 1)*
 
-🟢 **GREEN on normalised basis** — implied growth roughly equals historical delivery. 🟡 **On reported EPS, less attractive** as credit costs may normalise upward.
+| Holding Period | 10% Return Needed | 15% Return Needed | Historical CAGR |
+|---|---|---|---|
+| 5 Years | **12.0%** EPS CAGR | 17.1% EPS CAGR | ~16.4% (5Y actual) |
+| 10 Years | **11.0%** EPS CAGR | 16.0% EPS CAGR | ~10.6% (10Y actual) |
+
+🟢 **GREEN for 10% hurdle** — implied 5Y growth of 12% is well BELOW the 16.4% historical delivery. The market is not demanding heroic assumptions. 🟡 **YELLOW for 15% hurdle** — 17.1% needed over 5Y is roughly in line with historical, but 16% needed over 10Y exceeds the 10Y track record.
 
 ### Asymmetry: Upside 52% (base 5Y) vs Downside 35% (to 1.2x book) = **1.5:1 — Marginal, NOT a fat pitch.**
 
@@ -233,10 +245,10 @@ At ₹273, priced for base-to-optimistic. NO margin of safety if conservative sc
 | Exit P/B | 5Y CAGR | 7Y CAGR | 10Y CAGR |
 |---|---|---|---|
 | 1.86x (stays) | **11.6%** | **11.6%** | **11.6%** |
-| 1.4x (mild de-rate) | **5.3%** | **7.5%** | **9.0%** |
-| 1.2x (significant) | **1.2%** | **5.0%** | **7.4%** |
-| 1.0x (book floor) | **-3.7%** | **2.2%** | **5.6%** |
-| 2.2x (ROE improves) | **15.2%** | **14.0%** | **13.5%** |
+| 1.4x (mild de-rate) | **5.5%** | **7.2%** | **8.5%** |
+| 1.2x (significant) | **2.3%** | **4.9%** | **6.8%** |
+| 1.0x (book floor) | **-1.4%** | **2.2%** | **4.9%** |
+| 2.2x (ROE improves) | **15.4%** | **14.3%** | **13.5%** |
 
 > 🟡 YELLOW — Returns above hurdle only if P/B stays within ~35% of current.
 
@@ -309,7 +321,7 @@ At ₹273, priced for base-to-optimistic. NO margin of safety if conservative sc
 | Asset Quality | **8.5** | Decadal best; improving steadily |
 | Capital Adequacy | **8.0** | 15-16%+ CRAR; Blackstone capital incoming |
 | Management | **7.5** | Disciplined; candid; clean record |
-| Earnings Quality | **6.0** | Reported > normalised by ~25% |
+| Earnings Quality | **6.0** | Reported > normalised by ~35% (credit costs at cyclical lows) |
 | Valuation | **4.5** | 1.85x P/B stretched for 12.5% ROE |
 | Margin of Safety | **3.5** | Minimal at current price |
 | BV Compounding | **7.0** | ~11.6% decent, not exceptional |
