@@ -37,7 +37,7 @@ TVS Motor is simple to understand: it makes two-wheelers that hundreds of millio
 | **Revenue** | 16,340 | 20,160 | 18,849 | 19,421 | 24,355 | 31,974 | 38,779 | 44,089 | **52,559** |
 | Revenue Growth YoY | 31.1% | 23.4% | **-6.5%** | 3.0% | 25.4% | 31.3% | 21.3% | 13.7% | ~23% |
 | **Operating Profit (EBITDA)** | 1,571 | 2,163 | 2,264 | 2,232 | 2,755 | 4,027 | 5,435 | 6,575 | **8,084** |
-| OPM % | **10%** | 11% | 12% | 11% | 11% | 13% | 14% | **15%** | 15% |
+| OPM % | **10%** | 11% | 12% | 12% | 11% | 13% | 14% | **15%** | 15% |
 | Other Income | 71 | 25 | 12 | 36 | -5 | 136 | 131 | 99 | -92 |
 | Interest | 338 | 663 | 855 | 881 | 940 | 1,368 | 1,917 | 2,093 | 2,215 |
 | Depreciation | 374 | 442 | 556 | 565 | 743 | 859 | 956 | 1,046 | 1,250 |
@@ -54,15 +54,15 @@ TVS Motor is simple to understand: it makes two-wheelers that hundreds of millio
 
 **Narrative Analysis:**
 
-The trend is unmistakably positive and accelerating. Revenue has compounded at **~19% CAGR over 5 years** and **~16% CAGR over 10 years**. Net profit has compounded at a stunning **~27% CAGR over 5 years**. The critical insight is that **profit growth has consistently outpaced revenue growth** — a clear sign of operating leverage kicking in and margins expanding.
+The trend is unmistakably positive and accelerating. Revenue has compounded at **~19% CAGR over 5 years** and **~16% CAGR over 10 years**. Net profit has compounded at a stunning **~30% CAGR over 5 years** (screener reports ~27% due to rounding methodology). The critical insight is that **profit growth has consistently outpaced revenue growth** — a clear sign of operating leverage kicking in and margins expanding.
 
-Operating margins have expanded from **10% in FY18 to 15% in FY25 (TTM)** — a 500 bps improvement over 7 years. This is significant for a manufacturing business and reflects premiumisation of the product mix, scale benefits, and operational efficiency. The FY20-21 COVID dip was mild and temporary, demonstrating resilience.
+Operating margins have expanded from **~10% in FY18 to ~15% in FY25** — approximately a 500 bps improvement over 7 years. This is significant for a manufacturing business and reflects premiumisation of the product mix, scale benefits, and operational efficiency. The FY20-21 COVID dip was mild and temporary, demonstrating resilience.
 
 **No dilution whatsoever** — shares have remained constant at ~48 Cr for over a decade. This is exceptional capital discipline. Every rupee of earnings growth accrues fully to existing shareholders.
 
 > *Buffett: "The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."*
 
-TVS is demonstrating exactly this — deploying capital into growth (EV, international expansion, premiumisation) while expanding margins and growing EPS at 27%+ CAGR without any dilution.
+TVS is demonstrating exactly this — deploying capital into growth (EV, international expansion, premiumisation) while expanding margins and growing EPS at ~30% CAGR without any dilution.
 
 ---
 
@@ -429,46 +429,46 @@ The valuation is undeniably rich. TVS is a wonderful business, but the price dem
 
 | Component | ₹ Crores |
 |---|---|
-| PV of Owner Earnings (Yrs 1-10) | ~24,500 |
-| Terminal Value (PV) | ~40,000 |
-| Total Enterprise Value | ~64,500 |
+| PV of Owner Earnings (Yrs 1-10) | ~32,500 |
+| Terminal Value (PV) | ~40,700 |
+| Total Enterprise Value | ~73,200 |
 | Less: Net Debt (consol.) | ~20,000 |
-| **Equity Value** | **~44,500** |
-| **Intrinsic Value Per Share** | **₹937** |
+| **Equity Value** | **~53,200** |
+| **Intrinsic Value Per Share** | **₹1,120** |
 
 **Base Scenario:**
 
 | Component | ₹ Crores |
 |---|---|
-| PV of Owner Earnings (Yrs 1-10) | ~33,500 |
-| Terminal Value (PV) | ~72,000 |
-| Total Enterprise Value | ~1,05,500 |
+| PV of Owner Earnings (Yrs 1-10) | ~46,600 |
+| Terminal Value (PV) | ~98,700 |
+| Total Enterprise Value | ~1,45,300 |
 | Less: Net Debt | ~20,000 |
-| **Equity Value** | **~85,500** |
-| **Intrinsic Value Per Share** | **₹1,800** |
+| **Equity Value** | **~1,25,300** |
+| **Intrinsic Value Per Share** | **₹2,638** |
 
 **Optimistic Scenario:**
 
 | Component | ₹ Crores |
 |---|---|
-| PV of Owner Earnings (Yrs 1-10) | ~44,000 |
-| Terminal Value (PV) | ~1,30,000 |
-| Total Enterprise Value | ~1,74,000 |
+| PV of Owner Earnings (Yrs 1-10) | ~65,300 |
+| Terminal Value (PV) | ~1,92,200 |
+| Total Enterprise Value | ~2,57,500 |
 | Less: Net Debt | ~20,000 |
-| **Equity Value** | **~1,54,000** |
-| **Intrinsic Value Per Share** | **₹3,242** |
+| **Equity Value** | **~2,37,500** |
+| **Intrinsic Value Per Share** | **₹5,000** |
 
-**Important Note on Net Debt:** The ₹20,000 Cr net debt figure used here is artificially high because it includes TVS Credit's lending borrowings. If we adjust for the fact that these borrowings are matched by lending assets, the "true" manufacturing net debt is much lower (~₹2,000-3,000 Cr), which would add ~₹350-375 per share to intrinsic value in each scenario. The adjusted figures would be: Conservative ₹1,300, Base ₹2,170, Optimistic ₹3,600.
+**Important Note on Net Debt:** The ₹20,000 Cr net debt figure used here is artificially high because it includes TVS Credit's lending borrowings. If we adjust for the fact that these borrowings are matched by lending assets, the "true" manufacturing net debt is much lower (~₹2,000-3,000 Cr), which would add ~₹350-375 per share to intrinsic value in each scenario. The adjusted figures would be: Conservative ₹1,487, Base ₹3,007, Optimistic ₹5,369.
 
 ### Summary Table
 
 | Scenario | Intrinsic Value/Share | Margin of Safety at ₹3,476 | Upside / (Downside) |
 |---|---|---|---|
-| **Conservative** | ₹1,300 | **-63% (Overvalued)** | (62.6%) |
-| **Base** | ₹2,170 | **-38% (Overvalued)** | (37.6%) |
-| **Optimistic** | ₹3,600 | **+4% (Fairly valued)** | +3.6% |
+| **Conservative** | ₹1,487 | **-57% (Overvalued)** | (57.2%) |
+| **Base** | ₹3,007 | **-13% (Overvalued)** | (13.5%) |
+| **Optimistic** | ₹5,369 | **+54% (Undervalued)** | +54.5% |
 
-**The stock is fairly valued ONLY under the most optimistic assumptions** — 25% EPS growth for 5 years, 18% for the next 5, at a 10% discount rate. Under base or conservative assumptions, the stock appears significantly overvalued.
+**The stock is fairly valued only under base-to-optimistic assumptions** — requiring 20-25% EPS growth for 5 years, 15-18% for the next 5, at an 10-11% discount rate. Under conservative assumptions, the stock still appears overvalued.
 
 > *Buffett: "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price." But even a wonderful company at a CRAZY price is a terrible investment.*
 
@@ -491,49 +491,49 @@ The valuation is undeniably rich. TVS is a wonderful business, but the price dem
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **36.4%** CAGR | **42.0%** | **47.7%** |
-| 10 Years | **18.5%** CAGR | **22.1%** | **25.6%** |
-| 15 Years | **14.2%** CAGR | **17.1%** | **20.0%** |
+| 5 Years | **35.6%** CAGR | **41.8%** | **48.0%** |
+| 10 Years | **22.1%** CAGR | **27.7%** | **33.2%** |
+| 15 Years | **18.0%** CAGR | **23.3%** | **28.7%** |
 
 **At Terminal PE = 30x (Above-Average Compounder)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **26.0%** CAGR | **31.3%** | **36.7%** |
-| 10 Years | **13.6%** CAGR | **17.0%** | **20.4%** |
-| 15 Years | **10.7%** CAGR | **13.5%** | **16.3%** |
+| 5 Years | **25.1%** CAGR | **30.7%** | **36.4%** |
+| 10 Years | **17.3%** CAGR | **22.6%** | **28.0%** |
+| 15 Years | **14.8%** CAGR | **20.0%** | **25.2%** |
 
 **At Terminal PE = 40x (Premium compounder; aggressive)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **19.0%** CAGR | **24.1%** | **29.3%** |
-| 10 Years | **10.5%** CAGR | **13.8%** | **17.1%** |
-| 15 Years | **8.5%** CAGR | **11.2%** | **14.0%** |
+| 5 Years | **18.1%** CAGR | **23.4%** | **28.8%** |
+| 10 Years | **14.0%** CAGR | **19.1%** | **24.3%** |
+| 15 Years | **12.6%** CAGR | **17.7%** | **22.9%** |
 
 ### Step 4: Reality Check
 
 | Benchmark | EPS CAGR |
 |---|---|
 | India nominal GDP growth | 10-12% |
-| TVS 5Y historical EPS CAGR | **~27%** |
+| TVS 5Y historical EPS CAGR | **~30%** |
 | TVS 10Y historical EPS CAGR | **~22%** |
 | Industry average growth | ~15% |
 | Analyst consensus (forward 2Y) | ~20-25% |
 
 **Traffic Light Assessment:**
 
-- **At Terminal PE 20x:** To earn 10% return over 10 years, need 18.5% EPS CAGR — below TVS's 5Y track record but above GDP growth. 🟡 **YELLOW** — fair but optimistic; you need the business to sustain above-market growth for a decade.
+- **At Terminal PE 20x:** To earn 10% return over 10 years, need 22.1% EPS CAGR — roughly in line with TVS's 10Y track record (~22%) but demanding sustained high performance. 🟡 **YELLOW** — achievable but optimistic; you need the business to sustain its best-ever growth rate for a full decade.
 
-- **At Terminal PE 30x:** To earn 10% return over 10 years, need 13.6% EPS CAGR — well within TVS's capabilities. 🟢 **GREEN** — reasonable if you believe TVS will retain a premium multiple.
+- **At Terminal PE 30x:** To earn 10% return over 10 years, need 17.3% EPS CAGR — below TVS's 5Y track record. 🟢 **GREEN** — reasonable if you believe TVS will retain a premium multiple.
 
-- **At Terminal PE 40x:** To earn 15% return over 10 years, need 13.8% EPS CAGR — very doable. 🟢 **GREEN** — but you're betting on the premium multiple sustaining, which is a big assumption.
+- **At Terminal PE 40x:** To earn 15% return over 10 years, need 19.1% EPS CAGR — achievable based on track record. 🟢 **GREEN** — but you're betting on the premium multiple sustaining at extreme levels, which is a big assumption.
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹3,476, to earn a 15% annualised return over 10 years assuming the market values the business at 30x PE at exit, the company needs to grow EPS at 17.0% CAGR. The company has historically grown EPS at 22-27% CAGR over 5-10 year periods. This implies the market is pricing in high but achievable growth — the price is optimistic but not insane IF the current growth trajectory sustains AND the market continues to assign a premium multiple."
+> "At the current price of ₹3,476, to earn a 15% annualised return over 10 years assuming the market values the business at 30x PE at exit, the company needs to grow EPS at 22.6% CAGR. The company has historically grown EPS at 22-30% CAGR over 5-10 year periods. This implies the market is pricing in high but historically consistent growth — the price is optimistic but not insane IF the current growth trajectory sustains AND the market continues to assign a premium multiple."
 
-🟡 **YELLOW to ORANGE** — the price is fair to expensive. You're not getting a screaming bargain. Your returns depend heavily on: (1) TVS sustaining 17-20% EPS CAGR for a decade, and (2) the market not de-rating the P/E from current levels.
+🟡 **YELLOW** — the price is fair to expensive. You're not getting a screaming bargain. Your returns depend heavily on: (1) TVS sustaining 20%+ EPS CAGR for a decade, and (2) the market not de-rating the P/E from current levels.
 
 ### Step 6: Asymmetric Upside Check
 
@@ -543,7 +543,7 @@ The valuation is undeniably rich. TVS is a wonderful business, but the price dem
 |---|---|---|---|
 | Tangible Book Value | ₹179 BVPS × 1x | ₹179 | -94.9% |
 | Trough Earnings | ₹30 trough EPS × 20x PE | ₹600 | -82.7% |
-| Conservative DCF | From Section 12 | ₹1,300 | -62.6% |
+| Conservative DCF | From Section 12 | ₹1,487 | -57.2% |
 | Historical Low P/E (20x) × current EPS | 20 × ₹61 | ₹1,220 | -64.9% |
 | "Market panics" floor | 30x × ₹50 normalised | ₹1,500 | -56.9% |
 
@@ -551,9 +551,9 @@ The valuation is undeniably rich. TVS is a wonderful business, but the price dem
 
 | Scenario | Basis | Price | Upside |
 |---|---|---|---|
-| Base Case DCF (adjusted) | Section 12 | ₹2,170 | -37.6% |
-| Bull Case DCF (adjusted) | Section 12 | ₹3,600 | +3.6% |
-| 5-Year BV compounding (25% ROE × 80% retention × 3x P/B exit) | ₹450 BVPS × 3x | ₹1,350 | -61.2% |
+| Base Case DCF (adjusted) | Section 12 | ₹3,007 | -13.5% |
+| Bull Case DCF (adjusted) | Section 12 | ₹5,369 | +54.5% |
+| 5-Year BV compounding (25% ROE × 78% retention × 3x P/B exit) | ₹436 BVPS × 3x | ₹1,309 | -62.4% |
 | If EPS hits ₹120 in FY30 at 35x PE | ₹120 × 35 | ₹4,200 | +20.8% |
 | If EPS hits ₹150 in FY30 at 40x PE | ₹150 × 40 | ₹6,000 | +72.6% |
 
@@ -626,28 +626,28 @@ ROCE at 15% vs ROE at 31% — the gap exists because of the TVS Credit leverage.
 | Year | BVPS |
 |---|---|
 | Current | ₹179 |
-| Year 5 | ₹440 |
-| Year 7 | ₹630 |
-| Year 10 | ₹1,050 |
+| Year 5 | ₹436 |
+| Year 7 | ₹623 |
+| Year 10 | ₹1,063 |
 
 **Expected Annual Return (CAGR) at CMP ₹3,476 (Entry P/B: 19.4x)**
 
 | Exit P/B Scenario | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|
 | P/B stays at 19.4x | 19.5% | 19.5% | 19.5% |
-| P/B compresses to 14.5x (0.75 × current) | 13.8% | 15.5% | 16.6% |
-| P/B compresses to 10x | 5.2% | 10.3% | 13.4% |
-| P/B compresses to 7x | -2.2% | 5.9% | 10.5% |
-| P/B compresses to 5x | -9.7% | 1.2% | 7.2% |
-| P/B compresses to 3x (harsh de-rating) | -22.6% | -7.7% | 0.6% |
+| P/B compresses to 14.5x (0.75 × current) | 12.7% | 14.6% | 16.1% |
+| P/B compresses to 10x | 4.6% | 8.7% | 11.8% |
+| P/B compresses to 7x | -2.6% | 3.3% | 7.9% |
+| P/B compresses to 5x | -8.9% | -1.6% | 4.3% |
+| P/B compresses to 3x (harsh de-rating) | -17.7% | -8.5% | -0.9% |
 
 **Key Insight:**
 
-> "At the current entry P/B of 19.4x with a sustainable ROE of 25% and 78% retention, book value compounds at ~19.5% annually. If the P/B multiple remains at 19.4x, the return equals the BV compounding rate of 19.5%. The stock can tolerate P/B compression from 19.4x down to approximately 7x before the 10-year return drops below the 10% hurdle rate."
+> "At the current entry P/B of 19.4x with a sustainable ROE of 25% and 78% retention, book value compounds at ~19.5% annually. If the P/B multiple remains at 19.4x, the return equals the BV compounding rate of 19.5%. The stock can tolerate P/B compression from 19.4x down to approximately 10x before the 10-year return drops below the 10% hurdle rate (11.8% at 10x). At 7x P/B, the 10-year return falls to ~7.9% — below the hurdle."
 
-That's a 64% compression in P/B that can be tolerated while still earning 10%+ over 10 years — because the underlying business is compounding book value so rapidly.
+That's roughly a 50% compression in P/B (from 19.4x to 10x) that can be tolerated while still earning 10%+ over 10 years — because the underlying business is compounding book value so rapidly.
 
-**Traffic Light:** 🟡 **YELLOW** — 10-year return stays above hurdle rate even with significant P/B compression (to 7x), but current entry P/B of 19.4x is extreme and makes the first 3-5 years vulnerable if sentiment shifts.
+**Traffic Light:** 🟡 **YELLOW** — 10-year return stays above hurdle rate with meaningful P/B compression (down to ~10x), but current entry P/B of 19.4x is extreme and makes the first 3-5 years highly vulnerable if sentiment shifts.
 
 ---
 
@@ -734,7 +734,7 @@ TVS Motor passes 5 out of 6 of Buffett's criteria with flying colours. The ONLY 
 | **Management Quality** | **9** | Century-old promoter family, 50% ownership, zero dilution, rational capital allocation, integrity beyond question |
 | **Scalability** | **8.5** | Incremental margins 1.4x current; multiple growth vectors (EV, international, 3W, premium); inflection point |
 | **Valuation** | **3** | 57x PE, 20x PB — at historical extremes. Near zero margin of safety. Priced for perfection. |
-| **Margin of Safety** | **2** | Overvalued under base and conservative scenarios. Only the optimistic case justifies the price. |
+| **Margin of Safety** | **2.5** | Overvalued under conservative scenario; roughly fair under base case (₹3,007 vs CMP ₹3,476 = -13.5% gap). Only the optimistic case offers meaningful upside. Thin margin of safety at best. |
 | **Buffett Verdict** | — | **Wonderful business, full price.** TVS is a textbook quality compounder — but Buffett would NOT buy at current levels. He'd admire it, watch it, and wait for Mr. Market to get scared. The business deserves a place on the watchlist; the price demands patience. At ₹2,000-2,500, this becomes a strong buy. At ₹3,476, it's a hold for those who own it at lower prices, and a pass for new money. |
 | **Buy Zone** | — | **Currently in FULLY VALUED / TRIM zone.** Buy zone starts below ₹2,100. |
 | **Overall Recommendation** | — | **WATCHLIST / HOLD (if owned below ₹2,500) / AVOID for new positions at current price.** |
@@ -761,8 +761,8 @@ A 10-year-old gets it. ✅
 - You're paying ₹3,476 — that's about 57 times what it earns
 - Book value is ₹179 — you're paying nearly 20 times the company's net worth
 - Earnings are growing at ~25-30% per year
-- Even growing at 25% for 5 years, EPS reaches ~₹185. At 35x PE (fair premium), that's ₹6,475 — a 13% CAGR from here. Not bad, but not a no-brainer.
-- At 30x PE, it's ₹5,550 — a 10% CAGR. Barely meeting hurdle rate.
+- Even growing at 25% for 5 years, EPS reaches ~₹186. At 35x PE (fair premium), that's ~₹6,500 — a ~13% CAGR from here. Not bad, but not a no-brainer.
+- At 30x PE, it's ~₹5,580 — a ~10% CAGR. Barely meeting hurdle rate.
 
 **The napkin math says:** You can probably make 10-15% annually IF everything goes right and the market keeps assigning a premium multiple. But if the multiple compresses to 25-30x (totally possible), your returns drop to 5-8% even with great business performance.
 
@@ -772,6 +772,6 @@ At ₹3,476, you need a spreadsheet. At ₹2,000, you wouldn't. **It's not a no-
 
 ---
 
-*Analysis prepared: March 21, 2026*
+*Analysis prepared: March 25, 2026*
 *Data sources: Screener.in (consolidated financials), BSE/NSE filings, analyst reports, industry data*
 *Disclaimer: This is an educational analysis in the style of Warren Buffett's investment philosophy. It is NOT investment advice. The author holds no position in TVS Motor Company. All investing involves risk of capital loss. Consult a registered financial advisor before making any investment decisions.*

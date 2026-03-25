@@ -1,6 +1,6 @@
 # TVS Holdings Ltd (NSE: TVSHLTD) — Warren Buffett Style Analysis
 
-**Date of Analysis:** March 21, 2026
+**Date of Analysis:** March 26, 2026
 **Current Market Price (CMP):** ₹14,228
 **Market Capitalisation:** ₹28,787 Cr
 **BSE Code:** 520056 | **NSE Symbol:** TVSHLTD
@@ -71,7 +71,7 @@ TVS Motor itself passes this test — two-wheelers are a consumer franchise with
 
 The story here is one of **powerful margin expansion accompanied by robust revenue growth**. Revenue has compounded at ~15% over 10 years and ~18% over 5 years. More impressively, operating margins have nearly doubled from 9% (FY18) to 16% (TTM), demonstrating significant operating leverage as TVS Motor premiumises its product mix (Apache, Jupiter 125, Ntorq, iQube EV) and scales internationally.
 
-Net profit growth has been explosive — **26% CAGR over 5 years, 37% CAGR over 3 years.** This is earnings growth outpacing revenue growth by a wide margin, which is the hallmark of a business hitting operating leverage.
+Net profit growth has been explosive — **26% CAGR over 5 years (per Screener), 37% CAGR over 3 years (per Screener).** This is earnings growth outpacing revenue growth by a wide margin, which is the hallmark of a business hitting operating leverage. (Note: Screener's CAGR figures may differ slightly from arithmetic calculations due to adjusted/diluted earnings methodology.)
 
 The interest cost has risen sharply (₹372 Cr in FY18 to ₹2,223 Cr in FY25) due to TVS Credit's scaling — this is the cost of financing a growing loan book, not corporate leverage in the traditional sense. This is a key nuance: most of the consolidated debt is TVS Credit's borrowings to fund its lending operations.
 
@@ -187,7 +187,7 @@ TVS Holdings' consolidated ROE of **30.2%** (latest year) is exceptional. The 5-
 ROCE at 15.2% is healthy and improving, though the high leverage from TVS Credit's borrowings affects the denominator.
 
 **The DuPont decomposition reveals that the high ROE is driven by:**
-1. **Improving net margins** (from ~3% in FY18 to ~5.4% in FY25 on consolidated revenue) — genuine pricing power and cost efficiency
+1. **Improving net margins** (from ~3.6% in FY18 to ~5.4% in FY25 on consolidated revenue) — genuine pricing power and cost efficiency
 2. **High asset turnover** for an auto manufacturer — efficient capital deployment
 3. **Leverage** from TVS Credit's NBFC operations — which is the nature of the business, not financial engineering
 
@@ -285,9 +285,9 @@ TVS Motor is firmly in the **Growth Phase** — the model is proven, unit econom
 **Buffett's $1 Test:**
 
 Over the 5-year period FY20-FY25:
-- Total retained earnings (consolidated, approx.): ~₹5,500 Cr
-- Market cap increase: from ~₹4,000 Cr (FY20, CMP ~₹2,100) to ~₹28,787 Cr = **~₹24,787 Cr increase**
-- **For every ₹1 retained, ~₹4.50 of market value was created.** This passes the $1 test spectacularly.
+- Total retained earnings (consolidated, approx.): ~₹6,100 Cr
+- Market cap increase: from ~₹4,000 Cr (FY20, CMP ~₹2,100) to ~₹28,787 Cr = **~₹24,800 Cr increase**
+- **For every ₹1 retained, ~₹4.05 of market value was created.** This passes the $1 test spectacularly.
 
 **Promoter Holding:** 74.45% — extremely high skin in the game. The VS Trust (Venu Srinivasan family) alone holds 66.55%.
 
@@ -349,13 +349,15 @@ Here we have the opposite: excellent management running an excellent business. T
 
 **Historical Valuation Multiples:**
 
-| Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current |
+| Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current (Screener) |
 |---|---|---|---|---|---|---|---|
-| PE Ratio | — | 37.6x | 16.3x | **11.5x** | **22.9x** | 15.6x | **18.4x** (Screener) |
+| PE Ratio | — | 37.6x | 16.3x | **11.5x** | **22.9x** | 15.6x | **18.4x** |
 | P/B Ratio | — | — | — | — | — | — | **5.2x** |
-| Historical Median PE (10Y) | — | — | — | — | — | — | **14.5x** |
+| Historical Median PE (10Y) | — | — | — | — | — | — | **~14.5x** |
 
-The consolidated PE of ~18x on trailing earnings and ~9x on TTM earnings (₹770 EPS) is optically cheap for a business growing earnings at 35%+ and with an ROE of 30%.
+*Note on PE: Screener reports a "Stock P/E" of 18.4x which uses its own methodology (likely based on consolidated attributable earnings, adjusted for minority interests). On the reported FY25 EPS of ₹576.33, the PE would be 24.7x. On the TTM EPS of ₹769.58 (sum of last 4 quarters), the PE is 18.5x — closely matching Screener's figure. This confirms the market is pricing in the TTM earnings trajectory, not just the FY25 annual figure.*
+
+The consolidated PE on FY25 reported EPS of ₹576 is ~24.7x, while on the trailing twelve months (TTM) EPS of ~₹770, the PE drops to ~18.5x. This is optically cheap for a business growing earnings at 35%+ and with an ROE of 30%. The Screener-reported PE of 18.4x uses a different methodology but confirms the stock trades at a moderate valuation relative to its growth trajectory.
 
 ---
 
@@ -387,19 +389,19 @@ This is the most appropriate method. The intrinsic value depends critically on t
 
 Using Owner Earnings of ~₹2,400 Cr (FY25) as starting point:
 
-| Scenario | Growth (Yr 1-5) | Growth (Yr 6-10) | Terminal Growth | Discount Rate | Intrinsic Value/Share | Margin of Safety |
+| Scenario | Growth (Yr 1-5) | Growth (Yr 6-10) | Terminal Growth | Discount Rate | Intrinsic Value/Share | Upside from CMP |
 |---|---|---|---|---|---|---|
 | **Conservative** | 15% | 10% | 5% | 12% | **₹17,800** | 25% |
 | **Base** | 20% | 12% | 5% | 11% | **₹25,400** | 78% |
-| **Optimistic** | 25% | 15% | 5% | 10% | **₹38,500** | 170% |
+| **Optimistic** | 25% | 15% | 5% | 10% | **₹38,500** | 171% |
 
 **Summary:**
 
-| Scenario | SOTP Value | DCF Value | Avg. Intrinsic Value | Margin of Safety at ₹14,228 |
-|---|---|---|---|---|
-| Conservative | ₹19,500 | ₹17,800 | **₹18,650** | **31%** |
-| Base | ₹22,000 | ₹25,400 | **₹23,700** | **67%** |
-| Optimistic | ₹28,000 | ₹38,500 | **₹33,250** | **134%** |
+| Scenario | SOTP Value | DCF Value | Avg. Intrinsic Value | Upside from CMP ₹14,228 | Margin of Safety (IV-CMP)/IV |
+|---|---|---|---|---|---|
+| Conservative | ₹19,500 | ₹17,800 | **₹18,650** | **31%** | **24%** |
+| Base | ₹22,000 | ₹25,400 | **₹23,700** | **67%** | **40%** |
+| Optimistic | ₹28,000 | ₹38,500 | **₹33,250** | **134%** | **57%** |
 
 ---
 
@@ -407,39 +409,46 @@ Using Owner Earnings of ~₹2,400 Cr (FY25) as starting point:
 
 **Inputs:**
 - CMP: ₹14,228
-- TTM EPS (normalised): ~₹770 (using trailing 12-month data)
-- Current PE: ~18.5x (on TTM)
-- Historical Median PE: ~14.5x
+- TTM EPS (normalised): ~₹770 (using trailing 12-month data through Dec 2025)
+- Current PE on TTM: ~18.5x
+- Historical Median PE (10Y): ~14.5x
 
 **Implied EPS CAGR Needed to Achieve Target Returns:**
 
+Formula: Required Future Price = CMP × (1 + Hurdle)^n; Required Future EPS = Required Future Price / Terminal PE; Implied EPS CAGR = (Required Future EPS / Current EPS)^(1/n) - 1
+
 | Holding Period | Terminal PE 15x | Terminal PE 20x | Terminal PE 25x |
 |---|---|---|---|
-| **10% Return, 5 Yr** | 27% CAGR | 21% CAGR | 16% CAGR |
-| **10% Return, 10 Yr** | 17% CAGR | 14% CAGR | 12% CAGR |
-| **15% Return, 5 Yr** | 34% CAGR | 27% CAGR | 22% CAGR |
-| **15% Return, 10 Yr** | 22% CAGR | 19% CAGR | 17% CAGR |
-| **20% Return, 5 Yr** | 41% CAGR | 33% CAGR | 28% CAGR |
-| **20% Return, 10 Yr** | 27% CAGR | 24% CAGR | 22% CAGR |
+| **10% Return, 5 Yr** | 14.7% CAGR | 8.3% CAGR | 3.5% CAGR |
+| **10% Return, 10 Yr** | 12.3% CAGR | 9.1% CAGR | 6.7% CAGR |
+| **15% Return, 5 Yr** | 19.9% CAGR | 13.2% CAGR | 8.3% CAGR |
+| **15% Return, 10 Yr** | 17.4% CAGR | 14.1% CAGR | 11.6% CAGR |
+| **20% Return, 5 Yr** | 25.1% CAGR | 18.1% CAGR | 13.0% CAGR |
+| **20% Return, 10 Yr** | 22.5% CAGR | 19.1% CAGR | 16.4% CAGR |
 
 **Reality Check:**
 
 | Benchmark | EPS CAGR |
 |---|---|
-| Historical 5Y EPS CAGR | **~26%** |
-| Historical 3Y EPS CAGR | **~37%** |
+| Historical 5Y EPS CAGR (FY20-FY25) | **~28%** |
+| Historical 3Y EPS CAGR (FY22-FY25) | **~38%** |
 | India nominal GDP growth | 10-12% |
+| Screener-reported 5Y Profit CAGR | **26%** |
 
 **Traffic Light Assessment:**
 
 At Terminal PE = 20x (reasonable for a quality holding company):
-- To earn 10% return over 10 years, the company needs **14% EPS CAGR** — this is well below the historical 26% CAGR. **🟢 GREEN — Easily achievable.**
-- To earn 15% return over 10 years, the company needs **19% EPS CAGR** — this is below the historical CAGR and achievable given the growth trajectory. **🟢 GREEN.**
-- To earn 20% return over 10 years, the company needs **24% EPS CAGR** — this is roughly in line with the historical CAGR. **🟡 YELLOW — Requires sustained execution.**
+- To earn 10% return over 10 years, the company needs **9.1% EPS CAGR** — this is below India's nominal GDP growth. **🟢 GREEN — Extremely easy to achieve.**
+- To earn 15% return over 10 years, the company needs **14.1% EPS CAGR** — roughly half of what the company has delivered historically. **🟢 GREEN — Easily achievable.**
+- To earn 20% return over 10 years, the company needs **19.1% EPS CAGR** — below the historical CAGR. **🟢 GREEN — Achievable with continued execution.**
 
-> "At the current price of ₹14,228, to earn a 15% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 19% CAGR. The company has historically grown EPS at 26% CAGR over 5 years. This implies **the market is pricing in reasonable-to-conservative growth** — significantly below what the business has actually delivered."
+Even at Terminal PE = 15x (a very conservative de-rating assumption):
+- To earn 15% return over 10 years needs **17.4% EPS CAGR** — still below historical delivery. **🟢 GREEN.**
+- To earn 20% return over 10 years needs **22.5% EPS CAGR** — roughly in line with history. **🟡 YELLOW — Requires sustained execution at near-historical rates.**
 
-This is a **🟢 GREEN** signal — the market is NOT demanding heroic assumptions.
+> "At the current price of ₹14,228, to earn a 15% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at just 14.1% CAGR. The company has historically grown EPS at 26-28% CAGR over 5 years. This implies **the market is pricing in very conservative growth** — roughly half of what the business has actually delivered."
+
+This is a **🟢 GREEN** signal — the market is NOT demanding heroic assumptions. In fact, the bar the market is implicitly setting is unusually low for a business of this quality.
 
 ---
 
@@ -447,14 +456,14 @@ This is a **🟢 GREEN** signal — the market is NOT demanding heroic assumptio
 
 ### Part A: DuPont Decomposition
 
-| Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE |
+| Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE (DuPont Product) |
 |---|---|---|---|---|
-| FY22 | 3.2% | 0.84x | ~6.0x | ~16% |
-| FY23 | 4.0% | 0.86x | ~12.1x | ~41%* |
-| FY24 | 4.5% | 0.90x | ~15.7x | ~63%* |
-| FY25 | 5.4% | 0.83x | ~11.5x | **~51%*** |
+| FY22 | 3.2% | 0.95x | ~6.7x | ~20.6%* |
+| FY23 | 4.0% | 0.97x | ~10.0x | ~38.5%* |
+| FY24 | 4.5% | 0.95x | ~14.6x | ~62.5%* |
+| FY25 | 5.4% | 0.91x | ~13.1x | **~64.0%*** |
 
-*Note: The equity multiplier is extremely volatile due to demerger-related swings in consolidated equity. The reported ROE of 30.2% uses average equity, which smooths these distortions.*
+*Note: The equity multiplier is extremely volatile due to demerger-related swings in consolidated equity (the die-casting business carve-out drastically altered the equity base between FY22 and FY24). The Screener-reported ROE of 30.2% uses average equity which smooths these distortions. The DuPont product using year-end equity overstates ROE in years where equity was artificially depressed by restructuring. The directional insight remains valid: ROE is driven by genuinely improving margins, not financial engineering.*
 
 **The key insight:** ROE is being driven by **improving net margins** (3.2% → 5.4%) which is genuine business improvement, combined with inherently high leverage from TVS Credit's NBFC operations. This is NOT financial engineering — it is the natural structure of a conglomerate that includes a lending arm.
 
@@ -481,15 +490,15 @@ This is a **🟢 GREEN** signal — the market is NOT demanding heroic assumptio
 
 | Exit P/B | Rationale | 5-Yr CAGR | 7-Yr CAGR | 10-Yr CAGR |
 |---|---|---|---|---|
-| 5.2x (stays) | Multiple sustains | **20.0%** | **20.0%** | **20.0%** |
-| 4.0x | Mild compression | **13.6%** | **14.9%** | **16.4%** |
-| 3.0x | Significant compression | **7.4%** | **10.4%** | **13.1%** |
-| 2.5x | Reverts to fair value | **3.6%** | **7.8%** | **11.0%** |
-| 2.0x | Deep compression | **-0.8%** | **4.7%** | **8.5%** |
+| 5.2x (stays) | Multiple sustains | **19.9%** | **20.0%** | **20.0%** |
+| 4.0x | Mild compression | **13.8%** | **15.5%** | **16.9%** |
+| 3.0x | Significant compression | **7.4%** | **10.9%** | **13.5%** |
+| 2.5x | Reverts to fair value | **3.6%** | **8.0%** | **11.5%** |
+| 2.0x | Deep compression | **-0.9%** | **4.6%** | **9.0%** |
 
-**Key Insight:** Even if the P/B compresses from 5.2x to 3.0x over 10 years (a massive de-rating), the investor still earns ~13% CAGR because book value is compounding at 20%. This is the power of high ROE.
+**Key Insight:** Even if the P/B compresses from 5.2x to 3.0x over 10 years (a massive de-rating), the investor still earns ~13.5% CAGR because book value is compounding at 20%. This is the power of high ROE.
 
-**Verdict: 🟢 GREEN — The 10-year return exceeds the 10% hurdle rate even if P/B halves from 5.2x to ~2.6x.**
+**Verdict: 🟢 GREEN — The 10-year return exceeds the 10% hurdle rate even if P/B compresses from 5.2x to ~2.5x (less than half).**
 
 ---
 
@@ -534,8 +543,8 @@ For a small capital base, the optimal strategy is to accumulate aggressively in 
 | Resistant to Technological Disruption | 2Ws are enduring; TVS is leading the EV transition rather than being disrupted by it. | ✅ |
 | Can sustain economics for 10+ years? | India's need for affordable mobility is a multi-decade secular trend. | ✅ |
 | High ROE with reinvestment opportunity | 30% ROE, 80% retention, reinvesting at attractive returns. | ✅ |
-| Price significantly below intrinsic value? | At ₹14,228, 67% holdco discount to NAV; base intrinsic value ~₹23,700 (67% upside). | ✅ (Moderate) |
-| Simple enough for napkin math? | "Owns half of India's 3rd-largest 2W maker, growing 25%+, at 18x earnings." Yes. | ✅ |
+| Price significantly below intrinsic value? | At ₹14,228, 67% holdco discount to NAV; base intrinsic value ~₹23,700 (67% upside from CMP, 40% margin of safety). | ✅ (Moderate) |
+| Simple enough for napkin math? | "Owns half of India's 3rd-largest 2W maker, growing 25%+, at ~18.5x TTM earnings." Yes. | ✅ |
 
 **All 8 criteria pass.**
 
@@ -586,8 +595,8 @@ The market's fear here is the holding company discount and the complexity premiu
 | **Management Quality** | **9** | Srinivasan family — impeccable reputation, 74.45% ownership, no dilution, Deming Prize winner. |
 | **Earnings Growth** | **9** | 26% EPS CAGR (5Y), 37% (3Y). Margin expansion ongoing. |
 | **Scalability** | **8** | Elite operating leverage; massive domestic + international runway. |
-| **Valuation** | **7** | 18x TTM PE for 25%+ grower is reasonable. But P/B of 5.2x and holdco discount dynamics add uncertainty. |
-| **Margin of Safety** | **7** | ~67% holdco discount to NAV provides significant embedded safety. Base intrinsic value 67% above CMP. |
+| **Valuation** | **7** | ~18.5x TTM PE for 25%+ grower is reasonable. But P/B of 5.2x and holdco discount dynamics add uncertainty. |
+| **Margin of Safety** | **7** | ~67% holdco discount to NAV provides significant embedded safety. Base intrinsic value ~67% above CMP (40% MoS). |
 | **Risk Profile** | **7** | Main risk is structural holdco discount, not business fundamentals. |
 | **Overall Score** | **7.9/10** | |
 
