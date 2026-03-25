@@ -43,13 +43,13 @@ AU Small Finance Bank is India's **largest Small Finance Bank**, founded in 1996
 | Other Inc. as % of Total Inc. | 14% | **22%** | 14% | 11% | 14% | 14% | 15% |
 | Total Income (₹ Cr) | 4,992 | 6,371 | 6,916 | 9,239 | 12,252 | 18,590 | 20,896 |
 | Total Expenses (incl. Prov.) (₹ Cr) | 1,612 | 2,224 | 2,634 | 3,410 | 4,629 | 7,491 | 8,583 |
-| **Cost-to-Income Ratio*** | ~58% | ~59% | ~57% | ~56% | ~61% | **~57%** | ~55% |
+| **Cost-to-Income Ratio*** | ~52% | ~50% | ~48% | **~44%** | ~48% | **~54%** | ~56% |
 | Pre-Provision Op. Profit (PPOP)** | ~1,170 | ~1,770 | ~2,060 | ~2,900 | ~3,340 | **~4,581** | ~5,100 |
 | PPOP Growth YoY | — | ~51% | ~16% | ~41% | ~15% | **~37%** | — |
 | Provisions & Contingencies*** | ~256 | ~312 | ~606 | ~1,035 | ~1,341 | **~1,793** | ~2,050 |
 | Provision as % of PPOP | **22%** | **18%** | 29% | 36% | 40% | **39%** | ~40% |
 
-*\*C/I = Operating Expenses (excl. provisions) / (NII + Other Income). Screener's 'Expenses' line includes provisions; pure OpEx was derived using quarterly PPOP data. Quarterly C/I for FY25: Q1=60.8%, Q2=56.7%, Q3=54.4%, Q4≈52%.*
+*\*C/I = Operating Expenses (excl. provisions) / (NII + Other Income). Full-year C/I is derived from PPOP (which is anchored to verified PBT + Provisions). Note: quarterly press releases report C/I on a single-quarter basis (FY25: Q1=60.8%, Q2=56.7%, Q3=54.4%, Q4≈52%), which differs from the full-year figure (~54%) because income is not evenly distributed across quarters.*
 
 *\*\*PPOP = NII + Other Income - Operating Expenses (excl. provisions) - Depreciation. FY25 PPOP confirmed from quarterly data: Q1=952 + Q2=1,132 + Q3=1,205 + Q4=1,292 = ₹4,581 Cr.*
 
@@ -70,7 +70,7 @@ AU Small Finance Bank is India's **largest Small Finance Bank**, founded in 1996
 
 **NIM** compressed from ~5.6-5.8% (FY20-FY23) to ~5.1% in FY24 as the Fincare merger brought in higher-cost liabilities and the rate cycle tightened. It recovered to ~5.5% in FY25 as the merged portfolio settled. NIM of 5.5%+ remains significantly above universal bank peers — this is the yield advantage of lending to underserved segments.
 
-**Cost-to-Income** has been in the 56-61% range — the Fincare merger in FY24-25 caused a spike as overlapping infrastructure was absorbed. Quarterly C/I data shows improvement: Q1 FY25 = 60.8% → Q3 FY26 = 54%, suggesting operating leverage is gradually kicking in, but the ratio needs to drop below 50% for ROE to meaningfully recover.
+**Cost-to-Income** was in an efficient 44-50% range during FY20-FY23 but has deteriorated sharply to ~54% in FY25 as the Fincare merger added overlapping infrastructure and the combined entity scales up. Quarterly C/I data shows the trend: Q1 FY25 = 60.8% → Q3 FY26 = 54%, suggesting operating leverage is gradually kicking in, but the full-year ratio needs to return to sub-50% levels for ROE to meaningfully recover.
 
 **Provision Intensity** has risen materially: provisions jumped from ~₹1,035 Cr in FY23 to ~₹1,793 Cr in FY25 (39% of PPOP). This is driven by the microfinance portfolio (inherited from Fincare) experiencing industry-wide stress, plus the bank proactively building buffers. FY25 credit cost of 1.3% of total assets is ABOVE the 5-year normalised level (~1.0%), suggesting the bank is provisioning conservatively — a sign of management prudence, not earnings manipulation.
 
@@ -225,7 +225,7 @@ For FY25: Reported Net Income = ₹2,106 Cr. The bank over-provisioned by ~₹60
 | **ROE** | **18%** | **22%** | 16% | 15% | 13% | 14% | 13.3% | 12.4% | ~14.5% |
 | **ROA** | **~1.7%** | **~2.3%** | ~1.6% | ~1.6% | ~1.5% | ~1.5% | 1.5% | 1.4% | ~1.6% |
 | NIM | ~5.8% | ~5.7% | ~5.6% | ~5.6% | ~5.1% | ~5.5% | 5.4% | 5.5% | 5.7% |
-| Cost-to-Income | ~58% | ~59% | ~57% | ~56% | ~61% | ~57% | 54% | 57% | 54% |
+| Cost-to-Income | ~52% | ~50% | ~48% | ~44% | ~48% | ~54% | 54% | 57% | 54% |
 | Credit Cost (% of Advances) | ~0.5% | ~0.3% | ~0.8% | ~0.8% | **~0.3%** | ~0.6% | — | — | — |
 | Leverage (Assets/Equity) | 9.6x | 8.2x | 9.2x | 8.2x | 8.7x | 9.2x | 9.1x | — | — |
 
@@ -235,7 +235,7 @@ For FY25: Reported Net Income = ₹2,106 Cr. The bank over-provisioned by ~₹60
 |---|---|---|---|---|---|
 | NIM (Spread Efficiency) | ~5.6% | ~5.6% | ~5.1% | ~5.5% | Strong yield on assets; competitive advantage |
 | Fee Income Ratio | ~14% | ~11% | ~14% | ~14% | Moderate diversification |
-| Operating Efficiency (1 - C/I) | ~43% | ~44% | ~39% | ~43% | Needs improvement; C/I is high for a maturing bank |
+| Operating Efficiency (1 - C/I) | ~52% | ~56% | ~52% | ~46% | Deteriorating post-merger; needs to recover toward pre-merger ~50%+ levels |
 | Provision Intensity (1 - Prov/PPOP) | ~71% | ~64% | **~60%** | ~61% | Provisions running above normal; conservative |
 | Tax Efficiency | ~78% | ~77% | ~77% | ~76% | Stable |
 | Leverage (Assets/Equity) | 9.2x | 8.2x | 8.7x | 9.2x | Moderate for a bank |
@@ -423,7 +423,7 @@ However, this includes significant re-rating (P/B expanded from ~4x to ~4x while
 | NNPA % | ~0.5% | ~0.4% | ~0.6% | ~0.7% | ~0.9% |
 | PCR (incl. write-offs) | — | ~75% | ~68% | ~68% | ~80% |
 | **Efficiency** | | | | | |
-| Cost-to-Income | ~57% | ~56% | ~61% | ~57% | ~54% |
+| Cost-to-Income | ~48% | ~44% | ~48% | ~54% | ~54% |
 | **Capital & Solvency** | | | | | |
 | CRAR | ~21% | ~23.6% | ~20.1% | ~20.1% | ~19.4% |
 | Tier-1 | — | — | ~18.8% | ~18.1% | ~17.5% |
@@ -437,7 +437,7 @@ However, this includes significant re-rating (P/B expanded from ~4x to ~4x while
 1. **Loan book diversification is IMPROVING** — vehicle finance concentration has dropped from 40% to 27% as MSME, housing, and gold loans grow. This reduces single-segment risk.
 2. **CASA ratio is DECLINING** — the most concerning operational trend. A bank transitioning to universal bank needs to reverse this.
 3. **NIM is recovering** — from the 5.1% trough in FY24 to 5.7% in Q3 FY26, as the Fincare integration settles and rate cuts benefit.
-4. **Cost-to-Income remains elevated** — in the 56-61% range over FY22-FY25, now trending down to ~54% in Q3 FY26 as post-merger operating leverage kicks in. This needs to drop below 50% for ROE to meaningfully recover.
+4. **Cost-to-Income has deteriorated post-merger** — from an efficient ~44% in FY23 to ~54% in FY25 as the Fincare integration added overlapping costs. Quarterly data shows stabilisation around 54%. This needs to return to sub-50% levels for ROE to meaningfully recover.
 5. **Asset quality has deteriorated** — GNPA from 1.7% to 2.3-2.5%. The MFI cleanup is in progress; management guided it will stabilise.
 
 ---
