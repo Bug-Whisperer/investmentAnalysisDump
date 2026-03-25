@@ -2,7 +2,7 @@
 
 ### **[BANK/NBFC MODE ACTIVATED]**
 
-**CMP:** ₹136 (approx. as of March 21, 2026) | **Market Cap:** ~₹1,23,600 Cr | **P/B:** 1.10x | **PE (TTM):** 6.64 | **Book Value:** ₹129/share | **52-Week Range:** ₹82–₹163 | **Dividend Yield:** ~2.7%
+**CMP:** ₹136 (approx. as of March 21, 2026) | **Market Cap:** ~₹1,23,600 Cr | **P/B:** 1.10x | **PE (TTM):** 6.64 | **Book Value:** ₹129/share | **52-Week Range:** ₹82–₹163 | **Dividend Yield:** ~2.9%
 
 ---
 
@@ -88,8 +88,8 @@ Buffett: *"Earnings can be as pliable as putty when a charlatan heads the compan
 | **Total Assets** | 741,440 | 1,179,540 | 1,258,789 | 1,381,030 | 1,535,018 | 1,730,691 | 1,811,503 |
 | Total Asset Growth | — | ~59%** | 7% | 10% | 11% | 13% | ~11% |
 | **Shareholders' Equity** | 41,206 | 62,410 | 69,961 | 78,054 | 92,133 | 105,417 | 115,202 |
-| **Book Value Per Share (₹)** | ~40 | ~38 | ~39 | ~86 | ~102 | ~116 | ~127 |
-| BVPS Growth YoY | — | NM | 3% | 120%** | 19% | 14% | — |
+| **Book Value Per Share (₹)** | ~80 | ~76 | ~77 | ~86 | ~102 | ~116 | ~127 |
+| BVPS Growth YoY | — | NM | 2% | 12% | 19% | 14% | — |
 | **CRAR (Total CAR)** | ~13.6% | ~13.9% | ~14.8% | ~16.7% | ~16.3% | ~16.3% | ~16.2% |
 | CET-1 Capital | ~8.5% | ~9.0% | ~10.0% | ~12.0% | ~11.5% | ~12.0% | ~12.2% |
 | **Leverage (Assets/Equity)** | 18.0x | 18.9x | 18.0x | 17.7x | 16.7x | 16.4x | 15.7x |
@@ -427,8 +427,10 @@ For PSU banks, the "integrity" question is really about institutional risk cultu
 | **Price/PPOP** | — | — | — | — | — | — | ~1.5x |
 | **Earnings Yield** | NM | NM | 11.8% | 14.3% | **17.2%** | 14.1% | 14.9% |
 | **Dividend Yield** | 0% | 0% | 1.5% | 2.0% | 2.2% | 2.7% | **2.9%** |
-| **BVPS (₹)** | ~40 | ~38 | ~39 | ~86 | ~102 | ~116 | ~127 |
-| BV Growth Rate | — | NM | 3% | NM | 19% | 14% | — |
+| **BVPS (₹)** | ~80 | ~76 | ~77 | ~86 | ~102 | ~116 | ~127 |
+| BV Growth Rate | — | NM | 2% | 12% | 19% | 14% | — |
+
+*Note: P/B ratios (FY2020-FY2022) are sourced from external market data providers, which use standalone equity for bank P/B calculations. The BVPS row shows consolidated book value (Equity Capital + Reserves ÷ Shares). Consolidated BVPS is higher than standalone for FY2020-FY2022 because it includes subsidiary reserves. From FY2023 onwards, the two definitions converge closely. All current and forward-looking valuation analysis in this report uses consolidated BVPS of ₹129.*
 
 ### Fair P/B Multiple Calculation (Gordon Growth Model)
 
@@ -485,7 +487,7 @@ The market is pricing Canara as if its ROE will revert to ~12-13% (just above co
 |---|---|---|---|---|---|---|---|
 | **Conservative** | ₹129 | 13% | 80% | 10.4% | 1.2x | ₹253 | ₹418 |
 | **Base** | ₹129 | 15% | 80% | 12.0% | 1.5x | ₹341 | ₹602 |
-| **Optimistic** | ₹129 | 17% | 80% | 13.6% | 2.0x | ₹508 | ₹964 |
+| **Optimistic** | ₹129 | 17% | 80% | 13.6% | 2.0x | ₹488 | ₹923 |
 
 **Implied Annual Returns from CMP of ₹136:**
 
@@ -493,7 +495,7 @@ The market is pricing Canara as if its ROE will revert to ~12-13% (just above co
 |---|---|---|---|
 | **Conservative** (ROE 13%, 1.2x P/B) | 13.2% | 11.9% | Beats hurdle rate |
 | **Base** (ROE 15%, 1.5x P/B) | **20.2%** | **16.1%** | **Excellent** |
-| **Optimistic** (ROE 17%, 2.0x P/B) | 30.1% | 21.6% | Outstanding |
+| **Optimistic** (ROE 17%, 2.0x P/B) | 29.1% | 21.1% | Outstanding |
 
 Even the conservative case delivers >10% CAGR. The base case offers ~16-20% CAGR. This is attractive.
 
@@ -552,29 +554,29 @@ Using Base Case:
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 0.5% | 4.8% | 9.3% |
-| 10 Years | 5.1% | 7.3% | 9.5% |
+| 5 Years | -0.3% | 4.3% | 8.8% |
+| 10 Years | 4.7% | 9.5% | 14.3% |
 
 #### At Terminal PE = 8x (Deep Value / Bear Case)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 5.5% | 10.0% | 14.6% |
-| 10 Years | 7.7% | 9.9% | 12.2% |
+| 5 Years | 8.2% | 13.1% | 18.0% |
+| 10 Years | 9.1% | 14.0% | 19.0% |
 
 #### At Terminal PE = 15x (Market Average for Banks)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | -2.5% | 1.8% | 6.0% |
-| 10 Years | 3.7% | 5.9% | 8.1% |
+| 5 Years | -4.6% | -0.3% | 4.0% |
+| 10 Years | 2.4% | 7.1% | 11.7% |
 
 #### At Historical Average PE = 7x (Canara's Own Historical Median)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 6.9% | 11.4% | 16.0% |
-| 10 Years | 8.4% | 10.7% | 12.9% |
+| 5 Years | 11.1% | 16.1% | 21.2% |
+| 10 Years | 10.5% | 15.6% | 20.6% |
 
 ### Step 4: Reality Check
 
@@ -587,13 +589,13 @@ Using Base Case:
 
 **Traffic Light:**
 
-At current prices, to earn a **10% return over 10 years** at a **terminal PE of 12x**, the company needs to grow EPS at just **5.1% CAGR**. This is well BELOW India's nominal GDP growth rate and far below the company's own sustainable growth rate.
+At current prices, to earn a **10% return over 10 years** at a **terminal PE of 12x**, the company needs to grow EPS at just **4.7% CAGR**. This is well BELOW India's nominal GDP growth rate and far below the company's own sustainable growth rate.
 
-> **🟢 GREEN — At the current price of ₹136, the market is pricing in essentially NO earnings growth beyond inflation to deliver a 10% return. A 15% return requires only ~7% EPS CAGR. Even a 20% return requires only ~9.5% EPS CAGR. The company has historically grown (and should sustain) 12-15% EPS growth. The market is NOT demanding heroic assumptions.**
+> **🟢 GREEN — At the current price of ₹136, the market is pricing in essentially NO earnings growth beyond inflation to deliver a 10% return. A 15% return requires ~9.5% EPS CAGR. A 20% return requires ~14.3% EPS CAGR. Given the company should sustain 12-15% EPS growth, achieving a 15% return is realistic. The market is NOT demanding heroic assumptions.**
 
 ### Step 5: Verdict
 
-> "At the current price of ₹136, to earn a 15% annualised return over 10 years assuming the market values the business at 12x PE at exit, Canara Bank needs to grow EPS at just ~7.3% CAGR. The company is currently growing EPS at ~15%+ and should sustain 12-15% growth for several years given India's credit cycle. This implies **the market is pricing in very conservative, below-GDP growth — a significant margin of embedded pessimism.**"
+> "At the current price of ₹136, to earn a 15% annualised return over 10 years assuming the market values the business at 12x PE at exit, Canara Bank needs to grow EPS at ~9.5% CAGR. The company is currently growing EPS at ~15%+ and should sustain 12-15% growth for several years given India's credit cycle. This implies **the market is pricing in conservative growth — a meaningful margin of embedded pessimism.**"
 
 ### Step 6: Asymmetric Upside Check — Is This a Fat Pitch?
 
@@ -614,7 +616,7 @@ The most probable downside floor is ~₹100-110 (0.8-0.85x book), which would re
 | Upside Scenario | Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
 | Base Case (5Y) | 15% ROE, 1.5x P/B, BV grows to ₹227 | ₹341 | **+151%** |
-| Bull Case (5Y) | 17% ROE, 2.0x P/B, BV grows to ₹246 | ₹492 | **+262%** |
+| Bull Case (5Y) | 17% ROE, 2.0x P/B, BV grows to ₹244 | ₹488 | **+259%** |
 | Re-rating Catalyst | PSU bank re-rating to 1.8-2.0x, privatisation premium | ₹230-258 | **+69-90%** |
 
 #### Part 3: Asymmetry Ratio
@@ -694,24 +696,24 @@ The mispricing source is **"sector/narrative de-rating unrelated to current fund
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 1.05x | Status quo | 10.8% | 11.2% | 11.4% |
-| P/B compresses to 0.8x | Bear case | 4.3% | 6.3% | 7.9% |
-| P/B rises to 1.5x (Fair P/B) | Partial re-rating | **18.2%** | **16.3%** | **15.0%** |
-| P/B rises to 2.0x (quality tier) | Full re-rating | **24.7%** | **20.6%** | **18.3%** |
-| P/B at historical median (~0.55x) | Reversion to historical pessimism | -7.8% | -3.1% | 0.6% |
+| P/B stays at 1.05x | Status quo | 11.9% | 11.9% | 12.0% |
+| P/B compresses to 0.8x | Bear case | 6.0% | 7.7% | 9.0% |
+| P/B rises to 1.5x (Fair P/B) | Partial re-rating | **20.2%** | **17.8%** | **16.0%** |
+| P/B rises to 2.0x (quality tier) | Full re-rating | **27.3%** | **22.7%** | **19.4%** |
+| P/B at historical median (~0.55x) | Reversion to historical pessimism | -1.7% | 2.1% | 4.9% |
 | P/B at 1.0x Book | Valued at book | 10.8% | 11.2% | 11.4% |
 
 **Key Insight:**
 
-> "At the current entry P/B of 1.05x with a sustainable ROE of 15% and 80% retention, book value compounds at 12% annually. If P/B remains at 1.05x, the return equals the BV compounding rate of ~11-12%. **Even if P/B halves to 0.53x over 10 years (extreme pessimism), the 10-year return is still ~0.6% (roughly breakeven).** The stock can tolerate massive P/B compression before delivering negative returns over 10 years, because BV compounding provides a fundamental return floor."
+> "At the current entry P/B of 1.05x with a sustainable ROE of 15% and 80% retention, book value compounds at 12% annually. If P/B remains at 1.05x, the return equals the BV compounding rate of ~12%. **Even if P/B halves to 0.53x over 10 years (extreme pessimism), the 10-year return is still ~4.9% — positive but below the hurdle rate.** The stock can tolerate significant P/B compression before delivering negative returns over 10 years, because BV compounding provides a fundamental return floor."
 
 ### Traffic Light Verdict
 
 | Condition | Verdict | Signal |
 |---|---|---|
-| **10-year return >10% even if P/B drops to 0.8x** | ✅ Nearly (7.9%) | 🟡 YELLOW-GREEN |
-| **10-year return >10% if P/B stays constant** | ✅ YES (11.4%) | 🟢 GREEN |
-| **10-year return >15% with partial re-rating to 1.5x** | ✅ YES (15.0%) | 🟢 GREEN |
+| **10-year return >10% even if P/B drops to 0.8x** | ✅ Nearly (9.0%) | 🟡 YELLOW-GREEN |
+| **10-year return >10% if P/B stays constant** | ✅ YES (12.0%) | 🟢 GREEN |
+| **10-year return >15% with partial re-rating to 1.5x** | ✅ YES (16.0%) | 🟢 GREEN |
 
 **Verdict: 🟢 GREEN entry point.** BV compounding provides a solid return floor (~11-12%) even without any re-rating. With even modest re-rating (P/B going from 1.05x to 1.5x), returns become excellent (15-18%).
 
