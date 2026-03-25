@@ -590,14 +590,14 @@ If BVPS stays roughly flat at ~₹19 (as it has recently with >100% payouts), ca
 
 **Scenario B: Payout Normalises to ~70% (30% retention, BVPS compounds at ~13.5%)**
 
-If the new Stonepeak owners reduce the payout to ~70% (historically normal for Castrol pre-CY2024), BVPS would compound at ROE × Retention = 45% × 30% = 13.5%/year, BUT the dividend yield would drop to ~3.3%.
+If the new Stonepeak owners reduce the payout to ~70% (historically normal for Castrol pre-CY2024), BVPS would compound at ROE × Retention = 45% × 30% = 13.5%/year, BUT the dividend yield would drop to ~3.6%.
 
-| Exit P/B | Rationale | 5-Yr Price CAGR | + Div Yield (~3.3%) | = Total Return |
+| Exit P/B | Rationale | 5-Yr Price CAGR | + Div Yield (~3.6%) | = Total Return |
 |---|---|---|---|---|
-| 9.7x (stays current) | BV drives price | 13.5% | +3.3% | **~16.8%** |
-| 7.0x (mild de-rating) | | 6.3% | +3.3% | **~9.6%** |
-| 5.0x (significant de-rating) | | -0.6% | +3.3% | **~2.7%** |
-| 10.6x (hist. median P/B) | | 15.5% | +3.3% | **~18.8%** |
+| 9.7x (stays current) | BV drives price | 13.5% | +3.6% | **~17.1%** |
+| 7.0x (mild de-rating) | | 6.3% | +3.6% | **~9.9%** |
+| 5.0x (significant de-rating) | | -0.6% | +3.6% | **~3.0%** |
+| 10.6x (hist. median P/B) | | 15.5% | +3.6% | **~19.1%** |
 
 **The Takeaway:** For Castrol at 9.7x P/B, the outcome hinges on dividend policy:
 - If dividends stay high (>100% payout): You earn ~5% annually from dividends alone, with price roughly flat. Adequate but unspectacular.
