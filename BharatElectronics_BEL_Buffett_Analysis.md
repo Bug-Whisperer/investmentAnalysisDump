@@ -744,17 +744,17 @@ The business is generating higher returns with less financial risk. This is the 
 
 ### Key Insight
 
-> **"At the current entry P/B of 14.8x with a sustainable ROE of 25% and 65% retention, book value compounds at 16.3% annually. If the P/B multiple remains at 14.8x, the return equals the BV compounding rate of 16.3%. But if P/B compresses to its 5-year historical median of ~6x, the 10-year return drops to 6.2% — well below the 10% hurdle rate. The stock can tolerate P/B compression from 14.8x to approximately 11x before the 10-year return drops below 10%."**
+> **"At the current entry P/B of 14.8x with a sustainable ROE of 25% and 65% retention, book value compounds at 16.3% annually. If the P/B multiple remains at 14.8x, the return equals the BV compounding rate of 16.3%. But if P/B compresses to its 5-year historical median of ~6x, the 10-year return drops to 6.2% — well below the 10% hurdle rate. The stock can tolerate P/B compression from 14.8x to approximately 8.5x before the 10-year return drops below 10%."**
 
 ### Traffic Light
 
 | Condition | Verdict |
 |---|---|
 | 10Y return > 10% even if P/B halves (to 7.4x) | 8.5% — BELOW hurdle rate |
-| 10Y return > 10% only if P/B stays within 25% (>11x) | Yes — 12.9% |
+| 10Y return > 10% if P/B compresses ~43% (to 8.5x) | Yes — 10.0% (exact breakeven) |
 | 10Y return requires P/B expansion | Not at current multiple |
 
-🟡 **YELLOW** — Returns are dependent on the P/B multiple not compressing by more than 25-35%. Given the extreme historical elevation, this is a risky assumption.
+🟡 **YELLOW** — Returns are dependent on the P/B multiple not compressing by more than ~43% (from 14.8x to 8.5x). Given the extreme historical elevation, this is a meaningful risk — though less dire than it first appears, since 8.5x P/B would still be above pre-2023 levels.
 
 ---
 
