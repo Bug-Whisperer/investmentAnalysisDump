@@ -76,7 +76,7 @@ The current normalised earnings (FY25: ₹2,372 Cr, TTM: ₹2,788 Cr) represent 
 
 **Buffett's Financial Fortress Assessment:**
 
-The balance sheet tells a story of **massive capital intensity with moderate leverage**. SAIL carries ₹36,934 Cr of debt against ₹58,906 Cr of equity (D/E 0.63x in FY25) — not dangerously leveraged, but far from a fortress. The company burned through equity during FY16-FY18 (three consecutive years of losses wiped out ₹6,300 Cr of book value), demonstrating the cyclical vulnerability.
+The balance sheet tells a story of **massive capital intensity with moderate leverage**. SAIL carries ₹36,934 Cr of debt against ₹58,906 Cr of equity (D/E 0.63x in FY25) — not dangerously leveraged, but far from a fortress. The company burned through equity during FY16-FY18 (three consecutive years of losses wiped out ~₹6,800 Cr of book value), demonstrating the cyclical vulnerability.
 
 The dramatic debt reduction from **₹54,127 Cr (FY20) to ₹17,284 Cr (FY22)** was entirely driven by the once-in-a-cycle FY21-FY22 steel supercycle — SAIL used windfall cash flows to deleverage aggressively. But debt has since crept back to ₹36,934 Cr as the cycle normalised and capex resumed.
 
@@ -369,7 +369,7 @@ Starting Owner Earnings: ₹4,335 Cr (FY25) | Discount Rate: 10%
 | Trough Earnings | ₹4.93 EPS × 10x PE | ₹49 | -67% |
 | Stressed Book Value | 0.8x BVPS | ₹114 | -24% |
 | Historical Trough P/B | ~0.6x (FY20 COVID panic) | ₹86 | -43% |
-| Most Probable Floor | 1.0x Book Value | ₹143 | -5% |
+| Most Probable Floor | 1.0x Book Value | ₹143 | -6% |
 
 **Upside Potential:**
 
@@ -453,7 +453,7 @@ SAIL fails the most fundamental Buffett test: **it is a commodity business with 
 
 > *"With few exceptions, when a manager with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact."* — Buffett (1989 Letter).
 
-**However, for a small capital base seeking tactical/cyclical trades:** SAIL could be an opportunistic buy during severe steel downturns (when it trades below 0.8x book / below ₹110) with a plan to sell during the next upcycle peak. This is a **trading thesis, not an investment thesis** — and Buffett would disapprove, but acknowledge that cyclical arbitrage works for small capital pools.
+**However, for a small capital base seeking tactical/cyclical trades:** SAIL could be an opportunistic buy during severe steel downturns (when it trades below 0.8x book / below ₹114) with a plan to sell during the next upcycle peak. This is a **trading thesis, not an investment thesis** — and Buffett would disapprove, but acknowledge that cyclical arbitrage works for small capital pools.
 
 ---
 
@@ -498,9 +498,9 @@ SAIL is **not in turnaround mode** — it is a functioning, profitable company a
 | Valuation (P/B 1.06x) | 5 | Near book value — fair for a 5% ROE business |
 | Margin of Safety | 3 | Minimal; base DCF suggests fairly valued to slightly overvalued |
 | Book Value Compounding | 3 | 3.6% annual BVPS growth — below inflation |
-| **Buffett Verdict** | — | **NOT a Buffett stock.** A commodity cyclical with no moat, mediocre ROE, and cyclical earnings. The stock is near fair value at 1.06x book. Buffett would pass entirely. For tactical investors with small capital, the only rational entry is below ₹115 (0.8x book) during a severe downturn, with a plan to sell into the next upcycle above 1.5x book (₹215+). This is a **trade, not an investment.** |
+| **Buffett Verdict** | — | **NOT a Buffett stock.** A commodity cyclical with no moat, mediocre ROE, and cyclical earnings. The stock is near fair value at 1.06x book. Buffett would pass entirely. For tactical investors with small capital, the only rational entry is below ₹114 (0.8x book) during a severe downturn, with a plan to sell into the next upcycle above 1.5x book (₹214+). This is a **trade, not an investment.** |
 | Buy Zone | — | **Fair Value / Hold** at ₹151. Not attractive enough to initiate. |
-| Overall Recommendation | — | **AVOID for long-term value investors.** Watchlist for cyclical entry below ₹115. |
+| Overall Recommendation | — | **AVOID for long-term value investors.** Watchlist for cyclical entry below ₹114. |
 
 ---
 
