@@ -175,11 +175,11 @@ Olectra Greentech is India's largest pure-play electric bus manufacturer. The co
 | Component | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|
 | Net Profit Margin | 5.9% | 6.1% | 6.8% | **7.7%** |
-| Asset Turnover | 0.50x | 0.70x | 0.73x | **0.83x** |
-| Equity Multiplier | 1.53x | 1.85x | 1.74x | **2.07x** |
-| **= ROE** | **4.5%** | **8.0%** | **8.6%** | **13.3%** |
+| Asset Turnover | 0.56x | 0.79x | 0.73x | **0.96x** |
+| Equity Multiplier | 1.40x | 1.70x | 1.79x | **1.92x** |
+| **= ROE** | **4.6%** | **8.3%** | **9.0%** | **14.2%** |
 
-**Quality Assessment:** ROE improvement is driven by ALL three factors — expanding margins (good), improving asset turnover (good), AND rising leverage (concerning). The equity multiplier has increased from 1.53x to 2.07x, meaning leverage is playing a role. This is still within acceptable bounds (not above 3x), but the trend is worth monitoring given the aggressive debt buildup.
+**Quality Assessment:** ROE improvement is driven by ALL three factors — expanding margins (good), improving asset turnover (good), AND rising leverage (concerning). The equity multiplier has increased from 1.40x to 1.92x, meaning leverage is playing a modest role. This is still well within acceptable bounds (not above 3x), but the trend is worth monitoring given the aggressive debt buildup.
 
 > *Buffett: "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* Olectra is an IMPROVING company, not yet a wonderful one. ROE is rising but remains below what Buffett would consider excellent (>20%). ROCE of 21% is encouraging and suggests the underlying business economics are improving, but the question is whether this is sustainable or a cyclical peak driven by government ordering activity.
 
@@ -295,11 +295,11 @@ Capital efficiency is mixed. The CapEx/Revenue ratio spiked in FY25 due to the G
 
 | Period | Start Market Cap (₹ Cr) | End Market Cap (~₹ Cr) | Market Value Created | Retained Earnings (₹ Cr) | $1 Test (Value Created / Retained) |
 |---|---|---|---|---|---|
-| FY20-FY25 (5 years) | ~650 | ~7,200 | ~6,550 | ~258 | **~25.4x** |
-| FY22-FY25 (3 years) | ~3,600 | ~7,200 | ~3,600 | ~308 | **~11.7x** |
-| Last 1 Year (FY25-Mar 2026) | ~9,600 | ~7,200 | **-2,400** | ~136 | **-17.6x** |
+| FY20-FY25 (5 years) | ~650 | ~7,200 | ~6,550 | ~316 | **~20.7x** |
+| FY22-FY25 (3 years) | ~3,600 | ~7,200 | ~3,600 | ~272 | **~13.2x** |
+| Last 1 Year (FY25-Mar 2026) | ~9,600 | ~7,200 | **-2,400** | ~135 | **-17.8x** |
 
-**Interpretation:** Over 5 years, the $1 test is spectacularly positive — every rupee retained created ₹25+ of market value. But the last year tells a different story: the stock has fallen ~25% from its recent peaks, destroying ₹2,400 Cr of market value even as ₹136 Cr was retained. This is the market correcting an overvaluation — the $1 test in the short term is negative because the stock was priced for perfection and reality fell short.
+**Interpretation:** Over 5 years, the $1 test is spectacularly positive — every rupee retained created ₹20+ of market value. But the last year tells a different story: the stock has fallen ~25% from its recent peaks, destroying ₹2,400 Cr of market value even as ₹135 Cr was retained. This is the market correcting an overvaluation — the $1 test in the short term is negative because the stock was priced for perfection and reality fell short.
 
 ### Capital Allocation Assessment
 
@@ -387,25 +387,27 @@ The stock has corrected significantly from its 52-week high of ₹1,714 (down ~4
 | Growth Rate, Years 6-10 | 10% | 15% | 20% |
 | Terminal Growth Rate | 4% | 5% | 5% |
 | Discount Rate | 10% | 10% | 10% |
-| PV of Cash Flows (Yr 1-10) (₹ Cr) | ~1,350 | ~1,930 | ~2,780 |
-| Terminal Value PV (₹ Cr) | ~1,700 | ~3,200 | ~5,900 |
-| **Enterprise Value (₹ Cr)** | **~3,050** | **~5,130** | **~8,680** |
+| PV of Cash Flows (Yr 1-10) (₹ Cr) | ~1,628 | ~2,244 | ~3,205 |
+| Terminal Value PV (₹ Cr) | ~2,944 | ~5,986 | ~10,173 |
+| **Enterprise Value (₹ Cr)** | **~4,572** | **~8,230** | **~13,378** |
 | Less: Net Debt (₹ Cr) | 250 | 250 | 250 |
-| **Equity Intrinsic Value (₹ Cr)** | **~2,800** | **~4,880** | **~8,430** |
-| **Intrinsic Value Per Share (₹)** | **~341** | **~594** | **~1,027** |
-| **Margin of Safety at ₹880** | **-61% (Overvalued)** | **-32% (Overvalued)** | **+17% (Slight MoS)** |
+| **Equity Intrinsic Value (₹ Cr)** | **~4,322** | **~7,980** | **~13,128** |
+| **Intrinsic Value Per Share (₹)** | **~526** | **~972** | **~1,599** |
+| **Margin of Safety at ₹880** | **-67% (Overvalued)** | **+9% (Minimal MoS)** | **+45% (Good MoS)** |
 
 ### Summary Table
 
-| Scenario | Intrinsic Value/Share | MoS at ₹880 | Upside/(Downside) |
+| Scenario | Intrinsic Value/Share | MoS at ₹880 | Upside/(Downside) from CMP |
 |---|---|---|---|
-| Conservative | ₹341 | **-61%** | -61% downside |
-| Base | ₹594 | **-32%** | -32% downside |
-| Optimistic | ₹1,027 | +17% | +17% upside |
+| Conservative | ₹526 | **-67%** | -40% downside |
+| Base | ₹972 | +9% | +10% upside |
+| Optimistic | ₹1,599 | +45% | +82% upside |
 
-**Critical Observation:** Even in the Base Case, the stock is overvalued by 32%. Only in the Optimistic scenario (30% earnings growth for 5 years, 20% for the next 5) does the stock offer a modest margin of safety. Buffett requires a MINIMUM 25-30% margin of safety — the stock fails this test in all but the most optimistic scenario.
+*Note: Margin of Safety = (IV − CMP) / IV. Upside/Downside = (IV − CMP) / CMP.*
 
-> *Buffett: "It's better to be approximately right than precisely wrong."* The approximate answer here is clear: at ₹880, you are paying approximately fair value assuming EVERYTHING goes right, and you are overpaying if anything goes even slightly wrong. There is no margin of safety for error.
+**Critical Observation:** In the Conservative case, the stock is significantly overvalued (MoS of -67%). The Base Case offers only a minimal 9% margin of safety — far below Buffett's required 25-30%. Only in the Optimistic scenario (30% earnings growth for 5 years, 20% for the next 5) does the stock offer a meaningful margin of safety of 45%. Buffett requires a MINIMUM 25-30% margin of safety — the stock fails this test in the Conservative and Base scenarios.
+
+> *Buffett: "It's better to be approximately right than precisely wrong."* The approximate answer here is clear: at ₹880, the Base Case DCF suggests the stock is roughly fairly valued (IV ~₹972, only 9% MoS), which is far below Buffett's required 25-30% safety margin. You are paying approximately fair value assuming strong execution, and you are overpaying if the business delivers only conservative growth. There is insufficient margin of safety for error.
 
 ---
 
@@ -426,29 +428,29 @@ The stock has corrected significantly from its 52-week high of ₹1,714 (down ~4
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **35.3%** CAGR | **41.2%** | **47.3%** |
-| 10 Years | **22.8%** CAGR | **27.2%** | **31.7%** |
+| 5 Years | **40.3%** CAGR | **46.6%** | **53.0%** |
+| 10 Years | **24.2%** CAGR | **29.9%** | **35.5%** |
 
 #### At Terminal PE = 20x (Market Average)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **28.3%** CAGR | **33.9%** | **39.7%** |
-| 10 Years | **19.3%** CAGR | **23.5%** | **27.8%** |
+| 5 Years | **32.4%** CAGR | **38.4%** | **44.5%** |
+| 10 Years | **20.7%** CAGR | **26.2%** | **31.7%** |
 
 #### At Terminal PE = 30x (Above-Average Compounder)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **20.3%** CAGR | **25.5%** | **30.8%** |
-| 10 Years | **15.3%** CAGR | **19.3%** | **23.3%** |
+| 5 Years | **22.1%** CAGR | **27.7%** | **33.2%** |
+| 10 Years | **15.9%** CAGR | **21.2%** | **26.4%** |
 
 #### At Terminal PE = 50x (Historical Average for OLECTRA)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 10.0% CAGR | 15.0% | 20.0% |
-| 10 Years | 10.0% CAGR | 15.0% | 20.0% |
+| 5 Years | 10.3% CAGR | 15.3% | 20.3% |
+| 10 Years | 10.1% CAGR | 15.1% | 20.1% |
 
 ### Step 4: Reality Check
 
@@ -463,13 +465,13 @@ The stock has corrected significantly from its 52-week high of ₹1,714 (down ~4
 
 ### Traffic Light Assessment
 
-To earn a 15% annual return over 10 years at ₹880, assuming the market eventually values Olectra at 20x PE (market average), the company needs to grow EPS at **23.5% CAGR for 10 consecutive years**. The company's recent growth rate has decelerated sharply (3% in H1 FY26). While the 3-year average is much higher, sustaining 23%+ CAGR from a larger base for a DECADE is demanding.
+To earn a 15% annual return over 10 years at ₹880, assuming the market eventually values Olectra at 20x PE (market average), the company needs to grow EPS at **26.2% CAGR for 10 consecutive years**. The company's recent growth rate has decelerated sharply (3% in H1 FY26). While the 3-year average is much higher, sustaining 26%+ CAGR from a larger base for a DECADE is extremely demanding.
 
 **Verdict: 🟡 YELLOW to 🟠 ORANGE** — The implied growth is achievable IF the e-bus market grows at 30-40% CAGR and Olectra maintains market share. But it requires near-perfect execution, stable margins, and no competitive disruption. There is no room for error.
 
 ### Step 5: The Napkin Test Verdict
 
-> **"At the current price of ₹880, to earn a 15% annualised return over 10 years assuming the market values the business at 20x PE at exit, Olectra needs to grow EPS at 23.5% CAGR. The company has historically grown EPS much faster (but from a tiny base), while recent quarters show deceleration to ~3%. This implies the market is pricing in strong-to-aggressive growth. The price is not crazy, but it is NOT cheap — it's priced for excellent execution."**
+> **"At the current price of ₹880, to earn a 15% annualised return over 10 years assuming the market values the business at 20x PE at exit, Olectra needs to grow EPS at 26.2% CAGR. The company has historically grown EPS much faster (but from a tiny base), while recent quarters show deceleration to ~3%. This implies the market is pricing in strong-to-aggressive growth. The price is not crazy, but it is NOT cheap — it's priced for excellent execution."**
 
 > *Buffett: "If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* At ₹880, Olectra is a spreadsheet stock — you need specific assumptions about growth rates, terminal multiples, and execution to justify the price. This fails Buffett's napkin test.
 
@@ -481,10 +483,10 @@ To earn a 15% annual return over 10 years at ₹880, assuming the market eventua
 
 | Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE |
 |---|---|---|---|---|
-| FY22 | 5.9% | 0.50x | 1.53x | 4.5% |
-| FY23 | 6.1% | 0.70x | 1.85x | 8.0% |
-| FY24 | 6.8% | 0.73x | 1.74x | 8.6% |
-| **FY25** | **7.7%** | **0.83x** | **2.07x** | **13.3%** |
+| FY22 | 5.9% | 0.56x | 1.40x | 4.6% |
+| FY23 | 6.1% | 0.79x | 1.70x | 8.3% |
+| FY24 | 6.8% | 0.73x | 1.79x | 9.0% |
+| **FY25** | **7.7%** | **0.96x** | **1.92x** | **14.2%** |
 
 ROE is driven by improving margins AND asset turnover (both quality signals) AND rising leverage (yellow flag). Overall quality is adequate — the ROE improvement is genuine, but the leverage component means it's somewhat fragile.
 
@@ -506,28 +508,28 @@ ROE is driven by improving margins AND asset turnover (both quality signals) AND
 | Year | BVPS (₹) |
 |---|---|
 | Current | 137 |
-| Year 5 | ~259 |
-| Year 7 | ~334 |
-| Year 10 | ~487 |
+| Year 5 | ~261 |
+| Year 7 | ~337 |
+| Year 10 | ~496 |
 
 ### Expected CAGR at CMP ₹880 (Entry P/B: 6.4x)
 
 | Exit P/B | Rationale | 5Y CAGR | 7Y CAGR | 10Y CAGR |
 |---|---|---|---|---|
-| 6.4x (sustains) | Optimistic | **17.2%** | **15.8%** | **14.6%** |
-| 5.0x (mild de-rating) | Moderate | **12.0%** | **12.5%** | **12.6%** |
-| 4.0x (significant de-rating) | Realistic for maturing | **6.5%** | **9.1%** | **10.4%** |
-| 3.0x (Fair P/B for ~14% ROE) | Theoretical fair value | **-0.2%** | **4.9%** | **7.8%** |
-| 2.0x (steep compression) | Pessimistic | **-8.6%** | **-0.4%** | **4.2%** |
-| 1.0x Book | Worst case for going concern | **-19.4%** | **-8.5%** | **-2.0%** |
+| 6.4x (sustains) | Optimistic | **13.6%** | **13.7%** | **13.7%** |
+| 5.0x (mild de-rating) | Moderate | **8.2%** | **9.7%** | **10.9%** |
+| 4.0x (significant de-rating) | Realistic for maturing | **3.4%** | **6.3%** | **8.5%** |
+| 3.0x (Fair P/B for ~14% ROE) | Theoretical fair value | **-2.3%** | **2.0%** | **5.4%** |
+| 2.0x (steep compression) | Pessimistic | **-9.9%** | **-3.7%** | **1.2%** |
+| 1.0x Book | Worst case for going concern | **-21.6%** | **-12.8%** | **-5.6%** |
 
 ### Key Insight
 
-> **At an entry P/B of 6.4x with a sustainable ROE of 14% and 98% retention, book value compounds at ~13.7% annually. If the P/B remains at 6.4x, returns equal 13.7% — decent. But if P/B compresses to 3x (the theoretically fair multiple for 14% ROE), 5-year returns are approximately ZERO. The stock can only tolerate P/B compression from 6.4x to roughly 5x before the 10-year return drops below the 10% hurdle rate.**
+> **At an entry P/B of 6.4x with a sustainable ROE of 14% and 98% retention, book value compounds at ~13.7% annually. If the P/B remains at 6.4x, the return equals the BV compounding rate of ~13.7% — decent. But if P/B compresses to 3x (the theoretically fair multiple for 14% ROE), 5-year returns are approximately -2.3% (i.e., you lose money). The stock can only tolerate P/B compression from 6.4x to roughly 5x before the 10-year return drops below the 10% hurdle rate.**
 
 ### Traffic Light Verdict
 
-**🟡 YELLOW** — 10-year returns exceed 10% only if P/B stays above 4x. Given that the theoretical fair P/B for 14% ROE is approximately 2-3x, the valuation is dependent on sustained growth premium. If growth disappoints and the market re-rates Olectra as a "normal" manufacturer, the downside is severe.
+**🟡 YELLOW to 🟠 ORANGE** — 10-year returns exceed 10% only if P/B stays above ~5x. Given that the theoretical fair P/B for 14% ROE is approximately 2-3x, the valuation is highly dependent on sustained growth premium. If growth disappoints and the market re-rates Olectra as a "normal" manufacturer, the downside is severe.
 
 ---
 
@@ -566,9 +568,9 @@ ROE is driven by improving margins AND asset turnover (both quality signals) AND
 | Management Trustworthy & Rational | 50% promoter holding, no dilution, reasonable capital allocation; execution lumpy | ✅ Pass |
 | Resistant to Disruption | Industry is DEFINED by disruption — technology, regulation, competition all changing rapidly | ❌ Fail |
 | Economics Sustainable 10+ Years | Uncertain — competitive landscape may be unrecognisable in 10 years | ⚠️ Uncertain |
-| Price Below Intrinsic Value | No. Stock is above base-case intrinsic value. No margin of safety. | ❌ Fail |
+| Price Below Intrinsic Value | Marginal. Base-case DCF suggests IV ~₹972 vs CMP ₹880 — only 9% MoS, far below Buffett's 25% threshold. | ❌ Fail |
 
-**Honest Verdict: 2 Pass, 2 Fail, 2 Marginal/Uncertain = PASS (Buffett would NOT buy at ₹880)**
+**Honest Verdict: 1 Pass, 3 Fail, 2 Marginal/Uncertain = PASS (Buffett would NOT buy at ₹880)**
 
 Buffett would acknowledge the massive tailwind (India's EV bus mandate) and the first-mover advantage, but he would be deeply uncomfortable with:
 1. The technology dependency on BYD
@@ -616,10 +618,10 @@ Buffett would acknowledge the massive tailwind (India's EV bus mandate) and the 
 | Management Quality | 6 | 50% promoter stake, no dilution; but execution has been lumpy |
 | Scalability | 6 | Large TAM but capital-intensive linear scaling |
 | Valuation | 3 | ~50x PE, ~6.4x P/B for 14% ROE — expensive by any standard |
-| Margin of Safety | 2 | None at current price; base-case DCF shows 32% overvaluation |
+| Margin of Safety | 2 | Minimal at current price; base-case DCF shows only 9% MoS, well below Buffett's 25% threshold |
 | Growth Runway | 8 | Massive e-bus market opportunity; 10,000+ order book |
 | **Overall Score** | **4.9/10** | — |
-| **Buffett Verdict** | **PASS at current prices** | Olectra is a legitimate beneficiary of India's EV bus revolution with a real first-mover advantage, a massive order book, and improving operational metrics. However, the business lacks a durable moat, operates in a rapidly changing and increasingly competitive industry, is dependent on BYD technology, and generates negative free cash flow. At ~50x PE and ~6.4x P/B for a 14% ROE business, the stock offers NO margin of safety. Buffett would say: "I'd rather miss this one than overpay." **Wait for ₹400-500 (3-3.5x P/B, ~25x PE) for a Value/Buy entry, or below ₹275 (<2x P/B) for a Deep Value entry.** |
+| **Buffett Verdict** | **PASS at current prices** | Olectra is a legitimate beneficiary of India's EV bus revolution with a real first-mover advantage, a massive order book, and improving operational metrics. However, the business lacks a durable moat, operates in a rapidly changing and increasingly competitive industry, is dependent on BYD technology, and generates negative free cash flow. At ~50x PE and ~6.4x P/B for a 14% ROE business, the stock offers insufficient margin of safety (Base DCF IV ~₹972 vs CMP ₹880 = only 9% MoS). Buffett would say: "I'd rather miss this one than overpay." **Wait for ₹480-500 (3-3.5x P/B, ~25x PE) for a Value/Buy entry, or below ₹275 (<2x P/B) for a Deep Value entry.** |
 | **Buy Zone** | **Fully Valued / Trim** | Current price ₹880 is in the Fully Valued zone |
 | **Recommendation** | **AVOID at current levels; WATCHLIST for ₹480-500** | Add to watchlist. Monitor Q4 FY26 results for margin trajectory and delivery execution. If the stock corrects to ₹480-500 range AND the business continues improving (rising ROE, stable/improving margins, successful capacity ramp-up), it becomes a compelling growth-at-reasonable-price (GARP) candidate. |
 
