@@ -610,7 +610,7 @@ The market is pricing BEL for strong continued growth. At these levels, you need
 ### Traffic Light Assessment
 
 **At Terminal PE = 20x (the PE BEL traded at just 3-4 years ago):**
-- To earn a 10% return over 10 years, BEL needs to grow EPS at 21.4% CAGR. This is ABOVE the 10-year historical CAGR of 17% and even above the 5-year CAGR of 24%. 🟠 ORANGE — demanding.
+- To earn a 10% return over 10 years, BEL needs to grow EPS at 21.4% CAGR. This is ABOVE the 10-year historical CAGR of 17%, though still below the recent 5-year CAGR of 24%. 🟠 ORANGE — achievable if recent momentum sustains, but demanding relative to the longer-term track record.
 - To earn a 15% return, BEL needs 26.9% EPS CAGR — this requires sustained acceleration beyond anything BEL has historically delivered. 🔴 RED.
 
 **At Terminal PE = 30x (assumes the market continues to pay a premium):**
