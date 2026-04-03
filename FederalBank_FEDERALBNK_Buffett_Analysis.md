@@ -100,16 +100,24 @@ Internal capital generation of ~12% is sufficient for 12-15% advance growth with
 
 ## 5. NORMALISED EARNINGS (Bank "Owner Earnings")
 
+The correct formula adjusts reported earnings for the difference between actual and normalised credit costs, adds back non-cash D&A, and deducts SBC:
+
+**Owner Earnings = Net Income + D&A − (Normalised Credit Cost − Actual Credit Cost) × Avg Advances − SBC**
+
+If actual provisions fall short of normalised levels (under-provisioning), the adjustment is a deduction. If actual provisions meet or exceed normalised levels, the adjustment is zero — reported earnings are already conservatively stated.
+
 | Metric | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|
 | Reported Net Income (₹Cr) | 1,996 | 3,210 | 3,964 | 4,234 |
-| Less: Normalised Credit Cost (0.55% × avg advances) | ~1,000 | ~1,100 | ~1,200 | ~1,400 |
 | Add: D&A | 139 | 182 | 234 | 288 |
+| Less: Provision Shortfall vs Normalised* | 0 | 0 | ~103 | 0 |
 | Less: SBC | ~60 | ~70 | ~80 | ~90 |
-| **= Normalised Earnings** | **~1,075** | **~2,222** | **~2,918** | **~3,032** |
-| **Normalised EPS (₹)** | ~5.1 | ~10.5 | ~12.0 | ~12.3 |
+| **= Normalised Earnings (₹Cr)** | **~2,075** | **~3,322** | **~4,015** | **~4,432** |
+| **Normalised EPS (₹)** | ~9.9 | ~15.7 | ~16.5 | ~18.1 |
 
-Reported earnings are ~30-40% above normalised levels because credit costs are at cyclical lows (~0.50% vs normalised ~0.55%). Prudent investors should value on normalised earnings. *"Accounting reality and economic reality are often different things."* — Buffett
+*\*Provision Shortfall = (Normalised Credit Cost 0.55% − Actual Credit Cost) × Avg Advances. FY24 actual credit cost was ~0.50% vs 0.55% normalised, producing a ~₹103 Cr shortfall. All other years: actual ≈ normalised, so adjustment ≈ zero.*
+
+**Key insight:** Federal Bank's reported earnings are **approximately at normalised levels** — NOT inflated. Actual credit costs (~0.50-0.55%) are close to the 5-year normalised average (~0.55%). Normalised earnings are actually ~3-5% ABOVE reported net income because D&A is added back and there is no meaningful under-provisioning to penalise. This confirms the bank is provisioning conservatively. *"Accounting reality and economic reality are often different things."* — Buffett. In this case, they are unusually close — a positive sign.
 
 ---
 
@@ -321,7 +329,7 @@ At ₹273, priced for base-to-optimistic. NO margin of safety if conservative sc
 | Asset Quality | **8.5** | Decadal best; improving steadily |
 | Capital Adequacy | **8.0** | 15-16%+ CRAR; Blackstone capital incoming |
 | Management | **7.5** | Disciplined; candid; clean record |
-| Earnings Quality | **6.0** | Reported > normalised by ~35% (credit costs at cyclical lows) |
+| Earnings Quality | **8.0** | Reported ≈ normalised; conservative provisioning confirmed |
 | Valuation | **4.5** | 1.85x P/B stretched for 12.5% ROE |
 | Margin of Safety | **3.5** | Minimal at current price |
 | BV Compounding | **7.0** | ~11.6% decent, not exceptional |
