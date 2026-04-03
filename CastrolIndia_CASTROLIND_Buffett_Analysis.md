@@ -308,11 +308,11 @@ Castrol India is NOT at an inflection point. The business model is fully proven,
 ### Buffett's $1 Test:
 
 Over CY2015-CY2025 (10 years):
-- **Total Retained Earnings:** The company retained relatively little — it paid out 70-139% of earnings as dividends. Cumulative net income over CY2015-CY2025 was approximately ₹7,900 Cr. Cumulative dividends paid were approximately ₹7,200 Cr. So only ~₹700 Cr was truly retained.
+- **Total Retained Earnings:** The company retained relatively little — it paid out 70-139% of earnings as dividends. Cumulative net income over CY2015-CY2025 was approximately ₹8,400 Cr. Cumulative dividends paid were approximately ₹7,800 Cr. So only ~₹600 Cr was truly retained.
 - **Change in Market Cap:** Market cap today (~₹18,500 Cr) vs. CY2015 year-end (~₹18,000 Cr at ~₹182/share pre-split equivalent). Change ≈ ₹500 Cr.
-- **$1 Test Result:** For every ₹1 retained, the market has created ~₹0.71 of market value. **FAILS the $1 test.**
+- **$1 Test Result:** For every ₹1 retained, the market has created ~₹0.83 of market value. **FAILS the $1 test.**
 
-BUT — this is misleading. Castrol India doesn't retain earnings to grow; it returns them as dividends. The TOTAL shareholder return (including dividends) has been excellent. Over 10 years, investors received ~₹7,200 Cr in dividends on a ~₹18,000 Cr market cap — roughly 4-5% dividend yield annually PLUS capital appreciation.
+BUT — this is misleading. Castrol India doesn't retain earnings to grow; it returns them as dividends. The TOTAL shareholder return (including dividends) has been excellent. Over 10 years, investors received ~₹7,800 Cr in dividends on a ~₹18,000 Cr market cap — roughly 4-5% dividend yield annually PLUS capital appreciation.
 
 ### Capital Allocation Track Record:
 - **No acquisitions** — management has not destroyed value through empire-building
@@ -442,25 +442,25 @@ This is a thin margin of safety — Buffett typically demands 25-30%+. The stock
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **14.6%** | 20.3% | 26.2% |
-| 10 Years | **9.9%** | 12.8% | 15.8% |
-| 15 Years | **8.4%** | 10.3% | 12.4% |
+| 5 Years | **15.9%** | 21.2% | 26.4% |
+| 10 Years | **12.9%** | 18.0% | 23.2% |
+| 15 Years | **11.9%** | 17.0% | 22.1% |
 
 **At Terminal PE = 20x (Market Avg):**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **9.7%** | 15.2% | 21.0% |
-| 10 Years | **7.0%** | 9.9% | 12.8% |
-| 15 Years | **6.2%** | 8.1% | 10.1% |
+| 5 Years | **9.4%** | 14.4% | 19.4% |
+| 10 Years | **9.7%** | 14.7% | 19.7% |
+| 15 Years | **9.8%** | 14.8% | 19.8% |
 
 **At Terminal PE = 22x (Historical Avg):**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **8.3%** | 13.8% | 19.5% |
-| 10 Years | **6.1%** | 8.9% | 11.8% |
-| 15 Years | **5.5%** | 7.4% | 9.3% |
+| 5 Years | **7.4%** | 12.2% | 17.1% |
+| 10 Years | **8.7%** | 13.6% | 18.5% |
+| 15 Years | **9.1%** | 14.1% | 19.0% |
 
 ### Step 4: Reality Check
 
@@ -474,17 +474,17 @@ This is a thin margin of safety — Buffett typically demands 25-30%+. The stock
 
 **Traffic Light Assessment:**
 
-To earn a **10% return** over 10 years with terminal PE at 20x, Castrol needs ~7% EPS CAGR. The company has delivered 6-8% EPS growth in recent years. **This is achievable.** 🟢 **GREEN**
+To earn a **10% return** over 10 years with terminal PE at 20x, Castrol needs ~9.7% EPS CAGR. The company has delivered ~10% EPS CAGR over the past 5 years but only ~4% over 10 years. **This is achievable but requires sustained execution at the higher end of recent performance.** 🟡 **YELLOW**
 
-To earn a **15% return** over 10 years with terminal PE at 20x, it needs ~10% EPS CAGR. This is at the high end of what Castrol has delivered and requires some acceleration. 🟡 **YELLOW**
+To earn a **15% return** over 10 years with terminal PE at 20x, it needs ~14.7% EPS CAGR. This is far above anything Castrol has delivered on a sustained basis. 🔴 **RED**
 
-To earn a **20% return** — forget it at this price. 🔴 **RED**
+To earn a **10% return** over 10 years with terminal PE at 22x (historical average), Castrol needs ~8.7% EPS CAGR — more reasonable and within the range of recent 5-year performance. 🟢 **GREEN** (if the market reverts to historical valuations)
 
 ### Step 5: Verdict
 
-> "At the current price of ₹187, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 7.0% CAGR. The company has recently grown EPS at 6-8% CAGR. This implies **the market is pricing in reasonable growth — neither heroic nor pessimistic.**"
+> "At the current price of ₹187, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at ~9.7% CAGR. If the market reverts to the historical 22x PE, the required EPS CAGR drops to ~8.7%. The company has recently grown EPS at 6-8% CAGR, with 5-year CAGR at ~10%. This implies **the market is pricing in growth roughly in line with recent delivery — not heroic, but requiring the company to sustain its recent momentum rather than revert to its longer-term 4% trend.**"
 
-This is NOT a fat pitch on reverse DCF alone. But the ~4.7% dividend yield provides a significant margin of safety — even if growth disappoints, you're clipping a healthy coupon.
+The ~4.7% dividend yield provides additional cushion — even if EPS growth disappoints, you're clipping a healthy coupon on top.
 
 ### Step 6: Asymmetric Upside Check
 
@@ -573,37 +573,35 @@ HOWEVER, if we factor the Stonepeak open offer at ₹194 as the near-term floor:
 | CMP | ₹187 |
 | Current P/B | 9.7x |
 | Sustainable ROE | ~45% |
-| Retention Ratio | ~30% (given >100% payout recently, use normalised ~30%) |
-| BV Compounding Rate | 45% × 30% = **~13.5%** |
+| Actual Recent Retention Ratio | ~0% (payout >100% in CY2024-2025) |
+| Normalised Retention Ratio (if policy reverts) | ~30% (historical average pre-CY2024) |
 
-*Note: The high ROE of 45% combined with ~30% retention means book value compounds at ~13.5%/year. But with 100%+ dividend payouts recently, BVPS actually DECLINED in CY2025.*
+**Critical Nuance for Castrol:** Unlike most companies, Castrol's P/B analysis requires special treatment because the company pays out 100%+ of earnings as dividends, meaning BVPS does NOT compound — it actually declined in CY2025. Therefore, the standard "BV compounds at ROE × Retention" framework overstates capital appreciation. For Castrol, the PRIMARY return mechanism is dividends, not book value growth.
 
-**Projected BVPS (assuming normalised 70% payout = 30% retention):**
+**Scenario A: Current Payout Policy Continues (100%+ payout, BVPS flat or declining)**
 
-| Year | Projected BVPS | Calculation |
-|---|---|---|
-| Current (CY2025) | ₹19.22 | Actual |
-| Year 3 (CY2028) | ₹28 | 19.22 × (1.135)^3 |
-| Year 5 (CY2030) | ₹36 | 19.22 × (1.135)^5 |
-| Year 7 (CY2032) | ₹47 | 19.22 × (1.135)^7 |
-| Year 10 (CY2035) | ₹69 | 19.22 × (1.135)^10 |
+If BVPS stays roughly flat at ~₹19 (as it has recently with >100% payouts), capital appreciation depends ENTIRELY on P/B multiple changes:
 
-*These projections assume the company reverts to ~30% retention. With current >100% payouts, BVPS growth is near-zero or negative. The analysis below presents both scenarios.*
-
-**Expected CAGR at CMP ₹187 (Entry P/B: 9.7x):**
-
-| Exit P/B | Rationale | 5-Yr CAGR | 7-Yr CAGR | 10-Yr CAGR |
+| Exit P/B | Implied Future Price | 5-Yr Price CAGR | + Dividend Yield (~5%) | = Total Return |
 |---|---|---|---|---|
-| 9.7x (stays current) | Optimistic | 5.2% (with 30% retention) | 5.2% | 5.2% |
-| 7.0x (mild de-rating) | Moderate | 1.1% | 2.4% | 3.6% |
-| 5.0x (significant de-rating) | Conservative | -4.6% | -0.8% | 1.6% |
-| 10.6x (hist. median P/B) | Reverts to average | 6.1% | 5.8% | 5.6% |
+| 9.7x (stays current) | ₹186 | ~0% | +5.0% | **~5.0%** |
+| 7.0x (mild de-rating) | ₹135 | -6.3% | +5.0% | **~-1.3%** |
+| 12.0x (mild re-rating) | ₹231 | +4.3% | +5.0% | **~9.3%** |
 
-**CRITICAL INSIGHT:** At 9.7x book, your return is almost entirely dependent on the multiple sustaining. Book value compounds at 13.5%/year, but you're starting at a massive premium to book. If P/B compresses to 5x over 10 years, your 10-year CAGR drops to just 1.6% from book value compounding alone.
+**Scenario B: Payout Normalises to ~70% (30% retention, BVPS compounds at ~13.5%)**
 
-**HOWEVER — DIVIDENDS CHANGE EVERYTHING FOR CASTROL.**
+If the new Stonepeak owners reduce the payout to ~70% (historically normal for Castrol pre-CY2024), BVPS would compound at ROE × Retention = 45% × 30% = 13.5%/year, BUT the dividend yield would drop to ~3.6%.
 
-Castrol pays out 70-138% of earnings as dividends. At ₹187 CMP and ₹8.75-13.25/share in annual dividends, the **dividend yield alone is 4.7-7.1%**. This is the primary return mechanism, not book value compounding.
+| Exit P/B | Rationale | 5-Yr Price CAGR | + Div Yield (~3.6%) | = Total Return |
+|---|---|---|---|---|
+| 9.7x (stays current) | BV drives price | 13.5% | +3.6% | **~17.1%** |
+| 7.0x (mild de-rating) | | 6.3% | +3.6% | **~9.9%** |
+| 5.0x (significant de-rating) | | -0.6% | +3.6% | **~3.0%** |
+| 10.6x (hist. median P/B) | | 15.5% | +3.6% | **~19.1%** |
+
+**The Takeaway:** For Castrol at 9.7x P/B, the outcome hinges on dividend policy:
+- If dividends stay high (>100% payout): You earn ~5% annually from dividends alone, with price roughly flat. Adequate but unspectacular.
+- If retention increases under Stonepeak: Book value compounds rapidly and the stock can deliver 10-17% total returns even without multiple expansion. This is the bullish scenario.
 
 **Total Return Framework (Dividend + Capital Appreciation):**
 
@@ -615,7 +613,7 @@ Castrol pays out 70-138% of earnings as dividends. At ₹187 CMP and ₹8.75-13.
 
 **Traffic Light Verdict:**
 
-At ₹187, even if P/B compresses 25%, the **dividend yield + modest capital appreciation delivers ~10-12% total return** over 10 years. 🟢 **GREEN** — the dividend provides a floor.
+At ₹187, under the current >100% payout policy, you earn ~5% annually from dividends with near-zero capital appreciation — **just adequate**. 🟡 **YELLOW**. If Stonepeak reduces payout to ~70% and BVPS starts compounding, total returns could reach 10-17%. 🟢 **GREEN** under that scenario. The stock's return profile hinges materially on what the new owners do with dividend policy.
 
 ---
 

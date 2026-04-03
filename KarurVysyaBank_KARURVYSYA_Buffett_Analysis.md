@@ -44,20 +44,20 @@ KVB has proven it can survive bad management periods (the NPA mess of FY18-FY20)
 | Other Income | 963 | 1,155 | 919 | 769 | 1,159 | 1,649 | 1,830 | ~1,900 |
 | Other Income % of Total | 14.2% | 16.2% | 14.4% | 12.1% | 15.1% | 16.7% | 15.9% | ~15% |
 | Total Income | 6,779 | 7,145 | 6,389 | 6,357 | 7,676 | 9,862 | 11,508 | ~13,100 |
-| Operating Expenses | 2,902 | 3,112 | 2,620 | 2,434 | 2,965 | 3,267 | 3,385 | ~3,700 |
-| **Cost-to-Income Ratio** | ~57% | ~55% | ~51% | ~47% | ~47% | ~45% | **47.25%** | ~44% |
-| **Pre-Provision Operating Profit (PPOP)** | 423 | 391 | 658 | 1,051 | 1,543 | 2,200 | **2,705** | ~3,300 |
-| PPOP Growth | — | **-7.6%** | 68.3% | 59.7% | 46.8% | 42.6% | 23.0% | ~22% |
-| Provisions & Contingencies | ~101 | ~119 | ~124 | ~120 | ~106 | ~100 | ~114 | ~105 (Q3) |
+| Total Expenses (incl. Provisions)* | 2,902 | 3,112 | 2,620 | 2,434 | 2,965 | 3,267 | 3,385 | ~3,700 |
+| **Cost-to-Income Ratio** (company-reported) | ~57% | ~55% | ~51% | ~47% | ~47% | ~45% | **47.25%** | ~44% |
+| Depreciation | 101 | 119 | 124 | 119 | 106 | 100 | 114 | — |
 | Profit Before Tax | **322** | **272** | 534 | 931 | 1,437 | 2,100 | **2,591** | ~2,970 (ann.) |
 | **Net Income** | **211** | **235** | 359 | 673 | 1,106 | 1,605 | **1,942** | ~2,760 (ann.) |
 | Net Income Growth | — | 11.4% | 52.8% | 87.5% | 64.3% | 45.1% | 21.0% | ~39% (Q3 YoY) |
-| EPS (Diluted, post-bonus adj.) | 2.20 | 2.45 | 3.75 | 7.01 | 11.49 | 16.63 | **20.10** | ~23.2 (TTM) |
+| EPS (Diluted, post-bonus adj.) | 2.20 | 2.45 | 3.75 | 7.01 | 11.49 | 16.63 | **20.10** | ~23.8 (TTM) |
 | EPS Growth | — | 11.4% | 53.1% | 86.9% | 63.9% | 44.7% | 20.9% | — |
 | Shares Outstanding (Cr, post-bonus) | ~96 | ~96 | ~96 | ~96 | ~96 | ~96.5 | ~96.5 | ~96.6 |
 | **ROA** | **0.30%** | **0.34%** | 0.48% | 0.84% | 1.23% | 1.52% | **1.72%** | **2.05%** |
 | **ROE** | **3%** | **4%** | 5% | 9% | 14% | 17% | **18%** | **~20%** |
 | Dividend Payout % | 23% | 0% | 11% | 19% | 14% | 12% | 11% | — |
+
+*\*Note on "Total Expenses": The screener "Expenses" line for banks includes operating expenses AND provisions/contingencies. The C/I ratios above are company-reported figures calculated on pure operating expenses (excluding provisions and D&A). For FY25, company-reported PPOP (Pre-Provision Operating Profit) was approximately ₹3,271 Cr (sum of quarterly operating profits: Q1 ₹805 + Q2 ₹816 + Q3 ₹815 + Q4 ₹835), implying pure operating expenses of approximately ₹2,819 Cr and total provisions of approximately ₹566 Cr for FY25.*
 
 ### Trend Narrative
 
@@ -65,7 +65,7 @@ The income statement tells the story of a **dramatic turnaround**. KVB went thro
 
 - **NIM expanded** from 3.43% (FY21) to 4.09% (FY25), driven by a deliberate shift from low-yield corporate lending to higher-margin RAM (Retail, Agriculture, MSME) segments. NIM is now compressing slightly (~3.99% in Q3 FY26) as rate cuts flow through — this is industry-wide and expected.
 - **Cost-to-Income Ratio improved** from ~57% (FY19) to ~47% (FY25), showing meaningful operating leverage. The bank is doing more business per branch and per employee.
-- **PPOP (the true operating power)** has grown from ₹391 Cr (FY20) to ₹2,705 Cr (FY25) — a **7x increase** in five years. This is exceptional.
+- **Company-reported operating profit (PPOP)** grew dramatically — from approximately ₹835 Cr in Q4 FY25 alone to a full-year FY25 total of approximately ₹3,271 Cr, reflecting the bank's much-improved operating leverage and spread efficiency.
 - **Provision intensity has declined** as asset quality improved, releasing earnings power. This is the key question: is the low provisioning sustainable or cyclically benign? Given GNPA at 0.71% and PCR at 96.76%, the bank has genuinely cleaned up its book.
 
 > *"In the short run, the market is a voting machine, but in the long run it is a weighing machine."* — Buffett
@@ -88,7 +88,7 @@ The market is now "weighing" KVB's transformation — and the numbers are genuin
 | Total Assets (₹ Cr) | 69,340 | 68,278 | 74,623 | 80,071 | 90,179 | 105,453 | **119,367** | **130,099** |
 | Shareholders' Equity (₹ Cr) | 6,423 | 6,600 | 6,960 | 7,596 | 8,584 | 10,040 | **11,930** | **12,796** |
 | **Book Value Per Share (₹, post-bonus adj.)** | ~67 | ~69 | ~72 | ~79 | ~89 | ~104 | **~124** | **~132** |
-| BVPS Growth YoY | — | 3.0% | 4.3% | 9.7% | 12.7% | 16.9% | **19.2%** | — |
+| BVPS Growth YoY | — | 2.8% | 5.5% | 9.1% | 13.0% | 16.2% | **18.8%** | — |
 | **CRAR (Total)** | 15.2% | 17.0% | 18.4% | 18.0% | 17.5% | 16.8% | **18.17%** | ~16%* |
 | CET-1 / Tier 1 | — | — | — | — | — | 15.2% | **17.12%** | ~15.9% |
 | Leverage (Assets/Equity) | 10.8x | 10.3x | 10.7x | 10.5x | 10.5x | 10.5x | **10.0x** | **10.2x** |
@@ -135,7 +135,7 @@ For KVB, the reverse is true: new management tackled a bank with a terrible NPA 
 | Dividends Paid (₹ Cr) | 0 | ~40 | ~128 | ~155 | ~193 | ~213 |
 | **Retained Earnings (₹ Cr)** | 235 | 319 | 545 | 951 | 1,412 | **1,729** |
 | Retention Ratio | 100% | 89% | 81% | 86% | 88% | **89%** |
-| BVPS Growth (post-bonus adj.) | 3.0% | 4.3% | 9.7% | 12.7% | 16.9% | **19.2%** |
+| BVPS Growth (post-bonus adj.) | 2.8% | 5.5% | 9.1% | 13.0% | 16.2% | **18.8%** |
 | **Internal Capital Generation Rate** (ROE × Retention) | 4.0% | 4.5% | 7.3% | 12.0% | 15.0% | **16.0%** |
 | Dividend Payout Ratio | 0% | 11% | 19% | 14% | 12% | **11%** |
 | Dividend Per Share (₹, post-bonus) | 0 | ~0.42 | ~1.33 | ~1.61 | ~2.00 | **~2.17** |
@@ -323,9 +323,9 @@ KVB has proven its turnaround (model validated), is growing faster than the indu
 
 ### Buffett's $1 Test
 
-Over FY20-FY25, KVB retained approximately ₹3,700 Cr of cumulative earnings. Market cap increased from ~₹3,200 Cr (FY20 end) to ~₹25,500 Cr currently — an increase of ~₹22,300 Cr.
+Over FY20-FY25, KVB retained approximately ₹5,200 Cr of cumulative earnings (₹5,920 Cr total net income less ~₹730 Cr dividends). Market cap increased from ~₹3,200 Cr (FY20 end) to ~₹25,500 Cr currently — an increase of ~₹22,300 Cr.
 
-**For every ₹1 retained, the market created ~₹6 of market value.** This is an exceptional pass of Buffett's $1 test.
+**For every ₹1 retained, the market created ~₹4.3 of market value.** This is a strong pass of Buffett's $1 test.
 
 ### Capital Allocation Track Record
 
@@ -388,10 +388,10 @@ This is the **gold standard** for bank operational improvement: growing while si
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** | **Current (Mar '26)** |
 |---|---|---|---|---|---|---|---|
 | P/B | ~0.5x | ~0.6x | ~0.6x | ~0.7x | ~1.4x | ~1.8x | **~2.0x** |
-| P/E | ~15x | ~14x | ~7x | ~5.5x | ~9.5x | ~11x | **~11.4x** |
+| P/E | ~15x | ~14x | ~7x | ~5.5x | ~9.5x | ~11x | **~11.1x** |
 | BVPS (₹, post-bonus adj.) | ~69 | ~72 | ~79 | ~89 | ~104 | ~124 | **~132** |
 | Dividend Yield | 0% | ~0.6% | ~1.3% | ~1.1% | ~0.8% | ~0.9% | **~0.8%** |
-| Earnings Yield (1/PE) | ~6.7% | ~7.1% | ~14.3% | ~18.2% | ~10.5% | ~9.1% | **~8.8%** |
+| Earnings Yield (1/PE) | ~6.7% | ~7.1% | ~14.3% | ~18.2% | ~10.5% | ~9.1% | **~9.0%** |
 
 ### Fair P/B Multiple Calculation (Gordon Growth Model)
 
@@ -445,18 +445,18 @@ At 17-20% ROE, the stock arguably **deserves 3.0-4.0x book** (₹396-₹528 per 
 
 | Year | Conservative BVPS | Implied Price (1.5x) | Base BVPS | Implied Price (2.0x) | Optimistic BVPS | Implied Price (2.5x) |
 |---|---|---|---|---|---|---|
-| Year 3 | ₹185 | ₹278 | ₹201 | ₹402 | ₹211 | ₹527 |
-| Year 5 | ₹232 | ₹348 | ₹265 | ₹531 | ₹285 | ₹712 |
-| Year 7 | ₹291 | ₹437 | ₹351 | ₹702 | ₹385 | ₹962 |
-| Year 10 | ₹406 | ₹609 | ₹534 | ₹1,068 | ₹604 | ₹1,510 |
+| Year 3 | ₹185 | ₹277 | ₹201 | ₹401 | ₹210 | ₹525 |
+| Year 5 | ₹232 | ₹347 | ₹265 | ₹530 | ₹286 | ₹715 |
+| Year 7 | ₹290 | ₹435 | ₹350 | ₹701 | ₹390 | ₹974 |
+| Year 10 | ₹406 | ₹609 | ₹532 | ₹1,064 | ₹619 | ₹1,549 |
 
 **Implied Annual Return (CAGR) from CMP ₹264:**
 
 | Scenario | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|
-| **Conservative** (14% ROE, 1.5x exit P/B) | 5.7% | 7.5% | 8.7% |
+| **Conservative** (14% ROE, 1.5x exit P/B) | 5.6% | 7.4% | 8.7% |
 | **Base** (17% ROE, 2.0x exit P/B) | **15.0%** | **15.0%** | **15.0%** |
-| **Optimistic** (19% ROE, 2.5x exit P/B) | 21.9% | 20.2% | 19.1% |
+| **Optimistic** (19% ROE, 2.5x exit P/B) | 22.0% | 20.5% | 19.4% |
 
 ### Method 2: Excess Return Model (Residual Income)
 
@@ -468,17 +468,17 @@ Excess Return = (ROE - CoE) × Book Value
 
 | Scenario | ROE | CoE | Excess Spread | 10Y PV of Excess Returns | Terminal Value (PV) | Intrinsic Value/Share |
 |---|---|---|---|---|---|---|
-| **Conservative** | 14% | 12% | 2% | ₹33 | ₹25 | **₹190** |
-| **Base** | 17% | 12% | 5% | ₹82 | ₹63 | **₹277** |
-| **Optimistic** | 19% | 12% | 7% | ₹115 | ₹88 | **₹335** |
+| **Conservative** | 14% | 12% | 2% | ₹23 | ₹29 | **₹184** |
+| **Base** | 17% | 12% | 5% | ₹66 | ₹95 | **₹293** |
+| **Optimistic** | 19% | 12% | 7% | ₹100 | ₹155 | **₹387** |
 
 ### Summary Table
 
 | Scenario | Intrinsic Value/Share | CMP ₹264 | Margin of Safety | Upside/Downside |
 |---|---|---|---|---|
-| **Conservative** | ₹190 | — | **-28% (overvalued)** | -28% |
-| **Base** | ₹277 | — | **5% margin of safety** | +5% |
-| **Optimistic** | ₹335 | — | **21% margin of safety** | +27% |
+| **Conservative** | ₹184 | — | **-43% (overvalued)** | -30% |
+| **Base** | ₹293 | — | **10% margin of safety** | +11% |
+| **Optimistic** | ₹387 | — | **32% margin of safety** | +47% |
 
 **Verdict:** At ₹264, KVB is approximately **fairly valued** under base case assumptions. There is no screaming margin of safety, but no obvious overvaluation either. The stock offers a good return if the bank sustains 17%+ ROE.
 
@@ -491,8 +491,8 @@ Excess Return = (ROE - CoE) × Book Value
 | Input | Value | Source |
 |---|---|---|
 | CMP | ₹264 | Market (Mar 20, 2026) |
-| TTM EPS (Normalised, post-bonus adj.) | ~₹23.2 | H1 FY26 annualised |
-| Current PE (normalised) | ~11.4x | Calculated |
+| TTM EPS (Normalised, post-bonus adj.) | ~₹23.8 | Q4 FY25 + Q1-Q3 FY26 (513+521+574+690 = ₹2,298 Cr / 96.6 Cr shares) |
+| Current PE (normalised) | ~11.1x | Calculated |
 | Shares Outstanding (Diluted) | ~96.6 Cr | Post 1:5 bonus |
 
 ### Step 3: Implied EPS CAGR Needed
@@ -501,22 +501,22 @@ Excess Return = (ROE - CoE) × Book Value
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 8.4% | 13.1% | 18.0% |
-| 10 Years | 10.6% | 15.3% | 20.1% |
+| 5 Years | 8.3% EPS CAGR needed | 13.2% | 18.1% |
+| 10 Years | 9.1% EPS CAGR needed | 14.1% | 19.1% |
 
 #### At Terminal PE = 15x (Market Avg)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 3.8% | 8.4% | 13.1% |
-| 10 Years | 8.3% | 13.0% | 17.8% |
+| 5 Years | 3.6% EPS CAGR needed | 8.3% | 13.1% |
+| 10 Years | 6.7% EPS CAGR needed | 11.6% | 16.5% |
 
 #### At Terminal PE = 10x (Historical Avg for KVB)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 12.1% | 17.0% | 22.0% |
-| 10 Years | 12.4% | 17.2% | 22.1% |
+| 5 Years | 12.5% EPS CAGR needed | 17.5% | 22.7% |
+| 10 Years | 11.1% EPS CAGR needed | 16.1% | 21.2% |
 
 ### Step 4: Reality Check
 
@@ -530,13 +530,13 @@ Excess Return = (ROE - CoE) × Book Value
 ### Traffic Light Assessment
 
 At a terminal PE of 12x and a 10-year horizon:
-- **10% return** needs ~10.6% EPS CAGR → well below historical and sustainable trajectory → 🟢 **GREEN**
-- **15% return** needs ~15.3% EPS CAGR → in line with expected growth → 🟢 **GREEN**
-- **20% return** needs ~20.1% EPS CAGR → above consensus but achievable if ROE expands → 🟡 **YELLOW**
+- **10% return** needs ~9.1% EPS CAGR → well below historical and sustainable trajectory → 🟢 **GREEN**
+- **15% return** needs ~14.1% EPS CAGR → in line with expected growth → 🟢 **GREEN**
+- **20% return** needs ~19.1% EPS CAGR → above consensus but achievable if ROE expands → 🟡 **YELLOW**
 
 ### Step 5: Verdict
 
-> "At the current price of ₹264, to earn a 15% annualised return over 10 years assuming the market values KVB at 12x PE at exit, the bank needs to grow EPS at ~15.3% CAGR. The bank has historically grown EPS at 52% CAGR over 5 years (turnaround phase) and a sustainable 15-18% CAGR is realistic given 17% ROE and 88% retention. **The market is pricing in reasonable growth — this is NOT a crazy price.**"
+> "At the current price of ₹264, to earn a 15% annualised return over 10 years assuming the market values KVB at 12x PE at exit, the bank needs to grow EPS at ~14.1% CAGR. The bank has historically grown EPS at 52% CAGR over 5 years (turnaround phase) and a sustainable 15-18% CAGR is realistic given 17% ROE and 88% retention. **The market is pricing in reasonable growth — this is NOT a crazy price.**"
 
 ### Step 6: Asymmetric Upside Check
 
@@ -553,8 +553,8 @@ At a terminal PE of 12x and a 10-year horizon:
 
 | Scenario | Valuation Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
-| Base Case (2.0x book, 5Y) | 2.0x × ₹265 (FY30 BVPS) | ₹531 | +101% |
-| Bull Case (2.5x book, 5Y) | 2.5x × ₹285 | ₹712 | +170% |
+| Base Case (2.0x book, 5Y) | 2.0x × ₹265 (FY30E BVPS) | ₹530 | +101% |
+| Bull Case (2.5x book, 5Y) | 2.5x × ₹286 | ₹715 | +171% |
 | Re-rating to peer multiples (3.0x) | 3.0x × ₹132 (current) | ₹396 | +50% |
 
 **Asymmetry Ratio:** Realistic Upside (~100% in 5Y) / Realistic Downside (~25%) = **4:1**
@@ -612,18 +612,18 @@ This is a **Strong Fat Pitch** — the downside is capped at ~1.5x book (₹198)
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
 | P/B stays at 2.0x | Multiple sustains | **15.0%** | **15.0%** | **15.0%** |
-| P/B compresses to 1.5x | Mild de-rating | 7.5% | 10.5% | 12.4% |
-| P/B compresses to 1.0x (book) | Severe de-rating | **0.1%** | **5.8%** | **9.7%** |
-| P/B expands to 2.5x | Moderate re-rating | **20.6%** | **18.3%** | **17.0%** |
-| P/B expands to 3.0x | Re-rating to deserved level | **25.6%** | **21.2%** | **18.7%** |
+| P/B compresses to 1.5x | Mild de-rating | 8.6% | 10.4% | 11.7% |
+| P/B compresses to 1.0x (book) | Severe de-rating | **0.1%** | **4.2%** | **7.3%** |
+| P/B expands to 2.5x | Moderate re-rating | **20.2%** | **18.7%** | **17.6%** |
+| P/B expands to 3.0x | Re-rating to deserved level | **24.7%** | **21.9%** | **19.8%** |
 
 ### Traffic Light Verdict
 
-> "At the current entry P/B of 2.0x with a sustainable ROE of 17% and 88% retention, book value compounds at 15% annually. If the P/B multiple remains at 2.0x, the return equals 15% — which is Buffett's hurdle rate. The stock can tolerate P/B compression from 2.0x down to approximately 1.5x before the 10-year return drops below 12%. Even at 1.0x book (worst case for a profitable bank), the 10-year return is still ~9.7%."
+> "At the current entry P/B of 2.0x with a sustainable ROE of 17% and 88% retention, book value compounds at 15% annually. If the P/B multiple remains at 2.0x, the return equals 15% — which is Buffett's hurdle rate. The stock can tolerate P/B compression from 2.0x down to approximately 1.5x before the 10-year return drops below 12%. Even at 1.0x book (worst case for a profitable bank), the 10-year return is still ~7.3%."
 
 | Condition | Verdict |
 |---|---|
-| 10Y return >10% even if P/B halves to 1.0x | 🟡 YELLOW — borderline, but BV compounding saves you |
+| 10Y return >10% even if P/B halves to 1.0x | 🟡 YELLOW — borderline; BV compounding gives ~7.3% at 1.0x book, below 10% hurdle |
 | 10Y return >15% if P/B stays at 2.0x | 🟢 GREEN — BV compounding alone delivers the hurdle |
 | 10Y return >18% if P/B expands to 2.5-3.0x | 🟢 GREEN — upside from re-rating is gravy |
 
@@ -737,7 +737,7 @@ KVB is no longer a turnaround — it is a **COMPLETED turnaround** executing on 
 | **Management Quality & Risk Culture** | **8** | Organic turnaround, conservative provisioning, honest communication; low promoter holding is a concern |
 | **Earnings Quality (Normalised vs Reported)** | **8** | Current earnings slightly above normalised (benign credit cycle), but the gap is small given genuine asset quality improvement |
 | **Valuation (P/B vs Fair P/B)** | **7** | 2.0x book for 18% ROE bank — fair, not cheap; deserved range is 2.0-3.5x |
-| **Margin of Safety** | **6** | Modest ~5% margin under base case; downside capped at ~1.5x book |
+| **Margin of Safety** | **6** | ~10% margin under base case (Excess Return Model); downside capped at ~1.5x book |
 | **Book Value Compounding Potential** | **9** | BVPS compounding at ~15% annually; 10-year BVPS projection: ₹534 |
 | **Buffett Verdict** | — | **True Buffett Bank at a fair price** — high-quality turnaround with elite current ROA/ROE, clean balance sheet, and self-funding growth. Not screaming cheap at 2.0x book, but the quality justifies the price. If ROE sustains at 17%+, the stock delivers 15%+ annual returns from BV compounding alone, with potential upside from P/B re-rating. The CASA weakness is the one concern, but it hasn't prevented the bank from earning 2%+ ROA. BUY on dips to 1.5-1.7x book for better margin of safety; HOLD at current levels for long-term BV compounding. |
 | **Buy Zone** | — | **Currently in FAIR VALUE / HOLD zone (2.0x book)** |

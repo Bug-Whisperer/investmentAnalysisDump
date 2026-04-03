@@ -57,7 +57,7 @@ Shilchar's moat isn't a wide, permanent castle-and-moat fortress like Coca-Cola'
 | **Net Profit (₹ Cr)** | 12 | **6** | 8 | **2** | 6 | 14 | 43 | 92 | **147** | **185** |
 | Net Profit Growth YoY | 33% | **-50%** | 33% | **-75%** | 200% | 133% | 207% | 114% | 60% | 59% |
 | Net Profit Margin | 11% | 7% | 7% | **3%** | 5% | 8% | 15% | 23% | **24%** | **25%** |
-| **EPS (₹, adjusted)** | 3.59 | **1.72** | 2.27 | **0.44** | 1.61 | 4.11 | 12.61 | 26.87 | **42.94** | ~54 |
+| **EPS (₹, adjusted)** | 3.59 | **1.72** | 2.27 | **0.44** | 1.61 | 4.11 | 12.61 | 26.87 | **42.94** | **~162** |
 | Shares Outstanding (Cr) | ~1.14 | ~1.14 | ~1.14 | ~1.14 | ~1.14 | ~1.14 | ~1.14 | ~1.14 | ~1.14 | ~1.14 |
 | Dividend Payout % | 9% | 13% | 10% | 25% | 10% | 11% | 9% | 10% | 6% | — |
 
@@ -107,7 +107,7 @@ This is a textbook Buffett balance sheet:
 
 3. **Zero goodwill** — Tangible book value equals book value. No acquisition-driven intangibles to write down.
 
-4. **Book value compounding at extraordinary rates** — BVPS has grown from ₹53 (FY2020) to ₹367 (Sep 2025), a 47% CAGR over 5.5 years. Powered entirely by retained earnings — no equity dilution whatsoever.
+4. **Book value compounding at extraordinary rates** — BVPS has grown from ₹53 (FY2020) to ₹367 (Sep 2025), a 42% CAGR over 5.5 years. Powered entirely by retained earnings — no equity dilution whatsoever.
 
 5. **Asset-light model** — Fixed assets are just ₹59 Cr against ₹732 Cr TTM revenue, implying an asset turnover on fixed assets of over 12x.
 
@@ -169,7 +169,7 @@ Owner Earnings essentially equal net profit because D&A roughly equals maintenan
 | Component | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
 | Net Profit Margin | 5% | 8% | 15% | 23% | 24% |
-| Asset Turnover | 1.10 | 1.42 | 1.73 | 1.69 | 1.59 |
+| Asset Turnover | 1.12 | 1.42 | 1.73 | 1.69 | 1.59 |
 | Equity Multiplier | 1.60 | 1.83 | 1.46 | 1.39 | 1.41 |
 | **ROE** | **9%** | **19%** | **43%** | **55%** | **53%** |
 
@@ -240,8 +240,8 @@ Incremental margins of 32-51% ABOVE current 30% OPM = elite operating leverage.
 
 | Metric | Mar 2021 | Mar 2022 | Mar 2023 | Mar 2024 | Mar 2025 |
 |---|---|---|---|---|---|
-| Capacity (MVA) | ~4,000 | ~4,000 | ~4,000 | 7,500 | 7,500 |
-| Utilisation | ~65% | ~90% | ~100% | ~85% | **100%** |
+| Capacity (MVA) | ~4,000 | ~4,000 | ~4,000 | ~4,000 | 7,500 |
+| Utilisation | ~65% | ~90% | ~100% | **~100%** | **100%** |
 | Debtor Days | 96 | 140 | 120 | **86** | 134 |
 | Order Book (₹ Cr) | — | — | — | ~450 | ~300 (Q2FY26) |
 
@@ -268,11 +268,11 @@ Stock has NEVER traded at current P/B multiples. The 7-10x re-rating was justifi
 
 | Scenario | Growth 1-5Y | Growth 6-10Y | Terminal | IV/Share | MoS |
 |---|---|---|---|---|---|
-| **Conservative** | 15% | 10% | 4% | **₹3,350** | **-15%** |
-| **Base** | 22% | 15% | 4% | **₹4,900** | **+25%** |
-| **Optimistic** | 30% | 18% | 5% | **₹7,200** | **+83%** |
+| **Conservative** | 15% | 10% | 4% | **₹4,050** | **+3% (near fair value)** |
+| **Base** | 22% | 15% | 4% | **₹4,930** | **+26% upside** |
+| **Optimistic** | 30% | 18% | 5% | **₹10,000** | **+155% upside** |
 
-At ₹3,925, base case suggests ~25% upside. Margin of safety is thin but positive.
+At ₹3,925, the conservative case puts the stock near fair value with negligible margin of safety. The base case suggests ~26% upside. The optimistic case shows massive upside but depends on sustained 30% growth.
 
 ---
 
@@ -287,8 +287,8 @@ Management guides 20-25%. Historical 3Y CAGR was 119% (not repeatable).
 ### Asymmetry Check
 
 - **Probable downside:** ~28% to ₹2,850 (15-17x normalised PE; near 52-week low)
-- **Base upside:** ~26% to ₹4,940
-- **Asymmetry Ratio: ~0.9:1** — NOT a fat pitch
+- **Base upside:** ~26% to ₹4,930
+- **Asymmetry Ratio: ~1.0:1** — NOT a fat pitch
 
 **Mispricing: ABSENT.** Market has already priced in the transformation. No pessimism to exploit.
 
@@ -400,8 +400,9 @@ A 10-year-old would get it. ✅
 
 ### Napkin Math
 
-- Business earns ~50% ROE → book value grows ~37%/year
-- At 10.7x book, even with compression to 3x book over 10 years → ~22% annual return
+- Business currently earns ~53% ROE; conservatively assuming this normalises to ~40% over time, and with ~93% retention, book value grows ~37%/year
+- At 10.7x book, even with compression to 3x book over 10 years → ~21% annual return
+- If current 53% ROE sustains, BV grows ~49%/year and returns are even higher
 - Main risk: margins revert to 15% (unlikely given structural shift to exports/renewables)
 - **Business = no-brainer. Stock at this price = needs continued execution.**
 

@@ -5,7 +5,7 @@
 **Market Cap:** ~₹1,45,000 Cr.
 **P/E Ratio (TTM):** ~7.4x
 **P/B Ratio:** ~0.91x
-**Book Value Per Share:** ~₹308 (consolidated, Mar 2025)
+**Book Value Per Share:** ~₹307 (consolidated, Dec 2025); ~₹283 (Mar 2025)
 **Dividend Yield:** ~2.9%
 **52-Week Range:** ₹204 – ₹326
 **Promoter (GoI):** 63.97%
@@ -62,7 +62,7 @@ Bank of Baroda is India's **second-largest public sector bank** and **fourth-lar
 | Pre-Provision Oper. Profit (PPOP) | ~18,896 | ~20,630 | ~22,262 | ~28,547 | ~30,993 | ~32,435 | ~24,400 |
 | PPOP Growth | — | 9.2% | 7.9% | **28.2%** | 8.6% | 4.7% | — |
 | Provisions & Contingencies | ~20,698 | ~15,074 | ~14,640 | ~4,351 | ~5,194 | ~4,816 | ~3,500 |
-| Provision as % of PPOP | **109%** | **73%** | **66%** | **15%** | 16.8% | 14.9% | ~14% |
+| Provision as % of PPOP | **110%** | **73%** | **66%** | **15%** | 16.8% | 14.9% | ~14% |
 | Profit Before Tax | -1,234 | 6,373 | 10,008 | 20,565 | 25,799 | 27,619 | ~18,900 |
 | **Net Income** | **981** | **1,620** | **7,933** | **15,005** | **18,869** | **20,865** | ~14,400 |
 | Net Income Growth | — | 65% | **390%** | 89% | 25.7% | 10.6% | — |
@@ -83,7 +83,7 @@ The transformation is dramatic. Bank of Baroda went from near-zero profitability
 
 - **NIM is compressing:** From a peak of 3.31% in FY23 to 3.02% in FY25 and ~2.79% in Q3 FY26. This is driven by rising deposit costs (time deposits repricing upward) while lending yields face competitive pressure. NIM compression is the biggest near-term risk.
 - **Cost-to-Income ratio is stable** at ~48%, which is decent for a large PSU bank. Not best-in-class (SBI ~52%, HDFC Bank ~40%) but respectable.
-- **Provision intensity collapsed** from 109% of PPOP in FY2020 to ~15% in FY2025. This is the primary driver of the profit explosion. The question is whether this is a permanent improvement or a cyclical tailwind.
+- **Provision intensity collapsed** from 110% of PPOP in FY2020 to ~15% in FY2025. This is the primary driver of the profit explosion. The question is whether this is a permanent improvement or a cyclical tailwind.
 - **Earnings growth is decelerating:** From 390% in FY22 to 10.6% in FY25 and likely single-digits in FY26. The "easy" earnings gains from provision normalisation are behind us. Future growth must come from operating improvement.
 
 > *Buffett: "In evaluating banks, you must judge management by what they've done with the money they've retained. The real test is long-term ROE."*
@@ -322,9 +322,9 @@ Banking IS relatively resistant to change in its core function. The channels cha
 ### Buffett's $1 Test
 
 From FY2020 to FY2025:
-- Retained earnings: ~₹37,690 Cr cumulative
+- Retained earnings: ~₹52,577 Cr cumulative (981 + 1,620 + 6,425 + 12,157 + 14,907 + 16,487)
 - Market cap change: From ~₹22,000 Cr (FY20 price ~₹48) to ~₹1,45,000 Cr = +₹1,23,000 Cr
-- **For every ₹1 retained, ~₹3.26 of market value was created.** This is an excellent result — but it includes the massive re-rating from distressed (0.3x book) to normalised (0.9x book) valuations. The re-rating won't repeat.
+- **For every ₹1 retained, ~₹2.34 of market value was created.** This passes the $1 test decisively — but it includes the massive re-rating from distressed (0.3x book) to normalised (0.9x book) valuations. The re-rating won't repeat.
 
 ### Capital Allocation
 
@@ -452,17 +452,21 @@ Excess Return = (ROE - CoE) × Book Value
 
 | Scenario | ROE | CoE | Spread | 10-Yr PV of Excess Returns | Terminal Value PV | Intrinsic Value/Share | Margin of Safety |
 |---|---|---|---|---|---|---|---|
-| Conservative | 12% | 12% | 0% | ₹0 | ₹0 | ₹307 | 9.6% |
+| Conservative | 12% | 12% | 0% | ₹0 | ₹0 | ₹307 | 8.8% |
 | **Base** | 14% | 12% | 2% | ₹48 | ₹55 | **₹410** | **31.7%** |
 | Optimistic | 16% | 12% | 4% | ₹96 | ₹110 | ₹513 | 45.4% |
+
+*Note: Margin of Safety = (Intrinsic Value – CMP) / Intrinsic Value*
 
 ### Summary Table
 
 | Scenario | Intrinsic Value | Margin of Safety | 10-Year CAGR from ₹280 |
 |---|---|---|---|
-| Conservative | ₹307 | 9.6% | ~10.5% |
+| Conservative | ₹307 | 8.8% | ~10.5% |
 | **Base** | **₹410** | **31.7%** | **~14.2%** |
 | Optimistic | ₹513 | 45.4% | ~18.5% |
+
+*Margin of Safety = (IV – CMP) / IV*
 
 ---
 
@@ -511,7 +515,7 @@ Excess Return = (ROE - CoE) × Book Value
 
 **At ₹280, to earn a 10% annualised return over 10 years assuming the market values the bank at 8x PE at exit, the bank needs to grow EPS at ~9% CAGR. The bank has been growing book value at ~12-14% recently. This implies the market is pricing in REASONABLE growth — perhaps even slightly pessimistic.**
 
-🟢 **GREEN — The price is reasonable.** The market is NOT demanding heroic assumptions. Even conservative execution should deliver 10-12% returns, and decent execution delivers 14-16%.
+🟢 **GREEN — The price is reasonable.** The market is NOT demanding heroic assumptions. Even with P/B compression to 0.7x, 10-year returns are ~8% from price appreciation alone plus ~3% dividends = ~11% total. With P/B staying flat at 0.91x, expect ~11% price CAGR plus ~3% dividends = ~14% total. Any P/B expansion toward fair value (1.2x) pushes total returns to 17%+.
 
 > *Buffett's Napkin Test: "If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal." At P/B 0.91x for a bank earning 14-16% ROE... you don't need a spreadsheet. This is simple arithmetic: buy below book, earn high teens ROE, book value compounds, collect dividends.*
 
@@ -586,21 +590,21 @@ BoB's ROE of ~16% comes from:
 
 | Exit P/B | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 0.91x | Multiple sustains | 13.1% | 12.6% | 12.1% |
-| P/B expands to 1.0x | Revert to book value | 13.1% + 1.9% = 15.0% | 13.7% | 13.0% |
-| P/B expands to 1.2x | Fair value for 14% ROE | 19.5% | 16.5% | 14.8% |
-| P/B expands to 1.5x | Bull case re-rating | 25.4% | 20.3% | 17.2% |
-| P/B compresses to 0.7x | Bear case (NPA stress) | 5.8% | 7.4% | 8.9% |
-| P/B compresses to 0.5x | Severe stress | -1.8% | 2.8% | 5.7% |
+| P/B stays at 0.91x | Multiple sustains | 11.0% | 11.1% | 11.1% |
+| P/B expands to 1.0x | Revert to book value | 13.1% | 12.6% | 12.1% |
+| P/B expands to 1.2x | Fair value for 14% ROE | 17.3% | 15.5% | 14.2% |
+| P/B expands to 1.5x | Bull case re-rating | 22.7% | 19.3% | 16.8% |
+| P/B compresses to 0.7x | Bear case (NPA stress) | 5.3% | 7.0% | 8.2% |
+| P/B compresses to 0.5x | Severe stress | -1.5% | 1.9% | 4.6% |
 
 ### Step 5: Traffic Light Verdict
 
 At entry P/B of 0.91x:
-- Even if P/B compresses to 0.7x (significant pessimism), the 10-year return is still ~9% — near the hurdle rate.
-- If P/B stays flat, you earn ~12% (the BV compounding rate).
-- If P/B expands to 1.2x (fair value), you earn ~15%.
+- Even if P/B compresses to 0.7x (significant pessimism), the 10-year return is still ~8.2% — slightly below the hurdle rate, but book value itself acts as a rising floor.
+- If P/B stays flat at 0.91x, you earn ~11% (the BV compounding rate, since entry P/B = exit P/B).
+- If P/B expands to 1.2x (fair value), you earn ~14%.
 
-**🟢 GREEN — Safe entry.** BV compounding at 11%+ overwhelms likely multiple compression. Even in the bear case, 10-year returns are near-acceptable.
+**🟢 GREEN — Safe entry.** BV compounding at 11%+ largely overwhelms likely multiple compression. Even in the bear case (0.7x P/B), 10-year returns are near-acceptable.
 
 > *Munger: "Over the long term, it's hard for a stock to earn a much better return than the business earns."* At 0.91x book for a bank compounding BV at 11-12%, you're getting a slight tailwind from the discount, and the BV compounding does the heavy lifting.
 
@@ -711,7 +715,7 @@ BoB's turnaround from the FY2019-2021 crisis is **largely COMPLETE**. This is no
 | Management Quality & Risk Culture | 6 | Competent but subject to GoI rotation. No track record through a genuine stress test. |
 | Earnings Quality (Normalised vs Reported) | 6 | Reported earnings flattered by low provisions. Normalised earnings ~50% of reported. |
 | Valuation (P/B vs Fair P/B) | 8 | 0.91x book vs 1.2-1.5x fair value. Clearly undervalued if ROE sustains. |
-| Margin of Safety (Excess Return Model) | 7 | 32% margin of safety on base case. Downside capped near book value. |
+| Margin of Safety (Excess Return Model) | 7 | 31.7% margin of safety on base case. Downside capped near book value. |
 | Book Value Compounding Potential | 7 | 11-12% BV CAGR; 3% dividend yield. Total return potential: 14-15%. |
 | **Buffett Verdict** | — | **Deep Value Opportunity in a "Good" Bank.** BoB is a well-run PSU bank trading at 0.91x book with 14-16% ROE, improving asset quality, strong capital, and 3% dividend yield. It's not a "wonderful" bank (CASA declining, NIM compressing, PSU governance), but at this price, you don't need wonderful. You need "adequate" — and BoB is better than adequate. The turnaround is real but the easy gains are behind us; future returns depend on sustained execution and normal credit conditions. At ₹280, the math works: BV compounds at 11%+, you collect 3% dividends, and any P/B re-rating toward 1.2x is pure upside. Buffett would call this a "reasonable bet at a reasonable price" — not a "wonderful business at a fair price." He'd buy a moderate position and add aggressively below ₹220. |
 | **Buy Zone** | — | **VALUE / BUY zone (0.91x book).** Sweet spot is ₹215-280. |

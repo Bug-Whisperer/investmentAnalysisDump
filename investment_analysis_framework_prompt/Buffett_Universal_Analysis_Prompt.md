@@ -11,7 +11,7 @@ Browse the screener tab that is open to gather all financial data, metrics, news
 
 ---
 
-Present ALL financial data in tabular form for multi-year trend comparison (minimum 5 years where available). Highlight in bold the years or periods where results are at extreme ends (best and worst) for each metric. Verify each and every calculation by double checking the values.
+Present ALL financial data in tabular form for multi-year trend comparison (minimum 5 years where available). Highlight in bold the years or periods where results are at extreme ends (best and worst) for each metric. Verify each and every calculation in all the sections by double checking the values. You can make the calculation by creating a python script so that all values turn up accurate and are consistent throughout the analysis.
 
 ---
 

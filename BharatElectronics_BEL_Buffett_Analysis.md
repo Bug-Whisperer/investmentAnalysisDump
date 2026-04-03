@@ -63,7 +63,7 @@ BEL's competitive advantage is structural and near-permanent: it is embedded int
 **This is a textbook margin expansion story.** Operating margins have expanded from 17% (FY2015) to 29% (FY2025) — a near-doubling that is extraordinary for a defence PSU. EBITDA margins have marched from 19% to 31%. This is NOT a cyclical peak — it reflects:
 
 1. **Rising indigenisation content** — BEL is moving up the value chain from assembler to system integrator to technology owner. Higher indigenous content = higher margins.
-2. **Operating leverage** — Revenue has grown 3.3x while operating profits have grown 5.8x over the decade. Earnings growth is dramatically outpacing revenue growth.
+2. **Operating leverage** — Revenue has grown 3.4x while operating profits have grown 5.8x over the decade. Earnings growth is dramatically outpacing revenue growth.
 3. **Product mix improvement** — Higher-margin products (radars, EW systems, missile subsystems) are becoming a larger share of revenue.
 
 The worst year was FY2018 (profit declined 6% on higher tax rate and lower other income) and FY2020 (mild profit decline). Both were temporary blips, not structural issues. FY2025 was the best year by every metric — and Q3 FY26 shows the trend is accelerating (30% EBITDA margin in 9M FY26).
@@ -152,7 +152,7 @@ Key observations:
 - **Dividends paid (FY2025): ~₹1,696 Cr** in financing outflows — showing strong capital return to shareholders despite low OCF year.
 - **No equity dilution** — shares outstanding have remained stable at 731 Cr (after the bonus splits). BEL has never raised equity to fund growth. All growth is funded from internal accruals.
 
-The 5-year cumulative OCF (FY2021-FY2025) is approximately ₹11,813 Cr against cumulative net profits of ₹16,794 Cr — a roughly 70% cash conversion ratio. For a defence company with large advance-based working capital swings, this is acceptable.
+The 5-year cumulative OCF (FY2021-FY2025) is approximately ₹15,813 Cr against cumulative net profits of ₹16,794 Cr — a roughly 94% cash conversion ratio. For a defence company with large advance-based working capital swings, this is excellent and demonstrates that reported earnings translate into real cash.
 
 > *Buffett: "Owner earnings are the relevant item. These represent (a) reported earnings plus (b) depreciation, depletion, amortisation, and certain other non-cash charges less (c) the average annual amount of capitalised expenditures that the business requires to fully maintain its long-term competitive position."*
 
@@ -356,9 +356,9 @@ Classification: **Strong Scaler (7-8 range, pushing toward 9)** — Comparable t
 ### Buffett's $1 Test
 
 Over the period FY2015-FY2025:
-- Total retained earnings (cumulative net profit minus dividends): approximately ₹12,000-13,000 Cr
+- Total retained earnings (cumulative net profit minus dividends): approximately ₹16,000 Cr
 - Increase in market capitalisation: from ~₹25,000 Cr (FY2015) to ~₹3,18,000 Cr (today) = **~₹2,93,000 Cr increase**
-- **For every ₹1 retained, BEL created ~₹22-25 of market value**
+- **For every ₹1 retained, BEL created ~₹18 of market value**
 
 This is an extraordinary result. Even adjusting for the overall market re-rating of defence stocks, BEL passes the $1 test with flying colours.
 
@@ -455,7 +455,7 @@ The re-rating reflects:
 
 **On a relative basis: Debatable.** If BEL can deliver 15-17.5% revenue CAGR with continued margin expansion (leading to 20-25% EPS CAGR), a PE of 53x equates to a PEG ratio of ~2.5x — elevated but not absurd for a capital-light, high-ROCE, moat-widening business.
 
-**The key risk is multiple compression.** If the PE compresses from 53x to its 5-year median of ~28x while EPS grows at 18% CAGR for 5 years, the stock would generate roughly 0% total return. You need the earnings growth AND the multiple to work in your favour.
+**The key risk is multiple compression.** If the PE compresses from 53x to its 5-year median of ~28x while EPS grows at 18% CAGR for 5 years, the stock would generate roughly 4-5% total annual return — far below a 10% hurdle rate. You need the earnings growth AND the multiple to work in your favour.
 
 > *Buffett: "Price is what you pay, value is what you get."*
 
@@ -482,14 +482,14 @@ At ₹436, you are paying a premium price for a premium business. The question i
 | Growth Rate (Years 6-10) | 10% |
 | Terminal Growth | 4% |
 | Discount Rate | 10% |
-| PV of 10-Year Cash Flows | ₹53,900 Cr |
-| Terminal Value | ₹1,28,600 Cr |
-| PV of Terminal Value | ₹49,600 Cr |
-| **Total Enterprise Value** | **₹1,03,500 Cr** |
+| PV of 10-Year Cash Flows | ₹59,000 Cr |
+| Terminal Value | ₹2,70,100 Cr |
+| PV of Terminal Value | ₹1,04,100 Cr |
+| **Total Enterprise Value** | **₹1,63,100 Cr** |
 | Less: Net Debt | ~0 |
-| **Equity Value** | **₹1,03,500 Cr** |
-| **Intrinsic Value/Share** | **₹142** |
-| Margin of Safety at ₹436 | **-207% (Overvalued)** |
+| **Equity Value** | **₹1,63,100 Cr** |
+| **Intrinsic Value/Share** | **₹223** |
+| Margin of Safety at ₹436 | **-49% (Overvalued)** |
 
 #### Scenario 2: Base Case
 
@@ -500,14 +500,14 @@ At ₹436, you are paying a premium price for a premium business. The question i
 | Growth Rate (Years 6-10) | 14% |
 | Terminal Growth | 5% |
 | Discount Rate | 10% |
-| PV of 10-Year Cash Flows | ₹67,800 Cr |
-| Terminal Value | ₹2,73,400 Cr |
-| PV of Terminal Value | ₹1,05,400 Cr |
-| **Total Enterprise Value** | **₹1,73,200 Cr** |
+| PV of 10-Year Cash Flows | ₹77,500 Cr |
+| Terminal Value | ₹5,07,800 Cr |
+| PV of Terminal Value | ₹1,95,800 Cr |
+| **Total Enterprise Value** | **₹2,73,300 Cr** |
 | Less: Net Debt | ~0 |
-| **Equity Value** | **₹1,73,200 Cr** |
-| **Intrinsic Value/Share** | **₹237** |
-| Margin of Safety at ₹436 | **-84% (Overvalued)** |
+| **Equity Value** | **₹2,73,300 Cr** |
+| **Intrinsic Value/Share** | **₹374** |
+| Margin of Safety at ₹436 | **-14% (Marginally Overvalued)** |
 
 #### Scenario 3: Optimistic
 
@@ -518,26 +518,26 @@ At ₹436, you are paying a premium price for a premium business. The question i
 | Growth Rate (Years 6-10) | 17% |
 | Terminal Growth | 5.5% |
 | Discount Rate | 10% |
-| PV of 10-Year Cash Flows | ₹80,200 Cr |
-| Terminal Value | ₹4,69,200 Cr |
-| PV of Terminal Value | ₹1,80,900 Cr |
-| **Total Enterprise Value** | **₹2,61,100 Cr** |
+| PV of 10-Year Cash Flows | ₹93,500 Cr |
+| Terminal Value | ₹7,62,700 Cr |
+| PV of Terminal Value | ₹2,94,000 Cr |
+| **Total Enterprise Value** | **₹3,87,500 Cr** |
 | Less: Net Debt | ~0 |
-| **Equity Value** | **₹2,61,100 Cr** |
-| **Intrinsic Value/Share** | **₹357** |
-| Margin of Safety at ₹436 | **-22% (Marginally Overvalued)** |
+| **Equity Value** | **₹3,87,500 Cr** |
+| **Intrinsic Value/Share** | **₹530** |
+| Margin of Safety at ₹436 | **+22% (Undervalued)** |
 
 ### Summary Table
 
 | Scenario | Growth (Yr 1-5 / Yr 6-10) | Intrinsic Value/Share | Margin of Safety at ₹436 | Verdict |
 |---|---|---|---|---|
-| Conservative | 12% / 10% | ₹142 | -207% | Massively overvalued |
-| Base Case | 18% / 14% | ₹237 | -84% | Significantly overvalued |
-| Optimistic | 22% / 17% | ₹357 | -22% | Marginally overvalued |
+| Conservative | 12% / 10% | ₹223 | -49% | Significantly overvalued |
+| Base Case | 18% / 14% | ₹374 | -14% | Marginally overvalued |
+| Optimistic | 22% / 17% | ₹530 | +22% | Undervalued (if growth materialises) |
 
-**Even under the most optimistic assumptions — 22% growth for 5 years followed by 17% for 5 more years — the stock is STILL marginally overvalued at ₹436.**
+**Under conservative assumptions, the stock is significantly overvalued. Under the base case (18%/14% growth), it is marginally overvalued. Only under the most optimistic scenario — 22% growth for 5 years followed by 17% for 5 more — does the stock appear undervalued.**
 
-The market is pricing BEL for perfection. At these levels, you need execution to be flawless, growth to be above-historical, and the re-rating to sustain — all simultaneously.
+The market is pricing BEL for strong continued growth. At these levels, you need execution to be excellent and the growth story to play out largely as expected.
 
 > *Buffett: "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price." But even a wonderful company at a CRAZY price is a terrible investment.*
 
@@ -569,33 +569,33 @@ The market is pricing BEL for perfection. At these levels, you need execution to
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **27.4%** | **33.5%** | **39.8%** |
-| 10 Years | **18.2%** | **21.6%** | **25.1%** |
-| 15 Years | **15.5%** | **18.1%** | **20.7%** |
+| 5 Years | **33.9%** | **40.0%** | **46.1%** |
+| 10 Years | **21.4%** | **26.9%** | **32.4%** |
+| 15 Years | **17.4%** | **22.8%** | **28.1%** |
 
 #### At Terminal PE = 30x (Market Avg)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **17.7%** | **23.4%** | **29.3%** |
-| 10 Years | **14.2%** | **17.5%** | **20.8%** |
-| 15 Years | **13.0%** | **15.5%** | **18.1%** |
+| 5 Years | **23.5%** | **29.1%** | **34.7%** |
+| 10 Years | **16.5%** | **21.8%** | **27.1%** |
+| 15 Years | **14.3%** | **19.5%** | **24.7%** |
 
 #### At Terminal PE = 40x (Compounder)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **11.3%** | **16.8%** | **22.5%** |
-| 10 Years | **11.3%** | **14.5%** | **17.8%** |
-| 15 Years | **11.1%** | **13.6%** | **16.2%** |
+| 5 Years | **16.6%** | **21.9%** | **27.2%** |
+| 10 Years | **13.2%** | **18.4%** | **23.5%** |
+| 15 Years | **12.1%** | **17.2%** | **22.3%** |
 
 #### At Terminal PE = 28x (Historical Median)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **19.1%** | **24.9%** | **30.9%** |
-| 10 Years | **14.9%** | **18.2%** | **21.5%** |
-| 15 Years | **13.4%** | **15.9%** | **18.5%** |
+| 5 Years | **25.2%** | **30.9%** | **36.6%** |
+| 10 Years | **17.3%** | **22.7%** | **28.0%** |
+| 15 Years | **14.8%** | **20.1%** | **25.3%** |
 
 ### Step 4: Reality Check
 
@@ -610,20 +610,20 @@ The market is pricing BEL for perfection. At these levels, you need execution to
 ### Traffic Light Assessment
 
 **At Terminal PE = 20x (the PE BEL traded at just 3-4 years ago):**
-- To earn a 10% return over 10 years, BEL needs to grow EPS at 18.2% CAGR. This is ABOVE the 10-year historical CAGR of 17%. 🟡 YELLOW — optimistic but possible.
-- To earn a 15% return, BEL needs 21.6% EPS CAGR — possible only if margin expansion continues AND revenue growth accelerates. 🟠 ORANGE.
+- To earn a 10% return over 10 years, BEL needs to grow EPS at 21.4% CAGR. This is ABOVE the 10-year historical CAGR of 17%, though still below the recent 5-year CAGR of 24%. 🟠 ORANGE — achievable if recent momentum sustains, but demanding relative to the longer-term track record.
+- To earn a 15% return, BEL needs 26.9% EPS CAGR — this requires sustained acceleration beyond anything BEL has historically delivered. 🔴 RED.
 
 **At Terminal PE = 30x (assumes the market continues to pay a premium):**
-- To earn a 10% return over 10 years, BEL needs 14.2% EPS CAGR. This is below the 5Y historical CAGR of 24% but above management's revenue guidance. 🟢 GREEN — reasonable.
-- To earn a 15% return, BEL needs 17.5% EPS CAGR — in line with the 10Y track record. 🟡 YELLOW.
+- To earn a 10% return over 10 years, BEL needs 16.5% EPS CAGR. This is close to the 10-year historical CAGR of 17%. 🟡 YELLOW — achievable but not guaranteed.
+- To earn a 15% return, BEL needs 21.8% EPS CAGR — demanding, roughly in line with the 5-year track record. 🟠 ORANGE.
 
 ### Step 5: The Verdict
 
-> **"At the current price of ₹436, to earn a 10% annualised return over 10 years assuming the market values BEL at 30x PE at exit, the company needs to grow EPS at 14.2% CAGR. BEL has historically grown EPS at ~17% CAGR over 10 years and ~24% over 5 years. This implies the market is pricing in ACHIEVABLE growth — but ONLY if the terminal PE remains elevated at 30x. If the PE compresses to 20x (where BEL traded in 2021-22), you need 18.2% EPS CAGR just to earn a 10% return — which is optimistic."**
+> **"At the current price of ₹436, to earn a 10% annualised return over 10 years assuming the market values BEL at 30x PE at exit, the company needs to grow EPS at 16.5% CAGR. BEL has historically grown EPS at ~17% CAGR over 10 years and ~24% over 5 years. This implies the market is pricing in ACHIEVABLE growth — but ONLY if the terminal PE remains elevated at 30x. If the PE compresses to 20x (where BEL traded in 2021-22), you need 21.4% EPS CAGR just to earn a 10% return — which is demanding."**
 
-The napkin math conclusion: BEL at ₹436 is **a wonderful business priced for excellence, not for safety.** Returns depend heavily on whether the PE multiple sustains — this is a bet on continued narrative momentum, not just business fundamentals.
+The napkin math conclusion: BEL at ₹436 is **a wonderful business priced for strong continued growth, not for safety.** Returns depend meaningfully on whether the PE multiple sustains — this is a bet on continued narrative momentum alongside business fundamentals.
 
-🟡 **YELLOW-ORANGE** — Fair but optimistic if the terminal PE holds at 28-30x; expensive if the PE reverts to historical norms of 18-20x.
+🟡 **YELLOW** — Achievable if the terminal PE holds at 28-30x; expensive if the PE reverts to historical norms of 18-20x.
 
 ### Step 6: Asymmetric Upside Check
 
@@ -634,7 +634,7 @@ The napkin math conclusion: BEL at ₹436 is **a wonderful business priced for e
 | Book Value Floor | 1x BVPS (₹29.5) | ₹30 | -93% |
 | Trough PE (worst year × 15x) | FY2020 EPS ₹2.50 × 15 | ₹38 | -91% |
 | Historical Low PE (18x) × Current EPS | 18 × ₹8.16 | ₹147 | -66% |
-| Conservative DCF | ₹142 (from Section 12) | ₹142 | -67% |
+| Conservative DCF | ₹223 (from Section 12) | ₹223 | -49% |
 | Market Panic Floor | 25x × normalised EPS | ₹204 | -53% |
 
 The downside is significant because of the extreme valuation premium. Even at 25x PE (still a reasonable multiple), the stock would be ₹204 — a 53% decline.
@@ -643,19 +643,19 @@ The downside is significant because of the extreme valuation premium. Even at 25
 
 | Scenario | Basis | Implied Price | Upside from ₹436 |
 |---|---|---|---|
-| Base DCF | ₹237 | ₹237 | -46% (downside) |
-| Optimistic DCF | ₹357 | ₹357 | -18% (downside) |
-| FY28 EPS (₹13 @ 18% CAGR) × 40x PE | ₹13 × 40 | ₹520 | +19% |
-| FY28 EPS × 50x PE (bull case) | ₹13 × 50 | ₹650 | +49% |
-| FY30 EPS (₹18 @ 18% CAGR) × 35x PE | ₹18 × 35 | ₹630 | +44% |
+| Base DCF | ₹374 | ₹374 | -14% (downside) |
+| Optimistic DCF | ₹530 | ₹530 | +22% |
+| FY28 EPS (₹12 @ 18% CAGR) × 40x PE | ₹12 × 40 | ₹480 | +10% |
+| FY28 EPS × 50x PE (bull case) | ₹12 × 50 | ₹600 | +38% |
+| FY30 EPS (₹17 @ 18% CAGR) × 35x PE | ₹17 × 35 | ₹595 | +36% |
 
 #### Part 3: Asymmetry Ratio
 
-Using Market Panic Floor (₹204, -53%) as downside and Base Upside (₹520, +19% over 3 years) as upside:
+Using Market Panic Floor (₹204, -53%) as downside and Base Upside (₹480, +10% over 3 years) as upside:
 
-**Asymmetry Ratio = 19% / 53% = 0.36:1**
+**Asymmetry Ratio = 10% / 53% = 0.19:1**
 
-This is **NEGATIVE ASYMMETRY.** The downside exceeds the upside by a wide margin. You are risking ₹232 of downside to capture ₹84 of upside.
+This is **NEGATIVE ASYMMETRY.** The downside exceeds the upside by a wide margin. You are risking ₹232 of downside to capture ₹44 of upside.
 
 #### Part 4: Catalysts & Anti-Catalysts
 
@@ -674,7 +674,7 @@ This is **NEGATIVE ASYMMETRY.** The downside exceeds the upside by a wide margin
 
 #### Part 5: Fat Pitch Verdict
 
-> **"At ₹436, the realistic downside is approximately 53% to ₹204 (market panic at 25x PE). The realistic base-case upside is approximately 19% to ₹520 over 3 years (assuming 18% EPS growth and PE sustained at 40x). This gives an asymmetry ratio of 0.36:1. The market is NOT mispricing BEL — in fact, it is pricing in near-perfect execution for the next 5+ years. This is NOT a fat pitch."**
+> **"At ₹436, the realistic downside is approximately 53% to ₹204 (market panic at 25x PE). The realistic base-case upside is approximately 10% to ₹480 over 3 years (assuming 18% EPS growth and PE sustained at 40x). This gives an asymmetry ratio of 0.19:1. The market is NOT mispricing BEL — in fact, it is pricing in strong execution for the next 5+ years. This is NOT a fat pitch."**
 
 **Mispricing Assessment: ABSENT.** There is no obvious mispricing. The stock is widely followed (25+ lakh shareholders), held by major institutions (FII 18.5%, DII 20.5%), and the defence narrative is well-understood. The stock appears to be roughly fairly valued for its current fundamentals IF the terminal multiple sustains at 35-40x, but this is a big "if."
 
@@ -690,12 +690,14 @@ At these valuations, the risk of permanent or prolonged capital loss from multip
 
 | Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE (Product) |
 |---|---|---|---|---|
-| FY2020 | 14.1% | 0.53x | 2.4x | ~19% |
-| FY2021 | 14.9% | 0.48x | 2.7x | ~20% |
-| FY2022 | 15.6% | 0.45x | 2.8x | ~21% |
-| FY2023 | 16.8% | 0.50x | 2.6x | ~23% |
-| FY2024 | 19.7% | 0.51x | 2.4x | ~26% |
-| FY2025 | **22.4%** | 0.58x | 2.0x | **~29%** |
+| FY2020 | 14.1% | 0.53x | 2.4x | ~18% |
+| FY2021 | 14.9% | 0.48x | 2.7x | ~19% |
+| FY2022 | 15.6% | 0.45x | 2.8x | ~20% |
+| FY2023 | 16.8% | 0.50x | 2.6x | ~22% |
+| FY2024 | 19.7% | 0.51x | 2.4x | ~24% |
+| FY2025 | **22.4%** | 0.58x | 2.0x | **~26%** |
+
+*Note: DuPont product using end-of-period figures is approximate. Actual ROE calculated on average equity is: FY2020=18.9%, FY2021=19.9%, FY2022=20.6%, FY2023=22.8%, FY2024=26.4%, FY2025=29.3%. The rising trend is consistent across both methods.*
 
 **Quality Assessment: EXCEPTIONAL**
 
@@ -734,25 +736,25 @@ The business is generating higher returns with less financial risk. This is the 
 | Exit P/B | Rationale | 5Y CAGR | 7Y CAGR | 10Y CAGR |
 |---|---|---|---|---|
 | 14.8x (sustains) | Optimistic | 16.3% | 16.3% | 16.3% |
-| 11x (~75% of current) | Mild de-rating | 10.2% | 11.8% | 13.0% |
-| 7.4x (50% of current) | Significant de-rating | 3.2% | 6.7% | 9.2% |
-| 6x (5Y historical median) | Reverts to historical | -0.6% | 4.2% | 7.3% |
-| 3x | Reverts to pre-2023 levels | -12.1% | -4.4% | 1.2% |
-| 1x Book | Valued at book | -24.1% | -13.8% | -6.3% |
+| 11x (~75% of current) | Mild de-rating | 9.6% | 11.4% | 12.9% |
+| 7.4x (50% of current) | Significant de-rating | 1.2% | 5.3% | 8.5% |
+| 6x (5Y historical median) | Reverts to historical | -2.9% | 2.2% | 6.2% |
+| 3x | Reverts to pre-2023 levels | -15.5% | -7.4% | -0.9% |
+| 1x Book | Valued at book | -32.2% | -20.9% | -11.2% |
 
 ### Key Insight
 
-> **"At the current entry P/B of 14.8x with a sustainable ROE of 25% and 65% retention, book value compounds at 16.3% annually. If the P/B multiple remains at 14.8x, the return equals the BV compounding rate of 16.3%. But if P/B compresses to its 5-year historical median of ~6x, the 10-year return drops to 7.3% — below the 10% hurdle rate. The stock can tolerate P/B compression from 14.8x to approximately 9x before the 10-year return drops below 10%."**
+> **"At the current entry P/B of 14.8x with a sustainable ROE of 25% and 65% retention, book value compounds at 16.3% annually. If the P/B multiple remains at 14.8x, the return equals the BV compounding rate of 16.3%. But if P/B compresses to its 5-year historical median of ~6x, the 10-year return drops to 6.2% — well below the 10% hurdle rate. The stock can tolerate P/B compression from 14.8x to approximately 8.5x before the 10-year return drops below 10%."**
 
 ### Traffic Light
 
 | Condition | Verdict |
 |---|---|
-| 10Y return > 10% even if P/B halves (to 7.4x) | 9.2% — just BELOW hurdle rate |
-| 10Y return > 10% only if P/B stays within 25% (>11x) | Yes — 13.0% |
+| 10Y return > 10% even if P/B halves (to 7.4x) | 8.5% — BELOW hurdle rate |
+| 10Y return > 10% if P/B compresses ~43% (to 8.5x) | Yes — 10.0% (exact breakeven) |
 | 10Y return requires P/B expansion | Not at current multiple |
 
-🟡 **YELLOW** — Returns are dependent on the P/B multiple not compressing by more than 25-35%. Given the extreme historical elevation, this is a risky assumption.
+🟡 **YELLOW** — Returns are dependent on the P/B multiple not compressing by more than ~43% (from 14.8x to 8.5x). Given the extreme historical elevation, this is a meaningful risk — though less dire than it first appears, since 8.5x P/B would still be above pre-2023 levels.
 
 ---
 
@@ -795,8 +797,8 @@ At ₹436, the "boat" (business) is excellent, but the "ticket price" (valuation
 | Is management trustworthy and rational? | Yes — consistent under-promise/over-deliver; zero dilution; rational CapEx | ✅ PASS |
 | Resistant to disruption and competition? | Yes — institutional moat; private sector can't replicate | ✅ PASS |
 | Can economics sustain 10+ years? | Yes — India's defence spend growing structurally; BEL is primary beneficiary | ✅ PASS |
-| Is the price below intrinsic value? | **NO — even optimistic DCF gives ₹357 vs CMP ₹436** | ❌ FAIL |
-| Is there a margin of safety? | **NO — at 53x PE and 14.8x P/B, there is ZERO margin of safety** | ❌ FAIL |
+| Is the price below intrinsic value? | **BORDERLINE — base DCF gives ₹374 vs CMP ₹436; only optimistic DCF (₹530) shows upside** | ❌ FAIL |
+| Is there a margin of safety? | **NO — at 53x PE and 14.8x P/B, margin of safety is thin to absent** | ❌ FAIL |
 
 **Score: 5/7 PASS — The business is a Buffett business, but the price is NOT a Buffett price.**
 
@@ -850,7 +852,7 @@ The market is currently greedy on defence stocks. Buffett would be patient.
 | **Management Quality** | **8** | Under-promises, over-delivers; rational capital allocation; PSU constraints on compensation |
 | **Scalability** | **8.5** | Incremental margins >50%; 15-17.5% guided CAGR; massive order book |
 | **Valuation** | **3** | 53x PE and 14.8x P/B — priced for perfection with zero margin of safety |
-| **Margin of Safety** | **2** | Overvalued on conservative AND base DCF; only marginally overvalued on most optimistic scenario |
+| **Margin of Safety** | **2** | Overvalued on conservative DCF (₹223); near fair value on base case (₹374); only optimistic scenario shows upside (₹530) |
 | **Buffett Verdict** | **ADMIRE, DON'T BUY (at current prices)** | BEL is a wonderful business that Buffett would love to own — at the right price. At ₹436, you are paying a luxury price for a wonderful business. The business quality is undeniable (9.5/10), but the valuation (3/10) destroys the investment case at current levels. Buffett would put BEL on his watchlist and wait patiently for a market correction, a sector de-rating, or any event that brings the PE to 25-30x (₹200-245). At that price, BEL would be a "strong buy and hold forever" — a Coca-Cola or American Express for the Indian defence era. At ₹436, it is a "wonderful company at a crazy price" — and Buffett would pass. |
 | **Buy Zone** | **Overvalued / Sell Zone** | Current PE 53x, P/B 14.8x — both at historical extremes |
 | **Overall Recommendation** | **AVOID new positions. HOLD if already owned at lower prices. TRIM on further rallies.** | Target accumulation zone: ₹200-250 (25-30x PE). At that level, risk-reward flips dramatically in the investor's favour. |
@@ -870,10 +872,10 @@ The market is currently greedy on defence stocks. Buffett would be patient.
 ### Does the math work without Excel?
 
 **Napkin Math:**
-- BEL earns ₹8/share (TTM). Growing at ~18% = ₹19/share in 5 years.
-- If the PE stays at 40x: stock = ₹760 = ~12% annual return. Okay-ish.
-- If the PE drops to 25x: stock = ₹475 = ~2% annual return. Terrible.
-- If the PE drops to 20x: stock = ₹380 = -3% annual return. You LOSE money.
+- BEL earns ₹8/share (TTM). Growing at ~18% = ₹18/share in 5 years.
+- If the PE stays at 40x: stock = ₹720 = ~11% annual return. Decent.
+- If the PE drops to 25x: stock = ₹450 = ~1% annual return. Terrible.
+- If the PE drops to 20x: stock = ₹360 = -4% annual return. You LOSE money.
 
 The math only works if the PE stays elevated. That's a bet on market sentiment, not business fundamentals.
 

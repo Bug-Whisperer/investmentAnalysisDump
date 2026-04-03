@@ -427,7 +427,7 @@ The margin of safety here is thin. The investment makes sense primarily if you b
 | CMP | ₹980 |
 | Normalised Operating EPS (post-split) | ~₹11 |
 | Current PE on Operating EPS | ~89x |
-| Shares Outstanding (Diluted) | ~64.8 Cr |
+| Shares Outstanding (Diluted) | ~64.5 Cr |
 | Investment Portfolio Value Per Share (after holdco discount) | ~₹593 |
 | **Implied Price for Operating Business** | ₹980 - ₹593 - ₹62 (cash) = **₹325** |
 | **Implied PE on Operating Business** | ₹325 / ₹11 = **~30x** |
@@ -618,13 +618,13 @@ Patience here means: own the business if you got in at a good price and let it c
 
 ### Does the math work on a napkin?
 
-**Operating business:** Earns ~₹700 Cr/year owner earnings, growing at ~15%. Market values it at ~₹21,000 Cr (30x). In 10 years, if earnings double (which they should at 15% growth), and the market pays 25x, the operating business is worth ~₹35,000 Cr. 
+**Operating business:** Earns ~₹700 Cr/year owner earnings, growing at ~15%. At 15% CAGR over 10 years, earnings roughly quadruple to ~₹2,800 Cr. If the market then pays a more mature 25x multiple, the operating business is worth ~₹70,000 Cr. Even at a conservative 12% CAGR (earnings grow to ~₹2,175 Cr) at 25x, that's ~₹54,000 Cr.
 
-**Investment portfolio:** Worth ~₹48,000 Cr today. If it grows at 10%/year (conservative), it's worth ~₹1,24,000 Cr in 10 years.
+**Investment portfolio:** Worth ~₹48,000 Cr today. If it grows at 10%/year (conservative), it's worth ~₹1,24,500 Cr in 10 years.
 
-**Total future value:** ~₹1,59,000 Cr vs. current market cap of ~₹63,500 Cr. That's a 2.5x over 10 years, or ~9.6% CAGR.
+**Total future value (base case at 12% op growth):** ~₹54,000 + ₹1,24,500 = ~₹1,78,500 Cr vs. current market cap of ~₹63,500 Cr. That's a 2.8x over 10 years, or ~10.9% CAGR. At the optimistic 15% op growth: ~₹70,000 + ₹1,24,500 = ~₹1,94,500 Cr — a 3.1x, or ~11.9% CAGR.
 
-Not a screaming bargain, but a solid compounding machine at a fair price. With a better entry price (say ₹800), the return jumps to ~12.5% CAGR — more attractive.
+Solid compounding at a fair price. With a better entry price (say ₹800, market cap ~₹51,600 Cr), the base-case return jumps to ~13.2% CAGR and the optimistic case to ~14.2% — distinctly more attractive.
 
 > **Buffett:** *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."*
 

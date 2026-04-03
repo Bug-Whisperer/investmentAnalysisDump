@@ -45,12 +45,12 @@ The economic moat here is **brand trust + hyperlocal presence + the organised-vs
 | Interest | 390 | 418 | 419 | 405 | 360 | 353 | 379 | 422 | 382 |
 | Depreciation | 202 | 224 | 239 | 225 | 232 | 245 | 274 | 343 | 383 |
 | Profit Before Tax | 214 | **21** | 221 | **39** | 299 | 572 | 789 | 960 | **~1,247** |
-| Tax Rate % | 34% | 123% | 36% | 115% | 25% | 24% | 24% | 26% | ~26% |
-| **Net Profit** | 141 | **-5** | 142 | **-6** | 224 | 432 | 596 | 714 | **~931** |
-| Net Profit Growth YoY | — | **NM** | NM | **NM** | NM | 92.9% | 38.0% | 19.8% | ~49% |
-| Net Profit Margin | 1.3% | **-0.1%** | 1.4% | **-0.1%** | 2.1% | 3.1% | 3.2% | 2.9% | ~2.9% |
-| EPS (Diluted, ₹) | 1.70 | **-0.04** | 1.70 | **-0.06** | 2.18 | 4.20 | 5.80 | 6.93 | **~9.02** |
-| EPS Growth YoY | — | NM | NM | NM | NM | 92.7% | 38.1% | 19.5% | ~49% |
+| Tax Rate % | 34% | 123% | 36% | 115% | 25% | 24% | 24% | 26% | ~25% |
+| **Net Profit** | 141 | **-5** | 142 | **-6** | 224 | 432 | 596 | 714 | **~1,129** |
+| Net Profit Growth YoY | — | **NM** | NM | **NM** | NM | 92.9% | 38.0% | 19.8% | ~58% |
+| Net Profit Margin | 1.3% | **-0.1%** | 1.4% | **-0.1%** | 2.1% | 3.1% | 3.2% | 2.9% | ~3.6% |
+| EPS (Diluted, ₹) | 1.70 | **-0.04** | 1.70 | **-0.06** | 2.18 | 4.20 | 5.80 | 6.93 | **~10.93** |
+| EPS Growth YoY | — | NM | NM | NM | NM | 92.7% | 38.1% | 19.5% | ~58% |
 | Shares Outstanding (Cr) | 83.9 | 83.9 | 83.9 | 103.0 | 103.0 | 103.0 | 103.0 | 103.1 | ~103.3 |
 | Dividend Payout % | 0% | 0% | 0% | 0% | 0% | 12% | 21% | 22% | — |
 
@@ -66,12 +66,12 @@ The economic moat here is **brand trust + hyperlocal presence + the organised-vs
 The story is one of **dramatic transformation.** Pre-FY22, Kalyan was a mediocre, leveraged, low-margin jewellery retailer with losses in FY19 and FY21. Post-IPO (March 2021), the business has inflected sharply:
 
 1. **Revenue has nearly tripled** from ₹8,573 Cr (FY21) to ₹25,045 Cr (FY25), and TTM is tracking ~₹31,650 Cr.
-2. **Profit has gone from losses to ₹714 Cr** in FY25 and TTM ~₹931 Cr.
+2. **Profit has gone from losses to ₹714 Cr** in FY25 and TTM ~₹1,129 Cr (including the blockbuster Q3 FY26).
 3. **Operating margins are thin but stable** at 6-8% — this is characteristic of jewellery retail where gold passthrough inflates revenue. The real metric is absolute EBITDA growth, which has been excellent.
 4. **Q3 FY26 was spectacular:** Revenue ₹10,343 Cr (+42% YoY), EBITDA ₹750.5 Cr (+75% YoY), PAT ₹416 Cr (+90% YoY), EBITDA margin improved to 7.3% from 5.9%.
 5. **Candere turned PAT-positive** with 144% revenue growth — a crucial development for the digital/lifestyle pivot.
 
-**Critical Point:** The thin 6-8% operating margin is NOT a weakness for this business. In jewellery retail, the vast majority of revenue is gold passthrough. A 7% margin on ₹25,000 Cr revenue is ₹1,585 Cr of operating profit — what matters is the absolute profit and its growth rate. Gross margins are structurally limited by gold content, and Kalyan's improving studded jewellery mix (31.2% in Q3 FY26 vs 29.5% prior year) is the key lever for margin expansion.
+**Critical Point:** The thin 6-8% operating margin is NOT a weakness for this business. In jewellery retail, the vast majority of revenue is gold passthrough. A ~6% margin on ₹25,000 Cr revenue is ₹1,585 Cr of operating profit — what matters is the absolute profit and its growth rate. Gross margins are structurally limited by gold content, and Kalyan's improving studded jewellery mix (31.2% in Q3 FY26 vs 29.5% prior year) is the key lever for margin expansion.
 
 > *Buffett: "I look for businesses that I think I can predict what they'll look like in 10 or 15 or 20 years. That means businesses that will look more or less as they do today — except that they'll be larger and doing more business internationally."*
 
@@ -175,12 +175,12 @@ Under the FOCO model, franchise partners bear the capital cost (₹2-5 Cr per st
 
 | Metric | FY23 | FY24 | FY25 | TTM FY26E |
 |---|---|---|---|---|
-| Net Income | 432 | 596 | 714 | ~931 |
+| Net Income | 432 | 596 | 714 | ~1,129 |
 | Add: D&A | 245 | 274 | 343 | ~383 |
 | Less: Maintenance CapEx (est.) | (150) | (175) | (200) | (200) |
 | Less: SBC (minimal) | (5) | (10) | (15) | (20) |
-| **= Owner Earnings** | **~522** | **~685** | **~842** | **~1,094** |
-| Owner Earnings Per Share (₹) | ~5.07 | ~6.65 | ~8.17 | ~10.60 |
+| **= Owner Earnings** | **~522** | **~685** | **~842** | **~1,292** |
+| Owner Earnings Per Share (₹) | ~5.07 | ~6.65 | ~8.17 | ~12.51 |
 
 > *Buffett: "Accounting earnings and economic earnings are different things... Owner earnings — the relevant item for valuation purposes — were far higher than accounting earnings because a significant portion of the annual depreciation charge was not a true economic cost."*
 
@@ -362,11 +362,9 @@ The company is founder-led by T.S. Kalyanaraman (Chairman & MD), with sons T.K. 
 
 **For every ₹1 of retained earnings, has the company created at least ₹1 of market value?**
 
-| Period | FY22 BVPS | FY25 BVPS | Retained Earnings/Share (cumulative) | Market Cap Change/Share | Value Created per ₹1 Retained |
-|---|---|---|---|---|---|
-| FY22 to FY25 | ₹30.5 | ₹46.6 | ~₹16.1 | ₹380 - ~₹66 (IPO) ≈ +₹314 | **₹19.5 per ₹1 retained** |
+Over the FY23-FY25 period, cumulative net profit was ~₹1,742 Cr, with estimated dividends of ~₹334 Cr, leaving ~₹1,408 Cr of retained earnings (~₹13.7 per share). The stock price rose from ~₹85 (start of FY23) to ₹380 currently, creating ~₹295 of market value per share. This implies **~₹21.6 of market value per ₹1 of retained earnings** — the $1 test is passed with flying colours.
 
-Even at the current depressed price of ~₹380, the market has created ~₹19.5 of market value for every ₹1 retained since IPO. **The $1 test is passed with flying colours** — but with a major caveat that much of this reflects PE multiple expansion from ~15x at IPO to ~35x now. The underlying business performance supports this, but investors should be aware that some of the value creation is from re-rating, not just compounding.
+**Caveat:** Much of this reflects PE multiple expansion from ~20x to ~35x. The underlying business performance supports this, but investors should be aware that some of the value creation is from re-rating, not just compounding.
 
 ### Capital Allocation Track Record
 
@@ -429,7 +427,7 @@ The Kalyanaraman family has run this business for 30+ years, built it from one s
 | EV/EBITDA | ~9x | ~14x | ~30x | ~28x | ~22x |
 | Earnings Yield (1/PE) | 3.3% | 3.1% | 1.8% | 1.9% | **2.9%** |
 | Book Value Per Share (₹) | 30.5 | 35.3 | 40.7 | 46.6 | ~51.7 |
-| EPS (Diluted, ₹) | 2.18 | 4.20 | 5.80 | 6.93 | ~9.02 |
+| EPS (Diluted, ₹) | 2.18 | 4.20 | 5.80 | 6.93 | ~10.93 |
 
 ### Analyst Estimates (Consensus)
 
@@ -485,8 +483,8 @@ At P/B of ~7.3x, the stock is expensive relative to book value — but for a 16-
 | Input | Value |
 |---|---|
 | Current Market Price (CMP) | ₹380 |
-| TTM Normalised EPS | ~₹9.00 |
-| Current PE (Normalised) | ~42.2x |
+| TTM Normalised EPS (including Q3 FY26) | ~₹10.93 |
+| Current PE (on TTM EPS) | ~34.8x |
 | Shares Outstanding (Diluted) | ~103.3 Cr |
 
 ### Step 3: Implied EPS CAGR Required
@@ -495,25 +493,25 @@ At P/B of ~7.3x, the stock is expensive relative to book value — but for a 16-
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 28.8% | 34.3% | 39.9% |
-| 10 Years | 16.9% | 19.7% | 22.5% |
-| 15 Years | 13.7% | 15.6% | 17.6% |
+| 5 Years | 22.9% | 28.4% | 34.0% |
+| 10 Years | 16.3% | 21.5% | 26.8% |
+| 15 Years | 14.1% | 19.3% | 24.5% |
 
-#### At Terminal PE = 30x (Above-Average Compounder)
+#### At Terminal PE = 28x (Above-Average Compounder)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 19.2% | 24.4% | 29.7% |
-| 10 Years | 13.2% | 15.9% | 18.6% |
-| 15 Years | 11.7% | 13.6% | 15.5% |
+| 5 Years | 14.9% | 20.1% | 25.3% |
+| 10 Years | 12.4% | 17.5% | 22.6% |
+| 15 Years | 11.6% | 16.7% | 21.7% |
 
 #### At Terminal PE = 35x (Historical Median — Where It Trades Today)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 16.1% | 21.1% | 26.4% |
-| 10 Years | 11.8% | 14.4% | 17.1% |
-| 15 Years | 10.9% | 12.8% | 14.7% |
+| 5 Years | 9.8% | 14.8% | 19.8% |
+| 10 Years | 9.9% | 14.9% | 19.9% |
+| 15 Years | 9.9% | 14.9% | 19.9% |
 
 ### Step 4: Reality Check
 
@@ -527,15 +525,15 @@ At P/B of ~7.3x, the stock is expensive relative to book value — but for a 16-
 ### Traffic Light Assessment
 
 At the **current CMP of ₹380:**
-- To earn a **15% return over 10 years** at a **terminal PE of 30x**, the company needs to grow EPS at ~16% CAGR. Given historical 38-47% CAGR and the scaling runway, this is **very achievable.** 🟢 **GREEN**
-- To earn a **15% return over 10 years** at a **terminal PE of 20x** (significant de-rating), EPS needs to grow at ~20% CAGR. Still achievable given the growth phase. 🟢 **GREEN**
-- To earn a **20% return over 10 years** at a **terminal PE of 20x**, EPS needs to grow at ~22.5%. This requires sustained high growth but is within the realm of possibility given the scaling phase. 🟡 **YELLOW**
+- To earn a **15% return over 10 years** at a **terminal PE of 28x**, the company needs to grow EPS at ~17.5% CAGR. Given historical 38-47% CAGR and the scaling runway, this is **very achievable.** 🟢 **GREEN**
+- To earn a **15% return over 10 years** at a **terminal PE of 20x** (significant de-rating), EPS needs to grow at ~21.5% CAGR. Achievable given the growth phase, but requires sustained execution. 🟡 **YELLOW**
+- To earn a **10% return over 10 years** at a **terminal PE of 35x** (no de-rating), EPS needs to grow at only ~10% CAGR — essentially nominal GDP growth. 🟢 **GREEN**
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹380, to earn a 15% annualised return over 10 years assuming the market values the business at 30x PE at exit, the company needs to grow EPS at ~16% CAGR. The company has historically grown EPS at 38-47% CAGR. This implies the market is pricing in reasonable growth, well below what the company has actually delivered. The stock appears to offer favourable risk-reward at current levels."
+> "At the current price of ₹380, to earn a 15% annualised return over 10 years assuming the market values the business at 28x PE at exit, the company needs to grow EPS at ~17.5% CAGR. The company has historically grown EPS at 38-47% CAGR. This implies the market is pricing in reasonable growth, well below what the company has actually delivered. The stock appears to offer favourable risk-reward at current levels."
 
-This passes Buffett's napkin test. You don't need a spreadsheet — the company is growing EPS at 30-40%+, the market is asking for only ~16% to deliver 15% returns, and the scaling runway supports this for at least 7-10 years.
+This passes Buffett's napkin test. You don't need a spreadsheet — the company is growing EPS at 30-40%+, the market is asking for only ~17.5% to deliver 15% returns, and the scaling runway supports this for at least 7-10 years.
 
 ### Step 6: Asymmetric Upside Check
 
@@ -599,12 +597,12 @@ This is a **decent pitch but not a fat pitch.** The risk-reward is positive but 
 | FY22 | 2.1% | 1.21x | 2.85x | 7.5% |
 | FY23 | 3.1% | 1.43x | 2.95x | 12.8% |
 | FY24 | 3.2% | 1.58x | 3.06x | 15.2% |
-| **FY25** | **2.9%** | **1.79x** | **3.15x** | **16.0%** |
+| **FY25** | **2.9%** | **1.79x** | **3.11x** | **16.0%** |
 
 **The quality of ROE is improving through the right channels:**
 - Asset Turnover rising from 1.21x to 1.79x (capital efficiency) — **healthy driver**
 - Net Margin stable at 2.9-3.2% — **not compressing despite rapid expansion**
-- Equity Multiplier DECLINING from 4.28x to 3.15x — **leverage going DOWN while ROE goes UP**
+- Equity Multiplier DECLINING from 4.28x to 3.11x — **leverage going DOWN while ROE goes UP**
 
 This is the textbook "quality improvement" pattern. ROE is rising because the business is becoming more efficient, NOT because it's taking on more debt.
 
@@ -628,28 +626,28 @@ This is the textbook "quality improvement" pattern. ROE is rising because the bu
 | Year | Projected BVPS |
 |---|---|
 | Current | ₹51.7 |
-| Year 5 (FY30) | ₹99.5 |
-| Year 7 (FY32) | ₹129.5 |
-| Year 10 (FY35) | ₹191.3 |
+| Year 5 (FY30) | ₹99.7 |
+| Year 7 (FY32) | ₹129.7 |
+| Year 10 (FY35) | ₹192.3 |
 
 **Expected Annual Return (CAGR) at ₹380 Entry (P/B: 7.3x)**
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 7.3x | Multiple sustains | 21.2% | 18.8% | 17.4% |
-| P/B compresses to 5.5x (0.75× current) | Mild de-rating | 14.7% | 13.5% | 13.3% |
-| P/B compresses to 3.65x (0.5× current) | Significant de-rating | 7.8% | 8.0% | 9.0% |
-| P/B compresses to 4x | Theoretical fair P/B for 18% ROE | 9.7% | 9.5% | 10.2% |
-| P/B compresses to 3x | Historical median-ish | 5.4% | 6.4% | 7.7% |
-| P/B compresses to 1x Book | Valued at book | -12.5% | -6.8% | -1.8% |
+| P/B stays at 7.3x | Multiple sustains | 13.9% | 13.9% | 14.0% |
+| P/B compresses to 5.5x (0.75× current) | Mild de-rating | 7.6% | 9.4% | 10.8% |
+| P/B compresses to 3.65x (0.5× current) | Significant de-rating | -0.9% | 3.2% | 6.3% |
+| P/B compresses to 4x | Theoretical fair P/B for 18% ROE | 1.0% | 4.5% | 7.3% |
+| P/B compresses to 3x | Historical median-ish | -4.7% | 0.3% | 4.3% |
+| P/B compresses to 1x Book | Valued at book | -23.5% | -14.2% | -6.6% |
 
 **Key Insight:**
 
-> "At the current entry P/B of 7.3x with a sustainable ROE of ~18% and 78% retention, book value compounds at ~14% annually. If the P/B multiple remains at 7.3x, the return equals ~14% plus growth, totalling ~17-21% CAGR. The stock can tolerate P/B compression from 7.3x down to approximately 4.0x before the 10-year return drops below the 10% hurdle rate. This is approximately a 45% compression in the multiple."
+> "At the current entry P/B of 7.3x with a sustainable ROE of ~18% and 78% retention, book value compounds at ~14% annually. If the P/B multiple remains at 7.3x, the return equals the BV compounding rate of ~14% CAGR. The stock can tolerate P/B compression from 7.3x down to approximately 5.1x before the 10-year return drops below the 10% hurdle rate. This is approximately a 30% compression in the multiple."
 
 **Traffic Light Verdict:**
 
-At 7.3x P/B, the 10-year return exceeds 10% even if P/B compresses to ~4x — which is roughly where a high-quality 18% ROE business "should" trade. This is 🟡 **YELLOW** — returns depend on the multiple not collapsing to below 4x, which would require a fundamental deterioration in the business (not just sentiment).
+At 7.3x P/B, the 10-year return exceeds 10% only if P/B stays above ~5.1x — meaning only a ~30% compression is tolerable. If P/B compresses to 4x (the theoretical fair value for an 18% ROE business), the 10-year return is only ~7.3%. This is 🟡 **YELLOW** — returns are heavily dependent on the multiple sustaining at elevated levels. The high entry P/B means you are betting that the market continues to assign a premium for growth, rather than relying purely on book value compounding.
 
 ---
 
@@ -742,7 +740,7 @@ Patience here means waiting for the market to offer you this wonderful business 
 | **Financial Health** | 7 | Deleveraging rapidly; targeting debt-free by FY27. Improving inventory and working capital management. Not yet a fortress but getting there. |
 | **Management Quality** | 7 | Founder-led, good capital allocation, FOCO pivot was smart. Promoter pledge is the one blemish. |
 | **Scalability** | 7.5 | FOCO model enables asset-light scaling. 10-20x TAM runway. At inflection point. |
-| **Valuation** | 5.5 | At ₹380, fairly valued. Not cheap. PE of ~35x TTM, P/B of ~7.3x. Requires sustained high growth to justify. |
+| **Valuation** | 5.5 | At ₹380, fairly valued. Not cheap. PE of ~35x TTM (including Q3 FY26), P/B of ~7.3x. Requires sustained high growth to justify. |
 | **Margin of Safety** | 5 | Limited at current price. Conservative intrinsic value ≈ current price. No cushion for errors. |
 | **Buffett Verdict** | — | **A wonderful business at a fair price.** Kalyan is a high-quality consumer franchise in the early stages of a multi-decade scaling opportunity, benefiting from the irreversible shift from unorganised to organised jewellery retail. The FOCO model is a genuine innovation that transforms unit economics. At ₹380, you're paying fair value for these excellent fundamentals — not cheap enough for a "table-pounding buy" but reasonable for long-term compounding. Buffett would admire the business but likely wait for a better price. If forced to act at ₹380, he'd take a **small starter position** and add aggressively below ₹300. For existing holders: **HOLD.** The business is getting better, not worse. |
 | **Buy Zone** | — | Currently in **Fair Value / Hold** zone (₹310-₹420). Deep Value zone below ₹180; Value zone ₹180-₹310. |
@@ -760,14 +758,14 @@ Patience here means waiting for the market to offer you this wonderful business 
 
 **At ₹380:**
 - EPS growing at ~30%+ per year
-- Current TTM EPS: ~₹9
-- In 5 years (FY30), if EPS grows at even 20% (below historical): EPS ≈ ₹22
-- At 30x PE (reasonable for a high-quality retailer): Stock price = ₹660
-- Return from ₹380: ~74% in 5 years, or ~12% CAGR
-- At 25x PE: Stock price = ₹550, return ~45%, or ~8% CAGR
-- At 35x PE: Stock price = ₹770, return ~103%, or ~15% CAGR
+- Current TTM EPS: ~₹10.93 (including Q3 FY26)
+- In 5 years (FY30), if EPS grows at even 20% (below historical): EPS ≈ ₹27.2
+- At 30x PE (reasonable for a high-quality retailer): Stock price = ₹816
+- Return from ₹380: ~115% in 5 years, or ~16.5% CAGR
+- At 25x PE: Stock price = ₹680, return ~79%, or ~12.3% CAGR
+- At 20x PE (significant de-rating): Stock price = ₹544, return ~43%, or ~7.4% CAGR
 
-**The napkin math says: 8-15% CAGR depending on terminal multiple.** This is a decent but not extraordinary return at the current price. The extraordinary returns are available only if you buy during corrections (below ₹300).
+**The napkin math says: 7-17% CAGR depending on terminal multiple.** Even in a significant de-rating scenario (20x PE), a 20% EPS growth delivers a decent ~7% return. At a reasonable 25-30x exit, you earn 12-17% CAGR — attractive. The extraordinary returns are available if you buy during corrections (below ₹300).
 
 > *Buffett: "If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."*
 

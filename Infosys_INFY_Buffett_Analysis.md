@@ -90,7 +90,7 @@ The decelerating growth and flat margins tell us that while Infosys remains prof
 | Investments | 12,163 | 11,261 | 8,792 | 14,205 | 20,324 | 19,478 | 24,623 | 23,541 | 23,485 |
 | Cash & Equivalents (est.) | ~28,000 | ~25,000 | ~22,000 | ~30,000 | ~28,000 | ~24,000 | ~30,000 | ~34,000 | ~37,000 |
 | **Net Cash / (Debt)** | ~28,000 | ~25,000 | ~17,367 | ~24,675 | ~22,526 | ~15,701 | ~21,641 | ~25,773 | ~28,245 |
-| Book Value Per Share ₹ | ~149 | ~150 | ~154 | ~180 | ~180 | ~183 | ~213 | ~232 | ~250 |
+| Book Value Per Share ₹ | ~149 | ~149 | ~153 | ~179 | ~179 | ~182 | ~212 | ~230 | ~250 |
 | Debt/Equity | **0.00** | **0.00** | 0.07 | 0.07 | 0.07 | 0.11 | 0.09 | 0.09 | 0.08 |
 | Current Ratio | ~2.4 | ~2.0 | ~1.8 | ~2.2 | ~1.8 | ~1.6 | ~1.8 | ~1.9 | ~2.0 |
 
@@ -316,10 +316,12 @@ Capital scalability is EXCELLENT. Infosys generates more revenue per rupee of Ca
 **Buffett's $1 Test:**
 
 Over FY2018-FY2025 (7 years):
-- Total Retained Earnings (cumulative): ~₹42,000 crore (Net Income ~₹1,46,000 crore minus Dividends+Buybacks ~₹1,04,000 crore)
+- Cumulative Net Income: ~₹1,67,000 crore
+- Cumulative Distributions (Dividends + Buybacks): ~₹1,36,000 crore
+- Total Retained Earnings: ~₹31,000 crore (consistent with equity increase of ₹30,895 crore)
 - Change in Market Cap: From ~₹5.6L crore (at ₹1,300 in FY2018) to ~₹5.1L crore today = **NEGATIVE ₹50,000 crore**
 
-**RESULT: FAILS the $1 test.** The market has destroyed value on retained earnings over this period. However, this is primarily a function of PE multiple compression (from ~22-25x to ~18x) driven by AI fear, not operational deterioration. If we judge by book value growth (₹149 to ₹232 = 55% increase), the retained capital has been deployed well.
+**RESULT: FAILS the $1 test.** For every ₹1 retained, the market has DESTROYED value — market cap has declined despite ₹31,000 crore in retained earnings. However, this is primarily a function of PE multiple compression (from ~22-25x to ~18x) driven by AI fear, not operational deterioration. If we judge by book value growth (₹149 to ₹230 = 55% increase), the retained capital has been deployed well. And importantly, the company returned 81% of total earnings (₹1,36,000 crore of ₹1,67,000 crore) directly to shareholders — this is capital discipline, not capital destruction.
 
 **Capital Allocation Track Record:**
 - Five buybacks since 2017, most executed at reasonable prices. The 2025 buyback at ₹1,800/share looks prescient given the subsequent decline to ₹1,250.
@@ -368,17 +370,17 @@ The AI metrics are the most important forward-looking indicators: 5.5% of revenu
 | PE Ratio | ~20x | ~18x | ~28x | ~30x | ~24x | ~25x | ~24x | **~18.5x** |
 | Forward PE (est.) | — | — | — | — | — | — | — | ~17x |
 | PS Ratio | ~3.8 | ~3.5 | ~6.2 | ~6.5 | ~4.8 | ~5.2 | ~4.8 | ~2.9 |
-| PB Ratio | ~5.0 | ~4.6 | ~7.0 | ~8.8 | ~7.6 | ~7.5 | ~6.6 | **~5.4** |
-| P/FCF Ratio | ~35x | ~28x | ~31x | ~38x | ~37x | ~37x | ~24x | **~18x** |
-| P/Owner Earnings | — | — | — | — | — | — | — | **~17.5x** |
-| EV/EBITDA | ~14x | ~12x | ~19x | ~22x | ~17x | ~18x | ~16x | **~11.5x** |
+| PB Ratio | ~5.0 | ~4.6 | ~7.0 | ~8.8 | ~7.6 | ~7.5 | ~6.6 | **~5.5** |
+| P/FCF Ratio | ~35x | ~28x | ~31x | ~38x | ~37x | ~37x | ~24x | **~15x** |
+| P/Owner Earnings | — | — | — | — | — | — | — | **~18x** |
+| EV/EBITDA | ~14x | ~12x | ~19x | ~22x | ~17x | ~18x | ~16x | **~10.6x** |
 | Earnings Yield | 5.0% | 5.6% | 3.6% | 3.3% | 4.2% | 4.0% | 4.2% | **5.4%** |
-| FCF Yield | 2.9% | 3.6% | 3.2% | 2.6% | 2.7% | 2.7% | 4.2% | **5.6%** |
+| FCF Yield | 2.9% | 3.6% | 3.2% | 2.6% | 2.7% | 2.7% | 4.2% | **~6.5%** |
 | Dividend Yield | ~2.0% | ~2.5% | ~1.5% | ~1.3% | ~2.0% | ~2.0% | ~2.5% | **~3.4%** |
 
 **Historical Comparison:**
 
-Infosys is currently trading at or near its **cheapest valuation in 6+ years** on almost every metric. The PE of 18.5x is below its 5-year average of ~25x and 10-year average of ~22x. The P/FCF of ~18x and FCF yield of 5.6% are at the best levels in at least 5 years. The dividend yield of 3.4% is near its all-time high.
+Infosys is currently trading at or near its **cheapest valuation in 6+ years** on almost every metric. The PE of 18.5x is below its 5-year average of ~25x and 10-year average of ~22x. The P/FCF of ~15x (on FY25's record FCF) and FCF yield of 6.5% are at the best levels in at least 5 years. The dividend yield of 3.4% is near its all-time high.
 
 The question is: **Is it cheap for a reason (value trap) or is the market overreacting (opportunity)?**
 
@@ -388,7 +390,7 @@ The stock has declined 27% from its 52-week high of ₹1,728, driven almost enti
 
 > *"Price is what you pay, value is what you get."* — Buffett
 
-At current prices, you're getting ₹68 of TTM earnings power, ₹70 of owner earnings, a 5.6% FCF yield, and a 3.4% dividend yield from a business with 28% ROE, zero debt, and a ₹34,000 crore cash hoard. The AI risk is real but priced aggressively into the stock.
+At current prices, you're getting ₹68 of TTM earnings power, ₹70 of owner earnings, a 6.5% FCF yield, and a 3.4% dividend yield from a business with 28% ROE, zero debt, and a ₹34,000 crore cash hoard. The AI risk is real but priced aggressively into the stock.
 
 ---
 
@@ -405,10 +407,10 @@ At current prices, you're getting ₹68 of TTM earnings power, ₹70 of owner ea
 | Growth Rate (Years 6-10) | 4% (mature, slower growth) |
 | Terminal Growth Rate | 3% |
 | Discount Rate | 10% (Buffett's hurdle rate) |
-| PV of Year 1-10 Cash Flows | ₹562 |
-| Terminal Value (PV) | ₹762 |
-| **Intrinsic Value Per Share** | **₹1,324** |
-| **Margin of Safety at ₹1,256** | **5%** |
+| PV of Year 1-10 Cash Flows | ₹560 |
+| Terminal Value (PV) | ₹647 |
+| **Intrinsic Value Per Share** | **₹1,207** |
+| **Margin of Safety at ₹1,256** | **-4% (slightly overvalued)** |
 
 ### Base Scenario
 
@@ -419,10 +421,10 @@ At current prices, you're getting ₹68 of TTM earnings power, ₹70 of owner ea
 | Growth Rate (Years 6-10) | 7% |
 | Terminal Growth Rate | 4% |
 | Discount Rate | 10% |
-| PV of Year 1-10 Cash Flows | ₹650 |
-| Terminal Value (PV) | ₹1,148 |
-| **Intrinsic Value Per Share** | **₹1,798** |
-| **Margin of Safety at ₹1,256** | **30%** |
+| PV of Year 1-10 Cash Flows | ₹672 |
+| Terminal Value (PV) | ₹1,057 |
+| **Intrinsic Value Per Share** | **₹1,729** |
+| **Margin of Safety at ₹1,256** | **27%** |
 
 ### Optimistic Scenario
 
@@ -433,20 +435,20 @@ At current prices, you're getting ₹68 of TTM earnings power, ₹70 of owner ea
 | Growth Rate (Years 6-10) | 10% |
 | Terminal Growth Rate | 4.5% |
 | Discount Rate | 10% |
-| PV of Year 1-10 Cash Flows | ₹778 |
-| Terminal Value (PV) | ₹1,764 |
-| **Intrinsic Value Per Share** | **₹2,542** |
-| **Margin of Safety at ₹1,256** | **51%** |
+| PV of Year 1-10 Cash Flows | ₹809 |
+| Terminal Value (PV) | ₹1,590 |
+| **Intrinsic Value Per Share** | **₹2,399** |
+| **Margin of Safety at ₹1,256** | **48%** |
 
 ### Summary Table
 
 | Scenario | Intrinsic Value | Margin of Safety | Upside/Downside |
 |---|---|---|---|
-| Conservative | ₹1,324 | 5% | +5% |
-| **Base** | **₹1,798** | **30%** | **+43%** |
-| Optimistic | ₹2,542 | 51% | +102% |
+| Conservative | ₹1,207 | -4% | -4% (slightly overvalued) |
+| **Base** | **₹1,729** | **27%** | **+38%** |
+| Optimistic | ₹2,399 | 48% | +91% |
 
-Even in the conservative scenario (assuming AI headwinds materially slow growth), the stock is trading roughly at intrinsic value. In the base and optimistic cases, there is meaningful upside.
+In the conservative scenario (assuming AI headwinds materially slow growth to 4-6%), the stock is trading slightly above intrinsic value — meaning the conservative case offers no margin of safety. However, in the base case, there is 27% margin of safety and 38% upside. In the optimistic case, near-doubling. This tells us: **the stock is NOT cheap if AI disruption plays out severely, but it IS cheap if Infosys even partially navigates the transition.**
 
 ---
 
@@ -467,33 +469,33 @@ Even in the conservative scenario (assuming AI headwinds materially slow growth)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 12.5% | 17.7% | 23.1% |
-| 10 Years | 8.3% | 13.2% | 18.2% |
-| 15 Years | 7.0% | 11.7% | 16.5% |
+| 5 Years | 14.0% | 19.2% | 24.4% |
+| 10 Years | 12.0% | 17.1% | 22.2% |
+| 15 Years | 11.3% | 16.4% | 21.4% |
 
 **At Terminal PE = 20x (Market Average)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 7.1% | 12.2% | 17.4% |
-| 10 Years | 6.3% | 11.2% | 16.1% |
-| 15 Years | 5.8% | 10.5% | 15.4% |
+| 5 Years | 7.6% | 12.5% | 17.4% |
+| 10 Years | 8.8% | 13.8% | 18.7% |
+| 15 Years | 9.2% | 14.2% | 19.1% |
 
 **At Terminal PE = 25x (Compounder)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 2.6% | 7.5% | 12.6% |
-| 10 Years | 4.6% | 9.4% | 14.3% |
-| 15 Years | 4.8% | 9.5% | 14.3% |
+| 5 Years | 2.9% | 7.6% | 12.3% |
+| 10 Years | 6.4% | 11.2% | 16.1% |
+| 15 Years | 7.6% | 12.5% | 17.4% |
 
 **At Terminal PE = 22x (Historical Median)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 5.0% | 10.0% | 15.2% |
-| 10 Years | 5.5% | 10.3% | 15.2% |
-| 15 Years | 5.3% | 10.1% | 14.9% |
+| 5 Years | 5.6% | 10.4% | 15.2% |
+| 10 Years | 7.8% | 12.7% | 17.6% |
+| 15 Years | 8.5% | 13.4% | 18.4% |
 
 ### Step 4: Reality Check
 
@@ -507,15 +509,15 @@ Even in the conservative scenario (assuming AI headwinds materially slow growth)
 **Traffic Light Assessment:**
 
 At the current price of ₹1,256 and terminal PE of 20x (market average):
-- To earn a **10% return over 10 years**, you need **6.3% EPS CAGR** — well below the 10-11% historical rate. 🟢 **GREEN — Reasonable.**
-- To earn a **15% return over 10 years**, you need **11.2% EPS CAGR** — roughly equal to historical rate. 🟡 **YELLOW — Fair, needs continuation of historical performance.**
-- To earn a **20% return over 10 years**, you need **16.1% EPS CAGR** — above historical rate. 🟠 **ORANGE — Requires acceleration.**
+- To earn a **10% return over 10 years**, you need **8.8% EPS CAGR** — below the 10-11% historical rate. 🟢 **GREEN — Reasonable.**
+- To earn a **15% return over 10 years**, you need **13.8% EPS CAGR** — above historical rate but achievable if AI transition works. 🟡 **YELLOW — Fair, needs some acceleration.**
+- To earn a **20% return over 10 years**, you need **18.7% EPS CAGR** — well above historical rate. 🟠 **ORANGE — Requires significant acceleration.**
 
 ### Step 5: Verdict
 
-> "At the current price of ₹1,256, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, Infosys needs to grow EPS at 6.3% CAGR. The company has historically grown EPS at 10-11% CAGR. This implies **the market is pricing in significant growth deceleration** — essentially assuming AI headwinds will cut EPS growth nearly in half. If Infosys merely matches its historical performance, the returns from here are 14-15% annually — well above the hurdle rate."
+> "At the current price of ₹1,256, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, Infosys needs to grow EPS at 8.8% CAGR. The company has historically grown EPS at 10-11% CAGR. This implies **the market is pricing in moderate growth deceleration** — essentially assuming some AI headwinds but not a collapse. If Infosys merely matches its historical performance, the returns from here are 12-13% annually — above the hurdle rate."
 
-This is the key insight: **the market has ALREADY priced in substantial AI disruption.** You don't need Infosys to be a growth star from here — you just need it to NOT collapse, and the returns are attractive.
+This is the key insight: **the market has ALREADY priced in meaningful AI disruption.** You don't need Infosys to be a growth star from here — you just need it to roughly maintain its historical trajectory, and the returns are attractive.
 
 ### Step 6: Asymmetric Upside Check — Fat Pitch Analysis
 
@@ -523,9 +525,9 @@ This is the key insight: **the market has ALREADY priced in substantial AI disru
 
 | Downside Scenario | Valuation Basis | Implied Price | Downside from CMP |
 |---|---|---|---|
-| Asset/Liquidation Floor | Tangible Book Value (~₹232/share) + Net Cash (~₹62/share) | ~₹294 | -77% (extreme) |
+| Asset/Liquidation Floor | Tangible Book Value (~₹230/share) + Net Cash (~₹62/share) | ~₹292 | -77% (extreme) |
 | Trough Earnings | Worst EPS (~₹35 in severe recession) × 12x PE | ₹420 | -67% (extreme) |
-| Normalised Bear Case | Conservative DCF (₹1,324) with 20% additional haircut | ₹1,060 | -16% |
+| Normalised Bear Case | Conservative DCF (₹1,207) with 15% additional haircut | ₹1,026 | -18% |
 | Market Panic Floor | Historical lowest PE (~15x) × Normalised EPS (₹70) | ₹1,050 | -16% |
 
 **Most Probable Downside Floor: ₹1,050-1,100** (15-16% below current). The stock would need to trade at its absolute historical low PE on normalised earnings. This is possible in a severe market panic but unlikely to sustain given the cash generation and capital return.
@@ -534,16 +536,16 @@ This is the key insight: **the market has ALREADY priced in substantial AI disru
 
 | Upside Scenario | Valuation Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
-| Base DCF | ₹1,798 | ₹1,798 | +43% |
-| Bull DCF | ₹2,542 | ₹2,542 | +102% |
+| Base DCF | ₹1,729 | ₹1,729 | +38% |
+| Bull DCF | ₹2,399 | ₹2,399 | +91% |
 | Re-rating to historical PE (22x) on FY27 EPS (₹75) | 22 × 75 | ₹1,650 | +31% |
 | Re-rating to 25x PE on FY27 EPS if AI narrative flips | 25 × 75 | ₹1,875 | +49% |
 
 **Part 3: Asymmetry Ratio**
 
-Using Base Case Upside (+43% to ₹1,798) and Most Probable Downside (-16% to ₹1,050):
+Using Base Case Upside (+38% to ₹1,729) and Most Probable Downside (-18% to ₹1,026):
 
-**Asymmetry Ratio = 43% / 16% = 2.7:1**
+**Asymmetry Ratio = 38% / 18% = 2.1:1**
 
 This is a **Decent Pitch — positive expected value, not a table-pounding fat pitch, but attractive enough to justify a position.**
 
@@ -563,7 +565,7 @@ This is a **Decent Pitch — positive expected value, not a table-pounding fat p
 
 **Part 5: Fat Pitch Verdict**
 
-> "At ₹1,256, the realistic downside is approximately 16% to ₹1,050 (tails scenario). The realistic base-case upside is approximately 43% to ₹1,798 over 3-5 years (heads scenario). This gives an asymmetry ratio of 2.7:1. The market is mispricing because it is extrapolating AI fears into a permanent verdict on a business that has historically navigated technology transitions successfully, generates record cash flows, and is actively pivoting its model. This is a DECENT pitch — not a once-in-a-decade fat pitch, but an attractive risk/reward that favours the long-term investor."
+> "At ₹1,256, the realistic downside is approximately 18% to ₹1,026 (tails scenario). The realistic base-case upside is approximately 38% to ₹1,729 over 3-5 years (heads scenario). This gives an asymmetry ratio of 2.1:1. The market is mispricing because it is extrapolating AI fears into a permanent verdict on a business that has historically navigated technology transitions successfully, generates record cash flows, and is actively pivoting its model. This is a DECENT pitch — not a once-in-a-decade fat pitch, but an attractive risk/reward that favours the long-term investor."
 
 **Mispricing Source:** **Excessive pessimism / anchoring to AI fear narrative.**
 
@@ -605,9 +607,9 @@ Infosys has the opposite: competence with near-zero leverage. The ROE is entirel
 
 | Input | Value |
 |---|---|
-| Current BVPS | ₹232 |
+| Current BVPS | ₹230 |
 | Current Market Price | ₹1,256 |
-| Current P/B | 5.4x |
+| Current P/B | 5.5x |
 | Sustainable ROE (normalised) | 28% |
 | Retention Ratio | 35% (65% payout) |
 | BV Compounding Rate | 28% × 35% = 9.8% |
@@ -616,30 +618,30 @@ Infosys has the opposite: competence with near-zero leverage. The ROE is entirel
 
 | Year | Projected BVPS |
 |---|---|
-| Current | ₹232 |
-| Year 5 | ₹371 |
-| Year 7 | ₹448 |
-| Year 10 | ₹590 |
+| Current | ₹230 |
+| Year 5 | ₹367 |
+| Year 7 | ₹443 |
+| Year 10 | ₹586 |
 
-**Expected Annual Return (CAGR) at Current Price of ₹1,256 (Entry P/B: 5.4x)**
+**Expected Annual Return (CAGR) at Current Price of ₹1,256 (Entry P/B: 5.5x)**
 
 | Exit P/B Scenario | Rationale | 5-Yr CAGR | 7-Yr CAGR | 10-Yr CAGR |
 |---|---|---|---|---|
-| P/B stays at 5.4x | Multiple sustains | 9.8% | 9.8% | 9.8% |
-| P/B compresses to 4.0x | Mild de-rating | 3.6% | 5.5% | 6.7% |
-| P/B compresses to 3.5x | Significant de-rating | 0.8% | 3.7% | 5.4% |
-| P/B at historical median (~6.5x) | Re-rates to average | 13.5% | 12.3% | 11.5% |
-| P/B compresses to 2.5x | Severe bear case | **-3.9%** | 0.7% | 3.1% |
+| P/B stays at 5.5x | Multiple sustains | 10.0% | 9.9% | 9.9% |
+| P/B compresses to 4.0x | Mild de-rating | 3.2% | 5.0% | 6.4% |
+| P/B compresses to 3.5x | Significant de-rating | 0.5% | 3.0% | 5.0% |
+| P/B at historical median (~6.5x) | Re-rates to average | 13.7% | 12.6% | 11.7% |
+| P/B compresses to 2.5x | Severe bear case | **-6.1%** | -1.8% | 1.5% |
 
 **Key Insight:**
 
-> "At the current entry P/B of 5.4x with a sustainable ROE of 28% and 35% retention, book value compounds at 9.8% annually. If the P/B multiple remains at 5.4x, the return equals the BV compounding rate of 9.8%. The stock can tolerate P/B compression from 5.4x down to approximately 4.0x before the 10-year return drops below the 10% hurdle rate."
+> "At the current entry P/B of 5.5x with a sustainable ROE of 28% and 35% retention, book value compounds at 9.8% annually. If the P/B multiple remains at 5.5x, the return equals the BV compounding rate of ~10%. The stock can tolerate P/B compression from 5.5x down to approximately 4.0x before the 10-year return drops below the 10% hurdle rate."
 
-**Note on High P/B:** A 5.4x P/B looks expensive, but this is appropriate for a business earning 28% ROE — the "fair" P/B for such a business is 3.5-5.0x. At 5.4x, there is modest overvaluation on a P/B basis, meaning returns will lag the underlying ROE somewhat.
+**Note on High P/B:** A 5.5x P/B looks expensive, but this is appropriate for a business earning 28% ROE — the "fair" P/B for such a business is 3.5-5.0x. At 5.5x, there is modest overvaluation on a P/B basis, meaning returns will lag the underlying ROE somewhat.
 
 **Traffic Light Verdict:**
 
-🟡 **YELLOW — 10-year return > hurdle rate only if P/B stays within 25% of current.** The entry P/B of 5.4x is at the upper end of the fair range. Returns from here depend on multiple sustaining, which in turn depends on maintaining 25%+ ROE through the AI transition.
+🟡 **YELLOW — 10-year return > hurdle rate only if P/B stays within 25% of current.** The entry P/B of 5.5x is at the upper end of the fair range. Returns from here depend on multiple sustaining, which in turn depends on maintaining 25%+ ROE through the AI transition.
 
 ---
 
@@ -682,7 +684,7 @@ Based on the DCF analysis and P/B framework:
 | Management trustworthy and rational? | Yes — ethical, shareholder-friendly, 85% FCF return policy | ✅ PASS |
 | Resistant to technological disruption? | **NO — this is THE challenge.** AI is the most significant disruption in the company's history | ❌ FAIL |
 | Can sustain economics for 10+ years? | Likely YES at reduced margins; uncertain at current margins | ⚠️ CONDITIONAL |
-| Price significantly below intrinsic value? | 30% margin of safety in base case | ✅ PASS |
+| Price significantly below intrinsic value? | 27% margin of safety in base case | ✅ PASS |
 | **Financial fortress?** | Zero debt, ₹34K crore cash, record FCF | ✅ PASS |
 
 **Score: 4 Pass, 2 Conditional, 1 Fail.**
@@ -693,7 +695,7 @@ Buffett PROBABLY would NOT buy Infosys as a "forever hold" position at current p
 
 HOWEVER — working with a **small capital base** (as Buffett was in the 1960s partnership days), he would likely take a position. Here's why:
 
-1. **The price compensates for the risk.** At 18x normalised earnings with a 5.6% FCF yield and 3.4% dividend yield, you're not paying for growth — you're paying for the existing cash machine. Any growth is bonus.
+1. **The price compensates for the risk.** At 18x normalised earnings with a 6.5% FCF yield and 3.4% dividend yield, you're not paying for growth — you're paying for the existing cash machine. Any growth is bonus.
 
 2. **The balance sheet provides a floor.** With ₹34K crore in cash and zero debt, the downside is capped. The company can fund its AI transition entirely from internal resources.
 
@@ -753,12 +755,12 @@ Others are clearly fearful about Indian IT. The February 2026 crash was fear-dri
 | **Financial Health** | 10 | Zero debt, ₹34K crore cash, record FCF, A++ balance sheet |
 | **Management Quality** | 8 | Ethical, shareholder-friendly, AI-aware, experienced |
 | **Valuation** | 8 | Near 5-year lows on PE, P/FCF; 3.4% dividend yield |
-| **Margin of Safety** | 6 | 30% in base case; AI risk limits confidence |
+| **Margin of Safety** | 6 | 27% in base case; AI risk limits confidence |
 | **Scalability** | 6 | Moderate scaler; AI transition is the wildcard |
 | **Overall Score** | **7.3/10** | |
 | **Buffett Verdict** | | A high-quality business at a discount driven by AI fear. NOT a forever-hold due to technological disruption risk. BUY as a position (3-5% of portfolio) — the price more than compensates for the risks in the medium term. The fortress balance sheet and massive cash generation provide downside protection. Monitor the AI transition quarterly — if AI revenue crosses 10%+ and traditional revenue holds, this becomes a strong accumulate. If AI displaces revenue faster than expected with no replacement, exit. |
 | **Buy Zone** | | Currently in VALUE/BUY zone (₹1,050-1,300). Aggressive accumulate below ₹1,050. |
-| **Overall Recommendation** | | **BUY at ₹1,256** — 30% margin of safety in base case; 2.7:1 asymmetry ratio; AI fears appear overdone in the near term. Target: ₹1,650-1,800 (18-24 months). Stop-loss thesis: AI revenue displacement > 15% with no growth in new services. |
+| **Overall Recommendation** | | **BUY at ₹1,256** — 27% margin of safety in base case; 2.1:1 asymmetry ratio; AI fears appear overdone in the near term. Target: ₹1,650-1,730 (18-24 months). Stop-loss thesis: AI revenue displacement > 15% with no growth in new services. |
 
 ---
 
@@ -771,7 +773,7 @@ Others are clearly fearful about Indian IT. The February 2026 crash was fear-dri
 **Does the math make sense without Excel?**
 
 - You're paying ₹1,256 for a company that earns ₹70/share and gives you ₹43/share in dividends.
-- That's 5.6% of your money back in cash flow every year, 3.4% in dividends alone.
+- That's 6.5% of your money back in free cash flow every year, 3.4% in dividends alone.
 - The company has essentially zero debt and ₹34,000 crore of cash in the bank.
 - If earnings just grow at 7-8% (half the historical rate) and the PE stays at 18x, the stock goes to ₹1,500+ in 3 years.
 - If the AI transition succeeds and the PE re-rates to 22-25x, the stock goes to ₹1,800-2,000+.
@@ -792,4 +794,3 @@ The AI disruption fear is the windshield. The record cash flows, 28% ROE, and fo
 ---
 
 *Disclaimer: This analysis is for educational purposes only and does not constitute investment advice. The author is not a registered financial advisor. Please consult a qualified financial professional before making investment decisions.*
-
