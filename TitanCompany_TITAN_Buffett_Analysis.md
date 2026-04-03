@@ -325,7 +325,7 @@ Titan is past the "early/pre-inflection" stage — the model is proven, the bran
 
 ### Buffett's $1 Test
 
-Over the last 11 years (FY15 to FY25):
+Over the last 10 years (FY15 to FY25):
 - Total earnings generated: ~₹19,500 Cr (cumulative net profit)
 - Total dividends paid: ~₹5,600 Cr
 - **Total retained earnings: ~₹13,800 Cr**
@@ -629,7 +629,7 @@ ROCE (19%) being BELOW ROE (32%) confirms this: leverage is doing significant wo
 |---|---|
 | 10-year return > 15% even if P/B halves (to 16x) | ❌ No — returns drop to ~12% |
 | 10-year return > 10% even if P/B drops to 12x | ❌ No — returns are ~9% |
-| 10-year return > 15% only if P/B stays above 22x | ⚠️ Yellow — dependent on premium sustaining |
+| 10-year return > 15% only if P/B stays above 20x | ⚠️ Yellow — dependent on premium sustaining |
 
 **Verdict: 🟡 YELLOW — Risky entry if you demand 15%+ returns. Even 10-12% returns require the P/B to stay above ~14x, which is still a significant premium.**
 
