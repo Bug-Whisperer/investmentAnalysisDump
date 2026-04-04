@@ -117,7 +117,7 @@ If actual provisions fall short of normalised levels (under-provisioning), the a
 
 *\*Provision Shortfall = (Normalised Credit Cost 0.55% − Actual Credit Cost) × Avg Advances. FY24 actual credit cost was ~0.50% vs 0.55% normalised, producing a ~₹103 Cr shortfall. All other years: actual ≈ normalised, so adjustment ≈ zero.*
 
-**Key insight:** Federal Bank's reported earnings are **approximately at normalised levels** — NOT inflated. Actual credit costs (~0.50-0.55%) are close to the 5-year normalised average (~0.55%). Normalised earnings are actually ~3-5% ABOVE reported net income because D&A is added back and there is no meaningful under-provisioning to penalise. This confirms the bank is provisioning conservatively. *"Accounting reality and economic reality are often different things."* — Buffett. In this case, they are unusually close — a positive sign.
+**Key insight:** Federal Bank's reported earnings are **approximately at normalised levels** in most years. In FY22, FY23, and FY25 — where actual credit cost matched the normalised 0.55% — normalised earnings run 3.5-4.7% above reported net income (the gap is simply D&A added back minus SBC). FY24 is the exception: actual credit cost dipped to ~0.50%, producing a ~₹103 Cr provision shortfall that narrows the normalised-vs-reported gap to just ~1.3%. This mild under-provisioning in FY24 is worth noting but not alarming — the bank corrected course in FY25 and the overall provisioning posture remains conservative (PCR rising from ~70% to ~75%). *"Accounting reality and economic reality are often different things."* — Buffett. For Federal Bank, the two are unusually close in three of four years — a positive sign.
 
 ---
 
