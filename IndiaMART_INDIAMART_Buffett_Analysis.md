@@ -434,12 +434,12 @@ However, **book value per share has grown from ₹48 (FY20) to ₹364 (FY25) —
 
 | Component | Value (₹ Cr) |
 |---|---|
-| PV of Years 1-5 Cash Flows | ~2,300 |
+| PV of Years 1-5 Cash Flows | ~3,000 |
 | PV of Years 6-10 Cash Flows | ~3,000 |
 | PV of Terminal Value | ~8,670 |
 | Plus: Net Cash | 3,420 |
-| **Equity Value** | **~17,390** |
-| **Intrinsic Value / Share** | **~₹2,890** |
+| **Equity Value** | **~18,090** |
+| **Intrinsic Value / Share** | **~₹3,010** |
 
 **Optimistic Scenario (18% → 12% growth, 5% terminal):**
 
@@ -455,7 +455,7 @@ However, **book value per share has grown from ₹48 (FY20) to ₹364 (FY25) —
 | Scenario | Intrinsic Value / Share | CMP (₹1,994) | Margin of Safety | Upside |
 |---|---|---|---|---|
 | **Conservative** | **₹2,440** | ₹1,994 | **18%** | **+22%** |
-| **Base** | **₹2,890** | ₹1,994 | **31%** | **+45%** |
+| **Base** | **₹3,010** | ₹1,994 | **34%** | **+51%** |
 | **Optimistic** | **₹3,500** | ₹1,994 | **43%** | **+76%** |
 
 > *Buffett: "We insist on a margin of safety in our purchase price. If we calculate the value of a common stock to be only slightly higher than its price, we're not interested."* At ₹1,994, there is an 18-43% margin of safety across scenarios. The conservative case offers a modest cushion, while the base and optimistic cases offer meaningful upside.
@@ -508,13 +508,13 @@ However, **book value per share has grown from ₹48 (FY20) to ₹364 (FY25) —
 ### Traffic Light Assessment
 
 To earn a **15% annual return over 10 years**, the company needs to grow EPS at:
-- **14% CAGR if market assigns 25x PE** — this is below the company's historical 3Y CAGR of ~24% and comfortably within reach. 🟢 **GREEN — Comfortable**
+- **14% CAGR if market assigns 25x PE** — this is below the company's historical 3Y CAGR of ~21% and comfortably within reach. 🟢 **GREEN — Comfortable**
 - **17% CAGR if market assigns 20x PE** — slightly below the 3Y historical CAGR, roughly in line with what the business has delivered. 🟡 **YELLOW-GREEN — Reasonable but requires continued execution**
 - **20% CAGR if market assigns 15x PE** — this needs the company to match its historical pace, with no room for deceleration. 🟡 **YELLOW — Achievable but demanding**
 
 ### Step 5: Verdict
 
-> "At the current price of ₹1,994, to earn a 15% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 17% CAGR. The company has historically grown EPS at 24-29% CAGR. This implies **the market is pricing in reasonable growth — below what the company has delivered historically, but requiring sustained execution above nominal GDP growth.** This is a 🟡 YELLOW-GREEN signal — reasonable but not a screaming bargain."
+> "At the current price of ₹1,994, to earn a 15% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 17% CAGR. The company has historically grown EPS at 21-29% CAGR. This implies **the market is pricing in reasonable growth — below what the company has delivered historically, but requiring sustained execution above nominal GDP growth.** This is a 🟡 YELLOW-GREEN signal — reasonable but not a screaming bargain."
 
 The implied growth expectations are moderate. A deceleration from historical 29% to 17% EPS CAGR would still deliver 15% annual returns at 20x exit PE. At a 25x exit PE (justified for a compounder), only 14% EPS CAGR is needed — very comfortable.
 
@@ -537,17 +537,17 @@ The implied growth expectations are moderate. A deceleration from historical 29%
 
 | Upside Scenario | Valuation Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
-| Base Intrinsic Value (DCF) | ₹2,890 | ₹2,890 | +45% |
+| Base Intrinsic Value (DCF) | ₹3,010 | ₹3,010 | +51% |
 | Bull Case (Optimistic DCF) | ₹3,500 | ₹3,500 | +76% |
 | Scaling Multiplier (5-year, if 20% EPS CAGR) | EPS ₹212 × 25x PE | ₹5,300 | +166% |
 | Re-rating Catalyst (Return to 30x PE) | ₹85 EPS × 30x | ₹2,550 | +28% |
 
 **Part 3: Asymmetry Ratio**
 
-Realistic Upside (Base): +45% to ₹2,890
+Realistic Upside (Base): +51% to ₹3,010
 Realistic Downside (Probable Floor): -36% to ₹1,275
 
-**Asymmetry Ratio = 45% / 36% = ~1.25:1**
+**Asymmetry Ratio = 51% / 36% = ~1.4:1**
 
 Including a 5-year compounding perspective (EPS likely to grow 15-20%), the effective asymmetry improves to ~2.5:1 as earnings growth compounds over time while the downside floor also rises.
 
@@ -566,7 +566,7 @@ Including a 5-year compounding perspective (EPS likely to grow 15-20%), the effe
 
 **Part 5: Fat Pitch Verdict**
 
-> "At ₹1,994, the realistic downside is approximately 36% to ₹1,275 (extreme bear case). The realistic base-case upside is approximately 45% to ₹2,890 over 3-5 years. This gives an asymmetry ratio of ~1.25:1 currently, improving to ~2.5:1 on a 5-year view as earnings compound. The mispricing opportunity is PRESENT but MODEST — the market is anchoring to slowing subscriber growth and ignoring the pricing power, cash generation, and massive TAM runway. This is a decent pitch — not a screaming fat pitch like American Express in 1963, but a solid Coke-in-1988 type setup where you're buying quality at a fair price."
+> "At ₹1,994, the realistic downside is approximately 36% to ₹1,275 (extreme bear case). The realistic base-case upside is approximately 51% to ₹3,010 over 3-5 years. This gives an asymmetry ratio of ~1.4:1 currently, improving to ~2.5:1 on a 5-year view as earnings compound. The mispricing opportunity is PRESENT but MODEST — the market is anchoring to slowing subscriber growth and ignoring the pricing power, cash generation, and massive TAM runway. This is a decent pitch — not a screaming fat pitch like American Express in 1963, but a solid Coke-in-1988 type setup where you're buying quality at a fair price."
 
 **Mispricing Source:** Excessive pessimism / anchoring to recent subscriber growth stagnation. The market sees "221K paying subscribers, flat growth" and extrapolates stagnation. It ignores that ARPU is growing 6-8%, deferred revenue is growing 19%, collections are growing 17%, and the business model can compound earnings at 15%+ even without subscriber growth.
 
@@ -625,7 +625,7 @@ Including a 5-year compounding perspective (EPS likely to grow 15-20%), the effe
 
 **Key Insight:**
 
-> "At the current entry P/B of 5.6x with a sustainable ROE of 22% and 55% retention, book value compounds at ~12% annually. If the P/B multiple remains at 5.6x, the return equals the BV compounding rate of ~12%. If P/B compresses to 3.0x over 10 years, the annual return drops to ~5%. The stock can tolerate P/B compression from 5.6x down to approximately 4.0x before the 10-year return drops below the 10% hurdle rate."
+> "At the current entry P/B of 5.6x with a sustainable ROE of 22% and 55% retention, book value compounds at ~12% annually. If the P/B multiple remains at 5.6x, the return equals the BV compounding rate of ~12%. If P/B compresses to 3.0x over 10 years, the annual return drops to ~5%. The stock can tolerate P/B compression from 5.6x down to approximately 4.6x before the 10-year return drops below the 10% hurdle rate."
 
 **Traffic Light Verdict:**
 
@@ -676,7 +676,7 @@ The P/B analysis looks tighter than the PE analysis because the high P/B (5.6x) 
 | **Management Trustworthy & Rational** | Founder-CEO with 49% stake, conservative capital allocation, transparent | ✅ PASS |
 | **Resistant to Disruption** | Moderate AI risk long-term, but 5-10 year visibility strong | ✅ PASS (with caveat) |
 | **Sustain Economics 10+ Years** | B2B discovery need is enduring; India MSME digitalisation is a decade-long trend | ✅ PASS |
-| **Price Below Intrinsic Value** | CMP ₹1,994 vs. Base IV ₹2,890 — 31% margin of safety | ✅ PASS |
+| **Price Below Intrinsic Value** | CMP ₹1,994 vs. Base IV ₹3,010 — 34% margin of safety | ✅ PASS |
 
 **All 6 criteria pass.**
 
