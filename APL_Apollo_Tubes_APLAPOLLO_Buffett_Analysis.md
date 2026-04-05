@@ -555,7 +555,7 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 
 **Traffic Light Assessment:**
 
-If the PE compresses to 20x (realistic for a steel company over 10 years), the company needs to grow EPS at 20% CAGR for 10 years just to deliver a 10% return. The company HAS grown EPS at ~26% over 10 years historically — but it was much smaller then, growing from ₹2.72 to ₹27.28. Growing from ₹41 to ₹275 (20% for 10 years) with 50% market share already is a much harder ask.
+If the PE compresses to 20x (realistic for a steel company over 10 years), the company needs to grow EPS at 20% CAGR for 10 years just to deliver a 10% return. The company HAS grown EPS at ~26% over 10 years historically — but it was much smaller then, growing from ₹2.72 to ₹27.28. Growing from ₹41 to ₹255 (20% for 10 years) with 50% market share already is a much harder ask.
 
 If the PE stays at 45x (generous), you only need 10% EPS CAGR for 10 years for a 10% return — this is achievable and roughly in line with GDP growth + market share gains.
 
