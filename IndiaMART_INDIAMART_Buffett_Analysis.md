@@ -88,7 +88,7 @@ IndiaMART's model is simple enough for a 10-year-old to understand: "A website w
 
 1. **Virtually zero debt.** Borrowings of ₹33 Cr (FY25) vs. equity of ₹2,185 Cr. Debt/Equity of 0.02x. The borrowings are likely lease liabilities, not real debt.
 
-2. **Cash and investments of ₹3,453 Cr (FY25) / ₹3,051 Cr (Dec 2025).** This is more than 2.5x annual revenue. The company is essentially a tech platform sitting on a treasure chest.
+2. **Cash and investments of ₹3,453 Cr (FY25) / ₹3,051 Cr (Dec 2025).** This is approximately 2.5x annual revenue (FY25). The company is essentially a tech platform sitting on a treasure chest.
 
 3. **Massively negative working capital days (-305 days).** This means customers pay UPFRONT (annual subscriptions collected in advance), while expenses are incurred over time. The "Other Liabilities" of ₹1,912 Cr is predominantly **Deferred Revenue** — money already collected from customers that will be recognised as revenue over the subscription period. This is the hallmark of a subscription business — customers fund the business, not the other way around.
 
@@ -415,49 +415,50 @@ However, **book value per share has grown from ₹48 (FY20) to ₹364 (FY25) —
 
 **Conservative Scenario:**
 
-| Year | Owner Earnings (₹ Cr) | PV (₹ Cr) |
+| Year | Owner Earnings (₹ Cr) | PV @ 12% (₹ Cr) |
 |---|---|---|
 | Year 1 | 620 | 554 |
 | Year 2 | 695 | 554 |
 | Year 3 | 778 | 554 |
 | Year 4 | 872 | 554 |
 | Year 5 | 976 | 554 |
-| Year 6-10 (8% growth) | — | 2,360 |
-| Terminal Value | — | 7,250 |
-| **PV of All Cash Flows** | | **~12,800** |
+| **PV of Yrs 1-5** | | **2,770** |
+| **PV of Yrs 6-10 (8% growth)** | | **2,487** |
+| **PV of Terminal Value** | | **6,005** |
+| **Total PV of Cash Flows** | | **~11,260** |
 | Plus: Net Cash | | 3,420 |
-| **Equity Value** | | **~16,220** |
-| **Intrinsic Value / Share** | | **~₹2,700** |
+| **Equity Value** | | **~14,680** |
+| **Intrinsic Value / Share** | | **~₹2,440** |
 
-**Base Scenario:**
-
-| Component | Value (₹ Cr) |
-|---|---|
-| PV of Years 1-5 Cash Flows | ~3,150 |
-| PV of Years 6-10 Cash Flows | ~2,900 |
-| PV of Terminal Value | ~9,500 |
-| Plus: Net Cash | 3,420 |
-| **Equity Value** | **~18,970** |
-| **Intrinsic Value / Share** | **~₹3,160** |
-
-**Optimistic Scenario:**
+**Base Scenario (15% → 10% growth, 5% terminal):**
 
 | Component | Value (₹ Cr) |
 |---|---|
-| PV of All Cash Flows + Terminal | ~19,200 |
+| PV of Years 1-5 Cash Flows | ~2,300 |
+| PV of Years 6-10 Cash Flows | ~3,000 |
+| PV of Terminal Value | ~8,670 |
 | Plus: Net Cash | 3,420 |
-| **Equity Value** | **~22,620** |
-| **Intrinsic Value / Share** | **~₹3,770** |
+| **Equity Value** | **~17,390** |
+| **Intrinsic Value / Share** | **~₹2,890** |
+
+**Optimistic Scenario (18% → 12% growth, 5% terminal):**
+
+| Component | Value (₹ Cr) |
+|---|---|
+| PV of All Cash Flows + Terminal | ~17,630 |
+| Plus: Net Cash | 3,420 |
+| **Equity Value** | **~21,050** |
+| **Intrinsic Value / Share** | **~₹3,500** |
 
 ### Summary Table
 
 | Scenario | Intrinsic Value / Share | CMP (₹1,994) | Margin of Safety | Upside |
 |---|---|---|---|---|
-| **Conservative** | **₹2,700** | ₹1,994 | **26%** | **+35%** |
-| **Base** | **₹3,160** | ₹1,994 | **37%** | **+58%** |
-| **Optimistic** | **₹3,770** | ₹1,994 | **47%** | **+89%** |
+| **Conservative** | **₹2,440** | ₹1,994 | **18%** | **+22%** |
+| **Base** | **₹2,890** | ₹1,994 | **31%** | **+45%** |
+| **Optimistic** | **₹3,500** | ₹1,994 | **43%** | **+76%** |
 
-> *Buffett: "We insist on a margin of safety in our purchase price. If we calculate the value of a common stock to be only slightly higher than its price, we're not interested."* At ₹1,994, there is a 26-47% margin of safety across scenarios.
+> *Buffett: "We insist on a margin of safety in our purchase price. If we calculate the value of a common stock to be only slightly higher than its price, we're not interested."* At ₹1,994, there is an 18-43% margin of safety across scenarios. The conservative case offers a modest cushion, while the base and optimistic cases offer meaningful upside.
 
 ---
 
@@ -478,22 +479,22 @@ However, **book value per share has grown from ₹48 (FY20) to ₹364 (FY25) —
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **16%** EPS CAGR | **21%** | **27%** |
-| 10 Years | **13%** EPS CAGR | **16%** | **19%** |
+| 5 Years | **20%** EPS CAGR | **26%** | **31%** |
+| 10 Years | **15%** EPS CAGR | **20%** | **25%** |
 
 **At Terminal PE = 20x (Market Average)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **10%** EPS CAGR | **15%** | **21%** |
-| 10 Years | **10%** EPS CAGR | **13%** | **16%** |
+| 5 Years | **14%** EPS CAGR | **19%** | **24%** |
+| 10 Years | **12%** EPS CAGR | **17%** | **22%** |
 
 **At Terminal PE = 25x (Compounder)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **5%** EPS CAGR | **11%** | **16%** |
-| 10 Years | **8%** EPS CAGR | **11%** | **14%** |
+| 5 Years | **9%** EPS CAGR | **14%** | **18%** |
+| 10 Years | **9%** EPS CAGR | **14%** | **19%** |
 
 ### Step 4: Reality Check
 
@@ -507,15 +508,15 @@ However, **book value per share has grown from ₹48 (FY20) to ₹364 (FY25) —
 ### Traffic Light Assessment
 
 To earn a **15% annual return over 10 years**, the company needs to grow EPS at:
-- **13% CAGR if market assigns 20x PE** — this is BELOW the company's historical 3Y CAGR and roughly in line with nominal GDP growth + pricing power. 🟢 **GREEN — Reasonable**
-- **11% CAGR if market assigns 25x PE** — very comfortable. 🟢 **GREEN**
-- **16% CAGR if market assigns 15x PE** — still achievable given historical track record. 🟡 **YELLOW — Fair but requires continued execution**
+- **14% CAGR if market assigns 25x PE** — this is below the company's historical 3Y CAGR of ~24% and comfortably within reach. 🟢 **GREEN — Comfortable**
+- **17% CAGR if market assigns 20x PE** — slightly below the 3Y historical CAGR, roughly in line with what the business has delivered. 🟡 **YELLOW-GREEN — Reasonable but requires continued execution**
+- **20% CAGR if market assigns 15x PE** — this needs the company to match its historical pace, with no room for deceleration. 🟡 **YELLOW — Achievable but demanding**
 
 ### Step 5: Verdict
 
-> "At the current price of ₹1,994, to earn a 15% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 13% CAGR. The company has historically grown EPS at 21-29% CAGR. This implies **the market is pricing in conservative/reasonable growth — well below what the company has actually delivered.** This is a 🟢 GREEN signal."
+> "At the current price of ₹1,994, to earn a 15% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 17% CAGR. The company has historically grown EPS at 24-29% CAGR. This implies **the market is pricing in reasonable growth — below what the company has delivered historically, but requiring sustained execution above nominal GDP growth.** This is a 🟡 YELLOW-GREEN signal — reasonable but not a screaming bargain."
 
-The implied growth expectations are modest. Even a significant deceleration from historical 29% to 13% EPS CAGR would deliver 15% annual returns. The napkin math works comfortably.
+The implied growth expectations are moderate. A deceleration from historical 29% to 17% EPS CAGR would still deliver 15% annual returns at 20x exit PE. At a 25x exit PE (justified for a compounder), only 14% EPS CAGR is needed — very comfortable.
 
 > *Buffett: "If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* At 20x earnings for a high-quality compounder with 44% FCF margins, zero debt, and ₹3,000 Cr cash — this passes the napkin test.
 
@@ -536,19 +537,19 @@ The implied growth expectations are modest. Even a significant deceleration from
 
 | Upside Scenario | Valuation Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
-| Base Intrinsic Value (DCF) | ₹3,160 | ₹3,160 | +58% |
-| Bull Case (Optimistic DCF) | ₹3,770 | ₹3,770 | +89% |
+| Base Intrinsic Value (DCF) | ₹2,890 | ₹2,890 | +45% |
+| Bull Case (Optimistic DCF) | ₹3,500 | ₹3,500 | +76% |
 | Scaling Multiplier (5-year, if 20% EPS CAGR) | EPS ₹212 × 25x PE | ₹5,300 | +166% |
 | Re-rating Catalyst (Return to 30x PE) | ₹85 EPS × 30x | ₹2,550 | +28% |
 
 **Part 3: Asymmetry Ratio**
 
-Realistic Upside (Base): +58% to ₹3,160
+Realistic Upside (Base): +45% to ₹2,890
 Realistic Downside (Probable Floor): -36% to ₹1,275
 
-**Asymmetry Ratio = 58% / 36% = ~1.6:1**
+**Asymmetry Ratio = 45% / 36% = ~1.25:1**
 
-Including a 5-year compounding perspective (EPS likely to grow 15-20%), the effective asymmetry improves to ~3:1.
+Including a 5-year compounding perspective (EPS likely to grow 15-20%), the effective asymmetry improves to ~2.5:1 as earnings growth compounds over time while the downside floor also rises.
 
 **Part 4: Catalysts & Anti-Catalysts**
 
@@ -565,7 +566,7 @@ Including a 5-year compounding perspective (EPS likely to grow 15-20%), the effe
 
 **Part 5: Fat Pitch Verdict**
 
-> "At ₹1,994, the realistic downside is approximately 36% to ₹1,275 (extreme bear case). The realistic base-case upside is approximately 58% to ₹3,160 over 3-5 years. This gives an asymmetry ratio of ~1.6:1 currently, improving to ~3:1 on a 5-year view as earnings compound. The mispricing opportunity is PRESENT — the market is anchoring to slowing subscriber growth and ignoring the pricing power, cash generation, and massive TAM runway. This IS a fat pitch, though not an extreme one — it's a Coke-in-1988 setup, not an American Express Salad Oil Scandal setup."
+> "At ₹1,994, the realistic downside is approximately 36% to ₹1,275 (extreme bear case). The realistic base-case upside is approximately 45% to ₹2,890 over 3-5 years. This gives an asymmetry ratio of ~1.25:1 currently, improving to ~2.5:1 on a 5-year view as earnings compound. The mispricing opportunity is PRESENT but MODEST — the market is anchoring to slowing subscriber growth and ignoring the pricing power, cash generation, and massive TAM runway. This is a decent pitch — not a screaming fat pitch like American Express in 1963, but a solid Coke-in-1988 type setup where you're buying quality at a fair price."
 
 **Mispricing Source:** Excessive pessimism / anchoring to recent subscriber growth stagnation. The market sees "221K paying subscribers, flat growth" and extrapolates stagnation. It ignores that ARPU is growing 6-8%, deferred revenue is growing 19%, collections are growing 17%, and the business model can compound earnings at 15%+ even without subscriber growth.
 
@@ -577,15 +578,15 @@ Including a 5-year compounding perspective (EPS likely to grow 15-20%), the effe
 
 | Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE |
 |---|---|---|---|---|
-| FY2021 | 41.8% | 0.37x | 1.65x | ~25% |
+| FY2021 | 41.8% | 0.37x | 1.93x | ~30% |
 | FY2022 | 39.6% | 0.28x | 1.57x | ~17% |
-| FY2023 | 28.8% | 0.31x | 1.67x | ~14% |
-| FY2024 | 27.9% | 0.35x | 1.99x | ~19% |
-| **FY2025** | **39.7%** | **0.37x** | **1.89x** | **~27%** |
+| FY2023 | 28.8% | 0.31x | 1.62x | ~14% |
+| FY2024 | 27.9% | 0.35x | 1.82x | ~18% |
+| **FY2025** | **39.7%** | **0.37x** | **1.93x** | **~28%** |
 
 **Quality Assessment:**
 - **High ROE driven by high net margin (39.7%)** — this is pricing power and operating leverage, not leverage tricks. ✅ Quality signal.
-- **Low equity multiplier (1.89x)** — the business has minimal leverage. This is almost entirely equity-funded. ✅ Safe.
+- **Low equity multiplier (1.93x)** — the business has minimal leverage. This is almost entirely equity-funded. ✅ Safe.
 - **Asset turnover (0.37x) is low** because the balance sheet is bloated with cash/investments. Stripping out the ₹3,000+ Cr cash, asset turnover on the operating business would be >3x. This is a capital-light business disguised by its own cash pile.
 
 **ROCE (34.2%) > ROE (26.9%):** This is the healthy pattern. The business engine is powerful; the slightly lower ROE is simply because retained cash (earning lower returns than the operating business) dilutes the return.
@@ -616,22 +617,22 @@ Including a 5-year compounding perspective (EPS likely to grow 15-20%), the effe
 
 | Exit P/B Scenario | Rationale | 5Y CAGR | 7Y CAGR | 10Y CAGR |
 |---|---|---|---|---|
-| P/B stays at 5.6x | Multiple sustains | 26% | 22% | 19% |
-| P/B compresses to 4.0x | Mild de-rating | 17% | 15% | 14% |
-| P/B compresses to 3.0x | Significant de-rating | 9% | 10% | 10% |
-| P/B compresses to 2.0x | Severe de-rating (ROE concern) | -1% | 3% | 6% |
-| **Historical median ~8x** | Market re-rates UP | **40%** | **32%** | **26%** |
+| P/B stays at 5.6x | Multiple sustains | 12% | 12% | 12% |
+| P/B compresses to 4.0x | Mild de-rating | 5% | 7% | 8% |
+| P/B compresses to 3.0x | Significant de-rating | -1% | 3% | 5% |
+| P/B compresses to 2.0x | Severe de-rating (ROE concern) | -9% | -3% | 1% |
+| **Historical median ~8x** | Market re-rates UP | **20%** | **18%** | **16%** |
 
 **Key Insight:**
 
-> "At the current entry P/B of 5.6x with a sustainable ROE of 22% and 55% retention, book value compounds at ~12% annually. If the P/B multiple remains at 5.6x, the return equals ~12% + dividend yield (~1.4%) = ~13.4%. The stock can tolerate P/B compression from 5.6x down to approximately 3.0x before the 10-year return drops below the 10% hurdle rate."
+> "At the current entry P/B of 5.6x with a sustainable ROE of 22% and 55% retention, book value compounds at ~12% annually. If the P/B multiple remains at 5.6x, the return equals the BV compounding rate of ~12%. If P/B compresses to 3.0x over 10 years, the annual return drops to ~5%. The stock can tolerate P/B compression from 5.6x down to approximately 4.0x before the 10-year return drops below the 10% hurdle rate."
 
 **Traffic Light Verdict:**
 
 | Condition | Verdict |
 |---|---|
-| 10-year return > 10% even if P/B halves from 5.6x to 2.8x | 🟡 YELLOW — marginal |
-| 10-year return > 10% if P/B stays within 25% of current (4.2x+) | 🟢 GREEN |
+| 10-year return > 10% even if P/B halves from 5.6x to 2.8x | 🔴 RED — fails, return only ~3% |
+| 10-year return > 10% if P/B stays within 25% of current (4.2x+) | 🟡 YELLOW — marginal at ~9% |
 | 10-year return on PE basis (20x EPS, 15% EPS growth) | 🟢 GREEN |
 
 The P/B analysis looks tighter than the PE analysis because the high P/B (5.6x) creates compression risk. However, the PE-based analysis is more relevant for this business — IndiaMART's book value understates the true value of its platform (a self-built marketplace with 194M users isn't on the balance sheet).
@@ -675,7 +676,7 @@ The P/B analysis looks tighter than the PE analysis because the high P/B (5.6x) 
 | **Management Trustworthy & Rational** | Founder-CEO with 49% stake, conservative capital allocation, transparent | ✅ PASS |
 | **Resistant to Disruption** | Moderate AI risk long-term, but 5-10 year visibility strong | ✅ PASS (with caveat) |
 | **Sustain Economics 10+ Years** | B2B discovery need is enduring; India MSME digitalisation is a decade-long trend | ✅ PASS |
-| **Price Below Intrinsic Value** | CMP ₹1,994 vs. Base IV ₹3,160 — 37% margin of safety | ✅ PASS |
+| **Price Below Intrinsic Value** | CMP ₹1,994 vs. Base IV ₹2,890 — 31% margin of safety | ✅ PASS |
 
 **All 6 criteria pass.**
 
@@ -727,7 +728,7 @@ If Buffett were working with a small capital base (say ₹10-50 Cr), **he would 
 | **Management Quality** | **8** | Founder-CEO with 49% stake, conservative allocator, transparent |
 | **Scalability** | **8.6** | Capital-light, massive TAM, 0.35% penetration |
 | **Valuation** | **7** | 20x TTM PE — fair to good for quality; P/B of 5.6x is optically high |
-| **Margin of Safety** | **7** | 26-37% based on DCF; modest but present |
+| **Margin of Safety** | **7** | 18-43% based on DCF; modest but present |
 | **Buffett Verdict** | **8** | Wonderful business at a fair price. Buy and hold for compounding. |
 | **Overall** | **8.2/10** | |
 
