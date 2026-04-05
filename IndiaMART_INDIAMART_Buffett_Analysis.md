@@ -631,7 +631,7 @@ Including a 5-year compounding perspective (EPS likely to grow 15-20%), the effe
 
 | Condition | Verdict |
 |---|---|
-| 10-year return > 10% even if P/B halves from 5.6x to 2.8x | 🔴 RED — fails, return only ~3% |
+| 10-year return > 10% even if P/B halves from 5.6x to 2.8x | 🔴 RED — fails, return only ~4.5% |
 | 10-year return > 10% if P/B stays within 25% of current (4.2x+) | 🟡 YELLOW — marginal at ~9% |
 | 10-year return on PE basis (20x EPS, 15% EPS growth) | 🟢 GREEN |
 
