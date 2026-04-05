@@ -53,7 +53,7 @@ Buffett: *"The single most important decision in evaluating a business is pricin
 
 **Trend Narrative:**
 
-Revenue has grown at a 10-year CAGR of 21% and 5-year CAGR of 22% — an impressive feat for a steel-products company. However, operating margins have been range-bound between 5-8%, reflecting the inherently thin-margin nature of the steel tube business. The best OPM year was FY17 (9%) and the worst was FY19 (5%). EBITDA margins have ranged from 5.6% (FY19) to 8.6% (FY17).
+Revenue has grown at a 10-year CAGR of 21% and 5-year CAGR of 22% — an impressive feat for a steel-products company. However, operating margins have been range-bound between 5-9%, reflecting the inherently thin-margin nature of the steel tube business. The best OPM year was FY17 (9%) and the worst was FY19 (5%). EBITDA margins have ranged from 5.6% (FY19) to 8.6% (FY17).
 
 The critical observation is that while revenue growth has been stellar, profit growth has been lumpy — EPS was nearly flat from FY18-FY19 and again from FY23-FY25. The TTM numbers show a sharp inflection with EPS jumping to ₹41.14, suggesting recent quarters have been exceptionally strong. Earnings growth is NOW outpacing revenue growth (TTM Net Profit growth ~50% vs. Revenue growth ~9%), which indicates margin expansion and operational leverage kicking in.
 
@@ -152,7 +152,7 @@ In FY22-FY24, the company spent ~₹2,322 Cr on CapEx while Depreciation was ~�
 
 Since D&A roughly equals maintenance CapEx for a manufacturing company (all D&A needs to be replaced to keep the business running), Owner Earnings approximately equals Net Income minus SBC — which is quite close to reported Net Income. This is a positive signal: reported FCF quality is high, and there is no large hidden maintenance capex burden inflating the true earnings picture.
 
-Buffett: *"Owner Earnings represent (a) reported earnings plus (b) depreciation, depletion, amortization, and certain other non-cash charges less (c) the average annual amount of capitalised expenditures for plant and equipment, etc. that the business requires to fully maintain its long-term competitive position and its unit volume."* APL Apollo's Owner Earnings are approximately ₹27/share (FY25) or ₹41/share (TTM), making the P/Owner Earnings ratio approximately 47x (on FY25) or 47x (on TTM EPS of ₹41.14).
+Buffett: *"Owner Earnings represent (a) reported earnings plus (b) depreciation, depletion, amortization, and certain other non-cash charges less (c) the average annual amount of capitalised expenditures for plant and equipment, etc. that the business requires to fully maintain its long-term competitive position and its unit volume."* APL Apollo's Owner Earnings are approximately ₹27/share (FY25) or ₹41/share (TTM), making the P/Owner Earnings ratio approximately 71x (on FY25) or 47x (on TTM).
 
 ---
 
@@ -215,7 +215,7 @@ Steel tubes will be needed for construction for the next 50+ years. The fundamen
 
 The biggest risk is NOT disruption — it is intensifying competition from well-funded steel companies (Tata, JSW) entering the branded tubes market. However, APL Apollo's 20+ year head start in distribution and brand gives it a durable advantage.
 
-**Moat Verdict: 7/10 — Strong and widening, but inherently limited by the commodity-adjacent nature of the underlying product. Margins will always be thin (6-9%) compared to true consumer franchises (15-30%).**
+**Moat Verdict: 7/10 — Strong and widening, but inherently limited by the commodity-adjacent nature of the underlying product. Margins will always be thin (5-9%) compared to true consumer franchises (15-30%).**
 
 ---
 
@@ -368,7 +368,7 @@ These operational metrics are improving BENEATH the financial surface — they c
 | Forward PE (on TTM EPS ₹41) | **47.0** | — | — | — | — | — | — | — |
 | P/B Ratio | **11.6x** | ~12.7 | ~10.5 | ~10.4 | ~10.2 | ~10.6 | ~4.8 | 2-13x |
 | P/Sales (Mkt Cap / TTM Sales) | **2.5x** | ~2.6 | ~2.0 | ~1.9 | ~2.1 | ~2.5 | ~0.8 | 0.5-3.0x |
-| EV/EBITDA | **29.6** | ~42 | ~28 | ~33 | ~30 | ~25 | ~15 | 10-45x |
+| EV/EBITDA | **30.0** | ~42 | ~28 | ~33 | ~30 | ~25 | ~15 | 10-45x |
 | P/FCF (on FY25 FCF ₹838 Cr) | ~64x | — | — | — | — | — | — | — |
 | P/Owner Earnings (TTM ₹41/sh) | **47.0x** | — | — | — | — | — | — | — |
 | Earnings Yield (1/PE) | **2.1%** | 1.4% | 1.8% | 1.7% | 2.3% | 2.0% | 2.5% | 1.3-6.7% |
@@ -691,7 +691,7 @@ Buffett: *"When you combine ignorance and leverage, you get some pretty interest
 
 **The Key Insight:**
 
-> "At the current entry P/B of 11.6x with a sustainable ROE of ~20% and 79% retention, book value compounds at ~15.8% annually. If the P/B multiple remains at 11.6x, the return equals the BV compounding rate of ~16%. However, if the P/B compresses to even 5.8x (HALF of current), the 10-year return drops to ~9% — BELOW the 10% hurdle rate. The stock can tolerate P/B compression from 11.6x down to approximately 6.5x before the 10-year return drops below 10%."
+> "At the current entry P/B of 11.6x with a sustainable ROE of ~20% and 79% retention, book value compounds at ~15.8% annually. If the P/B multiple remains at 11.6x, the return equals the BV compounding rate of ~16%. However, if the P/B compresses to even 5.8x (HALF of current), the 10-year return drops to ~9% — BELOW the 10% hurdle rate. The stock can tolerate P/B compression from 11.6x down to approximately 7.0x before the 10-year return drops below 10%."
 
 This is the core risk: AT 11.6x BOOK, you are paying an enormous premium for quality, and your returns are HEAVILY dependent on the P/B multiple sustaining at elevated levels. Even moderate P/B compression wipes out most of the compounding benefit.
 
@@ -766,7 +766,7 @@ With limited capital, EVERY rupee matters. Buffett in his Buffett Partnership da
 
 > "This is a wonderful business — I'd give it an 8/10 on quality. India's dominant branded steel tubes manufacturer with 50% market share, fortress balance sheet, 22%+ ROCE, negative working capital, and a long runway of infrastructure-led demand. Management is competent and capital allocation has been excellent. I understand this business, I admire this business, and I believe it will be bigger and better in 10 years."
 
-> "However, at ₹1,933 — 47x earnings, 11.6x book — this is NOT my kind of price. I'd be paying ₹53,671 Cr for a business that earns ₹757 Cr a year (FY25). Even on TTM of ₹1,142 Cr, I'm paying 47x. I need this company to grow at 19%+ for a decade just to earn a 10% return with PE compression to 20x. That's too much reliance on optimism."
+> "However, at ₹1,933 — 47x earnings, 11.6x book — this is NOT my kind of price. I'd be paying ₹53,671 Cr for a business that earns ₹757 Cr a year (FY25). Even on TTM of ₹1,142 Cr, I'm paying 47x. I need this company to grow at 20%+ for a decade just to earn a 10% return with PE compression to 20x. That's too much reliance on optimism."
 
 > "I'd put this on my watchlist and wait for Mr. Market to have a bad day. If the stock drops to ₹1,000-1,200 (25-30x PE), I'd be very interested. At ₹800 or below (20x PE), I'd back up the truck."
 
