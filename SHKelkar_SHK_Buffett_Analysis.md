@@ -135,8 +135,8 @@ The cash flow scorecard for SHK is mediocre at best. The business consumes most 
 
 | Metric | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|---|---|---|---|---|
-| Est. CapEx (₹ Cr) | 95 | 133 | 149 | 30 | 321 | 271 | 33 | 92 | 135 |
-| CapEx as % Revenue | 9.7% | 13.0% | 14.2% | 2.7% | 24.3% | 17.3% | 2.0% | 5.0% | 6.4% |
+| Est. CapEx (₹ Cr) | 77 | 133 | 119 | 42 | 341 | 271 | 52 | 92 | 148 |
+| CapEx as % Revenue | 7.8% | 13.0% | 11.4% | 3.8% | 25.8% | 17.3% | 3.1% | 5.0% | 7.0% |
 | Depreciation (₹ Cr) | 19 | 24 | 31 | 52 | 62 | 72 | 80 | 86 | 95 |
 
 *CapEx estimated as: Change in Fixed Assets + Change in CWIP + Depreciation*
@@ -149,8 +149,8 @@ Assuming ~60% of capex is maintenance (keeping existing facilities running) and 
 |---|---|---|---|---|---|---|---|---|---|
 | Net Profit (₹ Cr) | 105 | 94 | 88 | 36 | 144 | 149 | 63 | 124 | 73 |
 | + Depreciation | 19 | 24 | 31 | 52 | 62 | 72 | 80 | 86 | 95 |
-| - Maint. CapEx (60%) | 57 | 80 | 89 | 18 | 193 | 163 | 20 | 55 | 81 |
-| **= Owner Earnings** | **78** | **38** | **47** | **63** | **1** | **58** | **112** | **155** | **79** |
+| - Maint. CapEx (60%) | 46 | 80 | 71 | 25 | 205 | 163 | 31 | 55 | 89 |
+| **= Owner Earnings** | **78** | **38** | **48** | **63** | **1** | **58** | **112** | **155** | **79** |
 
 Owner Earnings are highly volatile and average only ~₹70 Cr/year over this period. At a market cap of ₹1,675 Cr, that implies a **P/Owner Earnings of ~24x** — not cheap.
 
