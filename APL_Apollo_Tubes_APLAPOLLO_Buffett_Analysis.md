@@ -40,8 +40,8 @@ Buffett: *"The single most important decision in evaluating a business is pricin
 | Other Income (₹ Cr) | -15 | 5 | 8 | 12 | 22 | 36 | 40 | 46 | 74 | 96 | 110 |
 | Interest (₹ Cr) | 70 | 72 | 81 | **113** | 107 | **66** | 44 | 67 | 113 | **133** | 126 |
 | Depreciation (₹ Cr) | 34 | 51 | 53 | 64 | 96 | 103 | 109 | 138 | 176 | 201 | 229 |
-| EBITDA (₹ Cr) | 267 | 390 | 428 | 441 | 596 | 818 | 1,035 | 1,068 | 1,267 | 1,294 | 1,833 |
-| EBITDA Margin | 6.4% | **9.9%** | 8.0% | 6.2% | 7.7% | 9.6% | 7.9% | 6.6% | 7.0% | 6.3% | **8.4%** |
+| EBITDA (₹ Cr) | 267 | 339 | 378 | 404 | 499 | 715 | 985 | 1,068 | 1,267 | 1,294 | 1,815 |
+| EBITDA Margin | 6.4% | **8.6%** | 7.1% | 5.6% | 6.5% | **8.4%** | 7.5% | 6.6% | 7.0% | 6.3% | **8.4%** |
 | PBT (₹ Cr) | 163 | 216 | 244 | 227 | 296 | 546 | 832 | 863 | 978 | 960 | 1,460 |
 | Tax Rate | 38% | 30% | 35% | 35% | **14%** | 25% | 26% | 26% | 25% | 21% | — |
 | Net Profit (₹ Cr) | 101 | 152 | 158 | 148 | 256 | 408 | **619** | 642 | 732 | 757 | **1,142** |
@@ -53,7 +53,7 @@ Buffett: *"The single most important decision in evaluating a business is pricin
 
 **Trend Narrative:**
 
-Revenue has grown at a 10-year CAGR of 21% and 5-year CAGR of 22% — an impressive feat for a steel-products company. However, operating margins have been range-bound between 5-9%, reflecting the inherently thin-margin nature of the steel tube business. The best margin year was FY17 (9%) and the worst was FY19 (5%).
+Revenue has grown at a 10-year CAGR of 21% and 5-year CAGR of 22% — an impressive feat for a steel-products company. However, operating margins have been range-bound between 5-8%, reflecting the inherently thin-margin nature of the steel tube business. The best OPM year was FY17 (9%) and the worst was FY19 (5%). EBITDA margins have ranged from 5.6% (FY19) to 8.6% (FY17).
 
 The critical observation is that while revenue growth has been stellar, profit growth has been lumpy — EPS was nearly flat from FY18-FY19 and again from FY23-FY25. The TTM numbers show a sharp inflection with EPS jumping to ₹41.14, suggesting recent quarters have been exceptionally strong. Earnings growth is NOW outpacing revenue growth (TTM Net Profit growth ~50% vs. Revenue growth ~9%), which indicates margin expansion and operational leverage kicking in.
 
@@ -88,7 +88,7 @@ Net Cash/(Debt): The company has net debt of ~₹715 Cr as of Sep 2025, but agai
 
 Buffett: *"We will reject interesting opportunities rather than over-leverage our balance sheet."* APL Apollo passes this test with flying colours. At 0.16x D/E, this is as close to a "fortress balance sheet" as you'll find in a manufacturing company. The company has the financial strength to weather any cyclical downturn in the steel industry without distress.
 
-Book Value Per Share has grown from ~₹24 in FY16 to ~₹166 in Sep 2025 — a ~7x increase in ~9.5 years, representing a ~24% CAGR in book value growth. This is exceptional for a manufacturing company.
+Book Value Per Share has grown from ~₹24 in FY16 to ~₹166 in Sep 2025 — a ~7x increase in ~9.5 years, representing a ~23% CAGR in book value growth. This is exceptional for a manufacturing company.
 
 ---
 
@@ -474,7 +474,7 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | Less: Net Debt | | -634 |
 | **Equity Value** | | **76,673** |
 | **Intrinsic Value Per Share** | | **₹2,759** |
-| **Margin of Safety at ₹1,933** | | **+30% upside** |
+| **Margin of Safety at ₹1,933** | | **+43% upside** |
 
 ### Summary Table
 
@@ -482,7 +482,7 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 |---|---|---|---|
 | **Conservative** | **₹1,113** | **-42%** | **Overvalued by 74%** |
 | **Base** | **₹1,873** | **-3%** | **Roughly Fair** |
-| **Optimistic** | **₹2,759** | **+30%** | **30% Upside** |
+| **Optimistic** | **₹2,759** | **+43%** | **43% Upside** |
 
 **The DCF tells us:** At ₹1,933, the stock is pricing in the Base-to-Optimistic scenario. There is NO margin of safety at the current price unless the company delivers growth ABOVE its historical averages. This is the price you'd pay if everything goes right.
 
@@ -498,8 +498,8 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | TTM EPS (Normalised) | ₹41.14 | Screener.in TTM |
 | Current PE (on TTM EPS) | 47.0x | Calculated |
 | Shares Outstanding (Diluted) | ~27.8 Cr | Latest data |
-| Historical 5Y EPS CAGR | ~26% | FY20 EPS ₹9.58 → FY25 EPS ₹27.28 |
-| Historical 10Y EPS CAGR | ~28% | FY15 EPS ₹2.72 → FY25 EPS ₹27.28 |
+| Historical 5Y EPS CAGR | ~23% | FY20 EPS ₹9.58 → FY25 EPS ₹27.28 |
+| Historical 10Y EPS CAGR | ~26% | FY15 EPS ₹2.72 → FY25 EPS ₹27.28 |
 
 ### Step 2: Terminal PE Scenarios
 
@@ -516,54 +516,54 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 36% EPS CAGR | 44% EPS CAGR | 52% EPS CAGR |
-| 10 Years | 22% EPS CAGR | 26% EPS CAGR | 30% EPS CAGR |
-| 15 Years | 19% EPS CAGR | 22% EPS CAGR | 26% EPS CAGR |
+| 5 Years | 38% EPS CAGR | 45% EPS CAGR | 51% EPS CAGR |
+| 10 Years | 23% EPS CAGR | 29% EPS CAGR | 35% EPS CAGR |
+| 15 Years | 19% EPS CAGR | 24% EPS CAGR | 29% EPS CAGR |
 
 **At Terminal PE = 20x (Market Avg)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 28% EPS CAGR | 36% EPS CAGR | 44% EPS CAGR |
-| 10 Years | 19% EPS CAGR | 23% EPS CAGR | 27% EPS CAGR |
-| 15 Years | 17% EPS CAGR | 21% EPS CAGR | 24% EPS CAGR |
+| 5 Years | 30% EPS CAGR | 36% EPS CAGR | 42% EPS CAGR |
+| 10 Years | 20% EPS CAGR | 25% EPS CAGR | 31% EPS CAGR |
+| 15 Years | 16% EPS CAGR | 22% EPS CAGR | 27% EPS CAGR |
 
 **At Terminal PE = 30x (Compounder)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 20% EPS CAGR | 27% EPS CAGR | 35% EPS CAGR |
-| 10 Years | 15% EPS CAGR | 19% EPS CAGR | 23% EPS CAGR |
-| 15 Years | 14% EPS CAGR | 18% EPS CAGR | 21% EPS CAGR |
+| 5 Years | 20% EPS CAGR | 26% EPS CAGR | 31% EPS CAGR |
+| 10 Years | 15% EPS CAGR | 20% EPS CAGR | 26% EPS CAGR |
+| 15 Years | 13% EPS CAGR | 18% EPS CAGR | 24% EPS CAGR |
 
 **At Terminal PE = 45x (Historical Avg)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 10% EPS CAGR | 16% EPS CAGR | 21% EPS CAGR |
-| 10 Years | 10% EPS CAGR | 14% EPS CAGR | 18% EPS CAGR |
-| 15 Years | 10% EPS CAGR | 14% EPS CAGR | 17% EPS CAGR |
+| 5 Years | 11% EPS CAGR | 16% EPS CAGR | 21% EPS CAGR |
+| 10 Years | 10% EPS CAGR | 15% EPS CAGR | 21% EPS CAGR |
+| 15 Years | 10% EPS CAGR | 15% EPS CAGR | 20% EPS CAGR |
 
 ### Step 4: Reality Check
 
 | Benchmark | Typical EPS CAGR |
 |---|---|
 | India nominal GDP growth | 10-12% |
-| Company's 5Y EPS CAGR | ~26% |
-| Company's 10Y EPS CAGR | ~28% |
+| Company's 5Y EPS CAGR | ~23% |
+| Company's 10Y EPS CAGR | ~26% |
 | Industry average growth | ~12-15% |
 
 **Traffic Light Assessment:**
 
-If the PE compresses to 20x (realistic for a steel company over 10 years), the company needs to grow EPS at 19% CAGR for 10 years just to deliver a 10% return. The company HAS grown EPS at 28% over 10 years historically — but it was much smaller then, growing from ₹2.72 to ₹27.28. Growing from ₹41 to ₹275 (19% for 10 years) with 50% market share already is a much harder ask.
+If the PE compresses to 20x (realistic for a steel company over 10 years), the company needs to grow EPS at 20% CAGR for 10 years just to deliver a 10% return. The company HAS grown EPS at ~26% over 10 years historically — but it was much smaller then, growing from ₹2.72 to ₹27.28. Growing from ₹41 to ₹275 (20% for 10 years) with 50% market share already is a much harder ask.
 
 If the PE stays at 45x (generous), you only need 10% EPS CAGR for 10 years for a 10% return — this is achievable and roughly in line with GDP growth + market share gains.
 
-**Verdict: 🟡 YELLOW to 🟠 ORANGE** — The implied growth at realistic terminal PE multiples (15-20x) requires near-historical-level EPS growth of 19-22% for a decade, which is ambitious for a company already commanding 50% market share and ₹20,000+ Cr in revenue. The current price is only comfortable if you believe the market will continue to award a premium PE (30x+) — which is a bet on sentiment, not fundamentals.
+**Verdict: 🟡 YELLOW to 🟠 ORANGE** — The implied growth at realistic terminal PE multiples (15-20x) requires near-historical-level EPS growth of 20-23% for a decade, which is ambitious for a company already commanding 50% market share and ₹20,000+ Cr in revenue. The current price is only comfortable if you believe the market will continue to award a premium PE (30x+) — which is a bet on sentiment, not fundamentals.
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹1,933, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at ~19% CAGR. The company has historically grown EPS at ~28% CAGR over 10 years. However, this was from a much smaller base. At current scale (₹20,000 Cr revenue, 50% market share), sustaining 19% EPS growth for a decade requires significant market expansion and/or margin improvement. This implies the market is pricing in MODERATELY OPTIMISTIC growth — not heroic, but certainly not conservative."
+> "At the current price of ₹1,933, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at ~20% CAGR. The company has historically grown EPS at ~26% CAGR over 10 years. However, this was from a much smaller base. At current scale (₹20,000 Cr revenue, 50% market share), sustaining 20% EPS growth for a decade requires significant market expansion and/or margin improvement. This implies the market is pricing in MODERATELY OPTIMISTIC growth — not heroic, but certainly not conservative."
 
 ### Step 6: Asymmetric Upside Check
 
@@ -699,7 +699,7 @@ This is the core risk: AT 11.6x BOOK, you are paying an enormous premium for qua
 
 Fair P/B = (ROE - g) / (CoE - g) = (0.20 - 0.158) / (0.11 - 0.158)
 
-Note: g (15.8%) > CoE (11%), which means the Gordon Growth Model formula breaks down — this happens when the growth rate exceeds the cost of equity, which implies the bank's "fair" P/B is technically infinite under a perpetuity model. This confirms that the business quality justifies a PREMIUM, but 11.6x is still extreme.
+Note: g (15.8%) > CoE (11%), which means the Gordon Growth Model formula breaks down — this happens when the growth rate exceeds the cost of equity, which implies the company's "fair" P/B is technically infinite under a perpetuity model. This confirms that the business quality justifies a PREMIUM, but 11.6x is still extreme.
 
 A more practical approach: with 20% ROE, the "deserved" P/B for a high-quality compounder is typically 3.0-5.0x. At 11.6x, the stock is trading at 2-4x its "fair" P/B.
 
