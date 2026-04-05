@@ -49,14 +49,14 @@ Buffett: *"Never invest in a business you cannot understand."* — The business 
 
 **Note on EPS:** EPS figures before FY22 are on a pre-split/pre-IPO share base (~1.7 lakh shares). Post-IPO (Dec 2021), the company has ~5.6 Cr shares. The comparable EPS post-IPO: FY22: ₹18.11, FY23: ₹22.15, FY24: ₹32.45, FY25: ₹39.62, TTM: ₹44.13.
 
-### EBITDA Reconstruction (₹ Crores)
+### EBITDA (₹ Crores)
+
+**Note:** Screener's "Operating Profit" already represents EBITDA (Revenue minus Operating Expenses, where operating expenses exclude depreciation). This is confirmed by the P&L identity: PBT = Operating Profit + Other Income − Interest − Depreciation. Adding D&A again would double-count.
 
 | Metric | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** | TTM |
 |---|---|---|---|---|---|---|---|---|---|
-| Operating Profit | 9 | 26 | 43 | 92 | 141 | 172 | 222 | **275** | 331 |
-| Add: Depreciation | 3 | 6 | 5 | 6 | 7 | 8 | 16 | 14 | 21 |
-| **EBITDA** | 12 | 32 | 48 | 98 | 148 | 180 | 238 | **289** | 352 |
-| **EBITDA Margin** | 21% | 24% | 31% | **44%** | **48%** | 40% | 46% | 41% | 36% |
+| **EBITDA (= Operating Profit)** | 9 | 26 | 43 | 92 | 141 | 172 | 222 | **275** | 331 |
+| **EBITDA Margin** | 16% | 19% | 28% | **41%** | **45%** | 38% | 43% | 39% | 34% |
 
 ### Shares Outstanding
 
@@ -64,10 +64,10 @@ Buffett: *"Never invest in a business you cannot understand."* — The business 
 |---|---|
 | Pre-IPO (FY14-FY21) | ~0.17 (very small, unlisted) |
 | Post-IPO (FY22 onwards) | ~5.18 (IPO in Dec 2021) |
-| Post-QIP (FY24 onwards) | ~5.60 (QIP raised ~₹488 Cr in FY24) |
+| Post-QIP (FY23 onwards) | ~5.60 (QIP raised ~₹488 Cr in FY23, allotted Mar 2023) |
 | Current | ~5.60 Cr |
 
-**Dilution:** The company raised ~₹488 Cr via QIP (Qualified Institutional Placement) in FY24. This increased shares from ~5.18 Cr to ~5.60 Cr — approximately **8% dilution**. This was done at elevated prices, so it was accretive to book value.
+**Dilution:** The company raised ~₹488 Cr via QIP (Qualified Institutional Placement) in FY23 (allotted March 13, 2023 at ₹1,220.31/share). This increased shares from ~5.18 Cr to ~5.60 Cr — approximately **8% dilution**. This was done at elevated prices, so it was accretive to book value.
 
 ### Trend Narrative
 
@@ -105,13 +105,13 @@ Buffett: *"I like to see earnings that march upward over time."* — Data Patter
 |---|---|---|---|---|---|---|---|---|
 | Debt/Equity | 0.30 | 0.45 | 0.40 | 0.18 | 0.02 | **0.00** | **0.00** | **0.00** |
 | Net Cash/(Debt) | Debt | Debt | Debt | Net Cash | **Net Cash** | **Net Cash** | **Net Cash** | **Net Cash** |
-| Book Value/Share (₹) | ~624 | ~785 | ~908 | ~1,224 | 111 | 225 | 250 | **275** |
-| Tangible BV/Share (₹) | — | — | — | — | ~111 | ~215 | ~240 | ~269 |
+| Book Value/Share (₹) ¹ | ~624 | ~785 | ~908 | ~1,224 | 111 | 225 | 250 | **275** |
+| Tangible BV/Share (₹) ¹ | — | — | — | — | ~111 | ~215 | ~240 | ~269 |
 | Current Ratio | — | — | — | — | — | — | — | **8.23** |
 | Quick Ratio | — | — | — | — | — | — | — | **6.59** |
-| Debt/EBITDA | 2.7x | 1.9x | 1.3x | 0.4x | 0.1x | **0.0x** | **0.0x** | **0.0x** |
+| Debt/EBITDA | 3.6x | 2.3x | 1.4x | 0.4x | 0.1x | **0.0x** | **0.0x** | **0.0x** |
 
-**Note:** Book Value per share pre-IPO is on a much smaller share base. Post-IPO (FY22+), BV/share: FY22: ₹111, FY23: ₹225, FY24: ₹250, FY25: ₹275.
+*¹ BVPS pre-IPO (FY18-FY21) is on the old, much smaller share base (~0.17 Cr shares, face value ₹10) and NOT comparable with post-IPO figures. Post-IPO (FY22+) BV/share is on ~5.2-5.6 Cr shares (face value ₹2). The FY25 BVPS of ₹275 is sourced from Screener's header value, which reflects the latest available balance sheet data (Sep 2025 equity of ₹1,538 Cr ÷ 5.60 Cr shares = ₹274.6 ≈ ₹275). Using FY25 annual equity alone: ₹1,508 Cr ÷ 5.60 Cr = ₹269.3. Both are referenced in this analysis — ₹275 for valuation multiples (P/B) and ₹269 for tangible book.*
 
 ### Financial Fortress Assessment
 
@@ -121,9 +121,9 @@ Buffett: *"I like to see earnings that march upward over time."* — Data Patter
 2. **₹327 Cr in investments** + surplus cash — essentially a war chest
 3. **Current ratio of 8.23** — extraordinarily liquid (though partly driven by high receivables/inventory typical of defence)
 4. **No goodwill** — all assets are tangible/operating
-5. **Book value growing at ~25%+ CAGR** post-IPO (₹111 in FY22 → ₹275 in FY25)
+5. **Book value growing at ~35% CAGR** post-IPO (₹111 in FY22 → ₹275 in FY25)
 
-The massive IPO (Dec 2021, raised ~₹240 Cr) and QIP (FY24, raised ~₹488 Cr) transformed the balance sheet from leveraged to ultra-clean. Total equity went from ₹208 Cr (FY21) to ₹1,508 Cr (FY25) — a **7.3x increase** in just 4 years, funded by IPO/QIP proceeds and retained earnings.
+The massive IPO (Dec 2021, raised ~₹240 Cr) and QIP (FY23, raised ~₹488 Cr at ₹1,220/share in March 2023) transformed the balance sheet from leveraged to ultra-clean. Total equity went from ₹208 Cr (FY21) to ₹1,508 Cr (FY25) — a **~7.2x increase** in just 4 years, funded by IPO/QIP proceeds and retained earnings.
 
 **The key balance sheet concern is working capital.** "Other Assets" of ₹1,216 Cr (FY25) likely includes ~₹600 Cr of trade receivables (307 debtor days!) and ~₹400-500 Cr of inventory (421 inventory days). Defence companies routinely face government payment delays, and this locks up enormous amounts of working capital.
 
@@ -208,11 +208,11 @@ The company is clearly in **investment mode.** Fixed Assets + CWIP grew from ₹
 | Add: Depreciation | 6 | 7 | 8 | 16 | 14 |
 | Less: Est. Maintenance CapEx | -10 | -15 | -20 | -25 | -30 |
 | Less: Est. SBC | 0 | 0 | 0 | 0 | 0 |
-| Less: Working Capital Investment (OCF - NI - D&A) | 5 | -37 | -133 | -27 | **-298** |
-| **= Owner Earnings (True Economic Earnings)** | **57** | **49** | **-21** | **146** | **-92** |
-| Owner Earnings Per Share (₹) | ~335 (pre-split) | 9.5 | -4.1 | 27.6 | **-16.4** |
+| Less: Working Capital Investment (OCF - NI - D&A) | -7 | -51 | -149 | -59 | **-326** |
+| **= Owner Earnings (True Economic Earnings)** | **45** | **35** | **-37** | **114** | **-120** |
+| Owner Earnings Per Share (₹) | ~265 (pre-split) | 6.8 | -6.6 | 20.4 | **-21.4** |
 
-**The Owner Earnings picture is devastating for FY25.** Despite ₹222 Cr of reported profit, the true Owner Earnings are **NEGATIVE ₹92 Cr** because the business consumed ₹298 Cr of working capital to fund its growth. Every rupee of profit (and more) was ploughed back into receivables and inventory.
+**The Owner Earnings picture is devastating for FY25.** Despite ₹222 Cr of reported profit, the true Owner Earnings are **NEGATIVE ₹120 Cr** because the business consumed ₹326 Cr of working capital to fund its growth. Every rupee of profit (and more) was ploughed back into receivables and inventory.
 
 **However, this must be understood in context.** The negative owner earnings reflect the GROWTH phase — the company is building up receivables on a massive FY25 revenue surge (97% TTM growth). As deliveries mature and payments flow in, much of this working capital will convert to cash. The question is timing.
 
@@ -251,7 +251,7 @@ The return profile tells an important story:
 3. **FY23-FY25 (New Normal?):** Returns have settled at ROCE ~20-21%, ROE ~14-15%. This reflects (a) a much larger equity base post-IPO/QIP (dilution effect on ROE), and (b) normalisation after the peak growth acceleration.
 
 **The ROE decline from 27% to 15% is significant.** This is primarily because:
-- Pre-IPO equity was ~₹208 Cr; now it's ₹1,508 Cr — a **7.3x increase**
+- Pre-IPO equity was ~₹208 Cr; now it's ₹1,508 Cr — a **~7.2x increase**
 - Net profit grew from ₹56 Cr to ₹222 Cr — only **4x increase**
 - The IPO/QIP diluted returns on equity significantly
 
@@ -347,7 +347,7 @@ The biggest change risk is **geopolitical/policy:** If India reverses its indige
 ### Capital Allocation
 
 **Strengths:**
-- **QIP at premium prices (FY24):** Raised ~₹488 Cr at elevated multiples — HIGHLY accretive to existing shareholders. This was excellent capital allocation.
+- **QIP at premium prices (FY23):** Raised ~₹488 Cr at ₹1,220/share (March 2023) — HIGHLY accretive to existing shareholders. This was excellent capital allocation.
 - **No acquisition blunders:** The company has stayed focused on organic growth.
 - **Debt elimination:** Used IPO/QIP proceeds to become completely debt-free.
 - **Modest dividends (20% payout):** Appropriate for a growth company.
@@ -385,12 +385,14 @@ Buffett: *"Somebody once said that in looking for people to hire, you look for t
 | Debtor Days | 400 | 287 | 270 | 254 | 233 | 308 | 280 | **307** |
 | Inventory Days | 1,350 | 646 | 517 | 382 | 508 | 412 | 590 | **421** |
 | Cash Conversion Cycle | 1,606 | 815 | 675 | 574 | 579 | 628 | 759 | **618** |
-| EBITDA Margin | 18% | 24% | 31% | 44% | 48% | 40% | 46% | **41%** |
+| EBITDA Margin (= OPM) | 18% | 19% | 28% | 41% | 45% | 38% | 43% | **39%** |
 | Core Building Blocks (Units) | — | — | — | — | 1,000 | 1,000 | 1,000 | 1,000 |
 
 ### Operational Narrative
 
 **Order Book:** The order book of ₹10,947 Mn (₹1,095 Cr) as of Mar 2025 provides **~1.5 years of revenue visibility** at current run rates. It has grown from ₹805 Mn (FY17) to ₹10,947 Mn — a **13.6x increase** in 8 years. However, the order book-to-revenue ratio has actually compressed from 3.8x (FY20) to 1.5x (FY25), suggesting order intake is now just keeping pace with execution, not building a larger backlog.
+
+**Update (Q3 FY26, Dec 2025 — available before analysis date):** The order book has since surged to an all-time high of **₹1,868 Cr** as of Q3 FY26 (₹760 Cr confirmed + ₹1,108 Cr negotiated/awaited), representing **~2.6x FY25 revenue.** This materially improves the revenue visibility narrative — the book-to-bill compression noted above has reversed sharply. Fresh order inflows of ~₹593 Cr in 9M FY26 and a pipeline of ₹2,000-3,000 Cr over the next 1.5-2 years provide a significantly stronger growth backdrop than the FY25-end data alone suggested.
 
 **Employee Productivity:** Revenue per employee has improved from ₹23 Lakhs (FY19) to ₹46 Lakhs (FY25) — a **2x improvement** reflecting better utilisation of the workforce and higher-value orders. This is a positive sign of operating leverage.
 
@@ -410,7 +412,7 @@ Buffett: *"Somebody once said that in looking for people to hire, you look for t
 | P/E on TTM EPS (₹44.13) | 78.0x | Very expensive |
 | P/E on Normalised Owner Earnings (~₹34/share) | ~101x | Extremely expensive |
 | Price/Book | 12.5x | Very expensive for 15% ROE |
-| EV/EBITDA (est.) | MCap ₹19,255 + Net Debt ~-₹300 = EV ~₹18,955 / EBITDA ₹289 = **65.6x** | Very expensive |
+| EV/EBITDA (est.) | MCap ₹19,255 + Net Debt ~-₹321 = EV ~₹18,934 / EBITDA ₹275 = **68.9x** | Very expensive |
 | P/FCF | Negative (no FCF in FY25) | N/A — cash flow negative |
 | P/Sales (TTM) | ₹19,255 / ₹976 = **19.7x** | Extremely expensive |
 | Earnings Yield | 1/78 = **1.3%** | Far below risk-free rate |
@@ -536,15 +538,15 @@ Buffett: *"Price is what you pay, value is what you get."* — At 77x PE, you're
 
 ### DCF Summary Table
 
-| Scenario | Intrinsic Value/Share | Current Price | Margin of Safety | Upside/(Downside) |
+| Scenario | Intrinsic Value/Share | Current Price | Margin of Safety (IV−CMP)/IV | Upside/(Downside) (IV−CMP)/CMP |
 |---|---|---|---|---|
-| **Conservative** | **₹990** | ₹3,442 | **-71% (Overvalued)** | **-71%** |
-| **Base** | **₹1,563** | ₹3,442 | **-55% (Overvalued)** | **-55%** |
-| **Optimistic** | **₹2,081** | ₹3,442 | **-40% (Overvalued)** | **-40%** |
+| **Conservative** | **₹990** | ₹3,442 | **-248% (Overvalued)** | **-71%** |
+| **Base** | **₹1,563** | ₹3,442 | **-120% (Overvalued)** | **-55%** |
+| **Optimistic** | **₹2,081** | ₹3,442 | **-65% (Overvalued)** | **-40%** |
 
 ### Critical Takeaway
 
-**Even in the most optimistic scenario — assuming 30% growth for 5 years, 18% for 5 more years, 5% terminal growth, and using normalised Owner Earnings as the base — the intrinsic value is ₹2,081 per share. The stock trades at ₹3,442.** This implies the stock is overvalued by 40-71% across all scenarios.
+**Even in the most optimistic scenario — assuming 30% growth for 5 years, 18% for 5 more years, 5% terminal growth, and using normalised Owner Earnings as the base — the intrinsic value is ₹2,081 per share. The stock trades at ₹3,442.** This implies the stock is priced 40-71% above intrinsic value (upside of -40% to -71% from CMP).
 
 **What would need to be true to justify ₹3,442?** Using a reverse-engineering approach: You'd need starting Owner Earnings of ~₹190 Cr to grow at ~35% CAGR for 10 years straight, with a 5% terminal growth rate and a 12% discount rate. That's revenue scaling from ₹700 Cr to ₹5,000+ Cr in a decade — possible for India's defence sector but far from certain for a single company.
 
@@ -578,33 +580,33 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **52.6%** | **58.8%** | **65.3%** |
-| 10 Years | **28.7%** | **31.8%** | **34.9%** |
-| 15 Years | **21.4%** | **23.7%** | **26.0%** |
+| 5 Years | **52.1%** | **59.1%** | **66.0%** |
+| 10 Years | **29.4%** | **35.2%** | **41.1%** |
+| 15 Years | **22.6%** | **28.1%** | **33.7%** |
 
 #### At Terminal PE = 30x (Market Avg Quality)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **42.8%** | **48.8%** | **55.1%** |
-| 10 Years | **24.4%** | **27.4%** | **30.5%** |
-| 15 Years | **18.8%** | **21.0%** | **23.3%** |
+| 5 Years | **40.3%** | **46.7%** | **53.0%** |
+| 10 Years | **24.2%** | **29.9%** | **35.5%** |
+| 15 Years | **19.3%** | **24.7%** | **30.1%** |
 
 #### At Terminal PE = 45x (Compounder)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **33.5%** | **39.3%** | **45.4%** |
-| 10 Years | **20.3%** | **23.2%** | **26.2%** |
-| 15 Years | **16.4%** | **18.6%** | **20.8%** |
+| 5 Years | **29.4%** | **35.2%** | **41.1%** |
+| 10 Years | **19.3%** | **24.7%** | **30.1%** |
+| 15 Years | **16.1%** | **21.4%** | **26.7%** |
 
 #### At Terminal PE = 65x (Historical Avg)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **24.7%** | **30.3%** | **36.2%** |
-| 10 Years | **16.4%** | **19.3%** | **22.2%** |
-| 15 Years | **14.0%** | **16.1%** | **18.2%** |
+| 5 Years | **20.2%** | **25.7%** | **31.1%** |
+| 10 Years | **15.0%** | **20.2%** | **25.4%** |
+| 15 Years | **13.3%** | **18.4%** | **23.6%** |
 
 ### Step 4: Reality Check
 
@@ -621,18 +623,18 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 
 | Scenario (10-Year, 10% Return) | Implied EPS CAGR | vs. 3Y Historical (30%) | Verdict |
 |---|---|---|---|
-| Terminal PE = 20x | 28.7% | ~1x historical | 🟡 **YELLOW — Fair but Optimistic** |
-| Terminal PE = 30x | 24.4% | ~0.8x historical | 🟢 **GREEN — IF multiple sustains** |
-| Terminal PE = 45x | 20.3% | ~0.7x historical | 🟢 **GREEN — IF multiple sustains** |
-| Terminal PE = 65x | 16.4% | ~0.5x historical | 🟢 **GREEN — IF multiple sustains** |
+| Terminal PE = 20x | 29.4% | ~1x historical | 🟡 **YELLOW — Fair but Optimistic** |
+| Terminal PE = 30x | 24.2% | ~0.8x historical | 🟢 **GREEN — IF multiple sustains** |
+| Terminal PE = 45x | 19.3% | ~0.6x historical | 🟢 **GREEN — IF multiple sustains** |
+| Terminal PE = 65x | 15.0% | ~0.5x historical | 🟢 **GREEN — IF multiple sustains** |
 
 **The catch:** These "GREEN" readings are only green IF the terminal PE sustains at 45-65x — which is a massive assumption. A more realistic terminal PE of 20-30x turns the picture YELLOW to ORANGE.
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹3,442, to earn a **10% annualised return over 10 years** assuming the market values the business at **30x PE** at exit, the company needs to grow normalised EPS at **24.4% CAGR.** The company has grown revenue at 30-35% CAGR and EPS at ~30% CAGR over the last 3 years. This implies **the market is pricing in a continuation of strong historical growth for a full decade AND a premium terminal multiple — this is optimistic but not insane, given India's defence spending trajectory.**"
+> "At the current price of ₹3,442, to earn a **10% annualised return over 10 years** assuming the market values the business at **30x PE** at exit, the company needs to grow normalised EPS at **24.2% CAGR.** The company has grown revenue at 30-35% CAGR and EPS at ~30% CAGR over the last 3 years. This implies **the market is pricing in a continuation of strong historical growth for a full decade AND a premium terminal multiple — this is optimistic but not insane, given India's defence spending trajectory.**"
 
-> "However, if the terminal PE compresses to 20x (which happens to most companies as they scale), the required EPS CAGR of 28.7% is **aggressive for a decade-long period.** Very few companies sustain 25%+ EPS growth for 10 consecutive years."
+> "However, if the terminal PE compresses to 20x (which happens to most companies as they scale), the required EPS CAGR of 29.4% is **aggressive for a decade-long period.** Very few companies sustain 25%+ EPS growth for 10 consecutive years."
 
 **Buffett's Napkin Test:** At ₹3,442 for a business earning ₹34/share in normalised owner earnings, you need heroic assumptions to make the math work. This is NOT a napkin-math buy.
 
@@ -644,21 +646,23 @@ Buffett: *"If you need a spreadsheet to figure out whether it's a good deal, it'
 
 ### Part A: DuPont Decomposition of ROE
 
-| Year | Net Profit Margin | Asset Turnover (Rev/Assets) | Equity Multiplier (Assets/Equity) | ROE (Product) | Reported ROE |
+*Note: Asset Turnover uses Average Total Assets; Equity Multiplier uses Average Total Assets / Average Equity — consistent with using average balance sheet figures for flow-to-stock ratios.*
+
+| Year | Net Profit Margin | Asset Turnover (Rev/Avg Assets) | Equity Multiplier (Avg Assets/Avg Equity) | ROE (Product) | Reported ROE |
 |---|---|---|---|---|---|
-| FY19 | 6.1% | 0.47x | 2.08x | 6.0% | ~6% |
-| FY20 | 13.5% | 0.53x | 1.92x | 13.7% | ~14% |
-| FY21 | 25.0% | 0.68x | 1.58x | 26.9% | ~27% |
-| FY22 | 30.2% | 0.44x | 1.23x | 16.3% | ~16% |
-| FY23 | 27.4% | 0.32x | 1.23x | 10.8% | ~14% |
-| FY24 | 35.0% | 0.31x | 1.28x | 13.9% | ~15% |
-| **FY25** | **31.4%** | **0.39x** | **1.22x** | **14.9%** | **~15%** |
+| FY19 | 6.1% | 0.61x | 1.80x | 6.7% | ~6% |
+| FY20 | 13.5% | 0.55x | 1.99x | 14.6% | ~14% |
+| FY21 | 25.0% | 0.72x | 1.72x | 30.9% | ~27% |
+| FY22 | 30.2% | 0.60x | 1.32x | 24.0% | ~24% |
+| FY23 | 27.4% | 0.42x | 1.23x | 14.2% | ~14% |
+| FY24 | 35.0% | 0.33x | 1.26x | 14.6% | ~15% |
+| **FY25** | **31.4%** | **0.40x** | **1.25x** | **15.7%** | **~15%** |
 
 ### Quality Assessment
 
 **The ROE is driven by HIGH NET MARGINS (31.4%) — this is the QUALITY driver.** This reflects genuine pricing power and technical differentiation in defence electronics.
 
-**Asset Turnover is LOW and declining (0.39x in FY25).** This is the structural drag from massive working capital. ₹1,839 Cr of assets to generate ₹708 Cr of revenue means every ₹2.60 of assets generates only ₹1 of revenue. This is typical for defence contractors.
+**Asset Turnover is LOW and declining (0.40x in FY25).** This is the structural drag from massive working capital. ₹1,839 Cr of assets to generate ₹708 Cr of revenue means every ₹2.60 of assets generates only ₹1 of revenue. This is typical for defence contractors.
 
 **Equity Multiplier is LOW (1.22x)** — virtually NO leverage. This is the safety factor. ROE is NOT being amplified by debt.
 
@@ -740,11 +744,11 @@ Munger: *"Over the long term, it's hard for a stock to earn a much better return
 
 | Zone | Price Range (₹) | Implied Valuation | Rationale |
 |---|---|---|---|
-| **Deep Value / Strong Buy** | **Below ₹1,000** | <6x P/B, <25x normalised PE | Below conservative intrinsic value; exceptional margin of safety; Buffett would buy aggressively |
-| **Value / Buy** | **₹1,000 - ₹1,500** | 6-9x P/B, 25-40x normalised PE | Near base-case intrinsic value; attractive risk-reward |
-| **Fair Value / Hold** | **₹1,500 - ₹2,200** | 9-13x P/B, 40-60x normalised PE | Fairly priced for growth; hold for compounding |
-| **Fully Valued / Trim** | **₹2,200 - ₹3,500** | 13-20x P/B, 60-100x normalised PE | Limited upside; reduce on strength |
-| **Overvalued / Sell** | **Above ₹3,500** | >20x P/B, >100x normalised PE | Priced for perfection; significant downside risk |
+| **Deep Value / Strong Buy** | **Below ₹1,000** | <3.6x P/B, <29x normalised PE | Below conservative intrinsic value; exceptional margin of safety; Buffett would buy aggressively |
+| **Value / Buy** | **₹1,000 - ₹1,500** | 3.6-5.5x P/B, 29-44x normalised PE | Near base-case intrinsic value; attractive risk-reward |
+| **Fair Value / Hold** | **₹1,500 - ₹2,200** | 5.5-8.0x P/B, 44-65x normalised PE | Fairly priced for growth; hold for compounding |
+| **Fully Valued / Trim** | **₹2,200 - ₹3,500** | 8.0-12.7x P/B, 65-103x normalised PE | Limited upside; reduce on strength |
+| **Overvalued / Sell** | **Above ₹3,500** | >12.7x P/B, >103x normalised PE | Priced for perfection; significant downside risk |
 
 ### Current Price Assessment: ₹3,442 — **FULLY VALUED / TRIM ZONE (at the extreme upper end)**
 
@@ -806,20 +810,20 @@ At 77x earnings and 12.5x book, the downside risk is enormous. Any growth disapp
 | Risk | Type | Severity (1-5) | Probability (1-5) | Risk Score | Mitigation |
 |---|---|---|---|---|---|
 | **Valuation compression** (PE drops from 77x to 30-40x) | Market | **5** | **4** | **20** | Long holding period can offset, but entry price matters enormously |
-| **Order book stagnation** (new orders slow) | Business | 4 | 3 | 12 | ₹1,095 Cr order book provides 1.5 years visibility; pipeline matters |
+| **Order book stagnation** (new orders slow) | Business | 4 | 3 | 12 | Order book surged to ₹1,868 Cr (Q3 FY26) from ₹1,095 Cr (FY25 end); pipeline of ₹2,000-3,000 Cr mitigates this risk |
 | **Government payment delays** (debtors >300 days) | Cash Flow | 3 | **5** | **15** | Structural to defence; management has navigated this before |
 | **Defence budget cuts or policy reversal** | Policy/Macro | **5** | 2 | 10 | Low probability under any foreseeable government; defence spending is bipartisan |
 | **Key person dependency** (Founder risk) | Management | 4 | 2 | 8 | Company building institutional capabilities; but founder is critical |
 | **Technology obsolescence** | Technology | 3 | 2 | 6 | Continuous R&D investment; 35+ years of adaptation track record |
 | **Competition from BEL / larger players** | Competitive | 3 | 3 | 9 | Niche specialisation protects; but larger contracts may go to BEL |
-| **QIP dilution** | Capital | 2 | 2 | 4 | Already done (FY24); unlikely to raise equity again soon |
+| **QIP dilution** | Capital | 2 | 2 | 4 | Already done (FY23); unlikely to raise equity again soon |
 | **Execution risk on large orders** | Operational | 3 | 3 | 9 | Track record is strong; but scaling to ₹1,000+ Cr revenue is new territory |
 | **Working capital crunch** | Financial | 3 | 3 | 9 | Zero debt + ₹327 Cr investments provide buffer |
 
 ### Top 3 Risks:
 1. **Valuation compression (Score: 20)** — The #1 risk. At 77x PE, even a mild disappointment causes massive price drops.
 2. **Government payment delays (Score: 15)** — Structural; consumes cash and creates OCF volatility.
-3. **Order book momentum (Score: 12)** — Growth narrative depends on continued order wins. Order book-to-revenue ratio declining from 3.8x to 1.5x is a yellow flag.
+3. **Order book momentum (Score: 12)** — Growth narrative depends on continued order wins. The order book has surged to ₹1,868 Cr (Q3 FY26), reversing the earlier compression from 3.8x to 1.5x book-to-bill. However, sustaining this intake rate remains key.
 
 ---
 
@@ -828,7 +832,7 @@ At 77x earnings and 12.5x book, the downside risk is enormous. Any growth disapp
 **Not Applicable.** Data Patterns is NOT a turnaround. It is a high-growth defence company firing on all cylinders:
 - Revenue growing 30-35% CAGR
 - Margins at 38-45%
-- Order book at ₹1,095 Cr
+- Order book at ₹1,868 Cr (all-time high as of Q3 FY26)
 - Balance sheet clean (zero debt)
 - Employee count growing to meet demand
 
@@ -851,9 +855,9 @@ The only "problem" is the stock price, which has raced ahead of fundamentals.
 
 ### Buffett Verdict
 
-Data Patterns is a genuinely good defence electronics business riding India's powerful Atmanirbhar Bharat tailwind. It has real switching costs, a capable founder-promoter with 42% skin in the game, pristine balance sheet, 39% operating margins, and 30%+ revenue growth. The order book of ₹1,095 Cr provides near-term visibility. The ROCE of 21% on operating capital confirms business quality.
+Data Patterns is a genuinely good defence electronics business riding India's powerful Atmanirbhar Bharat tailwind. It has real switching costs, a capable founder-promoter with 42% skin in the game, pristine balance sheet, 39% operating margins, and 30%+ revenue growth. The order book of ₹1,868 Cr (all-time high as of Q3 FY26) provides strong near-term visibility. The ROCE of 21% on operating capital confirms business quality.
 
-**However, the stock at ₹3,442 is catastrophically overpriced.** At 77x earnings, 101x normalised Owner Earnings, and 12.5x book value for a business earning 15% ROE, there is ZERO margin of safety. The DCF shows overvaluation of 40-71% across all scenarios. The reverse DCF demands 25-30% EPS growth for a decade just to earn a mediocre 10% return — heroic assumptions for any single company. The P/B scenario analysis paints a 🔴 RED picture — any meaningful multiple compression destroys returns.
+**However, the stock at ₹3,442 is catastrophically overpriced.** At 77x earnings, 101x normalised Owner Earnings, and 12.5x book value for a business earning 15% ROE, there is ZERO margin of safety. The DCF shows the stock is priced 40-71% above intrinsic value across all scenarios (upside of -40% to -71% from CMP). The reverse DCF demands 24-29% EPS growth for a decade just to earn a mediocre 10% return — heroic assumptions for any single company. The P/B scenario analysis paints a 🔴 RED picture — any meaningful multiple compression destroys returns.
 
 **The business earns 15% ROE. You're paying 12.5x book. The math doesn't work.** At 1-3x book, this would be a wonderful investment. At 12.5x book, it's a speculation on sustained extreme growth AND sustained extreme multiples.
 
