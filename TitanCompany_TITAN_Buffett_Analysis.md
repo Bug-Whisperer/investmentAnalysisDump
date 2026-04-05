@@ -326,13 +326,13 @@ Titan is past the "early/pre-inflection" stage — the model is proven, the bran
 ### Buffett's $1 Test
 
 Over the last 10 years (FY15 to FY25):
-- Total earnings generated: ~₹18,000 Cr (cumulative net profit)
-- Total dividends paid: ~₹5,500 Cr
-- **Total retained earnings: ~₹12,500 Cr**
-- Market cap increase: from ~₹50,000 Cr (FY15) to ~₹3,67,000 Cr (today) = **~₹3,17,000 Cr increase**
-- **For every ₹1 retained, market value increased by ~₹25**
+- Total earnings generated: ~₹19,500 Cr (cumulative net profit)
+- Total dividends paid: ~₹5,600 Cr
+- **Total retained earnings: ~₹13,800 Cr**
+- Market cap increase: from ~₹45,000 Cr (FY15) to ~₹3,67,000 Cr (today) = **~₹3,22,000 Cr increase**
+- **For every ₹1 retained, market value increased by ~₹23**
 
-This is an extraordinary result. It means the market has valued each rupee of reinvested earnings at 25x — a testament to both the quality of capital allocation and the market's premium for Titan's compounding potential.
+This is an extraordinary result. It means the market has valued each rupee of reinvested earnings at 23x — a testament to both the quality of capital allocation and the market's premium for Titan's compounding potential.
 
 ### Capital Allocation Track Record
 
@@ -448,16 +448,14 @@ Titan has NEVER been "cheap" by traditional value metrics. It has almost always 
 | 9 | 14,489 | 5,645 |
 | 10 | 16,228 | 5,694 |
 | **PV of 10-Year Cash Flows** | | **52,636** |
-| Terminal Value @5% growth | 283,990 | 99,602 |
-| **Total Enterprise Value** | | **1,52,238** |
+| Terminal Value @5% growth (Gordon Growth Model) | 283,992 | 100,018 |
+| **Total Enterprise Value** | | **1,52,654** |
 | Less: Net Debt (est.) | | ~18,000 |
-| **Equity Value ₹ Cr** | | **~1,34,238** |
+| **Equity Value ₹ Cr** | | **~1,34,654** |
 | Shares (Cr) | | 88.8 |
-| **Intrinsic Value Per Share** | | **~₹1,512** |
+| **Intrinsic Value Per Share** | | **~₹1,517** |
 
-*Wait — this gives a dramatically lower value.* This is the mathematical reality of DCF for high-PE stocks. When you discount at 11% and use reasonable (not heroic) growth assumptions, the DCF value is far below the market price. This is NOT unusual for high-quality compounders that the market values on growth expectations.
-
-**The market is pricing in the Optimistic scenario (or beyond).** At ₹4,130, the market is implicitly assuming 20%+ earnings growth for a decade. Let's check this with the Reverse DCF in Section 13.
+> **Important note on the DCF disconnect:** The detailed walkthrough yields ~₹1,517/share — far below the ₹4,850 base case stated in the summary table. This is because the summary table uses a less rigorous, more market-realistic approach (applying a terminal PE multiple to Year 10 earnings rather than the Gordon Growth Model). The Gordon Growth DCF with an 11% discount rate mathematically cannot justify a ₹4,000+ price for any company growing at 17% — the discount rate crushes the present value. The summary table reflects what the market ACTUALLY pays for such compounders: a terminal multiple approach where the market assigns 50-65x PE to Year 10 earnings. The true DCF is the honest answer; the market pricing reflects optimism that Buffett would caution against.
 
 ---
 
@@ -478,33 +476,33 @@ Titan has NEVER been "cheap" by traditional value metrics. It has almost always 
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 49.5% | 57.5% | 66.0% |
-| 10 Years | 27.0% | 32.0% | 37.0% |
-| 15 Years | 21.0% | 25.5% | 30.0% |
+| 5 Years | 57.0% | 64.1% | 71.3% |
+| 10 Years | 31.4% | 37.4% | 43.4% |
+| 15 Years | 23.8% | 29.5% | 35.1% |
 
 #### At Terminal PE = 25x (Market Avg for Quality)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 36.0% | 44.0% | 52.5% |
-| 10 Years | 21.5% | 26.5% | 31.5% |
-| 15 Years | 17.5% | 22.0% | 26.5% |
+| 5 Years | 41.7% | 48.2% | 54.6% |
+| 10 Years | 24.9% | 30.5% | 36.2% |
+| 15 Years | 19.7% | 25.1% | 30.6% |
 
 #### At Terminal PE = 50x (Premium Compounder)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 22.0% | 29.5% | 37.5% |
-| 10 Years | 15.0% | 20.0% | 25.0% |
-| 15 Years | 13.0% | 17.5% | 22.0% |
+| 5 Years | 23.4% | 29.0% | 34.6% |
+| 10 Years | 16.5% | 21.8% | 27.1% |
+| 15 Years | 14.3% | 19.5% | 24.7% |
 
 #### At Terminal PE = 70x (Historical Median)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 17.0% | 24.0% | 32.0% |
-| 10 Years | 12.5% | 17.0% | 22.0% |
-| 15 Years | 11.0% | 15.5% | 20.0% |
+| 5 Years | 15.4% | 20.6% | 25.9% |
+| 10 Years | 12.7% | 17.8% | 22.9% |
+| 15 Years | 11.8% | 16.8% | 21.9% |
 
 ### Step 4: Reality Check
 
@@ -518,16 +516,16 @@ Titan has NEVER been "cheap" by traditional value metrics. It has almost always 
 ### Traffic Light Assessment
 
 **To earn just 10% annualised over 10 years:**
-- If terminal PE = 70x (stays at historical median): need 12.5% EPS CAGR → 🟢 GREEN (below historical 15% CAGR)
-- If terminal PE = 50x: need 15% EPS CAGR → 🟢 GREEN (equals historical CAGR)
-- If terminal PE = 25x: need 21.5% EPS CAGR → 🟠 ORANGE (above historical CAGR)
-- If terminal PE = 15x: need 27% EPS CAGR → 🔴 RED (far above anything sustainable)
+- If terminal PE = 70x (stays at historical median): need 12.7% EPS CAGR → 🟢 GREEN (below historical 15% CAGR)
+- If terminal PE = 50x: need 16.5% EPS CAGR → 🟡 YELLOW (slightly above historical CAGR)
+- If terminal PE = 25x: need 24.9% EPS CAGR → 🔴 RED (far above historical CAGR)
+- If terminal PE = 15x: need 31.4% EPS CAGR → 🔴 RED (impossible to sustain for a large-cap)
 
 **The critical assumption is: WILL Titan sustain a 50-70x PE over the next decade?** If yes, 10%+ returns are achievable with 12-15% EPS growth (which is realistic). If PE compresses to 25-30x (which has happened to many "quality" stocks globally), the returns are mediocre even with strong earnings growth.
 
 ### Step 5: The Verdict
 
-> **"At the current price of ₹4,130, to earn a 10% annualised return over 10 years assuming the market values the business at 50x PE at exit, the company needs to grow EPS at 15% CAGR. The company has historically grown EPS at 15% CAGR. This implies the market is pricing in roughly its historical growth rate to continue — which is REASONABLE but leaves very little margin of safety. Any PE de-rating, even modest, would significantly compress returns."**
+> **"At the current price of ₹4,130, to earn a 10% annualised return over 10 years assuming the market values the business at 50x PE at exit, the company needs to grow EPS at 16.5% CAGR. The company has historically grown EPS at 15% CAGR. This implies the market is pricing in slightly above its historical growth rate — which is REASONABLE but leaves very little margin of safety. Any PE de-rating, even modest, would significantly compress returns."**
 
 > **Traffic Light: 🟡 YELLOW** — Fair but optimistic. You're betting that Titan can sustain 15%+ EPS growth AND that the market continues to award a 50x+ PE multiple. Both are plausible but neither is guaranteed.
 
@@ -607,33 +605,33 @@ ROCE (19%) being BELOW ROE (32%) confirms this: leverage is doing significant wo
 | Year | Projected BVPS |
 |---|---|
 | Current | ₹131 |
-| Year 5 | ₹326 |
-| Year 7 | ₹471 |
-| Year 10 | ₹816 |
+| Year 5 | ₹328 |
+| Year 7 | ₹474 |
+| Year 10 | ₹822 |
 
 **Expected Return CAGR at CMP ₹4,130:**
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 31.5x | Extremely optimistic | 20.2% | 20.2% | 20.2% |
-| P/B compresses to 24x | Mild de-rating | 14.9% | 17.0% | 18.0% |
-| P/B compresses to 18x | Moderate de-rating | 9.1% | 13.0% | 15.5% |
-| P/B compresses to 12x | Historical low (fair for 28% ROE business) | 1.0% | 7.3% | 12.0% |
-| P/B compresses to 8x | Severe de-rating | -7.5% | 1.4% | 8.0% |
+| P/B stays at 31.5x | Extremely optimistic | 20.1% | 20.1% | 20.1% |
+| P/B compresses to 24x | Mild de-rating | 13.8% | 15.6% | 17.0% |
+| P/B compresses to 18x | Moderate de-rating | 7.5% | 11.0% | 13.6% |
+| P/B compresses to 12x | Historical low (fair for 28% ROE business) | -0.9% | 4.7% | 9.1% |
+| P/B compresses to 8x | Severe de-rating | -8.6% | -1.2% | 4.8% |
 
 ### Key Insight
 
-> **"At the current entry P/B of 31.5x with a sustainable ROE of 28% and 72% retention, book value compounds at ~20% annually. If the P/B multiple remains at 31.5x, the return equals 20.2% — outstanding. However, the stock can only tolerate P/B compression from 31.5x down to approximately 18x before the 10-year return drops below the 15% hurdle rate. If P/B halves to 16x (still a premium multiple!), 10-year returns drop to ~13%. The margin for error is thin."**
+> **"At the current entry P/B of 31.5x with a sustainable ROE of 28% and 72% retention, book value compounds at ~20% annually. If the P/B multiple remains at 31.5x, the return equals ~20% — outstanding. However, the stock can only tolerate P/B compression from 31.5x down to approximately 20x before the 10-year return drops below the 15% hurdle rate. If P/B halves to ~16x, 10-year returns drop to ~12%. The margin for error is thin."**
 
 ### Traffic Light Verdict
 
 | Condition | Verdict |
 |---|---|
-| 10-year return > 15% even if P/B halves (to 16x) | ❌ No — returns drop to ~13% |
-| 10-year return > 10% even if P/B drops to 12x | ✅ Yes — returns are ~12% |
+| 10-year return > 15% even if P/B halves (to 16x) | ❌ No — returns drop to ~12% |
+| 10-year return > 10% even if P/B drops to 12x | ❌ No — returns are ~9% |
 | 10-year return > 15% only if P/B stays above 20x | ⚠️ Yellow — dependent on premium sustaining |
 
-**Verdict: 🟡 YELLOW — Risky entry if you demand 15%+ returns. Adequate if 10-12% returns suffice and you believe the premium sustains.**
+**Verdict: 🟡 YELLOW — Risky entry if you demand 15%+ returns. Even 10-12% returns require the P/B to stay above ~14x, which is still a significant premium.**
 
 > **Munger:** *"Over the long term, it's hard for a stock to earn a much better return than the business earns."* The business earns 28% ROE — but you're paying 31.5x book for access to that compounding. At this entry price, you capture perhaps 12-15% of the 20% BV compounding rate, depending on multiple sustainability.
 
@@ -741,12 +739,12 @@ Titan will have its moment of weakness — a bad quarter, a gold price shock, a 
 **Does the math make sense without Excel?**
 
 Quick napkin math:
-- Titan earns ₹46 per share (TTM)
-- Stock price: ₹4,130 → you're paying 89 years of current earnings
-- If earnings grow at 15% for 10 years → ₹186 EPS
-- At 50x PE (conservative for a compounder) → ₹9,300 stock price
-- From ₹4,130 to ₹9,300 = ~8.5% annual return
-- At 65x PE → ₹12,090 → ~11.3% annual return
+- Titan earns ₹46.5 per share (TTM)
+- Stock price: ₹4,130 → you're paying ~89 years of current earnings
+- If earnings grow at 15% for 10 years → ₹188 EPS
+- At 50x PE (conservative for a compounder) → ₹9,400 stock price
+- From ₹4,130 to ₹9,400 = ~8.6% annual return
+- At 65x PE → ₹12,220 → ~11.5% annual return
 
 **The napkin math gives 8-11% returns — decent but not exciting for the risk you're taking.** Buffett would want 15%+ from a stock like this.
 
