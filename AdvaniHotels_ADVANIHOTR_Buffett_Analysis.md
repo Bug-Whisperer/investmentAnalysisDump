@@ -32,7 +32,7 @@ The hotel business itself is capital-intensive and cyclical. However, AHRIL's sp
 | Metric | Mar 2014 | Mar 2015 | Mar 2016 | Mar 2017 | Mar 2018 | Mar 2019 | Mar 2020 | **Mar 2021** | Mar 2022 | **Mar 2023** | Mar 2024 | Mar 2025 | TTM |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 40 | 48 | 53 | 60 | 62 | 70 | 70 | **27** | 51 | **99** | 105 | 107 | 105 |
-| Revenue Growth YoY | — | 20.0% | 10.4% | 13.2% | 3.3% | 12.9% | 0.0% | **-61.4%** | **86.9%** | 94.1% | 6.1% | 1.9% | -1.9% |
+| Revenue Growth YoY | — | 20.0% | 10.4% | 13.2% | 3.3% | 12.9% | 0.0% | **-61.4%** | **88.9%** | 94.1% | 6.1% | 1.9% | -1.9% |
 | Operating Profit | 7 | 11 | 14 | 17 | 15 | 16 | 17 | **-3** | 11 | **39** | 34 | 35 | 32 |
 | **OPM %** | 18% | 23% | 26% | **29%** | 24% | 23% | 24% | **-10%** | 21% | **40%** | 32% | 32% | 30% |
 | Other Income | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 2 | 3 | 4 | 3 |
@@ -62,7 +62,7 @@ The income statement tells a dramatic story of COVID destruction and post-COVID 
 
 **COVID Collapse (FY2021):** Revenue cratered 61% to ₹27 Cr, OPM swung to -10%, and the company posted a ₹4 Cr net loss. This was the **worst year** across all metrics.
 
-**Post-COVID Boom (FY2022–FY2023):** The Goa tourism supercycle hit. Revenue surged 87% in FY2022 and another 94% in FY2023, reaching ₹99 Cr — **42% above the pre-COVID peak**. OPM exploded to 40%, and net profit hit ₹29 Cr — the **best year ever** by a wide margin. The operating leverage of a hotel business was on full display.
+**Post-COVID Boom (FY2022–FY2023):** The Goa tourism supercycle hit. Revenue surged 89% in FY2022 and another 94% in FY2023, reaching ₹99 Cr — **42% above the pre-COVID peak**. OPM exploded to 40%, and net profit hit ₹29 Cr — the **best year ever** by a wide margin. The operating leverage of a hotel business was on full display.
 
 **Normalisation (FY2024–FY2025):** Revenue has stabilised at ₹105–107 Cr, with OPM settling around 32%. Net profit of ₹25–26 Cr represents the new normalised earning power. The TTM shows slight decline, suggesting the post-COVID exuberance is moderating.
 
@@ -409,12 +409,12 @@ For every ₹1 of retained earnings, has the company created at least ₹1 of ma
 | Market Cap FY2015 (approx. at ~₹13-14/share pre-bonus × 4.64 Cr shares) | ~₹65 Cr |
 | Market Cap FY2025 (₹51.1 × 9.27 Cr shares) | ₹474 Cr |
 | Change in Market Cap | +₹409 Cr |
-| Total Net Profit FY2015–FY2025 | ₹123 Cr (4+6+9+9+11+11-4+7+29+25+26) |
-| Total Dividends Paid FY2015–FY2025 (estimated from payout %) | ~₹82 Cr |
-| Total Retained Earnings | ~₹41 Cr |
-| **Market Value Created per ₹1 Retained** | **~₹10.0** |
+| Total Net Profit FY2015–FY2025 | ₹133 Cr (4+6+9+9+11+11-4+7+29+25+26) |
+| Total Dividends Paid FY2015–FY2025 (from cash flow statement) | ~₹84 Cr |
+| Total Retained Earnings | ~₹49 Cr |
+| **Market Value Created per ₹1 Retained** | **~₹8.3** |
 
-The $1 Test is passed with flying colours. For every ₹1 retained, management has created approximately ₹10 in market value. This is exceptional, though much of it reflects the market re-rating the stock from deeply undervalued levels rather than management creating operating value through reinvestment.
+The $1 Test is passed with flying colours. For every ₹1 retained, management has created approximately ₹8.3 in market value. This is exceptional, though much of it reflects the market re-rating the stock from deeply undervalued levels rather than management creating operating value through reinvestment.
 
 ### Capital Allocation Track Record
 
@@ -503,7 +503,7 @@ The Screener Insights section shows operating metrics behind a paywall. However,
 | EV/EBITDA (est.) | ~11.5x | (Mkt Cap ₹474 + Debt ₹1 - Cash ~₹48) / EBITDA ₹38 ≈ ₹427/38 |
 | P/FCF (FY2025) | ~26x | ₹474 / ₹18 FCF |
 | P/Owner Earnings | ~18.2x | ₹474 / ₹26 Owner Earnings |
-| Earnings Yield | 5.4% | 1 / 18.5 PE |
+| Earnings Yield | 5.6% | 1 / 17.9 PE (FY2025 basis) |
 | FCF Yield (FY2025) | 3.8% | |
 | PEG Ratio | 0.33 | (Screener) using 5Y profit CAGR of 18.5% |
 
@@ -636,9 +636,9 @@ The stock has historically been much cheaper. Pre-COVID, it traded at P/E multip
 
 | Scenario | Intrinsic Value/Share | Current Price | Margin of Safety | Upside/(Downside) |
 |---|---|---|---|---|
-| **Conservative** | ₹29.87 | ₹51.1 | **-41.5%** | -41.5% OVERVALUED |
-| **Base Case** | ₹37.42 | ₹51.1 | **-26.8%** | -26.8% OVERVALUED |
-| **Optimistic** | ₹49.61 | ₹51.1 | **-2.9%** | -2.9% SLIGHTLY OVERVALUED |
+| **Conservative** | ₹29.87 | ₹51.1 | **-71.1%** | -41.5% OVERVALUED |
+| **Base Case** | ₹37.42 | ₹51.1 | **-36.6%** | -26.8% OVERVALUED |
+| **Optimistic** | ₹49.61 | ₹51.1 | **-3.0%** | -2.9% SLIGHTLY OVERVALUED |
 
 ### DCF Verdict
 
@@ -685,33 +685,33 @@ At ₹51.1, you're paying a FULL price for a wonderful but non-growing asset. Th
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **20.8%** EPS CAGR needed | 27.5% | 34.4% |
-| 10 Years | 13.3% EPS CAGR needed | 16.7% | 20.2% |
-| 15 Years | 10.7% EPS CAGR needed | 13.5% | 16.3% |
+| 5 Years | **15.5%** EPS CAGR needed | 20.7% | 26.0% |
+| 10 Years | 12.7% EPS CAGR needed | 17.8% | 23.0% |
+| 15 Years | 11.8% EPS CAGR needed | 16.9% | 22.0% |
 
 #### At Terminal PE = 20x (Market Average / Current)
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **12.8%** EPS CAGR needed | 19.2% | 25.7% |
-| 10 Years | **9.1%** EPS CAGR needed | 12.4% | 15.8% |
-| 15 Years | 7.8% EPS CAGR needed | 10.5% | 13.3% |
+| 5 Years | **7.5%** EPS CAGR needed | 12.4% | 17.3% |
+| 10 Years | **8.8%** EPS CAGR needed | 13.7% | 18.7% |
+| 15 Years | 9.2% EPS CAGR needed | 14.1% | 19.1% |
 
 #### At Terminal PE = 25x (Compounder Premium)
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **8.2%** EPS CAGR needed | 14.4% | 20.8% |
-| 10 Years | 6.8% EPS CAGR needed | 10.0% | 13.2% |
-| 15 Years | 6.0% EPS CAGR needed | 8.7% | 11.4% |
+| 5 Years | **2.9%** EPS CAGR needed | 7.5% | 12.2% |
+| 10 Years | 6.4% EPS CAGR needed | 11.2% | 16.0% |
+| 15 Years | 7.6% EPS CAGR needed | 12.5% | 17.3% |
 
 #### At Terminal PE = 15x (Historical Average)
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **19.2%** EPS CAGR needed | 25.9% | 32.7% |
-| 10 Years | 12.4% EPS CAGR needed | 15.8% | 19.2% |
-| 15 Years | 10.0% EPS CAGR needed | 12.7% | 15.5% |
+| 5 Years | **13.9%** EPS CAGR needed | 19.1% | 24.3% |
+| 10 Years | 11.9% EPS CAGR needed | 17.0% | 22.1% |
+| 15 Years | 11.3% EPS CAGR needed | 16.3% | 21.4% |
 
 ### Step 4: Reality Check
 
@@ -728,13 +728,13 @@ At ₹51.1, you're paying a FULL price for a wonderful but non-growing asset. Th
 
 At the most realistic terminal PE of 15-20x (the stock's historical range):
 
-- **To earn 10% over 10 years at 15x exit PE:** Need 12.4% EPS CAGR vs. realistic 5-8% → 🟠 **ORANGE — Expensive**
-- **To earn 10% over 10 years at 20x exit PE:** Need 9.1% EPS CAGR vs. realistic 5-8% → 🟡 **YELLOW — Fair but optimistic**
-- **To earn 15% over 10 years at 20x exit PE:** Need 12.4% EPS CAGR vs. realistic 5-8% → 🔴 **RED — Need unrealistic growth**
+- **To earn 10% over 10 years at 15x exit PE:** Need 11.9% EPS CAGR vs. realistic 5-8% → 🟠 **ORANGE — Expensive**
+- **To earn 10% over 10 years at 20x exit PE:** Need 8.8% EPS CAGR vs. realistic 5-8% → 🟡 **YELLOW — Fair but optimistic**
+- **To earn 15% over 10 years at 20x exit PE:** Need 13.7% EPS CAGR vs. realistic 5-8% → 🔴 **RED — Need unrealistic growth**
 
 ### Step 5: The Verdict
 
-> **"At the current price of ₹51.1, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 9.1% CAGR. The company's realistic growth rate going forward is 5-8% (limited to room rate inflation for a single-property hotel near capacity). This implies the market is pricing in mildly optimistic growth — the price is FAIR to SLIGHTLY EXPENSIVE. To earn 15%+ returns, you need the multiple to expand or growth to accelerate beyond realistic levels."**
+> **"At the current price of ₹51.1, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 8.8% CAGR. The company's realistic growth rate going forward is 5-8% (limited to room rate inflation for a single-property hotel near capacity). This implies the market is pricing in mildly optimistic growth — the price is FAIR to SLIGHTLY EXPENSIVE. To earn 15%+ returns, you need the multiple to expand or growth to accelerate beyond realistic levels."**
 
 The saving grace is the 3.7% dividend yield. Including dividends, the total return math improves: 5% earnings yield + 3.7% dividend yield + 5-8% earnings growth, with some overlap, could deliver ~8-10% total returns if the multiple holds. But this requires the P/E to SUSTAIN at current levels — which is above historical averages.
 
@@ -870,9 +870,9 @@ There is no pessimism here. The stock has been re-rated from deeply undervalued 
 | Year | Projected BVPS | Calculation |
 |---|---|---|
 | Current (FY2025) | ₹8.74 | Actual |
-| Year 5 (FY2030) | ₹14.19 | 8.74 × (1.102)^5 |
-| Year 7 (FY2032) | ₹17.22 | 8.74 × (1.102)^7 |
-| Year 10 (FY2035) | ₹23.27 | 8.74 × (1.102)^10 |
+| Year 5 (FY2030) | ₹14.20 | 8.74 × (1.102)^5 |
+| Year 7 (FY2032) | ₹17.25 | 8.74 × (1.102)^7 |
+| Year 10 (FY2035) | ₹23.08 | 8.74 × (1.102)^10 |
 
 #### Step 3: Expected Return CAGR Under Different Exit P/B Scenarios
 
@@ -881,11 +881,11 @@ There is no pessimism here. The stock has been re-rated from deeply undervalued 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
 | P/B stays at 5.85x | Multiple sustains | 10.2% | 10.2% | 10.2% |
-| P/B compresses to 4.4x (75% of current) | Mild de-rating | 4.4% | 6.0% | 7.3% |
-| P/B compresses to 2.93x (50% of current) | Significant de-rating | -3.0% | 0.9% | 3.7% |
-| P/B compresses to 3.5x (Fair P/B calc) | Reverts to theoretical fair | -0.6% | 2.9% | 5.4% |
-| P/B compresses to 3.0x (historical median) | Reverts to historical | -2.6% | 1.2% | 4.0% |
-| P/B compresses to 1.0x Book | Worst case for quality co. | -21.0% | -13.5% | -7.5% |
+| P/B compresses to 4.4x (75% of current) | Mild de-rating | 4.1% | 5.8% | 7.1% |
+| P/B compresses to 2.93x (50% of current) | Significant de-rating | -4.0% | -0.2% | 2.8% |
+| P/B compresses to 3.5x (Fair P/B calc) | Reverts to theoretical fair | -0.5% | 2.4% | 4.7% |
+| P/B compresses to 3.0x (historical median) | Reverts to historical | -3.6% | 0.2% | 3.1% |
+| P/B compresses to 1.0x Book | Worst case for quality co. | -22.6% | -14.4% | -7.6% |
 
 *Fair P/B Calculation: ROE=30%, g=10.2%, CoE=12% → Fair P/B = (30%-10.2%)/(12%-10.2%) = 19.8%/1.8% = 11.0x. This seems unreasonably high because the Gordon Growth model breaks down when g approaches CoE. Using a more conservative approach: Fair P/B with 5% assumed sustainable growth = (30%-5%)/(12%-5%) = 25%/7% = 3.57x.*
 
@@ -899,7 +899,7 @@ This means the P/B multiple can only drop about 23% before returns fall below th
 
 | Condition | Verdict | Signal |
 |---|---|---|
-| 10-year return > 10% even if P/B halves (to 2.93x) | NO — return would be only 3.7% | 🔴 RED |
+| 10-year return > 10% even if P/B halves (to 2.93x) | NO — return would be only 2.8% | 🔴 RED |
 | 10-year return > 10% only if P/B stays within 25% of current | YES — needs P/B to stay above ~4.5x | 🟡 YELLOW |
 | 10-year return < 10% unless P/B EXPANDS | — | — |
 
