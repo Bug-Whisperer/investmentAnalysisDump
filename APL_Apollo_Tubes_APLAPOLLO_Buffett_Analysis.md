@@ -422,7 +422,7 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | Less: Net Debt | | -634 |
 | **Equity Value** | | **30,926** |
 | **Intrinsic Value Per Share** | | **₹1,113** |
-| **Margin of Safety at ₹1,933** | | **-42% (overvalued)** |
+| **Margin of Safety at ₹1,933** | | **-74% (overvalued)** |
 
 #### Scenario 2: Base Case
 - Growth Years 1-5: 18% (in line with 5Y profit CAGR)
@@ -474,15 +474,15 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | Less: Net Debt | | -634 |
 | **Equity Value** | | **76,673** |
 | **Intrinsic Value Per Share** | | **₹2,759** |
-| **Margin of Safety at ₹1,933** | | **+43% upside** |
+| **Margin of Safety at ₹1,933** | | **+30% (margin of safety)** |
 
 ### Summary Table
 
 | Scenario | Intrinsic Value Per Share | Margin of Safety at ₹1,933 | Upside/(Downside) |
 |---|---|---|---|
-| **Conservative** | **₹1,113** | **-42%** | **Overvalued by 74%** |
+| **Conservative** | **₹1,113** | **-74%** | **Overvalued by 42%** |
 | **Base** | **₹1,873** | **-3%** | **Roughly Fair** |
-| **Optimistic** | **₹2,759** | **+43%** | **43% Upside** |
+| **Optimistic** | **₹2,759** | **+30%** | **43% Upside** |
 
 **The DCF tells us:** At ₹1,933, the stock is pricing in the Base-to-Optimistic scenario. There is NO margin of safety at the current price unless the company delivers growth ABOVE its historical averages. This is the price you'd pay if everything goes right.
 
