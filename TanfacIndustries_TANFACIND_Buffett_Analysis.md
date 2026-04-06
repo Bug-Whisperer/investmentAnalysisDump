@@ -113,7 +113,7 @@ Tanfac's balance sheet transformation is one of the most remarkable in Indian sm
 | CapEx (Est.) (₹ Cr) | ~0 | ~0 | 1 | 1 | 1 | 2 | 9 | 12 | 15 | 15 | 36 | **96** |
 | Free Cash Flow (₹ Cr) | 19 | 9 | 15 | 15 | 16 | **35** | 13 | 25 | 29 | 28 | **-2** | **-63** |
 | FCF Margin | 16.2% | 7.5% | 11.3% | 11.9% | 9.9% | **15.8%** | 7.9% | 16.9% | 9.1% | 7.5% | **-0.5%** | **-11.3%** |
-| FCF Per Share (₹) | 190 | 90 | 150 | 150 | 160 | **351** | 130 | 251 | 291 | 281 | **-20** | **-631** |
+| FCF Per Share (₹) | 19.0 | 9.0 | 15.0 | 15.0 | 16.0 | **35.1** | 13.0 | 25.1 | 29.1 | 28.1 | **-2.0** | **-63.2** |
 | Cash from Investing (₹ Cr) | 0 | 0 | -1 | -1 | -1 | -3 | -9 | -34 | -35 | -40 | -30 | **-42** |
 | Cash from Financing (₹ Cr) | **-19** | **-10** | **-15** | **-15** | **-17** | **-34** | -12 | -1 | -5 | -6 | -7 | **32** |
 | Dividends Paid (₹ Cr Est.) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 9 | 7 | 7 | 9 |
@@ -141,9 +141,9 @@ The shift to positive financing cash flow in FY25 (₹32 Cr) reflects new borrow
 | Est. Growth CapEx | — | — | 3 | 7 | 4 | 2 | 23 | **77** |
 | D&A (₹ Cr) | 5 | 8 | 5 | 8 | 6 | 6 | 7 | **10** |
 | **Owner Earnings** (NP + D&A - Maint CapEx) | 9 | 36 | 16 | 20 | 48 | 49 | 46 | **79** |
-| Owner Earnings Per Share (₹) | 90 | 361 | 160 | 200 | 481 | 491 | 461 | **792** |
+| Owner Earnings Per Share (₹) | 9.3 | 36.3 | 16.2 | 19.8 | 47.9 | 49.0 | 45.9 | **78.7** |
 
-FY25 Owner Earnings of ~₹79 Cr (₹792/share) represent the **true sustainable earning power** of the business, stripping out growth CapEx. At the current price of ₹4,100, the stock trades at ~5.2x Owner Earnings — a reasonable price for a business with Tanfac's growth trajectory.
+FY25 Owner Earnings of ~₹79 Cr (₹78.7/share) represent the **true sustainable earning power** of the business, stripping out growth CapEx. At the current price of ₹4,100, the stock trades at ~52x Owner Earnings — expensive, reflecting the market's confidence in the growth trajectory but leaving little margin for error.
 
 > *Buffett: "Owner earnings are the relevant item for valuation purposes — not accounting earnings."*
 
@@ -301,7 +301,7 @@ This is an **outstanding** result. Management has created massive value from ret
 |---|---|---|---|---|---|
 | PE Ratio | 43.5x | 46.4x | 78.0x* | 72.8x* | 76.7x* |
 | P/B Ratio | 12.0x | 13.1x | ~17.8x* | ~22.2x* | ~30.5x* |
-| P/Owner Earnings | 5.2x | 5.2x | — | — | — |
+| P/Owner Earnings | 52.1x | 52.1x | — | — | — |
 | EV/EBITDA | ~29x | ~31x | — | — | — |
 | Earnings Yield | 2.3% | 2.2% | — | — | — |
 | Dividend Yield | 0.2% | ~0.2% | ~0.2% | — | — |
@@ -313,7 +313,7 @@ This is an **outstanding** result. Management has created massive value from ret
 At ₹4,100, Tanfac trades at **43.5x TTM earnings and 12x book value**. These are optically expensive multiples. However:
 
 - The TTM PE of 43.5x on normalised earnings of ₹94/share is high but must be contextualised against 39% 5Y EPS CAGR and strong forward visibility (Japanese contract, new capacity).
-- The P/Owner Earnings of 5.2x is far more attractive — the gap between PE and P/OE reflects the heavy growth CapEx that depresses reported FCF but builds future earning power.
+- The P/Owner Earnings of 52x is similarly expensive — while the heavy growth CapEx that depresses reported FCF is building future earning power, the current price demands sustained high-growth execution to justify.
 - At 12x book, the market is pricing in sustained high ROE well above cost of equity — which the company HAS delivered consistently.
 
 > *Buffett: "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* Tanfac IS a wonderful business. The question is whether 43x PE / 12x book is "fair" or "expensive." The answer depends entirely on how long the 30%+ ROE can persist and whether the ₹500+ Cr of new investment earns comparable returns.
@@ -334,20 +334,20 @@ At ₹4,100, Tanfac trades at **43.5x TTM earnings and 12x book value**. These a
 | **PV of Cash Flows (₹ Cr)** | **1,914** | **3,346** | **6,245** |
 | Less: Net Debt (₹ Cr) | 32 | 32 | 32 |
 | **Equity Value (₹ Cr)** | **1,882** | **3,314** | **6,213** |
-| **Intrinsic Value Per Share** | **₹18,866** | **₹33,217** | **₹62,276** |
-| **Margin of Safety at ₹4,100** | **78.3%** | **87.7%** | **93.4%** |
+| **Intrinsic Value Per Share** | **₹1,887** | **₹3,322** | **₹6,228** |
+| **Margin of Safety at ₹4,100** | **-117%** | **-23%** | **34%** |
 
-**Important Caveat**: The DCF shows an enormous margin of safety — but this is partly because: (a) the starting owner earnings are high relative to the current market cap for a 12x book company, and (b) compounding at 15-30% for 10 years produces very large terminal values. The market may be rationally skeptical that 30%+ ROE can persist for a decade in a specialty chemicals business facing commodity risk. These DCF values should be treated as **directional**, not precise.
+**Important Caveat**: The DCF reveals that on conservative and base-case assumptions, the stock is **overvalued** at the current price of ₹4,100. Only the optimistic scenario (30%/18% growth, 10% discount rate) produces intrinsic value above CMP, with a 34% margin of safety. This means the market is currently pricing in growth assumptions that sit between the base and optimistic scenarios — roughly 25%+ earnings growth for a decade. While not impossible given the 39% historical EPS CAGR and secured contracts, this is aggressive and leaves limited margin for error. The DCF underscores that Tanfac is priced for excellence, not mediocrity.
 
 ### Summary
 
-| Scenario | IV Per Share | MoS at ₹4,100 | Upside |
+| Scenario | IV Per Share | MoS at ₹4,100 | Upside/Downside |
 |---|---|---|---|
-| Conservative (15%/10% growth, 12% DR) | ₹18,866 | 78.3% | +360% |
-| Base (22%/14% growth, 11% DR) | ₹33,217 | 87.7% | +710% |
-| Optimistic (30%/18% growth, 10% DR) | ₹62,276 | 93.4% | +1,419% |
+| Conservative (15%/10% growth, 12% DR) | ₹1,887 | -117% (Overvalued) | -54% |
+| Base (22%/14% growth, 11% DR) | ₹3,322 | -23% (Overvalued) | -19% |
+| Optimistic (30%/18% growth, 10% DR) | ₹6,228 | 34% | +52% |
 
-Even the **conservative** scenario implies massive undervaluation. This is typical for small-cap Indian compounders at an inflection point — the DCF captures the compounding power that the market may take years to fully price in.
+The conservative and base-case DCF scenarios indicate the stock is **overvalued** at ₹4,100. Only the optimistic scenario — which requires 30% earnings growth for 5 years followed by 18% for another 5 years — justifies the current price with a reasonable margin of safety. This is a critical finding: the market is pricing Tanfac as if the optimistic scenario is the most likely outcome. The margin of error is thin.
 
 ---
 
@@ -426,14 +426,15 @@ The reverse DCF tells us that even with significant PE compression from the curr
 |---|---|---|---|
 | Asset/Liquidation Floor | BVPS ₹341 × 1.0x | ₹341 | -91.7% |
 | Recession/Trough Earnings | Worst EPS ₹17 × 12x PE | ₹204 | -95.0% |
-| Normalised Bear Case | Conservative DCF IV | ₹18,866 | (actually upside) |
+| Normalised Bear Case | Conservative DCF IV | ₹1,887 | -54.0% |
 | Market-Panic Floor | Historical low P/B ~5x × BVPS ₹341 | ₹1,705 | -58.4% |
 
 #### Upside Case
 
 | Scenario | Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
-| Base Case | Base DCF IV | ₹33,217 | +710% |
+| Base Case | Base DCF IV | ₹3,322 | -19% (Overvalued) |
+| Optimistic Case | Optimistic DCF IV | ₹6,228 | +52% |
 | BV Compounding (5Y @ 28% ROE) | BVPS ₹1,025 × 8x P/B | ₹8,200 | +100% |
 | Japanese Contract Re-rating | ₹337.5 Cr/yr revenue adds ₹150 Cr NP → EPS ₹150+ × 30x | ₹4,500+ | +10%+ near-term |
 
@@ -559,9 +560,9 @@ This is a **decent but not exceptional** asymmetry ratio. The high current P/B (
 | Management Trustworthy | ARIL promoter with domain expertise, 51.8% ownership, no governance red flags | ✅ |
 | Resistant to Disruption | Fluorine chemistry unchanged for decades; demand growing from new applications | ✅ |
 | Sustainable Economics 10+ Years | 30%+ ROE, 40%+ ROCE, expanding capacity with secured contracts | ✅ |
-| Price Below Intrinsic Value | DCF shows massive margin of safety; reverse DCF shows reasonable implied growth | ✅ (marginal) |
+| Price Below Intrinsic Value | DCF base case shows stock is overvalued; only optimistic case shows 34% MoS. Reverse DCF shows market pricing in aggressive but not unreasonable growth. BV compounding math is more supportive. | ❌ (on DCF) / ✅ (on BV compounding) |
 
-**Score: 6/6 on quality, 5.5/6 including valuation** (valuation is fair, not cheap).
+**Score: 5/6 on quality. Valuation is the weak link** — the business passes every quality test, but the price demands near-optimistic execution.
 
 ### Honest Verdict
 
@@ -610,11 +611,11 @@ With a **small capital base**, Buffett would approach Tanfac like he approached 
 | Management Quality | **8** | ARIL promoter with domain expertise; disciplined capital allocation; meaningful insider ownership |
 | Return on Capital | **9** | 5Y avg ROCE 45%, ROE 33% — driven by margins and efficiency, NOT leverage. Exceptional. |
 | Scalability | **7** | Capital-intensive but generating exceptional returns; 20,000 TPA expansion + Japanese contract provide clear runway |
-| Valuation | **6** | 43x PE / 12x P/B is fair-to-slightly-expensive for the quality and growth; not cheap but not crazy |
-| Margin of Safety | **6** | DCF shows massive MoS; P/B analysis shows 10-year returns of 16%+ even if multiple halves; but 5Y returns vulnerable to de-rating |
-| **Buffett Verdict** | | Tanfac is a **high-quality specialty chemical compounder** at the inflection point of a major capacity expansion cycle. The business economics are exceptional (33% ROE, 42% ROCE), the moat is genuine and widening, and the forward revenue visibility from the ₹2,362 Cr Japanese contract is unusual for a company of this size. At ₹4,100 (~12x book, ~43x PE), the valuation is **fair but not cheap** — the market has already discovered this story. For a long-term holder (10+ years), the BV compounding at ~25% annually should deliver attractive returns even with some P/B compression. However, this is NOT a "fat pitch" at today's price — the best entry would be on a correction to the 8-10x P/B zone (₹2,700-₹3,400). **BUY on dips; HOLD if owned.** |
+| Valuation | **4** | 43x PE / 12x P/B / 52x Owner Earnings is expensive; DCF base case shows 23% overvaluation. Price demands near-optimistic execution. |
+| Margin of Safety | **3** | DCF shows overvaluation on conservative and base-case assumptions; only the optimistic case (34% MoS) justifies CMP. P/B compounding analysis is more supportive — 10-year returns of 16%+ even if P/B halves — but 5Y returns are vulnerable to de-rating. |
+| **Buffett Verdict** | | Tanfac is a **high-quality specialty chemical compounder** at the inflection point of a major capacity expansion cycle. The business economics are exceptional (33% ROE, 42% ROCE), the moat is genuine and widening, and the forward revenue visibility from the ₹2,362 Cr Japanese contract is unusual for a company of this size. However, at ₹4,100 (~12x book, ~43x PE, ~52x owner earnings), the stock is **priced for near-perfect execution**. The DCF shows the conservative and base-case intrinsic values (₹1,887 and ₹3,322) sit BELOW the current price — only the optimistic case (₹6,228) provides a margin of safety. The saving grace is the BV compounding math: at 28% ROE and 88% retention, book value compounds at ~25% annually, which overwhelms even significant P/B compression over a 10-year horizon. This is NOT a "fat pitch" at today's price — the best entry would be on a correction to the 8-10x P/B zone (₹2,700-₹3,400). **WAIT for a better price; HOLD if already owned.** |
 | **Buy Zone** | | Currently at the **Fair Value / Fully Valued boundary** (~12x P/B). Ideal entry at 8-10x P/B (₹2,700-₹3,400). |
-| **Overall Recommendation** | | **HOLD if owned. ACCUMULATE on corrections below ₹3,500. Initiate small position at current levels only for 10+ year time horizon.** |
+| **Overall Recommendation** | | **HOLD if owned (BV compounding protects long-term holders). DO NOT initiate new positions at ₹4,100 — wait for corrections to ₹2,700-₹3,400 (8-10x book). ACCUMULATE aggressively below ₹2,700 (8x book).** |
 
 ---
 
@@ -634,9 +635,9 @@ With a **small capital base**, Buffett would approach Tanfac like he approached 
 - In 5 years, BV reaches ~₹1,025/share. At 8x P/B = ₹8,200 (100% upside, ~15% CAGR)
 - In 10 years, BV reaches ~₹3,084/share. At 6x P/B = ₹18,500 (350% upside, ~16% CAGR)
 
-The math works. You don't need Excel. If the business continues compounding BV at 25% and the market pays even 6-8x book in the future, you earn 15-20% annually from today's price.
+The math works on BV compounding. You don't need Excel. If the business continues compounding BV at 25% and the market pays even 6-8x book in the future, you earn 15-20% annually from today's price. However, the DCF tells a more sobering story — on conservative assumptions (15%/10% growth, 12% discount rate), intrinsic value is only ₹1,887/share vs. the current ₹4,100. The BV compounding and DCF are not contradictory — they're measuring different things. The DCF uses owner earnings (which strip out growth CapEx), while BV compounding captures the full reinvestment cycle. The truth lies in between: the business IS excellent, but the price demands that the growth materialises as planned.
 
-> *Buffett: "If you need a spreadsheet, it's an automatic pass."* You don't need a spreadsheet for Tanfac. The thesis is simple: India's dominant fluorine chemical producer, widening moat, 28%+ ROE, secured long-term contracts, aggressive capacity expansion. The only question is price — and at 12x book, the answer is "fair, not cheap, but the compounding math works over 10 years."
+> *Buffett: "If you need a spreadsheet, it's an automatic pass."* You don't need a spreadsheet for Tanfac. The thesis is simple: India's dominant fluorine chemical producer, widening moat, 28%+ ROE, secured long-term contracts, aggressive capacity expansion. But Buffett also said: *"Price is what you pay, value is what you get."* At 12x book, you're paying a full price for that quality — the no-brainer entry would be at 6-8x book, where the math works on EVERY assumption, not just the optimistic ones.
 
 ---
 
