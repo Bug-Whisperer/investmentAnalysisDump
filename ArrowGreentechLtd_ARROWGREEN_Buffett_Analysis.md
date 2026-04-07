@@ -1,7 +1,7 @@
 # Arrow Greentech Ltd (ARROWGREEN) — Warren Buffett Deep-Dive Analysis
 
-**Date of Analysis:** 22 February 2026
-**CMP:** ₹414 | **Market Cap:** ₹624 Cr | **Stock P/E:** 12.1 | **P/B:** 2.95 | **ROCE:** 53.2% | **ROE:** 39.6%
+**Date of Analysis:** 7 April 2026 (Updated)
+**CMP:** ₹548 | **Market Cap:** ₹827 Cr | **Stock P/E:** 16.1 | **P/B:** 3.91 | **ROCE:** 53.2% | **ROE:** 39.6%
 **BSE:** 516064 | **NSE:** ARROWGREEN | **Face Value:** ₹10
 
 > **Sector Detection:** Arrow Greentech Ltd is a specialty packaging / green-products / high-tech products company. It is **NOT** a Bank, NBFC, Insurance Company, or other Financial Institution. **STANDARD MODE applies throughout this analysis.**
@@ -44,7 +44,7 @@ AGL is deploying capital at 48-53% ROIC, which places it in the highest echelon 
 | Metric | Mar 2014 | Mar 2015 | Mar 2016 | Mar 2017 | Mar 2018 | Mar 2019 | Mar 2020 | Mar 2021 | Mar 2022 | Mar 2023 | Mar 2024 | **Mar 2025** | TTM |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 35 | 49 | 51 | 53 | 35 | 34 | 22 | 52 | 34 | 109 | 149 | **243** | 216 |
-| Revenue Growth YoY | — | 142% | 5% | 4% | **-34%** | -1% | -36% | 138% | -36% | **223%** | 37% | 64% | -9% |
+| Revenue Growth YoY | — | 40% | 5% | 4% | **-34%** | -1% | -36% | 138% | -36% | **223%** | 37% | 64% | -9% |
 | Operating Expenses | 16 | 19 | 14 | 16 | 29 | 49 | 29 | 44 | 41 | 85 | 102 | 155 | 146 |
 | **Operating Profit** | 19 | 29 | 37 | 36 | 5 | **-14** | -7 | 9 | -7 | 24 | 47 | **89** | 70 |
 | **OPM %** | 54% | 60% | **73%** | 69% | 16% | **-42%** | -34% | 17% | -21% | 22% | 31% | 36% | 33% |
@@ -58,14 +58,14 @@ AGL is deploying capital at 48-53% ROIC, which places it in the highest echelon 
 | Shares (Cr) | ~1.2 | ~1.2 | ~1.2 | ~1.2 | ~1.2 | ~1.2 | ~1.4 | ~1.4 | ~1.4 | ~1.5 | ~1.5 | ~1.5 | ~1.5 |
 | Dividend Payout % | 11% | 13% | 17% | 19% | **870%** | -4% | 0% | 0% | 0% | 12% | 10% | 10% | — |
 
-### EBITDA Reconstruction (₹ Crores)
+### EBITDA Clarification (₹ Crores)
+
+> **Important Note:** On Screener.in, Operating Profit = Sales − Operating Expenses, where operating expenses **exclude** Depreciation & Amortisation. D&A is deducted separately below the OP line to arrive at PBT. Therefore, **Screener's Operating Profit already equals EBITDA**. There is no need to add D&A back.
 
 | Metric | Mar 2020 | Mar 2021 | Mar 2022 | Mar 2023 | Mar 2024 | **Mar 2025** |
 |---|---|---|---|---|---|---|
-| Operating Profit | -7 | 9 | -7 | 24 | 47 | **89** |
-| + Depreciation | 4 | 5 | 5 | 7 | 8 | 7 |
-| **EBITDA** | -3 | 14 | -2 | 31 | 55 | **96** |
-| **EBITDA Margin** | **-14%** | 27% | -6% | 28% | 37% | **40%** |
+| **EBITDA (= Operating Profit)** | -7 | 9 | -7 | 24 | 47 | **89** |
+| **EBITDA Margin (= OPM)** | **-32%** | 17% | -21% | 22% | 32% | **37%** |
 
 ### Trend Narrative
 
@@ -151,11 +151,13 @@ AGL passes the fortress test with flying colours. There is virtually no financia
 | Metric | Mar 2014 | Mar 2015 | Mar 2016 | Mar 2017 | Mar 2018 | Mar 2019 | Mar 2020 | Mar 2021 | Mar 2022 | Mar 2023 | Mar 2024 | **Mar 2025** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Operating Cash Flow (OCF)** | 23 | 26 | 27 | 17 | 5 | **-16** | 3 | 1 | 2 | 3 | 18 | **68** |
-| Capital Expenditures | -12 | -11 | -6 | -12 | -13 | 8 | -24 | 2 | -2 | -14 | -14 | -55 |
-| **Free Cash Flow (OCF - CapEx)** | 11 | 15 | 21 | 5 | -8 | -8 | -21 | 3 | 0 | -11 | 4 | **13** |
-| **FCF Margin** | 31% | 31% | 41% | 9% | -23% | -24% | -95% | 6% | 0% | -10% | 3% | **5%** |
+| Cash from Investing Activity | -12 | -11 | -6 | -12 | -13 | 8 | -24 | 2 | -2 | -14 | -14 | -55 |
+| **Free Cash Flow (Screener: OCF - Fixed Asset Purchases)** | 17 | 22 | 21 | 4 | 2 | **-23** | -15 | -4 | -6 | -1 | 8 | **61** |
+| **FCF Margin** | 49% | 45% | 41% | 8% | 6% | -68% | -68% | -8% | -18% | -1% | 5% | **25%** |
 | Cash from Financing | -2 | -4 | -7 | -2 | -6 | -3 | 12 | -2 | -2 | 8 | -4 | -4 |
 | **Net Cash Flow** | 9 | 11 | **14** | 2 | **-14** | **-11** | -8 | 2 | -1 | -3 | 1 | **9** |
+
+> **Note on FCF Calculation:** Screener's Free Cash Flow = Operating Cash Flow minus purchase of fixed assets (tangible capex only). The "Cash from Investing Activity" line is larger because it includes financial investments (mutual funds, deposits) which are not operating capex. For FY25, investing outflow was ₹55 Cr, but ~₹46 Cr was financial investments; true fixed asset capex was only ~₹7-9 Cr. Hence FCF = ₹61 Cr, not ₹13 Cr.
 
 ### FCF Consistency & Quality
 
@@ -164,17 +166,18 @@ AGL passes the fortress test with flying colours. There is virtually no financia
 | Net Profit | -10 | 7 | -9 | 12 | 29 | 63 |
 | OCF | 3 | 1 | 2 | 3 | 18 | 68 |
 | OCF/Net Profit | NM | 14% | NM | 25% | 62% | **108%** |
-| FCF | -21 | 3 | 0 | -11 | 4 | 13 |
+| FCF (Screener) | -15 | -4 | -6 | -1 | 8 | **61** |
+| CFO/OP (Screener) | -53% | 17% | -33% | 25% | 71% | **103%** |
 
 ### Cash Flow Narrative
 
 The cash flow picture tells us:
 
-1. **FY25 was a watershed year:** OCF of ₹68 Cr exceeded net income of ₹63 Cr (108% conversion) — this is *outstanding* cash flow quality. This is the first year in a decade where cash earnings convincingly validated reported earnings.
+1. **FY25 was a watershed year:** OCF of ₹68 Cr exceeded net income of ₹63 Cr (108% conversion) — this is *outstanding* cash flow quality. FCF of ₹61 Cr (per Screener, using actual fixed asset purchases) confirms that the vast majority of earnings are converting to real cash.
 
-2. **The ₹55 Cr investing outflow in FY25** is large. Given that fixed assets only grew ₹1 Cr and CWIP barely moved, the bulk of this likely went into the ₹46 Cr investment line item — meaning the company is parking surplus cash, not spending wildly on capex.
+2. **The ₹55 Cr investing outflow in FY25** includes ~₹46 Cr in financial investments (mutual funds/deposits), NOT manufacturing capex. True fixed asset capex was only ~₹7-9 Cr. The company is parking surplus cash, not spending wildly on capex.
 
-3. **Historical FCF has been erratic.** Before FY25, cumulative FCF from FY18–FY24 was approximately -₹43 Cr. The business was a cash furnace during the turnaround period.
+3. **Historical FCF was erratic but not as bad as total investing activity suggests.** Screener's FCF (which correctly excludes financial investments from capex) shows cumulative FCF from FY18–FY24 of approximately -₹39 Cr, recovering sharply to +₹61 Cr in FY25.
 
 4. **Stock-Based Compensation:** Not material — this is a promoter-family-run company with minimal SBC.
 
@@ -220,15 +223,15 @@ Given that depreciation runs at ~₹7-8 Cr/year and fixed assets are ~₹40 Cr:
 | - SBC (minimal) | 0 | 0 | 0 |
 | **= Owner Earnings** | **12** | **29** | **62** |
 | Owner Earnings/Share | ₹8.0 | ₹19.3 | **₹41.3** |
-| Price/Owner Earnings (at CMP ₹414) | 51.8x | 21.4x | **10.0x** |
+| Price/Owner Earnings (at CMP ₹548) | 68.5x | 28.4x | **13.3x** |
 
 ### Implications
 
-AGL's reported FCF (₹13 Cr) understates true owner earnings (₹62 Cr) because the company is *choosing* to park surplus cash in investments rather than keeping it as cash on the balance sheet. If we adjust for the ₹46 Cr in financial investments made in FY25 (which are essentially cash equivalents), the true economic cash generation was ~₹59 Cr — closely matching net income.
+AGL's reported FCF (₹61 Cr per Screener) closely matches true owner earnings (₹62 Cr), confirming outstanding cash conversion. The ₹46 Cr in financial investments made in FY25 represents surplus cash deployment — the business is generating cash far in excess of its reinvestment needs.
 
 > *"Owner earnings represent the relevant item for valuation purposes — not net income, nor cash flow. The owner earnings figure comprises net income plus depreciation, depletion, amortisation, and certain other non-cash charges less the average annual amount of capitalised expenditures for plant and equipment that the business requires to fully maintain its long-term competitive position and its unit volume."* — Warren Buffett
 
-At ₹62 Cr of owner earnings, the stock trades at **10x owner earnings** — this is cheap by any measure for a business growing at 60%+ and earning 50%+ ROIC.
+At ₹62 Cr of owner earnings, the stock trades at **13.3x owner earnings** — attractive for a business growing at 60%+ and earning 50%+ ROIC, though no longer at the extreme cheapness it showed at ₹414.
 
 ---
 
@@ -318,11 +321,87 @@ AGL operates in the **Packaging sector** (Industry: Packaging) but is a **niche 
 
 > *"In business, I look for economic castles protected by unbreachable moats."* — Warren Buffett
 
-Honest assessment: The moat is **real but narrow.** It is more accurately a "head start" than an "unbreachable moat." The company's small size (₹624 Cr market cap) means it could be overwhelmed by a well-funded competitor. The moat is strengthened by continued patent filings and deepening customer relationships, but it would not survive a determined entry by Kuraray with its vastly superior scale.
+Honest assessment: The moat is **real but narrow.** It is more accurately a "head start" than an "unbreachable moat." The company's relatively small size (₹827 Cr market cap) means it could be overwhelmed by a well-funded competitor. The moat is strengthened by continued patent filings and deepening customer relationships, but it would not survive a determined entry by Kuraray with its vastly superior scale.
 
 ---
 
-## 8. MANAGEMENT QUALITY & BUFFETT'S $1 TEST
+
+## 8. SCALABILITY CHECK — Can This Business Scale and Is It Scaling?
+
+### Part A: The Unit Economics of Scaling
+
+**1. Revenue Scalability**
+
+| Factor | Assessment | Signal |
+|---|---|---|
+| Marginal cost structure | Manufacturing-based — each new unit requires raw materials (PVA/PVOH), labour, and machine time. NOT near-zero marginal cost. However, patent licensing and IP royalties have near-zero marginal cost. | Mixed — Manufacturing is linear, but IP income scales beautifully |
+| Pricing power at scale | As the dominant Indian water-soluble film maker, AGL has pricing power in a niche market. Green products command premium pricing vs. conventional plastics. | Favourable — niche dominance enables premium pricing |
+| Distribution leverage | Existing relationships with pharma/agrochem/packaging customers can absorb new product variants at low incremental cost. | Favourable — same customer base, more products |
+| Geographic replicability | The manufacturing model can serve export markets from existing Indian facilities (labour cost advantage). However, regulatory approvals differ by country. | Moderately favourable |
+| CAC trend | In a nascent market, early customers require significant education/validation. As the market matures and regulation mandates biodegradable packaging, CAC should decline. | Favourable long-term |
+
+**2. Profit Scalability — Incremental Margin Analysis**
+
+| Year | Revenue (₹ Cr) | Rev Growth | Operating Profit (₹ Cr) | OP Growth | Net Profit (₹ Cr) | NP Growth | Incremental Op Margin* |
+|---|---|---|---|---|---|---|---|
+| FY21 | 52 | 138% | 9 | NM | 7 | NM | — |
+| FY22 | 34 | -35% | -7 | NM | -9 | NM | NM (decline) |
+| FY23 | 109 | 221% | 24 | NM | 12 | NM | 41% (=(24-(-7))/(109-34)) |
+| FY24 | 149 | 37% | 47 | 96% | 29 | 142% | **58%** (=(47-24)/(149-109)) |
+| FY25 | 243 | 63% | 89 | 89% | 63 | 117% | **45%** (=(89-47)/(243-149)) |
+
+*Incremental Operating Margin = Change in Operating Profit / Change in Revenue*
+
+**Scaling Quality Assessment:** Incremental operating margins of 45-58% in FY24-FY25 are **significantly above** the current operating margin of 31-36%. This means the business is scaling beautifully — each new rupee of revenue is more profitable than the last. Operating leverage is kicking in as the fixed cost base (R&D, patents, factory overhead) is being absorbed by rapidly growing revenue.
+
+| Assessment | Rating |
+|---|---|
+| Incremental margin significantly above current margin (>1.5x in FY24) | **Elite scaler** — fixed costs absorbed, growth flows to profit |
+
+**3. Capital Scalability**
+
+| Metric | FY23 | FY24 | FY25 | Trend |
+|---|---|---|---|---|
+| Fixed Asset CapEx as % of Revenue (est. ~₹7-9 Cr/yr) | ~13% | ~6% | ~3% | **Declining — capital-light scaling** |
+| Revenue per ₹ of Fixed Assets | 2.9x | 4.0x | 6.4x | **Rising strongly** |
+| Working Capital as % of Revenue | 31% | 25% | 19% | **Declining — efficient scaling** |
+
+The business is clearly becoming more capital-efficient as it scales. Revenue is growing much faster than fixed assets or working capital — this is a positive scaling signal.
+
+> *"The ideal business is one that takes no capital, and yet grows."* — Warren Buffett
+
+AGL is not quite zero-capital, but it is demonstrating strong capital efficiency improvement.
+
+### Part B: Scaling Runway — TAM & Penetration
+
+**1. Total Addressable Market:**
+- The global water-soluble films market is estimated at $400-500 million and growing at 6-8% CAGR.
+- India's biodegradable packaging market is nascent but expected to grow at 15-20% CAGR driven by plastic ban regulations.
+- AGL's FY25 revenue of ₹243 Cr (~$29 million) represents a small fraction of the global market.
+- **Runway: 10-15x** from current levels to the estimated addressable market is substantial.
+
+**2. Adjacent Expansion:** Mouth-dissolving strips for pharma (via subsidiary Avery Pharma) is a high-growth adjacency leveraging existing PVA film technology. Export markets remain largely untapped.
+
+**3. S-Curve Position:** AGL is at the **Inflection point / Scaling phase** — the model is proven (FY25 validated cash generation), unit economics are improving (incremental margins above current margins), and the secular tailwind is strengthening. This is the sweet spot for compounding.
+
+### Part C: Scaling Verdict
+
+| Dimension | Score (1-10) | Evidence |
+|---|---|---|
+| Revenue scalability (marginal economics) | **6** | Manufacturing has linear costs, but IP/patent income scales well. Green products command premiums. |
+| Profit scalability (incremental margins) | **8** | FY24-FY25 incremental margins of 45-58% are excellent — clear operating leverage. |
+| Capital scalability (growth without proportional capital) | **8** | CapEx/Revenue declining, Revenue/Fixed Assets rising. Very capital-efficient growth. |
+| Scaling runway (TAM vs. penetration) | **7** | Large global TAM relative to current size. India's plastic ban provides regulatory tailwind. |
+| S-Curve position (is timing right?) | **8** | At the inflection point — proven model, accelerating growth, margins expanding. |
+| **Overall Scalability Score** | **37/50 (7.4/10)** | **Strong Scaler — comparable to GEICO / American Express** |
+
+> *"Time is the friend of the wonderful business, the enemy of the mediocre."* — Warren Buffett
+
+AGL's scaling dynamics suggest time is its friend — each passing year should make it larger, more efficient, and harder to compete with, provided the moat holds.
+
+---
+
+## 9. MANAGEMENT QUALITY & BUFFETT'S $1 TEST
 
 ### Buffett's $1 Test
 
@@ -330,10 +409,10 @@ For every ₹1 of retained earnings, has management created at least ₹1 of mar
 
 | Period | Beginning Market Cap (est.) | Ending Market Cap | Retained Earnings (Cumulative) | Market Value Created per ₹1 Retained |
 |---|---|---|---|---|
-| FY14–FY25 (11 years) | ~₹200 Cr (est.) | ₹624 Cr | ~₹105 Cr (net cumulative profits minus dividends) | ₹4.04 created per ₹1 retained |
-| FY20–FY25 (5 years) | ~₹80 Cr (est.) | ₹624 Cr | ~₹85 Cr | ₹6.40 created per ₹1 retained |
+| FY14–FY25 (11 years) | ~₹200 Cr (est.) | ₹827 Cr | ~₹105 Cr (net cumulative profits minus dividends) | ₹5.97 created per ₹1 retained |
+| FY20–FY25 (5 years) | ~₹80 Cr (est.) | ₹827 Cr | ~₹85 Cr | ₹8.79 created per ₹1 retained |
 
-**Verdict: Passes the $1 test convincingly.** Over the last 5 years, every ₹1 of retained earnings created ~₹6.40 of market value. This is exceptional capital allocation.
+**Verdict: Passes the $1 test convincingly.** Over the last 5 years, every ₹1 of retained earnings created ~₹8.79 of market value. This is exceptional capital allocation.
 
 ### Capital Allocation Track Record
 
@@ -367,7 +446,7 @@ Management has delivered extraordinary operational results over the last 3 years
 
 ---
 
-## 9. OPERATING METRICS — Industry-Specific KPIs
+## 10. OPERATING METRICS — Industry-Specific KPIs
 
 ### Working Capital & Efficiency Metrics
 
@@ -415,71 +494,73 @@ The operational metrics are **improving beneath the surface**, even as TTM headl
 
 ---
 
-## 10. VALUATION ANALYSIS — The Price You Pay Determines Your Return
+## 11. VALUATION ANALYSIS — The Price You Pay Determines Your Return
 
 ### Valuation Multiples Summary
 
-| Metric | Current (Feb 2026) | Commentary |
+| Metric | Current (Apr 2026) | Commentary |
 |---|---|---|
-| **Stock P/E** | 12.1x | Below Industry PE of 18.6x |
-| **Price/Book Value** | 2.95x | Above Industry PBV of 1.78x |
-| **Price/Sales** | 2.89x | Premium for specialty business |
-| **Earnings Yield** | 12.4% | Attractive (>10% hurdle rate) |
-| **Dividend Yield** | 0.97% | Low but growing |
-| **PEG Ratio** | **0.12** | Extremely low (<1 is cheap; <0.5 is very cheap) |
+| **Stock P/E** | 16.1x | In line with Industry PE of ~18x |
+| **Price/Book Value** | 3.91x | Above Industry PBV of 1.78x — justified by 40% ROE |
+| **Price/Sales (TTM)** | 3.83x | Premium for specialty business |
+| **Earnings Yield** | 6.2% | Below Buffett's 10% hurdle (less attractive than at ₹414) |
+| **Dividend Yield** | 0.73% | Low but growing |
+| **PEG Ratio** | **0.30** | Very cheap (<1 is cheap; <0.5 is very cheap) |
 | **ROIC** | 48.1% | Exceptional |
-| **P/Owner Earnings** | ~10x | Very attractive |
+| **P/Owner Earnings** | ~13.3x | Reasonable for growth |
 
 ### Historical Valuation Context
 
-| Metric | Mar 2023 | Mar 2024 | **Mar 2025** | Feb 2026 |
+| Metric | Mar 2023 | Mar 2024 | **Mar 2025** | Apr 2026 |
 |---|---|---|---|---|
-| Stock Price (approx.) | ~₹270 | ~₹430 | ~₹600 | ₹414 |
+| Stock Price (approx.) | ~₹270 | ~₹430 | ~₹600 | ₹548 |
 | Earnings (EPS) | 8.14 | 19.56 | 41.84 | 34.05 (TTM) |
-| P/E | 33x | 22x | 14x | **12.1x** |
+| P/E | 33x | 22x | 14x | **16.1x** |
 | Book Value/Share | ~65 | ~84 | ~125 | ~140 |
-| P/B | 4.2x | 5.1x | 4.8x | **2.95x** |
+| P/B | 4.2x | 5.1x | 4.8x | **3.91x** |
 
 ### EV/EBITDA Calculation
 
 | Component | Amount |
 |---|---|
-| Market Cap | ₹624 Cr |
+| Market Cap | ₹827 Cr |
 | + Total Debt | ₹1 Cr |
 | - Cash & Investments | ~₹76 Cr (Sep'25 investments + est. cash) |
-| **Enterprise Value** | ~₹549 Cr |
-| TTM EBITDA (est.) | ~₹78 Cr |
-| FY25 EBITDA | ~₹96 Cr |
-| **EV/EBITDA (TTM)** | ~7.0x |
-| **EV/EBITDA (FY25)** | ~5.7x |
+| **Enterprise Value** | ~₹752 Cr |
+| TTM EBITDA (= TTM Operating Profit) | ~₹70 Cr |
+| FY25 EBITDA (= FY25 Operating Profit) | ~₹89 Cr |
+| **EV/EBITDA (TTM)** | ~10.7x |
+| **EV/EBITDA (FY25)** | ~8.4x |
+
+> **Note:** EBITDA = Screener's Operating Profit (D&A is deducted separately below OP on Screener). Do NOT add D&A back to OP.
 
 ### Valuation Commentary
 
-This stock has de-rated sharply from its 52-week high of ₹818 (a 49% decline to ₹414). At the current price:
+This stock has de-rated sharply from its 52-week high of ₹818 (a 33% decline to ₹548). At the current price:
 
-1. **PE of 12.1x** is cheap for a business growing at 60%+ CAGR with 50%+ ROIC. The PEG ratio of 0.12 screams undervaluation.
+1. **PE of 16.1x** is reasonable for a business with 50%+ ROIC, though no longer screaming undervaluation. The PEG ratio of 0.30 still suggests meaningful value.
 
-2. **However, TTM earnings are declining** (-17% YoY). The market is pricing in deceleration, not the trailing 5-year growth rate.
+2. **TTM earnings are declining** (-17% YoY). The market is pricing in deceleration, not the trailing 5-year growth rate.
 
-3. **P/B of 2.95x** appears reasonable for a business earning 40% ROE — using the Gordon Growth Model:
+3. **P/B of 3.91x** appears reasonable for a business earning 40% ROE — using the Gordon Growth Model:
    - Fair P/B = (ROE - g) / (COE - g) = (0.40 - 0.36) / (0.12 - 0.36) = the formula breaks down because g > COE, which implies infinite value. This is the mathematical reality of a business earning 40% ROE with 90% retention — the growth rate exceeds any reasonable discount rate.
    - Even normalising ROE to 25% with 80% retention (g = 20%): Fair P/B = (0.25 - 0.20) / (0.12 - 0.20) — still breaks because g > COE.
    - Using a more conservative normalised ROE of 18% and 70% retention (g = 12.6%): Fair P/B = (0.18 - 0.126) / (0.12 - 0.126) — denominator approaches zero, implying very high P/B is justified.
    - The mathematical reality: any business earning ROE significantly above cost of equity with high retention rates deserves a very high P/B multiple.
 
-4. **Earnings Yield of 12.4%** (inverse of PE) exceeds Buffett's 10% hurdle rate. You are buying ₹12.40 of earnings for every ₹100 invested.
+4. **Earnings Yield of 6.2%** (inverse of PE) is below Buffett's 10% hurdle rate — unlike at ₹414 where it exceeded 12%. The stock is no longer in "screaming buy" territory on this metric.
 
-5. **EV/EBITDA of 5.7-7.0x** is genuinely cheap for a specialty manufacturing business with these returns on capital.
+5. **EV/EBITDA of 8.4-10.7x** is still reasonable for a specialty manufacturing business with these returns on capital, though no longer dirt-cheap.
 
 > *"Price is what you pay. Value is what you get."* — Warren Buffett
 
 > *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* — Warren Buffett
 
-At the current price, you are buying a wonderful company at what appears to be a very fair (possibly cheap) price.
+At the current price, you are buying a wonderful company at a fair price — not the deeply discounted price available a few months ago, but still reasonable given the quality metrics.
 
 ---
 
-## 11. INTRINSIC VALUE & MARGIN OF SAFETY
+## 12. INTRINSIC VALUE & MARGIN OF SAFETY
 
 ### DCF-Based Intrinsic Value (Using Owner Earnings)
 
@@ -561,21 +642,252 @@ At the current price, you are buying a wonderful company at what appears to be a
 
 | Scenario | Intrinsic Value/Share | Current Price | Margin of Safety | Upside/Downside |
 |---|---|---|---|---|
-| **Conservative** | **₹839** | ₹414 | **51%** | **+103%** |
-| **Base** | **₹1,563** | ₹414 | **74%** | **+278%** |
-| **Optimistic** | **₹2,812** | ₹414 | **85%** | **+579%** |
+| **Conservative** | **₹839** | ₹548 | **35%** | **+53%** |
+| **Base** | **₹1,563** | ₹548 | **65%** | **+185%** |
+| **Optimistic** | **₹2,812** | ₹548 | **81%** | **+413%** |
 
-**Even the conservative scenario suggests the stock is trading at roughly half its intrinsic value.** This is a Buffett-grade margin of safety.
+**Even the conservative scenario suggests the stock is trading meaningfully below its intrinsic value.** The margin of safety is solid, though less extreme than when the stock was at ₹414.
 
 > *"The three most important words in investing are: margin of safety."* — Benjamin Graham (Buffett's mentor)
 
 > *"We insist on a margin of safety in our purchase price. If we calculate the value of a common stock to be only slightly higher than its price, we're not interested in buying."* — Warren Buffett
 
-At ₹414, even with conservative assumptions (12% growth declining to 8%), the stock appears to be worth roughly 2x the current price. This is a substantial margin of safety.
+At ₹548, with conservative assumptions (12% growth declining to 8%), the stock appears to be worth roughly 53% more than the current price. This is a meaningful but not extreme margin of safety.
 
 ---
 
-## 12. BUY ZONE DEFINITION
+
+## 13. REVERSE DCF — Napkin Math Reality Check (What Growth Is the Market Pricing In?)
+
+### Step 1: Establish the Inputs
+
+| Input | Value | Source |
+|---|---|---|
+| Current Market Price (CMP) | ₹548 | Market data (6 Apr 2026) |
+| TTM EPS (Normalised) | ₹34.05 | Screener TTM |
+| FY25 EPS | ₹41.84 | Screener FY25 |
+| Current PE (on TTM EPS) | 16.1x | Calculated |
+| Shares Outstanding (Diluted) | ~1.51 Cr | Latest data |
+
+> **Note:** We use TTM EPS of ₹34.05 (which reflects trailing 4 quarters through Dec 2025) for the Reverse DCF, as it captures the most recent earnings trajectory including the TTM deceleration.
+
+### Step 2: Terminal PE Multiple Scenarios
+
+| Scenario | Terminal PE | Rationale |
+|---|---|---|
+| Mature / Low-Growth | 15x | Business matures, growth ≈ GDP + inflation |
+| Market Average | 20x | Grows in line with market; no exceptional premium |
+| Above-Average Compounder | 28x | Durable moat, still growing faster than market |
+| Historical Average PE | ~22x | Company's approximate 3-year median PE |
+
+### Step 3: Reverse DCF Calculation — Implied EPS Growth Required
+
+
+#### At Terminal PE = Mature: 15x
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 11.6% EPS CAGR needed | 16.6% EPS CAGR needed | 21.7% EPS CAGR needed |
+| 10 Years | 10.8% EPS CAGR needed | 15.8% EPS CAGR needed | 20.8% EPS CAGR needed |
+| 15 Years | 10.5% EPS CAGR needed | 15.5% EPS CAGR needed | 20.6% EPS CAGR needed |
+
+#### At Terminal PE = Market Avg: 20x
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 5.3% EPS CAGR needed | 10.1% EPS CAGR needed | 14.9% EPS CAGR needed |
+| 10 Years | 7.6% EPS CAGR needed | 12.5% EPS CAGR needed | 17.4% EPS CAGR needed |
+| 15 Years | 8.4% EPS CAGR needed | 13.3% EPS CAGR needed | 18.3% EPS CAGR needed |
+
+#### At Terminal PE = Compounder: 28x
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | -1.5% EPS CAGR needed | 2.9% EPS CAGR needed | 7.4% EPS CAGR needed |
+| 10 Years | 4.1% EPS CAGR needed | 8.8% EPS CAGR needed | 13.5% EPS CAGR needed |
+| 15 Years | 6.0% EPS CAGR needed | 10.8% EPS CAGR needed | 15.7% EPS CAGR needed |
+
+#### At Terminal PE = Historical Avg: 22x
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 3.3% EPS CAGR needed | 8.0% EPS CAGR needed | 12.7% EPS CAGR needed |
+| 10 Years | 6.6% EPS CAGR needed | 11.5% EPS CAGR needed | 16.3% EPS CAGR needed |
+| 15 Years | 7.7% EPS CAGR needed | 12.6% EPS CAGR needed | 17.5% EPS CAGR needed |
+
+### Step 4: Reality Check — Is the Implied Growth Reasonable?
+
+| Benchmark | Value |
+|---|---|
+| India nominal GDP growth | 10-12% |
+| Company's 5Y Profit CAGR | 53% |
+| Company's 10Y Profit CAGR | 11% |
+| Company's 5Y Sales CAGR | 62% |
+| TTM Profit Growth | -17% |
+
+**Traffic Light Assessment (using 10-year, 10% hurdle, Market Avg 20x PE):**
+
+The implied EPS CAGR needed at Terminal PE = 20x for a 10% return over 10 years is 7.6%.
+
+- The company's 10Y profit CAGR is 11% — but this includes the dark years (FY18-FY22). The more relevant 5Y CAGR is 53%.
+- The implied growth of 7.6% is **well below** the 5Y historical CAGR of 53% but roughly in line with the 10Y CAGR of 11%.
+- Given the secular green packaging tailwind, achieving 7.6% EPS CAGR over 10 years appears **reasonable** — the market is NOT demanding heroic assumptions.
+
+| Verdict | Colour |
+|---|---|
+| Implied growth ≤ historical 5Y CAGR AND achievable given secular tailwinds | 🟢 GREEN |
+
+### Step 5: The Verdict — Reasonable Price or Crazy Price?
+
+> "At the current price of ₹548, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 7.6% CAGR. The company has historically grown profits at 11% CAGR over 10 years and 53% over 5 years. This implies **the market is pricing in reasonable growth** — well within the company's demonstrated capability during its current growth phase."
+
+> "For a 15% annualised return over 10 years at 20x exit PE, the company needs 12.5% EPS CAGR. This is moderately ambitious but achievable if the green products segment continues its trajectory."
+
+**Buffett's Napkin Test:** The numbers make sense on a napkin. You do NOT need a spreadsheet to see that a 50%+ ROIC business with a secular tailwind trading at 16x earnings should be able to deliver 10-15% returns over a decade. This is not a crazy price.
+
+### Step 6: Asymmetric Upside Check — Is This a Fat Pitch?
+
+**Part 1: Downside Floor**
+
+| Downside Scenario | Valuation Basis | Implied Price | Downside from CMP |
+|---|---|---|---|
+| Asset / Liquidation Floor | Tangible Book Value (₹140/share) | ₹140 | -74% |
+| Recession / Trough Earnings | Worst non-loss EPS (~₹5) × Trough PE (12x) | ₹60 | -89% |
+| Normalised Bear Case | Conservative DCF (₹839) × 0.5 (severe bear discount) | ₹420 | -23% |
+| "Business-fine-market-panics" Floor | Historical lowest PE (~11x) × TTM EPS (₹34) | ₹374 | -32% |
+
+**Most probable downside floor: ₹370-420** (11-12x trough TTM earnings). Below this requires a fundamental business impairment, not just market pessimism.
+
+**Part 2: Upside Case**
+
+| Upside Scenario | Valuation Basis | Implied Price | Upside from CMP |
+|---|---|---|---|
+| Base Case | Base intrinsic value from Section 12 | ₹1,563 | +185% |
+| Bull Case | Optimistic intrinsic value | ₹2,812 | +413% |
+| Scaling Multiplier | If FY25 earnings sustain and market re-rates to 25x | ₹1,046 | +91% |
+| Re-rating Catalyst | Green packaging regulation tightening + export orders | ₹1,200+ | +119%+ |
+
+**Part 3: Asymmetry Ratio**
+
+```
+Asymmetry Ratio = Realistic Upside / Realistic Downside
+                = 185% (base case) / 32% (market panic floor)
+                = 5.8 : 1
+```
+
+| Ratio | Interpretation |
+|---|---|
+| **5.8:1** | **Exceptional fat pitch** — downside is capped, upside is enormous |
+
+**Part 4: Catalysts & Anti-Catalysts**
+
+**Catalysts (upside triggers):**
+1. Q4 FY26 results showing TTM earnings stabilisation/recovery — **Probability: HIGH** (seasonal patterns suggest Q4 is typically strong)
+2. New export contracts for water-soluble films — **Probability: MEDIUM** (company has been building export capabilities)
+3. Tighter plastic ban enforcement in India — **Probability: MEDIUM** (regulatory direction is clear but timing uncertain)
+4. New patent grants providing additional product moats — **Probability: HIGH** (company has active patent pipeline, recently received Malaysian patent)
+
+**Anti-Catalysts (downside risks):**
+1. Kuraray or Chinese competitors entering India aggressively — **Probability: LOW-MEDIUM** (possible but not imminent)
+2. Continued TTM earnings decline for 2+ more quarters — **Probability: MEDIUM** (would signal structural rather than cyclical deceleration)
+3. Major promoter stake sale — **Probability: LOW** (holding has stabilised at 64.8%)
+
+**Part 5: The Fat Pitch Verdict**
+
+> "At ₹548, the realistic downside is approximately 32% to ₹374 (market panic floor). The realistic base-case upside is approximately 185% to ₹1,563 over 5-7 years. This gives an asymmetry ratio of 5.8:1. The catalysts that could unlock value include TTM earnings recovery, export contracts, and regulatory tailwinds. **This IS a fat pitch** — the risk/reward is meaningfully asymmetric in the investor's favour."
+
+**Mispricing Identification:**
+
+> "The mispricing opportunity here is **PRESENT but moderate.** The market is partially mispricing this business because: (1) TTM earnings decline of -17% has scared momentum investors, creating a price decline from ₹818 to ₹548, but the decline is likely cyclical/seasonal, not structural; (2) the stock is too small (₹827 Cr market cap) for institutional discovery — only 0.79% DII and 0.14% FII ownership; and (3) the market is anchoring on volatile historical earnings rather than the fundamentally transformed business model. If the market corrects this mispricing as FY26 full-year results demonstrate sustained profitability, the stock could re-rate from 16x to 20-25x TTM earnings, generating 25-55% returns from multiple expansion BEFORE any underlying earnings growth."
+
+---
+
+
+## 14. ROE QUALITY CHECK & RETURN EXPECTATION FRAMEWORK — DuPont Sanity Check + P/B Scenario Math
+
+### Part A: DuPont Decomposition of ROE
+
+| Year | Net Profit Margin | Asset Turnover (Rev/Avg Assets) | Equity Multiplier (Avg Assets/Avg Equity) | ROE (Product) | Reported ROE |
+|---|---|---|---|---|---|
+| FY21 | 13.5% (7/52) | 0.55x (52/((89+99)/2)) | 1.16x (94/81) | 8.6% | ~8% |
+| FY22 | -26.5% (-9/34) | 0.36x (34/((99+89)/2)) | 1.18x (94/80) | -11.3% | ~-12% |
+| FY23 | 11.0% (12/109) | 1.04x (109/((89+121)/2)) | 1.22x (105/87) | 13.9% | ~12% |
+| FY24 | 19.5% (29/149) | 1.12x (149/((121+145)/2)) | 1.18x (133/113) | 25.8% | ~23% |
+| **FY25** | **25.9% (63/243)** | **1.38x (243/((145+208)/2))** | **1.12x (177/158)** | **40.0%** | **~40%** |
+
+**Quality Assessment:**
+
+The ROE decomposition reveals **extremely high-quality returns:**
+
+1. **Net Profit Margin is the primary driver** — expanding from 11% (FY23) to 26% (FY25). This reflects genuine pricing power and operating leverage, not financial engineering.
+
+2. **Asset Turnover is rising** — from 0.55x to 1.38x over 5 years. The company is generating dramatically more revenue per rupee of assets. This is the scaling effect in action.
+
+3. **Equity Multiplier is DECLINING** — from 1.22x to 1.12x. The company is actually REDUCING its leverage while ROE is expanding. This is the gold standard — high ROE driven by business quality, not debt.
+
+> *"When you combine ignorance and leverage, you get some pretty interesting results."* — Warren Buffett
+
+AGL's ROE is driven entirely by margin expansion and asset efficiency, with leverage contributing NOTHING (in fact, working against ROE by declining). This is exactly what Buffett looks for.
+
+**ROCE vs. ROE Analysis:**
+- FY25 ROCE: 53%, ROE: 40%
+- ROCE > ROE — the business engine is powerful. The gap is explained by taxes (27% effective rate). The high ROCE confirms that pre-tax, pre-leverage business quality is exceptional, not manufactured by financial tricks. This is the healthy pattern.
+
+### Part B: P/B Multiple Scenario Analysis — Expected Return CAGR
+
+**Step 1: Key Inputs**
+
+| Input | Value | Source |
+|---|---|---|
+| Current BVPS | ₹140 | Sep 2025 balance sheet |
+| Current Market Price (CMP) | ₹548 | Market data (6 Apr 2026) |
+| Current P/B Multiple | 3.91x | CMP / BVPS |
+| Sustainable ROE (normalised) | 25% | Conservative normalisation from 40% peak (accounts for potential margin compression as business scales) |
+| Retention Ratio | 90% | ~10% dividend payout |
+| BV Compounding Rate (ROE × Retention) | 22.5% | Calculated |
+
+**Step 2: Project Book Value Per Share**
+
+| Year | Projected BVPS | Calculation |
+|---|---|---|
+| Current | ₹140 | Actual (Sep 2025) |
+| Year 5 | ₹386 | 140 × (1.225)^5 |
+| Year 7 | ₹580 | 140 × (1.225)^7 |
+| Year 10 | ₹1065 | 140 × (1.225)^10 |
+
+**Step 3: Expected Return CAGR Under Different Exit P/B Scenarios**
+
+#### Expected Annual Return (CAGR) at Current Price of ₹548 (Entry P/B: 3.9x)
+
+| Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
+|---|---|---|---|---|
+| P/B stays at current (3.9x) | — | 22.5% | 22.5% | 22.5% |
+| P/B compresses to 2.9x (mild de-rating) | — | 15.7% | 17.6% | 19.0% |
+| P/B compresses to 2.0x (significant de-rating) | — | 6.6% | 11.0% | 14.3% |
+| P/B compresses to 3.0x (quality premium) | — | 16.2% | 17.9% | 19.3% |
+| P/B compresses to 2.0x (historical median est.) | — | 7.1% | 11.3% | 14.5% |
+| P/B compresses to 1.0x Book (worst case) | — | -6.8% | 0.8% | 6.9% |
+
+**Step 4: The Key Insight**
+
+> "At the current entry P/B of 3.9x with a sustainable ROE of 25% and 90% retention, book value compounds at 22.5% annually. If the P/B multiple remains at 3.9x, the return equals the BV compounding rate of 22.5%. The stock can tolerate P/B compression from 3.9x down to approximately 1.3x before the 10-year return drops below the 10% hurdle rate."
+
+**Step 5: Traffic Light Verdict**
+
+- 10-year return if P/B halves to 2.0x: **14.3%** CAGR
+- 10% hurdle rate requires exit P/B of at least 1.3x
+
+| Condition | Verdict | Signal |
+|---|---|---|
+| 10-year return (14.3%) > hurdle rate (10%) even if P/B halves | **Safe entry — BV compounding overwhelms multiple compression** | 🟢 GREEN |
+
+> *"Over the long term, it's hard for a stock to earn a much better return than the business earns."* — Charlie Munger
+
+At 3.9x book, you are paying a premium for quality. But with 22.5% BV compounding, even significant P/B compression leaves you with attractive returns. The business quality overwhelms the valuation headwind over a 7-10 year horizon.
+
+---
+
+## 15. BUY ZONE DEFINITION
 
 ### Price Zones (Based on DCF & Earnings Analysis)
 
@@ -587,29 +899,29 @@ At ₹414, even with conservative assumptions (12% growth declining to 8%), the 
 | **Fully Valued / Trim** | **₹850 – ₹1,200** | 25x – 35x | Above conservative IV but below base; reduce position size |
 | **Overvalued / Sell** | **> ₹1,200** | > 35x | Priced for perfection; sell and redeploy capital |
 
-### Current Position: **₹414 — DEEP VALUE / STRONG BUY ZONE** ✓
+### Current Position: **₹548 — VALUE / BUY ZONE** ✓
 
-The stock is currently at the upper edge of the Deep Value zone, firmly in buying territory.
+The stock is currently in the Value / Buy zone, having moved up from the Deep Value zone where it sat at ₹414.
 
 ### What Would Buffett Do If He Already Held the Stock?
 
-| If Purchased At | Action | Reasoning |
-|---|---|---|
-| **₹250-₹400 (Deep Value)** | **HOLD & ACCUMULATE** | You bought at an extraordinary price. The business is compounding value at 40% ROE. Keep holding and add on dips. Buffett: "Our favourite holding period is forever." |
-| **₹400-₹600 (Value)** | **HOLD** | You bought at a fair price. Earnings growth will drive returns from here. No need to sell a 50% ROIC business at 12x earnings. |
-| **₹600-₹850 (Fair Value)** | **HOLD, DO NOT ADD** | You paid a fair price but don't chase higher. Wait for earnings to grow into the valuation. Monitor TTM deceleration closely. |
-| **₹850-₹1,200 (Fully Valued)** | **TRIM 20-30%** | Book partial profits. You overpaid slightly. Reallocate capital to opportunities with better risk-reward. |
-| **> ₹1,200 (Overvalued)** | **SELL 50%+** | The stock got ahead of fundamentals. Take meaningful profits. You can re-enter if the price corrects back to fair value. |
+| If Purchased At | Current Position | Action | Reasoning |
+|---|---|---|---|
+| **₹250-₹400 (Deep Value)** | Profit: +37% to +119% | **HOLD & ACCUMULATE on dips** | You bought at an extraordinary price. The business is compounding value at 40% ROE. Keep holding. Buffett: "Our favourite holding period is forever." |
+| **₹400-₹600 (Value)** | Profit: -8% to +37% | **HOLD** | You bought at a fair price. Earnings growth will drive returns from here. No need to sell a 50% ROIC business at 16x earnings. |
+| **₹600-₹850 (Fair Value)** | Loss: -9% to -36% | **HOLD, DO NOT ADD** | You paid a fair price but are underwater. Wait for earnings to grow into the valuation. Monitor TTM deceleration closely. Do NOT panic sell. |
+| **₹850-₹1,200 (Fully Valued)** | Loss: -36% to -54% | **HOLD & consider tax-loss harvest** | You overpaid. If in a taxable account, consider booking the loss for tax purposes and re-entering at current levels. |
+| **> ₹1,200 (Overvalued)** | Loss: >54% | **HOLD if thesis intact, or tax-loss harvest** | Significant overpayment. The business quality hasn't changed, but the price was too high. Time and earnings growth will eventually heal this. |
 
 **With a small capital base**, Buffett would be more aggressive at the Deep Value level — he has stated repeatedly that his best returns came from small-cap situations where he could concentrate capital:
 
 > *"If I was running $1 million today, or $10 million for that matter, I'd be fully invested. Anyone who says that size does not hurt investment performance is selling. The highest rates of return I've ever achieved were in the 1950s. I killed the Dow. You ought to see the numbers. But I was investing peanuts then."* — Warren Buffett
 
-For a small capital base investor, AGL at ₹414 presents the kind of opportunity Buffett describes — a small, high-quality business at a deeply discounted price.
+For a small capital base investor, AGL at ₹548 is still in attractive territory — not the screaming bargain it was at ₹414, but still offering meaningful upside with a conservative intrinsic value of ₹839 (53% upside).
 
 ---
 
-## 13. WOULD BUFFETT HIMSELF BUY THIS STOCK (if he were working with a small capital base)?
+## 16. WOULD BUFFETT HIMSELF BUY THIS STOCK (if he were working with a small capital base)?
 
 ### Full Buffett Checklist
 
@@ -620,18 +932,18 @@ For a small capital base investor, AGL at ₹414 presents the kind of opportunit
 | 3 | **Management Integrity & Rationality** | 64.8% promoter holding (skin in game). Declining promoter stake is concerning. Rights issue during distress was poor. Operational execution since FY23 has been outstanding. | ⚠️ MARGINAL PASS |
 | 4 | **Resistant to Disruption** | Green products benefit FROM disruption (plastic replacement). However, PVA films could be disrupted by alternative biodegradable technologies. | ⚠️ MARGINAL PASS |
 | 5 | **Sustainable Economics for 10+ Years** | The green packaging megatrend is multi-decade. But AGL's specific competitive position could erode. | ⚠️ MARGINAL PASS |
-| 6 | **Price Significantly Below Intrinsic Value** | At ₹414, even the conservative DCF suggests 51% margin of safety. PE of 12.1x for a 50%+ ROIC business. Earnings yield of 12.4%. | ✅ STRONG PASS |
+| 6 | **Price Significantly Below Intrinsic Value** | At ₹548, conservative DCF suggests 35% margin of safety. PE of 16.1x for a 50%+ ROIC business. Earnings yield of 6.2% — below 10% hurdle but offset by growth. | ✅ PASS (moderate) |
 
 ### Honest Verdict
 
-**Score: 4 full passes, 2 marginal passes out of 6.**
+**Score: 3 full passes, 3 marginal passes out of 6.**
 
 This is NOT a slam-dunk Buffett investment. Here's why:
 
 **What Buffett would LOVE:**
 - Extraordinary returns on capital (48-53% ROIC)
 - Virtually zero debt — financial fortress
-- Cheap valuation (PE 12.1x, PEG 0.12, Earnings Yield 12.4%)
+- Reasonable valuation (PE 16.1x, PEG 0.30)
 - Secular tailwind (green packaging megatrend)
 - Small company where a small capital base can make a meaningful investment
 
@@ -644,7 +956,7 @@ This is NOT a slam-dunk Buffett investment. Here's why:
 
 **Final Verdict:**
 
-This is a **(b) Deep-Value / Growth Recovery Play.** It is NOT a classic Buffett "wonderful company at a fair price" because the earnings history is too volatile and the moat too unproven. But at 12x earnings with 50%+ ROIC, the price is compelling enough that even Buffett, working with a small capital base, would likely take a **small to moderate position** — perhaps 3-5% of his portfolio — and watch carefully for:
+This is a **(b) Deep-Value / Growth Recovery Play.** It is NOT a classic Buffett "wonderful company at a fair price" because the earnings history is too volatile and the moat too unproven. At 16x earnings with 50%+ ROIC, the price is reasonable — not the screaming bargain it was at ₹414, but still offering meaningful upside. Buffett, working with a small capital base, would likely take a **small to moderate position** — perhaps 3-5% of his portfolio — and watch carefully for:
 1. TTM earnings to stabilise/resume growth
 2. The moat to deepen (new patents, new customers, export contracts)
 3. Promoter holding to stabilise
@@ -655,11 +967,11 @@ This is close to being "his pitch" — but the violent earnings history and decl
 
 > *"Be fearful when others are greedy, and greedy when others are fearful."* — Warren Buffett
 
-With the stock down 49% from its 52-week high of ₹818, there is genuine fear priced into this stock. The question is whether the fear is justified by the TTM decline, or whether it represents an opportunity.
+With the stock down 33% from its 52-week high of ₹818, there is genuine caution priced into this stock. The question is whether the caution is justified by the TTM decline, or whether it represents an opportunity.
 
 ---
 
-## 14. RISK MATRIX
+## 17. RISK MATRIX
 
 | # | Risk Factor | Severity (1-10) | Probability (1-10) | Risk Score | Mitigation |
 |---|---|---|---|---|---|
@@ -668,7 +980,7 @@ With the stock down 49% from its 52-week high of ₹818, there is genuine fear p
 | 3 | **Technology Disruption** (alternative bio-materials) | 7 | 3 | **21** | Continuous R&D and patent filing mitigates; PVA chemistry is well-established |
 | 4 | **Customer Concentration Risk** | 7 | 5 | **35** | Unknown — need to verify if revenue is concentrated in a few customers |
 | 5 | **Promoter Selling / Declining Holding** | 5 | 7 | **35** | Promoters still hold 64.8% — substantial. But continued selling would be bearish |
-| 6 | **Small Size & Liquidity Risk** | 6 | 8 | **48** | ₹624 Cr market cap with thin float. Difficult to exit large position quickly |
+| 6 | **Small Size & Liquidity Risk** | 6 | 8 | **48** | ₹827 Cr market cap with thin float. Difficult to exit large position quickly |
 | 7 | **Volatile Earnings History** | 6 | 5 | **30** | FY18-FY22 losses were real. Business model has fundamental volatility |
 | 8 | **Regulatory Risk** (plastic ban implementation varies) | 4 | 4 | **16** | Actually a net positive — stronger plastic bans help the company |
 | 9 | **Raw Material Risk** (PVA/PVOH price volatility) | 5 | 5 | **25** | Company has managed margins well recently; pass-through pricing power |
@@ -681,7 +993,7 @@ With the stock down 49% from its 52-week high of ₹818, there is genuine fear p
 
 ---
 
-## 15. TURNAROUND PROBABILITY (if applicable)
+## 18. TURNAROUND PROBABILITY (if applicable)
 
 AGL has already completed its turnaround. The dark years were FY18–FY22; the company has been on a strong growth trajectory since FY23. However, the TTM decline raises the question of whether this is a temporary blip or the beginning of a new down-cycle.
 
@@ -702,7 +1014,7 @@ AGL has already completed its turnaround. The dark years were FY18–FY22; the c
 
 ---
 
-## 16. FINAL SCORECARD & SUMMARY
+## 19. FINAL SCORECARD & SUMMARY
 
 | Factor | Score (1-10) | Commentary |
 |---|---|---|
@@ -711,27 +1023,27 @@ AGL has already completed its turnaround. The dark years were FY18–FY22; the c
 | **Financial Health** | **9** | Virtually zero debt. Financial fortress. Cash generation validated in FY25. |
 | **Management Quality** | **6** | Strong operational execution. Declining promoter holding and poorly-timed rights issue are negatives. |
 | **Earnings Quality** | **7** | FY25 OCF/Net Income = 108%. But historical earnings have been wildly volatile. |
-| **Valuation** | **9** | PE 12.1x, PEG 0.12, Earnings Yield 12.4%, EV/EBITDA ~6x for a 50%+ ROIC business. Cheap. |
-| **Margin of Safety** | **8** | Conservative DCF suggests 51% margin of safety. Even severe assumptions leave upside. |
+| **Valuation** | **7** | PE 16.1x, PEG 0.30, EV/EBITDA ~8-11x for a 50%+ ROIC business. Fair, not cheap. |
+| **Margin of Safety** | **6** | Conservative DCF suggests 35% margin of safety. Decent but not extreme. |
 | **Growth Potential** | **7** | Green packaging megatrend provides runway. But TTM deceleration needs monitoring. |
 | **Risk Profile** | **6** | Small size, volatile history, narrow moat, and declining TTM create moderate risk. |
-| **Overall Score** | **65/90 (72%)** | **Above Average — Compelling Value with Moderate Risk** |
+| **Overall Score** | **61/90 (68%)** | **Above Average — Fair Value with Moderate Risk** |
 
 ### Buffett Verdict: **Deep-Value Growth Recovery Play**
 
-This is not a forever-hold Buffett franchise like Coca-Cola or See's Candies. The earnings history is too volatile and the moat too narrow for that classification. But at 12x earnings for a business earning 50%+ ROIC with virtually zero debt and riding a secular megatrend — the price more than compensates for the risks.
+This is not a forever-hold Buffett franchise like Coca-Cola or See's Candies. The earnings history is too volatile and the moat too narrow for that classification. At 16x earnings for a business earning 50%+ ROIC with virtually zero debt and riding a secular megatrend — the price is reasonable and offers a fair risk-reward, though the extreme cheapness at ₹414 has dissipated.
 
 ### Summary Recommendation
 
 | Element | Detail |
 |---|---|
-| **Current Price** | ₹414 |
-| **Buy Zone** | **Deep Value / Strong Buy (₹250-₹400) to Value / Buy (₹400-₹600)** |
+| **Current Price** | ₹548 |
+| **Buy Zone** | **Value / Buy (₹400-₹600)** |
 | **Conservative Intrinsic Value** | ₹839/share |
 | **Base Case Intrinsic Value** | ₹1,563/share |
-| **Margin of Safety (Conservative)** | 51% |
-| **Implied 5-Year Return (Base)** | ~25-30% CAGR |
-| **Recommendation** | **BUY for long-term investors with appropriate position sizing (3-5% of portfolio). Accumulate on dips below ₹400. Wait for Q4 FY26 results to confirm TTM trend before making it a large position.** |
+| **Margin of Safety (Conservative)** | 35% |
+| **Implied 5-Year Return (Base)** | ~20-25% CAGR |
+| **Recommendation** | **BUY for long-term investors with appropriate position sizing (3-5% of portfolio). Accumulate aggressively on dips below ₹400. At current levels, a moderate position is justified. Wait for Q4 FY26 results to confirm TTM trend before making it a large position.** |
 
 > *"The stock market is a device for transferring money from the impatient to the patient."* — Warren Buffett
 
@@ -745,9 +1057,43 @@ The violent history of this stock (FY18-FY22 losses) means position sizing disci
 
 ---
 
+
+## 20. TEST SIMPLICITY / NO BRAINER NATURE OF THE INVESTMENT
+
+### Can a 10-Year-Old Understand This?
+
+**The 2-sentence thesis:** "Arrow Greentech makes special films that dissolve in water, so companies can replace plastic packaging with something that doesn't pollute. They're the biggest company doing this in India, they have almost no debt, and you can buy the stock for about 16 times what they earn."
+
+A 10-year-old can understand: plastic bad, water-soluble film good, company makes money doing it.
+
+### Does the Napkin Math Work?
+
+| Napkin Item | Value |
+|---|---|
+| What you pay | ₹548 per share |
+| What you get in earnings | ₹34 per year (TTM) or ₹42 per year (FY25) |
+| Years to "pay back" your investment | ~13-16 years from earnings alone |
+| Business is growing at | 50-60% per year (last 5 years) |
+| Return on every ₹1 the company invests | ₹0.48 (ROIC 48%) |
+| Debt | Virtually zero |
+
+**Napkin verdict:** You're paying 16x earnings for a debt-free business growing at 50%+ and earning 48% on capital. Even if growth halves to 25%, you're paying a very fair price. Even if growth drops to 15%, you're paying a reasonable price. You would need growth to completely stall (<5%) for this to be a bad investment at current prices.
+
+> *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* — Warren Buffett
+
+**Does this need a spreadsheet?** No. The DCF confirms the napkin math. A 50% ROIC business at 16x earnings with zero debt and a secular tailwind is a good deal. The only question marks are: (1) Can the growth persist? and (2) Is the moat deep enough? These are qualitative judgments, not spreadsheet exercises.
+
+> *"You don't need to know a man's exact weight to know he's fat."* — Warren Buffett
+
+Arrow Greentech's economics are fat. The returns on capital are fat. The margins are fat. The growth is fat. The balance sheet is a fortress. The only thing that's lean is the moat — and that's the one thing that requires careful ongoing monitoring.
+
+**Final Simplicity Test: PASS** — with the caveat that the investment requires monitoring of competitive dynamics and TTM earnings trajectory. This is not a "buy and forget forever" stock, but it is a "buy with conviction and watch with interest" stock.
+
+---
+
 *Disclaimer: This analysis is for educational purposes only and does not constitute investment advice. The author is not a SEBI-registered investment advisor. All investments carry risk of capital loss. Past performance does not guarantee future results. Please consult a qualified financial advisor before making investment decisions.*
 
 ---
-*Analysis prepared: 22 February 2026*
+*Analysis prepared: 7 April 2026 (Updated from 22 February 2026)*
 *Data Source: Screener.in (Consolidated Financials)*
 *Methodology: Warren Buffett / Berkshire Hathaway Value Investing Framework*
