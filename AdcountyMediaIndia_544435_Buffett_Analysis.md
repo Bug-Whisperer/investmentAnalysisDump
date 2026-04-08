@@ -318,9 +318,11 @@ ROE is driven by **margin expansion** (quality) not leverage. Equity multiplier 
 | Entry Price | Zone | Current P&L | Buffett's Advice |
 |---|---|---|---|
 | Below ₹75 | Deep Value | Profit | **HOLD & ACCUMULATE.** Let compounding work. |
-| ₹75 – ₹125 | Value | Profit to small loss | **HOLD & ADD on dips.** 7-10% position for small portfolios. |
-| ₹125 – ₹164 | Value | Loss | **HOLD.** Loss is sunk cost. Forward returns attractive. |
-| ₹164 – ₹282 | Overvalued | Large loss | **HOLD (painful).** Don't crystallise loss on business trading below IV. |
+| ₹75 – ₹125 | Deep Value / Value | Profit to small loss | **HOLD & ADD on dips.** 7-10% position for small portfolios. |
+| ₹125 – ₹164 | Value | Loss (-18% to -38%) | **HOLD.** Loss is sunk cost. Forward returns attractive at current CMP. |
+| ₹164 – ₹308 | Fair Value | Large loss (-38% to -67%) | **HOLD (painful).** Business still trades below Conservative IV of ₹193. Don't crystallise loss — time and earnings growth will heal a fair-value entry. Consider tax-loss harvesting if nearing FY-end. |
+| ₹308 – ₹450 | Fully Valued | Very large loss (-67% to -77%) | **REASSESS honestly.** You paid above Base IV. Recovery requires the optimistic scenario to play out. Hold only if fundamentals (margins, growth, cash flow) remain strong. Book loss for tax benefit if conviction has weakened. |
+| Above ₹450 | Overvalued | Extreme loss (>77%) | **Book loss and redeploy.** Entry was speculative. Even the Optimistic IV is ₹450. Waiting for recovery means needing heroic assumptions. Tax-loss harvest and move to higher-conviction ideas. |
 
 ---
 
