@@ -430,7 +430,7 @@ For every ₹1 of retained earnings, has management created at least ₹1 of mar
 
 - **Promoter Holding:** 64.81% — significant skin in the game. Promoters own nearly two-thirds of the company.
 - **However, declining trend:** Promoter holding decreased from 70.35% (FY20) to 64.81% (FY25), a reduction of ~5.5 percentage points over 5 years. This is a **caution flag** — the screener specifically flags this: "Promoter holding has decreased over last 3 years: -3.79%."
-- **The ₹414-to-₹818 price range in the past year** suggests the promoters may have sold at elevated prices.
+- **The ₹342-to-₹818 price range over the past year** (52-week range) suggests significant volatility. The promoters may have sold near the highs.
 
 ### SBC as % of Net Income
 
@@ -861,12 +861,12 @@ AGL's ROE is driven entirely by margin expansion and asset efficiency, with leve
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at current (3.9x) | — | 22.5% | 22.5% | 22.5% |
-| P/B compresses to 2.9x (mild de-rating) | — | 15.7% | 17.6% | 19.0% |
-| P/B compresses to 2.0x (significant de-rating) | — | 6.6% | 11.0% | 14.3% |
-| P/B compresses to 3.0x (quality premium) | — | 16.2% | 17.9% | 19.3% |
-| P/B compresses to 2.0x (historical median est.) | — | 7.1% | 11.3% | 14.5% |
-| P/B compresses to 1.0x Book (worst case) | — | -6.8% | 0.8% | 6.9% |
+| P/B stays at current (3.9x) | Multiple sustains — optimistic for high P/B | 22.5% | 22.5% | 22.5% |
+| P/B compresses to 3.0x | Mild de-rating to quality premium level | 16.2% | 17.9% | 19.3% |
+| P/B compresses to 2.5x | Moderate de-rating | 12.0% | 14.9% | 17.1% |
+| P/B compresses to 2.0x | Significant de-rating to historical median | 7.1% | 11.3% | 14.5% |
+| P/B compresses to 1.5x | Severe de-rating | 1.1% | 6.8% | 11.3% |
+| P/B compresses to 1.0x Book | Valued at book value — worst case for quality co. | -6.8% | 0.8% | 6.9% |
 
 **Step 4: The Key Insight**
 
@@ -874,12 +874,12 @@ AGL's ROE is driven entirely by margin expansion and asset efficiency, with leve
 
 **Step 5: Traffic Light Verdict**
 
-- 10-year return if P/B halves to 2.0x: **14.3%** CAGR
+- 10-year return if P/B halves to 2.0x: **14.5%** CAGR
 - 10% hurdle rate requires exit P/B of at least 1.3x
 
 | Condition | Verdict | Signal |
 |---|---|---|
-| 10-year return (14.3%) > hurdle rate (10%) even if P/B halves | **Safe entry — BV compounding overwhelms multiple compression** | 🟢 GREEN |
+| 10-year return (14.5%) > hurdle rate (10%) even if P/B halves | **Safe entry — BV compounding overwhelms multiple compression** | 🟢 GREEN |
 
 > *"Over the long term, it's hard for a stock to earn a much better return than the business earns."* — Charlie Munger
 
