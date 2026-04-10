@@ -476,9 +476,9 @@ Groww trades at a significant premium to traditional brokers (Angel One, ICICI S
 
 ### Key Insight
 
-At the current entry P/B of 15.7x with a sustainable ROE of 35% and 100% retention, book value compounds at 35% annually. If the P/B multiple remains at 15.7x, the return equals the BV compounding rate of 35%. Every 50% compression in P/B over 10 years creates roughly 7% annual drag. **The stock can tolerate P/B compression from 15.7x down to approximately 5x before the 10-year return drops below the 10% hurdle rate.**
+At the current entry P/B of 15.7x with a sustainable ROE of 35% and 100% retention, book value compounds at 35% annually. If the P/B multiple remains at 15.7x, the return equals the BV compounding rate of 35%. Every 50% compression in P/B over 10 years creates roughly 7% annual drag. **The stock can tolerate P/B compression from 15.7x down to approximately 2x before the 10-year return drops below the 10% hurdle rate.** (At 2.0x exit P/B, Year 10 BVPS of ₹239.3 implies a price of ₹479 vs. the ₹485 required for a 10% CAGR from ₹187.)
 
-This is the safety net: even if the market's sentiment sours dramatically and the P/B compresses by two-thirds from 15.7x to ~5x, the 10-year return would still be ~20% CAGR — thanks to the extraordinary BV compounding rate. This only holds if the 35% ROE is sustainable.
+This is an extraordinary safety net: even if the market's sentiment sours dramatically and the P/B compresses by two-thirds from 15.7x to ~5x, the 10-year return would still be ~20% CAGR. A compression to 3x still delivers ~14% CAGR. The P/B would need to collapse nearly 87% to ~2x — essentially valuing the company at bare book — before returns drop to the hurdle rate. This only holds if the 35% ROE is sustainable.
 
 ### Traffic Light
 
