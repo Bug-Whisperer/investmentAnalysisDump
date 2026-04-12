@@ -680,4 +680,4 @@ The napkin math says WAIT. No Excel required.
 
 ---
 
-*Disclaimer: This analysis is for educational purposes only. It is not investment advice. The author has no position in Apollo Tyres. All financial data sourced from Screener.in, company filings, and public sources. Please consult a qualified financial advisor before making investment decisions.*
+*Disclaimer: This analysis is for educational purposes only. It is not investment advice. The author has no position in Apollo Tyres. All financial data sourced from Screener.in, company filings, and public sources. Please consult a qualified financial advisor before making investment decisions.* 
