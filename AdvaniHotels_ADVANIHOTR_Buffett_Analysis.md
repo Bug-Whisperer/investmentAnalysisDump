@@ -58,7 +58,7 @@ The hotel business itself is capital-intensive and cyclical. However, AHRIL's sp
 
 The income statement tells a dramatic story of COVID destruction and post-COVID renaissance:
 
-**Pre-COVID (FY2014–FY2020):** Revenue grew steadily from ₹40 Cr to ₹70 Cr (7.5% CAGR), with OPM gradually improving from 18% to 24%. This was a well-run, modestly growing luxury hotel. EPS grew from ₹0.24 to ₹1.22 — a 5x increase over 6 years.
+**Pre-COVID (FY2014–FY2020):** Revenue grew steadily from ₹40 Cr to ₹70 Cr (9.8% CAGR), with OPM gradually improving from 18% to 24%. This was a well-run, modestly growing luxury hotel. EPS grew from ₹0.24 to ₹1.22 — a 5x increase over 6 years.
 
 **COVID Collapse (FY2021):** Revenue cratered 61% to ₹27 Cr, OPM swung to -10%, and the company posted a ₹4 Cr net loss. This was the **worst year** across all metrics.
 
@@ -165,7 +165,7 @@ There are **zero share repurchases** and **zero equity issuances** (except the b
 
 > *Buffett: "The first law of capital allocation is that what is smart at one price is dumb at another."*
 
-The extremely high dividend payout (85% average over 5 years) is both a strength and a limitation. It returns cash to shareholders generously, but it limits the company's ability to reinvest for growth (new properties, renovations, expansions). For a single-asset company with limited reinvestment opportunities at high returns, generous dividends are the RIGHT capital allocation choice — exactly what Buffett did with See's Candies profits.
+The high dividend payout (~71% average over the last 5 years by P&L payout ratios; Screener reports a longer-term average of ~85%) is both a strength and a limitation. It returns cash to shareholders generously, but it limits the company's ability to reinvest for growth (new properties, renovations, expansions). For a single-asset company with limited reinvestment opportunities at high returns, generous dividends are the RIGHT capital allocation choice — exactly what Buffett did with See's Candies profits.
 
 ---
 
@@ -222,7 +222,7 @@ For AHRIL, the math is clean: Owner Earnings ≈ ₹26 Cr or ~₹2.81/share. The
 | **ROIC %** | — | — | — | — | — | — | — | — | — | — | — | **38.6%** |
 | **ROA 12M %** | — | — | — | — | — | — | — | — | — | — | — | **25.3%** |
 
-**Summary Return Metrics:**
+**Summary Return Metrics (from Screener):**
 
 | Period | ROE |
 |---|---|
@@ -230,6 +230,8 @@ For AHRIL, the math is clean: Owner Earnings ≈ ₹26 Cr or ~₹2.81/share. The
 | 5-Year Average | 28% |
 | 3-Year Average | 40% |
 | Last Year (FY2025) | 34% |
+
+*Note: Screener computes these averages using its own methodology (likely weighted or geometric). A simple arithmetic average of the table's FY2021–FY2025 ROE values yields ~26%. The difference is methodological.*
 
 ### Analysis
 
@@ -327,7 +329,7 @@ The risk isn't change — it's **competition and capacity**. If Goa adds signifi
 | Mar 2019 | 70 | 12.5% | 16 | 6.7% | 11 | 22% | 13% |
 | Mar 2020 | 70 | 0% | 17 | 6.3% | 11 | 0% | N/M (no rev change) |
 | Mar 2021 | 27 | -61.4% | -3 | -118% | -4 | -136% | **47%** (on the way down) |
-| Mar 2022 | 51 | 88.9% | 11 | -467% | 7 | -275% | 58% |
+| Mar 2022 | 51 | 88.9% | 11 | +467% | 7 | +275% | 58% |
 | Mar 2023 | 99 | 94.1% | 39 | 255% | 29 | 314% | **58%** |
 | Mar 2024 | 105 | 6.1% | 34 | -13% | 25 | -14% | **-83%** |
 | Mar 2025 | 107 | 1.9% | 35 | 2.9% | 26 | 4% | **50%** |
@@ -495,29 +497,29 @@ The Screener Insights section shows operating metrics behind a paywall. However,
 | P/E (TTM) | 20.0x | |
 | P/E (FY2025) | 17.9x | |
 | Stock P/E (Screener) | 19.6x | |
-| Book Value/Share | ₹8.07 | Screener figure |
-| **P/B Ratio** | **6.34x** | |
+| Book Value/Share | ₹8.74 | FY2025: Equity ₹81 Cr / 9.27 Cr shares. Screener displays ₹8.07 using trailing (Sep 2025) equity of ₹74 Cr |
+| **P/B Ratio** | **5.85x** | CMP ₹51.1 / FY2025 BVPS ₹8.74 |
 | Dividend Yield | 3.72% | |
 | Industry P/E | 28.0x | |
 | Industry P/B | 2.57x | |
-| EV/EBITDA (est.) | ~11.5x | (Mkt Cap ₹474 + Debt ₹1 - Cash ~₹48) / EBITDA ₹38 ≈ ₹427/38 |
+| EV/EBITDA (est.) | ~11.2x | (Mkt Cap ₹474 + Debt ₹1 - Cash ~₹48) / EBITDA ₹38 ≈ ₹427/38 |
 | P/FCF (FY2025) | ~26x | ₹474 / ₹18 FCF |
 | P/Owner Earnings | ~18.2x | ₹474 / ₹26 Owner Earnings |
 | Earnings Yield | 5.6% | 1 / 17.9 PE (FY2025 basis) |
 | FCF Yield (FY2025) | 3.8% | |
-| PEG Ratio | 0.33 | (Screener) using 5Y profit CAGR of 18.5% |
+| PEG Ratio | 1.06 | PE 19.6 / 5Y profit CAGR 18.5% = 1.06. Screener displays 0.33 which appears to use a different methodology. |
 
 ### Historical Valuation Comparison
 
 | Metric | Current | Historical Context |
 |---|---|---|
-| P/E of 19.6x | vs. Industry P/E of 28.0x | **33% discount to industry** — appears cheap |
-| P/B of 6.34x | vs. Industry P/B of 2.57x | **147% premium to industry** — looks expensive |
+| P/E of 19.6x | vs. Industry P/E of 28.0x | **30% discount to industry** — appears cheap |
+| P/B of 5.85x | vs. Industry P/B of 2.57x | **128% premium to industry** — looks expensive |
 | Dividend Yield of 3.72% | Best in peer group | **Highest yield among all hotel peers** |
 
 ### The P/B Paradox
 
-The stock trades at 6.34x book value — which sounds expensive until you realise that book value is artificially LOW because:
+The stock trades at 5.85x book value — which sounds expensive until you realise that book value is artificially LOW because:
 1. The hotel property is carried at heavily depreciated cost (~₹44 Cr) while its replacement value is likely ₹400-500+ Cr
 2. A 23-acre beachfront estate in Goa with a 5-star hotel would cost multiples of the book value to recreate from scratch
 3. Book value doesn't capture the scarcity premium of irreplaceable beachfront land
@@ -535,7 +537,7 @@ For a no-growth business paying 3.7% dividend yield, a P/E of 18-20x implies a t
 
 ### Has the Stock Ever Traded at Current Multiples?
 
-The stock has historically been much cheaper. Pre-COVID, it traded at P/E multiples of 10-15x and P/B multiples of 2-3x. The current 6.34x P/B is near all-time highs. The market has re-rated AHRIL significantly post-COVID, driven by:
+The stock has historically been much cheaper. Pre-COVID, it traded at P/E multiples of 10-15x and P/B multiples of 2-3x. The current 5.85x P/B is near all-time highs. The market has re-rated AHRIL significantly post-COVID, driven by:
 1. Recognition of the post-COVID earnings step-up
 2. Growing retail investor base (shareholders grew from 5,000 to 40,000)
 3. Goa tourism boom narrative
@@ -806,7 +808,7 @@ There is no pessimism here. The stock has been re-rated from deeply undervalued 
 | Is the downside capped by tangible value? | Partially — replacement value provides a floor, but book value is far below CMP |
 | Is the upside driven by fundamentals? | Partially — needs both growth AND multiple expansion |
 | Would you buy more if it dropped 30%? | Yes — at ₹35, the dividend yield would be 5.4% and the earnings yield would be 8.2% |
-| Can you explain the thesis in 2 sentences? | Yes — "It's a debt-free luxury beachfront hotel in Goa generating 34% ROE with a 3.7% dividend yield, but it's priced for perfection at 6.3x book value with no growth runway." |
+| Can you explain the thesis in 2 sentences? | Yes — "It's a debt-free luxury beachfront hotel in Goa generating 34% ROE with a 3.7% dividend yield, but it's priced for perfection at 5.85x book value with no growth runway." |
 
 
 ---
@@ -874,7 +876,9 @@ There is no pessimism here. The stock has been re-rated from deeply undervalued 
 | Year 7 (FY2032) | ₹17.25 | 8.74 × (1.102)^7 |
 | Year 10 (FY2035) | ₹23.08 | 8.74 × (1.102)^10 |
 
-#### Step 3: Expected Return CAGR Under Different Exit P/B Scenarios
+#### Step 3: Expected Price Return CAGR Under Different Exit P/B Scenarios
+
+*Note: The table below shows price-only returns (capital appreciation from book value growth and multiple change). Actual total shareholder returns would be higher by the dividend yield component. At the current entry price and ~66% payout ratio, the dividend yield adds approximately 3.4% annually, making total returns roughly 3–4 percentage points higher than the figures shown.*
 
 **At Current Price of ₹51.1 (Entry P/B: 5.85x)**
 
@@ -891,7 +895,7 @@ There is no pessimism here. The stock has been re-rated from deeply undervalued 
 
 #### Step 4: Key Insight
 
-> **"At the current entry P/B of 5.85x with a sustainable ROE of 30% and 34% retention, book value compounds at 10.2% annually. If the P/B multiple remains at 5.85x, the return equals the BV compounding rate of 10.2%. The stock can tolerate P/B compression from 5.85x down to approximately 4.5x before the 10-year return drops below the 10% hurdle rate."**
+> **"At the current entry P/B of 5.85x with a sustainable ROE of 30% and 34% retention, book value compounds at 10.2% annually. If the P/B multiple remains at 5.85x, the price return equals the BV compounding rate of 10.2% — plus ~3.4% dividend yield for a total return of ~13.6%. The stock can tolerate P/B compression from 5.85x down to approximately 4.5x before the 10-year total return (price + dividends) drops below the 10% hurdle rate."**
 
 This means the P/B multiple can only drop about 23% before returns fall below the hurdle rate. That's not much buffer.
 
@@ -899,13 +903,13 @@ This means the P/B multiple can only drop about 23% before returns fall below th
 
 | Condition | Verdict | Signal |
 |---|---|---|
-| 10-year return > 10% even if P/B halves (to 2.93x) | NO — return would be only 2.8% | 🔴 RED |
-| 10-year return > 10% only if P/B stays within 25% of current | YES — needs P/B to stay above ~4.5x | 🟡 YELLOW |
-| 10-year return < 10% unless P/B EXPANDS | — | — |
+| 10-year total return > 10% even if P/B halves (to 2.93x) | NO — price return 2.8% + ~3.4% dividend yield ≈ 6.2% total | 🔴 RED |
+| 10-year total return > 10% only if P/B stays within ~28% of current (above ~4.2x) | YES — at P/B 4.4x, price return 7.1% + ~3.4% dividend yield ≈ 10.5% total | 🟡 YELLOW |
+| 10-year total return < 10% unless P/B EXPANDS | — | — |
 
 **Signal: 🟡 YELLOW — Risky entry. Dependent on sentiment sustaining.**
 
-The high P/B entry creates significant vulnerability to multiple compression. If the market reverts to valuing AHRIL at historical multiples (3x P/B), you lose money even with strong underlying ROE.
+The high P/B entry creates significant vulnerability to multiple compression. Including the ~3.4% dividend yield improves the picture somewhat, but if the market reverts to valuing AHRIL at historical multiples (3x P/B), total returns would still fall well short of the hurdle rate.
 
 > *Munger: "Over the long term, it's hard for a stock to earn a much better return than the business earns."*
 
