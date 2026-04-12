@@ -55,6 +55,7 @@ Cement has historically had mediocre economics in India — cyclical pricing, hi
 | Dividend Payout % | 14% | 14% | **151%** | 45% | 19% | 12% | **12%** | — |
 
 *FY24 revenue looks lower because FY23 was a 15-month period.
+**Dividend Payout %** is calculated on parent-attributable net profit (not consolidated), consistent with Screener's methodology. FY25: ₹493 Cr dividend ÷ ₹4,171 Cr parent NP = 11.8% ≈ 12%. If calculated on consolidated NP (₹5,158 Cr), the payout would be 9.6%.
 
 **Compounded Growth Summary (from Screener):**
 
@@ -216,7 +217,7 @@ Investors who value the stock on reported earnings or reported owner earnings ma
 
 | Metric | Dec 2018 | Dec 2019 | Dec 2020 | Dec 2021 | Mar 2023 | Mar 2024 | Mar 2025 |
 |---|---|---|---|---|---|---|---|
-| **ROE** | ~14% | ~12% | ~14% | ~15% | ~10% | ~13% | **~9.7%** |
+| **ROE** | ~14% | ~12% | ~14% | ~15% | ~10% | ~13% | **~8.7%** |
 | **ROA** | ~8% | ~7% | ~8% | ~9% | ~6% | ~8% | **~6.4%** |
 | **ROCE** | **12%** | **14%** | **14%** | **17%** | **12%** | **13%** | **10.5%** |
 
@@ -225,23 +226,23 @@ Investors who value the stock on reported earnings or reported owner earnings ma
 | 10-Year Average | 9% |
 | 5-Year Average | 10% |
 | 3-Year Average | **9%** |
-| Last Year | **~9.7%** |
+| Last Year | **~8.7%** |
 
-**Note on ROE:** Screener reports FY25 ROE as 8.73%, likely computed on average equity (which includes opening equity before mid-year capital raises). The point-in-time calculation using closing equity — ₹5,158 Cr net profit ÷ ₹53,444 Cr shareholders' equity — yields **9.65%**. The DuPont decomposition (Section 14) cross-checks to ~9.6%. We use ~9.7% (rounded) throughout this analysis as the more internally consistent figure, but note the difference is modest and the qualitative conclusions are unchanged.
+*All ROE figures sourced from Screener.in, which uses Parent-attributable Net Profit ÷ Average Shareholders' Equity. This is the correct measure for parent shareholders: it excludes the ~19% minority share of consolidated profits (primarily from ACC, where Ambuja owns 51%). The FY25 figure of 8.73% reconciles as: Parent NP ₹4,171 Cr (EPS ₹16.92 × 246.5 Cr shares) ÷ Average Parent Equity ₹47,448 Cr ((₹41,452 + ₹53,444) / 2) = 8.79% ≈ Screener's 8.73%. The compounded averages (3Y = 9%, 5Y = 10%) are also from Screener and reflect the same parent-NP-based methodology applied consistently across years.*
 
 **Analysis — This is a MEDIOCRE Business by Buffett Standards:**
 
-1. **ROE of ~9.7%** is below the cost of equity (~11-12% for an Indian large-cap). This means the company is **marginally destroying shareholder value** at current returns. The 10-year average of 9% is barely above the risk-free rate.
+1. **ROE of ~8.7%** is below the cost of equity (~11-12% for an Indian large-cap). This means the company is **destroying shareholder value** at current returns. The 10-year average of 9% is barely above the risk-free rate.
 
-2. **ROE is DECLINING** — from a cyclical peak of ~15% (Dec 2021) to ~9.7% (FY25). This is because the massive equity base (boosted by Adani's capital infusion) is not yet generating proportional returns. The denominator (equity) has grown much faster than the numerator (profit).
+2. **ROE is DECLINING** — from a cyclical peak of ~15% (Dec 2021) to ~8.7% (FY25). This is because the massive equity base (boosted by Adani's capital infusion) is not yet generating proportional returns. The denominator (equity) has grown much faster than the numerator (profit).
 
-3. **ROCE at 10.5%** confirms the mediocre picture. For a capital-intensive business, ROCE of 10% means the company is barely earning its cost of capital.
+3. **ROCE at 10.5%** is higher than ROE, which seems paradoxical. The gap exists because ROCE uses consolidated EBIT (including 100% of subsidiary profits) while ROE uses only parent-attributable profits (excluding minority share). This is actually a reminder that ~19% of the business's operating returns flow to minority shareholders, not to Ambuja's shareholders.
 
-4. **ROCE > ROE** — This is actually a slightly positive signal. It means the pre-interest, pre-tax returns on the business are decent (~10-12%), and the low leverage (negligible debt) means ROE isn't being artificially inflated.
+4. The 10-year average ROE of 9% confirms this is a structurally mediocre-return business. Even before the Adani era, Ambuja rarely sustained 15%+ ROE.
 
 **The Core Problem:** Ambuja is in a massive investment phase. It has deployed tens of thousands of crores into new capacity that hasn't yet ramped up to full utilisation. If the new capacity earns decent returns once operational, ROE should recover to 12-14%. If it doesn't — if cement pricing remains weak and overcapacity persists — the ROE may stay stuck at sub-10%.
 
-> *Buffett: "Time is the friend of the wonderful business, the enemy of the mediocre."* At a 9% average ROE over a decade, Ambuja is a mediocre business by this standard. The current ~9.7% is marginally below cost of equity. The Adani Group's thesis is that scale and efficiency will turn it into a good business. This is a bet on execution, not a proven quality compounder.
+> *Buffett: "Time is the friend of the wonderful business, the enemy of the mediocre."* At a 9% average ROE over a decade, Ambuja is a mediocre business by this standard. The current ~8.7% is clearly below cost of equity. The Adani Group's thesis is that scale and efficiency will turn it into a good business. This is a bet on execution, not a proven quality compounder.
 
 ---
 
@@ -332,7 +333,7 @@ The absence of change is present. The problem is that cement doesn't make a LOT 
 
 > *Buffett: "The ideal business is one that takes no capital, and yet grows."*
 
-Cement is the OPPOSITE of this ideal. Ambuja is spending ~₹7,500 Cr annually on total capex (~₹6,500 Cr growth after ~₹1,000 Cr maintenance; Section 5) to grow revenue by ₹1,900 Cr. The revenue yield on **growth** capex is ~29% (₹1,900 / ₹6,500) — implying a ~3.4-year payback at the revenue level, and much longer at the profit level.
+Cement is the OPPOSITE of this ideal. Ambuja is spending ₹7,500+ Cr annually on capex to grow revenue by ₹1,900 Cr. That is a revenue yield on growth capex of just 25% — implying a ~4-year payback at the revenue level, and much longer at the profit level.
 
 ### Part B: Scaling Runway — TAM & Penetration
 
@@ -447,7 +448,7 @@ The concern isn't that fools are running Ambuja — the Adani Group is operation
 - EV/EBITDA of ~13-16x (TTM to FY25) is in line with Indian cement sector averages (UltraTech trades at ~20x+).
 
 **Is the stock cheap?** On headline multiples, YES — it's cheaper than it has been in years, especially on P/B. However, this cheapness may be justified by:
-1. Declining ROE (~9.7% vs. historical ~12-14%)
+1. Declining ROE (~8.7% vs. historical ~12-14%)
 2. Heavy equity dilution (shares up 25%)
 3. Adani Group governance overhang
 4. Capacity utilisation concerns
@@ -467,7 +468,7 @@ However, given the company's expansion, a more generous (but still cautious) sta
 
 **Adjusted Owner Earnings = ₹5,000 Cr (~₹20/share)** — halfway between normalised core and reported, acknowledging some other income is recurring (treasury) and some tax benefits will persist.
 
-**Critical Note on Minority Interest:** These owner earnings are CONSOLIDATED — they include 100% of ACC's profits (Ambuja owns 51%), plus 100% of Orient, Sanghi, and other subsidiaries. The consolidated EPS of ₹16.92 × ~247 Cr shares = ₹4,179 Cr attributable to parent, versus consolidated net profit of ₹5,158 Cr — implying ~₹979 Cr (~19%) accrues to minority shareholders annually. Since the DCF uses consolidated cash flows, the resulting enterprise value represents 100% of all subsidiaries. To arrive at the equity value attributable to Ambuja's shareholders, we must deduct BOTH net debt AND the fair value of minority interest. We estimate minority interest at ~₹12,000 Cr (12× annual minority profit of ~₹979 Cr — a conservative multiple given the parent trades at ~25x).
+**Critical Note on Minority Interest:** These owner earnings are CONSOLIDATED — they include 100% of ACC's profits (Ambuja owns 51%), plus 100% of Orient, Sanghi, and other subsidiaries. The consolidated EPS of ₹16.92 × ~247 Cr shares = ₹4,179 Cr attributable to parent, versus consolidated net profit of ₹5,158 Cr — implying ~₹979 Cr (~19%) accrues to minority shareholders annually. Since the DCF uses consolidated cash flows, the resulting enterprise value represents 100% of all subsidiaries. To arrive at the equity value attributable to Ambuja's shareholders, we must deduct BOTH net debt AND the fair value of minority interest. We estimate minority interest at ~₹12,000 Cr (12× annual minority profit of ~₹979 Cr). Note: since MI is a deduction, using a lower multiple produces a higher (more generous) intrinsic value. A more conservative treatment using 20-25× (closer to the parent's own trading multiple) would yield an MI deduction of ₹20,000-25,000 Cr and correspondingly lower intrinsic values. We use 12× as a mid-range estimate, acknowledging it is generous to the bull case.
 
 **Terminal Value methodology:** The Gordon Growth Model is used: TV = Year 10 CF × (1 + g) / (r − g), where g is the terminal growth rate. All cash flows are discounted at the scenario-specific discount rate.
 
@@ -497,7 +498,7 @@ However, given the company's expansion, a more generous (but still cautious) sta
 - Under the **base** scenario, the stock has a **meaningful 28% margin of safety** — suggesting ₹425 is a reasonable entry point IF you believe in 14% owner earnings growth for 5 years and 10% thereafter, with a 5% terminal growth rate.
 - Under the **optimistic** scenario (18% growth for 5 years), the stock is deeply undervalued with 62% margin of safety — but this requires best-case execution.
 
-**Key caveat on terminal value sensitivity:** Terminal value constitutes 52-71% of total enterprise value across scenarios, which is typical for DCF models but highlights the sensitivity to terminal growth rate assumptions. A 1% change in terminal growth rate can swing intrinsic value by 20-30%. The 4-5% terminal growth rates assume Ambuja grows at or slightly above India's long-run nominal GDP growth — reasonable for a market leader, but not guaranteed.
+**Key caveat on terminal value sensitivity:** Terminal value constitutes 52-70% of total enterprise value across scenarios, which is typical for DCF models but highlights the sensitivity to terminal growth rate assumptions. A 1% change in terminal growth rate can swing intrinsic value by 20-30%. The 4-5% terminal growth rates assume Ambuja grows at or slightly above India's long-run nominal GDP growth — reasonable for a market leader, but not guaranteed.
 
 The investment conclusion hinges heavily on which scenario you find most realistic. The conservative case (which uses normalised owner earnings stripped of excess other income and tax benefits) suggests overvaluation. The base case (which gives partial credit for recurring other income) suggests fair-to-attractive pricing. This is NOT a clear-cut Buffett investment — it requires a view on earnings quality.
 
@@ -512,10 +513,12 @@ The investment conclusion hinges heavily on which scenario you find most realist
 | Input | Value |
 |---|---|
 | CMP | ₹425 |
-| Normalised TTM EPS | ~₹17 (using FY25 normalised) |
-| Current PE (on normalised) | ~25x |
+| FY25 Reported EPS | ~₹17 (FY25 reported EPS of ₹16.92, rounded) |
+| Current PE (on reported EPS) | ~25x |
 | Shares Outstanding (Diluted) | ~247 Cr |
 | Historical 5Y EPS CAGR | ~10-12% |
+
+*Note: This section uses reported EPS (₹17) rather than the normalised core EPS (~₹10, from Section 5) because the reverse DCF asks "what growth does the market expect?" — and the market prices based on reported earnings. Using normalised EPS would increase all implied growth requirements by ~5-6pp across the board, making the stock appear even more demanding of growth. The reader should bear in mind that if reported earnings are inflated by unsustainable tax benefits and other income, the "achievable" growth benchmarks below are more demanding than they appear.*
 
 ### Step 2: Terminal PE Scenarios
 
@@ -647,24 +650,31 @@ Asymmetry Ratio: ~1.9:1 to 3:1
 
 ### Part A: DuPont Decomposition
 
-| Year | Net Profit Margin | Asset Turnover (Rev/Assets) | Equity Multiplier (Assets/Equity) | ROE |
+For FY25, the DuPont is presented using parent-attributable net profit and average balance sheet figures to reconcile with Screener's ROE of 8.73%. Pre-FY23 figures (when minority interest was immaterial — Ambuja did not consolidate ACC before 2016, and the MI share was smaller pre-Adani) use consolidated figures as reported.
+
+| Year | Net Profit Margin | Asset Turnover (Rev/Avg Assets) | Equity Multiplier (Avg Assets/Avg Equity) | ROE |
 |---|---|---|---|---|
 | Dec 2018 | 11.4% | 0.70x | 1.67x | **~13.3%** |
 | Dec 2019 | 10.3% | 0.67x | 1.67x | ~11.6% |
 | Dec 2020 | 12.7% | 0.62x | 1.75x | ~13.7% |
 | Dec 2021 | 12.8% | 0.64x | 1.78x | **~14.6%** |
 | Mar 2024 | 14.3% | 0.51x | 1.57x | ~11.4% |
-| Mar 2025 | 14.7% | 0.43x | 1.51x | **~9.6%** |
+| Mar 2025 (Parent) | 11.9% | 0.48x | 1.54x | **~8.8%** |
+
+**FY25 DuPont Reconciliation (using parent NP and averages):**
+- Parent NPM = ₹4,171 Cr / ₹35,045 Cr = 11.9%
+- Asset Turnover = ₹35,045 Cr / Avg Assets ₹73,004 Cr = 0.48x
+- Equity Multiplier = Avg Assets ₹73,004 Cr / Avg Parent Equity ₹47,448 Cr = 1.54x
+- DuPont ROE = 11.9% × 0.48 × 1.54 = **8.8%** (reconciles with Screener's 8.73%)
 
 **Key Findings:**
-1. **Net profit margin is IMPROVING** (11.4% → 14.7%) — but this is flattered by low taxes and high other income, not operating improvement.
-2. **Asset turnover is COLLAPSING** (0.70x → 0.43x) — this is the primary driver of falling ROE. The asset base has doubled while revenue has grown modestly. New assets are not generating proportional revenue yet.
-3. **Equity multiplier (leverage) is DECLINING** (1.78x → 1.51x) — the company is becoming LESS leveraged (more equity relative to assets), which actually REDUCES ROE. This is because Adani has pumped in equity.
-4. **DuPont cross-check:** 14.7% × 0.43 × 1.51 = ~9.6%, which reconciles with the point-in-time ROE of 9.65% (₹5,158 Cr / ₹53,444 Cr). Screener's reported 8.73% uses average equity across the year (which is higher due to mid-year capital raises), explaining the ~1pp gap.
+1. **Net profit margin (parent) at 11.9%** is lower than the consolidated 14.7% because minority profits are excluded. This is a more honest measure of what flows to Ambuja's shareholders.
+2. **Asset turnover is COLLAPSING** (0.70x → 0.48x) — this is the primary driver of falling ROE. The asset base has doubled while revenue has grown modestly.
+3. **Equity multiplier is DECLINING** (1.78x → 1.54x) — the company is becoming LESS leveraged (more equity relative to assets), which REDUCES ROE. This is because Adani has pumped in equity.
 
-**The ROE decline is NOT caused by operating deterioration — it is caused by the denominator effect of massive equity infusion and capacity additions that haven't ramped up.** If/when asset turnover recovers to 0.55-0.60x (as new capacity utilises), ROE should recover to 12-14%.
+**The ROE decline is driven by two factors:** (a) the denominator effect of massive equity infusion and capacity additions that haven't ramped up, and (b) the growing minority interest share (~19% of profits now flow to ACC's outside shareholders). If asset turnover recovers to 0.55-0.60x (as new capacity utilises), parent ROE should recover to 11-13%.
 
-**ROCE vs ROE:** ROCE (10.5%) and ROE (~9.7%) are close, with ROCE higher — this is the healthy pattern. Returns are not being artificially inflated by leverage. The business needs to earn better returns on its assets, period.
+**ROCE vs ROE:** ROCE (10.5%) is notably higher than parent ROE (8.7%). The 1.8pp gap is primarily explained by minority interest: ROCE uses consolidated EBIT (100% of subsidiary profits), while ROE uses only the ~81% attributable to Ambuja's shareholders. This is a structural feature, not a quality signal — investors in Ambuja only receive the parent share of returns.
 
 ### Part B: P/B Multiple Scenario Analysis
 
@@ -675,7 +685,7 @@ Asymmetry Ratio: ~1.9:1 to 3:1
 | Current BVPS | ₹228 |
 | CMP | ₹425 |
 | Current P/B | 1.86x |
-| Sustainable ROE (normalised) | 12% (assume recovery from current ~9.7%) |
+| Sustainable ROE (normalised) | 12% (assume recovery from current ~8.7%) |
 | Retention Ratio | 88% (based on 12% payout) |
 | BV Compounding Rate | 12% × 88% = **10.6%** |
 
@@ -684,9 +694,9 @@ Asymmetry Ratio: ~1.9:1 to 3:1
 | Year | Projected BVPS |
 |---|---|
 | Current | ₹228 |
-| Year 5 | ₹378 |
-| Year 7 | ₹464 |
-| Year 10 | ₹630 |
+| Year 5 | ₹377 |
+| Year 7 | ₹462 |
+| Year 10 | ₹624 |
 
 **Expected Annual Return (CAGR) at CMP ₹425 (Entry P/B: 1.86x):**
 
@@ -706,7 +716,7 @@ Asymmetry Ratio: ~1.9:1 to 3:1
 
 | Condition | Assessment |
 |---|---|
-| 10Y return > 10% even if P/B halves to 0.93x? | ❌ No — return would be ~3.2% (~4% is the 1.0× P/B scenario in the table) |
+| 10Y return > 10% even if P/B halves to 0.93x? | ❌ No — return would be ~4% |
 | 10Y return > 10% if P/B compresses just 10% to 1.67x? | ❌ No — return would be ~9.4% |
 | Return > 10% only if P/B stays within ~5% of current? | ✅ Yes — breakeven P/B is ~1.77x |
 
@@ -716,13 +726,15 @@ Asymmetry Ratio: ~1.9:1 to 3:1
 
 ## 15. BUY ZONE DEFINITION
 
-| Zone | P/B Range | Price Range (₹) | PE Range | Rationale |
+| Zone | P/B Range | Price Range (₹) | PE Range (at FY25 EPS ₹17) | Rationale |
 |---|---|---|---|---|
-| **Deep Value / Strong Buy** | <1.2x Book | <₹275 | <12x norm EPS | Priced for permanent mediocrity; exceptional margin of safety |
-| **Value / Buy** | 1.2x – 1.5x Book | ₹275 – ₹340 | 12-16x | Below fair value; attractive risk-reward |
-| **Fair Value / Hold** | 1.5x – 2.0x Book | ₹340 – ₹455 | 16-22x | Fairly priced; hold for compounding |
-| **Fully Valued / Trim** | 2.0x – 2.5x Book | ₹455 – ₹570 | 22-28x | Above fair value; limited upside |
-| **Overvalued / Sell** | >2.5x Book | >₹570 | >28x | Priced for perfection; sell/avoid |
+| **Deep Value / Strong Buy** | <1.2x Book | <₹275 | <16x | Priced for permanent mediocrity; exceptional margin of safety |
+| **Value / Buy** | 1.2x – 1.5x Book | ₹275 – ₹340 | 16-20x | Below fair value; attractive risk-reward |
+| **Fair Value / Hold** | 1.5x – 2.0x Book | ₹340 – ₹455 | 20-27x | Fairly priced; hold for compounding |
+| **Fully Valued / Trim** | 2.0x – 2.5x Book | ₹455 – ₹570 | 27-34x | Above fair value; limited upside |
+| **Overvalued / Sell** | >2.5x Book | >₹570 | >34x | Priced for perfection; sell/avoid |
+
+*PE ranges use FY25 reported EPS of ~₹17 (₹16.92). The primary anchoring metric is P/B, not PE, since book value is more stable and directly tied to the ROE compounding framework.*
 
 **Current Price (₹425) = FAIR VALUE / HOLD zone** (1.86x book, ~25x normalised PE).
 
@@ -755,7 +767,7 @@ Asymmetry Ratio: ~1.9:1 to 3:1
 
 Buffett would likely **PASS** on Ambuja Cements at current prices, for the following reasons:
 
-1. **The ROE of ~9.7% is below Buffett's minimum threshold.** He has repeatedly said he wants businesses earning 15%+ on equity. Ambuja hasn't earned 15% ROE in any recent year.
+1. **The ROE of ~8.7% is below Buffett's minimum threshold.** He has repeatedly said he wants businesses earning 15%+ on equity. Ambuja hasn't earned 15% ROE in any recent year.
 
 2. **There is no margin of safety.** The stock is not cheap enough to compensate for the mediocre returns and execution risk.
 
