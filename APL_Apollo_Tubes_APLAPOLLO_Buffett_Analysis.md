@@ -48,8 +48,10 @@ Buffett: *"The single most important decision in evaluating a business is pricin
 | Net Profit Growth YoY | 58% | 50% | 4% | **-6%** | **73%** | 59% | 52% | 4% | 14% | 3% | — |
 | EPS (₹) | 4.29 | 6.45 | 6.66 | 6.22 | 9.58 | 14.42 | 24.73 | 23.14 | 26.39 | 27.28 | **41.14** |
 | EPS Growth YoY | 58% | 50% | 3% | **-7%** | 54% | 50% | **71%** | -6% | 14% | 3% | — |
-| Shares Outstanding (Cr) | ~23.5 | ~23.6 | ~23.7 | ~23.8 | ~25.0 | ~25.1 | ~25.0 | ~27.8 | ~27.7 | ~27.8 | ~27.8 |
+| Shares Outstanding (Cr) | ~23.5 | ~23.6 | ~23.7 | ~23.8 | ~26.7* | ~28.3* | ~25.0 | ~27.8 | ~27.7 | ~27.8 | ~27.8 |
 | Dividend Payout % | 23% | 19% | 21% | 23% | **0%** | **0%** | 14% | 22% | 21% | 21% | — |
+
+*\*FY20 and FY21 shares are implied from Screener's EPS (Net Profit / EPS), which is retroactively adjusted for the 2022 Apollo Tricoat Tubes merger. The pre-merger actual shares outstanding were ~25.0 Cr and ~25.1 Cr respectively.*
 
 **Trend Narrative:**
 
@@ -170,7 +172,7 @@ Buffett: *"Owner Earnings represent (a) reported earnings plus (b) depreciation,
 
 ROCE has been consistently above 20% for the last decade — ranging from 20% (FY19, FY20) to a spectacular 32% (FY22). The 10-year average ROCE is approximately 24%. This is an outstanding level of return for a steel products company and far exceeds the cost of capital (~10-12%).
 
-ROE has averaged ~22% over 10 years and ~23% over 5 years. The current ROE of 19% is below the historical average, partially because the company has been building capacity ahead of demand (the capital is deployed but not yet fully earning returns).
+ROE has averaged ~20% over 10 years and ~22% over 5 years. The current ROE of 19% is below the historical average, partially because the company has been building capacity ahead of demand (the capital is deployed but not yet fully earning returns).
 
 ROIC at 20% and Asset Turnover at 2.80x are both strong. The high asset turnover indicates the business is capital-efficient — every ₹1 of assets generates ₹2.80 of revenue. This is characteristic of a business with good working capital management and high throughput on its fixed assets.
 
@@ -364,7 +366,7 @@ These operational metrics are improving BENEATH the financial surface — they c
 
 | Metric | Current | FY25 | FY24 | FY23 | FY22 | FY21 | FY20 | Historical Range |
 |---|---|---|---|---|---|---|---|---|
-| PE Ratio | **47.0** | ~71 | ~56 | ~60 | ~44 | ~50 | ~40 | 15-80x |
+| PE Ratio | **47.0** | ~71 | ~56 | ~60 | ~44 | ~50 | ~40 | 15-71x |
 | Forward PE (on TTM EPS ₹41) | **47.0** | — | — | — | — | — | — | — |
 | P/B Ratio | **11.6x** | ~12.7 | ~10.5 | ~10.4 | ~10.2 | ~10.6 | ~4.8 | 2-13x |
 | P/Sales (Mkt Cap / TTM Sales) | **2.5x** | ~2.6 | ~2.0 | ~1.9 | ~2.1 | ~2.5 | ~0.8 | 0.5-3.0x |
@@ -379,9 +381,9 @@ These operational metrics are improving BENEATH the financial surface — they c
 
 **Historical Comparison:**
 
-The stock is currently trading at 47x PE, which is in the middle of its historical range (15-80x). The stock has traded at higher multiples (70-80x during FY23-FY24 when EPS was depressed). However, the P/B ratio of 11.6x is near the TOP of its historical range (the stock has rarely traded sustainably above 12x book).
+The stock is currently trading at 47x PE, which is in the middle of its historical range (15-71x). The stock has traded at higher multiples (~71x in FY25 when EPS was depressed due to a weak Q2). However, the P/B ratio of 11.6x is near the TOP of its historical range (the stock has rarely traded sustainably above 12x book).
 
-**Critical Observation:** At 47x PE and 11.6x Book, the stock is NOT cheap on any metric. The P/E is 2.6x the industry median PE of 17.8x. The PEG ratio of 7.65 implies the market is paying for growth that would need to be roughly 6x the current growth rate to justify the multiple.
+**Critical Observation:** At 47x PE and 11.6x Book, the stock is NOT cheap on any metric. The P/E is 2.6x the industry median PE of 17.8x. The PEG ratio of 7.65 implies the market is paying for growth that would need to be roughly 8x the current growth rate to justify the multiple.
 
 However, this is a market leader with 50% share in a growing market, consistently high ROCE, negative working capital, and a fortress balance sheet. The premium is not unjustified — but the DEGREE of premium matters.
 
@@ -396,7 +398,7 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 **Starting Owner Earnings (TTM):** ~₹1,137 Cr (~₹40.9 per share)
 **Shares Outstanding:** ~27.8 Cr
 **Discount Rate:** 10% (Buffett's standard hurdle rate)
-**Current Net Debt:** ~₹634 Cr
+**Current Net Debt:** ~₹715 Cr
 
 #### Scenario 1: Conservative
 - Growth Years 1-5: 12% (modest, below historical EPS CAGR)
@@ -418,10 +420,10 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | Y10 | 2,944 | 1,135 |
 | **PV of 10-yr CFs** | | **11,889** |
 | **Terminal Value** | 2,944 × (1.04)/(0.10-0.04) = 51,027 | **19,671** |
-| **Enterprise Value** | | **31,560** |
-| Less: Net Debt | | -634 |
-| **Equity Value** | | **30,926** |
-| **Intrinsic Value Per Share** | | **₹1,113** |
+| **Enterprise Value** | | **31,568** |
+| Less: Net Debt | | -715 |
+| **Equity Value** | | **30,853** |
+| **Intrinsic Value Per Share** | | **₹1,110** |
 | **Margin of Safety at ₹1,933** | | **-74% (overvalued)** |
 
 #### Scenario 2: Base Case
@@ -444,10 +446,10 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | Y10 | 4,583 | 1,767 |
 | **PV of 10-yr CFs** | | **15,575** |
 | **Terminal Value** | 4,583 × 1.05 / (0.10-0.05) = 96,243 | **37,108** |
-| **Enterprise Value** | | **52,683** |
-| Less: Net Debt | | -634 |
-| **Equity Value** | | **52,049** |
-| **Intrinsic Value Per Share** | | **₹1,873** |
+| **Enterprise Value** | | **52,695** |
+| Less: Net Debt | | -715 |
+| **Equity Value** | | **51,980** |
+| **Intrinsic Value Per Share** | | **₹1,870** |
 | **Margin of Safety at ₹1,933** | | **-3% (roughly fair)** |
 
 #### Scenario 3: Optimistic
@@ -470,19 +472,19 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | Y10 | 6,979 | 2,690 |
 | **PV of 10-yr CFs** | | **20,809** |
 | **Terminal Value** | 6,979 × 1.05 / (0.10-0.05) = 146,559 | **56,498** |
-| **Enterprise Value** | | **77,307** |
-| Less: Net Debt | | -634 |
-| **Equity Value** | | **76,673** |
-| **Intrinsic Value Per Share** | | **₹2,759** |
+| **Enterprise Value** | | **77,318** |
+| Less: Net Debt | | -715 |
+| **Equity Value** | | **76,603** |
+| **Intrinsic Value Per Share** | | **₹2,756** |
 | **Margin of Safety at ₹1,933** | | **+30% (margin of safety)** |
 
 ### Summary Table
 
 | Scenario | Intrinsic Value Per Share | Margin of Safety at ₹1,933 | Upside/(Downside) |
 |---|---|---|---|
-| **Conservative** | **₹1,113** | **-74%** | **Overvalued by 74%** |
-| **Base** | **₹1,873** | **-3%** | **Roughly Fair** |
-| **Optimistic** | **₹2,759** | **+30%** | **43% Upside** |
+| **Conservative** | **₹1,110** | **-74%** | **Overvalued by 74%** |
+| **Base** | **₹1,870** | **-3%** | **Roughly Fair** |
+| **Optimistic** | **₹2,756** | **+30%** | **43% Upside** |
 
 **The DCF tells us:** At ₹1,933, the stock is pricing in the Base-to-Optimistic scenario. There is NO margin of safety at the current price unless the company delivers growth ABOVE its historical averages. This is the price you'd pay if everything goes right.
 
@@ -573,24 +575,24 @@ If the PE stays at 45x (generous), you only need 10% EPS CAGR for 10 years for a
 |---|---|---|---|
 | Asset / Liquidation Floor | TBVPS ₹166 | ₹166 | -91% |
 | Recession / Trough Earnings | Worst EPS ₹6.22 (FY19) × 12x PE | ₹75 | -96% |
-| Normalised Bear Case | Conservative DCF ₹1,113 | ₹1,113 | -42% |
+| Normalised Bear Case | Conservative DCF ₹1,110 | ₹1,110 | -43% |
 | Market Panic Floor | Historical low PE ~20x × Normalised EPS ₹30 | ₹600 | -69% |
 | Moderate Correction | 30x PE × Current TTM EPS ₹41 | ₹1,234 | -36% |
 
-The MOST PROBABLE downside floor is around ₹1,100-1,250 (Conservative DCF value / moderate PE compression scenario). This represents a 35-42% drawdown risk.
+The MOST PROBABLE downside floor is around ₹1,100-1,250 (Conservative DCF value / moderate PE compression scenario). This represents a 35-43% drawdown risk.
 
 **Part 2: Upside Case**
 
 | Upside Scenario | Valuation Basis | Implied Price | Upside from ₹1,933 |
 |---|---|---|---|
-| Base Case DCF | ₹1,873 intrinsic value | ₹1,873 | -3% |
-| Bull Case DCF | ₹2,759 intrinsic value | ₹2,759 | +43% |
+| Base Case DCF | ₹1,870 intrinsic value | ₹1,870 | -3% |
+| Bull Case DCF | ₹2,756 intrinsic value | ₹2,756 | +43% |
 | Scaling Play (5Y, 20% EPS growth, 35x PE) | EPS ~₹102 × 35x | ₹3,570 | +85% |
 | Re-rating + Growth (market recognises dominant franchise) | EPS ~₹80 × 45x | ₹3,600 | +86% |
 
 **Part 3: Asymmetry Ratio**
 
-Base Upside: ~43% (to Bull DCF ₹2,759)
+Base Upside: ~43% (to Bull DCF ₹2,756)
 Probable Downside: ~36% (to ₹1,234)
 
 **Asymmetry Ratio = 43% / 36% = ~1.2:1**
@@ -615,7 +617,7 @@ Probable Downside: ~36% (to ₹1,234)
 
 **Part 5: Fat Pitch Verdict**
 
-> "At ₹1,933, the realistic downside is approximately 36% to ~₹1,234 (Tails scenario). The realistic base-case upside is approximately 43% to ₹2,759 over 3-5 years (Heads scenario). This gives an asymmetry ratio of 1.2:1. The stock is NOT a fat pitch at the current price. The risk/reward is roughly balanced — you're not being adequately compensated for the downside risk."
+> "At ₹1,933, the realistic downside is approximately 36% to ~₹1,234 (Tails scenario). The realistic base-case upside is approximately 43% to ₹2,756 over 3-5 years (Heads scenario). This gives an asymmetry ratio of 1.2:1. The stock is NOT a fat pitch at the current price. The risk/reward is roughly balanced — you're not being adequately compensated for the downside risk."
 
 **Mispricing Assessment:**
 
@@ -683,23 +685,23 @@ Buffett: *"When you combine ignorance and leverage, you get some pretty interest
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
 | P/B stays at 11.6x | Multiple sustains (very optimistic) | ~16% | ~16% | ~16% |
-| P/B compresses to 8.7x (0.75 × current) | Mild de-rating | ~10% | ~11% | ~13% |
-| P/B compresses to 5.8x (0.5 × current) | Significant de-rating | ~2% | ~6% | ~9% |
-| P/B compresses to 4.0x (Fair P/B est.) | Reverts to ROE-justified level | ~-5% | ~1% | ~5% |
-| P/B compresses to 3.0x (historical median est.) | Reverts to historical avg | ~-11% | ~-3% | ~2% |
+| P/B compresses to 8.7x (0.75 × current) | Mild de-rating | ~9% | ~11% | ~12% |
+| P/B compresses to 5.8x (0.5 × current) | Significant de-rating | ~1% | ~5% | ~8% |
+| P/B compresses to 4.0x (Fair P/B est.) | Reverts to ROE-justified level | ~-6% | ~-1% | ~4% |
+| P/B compresses to 3.0x (historical median est.) | Reverts to historical avg | ~-12% | ~-5% | ~1% |
 | P/B compresses to 1.0x Book | Valued at book value (worst case) | ~-29% | ~-18% | ~-9% |
 
 **The Key Insight:**
 
-> "At the current entry P/B of 11.6x with a sustainable ROE of ~20% and 79% retention, book value compounds at ~15.8% annually. If the P/B multiple remains at 11.6x, the return equals the BV compounding rate of ~16%. However, if the P/B compresses to even 5.8x (HALF of current), the 10-year return drops to ~9% — BELOW the 10% hurdle rate. The stock can tolerate P/B compression from 11.6x down to approximately 7.0x before the 10-year return drops below 10%."
+> "At the current entry P/B of 11.6x with a sustainable ROE of ~20% and 79% retention, book value compounds at ~15.8% annually. If the P/B multiple remains at 11.6x, the return equals the BV compounding rate of ~16%. However, if the P/B compresses to even 5.8x (HALF of current), the 10-year return drops to ~8% — BELOW the 10% hurdle rate. The stock can tolerate P/B compression from 11.6x down to approximately 7.0x before the 10-year return drops below 10%."
 
 This is the core risk: AT 11.6x BOOK, you are paying an enormous premium for quality, and your returns are HEAVILY dependent on the P/B multiple sustaining at elevated levels. Even moderate P/B compression wipes out most of the compounding benefit.
 
 **Fair P/B Calculation (Gordon Growth Model):**
 
-Fair P/B = (ROE - g) / (CoE - g) = (0.20 - 0.158) / (0.11 - 0.158)
+Fair P/B = (ROE - g) / (CoE - g) = (0.20 - 0.158) / (0.10 - 0.158)
 
-Note: g (15.8%) > CoE (11%), which means the Gordon Growth Model formula breaks down — this happens when the growth rate exceeds the cost of equity, which implies the company's "fair" P/B is technically infinite under a perpetuity model. This confirms that the business quality justifies a PREMIUM, but 11.6x is still extreme.
+Note: g (15.8%) > CoE (10%), which means the Gordon Growth Model formula breaks down — this happens when the growth rate exceeds the cost of equity, which implies the company's "fair" P/B is technically infinite under a perpetuity model. This confirms that the business quality justifies a PREMIUM, but 11.6x is still extreme.
 
 A more practical approach: with 20% ROE, the "deserved" P/B for a high-quality compounder is typically 3.0-5.0x. At 11.6x, the stock is trading at 2-4x its "fair" P/B.
 
@@ -707,8 +709,8 @@ A more practical approach: with 20% ROE, the "deserved" P/B for a high-quality c
 
 | Condition | Verdict |
 |---|---|
-| 10-year return > 10% even if P/B halves (to 5.8x) | ~9% → **FAILS** |
-| 10-year return > 10% only if P/B stays within 25% of current | YES — at 8.7x P/B, 10Y return is ~13% |
+| 10-year return > 10% even if P/B halves (to 5.8x) | ~8% → **FAILS** |
+| 10-year return > 10% only if P/B stays within 25% of current | YES — at 8.7x P/B, 10Y return is ~12% |
 
 **🟡 YELLOW / 🔴 RED territory** — At 11.6x P/B, you NEED the market to continue awarding a premium multiple. If the market re-rates this as a "steel company" rather than a "branded consumer franchise," P/B compression to 3-5x would devastate returns regardless of business performance.
 
