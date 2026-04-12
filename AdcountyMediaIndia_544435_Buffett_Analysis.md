@@ -27,7 +27,7 @@ Additional platforms under development include **VOOHOO Live, Genwin, iSearch Ad
 
 **Key Clients:** Zepto, ShareChat, Fi Money, PolicyBazaar, and others across 30+ countries (India, Southeast Asia, Middle East, Europe, Latin America).
 
-**Recent Milestones:** IPO in July 2025 (oversubscribed 273x), listed on BSE SME at ₹75/share. Acquired 99.95% stake in Adaxx Adtech & Media LLP (March 2026) for ₹10 Cr. Received "Great Place to Work" India certification (Oct 2025).
+**Recent Milestones:** IPO in July 2025 (oversubscribed 273x), listed on BSE SME at issue price ₹85/share. Acquired 99.95% stake in Adaxx Adtech & Media LLP (March 2026) for ₹10 Cr. Received "Great Place to Work" India certification (Oct 2025).
 
 ---
 
@@ -37,34 +37,34 @@ Additional platforms under development include **VOOHOO Live, Genwin, iSearch Ad
 
 | Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | TTM (Dec'25) |
 |---|---|---|---|---|---|---|---|
-| **Revenue** | 19 | 16 | 31 | **54** | 43 | 69 | **77** |
-| Revenue Growth YoY | — | **-15.8%** | **+93.8%** | +74.2% | -20.4% | +60.5% | +28%* |
-| Expenses | 18 | 15 | 28 | 43 | 32 | 51 | ~56 |
-| **Operating Profit** | 1 | 1 | 3 | 10 | 11 | **18** | **22** |
-| OPM % | **8%** | **8%** | 9% | 19% | 25% | **26%** | ~28% |
-| Other Income | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
-| Interest | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Depreciation | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **PBT** | 1 | 1 | 3 | 10 | 11 | **18** | **24** |
+| **Revenue** | 18.88 | **15.82** | 30.97 | **53.60** | 42.66 | **68.90** | **77.42** |
+| Revenue Growth YoY | — | **-16.2%** | **+95.8%** | +73.1% | -20.4% | +61.5% | +28%* |
+| Expenses | 17.39 | 14.57 | 28.17 | 43.28 | 32.04 | 51.12 | ~55 |
+| **Operating Profit** | 1.49 | **1.25** | 2.80 | **10.32** | 10.62 | **17.78** | **~22** |
+| OPM % | **7.9%** | **7.9%** | 9.0% | 19.3% | 24.9% | **25.8%** | ~28% |
+| Other Income | 0.12 | 0.05 | 0.08 | 0.31 | 0.58 | 0.69 | ~2 |
+| Interest | 0.04 | 0.02 | 0.02 | 0.03 | 0.03 | 0.14 | ~0.4 |
+| Depreciation | 0.10 | 0.09 | 0.07 | 0.13 | 0.11 | 0.22 | ~0.3 |
+| **PBT** | 1.47 | **1.19** | 2.79 | **10.47** | 11.06 | **18.11** | **~23** |
 | Tax Rate | 25% | 26% | 25% | 26% | 26% | 25% | ~26% |
 | **Net Profit** | 1.00 | **0.97** | 2.00 | 7.64 | 8.28 | **13.75** | **17.65** |
 | Net Profit Growth | — | **-3%** | +106% | **+282%** | +8% | +66% | +40%* |
-| Net Margin | **5.3%** | 6.1% | 6.5% | 14.1% | 19.3% | **19.9%** | **22.8%** |
+| Net Margin | **5.3%** | 6.1% | 6.5% | 14.3% | 19.4% | **20.0%** | **22.8%** |
 | **EPS (Adj, Post-Bonus)** | 0.62 | **0.61** | 1.25 | 4.77 | 5.17 | **8.31** | **7.84**† |
 | EPS Growth | — | **-2%** | +105% | **+282%** | +8% | +61% | — |
 | Shares (Cr, Adj) | 1.60 | 1.60 | 1.60 | 1.60 | 1.60 | 1.65 | 2.25† |
-| EBITDA | 1 | 1 | 3 | 10 | 11 | **18** | ~22 |
-| EBITDA Margin | **8%** | **9%** | 9% | 20% | 25% | **26%** | ~28% |
+| EBITDA (OP + D&A) | 1.59 | 1.34 | 2.87 | **10.45** | 10.73 | **18.00** | ~22 |
+| EBITDA Margin | **8.4%** | **8.5%** | 9.3% | 19.5% | 25.2% | **26.1%** | ~28% |
 
 *TTM based on Q4FY25 + Q1-Q3 FY26. †TTM EPS diluted by post-IPO share count of 2.25 Cr.*
 
 **Trend Narrative:**
 
-The income statement tells a story of **dramatic operating leverage**. Revenue has grown at a 29% CAGR over 5 years, but the real story is margins. OPM has expanded from a thin 8% in FY2020-21 to a robust 26% in FY2025, and net margins have nearly quadrupled from ~5-6% to ~20%. This is the hallmark of a platform/technology business where fixed costs are absorbed and each incremental rupee of revenue flows disproportionately to profit.
+The income statement tells a story of **dramatic operating leverage**. Revenue has grown at a 29% CAGR over 5 years, but the real story is margins. OPM has expanded from ~8% in FY2020–21 to ~26% in FY2025, and net margins have nearly quadrupled from ~5–6% to ~20%. This is the hallmark of a platform/technology business where fixed costs are absorbed and each incremental rupee of revenue flows disproportionately to profit.
 
 Revenue growth is **lumpy** — a 94% spike in FY2022, followed by a -20% decline in FY2024, then a 60% rebound in FY2025. Digital advertising revenue can be cyclical and client-dependent. The FY2024 dip is a yellow flag that warrants monitoring.
 
-Net profit growth has been explosive: a 66% CAGR over 5 years, outpacing revenue growth by a wide margin — evidence of genuine operating leverage, not just topline growth.
+Net profit growth has been explosive: a ~69% CAGR over 5 years (FY2020–FY2025), outpacing revenue growth by a wide margin — evidence of genuine operating leverage, not just topline growth.
 
 > *Buffett: "The single most important decision in evaluating a business is pricing power. If you've got the power to raise prices without losing business to a competitor, you've got a very good business."* The expanding margins here suggest AMIL has some degree of pricing power or at minimum is gaining operational efficiency at scale.
 
@@ -88,15 +88,15 @@ Net profit growth has been explosive: a 66% CAGR over 5 years, outpacing revenue
 | Debtor Days | 80 | **69** | 118 | 93 | 116 | **161** | — |
 | Working Capital Days | **-37** | -31 | -24 | 25 | 68 | **132** | — |
 
-*†Post-IPO cash injection of ~₹48 Cr. ††Annualised.*
+*†Post-IPO cash injection of ~₹48 Cr (net proceeds; gross issue ₹50.69 Cr less expenses). ††Annualised.*
 
 **Buffett's "Financial Fortress" Assessment:**
 
-The balance sheet is a **fortress**. The company is virtually debt-free (Debt/Equity = 0.03x) with ₹36.61 Cr of net cash as of Sep 2025, primarily from IPO proceeds. There is zero long-term debt. The current ratio is exceptionally strong.
+The balance sheet is a **fortress**. The company is virtually debt-free (Debt/Equity = 0.03x) with ₹35.61 Cr of net cash as of Sep 2025 (₹36.61 Cr gross cash minus ~₹1 Cr debt), primarily from IPO proceeds. There is zero long-term debt. The current ratio is exceptionally strong.
 
 **However, two yellow flags require attention:**
 
-1. **Debtor Days at 161 (FY2025):** This is the single biggest balance sheet concern. Receivables have ballooned from ₹3 Cr (FY2021) to ₹30 Cr (FY2025), and debtor days have nearly tripled. In the digital advertising industry, delayed payments from clients or intermediaries can mask revenue quality issues.
+1. **Debtor Days at 161 (FY2025):** This is the single biggest balance sheet concern. Receivables have ballooned from ₹3 Cr (FY2021) to ₹30 Cr (FY2025), and debtor days have more than doubled (from 69 to 161). In the digital advertising industry, delayed payments from clients or intermediaries can mask revenue quality issues.
 
 2. **Working Capital Days surging from -37 to +132:** The business has shifted from a negative working capital model to a positive working capital model that is consuming cash. This directly explains why FY2025 operating cash flow was near zero despite ₹13.75 Cr of net profit.
 
@@ -198,8 +198,8 @@ Returns on capital are **extraordinary**. ROA is very high (29-36%), meaning the
 
 - **Promoter Holding:** 65.52% (Dec 2025) — high skin in the game
 - **Average cost of promoter shares:** ₹0.00 – ₹0.01 (essentially zero)
-- **$1 Test:** Company was private until July 2025. Total retained earnings FY21-FY25: ₹32.64 Cr. Market valued at ₹191 Cr at IPO — suggesting excellent historical capital allocation.
-- **IPO Deployment:** Only ₹19.89 Cr of ₹48 Cr deployed. ₹28.26 Cr in FDs.
+- **$1 Test:** Company was private until July 2025. Total retained earnings FY21-FY25: ₹32.64 Cr. Market valued at ₹191 Cr at IPO issue price of ₹85 — suggesting excellent historical capital allocation.
+- **IPO Deployment:** Only ₹19.89 Cr of ₹48.15 Cr net proceeds deployed. ₹28.26 Cr in FDs.
 
 > *Buffett: "Somebody once said that in looking for people to hire, you should look for three qualities: integrity, intelligence, and energy. And if they don't have the first, the other two will kill you."* Too early to assess fully.
 
@@ -222,13 +222,13 @@ Returns on capital are **extraordinary**. ROA is very high (29-36%), meaning the
 
 ## 11. VALUATION ANALYSIS
 
-| Metric | Current (₹102) | At IPO (₹75) | At 52W High (₹282) |
+| Metric | Current (₹102) | At IPO (₹85) | At 52W High (₹282) |
 |---|---|---|---|
-| **PE (TTM)** | **13.0x** | 9.6x | 36.0x |
-| P/B | **2.41x** | 1.77x | 6.67x |
-| P/S | **2.96x** | 2.18x | 8.18x |
-| EV/EBITDA | **8.8x** | ~6x | ~25x |
-| Earnings Yield | **7.7%** | 10.4% | 2.8% |
+| **PE (TTM)** | **13.0x** | 10.8x | 36.0x |
+| P/B | **2.41x** | 2.01x | 6.67x |
+| P/S | **2.98x** | 2.48x | 8.24x |
+| EV/EBITDA | **8.8x** | ~7x | ~27x |
+| Earnings Yield | **7.7%** | 9.2% | 2.8% |
 
 At 13x PE and 8.8x EV/EBITDA, the stock looks **genuinely cheap** for a 30%+ grower. Comparable Affle India trades at 30-50x PE.
 
@@ -260,7 +260,7 @@ Even under the conservative case, intrinsic value is nearly double the current p
 | 10 Years | 5.4% | 10.2% | 14.9% |
 | 15 Years | 6.9% | 11.7% | 16.6% |
 
-**Traffic Light: 🟢 GREEN.** To earn 15% over 10 years at 20x exit PE, the company needs just 10.2% EPS CAGR — below GDP growth. Historical CAGR is ~93%. The market is pricing in near-zero growth for a 30%+ grower.
+**Traffic Light: 🟢 GREEN.** To earn 15% over 10 years at 20x exit PE, the company needs just 10.2% EPS CAGR — below GDP growth. The company's 5-year NP CAGR is ~69% and revenue CAGR is ~29%. The market is pricing in near-zero growth for a 30%+ grower.
 
 ### Asymmetric Upside Check
 
@@ -280,11 +280,11 @@ Even under the conservative case, intrinsic value is nearly double the current p
 
 | Year | NPM | Asset Turnover | Equity Multiplier | ROE |
 |---|---|---|---|---|
-| FY2021 | 6.1% | 2.07x | 4.49x | 56.2% |
-| FY2022 | 6.5% | 2.37x | 3.89x | 59.5% |
-| FY2023 | **14.1%** | 2.37x | 2.81x | **94.4%** |
-| FY2024 | 19.3% | 1.53x | 1.75x | 51.4% |
-| FY2025 | **19.9%** | 1.78x | **1.33x** | **47.3%** |
+| FY2021 | 6.1% | 2.11x | 4.35x | 56.2% |
+| FY2022 | 6.5% | 2.38x | 3.87x | 59.5% |
+| FY2023 | **14.3%** | 2.33x | 2.84x | **94.4%** |
+| FY2024 | 19.4% | 1.50x | 1.77x | 51.4% |
+| FY2025 | **20.0%** | 1.77x | **1.34x** | **47.3%** |
 
 ROE is driven by **margin expansion** (quality) not leverage. Equity multiplier has collapsed from 4.5x to 1.3x — safer but lower ROE.
 
@@ -317,8 +317,8 @@ ROE is driven by **margin expansion** (quality) not leverage. Equity multiplier 
 
 | Entry Price | Zone | Current P&L | Buffett's Advice |
 |---|---|---|---|
-| Below ₹75 | Deep Value | Profit | **HOLD & ACCUMULATE.** Let compounding work. |
-| ₹75 – ₹125 | Deep Value / Value | Profit to small loss | **HOLD & ADD on dips.** 7-10% position for small portfolios. |
+| Below ₹85 | Deep Value | Profit (>20%) | **HOLD & ACCUMULATE.** Below IPO issue price. Exceptional entry. Let compounding work. |
+| ₹85 – ₹125 | Deep Value | Profit to small loss (+20% to -18%) | **HOLD & ADD on dips.** 7-10% position for small portfolios. |
 | ₹125 – ₹164 | Value | Loss (-18% to -38%) | **HOLD.** Loss is sunk cost. Forward returns attractive at current CMP. |
 | ₹164 – ₹308 | Fair Value | Large loss (-38% to -67%) | **HOLD (painful).** Business still trades below Conservative IV of ₹193. Don't crystallise loss — time and earnings growth will heal a fair-value entry. Consider tax-loss harvesting if nearing FY-end. |
 | ₹308 – ₹450 | Fully Valued | Very large loss (-67% to -77%) | **REASSESS honestly.** You paid above Base IV. Recovery requires the optimistic scenario to play out. Hold only if fundamentals (margins, growth, cash flow) remain strong. Book loss for tax benefit if conviction has weakened. |
@@ -366,14 +366,14 @@ ROE is driven by **margin expansion** (quality) not leverage. Equity multiplier 
 |---|---|---|
 | **Business Quality** | **7** | Asset-light, high-margin, scalable. No durable moat. |
 | **Moat Durability** | **3** | Weak moat. Biggest weakness. |
-| **Financial Health** | **9** | Debt-free, ₹37 Cr net cash. Fortress. |
+| **Financial Health** | **9** | Debt-free, ₹36 Cr net cash. Fortress. |
 | **Management Quality** | **6** | High ownership, too early for track record. |
 | **Cash Flow Quality** | **4** | 161-day debtors. Must improve. |
 | **Scalability** | **8** | Excellent operating leverage, massive runway. |
 | **Valuation** | **9** | 13x PE for 30%+ grower. Deeply discounted. |
 | **Margin of Safety** | **9** | 47-77% MoS across all scenarios. |
-| **Growth Prospects** | **7** | 29% rev CAGR, 66% profit CAGR. Lumpy. |
-| **Buffett Verdict** | — | **NOT a Buffett stock** on moat grounds. But a compelling deep-value opportunity at ₹102. 13x PE for 30%+ grower, net cash, 47% ROE. Asymmetry ratio 5.3:1. Young Buffett with small capital would take a 5% position. **BUY for risk-tolerant investors.** |
+| **Growth Prospects** | **7** | 29% rev CAGR, ~69% profit CAGR. Lumpy. |
+| **Buffett Verdict** | — | **NOT a Buffett stock** on moat grounds. But a compelling deep-value opportunity at ₹102. 13x PE for 30%+ grower, net cash, ~19% post-IPO ROE (sustainable). Asymmetry ratio 5.3:1. Young Buffett with small capital would take a 5% position. **BUY for risk-tolerant investors.** |
 | **Buy Zone** | — | **DEEP VALUE / STRONG BUY at ₹102** |
 | **Recommendation** | — | **BUY at 5-7% position sizing. Target ₹193-₹308. Monitor debtor days quarterly. Thesis-breaker: debtors >200 days or 2 consecutive quarters of revenue decline.** |
 
@@ -383,7 +383,7 @@ ROE is driven by **margin expansion** (quality) not leverage. Equity multiplier 
 
 **Can the thesis be explained to a 10-year-old?**
 
-*"This company helps businesses show their ads to the right people on phones and computers. They make ₹14 for every ₹69 earned. They have no debt and ₹37 sitting in the bank. The stock costs ₹102, but the company earns about ₹8 per share every year — and that number is growing 30-60% annually."*
+*"This company helps businesses show their ads to the right people on phones and computers. They make ₹14 for every ₹69 earned. They have no debt and ₹36 Cr sitting in the bank. The stock costs ₹102, but the company earns about ₹8 per share every year — and that number is growing 30-60% annually."*
 
 **Napkin Math:**
 - EPS = ₹7.84. At 15% growth for 5 years → ₹15.77
