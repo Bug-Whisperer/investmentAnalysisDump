@@ -333,7 +333,7 @@ The absence of change is present. The problem is that cement doesn't make a LOT 
 
 > *Buffett: "The ideal business is one that takes no capital, and yet grows."*
 
-Cement is the OPPOSITE of this ideal. Ambuja is spending ₹7,500+ Cr annually on capex to grow revenue by ₹1,900 Cr. That is a revenue yield on growth capex of just 25% — implying a ~4-year payback at the revenue level, and much longer at the profit level.
+Cement is the OPPOSITE of this ideal. Ambuja is spending ~₹6,500 Cr annually on growth capex (out of ~₹7,500 Cr total, with ~₹1,000 Cr on maintenance) to grow revenue by ₹1,900 Cr. That is a revenue yield on growth capex of just ~29% — implying a ~3.4-year payback at the revenue level, and much longer at the profit level.
 
 ### Part B: Scaling Runway — TAM & Penetration
 
