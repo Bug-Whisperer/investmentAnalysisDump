@@ -146,7 +146,7 @@ The balance sheet IS a fortress in terms of debt, but the rapid asset build-up a
 
 4. **Stock-Based Compensation** — Not separately disclosed in Screener data, but not a material concern for Indian cement companies.
 
-5. **Dividend payout has collapsed** — From ~45% historically to just 12% in FY24-25 (₹2 per share = ~₹500 Cr on ~₹5,158 Cr profit). The company is retaining almost everything to fund growth.
+5. **Dividend payout has collapsed** — From ~45% historically to just 12% in FY24-25 (₹2 per share = ~₹493 Cr on parent-attributable profit of ~₹4,171 Cr). The company is retaining almost everything to fund growth.
 
 > *Buffett: "We do not view the company itself as the ultimate owner of our business assets but instead view the company as a conduit through which our shareholders own the assets."*
 
@@ -181,8 +181,10 @@ For a cement company with ~₹42,578 Cr in gross fixed assets (FY25), maintenanc
 Owner Earnings = Net Income + D&A – Maintenance CapEx
              = ₹5,158 + ₹2,478 – ₹1,000
              = ₹6,636 Cr
-Owner Earnings Per Share = ₹6,636 / 247 Cr shares = ~₹26.9/share
+Owner Earnings Per Share = ₹6,636 / 246.5 Cr shares = ~₹26.9/share
 ```
+
+*Note: These owner earnings are CONSOLIDATED (include 100% of subsidiary profits). On a parent-attributable basis (using parent NP of ₹4,171 Cr instead of consolidated ₹5,158 Cr), owner earnings would be ~₹5,649 Cr or ~₹22.9/share.*
 
 **However**, the reported net income of ₹5,158 Cr includes:
 - Unusually low tax rate (13% vs 25% normal) → tax-adjusted income would be ~₹4,440 Cr
@@ -197,17 +199,21 @@ Core Net Income = ~₹2,457 Cr
 + Depreciation = ₹2,478 Cr
 – Maintenance CapEx = ₹1,000 Cr
 = Normalised Owner Earnings = ~₹3,935 Cr
-= ~₹15.9/share
+= ~₹16.0/share (consolidated basis)
 ```
+
+*On a parent-attributable basis (~81% of consolidated), normalised owner earnings would be approximately ₹3,468 Cr or ~₹14.1/share.*
 
 This is a DRAMATICALLY different picture from the reported EPS of ₹16.92 or TTM EPS of ₹23. The core business earning power, stripped of tax benefits and other income, is lower than headline numbers suggest.
 
 > *Buffett: "Accounting is the language of business. If you can't read the language, you're at a distinct disadvantage."*
 
-The earnings quality adjustment is significant when compared on a like-for-like basis:
+The earnings quality adjustment is significant when compared on a like-for-like basis (all figures consolidated):
 
 - **Owner Earnings comparison:** Reported owner earnings of ₹6,636 Cr vs. normalised owner earnings of ₹3,935 Cr — a **41% haircut**. This is the apples-to-apples comparison of Buffett's preferred metric before and after stripping out excess other income and normalising tax.
 - **Net Income comparison:** Reported net income of ₹5,158 Cr vs. normalised core net income of ₹2,457 Cr — a **52% haircut**. This measures how much the headline profit overstates core operating profitability.
+
+*Note: These haircuts apply to consolidated figures. Since minority interest (~19%) is present in both the reported and normalised numbers, the percentage haircuts are the same on a parent-attributable basis.*
 
 Investors who value the stock on reported earnings or reported owner earnings may be significantly overpaying. The core business, stripped of tax benefits and non-operating income, is earning roughly HALF of what the headline numbers suggest.
 
@@ -462,13 +468,13 @@ The concern isn't that fools are running Ambuja — the Adani Group is operation
 
 ### Traditional Buffett DCF Using Owner Earnings
 
-**Starting Point:** Normalised Owner Earnings = ~₹3,935 Cr (~₹15.9/share), conservatively stripping out excess other income and normalising tax.
+**Starting Point:** Normalised Owner Earnings = ~₹3,935 Cr (~₹16.0/share on 246.5 Cr shares), conservatively stripping out excess other income and normalising tax.
 
 However, given the company's expansion, a more generous (but still cautious) starting point uses a blended figure:
 
 **Adjusted Owner Earnings = ₹5,000 Cr (~₹20/share)** — halfway between normalised core and reported, acknowledging some other income is recurring (treasury) and some tax benefits will persist.
 
-**Critical Note on Minority Interest:** These owner earnings are CONSOLIDATED — they include 100% of ACC's profits (Ambuja owns 51%), plus 100% of Orient, Sanghi, and other subsidiaries. The consolidated EPS of ₹16.92 × ~247 Cr shares = ₹4,179 Cr attributable to parent, versus consolidated net profit of ₹5,158 Cr — implying ~₹979 Cr (~19%) accrues to minority shareholders annually. Since the DCF uses consolidated cash flows, the resulting enterprise value represents 100% of all subsidiaries. To arrive at the equity value attributable to Ambuja's shareholders, we must deduct BOTH net debt AND the fair value of minority interest. We estimate minority interest at ~₹12,000 Cr (12× annual minority profit of ~₹979 Cr). Note: since MI is a deduction, using a lower multiple produces a higher (more generous) intrinsic value. A more conservative treatment using 20-25× (closer to the parent's own trading multiple) would yield an MI deduction of ₹20,000-25,000 Cr and correspondingly lower intrinsic values. We use 12× as a mid-range estimate, acknowledging it is generous to the bull case.
+**Critical Note on Minority Interest:** These owner earnings are CONSOLIDATED — they include 100% of ACC's profits (Ambuja owns 51%), plus 100% of Orient, Sanghi, and other subsidiaries. The consolidated EPS of ₹16.92 × 246.5 Cr shares = ₹4,171 Cr attributable to parent, versus consolidated net profit of ₹5,158 Cr — implying ~₹987 Cr (~19%) accrues to minority shareholders annually. Since the DCF uses consolidated cash flows, the resulting enterprise value represents 100% of all subsidiaries. To arrive at the equity value attributable to Ambuja's shareholders, we must deduct BOTH net debt AND the fair value of minority interest. We estimate minority interest at ~₹12,000 Cr (12× annual minority profit of ~₹987 Cr). Note: since MI is a deduction, using a lower multiple produces a higher (more generous) intrinsic value. A more conservative treatment using 20-25× (closer to the parent's own trading multiple) would yield an MI deduction of ₹20,000-25,000 Cr and correspondingly lower intrinsic values. We use 12× as a mid-range estimate, acknowledging it is generous to the bull case.
 
 **Terminal Value methodology:** The Gordon Growth Model is used: TV = Year 10 CF × (1 + g) / (r − g), where g is the terminal growth rate. All cash flows are discounted at the scenario-specific discount rate.
 
@@ -535,10 +541,10 @@ The investment conclusion hinges heavily on which scenario you find most realist
 ```
 Required Future Price = CMP × (1 + Hurdle Rate)^n
 Required Future EPS  = Required Future Price / Terminal PE
-Implied EPS CAGR     = (Required Future EPS / Current Normalised EPS)^(1/n) - 1
+Implied EPS CAGR     = (Required Future EPS / Current EPS)^(1/n) - 1
 ```
 
-Using CMP = ₹425 and Normalised EPS = ₹17:
+Using CMP = ₹425 and FY25 Reported EPS = ₹17:
 
 **At Terminal PE = 15x (Mature):**
 
@@ -650,7 +656,7 @@ Asymmetry Ratio: ~1.9:1 to 3:1
 
 ### Part A: DuPont Decomposition
 
-For FY25, the DuPont is presented using parent-attributable net profit and average balance sheet figures to reconcile with Screener's ROE of 8.73%. Pre-FY23 figures (when minority interest was immaterial — Ambuja did not consolidate ACC before 2016, and the MI share was smaller pre-Adani) use consolidated figures as reported.
+For FY25, the DuPont is presented using parent-attributable net profit and average balance sheet figures to reconcile with Screener's ROE of 8.73%. Pre-FY23 figures use consolidated net profit in the NPM calculation (as reported by Screener), which overstates parent ROE because minority interest was substantial throughout the period — ACC (51%-owned) contributed 24-27% of consolidated profits even before the Adani era. For example, Dec 2021 shows ~14.6% ROE on consolidated figures, but the true parent ROE was closer to ~11.6%. The apparent "decline" from ~14.6% to ~8.8% therefore overstates the actual deterioration in parent returns — part of the drop reflects the methodological correction to parent figures, not purely business deterioration. The reader should treat the pre-FY25 DuPont ROEs as consolidated (overstated by ~3pp) and the FY25 figure as parent-correct.
 
 | Year | Net Profit Margin | Asset Turnover (Rev/Avg Assets) | Equity Multiplier (Avg Assets/Avg Equity) | ROE |
 |---|---|---|---|---|
@@ -716,7 +722,7 @@ For FY25, the DuPont is presented using parent-attributable net profit and avera
 
 | Condition | Assessment |
 |---|---|
-| 10Y return > 10% even if P/B halves to 0.93x? | ❌ No — return would be ~4% |
+| 10Y return > 10% even if P/B halves to 0.93x? | ❌ No — return would be ~3.2% |
 | 10Y return > 10% if P/B compresses just 10% to 1.67x? | ❌ No — return would be ~9.4% |
 | Return > 10% only if P/B stays within ~5% of current? | ✅ Yes — breakeven P/B is ~1.77x |
 
