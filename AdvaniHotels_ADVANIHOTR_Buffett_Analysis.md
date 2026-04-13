@@ -45,7 +45,7 @@ The hotel business itself is capital-intensive and cyclical. However, AHRIL's sp
 | **EPS (₹, adjusted)** | 0.24 | 0.39 | 0.69 | 0.97 | 0.93 | 1.23 | 1.22 | **-0.44** | 0.70 | **3.10** | 2.70 | 2.86 | 2.55 |
 | Dividend Payout % | 49% | 54% | 35% | 31% | 37% | 81% | 78% | 0% | 99% | 55% | **133%** | 66% | — |
 
-*Note: EPS figures are adjusted for the 1:1 bonus issue in FY2024. Pre-bonus shares ~4.64 Cr; Post-bonus shares ~9.27 Cr. All EPS shown on post-bonus equivalent basis.*
+*Note: EPS figures are adjusted for the 1:1 bonus issue in FY2024. Pre-bonus shares ~4.64 Cr; Post-bonus shares ~9.27 Cr. All EPS shown on post-bonus equivalent basis. All P&L figures are sourced from Screener.in and rounded to ₹ Crores; PBT may not exactly equal (Operating Profit + Other Income − Interest − Depreciation) due to rounding of individual line items.*
 
 **EBITDA Approximation (Operating Profit + Depreciation):**
 
@@ -103,7 +103,7 @@ The question is whether the 32% OPM is the new normal or a cyclical peak. Goa to
 | Current Ratio | — | — | — | — | — | — | — | — | **2.04** |
 | Quick Ratio | — | — | — | — | — | — | — | — | **1.98** |
 
-*Note: Book Value per Share calculated as Shareholders' Equity / 9.27 Cr shares (post-bonus). Screener shows ₹8.07 BV which may use slightly different share count timing. Net Cash approximated as (Equity - Fixed Assets + Other Assets + Investments - Other Liabilities), or more simply, looking at borrowings being near zero and significant liquid assets.*
+*Note: Book Value per Share calculated as Shareholders' Equity / 9.27 Cr shares (post-bonus). Screener shows ₹8.07 BV which may use slightly different share count timing. Net Cash figures are approximate estimates of the company's net financial position (cash, bank balances, and liquid investments minus borrowings). These cannot be precisely reconciled from the aggregated Screener balance sheet display, as "Other Assets" bundles cash with receivables and other items. The directional conclusion — that the company holds substantial net cash with near-zero debt — is robust, but the specific figures should be treated as indicative rather than precise.*
 
 ### Buffett's Financial Fortress Assessment
 
@@ -423,7 +423,7 @@ The $1 Test is passed with flying colours. For every ₹1 retained, management h
 | Decision | Assessment |
 |---|---|
 | Debt Repayment (FY2014-2017) | **Excellent** — Systematically eliminated ₹18 Cr of debt, reducing interest burden to zero |
-| Dividend Policy | **Good/Excellent** — 85% average payout returns cash to shareholders from a business with limited reinvestment opportunities. Exactly what Buffett would recommend. |
+| Dividend Policy | **Good/Excellent** — High payout (~71% average over FY2021–FY2025; Screener reports ~85% on a longer-term basis) returns cash to shareholders from a business with limited reinvestment opportunities. Exactly what Buffett would recommend. |
 | Share Buybacks | None — no buybacks despite the stock trading at low P/B for years. A missed opportunity? At ₹10-15/share (pre-bonus), buybacks would have been hugely accretive. |
 | Acquisitions | None — management has stayed disciplined and stuck to the single-property model |
 | 1:1 Bonus Issue (FY2024) | Neutral — cosmetic; increases liquidity but doesn't create value |
@@ -533,7 +533,7 @@ At 19.6x trailing earnings, the stock is:
 - Reasonable for a business earning 34% ROE
 - Fair for a business with limited growth runway (5-8% revenue growth ceiling)
 
-For a no-growth business paying 3.7% dividend yield, a P/E of 18-20x implies a total return of ~8-9% (5% earnings yield + 3-4% growth from room rate increases, minus the dividend already included). This is modest but not unattractive given the quality of the business and the fortress balance sheet.
+For a low-growth business paying 3.7% dividend yield, a P/E of 18-20x implies a total return of ~9-12% if the multiple holds (3.7% dividend yield + 5-8% EPS growth from room rate increases). This is modest but not unattractive given the quality of the business and the fortress balance sheet.
 
 ### Has the Stock Ever Traded at Current Multiples?
 
@@ -738,7 +738,7 @@ At the most realistic terminal PE of 15-20x (the stock's historical range):
 
 > **"At the current price of ₹51.1, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 8.8% CAGR. The company's realistic growth rate going forward is 5-8% (limited to room rate inflation for a single-property hotel near capacity). This implies the market is pricing in mildly optimistic growth — the price is FAIR to SLIGHTLY EXPENSIVE. To earn 15%+ returns, you need the multiple to expand or growth to accelerate beyond realistic levels."**
 
-The saving grace is the 3.7% dividend yield. Including dividends, the total return math improves: 5% earnings yield + 3.7% dividend yield + 5-8% earnings growth, with some overlap, could deliver ~8-10% total returns if the multiple holds. But this requires the P/E to SUSTAIN at current levels — which is above historical averages.
+The saving grace is the 3.7% dividend yield. With a flat PE, total return = dividend yield + EPS growth = 3.7% + 5-8% = ~9-12%. However, if the PE compresses from current 18-20x toward historical 12-15x, the multiple drag would reduce total returns to ~5-8%. This requires the P/E to SUSTAIN at current levels — which is above historical averages.
 
 > *Buffett: "If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."*
 
@@ -950,7 +950,7 @@ For an investor with a small capital base, Buffett's advice would be:
 
 > *"If I had $1 million to invest, I'd put it all into small, undervalued situations where I could earn 50% returns."*
 
-AHRIL at ₹51.1 is NOT one of those situations. It's a fine hold for dividend income but not an exciting new position for someone trying to grow a small capital base aggressively. The 8-10% total return potential (5% earnings yield + 3.7% dividend yield + 5% growth, with overlaps) is decent for a pension fund but underwhelming for someone with ₹5-10 lakhs trying to build wealth.
+AHRIL at ₹51.1 is NOT one of those situations. It's a fine hold for dividend income but not an exciting new position for someone trying to grow a small capital base aggressively. The ~9-12% total return potential (3.7% dividend yield + 5-8% EPS growth, assuming flat PE) is decent for a pension fund but underwhelming for someone with ₹5-10 lakhs trying to build wealth — and that's the optimistic case where the PE holds.
 
 **The right time to buy AHRIL with a small capital base was FY2020-2021** when the stock was at ₹5-10/share (post-bonus equivalent), generating a 10-15% dividend yield on cost and priced at 1-2x book.
 
@@ -1030,7 +1030,7 @@ If anything, the risk is MEAN REVERSION — that the current elevated profitabil
 | **Earnings Quality** | 9/10 | Owner Earnings ≈ Net Income ≈ FCF. No accounting tricks. Cash conversion excellent. |
 | **Valuation** | 4/10 | At 5.85x P/B and 19.6x PE, the stock is FULLY VALUED with no margin of safety |
 | **Margin of Safety** | 3/10 | DCF shows overvaluation in all but the most optimistic scenario |
-| **Dividend Income** | 8/10 | 3.72% yield, 85% payout, sustainable and growing — among the best in Indian hotels |
+| **Dividend Income** | 8/10 | 3.72% yield, ~71% recent payout (Screener: ~85% longer-term), sustainable and growing — among the best in Indian hotels |
 | **Overall Score** | **58/100** | |
 
 ### Buffett Verdict
