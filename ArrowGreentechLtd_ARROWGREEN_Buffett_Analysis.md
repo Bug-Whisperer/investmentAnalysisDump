@@ -33,7 +33,7 @@ Would Buffett understand it? **Yes.** Make biodegradable films that replace plas
 
 > *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* — Warren Buffett
 
-AGL is deploying capital at 48-53% ROIC, which places it in the highest echelon of capital efficiency.
+AGL is deploying capital at 48% ROIC and 53% ROCE, which places it in the highest echelon of capital efficiency.
 
 ---
 
@@ -55,7 +55,9 @@ AGL is deploying capital at 48-53% ROIC, which places it in the highest echelon 
 | Tax Rate % | 19% | 22% | 24% | 12% | **95%** | -1% | -2% | -22% | -16% | 32% | 28% | 27% | — |
 | **Net Profit** | 16 | 22 | 31 | 35 | 0 | **-17** | -10 | 7 | -9 | 12 | 29 | **63** | 51 |
 | **EPS (₹)** | 11.22 | 15.84 | 21.67 | **24.19** | 0.19 | **-11.83** | -7.07 | 4.55 | -6.62 | 8.14 | 19.56 | **41.84** | 34.05 |
-| Shares (Cr) | ~1.2 | ~1.2 | ~1.2 | ~1.2 | ~1.2 | ~1.2 | ~1.4 | ~1.4 | ~1.4 | ~1.5 | ~1.5 | ~1.5 | ~1.5 |
+| Shares (Cr) | ~1.4 | ~1.4 | ~1.4 | ~1.4 | ~1.4 | ~1.4 | ~1.4 | ~1.4 | ~1.4 | ~1.5 | ~1.5 | ~1.5 | ~1.5 |
+
+> **Note on share count:** Equity Capital of ₹12 Cr at Face Value ₹10 implies 1.2 Cr shares from the balance sheet. However, dividing consolidated Net Profit by reported EPS yields ~1.4 Cr shares for FY14–FY19. This discrepancy arises because Screener's consolidated Net Profit includes minority interest, while EPS is calculated on profit attributable to parent shareholders only (on a larger diluted share base). The ~1.4 Cr implied share count is the more accurate figure for per-share calculations and is used throughout this analysis.
 | Dividend Payout % | 11% | 13% | 17% | 19% | **870%** | -4% | 0% | 0% | 0% | 12% | 10% | 10% | — |
 
 ### EBITDA Clarification (₹ Crores)
@@ -65,7 +67,7 @@ AGL is deploying capital at 48-53% ROIC, which places it in the highest echelon 
 | Metric | Mar 2020 | Mar 2021 | Mar 2022 | Mar 2023 | Mar 2024 | **Mar 2025** |
 |---|---|---|---|---|---|---|
 | **EBITDA (= Operating Profit)** | -7 | 9 | -7 | 24 | 47 | **89** |
-| **EBITDA Margin (= OPM)** | **-32%** | 17% | -21% | 22% | 32% | **37%** |
+| **EBITDA Margin (= OPM)** | **-34%** | 17% | -21% | 22% | 31% | **36%** |
 
 ### Trend Narrative
 
@@ -73,7 +75,7 @@ This is a **dramatic turnaround story with explosive recent growth**. The P&L re
 
 **Era 1 (FY14–FY17): IP-driven high-margin business.** OPM was 54–73% — extraordinarily high margins driven by patent licensing and security products with minimal competition. Revenue was small (₹35–53 Cr) but extremely profitable.
 
-**Era 2 (FY18–FY22): The dark years.** Something went badly wrong. Revenue collapsed, margins turned deeply negative (-42% OPM in FY19), and the company burned through accumulated goodwill. Cumulative losses of ₹36 Cr over FY18–FY22 wiped out the profits of the prior era.
+**Era 2 (FY18–FY22): The dark years.** Something went badly wrong. Revenue collapsed, margins turned deeply negative (-42% OPM in FY19), and the company burned through accumulated goodwill. Cumulative net losses of ₹29 Cr over FY18–FY22 (with FY18 breakeven and FY21 a brief recovery) wiped out a significant portion of the prior era's profits.
 
 **Era 3 (FY23–FY25): The green revolution.** Revenue exploded from ₹34 Cr to ₹243 Cr in just 3 years (93% CAGR). Margins recovered to 36% OPM. Net profit reached an all-time high of ₹63 Cr. The green products segment became the dominant growth engine.
 
@@ -81,9 +83,11 @@ This is a **dramatic turnaround story with explosive recent growth**. The P&L re
 
 The key question: is the current trajectory sustainable, or is this another cyclical peak? The secular shift to biodegradable packaging suggests durability, but the violent history demands caution.
 
-**Compounded Growth Rates:**
+**Compounded Growth Rates (per Screener.in):**
 - Sales: 10-Year CAGR 17%, 5-Year 62%, 3-Year 93%, TTM -9%
 - Profit: 10-Year CAGR 11%, 5-Year 53%, 3-Year 105%, TTM -17%
+
+> **Caveat on Profit CAGRs:** The 5-year (53%) and 3-year (105%) profit CAGRs start from negative base years (FY20 NP = -₹10 Cr, FY22 NP = -₹9 Cr), making the standard CAGR formula mathematically undefined. These are Screener's proprietary calculations and should be interpreted directionally — i.e., profits have recovered explosively — rather than as precise compounding rates. The 10-year CAGR of 11% starts from a positive base (FY15 NP = ₹22 Cr) and is the most mathematically valid growth rate.
 
 The TTM deceleration (-9% sales, -17% profit) after an explosive run is the most important signal to monitor.
 
@@ -130,7 +134,7 @@ Key observations:
 
 3. **No Goodwill Risk:** There are no significant acquisitions on the balance sheet. The tangible book value IS the book value.
 
-4. **Equity Dilution History:** Shares went from ~1.2 Cr to ~1.5 Cr between FY19 and FY23, a ~25% dilution (likely through a rights issue in Feb 2020 per documents). This is a negative — dilution during the company's weakest period destroyed per-share value.
+4. **Equity Dilution History:** Equity Capital increased from ₹12 Cr to ₹15 Cr (Face Value ₹10) between FY19 and FY23 through a rights issue in Feb 2020. The diluted share count rose from ~1.4 Cr to ~1.5 Cr, approximately 7% dilution. While modest in percentage terms, the timing was poor — dilution during the company's weakest period (when the stock was deeply depressed) was value-destructive on a per-share basis.
 
 5. **CWIP peaked at ₹13 Cr in FY22** (capex build-out for green products) and has since normalised to ₹1-2 Cr, suggesting the major capacity investments are complete and now generating returns.
 
@@ -168,6 +172,8 @@ AGL passes the fortress test with flying colours. There is virtually no financia
 | OCF/Net Profit | NM | 14% | NM | 25% | 62% | **108%** |
 | FCF (Screener) | -15 | -4 | -6 | -1 | 8 | **61** |
 | CFO/OP (Screener) | -53% | 17% | -33% | 25% | 71% | **103%** |
+
+> **Note on CFO/OP:** These ratios are taken directly from Screener.in and may differ from dividing the rounded OCF and OP figures in the tables above. Screener computes CFO/OP using more precise underlying data (before rounding to ₹1 Cr) and may use a slightly different definition of operating profit (e.g., including other income). The directional trend — from poor cash conversion to excellent — is the key takeaway.
 
 ### Cash Flow Narrative
 
@@ -246,11 +252,13 @@ At ₹62 Cr of owner earnings, the stock trades at **13.3x owner earnings** — 
 | ROIC % | — | — | — | — | — | — | — | — | — | — | — | **48%** |
 | ROA 12M % | — | — | — | — | — | — | — | — | — | — | — | **35%** |
 
-### ROE Averages
+### ROE Averages (Screener-reported)
 - 10-Year Average ROE: 15%
 - 5-Year Average ROE: 19%
 - 3-Year Average ROE: 29%
 - Last Year (FY25): **40%**
+
+> **Methodology Note:** These averages are as reported by Screener.in, which uses an aggregate method (cumulative net income / cumulative average equity) rather than a simple arithmetic average of annual ROEs. A simple average of the yearly ROE figures in the table above yields lower values (5Y: ~14%, 3Y: ~25%) because it weights each year equally regardless of the equity base. Screener's aggregate method gives greater weight to years with larger equity bases (i.e., more recent years), hence the higher averages.
 
 ### Analysis
 
@@ -300,7 +308,7 @@ AGL operates in the **Packaging sector** (Industry: Packaging) but is a **niche 
 | AGI Greenpac | 3,709 | 19.9% | 16.2% | 22.7% | 11.0 |
 | TCPL Packaging | 2,572 | 20.0% | 23.8% | 16.8% | 21.6 |
 | Uflex | 3,298 | 7.8% | 3.3% | 11.1% | 13.8 |
-| **Arrow Greentech** | **624** | **53.3%** | **39.6%** | **32.5%** | **12.1** |
+| **Arrow Greentech** | **827** | **53.3%** | **39.6%** | **36%** | **16.1** |
 | Sector Median | 400 | 12.4% | 10.2% | 9.7% | 18.0 |
 
 **AGL's ROCE and ROE are 2-4x the sector median.** This is not a commodity packaging business — it is a specialty technology company classified in the packaging sector.
@@ -362,7 +370,7 @@ Honest assessment: The moat is **real but narrow.** It is more accurately a "hea
 
 | Metric | FY23 | FY24 | FY25 | Trend |
 |---|---|---|---|---|
-| Fixed Asset CapEx as % of Revenue (est. ~₹7-9 Cr/yr) | ~13% | ~6% | ~3% | **Declining — capital-light scaling** |
+| Fixed Asset CapEx as % of Revenue | ~13% | ~6% | ~3% | **Declining — capital-light scaling** |
 | Revenue per ₹ of Fixed Assets | 2.9x | 4.0x | 6.4x | **Rising strongly** |
 | Working Capital as % of Revenue | 31% | 25% | 19% | **Declining — efficient scaling** |
 
@@ -484,7 +492,7 @@ From the Q3 FY26 announcement: Green Products segment generated ₹103 Mn revenu
 
 3. **Inventory Days Compressed:** From 138 (FY24) to 66 (FY25). The company is turning inventory faster — products are selling quickly.
 
-4. **Quarterly Revenue Seasonality:** Revenue is lumpy — Q2 (Jun) and Q3 (Sep) tend to be stronger quarters, while Q1 (Dec) and Q4 (Mar) show variation. This is important for interpreting the TTM decline.
+4. **Quarterly Revenue Seasonality:** Revenue is lumpy — Q1 (Jun) and Q2 (Sep) tend to be stronger quarters, while Q3 (Dec) and Q4 (Mar) show variation. This is important for interpreting the TTM decline.
 
 5. **Margin Volatility:** OPM ranged from 27% to 42% across quarters — the variability suggests product mix shifts between high-margin green products and lower-margin high-tech products.
 
@@ -503,11 +511,13 @@ The operational metrics are **improving beneath the surface**, even as TTM headl
 | **Stock P/E** | 16.1x | In line with Industry PE of ~18x |
 | **Price/Book Value** | 3.91x | Above Industry PBV of 1.78x — justified by 40% ROE |
 | **Price/Sales (TTM)** | 3.83x | Premium for specialty business |
-| **Earnings Yield** | 6.2% | Below Buffett's 10% hurdle (less attractive than at ₹414) |
+| **Earnings Yield** | 6.2% | Below Buffett's 10% hurdle |
 | **Dividend Yield** | 0.73% | Low but growing |
-| **PEG Ratio** | **0.30** | Very cheap (<1 is cheap; <0.5 is very cheap) |
+| **PEG Ratio** | **0.30** | Uses Screener's 5Y profit CAGR of 53% — see caveat below |
 | **ROIC** | 48.1% | Exceptional |
 | **P/Owner Earnings** | ~13.3x | Reasonable for growth |
+
+> **PEG Ratio Caveat:** The 5-year profit CAGR of 53% (from Screener) starts from a negative base (FY20 NP = -₹10 Cr), making the standard CAGR formula mathematically undefined. Screener uses a proprietary methodology to compute this figure. Using the more valid 10-year profit CAGR of 11%, PEG = 16.1/11 = **1.46**, which paints a significantly less attractive picture. The PEG of 0.30 should be treated with caution; the true growth-adjusted valuation lies somewhere between these two figures depending on one's belief in the sustainability of recent growth rates.
 
 ### Historical Valuation Context
 
@@ -538,7 +548,7 @@ The operational metrics are **improving beneath the surface**, even as TTM headl
 
 This stock has de-rated sharply from its 52-week high of ₹818 (a 33% decline to ₹548). At the current price:
 
-1. **PE of 16.1x** is reasonable for a business with 50%+ ROIC, though no longer screaming undervaluation. The PEG ratio of 0.30 still suggests meaningful value.
+1. **PE of 16.1x** is reasonable for a business with 50%+ ROIC, though no longer screaming undervaluation. The PEG ratio of 0.30 (using Screener's 5Y CAGR) suggests value, though this metric should be interpreted with caution given the CAGR is computed from a negative base (see caveat above).
 
 2. **TTM earnings are declining** (-17% YoY). The market is pricing in deceleration, not the trailing 5-year growth rate.
 
@@ -548,7 +558,7 @@ This stock has de-rated sharply from its 52-week high of ₹818 (a 33% decline t
    - Using a more conservative normalised ROE of 18% and 70% retention (g = 12.6%): Fair P/B = (0.18 - 0.126) / (0.12 - 0.126) — denominator approaches zero, implying very high P/B is justified.
    - The mathematical reality: any business earning ROE significantly above cost of equity with high retention rates deserves a very high P/B multiple.
 
-4. **Earnings Yield of 6.2%** (inverse of PE) is below Buffett's 10% hurdle rate — unlike at ₹414 where it exceeded 12%. The stock is no longer in "screaming buy" territory on this metric.
+4. **Earnings Yield of 6.2%** (inverse of PE) is below Buffett's 10% hurdle rate — it was higher at ₹414 (~10% on FY25 EPS) but still modest. The stock is not in "screaming buy" territory on this metric at current levels.
 
 5. **EV/EBITDA of 8.4-10.7x** is still reasonable for a specialty manufacturing business with these returns on capital, though no longer dirt-cheap.
 
@@ -870,12 +880,12 @@ AGL's ROE is driven entirely by margin expansion and asset efficiency, with leve
 
 **Step 4: The Key Insight**
 
-> "At the current entry P/B of 3.9x with a sustainable ROE of 25% and 90% retention, book value compounds at 22.5% annually. If the P/B multiple remains at 3.9x, the return equals the BV compounding rate of 22.5%. The stock can tolerate P/B compression from 3.9x down to approximately 1.3x before the 10-year return drops below the 10% hurdle rate."
+> "At the current entry P/B of 3.9x with a sustainable ROE of 25% and 90% retention, book value compounds at 22.5% annually. If the P/B multiple remains at 3.9x, the return equals the BV compounding rate of 22.5%. The stock can tolerate P/B compression from 3.9x down to approximately 1.33x before the 10-year return drops below the 10% hurdle rate."
 
 **Step 5: Traffic Light Verdict**
 
 - 10-year return if P/B halves to 2.0x: **14.5%** CAGR
-- 10% hurdle rate requires exit P/B of at least 1.3x
+- 10% hurdle rate requires exit P/B of at least 1.33x
 
 | Condition | Verdict | Signal |
 |---|---|---|
@@ -941,14 +951,14 @@ For a small capital base investor, AGL at ₹548 is still in attractive territor
 This is NOT a slam-dunk Buffett investment. Here's why:
 
 **What Buffett would LOVE:**
-- Extraordinary returns on capital (48-53% ROIC)
+- Extraordinary returns on capital (48% ROIC / 53% ROCE)
 - Virtually zero debt — financial fortress
 - Reasonable valuation (PE 16.1x, PEG 0.30)
 - Secular tailwind (green packaging megatrend)
 - Small company where a small capital base can make a meaningful investment
 
 **What would give Buffett PAUSE:**
-- The violent earnings history — losses of ₹36 Cr cumulative from FY18-FY22 before the recent recovery. This is NOT the consistent earnings machine Buffett prefers.
+- The violent earnings history — losses of ₹29 Cr cumulative from FY18-FY22 before the recent recovery. This is NOT the consistent earnings machine Buffett prefers.
 - The moat is narrow and untested against serious competition.
 - Declining promoter holding.
 - Revenue and profit are DECLINING on a TTM basis (-9% and -17%). The stock may be cheap for a reason.
@@ -1023,7 +1033,7 @@ AGL has already completed its turnaround. The dark years were FY18–FY22; the c
 | **Financial Health** | **9** | Virtually zero debt. Financial fortress. Cash generation validated in FY25. |
 | **Management Quality** | **6** | Strong operational execution. Declining promoter holding and poorly-timed rights issue are negatives. |
 | **Earnings Quality** | **7** | FY25 OCF/Net Income = 108%. But historical earnings have been wildly volatile. |
-| **Valuation** | **7** | PE 16.1x, PEG 0.30, EV/EBITDA ~8-11x for a 50%+ ROIC business. Fair, not cheap. |
+| **Valuation** | **7** | PE 16.1x, PEG 0.30 (caveat: 5Y CAGR from negative base; 10Y-based PEG = 1.46), EV/EBITDA ~8-11x for a 50%+ ROIC business. Fair, not cheap. |
 | **Margin of Safety** | **6** | Conservative DCF suggests 35% margin of safety. Decent but not extreme. |
 | **Growth Potential** | **7** | Green packaging megatrend provides runway. But TTM deceleration needs monitoring. |
 | **Risk Profile** | **6** | Small size, volatile history, narrow moat, and declining TTM create moderate risk. |
