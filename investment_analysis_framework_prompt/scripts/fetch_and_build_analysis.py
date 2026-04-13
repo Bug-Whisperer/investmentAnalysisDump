@@ -352,22 +352,22 @@ def prefill_template(ws, data: dict, ticker: str):
         if 2 <= col <= 12:
             ws.cell(row=11, column=col, value=year_headers[-(n_years-i)])
     
-    # Map metrics to rows
+    # Map metrics to rows — (row, keywords, exclusions)
     income_mappings = [
-        (12, ['Sales', 'Revenue', 'Total Income from Operations']),
-        (13, ['Operating Profit']),
-        (14, ['Depreciation']),
-        (15, ['Interest']),
-        (16, ['Profit before tax']),
-        (17, ['Tax']),
-        (18, ['Net Profit']),
-        (19, ['EPS']),
+        (12, ['Sales', 'Revenue', 'Total Income from Operations'], None),
+        (13, ['Operating Profit'], None),
+        (14, ['Depreciation'], None),
+        (15, ['Interest'], ['net interest income']),
+        (16, ['Profit before tax'], None),
+        (17, ['Tax'], ['deferred tax', 'tax %', 'profit before']),
+        (18, ['Net Profit'], None),
+        (19, ['EPS'], ['growth']),
         # DPS handled separately below — 'Dividend Payout' matches the payout
         # RATIO (%), not per-share dividend amounts.
     ]
     
-    for row_num, keywords in income_mappings:
-        _, values = find_metric(inc, keywords)
+    for row_num, keywords, exclusions in income_mappings:
+        _, values = find_metric(inc, keywords, exclude=exclusions)
         if values:
             write_row(ws, row_num, values)
     

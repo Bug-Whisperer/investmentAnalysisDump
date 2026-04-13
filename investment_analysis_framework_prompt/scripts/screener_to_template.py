@@ -186,12 +186,15 @@ def parse_screener_xlsx(filepath: str) -> dict:
                     if v is None:
                         continue
                     if isinstance(v, datetime):
-                        year_labels.append(f"Mar {v.year}")
+                        year_labels.append(v.strftime("%b %Y"))
                     elif isinstance(v, str) and v.strip():
-                        # Try to extract year from string like "2024-03-31 00:00:00"
-                        m = re.search(r'(\d{4})', v)
+                        # Try to parse "2024-03-31 00:00:00" or "2024-06-30"
+                        m = re.search(r'(\d{4})-(\d{2})', v)
                         if m:
-                            year_labels.append(f"Mar {m.group(1)}")
+                            year = int(m.group(1))
+                            month_num = int(m.group(2))
+                            month_name = datetime(year, month_num, 1).strftime("%b")
+                            year_labels.append(f"{month_name} {year}")
                         else:
                             year_labels.append(v.strip())
                     else:
