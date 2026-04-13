@@ -508,7 +508,7 @@ def populate_from_screener_xlsx(ws, parsed: dict):
         filled += 1
 
     # DPS — compute from Dividend Amount / Shares
-    div_amt = find_values(pl, ['Dividend Amount', 'Dividend Payout'])
+    div_amt = find_values(pl, ['Dividend Amount'])
     if div_amt:
         shares_series = find_values(derived, ['Adjusted Equity Shares in Cr'])
         if not shares_series:
@@ -709,7 +709,7 @@ def populate_from_csvs(ws, pl_data, bs_data, cf_data, ratios_data,
             (ROW_TAX,          ['Tax'], ['deferred tax', 'tax %', 'profit before']),
             (ROW_NET_PROFIT,   ['Net profit', 'Net Profit'], None),
             (ROW_EPS,          ['EPS in Rs', 'EPS'], ['growth']),
-            (ROW_DPS,          ['Dividend Payout'], None),
+            (ROW_DPS,          ['Dividend Per Share'], ['payout']),
         ]:
             vals = find_values(pl_data, kw, exclude=ex)
             if vals:

@@ -272,16 +272,35 @@ CENTER = Alignment(horizontal='center', vertical='center', wrap_text=True)
 def build_prefilled_excel(ticker: str, data: dict, output_path: str):
     """Build a pre-filled Buffett Analysis Excel from fetched data."""
     
-    # Check if template exists in same directory
-    template_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'Buffett_Analysis_Template.xlsx')
+    TEMPLATE_NAME = 'Buffett_Analysis_Template.xlsx'
+    script_dir = os.path.dirname(os.path.abspath(__file__))
     
-    if os.path.exists(template_path):
+    # Search for template in multiple likely locations:
+    #   1. Same directory as the script
+    #   2. Parent directory of the script (common layout: project_root/scripts/)
+    #   3. Current working directory
+    search_paths = [
+        os.path.join(script_dir, TEMPLATE_NAME),
+        os.path.join(os.path.dirname(script_dir), TEMPLATE_NAME),
+        os.path.join(os.getcwd(), TEMPLATE_NAME),
+    ]
+    
+    template_path = None
+    for p in search_paths:
+        if os.path.exists(p):
+            template_path = p
+            break
+    
+    if template_path:
         print(f"Loading template from: {template_path}")
         wb = openpyxl.load_workbook(template_path)
         ws = wb['1. Inputs']
         prefill_template(ws, data, ticker)
     else:
-        print("Template not found. Building from scratch with data...")
+        print(f"Template '{TEMPLATE_NAME}' not found in:")
+        for p in search_paths:
+            print(f"  - {p}")
+        print("Building standalone workbook with raw data instead...")
         wb = build_standalone_workbook(data, ticker)
     
     wb.save(output_path)
