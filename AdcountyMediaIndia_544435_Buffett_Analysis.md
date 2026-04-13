@@ -53,10 +53,11 @@ Additional platforms under development include **VOOHOO Live, Genwin, iSearch Ad
 | **EPS (Adj, Post-Bonus)** | 0.62 | **0.61** | 1.25 | 4.77 | 5.17 | **8.31** | **7.84**† |
 | EPS Growth | — | **-2%** | +105% | **+282%** | +8% | +61% | — |
 | Shares (Cr, Adj) | 1.60 | 1.60 | 1.60 | 1.60 | 1.60 | 1.65 | 2.25† |
-| EBITDA (OP + D&A) | 1.59 | 1.34 | 2.87 | **10.45** | 10.73 | **18.00** | ~22 |
-| EBITDA Margin | **8.4%** | **8.5%** | 9.3% | 19.5% | 25.2% | **26.1%** | ~28% |
+| EBITDA | 1.49 | 1.25 | 2.80 | **10.32** | 10.62 | **17.78** | ~22 |
+| EBITDA Margin | **7.9%** | **7.9%** | 9.0% | 19.3% | 24.9% | **25.8%** | ~28% |
 
 *TTM based on Q4FY25 + Q1-Q3 FY26. †TTM EPS diluted by post-IPO share count of 2.25 Cr.*
+*Note: Screener.in's Operating Profit is reported after deducting all operating expenses but before Interest, Depreciation, Other Income, and Tax — i.e., OP already equals EBITDA. D&A is not embedded within Expenses; it appears as a separate line item below OP. Therefore EBITDA = OP and EBITDA Margin = OPM throughout this table.*
 
 **Trend Narrative:**
 
