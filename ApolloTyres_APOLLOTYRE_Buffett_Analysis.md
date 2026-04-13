@@ -55,7 +55,7 @@ Apollo has **limited pricing power**. When rubber prices spike, tyre companies r
 
 2. **Operating margins are cyclical**, swinging between 11% (FY18/FY19 — rubber price spikes) and 18% (FY24 — rubber prices benign + price hikes sticky). The FY25 reversion to 14% confirms that FY24's 18% was a cyclical peak, not a structural improvement. Q3 FY26 shows recovery to 15.3%.
 
-3. **Net profit** went from ₹1,123 Cr in FY16 to ₹1,121 Cr in FY25 — essentially **ZERO growth over a decade in absolute terms**. The 5-year CAGR of 21% in profit is entirely recovery from the FY20-21 trough, not genuine growth.
+3. **Net profit** went from ₹1,123 Cr in FY16 to ₹1,121 Cr in FY25 — essentially **ZERO growth over a decade in absolute terms**. The 5-year NP CAGR of ~19% (EPS CAGR ~16% after dilution) is entirely recovery from the FY20-21 trough, not genuine growth.
 
 4. **EPS** tells the same story: ₹22.06 in FY16 vs ₹17.66 in FY25. The dilution from equity expansion (shares went from 50.9 Cr to 63.5 Cr, a 25% increase) has eaten into per-share value creation.
 
@@ -81,13 +81,13 @@ Here, growth has been negligible in per-share terms over a full decade. That is 
 
 **Key Observations:**
 
-1. **Deleveraging story is real:** Debt peaked at ₹7,334 Cr in FY21 (after the massive Hungary plant + AP plant capex cycle) and has declined to ₹4,410 Cr by FY25. Debt/Equity has improved from 0.68x to 0.30x. By Dec 2025, net debt was down to just ₹1,300 Cr (0.4x Net Debt/EBITDA).
+1. **Deleveraging story is real:** Debt peaked at ₹7,334 Cr in FY21 (after the massive Hungary plant + AP plant capex cycle) and has declined to ₹4,410 Cr by FY25. Debt/Equity has improved from 0.68x to 0.30x. Net debt (Borrowings minus Investments per Screener) stood at ₹4,365 Cr as of FY25 and ₹4,466 Cr as of Sep 2025. This is a significant improvement from the ₹7,224 Cr peak in FY21, though the balance sheet is not yet debt-free. Net Debt/EBITDA has improved to ~1.2x (on FY25 EBITDA of ₹3,595 Cr) — manageable but not fortress-like.
 
 2. **The balance sheet is now a source of strength.** The heavy capex cycle (FY17-FY21) is largely complete. The company is now in a cash-generation phase.
 
 3. **But equity was diluted along the way.** Shares outstanding grew from 50.9 Cr (FY16) to 63.5 Cr (FY21 onwards) — a 25% dilution, likely from preferential allotments / rights issues during the capital-intensive phase. This permanently reduced per-share value for existing holders.
 
-4. **Book Value Per Share** has grown from ₹130 (FY16) to ₹245 (H1 FY26) — a CAGR of ~6.5% over ~10 years. Mediocre.
+4. **Book Value Per Share** has grown from ₹130 (FY16) to ₹245 (H1 FY26) — a CAGR of ~7% over ~9.5 years. Mediocre.
 
 > *Buffett: "Only when the tide goes out do you discover who's been swimming naked."*
 
@@ -157,17 +157,17 @@ Normalised Owner Earnings: **~₹1,150-1,200 Cr/year** or **~₹18-19 per share.
 
 | Metric | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **ROE %** | 17.0% | 15.1% | 7.4% | 6.8% | **4.8%** | 3.1% | 5.4% | 8.3% | **12.4%** | **7.6%** |
-| **ROA %** | 9.7% | 7.2% | 3.6% | 3.4% | **2.1%** | 1.4% | 2.4% | 3.8% | **6.4%** | 4.1% |
-| **ROCE %** | **23%** | 16% | **9%** | **9%** | **5%** | 9% | 7% | 10% | **16%** | **11%** |
+| **ROE %** (NP / Avg Equity) | **19.3%** | 15.8% | 8.5% | 6.9% | **4.8%** | **3.3%** | 5.5% | 8.6% | **13.0%** | 7.8% |
+| **ROA %** (NP / Avg Assets) | **11.1%** | 8.2% | 4.1% | 3.4% | **2.2%** | **1.4%** | 2.4% | 3.9% | **6.4%** | 4.1% |
+| **ROCE %** (Screener) | **23%** | 16% | **9%** | **9%** | **5%** | 9% | 7% | 10% | **16%** | **11%** |
 
-**10-Year Average ROE: ~9%**
-**5-Year Average ROE: ~7%**
-**3-Year Average ROE: ~9%**
+**10-Year Average ROE: ~9%** (using average equity)
+**5-Year Average ROE: ~8%**
+**3-Year Average ROE: ~10%**
 
 This is the single most damning metric for a Buffett analysis. **A 9-10% ROE is mediocre.** It barely covers the cost of equity (which is ~11-12% for an Indian mid-cap). The business is, on average, **not earning above its cost of capital.**
 
-FY24's 12.4% ROE was the cyclical peak — rubber was cheap, prices were sticky, debt was falling. FY25 reverted to 7.6% as rubber costs rose and pricing power proved limited.
+FY24's 13.0% ROE was the cyclical peak — rubber was cheap, prices were sticky, debt was falling. FY25 reverted to 7.8% as rubber costs rose and pricing power proved limited.
 
 ROCE tells the same story: the 23-26% ROCE of FY14-FY16 (pre-expansion, smaller capital base) has given way to 9-16% as the massive capital invested in Hungary and AP has not yet generated proportional returns.
 
@@ -251,7 +251,7 @@ CapEx intensity has dropped dramatically as the company harvests prior investmen
 
 ### Part B: Scaling Runway
 
-**TAM:** India tyre market ~₹1,00,000 Cr, growing at ~7-8% CAGR. Apollo's current revenue ~₹26,000 Cr → ~26% domestic revenue share. India tyre market is expected to reach USD 27.67 billion (~₹2.3 lakh Cr) by 2034.
+**TAM:** India tyre market ~₹1,00,000 Cr, growing at ~7-8% CAGR. Apollo's India revenue (~87% of ₹26,123 Cr) is ~₹22,700 Cr → ~23% domestic revenue share. India tyre market is expected to reach USD 27.67 billion (~₹2.3 lakh Cr) by 2034.
 
 **Runway:** Reasonable — the Indian market is growing with vehicle penetration, but Apollo's growth has barely matched the market. Market share has been roughly stable.
 
@@ -335,10 +335,10 @@ Apollo Tyres' management is competent but not exceptional. The business is not s
 | Forward PE | ~21x (consensus) | — | — | — | — | — | — | — |
 | **P/B Ratio** | **1.71x** (₹420 / ₹245 BVPS) | 0.7x | 1.0x | 1.3x | 1.4x | 1.8x | 1.7x | ~1.2-1.4x |
 | P/Sales | 0.97x | 0.5x | 0.6x | 0.7x | 0.7x | 1.0x | 0.9x | ~0.7x |
-| EV/EBITDA | ~9.3x | 6.3x | 7.3x | 8.5x | 7.2x | **6.5x** | 7.9x | ~7-8x |
+| EV/EBITDA | ~8.0x | 6.3x | 7.3x | 8.5x | 7.2x | **6.5x** | 7.9x | ~7-8x |
 | P/FCF | ~16.5x (on FY25 FCF) | NM | NM | 16x | 11x | **9.4x** | 16.5x | — |
 | P/Owner Earnings | ~22.8x (on normalised ₹18.4/share) | — | — | — | — | — | — | — |
-| Earnings Yield | ~4.2% | 6.7% | 2.9% | 4.0% | 5.9% | 8.3% | 5.9% | — |
+| Earnings Yield | ~3.5% | 6.7% | 2.9% | 4.0% | 5.9% | 8.3% | 5.9% | — |
 | FCF Yield | ~6.1% | NM | NM | 6.3% | 9.1% | **10.6%** | 6.1% | — |
 | Dividend Yield | ~1.2% | 2.4% | 2.3% | 1.0% | 1.1% | 1.3% | 1.3% | ~1.5% |
 
@@ -347,7 +347,7 @@ Apollo Tyres' management is competent but not exceptional. The business is not s
 The stock is currently trading **above its historical median** on most metrics:
 - PE at ~29x vs 10-year median of ~18-20x
 - P/B at 1.71x vs median of ~1.2-1.4x
-- EV/EBITDA at ~9.3x vs median of ~7-8x
+- EV/EBITDA at ~8.0x vs median of ~7-8x (roughly at the upper end of the historical range)
 
 The valuation premium appears driven by the Q3 FY26 recovery narrative and the capacity expansion announcement. **The stock has NEVER sustainably traded at current PE/PB multiples** — previous peaks were brief spikes that reverted.
 
@@ -374,12 +374,12 @@ At ₹420, you are paying a premium-to-history valuation for a business with 9% 
 | **PV of 10Y Cash Flows** | ₹8,900 Cr | ₹10,700 Cr | ₹12,800 Cr |
 | **Terminal Value (PV)** | ₹10,000 Cr | ₹16,300 Cr | ₹24,500 Cr |
 | **Enterprise Value** | ₹18,900 Cr | ₹27,000 Cr | ₹37,300 Cr |
-| Less: Net Debt | (1,300) | (1,300) | (1,300) |
-| **Equity Value** | ₹17,600 Cr | ₹25,700 Cr | ₹36,000 Cr |
-| **Intrinsic Value/Share** | **₹277** | **₹405** | **₹568** |
-| Margin of Safety at ₹420 | **-52% (overvalued)** | **-4% (roughly fair value)** | **+26%** |
+| Less: Net Debt | (4,365) | (4,365) | (4,365) |
+| **Equity Value** | ₹14,535 Cr | ₹22,635 Cr | ₹32,935 Cr |
+| **Intrinsic Value/Share** | **₹229** | **₹356** | **₹519** |
+| Margin of Safety at ₹420 | **-83% (overvalued)** | **-18% (overvalued)** | **+19%** |
 
-**Verdict:** At ₹420, the stock is **overvalued** on conservative assumptions and approximately **fairly valued** on the base case. The optimistic case provides a 26% margin of safety — but it requires 14% earnings growth for 5 years, which would be historically unprecedented for Apollo on a sustained basis. The base case suggests the current price is neither a bargain nor egregiously expensive — it is priced for decent execution.
+**Verdict:** At ₹420, the stock is **significantly overvalued** on conservative assumptions and **moderately overvalued** on the base case. Even the optimistic case provides only a 19% margin of safety — and it requires 14% earnings growth for 5 years, which would be historically unprecedented for Apollo on a sustained basis. The base case suggests the current price is pricing in better-than-base-case execution — you are paying for optimism.
 
 ---
 
@@ -389,8 +389,8 @@ At ₹420, you are paying a premium-to-history valuation for a business with 9% 
 - CMP: ₹420
 - Normalised EPS: ₹18.4 (Owner Earnings basis)
 - Current PE on normalised EPS: 22.8x
-- Historical 5Y EPS CAGR: ~21% (recovery-driven, not organic)
-- Historical 10Y EPS CAGR: ~2%
+- Historical 5Y EPS CAGR: ~16% (recovery-driven, not organic; NP CAGR ~19%)
+- Historical 10Y EPS CAGR: ~-1% (EPS declined from ₹19.21 in FY15 to ₹17.66 in FY25 due to 25% share dilution; NP CAGR was ~1.4%)
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -423,21 +423,22 @@ At ₹420, you are paying a premium-to-history valuation for a business with 9% 
 | Benchmark | EPS CAGR |
 |---|---|
 | India Nominal GDP Growth | 10-12% |
-| Apollo 5Y EPS CAGR (FY20-25) | 21% (recovery from trough) |
-| Apollo 10Y EPS CAGR (FY15-25) | ~2% |
+| Apollo 5Y EPS CAGR (FY20-25) | ~16% (recovery from trough) |
+| Apollo 10Y EPS CAGR (FY15-25) | ~-1% (negative due to 25% dilution) |
+| Apollo 10Y NP CAGR (FY15-25) | ~1.4% (Screener: 2%) |
 | Tyre Industry Growth | 7-8% |
 | Analyst Consensus FY26-27E | ~15-18% (recovery from FY25 dip) |
 
 **Traffic Light Assessment:**
 
-To earn just a **10% return** over 10 years at a terminal PE of 18x, Apollo needs to grow EPS at **12.6% CAGR**. This is ~6x the 10-year historical CAGR of 2% and above the industry growth rate.
+To earn just a **10% return** over 10 years at a terminal PE of 18x, Apollo needs to grow EPS at **12.6% CAGR**. The 10-year historical EPS CAGR is actually **negative** (~-1%) due to share dilution, and even the 5Y EPS CAGR of ~16% was entirely a recovery from the FY20-21 trough — not organic growth. The required growth represents a dramatic acceleration from the long-term track record.
 
 | Implied Growth | vs Historical | Verdict |
 |---|---|---|
-| 12.6% needed for 10% return (10Y, 18x exit) | **~6x the 10Y CAGR** | 🟠 **ORANGE — Expensive** |
-| 17.8% needed for 15% return (10Y, 18x exit) | **~9x the 10Y CAGR** | 🔴 **RED — Heroic assumptions** |
+| 12.6% needed for 10% return (10Y, 18x exit) | **Well above 10Y EPS CAGR of ~-1%** | 🟠 **ORANGE — Expensive** |
+| 17.8% needed for 15% return (10Y, 18x exit) | **Above even 5Y recovery EPS CAGR of ~16%** | 🔴 **RED — Heroic assumptions** |
 
-> **"At the current price of ₹420, to earn a 10% annualised return over 10 years assuming the market values the business at 18x PE at exit, the company needs to grow EPS at 12.6% CAGR. The company has historically grown EPS at just 2% CAGR over 10 years. This implies the market is pricing in significant acceleration in earnings growth that has no historical precedent."**
+> **"At the current price of ₹420, to earn a 10% annualised return over 10 years assuming the market values the business at 18x PE at exit, the company needs to grow EPS at 12.6% CAGR. The company has historically grown EPS at ~-1% CAGR over 10 years (and ~16% over the recovery-driven last 5 years). This implies the market is pricing in significant and sustained acceleration in per-share earnings growth that has no long-term historical precedent."**
 
 ### Step 6: Asymmetric Upside Check
 
@@ -448,29 +449,29 @@ To earn just a **10% return** over 10 years at a terminal PE of 18x, Apollo need
 | Tangible Book Value | ₹245 BVPS × 1.0x | ₹245 | -42% |
 | Trough Earnings × Trough PE | ₹8.33 EPS (FY20) × 12x | ₹100 | -76% |
 | Historical Lowest P/B × Current BV | 0.7x × ₹245 | ₹172 | -59% |
-| Conservative DCF | From Section 12 | ₹277 | -34% |
+| Conservative DCF | From Section 12 | ₹229 | -45% |
 
-**Most probable downside floor: ₹260-280** (1.0-1.1x book value, where institutional buyers historically step in).
+**Most probable downside floor: ₹245-270** (1.0-1.1x book value, where institutional buyers historically step in).
 
 **Upside Case:**
 
 | Scenario | Basis | Implied Price | Upside from ₹420 |
 |---|---|---|---|
-| Base DCF | Section 12 | ₹405 | -4% (roughly fair value) |
-| Optimistic DCF | Section 12 | ₹568 | +35% |
+| Base DCF | Section 12 | ₹356 | -15% (overvalued) |
+| Optimistic DCF | Section 12 | ₹519 | +24% |
 | Bull Case (18% EPS growth 5Y × 20x PE) | Normalised EPS grows to ₹42 | ₹840 | +100% |
-| Capacity expansion + margin recovery | EBITDA ₹5,000 Cr @ 8x EV/EBITDA | ₹550 | +31% |
+| Capacity expansion + margin recovery | EBITDA ₹5,000 Cr @ 8x EV/EBITDA | ₹561 | +34% |
 
 **Asymmetry Ratio:**
-- Realistic Upside: ~35% (to ₹550-568 over 3-5 years if execution is strong)
-- Realistic Downside: ~34% (to ₹277 in a conservative DCF bear case)
-- **Asymmetry Ratio: ~1.0:1**
+- Realistic Upside: ~24-34% (to ₹519-561 over 3-5 years if execution is strong)
+- Realistic Downside: ~36% (to ~₹270, 1.1x book value floor)
+- **Asymmetry Ratio: ~0.7-0.9:1**
 
-This is **roughly neutral asymmetry.** The upside approximately equals the downside. Not a fat pitch.
+This is **negative asymmetry.** The downside exceeds the upside. The risk/reward is unfavourable.
 
-> **Mispricing Assessment:** There is **NO obvious mispricing.** The stock is trading at roughly fair value on a base-case DCF (₹405 vs ₹420 CMP), which is consistent with a business earning 9% ROE with single-digit revenue growth. There is no temporary crisis being mistaken for terminal decline. The recent FY25 earnings dip is mild, not catastrophic. The market appears to be correctly pricing in "decent business, fair price" — not handing you a gift.
+> **Mispricing Assessment:** There is **NO mispricing.** The stock is trading **above** fair value on a base-case DCF (₹356 vs ₹420 CMP) — meaning the market is pricing in better-than-base-case execution. Even the optimistic DCF (₹519) offers only 24% upside. This is a business earning 9% ROE with single-digit revenue growth; the current price implies the market expects meaningfully better outcomes than what the historical record supports.
 
-**Fat Pitch Verdict:** This is **NOT a fat pitch.** The risk/reward at ₹420 is roughly balanced. There is no overwhelming asymmetry. Buffett would **not swing hard** at this price.
+**Fat Pitch Verdict:** This is **NOT a fat pitch.** The risk/reward at ₹420 is unfavourable — downside exceeds upside. Buffett would **pass** at this price without hesitation.
 
 ---
 
@@ -478,24 +479,24 @@ This is **roughly neutral asymmetry.** The upside approximately equals the downs
 
 ### Part A: DuPont Decomposition
 
-| Year | Net Profit Margin | Asset Turnover (Rev/Assets) | Equity Multiplier (Assets/Equity) | ROE (Product) |
+| Year | Net Profit Margin | Asset Turnover (Rev/Avg Assets) | Equity Multiplier (Avg Assets/Avg Equity) | ROE (Product) |
 |---|---|---|---|---|
-| FY2020 | 2.9% | 0.70x | 2.34x | **4.8%** |
-| FY2021 | 2.0% | 0.67x | 2.26x | **3.1%** |
-| FY2022 | 3.1% | 0.77x | 2.30x | **5.4%** |
-| FY2023 | 4.3% | 0.90x | 2.17x | **8.3%** |
-| FY2024 | 6.8% | 0.94x | 1.93x | **12.4%** |
-| FY2025 | 4.3% | 0.96x | 1.84x | **7.6%** |
+| FY2020 | 2.9% | 0.75x | 2.17x | **4.8%** |
+| FY2021 | 2.0% | 0.71x | 2.29x | **3.3%** |
+| FY2022 | 3.1% | 0.79x | 2.28x | **5.5%** |
+| FY2023 | 4.3% | 0.90x | 2.23x | **8.6%** |
+| FY2024 | 6.8% | 0.94x | 2.05x | **13.0%** |
+| FY2025 | 4.3% | 0.97x | 1.89x | **7.8%** |
 
 **Key Findings:**
 
 1. **ROE improvement from FY20 to FY24 was driven primarily by Net Margin expansion** (2.9% → 6.8%), not by leverage or efficiency. This is the "good" kind of ROE improvement — it reflects commodity tailwinds (cheap rubber) and pricing discipline.
 
-2. **Asset Turnover is improving** from 0.70x to 0.96x — the massive capex cycle is finally generating more revenue per asset. This is encouraging.
+2. **Asset Turnover is improving** from 0.75x to 0.97x — the massive capex cycle is finally generating more revenue per asset. This is encouraging.
 
-3. **Equity Multiplier is DECLINING** from 2.34x to 1.84x — the company is deleveraging. This is dragging ROE down but making the balance sheet safer.
+3. **Equity Multiplier is DECLINING** from 2.17x to 1.89x — the company is deleveraging. This is dragging ROE down but making the balance sheet safer.
 
-4. **ROCE (11%) > ROE (7.6%)** in FY25 — this is the healthy pattern. The underlying business returns are decent; lower ROE reflects taxes and lower leverage. Not a red flag.
+4. **ROCE (11%) > ROE (7.8%)** in FY25 — this is the healthy pattern. The underlying business returns are decent; lower ROE reflects taxes and lower leverage. Not a red flag.
 
 **Quality Assessment:** The ROE is driven by margin (cyclical) + efficiency (improving) with declining leverage (safer). The quality is acceptable, but the level (8-10% average) is simply too low for a Buffett investment.
 
@@ -536,7 +537,7 @@ This is **roughly neutral asymmetry.** The upside approximately equals the downs
 |---|---|---|
 | 10-year return if P/B halves (to 0.85x) | **0.2% CAGR** — essentially zero real return | 🔴 RED |
 | 10-year return if P/B stays at 1.71x | **7.4%** — below 10% hurdle | 🟡 YELLOW |
-| 10-year return > 10% hurdle | Requires P/B EXPANSION to >2.2x | 🔴 RED |
+| 10-year return > 10% hurdle | Requires P/B EXPANSION to ~2.2x | 🔴 RED |
 
 **You need the market to become MORE optimistic just to earn your hurdle rate.** This is a dangerous entry point for a mediocre-ROE business.
 
@@ -579,7 +580,7 @@ For someone with a small capital base, the key is opportunity cost. At ₹420, A
 | Management Trustworthy | Competent, reasonable capital allocation, but diluted equity | ⚠️ MARGINAL |
 | Resistant to Disruption | Tyres needed for decades; but EV transition, Chinese imports | ⚠️ MARGINAL |
 | Sustain Economics 10+ Years | Possible but ROE mediocre; cyclical margins | ⚠️ MARGINAL |
-| Price Significantly Below Intrinsic Value | **NO — trading at or above fair value** | ❌ FAIL |
+| Price Significantly Below Intrinsic Value | **NO — trading above base-case IV of ₹356** | ❌ FAIL |
 
 **Buffett's Verdict:**
 
@@ -592,7 +593,7 @@ Apollo Tyres is an **acceptable business at an unacceptable price** for Buffett.
 
 > *Buffett: "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."*
 
-Apollo Tyres is a **fair company at a fair-to-expensive price**. This doesn't meet either of Buffett's standards. He would **PASS** at ₹420 and put it on a watchlist for ₹250-280 (1.0-1.1x book).
+Apollo Tyres is a **fair company at an expensive price**. This doesn't meet either of Buffett's standards. He would **PASS** at ₹420 and put it on a watchlist for ₹245-270 (1.0-1.1x book).
 
 If he were working with a small capital base and had more flexibility to buy smaller positions, he might nibble at ₹280-300 — but **only** if Q3 FY26 momentum sustains into a genuine multi-year earnings upgrade cycle. Even then, he'd likely find better opportunities in higher-ROE businesses.
 
@@ -624,7 +625,7 @@ Apollo Tyres is NOT in distress — this section is less applicable. However, it
 |---|---|---|
 | Revenue momentum | 7 | Q3 FY26 highest-ever India revenue; 12% consolidated growth |
 | Margin trajectory | 6 | OPM recovered to 15.3% in Q3; but FY25 full year was weak |
-| Balance sheet strength | 8 | Net debt down to ₹1,300 Cr; 0.4x Net Debt/EBITDA |
+| Balance sheet strength | 8 | Borrowings down to ₹4,410 Cr; Net Debt ₹4,365 Cr; Debt/Equity 0.30x |
 | Capex clarity | 7 | ₹5,810 Cr AP expansion approved; clear growth path |
 | Working capital concerns | 4 | CCC at 99 days is worst in a decade |
 | **Overall Transition Score** | **6.5/10** | Post-capex harvesting phase is real, but not yet reflected in sustained earnings |
@@ -642,10 +643,10 @@ Apollo Tyres is NOT in distress — this section is less applicable. However, it
 | **Scalability** | 4.5 | Physical goods; margins driven by rubber, not scale |
 | **Earnings Quality** | 5 | Volatile; FY24 peak was cyclical, not structural |
 | **Valuation** | 4 | Above historical median P/B and PE; limited margin of safety |
-| **Margin of Safety** | 4 | Roughly fair value on base case DCF; neutral asymmetry |
-| **Buffett Verdict** | — | **Fair company at a fair-to-expensive price. PASS at ₹420.** |
+| **Margin of Safety** | 3 | Overvalued on base case DCF (₹356 vs ₹420); negative asymmetry |
+| **Buffett Verdict** | — | **Fair company at an expensive price. PASS at ₹420.** |
 | **Buy Zone** | — | Fully Valued / Trim zone. Strong Buy below ₹270 (1.1x book). |
-| **Overall Recommendation** | — | **AVOID at current levels. Watchlist for ₹260-280.** |
+| **Overall Recommendation** | — | **AVOID at current levels. Watchlist for ₹245-270 (1.0-1.1x book).** |
 
 **Buffett's Closing Verdict:**
 
@@ -672,7 +673,7 @@ Apollo Tyres is NOT in distress — this section is less applicable. However, it
 - At 1.7x book, your return ≈ 7% (BV compounding) minus any multiple compression
 - You need the multiple to EXPAND to earn 10%+
 - For a 10% ROE business, P/B should be ~1.0-1.2x, not 1.7x
-- **Simple conclusion: Overpriced. Wait for ₹250-280.**
+- **Simple conclusion: Overpriced. Wait for ₹245-270 (1.0-1.1x book).**
 
 > *Buffett: "If you need a computer or a calculator to figure out whether you should buy the stock, you shouldn't buy it."*
 
@@ -680,4 +681,4 @@ The napkin math says WAIT. No Excel required.
 
 ---
 
-*Disclaimer: This analysis is for educational purposes only. It is not investment advice. The author has no position in Apollo Tyres. All financial data sourced from Screener.in, company filings, and public sources. Please consult a qualified financial advisor before making investment decisions.* 
+*Disclaimer: This analysis is for educational purposes only. It is not investment advice. The author has no position in Apollo Tyres. All financial data sourced from Screener.in, company filings, and public sources. Please consult a qualified financial advisor before making investment decisions.*
