@@ -48,10 +48,10 @@ Buffett: *"The single most important decision in evaluating a business is pricin
 | Net Profit Growth YoY | 58% | 50% | 4% | **-6%** | **73%** | 59% | 52% | 4% | 14% | 3% | — |
 | EPS (₹) | 4.29 | 6.45 | 6.66 | 6.22 | 9.58 | 14.42 | 24.73 | 23.14 | 26.39 | 27.28 | **41.14** |
 | EPS Growth YoY | 58% | 50% | 3% | **-7%** | 54% | 50% | **71%** | -6% | 14% | 3% | — |
-| Shares Outstanding (Cr) | ~23.5 | ~23.6 | ~23.7 | ~23.8 | ~26.7* | ~28.3* | ~25.0 | ~27.8 | ~27.7 | ~27.8 | ~27.8 |
+| Shares Outstanding (Cr) | ~23.5 | ~23.6 | ~23.7 | ~23.8 | ~25.0 | ~25.1 | ~25.0 | ~27.8 | ~27.7 | ~27.8 | ~27.8 |
 | Dividend Payout % | 23% | 19% | 21% | 23% | **0%** | **0%** | 14% | 22% | 21% | 21% | — |
 
-*\*FY20 and FY21 shares are implied from Screener's EPS (Net Profit / EPS), which is retroactively adjusted for the 2022 Apollo Tricoat Tubes merger. The pre-merger actual shares outstanding were ~25.0 Cr and ~25.1 Cr respectively.*
+*Note: FY20 and FY21 EPS figures from Screener.in are retroactively restated for the 2022 Apollo Tricoat Tubes merger, and therefore do not equal Net Profit divided by actual shares outstanding for those years. All other per-share metrics (BVPS, FCF/Share) use the actual shares outstanding at the time.*
 
 **Trend Narrative:**
 
@@ -383,7 +383,7 @@ These operational metrics are improving BENEATH the financial surface — they c
 
 The stock is currently trading at 47x PE, which is in the middle of its historical range (15-71x). The stock has traded at higher multiples (~71x in FY25 when EPS was depressed due to a weak Q2). However, the P/B ratio of 11.6x is near the TOP of its historical range (the stock has rarely traded sustainably above 12x book).
 
-**Critical Observation:** At 47x PE and 11.6x Book, the stock is NOT cheap on any metric. The P/E is 2.6x the industry median PE of 17.8x. The PEG ratio of 7.65 implies the market is paying for growth that would need to be roughly 8x the current growth rate to justify the multiple.
+**Critical Observation:** At 47x PE and 11.6x Book, the stock is NOT cheap on any metric. The P/E is 2.6x the industry median PE of 17.8x. The PEG ratio of 7.65 (sourced from Screener.in, which uses its own proprietary growth estimate of ~6%) implies the market is paying for growth that would need to be roughly 8x that rate to justify the multiple.
 
 However, this is a market leader with 50% share in a growing market, consistently high ROCE, negative working capital, and a fortress balance sheet. The premium is not unjustified — but the DEGREE of premium matters.
 
@@ -420,9 +420,9 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | Y10 | 2,944 | 1,135 |
 | **PV of 10-yr CFs** | | **11,889** |
 | **Terminal Value** | 2,944 × (1.04)/(0.10-0.04) = 51,027 | **19,671** |
-| **Enterprise Value** | | **31,568** |
+| **Enterprise Value** | | **31,560** |
 | Less: Net Debt | | -715 |
-| **Equity Value** | | **30,853** |
+| **Equity Value** | | **30,845** |
 | **Intrinsic Value Per Share** | | **₹1,110** |
 | **Margin of Safety at ₹1,933** | | **-74% (overvalued)** |
 
@@ -446,10 +446,10 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | Y10 | 4,583 | 1,767 |
 | **PV of 10-yr CFs** | | **15,575** |
 | **Terminal Value** | 4,583 × 1.05 / (0.10-0.05) = 96,243 | **37,108** |
-| **Enterprise Value** | | **52,695** |
+| **Enterprise Value** | | **52,683** |
 | Less: Net Debt | | -715 |
-| **Equity Value** | | **51,980** |
-| **Intrinsic Value Per Share** | | **₹1,870** |
+| **Equity Value** | | **51,968** |
+| **Intrinsic Value Per Share** | | **₹1,869** |
 | **Margin of Safety at ₹1,933** | | **-3% (roughly fair)** |
 
 #### Scenario 3: Optimistic
@@ -472,10 +472,10 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | Y10 | 6,979 | 2,690 |
 | **PV of 10-yr CFs** | | **20,809** |
 | **Terminal Value** | 6,979 × 1.05 / (0.10-0.05) = 146,559 | **56,498** |
-| **Enterprise Value** | | **77,318** |
+| **Enterprise Value** | | **77,307** |
 | Less: Net Debt | | -715 |
-| **Equity Value** | | **76,603** |
-| **Intrinsic Value Per Share** | | **₹2,756** |
+| **Equity Value** | | **76,592** |
+| **Intrinsic Value Per Share** | | **₹2,755** |
 | **Margin of Safety at ₹1,933** | | **+30% (margin of safety)** |
 
 ### Summary Table
@@ -483,8 +483,8 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | Scenario | Intrinsic Value Per Share | Margin of Safety at ₹1,933 | Upside/(Downside) |
 |---|---|---|---|
 | **Conservative** | **₹1,110** | **-74%** | **Overvalued by 43%** |
-| **Base** | **₹1,870** | **-3%** | **Roughly Fair** |
-| **Optimistic** | **₹2,756** | **+30%** | **43% Upside** |
+| **Base** | **₹1,869** | **-3%** | **Roughly Fair** |
+| **Optimistic** | **₹2,755** | **+30%** | **43% Upside** |
 
 **The DCF tells us:** At ₹1,933, the stock is pricing in the Base-to-Optimistic scenario. There is NO margin of safety at the current price unless the company delivers growth ABOVE its historical averages. This is the price you'd pay if everything goes right.
 
@@ -585,14 +585,14 @@ The MOST PROBABLE downside floor is around ₹1,100-1,250 (Conservative DCF valu
 
 | Upside Scenario | Valuation Basis | Implied Price | Upside from ₹1,933 |
 |---|---|---|---|
-| Base Case DCF | ₹1,870 intrinsic value | ₹1,870 | -3% |
-| Bull Case DCF | ₹2,756 intrinsic value | ₹2,756 | +43% |
+| Base Case DCF | ₹1,869 intrinsic value | ₹1,869 | -3% |
+| Bull Case DCF | ₹2,755 intrinsic value | ₹2,755 | +43% |
 | Scaling Play (5Y, 20% EPS growth, 35x PE) | EPS ~₹102 × 35x | ₹3,570 | +85% |
 | Re-rating + Growth (market recognises dominant franchise) | EPS ~₹80 × 45x | ₹3,600 | +86% |
 
 **Part 3: Asymmetry Ratio**
 
-Base Upside: ~43% (to Bull DCF ₹2,756)
+Base Upside: ~43% (to Bull DCF ₹2,755)
 Probable Downside: ~36% (to ₹1,234)
 
 **Asymmetry Ratio = 43% / 36% = ~1.2:1**
@@ -617,7 +617,7 @@ Probable Downside: ~36% (to ₹1,234)
 
 **Part 5: Fat Pitch Verdict**
 
-> "At ₹1,933, the realistic downside is approximately 36% to ~₹1,234 (Tails scenario). The realistic base-case upside is approximately 43% to ₹2,756 over 3-5 years (Heads scenario). This gives an asymmetry ratio of 1.2:1. The stock is NOT a fat pitch at the current price. The risk/reward is roughly balanced — you're not being adequately compensated for the downside risk."
+> "At ₹1,933, the realistic downside is approximately 36% to ~₹1,234 (Tails scenario). The realistic base-case upside is approximately 43% to ₹2,755 over 3-5 years (Heads scenario). This gives an asymmetry ratio of 1.2:1. The stock is NOT a fat pitch at the current price. The risk/reward is roughly balanced — you're not being adequately compensated for the downside risk."
 
 **Mispricing Assessment:**
 
@@ -676,9 +676,9 @@ Buffett: *"When you combine ignorance and leverage, you get some pretty interest
 | Year | Projected BVPS |
 |---|---|
 | Current | ₹166 |
-| Year 5 | ₹166 × (1.158)^5 = ₹349 |
-| Year 7 | ₹166 × (1.158)^7 = ₹468 |
-| Year 10 | ₹166 × (1.158)^10 = ₹725 |
+| Year 5 | ₹166 × (1.158)^5 = ₹346 |
+| Year 7 | ₹166 × (1.158)^7 = ₹464 |
+| Year 10 | ₹166 × (1.158)^10 = ₹720 |
 
 **Expected Annual Return (CAGR) at CMP ₹1,933 (Entry P/B: 11.6x)**
 
@@ -809,7 +809,7 @@ Buffett: *"No matter how great the talent or efforts, some things just take time
 | **Moat Durability** | **7/10** | Distribution network + brand + scale. Widening as unorganised sector shrinks. But commodity-adjacent margins limit moat depth. |
 | **Financial Health** | **9/10** | Fortress balance sheet. D/E 0.16x. Negative cash conversion cycle. Interest coverage 12.6x. No stress whatsoever. |
 | **Management Quality** | **8/10** | Excellent capital allocation. Organic growth focus. Clean governance. Minor concern on declining promoter stake. |
-| **Return on Capital** | **8/10** | ROCE 20-32% range over decade. ROE 19-25%. Returns well above cost of capital. Quality DuPont — driven by turnover, not leverage. |
+| **Return on Capital** | **8/10** | ROCE 20-32% range over decade. ROE 15-25%. Returns well above cost of capital. Quality DuPont — driven by turnover, not leverage. |
 | **Scalability** | **6/10** | Moderate scaler. Revenue needs proportional steel input. But capital scalability improving as CapEx cycle ends. |
 | **Valuation** | **3/10** | Expensive. 47x PE, 11.6x P/B. No margin of safety. Priced for base-to-optimistic execution. |
 | **Margin of Safety** | **2/10** | Essentially zero at current price. DCF base case = current price. No cushion for disappointment. |
