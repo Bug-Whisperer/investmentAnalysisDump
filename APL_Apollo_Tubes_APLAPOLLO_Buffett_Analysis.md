@@ -482,7 +482,7 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 
 | Scenario | Intrinsic Value Per Share | Margin of Safety at ₹1,933 | Upside/(Downside) |
 |---|---|---|---|
-| **Conservative** | **₹1,110** | **-74%** | **Overvalued by 74%** |
+| **Conservative** | **₹1,110** | **-74%** | **Overvalued by 43%** |
 | **Base** | **₹1,870** | **-3%** | **Roughly Fair** |
 | **Optimistic** | **₹2,756** | **+30%** | **43% Upside** |
 
