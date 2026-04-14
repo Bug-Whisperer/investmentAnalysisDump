@@ -434,7 +434,7 @@ The **store addition pace** has accelerated dramatically — 50 stores in FY2025
 | P/Sales Ratio | ~5.2 | ~4.4 | ~5.9 | ~5.5 | ~3.9 | ~5.0 | ~4.2 | ~3.8 |
 | **EV/EBITDA** | ~57 | ~44 | ~66 | ~57 | ~39 | ~53 | ~47 | ~42 |
 | P/FCF | Negative | Negative | ~800+ | Negative | ~470 | ~1,000+ | Negative | Negative |
-| P/Owner Earnings | ~92 | ~67 | ~105 | ~95 | ~58 | ~85 | ~78 | ~102 |
+| P/Owner Earnings | ~121 | ~90 | ~141 | ~123 | ~74 | ~110 | ~102 | ~102 |
 | Earnings Yield | 0.9% | 1.2% | 0.8% | 0.9% | 1.4% | 1.0% | 1.1% | **1.1%** |
 | PEG Ratio (on 5Y growth) | — | — | — | — | — | — | ~5.5 | ~17+ |
 
