@@ -56,9 +56,9 @@ AGL is deploying capital at 48% ROIC and 53% ROCE, which places it in the highes
 | **Net Profit** | 16 | 22 | 31 | 35 | 0 | **-17** | -10 | 7 | -9 | 12 | 29 | **63** | 51 |
 | **EPS (₹)** | 11.22 | 15.84 | 21.67 | **24.19** | 0.19 | **-11.83** | -7.07 | 4.55 | -6.62 | 8.14 | 19.56 | **41.84** | 34.05 |
 | Shares (Cr) | ~1.4 | ~1.4 | ~1.4 | ~1.4 | ~1.4 | ~1.4 | ~1.4 | ~1.4 | ~1.4 | ~1.5 | ~1.5 | ~1.5 | ~1.5 |
+| Dividend Payout % | 11% | 13% | 17% | 19% | **870%** | -4% | 0% | 0% | 0% | 12% | 10% | 10% | — |
 
 > **Note on share count:** Equity Capital of ₹12 Cr at Face Value ₹10 implies 1.2 Cr shares from the balance sheet. However, dividing consolidated Net Profit by reported EPS yields ~1.4 Cr shares for FY14–FY19. This discrepancy arises because Screener's consolidated Net Profit includes minority interest, while EPS is calculated on profit attributable to parent shareholders only (on a larger diluted share base). The ~1.4 Cr implied share count is the more accurate figure for per-share calculations and is used throughout this analysis.
-| Dividend Payout % | 11% | 13% | 17% | 19% | **870%** | -4% | 0% | 0% | 0% | 12% | 10% | 10% | — |
 
 ### EBITDA Clarification (₹ Crores)
 
