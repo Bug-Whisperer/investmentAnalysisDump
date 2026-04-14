@@ -79,7 +79,7 @@ Founder **Radhakishan Damani** — a legendary value investor himself — design
 
 **Operating margins** have been remarkably stable in the 7-9% band — this is by design. DMart deliberately operates on thin margins to maintain its price leadership. The **best operating margin was FY2018 at 9.0%** and the **worst was FY2021 at 7.2%** (COVID disruption). Recent quarters show margins stabilising around 7.5-8.5%.
 
-**Earnings growth is decelerating sharply.** Net profit grew at 29% CAGR over 10 years but has slowed to just 5-7% in the last two years. EPS growth of ~6-7% in FY2024-2025 is a far cry from the 30-60% growth investors enjoyed historically.
+**Earnings growth is decelerating sharply.** Net profit grew at ~27% CAGR over 10 years (per Screener) but has slowed to just 5-7% in the last two years. EPS growth of ~6-7% in FY2024-2025 is a far cry from the 30-60% growth investors enjoyed historically.
 
 The **tax rate drop from ~35% to ~25%** post-2019 corporate tax cuts provided a one-time earnings boost. That tailwind is now fully reflected.
 
@@ -158,7 +158,7 @@ One area to watch: borrowings have risen from ₹592 Cr in FY2024 to ₹1,609 Cr
 **DMart is FCF-negative or barely FCF-positive in most years** — and that is by design. This is a business in aggressive expansion mode, investing every rupee of operating cash flow (and more) into building new stores. The CapEx is almost entirely **growth CapEx** (new store construction and land acquisition), not maintenance CapEx.
 
 The key metrics:
-- **Operating Cash Flow** has grown strongly from ₹433 Cr (FY2016) to ₹2,463 Cr (FY2025) — a 6x increase reflecting the earnings power of the expanding store base.
+- **Operating Cash Flow** has grown strongly from ₹433 Cr (FY2016) to ₹2,463 Cr (FY2025) — a ~5.7x increase reflecting the earnings power of the expanding store base.
 - **CapEx** has accelerated to ~₹3,100 Cr in FY2025 as the company ramps up store additions (50 stores added in FY2025 alone, with a target of 60-70 stores annually).
 - **FCF-to-Net Income conversion** is weak because growth CapEx far exceeds depreciation. This is not a concern for a growing retailer — it's actually a sign of reinvestment discipline.
 
@@ -232,7 +232,7 @@ DMart's return profile tells an important story:
 
 1. **ROCE has declined from 24-26% (FY2016-2019) to 18% (FY2025).** This is partly because the massive capital invested in new stores takes 3-5 years to mature to full profitability, temporarily depressing returns on total capital. Pre-IPO, with fewer new stores in the maturation pipeline, returns were higher.
 
-2. **ROE of 13.4%** is decent but not exceptional. For a company trading at 10.7x book value, investors are paying a very steep premium for this level of return. To justify the current P/B, ROE would need to be 25%+ consistently.
+2. **ROE of 13.4%** is decent but not exceptional. For a company trading at 10.9x book value, investors are paying a very steep premium for this level of return. To justify the current P/B, ROE would need to be 25%+ consistently.
 
 3. **ROIC of ~13%** exceeds India's ~10-11% cost of capital, so the business IS creating value, but the spread is narrowing. In the peak years (FY2018-2019), ROIC was 18-19% — nearly double the cost of capital.
 
@@ -334,8 +334,8 @@ Capital intensity is rising slightly as DMart builds more stores in newer geogra
 **Total Addressable Market:**
 - India's total food & grocery retail market: ~₹50-55 lakh Crore (~$600B+)
 - Organised retail penetration: still below **12-15%** of total retail
-- DMart's FY2025 revenue of ₹59,358 Cr represents roughly **0.1-0.12%** of total grocery retail
-- The runway is essentially **500x+** the current revenue — enormous
+- DMart's FY2025 revenue of ₹59,358 Cr represents roughly **~1.2%** of total grocery retail
+- The runway is approximately **84x** the current revenue — enormous
 
 **S-Curve Position: Growth Phase (Post-Inflection, Pre-Saturation)**
 
@@ -348,7 +348,7 @@ DMart has proven its model across 12 states with 463 stores. Unit economics are 
 | Revenue scalability | 6 | Each store requires full CapEx; not zero-marginal-cost. Cluster strategy helps. |
 | Profit scalability | 5 | Incremental margins declining to 4.5% — scaling friction evident |
 | Capital scalability | 5 | CapEx-heavy model; requires ~₹55-65 Cr per new store |
-| Scaling runway | **9** | India's organised retail penetration at 12-15%; 500x+ runway |
+| Scaling runway | **9** | India's organised retail penetration at 12-15%; ~84x runway |
 | S-Curve position | 7 | Growth phase; model proven; accelerating expansion |
 | **Overall Scalability Score** | **6.5/10** | |
 
@@ -430,9 +430,9 @@ The **store addition pace** has accelerated dramatically — 50 stores in FY2025
 |---|---|---|---|---|---|---|---|---|
 | **PE Ratio** | ~115 | ~85 | ~130 | ~115 | ~70 | ~100 | ~92 | **~87** |
 | Forward PE (FY27E) | — | — | — | — | — | — | — | ~70-75 |
-| **P/B Ratio** | ~18 | ~10 | ~11 | ~12.5 | ~10.5 | ~13.5 | ~11.5 | **~10.7** |
-| P/Sales Ratio | ~8.5 | ~7.0 | ~9.0 | ~8.5 | ~6.0 | ~7.7 | ~6.5 | ~3.8 |
-| **EV/EBITDA** | ~90 | ~65 | ~100 | ~90 | ~58 | ~80 | ~70 | ~50 |
+| **P/B Ratio** | ~18 | ~10 | ~11 | ~12.5 | ~10.5 | ~13.5 | ~11.5 | **~10.9** |
+| P/Sales Ratio | ~5.2 | ~4.4 | ~5.9 | ~5.5 | ~3.9 | ~5.0 | ~4.2 | ~3.8 |
+| **EV/EBITDA** | ~57 | ~44 | ~66 | ~57 | ~39 | ~53 | ~47 | ~42 |
 | P/FCF | Negative | Negative | ~800+ | Negative | ~470 | ~1,000+ | Negative | Negative |
 | P/Owner Earnings | ~92 | ~67 | ~105 | ~95 | ~58 | ~85 | ~78 | ~102 |
 | Earnings Yield | 0.9% | 1.2% | 0.8% | 0.9% | 1.4% | 1.0% | 1.1% | **1.1%** |
@@ -445,7 +445,7 @@ DMart has **always** traded at premium valuations since its IPO. The stock has n
 The **lowest PE was ~58-60x (during late 2022 when earnings were at a cyclical peak)**. The highest was ~130x during FY2021 when earnings were depressed by COVID.
 
 At current valuations:
-- **P/B of 10.7x** is extremely expensive. Even Buffett's best banks rarely traded above 4x book.
+- **P/B of 10.9x** is extremely expensive. Even Buffett's best banks rarely traded above 4x book.
 - **PE of 87x** implies the market expects decades of high earnings growth.
 - **PEG ratio of 17+** (on current ~5% earnings growth) is absurdly expensive. Even at the historical 25% CAGR, PEG would be 3.5x — still not cheap.
 - **Earnings yield of 1.1%** is below India's risk-free rate (~7%). You are paying a massive premium for growth.
@@ -472,21 +472,21 @@ At current prices, you are paying for perfection — and getting a business that
 
 | Component | Conservative | Base | Optimistic |
 |---|---|---|---|
-| PV of 10-Year Cash Flows (₹ Cr) | 21,100 | 26,500 | 33,400 |
-| Terminal Value (₹ Cr) | 56,800 | 86,700 | 138,200 |
-| PV of Terminal Value (₹ Cr) | 19,900 | 30,400 | 48,500 |
-| Total Enterprise Value (₹ Cr) | 41,000 | 56,900 | 81,900 |
+| PV of 10-Year Cash Flows (₹ Cr) | 25,100 | 30,200 | 36,300 |
+| Terminal Value (₹ Cr) | 1,21,800 | 1,82,100 | 2,71,800 |
+| PV of Terminal Value (₹ Cr) | 42,900 | 64,100 | 95,700 |
+| Total Enterprise Value (₹ Cr) | 68,000 | 94,300 | 1,32,000 |
 | Less: Net Debt (₹ Cr) | (820) | (820) | (820) |
-| **Equity Intrinsic Value (₹ Cr)** | **40,180** | **56,080** | **81,080** |
+| **Equity Intrinsic Value (₹ Cr)** | **67,180** | **93,480** | **1,31,180** |
 | Shares Outstanding (Cr) | 65.1 | 65.1 | 65.1 |
-| **Intrinsic Value Per Share (₹)** | **617** | **861** | **1,246** |
-| **Margin of Safety at ₹3,844** | **-84%** (overvalued) | **-78%** (overvalued) | **-68%** (overvalued) |
+| **Intrinsic Value Per Share (₹)** | **1,032** | **1,436** | **2,015** |
+| **Margin of Safety at ₹3,844** | **-73%** (overvalued) | **-63%** (overvalued) | **-48%** (overvalued) |
 
 ### DCF Verdict
 
 **Every single scenario shows the stock as massively overvalued on a traditional DCF basis.**
 
-Even in the Optimistic scenario — 20% Owner Earnings growth for 5 years, 16% for the next 5 years, 6% terminal growth — the intrinsic value is ₹1,246 per share, which is **68% below the current price.**
+Even in the Optimistic scenario — 20% Owner Earnings growth for 5 years, 16% for the next 5 years, 6% terminal growth — the intrinsic value is ₹2,015 per share, which is **48% below the current price.**
 
 This confirms what every value investor already knows: **DMart trades at a "quality premium" that makes it nearly impossible to justify through any conventional DCF framework.** The market is pricing in either (a) decades of sustained 18-20%+ growth, or (b) a terminal PE multiple that far exceeds what a DCF assumes.
 
@@ -506,8 +506,8 @@ But even Buffett would not call ₹3,844 a "fair price" for a business with ₹3
 | TTM Normalised EPS | ₹44 |
 | Current PE (on Normalised EPS) | 87x |
 | Shares Outstanding (Diluted) | 65.1 Cr |
-| Historical 5Y EPS CAGR | ~18% |
-| Historical 10Y EPS CAGR | ~29% |
+| Historical 5Y EPS CAGR | ~16% |
+| Historical 10Y EPS CAGR | ~23% |
 | Analyst Consensus 3Y EPS CAGR | ~17-20% |
 
 ### Step 2: Terminal PE Scenarios
@@ -558,22 +558,22 @@ But even Buffett would not call ₹3,844 a "fair price" for a business with ₹3
 | Benchmark | EPS CAGR |
 |---|---|
 | India nominal GDP growth | 10-12% |
-| DMart historical 5Y EPS CAGR | ~18% |
-| DMart historical 10Y EPS CAGR | ~29% |
+| DMart historical 5Y EPS CAGR | ~16% |
+| DMart historical 10Y EPS CAGR | ~23% |
 | Analyst consensus (3Y forward) | ~17-20% |
 | TTM EPS growth | ~5% |
 
 **Traffic Light Assessment:**
 
-- **If terminal PE reverts to 25-35x** (realistic for a maturing retailer): You need 20-41% EPS CAGR for a decade to earn even a 10% return. This is **1.1-2.3x the historical 5Y CAGR** and **far above current TTM growth of 5%.** 🔴 **RED — Crazy price.**
+- **If terminal PE reverts to 25-35x** (realistic for a maturing retailer): You need 21-25% EPS CAGR for a decade (or 32-41% over just 5 years) to earn even a 10% return. This is **1.3-1.6x the historical 5Y EPS CAGR of ~16%** and **far above current TTM growth of 5%.** 🔴 **RED — Crazy price.**
 
-- **If terminal PE stays at 50x** (still-premium quality compounder): You need 16.3% EPS CAGR for a decade to earn 10%. This is roughly equal to the 5Y historical CAGR. 🟡 **YELLOW — Fair but optimistic.** Requires the company to accelerate EPS growth significantly from current levels.
+- **If terminal PE stays at 50x** (still-premium quality compounder): You need 16.3% EPS CAGR for a decade to earn 10%. This is roughly equal to the 5Y historical CAGR of ~16%. 🟡 **YELLOW — Fair but optimistic.** Requires the company to sustain its recent growth rate for a full decade.
 
 - **If terminal PE stays at 85x** (current multiple sustained forever): Returns roughly equal EPS growth plus a tiny ~0.3% annual boost from the slight PE compression (entry at ~87x, exit at 85x). At 17-20% EPS growth, you get 17-20% returns. But this assumes the market NEVER re-rates DMart cheaper — a heroic assumption. 🟡 **YELLOW — Requires perpetual premium pricing.**
 
 ### Step 5: The Verdict
 
-> **At the current price of ₹3,844, to earn a 15% annualised return over 10 years assuming the market values the business at 35x PE at exit, the company needs to grow EPS at 26.0% CAGR. The company has historically grown EPS at 18% CAGR over 5 years and is currently growing at just 5% TTM. This implies the market is pricing in growth acceleration that has not yet materialised.** 🟠 **ORANGE — Expensive.**
+> **At the current price of ₹3,844, to earn a 15% annualised return over 10 years assuming the market values the business at 35x PE at exit, the company needs to grow EPS at 26.0% CAGR. The company has historically grown EPS at ~16% CAGR over 5 years and is currently growing at just 5% TTM. This implies the market is pricing in significant growth acceleration that has not yet materialised.** 🟠 **ORANGE — Expensive.**
 
 > *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* — Warren Buffett
 
@@ -587,7 +587,7 @@ This is emphatically NOT a "napkin math" no-brainer at current prices.
 |---|---|---|---|
 | Tangible Book Value | BVPS of ₹329 × 1.0x | ₹329 | **-91%** |
 | Trough Earnings (FY2021 EPS ₹17 × 50x) | | ₹850 | -78% |
-| Conservative DCF | ₹617 (from Section 12) | ₹617 | -84% |
+| Conservative DCF | ₹1,032 (from Section 12) | ₹1,032 | -73% |
 | Historical Lowest PE (~58x) × Normalised EPS | 58 × ₹44 | ₹2,552 | **-34%** |
 | Bear case (Goldman Sachs target) | | ₹3,425 | -11% |
 
@@ -617,20 +617,22 @@ This is **negative asymmetry** — the downside exceeds the upside. The risk-rew
 
 ### Part A: DuPont Decomposition
 
-| Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE (Calculated) | Reported ROE |
-|---|---|---|---|---|---|
-| FY2020 | 5.2% | 2.06x | 1.09x | ~11.7% | ~16% |
-| FY2021 | 4.6% | 1.77x | 1.12x | ~9.1% | ~9% |
-| FY2022 | 4.8% | 2.00x | 1.13x | ~10.9% | ~12% |
-| FY2023 | 5.6% | 2.37x | 1.13x | ~15.0% | ~16% |
-| FY2024 | 5.0% | 2.40x | 1.13x | ~13.6% | ~15% |
-| FY2025 | 4.6% | 2.44x | 1.14x | ~12.7% | ~13.4% |
+*Note: This decomposition uses average total assets and average shareholders' equity (current year + prior year / 2) to ensure the three-factor product reconciles to ROE computed as Net Income / Average Equity, consistent with Screener's reported ROE.*
 
-**Quality Assessment:** DMart's ROE is driven by **moderate net margins (4.6-5.6%) and high asset turnover (2.0-2.4x) with very low leverage (1.09-1.14x).** This is the healthiest possible ROE composition — high capital efficiency with almost no financial leverage. The equity multiplier has barely budged from 1.1x, confirming the debt-free balance sheet.
+| Year | Net Profit Margin | Asset Turnover (Avg) | Equity Multiplier (Avg) | ROE (DuPont) | Reported ROE |
+|---|---|---|---|---|---|
+| FY2020 | 5.2% | 2.61x | 1.14x | ~15.6% | ~16% |
+| FY2021 | 4.6% | 1.88x | 1.11x | ~9.4% | ~9% |
+| FY2022 | 4.8% | 2.13x | 1.13x | ~11.5% | ~12% |
+| FY2023 | 5.6% | 2.55x | 1.13x | ~16.0% | ~16% |
+| FY2024 | 5.0% | 2.59x | 1.13x | ~14.6% | ~15% |
+| FY2025 | 4.6% | 2.61x | 1.13x | ~13.5% | ~13.4% |
+
+**Quality Assessment:** DMart's ROE is driven by **moderate net margins (4.6-5.6%) and high asset turnover (1.9-2.6x on average assets) with very low leverage (1.11-1.14x).** This is the healthiest possible ROE composition — high capital efficiency with almost no financial leverage. The equity multiplier has barely budged from ~1.13x, confirming the debt-free balance sheet.
 
 The declining trend in ROE is driven by **margin compression** (from 5.6% to 4.6%) and not by deteriorating capital efficiency. This is a quality signal — the business isn't adding leverage to mask declining fundamentals.
 
-**ROCE (18%) > ROE (13.4%):** This is healthy — the pre-leverage returns are even better than shareholder returns, confirming that DMart's economics are genuine and not leverage-amplified.
+**ROCE (18%) > ROE (13.4%):** This is the expected pattern for a virtually unleveraged company — the pre-interest returns (ROCE) are higher than post-tax shareholder returns (ROE), confirming that DMart's economics are genuine and not leverage-amplified.
 
 ### Part B: P/B Scenario Analysis
 
@@ -659,17 +661,17 @@ The declining trend in ROE is driven by **margin compression** (from 5.6% to 4.6
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
 | P/B stays at 10.9x | Premium sustained | 14.0% | 14.0% | 14.0% |
-| P/B compresses to 8.0x | Mild de-rating | 8.0% | 9.8% | 10.8% |
-| P/B compresses to 6.0x | Significant de-rating | 1.2% | 5.1% | 7.5% |
+| P/B compresses to 8.0x | Mild de-rating | 7.1% | 9.0% | 10.5% |
+| P/B compresses to 6.0x | Significant de-rating | 1.1% | 4.7% | 7.4% |
 | P/B compresses to 4.0x | Reverts to quality-bank-level | -6.7% | -1.2% | 3.1% |
 | P/B compresses to 3.0x | Market sours on growth | -12.0% | -5.2% | 0.2% |
-| P/B compresses to 1.0x | Valued at book (extreme bear) | **-30.2%** | **-18.4%** | **-10.2%** |
+| P/B compresses to 1.0x | Valued at book (extreme bear) | **-29.3%** | **-19.0%** | **-10.2%** |
 
 ### Key Insight
 
-> **At the current entry P/B of 10.9x with a sustainable ROE of 14% and 100% retention, book value compounds at 14% annually. If the P/B multiple remains at 10.9x, returns equal the 14% BV compounding rate. However, the stock can only tolerate P/B compression from 10.9x down to approximately 8x before the 10-year return drops below the 10% hurdle rate.**
+> **At the current entry P/B of 10.9x with a sustainable ROE of 14% and 100% retention, book value compounds at 14% annually. If the P/B multiple remains at 10.9x, returns equal the 14% BV compounding rate. However, the stock can only tolerate P/B compression from 10.9x down to approximately 7.5-8.0x before the 10-year return drops below the 10% hurdle rate.**
 
-**Traffic Light Verdict:** 🟡 **YELLOW — Risky entry.** 10-year returns exceed the hurdle rate ONLY if P/B stays above 8x. A de-rating to 6x (which is still a premium multiple by any standard) would produce returns of just 7.5% over 10 years — below the risk-free rate in India. **You are dependent on sentiment sustaining.**
+**Traffic Light Verdict:** 🟡 **YELLOW — Risky entry.** 10-year returns exceed the hurdle rate ONLY if P/B stays above ~7.5x. A de-rating to 6x (which is still a premium multiple by any standard) would produce returns of just 7.4% over 10 years — below the risk-free rate in India. **You are dependent on sentiment sustaining.**
 
 ---
 
@@ -687,7 +689,7 @@ Using FY2025 BVPS of ₹329:
 | **Fully Valued / Trim** | 8.5 - 11.0x Book | ₹2,797 - ₹3,619 | 64-82x | Above fair value; limited margin of safety |
 | **Overvalued / Sell** | > 11.0x Book | > ₹3,619 | > 82x | Priced for perfection; any disappointment = downside |
 
-### Current Zone: ₹3,844 = **10.9x Book = OVERVALUED / SELL ZONE**
+### Current Zone: ₹3,844 = **11.7x Book (at FY2025 BVPS ₹329) = OVERVALUED / SELL ZONE**
 
 The current price is at the bottom of the overvalued zone. A small correction would push it into "Fully Valued / Trim" territory, but it remains far above any zone a Buffett-style value investor would consider attractive.
 
@@ -718,7 +720,7 @@ At current prices, doing nothing (if you don't own it) is the correct Buffett mo
 | **Trustworthy management** | Damani's 74.65% ownership is extraordinary. Track record is exceptional. New CEO is a risk to monitor. | ✅ Pass |
 | **Resistant to disruption** | Quick commerce is a genuine disruptive threat in metros. DMart Ready response is slow. Non-metro business is insulated. | ⚠️ Partial Fail |
 | **Sustainable economics for 10+ years** | India's organised retail penetration at 12-15% provides enormous runway. The core model should endure, though growth rates will moderate. | ✅ Pass |
-| **Price below intrinsic value** | At 87x PE, 10.9x P/B, and negative FCF, the stock is massively overvalued by any conventional measure. Even optimistic DCF gives intrinsic value of ₹1,246. | ❌ **Fail** |
+| **Price below intrinsic value** | At 87x PE, 10.9x P/B, and negative FCF, the stock is overvalued by any conventional measure. Even optimistic DCF gives intrinsic value of ₹2,015. | ❌ **Fail** |
 
 ### Verdict
 
@@ -768,7 +770,7 @@ If DMart ever traded at 4-6x book (₹1,300-2,000), which would require either a
 | **Financial Health** | **10** | Virtually debt-free. Interest coverage 53x. Balance sheet is a fortress. |
 | **Management Quality** | **9** | Damani's 74.65% ownership, exceptional track record, minimal dilution, zero ego-driven acquisitions. Transition risk is the only concern. |
 | **Valuation** | **2** | 87x PE, 10.9x P/B, 1.1% earnings yield. Massively overvalued by any Buffett framework. |
-| **Margin of Safety** | **1** | NEGATIVE margin of safety. Even optimistic DCF intrinsic value is 68% below current price. |
+| **Margin of Safety** | **1** | NEGATIVE margin of safety. Even optimistic DCF intrinsic value is 48% below current price. |
 | **Scalability** | **6.5** | Capital-heavy but enormous runway. India's organised retail at 12-15% penetration. |
 | **Overall Score** | **6.4/10** | Wonderful business at a terrible price. |
 
