@@ -4,7 +4,7 @@
 **Current Market Price (CMP):** ₹1,204
 **Market Capitalisation:** ~₹3,74,000 Crores
 **52-Week Range:** ₹1,032 – ₹1,418
-**PE Ratio (TTM):** ~14.2x | **P/B Ratio:** ~1.82x (consolidated) / ~2.09x (standalone) | **Book Value Per Share:** ₹662 (Consolidated) / ₹577 (Standalone)
+**PE Ratio (Normalised):** ~14.2x (on ~₹85 normalised EPS) | **PE (TTM Consolidated):** ~13.3x (on ₹90.58 EPS) | **P/B Ratio:** ~1.82x (consolidated) / ~2.09x (standalone) | **Book Value Per Share:** ₹662 (Consolidated) / ₹577 (Standalone)
 **Dividend Yield:** ~0.08%
 
 > **SECTOR DETECTION: BANK/NBFC MODE ACTIVATED**
@@ -46,12 +46,17 @@ The Citibank India consumer business acquisition (completed March 2023) added ~�
 | Other Income (Fee + Trading) | 14,189 | 16,342 | 13,577 | 17,268 | 18,349 | 25,230 | 28,543 |
 | Other Income as % of Total | 39% | 39% | 31% | 34% | 29% | 33% | 34% |
 | Total Income | 36,350 | 42,062 | 43,347 | 51,191 | 62,408 | 76,598 | 84,881 |
-| Operating Expenses | 28,020 | 35,976 | 32,621 | 31,216 | 30,641 | 40,036 | 46,395 |
-| Cost-to-Income Ratio | ~47% | ~52% | ~49% | ~43% | ~38% | ~39% | ~40% |
-| **Pre-Provision Operating Profit (PPOP)** | ~22,519 | ~25,086 | ~29,546 | ~37,243 | ~49,768 | ~61,793 | ~67,029 |
-| Provisions & Contingencies | 12,363 | 16,475 | 16,218 | 13,354 | 14,501 | 4,063 | 7,758 |
-| Provision as % of PPOP | 55% | **66%** | 55% | 36% | 29% | **7%** | 12% |
+| Expenses (OpEx + Provisions, consolidated) | 28,020 | 35,976 | 32,621 | 31,216 | 30,641 | 40,036 | 46,395 |
+| Depreciation & Amortisation | 737 | 806 | 976 | 1,046 | 13,146 | 1,385 | 1,763 |
 | Profit Before Tax | 7,592 | 5,280 | 9,750 | 18,929 | 18,621 | 35,178 | 36,722 |
+
+> **Note on Screener's consolidated bank P&L format:** The "Expenses" line from Screener **bundles operating expenses with provisions** into a single row. It is NOT pure operating expenditure. Therefore, Cost-to-Income Ratio and PPOP cannot be derived from this consolidated table directly. The standalone operating metrics below are sourced from Axis Bank's press releases and quarterly results:
+>
+> **Standalone Operating Metrics (from Axis Bank press releases):**
+> - **FY25:** NII ₹54,348 Cr | Fee Income ₹22,504 Cr | Operating Profit (PPOP) ₹42,105 Cr | Total Provisions ₹7,758 Cr | Cost-to-Assets 2.46% | Net Profit ₹26,373 Cr
+> - **FY24:** NII ₹49,894 Cr | Fee Income ₹20,257 Cr | Operating Profit ₹37,123 Cr | Total Provisions ₹4,063 Cr | Cost-to-Assets 2.55% | Net Profit ₹24,861 Cr
+> - **FY23 D&A anomaly:** The consolidated D&A of ₹13,146 Cr in FY23 includes exceptional items related to the Citibank India consumer business acquisition (completed March 2023).
+
 | Net Income (Consolidated) | 5,047 | **1,879** | 7,252 | 14,207 | 10,919 | 26,492 | **28,191** |
 | Net Income Growth YoY | — | -63% | 286% | 96% | -23% | 143% | 6% |
 | EPS (Diluted, ₹) | 19.59 | **6.57** | 23.49 | 45.99 | 35.16 | 85.49 | **90.58** |
@@ -63,9 +68,9 @@ The Citibank India consumer business acquisition (completed March 2023) added ~�
 
 **Trend Narrative:**
 
-The P&L tells a dramatic **turnaround story**. From FY17-FY20, Axis Bank was in the depths of an NPA crisis — legacy corporate loans from the pre-2015 era were being recognised, provisions were consuming 55-66% of operating profit, and the bank earned just ₹6.57 EPS in FY20 (the trough). 
+The P&L tells a dramatic **turnaround story**. From FY17-FY20, Axis Bank was in the depths of an NPA crisis — legacy corporate loans from the pre-2015 era were being recognised, provisions were consuming the bulk of operating profit, and the bank earned just ₹6.57 EPS in FY20 (the trough). 
 
-From FY22 onward, the cleanup was complete. NIM expanded from 3.46% to 4.1% at peak (FY24), cost-to-income ratio improved sharply from 52% to ~38-40%, and provision intensity collapsed from 66% to 7-12%. This meant operating profits flowed almost entirely to the bottom line — EPS surged from ₹6.57 (FY20) to ₹90.58 (FY25), a **14x increase in 5 years**.
+From FY22 onward, the cleanup was complete. NIM expanded from 3.46% to 4.1% at peak (FY24), standalone operating efficiency improved (cost-to-assets declined from ~2.55% in FY24 to 2.46% in FY25), and provisions normalised sharply — standalone provisions fell from over ₹16,000 Cr annually in FY19-FY21 to ₹4,063 Cr in FY24. This meant operating profits flowed almost entirely to the bottom line — EPS surged from ₹6.57 (FY20) to ₹90.58 (FY25), a **14x increase in 5 years**.
 
 The FY23 dip in net income was due to the Citi acquisition's exceptional charges. Stripping that out, the underlying trajectory was unbroken.
 
@@ -111,7 +116,7 @@ The NPA cleanup since FY19 has been remarkable: GNPA from 5.26% → 1.28%, NNPA 
 
 **However, note the recent trajectory:** GNPA ticked up from 1.28% (Mar 2025) to 1.57% (Jun 2025) before settling at 1.40% (Dec 2025). NNPA moved from 0.33% to 0.42%. Slippages have been rising, particularly from retail (credit cards, personal loans). This is not alarming yet, but warrants monitoring.
 
-PCR has declined from 120% (FY21 peak including COVID provisions) to 70% — this means the bank has been running down its provisioning buffer. While 70% is adequate, the downward trend is worth watching.
+PCR has declined from 120% (FY21 peak including COVID provisions) to 75% at FY25 year-end and further to 70% as of Q3FY26 (Dec 2025) — this means the bank has been running down its provisioning buffer. While 70% is adequate, the downward trend is worth watching.
 
 **3. Funding Stability — GOOD ✅ (with some softening)**
 CASA ratio at 41% MEB is among the best for large private banks, though it has declined from 45% peak in FY22. This is an industry-wide trend as term deposit rates rose and savings accounts became less attractive. Deposits are granular and retail-heavy, making them sticky.
@@ -191,21 +196,22 @@ This is excellent. Axis has transitioned from being a bank that needed to raise 
 | **ROE** | 8% | **2%** | 8% | 13% | 9% | **18%** | 16% |
 | **ROA** | 0.72% | **0.17%** | 0.70% | 1.28% | 0.80% | **1.74%** | 1.69% |
 | NIM | 3.43% | 3.51% | 3.53% | 3.46% | ~3.9% | **~4.1%** | 3.98% |
-| Cost-to-Income Ratio | ~47% | **~52%** | ~49% | ~43% | ~38% | ~39% | ~40% |
 | Credit Cost (% of Avg Advances) | ~2.0% | **~2.4%** | ~2.2% | ~1.7% | ~1.4% | **~0.37%** | ~0.72% |
 | Leverage (Assets/Equity) | 12.0x | 10.7x | 9.7x | 10.1x | 10.4x | 9.7x | 8.9x |
 
 ### ROE = ROA × Leverage Bridge
 
-| Year | ROA | × | Leverage | = | ROE | Quality Assessment |
+> **Note:** ROA figures are standalone (from Axis Bank's reported results), while Leverage uses consolidated Assets/Equity. The product is an approximation; the ~1 percentage point gap in some years (e.g., FY21: 0.70% × 9.7x = 6.8% vs reported ROE 8%) reflects the contribution of subsidiaries to consolidated ROE and the difference between period-end and average balance sheet figures.
+
+| Year | ROA (Standalone) | × | Leverage (Consol) | ≈ | ROE (Reported) | Quality Assessment |
 |---|---|---|---|---|---|---|
-| FY19 | 0.72% | × | 12.0x | = | 8% | Low ROA, high leverage = Poor quality |
-| FY20 | **0.17%** | × | 10.7x | = | **2%** | Crisis — provisions destroyed earnings |
-| FY21 | 0.70% | × | 9.7x | = | 8% | Recovery beginning |
-| FY22 | 1.28% | × | 10.1x | = | 13% | Good — improving ROA |
-| FY23 | 0.80% | × | 10.4x | = | 9% | Citi acquisition distorted |
-| FY24 | **1.74%** | × | 9.7x | = | **18%** | **Excellent — high ROA, moderate leverage** |
-| FY25 | 1.69% | × | 8.9x | = | 16% | Very good — quality ROE |
+| FY19 | 0.72% | × | 12.0x | ≈ | 8% | Low ROA, high leverage = Poor quality |
+| FY20 | **0.17%** | × | 10.7x | ≈ | **2%** | Crisis — provisions destroyed earnings |
+| FY21 | 0.70% | × | 9.7x | ≈ | 8% | Recovery beginning |
+| FY22 | 1.28% | × | 10.1x | ≈ | 13% | Good — improving ROA |
+| FY23 | 0.80% | × | 10.4x | ≈ | 9% | Citi acquisition distorted |
+| FY24 | **1.74%** | × | 9.7x | ≈ | **18%** | **Excellent — high ROA, moderate leverage** |
+| FY25 | 1.69% | × | 8.9x | ≈ | 16% | Very good — quality ROE |
 
 **Critical Distinction:** The FY25 ROE of 16% is driven by a strong ROA of 1.69% with moderate leverage of 8.9x. This is **quality ROE**. The bank could lever up more (peer average is 10-12x) but is choosing capital conservatism — this is Buffett-worthy discipline.
 
@@ -273,15 +279,15 @@ Banking in India is a relatively stable business model. People will need to borr
 
 **Profit Scalability — Incremental Margin Analysis:**
 
-| Year | Revenue (Consol, ₹ Cr) | Rev Growth | Operating Profit | Op Profit Growth | Net Profit | Net Profit Growth | Incremental Op Margin |
-|---|---|---|---|---|---|---|---|
-| FY21 | 64,397 | — | — | — | 7,252 | — | — |
-| FY22 | 68,846 | 7% | ~37,243 | — | 14,207 | 96% | — |
-| FY23 | 87,448 | 27% | ~49,768 | 34% | 10,919 | -23% | ~67% |
-| FY24 | 112,759 | 29% | ~61,793 | 24% | 26,492 | 143% | ~47% |
-| FY25 | 127,374 | 13% | ~67,029 | 8% | 28,191 | 6% | ~36% |
+| Year | Interest Income (Consol, ₹ Cr) | Growth | Total Operating Income (NII + Other, ₹ Cr) | Growth | Net Profit | Net Profit Growth |
+|---|---|---|---|---|---|---|
+| FY21 | 64,397 | — | 43,347 | — | 7,252 | — |
+| FY22 | 68,846 | 7% | 51,191 | 18% | 14,207 | 96% |
+| FY23 | 87,448 | 27% | 62,408 | 22% | 10,919 | -23% |
+| FY24 | 112,759 | 29% | 76,598 | 23% | 26,492 | 143% |
+| FY25 | 127,374 | 13% | 84,881 | 11% | 28,191 | 6% |
 
-Incremental margins have been high (36-67%), but this was primarily driven by the NPA recovery cycle (declining provisions) rather than genuine operating leverage. As provisions normalise, incremental margins will moderate.
+Net profit growth has far outpaced operating income growth in FY22-FY24 because the NPA recovery cycle caused provisions to decline dramatically. As provisions normalise (FY25 provisions ₹7,758 Cr vs FY24 ₹4,063 Cr), net profit growth is converging with operating income growth — the FY25 gap (11% operating income growth vs 6% net profit growth) reflects this normalisation.
 
 **Capital Scalability (Bank-Specific):**
 
@@ -289,7 +295,7 @@ Incremental margins have been high (36-67%), but this was primarily driven by th
 |---|---|---|
 | Internal Capital Generation Rate | ROE 16% × Retention 99% = **~16% BVPS growth** | Excellent — can fund 12-14% advance growth internally |
 | Equity Dilution | None since FY21 | Excellent |
-| Cost-to-Income Ratio | Declined from 52% to 40% | Good — operating leverage achieved |
+| Cost-to-Income Ratio (Standalone) | Declined from ~52% (FY20) to ~40% (FY25) | Good — operating leverage achieved |
 | Cost-to-Assets | 2.46% in FY25, declining 9 bps YoY | Improving efficiency |
 | Digital Transactions | Growing rapidly; reducing cost per transaction | Positive trend |
 
@@ -366,7 +372,7 @@ The market has rewarded every rupee retained with nearly 3 rupees of value creat
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Q3FY26 |
 |---|---|---|---|---|---|---|---|
 | NIM | 3.51% | 3.53% | 3.46% | ~3.9% | **~4.1%** | 3.98% | **3.64%** |
-| Cost-to-Income | **~52%** | ~49% | ~43% | **~38%** | ~39% | ~40% | — |
+| Cost-to-Income (Standalone) | **~52%** | ~49% | ~43% | **~38%** | ~39% | ~40% | — |
 | Cost-to-Assets | — | — | — | — | 2.55% | **2.46%** | 2.33% |
 
 ### Capital & Digital
@@ -394,12 +400,14 @@ The market has rewarded every rupee retained with nearly 3 rupees of value creat
 | Metric | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current (Mar 2026) |
 |---|---|---|---|---|---|---|---|---|
 | Price (Mar-end, approx ₹) | 760 | 440 | 710 | 750 | 870 | 1,110 | 1,140 | **1,204** |
-| **P/B** | 2.9x | 1.4x | 2.1x | 2.0x | 2.1x | 2.3x | 2.0x | **1.82x** |
-| **PE** | 39x | **67x** | 30x | 16x | 25x | 13x | 13x | **~14x** |
-| P/Normalised Earnings | — | — | — | ~20x | ~35x | ~14x | ~18x | ~18x |
-| BVPS (₹) | 264 | 306 | 337 | 384 | 406 | 487 | 577 | **~650** (estimated Mar 2026) |
+| **P/B (Standalone BVPS)** | 2.9x | 1.4x | 2.1x | 2.0x | 2.1x | 2.3x | 2.0x | **2.09x** |
+| **PE (Consolidated TTM EPS)** | 39x | **67x** | 30x | 16x | 25x | 13x | 13x | **~13.3x** |
+| PE (Normalised EPS ~₹85) | — | — | — | ~20x | ~35x | ~14x | ~18x | ~14.2x |
+| BVPS (₹, Standalone) | 264 | 306 | 337 | 384 | 406 | 487 | 577 | **~650** (estimated Mar 2026) |
 | BV Growth | — | 16% | 10% | 14% | 6% | 20% | **18%** | ~13% |
 | Dividend Yield | 0.1% | 0% | 0% | 0.1% | 0.1% | 0.1% | 0.1% | **0.08%** |
+
+> **Note on P/B and PE basis:** Historical and current P/B above use **standalone BVPS** for apples-to-apples comparison. The consolidated P/B (using Screener's ₹662) is lower at ~1.82x. Historical PEs use consolidated reported EPS; the normalised PE row uses estimated sustainable earnings (~₹85/share) stripping out cyclically low provisions.
 
 ### Fair P/B Multiple Calculation (Gordon Growth Model)
 
@@ -426,9 +434,9 @@ Using Buffett's rules of thumb:
 | 15-16% (Axis FY25) | **2.0-3.0x Book** | Good-to-excellent bank; meaningful premium justified |
 | At current BVPS of ~₹650 | **₹1,300 - ₹1,950** | Price range justified by fundamentals |
 
-**Current P/B of ~1.82x (consolidated) is BELOW the lower end of the deserved range (2.0x).** This means the market is pricing Axis Bank below what its current profitability justifies.
+**Current standalone P/B of ~2.09x is in line with the historical median of ~2.0-2.2x.** On a consolidated basis (using Screener's ₹662 BVPS), the P/B is lower at ~1.82x, which is below the deserved 2.0-3.0x range for a bank earning 15-16% ROE. The discount on consolidated P/B reflects that the market may be assigning limited premium to subsidiary value.
 
-**Historical Comparison:** Axis has traded at a median P/B of ~2.0-2.2x over the last 5 years. The current ~1.82x represents a discount to its own history.
+**Historical Comparison:** The standalone P/B has ranged from 1.4x (COVID trough) to 2.9x (FY19 pre-NPA recognition). The current ~2.09x is at the historical median — not cheap on a standalone basis, but still below the deserved 2.5-3.5x for the "Excellent" quality tier.
 
 ---
 
@@ -649,11 +657,11 @@ Asymmetry Ratio = 117 / 24 = ~4.9:1
 | Component | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|---|---|
 | NIM (Spread Efficiency) | 3.51% | 3.53% | 3.46% | ~3.9% | **~4.1%** | 3.98% |
-| Cost-to-Income (Operating Efficiency) | 52% | 49% | 43% | **38%** | 39% | 40% |
-| Credit Cost (Asset Quality Impact) | **2.4%** | 2.2% | 1.7% | 1.4% | **0.37%** | 0.72% |
-| Leverage (Assets/Equity) | 10.7x | 9.7x | 10.1x | 10.4x | 9.7x | 8.9x |
-| **ROA** | **0.17%** | 0.70% | 1.28% | 0.80% | **1.74%** | 1.69% |
-| **ROE** | **2%** | 8% | 13% | 9% | **18%** | 16% |
+| Cost-to-Income (Standalone, Operating Efficiency) | 52% | 49% | 43% | **38%** | 39% | 40% |
+| Credit Cost (% of Avg Advances, Standalone) | **2.4%** | 2.2% | 1.7% | 1.4% | **0.37%** | 0.72% |
+| Leverage (Assets/Equity, Consolidated) | 10.7x | 9.7x | 10.1x | 10.4x | 9.7x | 8.9x |
+| **ROA (Standalone)** | **0.17%** | 0.70% | 1.28% | 0.80% | **1.74%** | 1.69% |
+| **ROE (Reported)** | **2%** | 8% | 13% | 9% | **18%** | 16% |
 
 **Quality Check:** FY25 ROE of 16% comes from:
 - ROA of 1.69% (high quality) × Leverage of 8.9x (conservative)
