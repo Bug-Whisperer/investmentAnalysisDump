@@ -37,21 +37,23 @@ CEAT Ltd, established in 1958 and part of the RPG Group since 1982, is one of In
 | Interest | 101 | 90 | 104 | 93 | 154 | 179 | 210 | 242 | 269 | 278 | 348 |
 | Depreciation | 108 | 143 | 169 | 193 | 277 | 340 | 435 | 469 | 509 | 563 | 666 |
 | PBT | 587 | 466 | 367 | 376 | 304 | 484 | **95** | 254 | **857** | 643 | 749 |
-| Tax % | 32% | 23% | 36% | 33% | 24% | 11% | 26% | 28% | 26% | 27% | — |
+| Tax %† | 32% | 23% | 36% | 33% | 24% | 11% | 26% | 28% | 26% | 27% | — |
 | **Net Profit** | **436** | 359 | 233 | 251 | 230 | 432 | **71** | 182 | **635** | 471 | 552 |
 | Net Profit Margin | 8.0% | 6.2% | 3.7% | 3.6% | 3.4% | 5.7% | **0.8%** | 1.6% | **5.3%** | 3.6% | 3.7% |
 | **EPS (₹)** | **108.17** | 89.28 | 58.83 | 62.35 | 57.17 | 106.81 | **17.60** | 46.02 | **158.87** | 116.85 | 136.88 |
 | Shares Outstanding (Cr) | 4.04 | 4.04 | 4.04 | 4.04 | 4.04 | 4.04 | 4.04 | 4.04 | 4.04 | 4.04 | 4.04 |
 | Dividend Payout % | 11% | 13% | 20% | 19% | 21% | 17% | 17% | 26% | 19% | 3% | — |
 
+*†Tax % is Screener's reported effective tax rate (tax expense / PBT). In FY2016, the implied rate from PBT and Net Profit is ~26%, not 32% — the gap is because consolidated Net Profit includes below-the-line items (share of profit from associates, minority interest adjustments) that are not captured in the PBT → Tax → NP flow shown here. All other years reconcile within rounding.*
+
 **Compounded Growth Rates:**
 | Period | Sales CAGR | Profit CAGR | EPS CAGR |
 |---|---|---|---|
 | 10 Years | 9% | 4% | ~4% |
 | 5 Years | 14% | 15% | ~15% |
-| 3 Years | 12% | 79%* | ~35%* |
+| 3 Years | 12% | 88%* | ~88%* |
 
-*\*The 3-year profit CAGR is distorted by the FY2022 trough (₹71 Cr profit) as the base.*
+*\*The 3-year profit/EPS CAGR is distorted by the FY2022 trough (₹71 Cr profit / ₹17.60 EPS) as the base. Screener.in reports 79% using its own methodology; our calculation from the stated figures yields (471/71)^(1/3)-1 = 88%.*
 
 **Trend Narrative:**
 
@@ -177,16 +179,18 @@ At ₹429 Cr average owner earnings and a market cap of ₹14,000 Cr, the stock 
 | Metric | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **ROCE (%)** | **27%** | 19% | 15% | 13% | 10% | 14% | **6%** | 9% | **20%** | 15% |
-| **ROE (%)** | ~22% | ~16% | ~9% | ~9% | ~8% | ~14% | **~2%** | ~5% | **~17%** | ~12% |
+| **ROE (%)** | ~22% | ~16% | ~9% | ~9% | ~8% | ~14% | **~2%** | ~5% | **~17%** | ~11% |
 | ROA (approx %) | ~11% | ~7% | ~5% | ~4% | ~3% | ~5% | ~1% | ~2% | ~6% | ~4% |
 
 **Return on Equity Summary:**
 | Period | Average ROE |
 |---|---|
 | 10 Years | ~12% |
-| 5 Years | ~11% |
-| 3 Years | ~12% |
-| Last Year | ~12% |
+| 5 Years | ~10% |
+| 3 Years | ~11% |
+| Last Year | ~11% |
+
+*Note: 10-year average of ~12% is as reported by Screener.in. Our year-by-year average from the table above gives ~11.3%, reflecting minor differences in Screener's internal methodology.*
 
 **Analysis:**
 
@@ -260,7 +264,7 @@ CEAT is the #4 player by market cap and is smaller than MRF, Apollo, and BKT. Ho
 
 | Year | Revenue | Rev Growth | Op. Profit | Op. Profit Growth | Incremental Op. Margin* |
 |---|---|---|---|---|---|
-| FY2021 | 7,610 | 12.3% | 993 | 52.5% | 32.0% |
+| FY2021 | 7,610 | 12.3% | 993 | 36.6% | 32.0% |
 | FY2022 | 9,363 | 23.0% | 724 | -27.1% | **-15.3%** |
 | FY2023 | 11,315 | 20.8% | 974 | 34.5% | 12.8% |
 | FY2024 | 11,943 | 5.6% | 1,653 | 69.7% | **108.1%** |
@@ -409,11 +413,11 @@ On forward estimates (analyst consensus FY2027 EPS of ~₹186-222), the forward 
 
 | Scenario | PV of Yr 1-10 Cash Flows (₹ Cr) | Terminal Value PV (₹ Cr) | Enterprise Value (₹ Cr) | Less: Net Debt (₹ Cr) | Equity Value (₹ Cr) | Intrinsic Value/Share (₹) | CMP ₹3,470 Margin of Safety |
 |---|---|---|---|---|---|---|---|
-| **Conservative** | 4,112 | 4,453 | 8,565 | 2,136 | 6,429 | **1,591** | **-54% (Overvalued)** |
-| **Base** | 5,098 | 7,369 | 12,467 | 2,136 | 10,331 | **2,557** | **-26% (Overvalued)** |
-| **Optimistic** | 6,235 | 9,975 | 16,211 | 2,136 | 14,075 | **3,484** | **+0.4% (Fair Value)** |
+| **Conservative** | 4,112 | 4,453 | 8,565 | 3,114 | 5,451 | **1,349** | **-61% (Overvalued)** |
+| **Base** | 5,098 | 7,369 | 12,467 | 3,114 | 9,353 | **2,315** | **-33% (Overvalued)** |
+| **Optimistic** | 6,235 | 9,975 | 16,211 | 3,114 | 13,097 | **3,242** | **-7% (Overvalued)** |
 
-**Interpretation:** Even in the optimistic scenario (20% earnings growth for 5 years, then 12% for 5 more — which would require CAMSO to be a massive success AND commodity prices to remain benign), the intrinsic value is approximately equal to the current market price. In the base and conservative cases, the stock is **26–54% overvalued** (consistent with the **-26%** and **-54%** margin of safety in the table).
+**Interpretation:** Even in the optimistic scenario (20% earnings growth for 5 years, then 12% for 5 more — which would require CAMSO to be a massive success AND commodity prices to remain benign), the intrinsic value of ₹3,242 is ~7% below the current market price. In the base and conservative cases, the stock is 33-61% overvalued.
 
 This means there is essentially ZERO margin of safety at the current price. You need heroic assumptions just to justify the current price, let alone get a discount.
 
@@ -490,7 +494,7 @@ This means there is essentially ZERO margin of safety at the current price. You 
 |---|---|---|---|
 | Book Value Floor | 1.0x BVPS (₹1,130) | ₹1,130 | **-67%** |
 | Trough Earnings | Worst EPS (₹17.60 in FY22) × 15x PE | ₹264 | **-92%** |
-| Normalised Bear Case | Conservative DCF ₹1,591/share | ₹1,591 | **-54%** |
+| Normalised Bear Case | Conservative DCF ₹1,349/share | ₹1,349 | **-61%** |
 | Historical Low P/B | 1.3x × ₹1,130 BVPS | ₹1,469 | **-58%** |
 | Probable Downside Floor | 1.5x Book = ₹1,695 | ₹1,695 | **-51%** |
 
@@ -498,24 +502,24 @@ This means there is essentially ZERO margin of safety at the current price. You 
 
 | Scenario | Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
-| Base DCF | ₹2,557/share | ₹2,557 | -26% (still overvalued) |
-| Optimistic DCF | ₹3,484/share | ₹3,484 | +0.4% |
+| Base DCF | ₹2,315/share | ₹2,315 | -33% (still overvalued) |
+| Optimistic DCF | ₹3,242/share | ₹3,242 | -7% (overvalued) |
 | CAMSO Success + Re-rating | FY2028E EPS ₹222 × 25x PE | ₹5,550 | +60% |
 | Full Bull Case | FY2028E EPS ₹250 × 28x PE | ₹7,000 | +102% |
 
 **Asymmetry Ratio:**
 
-Using base case upside (+0.4%) and probable downside (-51%):
+Using base case upside (-33%) and probable downside (-51%):
 
-**Asymmetry Ratio = 0.4% / 51% ≈ 0.01:1** — This is TERRIBLE. The downside vastly exceeds the upside on base case assumptions.
+The base case DCF shows the stock is **overvalued by 33%**, meaning there is no upside on base assumptions — only downside.
 
-Even using the bull case (+60%) vs. probable downside (-51%):
+Even using the bull case (+60% from CAMSO Success scenario) vs. probable downside (-51%):
 
-**Asymmetry Ratio = 60% / 51% ≈ 1.2:1** — This is still marginal. You're not being adequately compensated for the risk.
+**Asymmetry Ratio = 60% / 51% ≈ 1.2:1** — This is marginal. You're not being adequately compensated for the risk.
 
 **Fat Pitch Verdict:**
 
-> *"At ₹3,470, the realistic downside is approximately 51% to ₹1,695 (1.5x book). The realistic base-case upside is approximately 0% (the stock is already at or above fair value). Even in a bull case where CAMSO succeeds brilliantly, the upside is ~60% over 3 years vs. ~51% downside. This gives an asymmetry ratio of roughly 1.2:1. This is NOT a fat pitch."*
+> *"At ₹3,470, the realistic downside is approximately 51% to ₹1,695 (1.5x book). The DCF analysis shows overvaluation in ALL three scenarios — even the optimistic case (₹3,242/share) is 7% below the current price. In a bull case where CAMSO succeeds brilliantly (₹222 EPS × 25x PE), the upside is ~60% over 3 years vs. ~51% downside. This gives an asymmetry ratio of roughly 1.2:1. This is NOT a fat pitch."*
 
 **Mispricing Assessment:** There is NO mispricing opportunity. The stock appears to be FULLY VALUED to OVERVALUED at current prices. The market has already priced in much of the CAMSO optionality and the capacity expansion. There is no pessimism to exploit — the stock has risen ~150% in 5 years and ~33% in the last year.
 
@@ -525,23 +529,25 @@ Even using the bull case (+60%) vs. probable downside (-51%):
 
 ### Part A: DuPont Decomposition
 
-| Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE |
+| Year | Net Profit Margin | Asset Turnover (Avg) | Equity Multiplier (Avg) | ROE |
 |---|---|---|---|---|
-| FY2020 | 3.4% | 0.92x | 2.53x | 7.9% |
-| FY2021 | 5.7% | 0.94x | 2.45x | 13.0% |
-| FY2022 | 0.8% | 1.02x | 2.80x | 2.2% |
-| FY2023 | 1.6% | 1.18x | 2.80x | 5.3% |
-| FY2024 | 5.3% | 1.20x | 2.47x | 15.7% |
-| FY2025 | 3.6% | 1.18x | 2.57x | 10.8% |
+| FY2020 | 3.4% | 0.98x | 2.43x | 8.1% |
+| FY2021 | 5.7% | 0.98x | 2.49x | 13.9% |
+| FY2022 | 0.8% | 1.08x | 2.63x | 2.2% |
+| FY2023 | 1.6% | 1.20x | 2.80x | 5.4% |
+| FY2024 | 5.3% | 1.22x | 2.62x | 17.0% |
+| FY2025 | 3.6% | 1.25x | 2.52x | 11.2% |
+
+*Note: Asset Turnover uses average total assets; Equity Multiplier uses average assets / average equity. This ensures the three-factor DuPont product reconciles to ROE computed on average equity, consistent with Section 6.*
 
 **Analysis:**
 - **Net Profit Margin** is the dominant driver of ROE swings. It ranges from 0.8% to 5.7% — this is the commodity-driven volatility.
-- **Asset Turnover** has improved steadily from 0.92x to 1.18x — reflecting better asset utilisation.
+- **Asset Turnover** has improved steadily from 0.98x to 1.25x — reflecting better asset utilisation as capacity additions mature.
 - **Equity Multiplier** is 2.4-2.8x — moderate leverage, not excessive but not conservative either.
 
 ROE is primarily driven by margin volatility, NOT leverage tricks. This is somewhat reassuring — the quality of ROE (when it's high) is genuine.
 
-**ROCE vs ROE:** ROCE (15.4%) > ROE (11.8%). This means the business engine is reasonably strong, and the gap is explained by interest and taxes — a healthy pattern.
+**ROCE vs ROE:** Screener reports ROCE at 15.4% and ROE at 11.8% (these are Screener's own TTM calculations, which may differ slightly from the annual figures above due to period differences). The key point: ROCE > ROE, meaning the business engine is reasonably strong, and the gap is explained by interest and taxes — a healthy pattern.
 
 ### Part B: P/B Scenario Analysis
 
