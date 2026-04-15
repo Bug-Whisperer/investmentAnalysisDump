@@ -387,7 +387,7 @@ Promoter (Bandhan Financial Holdings, controlled by C.S. Ghosh) holds ~39.7%. Th
 
 **POSITIVE:** The secured book has grown from 20% to 57% of advances — this is a structural de-risking of the loan book that will, over time, reduce NPA volatility and credit costs. Collection efficiency is improving for post-2022 vintages.
 
-**NEGATIVE:** CASA ratio collapse from 43% to 27% is extremely concerning. NIM compression from 8%+ to 5.9% reflects both the secured shift (lower yields) and higher funding costs. Cost-to-income improved to ~47% in FY25 (per press releases) but has regressed to ~60% in Q3 FY26 as provisioning pressures returned.
+**NEGATIVE:** CASA ratio collapse from 43% to 27% is extremely concerning. NIM compression from 8%+ to 5.9% reflects both the secured shift (lower yields) and higher funding costs. Cost-to-income improved to ~47% in FY25 (per press releases) but has regressed to ~60% in Q3 FY26, driven by rising operating expenses from the Bandhan 2.0 transformation (new core banking system, branch expansion, hiring) alongside declining net revenue from NIM compression.
 
 ---
 
