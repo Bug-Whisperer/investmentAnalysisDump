@@ -272,11 +272,11 @@ Groww has proven the model (profitable, market-leading, high margins), and India
 **Buffett's $1 Test:**
 - Retained Earnings (FY23+FY24+FY25): ₹458 + (−₹805) + ₹1,824 = **₹1,477 Cr**
 - Book Value Change (FY22-end → FY25-end): ₹4,812 − ₹2,706 = **₹2,106 Cr**
-- However, equity capital rose from ₹0.11 Cr to ₹366 Cr during this period (~₹366 Cr from share issuances/ESOPs, not retained earnings)
-- BV change attributable to retained earnings: ₹2,106 − ₹366 = **₹1,740 Cr**
-- **₹1.18 of book value created per ₹1 retained** — Pass
+- However, share issuances/ESOPs contributed ~₹629 Cr to equity during this period (₹366 Cr in face value + ₹263 Cr in securities premium flowing into Reserves — since Reserves grew ₹1,740 Cr but retained earnings were only ₹1,477 Cr)
+- BV change attributable to retained earnings: ₹2,106 − ₹629 = **₹1,477 Cr**
+- **₹1.00 of book value created per ₹1 retained** — Marginal pass (break-even)
 
-The test is somewhat distorted for a pre-IPO company with equity restructuring (the Groww Inc. amalgamation reshuffled equity capital in FY25). Nonetheless, management has created more than ₹1 of book value per ₹1 retained — a positive signal.
+The test is somewhat distorted for a pre-IPO company with equity restructuring (the Groww Inc. amalgamation reshuffled equity capital in FY25). Management has created exactly ₹1 of book value per ₹1 retained — neither destroying nor creating excess value from capital allocation. For a young, high-growth platform still in scaling mode, a break-even result is acceptable but not impressive by Buffett's standards.
 
 Note: The traditional $1 test using market cap change is not applicable because the company was unlisted for most of this period. The IPO in November 2025 precludes a meaningful market-cap-based comparison.
 
