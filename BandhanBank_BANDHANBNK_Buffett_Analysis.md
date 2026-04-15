@@ -43,13 +43,7 @@ Bandhan's moat WAS its unmatched rural distribution (6,300+ banking outlets), de
 | Other Income as % of Net Revenue (NII+OI) | ~14.6% | ~18.9% | ~19.1% | ~19.7% | ~21.1% | ~24.5% | ~21.1% | ~17.4% | ~20.5% | ~15% |
 | **Total Income (₹ Cr)** | 4,320 | 5,508 | 7,706 | 12,434 | 14,546 | 16,694 | 18,374 | 21,041 | 24,915 | ~23,700 |
 | Expenses (₹ Cr) [Note 1] | 1,044 | 1,597 | 2,467 | 3,739 | 6,534 | **11,298** | 8,693 | 9,310 | 10,555 | ~12,200 |
-| **Cost-to-Income Ratio (%) [Note 2]** | ~30% | ~35% | ~35% | ~38% | ~55% | **~77%** | ~58% | ~55% | ~54% | ~60%+ |
-| **PPOP (₹ Cr) [Note 2]** | ~1,771 | ~2,141 | ~3,091 | ~4,133 | ~3,051 | ~239 | ~3,036 | ~3,180 | ~3,902 | ~3,500 |
-| Provisions & Contingencies (₹ Cr) [Note 1] | ~659 | ~795 | ~1,139 | ~1,109 | ~846 | **~113** | ~841 | ~950 | ~1,157 | ~2,300+ |
-
-> **Note 1 — Screener Data Format for Banks:** Screener.in's "Expenses" line for banks bundles **pure operating expenses AND provisions/credit costs** into a single figure. This means the "Expenses" row above is NOT pure operating expenditure — it includes write-offs, loan-loss provisions, and contingencies. Consequently, the "Provisions" row shown is a **residual** (PBT = PPOP minus this residual), not total credit cost. Total credit cost (including write-offs) was substantially higher: ~₹2,524 Cr in FY22, ~₹2,000-2,200 Cr in FY23-FY25 per press releases.
->
-> **Note 2 — From Press Releases:** The Cost-to-Income Ratio and "true" PPOP figures are sourced from the bank's quarterly press releases, which separate pure operating expenses from provisions. These cannot be derived from Screener's bundled "Expenses" row. The PPOP row above is recalculated as NII + Other Income − Screener Expenses (i.e., post-provision, effectively equivalent to Financing Profit + Other Income from Screener). For the bank's reported PPOP (pre-provision), refer to quarterly press releases: FY25 PPOP was ~₹7,600 Cr (operating expenses of ~₹6,857 Cr on net revenue of ~₹14,457 Cr, giving a true C/I of ~47%).
+| Profit Before Tax (₹ Cr) | 1,704 | 2,056 | 3,013 | 4,053 | 2,949 | **129** | 2,893 | 2,943 | 3,623 | ~1,281 |
 | **Net Income (₹ Cr)** | 1,112 | 1,346 | 1,952 | 3,024 | 2,205 | **126** | 2,195 | 2,230 | 2,745 | ~690 |
 | Net Income Growth YoY | — | 21% | 45% | **55%** | -27% | **-94%** | 1,642% | 2% | 23% | ~-75% |
 | **EPS (Diluted) (₹)** | 10.15 | 11.28 | 16.36 | **18.78** | 13.69 | **0.78** | 13.62 | 13.84 | 17.04 | ~4.28 |
@@ -59,13 +53,26 @@ Bandhan's moat WAS its unmatched rural distribution (6,300+ banking outlets), de
 | **ROA (%)** | ~4.4% | ~3.6% | ~3.9% | **~4.1%** | ~2.1% | **0.09%** | 1.41% | 1.25% | 1.43% | ~0.5% |
 | **ROE (%)** | **29%** | 19% | 19% | **23%** | 14% | **1%** | 12% | 11% | 12% | ~4% |
 
+> **Note 1 — Screener Data Format for Banks:** Screener.in's "Expenses" line for banks bundles **operating expenses, depreciation, AND provisions/credit costs** into a single figure. This means Cost-to-Income Ratio, PPOP, and Provisions cannot be derived from the table above. These metrics are presented separately below from the bank's press releases.
+
+**Key Operating Metrics (from Press Releases — separate from Screener P&L above):**
+
+| Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
+|---|---|---|---|---|---|---|
+| **Net Revenue (NII + Other Income) (₹ Cr)** | 7,872 | 9,585 | 11,537 | 11,729 | 12,490 | 14,457 |
+| Pure Operating Expenses (₹ Cr) | ~2,990 | ~5,260 | ~8,880 | ~6,800 | ~6,870 | ~6,857 |
+| **Cost-to-Income Ratio (%)** | ~38% | ~55% | **~77%** | ~58% | ~55% | ~47% |
+| **PPOP (Pre-Provision Operating Profit) (₹ Cr)** | ~4,880 | ~4,320 | ~2,650 | ~4,930 | ~5,620 | ~7,600 |
+| Total Credit Cost incl. Write-offs (₹ Cr) | ~750 | ~1,270 | ~2,524 | ~2,040 | ~2,440 | ~3,700 |
+| Credit Cost as % of PPOP | ~15% | ~29% | **~95%** | ~41% | ~43% | ~49% |
+
 ### Trend Narrative
 
 **NIM is compressing sharply.** From elite levels of 8-9% in FY17-FY20 (reflecting the high-yield microfinance book), NIM has declined to ~5.9% in Q3 FY26. This is driven by: (a) the deliberate shift toward lower-yielding secured loans (housing, auto, personal), (b) rising cost of deposits as the CASA ratio deteriorates (from ~43% in FY21 to ~27% in Q3 FY26), and (c) competitive pressure on lending rates.
 
-**Cost-to-income ratio is elevated and volatile.** Per the bank's press releases (which separate pure operating expenses from provisions), the true C/I ratio was ~47% in FY25 and spiked to ~77% in FY22 when massive provisioning was required. The bank's reported C/I (excluding provisions) remains around 47-55%, above best-in-class private banks (40-45%). The Bandhan 2.0 transformation (new core banking system, branch expansion, hiring) is absorbing costs that have not yet translated into proportionate income.
+**Cost-to-income ratio is elevated and volatile.** Per the bank's press releases (which separate pure operating expenses from provisions), the true C/I ratio improved to ~47% in FY25 from a peak of ~77% in FY22. However, this remains above best-in-class private banks (40-45%). The Bandhan 2.0 transformation (new core banking system, branch expansion, hiring) is absorbing costs that have not yet translated into proportionate income.
 
-**Earnings are wildly cyclical.** FY22 was a near-wipeout year (₹126 Cr profit, ROA of 0.09%) due to massive COVID-related provisioning on the MFI book (~₹2,500 Cr in total credit cost). FY23-FY25 showed recovery, but 9M FY26 is deteriorating again with provisions spiking. **This volatility is the hallmark of a microfinance-heavy bank — exactly the kind of business Buffett warns about.**
+**Earnings are wildly cyclical.** FY22 was a near-wipeout year (₹126 Cr profit, ROA of 0.09%) due to massive COVID-related provisioning on the MFI book (~₹2,524 Cr in total credit cost, consuming ~95% of PPOP). FY23-FY25 showed recovery, but 9M FY26 is deteriorating again with provisions spiking. **This volatility is the hallmark of a microfinance-heavy bank — exactly the kind of business Buffett warns about.**
 
 > *Buffett: "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact."* — The microfinance credit cycle has repeatedly overwhelmed Bandhan's management, regardless of their operational skill.
 
@@ -190,18 +197,18 @@ Under this more forgiving scenario, normalised EPS is ~₹13-14, giving a normal
 | **ROE (%)** | **29%** | 19% | 19% | **23%** | 14% | **1%** | 12% | 11% | 12% | ~4% |
 | **ROA (%)** | **~4.4%** | ~3.6% | ~3.9% | ~4.1% | ~2.1% | **0.09%** | 1.41% | 1.25% | 1.43% | ~0.5% |
 | NIM (%) | ~9.5% | ~8.5% | ~8.5% | ~8.0% | ~7.6% | ~7.1% | ~6.8% | ~6.9% | ~6.7% | ~5.9% |
-| Cost-to-Income (%) | ~30% | ~35% | ~35% | ~38% | ~55% | **~77%** | ~58% | ~55% | ~54% | ~60% |
+| Cost-to-Income (%) *(press releases)* | ~30% | ~35% | ~35% | ~38% | ~55% | **~77%** | ~58% | ~55% | ~47% | ~60% |
 | Leverage (Assets/Equity) | 6.8x | 4.7x | 5.0x | 6.0x | 6.6x | 8.0x | 8.0x | 8.2x | 7.8x | 7.9x |
 
 ### ROE Decomposition (DuPont for Banks)
 
-> *Note: The provision intensity and operating efficiency figures below are based on the bank's press-release PPOP (which separates pure operating expenses from provisions/credit costs), NOT on Screener's bundled "Expenses" line. See Note 2 in Section 2.*
+> *Note: The operating efficiency and provision intensity figures below are derived from the bank's press-release PPOP (which separates pure operating expenses from provisions/credit costs), NOT from Screener's bundled "Expenses" line. See the press-release table in Section 2.*
 
 | Component | FY20 (Pre-COVID Peak) | FY22 (Trough) | FY25 (Recent) |
 |---|---|---|---|
 | NIM | ~8.0% | ~7.1% | ~6.7% |
-| Operating Efficiency (1 - C/I) | ~62% | **~23%** | ~46% |
-| Provision Intensity (1 - Prov/PPOP) | ~87% | ~0% (massive provisions) | ~44% |
+| Operating Efficiency (1 - C/I) | ~62% | **~23%** | ~53% |
+| Provision Intensity (1 - Credit Cost/PPOP) | ~85% | **~5%** (massive provisions) | ~51% |
 | Tax Efficiency (PAT/PBT) | ~75% | ~98% | ~76% |
 | Leverage (Assets/Equity) | 6.0x | 8.0x | 7.8x |
 | **ROA** | **4.1%** | **0.09%** | **1.43%** |
@@ -370,7 +377,7 @@ Promoter (Bandhan Financial Holdings, controlled by C.S. Ghosh) holds ~39.7%. Th
 | NNPA % | 1.1% | 2.0% | **3.5%** | 1.2% | **1.1%** | 1.3% | **1.0%** |
 | PCR (incl write-offs) % | ~70% | ~72% | ~65% | ~76% | ~72% | ~73% | **~84%** |
 | **Efficiency** | | | | | | | |
-| Cost-to-Income % | ~38% | ~55% | **~77%** | ~58% | ~55% | ~54% | ~60% |
+| Cost-to-Income % *(press releases)* | ~38% | ~55% | **~77%** | ~58% | ~55% | ~47% | ~60% |
 | Branches | ~1,000 | ~1,147 | ~1,150 | ~1,300 | ~1,500 | ~1,560 | ~1,600 |
 | Banking Outlets | ~4,500 | ~5,300 | ~5,600 | ~5,700 | ~6,000 | ~6,300 | ~6,350 |
 | **Capital** | | | | | | | |
@@ -574,14 +581,14 @@ At terminal PE of 15x (fair for a private bank), to earn a 15% return over 10 ye
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
 | P/B stays at 1.05x | Sentiment unchanged | 10.9% | 10.9% | 10.8% |
-| P/B compresses to 0.8x | Stress de-rating | 4.8% | 6.4% | 7.7% |
+| P/B compresses to 0.8x | Stress de-rating | 5.0% | 6.6% | 7.9% |
 | P/B expands to 1.2x | Normalised ROE re-rating | 13.9% | 13.0% | 12.3% |
 | P/B expands to 1.5x | Good bank re-rating | **19.1%** | **16.7%** | **14.9%** |
 | P/B compresses to 1.0x (book value) | Worst case for quality bank | 9.8% | 10.1% | 10.3% |
 
 ### Traffic Light Verdict on Valuation Safety
 
-At 1.05x book, even if P/B compresses to 0.8x over 10 years, the return is ~7.7% — not great but not catastrophic. If P/B stays flat, returns approximate BV compounding at ~10.8%. **This is a 🟢 GREEN signal for valuation safety — the downside from multiple compression at 1.05x book is limited because there's almost no premium to lose.**
+At 1.05x book, even if P/B compresses to 0.8x over 10 years, the return is ~7.9% — not great but not catastrophic. If P/B stays flat, returns approximate BV compounding at ~10.8%. **This is a 🟢 GREEN signal for valuation safety — the downside from multiple compression at 1.05x book is limited because there's almost no premium to lose.**
 
 > *Munger: "Over the long term, it's hard for a stock to earn a much better return than the business earns."* — At 1.05x book, your returns will closely track BV compounding (~10-11%), plus or minus any multiple expansion/compression. The entry price is not the problem here — the business quality is the question.
 
