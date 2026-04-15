@@ -126,7 +126,7 @@ Airtel's balance sheet is **NOT a traditional Buffett fortress** — but it is a
 - **Debt is declining:** Borrowings peaked at ₹2,26,020 Cr (FY2023) and have fallen to ₹2,08,010 Cr (H1 FY26) — a ₹18,000 Cr reduction while profits surged. This is exactly the right trajectory.
 - **Equity is surging:** Shareholders' equity rose 71% from ₹66,554 Cr (FY2022) to ₹1,13,672 Cr (FY2025), driven by retained earnings from explosive profit growth.
 - **Debt/Equity improved from 2.91x (FY2023) to 1.77x (current)** — a massive deleveraging in just 2 years.
-- **Interest coverage of ~3.9x (EBIT/Interest for FY2025)** — adequate and improving as EBITDA grows faster than interest expense.
+- **Interest coverage: EBITDA/Interest ~3.9x; EBIT/Interest ~1.8x (FY2025).** The EBITDA-based figure (₹85,060 / ₹21,754) reflects cash-flow serviceability and is the more relevant metric for capital-intensive telecom, where D&A (₹45,570 Cr) is a massive non-cash charge. The EBIT-based figure (₹39,490 / ₹21,754) is low at 1.8x, which underscores why Airtel's deleveraging trajectory is critical — as operating profit grows and debt declines, both coverage ratios should improve meaningfully.
 - **Negative working capital** is a POSITIVE sign for a subscription business — Airtel collects cash from customers before paying most expenses.
 
 **The trajectory matters more than the snapshot.** Airtel is deleveraging rapidly. If the current trajectory continues (profits growing 25-30% while debt stays flat or declines), Debt/Equity could reach 1.0x within 2-3 years. The fortress is being built, even if it's not yet complete.
@@ -930,7 +930,7 @@ The turnaround is complete. The question is no longer "will it survive?" but "ho
 |---|---|---|
 | **Business Quality** | **9** | Toll-bridge model on essential service; 57% OPM; negative working capital; recurring revenue |
 | **Moat Durability** | **9** | 3-player oligopoly with ₹2+ lakh Cr entry barriers; moat widening as Vi weakens and 5G deepens it |
-| **Financial Health** | **7** | Debt/Equity 1.77 (improving from 2.91); Interest coverage ~3.9x; Strong OCF of ₹98,332 Cr; deleveraging actively |
+| **Financial Health** | **7** | Debt/Equity 1.77 (improving from 2.91); EBITDA/Interest ~3.9x (EBIT/Interest ~1.8x); Strong OCF of ₹98,332 Cr; deleveraging actively |
 | **Management Quality** | **8** | Mittal family (49% stake); navigated AGR + Jio crisis; $1 test: ₹16+; excellent capital allocation |
 | **Earnings Quality & Growth** | **9** | 31% profit CAGR (5Y); 65% NP CAGR (3Y, FY2022-FY2025); FCF conversion 157%; Owner earnings exceed reported EPS |
 | **Scalability** | **7.4** | Strong scaler (7.4/10); ARPU headroom, broadband early, Africa runway; capital-heavy is the constraint |
