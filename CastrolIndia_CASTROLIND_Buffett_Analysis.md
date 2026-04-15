@@ -53,7 +53,7 @@ Castrol India is the **#2 lubricant company in India** with ~20% overall market 
 |---|---|---|---|
 | 10-Year (CY2015-CY2025) | ~6% | ~4% | ~4% |
 | 5-Year (CY2020-CY2025) | ~14% | ~10% | ~10% |
-| 3-Year (CY2022-CY2025) | ~6% | ~6% | ~6% |
+| 3-Year (CY2022-CY2025) | ~6% | ~5% | ~5% |
 
 **Trend Narrative:**
 
@@ -119,17 +119,18 @@ The most notable feature is the **ZERO share dilution** — 98.9 Cr shares for o
 
 **Estimated Dividends Paid (from Financing):**
 
+*Note: "Dividends Paid" below reflects actual cash outflows in each calendar year (from the cash flow statement's financing activity), which differs from the accrual-basis "Dividend Payout %" in Section 2. The timing difference arises because a final dividend declared for year N is typically paid in year N+1. For instance, CY2024's declared payout was 139% (Section 2), but cash dividends actually paid during CY2024 were lower (~₹810 Cr) because CY2024's final dividend was paid in CY2025.*
+
 | Metric | CY2019 | CY2020 | CY2021 | CY2022 | CY2023 | CY2024 | CY2025 |
 |---|---|---|---|---|---|---|---|
 | Net Profit | 827 | 583 | 758 | 815 | 864 | 927 | 950 |
-| Dividends Paid (est.) | ~550 | ~545 | ~550 | ~650 | ~745 | ~810 | ~1,310 |
-| Payout Ratio | ~66% | ~93% | ~72% | ~79% | ~86% | ~87% | ~138% |
+| Dividends Paid (cash basis, est.) | ~550 | ~545 | ~550 | ~650 | ~745 | ~810 | ~1,310 |
 
 **Key Observations:**
 
 1. **OCF is robust and growing** — from ~₹550 Cr in CY2014 to ₹1,090 Cr in CY2025. Almost doubling over 11 years.
 
-2. **FCF conversion from Net Income is excellent** — typically 90-120% of net income converts to free cash flow. This is the hallmark of a high-quality business with genuine economic earnings matching accounting earnings.
+2. **FCF conversion from Net Income is generally strong** — in three of the last four years (CY2022, CY2024, CY2025), 103-106% of net income converted to free cash flow. CY2023 was lower at ~87% due to working capital absorption. Earlier years show wider variability (66-143%), reflecting working capital swings and lumpy CapEx timing. The recent trend of high-quality cash conversion is encouraging.
 
 3. **CapEx is minimal** — ₹60-100 Cr per year against ₹1,000+ Cr in OCF. The business requires very little capital to maintain operations.
 
@@ -178,16 +179,18 @@ Owner Earnings are roughly in line with reported net income — which is exactly
 | Metric | CY2014 | CY2015 | CY2016 | CY2017 | CY2018 | CY2019 | CY2020 | CY2021 | CY2022 | CY2023 | CY2024 | CY2025 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **ROCE %** | **117%** | **179%** | **133%** | **105%** | 101% | 91% | **57%** | 67% | 61% | 57% | 55% | **60%** |
-| **ROE %** | ~95% | ~107% | ~86% | ~69% | ~65% | ~65% | ~42% | ~50% | ~46% | ~43% | ~42% | ~46% |
-| ROA % | ~32% | ~37% | ~38% | ~36% | ~34% | ~38% | ~25% | ~30% | ~28% | ~27% | ~27% | ~27% |
+| **ROE %** | ~95% | ~115% | ~86% | ~69% | ~65% | ~65% | ~42% | ~50% | ~46% | ~43% | ~42% | ~46% |
+| ROA % | ~32% | ~39% | ~38% | ~36% | ~34% | ~38% | ~25% | ~30% | ~28% | ~27% | ~27% | ~27% |
 
-**10-Year Avg ROE: ~51% | 5-Year Avg ROE: ~45% | 3-Year Avg ROE: ~43%**
+**10-Year Avg ROE: ~55% | 5-Year Avg ROE: ~45% | 3-Year Avg ROE: ~44%**
+
+*Note: ROE calculated as Net Income / Average Shareholders' Equity (beginning + ending / 2). The 10-year average ROE reported by Screener.in is ~51%, which uses a different calculation methodology.*
 
 **Observations:**
 
 1. **ROCE of 55-60% is extraordinary.** This is among the highest in corporate India. For context, most "excellent" businesses operate at 20-30% ROCE. Castrol is at 2-3x that level.
 
-2. **ROE of 42-46%** is also exceptional, though it has come down from the astronomical 95-107% levels of CY2014-CY2015 (when equity was much smaller before bonus issues and retained earnings built up).
+2. **ROE of 42-46%** is also exceptional, though it has come down from the astronomical 95-115% levels of CY2014-CY2015 (when equity was much smaller before bonus issues and retained earnings built up).
 
 3. **ROE is driven by genuine business quality (high margins, high asset turnover), NOT by leverage.** Debt/Equity is ~0.03. The business generates these returns on its own equity without any financial leverage.
 
@@ -280,7 +283,7 @@ This is an **extremely capital-light** business. Revenue per CapEx rupee is 50-8
 - India lubricants market: ~$7.2 billion (2023), expected to reach ~$9.7 billion by 2030 (4.4% CAGR)
 - Automotive lubricants: 57% of market = ~$4.1 billion
 - Castrol India revenue: ~$680 million (₹5,722 Cr) — roughly 9-10% of total India lubricants market
-- **Runway: ~14x current revenue** in the total market, but realistic addressable market growth is limited to 4-5% annually
+- **Current TAM runway: ~11x current revenue** (based on 2023 market size of $7.2B); projected to grow to ~$9.7B by 2030 (4.4% CAGR), but realistic addressable market growth is limited to 4-5% annually
 
 **S-Curve Position:** **Mature / Growth Phase**
 
@@ -369,7 +372,9 @@ The operational fundamentals are solid and improving incrementally, even if top-
 | P/Owner Earnings | ~19x | — | — | — | — | — | ~19x | — |
 | EV/EBITDA | ~14x | — | — | ~11x | ~12x | ~14x | ~14x | ~13-15x |
 | Earnings Yield | 5.1% | 2.1% | 4.3% | 5.6% | 4.8% | 5.0% | 5.1% | ~4.5% |
-| **Dividend Yield** | **~4.7%** | ~4% | ~3% | ~4.5% | ~3.5% | ~4.5% | ~4.7% | ~3.5% |
+| **Dividend Yield** | **~4.7%** | ~2% | ~3% | ~4.5% | ~4.1% | ~4.5% | ~4.7% | ~3.5% |
+
+*Note on Dividend Yield: The "current" ~4.7% yield is Screener.in's reported figure, which reflects trailing dividends actually paid (cash basis), not total dividends declared for the calendar year. Castrol's CY2024 and CY2025 declared payout ratios were 139% and 138% respectively (DPS declared of ₹13.02 and ₹13.25), which would imply trailing yields of ~7% at current prices. The ~4.7% figure reflects the timing lag between declaration and payment. Similarly, historical yields above use approximate cash-basis payouts, which differ from declared-basis payouts in years with large timing differences (notably CY2024-CY2025).*
 
 **Historical Comparison:**
 - The 10-year median PE is ~22x. At ~19.5x, Castrol is trading **below its own historical average** — roughly 12% below the 10-year median.
@@ -404,14 +409,14 @@ The operational fundamentals are solid and improving incrementally, even if top-
 | Scenario | PV of Cash Flows (Yr 1-10) | Terminal Value PV | Total Equity Value/Share | Margin of Safety at ₹187 |
 |---|---|---|---|---|
 | **Conservative** | ₹68 | ₹96 | **₹164** | **-14% (overvalued)** |
-| **Base** | ₹79 | ₹137 | **₹216** | **+16% undervalued** |
-| **Optimistic** | ₹93 | ₹200 | **₹293** | **+57% undervalued** |
+| **Base** | ₹79 | ₹137 | **₹216** | **+13% undervalued** |
+| **Optimistic** | ₹93 | ₹200 | **₹293** | **+36% undervalued** |
 
 *Note: These are simplified DCF calculations. The wide range reflects uncertainty about sustainable growth rates.*
 
 **Midpoint Intrinsic Value: ~₹216/share** (Base case)  
 **Current Price: ~₹187**  
-**Implied Margin of Safety: ~16%**
+**Implied Margin of Safety: ~13% using (IV−CMP)/IV convention**
 
 This is a thin margin of safety — Buffett typically demands 25-30%+. The stock is **fairly valued to slightly undervalued**, not a screaming bargain.
 
@@ -545,6 +550,8 @@ HOWEVER, if we factor the Stonepeak open offer at ₹194 as the near-term floor:
 
 ### Part A: DuPont Decomposition
 
+*Note: The DuPont decomposition below uses year-end balance sheet figures (Assets, Equity) for Asset Turnover and Equity Multiplier, as is standard for component decomposition. This produces ROE figures that may differ slightly from the average-equity ROE in Section 6. The differences are most visible in years where equity changed significantly (e.g., CY2025 where equity fell due to >100% payouts).*
+
 | Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE (Product) |
 |---|---|---|---|---|
 | CY2019 | 21.3% | 1.74x | 1.63x | ~60% |
@@ -559,7 +566,7 @@ HOWEVER, if we factor the Stonepeak open offer at ₹194 as the near-term floor:
 - **Net Profit Margin (~17%):** High and stable — reflects brand premium and pricing power
 - **Asset Turnover (~1.5-1.7x):** Excellent — capital-light business generating strong revenue per rupee of assets
 - **Equity Multiplier (~1.6x):** Very LOW leverage — this is essentially an unlevered business
-- **ROCE (60%) > ROE (46%):** The gap is explained by taxes. Pre-tax returns are even higher. The business engine is genuinely powerful.
+- **ROCE (60%) > ROE (~46-50% depending on methodology):** The gap is explained by taxes. Pre-tax returns are even higher. The business engine is genuinely powerful. (Note: Section 6 computes ROE at ~46% using average equity; the DuPont table above yields ~50% using year-end equity. Both confirm the same story — exceptionally high returns.)
 
 **Verdict:** ROE is driven by **genuine business quality** (high margins + high asset turnover), NOT by leverage. This is the healthiest possible DuPont profile.
 
@@ -635,8 +642,8 @@ At ₹187, under the current >100% payout policy, you earn ~5% annually from div
 |---|---|---|---|
 | Deep Value | <₹144 | +30%+ profit | **HOLD & collect dividends.** You own a great business bought cheap. Don't sell unless PE exceeds 25x. Let the dividends compound. |
 | Value / Buy | ₹144-₹173 | +8-30% profit | **HOLD.** Fair price for a quality business. Dividends add ~5%/year. |
-| Fair Value | ₹173-₹211 | -12% to +8% | **HOLD.** You're roughly at fair value. The 4.7% dividend yield compensates for modest capital appreciation. Be patient. |
-| Fully Valued | ₹211-₹250 | -16% to -25% loss | **HOLD if small position. Accumulate below ₹180 to average down.** The loss is temporary; the business is intact. With dividends, you'll recover over 2-3 years. |
+| Fair Value | ₹173-₹211 | -11% to +8% | **HOLD.** You're roughly at fair value. The 4.7% dividend yield compensates for modest capital appreciation. Be patient. |
+| Fully Valued | ₹211-₹250 | -11% to -25% loss | **HOLD if small position. Accumulate below ₹180 to average down.** The loss is temporary; the business is intact. With dividends, you'll recover over 2-3 years. |
 | Overvalued | >₹250 | -25%+ loss | **Painful but hold for dividend recovery.** At ₹250 entry, the 4.7% current yield still helps. Lesson learned on entry price. |
 
 > **Buffett (working with small capital):** *"If I were running a $1 million portfolio, I'd be fully invested. There's no reason you can't earn 50% a year on small amounts of capital."* With a small capital base, Buffett would prefer higher-growth opportunities. Castrol at ₹187 offers ~10-12% total return — respectable but not exciting for small capital. He'd buy only if price dropped to the Deep Value zone (<₹144).
@@ -704,8 +711,8 @@ But he would **likely NOT buy at ₹187** for three reasons:
 | **Management Quality** | **8** | Disciplined, shareholder-friendly; ownership transition adds uncertainty |
 | **Scalability** | **5** | Cash cow; limited growth runway; linear scaler |
 | **Valuation** | **6** | Fair value at ~19.5x PE; not cheap enough for fat pitch |
-| **Margin of Safety** | **5** | ~16% on base DCF; thin; dividend yield provides cushion |
-| **Dividend Attractiveness** | **9** | 4.7% yield, 100%+ payout, reliable cash machine |
+| **Margin of Safety** | **5** | ~13% on base DCF (IV−CMP)/IV; thin; dividend yield provides cushion |
+| **Dividend Attractiveness** | **9** | 4.7% trailing yield (7.1% on declared basis), 100%+ payout, reliable cash machine |
 | **Buffett Verdict** | **7/10** | **Wonderful business at a fair price. Not a fat pitch at ₹187. Would become compelling below ₹150.** |
 | **Buy Zone** | — | Currently in FAIR VALUE / HOLD zone |
 | **Overall Recommendation** | — | **HOLD if owned. WATCHLIST if not owned. BUY below ₹150-160.** |
@@ -726,13 +733,13 @@ But he would **likely NOT buy at ₹187** for three reasons:
 
 **Can this be explained to a 10-year-old?**
 
-"There's a company called Castrol that makes the oil you put in car and motorcycle engines. Every car needs this oil changed regularly, so people keep buying it. Castrol is the most famous brand of engine oil in India. They make the oil for about ₹30 and sell it for ₹100, and they don't need to build big expensive factories. So they make a LOT of profit and give most of it back to the people who own the company's shares. The share costs about ₹187 today and they'll give you about ₹9 back every year just for owning it — that's like getting ₹9 for every ₹187 you invest, every year, forever."
+"There's a company called Castrol that makes the oil you put in car and motorcycle engines. Every car needs this oil changed regularly, so people keep buying it. Castrol is the most famous brand of engine oil in India. They make the oil for about ₹30 and sell it for ₹100, and they don't need to build big expensive factories. So they make a LOT of profit and give most of it back to the people who own the company's shares. The share costs about ₹187 today and last year they gave back about ₹13 for every share — that's like getting ₹13 for every ₹187 you invest, every year."
 
 **Does the math work on a napkin?**
 
 - EPS: ₹9.60
 - Growing at: ~6-7%/year
-- Dividend: ~₹8.75/year (4.7% yield)
+- Dividend: ~₹8.75/year trailing cash basis (4.7% yield); CY2025 declared DPS was ₹13.25 (7.1% yield on declared basis)
 - PE: 19.5x (below historical 22x)
 - Total return: Dividend (5%) + Growth (7%) ≈ **12%/year**
 - No debt, no dilution, no accounting tricks
