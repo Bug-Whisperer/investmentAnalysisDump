@@ -54,7 +54,7 @@ For banks, bad economics = bad asset quality. BoI's NPA crisis (FY2016-FY2020) d
 | Other Income (Fee+Trading) | 6,687 | 6,778 | 8,092 | 7,168 | 6,415 | 9,317 | ~9,700 |
 | Other Income as % of Total | 13.6% | 14.2% | 17.4% | 13.0% | 9.5% | **11.6%** | ~12% |
 | Total Income | 49,278 | 47,632 | 46,373 | 55,100 | 67,488 | 80,625 | ~84,200 |
-| Expenses (Opex+Provisions)† | 26,386 | 17,672 | 16,263 | 21,177 | 18,848 | 20,656 | ~21,500 |
+| Expenses (Opex+Provisions, excl. D&A)† | 26,386 | 17,672 | 16,263 | 21,177 | 18,848 | 20,656 | ~21,500 |
 | Profit Before Tax | (4,692) | 3,160 | 5,655 | 6,056 | 10,375 | 12,771 | ~13,000 |
 | **Net Income** | **(3,051)** | 2,081 | 3,487 | 3,839 | 6,567 | **9,552** | ~9,823 |
 | Net Income Growth | — | — | 67.6% | 10.1% | **71.0%** | 45.4% | ~20% |
@@ -63,10 +63,10 @@ For banks, bad economics = bad asset quality. BoI's NPA crisis (FY2016-FY2020) d
 | Shares Outstanding (Cr)* | 327.8 | 327.8 | 410.4 | 410.4 | 455.3 | 455.3 | 455.3 |
 | Shares Change YoY | 18.8% | 0% | **25.2%** | 0% | **10.9%** | 0% | 0% |
 | **ROA** | -0.48% | 0.30% | 0.47% | 0.49% | **0.74%** | **0.95%** | ~0.96% |
-| **ROE** | **-7%** | 4% | 6% | 6% | 10% | **12%** | ~15% |
+| **ROE** | **-7%** | 4% | 6% | 6% | 10% | **12%** | ~15% (Q3 ann.)† |
 | Dividend Payout % | 0% | 0% | 24% | 21% | 19% | 19% | — |
 
-*†Screener's consolidated "Expenses" line for banks bundles operating expenses with provisions & contingencies. See note below table for corrected C:I ratio and PPOP discussion.*
+*†Screener's consolidated "Expenses" line for banks bundles operating expenses with provisions & contingencies but **excludes Depreciation & Amortisation**. D&A is deducted separately (₹392–604 Cr/year over this period). Therefore: PBT = NII + Other Income − Expenses − D&A. See note below for C:I ratio and PPOP discussion.*
 
 > **Note on Cost-to-Income, PPOP, and Provisions:** Screener's consolidated "Expenses" line for banks bundles operating expenses together with provisions & contingencies. Therefore, accurate Cost-to-Income ratio and PPOP cannot be directly computed from Screener data. From Bank of India's investor presentations and ICRA credit reports, the actual Cost-to-Income ratio is approximately **55–65%** in recent years (improving from higher levels during the crisis). PPOP has been growing strongly — reaching approximately ₹13,000-14,000 Cr in FY2025. The Provision-to-PPOP ratio (provision intensity) has been declining sharply as asset quality improves, from over 100% during FY2018-20 to approximately 40-50% in FY2025. These approximate values are sourced from external reports and should be verified against the bank's standalone financial statements for precision.
 
@@ -208,9 +208,9 @@ For banks specifically: A bank that must repeatedly raise equity capital at belo
 
 | Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Q3 FY26 |
 |---|---|---|---|---|---|---|---|
-| **ROE** | **-7%** | 4% | 6% | 6% | 10% | **12%** | **~15%** |
-| **ROA** | **-0.48%** | 0.30% | 0.47% | 0.49% | 0.74% | **0.95%** | **~0.96%** |
-| NIM (Global) | ~2.3% | ~2.1% | ~2.1% | ~2.7% | ~2.9% | ~2.6% | ~2.6% |
+| **ROE** | **-7%** | 4% | 6% | 6% | 10% | **12%** | **~15% (Q3 ann.)** |
+| **ROA** | **-0.48%** | 0.30% | 0.47% | 0.49% | 0.74% | **0.95%** | **~0.96% (9M)** |
+| NIM (Global) | ~2.3% | ~2.1% | ~2.1% | ~2.7% | ~2.9% | ~2.57% (FY) | ~2.51% (9M) |
 | Cost-to-Income | ~65% | ~60% | ~58% | ~55% | ~55% | ~55% | ~55% |
 | Credit Cost | ~3.0% | ~2.5% | ~2.0% | ~1.2% | ~0.8% | ~0.47% | ~0.42% |
 | Leverage (Assets/Equity) | **14.7x** | 14.7x | 13.2x | 13.7x | 13.1x | 13.1x | 13.1x |
@@ -238,7 +238,7 @@ For banks specifically: A bank that must repeatedly raise equity capital at belo
 | **Mediocre** | **0.5-1.0%** | **8-12%** | **0.8-1.5x** |
 | Poor | <0.5% | <8% | <1.0x |
 
-**BoI sits at the boundary of "Mediocre" and "Good."** ROA of 0.95% is improving but still below the 1% threshold that separates decent banks from good ones. The PSB peer average ROA is ~1.12%. ROE of 12% at Q3 FY26 15.34% (annualised quarterly) is trending up but needs to sustain through a full credit cycle.
+**BoI sits at the boundary of "Mediocre" and "Good."** ROA of 0.95% is improving but still below the 1% threshold that separates decent banks from good ones. The PSB peer average ROA is ~1.12%. ROE has reached 12.4% for FY2025 (full-year) and 15.3% on a Q3 FY26 annualised basis — trending up, but needing to sustain through a full credit cycle to prove durability.
 
 **Critical distinction:** BoI's ROE improvement is driven primarily by:
 1. Lower credit costs (cyclical, not structural)
@@ -258,7 +258,7 @@ At ROE of 12-15% and 80% retention, book value compounds at ~10-12% annually. Th
 **Moat Type: NARROW — Government-granted franchise + branch network**
 
 1. **CASA Ratio & Cost of Deposits: ⚠️ BELOW AVERAGE**
-   - CASA at ~40% is below SBI (~40%), well below HDFC Bank (~38% but with much higher overall franchise quality) and Indian Bank (~40%). BoI's CASA has been trending DOWN, which is the wrong direction.
+   - CASA at ~40% is comparable to SBI (~40%) and Indian Bank (~40%), but BoI's overall deposit franchise quality is weaker — HDFC Bank, despite a similar headline CASA (~38%), generates far superior NIM because of its granular retail deposit base, lower cost of funds, and premium pricing power. BoI's CASA has been trending DOWN (from ~44% in FY2021-22), which is the wrong direction.
    - Cost of deposits rising from 3.3% (FY2022) to ~4.9% (H1 FY26) — this directly compresses NIM.
 
 2. **Distribution Network: ✅ ADEQUATE**
@@ -341,10 +341,9 @@ BoI is in the **Growth/Recovery Phase** — post-turnaround, with accelerating p
 ### Buffett's $1 Test
 
 From FY2020 to FY2025:
-- Total retained earnings: ~₹20,820 Cr (cumulative net income minus dividends, FY2021-FY2025; excluding the FY2020 loss year)
-- Including FY2020 loss: ~₹17,769 Cr net retained
+- Total retained earnings (including FY2020 loss): ~₹17,769 Cr (cumulative net income minus dividends, FY2020-FY2025)
 - Change in market cap: From ~₹15,000 Cr (FY2020) to ~₹77,500 Cr (Mar 2026) = **+₹62,500 Cr**
-- **$1 Test: ₹62,500 / ₹20,820 = ₹3.00 of market value created per ₹1 retained** ✅ PASSES (but driven by re-rating from crisis lows, not sustainable earning power)
+- **$1 Test: ₹62,500 / ₹17,769 = ₹3.52 of market value created per ₹1 retained** ✅ PASSES (but driven by re-rating from crisis lows, not sustainable earning power)
 
 This is misleading, though. The stock re-rated from a crisis P/B of ~0.3x to ~1.0x. A significant portion of the "market value creation" is simply a recovery in sentiment, not value creation through compounding. In a normalised environment, the $1 test result would be much more modest.
 
@@ -385,9 +384,9 @@ PSB management is structurally constrained — decisions are influenced by gover
 | CRAR | ~14.0% | ~15.5% | ~16.0% | ~16.7% | ~16.8% | **~17.1%** |
 | CET-1 | ~11.5% | ~12.5% | ~13.0% | ~14.0% | ~14.8% | ~14.5% |
 | **Profitability** | | | | | | |
-| NIM (Global) | ~2.1% | ~2.1% | ~2.7% | ~2.9% | ~2.6% | **~2.57%** |
-| ROA | 0.30% | 0.47% | 0.49% | 0.74% | 0.95% | **~0.96%** |
-| ROE | 4% | 6% | 6% | 10% | 12% | **~15%** |
+| NIM (Global) | ~2.1% | ~2.1% | ~2.7% | ~2.9% | ~2.57% | **~2.51% (9M)** |
+| ROA | 0.30% | 0.47% | 0.49% | 0.74% | 0.95% | **~0.96% (9M)** |
+| ROE | 4% | 6% | 6% | 10% | 12% | **~15% (Q3 ann.)** |
 
 ### The Big Picture
 
@@ -469,15 +468,15 @@ Using a more conservative g of 10%: Fair P/B = (15% - 10%) / (12% - 10%) = **2.5
 | PV of 10-yr Excess Returns / share | -₹14 | +₹17 | +₹68 |
 | Terminal Value of Excess Returns | ₹0 | ₹25 | ₹100 |
 | **Intrinsic Value Per Share** | **₹170** | **₹226** | **₹352** |
-| **Margin of Safety at ₹170** | **0%** | **+33%** | **+107%** |
+| **Margin of Safety (IV−CMP)/IV** | **0%** | **24.8%** | **51.7%** |
 
 ### Summary
 
-| Scenario | Intrinsic Value | Margin of Safety | Upside/Downside |
+| Scenario | Intrinsic Value | Margin of Safety (IV−CMP)/IV | Upside from CMP (IV−CMP)/CMP |
 |---|---|---|---|
-| Conservative (ROE=11%) | ₹170 | 0% | Fairly priced |
-| Base (ROE=13%) | ₹226 | 33% | +33% upside |
-| Optimistic (ROE=16%) | ₹352 | 107% | +107% upside |
+| Conservative (ROE=11%) | ₹170 | 0% | 0% — Fairly priced |
+| Base (ROE=13%) | ₹226 | **24.8%** | +32.9% upside |
+| Optimistic (ROE=16%) | ₹352 | **51.7%** | +107.1% upside |
 
 ---
 
@@ -488,7 +487,7 @@ Using a more conservative g of 10%: Fair P/B = (15% - 10%) / (12% - 10%) = **2.5
 | Input | Value |
 |---|---|
 | CMP | ₹170 |
-| TTM Normalised EPS | ₹21.58 (reported TTM) |
+| TTM Reported EPS | ₹21.58 (note: Section 5 normalised EPS is ~₹11.2 — reported EPS is used here to show what the market is pricing) |
 | Current PE | 7.9x |
 | Shares Outstanding | 455.3 Cr |
 
@@ -518,7 +517,7 @@ Using a more conservative g of 10%: Fair P/B = (15% - 10%) / (12% - 10%) = **2.5
 | Benchmark | EPS CAGR |
 |---|---|
 | India nominal GDP growth | 10-12% |
-| BoI 5-year EPS CAGR (FY20-25) | ~38% (from losses to profit — not repeatable) |
+| BoI 5-year EPS trajectory (FY20-25) | N/M (from -₹9.31 loss to +₹20.97 profit — CAGR is mathematically undefined from a negative base) |
 | BoI 3-year EPS CAGR (FY22-25) | ~35% |
 | Going forward sustainable EPS growth | **10-15%** (ROE × retention + some operating leverage) |
 | PSB sector average | ~12-15% |
@@ -539,9 +538,11 @@ If terminal PE stays at 8x (market doesn't re-rate), the stock is a 10-12% annua
 
 | Metric | FY2023 | FY2024 | FY2025 | Q3 FY26 |
 |---|---|---|---|---|
-| ROA | 0.49% | 0.74% | 0.95% | 0.96% |
+| ROA | 0.49% | 0.74% | 0.95% | 0.96% (9M avg) |
 | Leverage (Assets/Equity) | 13.7x | 13.1x | 13.1x | 13.1x |
-| **ROE (ROA × Leverage)** | **~6.7%** | **~9.7%** | **~12.4%** | **~12.6%** |
+| **ROE (ROA × Leverage)** | **~6.7%** | **~9.7%** | **~12.4%** | **~12.6% (9M basis)** |
+
+> **Note on Q3 FY26 ROE:** The bank reported Q3 FY26 ROE of 15.34% (single-quarter annualised), which reflects a particularly strong quarter. The 9M FY26 average ROA of 0.96% × year-end leverage of 13.1x yields ~12.6%. The sustainable ROE likely lies in the **12–14%** range — above FY2025's 12.4% but below Q3's annualised peak of 15.3%. The valuation analysis uses 12–15% as the range of scenarios.
 
 **Quality Check:**
 - Leverage is STABLE at ~13x — not rising. This is positive.
@@ -586,7 +587,7 @@ If terminal PE stays at 8x (market doesn't re-rate), the stock is a 10-12% annua
 
 | Condition | Assessment |
 |---|---|
-| 10-year return > 10% even if P/B halves | ❌ NO (at ROE=12%, P/B halving to ~0.46x gives ~3.1%) |
+| 10-year return > 10% even if P/B halves | ❌ NO (at ROE=12%, P/B halving to ~0.46x gives ~2.2%; even 0.5x gives only 3.1%) |
 | 10-year return > 10% if P/B stays at current | ⚠️ Borderline (9.6% at ROE=12%, 12% at ROE=15%) |
 | 10-year return > 10% only if P/B expands | At ROE=12%, YES — needs P/B expansion |
 
@@ -705,7 +706,7 @@ BoI's turnaround is already well underway. The question is sustainability, not i
 | Management Quality & Risk Culture | **5** | PSB constraints; rotating leadership; history of reckless lending |
 | Earnings Quality (Normalised vs Reported) | **5** | Current EPS inflated by cyclically low credit costs; normalised EPS ~₹11-15 |
 | Valuation (P/B vs Fair P/B) | **7** | ~0.92x book vs fair 1.0-1.2x — slightly cheap |
-| Margin of Safety (Excess Return Model) | **6** | 0-33% upside in base-to-conservative case; limited downside at 1x book |
+| Margin of Safety (Excess Return Model) | **6** | 0-25% MoS in base-to-conservative case; limited downside at ~1x book |
 | Book Value Compounding Potential | **6** | 10-12% BV CAGR — decent but not exciting; risk of dilution |
 | **Buffett Verdict** | | **DEEP VALUE / RECOVERY PLAY — NOT A BUFFETT BANK.** BoI is a middling PSB that has executed a credible turnaround from crisis lows. At ~1x book, it offers modest upside if ROE sustains at 12-15%, with the possibility of significant re-rating if ROE reaches 15%+ structurally. However, the NIM compression, declining CASA, massive historical dilution, and PSB structural constraints make this a "fair company at a fair price" — acceptable for a diversified portfolio but NOT a high-conviction Buffett holding. The easy money (7x from crisis lows) has been made. From here, expect 10-15% annual returns if everything goes well, with meaningful downside risk if the credit cycle turns. |
 | **Buy Zone** | | **Fair Value / Hold zone** (₹156-221). Current price ₹170 is at the lower end of fair value. |
