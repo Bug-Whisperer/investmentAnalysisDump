@@ -53,7 +53,7 @@ Bandhan's moat WAS its unmatched rural distribution (6,300+ banking outlets), de
 | **ROA (%)** | ~4.4% | ~3.6% | ~3.9% | **~4.1%** | ~2.1% | **0.09%** | 1.41% | 1.25% | 1.43% | ~0.5% |
 | **ROE (%)** | **29%** | 19% | 19% | **23%** | 14% | **1%** | 12% | 11% | 12% | ~4% |
 
-> **Note 1 — Screener Data Format for Banks:** Screener.in's "Expenses" line for banks bundles **operating expenses, depreciation, AND provisions/credit costs** into a single figure. This means Cost-to-Income Ratio, PPOP, and Provisions cannot be derived from the table above. These metrics are presented separately below from the bank's press releases.
+> **Note 1 — Screener Data Format for Banks:** Screener.in's "Expenses" line for banks bundles **operating expenses AND provisions/credit costs** into a single figure (Depreciation is reported separately by Screener). This means Cost-to-Income Ratio, PPOP, and Provisions cannot be derived from the table above. These metrics are presented separately below from the bank's press releases.
 
 **Key Operating Metrics (from Press Releases — separate from Screener P&L above):**
 
@@ -178,11 +178,11 @@ The restructured book post-COVID has largely resolved, but slippages remain elev
 |---|---|---|---|
 | Net Income (₹ Cr) | 2,195 | 2,230 | 2,745 |
 | Less: Normalised Credit Cost @ 2% (₹ Cr) | ~2,440 | ~2,500 | ~2,740 |
-| Add: Actual Provisions Already Charged | ~2,000 | ~2,000 | ~2,200 |
-| **Normalised Earnings (₹ Cr)** | ~1,755 | ~1,730 | ~2,205 |
-| **Normalised EPS (₹)** | ~10.9 | ~10.7 | ~13.7 |
+| Add: Actual Credit Cost Charged (from press releases) | ~2,040 | ~2,440 | ~3,700 |
+| **Normalised Earnings (₹ Cr)** | ~1,795 | ~2,170 | **~3,705** |
+| **Normalised EPS (₹)** | ~11.1 | ~13.5 | **~23.0** |
 
-Under this more forgiving scenario, normalised EPS is ~₹13-14, giving a normalised P/E of ~11-12x at CMP of ₹160.
+Under this scenario using press-release credit cost data, FY25 normalised EPS is ~₹23 — substantially higher than reported EPS of ₹17.04 — because the bank **over-provisioned** relative to a 2% normalised credit cost (actual credit cost was ₹3,700 Cr vs. normalised ₹2,740 Cr). This implies the FY25 P&L was penalised by ~₹960 Cr of excess provisioning, building a buffer for future stress. At CMP ₹160, the normalised P/E on this basis is just ~7x — suggesting the stock is pricing in permanently elevated credit costs.
 
 > *Buffett: "The accounting numbers are the starting point, not the end point, of business analysis."* — For Bandhan, the gap between reported earnings and normalised earnings is large and must not be ignored.
 
@@ -387,7 +387,7 @@ Promoter (Bandhan Financial Holdings, controlled by C.S. Ghosh) holds ~39.7%. Th
 
 **POSITIVE:** The secured book has grown from 20% to 57% of advances — this is a structural de-risking of the loan book that will, over time, reduce NPA volatility and credit costs. Collection efficiency is improving for post-2022 vintages.
 
-**NEGATIVE:** CASA ratio collapse from 43% to 27% is extremely concerning. NIM compression from 8%+ to 5.9% reflects both the secured shift (lower yields) and higher funding costs. Cost-to-income remains elevated at 54-60%.
+**NEGATIVE:** CASA ratio collapse from 43% to 27% is extremely concerning. NIM compression from 8%+ to 5.9% reflects both the secured shift (lower yields) and higher funding costs. Cost-to-income improved to ~47% in FY25 (per press releases) but has regressed to ~60% in Q3 FY26 as provisioning pressures returned.
 
 ---
 
