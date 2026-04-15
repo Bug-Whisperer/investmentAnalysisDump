@@ -1,7 +1,7 @@
 # Billionbrains Garage Ventures Ltd (GROWW) — Warren Buffett–Style Deep Dive Analysis
 
 **Analysis Date:** 10 April 2026
-**CMP:** ₹187 | **Market Cap:** ~₹1,15,005 Cr | **P/E:** ~62x | **P/B:** ~15.7x | **Face Value:** ₹2
+**CMP:** ₹187 | **Market Cap:** ~₹1,15,005 Cr | **P/E:** ~62x (FY26E ann.) | **P/B:** ~15.7x | **Face Value:** ₹2
 **Shares Outstanding (Diluted):** ~615 Cr | **52-Week Range:** ₹112 – ₹194
 **IPO Price:** ₹100 (Listed 12 Nov 2025 at ₹114) | **Sector:** Financial Services — Stockbroking & Allied
 **Mode:** STANDARD (Fintech/Technology Platform — NOT a bank or NBFC)
@@ -34,13 +34,15 @@ Groww (operated by Billionbrains Garage Ventures Ltd) is India's largest digital
 | Other Income | 0 | 119 | (1,337)¹ | 0 |
 | Interest | 0 | 2 | 4 | 43 |
 | Depreciation | 3 | 12 | 20 | 25 |
-| Profit Before Tax | (236) | 504 | (618) | **2,464** |
+| Profit Before Tax | (236) | 504 | (618) | **2,464**³ |
 | Tax Rate | 1% | 9% | 30% | 26% |
 | **Net Income** | **(−239)** | 458 | (805)¹ | **1,824** |
 | Net Margin | (56%) | 40.1% | (28.8%) | **44.9%** |
 | Adj. EPS (on ~615 Cr shares) | (₹0.39) | ₹0.74 | (₹1.31) | **₹2.97** |
 
 ¹ FY24 PAT was distorted by a one-time accounting hit of ~₹1,337 Cr related to the amalgamation of Groww Inc. (US holding company) into Billionbrains. Excluding this, FY24 operating profit was ₹743 Cr — the business was profitable.
+
+³ FY25 PBT as reported on Screener.in is ₹2,464 Cr. The line-item sum (EBITDA 2,530 + Other Income 0 − Interest 43 − Depreciation 25) yields ₹2,462 Cr — a ₹2 Cr gap attributable to rounding in Screener's annual aggregation. The ₹2,464 figure is used as reported.
 
 ### Quarterly Trend (₹ Cr)
 
@@ -187,7 +189,7 @@ Groww has built a meaningful moat through multiple reinforcing layers:
 
 **1. Switching Costs (Moderate-to-Strong):** Once a user has a demat account, trade history, and portfolio on Groww, switching involves transferring the demat account (cumbersome process), losing portfolio tracking continuity, and re-learning a new interface. For mutual fund SIP investors (Groww's largest user segment by count), inertia is extremely powerful.
 
-**2. Scale Advantage (Strong):** With 37 million demat accounts, 20.4 million transacting users, and #1 market share on NSE (26.8% of active clients), Groww has the lowest customer acquisition cost among digital brokers. Marketing spend per acquired user declines as brand recognition grows — CAC fell 33% QoQ to ~₹900 in Q3 FY26.
+**2. Scale Advantage (Strong):** With 37 million demat accounts, 20.4 million transacting users, and #1 market share on NSE (28.8% of active clients as of Q3 FY26), Groww has the lowest customer acquisition cost among digital brokers. Marketing spend per acquired user declines as brand recognition grows — CAC fell 33% QoQ to ~₹900 in Q3 FY26.
 
 **3. Data & Cross-Sell Network (Growing):** Every user interaction generates data that improves product recommendations, risk assessment (for lending), and platform experience. The platform can sell stocks, mutual funds, derivatives, bonds, MTF, personal loans, and AMC products to the same user at near-zero incremental distribution cost.
 
@@ -268,9 +270,13 @@ Groww has proven the model (profitable, market-leading, high margins), and India
 **Founder-Led Management:** Groww is led by co-founders Lalit Keshre (CEO), Harsh Jain, Neeraj Singh, and Ishan Bansal — all former Flipkart employees. The tech-first DNA is evident in the product's simplicity and rapid feature rollout.
 
 **Buffett's $1 Test:**
-- Retained Earnings (FY23-FY25): ₹458 + (−₹805) + ₹1,824 = **₹1,477 Cr**
-- Book Value Increase (FY23 → FY25): ₹4,812 − ₹3,273 = **₹1,539 Cr**
-- **₹1.04 of book value created per ₹1 retained** — Pass (marginally above $1)
+- Retained Earnings (FY23+FY24+FY25): ₹458 + (−₹805) + ₹1,824 = **₹1,477 Cr**
+- Book Value Change (FY22-end → FY25-end): ₹4,812 − ₹2,706 = **₹2,106 Cr**
+- However, equity capital rose from ₹0.11 Cr to ₹366 Cr during this period (~₹366 Cr from share issuances/ESOPs, not retained earnings)
+- BV change attributable to retained earnings: ₹2,106 − ₹366 = **₹1,740 Cr**
+- **₹1.18 of book value created per ₹1 retained** — Pass
+
+The test is somewhat distorted for a pre-IPO company with equity restructuring (the Groww Inc. amalgamation reshuffled equity capital in FY25). Nonetheless, management has created more than ₹1 of book value per ₹1 retained — a positive signal.
 
 Note: The traditional $1 test using market cap change is not applicable because the company was unlisted for most of this period. The IPO in November 2025 precludes a meaningful market-cap-based comparison.
 
@@ -436,7 +442,7 @@ Groww trades at a significant premium to traditional brokers (Angel One, ICICI S
 | Net Profit Margin | (56.0%) | 40.1% | (28.8%) | **44.9%** |
 | Asset Turnover | 0.107 | 0.259 | 0.436 | **0.449** |
 | Equity Multiplier | 1.48 | 1.47 | 2.22 | **2.47** |
-| **ROE** | **(8.8%)** | **15.3%** | **(27.9%)** | **49.9%** |
+| **ROE** | **(−8.8%)** | **15.3%** | **(27.9%)** | **49.9%** |
 
 **Quality Verdict:** FY25's 50% ROE is overwhelmingly driven by high margins (44.9%), not leverage (2.47x — moderate). This is the QUALITY signal. ROCE (62.6%) > ROE (49.9%) — confirms the underlying business is generating exceptional returns before financing effects.
 
@@ -506,13 +512,13 @@ This is an extraordinary safety net: even if the market's sentiment sours dramat
 
 | Your Entry Zone | Entry Range | Current P&L | Buffett's Advice |
 |---|---|---|---|
-| Deep Value (<₹95) | IPO @ ₹100 or below | **+87% to +97%** profit | **HOLD.** You captured the re-rating. BV compounding will do the rest. Trim only if position is grossly oversized. |
-| Value (₹95-143) | Bought near listing | **+31% to +97%** profit | **HOLD.** Good entry. Let compounding work. Add on meaningful dips (<₹143). |
+| Deep Value (<₹95) | Never traded here post-listing | — | If it ever reaches this level, back up the truck. |
+| Value (₹95-143) | IPO @ ₹100, listing-day ₹112-131 | **+43% to +87%** profit | **HOLD.** You captured the re-rating. BV compounding will do the rest. Add on meaningful dips (<₹119). |
 | Fair Value (₹143-190) | Bought recently | **−2% to +31%** | **HOLD but don't add.** You're paying fair price. Returns from here depend on execution. No new money until price corrects to Value zone. |
 | Fully Valued (₹190-238) | Bought at highs | **−2% to −21%** loss | **HOLD if conviction is high.** If BV compounds at 35%, price will catch up in 1-2 years. But don't add at these levels. Consider trimming if you need the capital. |
 | Overvalued (>₹238) | — | Not reached yet | **SELL if you ever paid this.** |
 
-**Buffett with small capital:** With a small capital base, Buffett would probably NOT buy Groww at ₹187. He'd say: *"It's a wonderful business but the price isn't wonderful. I'd wait for a fat pitch."* He would keep it on his watchlist and buy aggressively during any market panic that pushes the stock into the ₹95-130 range.
+**Buffett with small capital:** With a small capital base, Buffett would probably NOT buy Groww at ₹187. He'd say: *"It's a wonderful business but the price isn't wonderful. I'd wait for a fat pitch."* He would keep it on his watchlist and buy aggressively during any market panic that pushes the stock into the ₹95-119 range (8-10x book).
 
 ---
 
@@ -537,7 +543,7 @@ This is an extraordinary safety net: even if the market's sentiment sours dramat
 
 3. **The business is too young.** Groww has only 4 years of meaningful financials. Buffett likes decades of track record. He can't assess management through a credit cycle, a prolonged bear market, or a regulatory crackdown.
 
-**However, if Buffett were working with a small capital base and found Groww at 8-10x book (₹95-120 range), he might take a position.** The business model IS simple, the growth runway IS enormous, and the margins ARE extraordinary. It's the PRICE that's the problem, not the business.
+**However, if Buffett were working with a small capital base and found Groww at 8-10x book (₹95-119 range), he might take a position.** The business model IS simple, the growth runway IS enormous, and the margins ARE extraordinary. It's the PRICE that's the problem, not the business.
 
 **Buffett:** *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* Groww is a wonderful company, but ₹187 is not a wonderful price — it's a fair-to-rich price.
 
@@ -578,13 +584,13 @@ This is an extraordinary safety net: even if the market's sentiment sours dramat
 | **Margin of Safety** | **3** | Minimal; base DCF gives 28% MOS but conservative case shows downside |
 | **Buffett Verdict** | **6** | Wonderful business, fair-to-rich price. NOT a Buffett buy at current levels. |
 | **Buy Zone** | — | Currently in Fair Value / Hold zone (₹143-190) |
-| **Overall** | **6.5/10** | **HOLD if owned. WATCHLIST if not. BUY below ₹130.** |
+| **Overall** | **6.5/10** | **HOLD if owned. WATCHLIST if not. BUY below ₹119 (10x book).** |
 
 ### Buffett Verdict (Concise)
 
 Groww is India's leading retail investing platform — a digital toll bridge on the country's financial deepening, generating 62% EBITDA margins with virtually zero capital requirements. The business is genuinely exceptional: high ROE (50%), explosive growth (45%+ revenue CAGR), declining CAC, expanding market share, and an enormous TAM as India moves from ~10% demat penetration toward developed-market levels.
 
-**However, at ₹187 (15.7x book, 62x earnings), the stock prices in most of this excellence.** The margin of safety is thin; the conservative DCF shows ~28% downside. Buffett would admire the business enormously but would wait for a better price — ideally below ₹130 (10x book) where the risk-reward becomes asymmetric. He would also be uncomfortable with the 53% revenue dependence on derivatives and the young company's lack of track record through adverse regulatory or market cycles.
+**However, at ₹187 (15.7x book, 62x earnings), the stock prices in most of this excellence.** The margin of safety is thin; the conservative DCF shows ~28% downside. Buffett would admire the business enormously but would wait for a better price — ideally below ₹119 (10x book) where the risk-reward becomes asymmetric. He would also be uncomfortable with the 53% revenue dependence on derivatives and the young company's lack of track record through adverse regulatory or market cycles.
 
 **Recommendation:** If you own it from IPO (₹100-₹120), HOLD and let the compounding machine work. If you don't own it, put it on your watchlist and wait for a significant market correction to provide a better entry. Do NOT initiate a position at ₹187 expecting quick returns — the valuation already reflects optimistic growth.
 
