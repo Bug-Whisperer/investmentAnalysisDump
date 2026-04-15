@@ -4,7 +4,7 @@
 **Current Market Price:** ₹1,803  
 **Market Capitalisation:** ₹10,28,603 Cr.  
 **Stock P/E:** 33.6 | **P/B:** 8.73 | **ROE:** 23.2% | **ROCE:** 13.5%  
-**52-Week High / Low:** ₹2,175 / ₹1,612  
+**52-Week High / Low:** ₹2,175 / ₹1,669  
 
 > **Sector Detection:** Bharti Airtel is a **non-financial telecom company**. It is NOT a bank, NBFC, or insurance company (despite owning Airtel Payments Bank as a small subsidiary). **[STANDARD MODE] is activated** throughout this analysis.
 
@@ -50,10 +50,7 @@ Buffett: *"The key to investing is not assessing how much an industry is going t
 | Net Profit Growth | — | 67.2% | 36.5% | -38.5% | -48.5% | -22.7% | — | — | — | 47.9% | -30.3% | **337.9%** | 53.2% |
 | **EPS (₹)** | 5.04 | 8.41 | **11.05** | 6.91 | 2.00 | 0.74 | **-55.06** | -25.63 | 7.23 | 14.97 | 13.20 | **58.85** | 53.30 |
 | Dividend Payout % | 26% | 33% | 9% | 11% | **194%** | **244%** | -3% | 0% | 39% | 27% | 62% | 28% | — |
-| **EBITDA (Op Profit + D&A)** | 42,162 | 53,460 | 51,434 | 55,103 | 49,322 | **47,112** | 64,300 | 74,683 | 90,625 | 107,706 | 117,431 | **130,630** | **166,585** |
-| **EBITDA Margin** | 49.1% | 55.6% | 53.3% | 57.7% | 59.7% | **58.3%** | 73.5% | 74.2% | 77.8% | 77.4% | 78.3% | 75.5% | **81.9%** |
-
-**Note on EBITDA vs OPM:** Screener's "Operating Profit" already includes some items that are typically above EBITDA, so the OPM shown (31-57%) represents the operating margin after certain adjustments. True EBITDA (adding back Depreciation to Operating Profit) shows margins of 49-82%, which is typical for asset-heavy telecom businesses where depreciation is a massive non-cash charge.
+**Note on EBITDA:** Per Screener convention, Operating Profit already equals EBITDA (i.e., Depreciation & Amortisation is deducted below Operating Profit, not above it). Therefore, EBITDA = Operating Profit figures shown above, and EBITDA Margin = OPM % (31-57%). The OPM expansion from 31% (FY2014) to 57% (TTM) reflects the full EBITDA margin improvement.
 
 ### Trend Narrative
 
@@ -61,13 +58,13 @@ The income statement tells a dramatic story of **destruction, survival, and resu
 
 1. **Pre-Jio Era (FY2014-FY2017):** Stable revenue around ₹85,000-96,000 Cr with healthy 31-37% operating margins. A mature, profitable business.
 
-2. **Jio Disruption Trough (FY2018-FY2019):** Revenue collapsed 13-15% as Reliance Jio offered free services. OPM compressed to 32%. Net profit fell to just ₹1,688 Cr in FY2019 — an 88% decline from FY2016 peak. This was the existential crisis.
+2. **Jio Disruption Trough (FY2018-FY2019):** Revenue collapsed 13-15% as Reliance Jio offered free services. OPM compressed to 32%. Net profit fell to just ₹1,688 Cr in FY2019 — a 76% decline from FY2016 peak. This was the existential crisis.
 
 3. **Recovery & Transformation (FY2020-FY2022):** Despite booking massive losses in FY2020 (-₹30,664 Cr, driven by AGR provision of ~₹37,775 Cr in Other Income/Exceptional items) and FY2021 (-₹12,364 Cr), the OPERATING business was healing rapidly. OPM expanded from 32% to 49% as industry consolidated and Airtel invested heavily in 4G/network quality.
 
 4. **Profit Explosion (FY2023-FY2025 & TTM):** Revenue acceleration (14-25% growth) combined with margin expansion drove net profit from ₹8,305 Cr (FY2022) to ₹37,481 Cr (FY2025) — a 4.5x increase in just 3 years. TTM operating margin at 57% is extraordinary.
 
-**The margin expansion is the real story.** OPM went from 31% (FY2014) to 57% (TTM) — nearly doubling. This is the hallmark of an industry that consolidated from 12 players to 3, eliminated irrational pricing, and now operates as a rational oligopoly where ARPU increases flow almost entirely to the bottom line.
+**The margin expansion is the real story.** OPM (= EBITDA margin) went from 31% (FY2014) to 57% (TTM) — nearly doubling. This is the hallmark of an industry that consolidated from 12 players to 3, eliminated irrational pricing, and now operates as a rational oligopoly where ARPU increases flow almost entirely to the bottom line.
 
 Buffett: *"In a business selling a commodity-type product, it's impossible to be a lot smarter than your dumbest competitor."* The genius of India telecom's current structure is that the "dumbest competitor" (Vodafone Idea) is barely surviving, while the rational players (Airtel and Jio) have enormous pricing power. EPS growth is massively outpacing revenue growth — a classic sign of operating leverage kicking in.
 
@@ -82,7 +79,9 @@ Buffett: *"In a business selling a commodity-type product, it's impossible to be
 | FY2025 | 2,900 | 580.0 | +3.8% |
 | Sep 2025 | 2,900 | 580.0 | 0% |
 
-Dilution of ~45% over 12 years is notable. The major jump was the 2019-2020 rights issue (₹25,000 Cr raised to shore up the balance sheet post-AGR crisis). Since then, dilution has been minimal (~3-4% from FY2020 to FY2025), and shares have stabilised at ~580 Cr.
+*Note on EPS vs Net Profit: Screener's "Net Profit" is the total consolidated figure including minority interests (primarily from Airtel Africa and other subsidiaries). EPS, however, is computed on Net Profit attributable to equity holders of the parent, which is lower. For example, FY2025 consolidated NP is ₹37,481 Cr, but NP attributable to parent equity holders is approximately ₹34,100 Cr, yielding EPS of ₹58.85 on ~580 Cr shares. This gap is significant for Airtel due to its listed subsidiary Airtel Africa.*
+
+Dilution of ~45% over 12 years is notable. The major jump was the 2019-2020 rights issue (₹25,000 Cr raised to shore up the balance sheet post-AGR crisis). Since then, dilution has been modest (~6.3% from FY2020 to FY2025, driven by ESOPs and convertible instruments), and shares have stabilised at ~580 Cr.
 
 ---
 
@@ -125,9 +124,9 @@ Airtel's balance sheet is **NOT a traditional Buffett fortress** — but it is a
 
 **Positives:**
 - **Debt is declining:** Borrowings peaked at ₹2,26,020 Cr (FY2023) and have fallen to ₹2,08,010 Cr (H1 FY26) — a ₹18,000 Cr reduction while profits surged. This is exactly the right trajectory.
-- **Equity is surging:** Shareholders' equity nearly doubled from ₹66,554 Cr (FY2022) to ₹1,13,672 Cr (FY2025), driven by retained earnings from explosive profit growth.
+- **Equity is surging:** Shareholders' equity rose 71% from ₹66,554 Cr (FY2022) to ₹1,13,672 Cr (FY2025), driven by retained earnings from explosive profit growth.
 - **Debt/Equity improved from 2.91x (FY2023) to 1.77x (current)** — a massive deleveraging in just 2 years.
-- **Interest coverage of 3.1x** — adequate and improving as EBITDA grows faster than interest expense.
+- **Interest coverage of ~3.9x (EBIT/Interest for FY2025)** — adequate and improving as EBITDA grows faster than interest expense.
 - **Negative working capital** is a POSITIVE sign for a subscription business — Airtel collects cash from customers before paying most expenses.
 
 **The trajectory matters more than the snapshot.** Airtel is deleveraging rapidly. If the current trajectory continues (profits growing 25-30% while debt stays flat or declines), Debt/Equity could reach 1.0x within 2-3 years. The fortress is being built, even if it's not yet complete.
@@ -147,15 +146,16 @@ Buffett: *"We will reject interesting opportunities rather than over-leverage ou
 | Financing Cash Flow | 2,774 | -9,672 | -11,946 | -351 | 1,920 | 9,464 | 19,144 | -24,910 | -15,203 | -24,470 | -27,778 | -36,533 |
 | **Net Cash Flow** | 3,826 | -3,914 | 1,905 | -2,752 | 3,835 | 1,248 | 7,675 | -3,991 | -1,664 | 1,623 | 31 | 1,601 |
 
-### Free Cash Flow Derivation (₹ Crores)
+### Free Cash Flow (₹ Crores) — From Screener
 
 | Metric | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | **FY2025** |
 |---|---|---|---|---|---|---|---|---|
 | Operating Cash Flow | 29,854 | 20,070 | 18,129 | 48,205 | 55,017 | 65,325 | 78,898 | **98,332** |
-| CapEx (approx, from investing) | -27,940 | -28,286 | -29,598 | -27,286 | -41,478 | -39,232 | -51,089 | -60,198 |
-| **Free Cash Flow (CFO - CapEx)** | **1,914** | **-8,216** | **-11,469** | **20,919** | **13,539** | **26,093** | **27,809** | **38,134** |
-| FCF Margin (FCF/Revenue) | 2.3% | **-10.2%** | -13.1% | 20.8% | 11.6% | 18.8% | 18.5% | **22.0%** |
-| FCF Per Share (₹) | 4.8 | -20.6 | -21.0 | 38.3 | 24.2 | 46.7 | 48.4 | **65.7** |
+| **Free Cash Flow (Screener)** | **4,605** | **-8,980** | **-2,456** | **21,091** | **28,996** | **38,875** | **38,970** | **58,990** |
+| FCF Margin (FCF/Revenue) | 5.6% | **-11.1%** | -2.8% | 21.0% | 24.9% | 27.9% | 26.0% | **34.1%** |
+| FCF Per Share (₹) | 11.5 | -22.5 | -4.5 | 38.6 | 51.8 | 69.2 | 67.7 | **101.7** |
+
+*Note: Screener's FCF = CFO minus purchase of fixed assets (PPE CapEx). The full "Investing Cash Flow" also includes spectrum purchases, investments in subsidiaries, and acquisitions. FCF Per Share uses period-appropriate share counts (FY2018-FY2019: ~400 Cr shares; FY2020-FY2021: ~547 Cr; FY2022+: ~560-580 Cr).*
 
 ### Dividends & Capital Returns
 
@@ -170,9 +170,9 @@ The cash flow story is **outstanding and improving**:
 
 1. **OCF has grown from ₹20,070 Cr (FY2019 trough) to ₹98,332 Cr (FY2025)** — a near 5x increase in 6 years. This is the hallmark of a recovering business with enormous operating leverage.
 
-2. **FCF turned decisively positive from FY2021 onwards** after years of heavy 4G/spectrum investment. FCF of ₹38,134 Cr in FY2025 represents a 22% FCF margin — exceptional for a telecom company.
+2. **FCF turned decisively positive from FY2021 onwards** after years of heavy 4G/spectrum investment. Screener FCF of ₹58,990 Cr in FY2025 represents a 34.1% FCF margin — exceptional for a telecom company.
 
-3. **FCF conversion from Net Income:** FY2025 FCF (₹38,134 Cr) vs Net Income (₹37,481 Cr) — a ~102% conversion ratio. This is excellent quality of earnings. Cash flow is CONFIRMING reported profits, not contradicting them.
+3. **FCF conversion from Net Income:** FY2025 FCF (₹58,990 Cr) vs Net Income (₹37,481 Cr) — a ~157% conversion ratio. FCF significantly exceeds reported net income because depreciation (a large non-cash charge in telecom) exceeds cash PPE CapEx, meaning cash-generating power far exceeds what reported profit suggests.
 
 4. **Financing cash flow turned negative from FY2021** — Airtel is now a NET payer of debt and dividends, not a capital raiser. This is the transition from "building the fortress" to "defending from the fortress."
 
@@ -187,11 +187,13 @@ Buffett: *"We will never become dependent on the kindness of strangers. Too big 
 | Metric | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|---|---|
 | Revenue (₹ Cr) | 80,780 | 87,539 | 100,616 | 116,547 | 139,145 | 149,982 | 172,985 |
-| CapEx (₹ Cr) | 28,286 | 29,598 | 27,286 | 41,478 | 39,232 | 51,089 | 60,198 |
+| CapEx (₹ Cr)* | 28,286 | 29,598 | 27,286 | 41,478 | 39,232 | 51,089 | 60,198 |
 | **CapEx as % of Revenue** | **35.0%** | **33.8%** | **27.1%** | **35.6%** | **28.2%** | **34.1%** | **34.8%** |
 | Depreciation (₹ Cr) | 21,348 | 27,690 | 29,404 | 33,091 | 36,432 | 39,538 | 45,570 |
 | CapEx / D&A | 1.32 | 1.07 | 0.93 | 1.25 | 1.08 | 1.29 | 1.32 |
 | Net Income | 1,688 | -30,664 | -12,364 | 8,305 | 12,287 | 8,558 | 37,481 |
+
+*\*CapEx here uses full "Investing Cash Flow" from Screener, which includes spectrum purchases, investments in subsidiaries, and acquisitions alongside physical PPE CapEx. Screener's FCF line (CFO minus PPE CapEx only) implies pure PPE CapEx in FY2025 was ~₹39,342 Cr (~22.7% of revenue), with the remainder (~₹20,856 Cr) attributable to spectrum, investments, and other items. For telecom, spectrum is operationally necessary so the broader figure is used above. The Owner Earnings calculation below uses D&A as the maintenance CapEx proxy, unaffected by this distinction.*
 
 ### Maintenance vs Growth CapEx Estimate
 
@@ -468,9 +470,9 @@ The Screener Insights data is behind a premium paywall, so I will present the ke
 |---|---|---|---|---|---|---|---|---|---|
 | **PE Ratio** | ~170x | ~210x | Neg | Neg | ~37x | ~36x | ~65x | ~25x | **33.6x** |
 | **P/B Ratio** | ~5.0x | ~4.5x | ~3.5x | ~6.0x | ~5.3x | ~5.7x | ~7.5x | ~7.4x | **8.73x** |
-| **EV/EBITDA (est.)** | ~12x | ~14x | ~10x | ~9x | ~8.5x | ~9.5x | ~11x | ~10.5x | **~8-9x** |
+| **EV/EBITDA*** | ~12x | ~14x | ~10x | ~9x | ~8.5x | ~9.5x | ~11x | ~10.5x | **~10.7x** |
 | **Earnings Yield** | 0.6% | 0.5% | Neg | Neg | 2.7% | 2.8% | 1.5% | 4.0% | **3.0%** |
-| **FCF Yield** | 0.5% | Neg | Neg | 3.5% | 2.4% | 4.6% | 3.5% | **3.7%** | ~3.7% |
+| **FCF Yield** | 1.0% | Neg | Neg | 3.5% | 5.2% | 6.8% | 5.7% | **5.6%** | ~5.6% |
 | **Dividend Yield** | — | — | — | — | ~0.7% | ~0.5% | ~0.7% | ~0.9% | **0.89%** |
 | **PEG Ratio** | — | — | — | — | — | — | — | — | **0.40** |
 | **P/Owner Earnings** | — | — | — | — | — | — | — | ~21x | ~21x |
@@ -481,15 +483,15 @@ The stock is currently trading at a **PE of 33.6x** and **P/B of 8.73x**. Key hi
 
 - The stock has historically traded at 30-40x PE during normal years (when profitable) — the current 33.6x is within the historical range but at the upper end on a normalised basis.
 - **P/B of 8.73x is at an ALL-TIME HIGH.** The stock has NEVER traded sustainably above 7-8x book value. This is the single biggest valuation concern.
-- **EV/EBITDA of ~8-9x** is actually reasonable for a telecom company with growing EBITDA and declining debt. Global telecom peers trade at 6-10x EV/EBITDA.
-- **PEG ratio of 0.40** is extremely attractive — this suggests the stock is cheap RELATIVE to its growth rate (PE of 33.6 ÷ EPS growth of ~53% = 0.40). However, the 53% growth rate is unsustainably high (inflated by FY2025 exceptional items); normalised growth of 20-25% would give a PEG of 1.3-1.7, which is fair but not cheap.
+- **EV/EBITDA of ~10.7x** (current/TTM: EV ≈ ₹12.4 lakh Cr [Mkt Cap ₹10.3L + Net Debt ~₹2.1L] ÷ TTM EBITDA ₹1.15L) is reasonable for a telecom company with growing EBITDA and declining debt. Global telecom peers trade at 7-12x EV/EBITDA. (*Note: historical EV/EBITDA values in the table are approximations and may understate true EV/EBITDA in years when net debt was higher relative to market cap.*)
+- **PEG ratio of 0.40** (per Screener) appears attractive. Note: Screener's PEG uses its own growth rate methodology; the simple calculation PE 33.6 ÷ TTM EPS growth of ~53% = 0.63, not 0.40 — the difference reflects Screener's forward/blended growth estimate. Regardless, the 53% TTM growth rate is unsustainably high (inflated by FY2025 exceptional items); using normalised growth of 20-25% gives a PEG of 1.3-1.7, which is fair but not cheap.
 
 ### Valuation Verdict
 
 The valuation picture is **mixed**:
 - **On earnings-based metrics (PE, P/Owner Earnings, EV/EBITDA):** REASONABLY valued to slightly expensive. PE of 33.6x on normalised earnings is not cheap, but not egregiously expensive for a high-quality compounder with 15-20% earnings growth potential.
 - **On book value metrics (P/B):** EXPENSIVE. P/B of 8.73x is very high and leaves little room for multiple compression before returns suffer.
-- **On cash flow metrics (FCF yield, P/FCF):** FAIR. FCF yield of 3.7% is adequate for a growing company, though not compelling.
+- **On cash flow metrics (FCF yield, P/FCF):** REASONABLY ATTRACTIVE. FCF yield of ~5.6% is solid for a growing company, reflecting the strong cash-generating power of the telecom franchise.
 
 Buffett: *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* Airtel is undoubtedly a wonderful company — the question is whether ₹1,803 is a fair price, and the answer depends heavily on whether you believe the current earnings trajectory (25-30% growth) can continue.
 
@@ -603,33 +605,33 @@ Buffett: *"You don't have to make money back the same way you lost it."* For inv
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **30.6%** EPS CAGR | 36.0% | 41.5% |
-| 10 Years | 21.6% EPS CAGR | 24.4% | 27.2% |
-| 15 Years | 18.7% EPS CAGR | 20.5% | 22.3% |
+| 5 Years | **29.4%** EPS CAGR | 35.3% | 41.2% |
+| 10 Years | 19.3% EPS CAGR | 24.7% | 30.2% |
+| 15 Years | 16.1% EPS CAGR | 21.4% | 26.7% |
 
 #### At Terminal PE = 20x (Market Average)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **22.3%** EPS CAGR | 27.5% | 33.0% |
-| 10 Years | 17.1% EPS CAGR | 19.8% | 22.5% |
-| 15 Years | 15.2% EPS CAGR | 16.9% | 18.7% |
+| 5 Years | **22.2%** EPS CAGR | 27.7% | 33.3% |
+| 10 Years | 15.9% EPS CAGR | 21.2% | 26.5% |
+| 15 Years | 13.9% EPS CAGR | 19.1% | 24.3% |
 
 #### At Terminal PE = 28x (Compounder)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **15.6%** EPS CAGR | 20.7% | 26.0% |
-| 10 Years | 13.4% EPS CAGR | 16.1% | 18.7% |
-| 15 Years | 12.5% EPS CAGR | 14.2% | 16.0% |
+| 5 Years | **14.2%** EPS CAGR | 19.4% | 24.6% |
+| 10 Years | 12.1% EPS CAGR | 17.2% | 22.3% |
+| 15 Years | 11.4% EPS CAGR | 16.5% | 21.5% |
 
 #### At Terminal PE = 35x (Historical Average)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **10.8%** EPS CAGR | 15.8% | 21.0% |
-| 10 Years | 11.0% EPS CAGR | 13.7% | 16.3% |
-| 15 Years | 10.8% EPS CAGR | 12.5% | 14.2% |
+| 5 Years | **9.3%** EPS CAGR | 14.2% | 19.2% |
+| 10 Years | 9.6% EPS CAGR | 14.6% | 19.6% |
+| 15 Years | 9.8% EPS CAGR | 14.7% | 19.7% |
 
 ### Step 4: Reality Check — Is the Implied Growth Reasonable?
 
@@ -637,31 +639,31 @@ Buffett: *"You don't have to make money back the same way you lost it."* For inv
 |---|---|---|
 | India Nominal GDP Growth | 10-12% | Macro estimate |
 | Airtel 5-Year EPS CAGR (Historical) | **32.1%** | Screener data |
-| Airtel 10-Year EPS CAGR | ~18% (est.) | From ₹8.41 (FY2015) to ₹58.85 (FY2025) = 21.5% |
+| Airtel 10-Year EPS CAGR | **21.5%** | From ₹8.41 (FY2015) to ₹58.85 (FY2025) |
 | Industry Average Growth | 15-20% | Oligopoly with ARPU growth |
 | Analyst Consensus Forward Estimates | 18-22% | Market consensus |
 
 ### Traffic Light Assessment
 
 For a **10% hurdle rate over 10 years**:
-- At Terminal PE 35x: Need 11% EPS CAGR → **Well below historical 32% and below even GDP+5%** → 🟢 **GREEN**
-- At Terminal PE 20x: Need 17% EPS CAGR → **Below historical CAGR; in line with consensus** → 🟢 **GREEN**
-- At Terminal PE 15x: Need 22% EPS CAGR → **Below historical but requires continued strong execution** → 🟡 **YELLOW**
+- At Terminal PE 35x: Need 9.6% EPS CAGR → **Well below historical 21.5% and below GDP growth** → 🟢 **GREEN**
+- At Terminal PE 20x: Need 15.9% EPS CAGR → **Below historical CAGR; in line with consensus** → 🟢 **GREEN**
+- At Terminal PE 15x: Need 19.3% EPS CAGR → **Below historical but requires continued strong execution** → 🟡 **YELLOW**
 
 For a **15% hurdle rate over 10 years**:
-- At Terminal PE 35x: Need 14% EPS CAGR → 🟢 **GREEN**
-- At Terminal PE 20x: Need 20% EPS CAGR → 🟡 **YELLOW**
-- At Terminal PE 15x: Need 24% EPS CAGR → 🟠 **ORANGE**
+- At Terminal PE 35x: Need 14.6% EPS CAGR → 🟢 **GREEN**
+- At Terminal PE 20x: Need 21.2% EPS CAGR → 🟡 **YELLOW**
+- At Terminal PE 15x: Need 24.7% EPS CAGR → 🟠 **ORANGE**
 
 ### Step 5: The Verdict
 
-> **At the current price of ₹1,803, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at ~17% CAGR. The company has historically grown EPS at 21-32% CAGR. This implies the market is pricing in REASONABLE growth — well within what the company has historically delivered.**
+> **At the current price of ₹1,803, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at ~16% CAGR. The company has historically grown EPS at 21.5% CAGR (10-year). This implies the market is pricing in REASONABLE growth — well within what the company has historically delivered.**
 
-> **For a 15% return at the same 20x terminal PE, you need ~20% EPS CAGR — still within the range of historical delivery and analyst estimates, but requires sustained strong execution on ARPU and cost efficiency.**
+> **For a 15% return at the same 20x terminal PE, you need ~21% EPS CAGR — roughly in line with the historical 10-year delivery, but requires sustained strong execution on ARPU and cost efficiency.**
 
-**Buffett's Napkin Test:** The math works on the back of a napkin. At 17-20% earnings growth for a decade, you earn 10-15% returns even if the PE compresses to market average. You don't need heroic assumptions. This passes the napkin test.
+**Buffett's Napkin Test:** The math works on the back of a napkin. At 16-21% earnings growth for a decade, you earn 10-15% returns even if the PE compresses to market average. You don't need heroic assumptions. This passes the napkin test.
 
-Buffett: *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* At ₹1,803, Airtel doesn't require a spreadsheet — the basic math is: 20% earnings growth for a decade, buy at 34x PE, sell at 20x PE, still earn ~17% CAGR. That's a decent deal for a wonderful business.
+Buffett: *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* At ₹1,803, Airtel doesn't require a spreadsheet — the basic math is: 16% earnings growth for a decade, buy at 34x PE, sell at 20x PE, still earn ~10% CAGR. At 20%+ earnings growth, you're looking at 15% CAGR. That's a decent deal for a wonderful business.
 
 ### Step 6: Asymmetric Upside Check — Is This a Fat Pitch?
 
@@ -748,7 +750,7 @@ ROE = Net Profit Margin × Asset Turnover × Equity Multiplier
 | FY2024 | 5.7% | 0.34 | 5.39 | 10.4% | ~10.7% |
 | **FY2025** | **21.7%** | **0.36** | **4.45** | **34.7%** | **~23.2%** |
 
-*Note: The DuPont product gives an approximation; reported ROE may differ due to timing of equity changes.*
+*Note: The DuPont product for FY2025 (34.7%) significantly exceeds Screener's reported ROE (23.2%). This gap arises from two factors. First, the DuPont table above uses total consolidated Net Profit Margin (21.7% = ₹37,481 Cr / ₹1,72,985 Cr), which includes minority interests. NP attributable to parent equity holders is ~₹34,100 Cr (EPS ₹58.85 × ~580 Cr shares), giving an attributable margin of ~19.7% — but even using this, the DuPont product (19.7% × 0.36 × 4.45 = 31.6%) still overshoots 23.2%. The remaining gap indicates that Screener's ROE denominator likely includes minority interest equity alongside parent equity, enlarging the equity base and lowering the reported ROE. Since Screener's exact methodology is opaque, the DuPont table is best read for its directional trend rather than point-estimate reconciliation. The DuPont Quality Assessment below remains valid — the key insight is that margins are rising while leverage (equity multiplier) is falling, meaning ROE improvement is genuinely profitability-driven, not leverage-driven.*
 
 ### DuPont Quality Assessment
 
@@ -794,36 +796,37 @@ ROIC of 16.5% is the most reliable indicator of underlying business quality — 
 | Current | ₹207 | Actual |
 | Year 5 | ₹381 | 207 × (1.13)^5 |
 | Year 7 | ₹487 | 207 × (1.13)^7 |
-| Year 10 | ₹699 | 207 × (1.13)^10 |
+| Year 10 | ₹703 | 207 × (1.13)^10 |
 
-#### Expected Annual Return (CAGR) at Current Price of ₹1,803 (Entry P/B: 8.73x)
+#### Expected Annual Return (CAGR) at Current Price of ₹1,803 (Entry P/B: 8.71x)
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 8.73x | Multiple sustains | 16.2% | 15.1% | 14.1% |
-| P/B compresses to 6.5x (0.75× current) | Mild de-rating | 10.4% | 10.8% | 10.9% |
-| P/B compresses to 4.4x (0.5× current) | Significant de-rating | 3.5% | 5.8% | 7.3% |
-| P/B compresses to 5.0x (fair for 18% ROE) | Theoretical fair value | 5.5% | 7.1% | 8.3% |
-| P/B compresses to 4.0x | Historical median (est.) | 2.0% | 4.7% | 6.5% |
-| P/B compresses to 1.0x | Worst case | -16.2% | -10.3% | -5.6% |
+| P/B stays at 8.73x | Multiple sustains | 13.0% | 13.0% | 13.0% |
+| P/B compresses to 6.5x (0.75× current) | Mild de-rating | 6.5% | 8.3% | 9.7% |
+| P/B compresses to 4.4x (0.5× current) | Significant de-rating | -1.6% | 2.4% | 5.5% |
+| P/B compresses to 5.0x (fair for 18% ROE) | Theoretical fair value | 1.1% | 4.3% | 6.9% |
+| P/B compresses to 4.0x | Historical median (est.) | -3.3% | 1.1% | 4.5% |
+| P/B compresses to 1.0x | Worst case | -26.7% | -17.1% | -9.0% |
 
 #### Key Insight
 
-> **At the current entry P/B of 8.73x with a sustainable ROE of ~18% and 72% retention, book value compounds at ~13% annually. If the P/B multiple remains at 8.73x, the return equals the BV compounding rate of ~13% + some excess. The stock can tolerate P/B compression from 8.73x down to approximately 6.5x before the 10-year return drops below the 10% hurdle rate.**
+> **At the current entry P/B of 8.73x with a sustainable ROE of ~18% and 72% retention, book value compounds at ~13% annually. If the P/B multiple remains at 8.73x, the return equals the BV compounding rate of ~13%. The stock can tolerate P/B compression from 8.73x down to approximately 6.7x before the 10-year return drops below the 10% hurdle rate.**
 
-> A 25% compression in P/B (from 8.73 to 6.5) over 10 years still delivers ~11% CAGR. However, a 50% compression (to 4.4x) drops returns to ~7.3% — below the hurdle rate.
+> A 25% compression in P/B (from 8.73 to 6.5) over 10 years delivers ~9.7% CAGR — just below the hurdle rate. A 50% compression (to 4.4x) drops returns to a meagre ~5.5% — deeply below the hurdle rate. This makes the investment outcome significantly sensitive to the market's willingness to sustain a high premium multiple.
 
 #### Traffic Light Verdict
 
 | Condition | Assessment |
 |---|---|
-| 10-year return > hurdle rate even if P/B halves? | **NO** — Returns drop to 7.3% | 
-| 10-year return > hurdle rate if P/B stays within 25%? | **YES** — Returns of 10.9% | 
-| **Verdict** | 🟡 **YELLOW — Risky entry; dependent on sentiment sustaining within a reasonable range** |
+| 10-year return > hurdle rate even if P/B halves? | **NO** — Returns drop to 5.5% | 
+| 10-year return > hurdle rate if P/B stays within 25%? | **NO (marginal)** — Returns of 9.7%, just below 10% | 
+| 10-year return > hurdle rate if P/B stays constant? | **YES** — Returns of 13.0% |
+| **Verdict** | 🟡 **YELLOW — Risky entry; dependent on P/B multiple sustaining near current levels. Even a mild 25% de-rating pushes returns below the hurdle rate over 10 years.** |
 
-This is the critical finding: **At P/B of 8.73x, the investment outcome is highly sensitive to multiple compression.** A 25% de-rating is survivable; a 50% de-rating is not. This is NOT a "buy and forget" entry point — it requires monitoring and confidence that the market will continue valuing Airtel at a premium.
+This is the critical finding: **At P/B of 8.71x, the investment outcome is highly sensitive to multiple compression.** Even a 25% de-rating is barely survivable. This is NOT a "buy and forget" entry point — it requires monitoring and confidence that the market will continue valuing Airtel at a premium.
 
-Munger: *"Over the long term, it's hard for a stock to earn a much better return than the business earns."* With an 18% sustainable ROE and 13% BV compounding, the business itself compounds at ~13%. But at 8.73x P/B, you need the market to continue paying a large premium to capture that compounding. At 3-4x P/B, you'd capture it effortlessly. The high entry P/B is the single biggest risk factor.
+Munger: *"Over the long term, it's hard for a stock to earn a much better return than the business earns."* With an 18% sustainable ROE and 13% BV compounding, the business itself compounds at ~13%. But at 8.71x P/B, you need the market to continue paying a large premium to capture that compounding. If P/B compresses even mildly, returns fall below the hurdle rate. At 3-4x P/B, you'd capture the business compounding effortlessly. The high entry P/B is the single biggest risk factor.
 
 ---
 
@@ -831,17 +834,17 @@ Munger: *"Over the long term, it's hard for a stock to earn a much better return
 
 ### Price Zones Based on DCF and P/B Analysis
 
-| Zone | PE Range | P/B Range | Price Range | Rationale |
+| Zone | PE Range | Implied P/B Range (at BVPS ₹207) | Price Range | Rationale |
 |---|---|---|---|---|
-| **Deep Value / Strong Buy** | <20x | <4.0x | **<₹1,060** | Below conservative DCF; massive margin of safety |
-| **Value / Buy** | 20-28x | 4.0-6.0x | **₹1,060-₹1,490** | Below base-case DCF; attractive risk-reward |
-| **Fair Value / Hold** | 28-35x | 6.0-8.0x | **₹1,490-₹1,865** | Near fair value; hold for compounding |
-| **Fully Valued / Trim** | 35-45x | 8.0-10.0x | **₹1,865-₹2,400** | Above fair value; limited near-term upside |
-| **Overvalued / Sell** | >45x | >10.0x | **>₹2,400** | Priced for perfection; sell/reduce |
+| **Deep Value / Strong Buy** | <20x | <5.1x | **<₹1,060** | Below conservative DCF; massive margin of safety |
+| **Value / Buy** | 20-28x | 5.1-7.2x | **₹1,060-₹1,490** | Below base-case DCF; attractive risk-reward |
+| **Fair Value / Hold** | 28-35x | 7.2-9.0x | **₹1,490-₹1,865** | Near fair value; hold for compounding |
+| **Fully Valued / Trim** | 35-45x | 9.0-11.6x | **₹1,865-₹2,400** | Above fair value; limited near-term upside |
+| **Overvalued / Sell** | >45x | >11.6x | **>₹2,400** | Priced for perfection; sell/reduce |
 
-### Current Position: ₹1,803 is in the **Fair Value / Hold** zone (P/B 8.73x, PE 33.6x)
+### Current Position: ₹1,803 is in the **Fair Value / Hold** zone (P/B 8.71x, PE 33.8x)
 
-The stock is at the upper edge of the Fair Value zone, very close to the Fully Valued zone. It is NOT cheap, but NOT egregiously overvalued either.
+The stock is at the upper edge of the Fair Value zone (P/B of 8.71x sits within the 7.2-9.0x Fair Value P/B band), close to the Fully Valued boundary. It is NOT cheap, but NOT egregiously overvalued either.
 
 ### What Should You Do If You Already Hold? (Buffett's Framework)
 
@@ -927,9 +930,9 @@ The turnaround is complete. The question is no longer "will it survive?" but "ho
 |---|---|---|
 | **Business Quality** | **9** | Toll-bridge model on essential service; 57% OPM; negative working capital; recurring revenue |
 | **Moat Durability** | **9** | 3-player oligopoly with ₹2+ lakh Cr entry barriers; moat widening as Vi weakens and 5G deepens it |
-| **Financial Health** | **7** | Debt/Equity 1.77 (improving from 2.91); Interest coverage 3.1x; Strong OCF of ₹98,332 Cr; deleveraging actively |
+| **Financial Health** | **7** | Debt/Equity 1.77 (improving from 2.91); Interest coverage ~3.9x; Strong OCF of ₹98,332 Cr; deleveraging actively |
 | **Management Quality** | **8** | Mittal family (49% stake); navigated AGR + Jio crisis; $1 test: ₹16+; excellent capital allocation |
-| **Earnings Quality & Growth** | **9** | 31% profit CAGR (5Y); 83% CAGR (3Y); FCF conversion 102%; Owner earnings exceed reported EPS |
+| **Earnings Quality & Growth** | **9** | 31% profit CAGR (5Y); 65% NP CAGR (3Y, FY2022-FY2025); FCF conversion 157%; Owner earnings exceed reported EPS |
 | **Scalability** | **7.4** | Strong scaler (7.4/10); ARPU headroom, broadband early, Africa runway; capital-heavy is the constraint |
 | **Valuation** | **5** | PE 33.6x is fair for the growth; P/B 8.73x is expensive; margin of safety is moderate, not deep |
 | **Margin of Safety** | **6** | Base DCF suggests 50% upside; but high P/B creates vulnerability to multiple compression |
