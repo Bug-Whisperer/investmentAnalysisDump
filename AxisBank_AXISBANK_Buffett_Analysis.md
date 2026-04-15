@@ -70,7 +70,7 @@ The Citibank India consumer business acquisition (completed March 2023) added ~�
 
 The P&L tells a dramatic **turnaround story**. From FY17-FY20, Axis Bank was in the depths of an NPA crisis — legacy corporate loans from the pre-2015 era were being recognised, provisions were consuming the bulk of operating profit, and the bank earned just ₹6.57 EPS in FY20 (the trough). 
 
-From FY22 onward, the cleanup was complete. NIM expanded from 3.46% to 4.1% at peak (FY24), standalone operating efficiency improved (cost-to-assets declined from ~2.55% in FY24 to 2.46% in FY25), and provisions normalised sharply — standalone provisions fell from over ₹16,000 Cr annually in FY19-FY21 to ₹4,063 Cr in FY24. This meant operating profits flowed almost entirely to the bottom line — EPS surged from ₹6.57 (FY20) to ₹90.58 (FY25), a **14x increase in 5 years**.
+From FY22 onward, the cleanup was complete. NIM expanded from 3.46% to 4.1% at peak (FY24), standalone operating efficiency improved (cost-to-assets declined from ~2.55% in FY24 to 2.46% in FY25), and provisions normalised sharply — consolidated provisions exceeded ₹16,000 Cr annually in FY20-FY21 (peaking at ₹16,475 Cr in FY20) before falling to ₹4,063 Cr in FY24. This meant operating profits flowed almost entirely to the bottom line — EPS surged from ₹6.57 (FY20) to ₹90.58 (FY25), a **~13.8x increase in 5 years**.
 
 The FY23 dip in net income was due to the Citi acquisition's exceptional charges. Stripping that out, the underlying trajectory was unbroken.
 
@@ -93,11 +93,11 @@ The FY23 dip in net income was due to the Citi acquisition's exceptional charges
 | CASA Ratio (MEB) | ~44% | ~42% | ~44% | ~45% | ~45% | ~43% | **41%** |
 | Total Assets (Consolidated) | 814,046 | 927,872 | 1,001,005 | 1,195,779 | 1,344,418 | 1,518,239 | **1,656,963** |
 | Total Asset Growth | — | 14% | 8% | 19% | 12% | 13% | 9% |
-| Shareholders' Equity | 67,802 | 86,340 | 103,594 | 118,261 | 129,781 | 157,023 | **187,235** |
+| Shareholders' Equity (Consolidated) | 67,802 | 86,340 | 103,594 | 118,261 | 129,781 | 157,023 | **187,235** |
 | **Book Value Per Share (₹) (Standalone)** | 264 | 306 | 337 | 384 | 406 | **487** | **577** |
 | BVPS Growth YoY | — | 16% | 10% | 14% | 6% | 20% | 18% |
 
-> **Note on BVPS:** The BVPS figures above are **standalone** (from Axis Bank press releases). Consolidated BVPS per Screener.in is higher (₹662 for FY25) because it includes subsidiary equity. The P/B ratio in this analysis uses the **consolidated BVPS of ₹662** from Screener for consistency with market-standard valuation. At CMP ₹1,204, the consolidated P/B is ~1.82x.
+> **Note on BVPS:** The BVPS figures above are **standalone** (from Axis Bank press releases). The Shareholders' Equity row is **consolidated** (from Screener.in) and includes subsidiary equity and minority interests — dividing it by shares gives ~₹604 for FY25, which matches neither standalone BVPS (₹577) nor Screener's consolidated BVPS (₹662). The difference arises because: (a) consolidated equity includes minority interests and subsidiary-level reserves not attributable to Axis Bank shareholders on a per-share basis, and (b) Screener's reported consolidated BVPS of ₹662 uses a different adjustment methodology. The P/B ratio in this analysis uses **standalone BVPS** for consistency across the historical series, and notes **consolidated P/B** (~1.82x using Screener's ₹662) where relevant.
 | **Capital Adequacy (CAR)** | ~15.8% | ~17.5% | ~19.1% | ~18.5% | ~17.6% | 16.63% | **17.07%** |
 | CET-1 Ratio | ~13.0% | ~14.5% | ~15.4% | ~15.2% | ~14.8% | 13.74% | **14.67%** |
 | Leverage (Assets/Equity) | 12.0x | 10.7x | 9.7x | 10.1x | 10.4x | 9.7x | 8.9x |
@@ -168,10 +168,10 @@ This is excellent. Axis has transitioned from being a bank that needed to raise 
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|---|---|
 | Net Income | 1,627 | 6,589 | 13,025 | 9,580 | 24,861 | 26,373 |
-| Add Back: D&A | ~737 | ~976 | ~1,046 | ~2,000 | ~1,385 | ~1,763 |
+| Add Back: D&A | ~806 | ~976 | ~1,046 | ~2,000 | ~1,385 | ~1,763 |
 | Less: Normalised Credit Cost (5Y avg ~0.65% × Avg Advances) | ~3,700 | ~3,900 | ~4,200 | ~5,000 | ~5,900 | ~6,500 |
 | Less: SBC (estimated) | ~400 | ~450 | ~500 | ~600 | ~700 | ~800 |
-| **= Normalised "Owner Earnings"** | **~(1,736)** | **~3,215** | **~9,371** | **~5,980** | **~19,646** | **~20,836** |
+| **= Normalised "Owner Earnings"** | **~(1,667)** | **~3,215** | **~9,371** | **~5,980** | **~19,646** | **~20,836** |
 
 **Analysis:**
 
@@ -183,7 +183,7 @@ This is excellent. Axis has transitioned from being a bank that needed to raise 
 
 - **SBC as % of Net Income:** ~3% — manageable but worth monitoring. Management compensation is not excessive.
 
-**Normalised EPS (Owner Earnings Per Share):** ~₹67 for FY25, implying a PE on normalised earnings of ~18x at CMP. This is roughly in line with the reported PE of ~14x, suggesting reported earnings are slightly above normalised levels but not dramatically so.
+**Normalised EPS (Owner Earnings Per Share):** ~₹67 for FY25, implying a PE on normalised earnings of ~18x at CMP. This is above the reported consolidated PE of ~13x (on TTM EPS of ₹90.58), suggesting reported earnings are above normalised levels — primarily because FY25 credit cost (0.72%) was slightly below the 5-year normalised average (~0.65% on a higher advance base).
 
 ---
 
@@ -225,7 +225,7 @@ This is excellent. Axis has transitioned from being a bank that needed to raise 
 | Mediocre | 0.5-1.0% | 8-12% | 0.8-1.5x | — |
 | Poor | <0.5% | <8% | <1.0x | — |
 
-At 1.69% ROA and 16% ROE, Axis Bank falls in the **Excellent tier**, deserving a P/B of 2.5-3.5x on a sustained basis. It currently trades at ~1.82x P/B (consolidated) — **below its deserved multiple** based on current profitability.
+At 1.69% ROA and 16% ROE, Axis Bank falls in the **Excellent tier**, deserving a P/B of 2.5-3.5x on a sustained basis. On a standalone basis, the current P/B of ~2.09x is at the lower end of this range — fairly valued but not expensive. On a consolidated basis (~1.82x), the stock appears more attractively priced, though the gap partly reflects the market's limited premium for subsidiary value.
 
 > *Buffett's test: "A great bank earns high ROE primarily through high ROA, maintains this through credit cycles, and can reinvest retained earnings at the same high ROE to compound book value." Axis now earns excellent ROA-driven ROE. The open question is whether this is the new normal or the peak of a benign credit cycle.*
 
@@ -402,7 +402,7 @@ The market has rewarded every rupee retained with nearly 3 rupees of value creat
 | Price (Mar-end, approx ₹) | 760 | 440 | 710 | 750 | 870 | 1,110 | 1,140 | **1,204** |
 | **P/B (Standalone BVPS)** | 2.9x | 1.4x | 2.1x | 2.0x | 2.1x | 2.3x | 2.0x | **2.09x** |
 | **PE (Consolidated TTM EPS)** | 39x | **67x** | 30x | 16x | 25x | 13x | 13x | **~13.3x** |
-| PE (Normalised EPS ~₹85) | — | — | — | ~20x | ~35x | ~14x | ~18x | ~14.2x |
+| PE (on Year-Specific Normalised EPS) | — | — | — | ~20x | ~35x | ~14x | ~13x | ~14x |
 | BVPS (₹, Standalone) | 264 | 306 | 337 | 384 | 406 | 487 | 577 | **~650** (estimated Mar 2026) |
 | BV Growth | — | 16% | 10% | 14% | 6% | 20% | **18%** | ~13% |
 | Dividend Yield | 0.1% | 0% | 0% | 0.1% | 0.1% | 0.1% | 0.1% | **0.08%** |
@@ -429,10 +429,10 @@ When sustainable growth exceeds cost of equity (which happens for high-ROE, high
 
 Using Buffett's rules of thumb:
 
-| ROE | Deserved P/B | Logic |
+| ROE | Deserved P/B (Standalone Basis) | Logic |
 |---|---|---|
 | 15-16% (Axis FY25) | **2.0-3.0x Book** | Good-to-excellent bank; meaningful premium justified |
-| At current BVPS of ~₹650 | **₹1,300 - ₹1,950** | Price range justified by fundamentals |
+| At current standalone BVPS of ~₹577 (FY25) | **₹1,154 - ₹1,731** | Standalone price range justified by fundamentals |
 
 **Current standalone P/B of ~2.09x is in line with the historical median of ~2.0-2.2x.** On a consolidated basis (using Screener's ₹662 BVPS), the P/B is lower at ~1.82x, which is below the deserved 2.0-3.0x range for a bank earning 15-16% ROE. The discount on consolidated P/B reflects that the market may be assigning limited premium to subsidiary value.
 
@@ -602,7 +602,7 @@ Even at the pessimistic Terminal PE of 12x, you need ~12% EPS CAGR for a 10% ret
 | NPA-Adjusted Book | BVPS minus potential losses on restructured/SMA book | ~₹620 | -49% |
 | Historical Trough P/B | 1.4x (FY20 COVID low) × ₹650 | **₹910** | **-24%** |
 
-The most probable downside floor is **₹910-₹1,000** — the bank would need to experience a severe credit crisis or significant earnings deterioration to trade below 1.4x book persistently. At ~1.82x book currently, the downside to the most probable floor is **~20-25%**.
+The most probable downside floor is **₹910-₹1,000** — the bank would need to experience a severe credit crisis or significant earnings deterioration to trade below 1.4x book persistently. At ~2.09x standalone book (or ~1.82x consolidated) currently, the downside to the most probable floor is **~20-25%**.
 
 **Part 2: Upside Case**
 
@@ -640,11 +640,11 @@ Asymmetry Ratio = 117 / 24 = ~4.9:1
 
 **Part 5: Fat Pitch Verdict**
 
-> "At ₹1,204, the realistic downside is approximately 24% to ₹910 (historical trough P/B floor). The realistic base-case upside is approximately 117% to ₹2,610 over 5 years. This gives an asymmetry ratio of ~5:1. The market is pricing the bank at just ~1.82x consolidated book for a business earning 16% ROE, which is below its deserved multiple of 2.0-3.0x. The mispricing appears to exist because of NIM compression concerns and rising retail slippages, which are cyclical issues being priced as structural problems. This IS a fat pitch — not the screaming bargain of a crisis, but a quality business at a meaningful discount to fair value."
+> "At ₹1,204, the realistic downside is approximately 24% to ₹910 (historical trough P/B floor). The realistic base-case upside is approximately 117% to ₹2,610 over 5 years. This gives an asymmetry ratio of ~5:1. On a standalone basis, the bank trades at ~2.09x book — inside the fair 2.0-3.0x range but at the lower end. On a consolidated basis (~1.82x), it appears more attractively priced. The mispricing, if any, appears to exist because of NIM compression concerns and rising retail slippages, which are cyclical issues. This IS a reasonable entry point — a quality business at a fair price with meaningful upside if cyclical headwinds fade."
 
 **Mispricing Identification:**
 
-> "The mispricing opportunity here is PRESENT. The market is mispricing this business because of recent NIM compression (3.98% → 3.64%) and modestly rising retail NPAs (GNPA 1.28% → 1.40%), which are cyclical phenomena being partially priced as structural deterioration. The current price of ₹1,204 implies a consolidated P/B of ~1.82x, while the bank's sustainable ROE of 15-16% justifies 2.0-3.0x book. If the market corrects this mispricing over 2-3 years as NIM stabilises and asset quality concerns ease, the stock re-rates from ~1.82x to 2.2-2.5x book, generating 21-37% returns BEFORE any underlying book value growth — making the total return potential 35-55%+ including BV compounding."
+> "The mispricing opportunity here is MODERATE. On a standalone basis, the bank trades at ~2.09x book — inside the fair 2.0-3.0x range, so the stock is not deeply undervalued. However, the standalone P/B sits at the lower end of the range despite excellent 1.69% ROA and 16% ROE, reflecting the market's concern about NIM compression (3.98% → 3.64%) and modestly rising retail NPAs (GNPA 1.28% → 1.40%). These are cyclical phenomena. If NIM stabilises and asset quality concerns ease over 2-3 years, the standalone P/B could re-rate from 2.09x toward 2.5-3.0x, generating 20-43% returns BEFORE any underlying book value growth — making the total return potential 35-60%+ including BV compounding."
 
 > *Buffett: "The most common cause of low prices is pessimism — sometimes pervasive, sometimes specific to a company or industry. We WANT to do business in such an environment, not because we like pessimism but because we like the prices it produces."*
 
@@ -756,7 +756,7 @@ Asymmetry Ratio = 117 / 24 = ~4.9:1
 | 3 | Are returns above cost of capital? | ROE, ROA | ROE >12%, ROA >1% | ROE 16%, ROA 1.69% | ✅ |
 | 4 | Is asset quality solid? | GNPA, NNPA, PCR | GNPA <3%, NNPA <1%, PCR >65% | GNPA 1.40%, NNPA 0.42%, PCR 70% | ✅ |
 | 5 | Is the bank well-capitalised? | CRAR | >15% | 16.55% | ✅ |
-| 6 | Is the price reasonable? | P/B vs Fair P/B | P/B < Fair P/B | ~1.82x consol vs Fair 2.0-2.5x | ✅ |
+| 6 | Is the price reasonable? | P/B vs Fair P/B | P/B < Fair P/B | Standalone 2.09x inside Fair 2.0-3.0x range (lower end); consol 1.82x below fair range | ✅ |
 
 **All 6 checks PASS → BUY and hold for book value compounding.**
 
@@ -768,7 +768,7 @@ This is most comparable to Buffett's investment in Bank of America in 2011 or We
 
 The one caveat: **Buffett prefers owner-operated businesses.** Axis's promoter holding at 8.15% is structurally low. However, management has meaningful ESOPs and has demonstrated shareholder-aligned behaviour. Buffett has invested in professionally-managed banks (like Wells Fargo) before, so this wouldn't be a dealbreaker.
 
-> *Buffett: "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price." Axis Bank at ~1.82x consolidated book is a wonderful bank at a fair price. Not a screaming bargain — but a solid, compounding investment that should deliver 14-18% annual returns over a decade.*
+> *Buffett: "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price." Axis Bank at ~2.09x standalone book is a wonderful bank at a fair price. Not a screaming bargain — but a solid, compounding investment that should deliver 14-18% annual returns over a decade.*
 
 ---
 
@@ -803,10 +803,10 @@ Not applicable — **the turnaround is COMPLETE.** Axis Bank has already transit
 | Capital Adequacy (CRAR, Tier-1) | **9** | 16.55% CAR, 14.43% CET-1; self-sustaining with no dilution needed |
 | Management Quality & Risk Culture | **8** | Chaudhry has delivered a remarkable turnaround; candid, disciplined, risk-aware |
 | Earnings Quality (Normalised vs Reported) | **7** | FY25 earnings roughly at normalised levels; NIM compression is the headwind |
-| Valuation (P/B vs Fair P/B) | **8** | ~1.82x consolidated P/B for 16% ROE business — below deserved 2.0-2.5x; attractive |
+| Valuation (P/B vs Fair P/B) | **7** | Standalone P/B of ~2.09x is inside the fair 2.0-3.0x range at the lower end; consolidated P/B of ~1.82x appears more attractive; fairly valued to slightly undervalued |
 | Margin of Safety (Excess Return Model) | **7** | ~14% margin of safety on Excess Return Model; wider on BV compounding model |
 | Book Value Compounding Potential | **8** | 15%+ BVPS growth with 99% retention; self-funding; minimal dilution |
-| **Buffett Verdict** | | **True Buffett Bank — quality franchise at a fair-to-attractive price. India's 3rd largest private bank earning 16% ROE, trading at ~1.82x consolidated book when fundamentals justify 2.0-2.5x+. NIM compression and retail NPA uptick are cyclical headwinds creating a buying window. BV compounds at ~15% annually. At current price, expect 14-17% CAGR over 5-10 years with moderate re-rating potential. BUY and hold for long-term compounding.** |
+| **Buffett Verdict** | | **True Buffett Bank — quality franchise at a fair price. India's 3rd largest private bank earning 16% ROE, trading at ~2.09x standalone book (lower end of fair 2.0-3.0x range). NIM compression and retail NPA uptick are cyclical headwinds keeping the P/B at the low end. BV compounds at ~15% annually. At current price, expect 14-17% CAGR over 5-10 years with moderate re-rating potential if cyclical headwinds fade. BUY and hold for long-term compounding.** |
 | **Buy Zone** | | **Currently in FAIR VALUE / ACCUMULATE zone (₹1,105-₹1,430). More aggressive buying below ₹1,100 (1.7x book).** |
 | **Overall Recommendation** | | **BUY at ₹1,100-₹1,204 for long-term compounding. Accumulate on dips toward ₹1,050-₹1,100. Strong Buy below ₹900.** |
 
@@ -826,7 +826,7 @@ Not applicable — **the turnaround is COMPLETE.** Axis Bank has already transit
 > You pay ₹1,204 today. That's a 117% return in 5 years, or ~17% per year.
 > No Excel needed. This makes sense on a napkin.
 
-> *Buffett: "If you need to use a computer or a calculator to figure out whether you should buy the stock, you shouldn't buy it." At ~1.82x consolidated book for a 16% ROE bank in the world's fastest-growing large economy, the math works on a napkin.*
+> *Buffett: "If you need to use a computer or a calculator to figure out whether you should buy the stock, you shouldn't buy it." At ~2.09x standalone book for a 16% ROE bank in the world's fastest-growing large economy, the math works on a napkin.*
 
 ---
 
