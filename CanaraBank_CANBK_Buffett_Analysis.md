@@ -160,10 +160,10 @@ The massive dilution of FY2017-FY2021 was devastating for existing shareholders 
 
 ### Normalised Earnings ("Bank Owner Earnings")
 
-The correct normalised earnings formula for banks adds back excess provisions (when the bank over-provisioned vs. normal) or subtracts the shortfall (when under-provisioning flatters earnings):
+The correct normalised earnings formula for banks adjusts for the post-tax impact of provision differences (since provisions are a pre-tax expense, the delta must be tax-effected before applying to post-tax net income):
 
 ```
-Normalised Earnings = Reported NI + (Actual Provisions − Normalised Provisions) + D&A
+Normalised Earnings = Reported NI + (Actual Provisions − Normalised Provisions) × (1 − ETR) + D&A
 ```
 
 | Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | 9M FY26 Ann. |
@@ -171,15 +171,16 @@ Normalised Earnings = Reported NI + (Actual Provisions − Normalised Provisions
 | Net Income (₹ Cr) | 2,957 | 6,158 | 11,345 | 15,401 | 17,692 | ~19,500 |
 | Actual Credit Cost (CC% × Avg Advances) | ~14,200 | ~13,650 | ~9,770 | ~7,383 | ~6,650 | ~5,039 |
 | Normalised Credit Cost (1.15% × Avg Advances)* | ~8,165 | ~10,465 | ~11,236 | ~12,305 | ~13,904 | ~15,249 |
-| Provision Adjustment (Actual − Normalised) | +6,035 | +3,185 | -1,466 | -4,922 | -7,254 | -10,210 |
+| Provision Adjustment (Actual − Normalised), pre-tax | +6,035 | +3,185 | -1,466 | -4,922 | -7,254 | -10,210 |
+| Tax-Effected Adjustment (× 0.77) | +4,647 | +2,452 | -1,129 | -3,790 | -5,586 | -7,862 |
 | Add Back: D&A | 838 | 841 | 1,021 | 902 | 870 | ~850 |
-| **Normalised Earnings** | **~9,830** | **~10,184** | **~10,900** | **~11,381** | **~11,308** | **~10,140** |
+| **Normalised Earnings** | **~8,442** | **~9,451** | **~11,237** | **~12,513** | **~12,976** | **~12,488** |
 
-*(*Normalised credit cost rate = 1.15%, the 5-year average of actual credit costs (FY2021-FY2025: 2.0%, 1.5%, 1.0%, 0.69%, 0.55%). Applied to each year's average advances. When the provision adjustment is positive, the bank over-provisioned (reported NI was understated); when negative, the bank under-provisioned relative to normal (reported NI is overstated).)*
+*(*Normalised credit cost rate = 1.15%, the 5-year average of actual credit costs (FY2021-FY2025: 2.0%, 1.5%, 1.0%, 0.69%, 0.55%). Applied to each year's average advances. Effective tax rate assumed at ~23%. When the tax-effected adjustment is positive, the bank over-provisioned (reported NI was understated); when negative, the bank under-provisioned relative to normal (reported NI is overstated).)*
 
-**Key Insight:** The normalised earnings profile reveals that current reported earnings of ~₹17,700-19,500 Cr are **materially above the fully normalised level of ~₹10,000-11,400 Cr** (at the strict 1.15% historical CC rate). The gap is driven by current credit costs (0.38-0.55%) running far below the historical average. If credit costs mean-revert to even 0.8-1.0%, reported profits would be ~15-30% lower than current levels (depending on the base period used and the tax impact of incremental provisions).
+**Key Insight:** The normalised earnings profile reveals that current reported earnings of ~₹17,700-19,500 Cr are **above the fully normalised level of ~₹12,500-13,000 Cr** (at the strict 1.15% historical CC rate). The gap is driven by current credit costs (0.38-0.55%) running far below the historical average. If credit costs mean-revert to even 0.8-1.0%, reported profits would be ~15-30% lower than current levels (depending on the base period used and the tax impact of incremental provisions).
 
-However, the PCR at 94% provides a massive cushion — the bank has been building reserves, and the declining GNPA trend (from 8.9% to 2.1%) suggests the normalised credit cost rate itself may be shifting lower. A prudent forward-looking normalised credit cost of ~0.7-0.8% (vs. 1.15% historical) would put forward-normalised earnings in the range of ₹15,000-17,000 Cr — still below reported, but less dramatically so.
+However, the PCR at 94% provides a massive cushion — the bank has been building reserves, and the declining GNPA trend (from 8.9% to 2.1%) suggests the normalised credit cost rate itself may be shifting lower. A prudent forward-looking normalised credit cost of ~0.7-0.8% (vs. 1.15% historical) would put forward-normalised earnings in the range of ₹16,000-17,200 Cr — still below reported, but less dramatically so.
 
 **Verdict:** Reported earnings are arguably at the higher end of the normalised range, benefiting from a cyclically benign credit environment. A prudent investor should assume normalised ROA of ~0.9-1.0% rather than the current ~1.1%.
 
@@ -554,7 +555,7 @@ Using Base Case:
 | Historical 3Y EPS CAGR | ~42% |
 | Realistic sustainable EPS CAGR | 12-15% |
 
-*Note on "Adjusted" vs "Fully Normalised" EPS: The ₹17.2 Adjusted EPS used here applies a ~15% haircut to reported TTM EPS (₹20.25), approximating what earnings would be at a forward-looking credit cost of ~0.75% (midpoint of 0.7-0.8% range) instead of the current blended TTM CC of ~0.47%. This is calculated as: incremental provision = (0.75% − 0.47%) × ~₹13,00,000 Cr avg advances = ~₹3,640 Cr pre-tax; post-tax hit at ~23% ETR = ~₹2,803 Cr; adjusted PAT = ₹18,367 − ₹2,803 = ₹15,564 Cr; adjusted EPS = ₹15,564 / 907 = ~₹17.2. This is distinct from the "Fully Normalised Earnings" in Section 5, which applies the strict 5-year historical average CC of 1.15% and produces a much lower figure (~₹11,300 Cr or ~₹12.5 per share). Section 5's strict normalisation represents a through-cycle floor, not a forward base case. The Adjusted EPS is used here because the Reverse DCF is a forward-looking tool — it asks what growth is needed from a realistic starting point. The overall green signal is robust: even at the strict ₹12.5 normalised EPS (PE ~10.9x), the implied growth needed remains below sustainable levels.*
+*Note on "Adjusted" vs "Fully Normalised" EPS: The ₹17.2 Adjusted EPS used here applies a ~15% haircut to reported TTM EPS (₹20.25), approximating what earnings would be at a forward-looking credit cost of ~0.75% (midpoint of 0.7-0.8% range) instead of the current blended TTM CC of ~0.47%. This is calculated as: incremental provision = (0.75% − 0.47%) × ~₹13,00,000 Cr avg advances = ~₹3,640 Cr pre-tax; post-tax hit at ~23% ETR = ~₹2,803 Cr; adjusted PAT = ₹18,367 − ₹2,803 = ₹15,564 Cr; adjusted EPS = ₹15,564 / 907 = ~₹17.2. This is distinct from the "Fully Normalised Earnings" in Section 5, which applies the strict 5-year historical average CC of 1.15% (tax-effected) and produces a lower figure (~₹13,000 Cr or ~₹14.3 per share for FY2025). Section 5's strict normalisation represents a through-cycle floor, not a forward base case. The Adjusted EPS is used here because the Reverse DCF is a forward-looking tool — it asks what growth is needed from a realistic starting point. The overall green signal is robust: even at the strict ₹14.3 normalised EPS (PE ~9.5x), the implied growth needed remains below sustainable levels.*
 
 ### Step 2-3: Implied EPS CAGR Needed
 
@@ -820,7 +821,7 @@ Canara Bank's turnaround is **largely complete**, not a work-in-progress:
 | Asset Quality (NPA, PCR, Credit Cost) | **9** | GNPA 2.08%, NNPA 0.45%, PCR 94%. Best-in-class among PSBs. |
 | Capital Adequacy (CRAR, Tier-1) | **8** | CRAR 16.5%, CET-1 12.3%. Well above minimums. |
 | Management Quality & Risk Culture | **6** | Improved significantly, but PSU DNA and government control are constraints. |
-| Earnings Quality (Normalised vs Reported) | **7** | Current earnings benefit from low credit costs. Forward-normalised (0.7-0.8% CC) ~5-12% lower; strict historical (1.15% CC) ~36% lower. |
+| Earnings Quality (Normalised vs Reported) | **7** | Current earnings benefit from low credit costs. Forward-normalised (0.7-0.8% CC, tax-effected) ~3-8% lower; strict historical (1.15% CC, tax-effected) ~27% lower. |
 | Valuation (P/B vs Fair P/B) | **9** | 1.05x P/B vs 1.5-2.0x fair value. 30-48% discount. |
 | Margin of Safety (Excess Return Model) | **8** | 25-36% margin of safety on base/optimistic scenarios. |
 | Book Value Compounding Potential | **8** | 12-14% BV CAGR sustainable for 5-10 years. |
