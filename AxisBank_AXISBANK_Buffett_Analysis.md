@@ -183,7 +183,7 @@ This is excellent. Axis has transitioned from being a bank that needed to raise 
 
 - **SBC as % of Net Income:** ~3% — manageable but worth monitoring. Management compensation is not excessive.
 
-**Normalised EPS (Owner Earnings Per Share):** ~₹67 for FY25, implying a PE on normalised earnings of ~18x at CMP. This is above the reported consolidated PE of ~13x (on TTM EPS of ₹90.58), suggesting reported earnings are above normalised levels — primarily because FY25 credit cost (0.72%) was slightly below the 5-year normalised average (~0.65% on a higher advance base).
+**Normalised EPS (Owner Earnings Per Share):** ~₹67 for FY25, implying a PE on normalised earnings of ~18x at CMP. This is above the reported consolidated PE of ~13x (on TTM EPS of ₹90.58) because the Owner Earnings formula is deliberately more conservative — it deducts normalised credit cost (~₹6,500 Cr) AND SBC (~₹800 Cr) from net income that already incorporates actual provisions (₹7,758 Cr). The gap between ₹67 and ₹90.58 EPS represents this extra conservatism, not a sign that reported earnings are inflated.
 
 ---
 
@@ -225,7 +225,7 @@ This is excellent. Axis has transitioned from being a bank that needed to raise 
 | Mediocre | 0.5-1.0% | 8-12% | 0.8-1.5x | — |
 | Poor | <0.5% | <8% | <1.0x | — |
 
-At 1.69% ROA and 16% ROE, Axis Bank falls in the **Excellent tier**, deserving a P/B of 2.5-3.5x on a sustained basis. On a standalone basis, the current P/B of ~2.09x is at the lower end of this range — fairly valued but not expensive. On a consolidated basis (~1.82x), the stock appears more attractively priced, though the gap partly reflects the market's limited premium for subsidiary value.
+At 1.69% ROA and 16% ROE, Axis Bank falls in the **Excellent tier**, deserving a P/B of 2.5-3.5x on a sustained basis. On a standalone basis, the current P/B of ~2.09x is below the 2.5x floor of this range — suggesting the stock is undervalued relative to the quality of its returns, though the gap is modest. On a consolidated basis (~1.82x), the discount is wider, though it partly reflects the market's limited premium for subsidiary value.
 
 > *Buffett's test: "A great bank earns high ROE primarily through high ROA, maintains this through credit cycles, and can reinvest retained earnings at the same high ROE to compound book value." Axis now earns excellent ROA-driven ROE. The open question is whether this is the new normal or the peak of a benign credit cycle.*
 
@@ -402,7 +402,7 @@ The market has rewarded every rupee retained with nearly 3 rupees of value creat
 | Price (Mar-end, approx ₹) | 760 | 440 | 710 | 750 | 870 | 1,110 | 1,140 | **1,204** |
 | **P/B (Standalone BVPS)** | 2.9x | 1.4x | 2.1x | 2.0x | 2.1x | 2.3x | 2.0x | **2.09x** |
 | **PE (Consolidated TTM EPS)** | 39x | **67x** | 30x | 16x | 25x | 13x | 13x | **~13.3x** |
-| PE (on Year-Specific Normalised EPS) | — | — | — | ~20x | ~35x | ~14x | ~13x | ~14x |
+| PE (on Normalised EPS) | — | — | — | — | — | ~14x | ~13x | ~14x |
 | BVPS (₹, Standalone) | 264 | 306 | 337 | 384 | 406 | 487 | 577 | **~650** (estimated Mar 2026) |
 | BV Growth | — | 16% | 10% | 14% | 6% | 20% | **18%** | ~13% |
 | Dividend Yield | 0.1% | 0% | 0% | 0.1% | 0.1% | 0.1% | 0.1% | **0.08%** |
