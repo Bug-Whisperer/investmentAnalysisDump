@@ -6,7 +6,7 @@
 **P/E Ratio (TTM):** ~7.4x
 **P/B Ratio:** ~0.91x
 **Book Value Per Share:** ~₹307 (consolidated, Dec 2025); ~₹283 (Mar 2025)
-**Dividend Yield:** ~2.9%
+**Dividend Yield:** ~3.0%
 **52-Week Range:** ₹204 – ₹326
 **Promoter (GoI):** 63.97%
 
@@ -56,9 +56,9 @@ Bank of Baroda is India's **second-largest public sector bank** and **fourth-lar
 | **NIM (Global)** | **~2.60%** | **~2.70%** | **~3.03%** | **~3.31%** | **~3.18%** | **~3.02%** | **~2.79%** |
 | Other Income (Fee + Trading) | 12,191 | 14,687 | 14,395 | 16,275 | 23,399 | 24,939 | ~12,700 |
 | Other Inc. as % of Total Inc. | 13.4% | 16.5% | 16.4% | 14.7% | 16.5% | 16.3% | — |
-| Total Income | 91,086 | 88,001 | 87,780 | 1,10,778 | 1,41,778 | 1,52,884 | ~1,10,900 |
-| Operating Expenses (Opex) | ~40,583 | ~38,070 | ~37,518 | ~38,231 | ~44,387 | ~45,533 | ~37,000 |
-| **Cost-to-Income Ratio** | **~52%** | **~49%** | **~48%** | **~46%** | **~47.7%** | **~47.9%** | **~49.5%** |
+| Total Income | 91,086 | 89,001 | 87,780 | 1,10,778 | 1,41,778 | 1,52,884 | ~1,10,900 |
+| Expenses (Screener, incl. provisions)† | ~40,583 | ~38,070 | ~37,518 | ~38,231 | ~44,387 | ~45,533 | ~37,000 |
+| **Cost-to-Income Ratio (standalone)** | **~52%** | **~49%** | **~48%** | **~46%** | **~47.7%** | **~47.9%** | **~49.5%** |
 | Pre-Provision Oper. Profit (PPOP) | ~18,896 | ~20,630 | ~22,262 | ~28,547 | ~30,993 | ~32,435 | ~24,400 |
 | PPOP Growth | — | 9.2% | 7.9% | **28.2%** | 8.6% | 4.7% | — |
 | Provisions & Contingencies | ~20,698 | ~15,074 | ~14,640 | ~4,351 | ~5,194 | ~4,816 | ~3,500 |
@@ -70,10 +70,12 @@ Bank of Baroda is India's **second-largest public sector bank** and **fourth-lar
 | EPS Growth | — | 49% | **408%** | 90% | 26% | 10.4% | — |
 | Shares Outstanding (Cr.) | 462.5 | 518.0 | 518.0 | 518.0 | 518.0 | 518.0 | 518.0 |
 | Shares Change YoY | 74.7% | 12.0% | 0% | 0% | 0% | 0% | 0% |
-| **ROA** | **~0.08%** | **~0.14%** | **~0.60%** | **~1.03%** | **~1.17%** | **~1.16%** | ~1.05% |
-| **ROE** | **~1%** | **~2%** | **~9%** | **~15%** | **~17%** | **~16%** | ~15.6% |
+| **ROA** | **~0.08%** | **~0.14%** | **~0.60%** | **~1.03%** | **~1.17%** | **~1.16%** | ~1.05% (9M cum.) |
+| **ROE** | **~1%** | **~2%** | **~9%** | **~15%** | **~17%** | **~16%** | ~15.6% (9M cum.) |
 
 *Bold values at extreme ends.*
+
+*†Note on Expenses row: Screener's "Expenses" line for banks bundles operating expenses together with provisions and contingencies. This figure therefore CANNOT be used directly to derive the C/I ratio or PPOP. The Cost-to-Income ratio and PPOP figures are sourced from Bank of Baroda's standalone press releases, which report these on a standalone basis using the bank's own operating income definition. The two data sources (consolidated Screener vs. standalone press releases) are not perfectly reconcilable — the consolidated figures include subsidiaries and the bank's operating income definition may exclude certain trading/recovery items included in Screener's "Other Income."*
 
 ### Trend Narrative
 
@@ -148,13 +150,13 @@ Restructured book has shrunk significantly from ~2.5% of advances (FY22-23) to u
 | Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|---|
 | Net Income (₹ Cr) | 981 | 1,620 | 7,933 | 15,005 | 18,869 | 20,865 |
-| Dividends Paid | 0 | 0 | 1,508 | 2,848 | 3,962 | 4,378 |
-| Retained Earnings | 981 | 1,620 | 6,425 | 12,157 | 14,907 | 16,487 |
-| **Retention Ratio** | **100%** | **100%** | **81%** | **81%** | **79%** | **79%** |
+| Dividends Paid (DPS × shares) | 0 | 0 | 1,502 | 2,849 | 3,756 | 4,325 |
+| Retained Earnings | 981 | 1,620 | 6,431 | 12,156 | 15,113 | 16,540 |
+| **Retention Ratio** | **100%** | **100%** | **81%** | **81%** | **80%** | **79%** |
 | BVPS Growth | -3.6% | — | 11.3% | 14.7% | 13.8% | **22.5%** |
-| Internal Cap. Gen. Rate (ROE × Retention) | ~1% | ~2% | ~7% | ~12% | ~13.4% | **~12.6%** |
+| Internal Cap. Gen. Rate (ROE × Retention) | ~1% | ~2% | ~7% | ~12% | ~13.6% | **~12.6%** |
 | Dividend Per Share (₹) | 0 | 0 | 2.90 | 5.50 | 7.25 | 8.35 |
-| Dividend Payout | 0% | 0% | 19% | 19% | 21% | 21% |
+| Dividend Payout | 0% | 0% | 19% | 19% | 20% | 21% |
 | Dividend Yield (at CMP ₹280) | — | — | — | — | — | ~3.0% |
 
 ### Analysis
@@ -200,7 +202,7 @@ If credit costs normalise to ~0.8-1.0% in a downturn, net income could decline 2
 
 ### [BANK/NBFC MODE — ROE Is The Valuation]
 
-| Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Q3 FY26 |
+| Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Q3 FY26 (qtr. ann.) |
 |---|---|---|---|---|---|---|---|
 | **ROE** | **1%** | **2%** | **9%** | **15%** | **17%** | **16%** | 15.6% |
 | **ROA** | **0.08%** | **0.14%** | **0.60%** | **1.03%** | **1.17%** | **1.16%** | 1.09% |
@@ -230,9 +232,9 @@ If credit costs normalise to ~0.8-1.0% in a downturn, net income could decline 2
 | Mediocre | 0.5-1.0% | 8-12% | 0.8-1.5x |
 | Poor | <0.5% | <8% | <1.0x |
 
-**Critical distinction:** BoB's ROE of 16% is **GOOD, not excellent**. ROA of ~1.16% places it solidly in the "Good" tier. The ROE is NOT being driven by excessive leverage (leverage has actually declined from 15.8x to 12.7x) — it's genuinely ROA-driven. This is the healthy pattern.
+**Critical distinction:** BoB's current ROE of 16% falls in the "Excellent" tier by the ROE column, but ROA of ~1.16% places it in the "Good" tier. For banks, **ROA is the primary quality indicator** (as stated above: "always check ROA first"), so the classification is ROA-based. High ROE with merely "Good" ROA means leverage is doing some of the work — and while BoB's leverage has actually declined (from 15.8x to 12.7x), the ROA-anchored classification is more conservative and appropriate for valuation.
 
-However, ROE is peaking. As NIM compresses further (2.79% in Q3 FY26 vs 3.31% in FY23), ROA will likely settle at 1.0-1.1% sustainably, implying ROE of 12-14% going forward.
+Furthermore, ROE is likely peaking. As NIM compresses further (2.79% in Q3 FY26 vs 3.31% in FY23), ROA will likely settle at 1.0-1.1% sustainably, implying ROE of 12-14% going forward — which would fall squarely in the "Good" tier on both metrics.
 
 > *Buffett: "A great bank earns high ROE primarily through high ROA, not excessive leverage." BoB earns its ROE the right way — through decent spreads and low credit costs — but it's not "great." It's "good." And "good" at a bank means 1.0-1.5x book, not 3x book.*
 
@@ -243,7 +245,7 @@ However, ROE is peaking. As NIM compresses further (2.79% in Q3 FY26 vs 3.31% in
 ### Moat Assessment
 
 **1. CASA Ratio & Cost of Deposits — ADEQUATE ⚠️**
-CASA ratio at ~38.5% (domestic ~39.3%) is **below the PSU bank average** and well below private bank leaders (HDFC Bank ~39%, Kotak ~52%). CASA ratio has been **declining** — this is a structural concern. The cost advantage exists vs. wholesale-funded NBFCs but is narrowing vs. private banks.
+Global CASA ratio at ~38.5% (domestic ~39.3%) is moderate. BoB's domestic CASA is roughly at par with HDFC Bank (~39%) but well below Kotak (~52%). Critically, CASA ratio has been **declining** from ~44% (FY21-22) — this is a structural concern. The cost advantage exists vs. wholesale-funded NBFCs but is narrowing as the bank increasingly relies on costlier time deposits.
 
 **2. Distribution & Branch Network — STRONG ✅**
 8,400+ domestic branches and 84 overseas offices. This is expensive to replicate. Rural and semi-urban presence gives access to low-cost deposits and priority sector lending.
@@ -322,7 +324,7 @@ Banking IS relatively resistant to change in its core function. The channels cha
 ### Buffett's $1 Test
 
 From FY2020 to FY2025:
-- Retained earnings: ~₹52,577 Cr cumulative (981 + 1,620 + 6,425 + 12,157 + 14,907 + 16,487)
+- Retained earnings: ~₹52,841 Cr cumulative (981 + 1,620 + 6,431 + 12,156 + 15,113 + 16,540)
 - Market cap change: From ~₹22,000 Cr (FY20 price ~₹48) to ~₹1,45,000 Cr = +₹1,23,000 Cr
 - **For every ₹1 retained, ~₹2.34 of market value was created.** This passes the $1 test decisively — but it includes the massive re-rating from distressed (0.3x book) to normalised (0.9x book) valuations. The re-rating won't repeat.
 
@@ -347,7 +349,7 @@ PSU banks generally pass the integrity test (government oversight) but fail the 
 
 ## 10. OPERATING METRICS — Banking KPIs
 
-| Metric | FY2022 | FY2023 | FY2024 | FY2025 | Q3 FY26 |
+| Metric | FY2022 | FY2023 | FY2024 | FY2025 | Q3 FY26 (qtr. ann.) |
 |---|---|---|---|---|---|
 | **Global NIM** | 3.03% | **3.31%** | 3.18% | 3.02% | **2.79%** |
 | Domestic NIM | 3.09% | 3.42% | 3.31% | 3.18% | 2.93% |
@@ -538,17 +540,17 @@ Excess Return = (ROE - CoE) × Book Value
 
 | Scenario | Basis | Implied Price | Upside from ₹280 |
 |---|---|---|---|
-| Base (1.2x FY27 BVPS ~₹385) | BV compounds 12%, mild re-rating | ₹462 | +65% |
-| Bull (1.5x FY27 BVPS ~₹385) | ROE sustains 15%+, re-rating | ₹578 | +106% |
-| Scaling play (5-yr, 1.3x BV at ~₹520) | Strong execution, double book in 5yrs | ₹676 | +141% |
+| Base (1.2x FY27E BVPS ~₹349) | BV compounds at ~11% for 2 years from FY25 BVPS ₹283, mild re-rating | ₹419 | +50% |
+| Bull (1.5x FY27E BVPS ~₹349) | ROE sustains 15%+, re-rating | ₹524 | +87% |
+| Scaling play (5-yr, 1.3x BV at ~₹517) | Strong execution at 11% BV CAGR from Dec 2025 BVPS ₹307 | ₹672 | +140% |
 
 ### Part 3: Asymmetry Ratio
 
 ```
-Asymmetry = Base Upside (+65%) / Realistic Downside (-23%) = 2.8 : 1
+Asymmetry = Base Upside (+50%) / Realistic Downside (-23%) = 2.2 : 1
 ```
 
-**2.8:1 — Decent pitch.** Not exceptional, but clearly positive expected value. The downside is capped near book value (which itself compounds), while the upside involves both BV compounding and multiple expansion.
+**2.2:1 — Decent pitch.** Not exceptional, but positive expected value. The downside is capped near book value (which itself compounds), while the upside involves both BV compounding and multiple expansion.
 
 ### Mispricing Assessment
 
