@@ -2,7 +2,7 @@
 
 **[BANK/NBFC MODE ACTIVATED]** — Bandhan Bank is a scheduled commercial bank. All analysis follows bank-specific frameworks throughout.
 
-**CMP:** ₹160 (approx. as of March 2026) | **Market Cap:** ~₹25,800 Cr | **Book Value:** ₹153/share | **P/B:** ~1.05x | **P/E (TTM Normalised):** ~10-11x | **52-Week Range:** ₹128–₹192
+**CMP:** ₹160 (approx. as of March 2026) | **Market Cap:** ~₹25,800 Cr | **Book Value:** ₹153/share | **P/B:** ~1.05x | **P/E (TTM Normalised):** ~11-12x | **52-Week Range:** ₹128–₹192
 
 ---
 
@@ -42,10 +42,14 @@ Bandhan's moat WAS its unmatched rural distribution (6,300+ banking outlets), de
 | Other Income (₹ Cr) | 411 | 706 | 1,063 | 1,549 | 2,022 | 2,823 | 2,469 | 2,171 | 2,967 | ~2,000 |
 | Other Income as % of Net Revenue (NII+OI) | ~14.6% | ~18.9% | ~19.1% | ~19.7% | ~21.1% | ~24.5% | ~21.1% | ~17.4% | ~20.5% | ~15% |
 | **Total Income (₹ Cr)** | 4,320 | 5,508 | 7,706 | 12,434 | 14,546 | 16,694 | 18,374 | 21,041 | 24,915 | ~23,700 |
-| Operating Expenses (₹ Cr) | 1,044 | 1,597 | 2,467 | 3,739 | 6,534 | **11,298** | 8,693 | 9,310 | 10,555 | ~12,200 |
-| **Cost-to-Income Ratio (%)** | ~30% | ~35% | ~35% | ~38% | ~55% | **~77%** | ~58% | ~55% | ~54% | ~60%+ |
-| Pre-Provision Operating Profit (PPOP) (₹ Cr) | ~2,771 | ~2,341 | ~3,570 | ~4,580 | ~3,050 | **~129** | ~3,070 | ~3,180 | ~3,900 | ~3,500 |
-| Provisions & Contingencies (₹ Cr) | ~1,067 | ~285 | ~557 | ~527 | ~101 | **~0** | ~177 | ~237 | ~277 | ~2,300+ |
+| Expenses (₹ Cr) [Note 1] | 1,044 | 1,597 | 2,467 | 3,739 | 6,534 | **11,298** | 8,693 | 9,310 | 10,555 | ~12,200 |
+| **Cost-to-Income Ratio (%) [Note 2]** | ~30% | ~35% | ~35% | ~38% | ~55% | **~77%** | ~58% | ~55% | ~54% | ~60%+ |
+| **PPOP (₹ Cr) [Note 2]** | ~1,771 | ~2,141 | ~3,091 | ~4,133 | ~3,051 | ~239 | ~3,036 | ~3,180 | ~3,902 | ~3,500 |
+| Provisions & Contingencies (₹ Cr) [Note 1] | ~659 | ~795 | ~1,139 | ~1,109 | ~846 | **~113** | ~841 | ~950 | ~1,157 | ~2,300+ |
+
+> **Note 1 — Screener Data Format for Banks:** Screener.in's "Expenses" line for banks bundles **pure operating expenses AND provisions/credit costs** into a single figure. This means the "Expenses" row above is NOT pure operating expenditure — it includes write-offs, loan-loss provisions, and contingencies. Consequently, the "Provisions" row shown is a **residual** (PBT = PPOP minus this residual), not total credit cost. Total credit cost (including write-offs) was substantially higher: ~₹2,524 Cr in FY22, ~₹2,000-2,200 Cr in FY23-FY25 per press releases.
+>
+> **Note 2 — From Press Releases:** The Cost-to-Income Ratio and "true" PPOP figures are sourced from the bank's quarterly press releases, which separate pure operating expenses from provisions. These cannot be derived from Screener's bundled "Expenses" row. The PPOP row above is recalculated as NII + Other Income − Screener Expenses (i.e., post-provision, effectively equivalent to Financing Profit + Other Income from Screener). For the bank's reported PPOP (pre-provision), refer to quarterly press releases: FY25 PPOP was ~₹7,600 Cr (operating expenses of ~₹6,857 Cr on net revenue of ~₹14,457 Cr, giving a true C/I of ~47%).
 | **Net Income (₹ Cr)** | 1,112 | 1,346 | 1,952 | 3,024 | 2,205 | **126** | 2,195 | 2,230 | 2,745 | ~690 |
 | Net Income Growth YoY | — | 21% | 45% | **55%** | -27% | **-94%** | 1,642% | 2% | 23% | ~-75% |
 | **EPS (Diluted) (₹)** | 10.15 | 11.28 | 16.36 | **18.78** | 13.69 | **0.78** | 13.62 | 13.84 | 17.04 | ~4.28 |
@@ -59,9 +63,9 @@ Bandhan's moat WAS its unmatched rural distribution (6,300+ banking outlets), de
 
 **NIM is compressing sharply.** From elite levels of 8-9% in FY17-FY20 (reflecting the high-yield microfinance book), NIM has declined to ~5.9% in Q3 FY26. This is driven by: (a) the deliberate shift toward lower-yielding secured loans (housing, auto, personal), (b) rising cost of deposits as the CASA ratio deteriorates (from ~43% in FY21 to ~27% in Q3 FY26), and (c) competitive pressure on lending rates.
 
-**Cost-to-income ratio is elevated and volatile.** It spiked to 77% in FY22 (the COVID provisioning year) and remains around 54-60%, far above best-in-class private banks (40-45%). The Bandhan 2.0 transformation (new core banking system, branch expansion, hiring) is absorbing costs that have not yet translated into proportionate income.
+**Cost-to-income ratio is elevated and volatile.** Per the bank's press releases (which separate pure operating expenses from provisions), the true C/I ratio was ~47% in FY25 and spiked to ~77% in FY22 when massive provisioning was required. The bank's reported C/I (excluding provisions) remains around 47-55%, above best-in-class private banks (40-45%). The Bandhan 2.0 transformation (new core banking system, branch expansion, hiring) is absorbing costs that have not yet translated into proportionate income.
 
-**Earnings are wildly cyclical.** FY22 was a near-wipeout year (₹126 Cr profit, ROA of 0.09%) due to massive COVID-related provisioning on the MFI book. FY23-FY25 showed recovery, but 9M FY26 is deteriorating again with provisions spiking. **This volatility is the hallmark of a microfinance-heavy bank — exactly the kind of business Buffett warns about.**
+**Earnings are wildly cyclical.** FY22 was a near-wipeout year (₹126 Cr profit, ROA of 0.09%) due to massive COVID-related provisioning on the MFI book (~₹2,500 Cr in total credit cost). FY23-FY25 showed recovery, but 9M FY26 is deteriorating again with provisions spiking. **This volatility is the hallmark of a microfinance-heavy bank — exactly the kind of business Buffett warns about.**
 
 > *Buffett: "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact."* — The microfinance credit cycle has repeatedly overwhelmed Bandhan's management, regardless of their operational skill.
 
@@ -98,7 +102,7 @@ CRAR of 18.7% (FY25) is well above the regulatory minimum of 11.5%. However, the
 
 **2. Asset Quality — FAIL (Persistent NPA problem)**
 
-**This is Bandhan's Achilles' heel.** GNPA has ranged from 3.8% to 7.2% over FY20-FY25, far above the <3% threshold for a quality bank. The microfinance (EEB) book is inherently volatile — every external shock (demonetisation, COVID, Assam crisis, cyclones) causes a spike in NPAs. The improvement to GNPA 3.3% in Q3 FY26 was driven significantly by large technical write-offs (₹1,270 Cr in Q3 FY25 alone), not just genuine recovery. **Net NPA of 1.0-1.4% looks better but is masked by aggressive write-offs.**
+**This is Bandhan's Achilles' heel.** GNPA has ranged from 3.8% to 7.2% over FY20-FY25, far above the <3% threshold for a quality bank. The microfinance (EEB) book is inherently volatile — every external shock (demonetisation, COVID, Assam crisis, cyclones) causes a spike in NPAs. The improvement to GNPA 3.3% in Q3 FY26 was driven significantly by large technical write-offs (₹1,270 Cr in Q3 FY25; similar levels continued in FY26 quarters), not just genuine recovery. **Net NPA of 1.0-1.4% looks better but is masked by aggressive write-offs.**
 
 **3. Funding Stability — DETERIORATING**
 
@@ -157,7 +161,7 @@ The restructured book post-COVID has largely resolved, but slippages remain elev
 | Less: Normalised Credit Cost* (₹ Cr) | ~1,380 | ~2,250 | ~2,670 | ~3,270 | ~3,660 | ~3,750 | ~4,110 |
 | **= Normalised Earnings (₹ Cr)** | ~650 | ~854 | **~-362** | **~-3,034** | ~-1,322 | ~-1,282 | ~-1,086 |
 
-*\*Normalised credit cost uses a 3% of average advances assumption, reflecting the 5-year average credit cost for this bank which includes extreme years.*
+*\*Normalised credit cost uses a 3% of period-end gross advances assumption, reflecting the 5-year average credit cost for this bank which includes extreme years.*
 
 **This is a deeply uncomfortable finding.** When you apply a normalised credit cost to Bandhan's loan book (which averages 3%+ of advances when you include the extreme years), the "true" sustainable earnings are far lower than reported — and often negative. The reported profits in good years (FY19, FY20, FY25) are partly the result of LOW provisioning in those specific years, flattering the P&L temporarily.
 
@@ -190,6 +194,8 @@ Under this more forgiving scenario, normalised EPS is ~₹13-14, giving a normal
 | Leverage (Assets/Equity) | 6.8x | 4.7x | 5.0x | 6.0x | 6.6x | 8.0x | 8.0x | 8.2x | 7.8x | 7.9x |
 
 ### ROE Decomposition (DuPont for Banks)
+
+> *Note: The provision intensity and operating efficiency figures below are based on the bank's press-release PPOP (which separates pure operating expenses from provisions/credit costs), NOT on Screener's bundled "Expenses" line. See Note 2 in Section 2.*
 
 | Component | FY20 (Pre-COVID Peak) | FY22 (Trough) | FY25 (Recent) |
 |---|---|---|---|
@@ -321,10 +327,10 @@ The business model is proven (it works in good years) but NOT consistently profi
 
 | Period | Retained Earnings (₹ Cr) | Market Cap Change (₹ Cr) | Value Created per ₹1 Retained |
 |---|---|---|---|
-| FY18-FY25 (8 years) | ~₹14,500 Cr cumulative retained | Market cap went from ~₹60,000 Cr (post-IPO peak) to ~₹25,800 Cr | **-₹2.36 per ₹1 retained** |
-| FY23-FY25 (3 years) | ~₹6,437 Cr retained | Market cap from ~₹32,000 to ~₹25,800 | **-₹0.96 per ₹1 retained** |
+| FY18-FY25 (8 years) | ~₹14,500 Cr cumulative retained | Market cap went from ~₹83,000 Cr (post-IPO peak, Sep 2018 at ₹700+) to ~₹25,800 Cr (Mar 2026) | **-₹3.95 per ₹1 retained** |
+| FY23-FY25 (3 years, measured to Mar 2026) | ~₹6,437 Cr retained | Market cap from ~₹32,000 Cr (Mar 2023) to ~₹25,800 Cr (Mar 2026) | **-₹0.96 per ₹1 retained** |
 
-**The $1 test is a CATASTROPHIC FAIL.** The company has retained over ₹14,500 Cr of shareholder money since IPO and the market cap has DECLINED from its post-listing peak. Every rupee retained has destroyed market value. This is the single most damning metric for any management team.
+**The $1 test is a CATASTROPHIC FAIL.** The company has retained over ₹14,500 Cr of shareholder money since IPO and the market cap has DECLINED from its post-listing peak of ~₹83,000 Cr to ~₹25,800 Cr. Every rupee retained has destroyed nearly ₹4 of market value. This is the single most damning metric for any management team.
 
 ### Management Changes
 
@@ -385,7 +391,7 @@ Promoter (Bandhan Financial Holdings, controlled by C.S. Ghosh) holds ~39.7%. Th
 | Metric | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current |
 |---|---|---|---|---|---|---|---|---|---|
 | **Price-to-Book (P/B)** | **~6.0x** | ~4.0x | ~2.5x | ~3.0x | ~2.0x | ~1.7x | ~1.5x | ~1.3x | **~1.05x** |
-| Price-to-Earnings (PE) | ~40x | ~25x | ~18x | ~22x | **~340x** | ~14x | ~14x | ~11x | ~10-11x (norm.) |
+| Price-to-Earnings (PE) | ~40x | ~25x | ~18x | ~22x | **~340x** | ~14x | ~14x | ~11x | ~11x (norm.) |
 | Book Value Per Share (₹) | ~79 | ~94 | ~94 | ~108 | ~108 | ~122 | ~134 | ~153 | ~153 |
 | BVPS Growth | +93% | +19% | +0% | +15% | +0% | +13% | +10% | +14% | — |
 | Earnings Yield | ~2.5% | ~4% | ~5.5% | ~4.5% | ~0.3% | ~7% | ~7% | ~9% | ~9-10% |
@@ -523,7 +529,7 @@ Fair P/B = (14% - 8%) / (12% - 8%) = 6% / 4% = 1.5x
 |---|---|
 | India nominal GDP growth | 10-12% |
 | Bandhan 5Y EPS CAGR (FY20-FY25) | ~-2% (negative due to FY20 peak) |
-| Bandhan 3Y EPS CAGR (FY22-FY25) | ~55% (recovery from near-zero base) |
+| Bandhan 3Y EPS CAGR (FY22-FY25) | ~180% (recovery from near-zero base — misleadingly high, not indicative of sustainable growth) |
 | Normalised EPS growth potential | 12-15% (if credit costs stabilise) |
 | Analyst consensus FY27E EPS | ~₹15-16 |
 
@@ -559,9 +565,9 @@ At terminal PE of 15x (fair for a private bank), to earn a 15% return over 10 ye
 **Key Inputs:** BVPS ₹153, CMP ₹160, P/B 1.05x, Sustainable ROE 12%, Retention 90%, BV Compounding 10.8%
 
 **Projected BVPS:**
-- Year 5: ₹256
-- Year 7: ₹316
-- Year 10: ₹420
+- Year 5: ₹255
+- Year 7: ₹314
+- Year 10: ₹427
 
 **Expected Annual Return (CAGR) at CMP ₹160 (Entry P/B: 1.05x)**
 
@@ -642,7 +648,7 @@ At 1.05x book, even if P/B compresses to 0.8x over 10 years, the return is ~7.7%
 Buffett would likely **PASS** on Bandhan for the following reasons:
 
 1. **The moat is eroding**, not widening. CASA decline is the clearest signal.
-2. **Earnings are too volatile.** The swing from ₹3,024 Cr profit (FY20) to ₹126 Cr (FY22) to ₹2,745 Cr (FY25) to an annualised ~₹900 Cr (9M FY26) makes this business unpredictable.
+2. **Earnings are too volatile.** The swing from ₹3,024 Cr profit (FY20) to ₹126 Cr (FY22) to ₹2,745 Cr (FY25) to an annualised ~₹920 Cr (9M FY26) makes this business unpredictable.
 3. **The $1 test failed catastrophically.** Capital has been destroyed, not created.
 4. **The business model is changing** — from high-NIM MFI to lower-NIM secured lending. The transition is sensible but the outcome is uncertain.
 
