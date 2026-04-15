@@ -733,7 +733,7 @@ But he would **likely NOT buy at ₹187** for three reasons:
 
 **Can this be explained to a 10-year-old?**
 
-"There's a company called Castrol that makes the oil you put in car and motorcycle engines. Every car needs this oil changed regularly, so people keep buying it. Castrol is the most famous brand of engine oil in India. They make the oil for about ₹30 and sell it for ₹100, and they don't need to build big expensive factories. So they make a LOT of profit and give most of it back to the people who own the company's shares. The share costs about ₹187 today and last year they gave back about ₹13 for every share — that's like getting ₹13 for every ₹187 you invest, every year."
+"There's a company called Castrol that makes the oil you put in car and motorcycle engines. Every car needs this oil changed regularly, so people keep buying it. Castrol is the most famous brand of engine oil in India. They make the oil for about ₹30 and sell it for ₹100, and they don't need to build big expensive factories. So they make a LOT of profit and give most of it back to the people who own the company's shares. The share costs about ₹187 today and they'll give you about ₹9 back every year just for owning it — that's like getting ₹9 for every ₹187 you invest, every year, forever."
 
 **Does the math work on a napkin?**
 
