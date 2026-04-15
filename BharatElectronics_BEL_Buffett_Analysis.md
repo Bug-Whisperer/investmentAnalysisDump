@@ -2,7 +2,7 @@
 
 **Ticker:** NSE: BEL | BSE: 500049
 **CMP:** ₹436 (as of March 19, 2026)
-**Market Cap:** ₹3,18,377 Crore (~$37 Billion)
+**Market Cap:** ₹3,18,377 Crore (~$37 Billion) *(as reported by Screener)*
 **52-Week Range:** ₹256 – ₹473
 **Sector:** Aerospace & Defence Electronics
 **Mode:** STANDARD MODE (Non-Financial Company)
@@ -18,8 +18,8 @@ Bharat Electronics Ltd (BEL), incorporated in 1954, is a Navratna PSU under the 
 BEL is the quintessential Buffett business — a toll bridge on India's defence spending. Every rupee the Indian government spends on defence electronics must largely flow through BEL. The company operates 29 Strategic Business Units (SBUs), including newer verticals in Network & Cyber Security, Unmanned Systems, Seekers, and Arms & Ammunition.
 
 The economic engine is powerful:
-- **~87% revenue from defence** (captive customer — Indian Armed Forces)
-- **~13% from civilian/non-defence** (smart cities, homeland security, cyber security, EV charging, solar)
+- **~85% revenue from defence** (captive customer — Indian Armed Forces)
+- **~15% from civilian/non-defence** (smart cities, homeland security, cyber security, EV charging, solar)
 - **Nomination-based orders** from the Ministry of Defence — no competitive bidding required for many contracts
 - **Long-duration order book** (₹73,450 Cr as of Jan 2026) providing 3-4 years of revenue visibility
 - **51.14% Government of India ownership** — the promoter IS the customer
@@ -56,7 +56,7 @@ BEL's competitive advantage is structural and near-permanent: it is embedded int
 | **EBITDA Margin** | 19.0% | 21.6% | 23.2% | 22.2% | 26.7% | 24.1% | 25.5% | 24.4% | 25.5% | 27.1% | **30.7%** | 31.7% |
 | Dividend Payout % | 20% | 31% | 33% | 34% | 44% | 37% | 46% | 46% | 44% | 40% | 33% | — |
 
-*Note: Share capital changes reflect bonus issues/splits — EPS is adjusted for comparability.*
+*Note: Share capital changes reflect bonus issues/splits (1:2 bonus in FY2016, ₹10→₹1 face value split, 1:2 bonus in FY2023). EPS figures are Screener's retroactively adjusted series. For FY2017–FY2025, EPS = Net Profit / 731 Cr shares exactly. For FY2015–FY2016, Screener's adjustment factor differs slightly (~792 Cr implied shares) due to interim corporate actions — these are Screener's reported figures used as-is.*
 
 ### Trend Narrative
 
@@ -106,11 +106,13 @@ Profit growth outpacing revenue growth by a wide margin = operating leverage + m
 |---|---|---|---|---|---|---|---|
 | **Debt/Equity** | **0.003** | 0.008 | 0.004 | **0.000** | 0.004 | 0.004 | **0.003** |
 | Net Cash (approx)* | Positive | Positive | Positive | Positive | Positive | Positive | **Positive** |
-| Book Value/Share (₹) | ~10.2 | ~10.6 | ~12.6 | ~15.1 | ~19.0 | ~22.3 | **~27.3** |
+| Book Value/Share (₹) | ~10.2† | ~10.6 | ~12.6 | ~15.1 | ~19.0 | ~22.3 | **~27.3** |
 | BVPS Growth YoY | — | — | — | — | — | 17.4% | **22.4%** |
 | Total Assets / Equity | 1.9x | 2.3x | 2.3x | 2.7x | 2.6x | 2.4x | 2.0x |
 
 *BEL has negligible borrowings (₹61 Cr against ~₹20,000 Cr equity). The company is essentially debt-free.*
+
+*†FY2015 BVPS uses Screener's adjusted share count (~796 Cr implied), consistent with the EPS adjustment noted in Section 2. FY2017 onwards uses 731 Cr shares exactly. Trailing BVPS as of Sep 2025 is ₹29.5 (equity of ₹21,567 Cr / 731 Cr shares) — this is the figure reported on Screener's header and used for current P/B calculations throughout this analysis, as it is closer to the CMP date (March 2026) than the FY2025 year-end figure of ₹27.3.*
 
 ### Financial Fortress Assessment
 
@@ -322,7 +324,7 @@ BEL's core business model — the government orders, BEL delivers, cash flows �
 **Total Addressable Market (TAM):**
 - India's defence capital expenditure: ₹2.19 lakh Cr (FY2026), growing at 12-15% CAGR
 - Defence electronics typically 30-40% of capital budget = ₹65,000-85,000 Cr TAM domestically
-- BEL's current revenue: ~₹24,000 Cr = ~30-35% market share of domestic defence electronics
+- BEL's current revenue: ~₹24,000 Cr = ~28-37% market share of domestic defence electronics
 - International defence electronics export market: $100+ Billion
 - BEL's exports: <₹2,000 Cr currently — massive runway internationally
 - **Domestic runway: ~3-4x current revenue over 10 years**
@@ -415,7 +417,7 @@ BEL's management operates within the institutional framework of Indian governmen
 1. **Order book is massive and growing** — ₹73,450 Cr provides 3+ years of revenue visibility. This is like a SaaS company with 3+ years of contracted ARR.
 2. **Book-to-Bill consistently above 3x** — BEL is adding orders faster than it can execute them. This is a demand-constrained, not supply-constrained, business.
 3. **QRSAM mega-order (₹30,000+ Cr) expected in Q4 FY26** — this alone would add 1+ years of revenue to the order book.
-4. **Debtor days improving** (from 233 in FY2014 to 140 in FY2025) — faster collections from the government.
+4. **Debtor days improving** (from 189 days in FY2020 to 140 in FY2025) — faster collections from the government. Screener data shows debtor days peaked at 233 in FY2014, confirming a decade-long improvement trend.
 5. **Working capital days increased to 85 in FY2025** from 18 in FY2024 — driven by inventory build-up for large orders. Monitor this but not alarming given the order book.
 6. **Long-term revenue CAGR guidance of 15-17.5%** by management — conservative given order pipeline.
 
@@ -437,14 +439,14 @@ The operational fundamentals are improving on all key metrics: order book growin
 | Earnings Yield | ~1.9% | ~2.3% | ~2.0% | ~3.3% | ~4.0% | ~5.0% | ~5.6% | ~3.5% |
 | Dividend Yield | 0.55% | — | — | — | — | — | — | ~1.2% |
 
-*Historical PE calculated at year-end market prices.*
+*Historical PE calculated at year-end market prices. Note: "Current" PE uses TTM EPS (₹8.16); P/S and EV/EBITDA use FY2025 annual figures (₹23,769 Cr revenue, ₹7,304 Cr EBITDA) as TTM figures include partially annualised quarterly data. On a fully TTM basis, P/S would be ~12.0x and EV/EBITDA ~37.9x.*
 
 ### Historical Comparison
 
 BEL has undergone a massive re-rating over the past 3-5 years. The stock traded at 12-20x PE through FY2019-2022 and now trades at 53x+ PE. **The stock has NEVER sustained these valuation multiples historically.** The current PE of 53-54x is at the absolute highest end of its historical range.
 
 The re-rating reflects:
-1. India's structural defence spending increase (budget 3x in 8 years)
+1. India's structural defence spending increase (budget 3x in 10 years)
 2. Atma Nirbhar Bharat indigenisation push
 3. Accelerating margin expansion
 4. The "defence stock premium" across the Indian market
@@ -455,7 +457,7 @@ The re-rating reflects:
 
 **On a relative basis: Debatable.** If BEL can deliver 15-17.5% revenue CAGR with continued margin expansion (leading to 20-25% EPS CAGR), a PE of 53x equates to a PEG ratio of ~2.5x — elevated but not absurd for a capital-light, high-ROCE, moat-widening business.
 
-**The key risk is multiple compression.** If the PE compresses from 53x to its 5-year median of ~28x while EPS grows at 18% CAGR for 5 years, the stock would generate roughly 4-5% total annual return — far below a 10% hurdle rate. You need the earnings growth AND the multiple to work in your favour.
+**The key risk is multiple compression.** If the PE compresses from 53x to its 5-year median of ~28x while EPS grows at 18% CAGR for 5 years, the stock would generate roughly ~4% total annual return (including dividends) — far below a 10% hurdle rate. You need the earnings growth AND the multiple to work in your favour.
 
 > *Buffett: "Price is what you pay, value is what you get."*
 
@@ -631,7 +633,7 @@ The napkin math conclusion: BEL at ₹436 is **a wonderful business priced for s
 
 | Scenario | Basis | Implied Price | Downside from ₹436 |
 |---|---|---|---|
-| Book Value Floor | 1x BVPS (₹29.5) | ₹30 | -93% |
+| Book Value Floor | 1x BVPS (₹29.5) | ₹29.5 | -93% |
 | Trough PE (worst year × 15x) | FY2020 EPS ₹2.50 × 15 | ₹38 | -91% |
 | Historical Low PE (18x) × Current EPS | 18 × ₹8.16 | ₹147 | -66% |
 | Conservative DCF | ₹223 (from Section 12) | ₹223 | -49% |
@@ -762,13 +764,15 @@ The business is generating higher returns with less financial risk. This is the 
 
 | Zone | PE Range | P/B Range | Price Range | Rationale |
 |---|---|---|---|---|
-| **Deep Value / Strong Buy** | <20x | <5x | **₹100-165** | Priced below historical norms; exceptional margin of safety |
-| **Value / Buy** | 20-28x | 5-8x | **₹165-230** | Below fair value for a high-quality compounder |
-| **Fair Value / Hold** | 28-38x | 8-12x | **₹230-310** | Fairly priced; hold for earnings compounding |
-| **Fully Valued / Trim** | 38-50x | 12-15x | **₹310-410** | Above fair value; limited upside, trim on rallies |
-| **Overvalued / Sell** | >50x | >15x | **>₹410** | Priced for perfection; sell/avoid new positions |
+| **Deep Value / Strong Buy** | <~20x | <5.6x | **₹100-165** | Priced below historical norms; exceptional margin of safety |
+| **Value / Buy** | ~20-28x | 5.6-7.8x | **₹165-230** | Below fair value for a high-quality compounder |
+| **Fair Value / Hold** | 28-38x | 7.8-10.5x | **₹230-310** | Fairly priced; hold for earnings compounding |
+| **Fully Valued / Trim** | 38-~50x | 10.5-13.9x | **₹310-410** | Above fair value; limited upside, trim on rallies |
+| **Overvalued / Sell** | >~50x | >13.9x | **>₹410** | Priced for perfection; sell/avoid new positions |
 
-**Current price of ₹436 at PE 53x and P/B 14.8x falls squarely in the OVERVALUED / SELL zone.**
+*Price ranges are the primary zone boundaries. PE and P/B columns are approximate translations using TTM EPS (₹8.16) and trailing BVPS (₹29.5). Exact PE at ₹165 = 20.2x; at ₹310 = 38.0x; at ₹410 = 50.2x.*
+
+**Current price of ₹436 at PE 53x and P/B 14.8x falls in the OVERVALUED / SELL zone on both metrics.**
 
 ### What Would Buffett Do If He Already Held BEL?
 
@@ -806,7 +810,7 @@ At ₹436, the "boat" (business) is excellent, but the "ticket price" (valuation
 
 **BEL is a TRUE BUFFETT BUSINESS at a NON-BUFFETT PRICE.**
 
-If BEL were trading at ₹150-200 (25-28x PE, 6-8x P/B), Buffett would likely buy it aggressively — it checks every qualitative box he cares about. But at ₹436 (53x PE, 14.8x P/B), there is no margin of safety.
+If BEL were trading at ₹150-200 (18-25x PE, 5-7x P/B), Buffett would likely buy it aggressively — it checks every qualitative box he cares about. But at ₹436 (53x PE, 14.8x P/B), there is no margin of safety.
 
 > *Buffett: "The three most important words in investing are margin of safety."*
 
@@ -816,7 +820,7 @@ There is no margin of safety at these levels. BEL passes every quality test but 
 
 The market is currently greedy on defence stocks. Buffett would be patient.
 
-**With a small capital base:** Buffett in his Buffett Partnership days was more aggressive on wonderful businesses, but even then, he demanded a margin of safety. He might start a small tracking position at ₹300-330 (35-38x PE) and accumulate aggressively only below ₹230 (28x PE).
+**With a small capital base:** Buffett in his Buffett Partnership days was more aggressive on wonderful businesses, but even then, he demanded a margin of safety. He might start a small tracking position at ₹300-330 (37-40x PE) and accumulate aggressively only below ₹230 (28x PE).
 
 ---
 
@@ -853,9 +857,9 @@ The market is currently greedy on defence stocks. Buffett would be patient.
 | **Scalability** | **8.5** | Incremental margins >50%; 15-17.5% guided CAGR; massive order book |
 | **Valuation** | **3** | 53x PE and 14.8x P/B — priced for perfection with zero margin of safety |
 | **Margin of Safety** | **2** | Overvalued on conservative DCF (₹223); near fair value on base case (₹374); only optimistic scenario shows upside (₹530) |
-| **Buffett Verdict** | **ADMIRE, DON'T BUY (at current prices)** | BEL is a wonderful business that Buffett would love to own — at the right price. At ₹436, you are paying a luxury price for a wonderful business. The business quality is undeniable (9.5/10), but the valuation (3/10) destroys the investment case at current levels. Buffett would put BEL on his watchlist and wait patiently for a market correction, a sector de-rating, or any event that brings the PE to 25-30x (₹200-245). At that price, BEL would be a "strong buy and hold forever" — a Coca-Cola or American Express for the Indian defence era. At ₹436, it is a "wonderful company at a crazy price" — and Buffett would pass. |
-| **Buy Zone** | **Overvalued / Sell Zone** | Current PE 53x, P/B 14.8x — both at historical extremes |
-| **Overall Recommendation** | **AVOID new positions. HOLD if already owned at lower prices. TRIM on further rallies.** | Target accumulation zone: ₹200-250 (25-30x PE). At that level, risk-reward flips dramatically in the investor's favour. |
+| **Buffett Verdict** | **ADMIRE, DON'T BUY (at current prices)** | BEL is a wonderful business that Buffett would love to own — at the right price. At ₹436, you are paying a luxury price for a wonderful business. The business quality is undeniable (9.5/10), but the valuation (3/10) destroys the investment case at current levels. Buffett would put BEL on his watchlist and wait patiently for a market correction, a sector de-rating, or any event that brings the PE to 25-28x (₹200-230). At that price, BEL would be a "strong buy and hold forever" — a Coca-Cola or American Express for the Indian defence era. At ₹436, it is a "wonderful company at a crazy price" — and Buffett would pass. |
+| **Buy Zone** | **Overvalued / Sell Zone** | PE 53x (>50x) and P/B 14.8x (>13.9x) both place the stock in the Overvalued zone — at historical extremes |
+| **Overall Recommendation** | **AVOID new positions. HOLD if already owned at lower prices. TRIM on further rallies.** | Target accumulation zone: ₹200-230 (25-28x PE). At that level, risk-reward flips dramatically in the investor's favour. |
 
 ---
 
@@ -867,7 +871,7 @@ The market is currently greedy on defence stocks. Buffett would be patient.
 "India needs electronic equipment for its army, navy, and air force. BEL makes this equipment. The government owns BEL and gives it orders every year. India is spending more and more money on defence every year. BEL makes more money every year. It's like being the only shop in town that sells something everyone needs."
 
 **The Valuation Problem (Also simple):**
-"BEL earns ₹7.28 per share. The stock costs ₹436. That means you're paying 60 times what the company earns in a year. It would take 60 years of current earnings to get your money back. That's too expensive. Wait until it's cheaper."
+"BEL earns about ₹8 per share right now. The stock costs ₹436. That means you're paying about 54 times what the company earns in a year. That's expensive. Wait until it's cheaper."
 
 ### Does the math work without Excel?
 
