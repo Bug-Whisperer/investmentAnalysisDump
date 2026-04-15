@@ -547,14 +547,14 @@ Using Base Case:
 | Input | Value |
 |---|---|
 | CMP | ₹136 |
-| TTM EPS (Lightly Adjusted) | ₹18.50 (reported ₹20.25 with a ~8.5% haircut for cyclically low provisions — see note below) |
-| Current PE (on Adjusted EPS) | 7.4x |
+| TTM EPS (Adjusted for forward CC) | ₹17.2 (reported ₹20.25 adjusted to a ~0.75% forward credit cost — see note below) |
+| Current PE (on Adjusted EPS) | 7.9x |
 | Shares Outstanding (Diluted) | 907 Cr |
 | Historical 5Y EPS CAGR | ~61% (distorted by turnaround from losses) |
 | Historical 3Y EPS CAGR | ~42% |
 | Realistic sustainable EPS CAGR | 12-15% |
 
-*Note on "Adjusted" vs "Fully Normalised" EPS: The ₹18.50 Adjusted EPS used here applies a modest haircut to reported TTM EPS, approximating what earnings would be if credit costs were ~0.7-0.8% (a prudent forward-looking estimate) rather than the current ~0.38-0.55%. This is distinct from the "Fully Normalised Earnings" in Section 5, which applies the strict 5-year historical average credit cost of 1.15% and produces a much lower figure (~₹11,300 Cr or ~₹12.5 per share). The Adjusted EPS is used here because the Reverse DCF is a forward-looking tool — it asks what growth is needed from a realistic (not worst-case) starting point. Section 5's strict normalisation represents a through-cycle floor, not a base case.*
+*Note on "Adjusted" vs "Fully Normalised" EPS: The ₹17.2 Adjusted EPS used here applies a ~15% haircut to reported TTM EPS (₹20.25), approximating what earnings would be at a forward-looking credit cost of ~0.75% (midpoint of 0.7-0.8% range) instead of the current blended TTM CC of ~0.47%. This is calculated as: incremental provision = (0.75% − 0.47%) × ~₹13,00,000 Cr avg advances = ~₹3,640 Cr pre-tax; post-tax hit at ~23% ETR = ~₹2,803 Cr; adjusted PAT = ₹18,367 − ₹2,803 = ₹15,564 Cr; adjusted EPS = ₹15,564 / 907 = ~₹17.2. This is distinct from the "Fully Normalised Earnings" in Section 5, which applies the strict 5-year historical average CC of 1.15% and produces a much lower figure (~₹11,300 Cr or ~₹12.5 per share). Section 5's strict normalisation represents a through-cycle floor, not a forward base case. The Adjusted EPS is used here because the Reverse DCF is a forward-looking tool — it asks what growth is needed from a realistic starting point. The overall green signal is robust: even at the strict ₹12.5 normalised EPS (PE ~10.9x), the implied growth needed remains below sustainable levels.*
 
 ### Step 2-3: Implied EPS CAGR Needed
 
@@ -562,29 +562,29 @@ Using Base Case:
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | -0.3% | 4.3% | 8.8% |
-| 10 Years | 4.7% | 9.5% | 14.3% |
+| 5 Years | 1.2% | 5.8% | 10.4% |
+| 10 Years | 5.5% | 10.3% | 15.1% |
 
 #### At Terminal PE = 8x (Deep Value / Bear Case)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 8.2% | 13.1% | 18.0% |
-| 10 Years | 9.1% | 14.0% | 19.0% |
+| 5 Years | 9.7% | 14.7% | 19.7% |
+| 10 Years | 9.9% | 14.9% | 19.9% |
 
 #### At Terminal PE = 15x (Market Average for Banks)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | -4.6% | -0.3% | 4.0% |
-| 10 Years | 2.4% | 7.1% | 11.7% |
+| 5 Years | -3.2% | 1.2% | 5.6% |
+| 10 Years | 3.2% | 7.9% | 12.6% |
 
 #### At Historical Average PE = 7x (Canara's Own Historical Median)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 11.1% | 16.1% | 21.2% |
-| 10 Years | 10.5% | 15.6% | 20.6% |
+| 5 Years | 12.7% | 17.8% | 23.0% |
+| 10 Years | 11.3% | 16.4% | 21.5% |
 
 ### Step 4: Reality Check
 
@@ -597,13 +597,13 @@ Using Base Case:
 
 **Traffic Light:**
 
-At current prices, to earn a **10% return over 10 years** at a **terminal PE of 12x**, the company needs to grow EPS at just **4.7% CAGR**. This is well BELOW India's nominal GDP growth rate and far below the company's own sustainable growth rate.
+At current prices, to earn a **10% return over 10 years** at a **terminal PE of 12x**, the company needs to grow EPS at just **5.5% CAGR**. This is well BELOW India's nominal GDP growth rate and far below the company's own sustainable growth rate.
 
-> **🟢 GREEN — At the current price of ₹136, the market is pricing in essentially NO earnings growth beyond inflation to deliver a 10% return. A 15% return requires ~9.5% EPS CAGR. A 20% return requires ~14.3% EPS CAGR. Given the company should sustain 12-15% EPS growth, achieving a 15% return is realistic. The market is NOT demanding heroic assumptions.**
+> **🟢 GREEN — At the current price of ₹136 (on an adjusted EPS of ₹17.2, reflecting a prudent 0.75% forward CC), the market is pricing in minimal earnings growth to deliver a 10% return. A 15% return requires ~10.3% EPS CAGR. A 20% return requires ~15.1% EPS CAGR. Given the company should sustain 12-15% EPS growth, achieving a 15% return is realistic. The market is NOT demanding heroic assumptions.**
 
 ### Step 5: Verdict
 
-> "At the current price of ₹136, to earn a 15% annualised return over 10 years assuming the market values the business at 12x PE at exit, Canara Bank needs to grow EPS at ~9.5% CAGR. The company is currently growing EPS at ~15%+ and should sustain 12-15% growth for several years given India's credit cycle. This implies **the market is pricing in conservative growth — a meaningful margin of embedded pessimism.**"
+> "At the current price of ₹136, to earn a 15% annualised return over 10 years assuming the market values the business at 12x PE at exit, Canara Bank needs to grow EPS at ~10.3% CAGR from an already-conservative adjusted base. The company is currently growing EPS at ~15%+ and should sustain 12-15% growth for several years given India's credit cycle. This implies **the market is pricing in conservative growth — a meaningful margin of embedded pessimism.**"
 
 ### Step 6: Asymmetric Upside Check — Is This a Fat Pitch?
 
