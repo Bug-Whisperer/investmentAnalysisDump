@@ -219,8 +219,10 @@ If credit costs normalise to ~0.8-1.0% in a downturn, net income could decline 2
 | Operating Efficiency (1 - C/I) | 54% | 52.3% | 52.1% |
 | Provision Intensity (1 - Prov/PPOP) | 85% | 83% | 85% |
 | ROA | 1.03% | 1.17% | 1.16% |
-| Leverage (Assets/Equity) | 14.5x | 13.8x | 12.7x |
-| **ROE = ROA × Leverage** | **~15%** | **~17%** | **~16%** |
+| Leverage (Avg Assets / Avg Equity) | 14.5x | 14.2x | 13.2x |
+| **ROE ≈ ROA × Leverage** | **~15%** | **~17%** | **~16%** |
+
+*Note: ROA and ROE are computed on average assets and average equity respectively (per bank reporting convention). The Leverage ratio above also uses averages so that the three-factor identity approximately closes. Minor differences arise from rounding of reported ROA. Year-end leverage for FY2025 is lower at 12.7x (see Section 3).*
 
 ### Quality Assessment
 
@@ -326,7 +328,7 @@ Banking IS relatively resistant to change in its core function. The channels cha
 From FY2020 to FY2025:
 - Retained earnings: ~₹52,841 Cr cumulative (981 + 1,620 + 6,431 + 12,156 + 15,113 + 16,540)
 - Market cap change: From ~₹22,000 Cr (FY20 price ~₹48) to ~₹1,45,000 Cr = +₹1,23,000 Cr
-- **For every ₹1 retained, ~₹2.34 of market value was created.** This passes the $1 test decisively — but it includes the massive re-rating from distressed (0.3x book) to normalised (0.9x book) valuations. The re-rating won't repeat.
+- **For every ₹1 retained, ~₹2.33 of market value was created.** This passes the $1 test decisively — but it includes the massive re-rating from distressed (0.3x book) to normalised (0.9x book) valuations. The re-rating won't repeat.
 
 ### Capital Allocation
 
@@ -488,6 +490,18 @@ Excess Return = (ROE - CoE) × Book Value
 | Historical 3Y EPS CAGR | ~38% |
 | Sustainable EPS CAGR (going forward) | ~10-14% |
 
+### Step 2: Terminal PE/PB Scenarios
+
+The terminal PE is what the market will likely pay at the END of the holding period. For a mature PSU bank:
+
+| Scenario | Terminal PE | Rationale |
+|---|---|---|
+| Mature / De-rated PSU | 8x | Market assigns low multiple; PSU discount persists |
+| Normal PSU Bank | 10x | Moderate re-rating to sector average |
+| Historical Average | ~7-8x | BoB's own 5-year median PE |
+
+For the Reverse DCF below, we use Terminal PE of **10x** (on normalised EPS) and **8x** (on reported EPS) as the two primary scenarios.
+
 ### Step 3: Implied EPS CAGR to Achieve Target Returns
 
 **Using Normalised EPS of ₹21 and Terminal PE of 10x (mature PSU bank):**
@@ -569,9 +583,9 @@ The source of mispricing is **sector/narrative de-rating**: PSU banks trade at s
 ### Part A: Bank DuPont (ROE Quality)
 
 BoB's ROE of ~16% comes from:
-- **ROA of 1.16%** × **Leverage of ~13x** = ~15-16% ROE
-- ROA of 1.16% is driven by NIM of 3.0%, offset by ~48% cost-to-income and very low credit costs (~0.47%)
-- This is **quality ROE** — leverage has actually DECREASED while ROE improved. The improvement is entirely from ROA improvement.
+- **ROA of ~1.16-1.19%** × **Average Leverage of ~13.2x** ≈ ~15-16% ROE
+- ROA is driven by NIM of 3.0%, offset by ~48% cost-to-income and very low credit costs (~0.47%)
+- This is **quality ROE** — leverage has actually DECREASED (year-end leverage fell from 15.8x to 12.7x) while ROE improved. The improvement is entirely from ROA improvement.
 
 **However:** ROA improvement came primarily from provision normalisation, not NIM expansion. If credit costs normalise to 0.8-1.0%, ROA drops to ~0.85-1.0%, and ROE falls to 11-13%.
 
