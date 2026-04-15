@@ -2,7 +2,7 @@
 
 ### **[BANK/NBFC MODE ACTIVATED]**
 
-**CMP:** ₹136 (approx. as of March 21, 2026) | **Market Cap:** ~₹1,23,600 Cr | **P/B:** 1.10x | **PE (TTM):** 6.64 | **Book Value:** ₹129/share | **52-Week Range:** ₹82–₹163 | **Dividend Yield:** ~2.9%
+**CMP:** ₹136 (approx. as of March 21, 2026) | **Market Cap:** ~₹1,23,600 Cr | **P/B:** 1.05x | **PE (TTM):** 6.7 | **Book Value:** ₹129/share | **52-Week Range:** ₹82–₹163 | **Dividend Yield:** ~2.9%
 
 ---
 
@@ -52,10 +52,10 @@ The question for Canara Bank is whether decades of PSU banking culture — gover
 | EPS Growth YoY | NM | NM | 92% | 84% | 36% | 15% | 23% |
 | Shares Outstanding (Diluted, Cr) | 515 | 824 | 907 | 907 | 907 | 907 | 907 |
 | Shares Change YoY | +37% | +60% | +10% | 0% | 0% | 0% | 0% |
-| **ROA** | **-0.26%** | 0.25% | 0.49% | 0.82% | 1.03% | 1.08% | **1.12%** |
+| **ROA** | **-0.26%** | 0.25% | 0.49% | 0.82% | 1.03% | 1.08% | **1.12%** (9M ann.) |
 | **ROE** | **-5%** | 6% | 9% | 15% | 18% | **18%** | ~17% |
 
-*Note: Interest expense and NII are approximated from total revenue minus reported operating structure. Exact NII figures from standalone reports: FY24 = ₹36,750 Cr, FY25 = ₹37,072 Cr (standalone). Consolidated figures are larger due to subsidiaries.*
+*Note: "Total Revenue" is Screener's consolidated Total Income line, which includes interest earned plus all other operating income; it is NOT the sum of "Interest Income" + "Other Income" rows above — the Other Income row captures fee and trading income reported separately on the P&L. "Interest Expense" and "NII" are approximations. Cost-to-Income Ratio is sourced directly from Canara Bank's official filings (calculated on standalone operating income basis) and cannot be derived from the consolidated table rows above. FY2020 pre-merger P&L has a different line-item structure on Screener, so OpEx + PPOP does not reconcile to Total Revenue for that year; from FY2021 onwards the reconciliation holds. Consolidated Net Income includes minority interest from subsidiaries; EPS is calculated on PAT attributable to equity shareholders only, which is ~0.8-0.9% lower. Exact NII figures from standalone reports: FY24 = ₹36,750 Cr, FY25 = ₹37,072 Cr.*
 
 **Trend Narrative:**
 
@@ -77,7 +77,7 @@ Buffett: *"Earnings can be as pliable as putty when a charlatan heads the compan
 
 *(Consolidated, ₹ Crores)*
 
-| Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Sep'25 |
+| Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Sep'25 (Q2 FY26) |
 |---|---|---|---|---|---|---|---|
 | **Total Advances (Loan Book)** | ~5,40,000 | ~8,82,000 | ~9,36,000 | ~10,18,000 | ~11,23,000 | ~12,94,000 | ~13,57,000 |
 | Advance Growth YoY | — | ~63%** | ~6% | ~9% | ~10% | ~15% | ~13% |
@@ -100,13 +100,13 @@ Buffett: *"Earnings can be as pliable as putty when a charlatan heads the compan
 | **Slippage Ratio** | ~4-5% | ~3-4% | ~2.5% | ~2.0% | ~1.59% | ~1.18% | ~0.83% |
 | Credit Cost (Prov/Avg Adv) | ~2.5% | ~2.0% | ~1.5% | ~1.0% | ~0.69% | ~0.55% | **0.38%** |
 
-*(**FY2021 jump reflects Syndicate Bank merger, not organic growth)*
+*(**FY2021 jump reflects Syndicate Bank merger, not organic growth. Balance sheet data from Screener is available through Sep'25 (Q2 FY26). More recent quarterly NPA data as at Dec'25 (Q3 FY26): GNPA 2.08%, NNPA 0.45%, PCR 94.19%, CASA 29.52%.)*
 
 **Buffett's Financial Fortress Assessment — Adapted for Banks:**
 
 1. **Capital Adequacy — STRONG.** CRAR at 16.2-16.5% is well above the regulatory minimum of ~11.5%. CET-1 at 12%+ provides ample headroom. The bank hasn't needed GoI capital infusion in the last 4 years. **Pass.**
 
-2. **Asset Quality — DRAMATICALLY IMPROVED and now GOOD.** GNPA has fallen from a catastrophic 8.9% (FY2021) to 2.08% (Q3 FY26). NNPA at 0.45% is excellent. PCR at 94% is outstanding — one of the highest among PSBs. Slippage ratio has fallen to 0.83% annualised — well within comfort zone. **Pass.**
+2. **Asset Quality — DRAMATICALLY IMPROVED and now GOOD.** GNPA has fallen from a catastrophic 8.9% (FY2021) to 2.35% (Sep'25) and further to 2.08% (Dec'25 / Q3 FY26). NNPA at 0.45% (Dec'25) is excellent. PCR at 94.2% (Dec'25) is outstanding — one of the highest among PSBs. Slippage ratio has fallen to 0.83% annualised — well within comfort zone. **Pass.**
 
 3. **Funding Stability — MIXED.** The deposit base is large (₹15+ lakh Cr) and growing at ~10-11%. However, the **CASA ratio at ~29.5% is a weakness** — significantly below the PSB average and far below best-in-class private banks (HDFC Bank ~38%, Kotak ~50%+). This means Canara depends more on costlier time deposits, keeping its cost of funds (~5.2%) above the PSB average (~5.2%). The low CASA is the bank's **Achilles heel** from a moat perspective.
 
@@ -125,12 +125,12 @@ Buffett: *"When a management with a reputation for brilliance tackles a business
 | Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
 | Net Income | 2,957 | 6,158 | 11,345 | 15,401 | 17,692 |
-| Dividends Paid | 0 | ~1,170 | ~2,155 | ~2,926 | ~3,715 |
-| **Retained Earnings** | 2,957 | 4,988 | 9,190 | 12,475 | 13,977 |
-| Retention Ratio | 100% | 81% | 81% | 81% | 79% |
+| Dividends Paid | 0 | ~1,170 | ~2,150 | ~2,921 | ~3,628 |
+| **Retained Earnings** | 2,957 | 4,988 | 9,195 | 12,480 | 14,064 |
+| Retention Ratio | 100% | 81% | 81% | 81% | 79.5% |
 | BVPS Growth | NM | 3% | ~12%* | 19% | 14% |
-| **Internal Capital Gen Rate (ROE × Retention)** | 6% | 7.3% | 12.2% | 14.6% | 14.2% |
-| Dividend Payout Ratio | 0% | 19% | 19% | 19% | 21% |
+| **Internal Capital Gen Rate (ROE × Retention)** | 6% | 7.3% | 12.2% | 14.6% | 14.3% |
+| Dividend Payout Ratio | 0% | 19% | 19% | 19% | 20.5% |
 | Dividend Per Share (₹) | 0 | 1.29 | 2.37 | 3.22 | 4.00 |
 | Dividend Yield (at CMP ₹136) | — | — | — | — | 2.9% |
 
@@ -140,17 +140,17 @@ Buffett: *"When a management with a reputation for brilliance tackles a business
 
 The bank is generating sufficient internal capital to fund its growth without equity dilution. This is the **key transformation** — from a bank that needed GoI capital infusions of ₹18,234 Cr during FY2018-2020 to one that is now self-funding AND paying dividends.
 
-At ~18% ROE and ~79% retention, the internal capital generation rate is ~14.2%. This means book value per share should compound at roughly 14% annually if ROE is sustained — which would make the stock a solid compounder at anything near book value.
+At ~18% ROE and ~79.5% retention, the internal capital generation rate is ~14.3%. This means book value per share should compound at roughly 14% annually if ROE is sustained — which would make the stock a solid compounder at anything near book value.
 
 **Equity Dilution History:**
 
-| Period | Event | Shares Before | Shares After | Dilution % | Price vs. BV |
+| Period | Event | Shares Before (Cr) | Shares After (Cr) | Dilution % | Price vs. BV |
 |---|---|---|---|---|---|
-| FY2017-FY2019 | Multiple GoI capital infusions | 461 Cr | 753 Cr | +63% | Well below BV — destructive |
-| FY2020 | GoI infusion pre-merger | 753 Cr | 1,030 Cr | +37% | Below BV — destructive |
-| FY2021 | Syndicate Bank merger + QIP | 1,030 Cr | 1,647 Cr | +60% | At/near BV — roughly neutral |
-| FY2022 | QIP | 1,647 Cr | 1,814 Cr | +10% | Above BV — accretive |
-| FY2023-FY2026 | **No dilution** | 1,814 Cr | 1,814 Cr | **0%** | — |
+| FY2017-FY2019 | Multiple GoI capital infusions | 230.5 | 376.5 | +63% | Well below BV — destructive |
+| FY2020 | GoI infusion pre-merger | 376.5 | 515 | +37% | Below BV — destructive |
+| FY2021 | Syndicate Bank merger + QIP | 515 | 823.5 | +60% | At/near BV — roughly neutral |
+| FY2022 | QIP | 823.5 | 907 | +10% | Above BV — accretive |
+| FY2023-FY2026 | **No dilution** | 907 | 907 | **0%** | — |
 
 The massive dilution of FY2017-FY2021 was devastating for existing shareholders — equity base nearly quadrupled while the bank was posting losses. However, since FY2022 there has been zero dilution, and the bank is now compounding book value organically. This is the inflection that matters.
 
@@ -160,20 +160,26 @@ The massive dilution of FY2017-FY2021 was devastating for existing shareholders 
 
 ### Normalised Earnings ("Bank Owner Earnings")
 
+The correct normalised earnings formula for banks adds back excess provisions (when the bank over-provisioned vs. normal) or subtracts the shortfall (when under-provisioning flatters earnings):
+
+```
+Normalised Earnings = Reported NI + (Actual Provisions − Normalised Provisions) + D&A
+```
+
 | Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | 9M FY26 Ann. |
 |---|---|---|---|---|---|---|
 | Net Income (₹ Cr) | 2,957 | 6,158 | 11,345 | 15,401 | 17,692 | ~19,500 |
+| Actual Credit Cost (CC% × Avg Advances) | ~14,200 | ~13,650 | ~9,770 | ~7,383 | ~6,650 | ~5,039 |
+| Normalised Credit Cost (1.15% × Avg Advances)* | ~8,165 | ~10,465 | ~11,236 | ~12,305 | ~13,904 | ~15,249 |
+| Provision Adjustment (Actual − Normalised) | +6,035 | +3,185 | -1,466 | -4,922 | -7,254 | -10,210 |
 | Add Back: D&A | 838 | 841 | 1,021 | 902 | 870 | ~850 |
-| Less: Normalised Credit Cost* | ~15,000 | ~12,000 | ~10,000 | ~9,500 | ~8,500 | ~7,000 |
-| Actual Credit Cost (Provisions) | ~22,900 | ~20,300 | ~28,700 | ~44,400 | ~52,500 | ~40,000 |
-| Less: SBC (negligible for PSBs) | ~0 | ~0 | ~0 | ~0 | ~0 | ~0 |
-| **Normalised Earnings** | ~-12,000 | ~-5,000 | ~2,400 | ~6,800 | ~10,000 | ~13,400 |
+| **Normalised Earnings** | **~9,830** | **~10,184** | **~10,900** | **~11,381** | **~11,308** | **~10,140** |
 
-*(*Normalised credit cost = 5-year average credit cost rate × current average advances. Given the massive NPA cleanup, actual provisions exceeded "normal" levels in early years. By FY2025, actual credit cost (0.55%) is below the 5-year average (~1.4%), suggesting current earnings are ABOVE normalised levels.)*
+*(*Normalised credit cost rate = 1.15%, the 5-year average of actual credit costs (FY2021-FY2025: 2.0%, 1.5%, 1.0%, 0.69%, 0.55%). Applied to each year's average advances. When the provision adjustment is positive, the bank over-provisioned (reported NI was understated); when negative, the bank under-provisioned relative to normal (reported NI is overstated).)*
 
-**Key Insight:** Current credit costs (0.38-0.55% of advances) are **materially below the 5-year historical average** (~1.4%). This means current reported earnings are somewhat **above normalised levels**. If credit costs mean-revert to even 0.8-1.0% (still historically low), reported profits would be lower.
+**Key Insight:** The normalised earnings profile reveals that current reported earnings of ~₹17,700-19,500 Cr are **materially above the fully normalised level of ~₹10,000-11,400 Cr** (at the strict 1.15% historical CC rate). The gap is driven by current credit costs (0.38-0.55%) running far below the historical average. If credit costs mean-revert to even 0.8-1.0%, reported profits would be ~15-30% lower than current levels (depending on the base period used and the tax impact of incremental provisions).
 
-However, the PCR at 94% provides a massive cushion — the bank has been OVER-provisioning relative to current slippages, building a buffer. This is conservative and Buffett-friendly.
+However, the PCR at 94% provides a massive cushion — the bank has been building reserves, and the declining GNPA trend (from 8.9% to 2.1%) suggests the normalised credit cost rate itself may be shifting lower. A prudent forward-looking normalised credit cost of ~0.7-0.8% (vs. 1.15% historical) would put forward-normalised earnings in the range of ₹15,000-17,000 Cr — still below reported, but less dramatically so.
 
 **Verdict:** Reported earnings are arguably at the higher end of the normalised range, benefiting from a cyclically benign credit environment. A prudent investor should assume normalised ROA of ~0.9-1.0% rather than the current ~1.1%.
 
@@ -184,7 +190,7 @@ However, the PCR at 94% provides a massive cushion — the bank has been OVER-pr
 | Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Q3 FY26 |
 |---|---|---|---|---|---|---|---|
 | **ROE** | **-5%** | 6% | 9% | 15% | **18%** | **18%** | ~17% |
-| **ROA** | **-0.26%** | 0.25% | 0.49% | 0.82% | 1.03% | **1.08%** | **1.16%** |
+| **ROA** | **-0.26%** | 0.25% | 0.49% | 0.82% | 1.03% | **1.08%** | **1.16%** (Q3 qtr) |
 | NIM | 2.30% | 2.63% | 2.70% | 2.79% | 3.05% | 2.88% | **2.50%** |
 | Cost-to-Income | ~55% | ~56% | ~50% | ~47% | ~47% | ~47% | ~47% |
 | Credit Cost % | ~2.5% | ~2.0% | ~1.5% | ~1.0% | ~0.69% | ~0.55% | **0.38%** |
@@ -223,7 +229,7 @@ This is **quality ROE**, not leverage-dependent ROE. The ROA improvement from 0.
 
 Canara sits at the **border of "Good" and "Excellent"** — ROA is just above 1.0%, ROE is at 18% (aided by decent leverage). The deserved P/B on this basis is approximately **1.5-2.5x Book**.
 
-Currently trading at ~1.10x Book, this suggests the market is pricing Canara **below its quality-tier-implied multiple**, embedding a significant discount for PSU bank risks (government ownership, potential interference, historical NPA cycles).
+Currently trading at ~1.05x Book, this suggests the market is pricing Canara **below its quality-tier-implied multiple**, embedding a significant discount for PSU bank risks (government ownership, potential interference, historical NPA cycles).
 
 Buffett: *"The ideal business earns high returns on capital and can reinvest at those same high returns."* Canara is earning good returns now — the question is durability through cycles.
 
@@ -307,7 +313,7 @@ Banking is evolving — digital payments, UPI, neobanks, account aggregators —
 | FY2025 | 121,601 | 10% | 17,692 | 15% | **21%** |
 | TTM | 126,028 | 6%* | 18,415 | 4%* | 16% |
 
-*Incremental NP Margin = ΔNet Profit / ΔRevenue*
+*Incremental NP Margin = ΔNet Profit / ΔRevenue. (*TTM growth rates per Screener are TTM Dec'25 vs TTM Dec'24, not vs the FY2025 annual column; row-over-row vs FY2025 would be ~3.6% revenue growth and ~4.1% NP growth.)*
 
 FY2023 showed massive operating leverage (incremental margin 34%) as provisions declined. This has normalised. Current incremental margins of ~16-21% suggest the bank is **scaling linearly** — not brilliantly, but decently. This is typical for large banks.
 
@@ -315,7 +321,7 @@ FY2023 showed massive operating leverage (incremental margin 34%) as provisions 
 
 | Metric | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|
-| Internal Cap Gen Rate (ROE × Retention) | 7.3% | 12.2% | 14.6% | 14.2% |
+| Internal Cap Gen Rate (ROE × Retention) | 7.3% | 12.2% | 14.6% | 14.3% |
 | Advance Growth | 6% | 9% | 10% | 15% |
 | Gap (Growth > ICG?) | No | No | No | **Marginal** |
 | Equity Dilution Needed? | No | No | No | **Not yet** |
@@ -420,8 +426,8 @@ For PSU banks, the "integrity" question is really about institutional risk cultu
 
 | Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Current |
 |---|---|---|---|---|---|---|---|
-| **Price/Book (P/B)** | **0.25x** | 0.28x | 0.38x | 0.55x | 0.95x | 1.08x | **1.10x** |
-| **Price/Tangible Book** | ~0.27x | ~0.30x | ~0.40x | ~0.58x | ~1.00x | ~1.12x | ~1.14x |
+| **Price/Book (P/B)** | **0.25x** | 0.28x | 0.38x | 0.55x | 0.95x | 1.08x | **1.05x** |
+| **Price/Tangible Book** | ~0.27x | ~0.30x | ~0.40x | ~0.58x | ~1.00x | ~1.12x | ~1.09x |
 | **PE Ratio** | NM | NM | 8.5x | 7.0x | 5.8x | 7.1x | **6.7x** |
 | Forward PE (est.) | — | — | — | — | — | — | ~6.0x |
 | **Price/PPOP** | — | — | — | — | — | — | ~1.5x |
@@ -464,16 +470,16 @@ Fair P/B = (0.16 - 0.06) / (0.12 - 0.06) = 0.10 / 0.06 = 1.67x
 
 **Fair P/B range: 1.5x-2.0x Book** (assuming sustainable ROE of 14-16% and CoE of 12%).
 
-At the current P/B of ~1.10x, Canara Bank is trading **~30-45% below** its fair value on this basis.
+At the current P/B of ~1.05x, Canara Bank is trading **~30-48% below** its fair value on this basis.
 
 ### Buffett's Bank Valuation Rules of Thumb
 
 | ROE | Deserved P/B | Canara's Current P/B | Gap |
 |---|---|---|---|
-| ~11% (CoE) | ~1.0x | 1.10x | Fairly valued |
-| 14% | 1.5-2.0x | 1.10x | **27-45% discount** |
-| **16% (normalised)** | **2.0-2.5x** | **1.10x** | **45-56% discount** |
-| 18% (current) | 2.5-3.0x | 1.10x | 56-63% discount |
+| ~11% (CoE) | ~1.0x | 1.05x | Roughly fairly valued |
+| 14% | 1.5-2.0x | 1.05x | **30-48% discount** |
+| **16% (normalised)** | **2.0-2.5x** | **1.05x** | **48-58% discount** |
+| 18% (current) | 2.5-3.0x | 1.05x | 58-65% discount |
 
 The market is pricing Canara as if its ROE will revert to ~12-13% (just above cost of equity). If sustainable ROE remains at 15-16%, the stock is significantly undervalued.
 
@@ -541,12 +547,14 @@ Using Base Case:
 | Input | Value |
 |---|---|
 | CMP | ₹136 |
-| TTM EPS (Normalised) | ₹18.50 (slightly below reported ₹20.25, adjusting for cyclically low provisions) |
-| Current PE (on Normalised EPS) | 7.4x |
+| TTM EPS (Lightly Adjusted) | ₹18.50 (reported ₹20.25 with a ~8.5% haircut for cyclically low provisions — see note below) |
+| Current PE (on Adjusted EPS) | 7.4x |
 | Shares Outstanding (Diluted) | 907 Cr |
 | Historical 5Y EPS CAGR | ~61% (distorted by turnaround from losses) |
 | Historical 3Y EPS CAGR | ~42% |
 | Realistic sustainable EPS CAGR | 12-15% |
+
+*Note on "Adjusted" vs "Fully Normalised" EPS: The ₹18.50 Adjusted EPS used here applies a modest haircut to reported TTM EPS, approximating what earnings would be if credit costs were ~0.7-0.8% (a prudent forward-looking estimate) rather than the current ~0.38-0.55%. This is distinct from the "Fully Normalised Earnings" in Section 5, which applies the strict 5-year historical average credit cost of 1.15% and produces a much lower figure (~₹11,300 Cr or ~₹12.5 per share). The Adjusted EPS is used here because the Reverse DCF is a forward-looking tool — it asks what growth is needed from a realistic (not worst-case) starting point. Section 5's strict normalisation represents a through-cycle floor, not a base case.*
 
 ### Step 2-3: Implied EPS CAGR Needed
 
@@ -650,7 +658,7 @@ Asymmetry Ratio = 151% / 24% = 6.3:1
 
 **Mispricing Identification:**
 
-> **"The mispricing opportunity is PRESENT. The market is pricing Canara Bank at 1.10x book value, which implies an ROE of ~12-13% (barely above cost of equity). The actual ROE is 17-18%, with normalised ROE of ~15-16%. The market is applying a PSU discount that appears excessive given the bank's dramatically improved fundamentals. If the market corrects this mispricing over 3-5 years and values the bank at 1.5-2.0x book (consistent with a 15-16% ROE bank), the stock re-rates by 36-82% BEFORE any underlying earnings growth — making the total return potential 100-200% over 5 years including book value compounding."**
+> **"The mispricing opportunity is PRESENT. The market is pricing Canara Bank at 1.05x book value, which implies an ROE of ~12-13% (barely above cost of equity). The actual ROE is 17-18%, with normalised ROE of ~15-16%. The market is applying a PSU discount that appears excessive given the bank's dramatically improved fundamentals. If the market corrects this mispricing over 3-5 years and values the bank at 1.5-2.0x book (consistent with a 15-16% ROE bank), the stock re-rates by 43-90% BEFORE any underlying earnings growth — making the total return potential 100-200% over 5 years including book value compounding."**
 
 The mispricing source is **"sector/narrative de-rating unrelated to current fundamentals"** — PSU banks as a category are undervalued because of their terrible historical track record (FY2015-2020), even though fundamentals have transformed.
 
@@ -812,8 +820,8 @@ Canara Bank's turnaround is **largely complete**, not a work-in-progress:
 | Asset Quality (NPA, PCR, Credit Cost) | **9** | GNPA 2.08%, NNPA 0.45%, PCR 94%. Best-in-class among PSBs. |
 | Capital Adequacy (CRAR, Tier-1) | **8** | CRAR 16.5%, CET-1 12.3%. Well above minimums. |
 | Management Quality & Risk Culture | **6** | Improved significantly, but PSU DNA and government control are constraints. |
-| Earnings Quality (Normalised vs Reported) | **7** | Current earnings benefit from low credit costs. Normalised earnings ~15-20% lower. |
-| Valuation (P/B vs Fair P/B) | **9** | 1.05x P/B vs 1.5-2.0x fair value. 30-45% discount. |
+| Earnings Quality (Normalised vs Reported) | **7** | Current earnings benefit from low credit costs. Forward-normalised (0.7-0.8% CC) ~5-12% lower; strict historical (1.15% CC) ~36% lower. |
+| Valuation (P/B vs Fair P/B) | **9** | 1.05x P/B vs 1.5-2.0x fair value. 30-48% discount. |
 | Margin of Safety (Excess Return Model) | **8** | 25-36% margin of safety on base/optimistic scenarios. |
 | Book Value Compounding Potential | **8** | 12-14% BV CAGR sustainable for 5-10 years. |
 | **Buffett Verdict** | — | **Deep-Value Play with Strong Turnaround.** Canara is a decent PSU bank (not elite) that has dramatically cleaned up its balance sheet, is earning 18% ROE at 1.05x book, with a 94% PCR providing massive downside protection. The low CASA and PSU ownership prevent it from being a "wonderful business," but at this price, it doesn't need to be wonderful — just competent and consistent. Buffett would recognise this as a "fair company at a wonderful price" — the inverse of his preferred formulation, but one that still generates excellent returns if the business remains stable. For a small capital base, **BUY** at current prices around ₹130-140, accumulate aggressively below ₹110, and hold for book value compounding. The 6:1 asymmetry ratio makes this a swing-worthy fat pitch, though not a "back up the truck" Coca-Cola moment because the moat is narrow. |
