@@ -72,7 +72,7 @@ These are government/PSU clients — large, creditworthy, and sticky.
 | Shares (Cr) | 0.02 | 0.02 | 0.02 | 0.40* | 0.54* | 0.54 | 0.54 | 0.55 | 0.55 | 0.55 | 0.55 |
 | Dividend Payout % | 10% | 4% | 11% | 18% | **40%** | 28% | 33% | 15% | 16% | 11% | — |
 
-*Note: Multiple bonus issues and share splits have made EPS non-comparable across early years. The equity capital went from ₹0.50 Cr to ₹5.48 Cr through bonus issues (1:1 in FY23, 1:1 in FY25) and other corporate actions. Current shares outstanding: ~5.49 lakh (micro-cap).*
+*Note: Multiple bonus issues and share splits have made EPS non-comparable across early years. The equity capital went from ₹0.50 Cr to ₹5.48 Cr through bonus issues (1:1 in FY23, 1:1 in FY25) and other corporate actions. Current shares outstanding: ~54.9 lakh (~0.549 Cr) (micro-cap).*
 
 ### Compounded Growth Rates
 
@@ -82,6 +82,8 @@ These are government/PSU clients — large, creditworthy, and sticky.
 | 5 Years | **28%** | **47%** | 0% |
 | 3 Years | **51%** | **108%** | 13% |
 | TTM | **70%** | **144%** | **-42%** |
+
+*Note (Screener-derived): The 5-Year Profit CAGR of 47% is sourced directly from Screener.in. Computing independently from the P&L table (FY20 NP ₹1.03 Cr → FY25 NP ₹7.57 Cr) gives (7.57/1.03)^(1/5) − 1 ≈ 49%. The small difference is due to rounding in Screener's base year figures. Similarly, the '10 Years: 18%' CAGR label covers 10 data points (FY16–FY25 = 9 elapsed years); the raw 9-year CAGR computes to ~19.8%. Both figures are reproduced as reported by Screener.*
 
 ### Trend Narrative
 
@@ -133,7 +135,7 @@ The market has been "voting" against Evans Electric (stock down 42%) while the b
 
 **This is the DEFINITION of a Buffett financial fortress:**
 
-1. **ZERO DEBT.** Debt-to-equity is 0.00. The company has no borrowings whatsoever. Interest coverage is 50.9x (meaningless because there's essentially no interest to cover). Buffett demands financial safety — Evans Electric delivers it in spades.
+1. **ZERO DEBT.** Debt-to-equity is 0.00. The company has no borrowings whatsoever. Interest coverage is 50.9x on a TTM basis (meaningless because there's essentially no interest to cover; the FY25 standalone figure is 31.4x). Buffett demands financial safety — Evans Electric delivers it in spades.
 
 2. **Massive investment portfolio.** The company has accumulated ₹13.96 Cr in investments (FY25) — this is 53% of the equity base and 40% of total assets. For a ₹39.5 Cr market cap company, having ₹14 Cr in investments represents a significant margin of safety. Even at Sep 2025, investments stood at ₹11.2 Cr.
 
@@ -174,6 +176,8 @@ Evans Electric doesn't just avoid overleveraging — it avoids leverage entirely
 | CapEx (est.) | ~0.1 | ~0.1 | ~0.1 | ~0.2 | ~0.2 | ~0.4 | — |
 | **Est. FCF** | ~-0.4 | ~-0.3 | ~1.0 | ~6.1 | ~3.4 | ~0.3 | ~2.0 |
 | Dividends (est.) | ~0.4 | ~0.2 | ~0.3 | ~0.6 | ~0.8 | ~0.8 | — |
+
+*Note (Screener-derived): The 5Y averages in the table (CFO ₹2.33 Cr, NP ₹3.62 Cr) are sourced from Screener. Computing from the table's own FY21–FY25 values yields CFO avg ≈ ₹2.29 Cr and NP avg ≈ ₹3.54 Cr. The small difference is due to Screener's internal rounding.*
 
 ### Key Observations
 
@@ -234,8 +238,8 @@ For Evans Electric, the "average annual amount of capitalised expenditures requi
 
 | Period | Average ROE |
 |---|---|
-| 10-Year Average | **20%** |
-| 5-Year Average | **22%** |
+| 10-Year Average | **~18%** |
+| 5-Year Average | **~20%** |
 | 3-Year Average | **28%** |
 | Last Year (FY25) | **30%** |
 
@@ -245,7 +249,7 @@ For Evans Electric, the "average annual amount of capitalised expenditures requi
 
 1. **ROCE of 41%** is elite. This means for every ₹100 of capital employed, the business generates ₹41 in pre-tax profit. Very few businesses globally sustain 40%+ ROCE.
 
-2. **ROE of 30%** places this firmly in Buffett's "wonderful business" category. The 10-year average ROE of 20% and 3-year of 28% show this is not a one-time phenomenon — returns are structurally high and getting HIGHER.
+2. **ROE of 30%** places this firmly in Buffett's "wonderful business" category. The 10-year average ROE of ~18% and 3-year of 28% show this is not a one-time phenomenon — returns are structurally high and getting HIGHER.
 
 3. **ROA of 23%** is astonishing. This is a genuine high-quality business, not a leveraged entity. With zero debt, ROE is driven ENTIRELY by ROA — this is the highest quality of returns.
 
@@ -397,7 +401,7 @@ For every ₹1 of retained earnings, has the company created at least ₹1 of ma
 |---|---|---|---|
 | FY19 to FY25 (6 years) | Equity grew from ₹8.19 Cr to ₹26.25 Cr = ₹18.06 Cr retained | Market Cap: stock was ~₹72 in FY19 (adjusted for bonuses) → ₹72 now. Market cap moved from ~₹29 Cr to ₹39.5 Cr = ~₹10.5 Cr gain | **₹0.58 per ₹1 retained** |
 
-**The $1 test FAILS over this period** — primarily because the stock price has collapsed 42% in the last year from ₹250 to ₹72. At the peak price of ₹250, the market cap was ~₹137 Cr, and the $1 test would have been ₹7.50 per ₹1 retained — exceptional. The current failure is a MARKET sentiment issue, not a BUSINESS issue.
+**The $1 test FAILS over this period** — primarily because the stock price has fallen 71% from its 52-week high of ₹250 to ₹72. At the peak price of ₹250, the market cap was ~₹137 Cr, and the $1 test would have been ~₹6.0 per ₹1 retained — exceptional. The current failure is a MARKET sentiment issue, not a BUSINESS issue.
 
 **Important context:** The book value has compounded beautifully (from ₹8.19 Cr to ₹26.25 Cr — 3.2x in 6 years). The business has created genuine value; the stock price simply hasn't kept up (yet).
 
@@ -479,7 +483,7 @@ The stock is trading at its **52-week LOW** of ₹72, having fallen 71% from its
 
 1. **PE of 5.72x vs. Industry PE of 19.8x** — The stock trades at a **71% discount** to its industry average PE. Even applying a 50% "micro-cap discount" to the industry PE (giving 10x), Evans Electric is trading at nearly half that level.
 
-2. **PEG Ratio of 0.05** — This is absurdly low. A PEG < 1.0 is considered cheap; a PEG of 0.05 with 47% profit CAGR suggests the market is pricing in almost ZERO future growth.
+2. **PEG Ratio of 0.05** — This is absurdly low. A PEG < 1.0 is considered cheap; a PEG of 0.05 (PE of 5.72 ÷ 3-year profit CAGR of 108%) suggests the market is pricing in almost ZERO future growth.
 
 3. **P/B of 1.49x for a 30% ROE business** — A business earning 30% ROE should trade at 3-4x book minimum. At 1.49x, the market is valuing this as if the ROE will collapse to ~15% permanently.
 
@@ -502,7 +506,7 @@ At ₹72, you are paying ₹39.5 Cr for a business earning ₹7.57 Cr annually, 
 ### DCF Valuation — Three Scenarios Using Owner Earnings
 
 **Starting Owner Earnings: ₹7.4 Cr (FY25)**
-**Shares outstanding: 5.49 lakh (~0.055 Cr)**
+**Shares outstanding: ~54.9 lakh (~0.549 Cr)**
 
 ### Scenario 1: Conservative
 
@@ -590,7 +594,7 @@ At ₹72, you are paying ₹39.5 Cr for a business earning ₹7.57 Cr annually, 
 | Current Market Price (CMP) | ₹72 | Market data |
 | TTM EPS (Normalised) | ₹12.59 | Screener (using TTM) |
 | Current PE (on Normalised EPS) | 5.72x | Calculated |
-| Shares Outstanding | ~5.49 lakh | Latest data |
+| Shares Outstanding | ~54.9 lakh (~0.549 Cr) | Latest data |
 
 ### Step 2: Terminal PE Scenarios
 
@@ -657,7 +661,7 @@ The implied growth needed to earn attractive returns is NEGATIVE. The market dem
 | Asset/Liquidation Floor | Book Value (₹48.4) = tangible equity, plus ₹14 Cr investments. BVPS = ₹48.4 | ₹48 | -33% |
 | Recession/Trough Earnings | Worst-year EPS (₹1.07 in FY21) × Trough PE (8x) | ₹8.6 | -88% |
 | Normalised Bear Case | Conservative DCF (₹142) discounted further by 50% for micro-cap risk | ₹71 | -1% |
-| Investment Portfolio Floor | ₹14 Cr investments / 5.49 lakh shares = ₹25.5 per share. You're paying ₹72 for ₹25.5 in investments + a profitable business | ₹48-55 | -24 to -33% |
+| Investment Portfolio Floor | ₹14 Cr investments / 54.9 lakh shares = ₹25.5 per share. You're paying ₹72 for ₹25.5 in investments + a profitable business | ₹48-55 | -24 to -33% |
 | Most Probable Downside Floor | 0.8x book (₹38.7) — assumes the market panics to a discount on book value | ₹39 | -46% |
 
 **Most probable downside floor: ₹39-48** (0.8-1.0x book value), representing 33-46% downside.
@@ -670,7 +674,7 @@ The implied growth needed to earn attractive returns is NEGATIVE. The market dem
 | Bull Case DCF | ₹341 | ₹341 | **+374%** |
 | Re-rating to Industry PE (19.8x) × TTM EPS (₹12.59) | PE re-rating | ₹249 | **+246%** |
 | Re-rating to even 12x PE × FY25 EPS (₹13.79) | Moderate re-rating | ₹165 | **+129%** |
-| Book Value Compounding (30% ROE × 85% retention) | 5-year BVPS compounding | ₹123 (at 1.49x P/B) | **+71%** |
+| Book Value Compounding (30% ROE × 85% retention) | 5-year BVPS compounding | ₹225 (at 1.49x P/B) | **+212%** |
 
 #### Part 3: Asymmetry Ratio
 
