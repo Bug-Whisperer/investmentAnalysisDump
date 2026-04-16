@@ -26,13 +26,15 @@ ICICI Bank is India's second-largest private sector bank by assets, offering a c
 
 > Buffett: *"Banking is a very good business if you don't do anything dumb."* ICICI Bank went through its "dumb" phase during 2016-2019 (aggressive corporate lending, NPA crisis) and has since undergone a remarkable transformation under CEO Sandeep Bakhshi — the bank now operates with a retail-focused, risk-calibrated, technology-driven model.
 
-**Note on Debt for Banks:** For ICICI Bank, deposits (₹16.4 lakh crore) and borrowings (₹2.2 lakh crore) are NOT financing choices like they would be for a manufacturing company. They ARE the raw material of the business — the bank "buys" money from depositors and "sells" it to borrowers at a higher price. The debt-to-equity ratio of 5.5x is normal and healthy for a bank — this fundamentally changes how every financial metric must be interpreted.
+**Note on Debt for Banks:** For ICICI Bank, deposits (₹16.4 lakh crore) and borrowings (₹2.2 lakh crore) are NOT financing choices like they would be for a manufacturing company. They ARE the raw material of the business — the bank "buys" money from depositors and "sells" it to borrowers at a higher price. The ratio of (Deposits + Borrowings) to Equity is ~5.9x, which is normal and healthy for a bank — this fundamentally changes how every financial metric must be interpreted.
 
 ---
 
 ## 2. INCOME STATEMENT ANALYSIS — Revenue & Profitability Trends
 
 ### Consolidated P&L (₹ Crores)
+
+> **Note on Screener Bank P&L Format:** For banks, Screener's consolidated P&L uses a non-standard format. The line items do not follow a simple Revenue − Expenses = PBT structure. Instead, the P&L identity is: Revenue (₹1,86,331) + Other Income (₹1,08,255) − Interest (₹89,028) − Expenses (₹1,30,078) − Depreciation (₹2,627) = PBT (₹72,854), which reconciles to within ₹1 Cr. The "Interest" and "Expenses" lines bundle multiple sub-items in Screener's bank format. All figures below are reproduced directly from Screener's consolidated P&L; estimated rows (marked "est.") are derived separately.
 
 | Metric | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -51,10 +53,12 @@ ICICI Bank is India's second-largest private sector bank by assets, offering a c
 | Net Profit Growth YoY | -15.6% | 3.8% | -19.8% | **-37.5%** | 97.3% | 81.4% | 30.3% | 33.6% | 29.9% | 18.4% |
 | **EPS (Diluted) ₹** | 15.92 | 15.90 | 12.00 | **6.60** | 14.78 | 26.58 | 36.14 | 48.74 | 63.02 | **71.65** |
 | EPS Growth YoY | -17.1% | -0.1% | -24.5% | **-45.0%** | 123.9% | 79.8% | 36.0% | 34.9% | 29.3% | 13.7% |
-| Shares Outstanding (est. Cr.) | 58.1 | 58.3 | 64.3 | 64.5 | 64.7 | 69.1 | 69.5 | 69.9 | 70.2 | **71.3** |
+| Shares Outstanding (Diluted, Cr.) | ~581 | ~583 | ~643 | ~645 | ~648 | ~691 | ~695 | ~699 | ~703 | **~713** |
 | Dividend Payout % | 29% | 14% | 12% | 15% | **0%** | 8% | 14% | 16% | 16% | 15% |
 | **ROA** | ~1.2% | ~1.2% | ~0.9% | **~0.5%** | ~0.9% | ~1.4% | ~1.6% | ~1.9% | ~2.1% | **~2.18%** |
 | **ROE** | 11% | 10% | 7% | **4%** | 8% | 13% | 15% | 17% | 19% | **18%** |
+
+> **Note on Shares & EPS:** Shares Outstanding above are basic shares derived from Equity Capital / Face Value (₹2). Diluted EPS (from Screener) uses a higher diluted share count that factors in outstanding ESOPs and other dilutive instruments. Therefore, Net Profit ÷ Basic Shares will not exactly equal the Diluted EPS figures shown above. The EPS figures are taken directly from Screener's consolidated P&L.
 
 ### Trend Narrative
 
@@ -101,7 +105,7 @@ The income statement tells the story of a dramatic corporate transformation:
 ### Buffett's Financial Fortress Assessment (Adapted for Banks)
 
 **1. Capital Adequacy — PASS ✅**
-ICICI Bank's Capital Adequacy Ratio (CRAR) stands at **16.03%** (9M FY24 data available) — well above the RBI minimum of 11.5% and above the 15% "strong" threshold. The bank is well-capitalised with ample buffer to absorb shocks and fund growth without equity dilution.
+ICICI Bank's Capital Adequacy Ratio (CRAR) stands at **~16%** (Screener's key points section reports 16.03% based on 9M FY24 data; subsequent quarters have maintained CRAR at similar levels) — well above the RBI minimum of 11.5% and above the 15% "strong" threshold. The bank is well-capitalised with ample buffer to absorb shocks and fund growth without equity dilution.
 
 **2. Asset Quality — STRONG PASS ✅✅**
 This is the crown jewel of the turnaround story:
@@ -119,7 +123,7 @@ This is the crown jewel of the turnaround story:
 **4. Hidden Risks — LOW ✅**
 - No significant restructured book
 - Slippages are trending DOWN
-- The quarterly GNPA trajectory (3.07% → 2.81% → 2.76% → 2.48% → 2.30% → 2.16% → 2.15% → 1.97% → 1.96% → 1.67% → 1.67% → 1.58% → 1.53%) shows continuous, uninterrupted improvement
+- The quarterly GNPA trajectory (3.07% → 2.81% → 2.76% → 2.48% → 2.30% → 2.16% → 2.15% → 1.97% → 1.96% → 1.67% → 1.67% → 1.58% → 1.53%) shows a consistent downward trend with no reversals (one flat quarter at 1.67% before resuming decline)
 - No signs of hidden stress in the balance sheet
 
 > Buffett: *"When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact."* But ICICI Bank is the rare exception — Sandeep Bakhshi took a bank with a terrible NPA reputation and genuinely fixed the economics. The asset quality transformation from GNPA ~8.5% to 1.53% is one of the most impressive banking turnarounds in Indian history. The balance sheet is now a genuine fortress.
@@ -154,7 +158,7 @@ The bank's book value per share has compounded from ~₹190 (FY2020) to **~₹44
 
 **Equity Dilution History:**
 - ICICI Bank raised equity via QIP in FY2020 (~₹15,000 Cr) at around ₹350/share when book value was ~₹190/share — this was **value-accretive** (raised at ~1.8x book)
-- Share count has grown from ~58 Cr (FY2016) to ~71.3 Cr (FY2025) — a ~23% dilution over 10 years, primarily through ESOP allotments (regular small issuances of ~5-10 lakh shares every few weeks)
+- Share count has grown from ~581 Cr (FY2016) to ~713 Cr (FY2025) — a ~23% dilution over 9 years, primarily through ESOP allotments (regular small issuances of ~5-10 lakh shares every few weeks) and the FY2018/FY2021 equity capital increases
 - ESOP dilution at current levels (~0.3-0.5% annually) is modest and acceptable
 - **No equity raise since FY2020** — the bank has funded all growth through internal accruals. This is a very strong signal.
 
@@ -206,13 +210,17 @@ However, two important nuances:
 | Component | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | What It Measures |
 |---|---|---|---|---|---|---|
 | Net Interest Margin (NIM) | 3.69% | 3.96% | 4.48% | 4.53% | 4.32% | Spread efficiency |
-| Other Income as % of Total Income | ~45% | ~39% | ~35% | ~32% | ~37% | Revenue diversification |
+| Other Income as % of Gross Income* | ~45% | ~39% | ~35% | ~32% | ~37% | Revenue diversification |
 | Cost-to-Income Ratio | ~40% | ~38% | ~36% | ~35% | ~36% | Cost control |
 | Provision Intensity (Prov/PPOP) | ~45% | ~30% | ~20% | ~15% | ~15% | Asset quality impact |
 | Tax Rate | 22% | 25% | 26% | 26% | 25% | Tax management |
-| Leverage (Avg Assets/Avg Equity) | 10.0x | 9.6x | 9.1x | 9.2x | 8.4x | Balance sheet gearing |
+| Leverage (Year-End Assets/Equity) | 10.0x | 9.6x | 9.1x | 9.2x | 8.4x | Balance sheet gearing |
 | **ROA** | 1.4% | 1.6% | 1.9% | 2.1% | **2.18%** | Fundamental efficiency |
 | **ROE = ROA × Leverage** | 13% | 15% | 17% | 19% | **18%** | Shareholder return |
+
+> *Other Income % denominator = Screener "Revenue" + Screener "Other Income" (i.e., Gross Total Income). For FY2025: ₹1,08,255 / (₹1,86,331 + ₹1,08,255) = 36.7% ≈ 37%.
+
+> **Note:** The ROA figures above use NI / average total assets (consistent with standard methodology), while the Leverage column uses year-end Assets / year-end Equity. Because one component is average-basis and the other is year-end, the product ROA × Leverage may not exactly match Screener-reported ROE. See Section 14 for a fully consistent DuPont decomposition using average balance sheet figures throughout (where Leverage for FY2025 = 8.8x on an average basis vs 8.4x year-end shown here).
 
 ### Critical Distinction: Quality of ROE
 
@@ -330,7 +338,7 @@ ICICI Bank will look fundamentally similar in 10-20 years — a large, technolog
 
 The incremental net margins of 28-35% in recent years significantly exceed the overall net margin of ~29%. This means each new rupee of revenue is more profitable than the last — the bank IS scaling beautifully.
 
-**Scaling Quality: Elite Scaler** — Operating leverage is working. The cost-to-income ratio has improved from ~45% to ~35%, meaning the bank is extracting more profit from each unit of revenue.
+**Scaling Quality: Elite Scaler** — Operating leverage is working. The cost-to-income ratio has improved from ~45% to ~36%, meaning the bank is extracting more profit from each unit of revenue.
 
 **3. Capital Scalability (Bank-Specific)**
 
@@ -373,7 +381,7 @@ The bank generates ~15% internal capital growth annually — sufficient to fund 
 
 ### Buffett's $1 Test
 
-Over the 5-year period FY2020-FY2025:
+Over the 6-year period FY2020-FY2025:
 - Total retained earnings: ~₹11,225 + ₹18,764 + ₹22,838 + ₹29,761 + ₹38,681 + ₹46,369 ≈ **₹1,67,638 Cr** (cumulative)
 - Market cap increase: From ~₹2,50,000 Cr (Mar 2020, ~₹385/share) to ₹9,11,447 Cr (Mar 2026, ₹1,273/share) = **₹6,61,447 Cr increase**
 - **For every ₹1 retained, ICICI Bank created ~₹3.95 of market value**
@@ -472,6 +480,8 @@ The operational fundamentals are **unambiguously improving**:
 | BV Growth Rate | 7% | 20% | 15% | 17% | 19% | 21% | — |
 | Earnings Yield | 3.8% | 4.8% | 5.0% | 5.6% | 5.3% | 5.6% | **5.8%** |
 | Dividend Yield | 0% | ~0.3% | ~0.5% | ~0.6% | ~0.7% | ~0.8% | **0.86%** |
+
+> **Note on BVPS:** The FY2025 (Mar 2025) BVPS is ~₹440 (₹3,13,906 Cr equity ÷ ~713 Cr shares). The "current" BVPS of ₹484 shown by Screener reflects the latest available balance sheet data (through Dec 2025 quarter, with equity estimated at ~₹3,46,000+ Cr after adding retained earnings from Q1-Q3 FY2026). All valuation analyses in Sections 12-15 use the Screener-reported current BVPS of ₹484 for consistency.
 
 ### Historical Valuation Context
 - **10-Year Median P/B:** 3.0x (ICICI is currently trading BELOW its 10-year median P/B)
@@ -583,7 +593,7 @@ ICICI Bank is a financial conglomerate. Key listed/valuable subsidiaries include
 | Less: 10% Holdco Discount | | ~92,700 | ~₹130 |
 | **Net SOTP Per Share** | | | **~₹1,169** |
 
-The SOTP analysis shows that the current price of ₹1,273 roughly values the bank at SOTP with no premium for synergies — the market is essentially giving you the subsidiaries for free at the current price.
+The SOTP analysis shows that the current price of ₹1,273 roughly values the bank at SOTP with minimal premium for synergies — the market is pricing the subsidiaries at only ~₹128/share (₹1,273 − ₹1,145) against an estimated value of ~₹154/share, implying the market captures only ~83% of subsidiary value.
 
 ### Valuation Summary
 
@@ -603,9 +613,9 @@ The SOTP analysis shows that the current price of ₹1,273 roughly values the ba
 | Input | Value | Source |
 |---|---|---|
 | Current Market Price (CMP) | ₹1,273 | Market data (16 Mar 2026) |
-| TTM EPS (Normalised) | ₹74.2 (consolidated) | Screener |
+| TTM EPS (Normalised) | ₹74.2 (consolidated) | Screener TTM (trailing four quarters); note: FY2025 annual EPS is ₹71.65 — the TTM figure is higher as it includes more recent quarters |
 | Current PE (on Normalised EPS) | 17.2x | CMP / EPS |
-| Shares Outstanding (Diluted) | ~71.5 Cr | Latest data |
+| Shares Outstanding (Diluted) | ~763 Cr (implied by TTM NP ÷ TTM EPS) | Latest data |
 
 ### Step 2: Terminal PE Scenarios
 
@@ -663,13 +673,13 @@ Current BVPS ₹484, BV compounding at ~15%:
 |---|---|
 | India nominal GDP growth | 10-12% |
 | ICICI Bank 5Y historical EPS CAGR (FY2020-FY2025) | ~37% (recovery phase, not sustainable) |
-| ICICI Bank 10Y historical EPS CAGR | ~15% |
+| ICICI Bank 10Y historical EPS CAGR | ~14% (FY2015 EPS ₹19.20 → FY2025 EPS ₹71.65); Screener shows 10Y Profit CAGR of ~15% (higher due to share dilution reducing EPS growth) |
 | Private bank sector average growth | 12-18% |
 | Analyst consensus forward estimates | 12-15% |
 
 **Traffic Light Assessment:**
 
-To earn a **10% hurdle rate over 10 years at the current market PE of 18x**, ICICI Bank needs only **9.3% EPS CAGR** — well below its historical 15% CAGR and below India's nominal GDP growth rate.
+To earn a **10% hurdle rate over 10 years at the current market PE of 18x**, ICICI Bank needs only **9.3% EPS CAGR** — well below its historical ~14% EPS CAGR and below India's nominal GDP growth rate.
 
 To earn a **15% return over 10 years**, the bank needs **14.4% EPS CAGR** — roughly in line with historical CAGR and achievable for a growing Indian bank.
 
@@ -677,9 +687,9 @@ To earn a **15% return over 10 years**, the bank needs **14.4% EPS CAGR** — ro
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹1,273, to earn a 10% annualised return over 10 years assuming the market values the bank at 18x PE at exit, ICICI Bank needs to grow EPS at just 9.3% CAGR. The bank has historically grown EPS at 15% CAGR over 10 years and 37% over 5 years (though the latter includes a recovery phase). This implies the market is pricing in REASONABLE growth — well below what the bank has historically delivered. The stock is not expensive."
+> "At the current price of ₹1,273, to earn a 10% annualised return over 10 years assuming the market values the bank at 18x PE at exit, ICICI Bank needs to grow EPS at just 9.3% CAGR. The bank has historically grown EPS at ~14% CAGR over 10 years and ~37% over 5 years (though the latter includes a recovery phase). This implies the market is pricing in REASONABLE growth — well below what the bank has historically delivered. The stock is not expensive."
 
-> "At the current price, to earn a 15% return over 10 years at 18x terminal PE, you need 14.4% EPS CAGR — exactly in line with the bank's long-term track record. This is a FAIR price for 15% compounding."
+> "At the current price, to earn a 15% return over 10 years at 18x terminal PE, you need 14.4% EPS CAGR — roughly in line with the bank's long-term track record. This is a FAIR price for 15% compounding."
 
 Buffett's Napkin Test: You don't need a spreadsheet to see this is reasonable. A top-quality Indian bank with 18% ROE, trading at 17x earnings and 2.6x book, needing only 9-14% EPS growth (in a country growing at 10-12% nominal GDP) to deliver 10-15% returns. The math works on a napkin. ✅
 
@@ -767,17 +777,19 @@ Asymmetry Ratio = 129% / 24% = 5.4:1
 
 The ROA-to-ROE bridge for ICICI Bank:
 
-| Year | ROA | Leverage (Assets/Equity) | ROE (= ROA × Leverage) | Quality? |
-|---|---|---|---|---|
-| FY2019 | **0.5%** | 10.8x | **4%** | Poor ROA drove poor ROE |
-| FY2020 | 0.9% | 11.2x | 8% | Improving ROA |
-| FY2021 | 1.4% | 10.0x | 13% | ROA driving ROE improvement |
-| FY2022 | 1.6% | 9.6x | 15% | ✅ Quality improvement |
-| FY2023 | 1.9% | 9.1x | 17% | ✅ ROA-driven, leverage actually DECLINING |
-| FY2024 | **2.1%** | 9.2x | **19%** | ✅ Elite ROA, moderate leverage |
-| FY2025 | **2.18%** | **8.4x** | **18%** | ✅✅ HIGHEST quality — highest ROA, LOWEST leverage |
+| Year | ROA (NI/Avg Assets) | Leverage (Avg Assets/Avg Equity) | ROE (DuPont = ROA × Leverage) | Screener ROE | Quality? |
+|---|---|---|---|---|---|
+| FY2019 | **0.48%** | 10.5x | **5.1%** | 4% | Poor ROA drove poor ROE |
+| FY2020 | 0.86% | 11.0x | 9.5% | 8% | Improving ROA |
+| FY2021 | 1.38% | 10.5x | 14.5% | 13% | ROA driving ROE improvement |
+| FY2022 | 1.60% | 9.8x | 15.6% | 15% | ✅ Quality improvement |
+| FY2023 | 1.91% | 9.4x | 17.9% | 17% | ✅ ROA-driven, leverage actually DECLINING |
+| FY2024 | **2.13%** | 9.2x | **19.6%** | 19% | ✅ Elite ROA, moderate leverage |
+| FY2025 | **2.18%** | **8.8x** | **19.1%** | 18% | ✅✅ HIGHEST quality — highest ROA, LOWEST leverage |
 
-**Critical Finding:** ICICI Bank's ROE has increased from 4% to 18% while leverage has DECREASED from 10.8x to 8.4x. This means 100% of the ROE improvement is driven by genuine ROA improvement — the bank is getting MORE profitable while using LESS leverage. This is the highest-quality ROE improvement possible.
+> **Note:** DuPont ROE (ROA × Leverage) uses average assets and average equity as denominators, which is the methodologically correct approach. Screener's reported ROE may differ slightly due to rounding or different averaging conventions. The core finding is unchanged: ROE has improved from ~5% to ~19% while leverage has *declined* from 10.5x to 8.8x — meaning 100% of the ROE improvement is driven by genuine ROA improvement.
+
+**Critical Finding:** ICICI Bank's ROE has improved from ~5% (DuPont, FY2019) to ~19% (DuPont, FY2025) while leverage has DECREASED from 10.5x to 8.8x (on an average basis). This means 100% of the ROE improvement is driven by genuine ROA improvement — the bank is getting MORE profitable while using LESS leverage. This is the highest-quality ROE improvement possible.
 
 **Is ROE being inflated by low provisions?** The current credit cost is below the 5-year average, which does somewhat flatter the ROE. However, given the structural improvement in asset quality (GNPA 1.53%), the "new normal" credit cost is genuinely lower than historical levels. Even with normalised provisions, ROE would likely be 15-16% — still excellent.
 
@@ -807,28 +819,28 @@ The ROA-to-ROE bridge for ICICI Bank:
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 2.63x | Multiple sustains | 11.0% | 12.3% | 13.3% |
-| P/B compresses to 2.0x (mild de-rating) | Sentiment weakens | 3.8% | 7.0% | 9.5% |
-| P/B compresses to 1.5x (significant de-rating) | Severe market/sector downturn | -4.0% | 1.6% | 5.7% |
-| P/B reverts to 3.0x (10yr historical median) | Mean reversion | 17.3% | 16.5% | 16.0% |
-| P/B reverts to 3.4x (5yr median) | Recent fair value | 22.2% | 19.7% | 18.2% |
-| P/B = 1.0x Book | Worst case for quality bank | -17.1% | -5.4% | -0.3% |
-| P/B at quality-tier level (3.5x for Elite) | Based on ROA/ROE tier | 23.3% | 20.4% | 18.7% |
+| P/B stays at 2.63x | Multiple sustains | 14.4% | 14.4% | 14.5% |
+| P/B compresses to 2.0x (mild de-rating) | Sentiment weakens | 8.3% | 10.1% | 11.4% |
+| P/B compresses to 1.5x (significant de-rating) | Severe market/sector downturn | 2.3% | 5.6% | 8.2% |
+| P/B reverts to 3.0x (10yr historical median) | Mean reversion | 17.5% | 16.6% | 16.0% |
+| P/B reverts to 3.4x (5yr median) | Recent fair value | 20.5% | 18.7% | 17.4% |
+| P/B = 1.0x Book | Worst case for quality bank | -5.7% | -0.3% | 3.9% |
+| P/B at quality-tier level (3.5x for Elite) | Based on ROA/ROE tier | 21.2% | 19.2% | 17.8% |
 
 ### Key Insight
 
-> "At the current entry P/B of 2.63x with a sustainable ROE of 17% and 85% retention, book value compounds at 14.5% annually. If the P/B multiple remains at 2.63x, the return equals the BV compounding rate of ~14.5% — plus dividends (~0.9%), for a total return of ~15.4%. The stock can tolerate P/B compression from 2.63x down to approximately 2.0x before the 10-year return drops below the 10% hurdle rate."
+> "At the current entry P/B of 2.63x with a sustainable ROE of 17% and 85% retention, book value compounds at 14.5% annually. If the P/B multiple remains at 2.63x, the return equals the BV compounding rate of ~14.5% — plus dividends (~0.9%), for a total return of ~15.4%. The stock can tolerate P/B compression from 2.63x down to approximately 1.8x before the 10-year return drops below the 10% hurdle rate — meaning even significant de-rating would still deliver satisfactory long-term returns."
 
 ### Traffic Light Verdict
 
 | Condition | Applicable? | Signal |
 |---|---|---|
-| **10-year return > hurdle rate even if P/B halves** | P/B halving to 1.3x gives ~5.7% return (below hurdle) | 🟡 YELLOW |
-| **10-year return > hurdle rate if P/B drops 25%** | P/B to 2.0x gives ~9.5% return (close to hurdle) | 🟡 YELLOW |
-| **10-year return > hurdle if P/B stays flat** | 14.5% ≈ 13-15% return ✅ | 🟢 GREEN |
+| **10-year return > hurdle rate even if P/B halves** | P/B halving to 1.3x gives ~6.7% return (below hurdle) | 🟡 YELLOW |
+| **10-year return > hurdle rate if P/B drops 25%** | P/B to 2.0x gives ~11.4% return (above hurdle) ✅ | 🟢 GREEN |
+| **10-year return > hurdle if P/B stays flat** | 14.5% return ✅ | 🟢 GREEN |
 | **10-year return > hurdle if P/B expands to median** | 16-18% return ✅✅ | 🟢 GREEN |
 
-**Overall Signal: 🟢 GREEN (with Yellow edge case)** — BV compounding at 14.5% is powerful enough that returns are attractive even with modest P/B compression. However, extreme P/B compression (below 2.0x) would reduce returns below the hurdle rate — this is unlikely given the bank's quality but not impossible in a severe market/credit downturn.
+**Overall Signal: 🟢 GREEN** — BV compounding at 14.5% is powerful enough that returns exceed the 10% hurdle rate even with meaningful P/B compression to 2.0x (a 24% de-rating). Only a severe halving of the P/B multiple (to ~1.3x, implying the market treats the bank as mediocre) would push 10-year returns below the hurdle rate — an unlikely scenario for a bank with 2.18% ROA.
 
 > Munger: *"Over the long term, it's hard for a stock to earn a much better return than the business earns."* At 2.63x book, the stock is priced reasonably enough that the 14.5% BV compounding rate translates into 13-18% stock returns depending on terminal P/B — a very satisfactory outcome for a decade-long investment.
 
@@ -915,13 +927,13 @@ If Buffett were working with a small capital base in India today, he would very 
 
 ## 18. TURNAROUND PROBABILITY
 
-**Not Applicable in the traditional sense** — ICICI Bank's turnaround is COMPLETE. The bank has already transformed from a stressed, NPA-laden institution (GNPA ~8.5%, ROE 4% in FY2018-19) to an elite-quality bank (GNPA 1.53%, ROE 18% in FY2025).
+**Not Applicable in the traditional sense** — ICICI Bank's turnaround is COMPLETE. The bank has already transformed from a stressed, NPA-laden institution (GNPA ~8.5% in FY2018, ROE 4% in FY2019) to an elite-quality bank (GNPA 1.67% for FY2025 annual, declining further to 1.53% in the Dec 2025 quarter; ROE 18%).
 
 However, it is worth noting the turnaround scorecard as a retrospective validation:
 
 | Turnaround Factor | Score (1-10) | Evidence |
 |---|---|---|
-| Asset quality trajectory | **10/10** | GNPA from 8.5% to 1.53% — among the best cleanups in Indian banking |
+| Asset quality trajectory | **10/10** | GNPA from ~8.5% (FY2018) to 1.67% (FY2025 annual) / 1.53% (Dec 2025 quarterly) — among the best cleanups in Indian banking |
 | Provision coverage adequacy | **9/10** | PCR ~83% — balance sheet is fully cleaned |
 | Capital adequacy | **9/10** | CRAR ~16% — well above regulatory minimums |
 | Management quality | **9/10** | Bakhshi has delivered on every metric; transformed risk culture |
@@ -938,7 +950,7 @@ However, it is worth noting the turnaround scorecard as a retrospective validati
 |---|---|---|
 | **Business Quality (ROA-driven ROE)** | **9/10** | ROA 2.18% (elite); ROE 18% driven by ROA not leverage — highest quality |
 | **Moat Durability (CASA, Funding, Underwriting)** | **8/10** | Strong multi-layered moat; CASA decline is the one concern |
-| **Asset Quality (NPA, PCR, Credit Cost)** | **9/10** | GNPA 1.53%, NNPA 0.37%, PCR 83% — pristine; continuously improving |
+| **Asset Quality (NPA, PCR, Credit Cost)** | **9/10** | GNPA 1.53% (Dec 2025 quarterly), NNPA 0.37%, PCR 83% — pristine; continuously improving |
 | **Capital Adequacy (CRAR, Tier-1)** | **8/10** | CRAR ~16% — comfortable buffer above regulatory minimums |
 | **Management Quality & Risk Culture** | **9/10** | Bakhshi-led transformation is one of the best in Indian banking |
 | **Earnings Quality (Normalised vs Reported)** | **7/10** | Reported earnings slightly flattered by benign credit cycle; normalised still strong |
@@ -947,7 +959,7 @@ However, it is worth noting the turnaround scorecard as a retrospective validati
 | **Book Value Compounding Potential** | **9/10** | BV compounding at 14-15% annually with no dilution — powerful |
 | **Scalability** | **8/10** | Strong scaler; India's underpenetrated credit market provides decades of runway |
 | | | |
-| **Buffett Verdict** | | ICICI Bank is India's second-largest private sector bank that has completed one of the most impressive banking turnarounds in history — going from GNPA ~8.5% and ROE 4% to GNPA 1.53% and ROE 18% under Sandeep Bakhshi's leadership. The bank now operates as an elite-quality franchise with 2.18% ROA (best among large Indian banks), strong asset quality, diversified revenue streams, and a powerful cross-sell platform through its subsidiaries. At ₹1,273 (2.63x P/B), it is trading below its deserved valuation of 3.0-4.0x P/B for its quality tier — offering a fair-to-attractive entry point for long-term investors. The 14-15% annual book value compounding, combined with potential P/B re-rating, positions the stock to deliver 15-18% CAGR over the next decade. **This is a TRUE Buffett Bank — BUY at current levels and accumulate aggressively on any dip below ₹1,100 (2.3x P/B).** |
+| **Buffett Verdict** | | ICICI Bank is India's second-largest private sector bank that has completed one of the most impressive banking turnarounds in history — going from GNPA ~8.5% and ROE 4% to GNPA 1.67% (FY2025 annual, declining to 1.53% in Dec 2025 quarter) and ROE 18% under Sandeep Bakhshi's leadership. The bank now operates as an elite-quality franchise with 2.18% ROA (best among large Indian banks), strong asset quality, diversified revenue streams, and a powerful cross-sell platform through its subsidiaries. At ₹1,273 (2.63x P/B), it is trading below its deserved valuation of 3.0-4.0x P/B for its quality tier — offering a fair-to-attractive entry point for long-term investors. The 14-15% annual book value compounding, combined with potential P/B re-rating, positions the stock to deliver 15-18% CAGR over the next decade. **This is a TRUE Buffett Bank — BUY at current levels and accumulate aggressively on any dip below ₹1,100 (2.3x P/B).** |
 | **Buy Zone** | | Currently in Fair Value / Hold zone (₹1,210-₹1,549) but near the lower end. Ideal accumulation zone: ₹968-₹1,210 (2.0-2.5x P/B) |
 | **Overall Recommendation** | | **BUY at ₹1,273** for long-term compounding. **ACCUMULATE aggressively below ₹1,100.** Target: ₹2,850-3,400 over 5 years (17-22% CAGR). |
 
