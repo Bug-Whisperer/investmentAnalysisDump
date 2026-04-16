@@ -265,7 +265,7 @@ This is **quality ROE.** Here's why:
 
 Indian Bank is at the border of "Good" and "Excellent" quality. At the current P/B of **1.47x**, the market is pricing it in the "Good" range. If ROA sustains above 1.3% and approaches 1.5%, the deserved P/B expands to 2.0-2.5x — significant re-rating potential.
 
-> *Buffett: "The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* Indian Bank is now earning 17% ROE and can deploy retained earnings at that rate. If sustained, book value will compound at ~14% annually. That's genuine wealth creation.
+> *Buffett: "The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* Indian Bank is now earning 17% ROE and can deploy retained earnings at that rate. If sustained, book value will compound at ~12-14% annually (base to optimistic case). That's genuine wealth creation.
 
 ---
 
@@ -675,7 +675,7 @@ This is in the **1:1 to 2:1 range — Marginal to Decent.** With some optimism o
 | Is downside capped by tangible value? | **Yes** — book value of ₹593 is tangible and growing |
 | Is upside driven by fundamentals? | **Yes** — ROE improvement, BV compounding, NPA reduction |
 | Would you buy MORE if it dropped 30%? | **Yes** — at ₹600 (1.0x book), it's a gift for a 17% ROE bank |
-| Can you explain in 2 sentences? | **"Indian Bank is a cleaned-up PSU bank earning 17% ROE, bought at just 1.5x book. If ROE sustains at current levels, book value compounds at ~14% and the stock re-rates."** |
+| Can you explain in 2 sentences? | **"Indian Bank is a cleaned-up PSU bank earning 17% ROE, bought at just 1.5x book. If ROE sustains, book value compounds at ~12-14% annually and the stock re-rates."** |
 
 > *Buffett: "The most common cause of low prices is pessimism — sometimes pervasive, sometimes specific to a company or industry. We WANT to do business in such an environment."* The PSU bank pessimism is the source of the opportunity.
 
@@ -685,7 +685,7 @@ This is in the **1:1 to 2:1 range — Marginal to Decent.** With some optimism o
 
 ### Part A: Bank-Specific ROE Decomposition
 
-**ROE = ROA × Leverage = 1.35% × 12.3x = 17%**
+**ROE = ROA × Leverage = 1.35% × 12.3x = ~17%**
 
 | Check | Assessment | Signal |
 |---|---|---|
@@ -732,7 +732,7 @@ This is in the **1:1 to 2:1 range — Marginal to Decent.** With some optimism o
 
 #### Key Insight
 
-> "At the current entry P/B of 1.47x with a sustainable ROE of 15% and 81% retention, book value compounds at 12.2% annually. If the P/B multiple remains at 1.47x, the return equals the BV compounding rate of ~12.2% regardless of the holding period. Every 50% compression in P/B over 10 years creates roughly 7% annual drag on returns. The stock can tolerate P/B compression from 1.47x down to approximately 1.1x before the 10-year return drops below the 10% hurdle rate. Since the current P/B is already modest (1.47x) for a bank earning 17% ROE, significant compression is unlikely. **The entry is well-protected.**"
+> "At the current entry P/B of 1.47x with a sustainable ROE of 15% and 81% retention, book value compounds at 12.2% annually. If the P/B multiple remains at 1.47x, the return equals the BV compounding rate of ~12.2% regardless of the holding period. Every 50% compression in P/B over 10 years creates roughly 7% annual drag on returns. The stock can tolerate P/B compression from 1.47x down to approximately 1.2x before the 10-year return drops below the 10% hurdle rate (at 1.1x, the 10-year return is ~9%). Since the current P/B is already modest (1.47x) for a bank earning 17% ROE, compression to 1.2x is unlikely unless ROE deteriorates significantly. **The entry is well-protected.**"
 
 #### Traffic Light Verdict
 
