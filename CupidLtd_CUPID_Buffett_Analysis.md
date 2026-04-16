@@ -60,6 +60,8 @@ Cupid's B2B business has a structural advantage — WHO/UNFPA certification is d
 | EPS (Adj, ₹) | 0.12 | 0.15 | 0.13 | 0.11 | **0.30** | 0.22 | **0.13** | 0.24 | 0.30 | 0.30 | **0.62** |
 | Dividend Payout % | 21% | 22% | 29% | 35% | 15% | 21% | 35% | 21% | **0%** | **0%** | — |
 
+*Note: All figures sourced from Screener.in, where each line item is independently rounded to whole crores. In some years (FY2017, FY2020, FY2021, FY2022) the PBT figure may differ by ₹1 Cr from the sum of its components (Operating Profit + Other Income − Interest − Depreciation) due to this rounding.*
+
 ### Trend Narrative
 
 The income statement reveals a **highly cyclical business masquerading as FMCG**. Revenue and profits swing dramatically year to year — this is NOT the steady, predictable earnings stream Buffett loves. Key observations:
@@ -155,7 +157,7 @@ The cash flow pattern shows a business that is growing but has NOT yet demonstra
 
 ### Maintenance vs. Growth CapEx Estimate
 
-Cupid's manufacturing facility near Nashik has been operational since 1997 with periodic upgrades. The current capacity is 480M male condoms + 52M female condoms + 210M lubricant sachets per year. The Palava (Maharashtra) expansion will increase capacity by 1.5x — to 1.25 billion male condoms and 125M female condoms annually. A Saudi Arabia FMCG facility is also planned for 2027.
+Cupid's manufacturing facility near Nashik has been operational since 1997 with periodic upgrades. The current capacity is 480M male condoms + 52M female condoms + 210M lubricant sachets per year. The Palava (Maharashtra) expansion will bring total capacity to approximately 2.5x current levels — to 1.25 billion male condoms and 125M female condoms annually. A Saudi Arabia FMCG facility is also planned for 2027.
 
 **Estimated Maintenance CapEx:** ₹5-8 Cr per year (roughly equal to depreciation of ₹3-4 Cr plus incremental maintenance). This is a capital-light manufacturing business in steady state.
 
@@ -188,7 +190,9 @@ The gap between reported FCF (deeply negative) and Owner Earnings (₹82 Cr) is 
 | **ROE** | ~50% | ~42% | 28% | 21% | **45%** | 25% | **12%** | 22% | 17% | **13%** |
 | ROA | ~31% | ~33% | 22% | 16% | ~24% | 19% | 10% | 17% | 12% | 11% |
 
-### 5-Year Avg ROE: ~16% | 10-Year Avg ROE: ~21%
+### 5-Year Avg ROE: ~16% | 10-Year Avg ROE: ~25%
+
+*Note: Both averages are computed using ROE on ending equity (Net Profit / Year-End Shareholders' Equity). The table values above are approximate (rounded); the averages are computed from the exact underlying figures. Screener.in reports 10Y ROE of 21% using its own averaging methodology.*
 
 ### Analysis
 
@@ -202,7 +206,7 @@ The current ROE of 13% (FY2025) is mediocre. However, the TTM ROE (₹84 Cr prof
 
 > *Buffett: "The ideal business is one that earns very high returns on capital and that keeps using lots of capital at those high returns."*
 
-Cupid has historically earned very high returns on capital (20%+ average over a decade), but these returns are cyclical, not steady. The current FY26 acceleration, if sustained, would restore ROE to the 20-25% range — good but not exceptional by Buffett standards.
+Cupid has historically earned very high returns on capital (~25% average ROE over a decade on ending equity), but these returns are cyclical, not steady. The current FY26 acceleration, if sustained, would restore ROE to the 20-25% range — good but not exceptional by Buffett standards.
 
 ---
 
@@ -329,7 +333,7 @@ Over the last 5 years (FY2020-FY2025):
 - Market cap change: From ~₹600 Cr (FY2020) to ~₹10,300 Cr (current) = **₹9,700 Cr increase**
 - **Value created per ₹1 retained: ~₹56**
 
-This is extraordinary — but it's almost entirely driven by a massive PE re-rating (from ~15x to ~124x), not by proportional earnings growth. The underlying earnings only grew from ₹40 Cr to ₹41 Cr (FY2020 to FY2025) — essentially ZERO growth in 5 years. The $1 test is spectacularly passed on market value terms, but fails on business value terms.
+This is extraordinary — but it's almost entirely driven by a massive PE re-rating (from ~15x to ~123x on a TTM basis), not by proportional earnings growth. The underlying earnings only grew from ₹40 Cr to ₹41 Cr (FY2020 to FY2025) — essentially ZERO growth in 5 years. On FY2025 reported EPS alone, the PE is an astounding ~254x. The $1 test is spectacularly passed on market value terms, but fails on business value terms.
 
 ### Capital Allocation Track Record
 
@@ -366,7 +370,7 @@ Cupid's management appears competent and aligned (high promoter holding, persona
 
 ### Key Observations
 
-**The working capital deterioration is alarming.** The cash conversion cycle has ballooned from 183 days (FY2023) to 570 days (FY2025). This means it takes Cupid nearly 1.5 YEARS to convert its inventory and receivables into cash. Days payable has collapsed from 105 to 13 — meaning the company is paying its suppliers almost immediately but waiting much longer to collect from customers.
+**The working capital deterioration is alarming.** The cash conversion cycle has ballooned from 183 days (FY2023) to 570 days (FY2025). This means it takes Cupid over 1.5 years to convert its inventory and receivables into cash. Days payable has collapsed from 105 to 13 — meaning the company is paying its suppliers almost immediately but waiting much longer to collect from customers.
 
 Possible explanations:
 1. **Large international government orders** where payment cycles are genuinely long (African governments, UN agencies often have 90-180 day payment terms)
@@ -384,8 +388,8 @@ Management must address this in upcoming quarters. If debtor days and inventory 
 | Metric | Current / TTM | FY2025 | FY2024 | FY2023 | FY2022 | FY2021 | Historical Median |
 |---|---|---|---|---|---|---|---|
 | **CMP** | **₹76.20** | — | — | — | — | — | — |
-| **PE Ratio** | **~124x** (on FY25 EPS ₹0.30) | 124x | — | — | — | — | ~25-35x |
-| **PE on TTM EPS** | **~123x** (on TTM EPS ₹0.62) | — | — | — | — | — | — |
+| **PE Ratio (TTM)** | **~123x** (on TTM EPS ₹0.62) | — | — | — | — | — | ~25-35x |
+| **PE on FY25 EPS** | **~254x** (on FY25 EPS ₹0.30) | 254x | — | — | — | — | — |
 | **Forward PE (on FY26E ₹100Cr PAT)** | **~103x** | — | — | — | — | — | — |
 | **P/B Ratio** | **~26.8x** | — | — | — | — | — | ~3-5x |
 | **EV/EBITDA (TTM)** | **~87x** | — | — | — | — | — | ~15-20x |
@@ -395,7 +399,7 @@ Management must address this in upcoming quarters. If debtor days and inventory 
 
 ### Historical Comparison
 
-**The stock has NEVER traded sustainably at anywhere near current multiples historically.** Cupid historically traded at 15-35x PE and 3-6x P/B. The current valuation of 124x PE and 27x P/B is in the stratosphere — driven by a 496% one-year stock price appreciation. This is a speculative re-rating, not a fundamental valuation.
+**The stock has NEVER traded sustainably at anywhere near current multiples historically.** Cupid historically traded at 15-35x PE and 3-6x P/B. The current valuation of ~123x TTM PE (or ~254x on FY2025 reported EPS) and 27x P/B is in the stratosphere — driven by a 496% one-year stock price appreciation. This is a speculative re-rating, not a fundamental valuation.
 
 Even using the optimistic FY26 guided EPS (₹100 Cr PAT / 134.5 Cr shares = ₹0.74 EPS), the forward PE is still ~103x. This implies the market is pricing in a multi-year hyper-growth trajectory that the company has NEVER delivered on a sustained basis.
 
@@ -445,7 +449,7 @@ At current prices, you are paying a massive premium for the HOPE of sustained hy
 | FY26E EPS (management guided ₹100 Cr PAT) | ₹0.74 |
 | Forward PE (on FY26E) | 103x |
 | Historical 5Y EPS CAGR | ~1% (FY2020 ₹0.30 → FY2025 ₹0.30) |
-| Historical 10Y EPS CAGR | ~17% |
+| Historical 10Y EPS CAGR | ~17% (FY2015 ₹0.06 → FY2025 ₹0.30; note: FY2016→FY2025 i.e. 9-year CAGR is ~11%) |
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -479,13 +483,13 @@ At current prices, you are paying a massive premium for the HOPE of sustained hy
 |---|---|
 | India Nominal GDP Growth | 10-12% |
 | Cupid Historical 5Y EPS CAGR | ~1% |
-| Cupid Historical 10Y EPS CAGR | ~17% |
+| Cupid Historical 10Y EPS CAGR | ~17% (FY2015→FY2025); ~11% (FY2016→FY2025, 9yr) |
 | Management FY26 Implied EPS Growth | ~147% (from ₹0.30 to ~₹0.74) |
 | Required for 15% return over 10Y at 25x terminal PE | **35% CAGR** |
 
 ### Traffic Light: 🔴 RED
 
-**At the current price of ₹76.2, to earn even a 10% annualised return over 10 years assuming the market values the business at 25x PE at exit, the company needs to grow EPS at 29% CAGR for a DECADE.** The company has historically grown EPS at 17% CAGR over 10 years and ~1% CAGR over 5 years. The implied growth is 1.7x the best historical performance. This is heroic territory.
+**At the current price of ₹76.2, to earn even a 10% annualised return over 10 years assuming the market values the business at 25x PE at exit, the company needs to grow EPS at 29% CAGR for a DECADE.** The company has historically grown EPS at ~17% CAGR over 10 years (FY2015→FY2025) or ~11% over 9 years (FY2016→FY2025), and ~1% CAGR over 5 years. Even against the most favourable historical measure, the implied growth is 1.7x the best performance. This is heroic territory.
 
 Even if FY26 is truly the inflection point and the company grows EPS at 25% CAGR for a decade (which would require EPS to reach ₹5.8 — implying ₹776 Cr net profit from a company that currently makes ₹84 Cr TTM), you would still only earn a ~7% annual return IF the terminal PE is 25x and your entry is ₹76.2.
 
@@ -507,6 +511,8 @@ Even if FY26 is truly the inflection point and the company grows EPS at 25% CAGR
 | FY2023 | 20% | 0.84 | 1.13 | 19% |
 | FY2024 | 23% | 0.54 | 1.06 | 13% |
 | FY2025 | 22% | 0.49 | 1.09 | 12% |
+
+*Note: The DuPont ROE here uses year-end equity and year-end total assets (since the three-factor decomposition requires consistent point-in-time balance sheet figures). This produces slightly lower ROE figures than Section 6, where the approximate ROE values reflect Screener.in's calculation (which may use average equity). For example, FY2020 shows 39% here vs. ~45% in Section 6. Both are valid; the difference is methodological, not a data error.*
 
 **Key Insight:** ROE has declined primarily because **Asset Turnover has halved** — from ~0.97 (FY2020) to 0.49 (FY2025). This means the company is generating less revenue per rupee of assets. The asset base has grown (balance sheet bloat from working capital + new capex) without commensurate revenue growth (until the TTM acceleration). The equity multiplier is very low (1.06-1.16), confirming the company uses almost no leverage — which is positive for safety but means ROE is entirely driven by margins and asset efficiency.
 
@@ -560,22 +566,22 @@ At 27x book, the stock needs to earn 27x what the business actually earns on equ
 
 | Zone | P/B Range | PE Range (on ₹0.62 TTM EPS) | Price Range | Rationale |
 |---|---|---|---|---|
-| **Deep Value / Strong Buy** | <3x | <15x | **₹8.5 – ₹9.3** | WHO certification + capacity expansion at a discount; massive MoS |
-| **Value / Buy** | 3-5x | 15-25x | **₹9.3 – ₹15.5** | Fair value for a quality small-cap manufacturer; attractive R/R |
-| **Fair Value / Hold** | 5-8x | 25-40x | **₹15.5 – ₹25.0** | Fairly priced for growth prospects; hold for compounding |
-| **Fully Valued / Trim** | 8-15x | 40-60x | **₹25.0 – ₹42.5** | Above fair value; limited upside; take profits |
-| **Overvalued / Sell** | >15x | >60x | **>₹42.5** | Speculative premium; sell/avoid |
+| **Deep Value / Strong Buy** | <3x | <14x | **< ₹8.5** | WHO certification + capacity expansion at a discount; massive MoS |
+| **Value / Buy** | 3-5x | 14-23x | **₹8.5 – ₹14.2** | Fair value for a quality small-cap manufacturer; attractive R/R |
+| **Fair Value / Hold** | 5-8x | 23-37x | **₹14.2 – ₹22.7** | Fairly priced for growth prospects; hold for compounding |
+| **Fully Valued / Trim** | 8-15x | 37-69x | **₹22.7 – ₹42.6** | Above fair value; limited upside; take profits |
+| **Overvalued / Sell** | >15x | >69x | **>₹42.6** | Speculative premium; sell/avoid |
 | **Current Price** | **26.8x** | **123x** | **₹76.2** | **DEEP IN OVERVALUED TERRITORY** |
 
 ### If You Already Hold — What Would Buffett Do?
 
 | Your Entry Zone | Your Entry Price Range | Current Position | Buffett Recommendation |
 |---|---|---|---|
-| Deep Value | ₹8.5-9.3 | **Profit: ~720-800%** | **SELL at least 50-75%.** You've made 8x your money. The risk/reward from here is terrible. Keep a small position only if you have deep conviction in multi-year hyper-growth AND can stomach a 70%+ drawdown. Buffett: "Be fearful when others are greedy." |
-| Value / Buy | ₹9.3-15.5 | **Profit: ~390-720%** | **SELL at least 50%.** Lock in extraordinary gains. The valuation provides no margin of safety. |
-| Fair Value / Hold | ₹15.5-25.0 | **Profit: ~200-390%** | **TRIM significantly.** The stock is 3-5x above fair value. Hold a core position only if you believe in the long-term FMCG transformation story. |
-| Fully Valued / Trim | ₹25.0-42.5 | **Profit: ~80-200%** | **SELL.** You bought expensive and it got more expensive — lucky you. Don't push your luck. |
-| Overvalued | >₹42.5 | **Profit: 0-80% (or loss)** | **SELL immediately.** You are holding a lottery ticket, not an investment. At 124x PE, ANY disappointment will be punished brutally. |
+| Deep Value | < ₹8.5 | **Profit: ~800%+** | **SELL at least 50-75%.** You've made 8x+ your money. The risk/reward from here is terrible. Keep a small position only if you have deep conviction in multi-year hyper-growth AND can stomach a 70%+ drawdown. Buffett: "Be fearful when others are greedy." |
+| Value / Buy | ₹8.5-14.2 | **Profit: ~440-800%** | **SELL at least 50%.** Lock in extraordinary gains. The valuation provides no margin of safety. |
+| Fair Value / Hold | ₹14.2-22.7 | **Profit: ~240-440%** | **TRIM significantly.** The stock is 3-5x above fair value. Hold a core position only if you believe in the long-term FMCG transformation story. |
+| Fully Valued / Trim | ₹22.7-42.6 | **Profit: ~80-240%** | **SELL.** You bought expensive and it got more expensive — lucky you. Don't push your luck. |
+| Overvalued | >₹42.6 | **Profit: 0-80% (or loss)** | **SELL immediately.** You are holding a lottery ticket, not an investment. At 123x TTM PE, ANY disappointment will be punished brutally. |
 | New Buyer | N/A | **No position** | **DO NOT BUY.** Wait for a 70-80% correction. This is not an investment at current prices — it is speculation. |
 
 ---
@@ -605,7 +611,7 @@ He would say something like:
 
 > *"When a management team with a reputation for brilliance tackles a stock with a reputation for a high PE ratio, it is the reputation of the stock that remains intact — until it doesn't."*
 
-If Cupid fell to ₹10-15 (3-5x book value, 15-25x normalised PE), Buffett working with a small capital base would likely take a serious look. The WHO certification moat, export diversification, and capacity expansion story would be genuinely compelling at the right price.
+If Cupid fell to ₹8.5-14 (3-5x book value, 14-23x normalised PE), Buffett working with a small capital base would likely take a serious look. The WHO certification moat, export diversification, and capacity expansion story would be genuinely compelling at the right price.
 
 ---
 
@@ -613,7 +619,7 @@ If Cupid fell to ₹10-15 (3-5x book value, 15-25x normalised PE), Buffett worki
 
 | Risk | Severity (1-10) | Probability (1-10) | Risk Score | Mitigation |
 |---|---|---|---|---|
-| **Valuation compression** — PE reverts from 124x to 25-35x | **10** | **9** | **90** | Only time + sustained earnings growth can close the gap. No mitigation at current price. |
+| **Valuation compression** — PE reverts from 123x to 25-35x | **10** | **9** | **90** | Only time + sustained earnings growth can close the gap. No mitigation at current price. |
 | **Tender cycle lumpiness** — large order delays/cancellations | 7 | 7 | 49 | Diversification across 110+ countries, FMCG pivot |
 | **Working capital blowup** — receivables become bad debts | 8 | 4 | 32 | Institutional buyers (govts, UN) rarely default but are very slow payers |
 | **Capacity expansion execution risk** — Palava plant delays/overruns | 6 | 4 | 24 | Management tracking "as planned"; will show in FY27 |
@@ -641,12 +647,12 @@ If Cupid fell to ₹10-15 (3-5x book value, 15-25x normalised PE), Buffett worki
 | Financial Health | 7 | Virtually debt-free; BUT working capital deterioration is a concern |
 | Management Quality | 7 | High promoter holding, personal buying, competent; working capital needs watching |
 | Scalability | 6.5 | Good runway (global TAM), capacity expanding 2.5x; but execution unproven |
-| Valuation | **1** | 124x PE, 27x P/B — absurdly expensive by any metric |
+| Valuation | **1** | 123x TTM PE, 27x P/B — absurdly expensive by any metric |
 | Margin of Safety | **0** | NEGATIVE margin of safety — priced at 2-6x intrinsic value |
 | Cash Flow Quality | 4 | Negative OCF in FY2025 despite ₹41 Cr profit; working capital consuming cash |
-| **Buffett Verdict** | — | **PASS at current price.** This is a decent small business with an interesting moat — but the stock is priced as if it were the next Asian Paints. At 124x PE, even flawless execution for a decade barely earns your cost of capital. Buffett would watch with interest and wait for a 70-80% correction before buying. If you own it from lower levels, take significant profits. The business may well deserve ₹15-25 per share — not ₹76. |
-| Buy Zone | — | **₹9-15 (3-5x book, 15-25x PE) — this is where Buffett would get interested** |
-| Overall Recommendation | — | **AVOID / SELL if owned.** Do not initiate new positions. This is a ₹183 Cr revenue company with a ₹10,300 Cr market cap. The market cap is 56x revenue. For a manufacturing company with cyclical earnings, this is speculative excess. |
+| **Buffett Verdict** | — | **PASS at current price.** This is a decent small business with an interesting moat — but the stock is priced as if it were the next Asian Paints. At 123x TTM PE, even flawless execution for a decade barely earns your cost of capital. Buffett would watch with interest and wait for a 70-80% correction before buying. If you own it from lower levels, take significant profits. The business may well deserve ₹15-25 per share — not ₹76. |
+| Buy Zone | — | **₹8.5-14 (3-5x book, 14-23x PE) — this is where Buffett would get interested** |
+| Overall Recommendation | — | **AVOID / SELL if owned.** Do not initiate new positions. This is a ₹320 Cr TTM revenue company with a ₹10,300 Cr market cap. The market cap is ~32x TTM revenue. For a manufacturing company with cyclical earnings, this is speculative excess. |
 
 ---
 
@@ -682,11 +688,11 @@ That's an instant Buffett pass.
 
 2. **"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."** — Cupid is a "good" company (not wonderful — too cyclical, too small, too tender-dependent). And the price is not fair — it is 2-6x fair value. You have the worst of both worlds.
 
-3. **"Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1."** — At 124x PE, the probability of losing money over a 3-5 year holding period is extremely high.
+3. **"Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1."** — At 123x TTM PE, the probability of losing money over a 3-5 year holding period is extremely high.
 
-4. **"Be fearful when others are greedy."** — A stock that has risen 496% in one year, 936% from its 52-week low, and trades at 123x PE is the textbook definition of greed.
+4. **"Be fearful when others are greedy."** — A stock that has risen 496% in one year, ~583% from its 52-week low, and trades at 123x TTM PE is the textbook definition of greed.
 
-5. **"The stock market is designed to transfer money from the active to the patient."** — The patient investor waits for Cupid at ₹10-15. The active investor buys at ₹76 and hopes for ₹100.
+5. **"The stock market is designed to transfer money from the active to the patient."** — The patient investor waits for Cupid at ₹8.5-14. The active investor buys at ₹76 and hopes for ₹100.
 
 ---
 
