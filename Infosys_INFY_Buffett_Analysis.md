@@ -126,6 +126,8 @@ Infosys passes this test with flying colours. This company could weather a sever
 
 Infosys is a **cash-generating machine**. FY2025 produced the highest-ever FCF at ~₹33,000+ crore ($4.1 billion), with FCF conversion at 124% of net income — far exceeding 100%, which is exceptional. This means every rupee of reported profit is backed by MORE than a rupee of actual cash. This is the hallmark of a high-quality business.
 
+*Note: The dividend and buyback figures above are estimates derived from cash flow statement line items and public disclosures. Cash from Financing also includes lease liability payments and other non-distribution items. The precise total capital returned to shareholders over FY2018-FY2025, derived from the accounting identity (cumulative NI minus equity increase), is ~₹1,36,000 crore — representing 81% of total earnings.*
+
 The capital allocation policy is shareholder-friendly: Infosys returns approximately 85% of cumulative FCF to shareholders over 5-year periods through dividends and buybacks. The company has executed five buybacks since 2017 (2017, 2019, 2021, 2022-23, and 2025 at ₹18,000 crore at ₹1,800/share). Share count has declined from ~4,300 million in FY2018 to ~4,150 million — modest but consistent buyback-driven reduction.
 
 > *"In the search for companies with economic goodwill, the earner of high returns on unleveraged net tangible assets should be favoured."* — Buffett
@@ -195,7 +197,7 @@ At current returns, Infosys is clearly a "wonderful business" by the Buffett qua
 
 **Moat Assessment:**
 
-1. **Switching Costs (STRONG but narrowing):** Enterprise clients deeply integrate IT vendors into mission-critical systems. Replacing Infosys on a multi-year ERP implementation or cloud migration is costly and risky. Client relationships span 5-15+ years — the top 10 clients contribute ~25% of revenue, and $100M+ clients have grown from ~20 to ~40+ over the last decade. These relationships are sticky.
+1. **Switching Costs (STRONG but narrowing):** Enterprise clients deeply integrate IT vendors into mission-critical systems. Replacing Infosys on a multi-year ERP implementation or cloud migration is costly and risky. Client relationships span 5-15+ years — the top 10 clients contribute ~25% of revenue, and $100M+ clients have grown from ~25 (FY2019) to ~40+ today. These relationships are sticky.
 
 2. **Scale Advantage (MODERATE):** With 300,000+ employees and decades of process optimisation, Infosys can deliver at scale and cost levels that smaller competitors cannot match. The training infrastructure, delivery frameworks (like the Global Delivery Model), and bench management systems took decades to build.
 
@@ -525,12 +527,12 @@ This is the key insight: **the market has ALREADY priced in meaningful AI disrup
 
 | Downside Scenario | Valuation Basis | Implied Price | Downside from CMP |
 |---|---|---|---|
-| Asset/Liquidation Floor | Tangible Book Value (~₹230/share) + Net Cash (~₹62/share) | ~₹292 | -77% (extreme) |
+| Asset/Liquidation Floor | Book Value Per Share (₹230) — includes all assets net of liabilities | ~₹230 | -82% (extreme) |
 | Trough Earnings | Worst EPS (~₹35 in severe recession) × 12x PE | ₹420 | -67% (extreme) |
 | Normalised Bear Case | Conservative DCF (₹1,207) with 15% additional haircut | ₹1,026 | -18% |
 | Market Panic Floor | Historical lowest PE (~15x) × Normalised EPS (₹70) | ₹1,050 | -16% |
 
-**Most Probable Downside Floor: ₹1,050-1,100** (15-16% below current). The stock would need to trade at its absolute historical low PE on normalised earnings. This is possible in a severe market panic but unlikely to sustain given the cash generation and capital return.
+**Most Probable Downside Floor: ₹1,050-1,100** (12-16% below current). The stock would need to trade at its absolute historical low PE on normalised earnings. This is possible in a severe market panic but unlikely to sustain given the cash generation and capital return.
 
 **Part 2: Upside Case**
 
@@ -582,20 +584,22 @@ The current pessimism around Indian IT is pervasive and specific to the AI disru
 
 ### Part A: DuPont Decomposition
 
-| Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE |
+| Year | Net Profit Margin | Asset Turnover | Equity Multiplier (Avg) | ROE (DuPont Product) |
 |---|---|---|---|---|
-| FY2020 | 18.3% | 0.99 | 1.40 | 25.4% |
-| FY2021 | 19.3% | 0.93 | 1.41 | 27.4% |
-| FY2022 | 18.2% | 1.04 | 1.55 | 29.2% |
-| FY2023 | 16.4% | 1.18 | 1.65 | 32.0% |
-| FY2024 | 17.1% | 1.12 | 1.56 | 32.1% |
-| **FY2025** | **16.4%** | **1.10** | **1.54** | **28.8%** |
+| FY2020 | 18.3% | 0.99 | 1.41 | 25.5% |
+| FY2021 | 19.3% | 0.93 | 1.52 | 27.3% |
+| FY2022 | 18.2% | 1.04 | 1.54 | 29.2% |
+| FY2023 | 16.4% | 1.18 | 1.66 | 32.1% |
+| FY2024 | 17.1% | 1.12 | 1.68 | 32.2% |
+| **FY2025** | **16.4%** | **1.10** | **1.61** | **29.0%** |
+
+*Note: Equity Multiplier uses average total assets / average shareholders' equity for each year, ensuring DuPont components multiply to the reported ROE. Asset Turnover similarly uses total assets (which approximates average given smooth growth).*
 
 **Quality Assessment:**
 
 ROE is driven primarily by **high net profit margins (16-19%)** and **good asset turnover (1.0-1.2x)**, with a very LOW equity multiplier (1.4-1.6x). This is **EXACTLY what Buffett wants** — high returns from business quality, NOT from leverage.
 
-The equity multiplier is below 2x, meaning the company has almost no leverage. ROCE (37.5%) EXCEEDS ROE (28.8%), confirming that the underlying business engine is even stronger than what shareholders see — the gap is taxes, not leverage distortion.
+The equity multiplier is below 2x, meaning the company has almost no leverage. ROCE (38%) EXCEEDS ROE (29%), confirming that the underlying business engine is even stronger than what shareholders see — the gap is taxes, not leverage distortion.
 
 > *"When you combine ignorance and leverage, you get some pretty interesting results."* — Buffett
 
@@ -635,9 +639,15 @@ Infosys has the opposite: competence with near-zero leverage. The ROE is entirel
 
 **Key Insight:**
 
-> "At the current entry P/B of 5.5x with a sustainable ROE of 28% and 35% retention, book value compounds at 9.8% annually. If the P/B multiple remains at 5.5x, the return equals the BV compounding rate of ~10%. The stock can tolerate P/B compression from 5.5x down to approximately 4.0x before the 10-year return drops below the 10% hurdle rate."
+> "At the current entry P/B of 5.5x with a sustainable ROE of 28% and 35% retention, book value compounds at 9.8% annually. If the P/B multiple remains at 5.5x, the return just about equals the 10% hurdle rate. The critical reality is that at a 5.5x entry P/B, the stock has **virtually zero tolerance for P/B compression** — the P/B needs to stay at ~5.5x for a 10% 10-year return. Any meaningful de-rating (e.g., to 4.0x) drops the 10-year return to just 6.4%. This is the cost of buying a high-ROE business at an elevated P/B multiple."
 
 **Note on High P/B:** A 5.5x P/B looks expensive, but this is appropriate for a business earning 28% ROE — the "fair" P/B for such a business is 3.5-5.0x. At 5.5x, there is modest overvaluation on a P/B basis, meaning returns will lag the underlying ROE somewhat.
+
+*Important caveats on the BV compounding model:*
+
+*1. Buyback drag on BVPS growth: The theoretical 9.8% BV compounding rate assumes all retained earnings accrue to per-share book value. In practice, Infosys buys back shares at ~5.5x book value, meaning each ₹1 spent on buybacks only adds ~₹0.18 of BVPS per remaining share. The historical BVPS CAGR (FY2018-FY2025) was only 6.4%, not 9.8%. If Infosys continues its 85% FCF return policy including buybacks above book, actual BVPS growth will likely remain in the 6-7% range — making the projected future BVPSs in the table above optimistic by roughly 20-30%.*
+
+*2. More recent BVPS: The Sep 2025 (H1 FY26) interim balance sheet shows BVPS of ~₹250, higher than the FY2025 audited figure of ₹230 used above. At ₹250 BVPS, the current P/B is 5.0x rather than 5.5x — a more favourable entry point that provides slightly more compression tolerance. Investors should monitor the FY2026 audited BVPS for the definitive figure.*
 
 **Traffic Light Verdict:**
 
