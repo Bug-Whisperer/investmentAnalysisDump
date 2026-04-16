@@ -593,7 +593,7 @@ The current pessimism around Indian IT is pervasive and specific to the AI disru
 | FY2024 | 17.1% | 1.12 | 1.68 | 32.2% |
 | **FY2025** | **16.4%** | **1.10** | **1.61** | **29.0%** |
 
-*Note: Equity Multiplier uses average total assets / average shareholders' equity for each year, ensuring DuPont components multiply to the reported ROE. Asset Turnover similarly uses total assets (which approximates average given smooth growth).*
+*Note: Equity Multiplier is computed as closing total assets / average shareholders' equity for each year, ensuring the three DuPont components multiply to the reported ROE. Asset Turnover uses closing-year revenue / closing total assets.*
 
 **Quality Assessment:**
 
@@ -645,13 +645,13 @@ Infosys has the opposite: competence with near-zero leverage. The ROE is entirel
 
 *Important caveats on the BV compounding model:*
 
-*1. Buyback drag on BVPS growth: The theoretical 9.8% BV compounding rate assumes all retained earnings accrue to per-share book value. In practice, Infosys buys back shares at ~5.5x book value, meaning each ₹1 spent on buybacks only adds ~₹0.18 of BVPS per remaining share. The historical BVPS CAGR (FY2018-FY2025) was only 6.4%, not 9.8%. If Infosys continues its 85% FCF return policy including buybacks above book, actual BVPS growth will likely remain in the 6-7% range — making the projected future BVPSs in the table above optimistic by roughly 20-30%.*
+*1. Buyback drag on BVPS growth: The theoretical 9.8% BV compounding rate assumes all retained earnings accrue to per-share book value. In practice, Infosys buys back shares at ~5.5x book value — and buybacks above book value actually REDUCE per-share book value (each ₹1 of equity spent retires only ₹0.18 of book value in shares, creating a net ₹0.82 drag per ₹1 on remaining shareholders' BVPS). The historical BVPS CAGR (FY2018-FY2025) was only 6.4%, not 9.8%. If Infosys continues its 85% FCF return policy including buybacks above book, actual BVPS growth will likely remain in the 6-7% range — making the projected future BVPSs in the table above optimistic by roughly 30-35%.*
 
 *2. More recent BVPS: The Sep 2025 (H1 FY26) interim balance sheet shows BVPS of ~₹250, higher than the FY2025 audited figure of ₹230 used above. At ₹250 BVPS, the current P/B is 5.0x rather than 5.5x — a more favourable entry point that provides slightly more compression tolerance. Investors should monitor the FY2026 audited BVPS for the definitive figure.*
 
 **Traffic Light Verdict:**
 
-🟡 **YELLOW — 10-year return > hurdle rate only if P/B stays within 25% of current.** The entry P/B of 5.5x is at the upper end of the fair range. Returns from here depend on multiple sustaining, which in turn depends on maintaining 25%+ ROE through the AI transition.
+🟡 **YELLOW — 10-year return ≈ hurdle rate only if P/B sustains near current 5.5x.** At this entry P/B, there is virtually zero margin for multiple compression — even a mild de-rating to 4.0x drops the 10-year CAGR to 6.4%. Returns from here are entirely dependent on (a) the P/B multiple sustaining, which requires maintaining 25%+ ROE through the AI transition, and (b) BV compounding continuing at theoretical rates, which the buyback-drag caveat above suggests may be optimistic.
 
 ---
 
