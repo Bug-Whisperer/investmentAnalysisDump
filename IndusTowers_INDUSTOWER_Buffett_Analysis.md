@@ -212,7 +212,9 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | **ROA %** | ~13% | ~15% | ~18% | ~12% | ~14% | **~4%** | ~12% | **~16%** | 16.3% |
 | **ROIC %** | — | — | — | — | — | — | — | — | 24.1% |
 
-**Compounded ROE:** 10-Year: 21% | 5-Year: 25% | 3-Year: 23% | Last Year: 33%
+**Compounded ROE (per Screener):** 10-Year: 21% | 5-Year: 25% | 3-Year: 23% | Last Year: 33%
+
+> *Note:* Screener's "Return on Equity" figures are simple averages of annual ROEs, not geometric compounds. The 5-year simple average of annual ROEs (~26%, 33%, 10%, 25%, 33%) is ~25.4%, matching Screener's reported 25%. The geometric BV CAGR over FY20-FY25 is ~19% (reflecting dividend outflows in FY21-FY22 that reduced the equity base).
 
 ### Analysis
 
@@ -387,11 +389,13 @@ For every ₹1 of retained earnings, has the company created at least ₹1 of ma
 | FY21 to FY25 | Equity grew from ₹15,877 to ₹32,498 = **₹16,621 Cr retained** | Market cap grew from ~₹60,000 Cr to ~₹1,12,791 Cr = **~₹52,791 Cr** | **₹3.18 per ₹1 retained** |
 | FY23 to FY25 | Equity grew from ₹21,110 to ₹32,498 = **₹11,388 Cr retained** | Market cap grew from ~₹42,000 Cr (₹156/share Mar'23) to ~₹1,12,791 Cr = **~₹70,791 Cr** | **₹6.22 per ₹1 retained** |
 
-**Verdict: EXCEPTIONAL.** The $1 test is passed with flying colours. Every rupee retained has created ₹3-6 of market value. This is Buffett-grade capital allocation.
+> **Methodology Note:** The table above uses **change in shareholders' equity** as the proxy for retained earnings, which is the standard approach for Buffett's $1 test. However, equity change includes effects of OCI, goodwill adjustments, and other non-earnings items. Using **actual retained earnings** (cumulative Net Income minus dividends minus buybacks): FY21-FY25 actual retained ≈ ₹19,188 Cr → ₹2.75 per ₹1; FY23-FY25 actual retained ≈ ₹17,435 Cr → ₹4.06 per ₹1. Both methods comfortably pass the $1 test, confirming management has created substantial market value from retained capital.
+
+**Verdict: EXCEPTIONAL.** The $1 test is passed convincingly under both methodologies — ₹2.75-3.18 per ₹1 retained over FY21-FY25, and ₹4.06-6.22 per ₹1 over FY23-FY25. This is Buffett-grade capital allocation.
 
 ### Capital Allocation Track Record
 
-1. **Share Buyback in FY25:** The company's equity capital reduced from ₹2,695 Cr to ₹2,638 Cr, representing a reduction of 5.7 Cr shares (at ₹10 face value). Total buyback expenditure reflected in financing activities was ~₹573 Cr, though the full extent of capital return may be higher when including premium adjustments against reserves. The stock traded in the ₹313-482 range during FY25. The buyback was conducted at prices well below the current CMP of ₹427, making it accretive. Buffett would approve.
+1. **Share Buyback in FY25:** The company conducted a buyback with total expenditure of ~₹573 Cr reflected in financing activities. At the FY25 trading range of ₹313-482, this translates to approximately 1.6-1.9 Cr shares bought back. Separately, equity capital reduced from ₹2,695 Cr to ₹2,638 Cr (a ₹57 Cr or 5.7 Cr share reduction at ₹10 face value) — the reduction beyond the buyback likely reflects other equity adjustments (e.g., ESOP-related movements, post-merger adjustments). Regardless of the precise share count, the buyback was conducted at prices well below the current CMP of ₹427, making it accretive to remaining shareholders. Buffett would approve.
 
 2. **Dividend Policy:** Historically paid 100%+ dividends (sometimes more than net income). Post-FY22, shifted to zero dividends and retaining all earnings. Given the high ROIC (24%), retaining earnings to reinvest at these returns is far superior to paying dividends. This is exactly what Buffett would recommend.
 
@@ -875,7 +879,7 @@ The stock is in the middle of the Fair Value zone. It is NOT cheap enough for a 
 |---|---|---|
 | **Circle of Competence** | Tower business is simple: build tower, rent space, collect fees. Any 10-year-old can understand it. | ✅ PASS |
 | **Enduring Moat** | Strong toll-bridge moat with switching costs. Declining tenancy ratio is a concern but towers aren't going away. | ✅ PASS (with caveat) |
-| **Trustworthy Management** | $1 test passed (₹3-6 per ₹1 retained). Smart capital allocation. Transparent communication. | ✅ PASS |
+| **Trustworthy Management** | $1 test passed (₹2.75-4+ per ₹1 retained). Smart capital allocation. Transparent communication. | ✅ PASS |
 | **Resistant to Disruption** | Wireless signals need physical towers. No technological alternative visible. 5G increases demand. | ✅ PASS |
 | **Sustainable Economics for 10+ Years** | 25% ROE, 29% ROCE, 24% ROIC — all well above cost of capital. Tower infrastructure has 20-30 year useful life. | ✅ PASS |
 | **Price Significantly Below IV** | At ₹427, roughly at fair value (base case IV ₹611). Not significantly below — maybe 30% below base IV. | ⚠️ BORDERLINE |
@@ -952,7 +956,7 @@ The turnaround is DONE. Scoring the post-turnaround health:
 
 ### Buffett Verdict
 
-> **Indus Towers is a wonderful toll-bridge business** — India's largest telecom tower company with 2.6 lakh towers, generating 29% ROCE and 33% ROE from a simple "build-towers-collect-rent" model. The balance sheet has transformed from stressed (VIL receivable risk, debt-heavy post-merger) to fortress-grade (AAA-rated, no NCDs, declining leverage). Management has passed the $1 test, creating ₹3-6 of market value per ₹1 retained. The business has successfully navigated its biggest crisis (VIL receivables) and emerged stronger.
+> **Indus Towers is a wonderful toll-bridge business** — India's largest telecom tower company with 2.6 lakh towers, generating 29% ROCE and 33% ROE from a simple "build-towers-collect-rent" model. The balance sheet has transformed from stressed (VIL receivable risk, debt-heavy post-merger) to fortress-grade (AAA-rated, no NCDs, declining leverage). Management has passed the $1 test, creating ₹2.75-4+ of market value per ₹1 retained (depending on methodology). The business has successfully navigated its biggest crisis (VIL receivables) and emerged stronger.
 >
 > **However, at ₹427 (15.8x TTM PE, 3.12x P/B), the stock is in Fair Value territory** — not cheap enough for a conviction buy with a fat margin of safety, but certainly not overvalued. The ~30% upside to base case intrinsic value of ₹611 is positive but not the kind of asymmetric opportunity Buffett typically swings at.
 >
