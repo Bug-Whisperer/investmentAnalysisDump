@@ -54,7 +54,9 @@ EPack Prefab Technologies Ltd, incorporated in 1999, is India's **third-largest*
 | EPS (Reported) | ₹28.00 | ₹20.82 | ₹50.37 | ₹61.85 | ₹110.85 | ₹7.65 | ₹9.26 |
 | Dividend Payout | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
 
-*Note: Historical EPS pre-FY25 is on pre-split basis (face value ₹10, ~40 lakh shares). Stock underwent 5:1 split + 1:3 bonus, then IPO. Current shares: ~10.03 Cr.*
+*Note: Historical EPS pre-FY25 is on pre-split basis (face value ₹10, ~40 lakh shares). Stock underwent 5:1 split + 1:3 bonus, then IPO. Current shares: ~10.03 Cr.*  
+*Note on TTM EPS: Screener's TTM EPS of ₹9.26 is the sum of quarterly EPS (Q4 FY25: ₹2.58 + Q1 FY26: ₹2.07 + Q2: ₹2.93 + Q3: ₹1.68), where each quarter's EPS uses that quarter's weighted average diluted shares. Since shares increased significantly mid-year (IPO in Oct 2025), TTM NI of ₹82 Cr ÷ current 10.03 Cr shares = ₹8.18, which differs from the summed quarterly EPS of ₹9.26. The PE ratio of 19.2x throughout this analysis uses Screener's reported ₹9.26 (standard market convention for TTM EPS).*  
+*Note on PBT: Individual P&L line items are independently rounded to the nearest Crore by Screener. In some years (FY21, FY23, TTM), the sum of rounded components may differ from the rounded PBT by ₹1 Cr. The PBT figures shown are Screener's reported values.*
 
 **Compounded Growth Rates (from Screener):**
 
@@ -91,10 +93,11 @@ Net income growth (41% 5Y CAGR) is outpacing revenue growth (36% 5Y CAGR), confi
 | **Debt/Equity** | 0.44 | 0.45 | 0.75 | **0.87** | **0.89** | 0.61 | **0.32** |
 | Debt/EBITDA | 1.48 | 1.73 | **2.11** | **2.10** | 1.72 | 1.86 | — |
 | BVPS (year-end shares) | ₹192.5 | ₹212.5 | ₹255.0 | ₹315.0 | ₹422.5 | ₹44.1* | **₹68.8** |
-| Net Cash / (Net Debt) | (34) | (38) | (76) | (109) | (150) | Net Cash** | **₹184 Cr*** |
+| Net Cash / (Net Debt) | (34) | (38) | (76) | (109) | (150) | Net Cash** | Net Cash ₹184 Cr*** |
 
 *\* FY25 BVPS on post-split/bonus basis of 8 Cr shares. Sep 2025 on 10.03 Cr shares.*  
-*\*\* Post-IPO (₹300 Cr fresh issue, Sep 2025). Management confirmed net cash of ₹184 Cr as of Dec 2025.*
+*\*\* Post-IPO (₹300 Cr fresh issue, Sep 2025).*  
+*\*\*\* Net cash of ₹184 Cr is as of Dec 2025 (Q3 FY26), as confirmed by management. Placed in the Sep 2025 column for layout convenience — this is the most recent balance sheet snapshot available.*
 
 **Financial Fortress Assessment:**
 
@@ -175,13 +178,13 @@ This means reported net income is a close proxy for owner earnings (97% conversi
 | **ROCE** | — | 14% | 20% | 22% | **27%** | 24% |
 | **ROIC** | 16.2% | **13.4%** | 17.9% | 18.4% | **22.9%** | 19.1% |
 
-**5-Year Average ROE: ~22%** | **5-Year Average ROCE: ~21%** | **5-Year Average ROIC: ~18%**
+**5-Year Average ROE: ~21%** | **5-Year Average ROCE: ~21%** | **5-Year Average ROIC: ~18%**
 
-The return profile is excellent. ROE has consistently been above 20% (except the COVID-impacted FY21), ROCE at 24%, and ROIC at 19%. These are well above any reasonable cost of capital (10-12%) for an Indian industrial company.
+The return profile is excellent. ROE has been above 20% in four of the last six years (except FY20 at 14.3% and the COVID-impacted FY21 at 9.9%), ROCE at 24%, and ROIC at 19%. These are well above any reasonable cost of capital (10-12%) for an Indian industrial company.
 
 The FY24 spike to 29% ROE and 27% ROCE was partly due to higher leverage (D/E at 0.89x). Post-IPO, with the equity base nearly doubling, ROE has normalised to ~22-23% — this is the sustainable level.
 
-**ROIC Trend:** The fact that ROIC improved from 16% (FY20) to 19% (FY25) while the invested capital base expanded 4x (from ₹111 Cr to ₹569 Cr) is remarkable. It means the company is finding attractive reinvestment opportunities at scale — each new plant, each new capacity addition, earns returns at or above the existing return profile. This is the Buffett dream: high returns on capital with the ability to reinvest at those same high returns.
+**ROIC Trend:** The fact that ROIC improved from 16% (FY20) to 19% (FY25) while the invested capital base expanded ~5x (from ₹111 Cr to ₹569 Cr) is remarkable. It means the company is finding attractive reinvestment opportunities at scale — each new plant, each new capacity addition, earns returns at or above the existing return profile. This is the Buffett dream: high returns on capital with the ability to reinvest at those same high returns.
 
 > *Buffett: "The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* — EPack is doing exactly this. It is deploying large amounts of capital into capacity expansion and earning 20%+ returns on each incremental rupee.
 
@@ -591,7 +594,7 @@ The encouraging trend is that **Net Profit Margin has been steadily improving** 
 **Traffic Light Verdict:**
 
 At 2.58x entry P/B:
-- Even if P/B **halves to 1.3x** over 10 years, the 10-year CAGR is still ~11% (above hurdle rate). **🟢 GREEN — Safe entry.**
+- Even if P/B **halves to 1.3x** over 10 years, the 10-year CAGR is still ~12% (above hurdle rate). **🟢 GREEN — Safe entry.**
 - Only if P/B compresses to 1.0x (book value) over 10 years does the return dip below 10%. This would require the market to value a 20% ROE business at just 1x book — highly unlikely for a quality growth company.
 
 ---
