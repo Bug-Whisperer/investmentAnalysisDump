@@ -142,7 +142,7 @@ The real "investment" here is in people (employee costs are ~60% of operating ex
 
 > **Buffett:** *"Owner earnings represent (a) reported earnings plus (b) depreciation, depletion, amortisation, and certain other non-cash charges less (c) the average annual amount of capitalised expenditures for plant and equipment that the business requires to fully maintain its long-term competitive position."*
 
-Info Edge's owner earnings from operations are approximately ₹728 Cr, or ~₹11 per share — implying the stock trades at ~87x operating owner earnings. Expensive, but this is a toll-bridge franchise with enormous pricing power.
+Info Edge's owner earnings from operations are approximately ₹728 Cr, or ~₹11.3 per share — implying the stock trades at ~87x operating owner earnings. Expensive, but this is a toll-bridge franchise with enormous pricing power.
 
 ---
 
@@ -374,8 +374,8 @@ Info Edge is fundamentally a **holding company** — valuing it requires separat
 |---|---|---|---|
 | P/E (on TTM reported EPS ₹20.79) | ~47x | 150-200x+ | Misleading — volatile due to investment gains/losses |
 | P/B (on reported BVPS ₹750) | 1.31x | 3-5x | Looks cheap but book is inflated by investment portfolio |
-| P/E on Operating EPS (~₹11) | ~87x | 50-70x | Expensive but premium franchise |
-| P/Operating Owner Earnings (~₹11) | ~87x | — | Rich but defensible for a toll-bridge monopoly |
+| P/E on Operating EPS (~₹11.3) | ~87x | 50-70x | Expensive but premium franchise |
+| P/Operating Owner Earnings (~₹11.3) | ~87x | — | Rich but defensible for a toll-bridge monopoly |
 | EV/Operating EBITDA | ~65-70x | 40-60x | Above historical on operating metrics |
 
 ### Key Observation
@@ -431,16 +431,16 @@ The margin of safety here is thin. The investment makes sense primarily if you b
 | Input | Value |
 |---|---|
 | CMP | ₹980 |
-| Normalised Operating EPS (post-split) | ~₹11 |
+| Normalised Operating EPS (post-split) | ~₹11.3 |
 | Current PE on Operating EPS | ~87x |
 | Shares Outstanding (Diluted) | ~64.5 Cr |
 | Investment Portfolio Value Per Share (after holdco discount) | ~₹593 |
 | **Implied Price for Operating Business** | ₹980 - ₹593 - ₹62 (cash) = **₹325** |
-| **Implied PE on Operating Business** | ₹325 / ₹11 = **~30x** |
+| **Implied PE on Operating Business** | ₹325 / ₹11.3 = **~29x** |
 
 ### This Changes Everything
 
-When you strip out the investment portfolio and cash, the market is implicitly valuing the operating business at ~₹325 per share, or **~30x operating owner earnings.** This is FAR more reasonable than the headline ~87x.
+When you strip out the investment portfolio and cash, the market is implicitly valuing the operating business at ~₹325 per share, or **~29x operating owner earnings.** This is FAR more reasonable than the headline ~87x.
 
 ### Implied Growth at Different Terminal PEs
 
@@ -450,8 +450,8 @@ At the implied ₹325 per share for operations (₹21,100 Cr operating business 
 |---|---|---|
 | 25x (moderate) | 10% (hurdle) | ~12% |
 | 25x | 15% | ~17% |
-| 30x (current implied) | 10% | ~10% |
-| 30x | 15% | ~15% |
+| 29x (current implied) | 10% | ~10% |
+| 29x | 15% | ~15% |
 | 20x (compression) | 10% | ~14% |
 | 20x | 15% | ~19% |
 
@@ -464,13 +464,13 @@ At the implied ₹325 per share for operations (₹21,100 Cr operating business 
 | India nominal GDP growth | 10-12% |
 | Analyst consensus forward growth | 14-16% |
 
-**Traffic Light: 🟢 GREEN** — At the implied valuation for the operating business (~30x), the company needs ~12% EPS CAGR to deliver a 10% return over 10 years. The company has historically grown revenue at 15-17% and operating margins are expanding, so 12-15% operating EPS CAGR is well within the company's demonstrated capability. The market is NOT pricing in heroic assumptions for the operating business.
+**Traffic Light: 🟢 GREEN** — At the implied valuation for the operating business (~29x), the company needs ~10% EPS CAGR to deliver a 10% return over 10 years. The company has historically grown revenue at 15-17% and operating margins are expanding, so 12-15% operating EPS CAGR is well within the company's demonstrated capability. The market is NOT pricing in heroic assumptions for the operating business.
 
 **The risk lies in the investment portfolio** — if Zomato and PB Fintech stocks decline significantly, the total value of Info Edge declines commensurately, even if the operating business executes flawlessly.
 
 > **Buffett:** *"Price is what you pay, value is what you get."*
 
-At ₹980, you're getting a proven toll-bridge franchise growing at 15%+ (the operating business at ~30x) PLUS a world-class investment portfolio (at a ~20% holding company discount). The price isn't a screaming bargain, but it's not crazy either.
+At ₹980, you're getting a proven toll-bridge franchise growing at 15%+ (the operating business at ~29x) PLUS a world-class investment portfolio (at a ~20% holding company discount). The price isn't a screaming bargain, but it's not crazy either.
 
 ---
 
@@ -602,7 +602,7 @@ Info Edge is a wonderful 1-foot bar of a business. The question is only whether 
 
 Info Edge is a **rare Indian franchise** — a toll-bridge monopoly (Naukri) run by a visionary founder-operator (Bikhchandani) with a fortress balance sheet and a world-class investment portfolio. The operating business earns 16%+ ROE on a rising trajectory, is essentially debt-free, generates enormous free cash flow, and has a large scaling runway ahead. The investment portfolio (~₹48,000 Cr) is a free optionality call on India's startup ecosystem, built through 15 years of patient, disciplined investing.
 
-At ₹980, the stock is in the **Fair Value zone** — the market is implicitly valuing the operating business at ~30x owner earnings (reasonable for a monopoly) and the investment portfolio at a ~20% holdco discount (normal for a listed holding structure). The margin of safety is thin (~6% base case), which means this is a **HOLD for existing shareholders** and a **WATCHLIST entry for new buyers** waiting for a better price.
+At ₹980, the stock is in the **Fair Value zone** — the market is implicitly valuing the operating business at ~29x owner earnings (reasonable for a monopoly) and the investment portfolio at a ~20% holdco discount (normal for a listed holding structure). The margin of safety is thin (~6% base case), which means this is a **HOLD for existing shareholders** and a **WATCHLIST entry for new buyers** waiting for a better price.
 
 Buffett would deeply admire this business but would wait for a price where the margin of safety is fat — around ₹800-900 or a meaningful market correction. With a small capital base, he'd be prepared to make it a large position at the right price.
 
