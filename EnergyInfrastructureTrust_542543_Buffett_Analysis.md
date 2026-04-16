@@ -64,8 +64,10 @@ The InvIT is sponsored by **Brookfield Corporation (BN)** — one of the world's
 | Tax % | 32% | -9% | 0% | 0% | 0% | 0% | 10% |
 | **Net Profit** | **-95** | -209 | **-427** | 549 | 546 | **822** | 9 |
 | **EPS (₹)** | **-1.43** | -3.15 | **-6.43** | 8.27 | 8.22 | **12.38** | 0.13 |
-| Shares Outstanding (Cr) | 66.40 | 60.45 | 55.81 | 51.58 | 47.08 | 42.28 | 37.40 |
-| Shares Change YoY | — | -9.0% | -7.7% | -7.6% | -8.7% | -10.2% | -11.5% |
+| Equity Capital / Face Value (Cr)† | 66.40 | 60.45 | 55.81 | 51.58 | 47.08 | 42.28 | 37.40 |
+| Equity Capital Change YoY | — | -9.0% | -7.7% | -7.6% | -8.7% | -10.2% | -11.5% |
+
+> **†Important Note on Unit Count:** The row above shows Screener's "Equity Capital" divided by the ₹100 face value. This is **not** the number of tradeable units outstanding. The actual units outstanding remain **~66.4 Cr** throughout (confirmed by Market Cap ÷ CMP: ₹5,412 Cr ÷ ₹81.50 = 66.4 Cr). Screener's EPS also uses the constant 66.4 Cr base. The declining "Equity Capital" figure reflects the return of capital to unitholders — as EIT distributes capital, the per-unit equity capital shrinks on the books, but the number of units in circulation does not change. This distinction is critical for correctly interpreting BVPS, Owner Earnings/Unit, and other per-unit metrics throughout this document.
 
 *\*FY2019 is a partial year (listing March 2019)*
 
@@ -79,7 +81,7 @@ The income statement of an InvIT like EIT is **deeply misleading** if read like 
 
 3. **Depreciation is massive (~₹900+ Cr/year):** The pipeline was acquired for ~₹13,000 Cr and is being depreciated over its useful life. This is a **non-cash charge** that dominates the P&L and makes reported profit nearly meaningless for valuation.
 
-4. **Shrinking unit base:** Units outstanding have declined from 66.4 Cr to 37.4 Cr over FY2019-FY2025 — a 44% decline. This is because EIT returns capital to unitholders through distributions (part return of capital, part return on capital), which reduces the equity/unit capital. This is by design.
+4. **Shrinking equity capital base:** The Equity Capital line on Screener has declined from ₹6,640 Cr to ₹3,740 Cr over FY2019-FY2025 — a 44% decline. This reflects return of capital to unitholders, which reduces the per-unit equity capital on the books. The actual number of units outstanding remains constant at ~66.4 Cr.
 
 > *"Accounting consequences do not influence our operating or capital-allocation decisions. When acquisition costs are similar, we much prefer to purchase $2 of earnings that is not reportable by us under standard accounting principles than to purchase $1 of earnings that is reportable."* — Buffett
 
@@ -104,7 +106,9 @@ The income statement of an InvIT like EIT is **deeply misleading** if read like 
 | Investments | 2 | 303 | 441 | 595 | 20 | 415 | 230 | 403 |
 | Other Assets | 513 | 616 | 601 | 661 | 1,279 | 1,510 | 1,615 | 1,268 |
 | **Total Assets** | **17,405** | **17,014** | **16,367** | **15,784** | **14,919** | **14,684** | **13,660** | **13,030** |
-| Book Value/Unit (₹) | 98.6 | 87.3 | 66.8 | 61.5 | 56.8 | 59.7 | 37.2 | **13.6** |
+| Book Value/Unit (₹)† | 98.6 | 87.3 | 66.8 | 61.5 | 56.8 | 59.7 | 37.2 | **13.6** |
+
+> **†Note on BVPS:** Screener's BVPS figures for FY2019-FY2025 are calculated using the declining Equity Capital / Face Value figure as the denominator (e.g., FY2025: ₹1,390 Cr ÷ 37.40 Cr = ₹37.2). However, the H1FY26 figure of ₹13.6 (shown on Screener's summary header) uses the actual 66.4 Cr units (₹905 Cr ÷ 66.4 Cr = ₹13.6). This methodological switch originates from Screener itself. Using a consistent 66.4 Cr unit base, FY2025 BVPS would be ₹20.9 (₹1,390 ÷ 66.4), not ₹37.2. The P/B ratio of 6.0x shown in Section 11 uses the Screener-reported BVPS of ₹13.6.
 | Debt/Equity | 1.6x | 2.0x | 2.8x | 2.0x | 2.4x | 2.6x | 4.8x | 7.2x |
 | Debt/Total Assets | 60% | 62% | 64% | 41% | 43% | 44% | 48% | 50% |
 
@@ -122,7 +126,7 @@ The book value per unit has fallen from ₹98.6 to ₹13.6. This looks catastrop
 
 The balance sheet should be assessed through the lens of **debt serviceability**, not book value:
 
-- **External debt is ₹6,452 Cr in NCDs at the PIL level** — this has remained stable since FY2022 after a restructuring.
+- **External debt is ~₹6,450 Cr in NCDs at the PIL level** (per CRISIL rating rationale, March 2025: ₹6,452 Cr; Screener's Borrowings line shows ₹6,476-6,604 Cr across periods, which may include subordinated/inter-company obligations beyond the external NCDs) — this has remained broadly stable since FY2022 after a restructuring.
 - **CRISIL AAA/Stable rating** — the highest possible credit rating, reflecting excellent debt service ability.
 - **Debt-to-assets at ~48-50%** — within the 70% InvIT regulatory limit.
 - **Cashflow waterfall mechanism** ensures debt service is prioritised before distributions.
@@ -163,8 +167,8 @@ For InvITs, NDCF is the gold standard metric — it represents the cash availabl
 
 | Metric | FY2024 | 9M FY2026 |
 |---|---|---|
-| NDCF (₹ Cr) | ~1,070 (est.) | 806.24 |
-| Distributions to Unitholders (₹ Cr) | ~1,050 (est.) | 801.23 |
+| NDCF (₹ Cr) | ~1,150 (est.) | 806.24 |
+| Distributions to Unitholders (₹ Cr) | ~1,140 (est.) | 801.23 |
 | Distribution Per Unit (₹) | ~17.18 | ~12.07 (annualised ~16.09) |
 | Distribution Yield (at ₹81.50) | ~21.1% | ~19.7% (annualised) |
 
@@ -203,9 +207,11 @@ The pipeline was built and paid for. Now it just sits there earning tariff incom
 | Add: D&A (₹ Cr) | 864 | 953 | 917 | 921 | 914 |
 | Less: Maintenance CapEx (₹ Cr) | -50 | -50 | -50 | -50 | -50 |
 | **Owner Earnings (₹ Cr)** | **1,363** | **1,449** | **1,689** | **880** | **1,345** |
-| Owner Earnings/Unit (₹) | 26.4 | 30.8 | 40.0 | 23.5 | — |
+| Owner Earnings/Unit (₹)† | 20.5 | 21.8 | 25.4 | 13.3 | — |
 
-**Key Insight:** Owner Earnings are **massively** higher than reported Net Profit because depreciation (~₹900 Cr) far exceeds maintenance CapEx (~₹50 Cr). The reported EPS of ₹0.13 in FY2025 is almost meaningless — Owner Earnings per unit were ~₹23.5, which is the true economic earning power.
+> **†Note:** Owner Earnings/Unit is calculated using the constant 66.4 Cr actual units outstanding (consistent with EPS and Market Cap). For example, FY2025: ₹880 Cr ÷ 66.4 Cr = ₹13.3/unit.
+
+**Key Insight:** Owner Earnings are **massively** higher than reported Net Profit because depreciation (~₹900 Cr) far exceeds maintenance CapEx (~₹50 Cr). The reported EPS of ₹0.13 in FY2025 is almost meaningless — Owner Earnings per unit were ~₹13.3, which better reflects the true economic earning power.
 
 However, FY2025 Owner Earnings (₹880 Cr) are lower than FY2024 (₹1,689 Cr) due to accounting changes under the unified tariff structure. The NDCF (~₹1,070+ Cr annualised) is a better proxy of sustainable cash generation.
 
@@ -221,6 +227,8 @@ However, FY2025 Owner Earnings (₹880 Cr) are lower than FY2024 (₹1,689 Cr) d
 | ROE (%) | — | — | 16% | 19% | **32%** | **0.46%** |
 | ROA (%) | — | — | 3.4% | 3.6% | 5.6% | 0.1% |
 
+> *Note: ROCE and ROE figures are sourced from Screener. Screener's ROE methodology may vary between year-end and average equity across periods (e.g., FY2024 ROE of 32% approximates Net Profit / year-end equity; FY2025 ROE of 0.46% approximates Net Profit / average equity). Given how meaningless these figures are for an InvIT, this inconsistency has no practical impact on the analysis.*
+
 ROE and ROCE are **meaningless** for this entity because:
 
 1. The equity base is shrinking by design (return of capital distributions).
@@ -229,11 +237,11 @@ ROE and ROCE are **meaningless** for this entity because:
 
 ### The Right Framework: Cash Yield on Invested Capital
 
-The original acquisition cost was ~₹13,000 Cr. Current annual NDCF is ~₹1,070 Cr. That's approximately an **8.2% cash-on-cash return on the original asset**, which is healthy for a regulated, AAA-rated infrastructure asset with a guaranteed revenue floor.
+The original acquisition cost was ~₹13,000 Cr. Current annual NDCF is ~₹1,100-1,150 Cr. That's approximately an **8.5-8.8% cash-on-cash return on the original asset**, which is healthy for a regulated, AAA-rated infrastructure asset with a guaranteed revenue floor.
 
 For unitholders, what matters is:
 - **Distribution Yield at CMP:** ~18-20% (extraordinary)
-- **NDCF Yield (NDCF / Market Cap):** ₹1,070 / ₹5,412 = ~19.8%
+- **NDCF Yield (NDCF / Market Cap):** ~₹1,100 / ₹5,412 = ~20.3%
 
 > *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Buffett
 
@@ -354,7 +362,7 @@ Brookfield has been a competent, no-drama manager. They haven't tried to empire-
 
 ## 10. OPERATING METRICS — Industry-Specific KPIs
 
-| Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | 9M FY2025 | FY2026E |
+| Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | 9M FY2026 | FY2026E |
 |---|---|---|---|---|---|---|---|
 | Gas Transportation Volume (MMSCMD) | ~20 | ~17 | ~22 | ~28 | ~33 | ~35.4 | ~35-37 |
 | Pipeline Capacity (MMSCMD) | 85 | 85 | 85 | 85 | 85 | 85 | 85 |
@@ -362,7 +370,7 @@ Brookfield has been a competent, no-drama manager. They haven't tried to empire-
 | Tariff (₹/MMBTU) | 71.66 | 71.66 | 71.66 | 71.66 | 71.66 | 71.66 | **74.67** |
 | Number of Customers (GTAs) | — | — | — | — | ~40+ | ~40+ | ~40+ |
 | Pipeline Availability (%) | 99%+ | 99%+ | 99%+ | 99%+ | 99%+ | 99%+ | 99%+ |
-| NDCF (₹ Cr) | ~980 | ~1,000 | ~1,050 | ~1,020 | ~1,070 | 806 (9M) | ~1,075E |
+| NDCF (₹ Cr) | ~980 | ~1,000 | ~1,050 | ~1,020 | ~1,150 | 806 (9M) | ~1,075E |
 | Distribution/Unit (₹) | ~16.0 | ~14.0 | ~15.6 | ~16.0 | ~17.2 | ~12.1 (9M) | ~16E |
 | Debtor Days | 17 | 25 | 16 | 19 | 20 | — | 17 |
 | Working Capital Days | -15 | -143 | -158 | -1,013 | -94 | — | -57 |
@@ -370,7 +378,7 @@ Brookfield has been a competent, no-drama manager. They haven't tried to empire-
 ### Key Trends
 
 **Positive:**
-- Gas volumes have nearly doubled from ~20 MMSCMD (FY2020) to ~35 MMSCMD (9M FY2025), driven by RIL's KG-D6 production ramp-up.
+- Gas volumes have grown ~75% from ~20 MMSCMD (FY2020) to ~35 MMSCMD (9M FY2026), driven by RIL's KG-D6 production ramp-up.
 - Tariff recently revised upward to ₹74.67/MMBTU (+4.2%).
 - Pipeline availability consistently at 99%+ — excellent operational reliability.
 - Negative working capital — the business collects before it pays.
@@ -387,11 +395,11 @@ Brookfield has been a competent, no-drama manager. They haven't tried to empire-
 
 | Metric | Current | Comment |
 |---|---|---|
-| P/E Ratio | 61.1x | **Meaningless.** Accounting profit is depressed by depreciation far in excess of maintenance capex. |
+| P/E Ratio | 61.1x | **Meaningless.** Accounting profit is depressed by depreciation far in excess of maintenance capex. *(Note: 61.1x is sourced directly from Screener's summary header, which uses its own TTM EPS calculation. Using FY2025 annual EPS of ₹0.13, P/E would be ~627x; using FY2024 EPS of ₹12.38, P/E would be ~6.6x. All are misleading for an InvIT.)* |
 | P/B Ratio | 6.0x | **Misleading.** Book value declining by design due to return of capital distributions. |
 | Dividend Yield | 18.7% | **The most relevant metric.** Shows cash return to unitholders. |
-| NDCF Yield (NDCF/Market Cap) | ~19.8% | Shows cash generation relative to market value. |
-| P/Owner Earnings | ~6.0x | Based on normalised Owner Earnings of ~₹900-1,000 Cr; much more meaningful than P/E. |
+| NDCF Yield (NDCF/Market Cap) | ~20% | Shows cash generation relative to market value. |
+| P/Owner Earnings | ~4.0x | Based on 4-year average Owner Earnings of ~₹1,345 Cr from Section 5 (range: ₹880-₹1,689 Cr). Note that FY2025's ₹880 Cr was depressed by unified tariff accounting changes; the NDCF-based earning power is ~₹1,070-1,150 Cr. |
 | EV/EBITDA | — | Difficult to compute meaningfully due to the guaranteed revenue structure and InvIT pass-through. |
 
 ### The Right Valuation Framework for This InvIT
@@ -400,8 +408,8 @@ For a regulated infrastructure InvIT with a finite-life asset, the correct valua
 
 **Key Inputs:**
 - Current Distribution/Unit: ~₹15-16/year
-- Remaining Asset Life: The pipeline was commissioned in 2009 and the concession/authorization extends to ~2039 (25 years from commercial operation). This gives roughly **13 years of remaining useful life** (from 2026 to 2039).
-- After 2039: The physical asset may continue operating (pipelines last 40-60 years), but the regulatory tariff framework may change. Residual value is uncertain but not zero.
+- Remaining Asset Life: The pipeline was originally commissioned in ~2009. Brookfield acquired it in March 2019 under a 20-year Pipeline Usage Agreement (PUA) with RIL, which extends to ~2039. This gives roughly **13 years of remaining contractual life** (from 2026 to 2039). The physical pipeline itself can operate for 40-60 years, well beyond the PUA period.
+- After 2039: The physical asset may continue operating (pipelines last 40-60 years), and the PUA could be renegotiated or the regulatory tariff framework may continue independently. Residual value is uncertain but not zero.
 
 ### Historical Valuation Context
 
@@ -434,22 +442,22 @@ The stock is currently trading near its **all-time lows** (excluding COVID panic
 **Scenario 2: Base Case**
 - Annual Distribution/Unit: ₹15.50 initially, growing at 3% per year (tariff revisions + volume growth)
 - Terminal Value at Year 13: ₹10/unit (residual value of physical asset)
-- PV of growing distributions + terminal value = **₹120.8/unit**
-- Margin of Safety at ₹81.50: **(₹120.8 - ₹81.5) / ₹120.8 = 32.5%**
+- PV of growing distributions + terminal value = **₹130/unit**
+- Margin of Safety at ₹81.50: **(₹130 - ₹81.5) / ₹130 = 37.3%**
 
 **Scenario 3: Optimistic**
 - Annual Distribution/Unit: ₹17.00 initially, growing at 5% per year (strong volume ramp + tariff hikes)
 - Terminal Value at Year 13: ₹20/unit (extended asset life / reauthorization)
-- PV = **₹149.6/unit**
-- Margin of Safety at ₹81.50: **(₹149.6 - ₹81.5) / ₹149.6 = 45.5%**
+- PV = **₹160/unit**
+- Margin of Safety at ₹81.50: **(₹160 - ₹81.5) / ₹160 = 49.1%**
 
 ### Summary Table
 
 | Scenario | Distribution Assumption | Terminal Value | Intrinsic Value | Margin of Safety | Upside from CMP |
 |---|---|---|---|---|---|
 | Conservative | ₹14 flat | ₹0 | **₹99** | 18% | +21% |
-| Base Case | ₹15.5, +3%/yr | ₹10 | **₹121** | 33% | +48% |
-| Optimistic | ₹17, +5%/yr | ₹20 | **₹150** | 46% | +84% |
+| Base Case | ₹15.5, +3%/yr | ₹10 | **₹130** | 37% | +60% |
+| Optimistic | ₹17, +5%/yr | ₹20 | **₹160** | 49% | +96% |
 
 > *"Price is what you pay. Value is what you get."* — Buffett
 
@@ -477,7 +485,7 @@ At ₹81.50, the market is pricing this as if:
 
 **Let's reverse-engineer it:**
 
-If you buy at ₹81.50 and receive ₹15.25/year for 13 years with zero terminal value, your IRR is approximately **17.5%.** That's an extraordinary return for a AAA-rated asset. The market is either:
+If you buy at ₹81.50 and receive ₹15.25/year for 13 years with zero terminal value, your IRR is approximately **16.0%.** That's an extraordinary return for a AAA-rated asset. The market is either:
 (a) Not paying attention to this small, illiquid InvIT,
 (b) Pricing in a significant risk that distributions will fall, or
 (c) Applying a very high discount rate due to the declining equity base / finite asset life.
@@ -497,9 +505,9 @@ An 11% yield spread over AAA bonds for a AAA-rated entity is extremely wide. For
 
 | Test | Result | Signal |
 |---|---|---|
-| Implied return at CMP (no growth) | 17.5% IRR | 🟢 GREEN — Extraordinary |
+| Implied return at CMP (no growth) | ~16.0% IRR | 🟢 GREEN — Extraordinary |
 | Yield vs AAA bonds | 11%+ spread | 🟢 GREEN — Massively mispriced |
-| Implied distribution growth to earn 10% | Distributions can DECLINE 30%+ | 🟢 GREEN — Very conservative |
+| Implied distribution growth to earn 10% | Distributions can DECLINE ~25% and still meet hurdle | 🟢 GREEN — Very conservative |
 
 > *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* — Buffett
 
@@ -577,7 +585,7 @@ If you bought at ₹100 (IPO) and have collected ~₹95-100 in distributions, yo
 | Trustworthy management? | Brookfield — world-class infrastructure manager. | ✅ YES |
 | Resistant to technological disruption? | Gas pipelines won't be "disrupted" for decades. | ✅ YES |
 | Sustainable economics for 10+ years? | 13+ years of remaining asset life, regulated tariff, guaranteed floor. | ✅ YES |
-| Price significantly below intrinsic value? | ₹81.50 vs ₹99-150 intrinsic value range. ~19% yield on AAA. | ✅ YES |
+| Price significantly below intrinsic value? | ₹81.50 vs ₹99-160 intrinsic value range. ~19% yield on AAA. | ✅ YES |
 
 **6/6 criteria pass.**
 
@@ -631,16 +639,16 @@ The risk here is knowable and manageable. The economics are transparent. The cou
 | **Moat Durability** | 9/10 | Physical monopoly, regulatory protection, 20-year RIL contract. Nearly impossible to replicate. |
 | **Financial Health** | 8/10 | CRISIL AAA/Stable; stable debt; excellent debt service. Declining book value is by design. |
 | **Management Quality** | 8/10 | Brookfield — world-class infrastructure manager. Competent, not flashy. |
-| **Cash Flow Quality** | 9/10 | NDCF of ~₹1,070 Cr stable and predictable. Distributions consistent at ₹15-18/unit annually. |
-| **Valuation** | 9/10 | 18.7% yield on AAA asset; ~30%+ margin of safety to intrinsic value. Extraordinarily cheap. |
+| **Cash Flow Quality** | 9/10 | NDCF of ~₹1,100-1,150 Cr stable and predictable. Distributions consistent at ₹15-18/unit annually. |
+| **Valuation** | 9/10 | 18.7% yield on AAA asset; ~37% margin of safety to base-case intrinsic value. Extraordinarily cheap. |
 | **Scalability** | 6/10 | Limited by pipeline capacity and asset life. Not a growth story. |
 | **Overall Score** | **8.3/10** | |
 
 ### Buffett Verdict
 
-**Energy Infrastructure Trust is a classic Buffett "fat pitch" for income investors.** It is a simple, understandable business — a toll road for gas — with a virtually impregnable moat (sole pipeline, regulated tariff, RIL guarantee), managed by a world-class sponsor (Brookfield), carrying the highest possible credit rating (CRISIL AAA/Stable), and generating prodigious cash flows (~₹1,070 Cr/year NDCF on a ₹5,400 Cr market cap).
+**Energy Infrastructure Trust is a classic Buffett "fat pitch" for income investors.** It is a simple, understandable business — a toll road for gas — with a virtually impregnable moat (sole pipeline, regulated tariff, RIL guarantee), managed by a world-class sponsor (Brookfield), carrying the highest possible credit rating (CRISIL AAA/Stable), and generating prodigious cash flows (~₹1,100-1,150 Cr/year NDCF on a ₹5,400 Cr market cap).
 
-At ₹81.50, the stock offers an ~18.7% distribution yield, of which roughly half is tax-free return of capital. Even in the most conservative scenario (flat distributions, zero terminal value), the intrinsic value exceeds the current price. In the base case, the margin of safety is ~33%. The market appears to be mispricing this asset because: (a) it's a small, illiquid InvIT that institutional investors ignore, (b) the declining book value and near-zero EPS create optically poor screener metrics, and (c) investors don't understand the InvIT distribution model.
+At ₹81.50, the stock offers an ~18.7% distribution yield, of which roughly half is tax-free return of capital. Even in the most conservative scenario (flat distributions, zero terminal value), the intrinsic value exceeds the current price. In the base case, the margin of safety is ~37%. The market appears to be mispricing this asset because: (a) it's a small, illiquid InvIT that institutional investors ignore, (b) the declining book value and near-zero EPS create optically poor screener metrics, and (c) investors don't understand the InvIT distribution model.
 
 **This is a Strong Buy in the Deep Value zone.** Accumulate at current prices. The 18-19% yield alone exceeds any reasonable hurdle rate, and you get potential upside from gas volume growth, tariff revisions, and eventual market re-rating as InvIT awareness increases in India.
 
