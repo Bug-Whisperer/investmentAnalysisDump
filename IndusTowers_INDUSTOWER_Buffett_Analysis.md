@@ -395,7 +395,7 @@ For every ₹1 of retained earnings, has the company created at least ₹1 of ma
 
 ### Capital Allocation Track Record
 
-1. **Share Buyback in FY25:** The company conducted a buyback with total expenditure of ~₹573 Cr reflected in financing activities. At the FY25 trading range of ₹313-482, this translates to approximately 1.6-1.9 Cr shares bought back. Separately, equity capital reduced from ₹2,695 Cr to ₹2,638 Cr (a ₹57 Cr or 5.7 Cr share reduction at ₹10 face value) — the reduction beyond the buyback likely reflects other equity adjustments (e.g., ESOP-related movements, post-merger adjustments). Regardless of the precise share count, the buyback was conducted at prices well below the current CMP of ₹427, making it accretive to remaining shareholders. Buffett would approve.
+1. **Share Buyback in FY25:** The company conducted a buyback with total expenditure of ~₹573 Cr reflected in financing activities. At the FY25 trading range of ₹313-482, this translates to approximately 1.2-1.8 Cr shares bought back. Separately, equity capital reduced from ₹2,695 Cr to ₹2,638 Cr (a ₹57 Cr or 5.7 Cr share reduction at ₹10 face value) — the reduction beyond the buyback likely reflects other equity adjustments (e.g., ESOP-related movements, post-merger adjustments). Regardless of the precise share count, the buyback was conducted at prices well below the current CMP of ₹427, making it accretive to remaining shareholders. Buffett would approve.
 
 2. **Dividend Policy:** Historically paid 100%+ dividends (sometimes more than net income). Post-FY22, shifted to zero dividends and retaining all earnings. Given the high ROIC (24%), retaining earnings to reinvest at these returns is far superior to paying dividends. This is exactly what Buffett would recommend.
 
