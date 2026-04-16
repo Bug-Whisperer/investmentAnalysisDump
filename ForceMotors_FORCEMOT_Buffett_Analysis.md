@@ -133,7 +133,7 @@ The cash flow profile mirrors the P&L transformation:
 
 4. **No share dilution:** Shares outstanding have been constant at 1.318 Cr throughout the entire period. No equity raises, no buybacks, no SBC dilution.
 
-> *Buffett: "We favour businesses that drown in cash."* — Force Motors is now drowning in cash. After years of being cash-starved (FY20-22), the business now generates ₹640-810 Cr of annual FCF (₹970-1,014 Cr OCF). At a market cap of ₹26,688 Cr, that's a 2.5-3.7% FCF yield — not cheap, but the cash generation trajectory is excellent.
+> *Buffett: "We favour businesses that drown in cash."* — Force Motors is now drowning in cash. After years of being cash-starved (FY20-22), the business now generates ₹640-810 Cr of annual FCF (₹970-1,014 Cr OCF). At a market cap of ₹26,688 Cr, that's a 2.4-3.0% FCF yield — not cheap, but the cash generation trajectory is excellent.
 
 ---
 
@@ -411,7 +411,7 @@ No stock-based compensation — a positive for minority shareholders.
 | P/FCF (FY25) | 41.9x | FCF ₹637 Cr |
 | P/Owner Earnings (FY25) | 30.3x | OE ₹881 Cr |
 | Earnings Yield (TTM) | 5.1% | 1/PE(TTM) |
-| FCF Yield (normalised) | 2.5-3.7% | |
+| FCF Yield (normalised) | 2.4-3.0% | |
 | PEG Ratio | **0.59** | Stock PE 27.8 / EPS Growth 5Y 46.8% (Screener-reported) |
 | Dividend Yield | 0.20% | |
 | Price/Sales (FY25) | 3.31x | |
