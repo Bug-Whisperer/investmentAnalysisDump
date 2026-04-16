@@ -94,13 +94,13 @@ The P&L tells a classic **boom-bust commodity cycle story**:
 
 **The balance sheet has SIGNIFICANTLY strengthened over the past decade.** Debt/Equity has fallen from a dangerous **1.72x** in FY2016 to a comfortable **0.35x** in FY2025. Total borrowings have declined from ₹2,803 Cr (FY23) to ₹1,885 Cr (FY25) even as the asset base grew. The company used the supercycle profits (FY22-FY24) to aggressively deleverage — **this is exactly what Buffett would want to see.**
 
-**Book value per share** has compounded impressively: from ₹74 (FY16) to ₹319 (FY25) — a **16% CAGR** over 9 years. However, much of this was driven by the extraordinary profit years of FY22-FY24.
+**Book value per share** has compounded impressively: from ₹74 (FY16) to ₹319 (FY25) — a **~18% CAGR** over 9 years. However, much of this was driven by the extraordinary profit years of FY22-FY24.
 
 **Concerns:**
 - **Capital intensity is HIGH.** Fixed assets + CWIP stand at ₹6,356 Cr (FY25) against equity of ₹5,407 Cr. This business eats capital.
 - **CWIP of ₹356 Cr** (Sep 2025) indicates new capacity expansion — the company recently announced a ₹500 Cr hybrid solar-wind power project.
 - **Goodwill/Intangibles** — The Sirpur Paper Mills acquisition added assets but also operational complexity.
-- **Interest coverage at 2.73x** is adequate but not fortress-like.
+- **Interest coverage** on a TTM EBIT basis is ~2.7x (TTM EBIT ₹575 / TTM Interest ₹216), which is adequate but not fortress-like. On an FY25 annual basis, EBIT coverage is higher at ~4.0x (EBIT ₹705 / Interest ₹178).
 
 > *Buffett: "We like companies that have the ability to generate cash, not consume it."* JK Paper's balance sheet has improved, but it remains a capital-hungry industrial business. At 0.39x D/E, the financial fortress is reasonably strong — but the BUSINESS fortress (margin durability) is weak. The balance sheet is the source of moderate strength; the income statement is the source of vulnerability.
 
@@ -120,7 +120,7 @@ The P&L tells a classic **boom-bust commodity cycle story**:
 | Net Income (₹ Cr) | 56 | 172 | 261 | 425 | 468 | 237 | 544 | 1,208 | 1,133 | 412 |
 | OCF/Net Income | 7.2x | 3.3x | 2.1x | 2.1x | 1.2x | 2.0x | 1.4x | 1.5x | 1.2x | 1.5x |
 
-*Note: CapEx estimated from investing cash flow; FY18 had net positive investing CF likely due to asset sales. FY25 investing CF was +7 suggesting minimal net capex or asset disposals.*
+*Note: CapEx estimated from investing cash flow; FY18 had net positive investing CF likely due to asset sales. FY25 investing CF was +7 Cr (net inflow), suggesting gross capex was offset by significant asset disposals or investment redemptions; the ~₹100 Cr CapEx estimate is a rough placeholder — actual gross capex may differ.*
 
 ### Dividend & Buyback History
 
@@ -166,15 +166,15 @@ The P&L tells a classic **boom-bust commodity cycle story**:
 
 For a paper manufacturer, **maintenance capex** (keeping existing mills running at current capacity and efficiency) is typically **1.0-1.5x depreciation**. Using 1.2x depreciation as the estimate:
 
-| Metric | FY2022 | FY2023 | FY2024 | FY2025 | 5Y Avg |
+| Metric | FY2022 | FY2023 | FY2024 | FY2025 | 4Y Avg |
 |---|---|---|---|---|---|
-| Net Income (₹ Cr) | 544 | 1,208 | 1,133 | 412 | ~665 |
+| Net Income (₹ Cr) | 544 | 1,208 | 1,133 | 412 | ~824 |
 | Add: D&A (₹ Cr) | 193 | 282 | 310 | 332 | ~279 |
 | Less: Maintenance CapEx (1.2x D&A) | 232 | 338 | 372 | 398 | ~335 |
 | Less: SBC (₹ Cr) | ~Nil | ~Nil | ~Nil | ~Nil | ~Nil |
-| **= Owner Earnings (₹ Cr)** | **505** | **1,152** | **1,071** | **346** | **~609** |
-| Owner Earnings Per Share (₹) | 29.9 | 68.1 | 63.4 | 20.5 | ~36.0 |
-| Owner Earnings Margin | 12.7% | 17.9% | 16.1% | 5.2% | ~9.5% |
+| **= Owner Earnings (₹ Cr)** | **505** | **1,152** | **1,071** | **346** | **~768** |
+| Owner Earnings Per Share (₹) | 29.9 | 68.1 | 63.4 | 20.5 | ~45.3 |
+| Owner Earnings Margin | 12.7% | 17.9% | 16.1% | 5.2% | ~12.9% |
 
 ### Key Observations
 
@@ -182,11 +182,11 @@ For a paper manufacturer, **maintenance capex** (keeping existing mills running 
 
 **The critical insight:** Maintenance capex (~₹340-400 Cr) is ENORMOUS relative to current earnings. In FY25, with ₹412 Cr net income and ~₹398 Cr estimated maintenance capex, **true Owner Earnings are only ~₹346 Cr** — barely 5% of revenue. In the boom year (FY23), Owner Earnings were ₹1,152 Cr — but that level of profitability is unsustainable.
 
-**Normalised Owner Earnings (mid-cycle):** Using FY24's earnings as roughly mid-cycle, Owner Earnings of ~₹1,071 Cr translate to ~₹63/share. But if we use the 5-year average, it drops to ~₹36/share. This wide range reflects the commodity nature of the business.
+**Normalised Owner Earnings (mid-cycle):** Using FY24's earnings as roughly mid-cycle, Owner Earnings of ~₹1,071 Cr translate to ~₹63/share. But if we use the 4-year average, it drops to ~₹45/share. This wide range reflects the commodity nature of the business.
 
 > *Buffett: "Owner Earnings represent (a) reported earnings plus (b) depreciation, depletion, amortisation... minus (c) the average annual amount of capitalised expenditures for plant and equipment that the business requires to fully maintain its long-term competitive position and unit volume. Our owner-earnings equation does not yield the deceptively precise figures provided by GAAP, but we consider the owner-earnings figure to be the relevant item for valuation purposes."*
 
-The Owner Earnings analysis reveals that **reported FCF overstates the economic reality** in years when growth capex is deferred, and understates it during expansion years. On a normalised basis, JK Paper's economic earning power is ~₹500-600 Cr per year — modest for a ₹5,700 Cr market cap company.
+The Owner Earnings analysis reveals that **reported FCF overstates the economic reality** in years when growth capex is deferred, and understates it during expansion years. On a normalised basis, JK Paper's economic earning power is ~₹600-800 Cr per year — modest for a ₹5,700 Cr market cap company.
 
 ---
 
@@ -421,10 +421,12 @@ The JK Group (Hari Shankar Singhania family) is a well-established Indian busine
 |---|---|---|---|---|---|---|---|---|---|---|
 | Stock Price (approx year-end ₹) | ~55 | ~130 | ~130 | ~140 | ~170 | ~230 | ~420 | ~375 | ~350 | **336** |
 | EPS (₹) | 11.0 | 14.9 | 24.0 | 26.7 | 14.2 | 32.0 | 70.6 | 66.2 | 24.2 | 15.3 (TTM) |
-| PE Ratio | ~5.0 | ~8.7 | ~5.4 | ~5.2 | ~12.0 | ~7.2 | ~5.9 | ~5.7 | ~14.5 | **21.3** |
+| PE Ratio | ~5.0 | ~8.7 | ~5.4 | ~5.2 | ~12.0 | ~7.2 | ~5.9 | ~5.7 | ~14.5 | **21.0** |
 | Book Value/Share (₹) | 85 | 94 | 115 | 134 | 149 | 177 | 238 | 299 | 319 | **323** |
 | P/B Ratio | ~0.65 | ~1.38 | ~1.13 | ~1.04 | ~1.14 | ~1.30 | ~1.76 | ~1.25 | ~1.10 | **1.04** |
-| EV/EBITDA | — | — | — | — | — | — | ~4.0 | ~4.5 | ~5.0 | **8.16** |
+| EV/EBITDA | — | — | — | — | — | — | ~4.0 | ~4.5 | ~8.1 | **8.16** |
+
+*Note: EV/EBITDA uses Screener's convention where EBITDA = Operating Profit (which already excludes D&A). Net Debt includes all borrowings less liquid investments.*
 | Dividend Yield | 2.7% | 1.9% | 2.7% | 2.9% | 2.4% | 2.4% | 1.9% | 2.3% | 1.4% | **1.49%** |
 | Earnings Yield (1/PE) | 20% | 11.5% | 18.5% | 19.2% | 8.3% | 13.9% | 16.9% | 17.5% | 6.9% | **4.7%** |
 
@@ -432,17 +434,17 @@ The JK Group (Hari Shankar Singhania family) is a well-established Indian busine
 
 | Metric | Value | Comment |
 |---|---|---|
-| PE Ratio (TTM) | **21.3x** | Near the HIGHEST PE the stock has ever traded at |
+| PE Ratio (TTM) | **21.0x** | Near the HIGHEST PE the stock has ever traded at (Screener-reported) |
 | P/B Ratio | **1.04x** | Near BOOK VALUE — historically cheap on P/B |
-| EV/EBITDA | **8.16x** | Moderate; was 4-5x during peak earnings |
-| P/Owner Earnings (Normalised ~₹36/share) | **~9.3x** | Reasonable if normalised earnings are correct |
+| EV/EBITDA | **8.16x** | Elevated due to trough operating profit; was ~4x during peak earnings |
+| P/Owner Earnings (Normalised ~₹45/share) | **~7.5x** | Reasonable if normalised earnings are correct |
 | Industry PE | 18.2x | JK Paper trades at a PREMIUM to industry PE |
 | Industry PBV | 0.74x | JK Paper's 1.04x is ABOVE industry average |
 | FCF Yield (using FY25 est. FCF ~₹513 Cr) | ~9% | Reasonable |
 
 ### Historical Comparison & Valuation Paradox
 
-**This is a CRITICAL observation:** JK Paper appears to be in a **VALUATION PARADOX** — it looks CHEAP on P/B (1.04x, near book) but EXPENSIVE on PE (21.3x, near all-time highs). This paradox exists because:
+**This is a CRITICAL observation:** JK Paper appears to be in a **VALUATION PARADOX** — it looks CHEAP on P/B (1.04x, near book) but EXPENSIVE on PE (21x, near all-time highs). This paradox exists because:
 
 1. **Earnings are at CYCLICAL TROUGH** (TTM EPS of ₹15.3 vs. peak of ₹70.6) — so PE is inflated
 2. **Book value is at ALL-TIME HIGH** (₹323/share) — so P/B looks attractive
@@ -522,7 +524,7 @@ The JK Group (Hari Shankar Singhania family) is a well-established Indian busine
 | Conservative | ₹307 | -9% | -9% (Overvalued) |
 | **Base Case** | **₹556** | **+40%** | **+65% Upside** |
 | Optimistic | ₹893 | +62% | +166% Upside |
-| **Probability-Weighted (30/50/20)** | **~₹570** | **+41%** | **+70% Upside** |
+| **Probability-Weighted (30/50/20)** | **~₹549** | **+39%** | **+63% Upside** |
 
 **The DCF suggests the stock is roughly FAIRLY VALUED to MODERATELY UNDERVALUED at ₹336, depending heavily on where normalised earnings settle.** The conservative case (trough persists) shows slight overvaluation, while the base case shows meaningful upside. This wide range — ₹307 to ₹893 — is itself a Buffett red flag. When the intrinsic value range is this wide, the business is hard to value with confidence.
 
@@ -540,14 +542,14 @@ The JK Group (Hari Shankar Singhania family) is a well-established Indian busine
 | Current Market Price (CMP) | ₹336 | Market data (13 Mar 2026) |
 | TTM EPS (Normalised) | ₹24.2 (FY25 EPS, not TTM of ₹15.3 which includes ongoing trough quarters) | FY25 reported |
 | Current PE (on FY25 EPS) | 13.9x | CMP/FY25 EPS |
-| Normalised Mid-Cycle EPS | ~₹36 (5-year avg Owner Earnings/share) | Estimated |
-| PE on Normalised EPS | 9.3x | CMP/₹36 |
+| Normalised Mid-Cycle EPS | ~₹45 (4-year avg Owner Earnings/share) | Estimated |
+| PE on Normalised EPS | 7.5x | CMP/₹45 |
 | Shares Outstanding (Diluted) | 16.98 Cr | Latest data |
 | Historical 5Y EPS CAGR | -4% (FY20-FY25, due to cycle) | Screener |
 | Historical 10Y EPS CAGR | 41% (FY15-FY25, includes supercycle) | Screener |
 | Historical 5Y Sales CAGR | 17% | Screener |
 
-*Note: For a cyclical business, using the normalised mid-cycle EPS of ~₹36 is more meaningful than the trough TTM EPS of ₹15.3.*
+*Note: For a cyclical business, using the normalised mid-cycle EPS of ~₹45 is more meaningful than the trough TTM EPS of ₹15.3.*
 
 ### Step 2: Terminal PE Scenarios
 
@@ -566,33 +568,33 @@ The JK Group (Hari Shankar Singhania family) is a well-established Indian busine
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 17.3% EPS CAGR | 23.1% | 29.1% |
-| 10 Years | 13.4% EPS CAGR | 16.3% | 19.3% |
-| 15 Years | 11.8% EPS CAGR | 13.8% | 15.8% |
+| 5 Years | 17.5% EPS CAGR | 22.8% | 28.2% |
+| 10 Years | 13.7% EPS CAGR | 18.8% | 24.0% |
+| 15 Years | 12.4% EPS CAGR | 17.5% | 22.7% |
 
 #### At Terminal PE = 15x (Market Average)
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 8.4% EPS CAGR | 14.0% | 19.8% |
-| 10 Years | 9.8% EPS CAGR | 12.7% | 15.6% |
-| 15 Years | 9.3% EPS CAGR | 11.3% | 13.3% |
+| 5 Years | 8.3% EPS CAGR | 13.2% | 18.2% |
+| 10 Years | 9.2% EPS CAGR | 14.1% | 19.1% |
+| 15 Years | 9.4% EPS CAGR | 14.4% | 19.4% |
 
 #### At Terminal PE = 8x (Historical Average for JK Paper)
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 21.5% EPS CAGR | 27.5% | 33.7% |
-| 10 Years | 15.3% EPS CAGR | 18.3% | 21.4% |
-| 15 Years | 13.0% EPS CAGR | 15.1% | 17.1% |
+| 5 Years | 22.8% EPS CAGR | 28.4% | 34.0% |
+| 10 Years | 16.2% EPS CAGR | 21.5% | 26.8% |
+| 15 Years | 14.1% EPS CAGR | 19.3% | 24.5% |
 
 #### At Terminal PE = 20x (Compounder)
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 3.5% EPS CAGR | 8.9% | 14.6% |
-| 10 Years | 7.5% EPS CAGR | 10.4% | 13.3% |
-| 15 Years | 7.8% EPS CAGR | 9.8% | 11.8% |
+| 5 Years | 2.3% EPS CAGR | 6.9% | 11.6% |
+| 10 Years | 6.1% EPS CAGR | 10.9% | 15.7% |
+| 15 Years | 7.4% EPS CAGR | 12.2% | 17.1% |
 
 ### Step 4: Reality Check
 
@@ -609,20 +611,20 @@ The JK Group (Hari Shankar Singhania family) is a well-established Indian busine
 
 **Traffic Light Assessment:**
 
-At Terminal PE of 15x, to earn a 10% return over 10 years, the company needs ~9.8% EPS CAGR. Given India's paper industry growth of 5-7% volume + some pricing, this is **achievable but not certain.**
+At Terminal PE of 15x, to earn a 10% return over 10 years, the company needs ~9.2% EPS CAGR. Given India's paper industry growth of 5-7% volume + some pricing, this is **achievable but not certain.**
 
 | Scenario | Verdict | Signal |
 |---|---|---|
-| 10% return at 15x terminal PE (10 years) | 9.8% CAGR needed vs. ~8-12% industry growth | 🟢 GREEN — Reasonable |
-| 15% return at 15x terminal PE (10 years) | 12.7% CAGR needed | 🟡 YELLOW — Requires above-average execution |
-| 20% return at 15x terminal PE (10 years) | 15.6% CAGR needed | 🟠 ORANGE — Requires upcycle + growth |
-| 15% return at 8x terminal PE (10 years) | 18.3% CAGR needed | 🔴 RED — Unrealistic at historical multiples |
+| 10% return at 15x terminal PE (10 years) | 9.2% CAGR needed vs. ~8-12% industry growth | 🟢 GREEN — Reasonable |
+| 15% return at 15x terminal PE (10 years) | 14.1% CAGR needed | 🟡 YELLOW — Requires above-average execution |
+| 20% return at 15x terminal PE (10 years) | 19.1% CAGR needed | 🟠 ORANGE — Requires upcycle + growth |
+| 15% return at 8x terminal PE (10 years) | 21.5% CAGR needed | 🔴 RED — Unrealistic at historical multiples |
 
 ### Step 5: Verdict
 
-> "At the current price of ₹336, to earn a 10% annualised return over 10 years assuming the market values the business at 15x PE at exit, the company needs to grow EPS at ~9.8% CAGR. Given that the current EPS of ₹24 is near-trough and mid-cycle EPS is likely ₹35-45, simply returning to mid-cycle would provide 4-6% annual EPS growth before any real growth. Combined with 5-7% volume growth in Indian paper, this appears ACHIEVABLE. The market is pricing in a REASONABLE recovery — neither heroic growth nor permanent decline."
+> "At the current price of ₹336, to earn a 10% annualised return over 10 years assuming the market values the business at 15x PE at exit, the company needs to grow EPS at ~9.2% CAGR. Given that the current EPS of ₹24 is near-trough and mid-cycle EPS is likely ₹35-45, simply returning to mid-cycle would provide 4-6% annual EPS growth before any real growth. Combined with 5-7% volume growth in Indian paper, this appears ACHIEVABLE. The market is pricing in a REASONABLE recovery — neither heroic growth nor permanent decline."
 
-> However, if the market re-rates to the company's own historical average PE of ~8x (where it traded during most of FY17-FY19), the math becomes much harder. At 8x PE, you need 15%+ EPS CAGR over 10 years just to earn 10% returns — which is OPTIMISTIC for a commodity business.
+> However, if the market re-rates to the company's own historical average PE of ~8x (where it traded during most of FY17-FY19), the math becomes much harder. At 8x PE, you need 16%+ EPS CAGR over 10 years just to earn 10% returns — which is OPTIMISTIC for a commodity business.
 
 **Buffett's Napkin Test: The math is NOT obvious on a napkin.** The wide range of outcomes (from overvalued to significantly undervalued) depending on cycle assumptions means this is NOT a "no-brainer" investment. A true Buffett opportunity doesn't require you to predict commodity cycles.
 
@@ -756,7 +758,7 @@ This is a reasonably healthy pattern. The business engine (ROCE) is slightly bet
 | Current | ₹323 | Actual |
 | Year 5 | ₹590 | ₹323 × (1.128)^5 |
 | Year 7 | ₹752 | ₹323 × (1.128)^7 |
-| Year 10 | ₹1,087 | ₹323 × (1.128)^10 |
+| Year 10 | ₹1,077 | ₹323 × (1.128)^10 |
 
 *Note: This assumes ROE normalises to 15% with 85% retention — optimistic if the cycle doesn't recover.*
 
@@ -764,24 +766,24 @@ This is a reasonably healthy pattern. The business engine (ROCE) is slightly bet
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 1.04x | Multiple sustains | 11.9% | 12.2% | 12.5% |
-| P/B compresses to 0.80x | Mild de-rating | 6.7% | 8.4% | 9.8% |
-| P/B compresses to 0.65x | Historical trough | 1.3% | 4.8% | 7.2% |
-| P/B at 1.30x | Fair value for 15% ROE | 17.4% | 15.9% | 15.3% |
-| P/B at 1.50x | Modest premium for good execution | 21.2% | 18.5% | 17.2% |
-| P/B at 1.00x Book | Flat at book | 11.0% | 11.6% | 12.2% |
+| P/B stays at 1.04x | Multiple sustains | 12.8% | 12.8% | 12.8% |
+| P/B compresses to 0.80x | Mild de-rating | 7.0% | 8.6% | 9.9% |
+| P/B compresses to 0.65x | Historical trough | 2.7% | 5.5% | 7.6% |
+| P/B at 1.30x | Fair value for 15% ROE | 17.9% | 16.4% | 15.3% |
+| P/B at 1.50x | Modest premium for good execution | 21.4% | 18.9% | 17.0% |
+| P/B at 1.00x Book | Flat at book | 11.9% | 12.2% | 12.4% |
 
 ### Key Insight
 
-> "At the current entry P/B of 1.04x with a sustainable mid-cycle ROE of ~15% and 85% retention, book value compounds at ~12.8% annually. If the P/B multiple remains at 1.04x, the return equals ~12.5% over 10 years. The stock can tolerate P/B compression from 1.04x down to approximately 0.80x before the 10-year return drops below the 10% hurdle rate."
+> "At the current entry P/B of 1.04x with a sustainable mid-cycle ROE of ~15% and 85% retention, book value compounds at ~12.8% annually. If the P/B multiple remains at 1.04x, the return equals ~12.8% over 10 years. The stock can tolerate P/B compression from 1.04x down to approximately 0.80x before the 10-year return drops below the 10% hurdle rate."
 
 ### Traffic Light Verdict
 
 | Condition | Assessment | Signal |
 |---|---|---|
-| 10-year return > 10% even if P/B halves (to 0.52x) | ~4.5% return — FAILS hurdle | 🟡 YELLOW |
+| 10-year return > 10% even if P/B halves (to 0.52x) | ~5.2% return — FAILS hurdle | 🟡 YELLOW |
 | 10-year return > 10% if P/B compresses 25% (to 0.78x) | ~9.6% — Borderline | 🟡 YELLOW |
-| 10-year return > 10% if P/B stays at current | ~12.5% — PASSES | 🟢 GREEN |
+| 10-year return > 10% if P/B stays at current | ~12.8% — PASSES | 🟢 GREEN |
 
 **Assessment: 🟡 YELLOW — The entry price is reasonable but NOT bullet-proof.** If the business delivers 15% ROE on average AND the P/B stays above 0.80x, returns will be satisfactory. If ROE stays at 7-10% (trough), book value compounds at only 6-9% and returns will be mediocre.
 
@@ -791,13 +793,13 @@ This is a reasonably healthy pattern. The business engine (ROCE) is slightly bet
 
 ## 15. BUY ZONE DEFINITION
 
-| Zone | P/B Range | Price Range (BVPS ₹323) | PE Range (on normalised ₹36 EPS) | Rationale |
+| Zone | P/B Range | Price Range (BVPS ₹323) | PE Range (on normalised ₹45 EPS) | Rationale |
 |---|---|---|---|---|
-| **Deep Value / Strong Buy** | <0.70x Book | **<₹226** | <6.3x | Priced for permanent decline; exceptional margin of safety |
-| **Value / Buy** | 0.70-0.90x Book | **₹226-₹291** | 6.3-8.1x | Below fair value; attractive risk-reward for cyclical recovery |
-| **Fair Value / Hold** | 0.90-1.20x Book | **₹291-₹388** | 8.1-10.8x | Fairly priced; hold for compounding if owned |
-| **Fully Valued / Trim** | 1.20-1.60x Book | **₹388-₹517** | 10.8-14.4x | Above fair value; limited upside unless cycle booms |
-| **Overvalued / Sell** | >1.60x Book | **>₹517** | >14.4x | Priced for peak cycle; sell/avoid |
+| **Deep Value / Strong Buy** | <0.70x Book | **<₹226** | <5.0x | Priced for permanent decline; exceptional margin of safety |
+| **Value / Buy** | 0.70-0.90x Book | **₹226-₹291** | 5.0-6.5x | Below fair value; attractive risk-reward for cyclical recovery |
+| **Fair Value / Hold** | 0.90-1.20x Book | **₹291-₹388** | 6.5-8.6x | Fairly priced; hold for compounding if owned |
+| **Fully Valued / Trim** | 1.20-1.60x Book | **₹388-₹517** | 8.6-11.5x | Above fair value; limited upside unless cycle booms |
+| **Overvalued / Sell** | >1.60x Book | **>₹517** | >11.5x | Priced for peak cycle; sell/avoid |
 
 ### Current Position: ₹336 = 1.04x Book = **FAIR VALUE / HOLD ZONE**
 
