@@ -59,7 +59,7 @@ However, there is a **significant caveat**: the company has a large treasury/inv
 
 **Operating margins have improved structurally** from the disastrous FY16-FY19 period (negative to breakeven) to a much healthier 14-19% range in FY23-FY25/TTM. This suggests the company has gained some pricing power or moved up the value chain.
 
-**The elephant in the room is "Other Income."** In FY24, other income was ₹67 Cr against ₹134 Cr in sales. In FY25, it ballooned to ₹105 Cr against ₹152 Cr in sales. This means **more than 40% of PBT in FY24 and over 80% of PBT in FY25 came from non-operating income** (investment gains, treasury). This massively distorts profitability metrics. The reported net profit of ₹92 Cr in FY25 is NOT representative of the core conveyor belt business. Stripping out other income and adjusting for tax, core operating earnings are far more modest.
+**The elephant in the room is "Other Income."** In FY24, other income was ₹67 Cr against ₹134 Cr in sales. In FY25, it ballooned to ₹105 Cr against ₹152 Cr in sales. This means **nearly 87% of PBT in FY24 (₹67 Cr other income vs. ₹77 Cr PBT) and over 90% of PBT in FY25 (₹105 Cr vs. ₹116 Cr PBT) came from non-operating income** (investment gains, treasury). This massively distorts profitability metrics. The reported net profit of ₹92 Cr in FY25 is NOT representative of the core conveyor belt business. Stripping out other income and adjusting for tax, core operating earnings are far more modest.
 
 **EPS growth has been extraordinary** (from -₹1.10 in FY18 to ₹14.47 in FY25), but this is driven almost entirely by the investment portfolio, not by the core manufacturing business scaling up.
 
@@ -90,13 +90,13 @@ However, there is a **significant caveat**: the company has a large treasury/inv
 
 ### Key Observations
 
-**1. The balance sheet IS a financial fortress — but in an unusual way.** The company has a current ratio of 3.52, quick ratio of 3.32, debt-to-equity of just 0.30, and interest coverage of 12x. These are very comfortable levels.
+**1. The balance sheet IS a financial fortress — but in an unusual way.** The company has a current ratio of 3.52, quick ratio of 3.32, debt-to-equity of just 0.24 (FY25), and interest coverage of 12x. These are very comfortable levels.
 
 **2. Investments dominate the asset base.** At ₹299 Cr, investments represent **59% of total assets** as of FY25, compared to just ₹14 Cr in fixed assets (3% of total assets). This is extraordinary for a "manufacturing" company. ICL's balance sheet looks more like an investment company that happens to own a conveyor belt factory.
 
 **3. Fixed assets have been declining steadily** — from ₹28 Cr in FY14 to ₹14 Cr in FY25, with zero CWIP. The company is NOT investing in expanding its manufacturing capacity. Depreciation (₹2 Cr/year) roughly equals or exceeds any new capex.
 
-**4. Debt is manageable but volatile.** It spiked to ₹125 Cr in FY24 (likely to fund investments) and came back down to ₹86 Cr in FY25. At a D/E of 0.30, this is comfortable.
+**4. Debt is manageable but volatile.** It spiked to ₹125 Cr in FY24 (likely to fund investments) and came back down to ₹86 Cr in FY25. At a D/E of 0.24, this is comfortable.
 
 **5. Shareholders' equity has compounded nicely** — from ₹78 Cr in FY14 to ₹361 Cr in FY25, a CAGR of ~15%. Book value per share has grown from ~₹11 to ~₹56, a CAGR of ~16%.
 
@@ -106,6 +106,8 @@ However, there is a **significant caveat**: the company has a large treasury/inv
 - FY25: Investments ₹299 Cr + Other Assets (est. cash portion) vs. Debt ₹86 Cr
 - The company is effectively in a **net cash-positive position** by a wide margin when investments are considered.
 - Tangible Book Value Per Share ≈ ₹56 (no goodwill on the balance sheet)
+
+> **Note on BVPS:** The FY25 annual BVPS is ~₹56.4 (₹361 Cr equity / ~6.4 Cr shares). Screener's displayed "Book Value ₹61.4" reflects the more recent Sep 2025 (H1 FY26) interim balance sheet, where equity rose to ~₹391 Cr. Both figures are correct for their respective periods. Sections 11-15 use Screener's latest ₹61.4 for P/B analysis to reflect the most current available data.
 
 ---
 
@@ -193,7 +195,7 @@ At the current market cap of ₹465 Cr, you are paying:
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | ROE % | ~6% | **-4%** | **-6%** | ~2% | -5% | -4% | ~5% | ~11% | ~9% | ~13% | ~25% | **~26%** |
-| ROA % | ~3% | -2% | **-3%** | ~2% | -3% | -2% | ~3% | ~8% | ~6% | ~9% | ~19% | **~18%** |
+| ROA % | ~3% | -2% | **-3%** | ~2% | -3% | -2% | ~3% | ~8% | ~5% | ~9% | ~14% | **~18%** |
 | ROCE % | 11% | 3% | **0%** | 7% | **1%** | 3% | 7% | 14% | 14% | 16% | 24% | **27%** |
 | ROIC % | — | — | — | — | — | — | — | — | — | — | — | **103%** |
 
@@ -423,12 +425,12 @@ Management is competent but NOT an exceptional capital allocator. The promoter h
 | P/B Ratio | **1.18x** | Slightly above book; near industry median |
 | Industry PE | 27.6x | ICL at massive discount to peers |
 | Industry PBV | 3.13x | ICL at massive discount to peers |
-| EV/EBITDA | **5.64x** | Cheap on headline basis |
-| P/FCF (on ₹15 Cr CFO) | **~31x** | Expensive on cash flow basis |
-| PEG Ratio | **0.08** | Extremely low (59% profit CAGR vs 6x PE) |
+| EV/EBITDA | **5.64x** | Screener's figure; note Screener's EBITDA definition includes other income in its calculation, making this lower than the ~16-24x implied by the document's core EBITDA of ₹23-34 Cr |
+| P/CFO (on ₹15 Cr CFO) | **~31x** | Expensive on cash flow basis |
+| PEG Ratio | **0.10** | Low (59% profit CAGR vs 6x PE; Screener methodology) |
 | Earnings Yield (1/PE) | **16.7%** | Very high on reported earnings |
 | Dividend Yield | **1.04%** | Low; company retaining most earnings |
-| Book Value Per Share | **₹61.4** | CMP ₹72.4 is 1.18x book |
+| Book Value Per Share | **₹61.4** | Screener's latest (includes Sep 2025 H1 FY26 interim data); FY25 annual BVPS is ~₹56.4 (₹361 Cr equity / ~6.4 Cr shares) |
 
 ### Historical PE Context
 
@@ -507,12 +509,12 @@ Given the hybrid nature (manufacturing + investments), I'll value the core busin
 |---|---|---|---|
 | 1-5 | 28.0, 31.4, 35.1, 39.4, 44.1 | — | ₹131 Cr |
 | 6-10 | 47.6, 51.4, 55.5, 59.9, 64.7 | — | ₹133 Cr |
-| Terminal Value | 64.7 × (1.05)/(0.10-0.05) = ₹1359 Cr | PV = ₹462 Cr | ₹462 Cr |
-| **PV of Core Business** | | | **₹726 Cr** |
+| Terminal Value | 64.7 × (1.05)/(0.10-0.05) = ₹1359 Cr | PV = ₹524 Cr | ₹524 Cr |
+| **PV of Core Business** | | | **₹788 Cr** |
 | Add: Investment Portfolio | | | ₹299 Cr |
 | Less: Debt | | | -₹86 Cr |
-| **Equity Value** | | | **₹939 Cr** |
-| **Per Share** | | | **₹147** |
+| **Equity Value** | | | **₹1,001 Cr** |
+| **Per Share** | | | **₹156** |
 
 ### Summary Table
 
@@ -520,7 +522,7 @@ Given the hybrid nature (manufacturing + investments), I'll value the core busin
 |---|---|---|---|---|
 | **Conservative** | **₹65** | ₹72.4 | **-11% (overvalued)** | -10% downside |
 | **Base** | **₹92** | ₹72.4 | **21% margin** | +27% upside |
-| **Optimistic** | **₹147** | ₹72.4 | **51% margin** | +103% upside |
+| **Optimistic** | **₹156** | ₹72.4 | **54% margin** | +116% upside |
 
 **The base case intrinsic value of ~₹92 provides a ~21% margin of safety at the current price of ₹72.4.** This is reasonable but not deeply discounted.
 
@@ -540,7 +542,7 @@ Given the hybrid nature (manufacturing + investments), I'll value the core busin
 | Current PE (on Reported EPS) | 5.9x | Calculated |
 | Current PE (on Normalised EPS) | 19.3x | Calculated |
 | Shares Outstanding (Diluted) | ~6.4 Cr | Latest data |
-| Historical 5Y EPS CAGR | ~59% | Screener (inflated by investment income) |
+| Historical 5Y EPS CAGR | ~59% | Screener's compounded profit growth figure (Screener's methodology may differ from simple point-to-point CAGR, which yields ~73% from EPS of ₹0.94 to ₹14.47) |
 | Historical 5Y Core EPS CAGR | ~15-20% (est.) | Stripping other income |
 
 **Note:** Since reported EPS includes massive investment income, I'll run the reverse DCF on BOTH reported and normalised EPS.
@@ -560,25 +562,25 @@ Given the hybrid nature (manufacturing + investments), I'll value the core busin
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **-3%** EPS CAGR needed | 4% | 11% |
-| 10 Years | 2% EPS CAGR needed | 5% | 8% |
-| 15 Years | 3% EPS CAGR needed | 5% | 7% |
+| 5 Years | **-4%** EPS CAGR needed | 0% | 4% |
+| 10 Years | 3% EPS CAGR needed | 7% | 12% |
+| 15 Years | 5% EPS CAGR needed | 10% | 15% |
 
 #### At Terminal PE = 18x (Market Avg)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **-10%** EPS CAGR needed | -3% | 3% |
-| 10 Years | **-2%** EPS CAGR needed | 1% | 4% |
-| 15 Years | 0% EPS CAGR needed | 2% | 4% |
+| 5 Years | **-12%** EPS CAGR needed | -8% | -4% |
+| 10 Years | **-2%** EPS CAGR needed | 3% | 7% |
+| 15 Years | 2% EPS CAGR needed | 7% | 11% |
 
 #### At Terminal PE = 10x (Historical Avg)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 1% EPS CAGR needed | 8% | 15% |
-| 10 Years | 4% EPS CAGR needed | 7% | 10% |
-| 15 Years | 4% EPS CAGR needed | 6% | 8% |
+| 5 Years | -1% EPS CAGR needed | 4% | 8% |
+| 10 Years | 4% EPS CAGR needed | 9% | 14% |
+| 15 Years | 6% EPS CAGR needed | 11% | 16% |
 
 ### Step 4: Reality Check
 
@@ -592,14 +594,14 @@ The math is remarkably forgiving. At the current PE of just 6x, the company need
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 15% core EPS CAGR needed | 23% | 30% |
-| 10 Years | 11% core EPS CAGR needed | 14% | 17% |
+| 5 Years | 16% core EPS CAGR needed | 21% | 26% |
+| 10 Years | 13% core EPS CAGR needed | 18% | 23% |
 
-These are more demanding — the core business would need to grow EPS at 11-15% CAGR for a decade to justify the price. Given 5Y sales CAGR of only 9%, this requires either significant margin expansion or revenue acceleration.
+These are more demanding — the core business would need to grow EPS at 13-16% CAGR for a decade to justify the price. Given 5Y sales CAGR of only 9%, this requires either significant margin expansion or revenue acceleration.
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹72.4, to earn a 10% annualised return over 10 years assuming the market values the business at 12x reported PE at exit, the company needs to grow reported EPS at just 2% CAGR. The company has historically grown reported EPS at 59% CAGR (5Y) though this is unsustainable. On CORE earnings, the required growth is ~11% CAGR. This implies **the market is pricing in very modest expectations on a reported basis — making the valuation appear cheap — but on core operating earnings, the expectations are moderate to demanding.**"
+> "At the current price of ₹72.4, to earn a 10% annualised return over 10 years assuming the market values the business at 12x reported PE at exit, the company needs to grow reported EPS at just 3% CAGR. The company has historically grown reported EPS at ~59% CAGR (5Y, per Screener) though this is unsustainable and inflated by investment income. On CORE earnings, the required growth is ~13% CAGR. This implies **the market is pricing in very modest expectations on a reported basis — making the valuation appear cheap — but on core operating earnings, the expectations are moderate to demanding.**"
 
 ### Traffic Light:
 
@@ -628,9 +630,9 @@ The key question is: **what are you actually buying?** If you're buying the inve
 | Upside Scenario | Valuation Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
 | Base Case | DCF-based SOTP ₹92/share | ₹92 | **+27%** |
-| Bull Case | Optimistic DCF ₹147/share | ₹147 | **+103%** |
+| Bull Case | Optimistic DCF ₹156/share | ₹156 | **+116%** |
 | Re-rating Catalyst | If PE re-rates to 12-15x reported EPS | ₹146-183 | **+102-153%** |
-| Scaling Multiplier | If Australia expansion works + coal demand stays strong | ₹120-150 | **+66-107%** |
+| Scaling Multiplier | If Australia expansion works + coal demand stays strong | ₹120-156 | **+66-116%** |
 
 #### Part 3: Asymmetry Ratio
 
@@ -685,6 +687,8 @@ This is in the **1:1 to 2:1 range — Marginal pitch.** The upside roughly equal
 | FY24 | 46.3% | 0.31x | 1.61x | ~23% |
 | FY25 | 60.5% | 0.30x | 1.41x | ~26% |
 
+> **Note on ROE convention:** The DuPont product above uses closing equity (year-end Total Assets / year-end Equity). Section 6 ROE figures use a blend of closing and average equity across years, which can create small discrepancies (e.g., FY22 DuPont gives ~7% vs. Section 6's ~9% which reflects average equity). Screener's aggregate ROE figures (10Y: 12%, 5Y: 18%, 3Y: 22%, Last Year: 26%) are consistent with Section 6.
+
 **Key Insights:**
 
 1. **Net Profit Margin has surged from 6% to 61%** — but this is entirely driven by "other income" (investment gains), not improving operating margins. The core operating margin has been stable at 10-16%.
@@ -720,7 +724,7 @@ ROCE and ROE are broadly aligned, suggesting the returns are not heavily leverag
 
 | Input | Value |
 |---|---|
-| Current BVPS | ₹61.4 |
+| Current BVPS | ₹61.4 (Screener's latest, reflecting Sep 2025 H1 FY26 interim equity of ~₹391 Cr; FY25 annual BVPS is ~₹56.4) |
 | CMP | ₹72.4 |
 | Current P/B | 1.18x |
 | Sustainable ROE (reported, blended) | ~20% (normalising for investment income cycles) |
@@ -832,7 +836,7 @@ It is near the boundary of the Value / Buy zone. A dip to ₹65 or below would p
 
 **However, if Buffett were working with a very small capital base**, he might find this interesting as a **special situation / asset play:**
 
-- You're buying ₹465 Cr of assets (₹361 Cr equity, ₹299 Cr in investments, ₹14 Cr in factory) for ₹465 Cr market cap.
+- You're buying a company with ₹508 Cr in total assets (including ₹299 Cr in investments and ₹14 Cr in factory assets), backed by ₹361 Cr in shareholders' equity, for a market cap of ₹465 Cr.
 - The investment portfolio alone is worth ₹299 Cr (64% of market cap).
 - You get a cash-generating niche manufacturing business essentially for free.
 - Book value is compounding at 15-19% per year.
