@@ -160,7 +160,7 @@ The reported ROE of ~1% is **deeply misleading** and does NOT reflect the qualit
 
 1. **The equity base is enormously inflated by the investment portfolio.** Shareholders' equity is ₹48,610 Cr (Sep 2025), but ~₹45,000 Cr of that is the market value of investments in Zomato, PB Fintech, and other startups. The OPERATING equity of the classifieds business is perhaps ₹3,000-4,000 Cr.
 
-2. **Return on OPERATING capital is spectacular.** If we look at the standalone Naukri business: it generates ~₹700+ Cr of operating profit on perhaps ₹2,500-3,500 Cr of operating capital employed. That's a **25-35% pre-tax ROCE on the operating business** — elite by any standard. After tax (at ~25%), this translates to the ~18-19% ROIC shown in the table below.
+2. **Return on OPERATING capital is spectacular.** If we look at the standalone Naukri business: it generates ~₹874 Cr of operating profit on perhaps ₹2,500-3,500 Cr of operating capital employed. That's a **25-35% pre-tax ROCE on the operating business** — elite by any standard. The table below estimates after-tax ROIC at ~18-19% using the upper end of the capital range (₹3,000-3,500 Cr); at the lower end (₹2,500 Cr), after-tax ROIC would be ~26%.
 
 3. **The consolidated numbers are polluted by**: (a) fair value swings on investments hitting P&L, (b) losses from subsidiary businesses (now reducing), and (c) a massive equity base that includes unrealised investment gains.
 
