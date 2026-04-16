@@ -73,7 +73,7 @@ However, GHCL has an interesting twist: it sits on an **enormous land bank** (35
 | EBITDA (Op Profit + D&A) | 208 | 211 | 198 | 73 | **-51** | **-46** | 136 | 255 | 631 | **786** | 575 |
 | EBITDA Margin % | 65% | 53% | 40% | 28% | **-19%** | **-27%** | 36% | 41% | 71% | **82%** | 86% |
 
-*Note: Share count changed — Equity Capital went from ₹49 Cr (face value ₹10) to ₹83 Cr around FY2022, suggesting a bonus issue or preferential allotment. Promoter holding jumped from 54.36% to 73.06% around the same period.*
+*Note: Share count changed — Equity Capital went from ₹49 Cr (face value ₹10) to ₹83 Cr around FY2022, suggesting a bonus issue or preferential allotment. Promoter holding jumped from 54.36% to 73.06% around the same period. The shares outstanding figures for FY2016-FY2021 shown above are derived from Equity Capital / Face Value (~4.9 Cr). However, Screener's EPS and BV/share calculations for some of these years imply a higher share count (~5.3 Cr), possibly reflecting diluted/weighted average shares or other adjustments in Screener's methodology. EPS and BV/share figures throughout this analysis are sourced directly from Screener.*
 
 ### Trend Narrative — This Is EXTRAORDINARY
 
@@ -93,6 +93,8 @@ However, GHCL has an interesting twist: it sits on an **enormous land bank** (35
 **This is essentially a one-time margin windfall from the gap between historical land acquisition cost and current market prices.** The question is: how long can this last? As the old land bank is monetised and new land is acquired at CURRENT prices, margins will inevitably normalise. **The 85% margin is NOT sustainable in the long run.**
 
 The **TTM revenue of ₹668 Cr vs. FY2025's ₹959 Cr** shows a significant decline already (-30%), suggesting the extraordinary FY24-25 monetisation period may be tapering.
+
+*Note on TTM decline figures: The -30% figure compares TTM revenue (₹668 Cr) to the prior full fiscal year FY2025 (₹959 Cr). Screener reports TTM Sales Growth as -32%, which compares the latest four quarters to the PRIOR four quarters (₹667 Cr vs ₹985 Cr). Both are valid — the -32% YoY comparison (used elsewhere in this analysis per Screener) captures the steeper decline against the peak quarters.*
 
 > **Buffett:** *"The investor of today does not profit from yesterday's growth."* The explosive growth of FY22-25 was driven by one-time land bank monetisation at extraordinary margins. The question is whether normalised future earnings justify the current price — not whether the past was spectacular.
 
@@ -118,15 +120,15 @@ The **TTM revenue of ₹668 Cr vs. FY2025's ₹959 Cr** shows a significant decl
 
 ### Key Balance Sheet Metrics
 
-| Metric | Mar 2016 | Mar 2017 | Mar 2018 | Mar 2019 | Mar 2020 | Mar 2021 | Mar 2022 | Mar 2023 | Mar 2024 | Mar 2025 |
-|---|---|---|---|---|---|---|---|---|---|
-| Debt/Equity | 0.76 | **0.90** | 0.80 | 0.89 | 0.85 | 0.81 | 0.18 | 0.27 | 0.19 | **0.03** |
-| Current Ratio | — | — | — | — | — | — | — | — | — | **4.26** |
-| Quick Ratio | — | — | — | — | — | — | — | — | — | 3.07 |
-| Interest Coverage | — | — | — | — | — | — | — | — | — | **144x** |
-| Book Value Per Share (₹) | ~141 | ~160 | ~168 | ~141 | ~118 | **~95** | ~95 | ~106 | ~159 | **~220** | 
+| Metric | Mar 2016 | Mar 2017 | Mar 2018 | Mar 2019 | Mar 2020 | Mar 2021 | Mar 2022 | Mar 2023 | Mar 2024 | Mar 2025 | Sep 2025 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Debt/Equity | 0.76 | **0.90** | 0.80 | 0.89 | 0.85 | 0.81 | 0.18 | 0.27 | 0.19 | 0.14 | **0.03** |
+| Current Ratio | — | — | — | — | — | — | — | — | — | **4.26** | — |
+| Quick Ratio | — | — | — | — | — | — | — | — | — | 3.07 | — |
+| Interest Coverage (EBITDA/Interest) | — | — | — | — | — | — | — | — | — | **195x** | 144x (TTM) |
+| Book Value Per Share (₹) | ~141 | ~160 | ~168 | ~141 | ~118 | **~95** | ~95 | ~106 | ~159 | **~220** | **~266** |
 
-*Note: BV/Share = Shareholders' Equity / Total Shares. Screener reports ₹266 as current book value, which likely includes Sep 2025 half-year retained earnings (₹2,216 Cr / 8.34 Cr shares = ₹266).*
+*Note: BV/Share = Shareholders' Equity / Total Shares. Screener reports ₹266 as current book value, reflecting Sep 2025 half-year retained earnings (₹2,216 Cr / 8.34 Cr shares = ₹266). The dramatic deleveraging from D/E 0.14 (Mar 2025) to 0.03 (Sep 2025) reflects borrowings falling from ₹248 Cr to ₹77 Cr over H1 FY2026.*
 
 ### Buffett's Financial Fortress Assessment
 
@@ -135,8 +137,8 @@ The **TTM revenue of ₹668 Cr vs. FY2025's ₹959 Cr** shows a significant decl
 **The Debt Story:**
 - **FY2016-2019:** Borrowings ranged ₹600-764 Cr, with D/E of 0.76-0.90x. The company was HEAVILY leveraged for a developer — dangerous in a downturn.
 - **FY2020-2021:** The consequences played out. Revenues collapsed, but debt servicing continued. The company lost money. Equity eroded from ₹889 Cr to ₹502 Cr. **This was a near-death experience.**
-- **FY2022 onwards:** A remarkable deleveraging. Borrowings dropped from ₹533 Cr to ₹77 Cr (Sep 2025). D/E collapsed from 0.85x to **0.03x**. The company is now **virtually debt-free.**
-- **Interest coverage of 144x** means interest is now irrelevant to the P&L. Interest expense dropped from ₹101 Cr (FY2018) to just ₹4 Cr (FY2025).
+- **FY2022 onwards:** A remarkable deleveraging. Borrowings dropped from ₹533 Cr to ₹248 Cr (Mar 2025) and further to just ₹77 Cr (Sep 2025). D/E collapsed from 0.85x to 0.14x by Mar 2025 and **0.03x** by Sep 2025. The company is now **virtually debt-free.**
+- **Interest coverage of 195x** (FY2025 EBITDA/Interest) means interest is now irrelevant to the P&L. Interest expense dropped from ₹101 Cr (FY2018) to just ₹4 Cr (FY2025).
 
 **The Asset Quality:**
 - **"Other Assets" of ₹1,543 Cr (FY2025)** — this is overwhelmingly **inventory (land bank and work-in-progress projects)** and **trade receivables**. For a developer, this IS the business — the land and projects under development.
@@ -146,7 +148,7 @@ The **TTM revenue of ₹668 Cr vs. FY2025's ₹959 Cr** shows a significant decl
 
 **Is This a Financial Fortress?**
 
-**EMPHATICALLY YES — at this moment.** D/E of 0.03x, current ratio of 4.26x, interest coverage of 144x, no pledged shares, and a land bank on the balance sheet at historical cost (meaning real asset value is likely MUCH higher than book). This is one of the strongest balance sheets I've seen in Indian real estate.
+**EMPHATICALLY YES — at this moment.** D/E of 0.14x as of Mar 2025 (falling to 0.03x by Sep 2025), current ratio of 4.26x, interest coverage of 195x, no pledged shares, and a land bank on the balance sheet at historical cost (meaning real asset value is likely MUCH higher than book). This is one of the strongest balance sheets I've seen in Indian real estate.
 
 > **Buffett:** *"We will reject interesting opportunities rather than over-leverage our balance sheet."* GHCL went FROM a leveraged, vulnerable position (FY2018-2021) TO a fortress (FY2025). The management learned the lesson of 2019-2021 and delevered aggressively. This is EXACTLY the pattern Buffett respects — a management that learned from pain and built a fortress.
 
@@ -202,7 +204,7 @@ The **TTM revenue of ₹668 Cr vs. FY2025's ₹959 Cr** shows a significant decl
 
 **No buybacks have been conducted.** At current prices, buybacks would be interesting if the stock remains below intrinsic value.
 
-> **Buffett:** *"Do not take yearly results too seriously. Instead, focus on four- or five-year averages."* For real estate developers, this is especially true. GHCL's 5-year average CFO (FY2021-2025) is ~₹252 Cr per year. 5-year average Net Profit (same period) is ~₹233 Cr. The cash conversion is adequate at ~1.08x — meaning the business DOES convert profits to cash, just with significant year-to-year variability.
+> **Buffett:** *"Do not take yearly results too seriously. Instead, focus on four- or five-year averages."* For real estate developers, this is especially true. GHCL's 5-year average CFO (FY2021-2025) is ~₹252 Cr per year. 5-year average Net Profit (same period) is ~₹225 Cr. The cash conversion is adequate at ~1.12x — meaning the business DOES convert profits to cash, just with significant year-to-year variability.
 
 ---
 
@@ -280,6 +282,8 @@ The historical pattern tells the full story:
 - **FY2022-2025:** Explosive improvement to 38-44% ROCE — land bank monetisation at above-normal margins
 
 **The 10-year average ROE is 14%, the 5-year average is 24%, and the 3-year average is 33%.** The HUGE gap between these averages tells you the recent returns are NOT normalised — they are cyclically peaked.
+
+*Note: These averages are Screener's published "Return on Equity" figures, which use a weighted methodology (likely Total NI / Average Equity over the period), not a simple arithmetic average of annual ROE percentages. Simple arithmetic averages of the annual ROE values in the table above would be lower (10Y ≈ 9%, 5Y ≈ 17%, 3Y ≈ 31%). The directional insight — recent returns are far above long-term averages — holds under either methodology.*
 
 **What should we expect going forward?**
 If the company continues to monetise its land bank at high margins, elevated returns (20-30% ROCE) could persist for 3-5 years. But as the historical land is depleted and new land is acquired at current prices, margins and returns will normalise toward 12-18% ROCE — still good, but nowhere near 44%.
@@ -379,7 +383,7 @@ The core business model of real estate development has NOT changed in centuries 
 
 | Metric | FY2022 | FY2023 | FY2024 | FY2025 | Trend |
 |---|---|---|---|---|
-| Asset Turnover | 0.32x | 0.43x | 0.50x | 0.47x | Improving then flat |
+| Asset Turnover | 0.32x | 0.43x | 0.50x | 0.41x | Improved FY22-24, declined FY25 as asset base grew faster than revenue |
 | Working Capital Days | 325 | 342 | 307 | 429 | **Worsening** — cash being consumed by new projects |
 
 ### Part B: Scaling Runway
@@ -423,11 +427,13 @@ GHCL is at the **Inflection Point / Scaling Phase** — the business model is pr
 
 | Period | Start Market Cap | End Market Cap | Change | Retained Earnings (cumulative) | Value per ₹1 Retained |
 |---|---|---|---|---|---|
-| FY2016 to FY2025 (10 years) | ~₹400 Cr | ₹5,208 Cr | +₹4,808 Cr | ~₹850 Cr | **₹5.66 per ₹1** |
-| FY2020 to FY2025 (5 years) | ~₹200 Cr | ₹5,208 Cr | +₹5,008 Cr | ~₹1,050 Cr | **₹4.77 per ₹1** |
+| FY2016 to FY2025 (10 years) | ~₹400 Cr | ₹5,208 Cr | +₹4,808 Cr | ~₹1,045 Cr | **₹4.60 per ₹1** |
+| FY2020 to FY2025 (5 years) | ~₹200 Cr | ₹5,208 Cr | +₹5,008 Cr | ~₹1,211 Cr | **₹4.14 per ₹1** |
 | FY2023 to FY2025 (3 years) | ~₹2,000 Cr | ₹5,208 Cr | +₹3,208 Cr | ~₹950 Cr | **₹3.38 per ₹1** |
 
-**Outstanding $1 test performance.** Every ₹1 retained has created ₹3-6 of market value. This is exceptional capital allocation by any standard.
+*Retained earnings estimated using equity change method (ending equity minus starting equity for each period).*
+
+**Outstanding $1 test performance.** Every ₹1 retained has created ₹3-5 of market value. This is exceptional capital allocation by any standard.
 
 ### Capital Allocation Track Record
 
@@ -466,7 +472,7 @@ GHCL is at the **Inflection Point / Scaling Phase** — the business model is pr
 | Future Development Potential (Mn Sq Ft) | — | — | — | — | — | 35 | 35 | 35 |
 | Debtor Days | 355 | 150 | 115 | 0 | 111 | 53 | 50 | 131 |
 | Working Capital Days | 834 | 1,390 | 988 | 711 | 325 | 342 | 307 | 429 |
-| Debt/Equity | 0.80 | 0.89 | 0.85 | 0.81 | 0.18 | 0.27 | 0.19 | 0.03 |
+| Debt/Equity | 0.80 | 0.89 | 0.85 | 0.81 | 0.18 | 0.27 | 0.19 | 0.14 |
 | ROCE % | 11% | 5% | -4% | -4% | 13% | 23% | 45% | 44% |
 
 ### Key Operational Observations
@@ -501,7 +507,7 @@ The business is at the APEX of a cyclical upswing. The fundamentals are the BEST
 | EV/EBITDA | **9.17x** | — | — | — | — | NM | NM | — | — |
 | Earnings Yield | **8.1%** | — | — | — | — | — | — | — | — |
 | Dividend Yield | **0.80%** | — | — | — | — | — | — | — | — |
-| PEG Ratio | **0.12** | — | — | — | — | — | — | — | — |
+| PEG Ratio | **0.26** | — | — | — | — | — | — | — | — |
 | Industry PE | 26.5x | — | — | — | — | — | — | — | — |
 | Industry PBV | 2.35x | — | — | — | — | — | — | — | — |
 | Stock P/E | 12.4x | — | — | — | — | — | — | — | — |
@@ -512,7 +518,7 @@ The business is at the APEX of a cyclical upswing. The fundamentals are the BEST
 
 **On the surface, GHCL looks INCREDIBLY cheap:**
 - **PE of 12.4x** vs. industry PE of 26.5x — a 53% discount to industry!
-- **PEG of 0.12** — extraordinarily low (5Y profit CAGR of 48%, hence PE/Growth = 12.4/100 ≈ 0.12)
+- **PEG of 0.26** — very low (5Y profit CAGR of 48% from Screener, hence PE/Growth = 12.4/48 ≈ 0.26; using 3Y CAGR of 104%, PEG = 12.4/104 ≈ 0.12 — though both baselines are distorted by the recovery from loss-making years)
 - **EV/EBITDA of 9.17x** — reasonable for a high-growth, high-margin developer
 - **P/B of 2.35x** — at industry average, and ROE of 38% EASILY justifies this
 - **Earnings yield of 8.1%** vs risk-free rate of ~7% — you're getting PAID to own this business
@@ -571,7 +577,7 @@ The 52-week range of **₹1,200 to ₹566** (current: ₹624) shows the stock is
 | Less: Net Debt | ₹0 | |
 | **Equity Value** | **₹7,205 Cr** | |
 | **Intrinsic Value Per Share** | **₹864** | |
-| **Margin of Safety at ₹624** | **+38% (UNDERVALUED)** | |
+| **Margin of Safety at ₹624** | **+28% (UNDERVALUED)** | |
 
 #### Scenario 3: Optimistic
 | Parameter | Value | Justification |
@@ -587,21 +593,21 @@ The 52-week range of **₹1,200 to ₹566** (current: ₹624) shows the stock is
 | Less: Net Debt | ₹0 | |
 | **Equity Value** | **₹14,130 Cr** | |
 | **Intrinsic Value Per Share** | **₹1,694** | |
-| **Margin of Safety at ₹624** | **+171% (DEEPLY UNDERVALUED)** | |
+| **Margin of Safety at ₹624** | **+63% (DEEPLY UNDERVALUED)** | |
 
 ### Summary Table
 
-| Scenario | Intrinsic Value/Share | CMP (₹624) | Margin of Safety | Upside/Downside |
+| Scenario | Intrinsic Value/Share | CMP (₹624) | Margin of Safety (IV-CMP)/IV | Upside/Downside (IV-CMP)/CMP |
 |---|---|---|---|---|
 | **Conservative** | ₹546 | ₹624 | **-14%** | -13% downside |
-| **Base Case** | ₹864 | ₹624 | **+38%** | +38% upside |
-| **Optimistic** | ₹1,694 | ₹624 | **+171%** | +171% upside |
+| **Base Case** | ₹864 | ₹624 | **+28%** | +38% upside |
+| **Optimistic** | ₹1,694 | ₹624 | **+63%** | +171% upside |
 
 **Weighted Average (40/40/20):** ₹546×0.4 + ₹864×0.4 + ₹1,694×0.2 = ₹218 + ₹346 + ₹339 = **₹903 per share**
 
 **The probability-weighted intrinsic value is ₹903 — representing ~45% upside from the current price of ₹624.** This suggests meaningful margin of safety exists, though the conservative scenario does produce a slight overvaluation.
 
-> **Buffett:** *"We insist on a margin of safety in our purchase price."* At ₹624, the base case offers 38% margin of safety and the probability-weighted value is ~₹903 (45% upside). This is a meaningful margin of safety — though concentrated in the base-to-optimistic scenarios. The conservative scenario suggests the stock is NOT cheap if margins normalise aggressively.
+> **Buffett:** *"We insist on a margin of safety in our purchase price."* At ₹624, the base case offers 28% margin of safety (MoS = (IV-CMP)/IV) and the probability-weighted value is ~₹903 (45% upside). This is a meaningful margin of safety — though concentrated in the base-to-optimistic scenarios. The conservative scenario suggests the stock is NOT cheap if margins normalise aggressively.
 
 ---
 
@@ -634,33 +640,33 @@ The 52-week range of **₹1,200 to ₹566** (current: ₹624) shows the stock is
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 16.3% | 21.8% | 27.5% |
-| 10 Years | 12.5% | 15.3% | 18.1% |
-| 15 Years | 11.0% | 13.1% | 15.3% |
+| 5 Years | 15.9% | 21.2% | 26.5% |
+| 10 Years | 12.9% | 18.1% | 23.2% |
+| 15 Years | 11.9% | 17.0% | 22.1% |
 
 #### At Terminal PE = 15x (Market Average Developer)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 7.1% | 12.3% | 17.8% |
-| 10 Years | 8.4% | 11.1% | 13.8% |
-| 15 Years | 8.1% | 10.2% | 12.3% |
+| 5 Years | 6.9% | 11.8% | 16.6% |
+| 10 Years | 8.4% | 13.4% | 18.3% |
+| 15 Years | 9.0% | 13.9% | 18.9% |
 
 #### At Terminal PE = 20x (Premium Developer)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 0.7% | 5.6% | 10.7% |
-| 10 Years | 5.3% | 8.0% | 10.7% |
-| 15 Years | 5.9% | 7.9% | 10.0% |
+| 5 Years | 0.9% | 5.5% | 10.1% |
+| 10 Years | 5.4% | 10.2% | 14.9% |
+| 15 Years | 6.9% | 11.7% | 16.6% |
 
 #### At Terminal PE = 12x (Historical Average)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 12.0% | 17.3% | 22.9% |
-| 10 Years | 10.6% | 13.3% | 16.1% |
-| 15 Years | 9.7% | 11.8% | 13.9% |
+| 5 Years | 11.8% | 16.9% | 21.9% |
+| 10 Years | 10.9% | 15.9% | 21.0% |
+| 15 Years | 10.6% | 15.6% | 20.6% |
 
 ### Step 4: Reality Check
 
@@ -674,21 +680,21 @@ The 52-week range of **₹1,200 to ₹566** (current: ₹624) shows the stock is
 **Traffic Light Assessment:**
 
 To earn **10% return over 10 years** at ₹624:
-- At terminal PE 10x: Need **12.5% EPS CAGR** → 🟡 YELLOW (slightly above sustainable estimate)
+- At terminal PE 10x: Need **12.9% EPS CAGR** → 🟡 YELLOW (slightly above sustainable estimate)
 - At terminal PE 15x: Need **8.4% EPS CAGR** → 🟢 **GREEN** (below GDP growth — very achievable)
-- At terminal PE 12x: Need **10.6% EPS CAGR** → 🟢 **GREEN** (at GDP growth — achievable)
+- At terminal PE 12x: Need **10.9% EPS CAGR** → 🟢 **GREEN** (at GDP growth — achievable)
 
 To earn **15% return over 10 years** at ₹624:
-- At terminal PE 15x: Need **11.1% EPS CAGR** → 🟢 **GREEN** (achievable for a well-positioned developer)
-- At terminal PE 12x: Need **13.3% EPS CAGR** → 🟡 YELLOW (requires above-average execution)
+- At terminal PE 15x: Need **13.4% EPS CAGR** → 🟡 YELLOW (requires above-average execution)
+- At terminal PE 12x: Need **15.9% EPS CAGR** → 🟠 ORANGE (requires strong execution materially above historical norm)
 
 ### Step 5: The Verdict
 
 > **"At the current price of ₹624, to earn a 10% annualised return over 10 years assuming the market values the business at 15x PE at exit, the company needs to grow normalised EPS at just 8.4% CAGR. This is BELOW India's nominal GDP growth rate and well within the company's capability given its 35M sq ft development pipeline. The market is pricing in VERY MODEST growth — this implies the market is pricing in significant margin normalisation and/or execution risk. The current price appears REASONABLE to CHEAP on normalised assumptions."**
 
-> **To earn 15% returns over 10 years at 15x terminal PE, you need 11.1% EPS CAGR — this is achievable if the company continues monetising its land bank and the IT SEZ generates recurring income.**
+> **To earn 15% returns over 10 years at 15x terminal PE, you need 13.4% EPS CAGR — this is above GDP growth but achievable if the company continues monetising its land bank and the IT SEZ generates recurring income.**
 
-**Buffett's Napkin Test:** At ₹624, the implied growth requirements are MODEST. Even if margins compress significantly and the company grows at just GDP rate, the return is adequate. You do NOT need heroic assumptions. This passes the napkin test.
+**Buffett's Napkin Test:** At ₹624, the implied growth requirements are MODEST for a 10% hurdle return. Even if margins compress significantly and the company grows at just GDP rate, the return is adequate. You do NOT need heroic assumptions for a 10% return. A 15% return requires more execution, but remains within reach. This passes the napkin test.
 
 ### Step 6: Asymmetric Upside Check — Is This a Fat Pitch?
 
@@ -849,17 +855,19 @@ ROE = Net Profit Margin × Asset Turnover × Equity Multiplier
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
 | P/B stays at 2.35x | Multiple sustains | **16.2%** | **16.2%** | **16.2%** |
-| P/B compresses to 1.76x (75%) | Mild de-rating | 10.3% | 12.3% | 13.7% |
-| P/B compresses to 1.18x (50%) | Significant de-rating | 3.7% | 7.8% | 10.7% |
-| P/B to Fair Value ~2.0x | Normalised (18% ROE justifies ~2x) | 12.7% | 13.9% | 14.8% |
-| P/B compresses to 1.5x | Industry median for mid-cap developer | 6.8% | 10.0% | 12.2% |
-| P/B compresses to 1.0x Book | Valued at book value | **-1.8%** | 5.1% | 8.8% |
+| P/B compresses to 1.76x (75%) | Mild de-rating | 9.7% | 11.5% | 12.9% |
+| P/B compresses to 1.18x (50%) | Significant de-rating | 1.3% | 5.3% | 8.5% |
+| P/B to Fair Value ~2.0x | Normalised (18% ROE justifies ~2x) | 12.6% | 13.6% | 14.4% |
+| P/B compresses to 1.5x | Industry median for mid-cap developer | 6.3% | 9.0% | 11.1% |
+| P/B compresses to 1.0x Book | Valued at book value | **-2.0%** | 2.9% | 6.7% |
+
+*Note: Returns shown are price-appreciation CAGR only. Dividend yield (~0.8% at current P/B) provides additional return, increasing total returns by approximately 0.8-1.5% depending on future P/B.*
 
 #### Step 4: Key Insight
 
-> **"At the current entry P/B of 2.35x with a sustainable ROE of 18% and 90% retention, book value compounds at 16.2% annually. If the P/B multiple remains at 2.35x, the return equals the BV compounding rate of 16.2% — ABOVE the 10% hurdle rate. The stock can tolerate P/B compression from 2.35x down to approximately 1.2x (halving!) before the 10-year return drops below the 10% hurdle rate."**
+> **"At the current entry P/B of 2.35x with a sustainable ROE of 18% and 90% retention, book value compounds at 16.2% annually. If the P/B multiple remains at 2.35x, the return equals the BV compounding rate of 16.2% — ABOVE the 10% hurdle rate. The stock can tolerate P/B compression from 2.35x down to approximately 1.36x (~42% compression) before the 10-year price return drops below the 10% hurdle rate. Including dividends (~0.8-1.5% additional yield), the tolerance extends slightly further."**
 
-**This is a critical positive finding.** Even with SIGNIFICANT multiple compression (P/B halving from 2.35x to ~1.2x over 10 years), the book value compounding from 18% normalised ROE is powerful enough to deliver 10%+ returns. You are protected by business quality.
+**This is a critical positive finding.** Even with SIGNIFICANT multiple compression (P/B dropping from 2.35x to ~1.5x over 10 years — a 36% decline), the book value compounding from 18% normalised ROE is powerful enough to deliver 11%+ price returns. You are protected by business quality.
 
 **If the current elevated ROE (25-30%) persists for 3-5 years before normalising to 18%, the BV compounding is even faster in the early years,** making the return profile even more attractive.
 
@@ -867,11 +875,11 @@ ROE = Net Profit Margin × Asset Turnover × Equity Multiplier
 
 | Condition | Verdict | Signal |
 |---|---|---|
-| 10-year return > hurdle rate even if P/B halves | ✅ 10.7% CAGR if P/B halves | 🟢 **GREEN** |
-| 10-year return > hurdle rate only if P/B stays within 25% | Also true | 🟢 GREEN |
+| 10-year return > hurdle rate even if P/B halves | Price CAGR 8.5% if P/B halves; ~10% including dividends — borderline | 🟢 **GREEN** (marginal) |
+| 10-year return > hurdle rate if P/B stays within 35% of current | ✅ At 1.5x P/B, 10yr CAGR = 11.1% | 🟢 GREEN |
 | 10-year return < hurdle rate unless P/B EXPANDS | Not the case | — |
 
-**VERDICT: 🟢 GREEN — Safe entry.** BV compounding from high ROE overwhelms reasonable multiple compression scenarios. Even in a pessimistic case where P/B halves over 10 years, you earn ~10.7% CAGR. With P/B staying flat (most likely if ROE sustains at 18%+), you earn 16%+ CAGR. This is a solid entry point.
+**VERDICT: 🟢 GREEN — Safe entry.** BV compounding from high ROE overwhelms reasonable multiple compression scenarios. In a pessimistic case where P/B compresses by ~35% from 2.35x to 1.5x over 10 years, you earn ~11% price CAGR. Even with P/B halving (extreme pessimism), price CAGR is 8.5% plus dividends (~1%) bringing total return close to 10%. With P/B staying flat (most likely if ROE sustains at 18%+), you earn 16%+ CAGR. This is a solid entry point.
 
 > **Munger:** *"Over the long term, it's hard for a stock to earn a much better return than the business earns."* If GHCL earns a normalised 18% ROE and retains 90% of earnings, your expected return is approximately 16% per year (BV compounding rate), adjusted for P/B multiple changes. At 2.35x book, you're paying a modest premium for a high-quality return engine. The math works.
 
@@ -920,13 +928,13 @@ The stock is NOT screaming cheap, but it IS in a fair-to-attractive zone where c
 | **Trustworthy Management** | 73% promoter holding (increased from 54%), zero pledge, zero SBC, survived crisis and rebuilt. | **PASS** ✅ |
 | **Resistant to Disruption** | Real estate is NOT being disrupted by technology. The fundamental model is unchanged. | **PASS** ✅ |
 | **Sustainable Economics 10+ Years** | The CURRENT 80% margins are NOT sustainable. But normalised 15-20% ROCE is likely sustainable given Gujarat's growth. | **MARGINAL** ⚠️ |
-| **Price < Intrinsic Value** | Base case IV ₹864 vs. CMP ₹624 = 38% margin of safety. | **PASS** ✅ |
+| **Price < Intrinsic Value** | Base case IV ₹864 vs. CMP ₹624 = 28% margin of safety (MoS), 38% upside. | **PASS** ✅ |
 | **ROE > Cost of Capital** | 38% ROE (current) >> 11-12% CoE. Even normalised 18% ROE >> CoE. | **PASS** ✅ |
 | **Consistent High Returns** | ROE was 6-9% pre-2022, then surged to 38%. NOT consistently high — cyclically high. | **MARGINAL** ⚠️ |
 | **Low Debt** | D/E 0.03x. Nearly debt-free. | **PASS** ✅ |
 | **High Insider Ownership** | 73.06% promoter holding. Among the highest in Indian mid-caps. | **PASS** ✅ |
 
-**Score: 6 Pass, 3 Marginal, 0 Fail.**
+**Score: 7 Pass, 3 Marginal, 0 Fail.**
 
 ### Honest Verdict
 
@@ -1002,11 +1010,11 @@ However, a "REVERSE TURNAROUND" risk assessment is relevant: **What is the proba
 |---|---|---|
 | **Business Quality** | **7** | Simple model, proven execution, 22+ M sq ft delivered. Cyclical but real. |
 | **Moat Durability** | **5** | Strong land bank advantage but DEPLETING. No self-renewing moat. |
-| **Financial Health** | **9** | D/E 0.03x, interest coverage 144x, current ratio 4.26x. **Fortress.** |
+| **Financial Health** | **9** | D/E 0.03x (Sep 2025), interest coverage 195x (FY2025), current ratio 4.26x. **Fortress.** |
 | **Management Quality** | **8** | 73% insider ownership, zero pledge, survived crisis, increased stake at low prices. |
 | **Return on Capital** | **8** | Current 38-44% is cyclically elevated; normalised 15-20% is still excellent. |
 | **Valuation** | **7** | 12.4x PE on peak, ~15x on normalised. Industry at 26.5x. Moderate discount. |
-| **Margin of Safety** | **6** | 38% upside to base DCF. Not deep value, but favourable risk/reward. |
+| **Margin of Safety** | **6** | 28% MoS to base DCF (38% upside). Not deep value, but favourable risk/reward. |
 | **Scalability** | **4** | Capital-intensive; linear not exponential. Land bank provides runway but no leverage. |
 | **Earnings Quality** | **6** | Cash conversion is decent. But peak earnings are unsustainable — normalise with caution. |
 | **Overall Score** | **6.7/10** | |
