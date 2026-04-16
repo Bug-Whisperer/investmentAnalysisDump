@@ -335,9 +335,9 @@ The negative cash conversion cycle is a structural strength that has been mainta
 | EV/EBITDA | 55x | **51x** | 38x | 44x | 37x | 36x | **~40x** |
 | Earnings Yield | 1.5% | **1.4%** | 1.8% | 1.7% | 1.9% | 2.0% | **~2.2%** |
 | FCF Yield | 1.3% | **1.5%** | 1.6% | 1.5% | 2.6% | 2.0% | — |
+| Dividend Yield | 1.2% | **1.4%** | 1.8% | 1.6% | 1.9% | 1.9% | **~2.1%** |
 
 *Note on FY2020 valuation metrics: FY2020 ended during the COVID crash (March 2020), causing extreme intra-year price volatility. PE (~68x) and P/B (~56x) use the depressed year-end closing price (~₹2,120), while PS (13.5x), P/FCF (76x), and EV/EBITDA (55x) appear to reflect a higher pre-crash or average-year market cap (~₹2,470+ per share). This cross-metric price mismatch is unique to FY2020 and does not affect the analysis conclusions. All other years use internally consistent year-end price points.*
-| Dividend Yield | 1.2% | **1.4%** | 1.8% | 1.6% | 1.9% | 1.9% | **~2.1%** |
 
 *Note: FY2025 and FY2021 dividend payout ratios of 117% and 119% (from Screener.in) include special/one-time dividends, likely related to the ice cream demerger proceeds and post-acquisition distributions respectively. The dividend yield figures in the same years (1.9% and 1.4%) reflect the regular dividend run-rate. At 117% payout, DPS would be ~₹53, implying a yield of ~2.4% at FY2025 year-end price — higher than the 1.9% shown. The discrepancy arises from Screener using total distributions (including special dividends) for payout % while yield calculations may use only ordinary dividends or a different price base.*
 
