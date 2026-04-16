@@ -499,7 +499,7 @@ The terminal PE is what the market will likely pay for the business at the END o
 
 ### Step 5: Traffic Light Verdict
 
-At the **most likely scenario** (Terminal PE of 12-15x, 10-year holding period), you need **3-10% EPS CAGR** to earn a 10% return. CIL has historically delivered ~10% EPS CAGR over 10 years. This is **comfortably achievable** — the market is NOT demanding heroic assumptions at the current price.
+At the **most likely scenario** (Terminal PE of 12-15x, 10-year holding period), you need **3-6% EPS CAGR** to earn a 10% return. CIL has historically delivered ~10% EPS CAGR over 10 years. This is **comfortably achievable** — the market is NOT demanding heroic assumptions at the current price.
 
 **🟢 GREEN (at Terminal PE 15x, 10-year, 10% return):** Only 3.2% EPS CAGR needed — well below historical rate. Even modest growth delivers the hurdle return.
 
