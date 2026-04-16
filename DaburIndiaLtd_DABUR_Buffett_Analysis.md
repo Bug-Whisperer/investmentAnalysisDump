@@ -48,9 +48,9 @@ Dabur's business is simple enough: make branded natural/ayurvedic consumer produ
 | EPS Growth | 6.1% | 6.2% | 0.1% | 17.1% | 2.7% | -2.0% | 7.9% | -4.1% | ~3% |
 | Shares Outstanding (Cr) | 176 | 177 | 177 | 177 | 177 | 177 | 177 | 177 | ~177 |
 | Dividend Payout % | **81%** | 34% | 37% | 50% | 53% | 54% | 53% | **80%** | — |
+| EBITDA (₹ Cr) | 1,617 | 1,740 | 1,792 | 2,002 | 2,252 | 2,162 | 2,400 | 2,316 | ~2,416 |
 
 *Note: EPS figures are sourced from Screener.in and reflect profit attributable to equity holders of the parent company (excluding minority interest). The Net Profit row shows consolidated net income including minority interest, so dividing Net Profit by Shares Outstanding will yield a slightly lower figure than the reported EPS (e.g., FY25: ₹1,740/177 = ₹9.83 vs. reported EPS of ₹9.97). Owner Earnings in Section 5 use consolidated Net Income for conservatism.*
-| EBITDA (₹ Cr) | 1,617 | 1,740 | 1,792 | 2,002 | 2,252 | 2,162 | 2,400 | 2,316 | ~2,416 |
 
 *Note: On Screener.in, Operating Profit is computed before deducting D&A (i.e., OP = EBITDA). The OPM % row above (rounded to integers by Screener) and EBITDA Margin are therefore the same metric; precise EBITDA margins at one decimal are: FY18: 20.9%, FY19: 20.4%, FY20: 20.6%, FY21: 20.9%, FY22: 20.7%, FY23: 18.8%, FY24: 19.3%, FY25: 18.4%.*
 
