@@ -209,7 +209,7 @@ Operational fundamentals are improving across the board. The ONE negative: C/I r
 | **PE** | ~8x | ~8x | ~10x | ~7x | ~11x | ~13x | **~16.2x** |
 | **BVPS (₹)** | 74.3 | 82.7 | 91.5 | 104.6 | 123.6 | 140.6 | ~147 |
 
-**Fair P/B (ROE-based):** At 13% ROE → deserved P/B of **1.5-2.0x** (Good tier). Current 1.86x is at the **higher end**, pricing in ROE improvement to 14-15%. The stock has historically traded between 0.8x (COVID low) and ~2.0x (recent peak). The **median P/B during FY20-FY24 was approximately 0.9x** (range 0.8x-1.4x), a period when ROE was lower (10-11%). The current much higher P/B reflects the structural improvement in ROE and asset quality since FY23, but leaves limited room for error.
+**Fair P/B (ROE-based):** At 13% ROE → deserved P/B of **1.5-2.0x** (Good tier). Current 1.86x is at the **higher end**, pricing in ROE improvement to 14-15%. The stock has historically traded between 0.8x (COVID low) and ~2.0x (recent peak). The **median P/B during FY20-FY24 was approximately 0.9x** (range 0.8x-1.4x); ROE during FY20-FY22 was ~11%, rising to ~15% in FY23-FY24 — yet the P/B only reached 1.4x even at 15% ROE, suggesting the market was slow to re-rate. The current much higher P/B reflects the structural improvement in ROE and asset quality since FY23, but leaves limited room for error.
 
 ---
 
