@@ -177,7 +177,9 @@ For IndiaMART, Owner Earnings of ₹554 Cr (FY25) are virtually identical to rep
 
 ### Return on Capital Interpretation
 
-**ROE of 26.9% (FY25) and 5-year average of ~20%** — this is firmly in "excellent business" territory. The business consistently earns well above its cost of capital (10-12%).
+**ROE of 26.9% (FY25, per Screener.in) and 5-year average of ~20%** — this is firmly in "excellent business" territory. The business consistently earns well above its cost of capital (10-12%).
+
+*Note: Screener.in reports ROE as 26.9%, which likely uses a blended/adjusted equity base. Using the standard average-equity method (NI / avg of opening and closing equity = 551 / 1,961 = 28.1%), ROE is ~28%. The DuPont decomposition in Section 14 confirms ~28%. Both figures indicate excellent returns; we use Screener's 26.9% in the table as the sourced figure, and ~28% in the DuPont analysis as the independently computed figure.*
 
 **ROCE of 34.2% (FY25)** is outstanding, up from a trough of 19% in FY23. The ROCE dipped in FY22-24 because the company accumulated a massive cash pile (~₹2,700-3,400 Cr) that depressed the denominator. If you strip out excess cash, the ROCE on the actual operating business is **north of 100%** — the business needs almost no capital to generate its profits.
 
@@ -310,10 +312,10 @@ IndiaMART is a business where time is your ally. Each year, more Indian SMEs com
 For every ₹1 retained, has the company created at least ₹1 of market value?
 
 From FY2020 to FY2025:
-- Total earnings retained: ~₹1,100 Cr (cumulative net income ~₹1,894 Cr minus dividends/buyback ~₹800 Cr)
-- Change in market cap: Market cap in FY2020 (post-IPO peak ~₹20,000 Cr) vs. current (~₹12,000 Cr) = **negative**
+- Total earnings retained: ~₹1,130 Cr (cumulative net income ~₹1,894 Cr minus FY20-FY24 dividends ₹263 Cr and FY24 buyback ₹500 Cr = ₹763 Cr returned)
+- Change in market cap: Market cap at FY2020 year-end (~₹2,200 × 5.77 Cr shares ≈ ₹12,700 Cr) vs. current (~₹12,000 Cr) = **roughly flat**. However, the stock peaked at ~₹9,600/share in FY2021 (market cap ~₹58,000 Cr) before compressing dramatically — investors who bought at the peak have experienced severe capital destruction despite excellent business performance.
 
-**The $1 test FAILS on market cap basis.** Despite excellent business performance, the stock price has actually declined from its 2021 highs (~₹9,600/share) to current ₹1,994. This reflects the dramatic PE compression from 150x+ (pandemic-era euphoria) to ~20x today.
+**The $1 test is MIXED on market cap basis.** From FY2020 year-end to today, the market cap is roughly flat despite ₹1,130 Cr in retained earnings — meaning the market has assigned ~₹0 of value per ₹1 retained. However, this is entirely a valuation compression story (PE from 86x to 20x), not a business deterioration story. The stock price has actually declined from its 2021 highs (~₹9,600/share) to current ₹1,994. This reflects the dramatic PE compression from 150x+ (pandemic-era euphoria) to ~20x today.
 
 However, **book value per share has grown from ₹48 (FY20) to ₹364 (FY25) — a 7.6x increase.** The business has created enormous intrinsic value; the market simply hasn't recognised it due to the valuation normalisation.
 
@@ -376,7 +378,7 @@ However, **book value per share has grown from ₹48 (FY20) to ₹364 (FY25) —
 | CMP (Year-End Approx) ₹ | ~2,200 | ~8,800 | ~4,500 | ~5,200 | ~2,500 | ~2,200 | **1,994** |
 | **PE Ratio** | 86x | 191x | 92x | 112x | 45x | 24x | **~20x** |
 | **P/B Ratio** | 46x | 33x | 15x | 15x | 8.6x | 6.0x | **~5.6x** |
-| P/FCF Ratio | ~50x | ~160x | ~70x | ~68x | ~28x | ~22x | **~20x** |
+| P/FCF Ratio | ~50x | ~169x | ~70x | ~68x | ~28x | ~22x | **~20x** |
 | P/Owner Earnings | ~86x | ~191x | ~95x | ~110x | ~44x | ~24x | **~20x** |
 | EV/EBITDA | ~75x | ~130x | ~55x | ~60x | ~28x | ~18x | **~16x** |
 | Earnings Yield | 1.2% | 0.5% | 1.1% | 0.9% | 2.2% | 4.2% | **~5.1%** |
@@ -385,13 +387,13 @@ However, **book value per share has grown from ₹48 (FY20) to ₹364 (FY25) —
 
 ### Historical Comparison & Current Valuation Context
 
-**The stock has undergone one of the most dramatic valuation compressions in Indian market history.** From a peak PE of 191x (FY21 — pandemic euphoria), the stock now trades at ~20x TTM earnings. This 90%+ multiple compression has occurred even as the underlying business has grown its earnings by 65% (FY25).
+**The stock has undergone one of the most dramatic valuation compressions in Indian market history.** From a peak PE of 191x (FY21 — pandemic euphoria), the stock now trades at ~20x TTM earnings. This ~90% multiple compression has occurred even as the underlying business has grown its earnings by 65% (FY25).
 
 **At ~20x PE and ~20x P/FCF, IndiaMART is trading at its cheapest valuation since listing.** For a business growing earnings at 15-20% with 44% FCF margins, zero debt, and ₹3,000+ Cr in cash, this is historically unusual.
 
 **However, the P/B of ~5.6x deserves scrutiny.** Despite the PE compression, the stock trades at 5.6x book value. This is justified ONLY if ROE stays above ~25% sustainably. If ROE drops to 15%, the fair P/B would be ~2.5-3x.
 
-**Net Cash Adjusted PE:** The company has ~₹3,051 Cr in cash/investments, or ~₹508/share. At CMP of ₹1,994, the operating business is being valued at ₹1,486/share. Against TTM operating EPS (excluding other income) of ~₹43, the operating PE is ~35x. Against total TTM EPS of ~₹101, the headline PE is ~20x. The truth is somewhere in between — the cash earns 7-8% return and should be valued, but not at operating earnings multiples.
+**Net Cash Adjusted PE:** The company has ~₹3,051 Cr in cash/investments, or ~₹508/share. At CMP of ₹1,994, the operating business is being valued at ₹1,486/share. Against TTM after-tax operating earnings (excluding after-tax other income of ~₹267 Cr), operating EPS is ~₹56, giving an operating PE of ~26x. Against total TTM EPS of ~₹101, the headline PE is ~20x. The truth is somewhere in between — the cash earns 7-8% return and should be valued, but not at operating earnings multiples.
 
 > *Buffett: "Price is what you pay, value is what you get."* At 20x earnings for a 20%+ growth, 44% FCF margin, zero-debt business with a dominant market position — the PRICE is finally becoming attractive.
 
@@ -501,7 +503,8 @@ However, **book value per share has grown from ₹48 (FY20) to ₹364 (FY25) —
 | Benchmark | EPS CAGR |
 |---|---|
 | IndiaMART 5Y Historical EPS CAGR | ~29% |
-| IndiaMART 3Y Historical EPS CAGR | ~21% |
+| IndiaMART 3Y Historical Profit CAGR (Screener) | ~21% |
+| IndiaMART 3Y Historical EPS CAGR (Computed) | ~23% |
 | India Nominal GDP Growth | ~10-12% |
 | Analyst Consensus (FY26-28) | ~16% |
 
@@ -528,7 +531,7 @@ The implied growth expectations are moderate. A deceleration from historical 29%
 |---|---|---|---|
 | Tangible Book Value | ₹364/share BVPS | ₹364 | -82% (extremely unlikely) |
 | Trough Earnings | Worst-year EPS (₹46, FY23) × 12x PE | ₹552 | -72% (extreme) |
-| Cash Floor | Net cash per share (₹508) + 10x operating earnings | ₹940 | -53% |
+| Cash Floor | Net cash per share (₹508) + 10x after-tax operating earnings (₹56) | ₹1,068 | -46% |
 | "Business-fine-but-panics" Floor | 15x Normalised EPS (₹85) | **₹1,275** | **-36%** |
 
 **Most probable downside floor: ₹1,275-1,400** (15-16x normalised EPS). Below this, the business is generating 6.5%+ FCF yield with growing earnings — value buyers would step in aggressively.
@@ -724,7 +727,7 @@ If Buffett were working with a small capital base (say ₹10-50 Cr), **he would 
 |---|---|---|
 | **Business Quality** | **9** | Toll-bridge model, 44% FCF margin, zero debt, negative working capital |
 | **Moat Durability** | **8** | 60% market share, network effects, switching costs; moderate AI disruption risk |
-| **Financial Health** | **10** | ₹3,000+ Cr cash, zero debt, 45% FCF margin, negative working capital |
+| **Financial Health** | **10** | ₹3,000+ Cr cash, zero debt, 44% FCF margin, negative working capital |
 | **Management Quality** | **8** | Founder-CEO with 49% stake, conservative allocator, transparent |
 | **Scalability** | **8.6** | Capital-light, massive TAM, 0.35% penetration |
 | **Valuation** | **7** | 20x TTM PE — fair to good for quality; P/B of 5.6x is optically high |
