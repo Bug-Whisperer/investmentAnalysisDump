@@ -41,6 +41,8 @@ Naukri's competitive advantage — its massive resume database and recruiter net
 | EPS (Diluted, post-split) | 8.41 | 9.89 | **-3.88** | 22.00 | **198.16** | -1.66 | 8.89 | 14.85 | 20.79 |
 | Dividend Payout % | 13% | 12% | -31% | 7% | 1% | -228% | 49% | 40% | — |
 
+> **Data Note:** Screener's "Net Income" line is total consolidated profit including minority interests, while "EPS (Diluted)" is calculated on Net Income *attributable to parent shareholders only*. For FY2025, NI attributable to parent is ~₹958 Cr (EPS ₹14.85 × 64.5 Cr shares) vs. total consolidated NI of ₹1,310 Cr — the ~₹352 Cr gap represents minority interests in subsidiaries (Zomato, 99acres entities, etc.). All per-share calculations in this analysis use the 64.5 Cr post-split share count, which is consistent with market cap (₹63,500 Cr / ₹980 CMP).
+
 ### Narrative Analysis
 
 The revenue story is clean and encouraging: **15% CAGR over 10 years, 17% over 5 years, 21% over 3 years.** This is a business that's accelerating its top-line growth, driven by Naukri's pricing power and 99acres gaining traction.
@@ -76,9 +78,9 @@ Here the accounting distortion isn't from charlatanism — it's from GAAP requir
 
 The massive balance sheet expansion (from ₹2,596 Cr in FY2018 to ₹59,397 Cr in Sep 2025) is almost entirely driven by the **appreciation of the investment portfolio** — particularly Zomato and PB Fintech shares being marked to market. The "Investments" line went from ₹1,565 Cr to ₹54,424 Cr.
 
-**Book Value Per Share has exploded** — from ~₹33 (post-split equivalent) in FY2018 to ~₹750 currently. But this is misleading for valuation because most of it is unrealised gains on listed investments. The **tangible operating book value** (stripping out investment portfolio) is much lower — roughly ₹60-70 per share.
+**Book Value Per Share has exploded** — from ~₹33 (post-split equivalent) in FY2018 to ~₹750 currently. But this is misleading for valuation because most of it is unrealised gains on listed investments. Strategic investments alone are ₹54,424 Cr (Sep 2025), or ~₹844 per share — which actually *exceeds* total BVPS of ~₹750, meaning the **net operating equity is technically negative** (the operating business is funded by liabilities and deferred revenue, not by retained operating profits, since nearly all equity is consumed by investment portfolio mark-to-market gains). The company's operating cash + receivables + other current assets ("Other Assets" on Screener) total ~₹4,205 Cr or ~₹65 per share — this is the tangible operating asset base that generates the classifieds business's cash flows.
 
-At the current price of ₹980, the stock trades at **1.31x reported Book Value** — which looks cheap but is deceptive because ₹650+ of that book value per share is the investment portfolio (Zomato + PB Fintech + others), not operating assets.
+At the current price of ₹980, the stock trades at **1.31x reported Book Value** — which looks cheap but is deceptive because the vast majority of that book value is the investment portfolio (Zomato + PB Fintech + others), not operating assets.
 
 > **Buffett:** *"Only when you combine sound intellect with emotional discipline do you get rational behaviour."*
 
@@ -102,7 +104,7 @@ The discipline required here is to separate the operating business from the inve
 
 The operating cash flow story is excellent and improving: **₹253 Cr → ₹876 Cr over 7 years**, a 19% CAGR. The business is a genuine cash machine. CapEx requirements are minimal — this is a software/platform business with negligible physical asset needs.
 
-Free Cash Flow of ~₹811 Cr in FY2025 against reported Net Income of ₹1,310 Cr (which includes ₹1,220 Cr of "Other Income" mainly from investment gains). Against **operating net income** (ex-other income) of ~₹640 Cr, the FCF conversion is actually **>100%** — a hallmark of a great business.
+Free Cash Flow of ~₹811 Cr in FY2025 against reported Net Income of ₹1,310 Cr (which includes ₹1,220 Cr of "Other Income" mainly from investment gains). Against **operating NOPAT** (Operating Profit × (1 − tax rate) ≈ 874 × 0.75) of ~₹655 Cr, the FCF conversion is actually **>100%** — a hallmark of a great business.
 
 Cash from investing is negative mainly because of investments in startups and subsidiaries, not maintenance CapEx. The standalone Naukri business is a phenomenal cash generator.
 
@@ -128,11 +130,11 @@ Naukri generates cash hand over fist. It doesn't need to reinvest much to mainta
 
 | Component | FY2025 (₹ Cr) |
 |---|---|
-| Operating Net Income (ex-other income) | ~640 |
+| Operating NOPAT (Op Profit × 0.75) | ~655 |
 | Add: D&A | 113 |
 | Less: Maintenance CapEx (est.) | -40 |
-| **= Owner Earnings (Operating)** | **~713** |
-| Owner Earnings Per Share (post-split) | **~₹11** |
+| **= Owner Earnings (Operating)** | **~728** |
+| Owner Earnings Per Share (post-split) | **~₹11.3** |
 
 This is a **phenomenally capital-light** business. CapEx at 2.3% of revenue is negligible. The business barely needs any physical assets — it runs on software, servers, and talent. Depreciation (₹113 Cr) exceeds total CapEx (~₹65 Cr), meaning the company is over-depreciating relative to its reinvestment needs — a classic sign of Buffett's "owner earnings" being higher than reported earnings.
 
@@ -140,7 +142,7 @@ The real "investment" here is in people (employee costs are ~60% of operating ex
 
 > **Buffett:** *"Owner earnings represent (a) reported earnings plus (b) depreciation, depletion, amortisation, and certain other non-cash charges less (c) the average annual amount of capitalised expenditures for plant and equipment that the business requires to fully maintain its long-term competitive position."*
 
-Info Edge's owner earnings from operations are approximately ₹713 Cr, or ₹11 per share — implying the stock trades at ~89x operating owner earnings. Expensive, but this is a toll-bridge franchise with enormous pricing power.
+Info Edge's owner earnings from operations are approximately ₹728 Cr, or ~₹11 per share — implying the stock trades at ~87x operating owner earnings. Expensive, but this is a toll-bridge franchise with enormous pricing power.
 
 ---
 
@@ -158,7 +160,7 @@ The reported ROE of ~1% is **deeply misleading** and does NOT reflect the qualit
 
 1. **The equity base is enormously inflated by the investment portfolio.** Shareholders' equity is ₹48,610 Cr (Sep 2025), but ~₹45,000 Cr of that is the market value of investments in Zomato, PB Fintech, and other startups. The OPERATING equity of the classifieds business is perhaps ₹3,000-4,000 Cr.
 
-2. **Return on OPERATING capital is spectacular.** If we look at the standalone Naukri business: it generates ~₹700+ Cr of operating profit on perhaps ₹2,000-3,000 Cr of operating capital employed. That's a **25-35% ROCE on the operating business** — elite by any standard.
+2. **Return on OPERATING capital is spectacular.** If we look at the standalone Naukri business: it generates ~₹700+ Cr of operating profit on perhaps ₹2,500-3,500 Cr of operating capital employed. That's a **25-35% pre-tax ROCE on the operating business** — elite by any standard. After tax (at ~25%), this translates to the ~18-19% ROIC shown in the table below.
 
 3. **The consolidated numbers are polluted by**: (a) fair value swings on investments hitting P&L, (b) losses from subsidiary businesses (now reducing), and (c) a massive equity base that includes unrealised investment gains.
 
@@ -293,7 +295,9 @@ This test is complicated for Info Edge because retained earnings went overwhelmi
 
 From FY2018 to FY2025, the company retained approximately ₹14,000+ Cr (including massive unrealised gains). Market cap went from ~₹22,000 Cr to ~₹63,500 Cr — an increase of ~₹41,500 Cr. However, much of the retained earnings are paper gains on investments.
 
-If we focus on the INVESTMENT TRACK RECORD: Info Edge invested ₹3,959 Cr over 15 years and the portfolio is worth ₹36,855 Cr — a 9.3x return, 36% gross IRR. **This is world-class capital allocation.** Every ₹1 invested in startups has become ₹9.3.
+If we focus on the INVESTMENT TRACK RECORD: Info Edge invested ₹3,959 Cr over 15 years and the portfolio is worth ₹36,855 Cr — a 9.3x return, 36% gross IRR (per management's FY25 annual letter). **This is world-class capital allocation.** Every ₹1 invested in startups has become ₹9.3.
+
+> *Note: The 36% gross IRR is higher than a simple CAGR on the total amount (9.3x over 15 years = ~16% CAGR) because IRR accounts for the timing of investments — early bets like Zomato (₹86 Cr in 2010-2013) had much longer to compound than recent investments. The IRR is management's own calculation from their shareholder letter.*
 
 ### Capital Allocation Track Record
 
@@ -354,14 +358,14 @@ Info Edge is fundamentally a **holding company** — valuing it requires separat
 
 | Component | Valuation Approach | Estimated Value (₹ Cr) | Per Share (₹) |
 |---|---|---|---|
-| **Naukri Operating Business** | 35-40x Owner Earnings (₹713 Cr) | 25,000 – 28,500 | 386 – 440 |
+| **Naukri Operating Business** | 35-40x Owner Earnings (₹728 Cr) | 25,500 – 29,100 | 395 – 451 |
 | **99acres** | ~15-20x FY26E revenue (~₹550 Cr) | 8,250 – 11,000 | 127 – 170 |
 | **Jeevansathi + Shiksha + Others** | ~5-8x revenue (~₹250 Cr) | 1,250 – 2,000 | 19 – 31 |
 | **Zomato Stake** (~12.4%) | Market value (fluctuates) | ~22,000 – 25,000 | 340 – 386 |
 | **PB Fintech Stake** (~19%) | Market value (fluctuates) | ~9,000 – 11,000 | 139 – 170 |
 | **Other Startup Portfolio** | ~₹13,000 Cr portfolio FV | 8,000 – 13,000 | 123 – 200 |
 | **Net Cash on Balance Sheet** | | ~4,000 | 62 |
-| **Less: Holding Company Discount** (15-20%) | | -11,775 – -14,175 | -182 – -219 |
+| **Less: Holding Company Discount** (~15%) | | -11,775 – -14,175 | -182 – -219 |
 | **Total SOTP Value** | | **66,725 – 80,325** | **1,030 – 1,240** |
 
 ### Historical Valuation Multiples
@@ -370,8 +374,8 @@ Info Edge is fundamentally a **holding company** — valuing it requires separat
 |---|---|---|---|
 | P/E (on TTM reported EPS ₹20.79) | ~47x | 150-200x+ | Misleading — volatile due to investment gains/losses |
 | P/B (on reported BVPS ₹750) | 1.31x | 3-5x | Looks cheap but book is inflated by investment portfolio |
-| P/E on Operating EPS (~₹11) | ~89x | 50-70x | Expensive but premium franchise |
-| P/Operating Owner Earnings (~₹11) | ~89x | — | Rich but defensible for a toll-bridge monopoly |
+| P/E on Operating EPS (~₹11) | ~87x | 50-70x | Expensive but premium franchise |
+| P/Operating Owner Earnings (~₹11) | ~87x | — | Rich but defensible for a toll-bridge monopoly |
 | EV/Operating EBITDA | ~65-70x | 40-60x | Above historical on operating metrics |
 
 ### Key Observation
@@ -385,14 +389,16 @@ The stock has fallen ~37% from its 52-week high of ₹1,550 to ~₹980. This cor
 ### Approach: SOTP + Operating DCF (Three Scenarios)
 
 **Investment Portfolio Value (marked to market, as of Dec 2025):**
-- Zomato + PB Fintech + others: ~₹48,000 Cr (per company disclosures)
+- Zomato + PB Fintech + others: ~₹48,000 Cr (per company disclosures, Dec 2025)
 - After 20% holding company discount: ~₹38,400 Cr = ~₹593 per share
+
+> **Reconciliation Note:** The Sep 2025 balance sheet (Screener) shows strategic investments at ₹54,424 Cr. The ₹48,000 Cr figure used for valuation is from Info Edge's own Dec 2025 disclosures. The ~₹6,400 Cr decline reflects the broad market correction between Sep–Dec 2025 (Naukri itself fell ~20% in that period), which reduced the market value of listed holdings like Zomato and PB Fintech.
 
 **Operating Business DCF (Owner Earnings-based):**
 
 | Assumption | Conservative | Base | Optimistic |
 |---|---|---|---|
-| Starting Owner Earnings (₹ Cr) | 713 | 713 | 713 |
+| Starting Owner Earnings (₹ Cr) | 728 | 728 | 728 |
 | Growth Yr 1-5 | 12% | 15% | 18% |
 | Growth Yr 6-10 | 10% | 12% | 14% |
 | Terminal Growth | 4% | 5% | 5% |
@@ -404,13 +410,13 @@ The stock has fallen ~37% from its 52-week high of ₹1,550 to ~₹980. This cor
 
 | Scenario | Operating Biz (₹/share) | Investment Portfolio (₹/share) | Net Cash (₹/share) | **Total IV/share** | CMP ₹980 | **Margin of Safety** |
 |---|---|---|---|---|---|---|
-| **Conservative** | 281 | 593 | 62 | **₹936** | ₹980 | **-4.7% (overvalued)** |
+| **Conservative** | 281 | 593 | 62 | **₹936** | ₹980 | **-4.5% (overvalued)** |
 | **Base** | 378 | 593 | 62 | **₹1,033** | ₹980 | **+5.4%** |
 | **Optimistic** | 525 | 593 | 62 | **₹1,180** | ₹980 | **+20.4%** |
 
 ### Key Insight
 
-At ₹980, the stock offers **minimal margin of safety under conservative assumptions** and a modest 5-20% margin of safety under base/optimistic cases. The investment portfolio provides substantial floor value (~₹593 per share after holding company discount), which means the downside is somewhat protected. But the operating business is not cheap — you're paying ~89x operating owner earnings.
+At ₹980, the stock offers **minimal margin of safety under conservative assumptions** and a modest 5-20% margin of safety under base/optimistic cases. The investment portfolio provides substantial floor value (~₹593 per share after holding company discount), which means the downside is somewhat protected. But the operating business is not cheap — you're paying ~87x operating owner earnings.
 
 > **Buffett:** *"The three most important words in investing are: margin of safety."*
 
@@ -426,7 +432,7 @@ The margin of safety here is thin. The investment makes sense primarily if you b
 |---|---|
 | CMP | ₹980 |
 | Normalised Operating EPS (post-split) | ~₹11 |
-| Current PE on Operating EPS | ~89x |
+| Current PE on Operating EPS | ~87x |
 | Shares Outstanding (Diluted) | ~64.5 Cr |
 | Investment Portfolio Value Per Share (after holdco discount) | ~₹593 |
 | **Implied Price for Operating Business** | ₹980 - ₹593 - ₹62 (cash) = **₹325** |
@@ -434,7 +440,7 @@ The margin of safety here is thin. The investment makes sense primarily if you b
 
 ### This Changes Everything
 
-When you strip out the investment portfolio and cash, the market is implicitly valuing the operating business at ~₹325 per share, or **~30x operating owner earnings.** This is FAR more reasonable than the headline 89x.
+When you strip out the investment portfolio and cash, the market is implicitly valuing the operating business at ~₹325 per share, or **~30x operating owner earnings.** This is FAR more reasonable than the headline ~87x.
 
 ### Implied Growth at Different Terminal PEs
 
@@ -477,7 +483,7 @@ At ₹980, you're getting a proven toll-bridge franchise growing at 15%+ (the op
 | FY2022 | 810% (Zomato gains!) | 0.08x | 1.19x | ~75% |
 | FY2023 | -3.0% | 0.14x | 1.24x | ~-0.5% |
 | FY2024 | 23.5% | 0.07x | 1.19x | ~2.0% |
-| FY2025 | 46.0% | 0.07x | 1.10x | ~3.5% |
+| FY2025 | 46.0% | 0.07x | 1.23x | ~3.8% |
 
 This is meaningless for Info Edge because the investment portfolio distorts every metric. Let's look at the **standalone/operating business DuPont** instead:
 
@@ -493,9 +499,7 @@ The operating ROE is improving from ~9% to ~16%, driven entirely by **expanding 
 
 ### P/B Scenario Analysis
 
-This analysis is less meaningful for Info Edge because book value is dominated by the investment portfolio. However, on the **operating book value** (~₹60-70 per share), the stock trades at ~14-16x operating P/B — which is high but justified for a franchise earning ~16% operating ROE and growing at 15%+.
-
-The scenario analysis is better conducted via SOTP, which we've done in Section 12.
+This analysis is less meaningful for Info Edge because book value is dominated by the investment portfolio. As shown in Section 3, net operating equity is technically negative (strategic investments of ₹844/share exceed total BVPS of ₹750). The company's tangible operating asset base (cash + receivables) is ~₹65/share, but this is not a meaningful "book value" for P/B analysis. For Info Edge, the SOTP approach in Section 12 is the only sensible valuation framework.
 
 ---
 
@@ -546,9 +550,9 @@ If you bought at a reasonable price, this is a hold-forever stock. The business 
 
 With a **small capital base** (where Buffett can invest in mid-caps and small-caps), this is exactly the type of business he would love: **a toll-bridge monopoly in a growing market, run by trustworthy founders, generating high returns on capital with minimal reinvestment needs.**
 
-However, Buffett demands a margin of safety, and at ₹980, the margin is thin. **He would likely add Info Edge to his watchlist and wait for a better price** — perhaps in the ₹800-900 range where the SOTP discount becomes more meaningful and the operating business implied PE drops to ~25x.
+However, Buffett demands a margin of safety, and at ₹980, the margin is thin. **He would likely add Info Edge to his watchlist and wait for a better price** — perhaps in the ₹800-900 range where the SOTP discount becomes more meaningful and the operating business implied PE drops to ~13x.
 
-If the stock were at ₹800 or below (which would imply the market is essentially giving you the investment portfolio at a ~30% discount AND valuing the operating business at ~25x earnings), Buffett would buy aggressively.
+If the stock were at ₹800 or below, the SOTP math becomes compelling: implied operating business value = ₹800 − ₹593 (investment portfolio after holdco discount) − ₹62 (cash) = just ₹145/share, or ~13x operating owner earnings. At that price, you're essentially getting the operating toll-bridge franchise at a deep discount AND the investment portfolio at well below market value. Buffett would buy aggressively.
 
 > **Buffett:** *"I don't look to jump over 7-foot bars: I look around for 1-foot bars that I can step over."*
 
@@ -618,13 +622,13 @@ Patience here means: own the business if you got in at a good price and let it c
 
 ### Does the math work on a napkin?
 
-**Operating business:** Earns ~₹700 Cr/year owner earnings, growing at ~15%. At 15% CAGR over 10 years, earnings roughly quadruple to ~₹2,800 Cr. If the market then pays a more mature 25x multiple, the operating business is worth ~₹70,000 Cr. Even at a conservative 12% CAGR (earnings grow to ~₹2,175 Cr) at 25x, that's ~₹54,000 Cr.
+**Operating business:** Earns ~₹728 Cr/year owner earnings, growing at ~15%. At 15% CAGR over 10 years, earnings roughly quadruple to ~₹2,945 Cr. If the market then pays a more mature 25x multiple, the operating business is worth ~₹73,600 Cr. Even at a conservative 12% CAGR (earnings grow to ~₹2,260 Cr) at 25x, that's ~₹56,500 Cr.
 
 **Investment portfolio:** Worth ~₹48,000 Cr today. If it grows at 10%/year (conservative), it's worth ~₹1,24,500 Cr in 10 years.
 
-**Total future value (base case at 12% op growth):** ~₹54,000 + ₹1,24,500 = ~₹1,78,500 Cr vs. current market cap of ~₹63,500 Cr. That's a 2.8x over 10 years, or ~10.9% CAGR. At the optimistic 15% op growth: ~₹70,000 + ₹1,24,500 = ~₹1,94,500 Cr — a 3.1x, or ~11.9% CAGR.
+**Total future value (base case at 12% op growth):** ~₹56,500 + ₹1,24,500 = ~₹1,81,000 Cr vs. current market cap of ~₹63,500 Cr. That's a 2.9x over 10 years, or ~11.0% CAGR. At the optimistic 15% op growth: ~₹73,600 + ₹1,24,500 = ~₹1,98,100 Cr — a 3.1x, or ~12.1% CAGR.
 
-Solid compounding at a fair price. With a better entry price (say ₹800, market cap ~₹51,600 Cr), the base-case return jumps to ~13.2% CAGR and the optimistic case to ~14.2% — distinctly more attractive.
+Solid compounding at a fair price. With a better entry price (say ₹800, market cap ~₹51,600 Cr), the base-case return jumps to ~13.4% CAGR and the optimistic case to ~14.4% — distinctly more attractive.
 
 > **Buffett:** *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."*
 
