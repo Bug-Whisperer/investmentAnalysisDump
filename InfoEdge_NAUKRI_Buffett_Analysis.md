@@ -365,8 +365,8 @@ Info Edge is fundamentally a **holding company** — valuing it requires separat
 | **PB Fintech Stake** (~19%) | Market value (fluctuates) | ~9,000 – 11,000 | 139 – 170 |
 | **Other Startup Portfolio** | ~₹13,000 Cr portfolio FV | 8,000 – 13,000 | 123 – 200 |
 | **Net Cash on Balance Sheet** | | ~4,000 | 62 |
-| **Less: Holding Company Discount** (~15%) | | -11,775 – -14,175 | -182 – -219 |
-| **Total SOTP Value** | | **66,725 – 80,325** | **1,030 – 1,240** |
+| **Less: Holding Company Discount** (~15%) | | -11,700 – -14,265 | -181 – -221 |
+| **Total SOTP Value** | | **66,300 – 80,835** | **1,028 – 1,253** |
 
 ### Historical Valuation Multiples
 
@@ -380,7 +380,7 @@ Info Edge is fundamentally a **holding company** — valuing it requires separat
 
 ### Key Observation
 
-The stock has fallen ~37% from its 52-week high of ₹1,550 to ~₹980. This correction has brought it into the SOTP fair value zone (₹1,030-1,240), but it's still not cheap on operating fundamentals. Most of the "cheapness" comes from the investment portfolio being priced at a discount (holding company discount).
+The stock has fallen ~37% from its 52-week high of ₹1,550 to ~₹980. This correction has brought it into the SOTP fair value zone (₹1,028-1,253), but it's still not cheap on operating fundamentals. Most of the "cheapness" comes from the investment portfolio being priced at a discount (holding company discount).
 
 ---
 
@@ -403,20 +403,20 @@ The stock has fallen ~37% from its 52-week high of ₹1,550 to ~₹980. This cor
 | Growth Yr 6-10 | 10% | 12% | 14% |
 | Terminal Growth | 4% | 5% | 5% |
 | Discount Rate | 11% | 11% | 10% |
-| PV of Cash Flows + Terminal Value (₹ Cr) | 18,200 | 24,500 | 34,000 |
-| Per Share (₹) | 281 | 378 | 525 |
+| PV of Cash Flows + Terminal Value (₹ Cr) | 18,600 | 25,000 | 34,700 |
+| Per Share (₹) | 288 | 388 | 538 |
 
 **Combined Intrinsic Value:**
 
 | Scenario | Operating Biz (₹/share) | Investment Portfolio (₹/share) | Net Cash (₹/share) | **Total IV/share** | CMP ₹980 | **Margin of Safety** |
 |---|---|---|---|---|---|---|
-| **Conservative** | 281 | 593 | 62 | **₹936** | ₹980 | **-4.5% (overvalued)** |
-| **Base** | 378 | 593 | 62 | **₹1,033** | ₹980 | **+5.4%** |
-| **Optimistic** | 525 | 593 | 62 | **₹1,180** | ₹980 | **+20.4%** |
+| **Conservative** | 288 | 593 | 62 | **₹943** | ₹980 | **-3.8% (overvalued)** |
+| **Base** | 388 | 593 | 62 | **₹1,043** | ₹980 | **+6.4%** |
+| **Optimistic** | 538 | 593 | 62 | **₹1,193** | ₹980 | **+21.7%** |
 
 ### Key Insight
 
-At ₹980, the stock offers **minimal margin of safety under conservative assumptions** and a modest 5-20% margin of safety under base/optimistic cases. The investment portfolio provides substantial floor value (~₹593 per share after holding company discount), which means the downside is somewhat protected. But the operating business is not cheap — you're paying ~87x operating owner earnings.
+At ₹980, the stock offers **minimal margin of safety under conservative assumptions** and a modest 6-22% margin of safety under base/optimistic cases. The investment portfolio provides substantial floor value (~₹593 per share after holding company discount), which means the downside is somewhat protected. But the operating business is not cheap — you're paying ~87x operating owner earnings.
 
 > **Buffett:** *"The three most important words in investing are: margin of safety."*
 
@@ -544,13 +544,13 @@ If you bought at a reasonable price, this is a hold-forever stock. The business 
 | Trustworthy management? | ✅ YES | Founder-led, 37.6% promoter stake, 36% IRR on investments, candid communication. |
 | Resistant to disruption? | ⚠️ MOSTLY | AI is a watch-item, but Naukri's data moat and proactive AI investments mitigate. |
 | Sustainable economics for 10+ years? | ✅ YES | Recruitment classifieds model has been stable for 25+ years. India's formalisation trend is a tailwind. |
-| Price below intrinsic value? | ⚠️ MARGINAL | ₹980 is in fair value zone, not deep value. Margin of safety is thin (~5% base case). |
+| Price below intrinsic value? | ⚠️ MARGINAL | ₹980 is in fair value zone, not deep value. Margin of safety is thin (~6% base case). |
 
 ### Verdict
 
 With a **small capital base** (where Buffett can invest in mid-caps and small-caps), this is exactly the type of business he would love: **a toll-bridge monopoly in a growing market, run by trustworthy founders, generating high returns on capital with minimal reinvestment needs.**
 
-However, Buffett demands a margin of safety, and at ₹980, the margin is thin. **He would likely add Info Edge to his watchlist and wait for a better price** — perhaps in the ₹800-900 range where the SOTP discount becomes more meaningful and the operating business implied PE drops to ~13x.
+However, Buffett demands a margin of safety, and at ₹980, the margin is thin. **He would likely add Info Edge to his watchlist and wait for a better price** — perhaps below ₹900, where the operating business implied PE drops to attractive levels (at ₹900: implied operating value = ₹245/share, ~22x OE; at ₹800: ₹145/share, ~13x OE).
 
 If the stock were at ₹800 or below, the SOTP math becomes compelling: implied operating business value = ₹800 − ₹593 (investment portfolio after holdco discount) − ₹62 (cash) = just ₹145/share, or ~13x operating owner earnings. At that price, you're essentially getting the operating toll-bridge franchise at a deep discount AND the investment portfolio at well below market value. Buffett would buy aggressively.
 
@@ -602,7 +602,7 @@ Info Edge is a wonderful 1-foot bar of a business. The question is only whether 
 
 Info Edge is a **rare Indian franchise** — a toll-bridge monopoly (Naukri) run by a visionary founder-operator (Bikhchandani) with a fortress balance sheet and a world-class investment portfolio. The operating business earns 16%+ ROE on a rising trajectory, is essentially debt-free, generates enormous free cash flow, and has a large scaling runway ahead. The investment portfolio (~₹48,000 Cr) is a free optionality call on India's startup ecosystem, built through 15 years of patient, disciplined investing.
 
-At ₹980, the stock is in the **Fair Value zone** — the market is implicitly valuing the operating business at ~30x owner earnings (reasonable for a monopoly) and the investment portfolio at a ~20% holdco discount (normal for a listed holding structure). The margin of safety is thin (~5% base case), which means this is a **HOLD for existing shareholders** and a **WATCHLIST entry for new buyers** waiting for a better price.
+At ₹980, the stock is in the **Fair Value zone** — the market is implicitly valuing the operating business at ~30x owner earnings (reasonable for a monopoly) and the investment portfolio at a ~20% holdco discount (normal for a listed holding structure). The margin of safety is thin (~6% base case), which means this is a **HOLD for existing shareholders** and a **WATCHLIST entry for new buyers** waiting for a better price.
 
 Buffett would deeply admire this business but would wait for a price where the margin of safety is fat — around ₹800-900 or a meaningful market correction. With a small capital base, he'd be prepared to make it a large position at the right price.
 
