@@ -2,7 +2,7 @@
 
 ### **[BANK/NBFC MODE ACTIVATED]** — Federal Bank is a Private Sector Bank. All analysis follows Bank-specific frameworks.
 
-**Analysis Date:** March 22, 2026 | **CMP:** ~₹273 | **Market Cap:** ~₹67,000-68,000 Cr | **52-Week Range:** ₹175 – ₹302 | **Book Value Per Share:** ~₹147 (FY25 Consolidated) | **P/B:** ~1.85x | **P/E:** ~16.2x
+**Analysis Date:** March 22, 2026 | **CMP:** ~₹273 | **Market Cap:** ~₹67,000-68,000 Cr | **52-Week Range:** ₹175 – ₹302 | **Book Value Per Share:** ~₹147 (Q2FY26 / Sep 2025 Consolidated) | **P/B:** ~1.86x | **P/E:** ~16.2x
 
 ---
 
@@ -52,6 +52,8 @@ Federal Bank is one of India's oldest private sector banks, incorporated in 1931
 | **ROA** | 0.92% | 0.87% | 0.93% | **1.30%** | **1.35%** | 1.25% | ~1.15% |
 | **ROE** | ~11% | ~11% | ~11% | **~15%** | **~15%** | ~13% | ~12% |
 
+*Notes on Screener data structure for banks: (a) EPS is sourced directly from Screener and reflects diluted weighted-average shares, which differ from the year-end shares shown in the Shares Outstanding row — dividing Net Income by year-end shares yields a slightly higher figure. (b) Screener's "Operating Expenses" line for banks bundles pure operating costs with provisions/contingencies; consequently the PPOP shown above is effectively a post-provision, pre-D&A figure (PPOP − D&A = PBT exactly). Standard banking PPOP excludes provisions — readers should be aware of this structural difference. (c) The TTM C/I of ~54% is the Q3FY26 standalone quarterly figure (per press release); consolidated TTM C/I computed from the TTM columns would be higher (~64%) because Screener's consolidated "Expenses" includes provisions.*
+
 **Narrative:** FY23 was the **inflection year** — net profit jumped 61%, ROA crossed 1.3%, and NIM peaked at ~3.43% as assets repriced faster than liabilities during the rate-hiking cycle. The **Cost-to-Income ratio improved dramatically** from ~70% (FY20-FY21) to ~55% (FY23-FY24), reflecting genuine operating leverage. However, C/I crept back to ~59% in FY25 due to investment in branches and technology — management is working to bring it back below 55%.
 
 *Note: C/I ratios above are on a CONSOLIDATED basis (OpEx / (NII + Other Income)). Standalone C/I is ~5-8% lower (e.g., standalone FY24 ~47-49% vs consolidated ~55%) because consolidated figures include subsidiary operating costs. Q3FY26 standalone C/I was 53.92% per press release.*
@@ -75,6 +77,8 @@ FY24-FY25 show **profit growth deceleration** (61% → 24% → 7%). This is norm
 | **NNPA %** | 1.30% | **1.23%** | 0.96% | 0.73% | 0.63% | **0.44%** | **0.42%** |
 | **PCR** | — | — | — | — | — | **75.4%** | 75.1% |
 | Leverage (A/E) | 12.4x | 12.4x | 11.7x | 12.1x | 10.6x | 10.4x | 10.1x |
+
+*Note: The last column mixes data from two quarters. Balance sheet items (Total Assets, Deposits, Equity, BVPS) are from Screener's Sep 2025 data (Q2FY26). Asset quality and capital metrics (GNPA, NNPA, PCR, CRAR, CASA) are from the Q3FY26 press release (Dec 2025) as the latest available. BVPS ~₹147 corresponds to Sep 2025 / Q2FY26.*
 
 **Fortress Assessment:**
 1. **Capital Adequacy — STRONG ✅** CRAR 16.40% (FY25), well above 11.5% minimum. Blackstone investment adds ~50bps.
@@ -115,7 +119,7 @@ If actual provisions fall short of normalised levels (under-provisioning), the a
 | **= Normalised Earnings (₹Cr)** | **~2,075** | **~3,322** | **~4,015** | **~4,432** |
 | **Normalised EPS (₹)** | ~9.9 | ~15.7 | ~16.5 | ~18.1 |
 
-*\*Provision Shortfall = (Normalised Credit Cost 0.55% − Actual Credit Cost) × Avg Advances. FY24 actual credit cost was ~0.50% vs 0.55% normalised, producing a ~₹103 Cr shortfall. All other years: actual ≈ normalised, so adjustment ≈ zero.*
+*\*Provision Shortfall = (Normalised Credit Cost 0.55% − Actual Credit Cost) × Avg Advances. FY24 actual credit cost was ~0.50% vs 0.55% normalised, producing a ~₹103 Cr shortfall. All other years: actual ≈ normalised, so adjustment ≈ zero. Note: Normalised EPS uses year-end shares (from Equity Capital ÷ Face Value) as the denominator, while Screener's reported EPS in Section 2 uses diluted weighted-average shares — the two are not directly comparable on a per-share basis.*
 
 **Key insight:** Federal Bank's reported earnings are **approximately at normalised levels** in most years. In FY22, FY23, and FY25 — where actual credit cost matched the normalised 0.55% — normalised earnings run 3.5-4.7% above reported net income (the gap is simply D&A added back minus SBC). FY24 is the exception: actual credit cost dipped to ~0.50%, producing a ~₹103 Cr provision shortfall that narrows the normalised-vs-reported gap to just ~1.3%. This mild under-provisioning in FY24 is worth noting but not alarming — the bank corrected course in FY25 and the overall provisioning posture remains conservative (PCR rising from ~70% to ~75%). *"Accounting reality and economic reality are often different things."* — Buffett. For Federal Bank, the two are unusually close in three of four years — a positive sign.
 
@@ -201,11 +205,11 @@ Operational fundamentals are improving across the board. The ONE negative: C/I r
 
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current |
 |---|---|---|---|---|---|---|---|
-| **P/B** | ~0.8x | ~0.8x | ~1.1x | ~0.9x | ~1.4x | ~1.6x | **~1.85x** |
+| **P/B** | ~0.8x | ~0.8x | ~1.1x | ~0.9x | ~1.4x | ~1.6x | **~1.86x** |
 | **PE** | ~8x | ~8x | ~10x | ~7x | ~11x | ~13x | **~16.2x** |
 | **BVPS (₹)** | 74.3 | 82.7 | 91.5 | 104.6 | 123.6 | 140.6 | ~147 |
 
-**Fair P/B (ROE-based):** At 13% ROE → deserved P/B of **1.5-2.0x** (Good tier). Current 1.86x is at the **higher end**, pricing in ROE improvement to 14-15%. The stock has historically traded between 0.8x (COVID low) and ~2.0x (recent peak). The **5-year median P/B was approximately 1.0-1.2x** during FY20-FY23 when ROE was lower (10-11%). The current higher P/B is justified by the structural improvement in ROE and asset quality, but leaves limited room for error.
+**Fair P/B (ROE-based):** At 13% ROE → deserved P/B of **1.5-2.0x** (Good tier). Current 1.86x is at the **higher end**, pricing in ROE improvement to 14-15%. The stock has historically traded between 0.8x (COVID low) and ~2.0x (recent peak). The **median P/B during FY20-FY24 was approximately 0.9x** (range 0.8x-1.4x), a period when ROE was lower (10-11%). The current much higher P/B reflects the structural improvement in ROE and asset quality since FY23, but leaves limited room for error.
 
 ---
 
@@ -215,9 +219,9 @@ Operational fundamentals are improving across the board. The ONE negative: C/I r
 
 | Scenario | ROE | BV CAGR | Exit P/B | 5Y Price | 5Y CAGR | 10Y Price | 10Y CAGR |
 |---|---|---|---|---|---|---|---|
-| **Conservative** | 11.5% | 10.6% | 1.3x | ₹317 | **3.0%** | ₹511 | **6.5%** |
+| **Conservative** | 11.5% | 10.6% | 1.3x | ₹317 | **3.0%** | ₹523 | **6.7%** |
 | **Base** | 13.0% | 12.0% | 1.6x | ₹414 | **8.7%** | ₹731 | **10.3%** |
-| **Optimistic** | 15.0% | 13.5% | 2.2x | ₹610 | **17.5%** | ₹1,118 | **15.2%** |
+| **Optimistic** | 15.0% | 14.0% | 2.2x | ₹623 | **17.9%** | ₹1,199 | **15.9%** |
 
 ### Excess Return Model
 
@@ -277,7 +281,7 @@ At ₹273, priced for base-to-optimistic. NO margin of safety if conservative sc
 | Your Entry Zone | Action at CMP ₹273 |
 |---|---|
 | Deep Value (<₹147) | **HOLD** — massive profit; let BV compound |
-| Value (₹147-206) | **HOLD with conviction** — great entry; add only below ₹200 |
+| Value (₹147-206) | **HOLD with conviction** — great entry; add only below ₹206 |
 | Fair Value (₹206-265) | **HOLD** — decent; don't add at current levels |
 | Fully Valued (₹265-323) | **HOLD but don't add** — wait for ROE improvement or price drop |
 | Overvalued (>₹323) | **TRIM** on any bounce; redeploy capital |
@@ -297,7 +301,7 @@ At ₹273, priced for base-to-optimistic. NO margin of safety if conservative sc
 
 **Bank-Specific: 5 of 6 criteria pass.** Price fails.
 
-**Verdict:** Good bank, fair-to-expensive price. Buffett with small capital would **WAIT** for ₹200 or below and then buy aggressively.
+**Verdict:** Good bank, fair-to-expensive price. Buffett with small capital would **WAIT** for ₹206 or below (1.4x book) and then buy aggressively.
 
 ---
 
@@ -330,12 +334,12 @@ At ₹273, priced for base-to-optimistic. NO margin of safety if conservative sc
 | Capital Adequacy | **8.0** | 15-16%+ CRAR; Blackstone capital incoming |
 | Management | **7.5** | Disciplined; candid; clean record |
 | Earnings Quality | **8.0** | Reported ≈ normalised; conservative provisioning confirmed |
-| Valuation | **4.5** | 1.85x P/B stretched for 12.5% ROE |
+| Valuation | **4.5** | 1.86x P/B stretched for 12.5% ROE |
 | Margin of Safety | **3.5** | Minimal at current price |
 | BV Compounding | **7.0** | ~11.6% decent, not exceptional |
-| **Buffett Verdict** | | **Good Bank, Fair-to-Expensive Price. HOLD if owned. WAIT to buy below ₹200.** |
-| **Buy Zone** | | **Strong Buy < ₹200. Fair Value ₹200-265.** |
-| **Recommendation** | | **HOLD existing. Do NOT initiate at CMP. Accumulate < ₹200 (~1.3x book).** |
+| **Buffett Verdict** | | **Good Bank, Fair-to-Expensive Price. HOLD if owned. WAIT to buy below ₹206 (1.4x book).** |
+| **Buy Zone** | | **Strong Buy < ₹147 (1.0x). Value Buy ₹147-206 (1.0-1.4x). Fair Value ₹206-265.** |
+| **Recommendation** | | **HOLD existing. Do NOT initiate at CMP. Accumulate below ₹206 (~1.4x book).** |
 
 ---
 
@@ -343,9 +347,9 @@ At ₹273, priced for base-to-optimistic. NO margin of safety if conservative sc
 
 **Can a 10-year-old understand it?** *"Federal Bank takes people's money and lends it out at a higher rate. They're getting better at not lending to bad people. But right now you'd pay almost 2x what the bank's stuff is actually worth. Wait for it to get cheaper."*
 
-**Napkin Math:** BV ₹147 growing at 12%. In 5 years = ₹259. At 1.5x book = ₹389. From ₹273 = ~7.3% CAGR. **You need P/B to sustain at 1.85x or ROE to hit 15% to earn 10%+.**
+**Napkin Math:** BV ₹147 growing at 12%. In 5 years = ₹259. At 1.5x book = ₹389. From ₹273 = ~7.3% CAGR. **You need P/B to sustain at 1.86x or ROE to hit 15% to earn 10%+.**
 
-*"If you need a spreadsheet to figure out if it's a good deal, it's not a good deal."* — Buffett. At ₹273, this needs a spreadsheet. At ₹200, it wouldn't.
+*"If you need a spreadsheet to figure out if it's a good deal, it's not a good deal."* — Buffett. At ₹273, this needs a spreadsheet. At ₹206, it wouldn't.
 
 ---
 
