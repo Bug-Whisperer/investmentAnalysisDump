@@ -48,12 +48,15 @@ Dabur's business is simple enough: make branded natural/ayurvedic consumer produ
 | EPS Growth | 6.1% | 6.2% | 0.1% | 17.1% | 2.7% | -2.0% | 7.9% | -4.1% | ~3% |
 | Shares Outstanding (Cr) | 176 | 177 | 177 | 177 | 177 | 177 | 177 | 177 | ~177 |
 | Dividend Payout % | **81%** | 34% | 37% | 50% | 53% | 54% | 53% | **80%** | — |
+
+*Note: EPS figures are sourced from Screener.in and reflect profit attributable to equity holders of the parent company (excluding minority interest). The Net Profit row shows consolidated net income including minority interest, so dividing Net Profit by Shares Outstanding will yield a slightly lower figure than the reported EPS (e.g., FY25: ₹1,740/177 = ₹9.83 vs. reported EPS of ₹9.97). Owner Earnings in Section 5 use consolidated Net Income for conservatism.*
 | EBITDA (₹ Cr) | 1,617 | 1,740 | 1,792 | 2,002 | 2,252 | 2,162 | 2,400 | 2,316 | ~2,416 |
-| EBITDA Margin % | 20.9% | 20.4% | 20.6% | 20.9% | 20.7% | 18.8% | 19.3% | 18.4% | ~18.6% |
+
+*Note: On Screener.in, Operating Profit is computed before deducting D&A (i.e., OP = EBITDA). The OPM % row above (rounded to integers by Screener) and EBITDA Margin are therefore the same metric; precise EBITDA margins at one decimal are: FY18: 20.9%, FY19: 20.4%, FY20: 20.6%, FY21: 20.9%, FY22: 20.7%, FY23: 18.8%, FY24: 19.3%, FY25: 18.4%.*
 
 ### Trend Narrative
 
-**The story here is unmistakable: stagnation.** Revenue has compounded at merely ~5% over 10 years and ~8% over 5 years. More alarmingly, the **3-year revenue CAGR is just 5%, and TTM growth is a paltry 3%.** For a company valued at 45x+ earnings, this is deeply troubling.
+**The story here is unmistakable: stagnation.** Revenue has compounded at merely ~5% over 10 years and ~8% over 5 years (per Screener.in's computed growth rates, which extend beyond the FY2018-FY2025 data shown in this table). More alarmingly, the **3-year revenue CAGR is just 5%, and TTM growth is a paltry 3%.** For a company valued at 45x+ earnings, this is deeply troubling.
 
 Operating margins have **compressed from the 20-21% band (FY18-FY22) to 18-19% (FY23-FY25).** Net margins have deteriorated from 17-18% to 13-14%, partially due to rising depreciation (from ₹162 Cr in FY18 to ₹446 Cr in FY25 — a 2.7x increase) and higher interest costs (₹53 Cr to ₹164 Cr — 3x increase). EPS has essentially flatlined — growing from ₹7.69 in FY18 to ₹9.97 in FY25, a CAGR of just **3.8% over 7 years.**
 
@@ -112,7 +115,7 @@ The concern is not the balance sheet — it's whether this financial conservatis
 
 ### Cash Flow Quality Assessment
 
-Dabur generates **solid and consistent operating cash flow** — averaging ~₹1,700 Cr over the last 5 years. FCF conversion from net income is generally healthy (FCF/Net Income ranges from 60% to over 100%). The business is not a cash incinerator.
+Dabur generates **solid and consistent operating cash flow** — averaging ~₹1,880 Cr over the last 5 years (FY21-FY25). FCF conversion from net income is generally healthy (FCF/Net Income ranges from 60% to over 100%). The business is not a cash incinerator.
 
 However, **FCF has not grown meaningfully** — oscillating between ₹1,000–1,800 Cr. At the current price of ~₹459 with 177 Cr shares, the market cap is ~₹81,000 Cr. This implies a **P/FCF of ~53x** on trailing FCF of ~₹1,537 Cr. That is extremely expensive for a business with low-single-digit growth.
 
@@ -160,6 +163,8 @@ For Dabur, Owner Earnings ≈ Net Income because maintenance CapEx roughly equal
 | **ROA %** | ~16% | ~17% | ~16% | ~17% | ~15% | ~13% | ~13% | ~11% |
 | **ROCE %** | **28%** | **28%** | **28%** | **27%** | **27%** | 23% | 22% | **20%** |
 | ROIC (est.) | ~20% | ~21% | ~20% | ~19% | ~18% | ~15% | ~14% | ~10% |
+
+*Note: ROE and ROCE figures above are sourced from Screener.in, which may use a different equity base (e.g., opening equity or a weighted method) than the standard average-equity approach. When recomputed using Net Income / Average Shareholders' Equity, some years differ — most notably FY2021 (23.8% on avg equity vs. 21.9% reported by Screener, a 1.9pp gap) and FY2025 (16.8% vs. 17.0%, a minor 0.2pp difference). The DuPont decomposition in Section 14 uses the average-equity method throughout for internal consistency.*
 
 ### The Alarming Trend
 
@@ -436,7 +441,7 @@ This means the market is pricing in either (a) growth far beyond what the busine
 |---|---|
 | India nominal GDP growth | 10-12% |
 | Dabur's own 5Y EPS CAGR | **~4%** |
-| Dabur's own 10Y EPS CAGR | **~5%** |
+| Dabur's own 10Y EPS CAGR | **~5%** (per Screener.in) |
 | Industry average growth | ~8-10% |
 | Analyst consensus (next 3Y) | ~12% |
 
@@ -473,7 +478,7 @@ The most probable downside floor is ~₹350-400 (a de-rating to 35-40x PE, which
 |---|---|---|---|
 | Base intrinsic value | ₹253 per share | ₹253 | **(45% Downside)** |
 | Analyst consensus target | Average ₹530-550 | ₹540 | +18% |
-| Bull case (PE sustains + 10% EPS growth) | 45x × ₹16.1 (5Y FWD EPS) | ₹723 | +57% |
+| Bull case (PE sustains + 10% EPS growth) | 45x × ₹16.8 (5Y FWD EPS) | ₹756 | +65% |
 | Optimistic DCF | ₹346 | ₹346 | **(25% Downside)** |
 
 **Part 3: Asymmetry Ratio**
@@ -547,27 +552,27 @@ ROCE (20%) > ROE (17%) confirms the quality of returns is genuine and not levera
 | Current BVPS | ₹61.0 |
 | Current P/B | 7.5x |
 | Sustainable ROE | 17% (declining, use 15% for conservatism) |
-| Retention Ratio | ~40% (given ~60% average payout) |
-| BV Compounding Rate | 15% × 40% = **6%** |
+| Retention Ratio | ~42% (given ~58% average payout over FY21-FY25) |
+| BV Compounding Rate | 15% × 42% = **6.3%** |
 
 **Projected Book Value Per Share:**
 
 | Year | Projected BVPS |
 |---|---|
 | Current | ₹61 |
-| Year 5 | ₹82 |
-| Year 7 | ₹92 |
-| Year 10 | ₹109 |
+| Year 5 | ₹83 |
+| Year 7 | ₹94 |
+| Year 10 | ₹112 |
 
 **Expected Annual Return (CAGR) at CMP ₹459 (Entry P/B: 7.5x):**
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 7.5x | Optimistic — premium sustains | 6.0% | 6.0% | 6.0% |
-| P/B compresses to 5.6x (0.75×) | Mild de-rating | 0.0% | 1.8% | 3.0% |
-| P/B compresses to 3.75x (0.5×) | Significant de-rating | **-7.3%** | **-3.4%** | **-0.8%** |
-| P/B compresses to 3.0x | Fair value for 15% ROE business | **-11.3%** | **-6.2%** | **-2.8%** |
-| P/B compresses to 1.0x | Valued at book | **-28.8%** | **-20.5%** | **-13.4%** |
+| P/B stays at 7.5x | Optimistic — premium sustains | 6.2% | 6.3% | 6.3% |
+| P/B compresses to 5.6x (0.75×) | Mild de-rating | 0.3% | 2.0% | 3.3% |
+| P/B compresses to 3.75x (0.5×) | Significant de-rating | **-7.5%** | **-3.8%** | **-0.9%** |
+| P/B compresses to 3.0x | Fair value for 15% ROE business | **-11.6%** | **-6.8%** | **-3.0%** |
+| P/B compresses to 1.0x | Valued at book | **-29.0%** | **-20.3%** | **-13.1%** |
 
 ### Traffic Light Verdict on Valuation Safety
 
@@ -575,7 +580,7 @@ ROCE (20%) > ROE (17%) confirms the quality of returns is genuine and not levera
 |---|---|---|
 | 10-year return < hurdle rate even if P/B stays at current 7.5x | **DANGEROUS ENTRY** | 🔴 RED |
 
-Even if the P/B multiple SUSTAINS at 7.5x (highly optimistic given declining ROE), the return merely matches the book value compounding rate of ~6% — well below the 10% hurdle rate. If P/B compresses even modestly, returns turn flat or negative.
+Even if the P/B multiple SUSTAINS at 7.5x (highly optimistic given declining ROE), the return merely matches the book value compounding rate of ~6.3% — well below the 10% hurdle rate. If P/B compresses even modestly, returns turn flat or negative.
 
 **The stock can tolerate virtually ZERO P/B compression before the 10-year return drops below 10%.** This is extremely dangerous.
 
