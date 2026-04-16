@@ -48,7 +48,7 @@ Buffett: *"The best business to own is one that over an extended period can empl
 | Net Profit Growth | — | 0.0% | 32.3% | 14.5% | 68.6% | **-68.0%** | **195.9%** | 64.6% | -29.3% |
 | **EPS (₹)** | 13.48 | 13.48 | 17.83 | 14.02 | 23.65 | **7.57** | 22.40 | **37.65** | 27.02 |
 | EPS Growth | — | 0.0% | 32.3% | -21.4% | 68.7% | **-68.0%** | **195.9%** | 68.1% | — |
-| Shares Outstanding (Cr) | 18.50 | 18.50 | 18.50 | 26.95 | 26.95 | 26.95 | 26.95 | 26.38 | 26.38 |
+| Shares Outstanding (Cr) | 185.0 | 185.0 | 185.0 | 269.5 | 269.5 | 269.5 | 269.5 | 263.8 | 263.8 |
 | EBITDA (Op Profit + D&A) | 4,337 | 4,178 | 4,840 | 10,027 | 20,226 | 14,993 | 20,617 | 27,052 | 24,821 |
 | EBITDA Margin | 65% | 61% | 72% | 72% | 73% | 53% | 72% | **90%** | 77% |
 | Dividend Payout % | 104% | 111% | 59% | 143% | 47% | 0% | 0% | 0% | — |
@@ -97,17 +97,17 @@ Revenue growth has been modest post-merger (2-5% annually from FY22-FY25), but *
 | Current Ratio | — | — | — | — | — | **1.46** |
 | Total Assets Growth | 15.4% | 127.6% | 6.7% | -2.9% | 19.9% | 13.1% |
 
-**Note:** Screener shows Book Value at ₹137 (which may use latest H1 FY26 equity of ₹36,100 Cr / 26.38 Cr shares = ₹136.9). I will use the latest available.
+**Note:** Screener shows Book Value at ₹137 (which uses latest H1 FY26 equity of ₹36,100 Cr / 263.8 Cr shares = ₹136.9). I will use the latest available.
 
 ### Buffett's "Financial Fortress" Assessment
 
 **Strengths:**
-1. **Debt/Equity declining steadily** — from 1.36x in FY21 (post-merger, loaded with debt) to 0.58x currently. The fortress walls are being built.
+1. **Debt/Equity declining steadily** — from 1.36x in FY21 (post-merger, loaded with debt) to 0.65x in FY25 and 0.58x as of H1 FY26. The fortress walls are being built.
 2. **Debt/EBITDA at 0.78x** — this means the company can pay off ALL its debt with less than 10 months of EBITDA. That is fortress-level comfort.
 3. **No pledged shares** — 0% of promoter holding is pledged.
 4. **Credit rating upgraded** — ICRA upgraded rating from AA+ to AAA with stable outlook after Indus repaid all outstanding NCDs by Dec 2025. AAA is the highest domestic rating.
 5. **Current ratio of 1.46** — healthy liquidity position.
-6. **Book Value Per Share compounding rapidly** — from ₹78 in FY23 to ₹137 now, a ~75% increase in under 3 years.
+6. **Book Value Per Share compounding rapidly** — from ₹78 in FY23 to ₹137 now, a ~75% increase in ~3 years.
 
 **Vulnerabilities:**
 1. **Post-merger debt load** — The ₹21,000 Cr debt was inherited from the merger and has been sticky. However, it is now being aggressively repaid.
@@ -220,7 +220,7 @@ This is an **elite return-on-capital profile**. Let me highlight the key finding
 
 1. **ROCE of 29% is outstanding** for an infrastructure business. Most infra companies earn 10-15% ROCE. Indus earns nearly double because of the sharing model — one tower, multiple tenants.
 
-2. **ROE of 32.5% at moderate leverage (D/E 0.58x)** is genuinely quality-driven, not leverage-driven. The ROA of 16.3% confirms this — the underlying business is generating excellent returns on total assets, and leverage is merely amplifying an already strong base.
+2. **ROE of 32.5% at moderate leverage (D/E 0.65x as of FY25, declining to 0.58x in H1 FY26)** is genuinely quality-driven, not leverage-driven. The ROA of 16.3% confirms this — the underlying business is generating excellent returns on total assets, and leverage is merely amplifying an already strong base.
 
 3. **The FY23 trough (ROCE 11%, ROE ~10%)** was entirely due to VIL-related provisions. The business fundamentals were unchanged — towers were still generating revenue. The accounting provisions created a temporary earnings trough that depressed returns. This is the classic Buffett "look-through" situation.
 
@@ -391,7 +391,7 @@ For every ₹1 of retained earnings, has the company created at least ₹1 of ma
 
 ### Capital Allocation Track Record
 
-1. **Share Buyback in FY25:** The company bought back shares worth ~₹573 Cr (equity capital reduced from 2,695 Cr to 2,638 Cr). At a price range of ~₹300-350 (well below current ₹427), this was an accretive buyback. Buffett would approve.
+1. **Share Buyback in FY25:** The company's equity capital reduced from ₹2,695 Cr to ₹2,638 Cr, representing a reduction of 5.7 Cr shares (at ₹10 face value). Total buyback expenditure reflected in financing activities was ~₹573 Cr, though the full extent of capital return may be higher when including premium adjustments against reserves. The stock traded in the ₹313-482 range during FY25. The buyback was conducted at prices well below the current CMP of ₹427, making it accretive. Buffett would approve.
 
 2. **Dividend Policy:** Historically paid 100%+ dividends (sometimes more than net income). Post-FY22, shifted to zero dividends and retaining all earnings. Given the high ROIC (24%), retaining earnings to reinvest at these returns is far superior to paying dividends. This is exactly what Buffett would recommend.
 
@@ -465,7 +465,7 @@ Buffett: *"I look for three things in hiring people: integrity, intelligence, an
 |---|---|---|
 | **PE Ratio** | 15.8x | On TTM EPS of ₹27.02; on FY25 EPS of ₹37.65 → PE is only 11.3x |
 | **P/B Ratio** | 3.12x | Book Value ₹137/share |
-| **EV/EBITDA** | 7.25x | — |
+| **EV/EBITDA** | 7.25x | Note: This is Screener's displayed ratio, which uses Operating Profit (≈EBITDA per Screener convention) and Screener's own EV computation methodology. Using Market Cap + Net Debt (₹1,32,461 Cr) divided by FY25 EBITDA (₹27,052 Cr), the ratio computes to ~4.9x; the difference reflects Screener's EV definition which may include additional lease/operating liabilities. |
 | **Industry PE** | 15.7x | In line with sector |
 | **Industry PBV** | 2.70x | Trading at slight premium to sector |
 | **PEG Ratio** | 0.98x | Attractively below 1.0 |
@@ -512,7 +512,7 @@ At 7.25x EV/EBITDA, tower companies globally trade at 12-20x EV/EBITDA (American
 3. Emerging market discount
 4. No dividend
 
-Even accounting for these factors, 7.25x for a tower business feels deeply discounted.
+Even accounting for these factors, the Screener-reported 7.25x EV/EBITDA for a tower business feels discounted relative to global peers.
 
 ---
 
@@ -525,6 +525,8 @@ Even accounting for these factors, 7.25x for a tower business feels deeply disco
 However, FY25 contained provision reversals. Using a normalised Owner Earnings of ~₹10,000-12,000 Cr (₹38-45/share) is more conservative.
 
 ### Three Scenarios
+
+> **Methodology Note:** Terminal values below are calculated using exit multiples on Year 10 Owner Earnings (~6-7x, appropriate for a mature tower business), not the Gordon Growth perpetuity formula. The terminal growth rates listed represent the expected long-term earnings trajectory context used to inform the exit multiple selection.
 
 #### Conservative Case
 - Starting Owner Earnings: ₹10,000 Cr (₹37.9/share)
@@ -601,7 +603,7 @@ However, FY25 contained provision reversals. Using a normalised Owner Earnings o
 | Current Market Price (CMP) | ₹427 | Market data (16 Mar 2026) |
 | TTM EPS (Normalised) | ₹30 (using average of FY24-FY25 = ~₹30) | Normalised for provision volatility |
 | Current PE (on Normalised EPS) | 14.2x | CMP / Normalised EPS |
-| Shares Outstanding (Diluted) | 26.38 Cr | Latest data |
+| Shares Outstanding (Diluted) | 263.8 Cr | Latest data (Equity Capital ₹2,638 Cr / ₹10 face value) |
 
 **Note:** I use ₹30 normalised EPS rather than TTM ₹27 or FY25 ₹37.65 to smooth out the provision reversal volatility. FY25 was unusually high; TTM is dragged down by the lapping of extraordinary Q3 FY25.
 
@@ -620,33 +622,33 @@ However, FY25 contained provision reversals. Using a normalised Owner Earnings o
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 16.0% EPS CAGR | 21.6% | 27.5% |
-| 10 Years | 12.7% EPS CAGR | 15.5% | 18.4% |
-| 15 Years | 11.5% EPS CAGR | 13.4% | 15.3% |
+| 5 Years | 13.8% EPS CAGR | 19.0% EPS CAGR | 24.2% EPS CAGR |
+| 10 Years | 11.9% EPS CAGR | 17.0% EPS CAGR | 22.1% EPS CAGR |
+| 15 Years | 11.3% EPS CAGR | 16.3% EPS CAGR | 21.4% EPS CAGR |
 
 #### At Terminal PE = 18x (Market Average)
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 7.5% EPS CAGR | 12.9% | 18.5% |
-| 10 Years | 10.4% EPS CAGR | 13.1% | 15.9% |
-| 15 Years | 10.1% EPS CAGR | 12.0% | 13.9% |
+| 5 Years | 5.0% EPS CAGR | 9.7% EPS CAGR | 14.5% EPS CAGR |
+| 10 Years | 7.4% EPS CAGR | 12.3% EPS CAGR | 17.2% EPS CAGR |
+| 15 Years | 8.3% EPS CAGR | 13.2% EPS CAGR | 18.1% EPS CAGR |
 
 #### At Terminal PE = 25x (Compounder)
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 1.5% EPS CAGR | 6.6% | 11.9% |
-| 10 Years | 8.3% EPS CAGR | 10.9% | 13.6% |
-| 15 Years | 9.0% EPS CAGR | 10.8% | 12.7% |
+| 5 Years | **-1.7%** (PE expansion covers it) | 2.7% EPS CAGR | 7.2% EPS CAGR |
+| 10 Years | 4.0% EPS CAGR | 8.7% EPS CAGR | 13.4% EPS CAGR |
+| 15 Years | 5.9% EPS CAGR | 10.8% EPS CAGR | 15.6% EPS CAGR |
 
 #### At Terminal PE = 13x (Historical Average)
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 14.5% EPS CAGR | 20.0% | 25.7% |
-| 10 Years | 12.0% EPS CAGR | 14.7% | 17.6% |
-| 15 Years | 11.1% EPS CAGR | 13.0% | 14.9% |
+| 5 Years | 12.0% EPS CAGR | 17.1% EPS CAGR | 22.2% EPS CAGR |
+| 10 Years | 11.0% EPS CAGR | 16.0% EPS CAGR | 21.1% EPS CAGR |
+| 15 Years | 10.7% EPS CAGR | 15.7% EPS CAGR | 20.7% EPS CAGR |
 
 ### Step 4: Reality Check
 
@@ -661,13 +663,13 @@ However, FY25 contained provision reversals. Using a normalised Owner Earnings o
 ### Traffic Light Assessment
 
 At the base case (Terminal PE = 13x, 10-year horizon):
-- To earn 10%: Need 12% EPS CAGR — **🟢 GREEN** (below historical and at GDP+)
-- To earn 15%: Need 14.7% EPS CAGR — **🟡 YELLOW** (achievable but requires good execution)
-- To earn 20%: Need 17.6% EPS CAGR — **🟠 ORANGE** (needs acceleration)
+- To earn 10%: Need 11% EPS CAGR — **🟢 GREEN** (well below historical 19% CAGR and at GDP+)
+- To earn 15%: Need 16% EPS CAGR — **🟡 YELLOW** (achievable but requires strong execution)
+- To earn 20%: Need 21.1% EPS CAGR — **🟠 ORANGE** (needs acceleration above historical trend)
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹427, to earn a 10% annualised return over 10 years assuming the market values the business at 13x PE at exit, the company needs to grow EPS at 12% CAGR. The company has historically grown EPS at ~19% CAGR over 10 years (though distorted by merger and VIL). A normalised growth expectation of 12-15% is reasonable given the tower rollout pipeline and international expansion. This implies **the market is pricing in reasonable growth** — this is NOT a crazy price, but it's also not a screaming bargain. The math works without heroic assumptions."
+> "At the current price of ₹427, to earn a 10% annualised return over 10 years assuming the market values the business at 13x PE at exit, the company needs to grow EPS at ~11% CAGR. The company has historically grown EPS at ~19% CAGR over 10 years (though distorted by merger and VIL). A normalised growth expectation of 11-15% is reasonable given the tower rollout pipeline and international expansion. This implies **the market is pricing in reasonable growth** — this is NOT a crazy price, but it's also not a screaming bargain. The math works without heroic assumptions."
 
 **Buffett Napkin Test: PASS.** You don't need a spreadsheet to see this works: Buy a toll bridge at 14x normalised earnings, growing at 10-15%, and you'll do well over a decade. Simple.
 
@@ -797,34 +799,34 @@ ROE exceeds ROCE by 3-8 percentage points, which reflects the moderate leverage 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
 | P/B stays at 3.12x | Optimistic | 25.0% | 25.0% | 25.0% |
-| P/B compresses to 2.3x (0.75× current) | Mild de-rating | 19.5% | 20.5% | 21.8% |
-| P/B compresses to 1.56x (0.5× current) | Significant de-rating | 12.8% | 15.3% | 17.9% |
-| P/B to Fair P/B ~7.5x | Theoretical re-rating | 43.5% | 37.0% | 32.4% |
-| P/B compresses to historical median ~2.5x | Reverts to average | 21.8% | 22.5% | 23.2% |
-| P/B compresses to 1.0x | Worst case for quality co. | 0.0% | 6.3% | 11.5% |
+| P/B compresses to 2.3x (0.75× current) | Mild de-rating | 17.6% | 19.7% | 21.3% |
+| P/B compresses to 1.56x (0.5× current) | Significant de-rating | 8.8% | 13.2% | 16.6% |
+| P/B to Fair P/B ~7.5x | Theoretical re-rating | 49.0% | 41.7% | 36.5% |
+| P/B compresses to historical median ~2.5x | Reverts to average | 19.6% | 21.1% | 22.3% |
+| P/B compresses to 1.0x | Worst case for quality co. | -0.4% | 6.3% | 11.6% |
 
 **Using 20% BV Compounding (Conservative):**
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
 | P/B stays at 3.12x | Optimistic | 20.0% | 20.0% | 20.0% |
-| P/B compresses to 2.3x | Mild de-rating | 14.4% | 15.8% | 17.0% |
-| P/B compresses to 1.56x | Significant de-rating | 7.6% | 10.9% | 13.4% |
-| P/B compresses to 1.0x | Worst case | -4.5% | 2.0% | 7.1% |
+| P/B compresses to 2.3x | Mild de-rating | 12.9% | 14.9% | 16.4% |
+| P/B compresses to 1.56x | Significant de-rating | 4.5% | 8.7% | 12.0% |
+| P/B compresses to 1.0x | Worst case | -4.4% | 2.0% | 7.1% |
 
 #### Key Insight
 
-> "At the current entry P/B of 3.12x with a sustainable ROE of 20-25% and 100% retention, book value compounds at 20-25% annually. If the P/B multiple remains at 3.12x, the return equals the BV compounding rate of 20-25%. The stock can tolerate P/B compression from 3.12x down to approximately 1.5x before the 10-year return drops below the 10% hurdle rate (at 25% BV compounding) or approximately 2.0x (at 20% BV compounding)."
+> "At the current entry P/B of 3.12x with a sustainable ROE of 20-25% and 100% retention, book value compounds at 20-25% annually. If the P/B multiple remains at 3.12x, the return equals the BV compounding rate of 20-25%. The stock can tolerate P/B compression from 3.12x down to approximately 0.87x before the 10-year return drops below the 10% hurdle rate (at 25% BV compounding) or approximately 1.31x (at 20% BV compounding). Even a 50% compression in P/B from 3.12x to 1.56x still delivers 16.6% (at 25% ROE) or 12.0% (at 20% ROE) annual returns over 10 years — well above the hurdle rate."
 
 #### Traffic Light Verdict
 
 | Condition | Assessment |
 |---|---|
-| 10-year return > 10% even if P/B halves (to 1.56x)? | **🟢 YES** at 25% ROE (17.9%); **🟢 YES** at 20% ROE (13.4%) |
+| 10-year return > 10% even if P/B halves (to 1.56x)? | **🟢 YES** at 25% ROE (16.6%); **🟢 YES** at 20% ROE (12.0%) |
 | 10-year return > 10% only if P/B stays within 25%? | No — even at severe compression, returns are above hurdle |
 | 10-year return < 10% unless P/B expands? | No |
 
-**Verdict: 🟢 GREEN — Safe Entry.** Book value compounding at 20-25% is so powerful that even a 50% compression in the P/B multiple still delivers 13-18% annual returns over 10 years. This is a business where quality overwhelms valuation headwinds over time.
+**Verdict: 🟢 GREEN — Safe Entry.** Book value compounding at 20-25% is so powerful that even a 50% compression in the P/B multiple still delivers 12-17% annual returns over 10 years. This is a business where quality overwhelms valuation headwinds over time.
 
 Munger: *"Over the long term, it's hard for a stock to earn a much better return than the business earns."* With 25% ROE and full retention, the business compounds at 25%. At 3.12x P/B, you're paying a premium, but the compounding machine is strong enough to overcome it.
 
@@ -848,8 +850,8 @@ The stock is in the middle of the Fair Value zone. It is NOT cheap enough for a 
 
 **Implied Annual Return from Current Price:** Based on the P/B analysis (Section 14), the expected 10-year return from ₹427 is:
 - At 25% ROE, if P/B stays at 3.12x: ~25% CAGR
-- At 20% ROE, if P/B compresses to 2.3x: ~15% CAGR
-- At 20% ROE, if P/B compresses to 1.5x: ~13% CAGR
+- At 20% ROE, if P/B compresses to 2.3x: ~16% CAGR
+- At 20% ROE, if P/B compresses to 1.56x: ~12% CAGR
 
 ### Holding Assessment — What Would Buffett Do?
 
@@ -939,12 +941,12 @@ The turnaround is DONE. Scoring the post-turnaround health:
 |---|---|---|
 | **Business Quality** | **9** | Classic toll-bridge model. Simple, predictable, cash-generative. Buffett would love the business. |
 | **Moat Durability** | **7** | Strong physical moat (towers), but declining tenancy ratio and Jio captive infra mildly erode economics. |
-| **Financial Health** | **9** | AAA-rated, D/E 0.58x declining, no NCDs, current ratio 1.46. Fortress balance sheet. |
+| **Financial Health** | **9** | AAA-rated, D/E 0.65x (FY25) declining to 0.58x (H1 FY26), no NCDs, current ratio 1.46. Fortress balance sheet. |
 | **Management Quality** | **8** | $1 test passed emphatically. Smart buyback, debt repayment, international expansion. Promoter at 51%. |
 | **Return on Capital** | **9** | ROCE 29%, ROE 33%, ROIC 24%. Elite returns driven by margins, not leverage. Consistently above CoC. |
 | **Earnings Quality** | **8** | Owner Earnings ~40% above reported NI. CFO/NI > 1.0x consistently. Some provision volatility. |
 | **Scalability** | **6.5** | India macro towers maturing; Africa and 5G provide new runway. Capital-intensive but high-return capex. |
-| **Valuation** | **6** | Fair value at 15.8x TTM PE, 3.12x P/B. Not cheap, not expensive. EV/EBITDA of 7.25x is discounted vs. global peers. |
+| **Valuation** | **6** | Fair value at 15.8x TTM PE, 3.12x P/B. Not cheap, not expensive. EV/EBITDA of 7.25x (per Screener) is discounted vs. global peers (see Section 11 note on methodology). |
 | **Margin of Safety** | **5.5** | ~30% upside to base case IV (₹611). Insufficient for Buffett's usual 40%+ requirement. Better at ₹300-360. |
 | **Overall Score** | **7.6/10** | |
 
@@ -975,8 +977,8 @@ The turnaround is DONE. Scoring the post-turnaround health:
 **Back-of-napkin math:**
 - Buy at ₹427, normalised EPS ~₹30, PE ~14x
 - Business earns 25% ROE and retains everything
-- Book value doubles every ~3 years (₹137 → ₹274 → ₹548 in 6 years)
-- Even if PE compresses to 10x, EPS in 5 years could be ₹50-60 → Stock at ₹500-600
+- Book value roughly doubles every ~3 years (₹137 → ~₹268 → ~₹525 in 6 years)
+- Even if PE compresses to 10x, EPS in 5 years could be ₹50-60 (at 12-15% normalised growth) → Stock at ₹500-600
 - If PE stays at 14x, stock at ₹700-840 in 5 years
 - Total return: 10-15% per year over 5-10 years
 
