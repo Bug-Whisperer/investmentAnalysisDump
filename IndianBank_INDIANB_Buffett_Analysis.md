@@ -71,6 +71,8 @@ For Indian Bank, assets are ~12x equity (improving from higher leverage). This i
 
 *FY21 jump reflects Allahabad Bank amalgamation (not organic growth)
 
+**Note on PPOP & Provisions:** The PPOP and Provisions figures above are estimates because Screener's "Expenses" line for banks bundles operating expenses with provisions — they cannot be cleanly separated from Screener data alone. PPOP is estimated as Total Income minus Screener's Expenses line, and Provisions are estimated residually. As a result, PPOP minus Provisions does not exactly equal PBT. For precise breakdowns, refer to the bank's published quarterly investor presentations. The Cost-to-Income ratio is similarly an approximation.
+
 ### Trend Narrative
 
 **This is a classic PSU bank turnaround story — and a powerful one.**
@@ -114,6 +116,8 @@ For Indian Bank, assets are ~12x equity (improving from higher leverage). This i
 | Slippage Ratio | — | — | — | — | **2.78%** | ~1.5% | ~1.0% | ~0.8% | **0.69%** |
 
 *FY21 jump reflects Allahabad Bank amalgamation
+
+**Note on BVPS and the Q3FY26 column:** The "Q3FY26" column in the balance sheet table above draws from multiple sources. Balance sheet items (Total Assets ₹9,24,486 Cr, Shareholders' Equity ₹76,887 Cr) are from Screener's latest consolidated balance sheet dated Sep 2025 (H1 FY26), giving BVPS of ~₹571. Asset quality metrics (GNPA 2.23%, NNPA 0.15%, PCR 98.3%) and certain operational data (Deposits ₹7,91,000 Cr, Advances ₹6,39,000 Cr) are from the Dec 2025 (Q3 FY26) quarterly results. Screener's displayed Book Value of **₹593** incorporates the latest quarterly earnings through Dec 2025. The ₹593 figure is used in Sections 11-20 for valuation purposes as it reflects the most current data available on Screener. At CMP ₹870, this gives P/B = 1.47x.
 
 ### Buffett's Financial Fortress Assessment for Banks
 
@@ -167,7 +171,7 @@ This is a **cleaned-up balance sheet**. The bank has provisioned aggressively an
 
 **The bank is generating strong internal capital.** With ROE at 17% and 81% retention, the internal capital generation rate is ~14%. This means book value is compounding at ~14% annually from retained earnings alone — without any equity dilution. This is the bank equivalent of "high free cash flow."
 
-**Is equity dilution behind us?** Shares outstanding have been stable at 134.7 Cr since FY24. The QIP of ~₹4,000 Cr in Q3 FY24 was done at prices significantly above book value — this was value-accretive dilution. If the bank can maintain 14%+ BV compounding without further dilution, this is very attractive.
+**Is equity dilution behind us?** Shares outstanding have been stable at 134.7 Cr since FY24. The QIP of ~₹4,000 Cr in Q3 FY24 was done at/near book value (~₹392/share vs BV ~₹398) — roughly neutral to marginally dilutive. If the bank can maintain 14%+ BV compounding without further dilution, this is very attractive.
 
 ### Equity Dilution History
 
@@ -175,7 +179,7 @@ This is a **cleaned-up balance sheet**. The bank has provisioned aggressively an
 |---|---|---|---|---|---|---|
 | Allahabad Bank merger | FY21 | 60.9 Cr | 112.9 Cr | **+85%** | At/below book | **Value-destructive** (absorbed weaker bank) |
 | FY22 equity raise | FY22 | 112.9 Cr | 124.5 Cr | +10% | Near book | Neutral |
-| QIP ~₹4,000 Cr | Q3 FY24 | 124.5 Cr | 134.7 Cr | +8% | **Above book** (~₹400 vs BV ~₹398) | **Marginally accretive** |
+| QIP ~₹4,000 Cr | Q3 FY24 | 124.5 Cr | 134.7 Cr | +8% | **At/near book** (~₹392 vs BV ~₹398) | **Roughly neutral** |
 
 > *Buffett: "A bank that must repeatedly raise equity capital to grow is destroying per-share value."* Indian Bank's dilution phase appears to be over. At current ROE (17%) and retention (81%), the bank can fund ~12-14% asset growth internally. If advances grow faster (15%+), the bank may need additional capital — but not imminently given CRAR of 16.6%.
 
@@ -193,6 +197,8 @@ This is a **cleaned-up balance sheet**. The bank has provisioned aggressively an
 | Average Credit Cost as % of Advances (5Y norm) | — | — | — | — | ~1.2% |
 | Normalised Credit Cost (1.2% × current advances ~₹6,39,000 Cr) | — | — | — | **~7,668** | — |
 | Normalised Earnings (est.) | — | — | — | **~12,500-13,000** | — |
+
+**Note on Normalised Earnings derivation:** The ₹12,500-13,000 estimate is derived top-down from sustainable earnings power (BVPS ₹593 × sustainable ROE ~16% × 134.7 Cr shares ≈ ₹12,800 Cr), NOT from a bottom-up adjustment of the table components above. A bottom-up approach is complicated because Screener's "Provisions & Contingencies" line bundles pure credit provisions with standard asset provisions, investment depreciation, and other non-credit items — making it impossible to isolate pure credit cost from this data alone. The pure credit cost is estimated at ~₹3,000-4,000 Cr (0.5-0.6% of advances), well below the total provisions figure.
 
 **Key Findings:**
 
@@ -231,7 +237,7 @@ This is a **cleaned-up balance sheet**. The bank has provisioned aggressively an
 | Fee Income Ratio (Other Inc / Total Inc) | ~19% | ~17% | ~15% | **~16%** | → Stable |
 | Operating Efficiency (1 - C/I Ratio) | ~50% | ~53% | ~62% | **~67%** | ↑↑ **Strong improvement** |
 | Provision Intensity (1 - Prov/PPOP) | ~21% | ~32% | ~43% | **~48%** | ↑↑ **Strong improvement** |
-| Tax Efficiency (NI/PBT) | ~127%* | ~89% | ~74% | **~74%** | → Normalised |
+| Tax Efficiency (NI/PBT) | ~127%* | ~93% | ~76% | **~76%** | → Normalised |
 | Leverage (Assets/Equity) | 15.0x | 14.4x | 13.2x | **12.3x** | ↓ **De-leveraging** |
 | ROA | ~0.6% | ~0.8% | ~1.1% | **~1.35%** | ↑↑ **Strong improvement** |
 | **ROE (ROA × Leverage)** | **~10%** | **~12%** | **~15%** | **~17%** | **↑↑ Strong improvement** |
@@ -363,10 +369,12 @@ The comparison to GEICO is apt — Buffett bought GEICO when it was recovering f
 
 | Period | Retained Earnings (₹ Cr) | Change in Market Cap (₹ Cr) | Value Created per ₹1 Retained |
 |---|---|---|---|
-| FY20-FY25 (5 years) | Equity: ₹22,768 → ₹71,513 = ~₹48,745 retained | Market Cap: ~₹6,000 → ₹1,17,258 = ~₹1,11,258 gain | **₹2.28 per ₹1 retained** |
-| FY22-FY25 (3 years) | Equity: ₹44,951 → ₹71,513 = ~₹26,562 retained | Market Cap: ~₹35,000 → ₹1,17,258 = ~₹82,258 gain | **₹3.10 per ₹1 retained** |
+| FY20-FY25 (5 years) | Actual retained FY21-FY25 (NI − Dividends): ~₹26,707 Cr | Market Cap: ~₹6,000 → ₹1,17,258 = ~₹1,11,258 gain | **₹4.17 per ₹1 retained** |
+| FY22-FY25 (3 years) | Actual retained FY23-FY25 (NI − Dividends): ~₹20,462 Cr | Market Cap: ~₹35,000 → ₹1,17,258 = ~₹82,258 gain | **₹4.02 per ₹1 retained** |
 
-**Verdict: Exceptional.** Management has created ₹2-3 of market value for every ₹1 retained. This is outstanding capital allocation — far exceeding the ₹1 hurdle.
+**Note:** Shareholders' equity grew by ₹48,745 Cr over FY20-25, but this includes ~₹14,000 Cr from the Allahabad Bank merger equity infusion (FY21), ~₹4,000 Cr from the QIP (Q3 FY24), and ~₹4,000 Cr from the FY22 equity raise. The true retained earnings (net income minus dividends paid, FY21-FY25) were ~₹26,707 Cr. The $1 Test is calculated on actual retained earnings generated after the starting equity baseline to reflect management's capital allocation skill on organically generated profits.
+
+**Verdict: Exceptional.** Management has created ₹4+ of market value for every ₹1 of actual retained earnings. This is outstanding capital allocation — far exceeding the ₹1 hurdle.
 
 ### Bank-Specific Management Evaluation
 
@@ -374,7 +382,7 @@ The comparison to GEICO is apt — Buffett bought GEICO when it was recovering f
 
 **Growth Discipline:** Advance growth of 11-13% is moderate and disciplined — not chasing growth recklessly. Loan mix diversification (away from large corporate) reduces concentration risk.
 
-**Capital Allocation:** The QIP of ~₹4,000 Cr in Q3 FY24 was done at/above book value — accretive. Dividend payout at 19% is appropriate (retaining enough for growth). No wasteful acquisitions.
+**Capital Allocation:** The QIP of ~₹4,000 Cr in Q3 FY24 was done at/near book value (~₹392/share vs BV ~₹398) — roughly neutral. Dividend payout at 19% is appropriate (retaining enough for growth). No wasteful acquisitions.
 
 **GoI Ownership (73.84%):** This is a double-edged sword:
 - **Positive:** Implicit sovereign guarantee, access to government business, deposit trust
@@ -441,12 +449,12 @@ This is the gold standard for bank scaling — growth WITH quality improvement. 
 |---|---|---|
 | Price-to-Book (P/B) | **1.47x** | Was <0.5x in 2020; 5Y avg ~0.8-1.0x |
 | Price-to-Tangible Book | ~1.50x | Similar (minimal intangibles) |
-| PE Ratio | **9.75x** | Industry median 7.5x; was <5x in 2020 |
-| Forward PE (est.) | ~8.0-8.5x | Based on ~₹100-105 FY26E EPS |
+| PE Ratio (on normalised EPS ~₹89) | **9.8x** | Reported PE on TTM EPS (₹85.47) = 10.2x; industry median ~7.5x; was <5x in 2020 |
+| Forward PE (est.) | ~8.3-8.7x | Based on ~₹100-105 FY26E EPS |
 | Earnings Yield | ~10.3% | Attractive vs. 10Y G-Sec ~7% |
-| Dividend Yield | **1.87%** | Good for a PSU bank |
-| BVPS | **₹593** | Growing at ~14-19% annually |
-| BV Growth Rate (3Y) | ~15% CAGR | Accelerating |
+| Dividend Yield | **1.83%** | Good for a PSU bank (DPS ₹15.88 / CMP ₹870) |
+| BVPS | **₹593** | Screener's latest computed BV (incorporates Dec 2025 quarter) |
+| BV Growth Rate (3Y) | ~14% CAGR | Accelerating |
 
 ### Fair P/B Calculation (Gordon Growth Model)
 
@@ -560,7 +568,7 @@ Fair P/B = (0.14 - 0.10) / (0.12 - 0.10) = 0.04 / 0.02 = 2.0x
 | TTM EPS (Normalised) | ₹89 | Reported TTM ₹85.47; normalised ~₹93; using ₹89 as midpoint |
 | Current PE | 9.8x | CMP / Normalised EPS |
 | Shares Outstanding | 134.7 Cr | Latest |
-| Historical 5Y EPS CAGR | ~67% | Screener (inflated by NPA cycle recovery) |
+| Historical 5Y Net Profit CAGR | ~67% | Screener (inflated by NPA cycle recovery); **EPS CAGR ~43%** due to share dilution (60.9 → 134.7 Cr shares) |
 | Sustainable EPS CAGR | ~15-18% | Based on ROE 15-17% and ~81% retention |
 
 ### Step 2-3: Terminal PE & Implied EPS CAGR
@@ -569,22 +577,22 @@ Fair P/B = (0.14 - 0.10) / (0.12 - 0.10) = 0.04 / 0.02 = 2.0x
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **11%** EPS CAGR | 17% | 24% |
-| 10 Years | **9%** EPS CAGR | 12% | 15% |
+| 5 Years | **15%** EPS CAGR | 20% | 25% |
+| 10 Years | **12%** EPS CAGR | 17% | 22% |
 
 #### At Terminal PE = 10x (Market Average for Banks)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **6%** EPS CAGR | 13% | 19% |
-| 10 Years | **7%** EPS CAGR | 10% | 13% |
+| 5 Years | **10%** EPS CAGR | 15% | 20% |
+| 10 Years | **10%** EPS CAGR | 15% | 20% |
 
 #### At Terminal PE = 12x (Well-Regarded Bank)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **3%** EPS CAGR | 9% | 15% |
-| 10 Years | **5%** EPS CAGR | 8% | 11% |
+| 5 Years | **6%** EPS CAGR | 10% | 15% |
+| 10 Years | **8%** EPS CAGR | 13% | 18% |
 
 #### Terminal P/B Alternative (Base: 1.8x P/B)
 
@@ -596,16 +604,17 @@ At 1.8x exit P/B with 12% BV compounding → 5Y target price = ₹593 × 1.12^5 
 | Benchmark | EPS CAGR | Assessment |
 |---|---|---|
 | India nominal GDP | 10-12% | Floor |
-| Indian Bank historical 5Y EPS CAGR | ~67% | Unsustainable (recovery phase) |
+| Indian Bank historical 5Y Net Profit CAGR | ~67% | Unsustainable (recovery phase + dilution hides per-share picture) |
+| Indian Bank historical 5Y EPS CAGR | ~43% | Also recovery-inflated; dilution reduced per-share growth |
 | Sustainable EPS growth (ROE × Retention) | ~14-15% | Achievable if ROE sustains |
 | PSU bank sector average | ~12-15% | Peer benchmark |
-| Required for 15% return at 10x exit PE | ~13% | Highly achievable |
+| Required for 15% return at 10x exit PE | ~15% | Achievable |
 
 ### Traffic Light
 
-> At the current price of ₹870, to earn a **15% annualised return over 10 years** assuming the market values the bank at **10x exit PE**, the bank needs to grow EPS at **10% CAGR**. The bank's sustainable growth rate is ~14-15%. This implies **the market is pricing in BELOW what the business can deliver.**
+> At the current price of ₹870, to earn a **15% annualised return over 10 years** assuming the market values the bank at **10x exit PE**, the bank needs to grow EPS at **~15% CAGR**. The bank's sustainable growth rate is ~14-15%. This implies **the market is pricing in roughly what the business can deliver — the price is fair to slightly attractive.**
 
-**🟢 GREEN — The market is demanding LESS than the bank can deliver.** At the current PE of 9.8x, you need only modest single-digit EPS growth for a 10%+ return. The bank is growing EPS at 15%+. This is a classic case of the market underpricing a PSU turnaround.
+**🟢 GREEN — The market is demanding achievable growth.** At the current PE of 9.8x (normalised), you need ~10% EPS CAGR for a 10% return at 10x exit PE — well within the bank's capability. The bank is growing earnings at 15%+, providing a comfortable margin. The real upside comes from P/B re-rating if ROE sustains above 15%.
 
 ### Step 6: Asymmetric Upside Check — Fat Pitch Analysis
 
@@ -624,9 +633,9 @@ At 1.8x exit P/B with 12% BV compounding → 5Y target price = ₹593 × 1.12^5 
 
 | Upside Scenario | Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
-| Base Case (1.8x FY27 BV) | ₹750 × 1.8 = ₹1,350 | ₹1,350 | **+55%** |
-| Bull Case (2.5x FY27 BV) | ₹750 × 2.5 = ₹1,875 | ₹1,875 | **+116%** |
-| Scaling Multiplier (ROE sustains 17%+) | ₹1,057 BV (FY30) × 2.0 | ₹2,114 | **+143%** |
+| Base Case (1.8x FY28 BV) | ₹750 × 1.8 = ₹1,350 | ₹1,350 | **+55%** |
+| Bull Case (2.5x FY28 BV) | ₹750 × 2.5 = ₹1,875 | ₹1,875 | **+116%** |
+| Scaling Multiplier (ROE sustains 17%+) | ₹1,057 BV (FY31) × 2.0 | ₹2,114 | **+143%** |
 | Re-rating Catalyst (PSU bank re-rating) | Industry re-rates to 1.5-2.0x | ₹1,200-1,600 | **+38-84%** |
 
 #### Part 3: Asymmetry Ratio
@@ -666,7 +675,7 @@ This is in the **1:1 to 2:1 range — Marginal to Decent.** With some optimism o
 | Is downside capped by tangible value? | **Yes** — book value of ₹593 is tangible and growing |
 | Is upside driven by fundamentals? | **Yes** — ROE improvement, BV compounding, NPA reduction |
 | Would you buy MORE if it dropped 30%? | **Yes** — at ₹600 (1.0x book), it's a gift for a 17% ROE bank |
-| Can you explain in 2 sentences? | **"Indian Bank is a cleaned-up PSU bank earning 17% ROE, bought at just 1.5x book. If ROE sustains, book value compounds at 14% and the stock re-rates."** |
+| Can you explain in 2 sentences? | **"Indian Bank is a cleaned-up PSU bank earning 17% ROE, bought at just 1.5x book. If ROE sustains at current levels, book value compounds at ~14% and the stock re-rates."** |
 
 > *Buffett: "The most common cause of low prices is pessimism — sometimes pervasive, sometimes specific to a company or industry. We WANT to do business in such an environment."* The PSU bank pessimism is the source of the opportunity.
 
@@ -713,27 +722,27 @@ This is in the **1:1 to 2:1 range — Marginal to Decent.** With some optimism o
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 1.47x | Multiple sustains | **16.0%** | **14.5%** | **12.2%** |
-| P/B compresses to 1.1x (0.75 × current) | Mild de-rating | **9.3%** | **10.3%** | **8.6%** |
-| P/B compresses to 1.0x Book | Valued at book | **4.0%** | **6.3%** | **8.0%** |
-| P/B expands to 1.8x (Fair P/B conservative) | Re-rates to fair | **20.0%** | **17.1%** | **14.5%** |
-| P/B expands to 2.0x (Good bank deserved) | Re-rates for ROE | **22.5%** | **18.5%** | **15.4%** |
-| P/B expands to 2.5x (Excellent bank) | Bull re-rating | **28.8%** | **22.1%** | **18.0%** |
-| **Quality-tier-implied** (1.5-2.5x for Good-Excellent) | Based on ROA/ROE | **16-29%** | **15-22%** | **12-18%** |
+| P/B stays at 1.47x | Multiple sustains | **12.2%** | **12.2%** | **12.2%** |
+| P/B compresses to 1.1x (0.75 × current) | Mild de-rating | **5.9%** | **7.7%** | **9.0%** |
+| P/B compresses to 1.0x Book | Valued at book | **3.9%** | **6.2%** | **8.0%** |
+| P/B expands to 1.8x (Fair P/B conservative) | Re-rates to fair | **16.9%** | **15.5%** | **14.5%** |
+| P/B expands to 2.0x (Good bank deserved) | Re-rates for ROE | **19.4%** | **17.3%** | **15.7%** |
+| P/B expands to 2.5x (Excellent bank) | Bull re-rating | **24.8%** | **21.1%** | **18.3%** |
+| **Quality-tier-implied** (1.5-2.5x for Good-Excellent) | Based on ROA/ROE | **13-25%** | **12-21%** | **12-18%** |
 
 #### Key Insight
 
-> "At the current entry P/B of 1.47x with a sustainable ROE of 15% and 81% retention, book value compounds at 12.2% annually. If the P/B multiple remains at 1.47x, the return equals the BV compounding rate of ~12%. The stock can tolerate P/B compression from 1.47x down to approximately 1.0x before the 10-year return drops below the 10% hurdle rate. Since the current P/B is already modest (1.47x) for a bank earning 17% ROE, significant compression is unlikely. **The entry is well-protected.**"
+> "At the current entry P/B of 1.47x with a sustainable ROE of 15% and 81% retention, book value compounds at 12.2% annually. If the P/B multiple remains at 1.47x, the return equals the BV compounding rate of ~12.2% regardless of the holding period. Every 50% compression in P/B over 10 years creates roughly 7% annual drag on returns. The stock can tolerate P/B compression from 1.47x down to approximately 1.1x before the 10-year return drops below the 10% hurdle rate. Since the current P/B is already modest (1.47x) for a bank earning 17% ROE, significant compression is unlikely. **The entry is well-protected.**"
 
 #### Traffic Light Verdict
 
 | Condition | Verdict |
 |---|---|
 | 10-year return > 10% even if P/B halves to 0.74x? | **No** — returns would be ~2.5%. But P/B halving to 0.74x requires ROE to collapse below cost of equity (~12%). | 
-| 10-year return > 10% if P/B stays at 1.0x? | **Barely** — ~8% return. Need P/B of ~1.1x+ for 10%+ | 
-| 10-year return > 10% if P/B stays within 25% of current? | **Yes** — at 1.1x+, returns exceed 10% | 🟢 GREEN |
+| 10-year return > 10% if P/B stays at 1.0x? | **Barely** — ~8% return. Need P/B of ~1.1x+ for ~9%+ | 
+| 10-year return > 10% if P/B stays within 25% of current (1.1x+)? | **Approaching** — at 1.1x, returns are ~9% over 10Y; P/B sustaining at 1.47x gives 12.2% | 🟢 GREEN |
 
-**🟢 GREEN — Safe entry.** At 1.47x P/B, the entry is protected because even moderate P/B compression to 1.1x delivers ~9% returns over 10 years, and any P/B expansion delivers 15%+ returns. The stock is NOT priced for perfection.
+**🟢 GREEN — Safe entry.** At 1.47x P/B, the entry is protected because even moderate P/B compression to 1.1x delivers ~9% returns over 10 years, and any P/B expansion to 1.8x+ delivers 14.5%+ returns. The stock is NOT priced for perfection.
 
 > *Munger: "Over the long term, it's hard for a stock to earn a much better return than the business earns."* Indian Bank earns 15-17% ROE. At 1.47x book, your long-term return should converge toward 12-15% — with upside if the multiple expands. That's an attractive proposition.
 
@@ -856,7 +865,7 @@ Indian Bank has already COMPLETED its turnaround. This section scores the sustai
 | **Capital Adequacy (CRAR, Tier-1)** | **8/10** | CRAR 16.6%, self-funding growth. No dilution needed imminently. |
 | **Management Quality & Risk Culture** | **6/10** | Competent execution. PSU management rotation is structural weakness. No fraud history. |
 | **Earnings Quality (Normalised vs Reported)** | **8/10** | Reported earnings are CONSERVATIVE (credit costs at cyclical lows but PCR at 98%). Normalised earnings ~₹93/share vs reported ₹84. |
-| **Valuation (P/B vs Fair P/B)** | **7/10** | Trading at 1.47x vs fair 2.0-3.0x. ~26-50% upside to fair value. Cheap but not egregiously cheap. |
+| **Valuation (P/B vs Fair P/B)** | **7/10** | Trading at 1.47x vs fair 2.0-3.0x. ~36% upside to conservative fair value (2.0x), ~105% to optimistic fair value (3.0x). Cheap but not egregiously cheap. |
 | **Margin of Safety (Excess Return Model)** | **7/10** | 27% margin of safety in base case. Book value provides tangible floor. |
 | **Book Value Compounding Potential** | **8/10** | 12-14% BV compounding rate. Self-funded. No dilution drag. |
 | **Buffett Verdict** | | **Transitioning from Deep Value to True Buffett Bank** |
@@ -867,13 +876,13 @@ Indian Bank has already COMPLETED its turnaround. This section scores the sustai
 
 Indian Bank is a **117-year-old public sector universal bank** that has undergone one of the most impressive turnarounds in Indian banking. From the depths of the NPA crisis (8.5% GNPA, 2% ROE, 2019-20), it has emerged as a bank earning **17% ROE, 1.35% ROA, with a pristine balance sheet (2.2% GNPA, 0.15% NNPA, 98% PCR) and best-in-class operating efficiency (33% cost-to-income ratio).**
 
-The valuation at **1.47x book value** does not fully reflect this transformation. The market is anchored to the "PSU bank = value trap" narrative. But the numbers tell a different story: ROE well above cost of equity, book value compounding at 14%, internal capital generation sufficient to fund growth, and asset quality among the cleanest in the system.
+The valuation at **1.47x book value** does not fully reflect this transformation. The market is anchored to the "PSU bank = value trap" narrative. But the numbers tell a different story: ROE well above cost of equity, book value compounding at 12-14%, internal capital generation sufficient to fund growth, and asset quality among the cleanest in the system.
 
 **Buffett would classify this as a "Good bank getting better, at a Fair price."** It's not a table-pounding fat pitch (he'd want it at 1.0x book for that), but it's an attractive risk/reward for a patient investor. At the current price, you're likely to earn **12-17% annual returns over 5-10 years** — driven by BV compounding plus modest P/B re-rating — with downside protected by tangible book value.
 
 **For a small capital base investor:** This is a solid core holding. Buy at ₹770 or below (dips to 1.3x book). Hold existing positions. Add aggressively below ₹600 (1.0x book). Target a full position and let book value compounding work over 5+ years.
 
-> *Buffett: "The stock market is designed to transfer money from the Active to the Patient."* Indian Bank rewards patience. The BV compounding machine is running at 14%. Just sit in the boat.
+> *Buffett: "The stock market is designed to transfer money from the Active to the Patient."* Indian Bank rewards patience. The BV compounding machine is running at 12-14%. Just sit in the boat.
 
 ---
 
@@ -881,21 +890,21 @@ The valuation at **1.47x book value** does not fully reflect this transformation
 
 ### The 10-Year-Old Test
 
-**"Indian Bank is a big old bank — been around since 1907. They take money from people (deposits) and lend it to others at a higher rate. The difference is their profit. A few years ago, they had a lot of bad loans (money lent that wasn't coming back). But they've cleaned that up — almost all bad loans are now covered by reserves. The bank is making good money now (₹11,264 Cr profit last year) and growing. You can buy a share for ₹870 but the bank's actual 'value' per share is ₹593 and growing every year. The bank makes 17% return on its money — so your share of the bank's value grows by about 14% every year without you doing anything."**
+**"Indian Bank is a big old bank — been around since 1907. They take money from people (deposits) and lend it to others at a higher rate. The difference is their profit. A few years ago, they had a lot of bad loans (money lent that wasn't coming back). But they've cleaned that up — almost all bad loans are now covered by reserves. The bank is making good money now (₹11,264 Cr profit last year) and growing. You can buy a share for ₹870 but the bank's actual 'value' per share is ₹593 and growing every year. The bank makes 17% return on its money — so your share of the bank's value grows by about 12-14% every year without you doing anything."**
 
 ### Does the Math Work on a Napkin?
 
-- **Book Value: ₹593. Growing at ~14% per year.**
-- **In 5 years, book value ≈ ₹1,050.**
-- **If market values it at 1.5x book (reasonable for 15% ROE bank) → stock price ₹1,575.**
-- **From ₹870 to ₹1,575 in 5 years = ~13% CAGR + ~2% dividends = ~15% total.**
-- **Add P/B re-rating to 2.0x → stock price ₹2,100 → ~19% CAGR.**
+- **Book Value: ₹593. Growing at ~12-14% per year (base case ~12%, optimistic ~14%).**
+- **In 5 years, book value ≈ ₹1,050-1,140.**
+- **If market values it at 1.5x book (reasonable for 15% ROE bank) → stock price ₹1,575-1,710.**
+- **From ₹870 to ₹1,575 in 5 years = ~12.6% CAGR + ~2% dividends = ~15% total.**
+- **Add P/B re-rating to 2.0x → stock price ₹2,100-2,280 → ~19-21% CAGR.**
 
-**Yes, the napkin math works.** You don't need Excel. Buy a cleaned-up bank at 1.5x book that compounds BV at 14%. Even without re-rating, you earn ~14%. With re-rating, you earn 17-19%. Downside is capped at book value (₹593).
+**Yes, the napkin math works.** You don't need Excel. Buy a cleaned-up bank at 1.5x book that compounds BV at 12-14%. Even without re-rating, you earn ~12-14%. With re-rating, you earn 17-19%. Downside is capped at book value (₹593).
 
 > *Buffett: "If you need to use a computer or a calculator to make the calculation, you shouldn't buy it."*
 
-This passes the napkin test. The math is simple. The thesis is clear. The only uncertainty is whether the 15-17% ROE sustains — and the balance sheet evidence (98% PCR, 0.15% NNPA, 33% C/I ratio) strongly suggests it will.
+This passes the napkin test. The math is simple. The thesis is clear. The only uncertainty is whether the 15-17% ROE sustains — and the balance sheet evidence (98% PCR, 0.15% NNPA, 33% C/I ratio) strongly suggests it will. At the base case 15% ROE with 81% retention, BV compounds at ~12.2% annually — and any P/B re-rating from the current 1.47x adds to returns.
 
 **Final Buffett Quote:**
 
