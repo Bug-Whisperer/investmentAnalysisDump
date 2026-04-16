@@ -159,6 +159,8 @@ Owner Earnings are almost identical to reported net income because CapEx ≈ Dep
 | ROIC % | 73.8% | 80.0% | 82.5% | **36.1%** | 20.8% | 22.6% | 23.2% | 24.5% |
 | ROCE % | **103%** | **116%** | **117%** | 39% | 25% | 27% | 27% | 28% |
 
+*Note on ROE figures: The header shows ROE of 20.7% (Screener.in's reported figure). The Section 6 table uses NP / average equity (FY2025: 10,671 / avg(51,218, 49,402) = 21.1%). Section 14's DuPont decomposition uses end-of-year balance sheet figures, producing 21.6%. All three are methodologically valid; the differences arise from averaging conventions. The directional assessment (ROE of ~20-21%, well above cost of equity) is consistent across all methods.*
+
 **Critical Context:** Pre-FY2021 and post-FY2021 numbers are **NOT comparable** due to the GSK Consumer Healthcare acquisition which inflated the balance sheet by ~₹48,000 Cr of equity (primarily goodwill). Pre-acquisition ROE/ROIC looked stratospheric because the equity base was tiny. Post-acquisition, with the diluted equity base, the returns normalised to a still-excellent 20-25% range.
 
 **Post-Acquisition Normalised Picture (FY2022-FY2025):**
@@ -280,13 +282,13 @@ Volume growth (the true measure of organic scaling) has been 2-4% — barely abo
 
 **Buffett's $1 Test:**
 
-Over FY2018-FY2025, HUL retained approximately ₹7,000-8,000 Cr of cumulative earnings (net of dividends). Market cap went from ~₹5.2 lakh Cr (FY2018) to ~₹4.9 lakh Cr (current) — a **decrease**. For every ₹1 retained, HUL created **less than ₹1 of market value**. The stock has essentially gone nowhere in 5+ years while the business grew profits by ~80%.
+Over FY2018-FY2025, HUL retained approximately ₹4,000 Cr of cumulative earnings (net of dividends — total net profit of ₹66,030 Cr minus total dividends of ~₹62,000 Cr). Market cap went from ~₹5.2 lakh Cr (FY2018) to ~₹4.9 lakh Cr (current) — a **decrease**. For every ₹1 retained, HUL created **less than ₹1 of market value**. The stock has essentially gone nowhere in 5+ years while the business grew EPS by ~88% (₹24.09 to ₹45.32).
 
 This **fails Buffett's $1 test**, but the failure is due to valuation compression (PE went from 65-70x to ~45x), not business deterioration. The business itself has performed well — the market simply paid too much in 2019-2021.
 
 **Capital Allocation Track Record:**
 
-The **GSK Consumer Healthcare acquisition (FY2021)** was the defining capital allocation event. HUL issued ~19 Cr new shares (8.8% dilution) to acquire Horlicks, Boost, and other brands. This added ~₹47,000 Cr of goodwill to the balance sheet. Horlicks was a strong brand acquisition that has been integrated well, but the price paid was expensive. The incremental revenue contribution has been ~₹5,000-6,000 Cr/year, meaning the acquisition is generating roughly 12-13% return on invested capital — decent but not exceptional.
+The **GSK Consumer Healthcare acquisition (FY2021)** was the defining capital allocation event. HUL issued ~19 Cr new shares (8.8% dilution) to acquire Horlicks, Boost, and other brands. This added ~₹47,000 Cr of goodwill to the balance sheet. Horlicks was a strong brand acquisition that has been integrated well, but the price paid was expensive. The incremental revenue contribution has been ~₹5,000-6,000 Cr/year (~12% revenue yield on the ₹47,000 Cr invested), though the NOPAT-based return on the acquisition capital is considerably lower at ~2-3% — reflecting the premium price paid for the franchise.
 
 **Ice Cream Demerger (FY2026):** The demerger of Kwality Wall's was a sensible strategic move — ice cream is a capital-intensive, seasonal, logistics-heavy business that doesn't fit the asset-light FMCG model. However, KWIL listed at ~₹30/share, implying a ~₹7,000 Cr valuation for a business doing ~₹1,800 Cr revenue. Shareholders received real value through this demerger.
 
@@ -328,12 +330,16 @@ The negative cash conversion cycle is a structural strength that has been mainta
 | **PE Ratio** | 68x | **71x** | 54x | 59x | 52x | 50x | **~45x** |
 | Forward PE | ~60x | ~61x | 48x | 53x | 47x | 47x | ~48x |
 | PS Ratio | 13.5x | **12.2x** | 9.2x | 9.9x | 8.6x | 8.4x | ~7.6x |
-| **PB Ratio** | 65x | **12.0x** | 9.8x | 11.9x | 10.4x | 10.7x | **~10x** |
+| **PB Ratio** | ~56x | **12.0x** | 9.8x | 11.9x | 10.4x | 10.7x | **~10x** |
 | P/FCF Ratio | 76x | **68x** | 62x | 68x | 38x | 50x | — |
 | EV/EBITDA | 55x | **51x** | 38x | 44x | 37x | 36x | **~40x** |
 | Earnings Yield | 1.5% | **1.4%** | 1.8% | 1.7% | 1.9% | 2.0% | **~2.2%** |
 | FCF Yield | 1.3% | **1.5%** | 1.6% | 1.5% | 2.6% | 2.0% | — |
+
+*Note on FY2020 valuation metrics: FY2020 ended during the COVID crash (March 2020), causing extreme intra-year price volatility. PE (~68x) and P/B (~56x) use the depressed year-end closing price (~₹2,120), while PS (13.5x), P/FCF (76x), and EV/EBITDA (55x) appear to reflect a higher pre-crash or average-year market cap (~₹2,470+ per share). This cross-metric price mismatch is unique to FY2020 and does not affect the analysis conclusions. All other years use internally consistent year-end price points.*
 | Dividend Yield | 1.2% | **1.4%** | 1.8% | 1.6% | 1.9% | 1.9% | **~2.1%** |
+
+*Note: FY2025 and FY2021 dividend payout ratios of 117% and 119% (from Screener.in) include special/one-time dividends, likely related to the ice cream demerger proceeds and post-acquisition distributions respectively. The dividend yield figures in the same years (1.9% and 1.4%) reflect the regular dividend run-rate. At 117% payout, DPS would be ~₹53, implying a yield of ~2.4% at FY2025 year-end price — higher than the 1.9% shown. The discrepancy arises from Screener using total distributions (including special dividends) for payout % while yield calculations may use only ordinary dividends or a different price base.*
 
 **Historical Comparison:**
 
@@ -496,7 +502,7 @@ This is **NOT a fat pitch**. The risk-reward is unfavourable — even the "base 
 - The equity multiplier of 1.4-1.6x is very low — **leverage is NOT inflating ROE**
 - ROCE (28%) > ROE (21%) — confirming the healthy pattern where pre-interest returns exceed after-tax returns
 
-*Note: DuPont decomposition uses end-of-year balance sheet values. Product may differ slightly from reported ROE (which uses average equity). The directional conclusion — that ROE is margin-driven, not leverage-driven — is robust regardless of methodology.*
+*Note: DuPont decomposition uses a mixed methodology — Asset Turnover uses average total assets (for stability given year-end spikes), while Equity Multiplier uses end-of-year figures. As a result, the three-factor product may differ from reported ROE by up to ~0.6 percentage points (e.g., FY2024: product = 20.8% vs reported 20.2%). The directional conclusion — that ROE is margin-driven, not leverage-driven — is robust regardless of methodology.*
 
 ### Part B: P/B Multiple Scenario Analysis
 
@@ -509,7 +515,7 @@ This is **NOT a fat pitch**. The risk-reward is unfavourable — even the "base 
 | Retention Ratio | ~0% (payout >100%) |
 | BV Compounding Rate | ROE × 0% = ~0% (BV is flat/declining!) |
 
-**This is the critical insight for HUL:** Because the company pays out 100%+ of profits as dividends, **book value per share is NOT compounding**. In fact, BVPS has gone from ₹209 (FY2022) to ₹210 (FY2025) — essentially flat over 4 years. This means the P/B-based return framework shows:
+**This is the critical insight for HUL:** Because the company pays out 100%+ of profits as dividends, **book value per share is NOT compounding**. In fact, BVPS has gone from ₹209 (FY2022) to ₹210 (FY2025) — essentially flat over 3 years. This means the P/B-based return framework shows:
 
 #### Expected CAGR at Entry P/B of 9.9x
 
@@ -634,7 +640,7 @@ This is the classic Buffett dilemma: HUL is a **wonderful business at a not-so-w
 
 That's barely above a savings account.
 
-If you need 15% returns: ₹2,083 × 1.15^10 = ₹8,430 needed. At 30x PE that requires ₹281 EPS, or 20% annual EPS growth for a decade. For a mature FMCG company growing at 3%? **Impossible.**
+If you need 15% returns: ₹2,083 × 1.15^10 = ₹8,430 needed. At 30x PE that requires ₹281 EPS, or 20% annual EPS growth for a decade. Even if you include ~₹540 in cumulative dividends (reducing the required exit price to ~₹7,890, or ₹263 EPS at 30x PE), you still need ~19% annual EPS growth. For a mature FMCG company growing at 3%? **Impossible either way.**
 
 > *Buffett: "If you have to use a computer or a calculator to figure out whether you're making money, you're not making enough."* The napkin math is clear — HUL at ₹2,083 is not a money-making proposition. It's a wealth-preservation proposition at best.
 
