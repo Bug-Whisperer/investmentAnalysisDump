@@ -213,7 +213,7 @@ The pipeline was built and paid for. Now it just sits there earning tariff incom
 
 **Key Insight:** Owner Earnings are **massively** higher than reported Net Profit because depreciation (~₹900 Cr) far exceeds maintenance CapEx (~₹50 Cr). The reported EPS of ₹0.13 in FY2025 is almost meaningless — Owner Earnings per unit were ~₹13.3, which better reflects the true economic earning power.
 
-However, FY2025 Owner Earnings (₹880 Cr) are lower than FY2024 (₹1,689 Cr) due to accounting changes under the unified tariff structure. The NDCF (~₹1,070+ Cr annualised) is a better proxy of sustainable cash generation.
+However, FY2025 Owner Earnings (₹880 Cr) are lower than FY2024 (₹1,689 Cr) due to accounting changes under the unified tariff structure. The NDCF (~₹1,075-1,150 Cr annualised, depending on the period) is a better proxy of sustainable cash generation.
 
 ---
 
@@ -430,7 +430,7 @@ The stock is currently trading near its **all-time lows** (excluding COVID panic
 
 **Assumptions Common to All Scenarios:**
 - Remaining distribution life: 13 years (FY2027-FY2039)
-- Current units outstanding: ~66.4 Cr (at face value) → ~37.4 Cr outstanding (net of capital return)
+- Actual units outstanding: ~66.4 Cr (note: Screener's Equity Capital / ₹100 face value shows ~37.4 Cr, but this reflects returned capital, not reduced unit count — see Section 2 footnote)
 - Discount Rate: 10% (Buffett's hurdle rate; also represents opportunity cost of investing in India)
 
 **Scenario 1: Conservative**
