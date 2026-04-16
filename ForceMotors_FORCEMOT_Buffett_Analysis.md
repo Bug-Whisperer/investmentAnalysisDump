@@ -1,7 +1,7 @@
 # Force Motors Ltd (NSE: FORCEMOT) — Warren Buffett Deep-Dive Analysis
 
 **Date of Analysis:** 14 March 2026
-**CMP:** ₹20,245 | **Market Cap:** ₹26,688 Cr | **Stock P/E:** 27.8 (FY25) / 19.5 (TTM) | **P/B:** 7.61 | **Dividend Yield:** 0.20%
+**CMP:** ₹20,245 | **Market Cap:** ₹26,688 Cr | **Stock P/E (Screener):** 27.8 | **PE (TTM):** 19.5 | **P/B:** 7.61 | **Dividend Yield:** 0.20%
 **Sector:** Consumer Discretionary — Automobiles (CV, MUV, Tractors, Auto Components)
 **Mode:** STANDARD (Non-Financial Company)
 
@@ -48,18 +48,20 @@ Force Motors Ltd, established in 1958 (formerly Bajaj Tempo), is the flagship of
 | NP Growth | — | 30.8% | 75.5% | 0.6% | -18.3% | -2.7% | -65.0% | **N/M** | **N/M** | **N/M** | 189.6% | **106.4%** | 89% |
 | Net Profit Margin | 3.9% | 4.3% | 5.9% | 5.9% | 4.3% | 3.9% | 1.6% | **-6.2%** | **-2.8%** | 2.7% | 5.5% | **9.9%** | 15.4% |
 | EPS (₹) | 59 | 77 | 136 | 137 | 112 | 109 | 38 | **-94** | **-69** | 101 | **295** | **608** | **1,038** |
-| Shares (Cr) | 1.32 | 1.32 | 1.32 | 1.32 | 1.32 | 1.32 | 1.32 | 1.32 | 1.32 | 1.32 | 1.32 | 1.32 | 1.32 |
+| Shares (Cr) | 1.318 | 1.318 | 1.318 | 1.318 | 1.318 | 1.318 | 1.318 | 1.318 | 1.318 | 1.318 | 1.318 | 1.318 | 1.318 |
 | Shares Change YoY | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | — |
 | Dividend Payout % | 5% | 6% | 7% | 7% | 9% | 9% | 26% | — | — | 10% | 7% | 7% | — |
 
-**Compounded Growth:** Sales 10Y CAGR: 13% | 5Y CAGR: 21% | Profit 5Y CAGR: 47% | 10Y CAGR: 18%
-**Stock Price CAGR:** 1Y: 180% | 3Y: 154% | 5Y: 73% | 10Y: 23%
+**Compounded Growth (as reported by Screener.in):** Sales 10Y CAGR: 13% | 5Y CAGR: 21% | Profit 5Y CAGR: 47% | 10Y CAGR: 18%
+**Stock Price CAGR (Screener.in, as of analysis date):** 1Y: 180% | 3Y: 154% | 5Y: 73% | 10Y: 23%
+
+> *Note: Screener's compounded growth figures use their own methodology and may differ from simple point-to-point CAGR calculations. For example, point-to-point Profit CAGR from FY15→FY25 (₹102 Cr → ₹801 Cr) = 22.9%, and FY20→FY25 (₹50 Cr → ₹801 Cr) = 74%. Screener's reported 5Y figure of 47% and 10Y figure of 18% use a different calculation approach. The 10Y figure of 18% closely matches the 9Y CAGR (FY16→FY25: 18.1%).*
 
 **Trend Narrative — A Phoenix Rising From the Ashes:**
 
 This income statement tells one of the most dramatic turnaround stories in Indian auto. The company went through **three painful years** (FY20-FY22) with operating profits collapsing to ₹24-50 Cr and net losses of ₹124 Cr and ₹91 Cr. COVID devastated the CV cycle, and the company was loaded with debt (D/E peaked at 0.61).
 
-Then came the inflection. Revenue nearly doubled from ₹3,240 Cr (FY22) to ₹8,072 Cr (FY25) — a 36% CAGR over 3 years. Operating margins exploded from 2% to 14%. **Earnings growth has massively outpaced revenue growth** — the classic operating leverage play. EPS went from -₹69 (FY22) to ₹608 (FY25), and TTM EPS is ₹1,038.
+Then came the inflection. Revenue more than doubled from ₹3,240 Cr (FY22) to ₹8,072 Cr (FY25) — a ~2.5x increase (36% CAGR over 3 years). Operating margins exploded from 2% to 14%. **Earnings growth has massively outpaced revenue growth** — the classic operating leverage play. EPS went from -₹69 (FY22) to ₹608 (FY25), and TTM EPS is ₹1,038.
 
 **Critical caveat on Other Income:** FY25 other income of ₹446 Cr and TTM of ₹710 Cr is MASSIVE — accounting for 25-40% of PBT. This includes profits from the Mercedes-Benz engine JV and subsidiary activities. While partly recurring (the JV produces engines consistently), the lumpiness makes earnings quality assessment complex. FY24 had only ₹37 Cr of other income; FY23 had ₹268 Cr. This volatility is a concern.
 
@@ -129,9 +131,9 @@ The cash flow profile mirrors the P&L transformation:
 
 3. **CapEx is moderate:** ₹154-334 Cr in FY23-FY25, well below the ₹400-577 Cr peak during the expansion/distress years. The company has adequate manufacturing capacity for current operations.
 
-4. **No share dilution:** Shares outstanding have been constant at 1.32 Cr throughout the entire period. No equity raises, no buybacks, no SBC dilution.
+4. **No share dilution:** Shares outstanding have been constant at 1.318 Cr throughout the entire period. No equity raises, no buybacks, no SBC dilution.
 
-> *Buffett: "We favour businesses that drown in cash."* — Force Motors is now drowning in cash. After years of being cash-starved (FY20-22), the business now generates ₹650-1,000 Cr of annual FCF. At a market cap of ₹26,688 Cr, that's a 2.5-3.7% FCF yield — not cheap, but the cash generation trajectory is excellent.
+> *Buffett: "We favour businesses that drown in cash."* — Force Motors is now drowning in cash. After years of being cash-starved (FY20-22), the business now generates ₹640-810 Cr of annual FCF (₹970-1,014 Cr OCF). At a market cap of ₹26,688 Cr, that's a 2.5-3.7% FCF yield — not cheap, but the cash generation trajectory is excellent.
 
 ---
 
@@ -171,9 +173,11 @@ The sharp drop in CapEx intensity (from 12-18% of revenue during FY18-22 to 3-4%
 | ROE | 8.0% | 12.7% | 11.4% | 8.5% | 7.7% | 2.6% | **-6.5%** | **-5.1%** | 7.4% | **18.8%** | **30.3%** |
 | ROA | 5.4% | 8.4% | 7.3% | 5.7% | 5.3% | 1.7% | **-3.9%** | **-2.6%** | 3.5% | **9.2%** | **16.8%** |
 | ROIC | 8.5% | 14.5% | 11.9% | 11.0% | 10.2% | 8.7% | **0.8%** | **1.4%** | 8.3% | **20.8%** | **24.5%** |
-| ROCE | 6% | 10% | 18% | 14% | 11% | 10% | 5% | **-5%** | **-3%** | 5% | **24%** | **30%** |
+| ROCE | 10% | 18% | 14% | 11% | 10% | 5% | **-5%** | **-3%** | 5% | **24%** | **30%** |
 
 **Historical ROE Context:** 10Y Avg: 8% | 5Y Avg: 8% | 3Y Avg: 15% | Last Year: 21% (Screener data)
+
+> *Note: Screener's "Last Year: 21%" ROE uses its own computation methodology (likely year-end equity rather than average equity). The Section 6 table above uses average equity, giving FY24 ROE = 18.8% and FY25 ROE = 30.3%. The peer table (Section 11) also shows Screener's ROE of 20.8%. These figures are all internally consistent within their respective methodologies.*
 
 **The Return on Capital Transformation:**
 
@@ -322,7 +326,7 @@ The evidence is clear:
 
 Total retained earnings from FY14 to FY25: Sum of (NP - Dividends) = 74+96+166+167+134+130+37+(-130)+(-104)+121+361+745 = **₹1,797 Cr retained.**
 
-Market value creation: The stock traded at ~₹1,200-1,500 range in FY14 era. At ₹20,245 today with 1.32 Cr shares, market cap is ₹26,688 Cr. Earlier market cap was ~₹1,600-2,000 Cr.
+Market value creation: The stock traded at ~₹1,200-1,500 range in FY14 era. At ₹20,245 today with 1.318 Cr shares, market cap is ₹26,688 Cr. Earlier market cap was ~₹1,600-2,000 Cr.
 **Market value created: ~₹24,700 Cr on ₹1,797 Cr retained → ₹13.7 per ₹1 retained.**
 
 This is an extraordinary $1 test result, but it is skewed by the massive re-rating (PE expanded from 15-20x to 27-33x) and the cyclical recovery. A more honest assessment over the last 5 years (FY20-FY25):
@@ -333,7 +337,7 @@ This is an extraordinary $1 test result, but it is skewed by the massive re-rati
 
 ### Capital Allocation Track Record:
 - **No acquisitions** — clean record
-- **No share dilution** — share count constant at 1.32 Cr for 12+ years; no buybacks either
+- **No share dilution** — share count constant at 1.318 Cr for 12+ years; no buybacks either
 - **Debt eliminated** — The best capital allocation decision: paying down ₹1,069 Cr of debt
 - **Dividend policy:** Very conservative (7% payout). The company retains almost everything for reinvestment. Given the high ROIC (24.5%), this is rational.
 
@@ -356,12 +360,12 @@ No stock-based compensation — a positive for minority shareholders.
 
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | **FY21** | **FY22** | FY23 | **FY24** | **FY25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Debtor Days | — | 24 | 17 | 18 | 14 | 26 | 17 | 20 | 23 | 21 | 14 | **5** | **8** |
-| Inventory Days | — | 97 | 87 | 92 | 73 | 68 | 66 | 91 | **136** | 89 | 77 | 83 | 73 |
-| Days Payable | — | 77 | 87 | 70 | 80 | 81 | 52 | 95 | 108 | 72 | 69 | 61 | 48 |
-| Cash Conversion Cycle | — | 44 | 17 | 40 | 6 | 13 | 31 | 15 | **52** | 38 | 22 | 27 | 32 |
-| Working Capital Days | — | — | — | — | — | — | 43 | 6 | **-5** | **-37** | -6 | -2 | 16 |
-| ROCE % | — | 6% | 10% | 18% | 14% | 11% | 10% | 5% | **-5%** | **-3%** | 5% | **24%** | **30%** |
+| Debtor Days | 24 | 17 | 18 | 14 | 26 | 17 | 20 | 23 | 21 | 14 | **5** | **8** |
+| Inventory Days | 97 | 87 | 92 | 73 | 68 | 66 | 91 | **136** | 89 | 77 | 83 | 73 |
+| Days Payable | 77 | 87 | 70 | 80 | 81 | 52 | 95 | 108 | 72 | 69 | 61 | 48 |
+| Cash Conversion Cycle | 44 | 17 | 40 | 6 | 13 | 31 | 15 | **52** | 38 | 22 | 27 | 32 |
+| Working Capital Days | — | — | — | — | — | 43 | 6 | **-5** | **-37** | -6 | -2 | 16 |
+| ROCE % | 6% | 10% | 18% | 14% | 11% | 10% | 5% | **-5%** | **-3%** | 5% | **24%** | **30%** |
 
 **Quarterly Revenue Trend (Recent):**
 
@@ -381,7 +385,7 @@ No stock-based compensation — a positive for minority shareholders.
 
 **Key Operational Trends:**
 
-1. **Debtor days collapsed from 24 (FY15) to 5-8 days** — indicating either advance payments from customers or extremely tight receivable management. This is exceptional.
+1. **Debtor days collapsed from 24 (FY14) to 5-8 days** — indicating either advance payments from customers or extremely tight receivable management. This is exceptional.
 
 2. **Inventory days declining** (136 peak → 73) — leaner operations, less working capital needed.
 
@@ -408,7 +412,7 @@ No stock-based compensation — a positive for minority shareholders.
 | P/Owner Earnings (FY25) | 30.3x | OE ₹881 Cr |
 | Earnings Yield (TTM) | 5.1% | 1/PE(TTM) |
 | FCF Yield (normalised) | 2.5-3.7% | |
-| PEG Ratio | **0.28** | Stock PE 27.8 / EPS Growth 5Y 46.8% |
+| PEG Ratio | **0.59** | Stock PE 27.8 / EPS Growth 5Y 46.8% (Screener-reported) |
 | Dividend Yield | 0.20% | |
 | Price/Sales (FY25) | 3.31x | |
 | Price/Sales (TTM) | 3.01x | |
@@ -422,6 +426,8 @@ No stock-based compensation — a positive for minority shareholders.
 | Hyundai Motor I | 28.9x | 9.65x | 54.2% | 42.2% | 13.2% |
 | **Force Motors** | **27.8x** | **7.61x** | **30.0%** | **20.8%** | **15.7%** |
 
+> *Note on Screener's "Stock P/E" (27.8x): This is Screener's reported PE at the time of analysis, which may use a different earnings denominator than simple FY25 or TTM EPS. Computed PE from the document's own data is 33.3x on FY25 EPS (₹608) and 19.5x on TTM EPS (₹1,038). The peer table values (PE, ROE 20.8%, OPM 15.7%) are sourced directly from Screener's peer comparison page and may reflect blended or trailing periods.*
+
 **Historical Comparison:**
 
 Force Motors has **no meaningful trading history at these multiples.** The stock traded at 10-15x PE for most of its history. The current 20-33x PE range represents a **structural re-rating** driven by:
@@ -432,7 +438,7 @@ Force Motors has **no meaningful trading history at these multiples.** The stock
 
 The question: Is this re-rating permanent (deserved by improved business quality) or cyclical (will compress when the CV cycle turns)?
 
-**The PEG ratio of 0.28** is remarkably attractive — it suggests the stock is growing earnings ~4x faster than its PE multiple implies. However, the 46.8% EPS CAGR is inflated by the recovery from losses and is not sustainable.
+**The PEG ratio of 0.59** is attractive — it suggests the stock is growing earnings significantly faster than its PE multiple implies (PEG below 1.0 is conventionally "cheap on growth"). However, the 46.8% EPS CAGR used here (Screener's reported figure) is inflated by the recovery from losses and is not sustainable.
 
 > *Buffett: "Price is what you pay, value is what you get."* — At 19.5x TTM PE for a debt-free, 30% ROCE business with expanding margins and institutional discovery, the price is not cheap but not egregious either. The question is earnings sustainability.
 
@@ -459,11 +465,15 @@ The question: Is this re-rating permanent (deserved by improved business quality
 | **Intrinsic Value Per Share (₹)** | **₹10,523** | **₹18,096** | **₹29,287** |
 | **Margin of Safety at ₹20,245** | **-92.4% (Overvalued)** | **-11.9% (Overvalued)** | **+30.9% (Undervalued)** |
 
-| Scenario | Intrinsic Value/Share | vs. CMP ₹20,245 | Verdict |
+*Margin of Safety = (IV − CMP) / IV*
+
+| Scenario | Intrinsic Value/Share | Upside/(Downside) from CMP | Verdict |
 |---|---|---|---|
-| Conservative | **₹10,523** | **-48% Overvalued** | Significant downside risk |
-| Base | **₹18,096** | **-11% Overvalued** | Near fair value, slight premium |
-| Optimistic | **₹29,287** | **+45% Upside** | Attractive if optimistic case plays out |
+| Conservative | **₹10,523** | **-48.0% Overvalued** | Significant downside risk |
+| Base | **₹18,096** | **-10.6% Overvalued** | Near fair value, slight premium |
+| Optimistic | **₹29,287** | **+44.7% Upside** | Attractive if optimistic case plays out |
+
+*Upside/(Downside) = (IV − CMP) / CMP*
 
 **Key Takeaway:** The stock is priced between the Base and Optimistic cases. At ₹20,245, you need the business to deliver 15%+ earnings growth for 5 years and 10%+ for the next 5 — achievable given recent trajectory but requiring continued execution. There is **minimal margin of safety at the current price** in the base case.
 
@@ -483,6 +493,10 @@ The question: Is this re-rating permanent (deserved by improved business quality
 | Shares Outstanding | 1.318 Cr | Constant |
 
 **Note on Normalised EPS:** The TTM EPS of ₹1,038 includes ~₹540/share of lumpy other income (JV profits, gains). A more conservative normalised EPS would be ₹600-700 based on core operations. We use FY25 EPS (₹608) as the normalised figure.
+
+### Step 2: Terminal PE Multiple Scenarios
+
+We use four terminal PE scenarios: 15x (mature), 20x (market average), 28x (compounder), and 25x (historical post-rerating estimate).
 
 ### Step 3: Implied EPS CAGR Needed
 
@@ -526,7 +540,7 @@ The question: Is this re-rating permanent (deserved by improved business quality
 | Force Motors 10Y EPS CAGR (FY15-FY25) | **22.9%** |
 | Force Motors 9Y EPS CAGR (FY16-FY25) | **18.1%** |
 | Revenue 5Y CAGR | 21% |
-| Profit 5Y CAGR (from loss-making base) | 47% (not normalised) |
+| Profit 5Y CAGR (from loss-making base) | 47% (Screener-reported; point-to-point FY20→FY25 = 74%) |
 
 **Traffic Light Assessment:**
 
@@ -623,10 +637,10 @@ This is essentially a coin flip on the risk/reward. The upside and downside are 
 | FY19 | 3.9% | 1.36 | 1.41 | 7.5% | 7.7% |
 | FY20 | 1.6% | 1.04 | 1.52 | 2.5% | 2.6% |
 | **FY21** | **-6.2%** | **0.63** | **1.65** | **-6.4%** | **-6.5%** |
-| **FY22** | **-2.8%** | **0.94** | **1.80** | **-4.7%** | **-5.1%** |
+| **FY22** | **-2.8%** | **0.94** | **1.92** | **-5.1%** | **-5.1%** |
 | FY23 | 2.7% | 1.31 | 2.09 | 7.4% | 7.4% |
-| **FY24** | 5.5% | **1.66** | 1.99 | **18.2%** | **18.8%** |
-| **FY25** | **9.9%** | **1.69** | 1.66 | **27.8%** | **30.3%** |
+| **FY24** | 5.5% | **1.66** | 2.04 | **18.8%** | **18.8%** |
+| **FY25** | **9.9%** | **1.69** | 1.81 | **30.3%** | **30.3%** |
 
 **Component Analysis:**
 
@@ -634,7 +648,7 @@ This is essentially a coin flip on the risk/reward. The upside and downside are 
 
 - **Asset Turnover (0.63 → 1.69):** Also improved dramatically — the same asset base is now generating significantly more revenue. Asset utilisation efficiency has improved as volumes recovered and the investment-heavy period ended. **This is genuine efficiency.**
 
-- **Equity Multiplier (1.80 → 1.66):** Actually DECLINING — leverage has DECREASED as debt was eliminated. **This is the ideal pattern — ROE is rising while leverage is falling.** The ROE improvement is entirely from margins and efficiency, not from financial engineering.
+- **Equity Multiplier (1.92 → 1.81):** Actually DECLINING — leverage has DECREASED as debt was eliminated. **This is the ideal pattern — ROE is rising while leverage is falling.** The ROE improvement is entirely from margins and efficiency, not from financial engineering.
 
 **Quality Assessment:**
 
@@ -642,7 +656,7 @@ This is essentially a coin flip on the risk/reward. The upside and downside are 
 |---|---|---|
 | Net Margin rising 1.6% → 9.9% | ✅ Genuine — pricing power + operating leverage | **Excellent** |
 | Asset Turnover rising 0.63 → 1.69 | ✅ Genuine — better capacity utilisation | **Excellent** |
-| Equity Multiplier DECLINING 1.80 → 1.66 | ✅ BEST PATTERN — leverage going DOWN | **Excellent** |
+| Equity Multiplier DECLINING 1.92 → 1.81 | ✅ BEST PATTERN — leverage going DOWN | **Excellent** |
 
 **This is the highest-quality ROE improvement possible.** Rising margins, rising asset efficiency, and FALLING leverage. The ROE is entirely driven by operational improvement, not financial tricks.
 
@@ -681,8 +695,8 @@ This is essentially a coin flip on the risk/reward. The upside and downside are 
 | 7.6x (stays) | Multiple sustains | 18.6% | 18.6% | 18.6% |
 | 5.7x (25% compress) | Mild de-rating | 12.0% | 13.8% | 15.2% |
 | 3.8x (50% compress) | Significant de-rating | 3.3% | 7.4% | 10.7% |
-| 3.0x (Maruti-level) | Mature business premium | -4.4% | 1.7% | 6.5% |
-| 1.0x (book value) | Worst case | -23.2% | -13.1% | -4.6% |
+| 3.0x (Maruti-level) | Mature business premium | -1.5% | 3.8% | 8.1% |
+| 1.0x (book value) | Worst case | -21.0% | -11.2% | -3.2% |
 
 **Expected Return at ROE 25%:**
 
@@ -691,11 +705,11 @@ This is essentially a coin flip on the risk/reward. The upside and downside are 
 | 7.6x (stays) | Multiple sustains | 23.3% | 23.3% | 23.3% |
 | 5.7x (25% compress) | Mild de-rating | 16.4% | 18.3% | 19.8% |
 | 3.8x (50% compress) | Significant de-rating | 7.3% | 11.6% | 15.0% |
-| 3.0x | Mature premium | -0.6% | 5.7% | 10.5% |
+| 3.0x | Mature premium | 2.3% | 7.9% | 12.3% |
 
 ### Key Insight:
 
-> "At the current entry P/B of 7.6x with a sustainable ROE of 20% and 93% retention, book value compounds at 18.6% annually. If P/B remains at 7.6x, returns equal the BV compounding rate of 18.6%. The stock can tolerate P/B compression to ~3.8x (a 50% haircut) before the 10-year return drops below 10%. At ROE 25%, the cushion is larger — even at 3.0x P/B, the 10-year return is 10.5%."
+> "At the current entry P/B of 7.6x with a sustainable ROE of 20% and 93% retention, book value compounds at 18.6% annually. If P/B remains at 7.6x, returns equal the BV compounding rate of 18.6%. The stock can tolerate P/B compression to ~3.8x (a 50% haircut) before the 10-year return drops below 10%. At ROE 25%, the cushion is larger — even at 3.0x P/B, the 10-year return is 12.3%."
 
 > "The critical risk: A 7.6x P/B for a business with 20% ROE is already a significant premium. If ROE reverts to the 10-year average of 8%, the justified P/B collapses to 1-2x, and the stock could fall 75-85%. The entire investment thesis depends on the SUSTAINABILITY of the margin transformation."
 
@@ -756,7 +770,7 @@ This is essentially a coin flip on the risk/reward. The upside and downside are 
 
 Buffett would recognise the business transformation as genuine and impressive. The elimination of debt, the margin expansion, the Mercedes engine moat, the Traveller franchise — these are all Buffett-attractive qualities. But he would look at the price (33x FY25 earnings, 19.5x TTM) and say:
 
-> *"This is a good business that has gotten much better. But the stock has already moved from ₹760 to ₹20,245 — a 27x increase in 5 years. Most of the easy money has been made. I'd put it on my watchlist and wait for a better price."*
+> *"This is a good business that has gotten much better. But the stock has already moved from the COVID-era trough of ~₹760 to ₹20,245 — a ~27x increase in ~6 years. Most of the easy money has been made. I'd put it on my watchlist and wait for a better price."*
 
 **What price WOULD Buffett buy?**
 At ₹12,000-14,000 (15-20x normalised EPS of ~₹700), the risk-reward shifts decisively in the buyer's favour. That's where Buffett would start writing checks.
@@ -805,7 +819,7 @@ The turnaround is not just complete — it has been one of the most successful i
 |---|---|---|
 | **Business Quality** | **8** | Debt-free, 30% ROCE, dual-moat (Traveller + Mercedes), high cash generation |
 | **Moat Durability** | **6** | Narrow but deep — Traveller niche + Mercedes switching costs; not wide-moat |
-| **Financial Health** | **10** | Zero debt, ₹1,000 Cr annual FCF, current ratio 1.82, negative working capital days |
+| **Financial Health** | **10** | Zero debt, ₹640-810 Cr annual FCF (₹970-1,014 Cr OCF), current ratio 1.82, negative working capital days |
 | **Management Quality** | **8** | Firodia family with 61.6% stake, no dilution, debt eliminated, conservative dividends |
 | **Valuation** | **5** | 33x FY25 PE, 19.5x TTM PE, 7.6x P/B — fair but not cheap |
 | **Margin of Safety** | **4** | Price near/above base DCF; limited room for error |
@@ -816,7 +830,7 @@ The turnaround is not just complete — it has been one of the most successful i
 
 ### Buffett Verdict:
 
-> **"Force Motors is a genuinely transformed business — perhaps the most dramatic turnaround story in the Indian auto sector over the past five years. From losses, ₹1,069 Cr of debt, and negative ROE to zero debt, 14-18% OPM, 30% ROCE, and ₹1,000+ Cr annual cash generation. The Traveller franchise is a mini-monopoly in its niche, and the Mercedes-Benz engine supply business is a high-quality toll bridge with significant switching costs. The DuPont decomposition shows the HIGHEST QUALITY of ROE improvement — rising margins and efficiency with FALLING leverage. Management has earned trust through the crisis: no dilution, no related-party bailouts, pure operational execution.**
+> **"Force Motors is a genuinely transformed business — perhaps the most dramatic turnaround story in the Indian auto sector over the past five years. From losses, ₹1,069 Cr of debt, and negative ROE to zero debt, 14-18% OPM, 30% ROCE, and ~₹970 Cr+ annual operating cash generation. The Traveller franchise is a mini-monopoly in its niche, and the Mercedes-Benz engine supply business is a high-quality toll bridge with significant switching costs. The DuPont decomposition shows the HIGHEST QUALITY of ROE improvement — rising margins and efficiency with FALLING leverage. Management has earned trust through the crisis: no dilution, no related-party bailouts, pure operational execution.**
 >
 > **However, at ₹20,245, the stock has already priced in much of this transformation. At 33x FY25 earnings (19.5x TTM), you're paying for a business that needs to deliver 15-18% EPS CAGR for a decade to justify the price. That's achievable but leaves no margin for error — especially given the inevitable CV cyclical downturn, the lumpiness of other income (JV profits), and the long-term EV transition risk for the engine business. The 10-year average ROE of just 8% is a humbling reminder of what this business looks like through a full cycle.**
 >
@@ -826,7 +840,7 @@ The turnaround is not just complete — it has been one of the most successful i
 |---|---|
 | **Business Type** | Niche auto OEM + Luxury auto component supplier |
 | **Moat** | Narrow but deep — Traveller monopoly + Mercedes switching costs |
-| **Financial Health** | Fortress — zero debt, ₹1,000 Cr FCF, ₹5,134 Cr total assets |
+| **Financial Health** | Fortress — zero debt, ₹640-810 Cr FCF, ~₹970+ Cr OCF, ₹5,134 Cr total assets |
 | **Sustainable ROE** | 18-22% normalised (current 30% is elevated) |
 | **Current Price** | ₹20,245 |
 | **Fair Value (Base DCF)** | ₹18,096 |
@@ -843,7 +857,7 @@ The turnaround is not just complete — it has been one of the most successful i
 
 **Can the thesis be explained to a 10-year-old?**
 
-"Force Motors makes buses (called Traveller — you've probably seen them) and engine parts for fancy Mercedes-Benz and BMW cars. A few years ago, the company was losing money and owed a lot of money to banks. Now, it makes a lot of money (about ₹800-1,400 crores a year), owes NOTHING to anyone, and every time Mercedes sells a car in India, Force Motors gets paid for the engine parts inside it. The problem? The stock price already went up from ₹760 to ₹20,245 — that's a 27x increase in 5 years! Most people who made the big money already bought it when it was cheap and troubled. At today's price, you're paying about 20-33 times what the company earns, which means you need it to keep growing fast for many years to make good money."
+"Force Motors makes buses (called Traveller — you've probably seen them) and engine parts for fancy Mercedes-Benz and BMW cars. A few years ago, the company was losing money and owed a lot of money to banks. Now, it makes a lot of money (about ₹800-1,400 crores a year), owes NOTHING to anyone, and every time Mercedes sells a car in India, Force Motors gets paid for the engine parts inside it. The problem? The stock price already went up from the COVID-era trough of ~₹760 to ₹20,245 — that's a ~27x increase in about 6 years! Most people who made the big money already bought it when it was cheap and troubled. At today's price, you're paying about 20-33 times what the company earns, which means you need it to keep growing fast for many years to make good money."
 
 **Does the math make sense without Excel?**
 
