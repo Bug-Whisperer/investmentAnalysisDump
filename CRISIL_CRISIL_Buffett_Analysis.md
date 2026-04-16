@@ -168,19 +168,21 @@ SBC at ~8% of net income is manageable but worth watching — it's a real cost t
 
 | Metric | Dec 2015 | Dec 2016 | Dec 2017 | Dec 2018 | Dec 2019 | Dec 2020 | Dec 2021 | Dec 2022 | Dec 2023 | Dec 2024 | Dec 2025 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **ROE %** | 33% | 30% | 30% | 32% | 29% | 27% | 30% | 31% | 30% | 27% | **27.4%** |
+| **ROE % (avg equity)** | 33% | 32% | 30% | 33% | 30% | 29% | 32% | 33% | 33% | 29% | **27%** |
 | **ROA %** | ~21% | ~21% | ~20% | ~22% | ~20% | ~16% | ~19% | ~20% | ~20% | ~17% | ~17% |
 | **ROCE %** | **45%** | **45%** | 41% | **45%** | 42% | 37% | 38% | 41% | 41% | 36% | **35%** |
 
+*Note: ROE calculated using average shareholders' equity (opening + closing / 2) for all years. On a year-end equity basis, FY2025 ROE is 25.3% and FY2024 ROE is 26.7%. Average-equity ROE better reflects the returns earned on capital employed during the year.*
+
 **Return on Capital Assessment:**
 
-These are extraordinary numbers. A 10-year average ROE of ~30%, a 10-year average ROCE of ~41%, and a 10-year average ROA of ~19-20%. **This places CRISIL in the top tier of Indian listed companies by capital efficiency.**
+These are extraordinary numbers. A 10-year average ROE of ~31% (on average equity), a 10-year average ROCE of ~41%, and a 10-year average ROA of ~19-20%. **This places CRISIL in the top tier of Indian listed companies by capital efficiency.**
 
-The slight compression in ROE from 33% (2015) to 27% (2025) is not alarming — it reflects the growing equity base (₹856 Cr → ₹3,033 Cr) as retained earnings accumulate. The absolute quantum of profit has nearly tripled. What matters is that ROE has consistently remained above 27%, never falling below that level even in the toughest year (2020 during COVID). A business that maintains 27%+ ROE through cycles has genuine competitive advantages.
+The slight compression in ROE from 33% (2015) to 27% (2025) is not alarming — it reflects the growing equity base (₹856 Cr → ₹3,033 Cr) as retained earnings accumulate. The absolute quantum of profit has nearly tripled. ROE on average equity has remained in the 27-33% band throughout the decade, with the lowest readings of 27% occurring only in FY2025 as the equity base expanded sharply. On a year-end equity basis, the recent figures are lower (25-27%) due to the rapidly growing equity base, but the underlying earning power remains exceptional. A business that sustains 27-33% ROE through cycles has genuine competitive advantages.
 
 ROCE of 35% means the business earns more than 3x a reasonable cost of capital (~11-12%). This creates enormous economic value for shareholders every single year.
 
-> Buffett: *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* CRISIL consistently earns 30%+ ROE and can reinvest retained earnings at similarly high rates. This is the magic formula.
+> Buffett: *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* CRISIL consistently earns 27%+ ROE (on average equity) and can reinvest retained earnings at similarly high rates. This is the magic formula.
 
 ---
 
@@ -285,7 +287,7 @@ The incremental margins are extraordinary — consistently **above the current o
 
 **Buffett's $1 Test:**
 
-CRISIL's retained earnings from Dec 2015 to Dec 2025 totalled approximately ₹1,200 Cr (net profit of ~₹4,800 Cr minus dividends of ~₹3,600 Cr over 10 years). Market capitalisation went from ~₹16,500 Cr (Dec 2015 at ~₹2,300/share) to ~₹29,300 Cr today. That's ~₹12,800 Cr of market value increase for ~₹1,200 Cr of retained earnings — **₹10.67 of market value created per ₹1 retained.** This passes Buffett's $1 test spectacularly.
+CRISIL's retained earnings from Dec 2015 to Dec 2025 totalled approximately ₹1,782 Cr (net profit of ~₹4,798 Cr minus dividends of ~₹3,016 Cr over 10 years). Market capitalisation went from ~₹16,400 Cr (Dec 2015 at ~₹2,300/share) to ~₹29,300 Cr today. That's ~₹12,900 Cr of market value increase for ~₹1,782 Cr of retained earnings — **₹7.25 of market value created per ₹1 retained.** This passes Buffett's $1 test handsomely.
 
 **Capital Allocation:**
 
@@ -317,7 +319,7 @@ CRISIL's retained earnings from Dec 2015 to Dec 2025 totalled approximately ₹1
 
 The jump in Working Capital Days from -36 to 74 in Dec 2025 is a notable negative — likely driven by the PriceMetrix acquisition and related receivable build-up. This should be monitored in coming quarters.
 
-On the positive side, **Revenue per Employee has nearly doubled from ₹43 Lakh to ₹78 Lakh** over 6 years — a clear sign of operational scaling and productivity improvement.
+On the positive side, **Revenue per Employee has increased ~81% from ₹43 Lakh to ₹78 Lakh** over 6 years — a clear sign of operational scaling and productivity improvement.
 
 ---
 
@@ -358,9 +360,9 @@ The PEG ratio of ~3.2x (PE of 38 / EPS growth of ~12%) is expensive by any stand
 
 | Scenario | Years 1-5 Growth | Years 6-10 Growth | Intrinsic Value/Share | Margin of Safety at ₹4,008 |
 |---|---|---|---|---|
-| **Conservative** | 10% | 7% | **₹3,150** | **-21%** (overvalued) |
-| **Base** | 13% | 10% | **₹4,250** | **+6%** (fairly valued) |
-| **Optimistic** | 16% | 12% | **₹5,650** | **+41%** (undervalued) |
+| **Conservative** | 10% | 7% | **₹3,374** | **-16%** (overvalued) |
+| **Base** | 13% | 10% | **₹4,183** | **+4%** (fairly valued) |
+| **Optimistic** | 16% | 12% | **₹5,028** | **+25%** (undervalued) |
 
 **Detailed Base Case:**
 
@@ -384,7 +386,7 @@ The PEG ratio of ~3.2x (PE of 38 / EPS growth of ~12%) is expensive by any stand
 | **Equity Value** | | | **23,514** |
 | Shares Outstanding (Cr) | | | 7.31 |
 | **Intrinsic Value Per Share (Base)** | | | **₹3,218** |
-| Adjusted for premium quality (1.3x for moat) | | | **~₹4,250** |
+| Adjusted for premium quality (1.3x for moat) | | | **~₹4,183** |
 
 *Note: The Buffett/Munger framework acknowledges that wonderful businesses deserve a premium over mechanical DCF calculations. The 1.3x quality multiplier reflects the durability of the moat and the predictability of cash flows.*
 
@@ -392,11 +394,13 @@ The PEG ratio of ~3.2x (PE of 38 / EPS growth of ~12%) is expensive by any stand
 
 | Scenario | Intrinsic Value/Share | Upside/(Downside) from ₹4,008 | Margin of Safety |
 |---|---|---|---|
-| Conservative | ₹3,150 | -21% | Negative |
-| **Base** | **₹4,250** | **+6%** | **Minimal** |
-| Optimistic | ₹5,650 | +41% | Meaningful |
+| Conservative | ₹3,374 | -16% | Negative |
+| **Base** | **₹4,183** | **+4%** | **Minimal** |
+| Optimistic | ₹5,028 | +25% | Moderate |
 
-**Verdict:** At ₹4,008, CRISIL is **approximately fairly valued** in the Base Case. There is no meaningful margin of safety unless you believe the Optimistic scenario is achievable (which requires sustained 14%+ earnings growth for a decade).
+*Note: All three scenarios use the same methodology — raw DCF intrinsic value × 1.3x quality premium for moat durability and cash flow predictability.*
+
+**Verdict:** At ₹4,008, CRISIL is **approximately fairly valued** in the Base Case. There is limited margin of safety — even in the Optimistic scenario (which requires sustained 14%+ earnings growth for a decade), the upside is ~25%.
 
 ---
 
@@ -417,33 +421,33 @@ The PEG ratio of ~3.2x (PE of 38 / EPS growth of ~12%) is expensive by any stand
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 31.2% | 37.5% | 44.1% |
-| 10 Years | 19.5% | 23.0% | 26.6% |
-| 15 Years | 15.8% | 18.5% | 21.3% |
+| 5 Years | 32.7% | 38.7% | 44.7% |
+| 10 Years | 20.8% | 26.3% | 31.8% |
+| 15 Years | 17.1% | 22.4% | 27.7% |
 
 #### At Terminal PE = 25x (Market Average for Quality)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 20.2% | 26.0% | 32.0% |
-| 10 Years | 14.6% | 17.8% | 21.1% |
-| 15 Years | 12.7% | 15.2% | 17.8% |
+| 5 Years | 19.8% | 25.2% | 30.7% |
+| 10 Years | 14.8% | 20.0% | 25.2% |
+| 15 Years | 13.2% | 18.3% | 23.5% |
 
 #### At Terminal PE = 35x (Compounder Premium)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 14.8% | 20.3% | 26.0% |
-| 10 Years | 12.2% | 15.2% | 18.4% |
-| 15 Years | 11.2% | 13.5% | 16.0% |
+| 5 Years | 12.0% | 17.1% | 22.2% |
+| 10 Years | 11.0% | 16.0% | 21.1% |
+| 15 Years | 10.7% | 15.7% | 20.7% |
 
 #### At Terminal PE = 40x (Historical Average)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 12.7% | 18.1% | 23.6% |
-| 10 Years | 11.2% | 14.1% | 17.1% |
-| 15 Years | 10.5% | 12.8% | 15.2% |
+| 5 Years | 9.0% | 14.0% | 18.9% |
+| 10 Years | 9.5% | 14.5% | 19.5% |
+| 15 Years | 9.7% | 14.7% | 19.6% |
 
 ### Step 4: Reality Check
 
@@ -457,13 +461,13 @@ The PEG ratio of ~3.2x (PE of 38 / EPS growth of ~12%) is expensive by any stand
 
 **Traffic Light Assessment:**
 
-At the current PE of 38x, to earn a 12% annualised return over 10 years assuming the market values the business at its historical average PE of 40x at exit, the company needs to grow EPS at ~11.2% CAGR. The company has delivered 10% EPS CAGR over 10 years and 16.5% over 5 years. This implies **🟡 YELLOW — Fair but modestly optimistic.** You need the business to continue at roughly its historical pace, which is reasonable but not a slam dunk.
+At the current PE of 38x, to earn a 10% annualised return over 10 years assuming the market values the business at its historical average PE of 40x at exit, the company needs to grow EPS at ~9.5% CAGR. The company has delivered 10% EPS CAGR over 10 years and 16.5% over 5 years. This implies **🟢 GREEN — Reasonable.** The market is NOT demanding heroic assumptions at the historical-average exit multiple.
 
-At a terminal PE of 25x (significant de-rating from current levels), you'd need ~14.6% EPS CAGR to earn a 10% return over 10 years. This is above the 10-year historical rate but below the 5-year rate. **🟠 ORANGE territory** in a de-rating scenario.
+At a terminal PE of 25x (significant de-rating from current levels), you'd need ~14.8% EPS CAGR to earn a 10% return over 10 years. This is above the 10-year historical rate but below the 5-year rate. **🟡 YELLOW territory** in a de-rating scenario.
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹4,008, to earn a 12% annualised return over 10 years assuming the market values the business at 35x PE at exit, the company needs to grow EPS at ~12.2% CAGR. The company has historically grown EPS at ~10% CAGR over 10 years and ~16.5% over 5 years. This implies the market is pricing in modestly optimistic but not unreasonable growth."
+> "At the current price of ₹4,008, to earn a 10% annualised return over 10 years assuming the market values the business at 35x PE at exit, the company needs to grow EPS at ~11.0% CAGR. The company has historically grown EPS at ~10% CAGR over 10 years and ~16.5% over 5 years. This implies the market is pricing in modestly optimistic but not unreasonable growth."
 
 ### Step 6: Asymmetric Upside Check
 
@@ -473,7 +477,7 @@ At a terminal PE of 25x (significant de-rating from current levels), you'd need 
 |---|---|---|---|
 | Tangible Book Value | ~₹415 BVPS × 1.0x | ₹415 | -90% (extreme; irrelevant for asset-light business) |
 | Trough Earnings | Worst EPS (₹40 in Dec 2015) × 20x PE | ₹800 | -80% (only in extreme crisis) |
-| Bear Case DCF | Conservative scenario | ₹3,150 | -21% |
+| Bear Case DCF | Conservative scenario | ₹3,374 | -16% |
 | Historical Low PE × Current EPS | 32x × ₹104.75 | ₹3,352 | -16% |
 | **Most Probable Downside Floor** | **35x PE × ₹105 EPS** | **₹3,675** | **-8%** |
 
@@ -481,24 +485,24 @@ At a terminal PE of 25x (significant de-rating from current levels), you'd need 
 
 | Upside Scenario | Valuation Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
-| Base Case DCF | ₹4,250 | ₹4,250 | +6% |
+| Base Case DCF | ₹4,183 | ₹4,183 | +4% |
 | Bull Case (5Y, 15% EPS CAGR, 40x PE) | FY2030 EPS ₹211 × 40x | ₹8,440 | +111% |
-| Optimistic DCF | ₹5,650 | ₹5,650 | +41% |
-| Re-rating (PE reverts to 50x median) | ₹105 × 50 | ₹5,238 | +31% |
+| Optimistic DCF | ₹5,028 | ₹5,028 | +25% |
+| Re-rating (PE reverts to 50x median) | ₹104.75 × 50 | ₹5,238 | +31% |
 
 **Part 3: Asymmetry Ratio**
 
-Using Base Case Upside (+6%) and Most Probable Downside (-8%):
+Using Base Case Upside (+4%) and Most Probable Downside (-8%):
 
-**Asymmetry Ratio = 6% / 8% = 0.75:1** — Marginally negative asymmetry at current price.
+**Asymmetry Ratio = 4% / 8% = 0.5:1** — Negative asymmetry at current price.
 
-Using a 3-year holding period with Optimistic scenario (+41%) vs Probable Downside (-8%):
+Using a 3-year holding period with Optimistic scenario (+25%) vs Probable Downside (-8%):
 
-**Asymmetry Ratio = 41% / 8% = 5.1:1** — IF you believe in the Optimistic case.
+**Asymmetry Ratio = 25% / 8% = 3.1:1** — IF you believe in the Optimistic case.
 
 **Fat Pitch Verdict:**
 
-> "At ₹4,008, the realistic downside is approximately 8% to ₹3,675 (base case floor). The base-case upside is approximately 6% to ₹4,250 over 1-2 years. This gives a near-term asymmetry ratio of ~0.75:1. This is NOT a fat pitch. However, over a 5-year horizon with continued 12-15% earnings growth, the picture improves significantly — the stock could compound to ₹6,000-8,000. The issue is not the business quality but the current price offering minimal margin of safety."
+> "At ₹4,008, the realistic downside is approximately 8% to ₹3,675 (base case floor). The base-case upside is approximately 4% to ₹4,183 over 1-2 years. This gives a near-term asymmetry ratio of ~0.5:1. This is NOT a fat pitch. However, over a 5-year horizon with continued 12-15% earnings growth, the picture improves significantly — the stock could compound to ₹6,000-8,000. The issue is not the business quality but the current price offering minimal margin of safety."
 
 **Mispricing Assessment:**
 
@@ -510,7 +514,9 @@ Using a 3-year holding period with Optimistic scenario (+41%) vs Probable Downsi
 
 ### Part A: DuPont Decomposition
 
-| Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE |
+*Note: DuPont uses year-end balance sheet figures (Assets, Equity) for consistency in decomposition. This produces lower ROE figures than the average-equity ROE shown in Section 6 (e.g., FY2025: 25.3% year-end vs 27.4% average equity). Both are valid; the DuPont decomposition isolates the quality drivers of ROE.*
+
+| Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE (year-end) |
 |---|---|---|---|---|
 | Dec 2017 | 18.3% | 1.11x | 1.43x | 29.0% |
 | Dec 2018 | 20.8% | 1.07x | 1.44x | 32.0% |
@@ -548,27 +554,29 @@ The slight ROE decline from 30% to 25-27% is driven by declining asset turnover 
 | Year | Projected BVPS |
 |---|---|
 | Current | ₹415 |
-| Year 5 | ₹713 |
-| Year 7 | ₹883 |
-| Year 10 | ₹1,212 |
+| Year 5 | ₹709 |
+| Year 7 | ₹878 |
+| Year 10 | ₹1,211 |
 
-**Expected Annual Return (CAGR) at CMP ₹4,008 (Entry P/B: 9.7x):**
+**Expected Annual Price Return (CAGR) at CMP ₹4,008 (Entry P/B: 9.7x):**
+
+*Note: Returns below are price-only (excluding dividends). Add ~1.5% dividend yield for approximate total return.*
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 9.7x | Multiple sustains | 12.2% | 11.5% | 11.7% |
-| P/B compresses to 7.3x (~75% of current) | Mild de-rating | 6.3% | 7.3% | 8.7% |
-| P/B compresses to 5.0x | Significant de-rating | -0.4% | 2.6% | 5.2% |
-| P/B compresses to historical median (~12x) | Reverts to historical | 16.0% | 14.4% | 13.7% |
-| P/B compresses to 3.0x | Extreme de-rating | -10.1% | -3.2% | 1.3% |
+| P/B stays at 9.7x | Multiple sustains | 11.4% | 11.4% | 11.3% |
+| P/B compresses to 7.3x (~75% of current) | Mild de-rating | 5.2% | 6.9% | 8.2% |
+| P/B compresses to 5.0x | Significant de-rating | -2.4% | 1.3% | 4.2% |
+| P/B compresses to historical median (~12x) | Reverts to historical | 16.2% | 14.8% | 13.7% |
+| P/B compresses to 3.0x | Extreme de-rating | -11.9% | -5.8% | -1.0% |
 
 **Key Insight:**
 
-> "At the current entry P/B of 9.7x with a sustainable ROE of 27% and 42% retention, book value compounds at 11.3% annually. If the P/B multiple remains at 9.7x, the return equals the BV compounding rate of ~11.3%. The stock can tolerate P/B compression from 9.7x down to approximately 7.0x before the 10-year return drops below the 10% hurdle rate."
+> "At the current entry P/B of 9.7x with a sustainable ROE of 27% and 42% retention, book value compounds at 11.3% annually. If the P/B multiple remains at 9.7x, the return equals the BV compounding rate of ~11.3%. The stock can tolerate P/B compression from 9.7x down to approximately 8.6x (on a price-only basis) or ~7.5x (including ~1.5% dividend yield) before the 10-year return drops below the 10% hurdle rate."
 
 **Traffic Light Verdict:**
 
-🟡 **YELLOW — Risky entry.** The 10-year return exceeds the 10% hurdle rate only if P/B stays above ~7.0x. Given that the P/B has historically ranged from ~10-14x, a compression to 7x is unlikely but not impossible (it would occur if ROE dropped to ~20% or the market de-rated quality stocks broadly). The return is DEPENDENT on sentiment sustaining elevated multiples.
+🟡 **YELLOW — Risky entry.** The 10-year return exceeds the 10% hurdle rate only if P/B stays above ~7.5-8.6x. Given that the P/B has historically ranged from ~10-14x, a compression to 8x is unlikely but not impossible (it would occur if ROE dropped to ~20% or the market de-rated quality stocks broadly). The return is DEPENDENT on sentiment sustaining elevated multiples.
 
 ---
 
@@ -660,7 +668,7 @@ With a **small capital base** where higher growth rates matter more and more agg
 
 > CRISIL is a truly wonderful business — India's Moody's equivalent with a wider moat than most companies on the exchange. The Ratings business is a toll bridge with 50%+ margins, the Research/Analytics franchise is scaling beautifully with 40%+ incremental margins, and S&P Global's majority ownership ensures world-class governance. ROE has averaged 30% for a decade, the balance sheet is a fortress with near-zero debt, and free cash flow conversion exceeds 90%. This is a business Buffett would hold forever once bought.
 
-> **However, at ₹4,008 (PE ~38x, P/B ~9.7x), the stock is fairly valued, not cheap.** The implied return at current prices is approximately 11-12% annually assuming multiples sustain — good, but not exceptional, and leaves no room for error. A 10% hurdle rate is only met if the P/B stays above ~7x over the next decade.
+> **However, at ₹4,008 (PE ~38x, P/B ~9.7x), the stock is fairly valued, not cheap.** The implied return at current prices is approximately 11-12% annually assuming multiples sustain — good, but not exceptional, and leaves no room for error. A 10% hurdle rate is only met if the P/B stays above ~7.5-8.6x over the next decade.
 
 > **Buffett's decision with a small capital base: WATCHLIST and wait.** Add a starter position if the stock corrects below ₹3,400 (30x PE / ~8x P/B). Back up the truck if it ever gets below ₹2,800 (27x PE). At the current price, HOLD if you already own it — the compounding engine will work in your favour over time. But for fresh money, patience is the correct strategy.
 
