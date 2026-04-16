@@ -66,7 +66,7 @@ The grooming category (~₹3,300 Cr in India) is dominated by Gillette with an e
 
 **Margins are expanding meaningfully.** The operating margin has risen from 21% in FY2019–2022 to 27–28% in recent periods — a structural step-up. This is driven by a premiumisation shift (more consumers upgrading from single-blade to multi-blade systems), cost efficiencies, and P&G's global productivity programs.
 
-**Revenue growth is the weak spot.** The 5-year sales CAGR is only ~4%, and 10-year CAGR is ~3%. This is a slow-growth business in India's overall booming consumer market. However, **profit growth has significantly outpaced revenue growth** — 10-year profit CAGR is 23%, driven by massive margin expansion from the low base of FY2014 (4% OPM).
+**Revenue growth is the weak spot.** Screener.in reports the 5-year compounded sales growth as ~4% and 10-year CAGR as ~3% (these figures reflect Screener's methodology which accounts for the June-to-March fiscal year transition). Using the table data directly, the FY2019-to-FY2024 revenue CAGR is ~7.2%. Either way, this is a slow-growth business in India's overall booming consumer market. However, **profit growth has significantly outpaced revenue growth** — 10-year profit CAGR is 23%, driven by massive margin expansion from the low base of FY2014 (4% OPM).
 
 **Zero dilution** — shares outstanding have remained constant at 3.26 Cr for the entire analysis period. No equity raises, no ESOPs dilution. Every rupee of earnings belongs entirely to existing shareholders.
 
@@ -128,7 +128,7 @@ Gillette India requires almost no invested capital to grow. The balance sheet is
 
 **Extremely low CapEx.** Capital expenditure has ranged from ₹27 Cr to ₹112 Cr, and has been **declining** in recent years. The business generates ₹460 Cr in FCF on ₹49 Cr of CapEx — a 9.4:1 FCF-to-CapEx ratio. This is a capital-light cash machine.
 
-**Generous (sometimes excessive) dividend payouts.** The company has paid out 81-125% of net income as dividends over recent years, including special dividends. In FY2024, dividends of ₹440 Cr exceeded net income of ₹412 Cr. The latest Q3 FY26 declared ₹180/share dividend (including ₹60 special).
+**Generous (sometimes excessive) dividend payouts.** Using cash flow data, the company has paid out ~65-139% of net income as dividends over FY2021-FY2024 (Screener's P&L payout row shows ~78-125% for the same period, as it uses a different calculation). In FY2024, dividends of ₹440 Cr exceeded net income of ₹412 Cr. The latest Q3 FY26 declared ₹180/share dividend (including ₹60 special).
 
 > *"If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes."* — Warren Buffett
 
@@ -184,13 +184,13 @@ Reported FCF of ~₹460 Cr (FY2024) closely matches Owner Earnings of ~₹450 Cr
 
 ### Analysis
 
-These are **elite-tier** returns on capital. A 10-year average ROE of 34%, with the last 3 years averaging 39% and the most recent TTM at ~55%, is extraordinary by any standard.
+These are **elite-tier** returns on capital. A 10-year average ROE of 34%, with Screener.in reporting a 3-year ROE of 38.6% and the most recent TTM at ~55%, is extraordinary by any standard.
 
-*Note: FY2021 ROE of 36% is calculated using average equity (₹912 Cr opening + ₹789 Cr closing / 2 = ₹851 Cr). Using year-end equity alone would yield 39%. Screener.in typically uses average equity.*
+*Note: FY2021 ROE of 36% is calculated using average equity (₹912 Cr opening + ₹789 Cr closing / 2 = ₹851 Cr). Using year-end equity alone would yield 39%. All other years in this table use year-end equity, consistent with Screener.in's reported figures.*
 
 **ROIC of 68-72%** means every ₹100 of invested capital generates ₹68-72 in after-tax operating profit. This is in the top 1% of Indian listed companies.
 
-**ROCE vs. ROE relationship:** ROCE (56%) > ROE (42% normalized) — this confirms that the high returns are driven by genuine business quality, NOT by financial leverage (the company has zero debt). The gap is explained by taxes and other income items.
+**ROCE vs. ROE relationship:** In FY2024, ROCE (59%) > ROE (42%) — this confirms that the high returns are driven by genuine business quality, NOT by financial leverage (the company has zero debt). The gap is explained by taxes and other income items.
 
 > *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* — Warren Buffett
 
@@ -292,12 +292,12 @@ The grooming business is in a mature but slowly growing phase in India. The real
 
 | Dimension | Score (1-10) | Evidence |
 |---|---|---|
-| Revenue scalability | 7 | Distribution leverage is excellent; but top-line growth is slow (~4% CAGR) |
+| Revenue scalability | 7 | Distribution leverage is excellent; but top-line growth is slow (~7% CAGR from table data; ~4% per Screener) |
 | Profit scalability | **9** | Incremental margins of 55-63% are exceptional |
 | Capital scalability | **10** | Near-zero CapEx requirement; declining CapEx/Revenue ratio |
 | Scaling runway (TAM vs. penetration) | 6 | Grooming is mature-ish; Oral-B has more room |
 | S-Curve position | 6 | Growth phase but decelerating; not at an inflection point |
-| **Overall Scalability Score** | **7.5/10** | |
+| **Overall Scalability Score** | **7.6/10** | |
 
 **Classification: Strong Scaler** — analogous to See's Candies or Coca-Cola in a mature market. The business generates exceptional returns on capital and scales beautifully on margins, but the absolute revenue growth rate limits the total compounding potential.
 
@@ -369,16 +369,16 @@ In Gillette's case, the business economics are so good that management quality i
 |---|---|---|---|---|---|---|---|
 | **PE Ratio** | ~83x | ~73x | **~62x** | ~67x | ~56x | ~52x | **~42x** |
 | Forward PE (est.) | — | — | — | — | — | — | ~38-40x |
-| **PB Ratio** | ~8.3x | ~5.7x | ~7.7x | ~7.1x | ~6.4x | ~8.6x | **~22x** |
-| PS Ratio | ~3.5x | ~3.1x | ~3.0x | ~2.6x | ~2.5x | ~2.5x | ~8.7x |
-| P/FCF Ratio | ~94x | ~26x | ~16x | ~17x | ~16x | ~14x | ~45x |
+| **PB Ratio** | ~27.0x | ~18.4x | ~24.4x | ~22.5x | **~20.2x** | ~22.0x | **~22.1x** |
+| PS Ratio | ~11.3x | ~10.0x | ~9.7x | ~8.6x | ~8.0x | ~8.1x | ~8.4x |
+| P/FCF Ratio | ~304x | ~86x | ~53x | ~55x | ~50x | ~47x | ~39x |
 | P/Owner Earnings | — | — | — | — | — | ~57x | ~39x |
-| EV/EBITDA | ~15x | ~12x | ~11x | ~11x | ~10x | ~9x | ~28x |
+| EV/EBITDA (approx.) | ~49x | ~41x | ~37x | ~35x | ~32x | ~30x | ~26x |
 | Earnings Yield | 1.2% | 1.4% | 1.6% | 1.5% | 1.8% | 1.9% | **2.4%** |
-| FCF Yield | 1.1% | 3.8% | 6.1% | 5.9% | 6.2% | 7.0% | ~2.2% |
+| FCF Yield | 0.3% | 1.2% | 1.9% | 1.8% | 2.0% | 2.1% | ~2.6% |
 | Dividend Yield | ~0.6% | ~1.3% | ~2.0% | ~1.5% | ~1.3% | ~2.5% | **~1.4%** |
 
-*Note: Dividend yield of ~1.4% is based on the trailing annual dividend of ~₹113/share (per Screener.in at the time of analysis). However, the latest interim dividend declared in Q3 FY26 was ₹180/share (including a ₹60 special dividend), which at ₹7,900 implies ~2.3% — but this includes non-recurring special dividends.*
+*Note: Historical prices for each fiscal year are estimated from PE × EPS (e.g., FY2024: 52 × ₹126.35 = ~₹6,570). All per-share ratios (PB, PS, P/FCF) use Market Cap ÷ aggregate figure (or equivalently, CMP ÷ per-share figure). EV/EBITDA approximates EV ≈ Market Cap for this debt-free, net-cash company. FCF Yield = FCF ÷ Market Cap. FY2019 P/FCF and FCF Yield are extreme because FCF was unusually low (₹69 Cr) that year. Dividend yield of ~1.4% is based on the trailing annual dividend of ~₹113/share (per Screener.in at the time of analysis). However, the latest interim dividend declared in Q3 FY26 was ₹180/share (including a ₹60 special dividend), which at ₹7,900 implies ~2.3% — but this includes non-recurring special dividends.*
 
 ### Historical Comparison
 
@@ -386,7 +386,7 @@ The 10-year mean PE is ~71x, and the 5-year average PE is ~56x. The current TTM 
 1. TTM earnings include a very strong recent quarter (Q3 FY26 with 37% profit growth)
 2. The stock price has corrected ~31% from its 52-week high of ₹11,500
 
-**However, the PB ratio of ~22x is at the higher end of its historical range.** This is driven by the company's practice of paying out most earnings as dividends, keeping book value growth modest.
+**The PB ratio of ~22x has been relatively stable** across recent years (ranging from ~18x to ~27x), reflecting the company's consistent high ROE and asset-light model. Book value is less relevant as a valuation anchor for a franchise business like Gillette; PE is more meaningful.
 
 The stock has historically traded at extreme premium multiples because of its quality metrics, scarcity value (small float, P&G subsidiary, limited Indian FMCG stocks of this quality), and near-zero reinvestment needs.
 
@@ -409,21 +409,23 @@ At current levels, the stock is moderately valued relative to its own history �
 | Growth Rate Yrs 6-10 | 7% | 10% | 12% |
 | Terminal Growth Rate | 4% | 5% | 5% |
 | Discount Rate | 11% | 11% | 11% |
-| PV of 10-Yr Cash Flows | ₹1,810/share | ₹2,233/share | ₹2,733/share |
-| Terminal Value (PV) | ₹3,319/share | ₹5,586/share | ₹7,582/share |
-| **Intrinsic Value Per Share** | **₹5,129** | **₹7,819** | **₹10,315** |
-| CMP (₹7,900) | **-35% overvalued** | **-1% overvalued** | **+31% upside** |
-| **Margin of Safety** | **Negative** | **~-1%** | **+31%** |
+| PV of 10-Yr Cash Flows | ₹1,858/share | ₹2,151/share | ₹2,460/share |
+| Terminal Value (PV) | ₹2,399/share | ₹3,712/share | ₹4,631/share |
+| **Intrinsic Value Per Share** | **₹4,257** | **₹5,864** | **₹7,092** |
+| CMP (₹7,900) | **-46% overvalued** | **-26% overvalued** | **-10% overvalued** |
+| **Margin of Safety** | **Negative** | **Negative** | **Negative** |
+
+*Note: Terminal Value uses the Gordon Growth Model: TV = OE₁₁ / (r − g), discounted back 10 years. OE₁₁ = Year 10 Owner Earnings × (1 + terminal growth rate).*
 
 ### Summary
 
 | Scenario | Intrinsic Value | Margin of Safety | Verdict |
 |---|---|---|---|
-| Conservative | ₹5,129 | **-35%** (overvalued) | Too expensive |
-| Base | ₹7,819 | **-1%** (essentially fair value) | Fairly valued |
-| Optimistic | ₹10,315 | **+31%** (undervalued) | Good upside |
+| Conservative | ₹4,257 | **-46%** (overvalued) | Too expensive |
+| Base | ₹5,864 | **-26%** (overvalued) | Overvalued |
+| Optimistic | ₹7,092 | **-10%** (slightly overvalued) | Approaching fair value |
 
-At ₹7,900, the stock is roughly **at fair value under base-case assumptions**. There is no meaningful margin of safety for a conservative investor, but neither is it overvalued — unlike when it traded at ₹11,500 (where it was clearly in overvalued territory).
+At ₹7,900, the stock is **above intrinsic value even under the optimistic DCF scenario**. This is typical for high-quality FMCG franchises in India — the market prices in decades of reliable compounding, which a standard 10-year DCF cannot fully capture. The DCF is best used as a conservative floor estimate rather than a precise fair value. The more relevant valuation framework for Gillette India is the PE-based and P/B-compounding approach in Sections 13-14.
 
 > *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* — Warren Buffett
 
@@ -441,7 +443,7 @@ Gillette India is undoubtedly a wonderful company. The question is whether ₹7,
 | Normalised TTM EPS | ~₹190 |
 | Current PE (on normalised EPS) | ~41.6x |
 | Shares Outstanding | 3.26 Cr |
-| Historical 5-Yr EPS CAGR | ~11.3% |
+| Historical 5-Yr EPS CAGR | ~10.2% (table CAGR) / ~11.3% (GuruFocus avg growth) |
 | Historical 10-Yr EPS CAGR | ~16.2% |
 
 ### Step 2-3: Implied EPS CAGR Tables
@@ -483,19 +485,19 @@ Gillette India is undoubtedly a wonderful company. The question is whether ₹7,
 | Benchmark | CAGR |
 |---|---|
 | India nominal GDP growth | 10-12% |
-| Gillette India 5-Yr EPS CAGR | 11.3% |
+| Gillette India 5-Yr EPS CAGR | 10.2% (table data) |
 | Gillette India 10-Yr EPS CAGR | 16.2% |
-| Gillette India 5-Yr Revenue CAGR | ~4% |
+| Gillette India 5-Yr Revenue CAGR | ~7.2% (table data) / ~4% (Screener) |
 
 **Traffic Light Assessment:**
 
-- At Terminal PE = 40x (historical): To earn 10% return over 10 years, you need ~10.4% EPS CAGR — which is **roughly in line with the historical 5-year CAGR of 11.3%**. 🟢 **GREEN — Reasonable.**
+- At Terminal PE = 40x (historical): To earn 10% return over 10 years, you need ~10.4% EPS CAGR — which is **roughly in line with the historical 5-year CAGR of 10.2%**. 🟢 **GREEN — Reasonable.**
 - At Terminal PE = 25x (if market de-rates): To earn 10% return over 10 years, you need ~15.7% EPS CAGR — which **exceeds the historical 5-year CAGR** and is close to the 10-year CAGR of 16.2%. 🟡 **YELLOW — Optimistic but achievable if margin expansion continues.**
 - At Terminal PE = 15x (severe de-rating): To earn 10% over 10 years, you need ~21.8% EPS CAGR — which **far exceeds the track record**. 🔴 **RED — Requires heroic assumptions.**
 
 ### Step 5: Verdict
 
-> "At the current price of ₹7,900, to earn a 10% annualised return over 10 years assuming the market values the business at 40x PE at exit, the company needs to grow EPS at ~10.4% CAGR. The company has historically grown EPS at 11.3% over 5 years and 16.2% over 10 years. This implies **the market is pricing in reasonable growth** at current PE if the premium multiple sustains. The risk lies in PE compression — if the market re-rates this to 25x (still generous), you need ~15.7% EPS growth to earn your hurdle rate, which is at the upper end of what's been delivered."
+> "At the current price of ₹7,900, to earn a 10% annualised return over 10 years assuming the market values the business at 40x PE at exit, the company needs to grow EPS at ~10.4% CAGR. The company has historically grown EPS at ~10.2% CAGR over 5 years and ~16.2% over 10 years. This implies **the market is pricing in reasonable growth** at current PE if the premium multiple sustains. The risk lies in PE compression — if the market re-rates this to 25x (still generous), you need ~15.7% EPS growth to earn your hurdle rate, which is at the upper end of what's been delivered."
 
 ### Step 6: Asymmetric Upside Check
 
@@ -504,7 +506,7 @@ Gillette India is undoubtedly a wonderful company. The question is whether ₹7,
 | Scenario | Basis | Implied Price | Downside |
 |---|---|---|---|
 | Trough Earnings × Trough PE | ₹70 EPS × 30x | ₹2,100 | -73% |
-| Worst-year EPS × Low PE | ₹88 EPS × 25x | ₹2,200 | -72% |
+| Worst-year EPS × Low PE | ₹70 EPS × 25x | ₹1,750 | -78% |
 | Normalised Earnings × Bear PE | ₹150 EPS × 30x | ₹4,500 | -43% |
 | Historical Low PE × Current Earnings | ₹190 × 32x | ₹6,080 | -23% |
 
@@ -514,8 +516,8 @@ The most probable downside floor is the **₹6,000-6,500 range** (current earnin
 
 | Scenario | Basis | Implied Price | Upside |
 |---|---|---|---|
-| Base Case (DCF) | ₹7,819 | ₹7,819 | -1% |
-| Bull Case (DCF) | ₹10,315 | ₹10,315 | +31% |
+| Base Case (DCF) | ₹5,864 | ₹5,864 | -26% |
+| Bull Case (DCF) | ₹7,092 | ₹7,092 | -10% |
 | 5-Year EPS at 12% CAGR × 40x PE | ₹335 × 40 | ₹13,400 | +70% |
 | Re-rating to Historical Mean PE | ₹190 × 55x | ₹10,450 | +32% |
 
@@ -546,10 +548,12 @@ This is not the time to swing hard. It's a time to wait for a better price or to
 |---|---|---|---|---|
 | FY2019 | 13.6% | 1.54x | 1.55x | 32.5% |
 | FY2020 | 13.7% | 1.24x | 1.48x | 25.2% |
-| FY2021 | 15.6% | 1.42x | 1.77x | 39.3% |
+| FY2021 | 15.6% | 1.42x | 1.77x | 39.3%* |
 | FY2022 | 12.8% | 1.39x | 1.88x | 33.5% |
 | FY2023 | 14.4% | 1.29x | 1.94x | 36.0% |
 | FY2024 | 15.6% | 1.44x | 1.88x | **42.4%** |
+
+*\*FY2021 DuPont ROE of 39.3% uses year-end balance sheet figures (consistent with the DuPont decomposition methodology). Section 6 reports FY2021 ROE as 36% using average equity. Both are valid; the difference arises from a large equity drop during the year (from ₹912 Cr to ₹789 Cr due to special dividends).*
 
 **Quality Assessment:**
 
@@ -559,7 +563,7 @@ This is not the time to swing hard. It's a time to wait for a better price or to
 
 **ROE is driven primarily by high net margins and decent asset turnover, with minimal leverage.** This is the ideal Buffett pattern.
 
-**ROCE (56%) > ROE (42%)** — confirming the returns are from genuine business quality, not leverage. The gap between ROCE and ROE is explained by taxes, confirming a healthy pattern.
+**ROCE (59% in FY2024) > ROE (42% in FY2024)** — confirming the returns are from genuine business quality, not leverage. The gap between ROCE and ROE is explained by taxes, confirming a healthy pattern.
 
 ### Part B: P/B Scenario Analysis
 
@@ -592,9 +596,9 @@ This is not the time to swing hard. It's a time to wait for a better price or to
 
 **Key Insight:**
 
-> "At the current entry P/B of 22.1x with a sustainable ROE of 38% and 20% retention, book value compounds at only 7.6% annually (because most earnings are paid out). If the P/B multiple remains at 22.1x, your return equals the BV compounding rate of 7.6% plus dividend yield of ~1.4% = ~9% total. The stock can tolerate P/B compression from 22.1x down to approximately 17-18x before the 10-year return drops below the 10% hurdle rate."
+> "At the current entry P/B of 22.1x with a sustainable ROE of 38% and 20% retention, book value compounds at only 7.6% annually (because most earnings are paid out). If the P/B multiple remains at 22.1x, your return equals the BV compounding rate of 7.6% plus dividend yield of ~1.4% = ~9% total — which is slightly below a 10% hurdle rate even with zero P/B compression. This means the P/B-based framework alone does NOT justify buying at current levels; the investment case requires either (a) the PE multiple to sustain (per the EPS growth + dividend yield framework), or (b) ROE and retention to increase from current levels."
 
-**However**, the more relevant return framework for Gillette is: **Total Return = EPS Growth + Dividend Yield**. With EPS growing at ~11% and dividend yield of ~1.4%, the expected total return is ~12-13% — but ONLY if the PE multiple holds. PE compression is the main risk.
+**However**, the more relevant return framework for Gillette is: **Total Return = EPS Growth + Dividend Yield**. With EPS growing at ~10-12% and dividend yield of ~1.4%, the expected total return is ~11-13% — but ONLY if the PE multiple holds. PE compression is the main risk.
 
 ### Traffic Light Verdict
 
@@ -660,7 +664,7 @@ Remember, Buffett bought the original Gillette convertible preferred in 1989 at 
 |---|---|---|---|
 | **PE Multiple Compression** — Stock de-rates from premium to market multiples | HIGH | MEDIUM | Buy only at reasonable entry points; collect dividends while waiting |
 | **Trimmer Disruption** — Electric trimmers structurally reduce razor demand | MEDIUM | MEDIUM-HIGH | Gillette sells Braun trimmers; but margins are lower than cartridges |
-| **Slow Revenue Growth** — 5-yr CAGR of only 4% may not accelerate | MEDIUM | HIGH | Margin expansion offsets; but eventually there's a ceiling |
+| **Slow Revenue Growth** — 5-yr revenue CAGR of ~7% may not accelerate | MEDIUM | HIGH | Margin expansion offsets; but eventually there's a ceiling |
 | **Parent (P&G) decisions** — Transfer pricing, dividend policy changes | MEDIUM | LOW | P&G has been a responsible parent; 75% ownership aligns interests |
 | **RSPCB Regulatory Issue** — Bhiwadi plant CTO refused (Feb 2026 announcement) | MEDIUM | MEDIUM | Company pursuing legal remedies; may need to invest in compliance |
 | **Currency/Input Cost** — Imported components priced in USD | LOW-MEDIUM | MEDIUM | Strong pricing power helps pass through; hedging at P&G level |
@@ -683,17 +687,17 @@ Remember, Buffett bought the original Gillette convertible preferred in 1989 at 
 | Moat Durability | **8.5** | Brand + switching costs are durable; trimmer disruption is the main concern |
 | Financial Health | **10** | Zero debt, net cash, negative working capital — textbook fortress |
 | Management Quality | **8** | P&G professional management; excellent capital allocation (returns everything to shareholders) |
-| Scalability | **7.5** | Margin scaling is excellent; revenue scaling is modest |
-| Valuation | **5.5** | Fairly valued at ~42x PE; no margin of safety for new buyers |
-| Margin of Safety | **4** | Slim to none at current levels; need ₹6,000 or below for Buffett-grade safety |
+| Scalability | **7.6** | Margin scaling is excellent; revenue scaling is modest |
+| Valuation | **5** | Above DCF fair value; ~42x PE is below historical average but still premium |
+| Margin of Safety | **3** | Negative on DCF; dependent on PE sustaining for adequate returns |
 | Growth Outlook | **6.5** | Revenue growth of 8-12%; profit growth of 12-16% probable; not explosive |
-| **Overall Score** | **7.4/10** | |
+| **Overall Score** | **7.3/10** | |
 
 ### Buffett Verdict
 
 **Gillette India is a quintessential Buffett business — one of the finest consumer franchises listed in India.** It has every quality Buffett admires: a simple, understandable business; a dominant brand with switching costs; an asset-light model that generates extraordinary returns on capital (ROIC >70%); zero debt; consistent cash generation; and a stable, aligned management (P&G at 75%).
 
-**However, at ₹7,900 (~42x TTM PE, ~22x P/B), the stock is fairly valued, not cheap.** The market correctly recognises this as a premium franchise and prices it accordingly. There is no margin of safety for a new investor. The expected total return from here is ~10-13% annually (EPS growth + dividends), which is acceptable but not exceptional for the risk of owning a stock at premium multiples.
+**However, at ₹7,900 (~42x TTM PE, ~22x P/B), the stock is above fair value on a traditional DCF basis** (even the optimistic DCF scenario yields an IV of ~₹7,092). The market correctly recognises this as a premium franchise and prices it for decades of compounding — a standard 10-year DCF framework cannot fully capture this. Using the more relevant PE-based framework (Reverse DCF, Section 13), the stock prices in ~10% EPS CAGR at 40x terminal PE, which is achievable. The expected total return from here is ~8.5-12.5% annually (EPS growth + dividends), which is acceptable but not exceptional for the risk of owning a stock at premium multiples.
 
 **Buffett would admire this business deeply but would wait to buy at ₹5,500-6,500 (30-35x PE).** At those levels, the margin of safety would be meaningful, and the total return potential would jump to 15-20%+.
 
@@ -721,7 +725,7 @@ Remember, Buffett bought the original Gillette convertible preferred in 1989 at 
 - In 5 years: ~₹320-335 per share in earnings
 - If market pays 35-40x earnings: Stock price = ₹11,200–₹13,400
 - Current price: ₹7,900
-- That's ~8-11% annual return + ~1.4% dividend = **~9.5-12.5% total return**
+- That's ~7-11% annual price return + ~1.4% dividend = **~8.5-12.5% total return**
 
 Is that good enough? It's decent, not spectacular. You don't need Excel to see that.
 
