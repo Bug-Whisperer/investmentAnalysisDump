@@ -53,12 +53,13 @@ HDFC Bank's economic engine is robust enough that it has survived management tra
 
 **\*** FY24 includes HDFC Ltd merger effect from July 2023 (9 months). FY25 is first full year post-merger.
 **\*\*** Consolidated cost-to-income appears elevated due to subsidiary expenses (insurance, HDB Financial). Standalone banking cost-to-income is ~40%, which is healthy.
+**Note on EPS vs Shares:** EPS figures are sourced directly from Screener.in, which reports fully diluted EPS retroactively adjusted for all bonus issues and stock splits. Shares Outstanding shows actual year-end equity shares (pre-bonus). These two columns are on different bases and one cannot be derived from the other by simple division of Net Income by Shares.
 
 ### Trend Narrative
 
 **Pre-merger (FY18–FY23):** A picture of clockwork consistency. NIM stable at 4.0–4.3%, EPS compounding at ~18-20% CAGR, ROE in the 16-18% range, cost-to-income at ~38-40%. This was peak Buffett territory — a predictable, high-quality earnings machine.
 
-**Post-merger (FY24–FY25):** The merger introduced temporary distortion. NIM compressed from 4.3% to 3.6% in FY24 (HDFC Ltd's wholesale-funded mortgage book had lower spreads), then recovered to 3.9% in FY25. ROE dropped from ~17% to ~14% as the massive equity issued for the merger diluted returns. EPS growth slowed sharply — FY24 EPS was actually FLAT versus FY23 on a per-share basis (₹42.16 vs ₹41.22) because of the ~37% dilution in share count. FY25 saw a 9.7% EPS recovery. NIM is on a recovery trajectory (Q4FY25 at 3.46%, Q3FY26 at 3.35%).
+**Post-merger (FY24–FY25):** The merger introduced temporary distortion. NIM compressed from 4.3% to 3.6% in FY24 (HDFC Ltd's wholesale-funded mortgage book had lower spreads), then recovered to 3.9% in FY25. ROE dropped from ~17% to ~14% as the massive equity issued for the merger diluted returns. EPS growth slowed sharply — FY24 EPS was actually FLAT versus FY23 on a per-share basis (₹42.16 vs ₹41.22) because of the ~36% dilution in share count. FY25 saw a 9.7% EPS recovery. NIM recovered on an annual basis (FY24: 3.6% → FY25: 3.9%), though quarterly NIM dipped from Q4FY25 (3.46%) to Q3FY26 (3.35%) — likely reflecting the impact of RBI rate cuts on asset repricing. The full-year trajectory remains upward from the FY24 trough.
 
 > *"When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact."* — Buffett. Here the economics are NOT bad — HDFC Ltd had excellent economics too. The merger created short-term dilution but long-term value through cross-selling, cheaper deposit funding for mortgages, and operating leverage. The question is whether NIM and ROE can revert to pre-merger levels.
 
@@ -85,7 +86,7 @@ HDFC Bank's economic engine is robust enough that it has survived management tra
 | Leverage (Assets/Equity) | 10.1x | 8.4x | 9.0x | 8.6x | 8.6x | 8.7x | 8.8x | 8.4x | 8.4x |
 
 **\*** FY24 advance/deposit growth includes HDFC Ltd merger accretion, not organic growth.
-**\*\*** HDFC Bank issued bonus shares (1:1) in Sep 2025, effectively doubling share count from ~765 Cr to ~1,536 Cr. BVPS post-bonus is approximately ₹351 per share (₹682/2). The pre-bonus-adjusted BVPS for consistency is ~₹364 per the screener data.
+**\*\*** HDFC Bank issued bonus shares (1:1) in Sep 2025, effectively doubling share count from ~765 Cr to ~1,536 Cr. The FY25 consolidated BVPS of ₹682 (pre-bonus) would halve to ₹341 on a purely arithmetic basis; however, the H1FY26 BVPS is ~₹351 due to retained earnings accumulated in the interim. Screener.in reports the current BVPS as ~₹364, which reflects the latest available consolidated equity divided by post-bonus shares.
 
 ### Financial Fortress Assessment
 
@@ -166,6 +167,8 @@ In September 2025, the bank issued bonus shares at 1:1, doubling the share count
 | Leverage | 8.7x | 8.4x | ⬇️ Lower |
 | **ROE** | **17%** | **14%** | ⬇️ Compressed |
 
+**Note on ROA vs ROE basis:** The ROA figures above are standalone (banking entity only), while ROE is consolidated (including subsidiaries). For this reason, ROA × Leverage does not exactly equal the consolidated ROE shown (standalone gives FY23 = 15.8%, FY25 = 13.5%; consolidated is 17% and 14% respectively — the difference reflects subsidiary contributions). See Section 14 Part A for a mathematically precise DuPont decomposition using consistent consolidated figures. The directional insight remains valid: ROE declined because ROA compressed, not because leverage increased.
+
 **Critical Distinction:** The ROE decline from 17% to 14% is driven by LOWER ROA (NIM compression from merger), NOT by excessive leverage. In fact, leverage has DECLINED. This is the key insight — the quality of ROE has actually improved (less leverage), but the level has dropped (lower NIM). As NIM normalises toward 3.8-4.0%+ over the next 2-3 years, ROE should recover toward 15-17%.
 
 ### Quality Tier Assessment
@@ -176,7 +179,7 @@ In September 2025, the bank issued bonus shares at 1:1, doubling the share count
 | **Excellent** | **1.5-2.0%** | **15-18%** | **2.5-3.5x** |
 | Good | 1.0-1.5% | 12-15% | 1.5-2.5x |
 
-**Current Position:** With ROA of ~1.6-1.9% and ROE of ~14%, HDFC Bank sits at the boundary between "Excellent" and "Good". On a normalised basis (once NIM recovers), it should comfortably sit in the "Excellent" tier, deserving a P/B of 2.5-3.5x.
+**Current Position:** With ROA of ~1.6-1.9% (falling within the "Excellent" tier) and ROE of ~14% (falling within the "Good" tier at 12-15%), HDFC Bank currently straddles two quality tiers. The ROA indicates the underlying business engine is excellent; the lower ROE reflects post-merger NIM compression, not structural deterioration. On a normalised basis (once NIM recovers and ROE moves to 15%+), it should sit comfortably in the "Excellent" tier, deserving a P/B of 2.5-3.5x.
 
 ---
 
@@ -252,7 +255,7 @@ The incremental margin story is temporarily disrupted by the merger. Pre-merger,
 
 ### Buffett's $1 Test
 
-Over FY18-FY25, HDFC Bank retained approximately ₹2,50,000 Cr in cumulative earnings. Market capitalisation moved from ~₹5,40,000 Cr (FY18) to ~₹12,34,000 Cr today — an increase of ~₹6,94,000 Cr. This means every ₹1 retained created approximately ₹2.78 of market value. **This passes Buffett's $1 test comfortably**, though the ratio has declined in recent years (the stock has underperformed as the market digests the merger).
+Over FY18-FY25, HDFC Bank retained approximately ₹2,59,000 Cr in cumulative earnings. Market capitalisation moved from ~₹5,40,000 Cr (FY18) to ~₹12,34,000 Cr today — an increase of ~₹6,94,000 Cr. This means every ₹1 retained created approximately ₹2.68 of market value. **This passes Buffett's $1 test comfortably**, though the ratio has declined in recent years (the stock has underperformed as the market digests the merger).
 
 ### Management Assessment
 
@@ -300,7 +303,8 @@ Over FY18-FY25, HDFC Bank retained approximately ₹2,50,000 Cr in cumulative ea
 | BVPS (₹, adj.) | ~114 | ~155 | ~180 | ~215 | ~246 | ~289 | ~336 | ~382 | ~364** |
 
 *Prices adjusted for bonus issues to enable comparison.
-**Current BVPS per screener at ₹364.
+**Current BVPS per screener at ₹364 (consolidated equity / post-bonus shares).
+***Note on BVPS series:** The BVPS figures in this table are sourced from Screener.in's per-share data, which uses standalone book value retroactively adjusted for all bonus issues — this enables consistent historical comparison at market-relevant per-share levels. Section 3's BVPS (₹211–₹682) uses consolidated shareholders' equity divided by pre-bonus shares. The two series are on different bases (standalone vs consolidated, bonus-adjusted vs pre-bonus) and are not directly comparable. The ₹364 current BVPS used throughout the valuation sections is the consolidated figure from Screener.*
 
 ### Fair P/B Multiple Calculation (Gordon Growth Model)
 
@@ -320,7 +324,7 @@ The negative denominator indicates that when g > CoE, the Gordon model breaks do
 **Practical Fair P/B:** Using conservative assumptions (Sustainable ROE = 14%, g = 10%, CoE = 12%):
 Fair P/B = (0.14 - 0.10) / (0.12 - 0.10) = 0.04 / 0.02 = **2.0x**
 
-At current P/B of ~2.2x, the stock is trading at a **modest 10% premium to conservative fair value** and at a **significant discount to historical averages** (5-year average P/B was ~3.0-3.5x).
+At current P/B of ~2.2x, the stock is trading at a **modest 10% premium to conservative fair value** and at a **significant discount to historical averages** (FY19-FY23 average P/B was ~3.2x; even the recent FY21-FY25 average is ~2.7x).
 
 ### Buffett's Bank Valuation Rules of Thumb
 
@@ -360,26 +364,28 @@ Intrinsic Value = Book Value + PV of Future Excess Returns
 
 Conservative (ROE=13.5%, CoE=11%): Excess spread = 2.5%
   PV of 10-year excess returns + terminal ≈ ₹180/share
-  Intrinsic Value = ₹364 + ₹180 = ₹544 (33% below CMP — stock overvalued on this ultra-conservative assumption)
+  Intrinsic Value = ₹364 + ₹180 = ₹544
 
 Base (ROE=15%, CoE=11%): Excess spread = 4%
   PV of 10-year excess returns + terminal ≈ ₹380/share
-  Intrinsic Value = ₹364 + ₹380 = ₹744 (8% below CMP — roughly fairly valued)
+  Intrinsic Value = ₹364 + ₹380 = ₹744
 
 Optimistic (ROE=16.5%, CoE=11%): Excess spread = 5.5%
   PV of 10-year excess returns + terminal ≈ ₹580/share
-  Intrinsic Value = ₹364 + ₹580 = ₹944 (16% above CMP — undervalued)
+  Intrinsic Value = ₹364 + ₹580 = ₹944
 ```
 
 **Summary Table:**
 
-| Scenario | Intrinsic Value (₹) | CMP (₹810) vs IV | Margin of Safety |
-|---|---|---|---|
-| Conservative | 544 | 49% overvalued | Negative |
-| Base | 744 | 9% overvalued | Negative (marginally) |
-| Optimistic | 944 | 17% undervalued | Moderate |
-| BV Compounding (Base, 5-Yr target) | 1,373 | 69% upside | Good (if holding 5 years) |
-| BV Compounding (Base, 10-Yr target) | 2,352 | 190% upside | Very good (10-year horizon) |
+*Margin of Safety = (IV − CMP) / IV. Upside/(Downside) = (IV − CMP) / CMP.*
+
+| Scenario | Intrinsic Value (₹) | MoS (IV basis) | Upside/(Downside) vs CMP | Verdict |
+|---|---|---|---|---|
+| Conservative | 544 | -49% | -33% overvalued | Negative |
+| Base | 744 | -9% | -8% overvalued | Negative (marginally) |
+| Optimistic | 944 | +14% | +17% undervalued | Moderate |
+| BV Compounding (Base, 5-Yr target) | 1,373 | — | +69% upside | Good (if holding 5 years) |
+| BV Compounding (Base, 10-Yr target) | 2,352 | — | +190% upside | Very good (10-year horizon) |
 
 **Key Insight:** On a static excess return model, HDFC Bank at ₹810 is roughly fairly valued to slightly overvalued under conservative assumptions and slightly undervalued under optimistic assumptions. But the BV compounding model — which is how Buffett actually thinks — shows compelling 10-15% CAGR returns over 5-10 years if ROE normalises to 15%+. The story here is NOT about a deep margin of safety; it is about buying a high-quality compounder at a reasonable (not cheap) price.
 
@@ -404,9 +410,11 @@ This means the **core banking business is trading at an effective P/B of ~1.9x**
 | Input | Value |
 |---|---|
 | CMP | ₹810 |
-| TTM Normalised EPS | ~₹48 |
-| Current PE (Normalised) | ~16.9x |
+| TTM Reported EPS | ~₹48 |
+| Current PE (on Reported EPS) | ~16.9x |
 | Shares Outstanding (Diluted, post-bonus) | ~1,536 Cr. |
+
+*Note: TTM EPS of ~₹48 is the reported (not normalised) figure from Screener. The normalised EPS (per the Section 5 methodology: NI + D&A − Normalised Credit Cost) would be ~₹40 post-bonus. We use reported EPS here because the Reverse DCF is a market-pricing sanity check — the market prices off reported earnings, not our normalised construct. Using normalised EPS would make the stock appear even cheaper (PE ~20x on ₹40 normalised EPS), strengthening the conclusion.*
 
 ### Step 2-3: Implied EPS CAGR Needed
 
