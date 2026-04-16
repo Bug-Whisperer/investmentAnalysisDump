@@ -45,6 +45,8 @@ Hyundai Motor India Limited (HMI) is a subsidiary of Hyundai Motor Company (Sout
 | Shares Change YoY | 0% | 0% | 0% | 0% | 0% | 0% | 0% | — |
 | Dividend Payout % | 0% | 0% | **74%** | 52% | **100%** | 18% | 31% | — |
 
+*Note: FY24 Dividend Payout of 18% is Screener's reported figure, which likely reflects the regular dividend on a different accounting basis. The actual cash dividend paid in FY24 (including the pre-IPO mega-dividend) was ~₹15,000+ Cr — approximately 252% of FY24 net income. See Section 4 for the cash flow perspective.*
+
 **Compounded Growth Rates:** Sales 5Y CAGR: 10% | Profit 5Y CAGR: 18% | 3Y Profit CAGR: 24%
 
 **Trend Narrative:**
@@ -82,7 +84,7 @@ The FY25 dip in revenue (-1.3%) and profit (-7.8%) is notable — it reflects a 
 
 **Critical Observations:**
 
-**This is a financial fortress by any definition.** Debt/Equity of 0.05 and Debt/EBITDA of 0.08 mean the company is essentially debt-free. Borrowings of ₹847 Cr against EBITDA of ₹10,785 Cr are trivial — the company could pay off all debt from less than one month's operating profit.
+**This is a financial fortress by any definition.** Debt/Equity of 0.05 and Debt/EBITDA of 0.08 mean the company is essentially debt-free. Borrowings of ₹847 Cr against EBITDA of ₹10,785 Cr are trivial — the company could pay off all debt from just over one month's operating profit.
 
 **The FY24 Balance Sheet Earthquake:** The massive drop in equity from ₹19,778 Cr (FY23) to ₹10,285 Cr (FY24) was caused by the **pre-IPO mega-dividend of ~₹15,000+ Cr** paid to the parent Hyundai Motor Company (Korea) to extract cash before listing. This explains:
 - Cash from Financing Activity of -₹15,929 Cr in FY24
@@ -93,7 +95,7 @@ This was NOT a business deterioration — it was a financial engineering decisio
 
 **CWIP Surge — The Talegaon Plant:** CWIP jumped from ₹639 Cr (FY24) to ₹4,704 Cr (FY25) and further to ₹6,113 Cr (H1 FY26). This is the **new Talegaon manufacturing plant** near Pune, which will add ~250,000 units/annum capacity. This is the single largest capital expenditure in HMI's history and represents genuine growth investment.
 
-**Negative Working Capital — A Beautiful Feature:** Working capital days are consistently negative (-14 to -31 days), meaning HMI collects from customers and dealers BEFORE it pays suppliers. This is the hallmark of a strong brand with bargaining power over both suppliers and dealers. The cash conversion cycle is -14 days — the business generates cash as it grows.
+**Negative Working Capital — A Beautiful Feature:** Working capital days are consistently negative (-5 to -31 days per Screener), meaning HMI collects from customers and dealers BEFORE it pays suppliers. This is the hallmark of a strong brand with bargaining power over both suppliers and dealers. The cash conversion cycle ranges from -8 to -19 days (FY25: -14 days) — the business generates cash as it grows.
 
 > *Buffett: "We like to own businesses that can withstand economic storms. A financial fortress — one with low debt, high cash flow, and a dominant market position — is the kind of business that not only survives hard times but emerges stronger."* — HMI passes this test with flying colours. Virtually no debt, negative working capital, and strong cash generation.
 
@@ -116,7 +118,7 @@ This was NOT a business deterioration — it was a financial engineering decisio
 
 **Cash Flow Quality Assessment:**
 
-Operating cash flow has been robust and consistent — averaging ~₹5,600 Cr/year over FY19-FY25, peaking at ₹9,113 Cr in FY24. The OCF-to-Net Income ratio averages ~1.3x, indicating **high-quality earnings with excellent cash conversion**. This is characteristic of a business with negative working capital — profits translate into cash at a rate ABOVE 100%.
+Operating cash flow has been robust and consistent — averaging ~₹5,500 Cr/year over FY19-FY25, peaking at ₹9,113 Cr in FY24. The OCF-to-Net Income ratio averages ~1.7x, indicating **high-quality earnings with excellent cash conversion**. This is characteristic of a business with negative working capital — profits translate into cash at a rate well ABOVE 100%.
 
 **FY25 FCF turned negative** (-₹1,374 Cr) due to the massive Talegaon plant CapEx (₹5,625 Cr). This is clearly **growth CapEx, not a sign of deterioration**. Stripping out the Talegaon investment, normalised FCF would be ~₹3,500-4,000 Cr.
 
@@ -176,8 +178,8 @@ Operating cash flow has been robust and consistent — averaging ~₹5,600 Cr/ye
 **However, a critical caveat:** The FY24 and FY25 ROE/ROIC figures are **artificially inflated** by the depleted equity base after the pre-IPO mega-dividend. When ₹15,000+ Cr was extracted as dividend in FY24, equity dropped from ₹19,778 Cr to ₹10,285 Cr — mechanically doubling the ROE on the same earnings.
 
 **Normalised ROE (adjusting for pre-IPO equity extraction):**
-- If equity had remained at ~₹19,000-20,000 Cr (without the mega-dividend), FY25 ROE would be ~28-30% — still excellent, but not the 42% headline figure.
-- The 5-year average ROE (FY20-FY24, Screener data) is 27.3% — a more representative figure.
+- If equity had remained at ~₹19,000-20,000 Cr (without the mega-dividend), FY25 ROE would be ~27-29% — still excellent, but not the 42% headline figure.
+- The 5-year average ROE (Screener data) is 27% — a more representative figure than the current inflated 42%.
 - Going forward, as retained earnings rebuild equity (already ₹15,767 Cr in FY25, ₹16,992 Cr in H1 FY26), ROE will naturally compress towards 25-30%.
 
 **Sustainable ROE Estimate: 25-30%** — This is the figure to use for valuation purposes. Even at the lower end, this is exceptional for an auto OEM.
@@ -205,14 +207,16 @@ Access to Hyundai Motor Group's global R&D, platforms, technology (especially EV
 
 | Year | Domestic Market Share (PV) | Trend |
 |---|---|---|
-| FY18 | 16.3% | — |
-| FY19 | 16.3% | Stable |
-| FY20 | 17.6% | ▲ |
-| FY21 | 17.4% | ▼ Slight |
-| FY22 | 14.6% | **▼▼ Significant** |
-| FY23-FY24 | ~14-15% (est.) | Stabilising |
+| FY18 | 16.20% | — |
+| FY19 | 17.30% | ▲ |
+| FY20 | 16.70% | ▼ Slight |
+| FY21 | 16.30% | ▼ Slight |
+| FY22 | 16.30% | — Stable |
+| FY23 | 17.60% | ▲ Recovery |
+| FY24 | 17.40% | ▼ Slight |
+| FY25 | **14.60%** | **▼▼ Significant** |
 
-**This is the most concerning finding in the analysis.** HMI's domestic market share peaked at ~17.6% (FY20) and has fallen to ~14-15%. The culprit is clear: **Tata Motors' resurgence and M&M's SUV onslaught** have taken share aggressively. Tata launched Nexon, Punch, Harrier, and Safari; M&M launched XUV700, Thar, and Scorpio-N — all of which compete directly with Hyundai's core SUV lineup.
+**This is the most concerning finding in the analysis.** HMI's domestic market share recovered to ~17.6% in FY23 and held at 17.4% in FY24, but then collapsed to 14.6% in FY25 — a sharp 2.8 percentage point drop in a single year. The culprit is clear: **Tata Motors' resurgence and M&M's SUV onslaught** have taken share aggressively. Tata launched Nexon, Punch, Harrier, and Safari; M&M launched XUV700, Thar, and Scorpio-N — all of which compete directly with Hyundai's core SUV lineup.
 
 ### Key Competitors & Threat Assessment:
 
@@ -390,9 +394,9 @@ Negligible — not a concern.
 
 2. **Premiumisation continues:** Average revenue per vehicle hit ₹8.88 lakh (FY25), up 45% from FY19's ₹6.12 lakh. The SUV contribution at 68.5% drives this. But the question is: how much more premiumisation is possible?
 
-3. **Capacity is near-full:** At 92.5% utilisation (FY25) on 824K capacity, HMI is capacity-constrained. The Talegaon plant (adding ~250K units) is critical for future growth. Until it comes online (~FY27-28), volume growth is physically limited.
+3. **Capacity is near-full:** At 92.5% utilisation (FY25) on 824K capacity, HMI is capacity-constrained. The Talegaon plant (adding ~250K units) is critical for future growth. Until it comes online (~FY27-28), volume growth is physically limited. *(Note: Capacity utilisation figures are sourced from company filings and are based on production volumes, not sales volumes, which is why they may differ from simple sales/capacity calculations.)*
 
-4. **Market share erosion is real:** The drop from 17.6% (FY20) to 14.6% (FY22 data) represents a loss of ~3 percentage points. In a growing market, this means competitors (Tata, M&M) are growing much faster than HMI. **Feb 2026 monthly data shows signs of recovery: 66,134 units with YoY +12.6%**, suggesting the worst of the share loss may be behind.
+4. **Market share erosion is real:** The sharp drop from 17.40% (FY24) to 14.60% (FY25) represents a loss of ~2.8 percentage points in a single year. In a growing market, this means competitors (Tata, M&M) are growing much faster than HMI. **Feb 2026 monthly data shows signs of recovery: 66,134 units with YoY +12.6%**, suggesting the worst of the share loss may be behind.
 
 5. **Operational efficiency is excellent:** Debtor days at 12 (industry-leading), inventory days at 25 (lean), and negative cash conversion cycle demonstrate tight working capital management.
 
@@ -429,7 +433,7 @@ HMI listed in October 2024 at ₹1,960, touched ₹2,890, and currently trades a
 | Force Motors | 27.8x | 7.61x | 30.0% | 20.8% |
 | **Industry Median** | **28.4x** | **5.42x** | — | — |
 
-**HMI trades at a PE in line with the industry but at nearly DOUBLE the industry P/B.** The elevated P/B is explained by the depleted equity base post mega-dividend, which inflates ROE and ROA. On a PE basis, HMI is fairly valued relative to peers but EXPENSIVE relative to its own growth trajectory (sales growth of just 1.3% in FY25, profit decline of 7.8%).
+**HMI trades at a PE in line with the industry but at nearly DOUBLE the industry P/B.** The elevated P/B is explained by the depleted equity base post mega-dividend, which inflates ROE and ROA. On a PE basis, HMI is fairly valued relative to peers but EXPENSIVE relative to its own growth trajectory (sales declined -1.3% in FY25, profit declined -7.8%).
 
 The P/B of 9.65x is the elephant in the room. Even adjusting for the artificially low book value, this is a VERY high multiple. Maruti, with a stronger market position, trades at 3.97x book. The market is pricing HMI's returns on equity as though they will sustain at 40%+ — which they almost certainly will NOT as equity rebuilds through retained earnings.
 
@@ -456,11 +460,11 @@ The P/B of 9.65x is the elephant in the room. Even adjusting for the artificiall
 | Add: Net Cash (₹ Cr) | 2,153 | 2,153 | 2,153 |
 | **Equity Value (₹ Cr)** | 1,04,866 | 1,54,634 | 2,11,925 |
 | **Intrinsic Value Per Share (₹)** | **1,290** | **1,902** | **2,607** |
-| **Margin of Safety at ₹2,018** | **-56.4%** | **-6.1%** | **+22.6%** |
+| **Margin of Safety at ₹2,018** *(= (IV − CMP) / IV)* | **-56.4%** | **-6.1%** | **+22.6%** |
 
 **DCF Summary:**
 
-| Scenario | Intrinsic Value/Share | vs. CMP ₹2,018 | Verdict |
+| Scenario | Intrinsic Value/Share | Upside/(Downside) vs. CMP ₹2,018 *(= (IV − CMP) / CMP)* | Verdict |
 |---|---|---|---|
 | Conservative | **₹1,290** | **-36% Overvalued** | Significant downside risk |
 | Base | **₹1,902** | **-6% Overvalued** | Roughly fairly valued |
@@ -580,10 +584,14 @@ The P/B of 9.65x is the elephant in the room. Even adjusting for the artificiall
 
 **Part 3: Asymmetry Ratio**
 
-Realistic Upside (Base to Bull): +5% to +29% → ~17% average
+Realistic Upside (Bull case): +29%; Base case is actually -6% (no upside)
 Realistic Downside (to conservative DCF): -36%
 
-**Asymmetry Ratio: 17% / 36% ≈ 0.5:1 — NEGATIVE ASYMMETRY**
+Using the bull case as the upside and conservative DCF as the downside:
+
+**Asymmetry Ratio: 29% / 36% ≈ 0.8:1 — NEGATIVE ASYMMETRY**
+
+Even using the most favourable upside scenario, the risk-reward is unfavourable. The base case itself shows no upside (-6%), meaning you NEED the optimistic scenario to make money — and even then, the downside exceeds the upside.
 
 | Asymmetry Ratio | Interpretation |
 |---|---|
@@ -605,7 +613,7 @@ Realistic Downside (to conservative DCF): -36%
 
 **Part 5: Fat Pitch Verdict**
 
-> "At ₹2,018, the realistic downside is approximately -36% to ₹1,290 (Conservative DCF). The realistic base-case upside is approximately -6% to ₹1,902 — meaning there is NO upside in the base case. Even the bull case offers only +29% to ₹2,607. This gives an asymmetry ratio of approximately 0.5:1. **This is NOT a fat pitch. The risk-reward is unfavourable at the current price.**"
+> "At ₹2,018, the realistic downside is approximately -36% to ₹1,290 (Conservative DCF). The realistic base-case upside is approximately -6% to ₹1,902 — meaning there is NO upside in the base case. Even the bull case offers only +29% to ₹2,607. This gives an asymmetry ratio of approximately 0.8:1 (bull upside vs. downside). **This is NOT a fat pitch. The risk-reward is unfavourable at the current price.**"
 
 **Mispricing Assessment:**
 
@@ -637,7 +645,7 @@ Realistic Downside (to conservative DCF): -36%
 
 **Component Analysis:**
 
-- **Net Profit Margin (4.5% → 8.1%):** Doubled over the period — driven by premiumisation (SUV mix shift), operating leverage, and lower effective tax rates (35% → 26%). This is genuine quality improvement. However, FY25 margin compressed slightly from FY24's peak (8.7%), suggesting the margin expansion may be peaking.
+- **Net Profit Margin (4.5% → 8.1%):** Nearly doubled over the period (1.8x) — driven by premiumisation (SUV mix shift), operating leverage, and lower effective tax rates (35% → 26%). This is genuine quality improvement. However, FY25 margin compressed slightly from FY24's peak (8.7%), suggesting the margin expansion may be peaking.
 
 - **Asset Turnover (1.67x → 2.46x):** Improved significantly — the business is generating more revenue per rupee of assets. This is partly genuine efficiency (better capacity utilisation, lower inventory) and partly mechanical (the pre-IPO cash extraction reduced assets in FY24, inflating the ratio).
 
@@ -651,7 +659,7 @@ Realistic Downside (to conservative DCF): -36%
 | Asset Turnover rising from 1.67x to 2.46x | **✅ Mostly genuine** | High quality — better capital efficiency |
 | Equity Multiplier rising from 1.68x to 2.11x | **⚠️ Partially mechanical** | Mixed — driven by equity extraction, not debt |
 
-**Verdict:** The ROE improvement from 13% to 42% is approximately 40% genuine (margins + turnover) and 60% mechanical (equity base shrinkage from mega-dividend). The normalised, sustainable ROE is **25-30%**, which is still excellent.
+**Verdict:** The ROE improvement from 13% to 42% is approximately **~70% genuine** (margins + turnover) and **~30% mechanical** (equity base shrinkage from mega-dividend). At the FY20 leverage level (equity multiplier 1.68x), the margin and turnover improvements alone would have lifted ROE to ~33.5% — already excellent. The normalised, sustainable ROE is **25-30%**, which is still exceptional.
 
 **ROCE vs. ROE:**
 - ROCE (FY25): 54% → ROE (FY25): 42%
@@ -666,6 +674,9 @@ Realistic Downside (to conservative DCF): -36%
 | Current BVPS | ₹193.94 (FY25) |
 | Current Market Price | ₹2,018 |
 | Current P/B | 10.4x |
+
+*Note: The header P/B of 9.65x uses the latest available H1 FY26 BVPS (₹209). This section uses FY25 BVPS (₹194) for the compounding analysis, giving P/B = 10.4x — a more conservative starting point since BV compounding projections should begin from the last full-year audited figure.*
+
 | Sustainable ROE (normalised) | 25% (conservative) to 30% (base) |
 | Retention Ratio | ~70% |
 | BV Compounding Rate (ROE 25%) | 17.5% |
@@ -690,7 +701,7 @@ Realistic Downside (to conservative DCF): -36%
 | 7.8x (mild compress) | 25% de-rating | 10.9% | 12.8% | 14.2% |
 | 5.2x (significant compress) | 50% de-rating | 2.3% | 6.4% | 9.6% |
 | 3.0x (severe compress) | To Maruti-level P/B | **-8.6%** | **-1.4%** | **3.7%** |
-| 1.0x (book value floor) | Worst case for quality co | **-24.0%** | **-15.0%** | **-7.0%** |
+| 1.0x (book value floor) | Worst case for quality co | **-26.4%** | **-15.9%** | **-7.0%** |
 
 **Scenario B: ROE = 30%, BV Growth = 21.0%**
 
