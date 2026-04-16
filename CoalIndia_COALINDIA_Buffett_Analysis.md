@@ -76,7 +76,7 @@ The income statement tells a compelling story of **cyclical recovery and margin 
 
 2. **FY2019 marked the turnaround** — E-auction premiums surged, coal demand recovered, margins snapped back to 25%.
 
-3. **FY2022-FY2024 was the golden period** — Post-COVID power demand boom + global energy crisis pushed e-auction realisations sharply higher. OPM expanded from 23% to 33%. Net profit tripled from ₹17,378 Cr to ₹37,369 Cr in just two years.
+3. **FY2022-FY2024 was the golden period** — Post-COVID power demand boom + global energy crisis pushed e-auction realisations sharply higher. OPM expanded from 23% to 33%. Net profit more than doubled from ₹17,378 Cr (FY2022) to ₹37,369 Cr (FY2024), and nearly tripled from the FY2021 trough of ₹12,702 Cr.
 
 4. **FY2025 shows slight moderation** — Revenue dipped 1% YoY, net profit fell ~5.5%. This reflects normalisation of e-auction premiums and rising depreciation from heavy capex. **The TTM figures show further deceleration** (Net Profit at ₹29,755 Cr vs ₹35,302 Cr for FY2025).
 
@@ -183,13 +183,13 @@ For a mining company, **maintenance capex** = the spend needed to maintain curre
 
 ### Owner Earnings Calculation (Buffett's Preferred Metric)
 
-| Metric | FY2023 | FY2024 | FY2025 | 5Y Avg |
+| Metric | FY2023 | FY2024 | FY2025 | 5Y Avg (FY21-25) |
 |---|---|---|---|---|
-| Net Income | 31,723 | 37,369 | 35,302 | 23,019 |
-| Add: D&A | 6,833 | 6,735 | 9,145 | 5,950 |
-| Less: Maintenance CapEx (≈D&A) | -6,833 | -6,735 | -9,145 | -5,950 |
+| Net Income | 31,723 | 37,369 | 35,302 | 26,895 |
+| Add: D&A | 6,833 | 6,735 | 9,145 | 6,170 |
+| Less: Maintenance CapEx (≈D&A) | -6,833 | -6,735 | -9,145 | -6,170 |
 | Less: SBC | Negligible | Negligible | Negligible | — |
-| **= Owner Earnings** | **~31,723** | **~37,369** | **~35,302** | **~23,019** |
+| **= Owner Earnings** | **~31,723** | **~37,369** | **~35,302** | **~26,895** |
 
 For CIL, Owner Earnings approximately equals Net Income because D&A ≈ Maintenance CapEx. This is a **high-quality earnings stream** — there is no hidden maintenance capex drag.
 
@@ -213,7 +213,7 @@ For CIL, Owner Earnings approximately equals Net Income because D&A ≈ Maintena
 
 This is **extraordinary**. CIL's returns on capital are among the highest in corporate India — and they have been consistently high for over a decade:
 
-- **10-Year Average ROE: 46%** — This is elite territory. Very few companies globally sustain 40%+ ROE for a decade.
+- **10-Year Average ROE: 48%** — This is elite territory. Very few companies globally sustain 40%+ ROE for a decade.
 - **ROCE of 48-107%** — The range is wide due to cyclicality, but even at the low end (45% in FY2018), it vastly exceeds any reasonable cost of capital (10-12%).
 - **ROA of 6-16%** — For a capital-intensive mining company, ROA above 10% is excellent.
 
@@ -336,7 +336,7 @@ For every ₹1 of retained earnings, has management created at least ₹1 of mar
 
 | Action | Assessment |
 |---|---|
-| **Dividends** | Excellent — consistent high payouts (42-146% of net income). CIL has returned enormous cash to shareholders. Total dividends FY2019-FY2025: ~₹90,000+ Cr. |
+| **Dividends** | Excellent — consistent high payouts (42-146% of net income). CIL has returned enormous cash to shareholders. Total dividends FY2019-FY2025: ~₹83,000 Cr. |
 | **Share Buybacks** | CIL did a ₹4,000 Cr buyback in FY2018. Government ownership constrains buyback activity. |
 | **Acquisitions** | Minimal — CIL has not destroyed value through acquisitions. |
 | **CapEx** | Aggressive growth capex (₹18,000 Cr in FY2025) focused on mine expansion, mechanisation, and solar. Appears rational. |
@@ -380,8 +380,8 @@ In CIL's case, the BUSINESS economics are excellent (monopoly, low cost, captive
 
 | Metric | Current | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|---|---|
-| PE Ratio | **9.4** (on FY2025 EPS) | 5.3x | 6.4x | 6.2x | 5.2x | 7.2x | 7.9x |
-| PE on TTM | **9.4** | — | — | — | — | — | — |
+| PE Ratio (on TTM EPS) | **9.4x** | 5.3x | 6.4x | 6.2x | 5.2x | 7.2x | 7.9x |
+| PE (on FY2025 EPS) | **7.9x** | — | — | — | — | — | — |
 | P/B Ratio | **2.83** | 2.7x | 2.2x | 2.5x | 2.7x | 3.3x | 2.8x |
 | Dividend Yield | **5.8%** | 8.0% | 12.0% | 6.8% | 4.6% | 5.7% | 5.8% |
 | EV/EBITDA (est.) | **~5.2x** | ~6x | ~7x | ~5x | ~4.5x | ~5x | ~4.7x |
@@ -390,11 +390,11 @@ In CIL's case, the BUSINESS economics are excellent (monopoly, low cost, captive
 
 ### Historical Comparison
 
-CIL's current PE of ~9.4x is **slightly above its historical 5-year median** of ~6-7x but is being measured against a potentially peaking earnings cycle. If we use TTM EPS of ₹48.45, PE rises to ~9.4x.
+CIL's current PE of ~9.4x on TTM EPS (or ~7.9x on FY2025 EPS) is **slightly above its historical 5-year median** of ~6-7x but is being measured against a potentially peaking earnings cycle.
 
 The P/B ratio of 2.83x is **near the upper end** of its historical range (2.0-3.5x). However, given the structural improvement in margins and ROE, a higher P/B than the historical average is justified.
 
-The dividend yield of 5.8% is **attractive** and above the 10-year G-Sec yield (~7%). This provides a floor to the stock price.
+The dividend yield of 5.8% is **attractive** and compares reasonably to the 10-year G-Sec yield (~7%), providing meaningful income support to total returns. This provides a soft floor to the stock price — income-seeking investors step in when yields approach 7-8%.
 
 > *"Price is what you pay. Value is what you get."* — Buffett
 
@@ -417,24 +417,24 @@ The dividend yield of 5.8% is **attractive** and above the 10-year G-Sec yield (
 | Growth Rate Y6-10 | 2% | 3% | 5% |
 | Terminal Growth Rate | 2% | 2% | 3% |
 | Discount Rate | 12% | 11% | 10% |
-| **PV of Cash Flows (Y1-10)** | ~₹1,83,000 | ~₹2,30,000 | ~₹3,08,000 |
-| **Terminal Value** | ~₹1,72,000 | ~₹2,52,000 | ~₹4,11,000 |
-| **PV of Terminal Value** | ~₹55,000 | ~₹88,000 | ~₹1,58,000 |
-| **Enterprise Value** | ~₹2,38,000 | ~₹3,18,000 | ~₹4,66,000 |
+| **PV of Cash Flows (Y1-10)** | ~₹1,79,800 | ~₹2,33,200 | ~₹3,13,600 |
+| **Terminal Value** | ~₹3,65,500 | ~₹5,36,600 | ~₹9,93,400 |
+| **PV of Terminal Value** | ~₹1,17,700 | ~₹1,89,000 | ~₹3,83,000 |
+| **Enterprise Value** | ~₹2,97,500 | ~₹4,22,200 | ~₹6,96,500 |
 | Less: Net Debt / + Net Cash | +5,000 | +5,000 | +5,000 |
-| **Equity Intrinsic Value** | ₹2,43,000 | ₹3,23,000 | ₹4,71,000 |
-| **Intrinsic Value / Share** | **₹394** | **₹524** | **₹764** |
-| **Margin of Safety at ₹455** | **-13% (overvalued)** | **+15%** | **+68%** |
+| **Equity Intrinsic Value** | ₹3,02,500 | ₹4,27,200 | ₹7,01,500 |
+| **Intrinsic Value / Share** | **₹491** | **₹693** | **₹1,138** |
+| **Upside/(Downside) at ₹455** | **+7.9%** | **+52.3%** | **+150.1%** |
 
 ### Summary Table
 
-| Scenario | Intrinsic Value/Share | Margin of Safety | Upside/(Downside) |
+| Scenario | Intrinsic Value/Share | Margin of Safety (IV−CMP)/IV | Upside/(Downside) (IV−CMP)/CMP |
 |---|---|---|---|
-| **Conservative** | ₹394 | -13% | Stock is 15% above conservative IV |
-| **Base Case** | ₹524 | +15% | 15% upside to fair value |
-| **Optimistic** | ₹764 | +68% | 68% upside if growth accelerates |
+| **Conservative** | ₹491 | +7.3% | +7.9% upside |
+| **Base Case** | ₹693 | +34.3% | +52.3% upside |
+| **Optimistic** | ₹1,138 | +60.0% | +150.1% upside |
 
-**At the current price of ₹455, CIL is near fair value under the base case.** It is NOT deeply undervalued, but it is NOT overvalued either. There is a thin margin of safety — about 15% — under reasonable assumptions.
+**At the current price of ₹455, CIL is modestly undervalued under the conservative case and significantly undervalued under the base case.** The DCF analysis, properly computed with Gordon Growth terminal values, suggests the market is offering a reasonable margin of safety — particularly under the base and optimistic scenarios.
 
 ---
 
@@ -452,31 +452,41 @@ The dividend yield of 5.8% is **attractive** and above the 10-year G-Sec yield (
 
 *Using FY2025 EPS of ₹57.37 as the starting point (more representative of normalised earnings power):*
 
+### Step 2: Terminal PE Multiple Scenarios
+
+The terminal PE is what the market will likely pay for the business at the END of your holding period. This depends on expected maturity and growth trajectory at that future point.
+
+| Scenario | Terminal PE | Rationale |
+|---|---|---|
+| Historical Avg for CIL | 8x | CIL's own 5-10 year median PE — reflects the market's long-standing assessment of a cyclical PSU coal miner |
+| Mature / Low-Growth | 12x | Business has matured, growth ≈ GDP. Appropriate if coal demand plateaus. |
+| Market Average | 15x | Business grows roughly in line with the market; a mild re-rating scenario if CIL is seen as a diversified energy company |
+
 ### Step 3: Implied EPS CAGR Needed
 
 #### At Terminal PE = 12x (Mature/Low-Growth)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 17.2% | 22.7% | 28.5% |
-| 10 Years | 11.7% | 14.5% | 17.4% |
-| 15 Years | 9.9% | 11.8% | 13.9% |
+| 5 Years | 1.3% EPS CAGR needed | 5.9% | 10.5% |
+| 10 Years | 5.5% EPS CAGR needed | 10.3% | 15.1% |
+| 15 Years | 7.0% EPS CAGR needed | 11.9% | 16.7% |
 
 #### At Terminal PE = 15x (Market Avg)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 12.2% | 17.5% | 23.2% |
-| 10 Years | 9.2% | 12.0% | 14.8% |
-| 15 Years | 8.4% | 10.3% | 12.3% |
+| 5 Years | -3.2% EPS CAGR needed | 1.2% | 5.6% |
+| 10 Years | 3.2% EPS CAGR needed | 7.9% | 12.6% |
+| 15 Years | 5.4% EPS CAGR needed | 10.2% | 15.0% |
 
 #### At Terminal PE = 8x (Historical Avg for CIL)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 24.2% | 30.0% | 36.0% |
-| 10 Years | 15.1% | 18.0% | 21.0% |
-| 15 Years | 12.3% | 14.2% | 16.4% |
+| 5 Years | 9.8% EPS CAGR needed | 14.8% | 19.8% |
+| 10 Years | 9.9% EPS CAGR needed | 14.9% | 19.9% |
+| 15 Years | 9.9% EPS CAGR needed | 14.9% | 19.9% |
 
 ### Step 4: Reality Check
 
@@ -489,15 +499,15 @@ The dividend yield of 5.8% is **attractive** and above the 10-year G-Sec yield (
 
 ### Step 5: Traffic Light Verdict
 
-At the **most likely scenario** (Terminal PE of 12-15x, 10-year holding period), you need **9-15% EPS CAGR** to earn a 10-15% return. CIL has historically delivered ~10% EPS CAGR over 10 years. This is **achievable but not guaranteed** — it requires sustained coal demand growth and margin stability.
+At the **most likely scenario** (Terminal PE of 12-15x, 10-year holding period), you need **3-10% EPS CAGR** to earn a 10% return. CIL has historically delivered ~10% EPS CAGR over 10 years. This is **comfortably achievable** — the market is NOT demanding heroic assumptions at the current price.
 
-**🟢 GREEN (at Terminal PE 15x, 10-year, 10% return):** Only 9.2% EPS CAGR needed — below historical rate.
+**🟢 GREEN (at Terminal PE 15x, 10-year, 10% return):** Only 3.2% EPS CAGR needed — well below historical rate. Even modest growth delivers the hurdle return.
 
-**🟡 YELLOW (at Terminal PE 12x, 10-year, 15% return):** 14.5% EPS CAGR needed — above 10Y historical rate, requires continued strong execution.
+**🟢 GREEN (at Terminal PE 12x, 10-year, 10% return):** Only 5.5% EPS CAGR needed — roughly half the historical rate.
 
-**🔴 RED (at Terminal PE 8x, any return):** If the market reverts to its old valuation (8x PE), you need heroic growth assumptions. This is the scenario where "peak coal" fears compress multiples.
+**🟡 YELLOW (at Terminal PE 8x, 10-year, 10% return):** 9.9% EPS CAGR needed — in line with 10Y historical rate. If the market re-rates CIL down to its old 8x PE (peak coal fears), you need CIL to match its historical growth just to earn your hurdle rate.
 
-> **"At ₹455, to earn a 10% annualised return over 10 years at a 12x terminal PE, Coal India needs to grow EPS at 11.7% CAGR. It has historically grown at ~10% over 10 years. This implies the market is pricing in a slight acceleration — reasonable but not conservative."**
+> **"At ₹455, to earn a 10% annualised return over 10 years at a 12x terminal PE, Coal India needs to grow EPS at just 5.5% CAGR. It has historically grown at ~10% over 10 years. This implies the market is pricing in very modest growth — the stock is NOT expensive on a reverse DCF basis."**
 
 ### Step 6: Asymmetric Upside Check
 
@@ -505,38 +515,38 @@ At the **most likely scenario** (Terminal PE of 12-15x, 10-year holding period),
 
 | Scenario | Basis | Implied Price | Downside from CMP |
 |---|---|---|---|
-| Book Value Floor | 1.0x BVPS of ₹171 | ₹171 | -62% |
+| Book Value Floor | 1.0x BVPS of ₹160.9 | ₹161 | -65% |
 | Trough Earnings Floor | Worst EPS (₹11.34 in FY2018) × 10x PE | ₹113 | -75% |
-| Normalised Bear Case | Conservative DCF (₹394) | ₹394 | -13% |
+| Normalised Bear Case | Conservative DCF (₹491) | ₹491 | +8% (above CMP) |
 | Dividend Yield Floor | At 8% yield (₹26.40 DPS), price = ₹330 | ₹330 | -27% |
 
-**Most probable downside floor: ₹330-₹394** (dividend yield support + conservative DCF).
+**Most probable downside floor: ₹330** (dividend yield support). Even the conservative DCF at ₹491 is above CMP, suggesting the stock is not overvalued.
 
 **Part 2: Upside Case**
 
 | Scenario | Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
-| Base Case DCF | ₹524 | ₹524 | +15% |
-| Optimistic DCF | ₹764 | ₹764 | +68% |
+| Base Case DCF | ₹693 | ₹693 | +52% |
+| Optimistic DCF | ₹1,138 | ₹1,138 | +150% |
 | Subsidiary listing catalyst | CMPDIL IPO in progress; BCCL/MCL/SECL potential listings could unlock ₹50-100/share | ₹505-₹555 | +11-22% |
 | Dividend compounding (5Y) | ₹26/yr dividend + 10% price appreciation | ~₹600 total return equivalent | +32% |
 
 **Part 3: Asymmetry Ratio**
 
-- Realistic Upside (Base Case): +15% to ₹524
+- Realistic Upside (Base Case): +52% to ₹693
 - Realistic Downside (Dividend Floor): -27% to ₹330
 
-**Asymmetry Ratio = 15% / 27% = 0.56:1** — This is NEGATIVE asymmetry at the current price.
+**Asymmetry Ratio = 52% / 27% = 1.9:1** — This is modestly positive asymmetry. Not a classic fat pitch, but the risk/reward leans in your favour.
 
-However, if you factor in the ~6% annual dividend yield, the total return picture improves significantly:
-- **5-year total return (base case):** Capital appreciation (~3% CAGR to ₹524) + dividends (~6% yield) = **~9% annual total return**
-- **5-year total return (optimistic):** Capital appreciation (~11% CAGR to ₹764) + dividends (~6%) = **~17% annual total return**
+Additionally, the ~6% annual dividend yield boosts the total return picture:
+- **5-year total return (base case):** Capital appreciation (~8.8% CAGR to ₹693) + dividends (~6% yield) = **~14-15% annual total return**
+- **5-year total return (optimistic):** Capital appreciation (~20% CAGR to ₹1,138) + dividends (~6%) = **~26% annual total return**
 
 **Part 5: Fat Pitch Verdict**
 
-> "At ₹455, the realistic downside is approximately 27% to ₹330 (dividend yield floor). The realistic base-case upside is approximately 15% to ₹524 over 3-5 years. The asymmetry ratio is 0.56:1 on price alone — NOT a fat pitch on capital gains. However, the 5.8% dividend yield transforms this into a TOTAL RETURN play where the dividend does most of the work. This is NOT a fat pitch — it is a reasonable income investment."
+> "At ₹455, the realistic downside is approximately 27% to ₹330 (dividend yield floor). The realistic base-case upside is approximately 52% to ₹693 over 3-5 years. The asymmetry ratio is 1.9:1 on price alone — a decent pitch, supported further by the 5.8% dividend yield. Combined with dividends, total returns of 14-15% annually are achievable under the base case. This is a REASONABLE BUY for income-oriented investors, though not a table-pounding fat pitch."
 
-**Mispricing Assessment:** There is NO obvious mispricing. The stock is **roughly correctly valued** for its current fundamentals. The market understands CIL well — it's a widely followed, heavily owned Nifty 50 constituent. The potential upside catalysts (subsidiary listings, volume growth) are known. The risks (energy transition, peak coal) are also known.
+**Mispricing Assessment:** There is no dramatic mispricing — CIL is well understood by the market. However, the combination of a sub-10x PE, near-3x book for a 39% ROE business, and a 5.8% dividend yield suggests the market may be **slightly discounting CIL for "peak coal" fears**. If those fears prove premature (coal demand keeps growing for 10-15 years), the stock offers solid total returns from the current level.
 
 ---
 
@@ -562,9 +572,9 @@ However, if you factor in the ~6% annual dividend yield, the total return pictur
 
 | Input | Value |
 |---|---|
-| Current BVPS | ₹171 (Screener data) |
+| Current BVPS | ₹160.9 (FY2025 balance sheet) |
 | CMP | ₹455 |
-| Current P/B | 2.66x |
+| Current P/B | 2.83x |
 | Sustainable ROE | 38-45% (normalised) |
 | Retention Ratio | ~55% (after ~45% payout) |
 | BV Compounding Rate | 38% × 55% = **~21%** |
@@ -573,27 +583,29 @@ However, if you factor in the ~6% annual dividend yield, the total return pictur
 
 | Year | Projected BVPS | Calculation |
 |---|---|---|
-| Current | ₹171 | Actual |
-| Year 5 | ₹443 | 171 × (1.21)^5 |
-| Year 7 | ₹650 | 171 × (1.21)^7 |
-| Year 10 | ₹1,120 | 171 × (1.21)^10 |
+| Current | ₹160.9 | Actual (FY2025) |
+| Year 5 | ₹417 | 160.9 × (1.21)^5 |
+| Year 7 | ₹610 | 160.9 × (1.21)^7 |
+| Year 10 | ₹1,081 | 160.9 × (1.21)^10 |
 
 *Note: Using a more conservative 15% BV compounding rate (assuming ROE moderates to ~30%, retention at 50%):*
 
 | Year | Projected BVPS (Conservative) |
 |---|---|
-| Year 5 | ₹344 |
-| Year 7 | ₹455 |
-| Year 10 | ₹691 |
+| Year 5 | ₹324 |
+| Year 7 | ₹428 |
+| Year 10 | ₹651 |
 
-**Expected Returns at CMP of ₹455:**
+**Expected Returns at CMP of ₹455 (Entry P/B: 2.83x):**
+
+*(Using conservative 15% BV compounding rate; excludes dividends)*
 
 | Exit P/B | Rationale | 5Y CAGR | 7Y CAGR | 10Y CAGR |
 |---|---|---|---|---|
-| P/B stays at 2.66x | Multiple sustains | 18.8% | 17.2% | 15.6% (conservative BV) |
-| P/B compresses to 2.0x | Mild de-rating | 12.4% | 12.3% | 11.5% |
-| P/B compresses to 1.5x | Significant de-rating | 5.6% | 7.3% | 7.6% |
-| P/B compresses to 1.0x | Extreme de-rating | -2.2% | 2.2% | 3.5% |
+| P/B stays at 2.83x | Multiple sustains | 15.0% | 15.0% | 15.0% |
+| P/B compresses to 2.0x | Mild de-rating | 7.3% | 9.4% | 11.1% |
+| P/B compresses to 1.5x | Significant de-rating | 1.3% | 5.0% | 7.9% |
+| P/B compresses to 1.0x | Extreme de-rating | -6.6% | -0.9% | 3.6% |
 
 *Adding ~6% dividend yield to each scenario improves total returns by ~5-6% annually.*
 
@@ -601,10 +613,10 @@ However, if you factor in the ~6% annual dividend yield, the total return pictur
 
 | Condition | Verdict |
 |---|---|
-| 10Y return > 10% even if P/B halves (to 1.33x) | 🟢 YES — BV compounding at 15%+ overwhelms moderate multiple compression |
-| 10Y return > 10% if P/B drops to 1.0x | 🟡 With dividends, yes. Without, barely. |
+| 10Y return > 10% even if P/B halves (to ~1.4x) | 🟢 YES — BV compounding at 15% delivers ~7.3% price CAGR at ~1.4x P/B, and ~5-6% dividend yield pushes total return to ~13% |
+| 10Y return > 10% if P/B drops to 1.0x | 🟡 With dividends (~6%), total return = ~3.6% + ~6% ≈ ~9.6%. Borderline. |
 
-**Verdict: 🟢 GREEN — At ₹455, CIL's book value compounding is powerful enough to deliver acceptable returns even under moderate P/B compression, especially when dividends are included.**
+**Verdict: 🟢 GREEN — At ₹455, CIL's book value compounding is powerful enough to deliver acceptable returns even under moderate P/B compression, especially when the ~6% dividend yield is included.**
 
 ---
 
@@ -612,23 +624,23 @@ However, if you factor in the ~6% annual dividend yield, the total return pictur
 
 | Zone | P/B Range | PE Range | Price Range | Rationale |
 |---|---|---|---|---|
-| **Deep Value / Strong Buy** | <1.5x | <6x | Below ₹257 | Priced for permanent decline; exceptional MoS |
-| **Value / Buy** | 1.5-2.0x | 6-8x | ₹257 – ₹342 | Below fair value; attractive risk-reward |
-| **Fair Value / Hold** | 2.0-3.0x | 8-11x | ₹342 – ₹513 | Fairly priced; hold for compounding + dividends |
-| **Fully Valued / Trim** | 3.0-3.5x | 11-14x | ₹513 – ₹599 | Above fair value; limited upside |
-| **Overvalued / Sell** | >3.5x | >14x | Above ₹599 | Priced for perfection; sell |
+| **Deep Value / Strong Buy** | <1.5x | <6x | Below ₹241 | Priced for permanent decline; exceptional MoS |
+| **Value / Buy** | 1.5-2.0x | 6-8x | ₹241 – ₹322 | Below fair value; attractive risk-reward |
+| **Fair Value / Hold** | 2.0-3.0x | 8-11x | ₹322 – ₹483 | Fairly priced; hold for compounding + dividends |
+| **Fully Valued / Trim** | 3.0-3.5x | 11-14x | ₹483 – ₹563 | Above fair value; limited upside |
+| **Overvalued / Sell** | >3.5x | >14x | Above ₹563 | Priced for perfection; sell |
 
-**Current Price ₹455 falls in the FAIR VALUE / HOLD zone** (P/B ~2.66x, PE ~7.9-9.4x).
+**Current Price ₹455 falls in the FAIR VALUE / HOLD zone** (P/B ~2.83x, PE ~7.9x on FY2025 EPS / ~9.4x on TTM EPS).
 
 ### What If You Already Hold?
 
 | Your Entry Price Zone | Current Position | Buffett's Recommendation |
 |---|---|---|
-| **Deep Value (below ₹257)** | Sitting on 77%+ gains | **HOLD.** You bought brilliantly. The business is still excellent. Let compounding work. Consider trimming ONLY if the position is oversized (>10% of portfolio). |
-| **Value (₹257-₹342)** | Sitting on 33-77% gains | **HOLD.** Good entry. Continue to hold and collect dividends. The 6% yield on your cost basis is likely 8-12%. Accumulate only if it falls back to this zone. |
-| **Fair Value (₹342-₹513)** | Roughly flat to moderate gains | **HOLD but don't add.** You're at fair value. The dividend yield (~6%) compensates for the lack of margin of safety. Buffett would say: "Hold a good business bought at a fair price; don't sell just because it's not cheap." |
-| **Fully Valued (₹513-₹599)** | Underwater, 12-24% loss | **HOLD (don't sell at a loss).** The business hasn't deteriorated. This is likely just multiple compression. Continue collecting dividends. Time will heal if the business executes. |
-| **Overvalued (>₹599)** | Underwater, 24%+ loss | **Uncomfortable position.** The entry was poor. HOLD for dividend income (your yield on cost is still ~4-5%). Don't add. Evaluate if the capital is better deployed elsewhere. |
+| **Deep Value (below ₹241)** | Sitting on 89%+ gains | **HOLD.** You bought brilliantly. The business is still excellent. Let compounding work. Consider trimming ONLY if the position is oversized (>10% of portfolio). |
+| **Value (₹241-₹322)** | Sitting on 41-89% gains | **HOLD.** Good entry. Continue to hold and collect dividends. The 6% yield on your cost basis is likely 8-12%. Accumulate only if it falls back to this zone. |
+| **Fair Value (₹322-₹483)** | Roughly flat to moderate gains | **HOLD but don't add.** You're at fair value. The dividend yield (~6%) compensates for the lack of margin of safety. Buffett would say: "Hold a good business bought at a fair price; don't sell just because it's not cheap." |
+| **Fully Valued (₹483-₹563)** | Underwater, 6-19% loss | **HOLD (don't sell at a loss).** The business hasn't deteriorated. This is likely just multiple compression. Continue collecting dividends. Time will heal if the business executes. |
+| **Overvalued (>₹563)** | Underwater, 19%+ loss | **Uncomfortable position.** The entry was poor. HOLD for dividend income (your yield on cost is still ~4-5%). Don't add. Evaluate if the capital is better deployed elsewhere. |
 
 > *"The most important thing to do if you find yourself in a hole is to stop digging."* — Buffett
 
@@ -647,27 +659,27 @@ However, if you factor in the ~6% annual dividend yield, the total return pictur
 | **Trustworthy management?** | PSU management — honest but not owner-operators. Government alignment is both a strength (no fraud risk) and weakness (bureaucratic, suboptimal allocation). | 🟡 PARTIAL |
 | **Resistant to disruption?** | For 10-15 years, yes. Coal remains essential for India's power grid. Beyond 2035-2040, renewable disruption is real and potentially existential. | 🟡 PARTIAL |
 | **Can sustain economics for 10+ years?** | Very likely. India's coal demand is growing. But the DURATION of the franchise is finite — this is a 15-20 year business, not a "forever" business. | ✅ PASS |
-| **Price significantly below intrinsic value?** | At ₹455, the stock is at FAIR VALUE, not significantly below it. Base case IV = ₹524. MoS is thin (~15%). | ❌ FAIL |
+| **Price significantly below intrinsic value?** | At ₹455, the stock is modestly below base case IV of ₹693 (MoS ~34%). Conservative IV of ₹491 is 8% above CMP. Reasonable but not deeply discounted. | 🟡 PARTIAL |
 
 ### Buffett's Verdict
 
-**The honest answer: Buffett would ADMIRE Coal India's economics but likely PASS at the current price.**
+**The honest answer: Buffett would ADMIRE Coal India's economics and find the current price REASONABLE, but would still prefer a wider margin of safety.**
 
 Here's why:
 
 1. **The business quality is excellent** — 38% ROE, 48% ROCE, near-zero debt, monopoly position, massive cash generation. This is a "wonderful business" by every metric.
 
-2. **The price is FAIR, not wonderful.** At ₹455 with a PE of ~9x and P/B of ~2.7x, CIL is priced for its quality. There is no screaming margin of safety. Buffett typically wants a 30-40% discount to intrinsic value.
+2. **The price is FAIR to slightly cheap.** At ₹455 with a PE of ~7.9x (on FY2025 EPS) and P/B of ~2.83x, CIL is reasonably priced. Base case DCF IV of ₹693 suggests ~34% MoS — decent. But the conservative DCF (₹491) is only 8% above CMP, so the margin of safety depends on which growth assumptions materialise.
 
 3. **The franchise has a finite life.** Unlike Coca-Cola (which will exist in 100 years), coal mining will eventually decline. This limits the "compounding runway" that Buffett prizes above all else.
 
 4. **If working with small capital**, Buffett would prioritise businesses with LONGER compounding runways (technology platform, consumer franchise, etc.) over a finite-life commodity business. CIL is better suited for a large portfolio seeking income and stability.
 
-**The one scenario where Buffett WOULD buy:** If CIL dropped to ₹300-350 (P/B 1.5-2.0x, PE 5-6x), creating a true margin of safety — Buffett would buy aggressively. The dividend yield at ₹300 would be ~8-9%, and book value compounding would generate 15%+ annual returns even with multiple compression. At that price, it becomes a "Heads I win big, Tails I collect a fat dividend" situation — the exact asymmetry Buffett seeks.
+**The one scenario where Buffett WOULD buy aggressively:** If CIL dropped to ₹300-350 (P/B 1.9-2.2x, PE 5-6x), creating a deep margin of safety — Buffett would load up. The dividend yield at ₹300 would be ~8-9%, and book value compounding would generate 15%+ annual returns even with multiple compression.
 
 > *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* — Buffett
 
-**CIL is a wonderful company at a fair price — not at a wonderful price. Buffett would put it on his watchlist and wait for a market panic to strike.**
+**CIL is a wonderful company at a fair-to-slightly-cheap price. Buffett would consider a moderate position here for the dividend income and BV compounding, but would back up the truck only at ₹300-350.**
 
 ---
 
@@ -702,20 +714,20 @@ Here's why:
 | **Management Quality** | 6 | PSU management — competent but not owner-operators. Government alignment is a mixed bag. |
 | **Return on Capital** | 10 | 38-48% ROE, 48-107% ROCE — among the best in India |
 | **Scalability** | 5 | Moderate — can grow 30-40% from here but is approaching maturity |
-| **Valuation** | 6 | Fair value at ₹455. Not cheap, not expensive. Thin margin of safety. |
-| **Margin of Safety** | 5 | ~15% below base case IV. Buffett prefers 30%+. |
+| **Valuation** | 7 | Modestly undervalued at ₹455. Conservative IV ₹491, Base IV ₹693. Reasonable entry. |
+| **Margin of Safety** | 6 | ~34% below base case IV; ~7% below conservative IV. Decent but not deep. |
 | **Dividend Income** | 9 | 5.8% yield is excellent. Consistent payer. Total return proposition. |
-| **Buffett Verdict** | — | **A wonderful business at a FAIR price — not a wonderful price. WATCHLIST, not BUY at ₹455.** |
-| **Buy Zone** | — | **Fair Value / HOLD zone (₹342-₹513).** Ideal entry: ₹300-350 for true Buffett margin of safety. |
-| **Overall Recommendation** | — | **HOLD if you own it; WATCHLIST if you don't. Accumulate aggressively below ₹350.** |
+| **Buffett Verdict** | — | **A wonderful business at a fair-to-slightly-cheap price. REASONABLE BUY for income investors; ACCUMULATE more aggressively below ₹350.** |
+| **Buy Zone** | — | **Fair Value / HOLD zone (₹322-₹483).** Ideal entry: ₹300-350 for deep margin of safety. |
+| **Overall Recommendation** | — | **HOLD if you own it; MODERATE BUY for income-oriented investors. Accumulate aggressively below ₹350.** |
 
 ### Buffett Verdict (Summary)
 
 Coal India is the kind of business Buffett loves to STUDY — a simple, understandable monopoly with staggering returns on capital, a fortress balance sheet, and a fat dividend. He'd nod approvingly at the 38% ROE, the near-zero debt, and the 80% market share. He'd appreciate that a 10-year-old could explain what CIL does. He'd note that India NEEDS coal for the next 15-20 years, and CIL is the only serious supplier.
 
-But Buffett would also note that coal is a FINITE franchise — unlike Coca-Cola, which has an indefinite compounding runway. He'd be cautious about the government ownership (pricing interference, wage mandates, dividend extraction). And at ₹455 (PE ~9x, P/B ~2.7x), he'd say the price is FAIR but not CHEAP. The dividend yield of 5.8% is attractive, but it's not enough margin of safety for a business with a visible, if distant, expiry date.
+But Buffett would also note that coal is a FINITE franchise — unlike Coca-Cola, which has an indefinite compounding runway. He'd be cautious about the government ownership (pricing interference, wage mandates, dividend extraction). And at ₹455 (PE ~7.9x on FY2025 EPS, P/B ~2.83x), he'd say the price is REASONABLE — the base case DCF suggests ~34% margin of safety, and the reverse DCF shows the market is pricing in very modest growth. The dividend yield of 5.8% is attractive.
 
-**His instruction: "Put it on the watchlist. When the next market panic hits — and it always does — buy it at ₹300-350. At that price, the dividend yield alone would be 7-9%, and you'd be buying ₹170 of book value for ₹300-350. That's the fat pitch. Don't swing until then."**
+**His instruction: "It's a decent pitch at ₹455 — buy a moderate position for income and compounding. But back up the truck only at ₹300-350. At that price, the dividend yield alone would be 7-9%, and you'd be buying ₹161 of book value for ₹300-350. That's the fat pitch."**
 
 > *"The stock market is a no-called-strike game. You don't have to swing at everything — you can wait for your pitch."* — Buffett
 
@@ -731,18 +743,19 @@ But Buffett would also note that coal is a FINITE franchise — unlike Coca-Cola
 
 **Does the math work on a napkin?**
 
-- CIL earns ~₹57/share per year
+- CIL earns ~₹48/share per year (trailing twelve months) — and ₹57/share in its most recent full year (FY2025)
 - Stock costs ₹455
 - You get ₹26/share back in dividends every year (5.8% yield)
 - Even if the stock price goes NOWHERE for 10 years, you make ~58% return just from dividends (₹260 cumulative)
-- If earnings grow at just 5% per year and the PE stays at 9x, the stock goes to ~₹600 in 7 years + you collect ~₹210 in dividends = ~₹810 total value vs ₹455 invested = **78% total return, or ~8.5% CAGR**
-- If you bought at ₹350 instead (during a market panic): same math gives ₹810/₹350 = **131% total return, or ~12.7% CAGR**
+- If TTM earnings grow at just 5% per year and the PE stays at 9x, the stock goes to ~₹614 in 7 years + you collect ~₹210 in dividends = ~₹824 total value vs ₹455 invested = **81% total return, or ~8.8% CAGR**
+- If you use FY2025 EPS of ₹57 with 5% growth at 9x PE: stock goes to ~₹727 in 7 years + ₹210 dividends = ~₹937 total = **106% total return, or ~10.9% CAGR**
+- If you bought at ₹350 instead (during a market panic): the FY2025-based math gives ₹937/₹350 = **168% total return, or ~15.1% CAGR**
 
-✅ YES — no Excel needed. The napkin math clearly shows: **at ₹350, it's a no-brainer. At ₹455, it's a decent-but-not-exciting income play.**
+✅ YES — no Excel needed. The napkin math clearly shows: **at ₹350, it's a no-brainer (15%+ CAGR). At ₹455, it's a decent income-plus-growth play (~9-11% CAGR total return).**
 
 > *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* — Buffett
 
-**Final word:** Coal India at ₹455 is a **good business at a fair price — a hold, not a buy.** Coal India at ₹300-350 would be a **wonderful business at a wonderful price — a table-pounding buy.** Patience is the Buffett edge.
+**Final word:** Coal India at ₹455 is a **wonderful business at a reasonable price — a moderate buy for income investors.** Coal India at ₹300-350 would be a **wonderful business at a wonderful price — a table-pounding buy.** Patience amplifies returns, but the current price isn't unreasonable.
 
 ---
 
