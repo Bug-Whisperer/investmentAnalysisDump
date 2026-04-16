@@ -261,7 +261,9 @@ Buffett: *"The best business to own is one that over an extended period can empl
 
 ### ROE Trajectory Concern
 
-| Period | ROE | Key Driver |
+*Note: The ROE figures below use year-end equity (not average equity) to illustrate the directional impact of equity base expansion from IPO/QIP events within each fiscal year. This produces lower ROE figures than the average-equity method used in the Return Metrics table above (e.g., FY22: 16% year-end vs. 24% average) because the IPO/QIP proceeds inflated year-end equity but were not deployed for the full year.*
+
+| Period | ROE (Year-End Equity) | Key Driver |
 |---|---|---|
 | Pre-IPO (FY21) | 27% | High margins on low equity base |
 | Post-IPO (FY22) | 16% | Equity diluted by IPO |
@@ -453,7 +455,7 @@ At 77x PE and 12.5x P/BV with:
 - ROE of only 15%
 - ROCE of 21%
 - Negative free cash flow
-- Order book providing only 1.5 years of visibility
+- Order book at ₹1,868 Cr (Q3 FY26) providing ~2.6 years of visibility — strong, but already reflected in the stock price
 - 307 debtor days locking up cash
 
 ...the stock is pricing in a **VERY long runway of exceptional growth.** The market is betting that India's defence spending will continue to accelerate, and Data Patterns will capture a growing share.
@@ -664,7 +666,7 @@ Buffett: *"If you need a spreadsheet to figure out whether it's a good deal, it'
 
 **Asset Turnover is LOW and declining (0.40x in FY25).** This is the structural drag from massive working capital. ₹1,839 Cr of assets to generate ₹708 Cr of revenue means every ₹2.60 of assets generates only ₹1 of revenue. This is typical for defence contractors.
 
-**Equity Multiplier is LOW (1.22x)** — virtually NO leverage. This is the safety factor. ROE is NOT being amplified by debt.
+**Equity Multiplier is LOW (1.25x)** — virtually NO leverage. This is the safety factor. ROE is NOT being amplified by debt.
 
 **Quality Signal:** HIGH ROE from high net margins + LOW leverage = **HIGH QUALITY.** This is exactly the pattern Buffett looks for.
 
@@ -672,12 +674,14 @@ Buffett: *"If you need a spreadsheet to figure out whether it's a good deal, it'
 
 ### ROCE vs. ROE
 
-| Year | ROCE | ROE | Gap |
+*Note: ROE below uses average equity (consistent with the DuPont decomposition above).*
+
+| Year | ROCE | ROE (Avg Equity) | Gap |
 |---|---|---|---|
-| FY22 | 33% | 16% | ROCE > ROE by 17pp |
+| FY22 | 33% | 24% | ROCE > ROE by 9pp |
 | FY23 | 20% | 14% | ROCE > ROE by 6pp |
 | FY24 | 20% | 15% | ROCE > ROE by 5pp |
-| FY25 | 21% | 15% | ROCE > ROE by 6pp |
+| FY25 | 21% | 16% | ROCE > ROE by 5pp |
 
 **ROCE > ROE consistently** — this is the healthy pattern. The underlying business engine earns 20%+ on employed capital. The lower ROE is explained by the company sitting on excess cash/investments from the QIP, not by leverage problems.
 
@@ -712,15 +716,15 @@ Buffett: *"When you combine ignorance and leverage, you get some pretty interest
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
 | P/B stays at 12.5x | Multiple sustains | 12.0% | 12.0% | 12.0% |
-| P/B compresses to 9.4x (75% of current) | Mild de-rating | 6.0% | 7.6% | 8.8% |
-| P/B compresses to 6.25x (50% of current) | Significant de-rating | -1.2% | 2.6% | 5.2% |
-| P/B compresses to 5.0x | Industry median | -4.6% | 0.3% | 3.3% |
-| P/B compresses to 3.0x | Fair P/B for 15% ROE | -14.1% | -7.3% | -2.4% |
-| P/B compresses to 1.0x | Book value | -30.2% | -20.0% | -12.9% |
+| P/B compresses to 9.4x (75% of current) | Mild de-rating | 5.7% | 7.5% | 8.8% |
+| P/B compresses to 6.25x (50% of current) | Significant de-rating | -2.5% | 1.4% | 4.5% |
+| P/B compresses to 5.0x | Industry median | -6.8% | -1.8% | 2.2% |
+| P/B compresses to 3.0x | Fair P/B for 15% ROE | -15.8% | -8.7% | -2.9% |
+| P/B compresses to 1.0x | Book value | -32.4% | -21.9% | -13.0% |
 
 #### Step 4: Key Insight
 
-> "At the current entry P/B of 12.5x with a sustainable ROE of 15% and 80% retention, book value compounds at 12% annually. If the P/B multiple remains at 12.5x, the return equals the BV compounding rate of 12%. However, if P/B compresses to even 6.25x (half of current) over 10 years, the return drops to just 5.2% — well below the hurdle rate. The stock can only tolerate P/B compression from 12.5x to approximately 10x before the 10-year return drops below 10%."
+> "At the current entry P/B of 12.5x with a sustainable ROE of 15% and 80% retention, book value compounds at 12% annually. If the P/B multiple remains at 12.5x, the return equals the BV compounding rate of 12%. However, if P/B compresses to even 6.25x (half of current) over 10 years, the return drops to just 4.5% — well below the hurdle rate. The stock can only tolerate P/B compression from 12.5x to approximately 10.5x before the 10-year return drops below 10%."
 
 **This is the critical risk.** At P/B of 12.5x for a 15% ROE business, you are paying for EXCEPTIONAL expectations. Any de-rating destroys returns. The business would need to sustain 15%+ ROE AND the market would need to continue paying 10x+ book for a **decade** just to earn your hurdle rate.
 
@@ -728,8 +732,8 @@ Buffett: *"When you combine ignorance and leverage, you get some pretty interest
 
 | Condition | Assessment | Signal |
 |---|---|---|
-| 10-year return > 10% even if P/B halves | 5.2% — **FAILS** | 🔴 **RED** |
-| 10-year return > 10% only if P/B stays within 25% of current | Yes — requires P/B to stay >10x | 🔴 **RED — Dependent on extreme sentiment** |
+| 10-year return > 10% even if P/B halves | 4.5% — **FAILS** | 🔴 **RED** |
+| 10-year return > 10% only if P/B stays within 25% of current | Yes — requires P/B to stay >10.5x | 🔴 **RED — Dependent on extreme sentiment** |
 | 10-year return < 10% unless P/B expands | N/A (at current P/B, expansion unlikely) | 🔴 **RED** |
 
 **Verdict: 🔴 RED — Dangerous entry point.** At 12.5x book, the valuation creates a massive headwind. Even excellent business performance will be overwhelmed by any meaningful multiple compression. This is a classic case of a wonderful business at a terrible price for long-term compounding.
@@ -770,7 +774,7 @@ With small capital, Buffett would find this stock fascinating but FAR too expens
 
 *"I'd love to own this business at the right price. But I'm not going to pay 77x earnings for it. I'll put it on my watchlist, watch every quarterly result, and wait for Mr. Market to have a bad day."*
 
-Target entry: ₹1,200-1,500 (35-45x normalised PE, 5-7x P/B). At that price, you get a quality defence business at a reasonable growth premium.
+Target entry: ₹1,200-1,500 (35-44x normalised PE, 4.4-5.5x P/B). At that price, you get a quality defence business at a reasonable growth premium.
 
 ---
 
@@ -801,7 +805,7 @@ At 77x earnings and 12.5x book, the downside risk is enormous. Any growth disapp
 
 *"The most important thing in investing is to have a margin of safety. It doesn't matter how good the business is — if you overpay, you lose."* — This is Buffett's core principle, and Data Patterns at ₹3,442 violates it completely.
 
-**What Buffett WOULD do:** Wait for a 50-60% correction (to ₹1,200-1,500) and then buy aggressively. Defence sentiment will eventually cool, a quarterly result will disappoint, or broader markets will correct. That's when he'd strike.
+**What Buffett WOULD do:** Wait for a 55-65% correction (to ₹1,200-1,500) and then buy aggressively. Defence sentiment will eventually cool, a quarterly result will disappoint, or broader markets will correct. That's when he'd strike.
 
 ---
 
@@ -867,7 +871,7 @@ Data Patterns is a genuinely good defence electronics business riding India's po
 | Valuation Territory | **Fully Valued to Overvalued** — No margin of safety whatsoever |
 | If Owned (low cost) | **HOLD core, TRIM 20-40%** — Lock in gains, the stock has run far ahead of value |
 | If Owned (high cost) | **HOLD and be patient** — Don't sell at a loss; business will grow into price over 2-3 years |
-| If Not Owned | **DO NOT BUY** — Wait for ₹1,200-1,500 (35-55% correction) |
+| If Not Owned | **DO NOT BUY** — Wait for ₹1,200-1,500 (55-65% correction) |
 | Buy Zone | ₹1,000-1,500 (Deep Value to Value zone) |
 | Overall | **WATCHLIST — Wonderful business, terrible price** |
 
