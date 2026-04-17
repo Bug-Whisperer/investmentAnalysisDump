@@ -414,6 +414,8 @@ Regular concalls (quarterly since 2017) is a positive sign. The company has been
 | Franchisee Count | 70 | 76 | 76 | 75 | 75 | 81 | 80 | 75* | 80 |
 | Franchise Capacity - Steel Rebars (Lakh MTPA) | 22 | 25 | 33 | 33 | 38 | 38 | **40** | **40** | **40** |
 | Franchise Capacity - Structural Steel (Lakh MTPA) | 6 | 5 | 5 | 5 | 5 | 5 | **10** | 5 | **10** |
+
+*Note: The Structural Steel franchise capacity oscillation (10→5→10 Lakh MTPA across FY23-FY25) appears anomalous and may reflect data reporting inconsistencies across investor presentations rather than actual capacity changes.*
 | Steel Sales Volume - Franchise (Lakh MT) | — | — | 23.50 | 24.90 | 23.10 | 25.50 | 30.90 | 32.56 | **34.35** |
 | Steel Sales Volume - Own Mfg (MT) | — | — | — | 72,000 | 80,933 | — | — | 114,336 | 119,841 |
 | Avg Selling Price - TMT (₹/MT) | — | — | — | — | — | — | — | 51,947 | 50,622 |
@@ -422,8 +424,6 @@ Regular concalls (quarterly since 2017) is a positive sign. The company has been
 | Inventory Days | 36 | 26 | 22 | 40 | 59 | 63 | 10 | 8 | 12 |
 | Working Capital Days | 18 | 23 | 28 | 37 | 59 | 72 | 46 | 22 | **16** |
 | Cash Conversion Cycle | 57 | 43 | 46 | 61 | 89 | **110** | 38 | 19 | **15** |
-
-*Note: The Structural Steel franchise capacity oscillation (10→5→10 Lakh MTPA across FY23-FY25) appears anomalous and may reflect data reporting inconsistencies across investor presentations rather than actual capacity changes.*
 
 ### Operational Narrative
 
@@ -753,7 +753,7 @@ This is a **textbook quality ROE improvement:**
 
 **The Key Insight:**
 
-> "At the current entry P/B of 1.70x with a sustainable ROE of 20% and 90% retention, book value compounds at 18% annually. If the P/B multiple remains at 1.70x, the return equals the BV compounding rate of ~18%. The stock can tolerate P/B compression from 1.70x down to **0.85x (a 50% compression)** and STILL deliver ~10% annual returns over 10 years. To earn less than 10% annually over 10 years, the P/B would need to compress below ~0.7x — which implies the market valuing this 20% ROE business at a permanent deep discount to book value. This is extremely unlikely for a profitable, growing, debt-free company."
+> "At the current entry P/B of 1.70x with a sustainable ROE of 20% and 90% retention, book value compounds at 18% annually. If the P/B multiple remains at 1.70x, the return equals the BV compounding rate of ~18%. The stock can tolerate P/B compression from 1.70x down to **0.85x (a 50% compression)** and STILL deliver ~10% annual returns over 10 years. To earn less than 10% annually over 10 years, the P/B would need to compress below ~0.84x — which implies the market valuing this 20% ROE business at a permanent deep discount to book value. This is unlikely for a profitable, growing, debt-free company, though the margin above the 10% hurdle is thin at 0.85x."
 
 ### Traffic Light Verdict
 
