@@ -34,7 +34,7 @@ Kamdhenu Ltd, incorporated in 1994, operates India's largest TMT (Thermo Mechani
 
 | Metric | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | TTM |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **Revenue** | 841 | 825 | **1,180** | **1,232** | 924 | **600** | 600 | 732 | 725 | 747 | 754 |
+| **Revenue** | 841 | 825 | **1,180** | **1,232** | 924 | **625** | 600 | 732 | 725 | 747 | 754 |
 | Revenue Growth YoY | -13.1% | -1.9% | 43.0% | 4.5% | **-25.0%** | **-32.3%** | -4.1% | 22.1% | -1.0% | 3.1% | — |
 | Operating Profit | 32 | 33 | 44 | 54 | 45 | 50 | 55 | 60 | 59 | 75 | 90 |
 | OPM % | 4% | 4% | 4% | 4% | 5% | 8% | 9% | 8% | 8% | **10%** | **12%** |
@@ -59,9 +59,11 @@ Revenue has actually **declined** at -3% CAGR over 10 years and -4% CAGR over 5 
 
 OPM has expanded from 3-4% (FY14-FY19) to 10-12% (FY24-TTM) — a **3x margin expansion**. This is the signature of a business transitioning from commodity manufacturing to brand licensing.
 
-Net profit has compounded at 22% CAGR over 10 years and 19% CAGR over 5 years despite revenue declining — proving that **the quality of earnings has improved dramatically**. EPS has gone from ₹0.35 in FY16 to ₹2.78 TTM — a nearly 8x increase.
+Net profit has compounded at 22% CAGR over 10 years and 19% CAGR over 5 years (as reported by Screener.in; note that the raw FY20→FY25 math yields a much higher figure due to FY20's near-zero base — Screener likely uses a normalised methodology) despite revenue declining — proving that **the quality of earnings has improved dramatically**. EPS has gone from ₹0.35 in FY16 to ₹2.78 TTM — a nearly 8x increase.
 
-The FY20 anomaly (near-zero profit) was driven by a ₹25 Cr negative other income charge (likely related to the demerger/restructuring of Kamdhenu Ventures) and the COVID impact.
+The FY20 anomaly (near-zero profit) was driven by a ₹25 Cr negative other income charge (likely related to write-downs, provisions, or restructuring costs — the exact nature is unclear from filings) and the COVID impact.
+
+**Note on FY25 Dividend Payout:** Screener reports FY25 dividend payout as 1%, but based on the declared DPS of ₹0.25/share × ~28 Cr shares = ~₹7 Cr dividends against ₹61 Cr net profit, the actual payout is approximately 11%. The 1% figure on Screener appears to be a data anomaly.
 
 > *Buffett: "The most important thing in evaluating a business is pricing power. If you've got the power to raise prices without losing business to a competitor, you've got a very good business."* Kamdhenu's margin expansion from 3% to 12% OPM suggests the royalty model gives it pricing power that pure commodity steel manufacturers lack.
 
@@ -162,7 +164,7 @@ The cash flow story is **exceptional** from FY21 onwards:
 
 4. **Significant investment deployment:** The ₹63-79 Cr annual investments in FY24-FY25 represent the company investing in franchisee equity stakes — deepening its franchise relationships and creating additional income streams (dividend income).
 
-5. **Debt elimination:** The company used its strong cash flows to completely eliminate ₹94 Cr of borrowings between FY22 and FY23, while simultaneously growing profits.
+5. **Debt elimination:** The company used its strong cash flows to reduce borrowings by ₹90 Cr (from ₹94 Cr to ₹4 Cr) between FY22 and FY23, while simultaneously growing profits.
 
 > *Buffett: "We like to buy businesses that generate cash, not businesses that consume it."* Kamdhenu is a textbook cash generator. The franchise model's genius is that it generates robust cash flows while requiring almost no capital reinvestment. This is Buffett's dream business model.
 
@@ -310,9 +312,9 @@ FY25 incremental margin of 72.7% is **dramatically above** the current OPM of 10
 | Metric | FY21 | FY22 | FY23 | FY24 | FY25 | Trend |
 |---|---|---|---|---|---|---|
 | CapEx as % of Revenue | 2.4% | 2.0% | 0.7% | 0.4% | 1.7% | ↓ Declining (capital-light) |
-| Revenue / CapEx | 42x | 50x | 146x | **242x** | 57x | ↑ Rising dramatically |
+| Revenue / CapEx | 42x | 50x | 146x | **242x** | 57x | ↑↓ Peaked FY24, dropped FY25 |
 | Working Capital as % of Revenue | 9.4% | 12.0% | 6.3% | 3.0% | 2.1% | ↓ **Declining sharply** |
-| Asset Turnover | ~1.4 | ~1.3 | ~2.2 | ~2.9 | **2.29** | ↑ Improving |
+| Asset Turnover | ~1.4 | ~1.3 | ~2.2 | ~2.9 | **2.29** | ↑ Improved post-demerger; slight dip FY25 |
 
 ### Part B: Scaling Runway
 
@@ -363,16 +365,16 @@ Kamdhenu has already expanded into structural steel, colour-coated profile sheet
 Over the analysis period (FY16 to FY25):
 
 - **Total earnings retained:** Approximately ₹200 Cr (cumulative net profit ~₹250 Cr minus ~₹50 Cr dividends and demerger adjustments)
-- **Market cap in FY16:** ~₹200 Cr (at ~₹8/share × 25 Cr shares)
+- **Market cap in FY16:** ~₹184 Cr (at ~₹8/share × 23 Cr shares based on ₹23 Cr equity capital at ₹1 face value)
 - **Market cap in FY25:** ₹618 Cr
-- **Market value created:** ~₹418 Cr increase
-- **Value created per ₹1 retained:** ~₹418 / ₹200 = **~₹2.09 per ₹1 retained**
+- **Market value created:** ~₹434 Cr increase
+- **Value created per ₹1 retained:** ~₹434 / ₹200 = **~₹2.17 per ₹1 retained**
 
 This passes Buffett's $1 test — management has created MORE than ₹1 of market value for every ₹1 of retained earnings. Even after the significant stock price decline from the peak of ₹36 to ₹21.9, the $1 test is still passed.
 
 ### Capital Allocation Assessment
 
-1. **Debt elimination:** Excellent capital allocation — paid down ₹94 Cr of debt while growing profits. This freed up ₹12+ Cr/year in interest expense, flowing directly to the bottom line.
+1. **Debt elimination:** Excellent capital allocation — reduced borrowings by ₹90 Cr (from ₹94 Cr in FY22 to ₹4 Cr in FY23, further to ₹1 Cr in FY25) while growing profits. This freed up ₹12+ Cr/year in interest expense, flowing directly to the bottom line.
 
 2. **Franchise investments:** The company is deploying surplus cash into equity stakes in franchisees (₹187 Cr by FY25, ₹250 Cr by H1 FY26). This deepens franchise relationships, aligns incentives, and creates dividend income streams. Smart allocation if the franchisees are profitable.
 
@@ -416,10 +418,12 @@ Regular concalls (quarterly since 2017) is a positive sign. The company has been
 | Steel Sales Volume - Own Mfg (MT) | — | — | — | 72,000 | 80,933 | — | — | 114,336 | 119,841 |
 | Avg Selling Price - TMT (₹/MT) | — | — | — | — | — | — | — | 51,947 | 50,622 |
 | Market Share - Organised Retail Branded TMT (%) | — | — | — | — | — | — | — | **20** | **20** |
-| Debtor Days | 62 | 71 | 58 | 66 | 84 | **117** | **121** | 41 | 27 | **22** |
-| Inventory Days | 40 | 36 | 26 | 22 | 40 | 59 | 63 | 10 | 8 | 12 |
-| Working Capital Days | 24 | 18 | 23 | 28 | 37 | 59 | 72 | 46 | 22 | **16** |
-| Cash Conversion Cycle | 71 | 57 | 43 | 46 | 61 | 89 | **110** | 38 | 19 | **15** |
+| Debtor Days | 71 | 58 | 66 | 84 | **117** | **121** | 41 | 27 | **22** |
+| Inventory Days | 36 | 26 | 22 | 40 | 59 | 63 | 10 | 8 | 12 |
+| Working Capital Days | 18 | 23 | 28 | 37 | 59 | 72 | 46 | 22 | **16** |
+| Cash Conversion Cycle | 57 | 43 | 46 | 61 | 89 | **110** | 38 | 19 | **15** |
+
+*Note: The Structural Steel franchise capacity oscillation (10→5→10 Lakh MTPA across FY23-FY25) appears anomalous and may reflect data reporting inconsistencies across investor presentations rather than actual capacity changes.*
 
 ### Operational Narrative
 
@@ -427,7 +431,7 @@ Regular concalls (quarterly since 2017) is a positive sign. The company has been
 
 2. **Own manufacturing also growing:** From 72,000 MT to 119,841 MT — 66% growth, indicating the company is also investing in its own capacity.
 
-3. **Dramatic working capital improvement:** Working capital days have collapsed from 72 days (FY22) to **15 days** (FY25). Cash conversion cycle from 110 days to 15 days. This is an extraordinary improvement — the company is collecting money much faster and holding less inventory. This directly translates to higher free cash flow.
+3. **Dramatic working capital improvement:** Working capital days have collapsed from 72 days (FY22) to **16 days** (FY25). Cash conversion cycle from 110 days to 15 days. This is an extraordinary improvement — the company is collecting money much faster and holding less inventory. This directly translates to higher free cash flow.
 
 4. **Dealer network stabilised:** After fluctuating between 3,500 and 11,500, the dealer network has stabilised at 8,500. This suggests the company has rationalised its dealer base for quality over quantity.
 
@@ -448,13 +452,13 @@ Regular concalls (quarterly since 2017) is a positive sign. The company has been
 | PE (TTM on ₹2.78 EPS) | **7.9x** |
 | PE (on FY25 EPS ₹2.19) | **10.0x** |
 | P/B (on BVPS ₹12.9) | **1.70x** |
-| EV/EBITDA (on TTM EBITDA ~₹96 Cr) | **5.46x** |
+| EV/EBITDA (on TTM EBITDA ~₹96 Cr) | **~6.4x** |
 | P/FCF (on FY25 FCF ₹56 Cr) | **11.0x** |
 | P/Owner Earnings (on FY25 OE ₹63 Cr) | **9.8x** |
-| Earnings Yield (TTM) | **12.6%** |
+| Earnings Yield (TTM) | **12.7%** |
 | FCF Yield (FY25) | **9.1%** |
 | Dividend Yield | **1.14%** |
-| PEG Ratio (PE/EPS Growth) | **0.25** |
+| PEG Ratio (PE / Screener 5Y Profit CAGR 19%) | **~0.42** |
 | Industry PE | 17.8x |
 | Industry PBV | 1.79x |
 
@@ -464,7 +468,7 @@ Regular concalls (quarterly since 2017) is a positive sign. The company has been
 |---|---|---|---|
 | PE | 7.9x | ~18-25x | Trading at **massive discount** to historical average |
 | P/B | 1.70x | ~3-5x | Trading at significant discount to historical |
-| EV/EBITDA | 5.46x | ~12-18x | Trading at fraction of historical multiples |
+| EV/EBITDA | ~6.4x | ~12-18x | Trading at fraction of historical multiples |
 
 *The stock peaked at ₹36 (52-week high) and is now at ₹21.9 — a 39% decline from its high. The 1-year stock price CAGR is -30%, and 3-year CAGR is -12%, DESPITE 22% annual profit growth. This means the stock has DE-RATED significantly.*
 
@@ -479,7 +483,7 @@ Regular concalls (quarterly since 2017) is a positive sign. The company has been
 ### Inputs for DCF
 
 - **Starting Owner Earnings (FY25):** ₹63 Cr (~₹2.24/share on 28.2 Cr diluted shares)
-- **TTM Owner Earnings basis:** ~₹78 Cr (using TTM net profit ₹78 Cr + D&A ~₹6 Cr - maintenance capex ~₹3 Cr = ~₹81 Cr)
+- **TTM Owner Earnings basis:** ~₹81 Cr (using TTM net profit ₹78 Cr + D&A ~₹6 Cr - maintenance capex ~₹3 Cr = ~₹81 Cr)
 - **Discount Rate:** 12% (higher than Buffett's typical 10% to account for smallcap and India risk)
 - **Shares Outstanding (Diluted):** ~28.2 Cr (with potential dilution from warrants, could reach ~31 Cr)
 
@@ -553,25 +557,25 @@ The stock is trading **below intrinsic value in ALL three scenarios**, including
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **-1.4%** | 3.0% | 7.5% |
-| 10 Years | 2.4% | 4.6% | 6.8% |
-| 15 Years | 3.5% | 5.1% | 6.7% |
+| 5 Years | 1.1% | 5.7% | 10.3% |
+| 10 Years | 5.5% | 10.3% | 15.1% |
+| 15 Years | 7.0% | 11.8% | 16.7% |
 
 #### At Terminal PE = 18x (Market Average / Industry PE)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **-9.5%** | **-5.5%** | **-1.2%** |
-| 10 Years | **-1.5%** | 0.6% | 2.7% |
-| 15 Years | 0.3% | 1.8% | 3.3% |
+| 5 Years | **-6.8%** | **-2.5%** | 1.7% |
+| 10 Years | 1.3% | 5.9% | 10.5% |
+| 15 Years | 4.1% | 8.8% | 13.6% |
 
 #### At Terminal PE = 25x (Compounder)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **-12.7%** | **-8.9%** | **-4.8%** |
-| 10 Years | **-3.6%** | **-1.6%** | 0.4% |
-| 15 Years | **-1.2%** | 0.2% | 1.6% |
+| 5 Years | **-12.7%** | **-8.7%** | **-4.7%** |
+| 10 Years | **-2.0%** | 2.5% | 6.9% |
+| 15 Years | 1.8% | 6.5% | 11.1% |
 
 #### At Terminal PE = 25x (Historical Average)
 
@@ -582,23 +586,23 @@ The stock is trading **below intrinsic value in ALL three scenarios**, including
 | Benchmark | Typical EPS CAGR |
 |---|---|
 | India nominal GDP growth | 10-12% |
-| Kamdhenu's 5Y EPS CAGR | ~19% |
+| Kamdhenu's 5Y EPS CAGR | ~19% (per Screener) |
 | Kamdhenu's 10Y EPS CAGR | ~22% |
 | Industry average | ~12-15% |
 
 **Traffic Light Assessment:**
 
-At 18x terminal PE (market average), to earn a 15% return over 10 years, Kamdhenu needs **0.6% annual EPS growth** — essentially ZERO growth. The company has historically grown EPS at 19-22% CAGR. This is **absurdly easy**.
+At 18x terminal PE (market average), to earn a 15% return over 10 years, Kamdhenu needs **5.9% annual EPS growth**. The company has historically grown EPS at 19-22% CAGR. This is well within historical capability and comfortably below GDP growth — a very low bar.
 
-Even at 12x terminal PE (mature business — which Kamdhenu clearly isn't), a 15% return over 10 years requires only 4.6% EPS CAGR — well below historical growth and even below GDP growth.
+Even at 12x terminal PE (mature business — which Kamdhenu clearly isn't), a 15% return over 10 years requires only 10.3% EPS CAGR — roughly in line with nominal GDP growth and well below Kamdhenu's historical growth.
 
-| Verdict | 🟢🟢🟢 **DEEP GREEN** |
+| Verdict | 🟢🟢 **GREEN** |
 |---|---|
-| Assessment | The market is pricing in ZERO growth or DECLINE. At current PE of 7.9x, you need almost NO earnings growth to achieve excellent returns, as long as the PE normalises towards historical/industry averages. The current valuation is pricing in the death of a business that is actually thriving. |
+| Assessment | The market is pricing in very modest growth. At current PE of 7.9x, you need only single-digit EPS growth to achieve excellent returns, as long as the PE normalises towards historical/industry averages. The implied growth requirements are well below Kamdhenu's proven track record and even below India's nominal GDP growth. |
 
 ### Step 5: Verdict
 
-> "At the current price of ₹21.9, to earn a 15% annualised return over 10 years assuming the market values the business at 18x PE at exit, the company needs to grow EPS at just **0.6% CAGR**. The company has historically grown EPS at **19-22% CAGR**. This implies **the market is pricing in near-zero or negative growth, which is dramatically disconnected from reality.**"
+> "At the current price of ₹21.9, to earn a 15% annualised return over 10 years assuming the market values the business at 18x PE at exit, the company needs to grow EPS at just **5.9% CAGR**. The company has historically grown EPS at **19-22% CAGR**. This implies **the market is pricing in very modest growth, dramatically below the company's demonstrated capability.**"
 
 > *Buffett's Napkin Test: "If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* You don't need a spreadsheet here. PE of 7.9x with 22% ROE, 52% ROIC, zero debt, and 19% historical earnings growth is a screaming buy on the back of a napkin.
 
@@ -691,7 +695,7 @@ This places Kamdhenu in the **Strong Fat Pitch** category (3:1 to 5:1).
 | FY20 | 0.2% | 2.1 | 2.5 | ~1% |
 | FY21 | 2.4% | 1.4 | 2.2 | ~8% |
 | FY22 | 4.5% | 1.4 | 2.1 | ~13% |
-| FY23 | 5.6% | 2.2 | 1.2 | ~21% |
+| FY23 | 5.6% | 2.2 | 1.7 | ~21% |
 | FY24 | 6.9% | 2.9 | 1.2 | ~25% |
 | **FY25** | **8.2%** | **2.3** | **1.2** | **~22%** |
 
@@ -740,24 +744,24 @@ This is a **textbook quality ROE improvement:**
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 1.70x | Multiple sustains | 24.8% | 24.0% | 23.3% |
-| P/B compresses to 1.28x (75% of current) | Mild de-rating | 19.0% | 19.5% | 19.4% |
-| P/B compresses to 0.85x (50% of current) | Significant de-rating | 11.8% | 14.0% | 14.5% |
-| Fair P/B = 2.5x (for 20% ROE) | Reverts to fair value | **31.5%** | **28.8%** | **26.6%** |
-| Historical median P/B ~3.0x | Reverts to historical | **34.6%** | **31.0%** | **28.2%** |
+| P/B stays at 1.70x | Multiple sustains | 18.0% | 18.0% | 18.0% |
+| P/B compresses to 1.28x (75% of current) | Mild de-rating | 11.5% | 13.3% | 14.7% |
+| P/B compresses to 0.85x (50% of current) | Significant de-rating | 2.8% | 6.9% | 10.1% |
+| Fair P/B = 2.5x (for 20% ROE) | Reverts to fair value | **27.5%** | **24.7%** | **22.7%** |
+| Historical median P/B ~3.0x | Reverts to historical | **32.2%** | **28.0%** | **24.9%** |
 | P/B = 1.0x | Valued at book (worst case) | 6.1% | 9.4% | 11.9% |
 
 **The Key Insight:**
 
-> "At the current entry P/B of 1.70x with a sustainable ROE of 20% and 90% retention, book value compounds at 18% annually. If the P/B multiple remains at 1.70x, the return equals the BV compounding rate of ~23-25%. The stock can tolerate P/B compression from 1.70x down to **0.85x (a 50% compression)** and STILL deliver ~12-15% annual returns over 10 years. To earn less than 10% annually over 10 years, the P/B would need to compress below 0.65x — which implies the market valuing this 20% ROE business at a permanent discount to book value. This is extremely unlikely for a profitable, growing, debt-free company."
+> "At the current entry P/B of 1.70x with a sustainable ROE of 20% and 90% retention, book value compounds at 18% annually. If the P/B multiple remains at 1.70x, the return equals the BV compounding rate of ~18%. The stock can tolerate P/B compression from 1.70x down to **0.85x (a 50% compression)** and STILL deliver ~10% annual returns over 10 years. To earn less than 10% annually over 10 years, the P/B would need to compress below ~0.7x — which implies the market valuing this 20% ROE business at a permanent deep discount to book value. This is extremely unlikely for a profitable, growing, debt-free company."
 
 ### Traffic Light Verdict
 
 | Condition | Verdict |
 |---|---|
-| 10-year return > 10% even if P/B halves | **🟢🟢 SAFE ENTRY — BV compounding overwhelms multiple compression** |
+| 10-year return > 10% even if P/B halves | **🟢 SAFE ENTRY — BV compounding largely overwhelms multiple compression (10.1% at 0.85x P/B)** |
 | Even at 1x book (worst case), 10Y return is ~12% | **🟢 GREEN** |
-| If P/B reverts to fair value (2.5x), 10Y return is ~27% | **🟢🟢🟢 EXCEPTIONAL** |
+| If P/B reverts to fair value (2.5x), 10Y return is ~23% | **🟢🟢🟢 EXCEPTIONAL** |
 
 ---
 
@@ -818,7 +822,7 @@ This is the kind of business the young Buffett would have owned in his partnersh
 1. **It's small enough** (₹618 Cr market cap) that institutional investors ignore it, creating inefficiency.
 2. **It's misclassified** — the market treats it as a commodity steel company (7.9x PE) when it's actually an asset-light franchise business that should trade at 18-25x PE.
 3. **The business quality is objectively excellent** — 22% ROE, 52% ROIC, zero debt, 10-12% OPM and rising.
-4. **The price is objectively cheap** — PE 7.9x, EV/EBITDA 5.5x, PEG 0.25, FCF yield 9.1%.
+4. **The price is objectively cheap** — PE 7.9x, EV/EBITDA ~6.4x, PEG ~0.42, FCF yield 9.1%.
 5. **The margin of safety is meaningful** — 31% below base case intrinsic value, with book value providing a floor.
 
 > *Buffett: "Opportunities come infrequently. When it rains gold, put out the bucket, not the thimble."* At ₹21.9, it's raining gold for this particular stock. The business is thriving while the stock is depressed.
@@ -859,7 +863,7 @@ The one concern — declining promoter holding — would give Buffett pause but 
 | **Moat Durability** | **6** | Narrow but widening moat — brand + distribution + franchise ecosystem. Not unbreachable (large steel cos could replicate) but real and strengthening. |
 | **Financial Health** | **10** | Textbook fortress — zero debt, 6.9x current ratio, massive FCF, declining working capital. |
 | **Management Quality** | **6** | Excellent capital allocation (debt elimination, franchise investments, margin expansion). BUT declining promoter holding is a genuine concern. |
-| **Valuation** | **9** | PE 7.9x, EV/EBITDA 5.5x, PEG 0.25, P/FCF 11x for a 22% ROE business. Screaming cheap on every metric. |
+| **Valuation** | **9** | PE 7.9x, EV/EBITDA ~6.4x, PEG ~0.42, P/FCF 11x for a 22% ROE business. Screaming cheap on every metric. |
 | **Margin of Safety** | **8** | 31% below base case IV. Book value provides floor. Even conservative DCF shows current price is below IV. |
 | **Scalability** | **8** | Elite unit economics (72% incremental margin), massive runway (10x TAM), at inflection point. |
 | **Buffett Verdict** | — | **True Buffett Business at Value Price.** An asset-light franchise compounder trading at commodity business valuations. 22% ROE with zero debt and 7.9x PE is a rare combination. The business has undergone a complete transformation from commodity manufacturer to brand franchise, but the stock hasn't caught up. Buffett working with small capital would BUY aggressively and HOLD for the PE re-rating + earnings compounding double engine. |
