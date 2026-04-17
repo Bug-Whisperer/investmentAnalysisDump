@@ -425,10 +425,10 @@ The JK Group (Hari Shankar Singhania family) is a well-established Indian busine
 | Book Value/Share (₹) | 85 | 94 | 115 | 134 | 149 | 177 | 238 | 299 | 319 | **323** |
 | P/B Ratio | ~0.65 | ~1.38 | ~1.13 | ~1.04 | ~1.14 | ~1.30 | ~1.76 | ~1.25 | ~1.10 | **1.04** |
 | EV/EBITDA | — | — | — | — | — | — | ~4.0 | ~4.5 | ~8.1 | **8.16** |
-
-*Note: EV/EBITDA uses Screener's convention where EBITDA = Operating Profit (which already excludes D&A). Net Debt includes all borrowings less liquid investments.*
 | Dividend Yield | 2.7% | 1.9% | 2.7% | 2.9% | 2.4% | 2.4% | 1.9% | 2.3% | 1.4% | **1.49%** |
 | Earnings Yield (1/PE) | 20% | 11.5% | 18.5% | 19.2% | 8.3% | 13.9% | 16.9% | 17.5% | 6.9% | **4.7%** |
+
+*Note: EV/EBITDA uses Screener's convention where EBITDA = Operating Profit (which already excludes D&A). Net Debt includes all borrowings less liquid investments.*
 
 ### Key Valuation Metrics (Current)
 
