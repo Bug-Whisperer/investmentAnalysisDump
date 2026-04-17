@@ -23,9 +23,9 @@ This is a **consumer franchise with switching costs.** Jewellery is an emotional
 
 The economic moat here is **brand trust + hyperlocal presence + the organised-vs-unorganised shift.** As India moves from unorganised (karigars, family jewellers) to organised retail — driven by hallmarking mandates, GST formalisation, and consumer preference for transparency — Kalyan is a direct beneficiary.
 
-**Operating Model (as of Q3 FY26):**
-- **Total Showrooms:** ~436+ globally (287 India, 36 Middle East, 2 USA, 110+ Candere outlets)
-- **Franchise-Owned Company-Operated (FOCO) Model:** 174 FOCO showrooms in India, 4 in Middle East — this is the asset-light engine driving growth
+**Operating Model:**
+- **Total Showrooms:** 406 as of June 30, 2025 (Kalyan India 287, Middle East 36, USA 2, Candere 81). Per the Q3 FY26 earnings call (Feb 2026), the network had expanded to 436+ showrooms including ~110 Candere outlets, with 80-90 new Kalyan stores planned annually.
+- **Franchise-Owned Company-Operated (FOCO) Model:** 174 FOCO showrooms in India, 4 in Middle East as of Q2 FY26 — this is the asset-light engine driving growth
 - **Candere:** Online-first lifestyle jewellery brand, turned PAT-positive in Q3 FY26 with 144% revenue growth
 - **Non-South India:** Now contributes ~58.5% of India revenue — the growth runway is massive
 
@@ -35,17 +35,17 @@ The economic moat here is **brand trust + hyperlocal presence + the organised-vs
 
 ### Consolidated Profit & Loss (₹ Crores)
 
-| Metric | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | TTM (Mar 26E) |
+| Metric | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | TTM (Dec 25)† |
 |---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 10,505 | 9,771 | 10,101 | **8,573** | 10,818 | 14,071 | 18,548 | 25,045 | **~31,650** |
-| Revenue Growth YoY | — | -7.0% | 3.4% | **-15.1%** | 26.2% | 30.1% | 31.8% | 35.0% | **~34%** |
-| Operating Profit (EBITDA) | 774 | **620** | 799 | 624 | 853 | 1,165 | 1,368 | 1,585 | **~1,834** |
-| OPM % | 7% | **6%** | 8% | 7% | 8% | 8% | 7% | 6% | 6% |
-| Other Income | 32 | 42 | 80 | 45 | 38 | 5 | 74 | 140 | 179 |
-| Interest | 390 | 418 | 419 | 405 | 360 | 353 | 379 | 422 | 382 |
-| Depreciation | 202 | 224 | 239 | 225 | 232 | 245 | 274 | 343 | 383 |
-| Profit Before Tax | 214 | **21** | 221 | **39** | 299 | 572 | 789 | 960 | **~1,247** |
-| Tax Rate % | 34% | 123% | 36% | 115% | 25% | 24% | 24% | 26% | ~25% |
+| Revenue Growth YoY | — | -7.0% | 3.4% | **-15.1%** | 26.2% | 30.1% | 31.8% | 35.0% | **~35%** |
+| Operating Profit (EBITDA) | 774 | **620** | 799 | 624 | 853 | 1,165 | 1,368 | 1,585 | **~2,155** |
+| OPM % | 7% | **6%** | 8% | 7% | 8% | 8% | 7% | 6% | 7% |
+| Other Income | 32 | 42 | 80 | 45 | 38 | 5 | 74 | 140 | ~187 |
+| Interest | 390 | 418 | 419 | 405 | 360 | 353 | 379 | 422 | ~390 |
+| Depreciation | 202 | 224 | 239 | 225 | 232 | 245 | 274 | 343 | ~397 |
+| Profit Before Tax | 214 | **21** | 221 | **39** | 299 | 572 | 789 | 960 | **~1,555** |
+| Tax Rate % | 34% | 123% | 36% | 115% | 25% | 24% | 24% | 26% | ~27% |
 | **Net Profit** | 141 | **-5** | 142 | **-6** | 224 | 432 | 596 | 714 | **~1,129** |
 | Net Profit Growth YoY | — | **NM** | NM | **NM** | NM | 92.9% | 38.0% | 19.8% | ~58% |
 | Net Profit Margin | 1.3% | **-0.1%** | 1.4% | **-0.1%** | 2.1% | 3.1% | 3.2% | 2.9% | ~3.6% |
@@ -53,6 +53,8 @@ The economic moat here is **brand trust + hyperlocal presence + the organised-vs
 | EPS Growth YoY | — | NM | NM | NM | NM | 92.7% | 38.1% | 19.5% | ~58% |
 | Shares Outstanding (Cr) | 83.9 | 83.9 | 83.9 | 103.0 | 103.0 | 103.0 | 103.0 | 103.1 | ~103.3 |
 | Dividend Payout % | 0% | 0% | 0% | 0% | 0% | 12% | 21% | 22% | — |
+
+†*TTM column = trailing four quarters ending December 2025 (Q4 FY25 + Q1-Q3 FY26), computed by summing quarterly results. FY18-FY25 columns are annual figures from Screener.in. FY19 EPS of -₹0.04 is as reported by Screener (may differ from simple PAT/shares division due to weighted average share count adjustments).*
 
 **Compounded Growth Rates:**
 
@@ -113,7 +115,7 @@ Kalyan's business in 2036 will look exactly like today — selling gold and diam
 - **Debt/Equity has halved** from 2.27x (FY18) to 1.03x (FY25) — dramatic deleveraging while growing revenue 2.4x.
 - **Inventory days improved dramatically** from 272 (FY21 worst) to 162 (FY25 best) — the company is becoming far more capital-efficient.
 - **Cash conversion cycle improved** from 241 days to 129 days — nearly halved.
-- **Management targets debt-free status by FY27** — reduced debt by ₹400 Cr in FY25, targeting ₹300 Cr more in FY26.
+- **Management targets debt-free status by FY27** — reduced non-GML debt by ₹400 Cr in FY25, targeting ₹300 Cr more in FY26. *(Note: Screener's total borrowings rose from ₹4,486 Cr to ₹4,959 Cr in FY25 because Gold Metal Loans (GML) — working capital facilities collateralised by gold inventory — increased with business scale and gold prices. Management's debt reduction refers specifically to term loans and NCDs, not GML.)*
 - **Book value per share** growing at 14-16% CAGR — compounding equity steadily.
 
 **Concerns:**
@@ -206,7 +208,7 @@ ROE has transformed from negative/single-digit (FY18-FY22) to a respectable 16% 
 |---|---|---|
 | Net Profit Margin | ~2.9% | Stable-improving |
 | Asset Turnover | ~1.79x | **Improving** (was 1.23x in FY18) |
-| Equity Multiplier | ~3.15x | **Declining** (was 4.62x in FY18) |
+| Equity Multiplier | ~3.11x | **Declining** (was 4.62x in FY18) |
 | **= ROE** | ~16% | **Improving** |
 
 **This is the ideal trajectory.** ROE is rising WHILE leverage is declining. The improvement is coming from:
@@ -226,7 +228,7 @@ At 16% ROE and climbing toward 20%+, Kalyan is entering "good to excellent" terr
 
 ### The Indian Jewellery Battlefield
 
-The Indian jewellery market is estimated at ~USD 85-95 billion (₹7-8 lakh crore), with the organised sector at ~36-38% and growing. Kalyan commands ~6% of the organised market and ~2% of the overall market.
+The Indian jewellery market is estimated at ~USD 85-95 billion (₹7-8 lakh crore), with the organised sector at ~36-38% and growing. Kalyan commands an estimated ~7-9% of the organised market and ~3% of the overall market based on FY25 India revenue of ~₹22,000 Cr. *(Note: The company cited ~6% organised share at its 2021 IPO; this has since grown with revenue scaling from ₹8,573 Cr to ₹25,045 Cr.)*
 
 ### Key Competitors
 
@@ -314,12 +316,12 @@ Asset turnover improving from 1.21x to 1.79x is exceptional — the business is 
 **Total Addressable Market:**
 - Indian jewellery market: ~₹7-8 lakh crore (~USD 85-95 billion)
 - Organised sector: ~36-38% = ~₹2.5-3 lakh crore
-- Organised sector projected to reach 50%+ by 2030 = ~₹4-5 lakh crore
+- Organised sector projected to reach 50%+ by 2030; with the total market growing at ~5-6% CAGR to ~₹10-11 lakh crore, the organised TAM becomes ~₹4-5 lakh crore
 
 **Kalyan's Current Position:**
-- FY25 Revenue: ₹25,045 Cr (domestic + international)
-- Organised market share: ~6-8%
-- Overall market share: ~2-3%
+- FY25 Revenue: ₹25,045 Cr (domestic + international); India-only revenue ~₹22,000 Cr
+- Organised market share: ~7-9% (based on India revenue vs organised market)
+- Overall market share: ~3%
 
 **Runway:** Even within the organised segment, the runway is ~₹2.5-3 lakh crore vs. current ₹25,000 Cr = **10-12x runway.** If the organised share grows to 50% of the total market by 2030, the addressable market grows to ₹4-5 lakh crore, providing a **16-20x runway.**
 
@@ -328,7 +330,7 @@ Asset turnover improving from 1.21x to 1.79x is exceptional — the business is 
 **INFLECTION POINT / SCALING PHASE.** The evidence is clear:
 - Business model proven (30+ years, profitable across cycles)
 - FOCO model validated (174 FOCO showrooms, PAT-positive Candere)
-- Growth accelerating (35% revenue CAGR over 3 years)
+- Growth accelerating (32% revenue CAGR over 3 years, 35% in FY25 alone)
 - Margins expanding in latest quarter (Q3 FY26)
 - Non-South India now 58.5% of revenue — the largest growth market is working
 - International expansion beginning (US, UK)
@@ -364,11 +366,11 @@ The company is founder-led by T.S. Kalyanaraman (Chairman & MD), with sons T.K. 
 
 Over the FY23-FY25 period, cumulative net profit was ~₹1,742 Cr, with estimated dividends of ~₹334 Cr, leaving ~₹1,408 Cr of retained earnings (~₹13.7 per share). The stock price rose from ~₹85 (start of FY23) to ₹380 currently, creating ~₹295 of market value per share. This implies **~₹21.6 of market value per ₹1 of retained earnings** — the $1 test is passed with flying colours.
 
-**Caveat:** Much of this reflects PE multiple expansion from ~20x to ~35x. The underlying business performance supports this, but investors should be aware that some of the value creation is from re-rating, not just compounding.
+**Caveat:** Much of this reflects PE multiple expansion — from ~20x on forward EPS at the start of FY23 to ~35x on trailing EPS today. The underlying business performance supports this re-rating, but investors should be aware that some of the value creation is from multiple expansion, not just compounding.
 
 ### Capital Allocation Track Record
 
-- **Debt reduction:** Reduced debt by ₹400 Cr in FY25, targeting ₹300 Cr more in FY26, with net-debt-free target by FY27. **Excellent discipline.**
+- **Debt reduction:** Reduced non-GML debt by ₹400 Cr in FY25, targeting ₹300 Cr more in FY26, with net-debt-free target by FY27. **Excellent discipline.**
 - **FOCO pivot:** Shifting from capital-heavy owned stores to asset-light franchise model. **Smart capital allocation.**
 - **Candere investment:** Digital-first brand now PAT-positive. **Good optionality creation.**
 - **No reckless acquisitions.** The company has grown organically.
@@ -387,11 +389,11 @@ The Kalyanaraman family has run this business for 30+ years, built it from one s
 
 ## 10. OPERATING METRICS — Industry-Specific KPIs
 
-| Metric | FY22 | FY23 | FY24 | FY25 | Q3 FY26 |
+| Metric | FY22 | FY23 | FY24 | FY25 (Jun 25) | Q3 FY26 (Dec 25) |
 |---|---|---|---|---|---|
-| Total Showrooms (Kalyan India) | ~120 | ~150 | ~180 | ~287 | ~310+ |
-| Total Showrooms (Middle East) | ~30 | ~32 | ~34 | ~36 | ~36 |
-| Candere Outlets | — | — | ~20 | ~81 | ~110 |
+| Total Showrooms (Kalyan India) | ~120 | ~150 | ~180 | 287 | ~310+ (est.) |
+| Total Showrooms (Middle East) | ~30 | ~32 | ~34 | 36 | ~36 |
+| Candere Outlets | — | — | ~20 | 81 | ~110 |
 | FOCO Showrooms (India) | — | — | ~50 | ~120+ | ~174 |
 | SSSG (South India) | — | — | Mid-single digit | Mid-single digit | 25% |
 | SSSG (Non-South India) | — | — | Double-digit | Double-digit | 29% |
@@ -406,7 +408,7 @@ The Kalyanaraman family has run this business for 30+ years, built it from one s
 
 ### Key Takeaways
 
-1. **Store additions are accelerating dramatically** — from ~150 to 436+ in just 3 years. The FOCO model is a game-changer.
+1. **Store additions are accelerating dramatically** — Kalyan India showrooms grew from ~150 (FY23) to 287 (FY25) to an estimated ~310+ (Q3 FY26), more than doubling in 3 years. Including Candere and international, the total network reached 406 as of June 2025 and has continued expanding. The FOCO model is a game-changer.
 2. **Non-South India is now the majority** of revenue (58.5%) — this was the biggest risk in the thesis (whether the South Indian brand could succeed pan-India) and it has been emphatically answered.
 3. **SSSG of 25-29% in Q3 FY26** is extraordinary for a jewellery retailer — this is not just new store growth, existing stores are performing brilliantly.
 4. **Studded mix improving** — from ~25% to 31.2%. Every 1% shift toward studded adds meaningful margin.
@@ -428,6 +430,8 @@ The Kalyanaraman family has run this business for 30+ years, built it from one s
 | Earnings Yield (1/PE) | 3.3% | 3.1% | 1.8% | 1.9% | **2.9%** |
 | Book Value Per Share (₹) | 30.5 | 35.3 | 40.7 | 46.6 | ~51.7 |
 | EPS (Diluted, ₹) | 2.18 | 4.20 | 5.80 | 6.93 | ~10.93 |
+
+*Note: Historical PE and P/B for the same year may imply slightly different stock prices because Screener captures these at different snapshot dates within the fiscal year. The Current (TTM) column uses CMP ~₹380 and TTM EPS ~₹10.93 (ending Dec 2025).*
 
 ### Analyst Estimates (Consensus)
 
@@ -454,7 +458,7 @@ At P/B of ~7.3x, the stock is expensive relative to book value — but for a 16-
 
 ### Traditional DCF / Owner Earnings Valuation
 
-**Starting Owner Earnings (FY25):** ₹842 Cr (~₹8.17 per share)
+**Starting EPS (FY25):** ₹6.93 per share *(Owner Earnings are higher at ~₹8.17/share, but the DCF below conservatively uses reported EPS as the growth base, since OE includes non-cash add-backs that may not fully translate to shareholder value.)*
 
 **Growth Assumptions:**
 
@@ -466,7 +470,7 @@ At P/B of ~7.3x, the stock is expensive relative to book value — but for a 16-
 
 ### DCF Valuation Summary
 
-| Scenario | Owner Earnings Yr 10 (₹/share) | Terminal Value (₹/share) | PV of Cash Flows | Intrinsic Value/Share | Margin of Safety at ₹380 |
+| Scenario | EPS Yr 10 (₹/share) | Terminal Value (₹/share) | PV of Cash Flows | Intrinsic Value/Share | Margin of Safety at ₹380 |
 |---|---|---|---|---|---|
 | **Conservative** | ₹28.4 | ₹227 | ₹158 | **₹385** | **~1% (Fair Value)** |
 | **Base** | ₹39.2 | ₹352 | ₹229 | **₹581** | **+53% Upside** |
@@ -486,6 +490,16 @@ At P/B of ~7.3x, the stock is expensive relative to book value — but for a 16-
 | TTM Normalised EPS (including Q3 FY26) | ~₹10.93 |
 | Current PE (on TTM EPS) | ~34.8x |
 | Shares Outstanding (Diluted) | ~103.3 Cr |
+
+### Step 2: Terminal PE Multiple Scenarios
+
+The terminal PE is what the market will likely pay at the END of the holding period:
+
+| Scenario | Terminal PE | Rationale |
+|---|---|---|
+| Mature / Low-Growth | 20x | Business has matured, growth ≈ GDP+5%. |
+| Above-Average Compounder | 28x | Still growing faster than the market; moat intact. |
+| Historical Median | 35x | The market's revealed assessment of this specific business. |
 
 ### Step 3: Implied EPS CAGR Required
 
@@ -657,11 +671,13 @@ At 7.3x P/B, the 10-year return exceeds 10% only if P/B stays above ~5.1x — me
 
 | Zone | PE Range | P/B Range | Price Range (₹) | Rationale |
 |---|---|---|---|---|
-| **Deep Value / Strong Buy** | <20x TTM | <4.0x Book | **<₹180** | Deep value; exceptional MoS; unlikely unless severe bear market or company-specific crisis |
-| **Value / Buy** | 20-30x TTM | 4.0-6.0x Book | **₹180-₹310** | Attractive entry; good margin of safety; would require patience to wait for |
-| **Fair Value / Hold** | 30-40x TTM | 6.0-8.0x Book | **₹310-₹420** | Fairly priced for the growth; hold for compounding. **Current price ₹380 is HERE.** |
-| **Fully Valued / Trim** | 40-55x TTM | 8.0-10.0x Book | **₹420-₹560** | Above fair value; consider trimming |
-| **Overvalued / Sell** | >55x TTM | >10.0x Book | **>₹560** | Priced for perfection; sell |
+| **Deep Value / Strong Buy** | <20x TTM | <4.0x Book | **<₹210** | Deep value; exceptional MoS; unlikely unless severe bear market or company-specific crisis |
+| **Value / Buy** | 20-30x TTM | 4.0-6.0x Book | **₹210-₹330** | Attractive entry; good margin of safety; would require patience to wait for |
+| **Fair Value / Hold** | 30-40x TTM | 6.0-8.0x Book | **₹330-₹440** | Fairly priced for the growth; hold for compounding. **Current price ₹380 is HERE.** |
+| **Fully Valued / Trim** | 40-55x TTM | 8.0-10.0x Book | **₹440-₹600** | Above fair value; consider trimming |
+| **Overvalued / Sell** | >55x TTM | >10.0x Book | **>₹600** | Priced for perfection; sell |
+
+*Note: Price ranges are anchored to TTM EPS ~₹10.93 and BVPS ~₹51.7 as of the analysis date. As EPS and BVPS grow over time, these price ranges will shift upward accordingly.*
 
 **Current Position:** The stock at ~₹380 sits in the **Fair Value / Hold** zone. It is not cheap enough for a "buy" signal with a large margin of safety, but it is not overvalued either.
 
@@ -669,15 +685,15 @@ At 7.3x P/B, the 10-year return exceeds 10% only if P/B stays above ~5.1x — me
 
 | Your Average Cost Zone | Current Position (at ₹380) | Buffett's Recommendation |
 |---|---|---|
-| **Deep Value (<₹180)** | Sitting on 100%+ profit | **HOLD.** You bought a wonderful business at a wonderful price. Let it compound. The business is getting better, not worse. Buffett would never sell a compounder just because it doubled. "Our favourite holding period is forever." |
-| **Value (₹180-₹310)** | Sitting on 22-111% profit | **HOLD.** Good entry, business improving. Consider adding on any dip into the Deep Value zone. |
-| **Fair Value (₹310-₹420)** | Small profit or near breakeven | **HOLD.** You're at fair value. The business fundamentals are strong. Don't panic-sell into a market correction. If conviction is high, hold for 3-5 year compounding. |
-| **Fully Valued (₹420-₹560)** | In a loss (10-32%) | **HOLD reluctantly.** You overpaid, but the business is growing INTO its valuation. In 1-2 years, EPS growth should bring the effective PE down. Don't add more. |
-| **Overvalued (>₹560)** | In a significant loss (>32%) | **HOLD and be patient, or tax-loss harvest.** You bought at extreme valuations. The business is fine but you paid too much. It may take 2-3 years for EPS growth to bail you out. |
+| **Deep Value (<₹210)** | Sitting on 80%+ profit | **HOLD.** You bought a wonderful business at a wonderful price. Let it compound. The business is getting better, not worse. Buffett would never sell a compounder just because it doubled. "Our favourite holding period is forever." |
+| **Value (₹210-₹330)** | Sitting on 15-80% profit | **HOLD.** Good entry, business improving. Consider adding on any dip into the Deep Value zone. |
+| **Fair Value (₹330-₹440)** | Small profit or near breakeven | **HOLD.** You're at fair value. The business fundamentals are strong. Don't panic-sell into a market correction. If conviction is high, hold for 3-5 year compounding. |
+| **Fully Valued (₹440-₹600)** | In a loss (14-37%) | **HOLD reluctantly.** You overpaid, but the business is growing INTO its valuation. In 1-2 years, EPS growth should bring the effective PE down. Don't add more. |
+| **Overvalued (>₹600)** | In a significant loss (>37%) | **HOLD and be patient, or tax-loss harvest.** You bought at extreme valuations. The business is fine but you paid too much. It may take 2-3 years for EPS growth to bail you out. |
 
 > *Buffett (working with a small capital base): "If I were working with small sums, I'd be doing something very different. I'd be looking for small mispriced opportunities."*
 
-For small capital investors, Kalyan at ₹380 is a "fair value" hold. The ideal strategy would be to accumulate in the ₹180-₹310 range during market corrections. Set limit orders and be patient.
+For small capital investors, Kalyan at ₹380 is a "fair value" hold. The ideal strategy would be to accumulate in the ₹210-₹330 range (Value zone) during market corrections. Set limit orders and be patient.
 
 ---
 
@@ -700,7 +716,7 @@ For small capital investors, Kalyan at ₹380 is a "fair value" hold. The ideal 
 
 **If Buffett were working with a small capital base:**
 
-He would likely **put this on his "wonderful business" watchlist** and wait for a better price — specifically, a market-wide correction or a company-specific scare (e.g., gold price crash, promoter pledge forced selling event) that drives the stock into the ₹200-₹300 range (Value/Buy zone). He would then buy aggressively.
+He would likely **put this on his "wonderful business" watchlist** and wait for a better price — specifically, a market-wide correction or a company-specific scare (e.g., gold price crash, promoter pledge forced selling event) that drives the stock into the ₹210-₹330 range (Value/Buy zone). He would then buy aggressively.
 
 At ₹380, he might buy a **starter position** if he had high conviction that growth would be sustained, but he would not make it a full position.
 
@@ -742,9 +758,9 @@ Patience here means waiting for the market to offer you this wonderful business 
 | **Scalability** | 7.5 | FOCO model enables asset-light scaling. 10-20x TAM runway. At inflection point. |
 | **Valuation** | 5.5 | At ₹380, fairly valued. Not cheap. PE of ~35x TTM (including Q3 FY26), P/B of ~7.3x. Requires sustained high growth to justify. |
 | **Margin of Safety** | 5 | Limited at current price. Conservative intrinsic value ≈ current price. No cushion for errors. |
-| **Buffett Verdict** | — | **A wonderful business at a fair price.** Kalyan is a high-quality consumer franchise in the early stages of a multi-decade scaling opportunity, benefiting from the irreversible shift from unorganised to organised jewellery retail. The FOCO model is a genuine innovation that transforms unit economics. At ₹380, you're paying fair value for these excellent fundamentals — not cheap enough for a "table-pounding buy" but reasonable for long-term compounding. Buffett would admire the business but likely wait for a better price. If forced to act at ₹380, he'd take a **small starter position** and add aggressively below ₹300. For existing holders: **HOLD.** The business is getting better, not worse. |
-| **Buy Zone** | — | Currently in **Fair Value / Hold** zone (₹310-₹420). Deep Value zone below ₹180; Value zone ₹180-₹310. |
-| **Overall Recommendation** | — | **HOLD if owned. WATCHLIST if not. Buy aggressively below ₹300.** |
+| **Buffett Verdict** | — | **A wonderful business at a fair price.** Kalyan is a high-quality consumer franchise in the early stages of a multi-decade scaling opportunity, benefiting from the irreversible shift from unorganised to organised jewellery retail. The FOCO model is a genuine innovation that transforms unit economics. At ₹380, you're paying fair value for these excellent fundamentals — not cheap enough for a "table-pounding buy" but reasonable for long-term compounding. Buffett would admire the business but likely wait for a better price. If forced to act at ₹380, he'd take a **small starter position** and add aggressively below ₹330 (Value zone). For existing holders: **HOLD.** The business is getting better, not worse. |
+| **Buy Zone** | — | Currently in **Fair Value / Hold** zone (₹330-₹440). Deep Value zone below ₹210; Value zone ₹210-₹330. |
+| **Overall Recommendation** | — | **HOLD if owned. WATCHLIST if not. Buy aggressively below ₹330.** |
 
 ---
 
@@ -765,17 +781,17 @@ Patience here means waiting for the market to offer you this wonderful business 
 - At 25x PE: Stock price = ₹680, return ~79%, or ~12.3% CAGR
 - At 20x PE (significant de-rating): Stock price = ₹544, return ~43%, or ~7.4% CAGR
 
-**The napkin math says: 7-17% CAGR depending on terminal multiple.** Even in a significant de-rating scenario (20x PE), a 20% EPS growth delivers a decent ~7% return. At a reasonable 25-30x exit, you earn 12-17% CAGR — attractive. The extraordinary returns are available if you buy during corrections (below ₹300).
+**The napkin math says: 7-17% CAGR depending on terminal multiple.** Even in a significant de-rating scenario (20x PE), a 20% EPS growth delivers a decent ~7% return. At a reasonable 25-30x exit, you earn 12-17% CAGR — attractive. The extraordinary returns are available if you buy during corrections (below ₹330, the Value zone).
 
 > *Buffett: "If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."*
 
-At ₹380, the napkin math says "probably a decent investment, but not a screaming bargain." At ₹250, the napkin math says "obvious buy." Wait for the obvious.
+At ₹380, the napkin math says "probably a decent investment, but not a screaming bargain." Below ₹330, the napkin math says "attractive." Below ₹210, it says "obvious buy." Wait for the obvious.
 
 ---
 
 *"Price is what you pay, value is what you get." — Warren Buffett*
 
-*At ₹380, you're paying a fair price for genuine value. The business is wonderful. The moat is widening. The scaling opportunity is massive. But the margin of safety is thin. The patient investor who waits for Mr. Market to have a bad day — and buys Kalyan in the ₹200-₹300 range — will earn extraordinary returns. The investor who buys at ₹380 will earn good returns. The key is not to overpay for even the best businesses.*
+*At ₹380, you're paying a fair price for genuine value. The business is wonderful. The moat is widening. The scaling opportunity is massive. But the margin of safety is thin. The patient investor who waits for Mr. Market to have a bad day — and buys Kalyan in the ₹210-₹330 range (Value zone) — will earn extraordinary returns. The investor who buys at ₹380 will earn good returns. The key is not to overpay for even the best businesses.*
 
 *"Be fearful when others are greedy, and greedy when others are fearful." — Warren Buffett*
 
