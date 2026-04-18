@@ -65,12 +65,14 @@ In November 2022, Shriram Transport Finance Company (STFC) merged with Shriram C
 | Net Profit Growth YoY | — | 1.1% | **-2.5%** | **-0.5%** | 8.9% | **121.2%** | 22.9% | 29.4% | ~13% |
 | **EPS (Diluted, ₹)** | 20.14 | 20.36 | 19.86 | **17.71** | 20.12 | 32.11 | 39.20 | **50.81** | 52.45 |
 | EPS Growth YoY | — | 1.1% | -2.5% | **-10.8%** | 13.6% | **59.6%** | 22.1% | 29.6% | — |
-| Shares Outstanding (Diluted, Cr) | ~12.65 | ~12.65 | ~12.65 | ~14.11 | ~13.52 | ~18.75 | ~18.87 | ~18.85 | ~18.85 |
+| Shares Outstanding (Diluted, Cr) | ~126.5 | ~126.5 | ~126.5 | ~141.1 | ~135.2 | ~187.5 | ~188.7 | ~188.5 | ~188.5 |
 | Dividend Payout % | 10% | 11% | **5%** | 18% | 20% | 22% | 23% | 19% | — |
 | **ROA (approx.)** | ~2.6% | ~2.4% | ~2.2% | ~1.9% | ~1.9% | ~2.9% | ~3.0% | ~3.3% | ~3.1% |
 | **ROE** | **20%** | 17% | 15% | **13%** | 11% | 17% | 15% | 16% | ~16% |
 
 *\*FY23 onwards reflects merged entity (STFC + SCUF + Shriram Capital). Pre-FY23 numbers are STFC standalone/consolidated — not directly comparable.*
+
+*Data Notes: (1) ROE and ROA figures are sourced from Screener.in, which may use a different equity/asset denominator (e.g., year-end vs. average) than independent computation from this document's balance sheet data. For FY25, ROE on average equity computes to ~18.2% (including exceptional gain) or ~15.0% (normalised), while Screener reports 16%. (2) The TTM "Financing Profit" line is Screener's own computed item (Revenue − Interest − Expenses), which may not equal NII + Other Income − OpEx due to Screener's internal categorisation. (3) In the merger year (FY23), the DuPont identity (ROA × Leverage ≈ ROE) breaks down because ROA uses average assets (which nearly doubled mid-year) while leverage uses year-end figures — this is an inherent limitation of merger-year analysis, not a calculation error.*
 
 ### Trend Narrative
 
@@ -157,9 +159,9 @@ Shriram's borrowing mix is well-diversified: public deposits (24%), term loans (
 |---|---|---|---|---|
 | Rights Issue | FY21 | ~2.6 Cr | ~₹600 | Mildly accretive — raised capital during COVID at moderate price |
 | Merger (SCUF + SCL shares) | FY23 | ~6.0 Cr | N/A (share swap) | Created diversified entity; book value per share initially diluted but AUM doubled |
-| MUFG Preferential Issue (Pending) | FY26/27 | **47.11 Cr** | **₹840.93** | **MASSIVELY accretive** — issue price at ~2.6x pre-deal book value; will add ~₹39,618 Cr to equity; post-deal BVPS rises to ~₹420-545 |
+| MUFG Preferential Issue (Pending) | FY26/27 | **47.11 Cr** | **₹840.93** | **MASSIVELY accretive** — issue price at ~2.8x pre-deal book value; will add ~₹39,618 Cr to equity; post-deal BVPS rises to ~₹408-410 |
 
-The MUFG deal deserves special attention. The issue price of ₹840.93 represents a price-to-book of approximately 2.6x on pre-deal book value. Since the book value per share INCREASES after the deal (the issue price is above existing BVPS), **this is value-accretive for existing shareholders**. Post-deal, total equity rises from ~₹56,470 Cr to ~₹96,000 Cr, and shares outstanding go from ~188 Cr to ~235 Cr. BVPS rises from ~₹300 to approximately ₹408-410.
+The MUFG deal deserves special attention. The issue price of ₹840.93 represents a price-to-book of approximately 2.8x on pre-deal book value (₹840.93 / ₹300 BVPS). Since the book value per share INCREASES after the deal (the issue price is above existing BVPS), **this is value-accretive for existing shareholders**. Post-deal, total equity rises from ~₹56,470 Cr to ~₹96,000 Cr, and shares outstanding go from ~188 Cr to ~235 Cr. BVPS rises from ~₹300 to approximately ₹408-410.
 
 **Key Insight:** Shriram Finance has historically generated enough internal capital to fund 13-15% loan growth without dilution. Only the MUFG deal represents significant dilution, and it is done at a premium to book — exactly how Buffett would want to see equity raised. 
 
@@ -230,7 +232,7 @@ Shriram Finance has been provisioning approximately in line with or slightly abo
 
 **Critical distinction:** High ROE from high ROA is QUALITY. Shriram Finance passes this test.
 
-Post-MUFG, ROE will temporarily decline to ~12-13% as the massive equity infusion dilutes returns. However, as the capital is deployed into the loan book over 2-3 years, ROE should recover to 14-15% — still excellent.
+Post-MUFG, ROE will decline significantly in the immediate term. On the enlarged equity base of ~₹96,000 Cr, normalised FY25 net profit of ₹7,919 Cr would produce an ROE of only ~8-10%. However, this is a transitional figure — as the capital is deployed into the loan book over 2-3 years and net profit grows to ₹12,000-14,000 Cr (expected by FY28), ROE should recover to 13-15%. The near-term ROE depression is the cost of building a fortress balance sheet; Buffett would approve of the trade-off.
 
 **Buffett: "The best business is a royalty on the growth of others, requiring little capital itself."** Shriram isn't capital-light (it's a lending business), but it earns unusually high returns on the capital it employs. A 2.8% ROA on a lending business with an 8%+ NIM is genuinely exceptional — it means the business retains significant value even after credit costs.
 
@@ -244,7 +246,7 @@ Post-MUFG, ROE will temporarily decline to ~12-13% as the massive equity infusio
 
 1. **Underwriting Moat (40+ years of data):** Shriram's ability to lend to "unbankable" borrowers — small truck operators, first-time vehicle buyers — is built on decades of proprietary data, ground-level intelligence from its branch network, and deep understanding of vehicle residual values. No bank can replicate this overnight. No fintech has the physical presence to inspect a 10-year-old truck in a small town.
 
-2. **Distribution Moat:** 3,225+ branches, 3,777 branches and rural centres, pan-India presence. This network took 40+ years and tens of thousands of crores to build. New entrants face enormous barriers.
+2. **Distribution Moat:** 3,225+ branches and a total network of 3,777 locations including rural centres — a pan-India presence. This network took 40+ years and tens of thousands of crores to build. New entrants face enormous barriers.
 
 3. **Customer Lock-In:** A trucker who finances his first used truck through Shriram becomes a lifetime customer — he upgrades to a new truck, finances his son's two-wheeler, takes a personal loan for a wedding, and buys gold loan during a cash crunch. The lifetime value of a customer is enormous.
 
@@ -287,7 +289,7 @@ The ONE change to monitor is UPI/digital lending eroding the personal loan and g
 | FY25 | 43,941 | +8,968 | 9,576 | +2,177 | **24.3%** |
 | FY25 (normalised) | 43,941 | +8,968 | 7,919 | +520 | **5.8%** |
 
-*The FY25 normalised incremental margin drops sharply because the exceptional gain inflated FY25 reported profits. On a like-for-like basis, the incremental margin is healthy at ~15-20%.*
+*The FY25 normalised incremental margin of 5.8% is sharply lower than FY24's 30.8%, reflecting the fact that the exceptional gain from the Shriram Housing sale inflated FY25 reported profits but not normalised profits. The two-year average is ~18%, but this masks significant year-to-year volatility. The FY24 figure (30.8%) shows the business CAN scale profitably; the FY25 normalised figure (5.8%) shows that in a year of rising borrowing costs, incremental margins compress. Investors should use the FY24 reading as the structural signal and FY25 as a cost-cycle headwind — not a permanent impairment.*
 
 **Capital Scalability (The Bank-Specific Bottleneck):**
 
@@ -325,23 +327,26 @@ Shriram Finance is firmly in the **Growth Phase**. The merger created a platform
 
 ### Buffett's $1 Test
 
-Over the past 5 years (FY20-FY25):
-- Total retained earnings: approximately ₹19,065 Cr
-- Market cap increase: from ~₹21,000 Cr (Mar 2020, COVID low) to ~₹1,79,000 Cr = **+₹1,58,000 Cr**
-- **For every ₹1 retained, ~₹8.3 of market value was created.**
+*Note: The November 2022 merger (STFC + SCUF + Shriram Capital) makes market-cap-based $1 test calculations across the merger boundary unreliable — pre-merger stock prices and share counts don't map cleanly to the post-merger entity. We therefore use two approaches: (a) the equity change method (book value basis, which is clean), and (b) a post-merger market value calculation for the clean FY23-FY25 period.*
 
-Even using FY22 (pre-merger) as the base:
-- Total retained earnings (FY22-FY25): ~₹18,130 Cr
-- Market cap increase: from ~₹35,000 Cr to ~₹1,79,000 Cr = +₹1,44,000 Cr
-- **For every ₹1 retained, ~₹7.9 of market value was created.**
+**Approach 1 — Sources of Equity Growth (FY20-FY25):**
+- Total retained earnings (from Section 4): ₹2,386 + ₹2,049 + ₹2,177 + ₹4,696 + ₹5,697 + ₹7,757 = **₹24,762 Cr**
+- Shareholders' equity grew from ₹18,142 Cr (FY20) to ₹56,470 Cr (FY25) = +₹38,328 Cr
+- Of the ₹38,328 Cr increase: **₹24,762 Cr (65%) came from retained earnings** and ~₹13,566 Cr (35%) from equity issuance (rights issue + merger share exchange)
+- This tells us management retained the majority of earnings rather than paying them out, and the retained capital was supplemented by external equity only for strategic purposes (COVID-era rights issue and the transformative merger). By definition, each ₹1 of retained earnings adds ₹1 to book value — the $1 test for book value is therefore a tautological pass. The meaningful test is whether retained earnings created market value, which Approach 2 addresses.
 
-This is an exceptional result — Buffett's threshold is ₹1 of value for ₹1 retained. Shriram has delivered multiples of that.
+**Approach 2 — Post-Merger Market Value $1 Test (FY23-FY25):**
+- Retained earnings FY23-FY25: ₹4,696 + ₹5,697 + ₹7,757 = **₹18,150 Cr**
+- Market cap grew from ~₹24,000 Cr (approximate, early FY23 post-merger) to ~₹1,79,000 Cr = +~₹1,55,000 Cr
+- **For every ₹1 retained, ~₹8.5 of market value was created**
+
+This is an exceptional result — Buffett's threshold is ₹1 of value for ₹1 retained. Shriram has delivered multiples of that. However, a significant portion of the market value creation reflects the re-rating from deep value (P/B <1x at the merger) to the current premium (P/B ~3x) — the re-rating is unlikely to repeat from here.
 
 ### Management Assessment
 
 **Leadership:** Y.S. Chakravarti (MD & CEO) has been with the Shriram Group for 30+ years. Umesh Revankar (Executive Vice Chairman) is the architect of the merger and the MUFG deal. The team has deep domain expertise and has navigated multiple credit cycles.
 
-**Capital Allocation:** The MUFG deal at 2.6x book value is outstanding capital allocation — raising equity at a premium to book while bringing a strategic partner that can lower funding costs. The sale of Shriram Housing Finance to Warburg Pincus at an attractive valuation also demonstrates disciplined capital allocation.
+**Capital Allocation:** The MUFG deal at ~2.8x book value is outstanding capital allocation — raising equity at a premium to book while bringing a strategic partner that can lower funding costs. The sale of Shriram Housing Finance to Warburg Pincus at an attractive valuation also demonstrates disciplined capital allocation.
 
 **Risk Culture:** Shriram's GNPA has steadily declined from 8.5% to 4.6% even as the loan book has tripled. This demonstrates excellent credit discipline. Management has historically been conservative on provisioning.
 
@@ -370,7 +375,7 @@ This is an exceptional result — Buffett's threshold is ₹1 of value for ₹1 
 
 | Metric | FY22 | FY23 | FY24 | FY25 | Direction |
 |---|---|---|---|---|---|
-| AUM (₹ Cr) | ~142,000 | ~185,000 | ~224,862 | ~263,190 | ⬆ Strong |
+| AUM (₹ Cr) | ~142,000† | ~185,000 | ~224,862 | ~263,190 | ⬆ Strong |
 | AUM Growth | — | ~30% | ~21% | ~17% | Moderating but healthy |
 | Yield on Advances | ~16.0% | ~17.0% | ~17.7% | ~17.8% | Stable-to-improving ⬆ |
 | Cost of Funds | ~8.5% | ~8.0% | ~9.0% | ~9.4% | Rising ⬆ (watch!) |
@@ -382,6 +387,8 @@ This is an exceptional result — Buffett's threshold is ₹1 of value for ₹1 
 | Active Customers (Mn) | — | — | — | — | ~9.66 (Sep 2025) |
 | Branches | — | ~3,225 | ~3,400 | ~3,225 | Rationalised |
 | CAR (Total) | ~23.8% | ~22.6% | ~20.3% | ~20.7% | Adequate ✅ |
+
+*†FY22 AUM is an approximation using total assets (₹142,268 Cr) as a proxy since separate AUM disclosure was not available for the pre-merger entity. FY23 onwards, AUM is sourced from company disclosures and includes off-book securitised assets.*
 
 ### Verdict on Operating KPIs
 
@@ -405,9 +412,9 @@ The ONE concern is NIM compression as cost of funds rises. Post-MUFG (potential 
 | BVPS (₹) | 143 | 154 | 193 | 232 | 260 | 300 | ~322 |
 | **P/B Ratio** | **0.83x** | 0.97x | 0.70x | 0.56x† | 0.96x† | **2.2x** | **~2.95x** |
 | EPS (₹) | 19.86 | 17.71 | 20.12 | 32.11 | 39.20 | 50.81 (42 normalised) | 52.45 TTM |
-| **PE Ratio** | 6.0x | 8.5x | 6.7x | 4.0x† | 6.4x† | 13.0x | **~21x** (18x on normalised) |
+| **PE Ratio** | 6.0x | 8.5x | 6.7x | 4.0x† | 6.4x† | 13.0x | **~18x on TTM** (~22.6x on normalised) |
 
-*†Pre-FY23 prices are for pre-merger STFC; post-merger comparisons are approximate due to the share exchange/restructuring. Historical P/B ratios from Screener/external sources: 5-year average P/B of ~1.31x, median ~1.18x, range 0.77x to 2.73x.*
+*†Pre-FY23 prices are for pre-merger STFC; post-merger comparisons are approximate due to the share exchange/restructuring. Historical P/B ratios from external sources (Screener.in, GuruFocus) based on daily prices: 5-year average P/B of ~1.31x, median ~1.18x, range 0.77x to 2.73x. Note: these external-source averages differ from the year-end snapshots in this table because they use daily closing prices across thousands of data points, while the table uses approximate March-end figures for the pre-merger entity. The current P/B of ~2.95x exceeds the historical range, reflecting the post-merger re-rating and MUFG deal premium.*
 
 ### Fair P/B Multiple Calculation (Gordon Growth Model)
 
@@ -438,7 +445,7 @@ The fair P/B is highly sensitive to the ROE-CoE spread. With Shriram's sustainab
 | ROE = 15-16% | 2.0-3.0x Book | **Current (pre-MUFG)** |
 | ROE = 17-20% | 3.0-4.0x Book | — |
 
-**Current P/B of ~2.95x is at the upper end of what's justified for a 15-16% ROE business.** Post-MUFG, as ROE temporarily dips to 12-13%, the deserved P/B might be 1.5-2.5x — but the market is pricing in: (a) ROE recovery as capital is deployed, (b) rating upgrade → cheaper funding → higher NIM, and (c) accelerated growth.
+**Current P/B of ~2.95x is at the upper end of what's justified for a 15-16% ROE business.** Post-MUFG, ROE will initially dip to ~8-10% on the enlarged equity base before recovering to 13-15% over 2-3 years as capital is deployed. During the transition, the deserved P/B might be 1.5-2.5x — but the market is pricing in: (a) ROE recovery as capital is deployed, (b) rating upgrade → cheaper funding → higher NIM, and (c) accelerated growth.
 
 ### Historical Comparison
 
@@ -496,29 +503,31 @@ Using post-MUFG BVPS of ~₹410:
 
 ### Step 2: Implied EPS CAGR Needed
 
+*Formula: Required Future Price = CMP × (1+Hurdle)^n; Required Future EPS = Future Price / Terminal PE; Implied EPS CAGR = (Required Future EPS / Current Normalised EPS)^(1/n) − 1*
+
 #### At Terminal PE = 15x (Mature)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 22.8% | 28.2% | 33.9% |
-| 10 Years | 13.8% | 16.6% | 19.4% |
-| 15 Years | 11.2% | 13.1% | 15.2% |
+| 5 Years | 19.4% | 24.8% | 30.3% |
+| 10 Years | 14.6% | 19.8% | 25.0% |
+| 15 Years | 13.1% | 18.2% | 23.3% |
 
 #### At Terminal PE = 20x (Market Avg)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 16.9% | 22.0% | 27.3% |
-| 10 Years | 11.3% | 14.0% | 16.6% |
-| 15 Years | 9.3% | 11.1% | 12.9% |
+| 5 Years | 12.7% | 17.9% | 23.0% |
+| 10 Years | 11.4% | 16.4% | 21.5% |
+| 15 Years | 10.9% | 15.9% | 21.0% |
 
 #### At Terminal PE = 25x (Compounder)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 12.7% | 17.6% | 22.7% |
-| 10 Years | 9.4% | 12.0% | 14.6% |
-| 15 Years | 8.0% | 9.8% | 11.4% |
+| 5 Years | 7.8% | 12.7% | 17.6% |
+| 10 Years | 8.9% | 13.9% | 18.8% |
+| 15 Years | 9.3% | 14.2% | 19.2% |
 
 ### Step 3: Reality Check
 
@@ -532,17 +541,19 @@ Using post-MUFG BVPS of ~₹410:
 
 ### Step 4: Traffic Light
 
-**At Terminal PE = 20x, for a 15% return over 10 years, the company needs ~14% EPS CAGR.** This is reasonable if Shriram delivers 15-17% AUM growth with stable margins. 🟡 **YELLOW — Fair but optimistic.**
+**At Terminal PE = 20x, for a 15% return over 10 years, the company needs ~16.4% EPS CAGR.** This is at the upper end of what's achievable if Shriram delivers 15-17% AUM growth with stable margins and MUFG-driven cost improvements. 🟡 **YELLOW — Fair but requires execution.**
 
-**At Terminal PE = 15x (conservative), for even a 10% return over 10 years, EPS needs to grow at ~14%.** Post-MUFG dilution will pressure near-term EPS, making this a tighter ask. 🟠 **ORANGE — somewhat expensive.**
+**At Terminal PE = 20x, for a 10% return over 10 years, EPS needs to grow at ~11.4%.** Given Shriram's track record and India's nominal GDP growth of 10-12%, this is very achievable even with MUFG dilution. 🟢 **GREEN — reasonable for a 10% hurdle rate.**
+
+**At Terminal PE = 15x (conservative), for a 10% return over 10 years, EPS needs to grow at ~14.6%.** This requires the business to outperform nominal GDP growth consistently — plausible but not a gimme. 🟡 **YELLOW.**
 
 ### Step 5: Verdict
 
-> **"At the current price of ₹950, to earn a 12% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow normalised EPS at ~11% CAGR. Post-MUFG dilution (shares rising from 188 Cr to 235 Cr), this requires ~16-17% net profit growth to offset the ~25% share dilution. Given 15-17% AUM growth guidance and stable credit costs, this is ACHIEVABLE but leaves little room for error."**
+> **"At the current price of ₹950, to earn a 12% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow normalised EPS at ~13% CAGR. Post-MUFG dilution (shares rising from 188 Cr to 235 Cr), achieving that same EPS trajectory on the enlarged share base requires ~16% net profit CAGR from the current normalised base of ₹7,919 Cr. Given 15-17% AUM growth guidance and stable credit costs, this is ACHIEVABLE but leaves limited room for error."**
 
 The market is pricing in the MUFG transformation thesis. If the rating upgrade doesn't materialise, or NIM compresses further, or asset quality slips — the returns could disappoint.
 
-**Buffett's Napkin Test:** The math works at ₹950, but just barely. This is NOT a "buy with your eyes closed" situation. It's more a "fair price for a wonderful business" — which Buffett would accept, but he wouldn't be thumping the table.
+**Buffett's Napkin Test:** The math works at ₹950 for a 10-12% return — the implied growth requirements are within the company's historical capability range. For a 15%+ return, you need the optimistic scenario (higher terminal PE or above-trend EPS growth). This is a "fair price for a wonderful business" — which Buffett would accept, but he wouldn't be thumping the table.
 
 ---
 
@@ -569,15 +580,15 @@ The market is pricing in the MUFG transformation thesis. If the rating upgrade d
 
 | Exit P/B Scenario | Rationale | 5Y CAGR | 7Y CAGR | 10Y CAGR |
 |---|---|---|---|---|
-| P/B stays at 2.95x | Optimistic | 14.9% | 13.6% | 12.4% |
-| P/B compresses to 2.5x | Mild de-rating | 11.5% | 11.1% | 10.5% |
-| P/B compresses to 2.0x | Moderate de-rating | 7.5% | 8.3% | 8.5% |
-| P/B compresses to 1.5x (historical median) | Reverts to historical norm | 2.9% | 5.2% | 6.3% |
-| P/B compresses to 1.0x | Worst case (valued at book) | **-3.2%** | 1.6% | 3.6% |
+| P/B stays at 2.95x | Optimistic | 16.5% | 14.9% | 13.7% |
+| P/B compresses to 2.5x | Mild de-rating | 12.7% | 12.2% | 11.8% |
+| P/B compresses to 2.0x | Moderate de-rating | 7.8% | 8.7% | 9.4% |
+| P/B compresses to 1.5x | Severe de-rating (below 10Y external-source median of 1.66x) | 1.8% | 4.3% | 6.3% |
+| P/B compresses to 1.0x | Worst case (valued at book) | **-6.2%** | **-1.6%** | 2.1% |
 
 ### Step 4: Key Insight
 
-> **"At the current entry P/B of ~2.95x (pre-MUFG basis; ~2.3x on post-MUFG book), with a sustainable ROE of 14% and 80% retention, book value compounds at ~11% annually. If the P/B stays at 2.3x (post-MUFG basis), returns equal BV compounding of ~11%. The stock can tolerate P/B compression from 2.3x down to approximately 1.8x before the 10-year return drops below the 10% hurdle rate."**
+> **"At the current entry P/B of ~2.95x (pre-MUFG basis; ~2.3x on post-MUFG book), with a sustainable ROE of 14% and 80% retention, book value compounds at ~11% annually. If the P/B stays at 2.3x (post-MUFG basis), returns equal BV compounding of ~11%. The stock can tolerate P/B compression from 2.3x down to approximately 2.1x before the 10-year return drops below the 10% hurdle rate — which means there is relatively limited room for multiple compression."**
 
 ### Traffic Light Verdict
 
@@ -703,7 +714,7 @@ If working with a small capital base, the optimal strategy would be:
 
 Shriram Finance is a rare NBFC that Buffett would recognise as a wonderful business — it serves an underbanked segment nobody else can serve, earns fat spreads on a massive and growing loan book, has navigated multiple credit cycles without a catastrophic blow-up, and is now partnered with one of the world's largest banks (MUFG). The business is a toll bridge on India's trucking and small business economy, and India's economic growth virtually guarantees demand for its services for the next 20 years.
 
-The valuation, however, is FAIR — not cheap. At ₹950 (~2.3x post-MUFG book, ~21x PE), you're paying for the MUFG transformation thesis, the expected rating upgrade, and 15%+ AUM growth. There's limited margin of safety. If everything goes right — rating upgrade, NIM stabilisation, 15-17% AUM growth, ROE recovery to 14-15% — this stock will compound at 12-15% annually from here. If NIM compresses further or asset quality slips, returns could be 8-10%.
+The valuation, however, is FAIR — not cheap. At ₹950 (~2.3x post-MUFG book, ~18x TTM PE / ~22.6x on normalised earnings), you're paying for the MUFG transformation thesis, the expected rating upgrade, and 15%+ AUM growth. There's limited margin of safety. If everything goes right — rating upgrade, NIM stabilisation, 15-17% AUM growth, ROE recovery to 14-15% — this stock will compound at 12-15% annually from here. If NIM compresses further or asset quality slips, returns could be 8-10%.
 
 **The decision:** For an investor who already owns the stock at lower levels — HOLD with conviction. For a new investor — start building a position but keep 50-60% of dry powder to deploy on dips to ₹750-850, which would represent genuine value territory.
 
