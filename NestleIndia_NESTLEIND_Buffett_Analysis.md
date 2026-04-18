@@ -52,10 +52,10 @@ Nestle India is a **toll bridge on Indian food consumption**. As 1.4 billion Ind
 | **Net Margin %** | 12.2% | 14.2% | **15.9%** | **15.6%** | 14.4% | 14.2% | **15.7%** | 16.1% | **16.4%** | 15.1% |
 | **EPS (₹)** | 6.35 | 8.33 | 10.21 | 10.80 | 10.99 | 12.40 | 15.55 | 20.40 | **17.19** | 17.20 |
 | EPS Growth | 22.3% | **31.2%** | 22.6% | 5.8% | 1.8% | 12.8% | 25.4% | — | — | — |
-| Shares Outstanding (Cr, split-adjusted) | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 |
+| Shares Outstanding (Cr, fully adjusted) | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 |
 | Dividend Payout % | 68% | 69% | **168%** | 93% | 91% | 89% | 56% | 79% | 79% | — |
 
-*\*Stock split 1:10 in Jan 2024; face value changed from ₹10 to ₹1. Actual pre-split shares were ~19.3 Cr; post-split ~192.8 Cr (×10). Both the EPS and Shares Outstanding rows above are presented on a split-adjusted basis (~192.8 Cr shares) for all years, so that the identity Net Profit = EPS × Shares holds across every column.*
+*\*Corporate actions: (a) 1:10 stock split in Jan 2024 — face value changed from ₹10 to ₹1; shares went from ~9.64 Cr to ~96.4 Cr. (b) 1:1 bonus issue in Aug 2025 — shares doubled from ~96.4 Cr to ~192.8 Cr. Both the EPS and Shares Outstanding rows above are presented on a fully adjusted basis (~192.8 Cr shares) for all years, so that the identity Net Profit = EPS × Shares holds across every column. Screener.in's EPS figures are already retrospectively adjusted to this ~192.8 Cr share base.*
 
 **Compounded Growth Rates (from Screener.in):**
 | Period | Sales CAGR | Profit CAGR | EPS CAGR |
@@ -102,7 +102,7 @@ Nestle India has consistently demonstrated this pricing power, with regular pric
 
 *Note: BV per share adjusted for stock split. CY2019 drop in equity was due to massive special dividend payout (168% payout ratio — Nestle returned more than its entire annual profit to shareholders).*
 
-*Screener.in data notes: (1) The CY2023 balance sheet columns are identical to CY2022 on Screener.in — this is because Nestle India changed its fiscal year from calendar year (Jan-Dec) to April-March during this period, and the "Dec 2023" snapshot was not separately published; the transition period is captured in the 15-month FY Mar 2024 column. CY2023 derived metrics (ROE, asset turnover) in later sections should be interpreted with this caveat. (2) Screener displays Equity Capital as ₹96 Cr for all years through Mar 2025, though the correct post-split figure is ~₹193 Cr (confirmed by the Sep 2025 column). The ₹96 Cr appears to be a Screener display artefact; all per-share calculations in this analysis use the correct ~192.8 Cr share count (verified via NP ÷ EPS). (3) BVPS for years CY2017-FY Mar24 is computed using a ~96 Cr share denominator (as displayed by Screener), while FY Mar25 uses the correct ~192.8 Cr; the apparent drop from ₹34.8 to ₹21.4 is entirely due to this denominator change — underlying equity actually grew 23% (₹3,340 → ₹4,117 Cr).*
+*Screener.in data notes: (1) The CY2023 balance sheet columns are identical to CY2022 on Screener.in — this is because Nestle India changed its fiscal year from calendar year (Jan-Dec) to April-March during this period, and the "Dec 2023" snapshot was not separately published; the transition period is captured in the 15-month FY Mar 2024 column. CY2023 derived metrics (ROE, asset turnover) in later sections should be interpreted with this caveat. (2) Screener displays Equity Capital as ₹96 Cr for all years through Mar 2025. This is correct: the 1:10 stock split in Jan 2024 changed face value from ₹10 to ₹1 but kept equity capital at ~₹96 Cr (~96.4 Cr shares × ₹1 FV). The equity capital doubled to ~₹193 Cr only after the 1:1 bonus issue in Aug 2025 (visible in Screener's Sep 2025 column). All per-share calculations in this analysis use the fully adjusted ~192.8 Cr share count (post-split and post-bonus, verified via NP ÷ EPS). (3) BVPS for years CY2017-FY Mar24 is computed using a ~96 Cr share denominator (as displayed by Screener), while FY Mar25 uses ~192.8 Cr (the fully adjusted count); the apparent drop from ₹34.8 to ₹21.4 is entirely due to this denominator change — underlying equity actually grew 23% (₹3,340 → ₹4,117 Cr).*
 
 ### Financial Fortress Assessment
 
@@ -617,7 +617,7 @@ There is no pessimism to exploit here. Nestle India is widely loved, widely held
 **Key Inputs:**
 | Input | Value |
 |---|---|
-| Current BVPS | ~₹21.4 (post-split) |
+| Current BVPS | ~₹21.4 (fully adjusted — post-split and post-bonus, on ~192.8 Cr shares) |
 | Current CMP | ₹1,194 |
 | Current P/B | ~55.8x |
 | Sustainable ROE | ~85% (conservative, post-capex normalisation) |
