@@ -45,9 +45,11 @@ Fragrances and flavours are a stable, non-cyclical business tied to daily consum
 | Net Profit (₹ Cr) | 73 | **105** | 94 | 88 | **36** | **144** | 149 | **63** | 124 | 73 |
 | Net Margin | 7.9% | **10.7%** | 9.2% | 8.4% | **3.2%** | **10.9%** | 9.5% | **3.7%** | 6.7% | **3.4%** |
 | EPS (₹) | 5.05 | **7.25** | 6.49 | 6.12 | **2.53** | **10.24** | 10.73 | **4.42** | 8.84 | 5.29 |
-| EPS Growth YoY | — | **43.8%** | -10.5% | -6.4% | **-59.1%** | **300.0%** | 3.5% | **-57.7%** | **96.8%** | -41.1% |
+| EPS Growth YoY | — | **43.8%** | -10.5% | -6.4% | **-59.1%** | **~305%** | 3.5% | **-57.7%** | **96.8%** | -41.1% |
 | Shares (Cr, diluted) | 14.5 | 14.5 | 14.5 | 14.5 | 14.1 | 14.1 | 13.8 | 13.8 | 13.8 | 13.8 |
 | Div Payout % | 30% | 24% | 27% | **0%** | 38% | 17% | **7%** | **45%** | 8% | 19% |
+
+> *Note: EPS figures are sourced from Screener.in, which uses weighted-average diluted shares for EPS computation. Year-end share counts shown in the table may differ slightly from the weighted-average figures, causing minor discrepancies when verifying EPS = Net Profit ÷ Shares (e.g., FY24: 124/13.8 = ₹8.99 vs Screener's ₹8.84).*
 
 **10-Year Revenue CAGR: ~10% | 5-Year Revenue CAGR: ~14% | 10-Year EPS CAGR: ~0.5%**
 
@@ -92,7 +94,7 @@ The balance sheet tells a troubling story of creeping leverage:
 
 1. **Debt has exploded 10x** — from ₹85 Cr (FY16) to ₹832 Cr (FY25). D/E has risen from 0.12x to 0.65x. For a specialty chemicals company, 0.65x D/E is elevated though not alarming — but the TRAJECTORY is concerning.
 
-2. **Net debt of ~₹698 Cr** (as of Dec 2025 per company disclosure) against equity of ₹1,272 Cr. The debt is driven by: working capital needs (long cash conversion cycle of ~187 days), capex for new facilities, international expansion, and the Vashivali fire aftermath requiring inventory rebuilding.
+2. **Net debt of ~₹698 Cr** (as of Dec 2025 per company disclosure) against equity of ₹1,272 Cr (as of Mar 2025). *Note: These figures are from different balance sheet dates — gross borrowings were ₹832 Cr at Mar 2025, while net debt of ₹698 Cr is a more recent Dec 2025 figure reflecting subsequent cash movements.* The debt is driven by: working capital needs (long cash conversion cycle of ~187 days), capex for new facilities, international expansion, and the Vashivali fire aftermath requiring inventory rebuilding.
 
 3. **Positive: No dilution.** Shares have actually decreased from 14.5 Cr to 13.8 Cr (buybacks), which is shareholder-friendly.
 
@@ -190,7 +192,7 @@ ROCE has trended DOWN from 17-19% (FY16-17) to 8-12% in recent years, suggesting
 
 **Key Insight:** The equity multiplier has risen steadily from 1.4x to 2.0x — meaning leverage has been a growing contributor to whatever ROE exists. Meanwhile, asset turnover has DECLINED from 0.92x to 0.84x, meaning the growing asset base is generating proportionally LESS revenue. Net margins are highly volatile.
 
-**ROCE vs. ROE:** ROCE (10%) roughly equals ROE (5.9% in FY25) — but note that ROE is currently BELOW ROCE, which is actually the normal healthy pattern (after-interest, after-tax returns are lower). However, the gap has widened because of rising interest costs. This suggests the debt is not earning its cost of capital.
+**ROCE vs. ROE:** ROCE (10%) is meaningfully higher than ROE (5.9% in FY25) — with the gap driven by elevated interest costs consuming operating returns. ROE being BELOW ROCE is the normal healthy pattern (after-interest, after-tax returns are lower), but the widening gap indicates that the incremental debt is not earning its cost of capital.
 
 ---
 
@@ -256,7 +258,7 @@ In some years (FY21, FY24), incremental margins are excellent (38-56%), suggesti
 
 | Metric | FY16 | FY21 | FY25 | Trend |
 |---|---|---|---|---|
-| CapEx/Revenue | ~8% | ~24% | ~6% | Declining (good, if sustained) |
+| CapEx/Revenue | ~8% (est.) | ~24% | ~6% | Declining (good, if sustained) |
 | Asset Turnover | 0.92x | 0.79x | 0.84x | Worsened, slight recovery |
 | D/E Ratio | 0.12x | 0.54x | 0.65x | Significantly worse |
 
@@ -355,9 +357,13 @@ Management provides regular investor presentations, concall transcripts, and dis
 | P/B | **1.26x** | Historical range: 1.5-4.5x; currently near ALL-TIME LOW |
 | P/FCF | Meaningless (FCF negative FY25) | — |
 | P/Owner Earnings (~₹70 Cr avg) | ~24x | High, reflecting poor earnings quality |
-| EV/EBITDA (EV ~₹2,507 Cr / FY25 EBITDA ₹296 Cr) | ~8.5x | Historical avg: 12-18x; currently LOW |
+| EV/EBITDA (EV ~₹2,507 Cr / FY25 EBITDA ₹296 Cr) | ~8.5x (gross debt basis; ~8.0x on net debt) | Historical avg: 12-18x; currently LOW |
 | Earnings Yield (TTM) | **10.1%** | Attractive, but earnings are distorted |
 | Dividend Yield | ~0.8% | Moderate |
+
+> *Reconciliation Note — TTM PE of 9.9x:* Screener.in's TTM EPS of ~₹12.28 is computed from the trailing four quarters (Q4 FY25: ₹7.41 + Q1 FY26: ₹1.85 + Q2 FY26: ₹0.66 + Q3 FY26: ₹2.36). This is dramatically higher than FY25 annual EPS of ₹5.29 because Q4 FY25 alone contributed ₹7.41 EPS (net profit ₹103 Cr), boosted by ₹61 Cr in other income and a negative effective tax rate (-6%). The TTM PE of 9.9x therefore reflects this one-off-heavy trailing quarter and overstates the true earnings power. The normalised PE on FY24 EPS (₹8.84) of 13.7x is more representative of valuation on sustainable earnings.
+
+> *EV Note:* The EV of ₹2,507 Cr uses gross borrowings (₹832 Cr, FY25) as an approximation of net debt. Using the Dec 2025 disclosed net debt of ~₹698 Cr would yield EV ~₹2,373 Cr and EV/EBITDA ~8.0x — directionally similar but modestly lower.
 
 ### Historical Comparison
 
@@ -376,7 +382,7 @@ The stock has NEVER traded sustainably at these low multiples during its listed 
 4. US market entry expands the addressable market significantly
 5. P/B at 1.26x for a business with 10% average ROE is harsh
 
-> *Buffett: "Price is what you pay, value is what you get."* At ₹121, you're paying 1.26x book for a business earning ~10% ROE — which theoretically deserves roughly 1.0x book. So the current price is close to fairly valued on normalised metrics, with potential upside if ROE improves back to 12-15%.
+> *Buffett: "Price is what you pay, value is what you get."* At ₹121, you're paying 1.26x book for a business earning ~10% ROE — which theoretically deserves roughly 0.8-1.0x book (depending on assumed cost of equity of 10-12%). So the current price is above theoretical fair value on normalised metrics (a 26-62% premium depending on COE assumption), with potential upside if ROE improves back to 12-15% (which would raise the deserved P/B to 1.2-1.5x).
 
 ---
 
@@ -507,11 +513,11 @@ Realistic Base Upside: ~65% (to ₹200)
 ### Part B: P/B Scenario Analysis
 
 **Inputs:**
-- Current BVPS: ₹96.1
+- Current BVPS: ₹96.1 *(Note: This is the Sep 2025 quarterly BVPS from Screener.in. The FY25 annual BVPS is ₹92.2. The Sep 2025 figure is used here as it is the most recent available and the basis for Screener's displayed P/B.)*
 - CMP: ₹121
 - Entry P/B: 1.26x
 - Sustainable ROE: 10% (conservative normalised)
-- Retention Ratio: 76%
+- Retention Ratio: 76% *(Note: The 10-year average retention ratio is ~78.5%, but 76% is used as a conservative estimate reflecting recent payout patterns.)*
 - BV Compounding Rate: 7.6%
 
 **Projected BVPS:**
@@ -519,20 +525,20 @@ Realistic Base Upside: ~65% (to ₹200)
 - Year 7: ₹160.5
 - Year 10: ₹199.9
 
-**Expected Annual Return (CAGR) at Entry Price ₹121:**
+**Expected Annual Return (CAGR) at Entry Price ₹121 (Entry P/B: 1.26x):**
 
 | Exit P/B Scenario | Rationale | 5Y CAGR | 7Y CAGR | 10Y CAGR |
 |---|---|---|---|---|
-| P/B stays at 1.3x | Multiple sustains | 7.6% | 7.6% | 7.6% |
-| P/B compresses to 0.9x | Mild de-rating | 1.6% | 3.3% | 4.5% |
-| P/B compresses to 0.6x | Severe de-rating | -6.3% | -2.5% | 0.4% |
+| P/B at 1.3x | Mild expansion from 1.26x entry | 8.3% | 8.1% | 7.9% |
+| P/B compresses to 0.9x | Mild de-rating | 0.6% | 2.6% | 4.0% |
+| P/B compresses to 0.6x | Severe de-rating | -7.2% | -3.2% | -0.1% |
 | P/B expands to 1.5x (Fair) | Fair value re-rating | 11.4% | 10.3% | 9.5% |
 | P/B expands to 2.0x (Historical) | Mean reversion | 18.0% | 15.0% | 12.7% |
 | P/B compresses to 1.0x | Book value floor | 2.8% | 4.1% | 5.1% |
 
 ### Key Insight
 
-> At the current entry P/B of 1.26x with a sustainable ROE of 10% and 76% retention, book value compounds at 7.6% annually. If the P/B multiple simply remains at 1.3x, the return equals the BV compounding rate of 7.6% — below a 10% hurdle. However, if ROE normalises to 12-13% (which it has achieved historically), BV compounds at ~9-10%, and a modest P/B expansion to 1.5x delivers 10-11% annual returns.
+> At the current entry P/B of 1.26x with a sustainable ROE of 10% and 76% retention, book value compounds at 7.6% annually. If the P/B multiple stays at the current 1.26x, the return approximately equals the BV compounding rate of ~7.6%. A mild expansion to 1.3x adds ~0.5-0.7% annual return on top. However, even at a stable multiple, returns remain below a 10% hurdle. If ROE normalises to 12-13% (which it has achieved historically), BV compounds at ~9-10%, and a modest P/B expansion to 1.5x delivers 10-11% annual returns.
 
 ### Traffic Light Verdict
 
@@ -553,6 +559,8 @@ Based on BVPS of ₹96.1 and the analysis:
 | **Overvalued / Sell** | > 2.5x | > ₹240 | Priced for perfection; sell. |
 
 **Current Price ₹121 → VALUE / BUY ZONE (1.26x Book)**
+
+> *Note: Zone classification uses Sep 2025 BVPS of ₹96.1. Using FY25 annual BVPS of ₹92.2, P/B = 1.31x — which places the stock at the boundary of "Fair Value / Hold" (1.3x-1.8x). The classification is marginal at this price level; either way, the stock is near the upper edge of the Value zone or the lower edge of the Fair Value zone.*
 
 ### What Would Buffett Do — Position Analysis for Existing Holders
 
@@ -589,7 +597,7 @@ Here's why:
 - **The $1 test fails badly** — management has destroyed value per rupee retained ❌
 - Returns on capital (10% ROE) are mediocre, not excellent ⚠️
 - Free cash flow is erratic and poor ❌
-- **But the price is genuinely cheap** at 1.26x book and ~10x TTM earnings ✅
+- **But the price is genuinely cheap** at 1.26x book and ~14x normalised earnings (FY24 EPS basis) ✅
 
 > *Buffett: "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."*
 
@@ -623,7 +631,7 @@ SHK is not a "stressed" company in the traditional sense, but it IS in a transit
 |---|---|---|
 | Revenue growth trajectory | 8 | Consistent 10-15% growth; flavour segment accelerating at 38% |
 | Margin recovery potential | 6 | EBITDA margins compressed to 13-14% from 16-18%; recovery depends on cost discipline and RM prices |
-| Debt reduction path | 7 | Insurance proceeds of ₹150 Cr will meaningfully reduce ₹832 Cr debt; internal accruals of ₹200 Cr/yr |
+| Debt reduction path | 7 | Insurance proceeds of ₹150 Cr will meaningfully reduce ₹832 Cr debt; normalised internal accruals of ~₹200 Cr/yr (FY24: ₹210 Cr; FY25 was depressed at ₹168 Cr due to fire impact) |
 | Management credibility | 6 | New CFO focused on financial discipline; CEO is capable but leverage choices raise questions |
 | Franchise value | 8 | 100-year brand; India's #1 domestic F&F company; deep customer relationships |
 | Competitive position stability | 7 | Domestic mass-market position stable; international expansion underway |
@@ -642,10 +650,10 @@ The base case for normalisation (margins recover to 15-16%, debt reduces by ₹1
 | Moat Durability | 5 | Narrow moat — switching costs exist but global MNCs are formidable |
 | Financial Health | 4 | Elevated debt (D/E 0.65x), poor FCF, rising interest costs; improving WC |
 | Management Quality | 5 | Decent operators; poor capital allocation ($1 test fails); promoter pledge concern |
-| Valuation | 8 | At 1.26x P/B and ~10x TTM PE, near decade-low valuations; genuinely cheap |
+| Valuation | 8 | At 1.26x P/B and ~14x normalised PE (~10x TTM PE, distorted by one-off Q4 FY25), near decade-low valuations; genuinely cheap |
 | Margin of Safety (Base DCF) | 7 | 40% MoS on base case; negative on conservative — thesis-dependent |
 | Book Value Compounding | 5 | 7.6% at current 10% ROE; needs ROE recovery to 12%+ for attractive compounding |
-| **Buffett Verdict** | — | **A fair business at a deeply depressed price.** SHK is India's largest domestic fragrance company — a durable, simple business tied to daily consumption. The stock has been hammered by a factory fire, rising debt, erratic margins, and a promoter pledge — all of which are temporary or manageable. At ₹121 (1.26x book, ~10x TTM earnings), the market is pricing in permanent mediocrity. If margins normalise to 15-16%, insurance proceeds reduce debt, and the flavour/international segments gain traction, fair value is ₹180-200. This is NOT a Buffett compounder (ROE is mediocre, FCF is poor), but it IS a deep-value opportunity for a patient investor willing to hold 2-3 years for normalisation. For a small capital base, a 5-7% position at these levels is reasonable. |
+| **Buffett Verdict** | — | **A fair business at a deeply depressed price.** SHK is India's largest domestic fragrance company — a durable, simple business tied to daily consumption. The stock has been hammered by a factory fire, rising debt, erratic margins, and a promoter pledge — all of which are temporary or manageable. At ₹121 (1.26x book, ~14x normalised earnings), the market is pricing in permanent mediocrity. If margins normalise to 15-16%, insurance proceeds reduce debt, and the flavour/international segments gain traction, fair value is ₹180-200. This is NOT a Buffett compounder (ROE is mediocre, FCF is poor), but it IS a deep-value opportunity for a patient investor willing to hold 2-3 years for normalisation. For a small capital base, a 5-7% position at these levels is reasonable. |
 | **Buy Zone** | — | Currently in VALUE / BUY zone (₹96-125). Deep Value below ₹96. |
 | **Overall Recommendation** | — | **ACCUMULATE at ₹115-125 for normalisation play. Strong BUY below ₹96 (book value). HOLD if owned at higher levels (thesis intact). Target: ₹180-200 (18-24 months).** |
 
@@ -666,7 +674,7 @@ Yes, a 10-year-old can understand this. ✅
 - Revenue grows at 10-15% a year. If they can just maintain margins, earnings should grow similarly.
 - Insurance money of ₹150 Cr coming in will reduce debt meaningfully.
 
-The napkin math says: buy at 1.3x book, earn 10% ROE, book compounds at ~7-8% a year. If the market gives you 1.5-2.0x book in 3 years, you make 15-20% annual returns. Not a screaming fat pitch, but a reasonable bet at a depressed price.
+The napkin math says: buy at 1.3x book, earn 10% ROE, book compounds at ~7-8% a year. If the market gives you 1.5-2.0x book in 3 years, you make ~14-26% annual returns. Not a screaming fat pitch, but a reasonable bet at a depressed price.
 
 > *Buffett: "You don't need to be a rocket scientist. Investing is not a game where the guy with the 160 IQ beats the guy with 130 IQ."*
 
