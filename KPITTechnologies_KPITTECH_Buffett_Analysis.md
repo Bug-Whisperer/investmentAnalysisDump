@@ -105,7 +105,7 @@ The market is voting "sell" right now due to the TTM earnings deceleration. The 
 | Debt/Equity | 0.19 | 0.19 | 0.17 | 0.17 | 0.15 | **0.12** |
 | Book Value/Share (₹) | 39 | 45 | 49 | 61 | 79 | **107** |
 | Current Ratio | — | — | — | — | — | **0.93** |
-| Interest Coverage | — | — | — | — | — | **17.8x** |
+| Interest Coverage | — | — | — | — | — | **28.0x** |
 | Goodwill (est. in Fixed Assets) | — | — | — | ~1,000 | ~1,100 | ~1,100 |
 
 *Note: Fixed Assets jumped from ₹641 Cr (Mar 2022) to ₹1,684 Cr (Mar 2023) due to acquisitions (PathPartner Technology, Technica Engineering). Much of this increase is likely goodwill/intangibles. Sep 2025 fixed assets jumped to ₹3,592 Cr — likely reflecting the recent acquisition activity.*
@@ -114,7 +114,7 @@ The market is voting "sell" right now due to the TTM earnings deceleration. The 
 
 The balance sheet is **healthy but not a fortress:**
 
-1. **Low Debt:** Debt/Equity at 0.12-0.16 is comfortable. Borrowings of ₹345 Cr against EBITDA of ₹1,455 Cr gives Debt/EBITDA of just 0.24x. Interest coverage of 17.8x is excellent. However, Sep 2025 borrowings jumped to ₹529 Cr, likely to fund the latest acquisition.
+1. **Low Debt:** Debt/Equity at 0.12-0.15 is comfortable. Borrowings of ₹345 Cr against EBITDA of ₹1,455 Cr gives Debt/EBITDA of just 0.24x. Interest coverage of 28.0x is excellent. However, Sep 2025 borrowings jumped to ₹529 Cr, likely to fund the latest acquisition.
 
 2. **Growing Equity Base:** Book value has grown from ₹39/share to ₹107/share — a 2.7x increase in 5 years (22% CAGR). This is being driven by retained earnings — good sign.
 
@@ -168,13 +168,13 @@ FCF of ₹1,260 Cr in FY2025 on revenue of ₹5,842 Cr = 22% FCF margin. This is
 
 | Use of Cash (FY2020-FY2025 Cumulative) | ₹ Cr | % of Total |
 |---|---|---|
-| CapEx | ~540 | 14% |
-| Acquisitions | ~1,215 | 32% |
-| Dividends | ~542 | 14% |
-| Investment Purchases (net) | ~765 | 20% |
-| Debt Repayment (net) | ~200 | 5% |
-| Cash Accumulation | ~575 | 15% |
-| **Total CFO Generated** | **~3,876** | **100%** |
+| CapEx | ~613 | 14% |
+| Acquisitions | ~1,148 | 26% |
+| Dividends | ~542 | 12% |
+| Other Investing (net investment purchases) | ~526 | 12% |
+| Other Financing (debt service, leases, etc.) | ~642 | 15% |
+| Cash Accumulation | ~875 | 20% |
+| **Total CFO Generated** | **~4,346** | **100%** |
 
 **SBC/Share Dilution:** Shares outstanding grew from 26.8 Cr to 27.4 Cr — a 2.2% dilution over 7 years. This is minimal and well within acceptable bounds. No material SBC concern.
 
@@ -205,7 +205,7 @@ The cash flows confirm the earnings quality. This is NOT a Satyam-type situation
 For an IT services company:
 - **Maintenance CapEx:** Office infrastructure, computers, equipment — estimated at ~1.5% of revenue (~₹88 Cr)
 - **Growth CapEx:** New office expansion, development centres, acquisition-related infrastructure — estimated at ~1% of revenue (~₹58 Cr)
-- **Acquisitions** are the real growth CapEx — ₹1,215 Cr over 6 years, or ~₹200 Cr/year average
+- **Acquisitions** are the real growth CapEx — ₹1,148 Cr over 6 years, or ~₹191 Cr/year average
 
 ### Owner Earnings Calculation
 
@@ -245,13 +245,15 @@ For KPIT, the Owner Earnings number confirms that reported FCF is genuinely stro
 | 3-Year Average | 30% |
 | Last Year (FY2025) | 33% |
 
+*Note: The 5-Year Average ROE of 27% and 3-Year Average of 30% are taken directly from Screener.in's reported figures, which compute ROE using precise net profit ÷ average equity for each year. Averaging the rounded ROE percentages from the table above (e.g., 13%+22%+26%+32%+33% = 25.2%) produces a lower figure because those are display-rounded values, not the precise inputs Screener uses.*
+
 ### Analysis
 
 The returns on capital are **excellent and improving:**
 
 **ROCE of 40%:** For every ₹100 of capital employed, the business generates ₹40 in operating profit. This has improved from 14% (FY2021 trough) to 40% — a near-tripling in 4 years. This reflects both organic margin improvement and operating leverage.
 
-**ROE of 33%:** Strong and rising. This is NOT driven by leverage (Debt/Equity is only 0.16). The equity multiplier is only ~1.7x — well within safe territory. The ROE is driven by genuine margin expansion and capital efficiency.
+**ROE of 33%:** Strong and rising. This is NOT driven by leverage (Debt/Equity is only 0.12 as of FY2025). The equity multiplier is only ~1.7x — well within safe territory. The ROE is driven by genuine margin expansion and capital efficiency.
 
 **ROIC of 31.3%:** Well above any reasonable cost of capital (10-12%). The spread between ROIC and WACC is ~20 percentage points — elite territory.
 
@@ -363,9 +365,9 @@ KPIT is at the **Inflection Point / Scaling Phase.** The model is proven, unit e
 | Capital scalability | 8 | CapEx declining as % of revenue; negative working capital; asset-light model |
 | Scaling runway | 9 | Global automotive software TAM is enormous; KPIT has <2% market share |
 | S-Curve position | 8 | At inflection — model proven, OEM relationships established, SDV tailwind early innings |
-| **Overall Scalability Score** | **7.5/10** | **Strong Scaler** |
+| **Overall Scalability Score** | **7.8/10** | **Strong Scaler** |
 
-**Classification: Strong Scaler (7.5/10) — Comparable to GEICO / American Express**
+**Classification: Strong Scaler (7.8/10) — Comparable to GEICO / American Express**
 
 > *Buffett: "Time is the friend of the wonderful business, the enemy of the mediocre."*
 
@@ -430,6 +432,8 @@ Management appears to have all three. The strategic pivot to pure-play automotiv
 | Headcount (est.) | ~7,000 | ~7,500 | ~8,500 | ~10,000 | ~12,000 | **~13,000** |
 | Revenue/Employee (₹ Lakhs) | ~31 | ~27 | ~29 | ~34 | ~41 | **~45** |
 
+*Note: Screener.in reports CCC equal to Debtor Days because it leaves Inventory Days and Days Payable blank for IT services companies (no inventory, and creditor days are not separately disclosed in the standard Screener format). The actual CCC would be lower than Debtor Days after subtracting creditor days — the negative Working Capital Days (-32 in FY2025) confirm significant creditor days exist. The Debtor Days trend itself remains the most meaningful metric here.*
+
 ### Key Observations
 
 1. **Debtor Days declining from 76 to 47:** Cash collection is improving. Faster collection means better cash flow quality and lower working capital needs. This is a sign of strong client relationships and efficient billing.
@@ -467,7 +471,7 @@ Management appears to have all three. The strategic pivot to pure-play automotiv
 | P/Owner Earnings (FY2025) | ~18.6x | ₹18,112 / ₹972 |
 | Earnings Yield (FY2025) | 4.6% | |
 | FCF Yield | 7.0% | |
-| PEG Ratio | 0.55 | Using 5Y profit CAGR of 39.8% |
+| PEG Ratio | ~0.54 | FY2025 PE (21.5x) / 5Y profit CAGR (39.8% per Screener) |
 
 ### Historical Valuation Comparison
 
@@ -559,6 +563,14 @@ The current price appears to be pricing in the conservative-to-base case. If gro
 | Current PE | 23.6x | CMP / ₹28 |
 | Shares Outstanding | 27.4 Cr | Latest |
 
+### Step 2: Terminal PE Multiple Scenarios
+
+| Scenario | Terminal PE | Rationale |
+|---|---|---|
+| Mature / Low-Growth | 15x | Business matures, growth ≈ GDP |
+| Market Average / Current | 22x | Roughly where KPIT trades now |
+| Above-Average Compounder | 30x | SDV moat intact, premium justified |
+
 ### Step 3: Implied EPS CAGR Required
 
 #### At Terminal PE = 15x (Mature)
@@ -592,6 +604,8 @@ The current price appears to be pricing in the conservative-to-base case. If gro
 | Realistic forward EPS growth (base case) | 15-20% |
 | Industry/sector average | 12-15% |
 
+*Note: The 5Y profit CAGR of 39.8% is from Screener.in's Pros section ("Company has delivered good profit growth of 39.8% CAGR over last 5 years"). The 3Y CAGR of 43% is from Screener's Compounded Profit Growth table. Manually computing EPS CAGR from the P&L (30.63/5.38)^(1/5)−1 yields ~41.6%, and (30.63/10.00)^(1/3)−1 yields ~45.3% — higher than Screener's figures because Screener uses its own net profit series and methodology which may differ slightly from the rounded EPS values shown in the P&L table.*
+
 ### Traffic Light Assessment
 
 At the most likely terminal PE of 22x (current level):
@@ -614,7 +628,7 @@ The reverse DCF suggests the stock is **reasonably to attractively priced** for 
 
 | Downside Scenario | Valuation Basis | Implied Price | Downside from CMP |
 |---|---|---|---|
-| Asset / Liquidation Floor | TBVPS ~₹70 (after removing ~₹1,300 Cr goodwill) | ₹70 | -89% |
+| Asset / Liquidation Floor | TBVPS ~₹67 (FY2025 equity ₹2,912 Cr less ~₹1,100 Cr goodwill, per Section 3 estimate) | ₹67 | -90% |
 | Trough Earnings | FY2021 EPS ₹5.33 × 15x | ₹80 | -88% |
 | Conservative DCF | ₹560 | ₹560 | -15% |
 | Market-panics Floor | 15x TTM EPS of ₹26 | ₹390 | -41% |
@@ -679,6 +693,8 @@ The reverse DCF suggests the stock is **reasonably to attractively priced** for 
 | Mar 2024 | 12.3% | 1.19x | 1.91x | 28.0% | ~32% |
 | Mar 2025 | 14.4% | 1.18x | 1.70x | 28.9% | ~33% |
 
+*Note: The DuPont decomposition above uses year-end balance sheet figures for Asset Turnover and Equity Multiplier, while Reported ROE uses average equity (consistent with Screener.in's methodology). This creates a persistent gap — the DuPont product understates the reported ROE. When computed on a fully average-basis (average assets and average equity), the FY2025 DuPont product reconciles to ~33.2%: NPM 14.4% × AT 1.289 (revenue/avg assets) × EM 1.791 (avg assets/avg equity) = 33.2%. The year-end-basis table is retained for trend comparison across years.*
+
 **Analysis:**
 
 - **Net Profit Margin: EXPANDING** (7.2% → 14.4%) — This is the primary ROE driver. Genuine improvement in pricing power and operating efficiency. ✅
@@ -696,6 +712,8 @@ The reverse DCF suggests the stock is **reasonably to attractively priced** for 
 | Input | Value |
 |---|---|
 | Current BVPS | ₹107 (est. using FY2025 equity ₹2,912 / 27.2 Cr shares) |
+
+*Note: Section 11 uses Screener.in's reported BVPS of ₹119, which likely reflects the Sep 2025 half-year equity of ₹3,263 Cr (giving P/B of 5.55x at CMP ₹660). This section uses the FY2025 audited figure of ₹107 (equity ₹2,912 Cr / 27.2 Cr shares, P/B = 6.17x) for conservatism in forward projections. Both bases are valid; the FY2025 figure provides a more conservative starting point for the BV compounding analysis.*
 | CMP | ₹660 |
 | Current P/B | 6.17x |
 | Sustainable ROE | 28% (conservative below current 33%) |
@@ -716,25 +734,25 @@ The reverse DCF suggests the stock is **reasonably to attractively priced** for 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
 | P/B stays at 6.17x | Multiple sustains | 20.2% | 20.2% | 20.2% |
-| P/B compresses to 4.6x (75%) | Mild de-rating | 14.0% | 16.0% | 17.6% |
-| P/B compresses to 3.1x (50%) | Significant de-rating | 6.6% | 11.0% | 14.4% |
-| P/B compresses to 3.42x (Industry) | Reverts to industry avg | 8.2% | 12.2% | 15.5% |
-| P/B compresses to 1x Book | Worst case | -16.5% | -2.4% | 0.2% |
+| P/B compresses to 4.6x (75%) | Mild de-rating | 13.4% | 15.3% | 16.7% |
+| P/B compresses to 3.1x (50%) | Significant de-rating | 4.7% | 8.9% | 12.2% |
+| P/B compresses to 3.42x (Industry) | Reverts to industry avg | 6.8% | 10.5% | 13.3% |
+| P/B compresses to 1x Book | Worst case | -16.5% | -7.3% | 0.2% |
 
 #### Key Insight
 
-> **"At the current entry P/B of 6.17x with a sustainable ROE of 28% and 72% retention, book value compounds at 20.2% annually. If the P/B multiple stays at 6.17x, returns equal the BV compounding rate of 20.2%. The stock can tolerate P/B compression from 6.17x down to ~3.1x (50% compression) and STILL deliver ~14.4% returns over 10 years. Even if the multiple halves, the strong book value compounding still generates above-hurdle returns over a decade."**
+> **"At the current entry P/B of 6.17x with a sustainable ROE of 28% and 72% retention, book value compounds at 20.2% annually. If the P/B multiple stays at 6.17x, returns equal the BV compounding rate of 20.2%. The stock can tolerate P/B compression from 6.17x down to ~3.1x (50% compression) and STILL deliver ~12.2% returns over 10 years. Even if the multiple halves, the strong book value compounding still generates above-hurdle returns over a decade."**
 
 #### Traffic Light
 
 | Condition | Verdict | Signal |
 |---|---|---|
-| 10-year return > 10% even if P/B halves | **YES — 14.4% CAGR** | 🟢 GREEN |
-| 10-year return > 10% if P/B drops to industry (3.42x) | **YES — 15.5% CAGR** | 🟢 GREEN |
+| 10-year return > 10% even if P/B halves | **YES — 12.2% CAGR** | 🟢 GREEN |
+| 10-year return > 10% if P/B drops to industry (3.42x) | **YES — 13.3% CAGR** | 🟢 GREEN |
 
 **Signal: 🟢 GREEN — The high ROE + retention provides enough BV compounding to overwhelm even significant multiple compression.**
 
-This is the key finding: even if the market de-rates KPIT to industry-average P/B (3.42x), the strong underlying ROE (28%) with high retention (72%) generates 15.5% annual returns over 10 years. That's attractive.
+This is the key finding: even if the market de-rates KPIT to industry-average P/B (3.42x), the strong underlying ROE (28%) with high retention (72%) generates 13.3% annual returns over 10 years. That's attractive.
 
 ---
 
@@ -838,7 +856,7 @@ The question is not "will KPIT turn around?" but "will growth REACCELERATE?" Key
 
 ### Buffett Verdict
 
-KPIT Technologies is an **exceptional business** — a pure-play beneficiary of the most significant transformation in the automotive industry's history (software-defined vehicles). The company generates 40% ROCE, 33% ROE, 22% FCF margins, and has grown earnings at 40% CAGR over 5 years. The management is competent, promoter-aligned, and capital-disciplined. The balance sheet is clean (0.16x D/E), and cash conversion is outstanding.
+KPIT Technologies is an **exceptional business** — a pure-play beneficiary of the most significant transformation in the automotive industry's history (software-defined vehicles). The company generates 40% ROCE, 33% ROE, 22% FCF margins, and has grown earnings at 40% CAGR over 5 years. The management is competent, promoter-aligned, and capital-disciplined. The balance sheet is clean (0.12x D/E), and cash conversion is outstanding.
 
 The stock has corrected 54% from its peak of ₹1,434 to ₹660, compressing the PE from 60x+ to 24x. **This is the kind of valuation reset that creates opportunities** — the stock went from priced-for-perfection to priced-for-pessimism. At 24x earnings with 28-33% ROE and a 50x TAM runway, the math works for a long-term investor: 15-20% annual returns over a decade, even with moderate P/B compression.
 
