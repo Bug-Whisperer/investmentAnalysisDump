@@ -52,10 +52,10 @@ Nestle India is a **toll bridge on Indian food consumption**. As 1.4 billion Ind
 | **Net Margin %** | 12.2% | 14.2% | **15.9%** | **15.6%** | 14.4% | 14.2% | **15.7%** | 16.1% | **16.4%** | 15.1% |
 | **EPS (₹)** | 6.35 | 8.33 | 10.21 | 10.80 | 10.99 | 12.40 | 15.55 | 20.40 | **17.19** | 17.20 |
 | EPS Growth | 22.3% | **31.2%** | 22.6% | 5.8% | 1.8% | 12.8% | 25.4% | — | — | — |
-| Shares Outstanding (Cr) | ~9.6 | ~9.6 | ~9.6 | ~9.6 | ~9.6 | ~9.6 | ~9.6 | ~9.6 | ~9.6 | ~19.3* |
+| Shares Outstanding (Cr) | ~19.3 | ~19.3 | ~19.3 | ~19.3 | ~19.3 | ~19.3 | ~19.3 | ~192.8 | ~192.8 | ~192.8 |
 | Dividend Payout % | 68% | 69% | **168%** | 93% | 91% | 89% | 56% | 79% | 79% | — |
 
-*\*Stock split 1:10 in Jan 2024; face value changed from ₹10 to ₹1. Shares outstanding doubled in reporting to ~19.3 Cr due to this split. Pre-split EPS figures above are adjusted.*
+*\*Stock split 1:10 in Jan 2024; face value changed from ₹10 to ₹1. Pre-split shares were ~19.3 Cr; post-split ~192.8 Cr (×10). All EPS figures in the table are split-adjusted (i.e., retrospectively divided by 10 for pre-split years).*
 
 **Compounded Growth Rates (from Screener.in):**
 | Period | Sales CAGR | Profit CAGR | EPS CAGR |
@@ -101,6 +101,8 @@ Nestle India has consistently demonstrated this pricing power, with regular pric
 | Current Ratio | ~0.7 | ~0.7 | ~0.6 | ~0.6 | ~0.6 | ~0.7 | ~0.7 | ~0.7 | ~0.75 |
 
 *Note: BV per share adjusted for stock split. CY2019 drop in equity was due to massive special dividend payout (168% payout ratio — Nestle returned more than its entire annual profit to shareholders).*
+
+*Screener.in data notes: (1) The CY2023 balance sheet columns are identical to CY2022 on Screener.in — this is because Nestle India changed its fiscal year from calendar year (Jan-Dec) to April-March during this period, and the "Dec 2023" snapshot was not separately published; the transition period is captured in the 15-month FY Mar 2024 column. CY2023 derived metrics (ROE, asset turnover) in later sections should be interpreted with this caveat. (2) Screener displays Equity Capital as ₹96 Cr for all years through Mar 2025, though the correct post-split figure is ~₹193 Cr (confirmed by the Sep 2025 column). The ₹96 Cr appears to be a Screener display artefact; all per-share calculations in this analysis use the correct ~192.8 Cr share count (verified via NP ÷ EPS). (3) BVPS for years CY2017-FY Mar24 is computed using a ~96 Cr share denominator (as displayed by Screener), while FY Mar25 uses the correct ~192.8 Cr; the apparent drop from ₹34.8 to ₹21.4 is entirely due to this denominator change — underlying equity actually grew 23% (₹3,340 → ₹4,117 Cr).*
 
 ### Financial Fortress Assessment
 
@@ -341,6 +343,8 @@ Over the period CY2017-FY2025:
 
 Even accounting for PE re-rating, the $1 test is **overwhelmingly passed** — each rupee of retained earnings generated massive market value creation.
 
+*Caveat: Nestle India's ~80-90% dividend payout ratio means only ~₹3,000 Cr was retained from ~₹21,600 Cr of cumulative profits. The ₹1,50,000 Cr market cap increase was driven by earnings growth applied to the entire earnings base and moderate PE expansion — not by the retained amount alone. The $1 test is most informative for companies with significant retention (like Berkshire Hathaway); for high-payout franchises like Nestle India, the tiny retained-earnings denominator inflates the ratio. The PASS verdict reflects the company's genuine value creation, but the specific per-rupee ratio should be interpreted with this context.*
+
 ### Capital Allocation
 
 - **Dividend-centric:** 56-168% payout ratio. Management recognises the business generates far more cash than it needs for reinvestment.
@@ -387,9 +391,9 @@ Fortunately, Nestle India has both good management AND great economics.
 |---|---|---|---|---|---|---|---|---|---|
 | **PE Ratio** | ~60x | ~70x | ~80x | ~85x | ~75x | ~70x | ~75x | ~67x | **~69x** |
 | Forward PE (Analyst Est.) | | | | | | | | | ~71x |
-| **PB Ratio** | ~27x | ~50x | ~52x | ~55x | ~38x | ~40x | ~45x | ~55x | **~57x** |
+| **PB Ratio** | ~27x | ~50x | ~52x | ~55x | ~38x | ~40x | ~45x | ~55x | **~56x** |
 | PS Ratio | ~9x | ~10x | ~12x | ~12x | ~10x | ~10x | | ~11x | ~11x |
-| EV/EBITDA | ~42x | ~50x | ~55x | ~60x | ~50x | ~48x | | ~48x | **~52x** |
+| EV/EBITDA | ~42x | ~50x | ~55x | ~60x | ~50x | ~48x | | ~48x | **~52x** (GuruFocus) |
 | Dividend Yield | ~1.0% | ~1.2% | ~0.9% | ~0.8% | ~1.0% | ~1.0% | | ~1.1% | **~1.1%** |
 | Earnings Yield | ~1.7% | ~1.4% | ~1.3% | ~1.2% | ~1.3% | ~1.4% | | ~1.5% | **~1.4%** |
 | EPS (₹, split-adjusted) | 8.33 | 10.21 | 10.80 | 10.99 | 12.40 | 15.55 | 20.40 | 17.19 | **~17.2** |
@@ -397,11 +401,15 @@ Fortunately, Nestle India has both good management AND great economics.
 
 ### Historical Valuation Comparison
 
-Nestle India has **never been cheap** by conventional metrics. The stock has traded at 60-85x PE over the entire observable period. The current PE of ~69x is actually toward the **lower end** of its historical range. The 10-year median PE is approximately 70-75x, and the 10-year median EV/EBITDA is ~92x (per GuruFocus). The current EV/EBITDA of ~52x is at a **13-year low**.
+Nestle India has **never been cheap** by conventional metrics. The stock has traded at 60-85x PE over the entire observable period. The current PE of ~69x is actually toward the **lower end** of its historical range. The 10-year median PE is approximately 70-75x.
+
+*EV/EBITDA note: The current EV/EBITDA of ~52x and the 10-year median of ~92x are sourced from GuruFocus, which uses a different EBITDA methodology. Using this document's own Screener-based data (EV ≈ ₹2,30,461 Cr; EBITDA = Operating Profit ≈ ₹4,771-4,928 Cr), the current EV/EBITDA is ~47-48x. The directional conclusion — that EV/EBITDA is at the low end of its historical range — holds under either methodology.*
+
+*Forward PE note: The Forward PE of ~71x (implying ~₹16.8 EPS) alongside the 12-14% consensus growth rate may appear contradictory. The likely reconciliation is that near-term FY26 EPS faces temporary headwinds from higher depreciation (new factories) and interest costs (₹1,167 Cr borrowings), causing a one-year dip before catch-up growth in FY27-28.*
 
 **Has the stock ever traded sustainably at current multiples?** Yes — the current valuation is actually in line with or slightly below historical averages. The stock briefly touched ~60x PE during the 2022 commodity inflation scare and the early 2024 growth slowdown.
 
-**Is the stock cheap?** Absolutely not, on any conventional metric. PE of 69x, PB of 57x, EV/EBITDA of 52x — these are eye-watering multiples by normal standards.
+**Is the stock cheap?** Absolutely not, on any conventional metric. PE of 69x, PB of ~56x, EV/EBITDA of ~48x — these are eye-watering multiples by normal standards.
 
 **Is it a value trap?** No — there is nothing "trappy" about it. This is a genuinely great business trading at a premium because the market recognises its quality. The question is whether the premium is too high for adequate returns.
 
@@ -602,7 +610,7 @@ There is no pessimism to exploit here. Nestle India is widely loved, widely held
 - **Asset Turnover (1.5-2.1x):** Excellent and rising until FY25 (dip due to capex building). Nestle India is very capital-efficient.
 - **Equity Multiplier (2.2-4.2x):** Elevated due to the tiny equity base from dividend payouts. This is NOT dangerous leverage — the "leverage" comes from returning cash to shareholders, not from borrowing to fund operations.
 
-**ROCE vs ROE:** ROCE of 96% (FY25) is extraordinary. ROE of 83% is also extraordinary. The fact that ROCE and ROE are both very high confirms that returns are driven by genuine business quality, not leverage tricks.
+**ROCE vs ROE:** ROCE of 96% (FY25) is extraordinary. ROE is 80% per DuPont decomposition (using total equity of ₹4,117 Cr), while Screener.in reports 83% (likely computed on reserves of ₹4,021 Cr, excluding the ₹96 Cr equity capital line). Either way, these are extraordinary returns driven by genuine business quality, not leverage tricks.
 
 ### Part B: P/B Scenario Analysis
 
@@ -685,7 +693,7 @@ Based on the DCF, Reverse DCF, and P/B analysis:
 | Trustworthy, rational management? | Professional managers; Swiss parent oversight; excellent capital allocation | ✅ PASS |
 | Resistant to technological disruption? | Food is disruption-proof | ✅ PASS |
 | Can sustain economics for 10+ years? | India's food consumption will only grow; brands are multi-decade assets | ✅ PASS |
-| **Price significantly below intrinsic value?** | **PE 69x, PB 57x — no margin of safety** | **❌ FAIL** |
+| **Price significantly below intrinsic value?** | **PE 69x, PB ~56x — no margin of safety** | **❌ FAIL** |
 
 ### Verdict
 
@@ -728,9 +736,9 @@ At 69x PE, Nestle India is not at a "crazy" price by its own historical standard
 | **Financial Health** | **9** | Negative working capital, near-zero debt (temporarily elevated for capex), no goodwill |
 | **Management Quality** | **8** | Professional management with Swiss parent oversight; excellent capital allocation |
 | **Scalability** | **7.5** | Strong scaler with enormous India runway; physical goods limit zero-marginal-cost scaling |
-| **Valuation** | **3** | PE 69x, PB 57x — no margin of safety; priced for continued excellence |
+| **Valuation** | **3** | PE 69x, PB ~56x — no margin of safety; priced for continued excellence |
 | **Margin of Safety** | **2** | DCF shows significant overvaluation; reverse DCF requires optimistic assumptions |
-| **Return on Capital** | **10** | ROCE 96%, ROE 83%, ROA 27% — world-class by any standard |
+| **Return on Capital** | **10** | ROCE 96%, ROE 80-83% (see note), ROA 27% — world-class by any standard |
 | **Buffett Verdict** | **ADMIRE but WAIT** | One of the finest businesses in India, but the price demands perfection. Buffett would put it on his watchlist and wait for a better entry — during a market panic, a sector de-rating, or a temporary company-specific crisis. At 50-55x PE (₹860-950), it becomes a strong buy. At current prices, it's a hold if you own it, but NOT a new buy for a small capital base. |
 | **Buy Zone** | **Fair Value / Hold zone** | Upper boundary — CMP ₹1,194 sits at ~69x PE |
 | **Overall Recommendation** | **HOLD if owned. DO NOT INITIATE at current prices with small capital.** BUY below ₹950 (50-55x PE) for a comfortable margin of safety. |
