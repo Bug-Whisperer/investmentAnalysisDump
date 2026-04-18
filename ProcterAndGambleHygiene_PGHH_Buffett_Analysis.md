@@ -52,15 +52,17 @@ The simplicity is extreme: two brands, two categories, one country. A child coul
 
 ### Trend Narrative
 
-**Revenue growth has been disappointingly slow.** The 5-year CAGR is only ~3%, and the 3-year CAGR is actually negative at -2%. This is a mature, slow-growth business in India — a country growing at 10-12% nominal GDP. For an FMCG company with massive under-penetration in its core category (feminine hygiene penetration in India is ~30-35% vs 90-100% in developed nations), this pace of revenue growth is well below potential.
+**Revenue growth has been moderate.** The 5-year revenue CAGR computed from the table data (FY2019→FY2024) is ~7.4%, though Screener.in reports a lower "Compounded Sales Growth" of 3% over 5 years and -2% over 3 years — the discrepancy arises because Screener's calculation window spans the June-to-March fiscal year transition, blending a 9-month stub period. Regardless of the exact figure, top-line growth in the 3-7% range for an FMCG company with massive under-penetration in its core category (feminine hygiene penetration in India is ~30-35% vs 90-100% in developed nations) is well below potential.
 
 **Margins have been volatile but are trending upward recently.** OPM ranged from a low of 20% (FY2020) to a high of 29% (FY2017). The TTM OPM of 26% represents the upper end of the recent range. EBITDA margins show the same pattern.
 
-**Earnings growth has outpaced revenue growth** — the 10-year profit CAGR of 8% versus 5% revenue CAGR indicates some operating leverage and margin expansion. However, the 5-year profit CAGR of 8% on only 3% revenue growth is partly driven by favourable input costs and tax rate reductions rather than genuine top-line momentum.
+**Earnings growth has slightly outpaced revenue growth** — the 10-year profit CAGR of ~8% versus a 10-year revenue CAGR of ~7% (table-derived; Screener.in reports 5% using its own fiscal-transition-adjusted windows) indicates modest operating leverage and margin expansion. Over the more recent 5-year window, profit CAGR of ~10% on revenue growth of ~7% reflects a combination of favourable input costs, tax rate reductions, and genuine top-line momentum.
 
 **Zero dilution** — shares have remained constant at 3.25 Cr throughout the entire period. Excellent.
 
 **The dividend payout is exceptionally high** — often exceeding 100% of net income, meaning the company is returning more than it earns and drawing down reserves. The FY2017 payout of 292% included a massive special dividend of ₹1,268 Cr. This is classic P&G behaviour — the parent uses the Indian subsidiary as a dividend extraction vehicle. More on this in the management section.
+
+*Note on Dividend Payout % vs Cash Flow Dividends: The Dividend Payout % in the income statement table reflects declared dividends as a percentage of net income. The "Dividends Paid" figure in the cash flow table (Section 4) is higher because it includes Dividend Distribution Tax (DDT), which was applicable until FY2020. For example, FY2017 shows ₹1,264 Cr in declared dividends (292% × ₹433 Cr NI) but ₹1,559 Cr in cash outflows — the ₹295 Cr difference is DDT.*
 
 > *"Our favourite holding period is forever."* — Buffett. But here, the parent seems to prefer extracting cash over investing in Indian growth.
 
@@ -117,7 +119,7 @@ However, the **equity base is artificially small** because the company aggressiv
 
 **OCF is volatile but strong.** The business reliably generates ₹400-860 Cr of operating cash flow annually. The FY2021 peak of ₹863 Cr was exceptional (COVID-driven demand for Vicks + favourable working capital).
 
-**FCF conversion from Net Income is excellent** — typically 80-120%+ of net income converts to free cash flow, confirming high earnings quality. There are no large non-cash earnings inflating the profit figures.
+**FCF conversion from Net Income is generally strong** — typically 65-130% of net income converts to free cash flow (with lower conversion in years of higher working capital usage such as FY2024 at ~65%), confirming generally high earnings quality. There are no large non-cash earnings inflating the profit figures.
 
 **CapEx is negligible** — typically ₹20-45 Cr against ₹4,000+ Cr of revenue (under 1% of sales). This is an extraordinarily capital-light business.
 
@@ -163,19 +165,23 @@ Owner Earnings are virtually identical to Net Income for this business because C
 
 ## 6. RETURN ON CAPITAL — The Buffett Quality Test
 
+*Note: ROE computed on average equity (avg of opening and closing); ROA on year-end total assets; ROCE from Screener.in.*
+
 | Metric | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | Mar 2025 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **ROE** | ~35% | ~65% | ~56% | ~49% | ~42% | **~70%** | ~79% | ~81% | ~78% | **~76%** |
-| **ROA** | ~21% | ~26% | ~29% | ~28% | ~25% | **~38%** | ~35% | ~35% | ~34% | ~36% |
+| **ROE (avg equity)** | ~29% | ~40% | ~56% | ~49% | ~42% | **~70%** | ~79% | ~81% | ~78% | **~76%†** |
+| **ROA** | ~19% | ~37% | ~26% | ~26% | ~24% | **~40%** | ~34% | ~32% | ~36% | ~36% |
 | **ROCE** | 45% | 64% | 89% | 73% | 58% | 94% | **110%** | 101% | **112%** | **104%** |
 | Equity Multiplier (Assets/Equity) | 1.3x | 2.2x | 1.8x | 1.8x | 1.6x | 2.3x | 2.3x | 2.3x | 2.4x | 2.4x |
+
+*† Mar 2025 ROE of 76% is as reported by Screener.in and cannot be exactly replicated from the document's average-equity methodology on the 9-month transition period. Screener uses its own earnings and equity windows.*
 
 ### Return on Capital Assessment
 
 These returns are **extraordinary** by any standard:
 - **ROCE of 100%+** means the company earns more than its entire capital employed *every year*.
 - **ROE of 75%+** puts PGHH in the top tier of Indian listed companies.
-- **ROA of 35%+** is genuinely remarkable — this is not a leverage-driven ROE.
+- **ROA ranging from ~19% to 40%** (recently in the 32-40% range) is genuinely remarkable — this is not a leverage-driven ROE.
 
 **However, the ROE is artificially inflated** by the depleted equity base. When the company pays out special dividends that reduce equity to ₹500-700 Cr, the ROE mechanically shoots up because the denominator shrinks. If we normalised equity to what it would be without the special dividends (~₹1,500-1,800 Cr), the ROE would be closer to 35-45% — still exceptional, but less sensational.
 
@@ -282,7 +288,7 @@ Capital scalability is **exceptional**. The business genuinely requires almost z
 
 **S-Curve Position: GROWTH PHASE — past the inflection but not yet saturated.**
 
-The model is proven, the brand is established, and rural penetration is the next frontier. However, growth has been inexplicably slow — the company should be growing at 12-15% given the tailwinds, but has managed only 3-7%. The parent company appears to be prioritising margins over market share.
+The model is proven, the brand is established, and rural penetration is the next frontier. However, growth has been inexplicably slow — the company should be growing at 12-15% given the tailwinds, but has managed only ~7%. The parent company appears to be prioritising margins over market share.
 
 ### Part C: Scaling Verdict
 
@@ -308,11 +314,11 @@ The model is proven, the brand is established, and rural penetration is the next
 For every ₹1 retained, has the company created ₹1 of market value?
 
 Over FY2016-FY2024:
-- Total Net Profit: ~₹4,230 Cr
-- Total Dividends Paid: ~₹4,305 Cr
-- **Retained Earnings: Approximately -₹75 Cr** (the company paid out MORE than it earned cumulatively due to special dividends)
+- Total Net Profit: ~₹4,663 Cr
+- Total Dividends Paid (from cash flow statement, includes Dividend Distribution Tax where applicable): ~₹5,304 Cr
+- **Retained Earnings: Approximately -₹641 Cr** (the company paid out MORE than it earned cumulatively due to special dividends)
 
-Since retained earnings are negative, the $1 test is not directly applicable in the traditional sense. The company has NOT retained earnings — it has *extracted* them. Market cap moved from ~₹28,000 Cr to ~₹32,000 Cr over this period, a gain of ~₹4,000 Cr. But this was driven entirely by P/E re-rating, not by book value compounding.
+Since retained earnings are negative, the $1 test is not directly applicable in the traditional sense. The company has NOT retained earnings — it has *extracted* them. Market cap moved from roughly ~₹20,000-22,000 Cr (estimated FY2016 at ~45-50x PE on ₹130 EPS) to ~₹35,400 Cr at the current ₹10,885 price, a gain of ~₹13,000-15,000 Cr. This gain was driven by a combination of earnings growth and P/E multiple expansion, not by book value compounding (since retained earnings are negative).
 
 **Verdict: Management has not created value through reinvestment because management has not reinvested.**
 
@@ -376,7 +382,7 @@ Management integrity is fine — this is P&G, not a promoter-driven Indian compa
 |---|---|---|---|---|---|---|---|---|
 | **PE Ratio** | ~42-43x | ~52x | ~55x | ~60x | ~50x | ~40x | ~42x | ~50x |
 | Forward PE (FY26E) | ~38-42x | — | — | — | — | — | — | — |
-| **P/B Ratio** | ~30-38x | ~45x | ~40x | ~47x | ~45x | ~28x | ~36x | ~40x |
+| **P/B Ratio** | ~38x | ~45x | ~40x | ~47x | ~45x | ~28x | ~36x | ~40x |
 | **P/FCF Ratio** | ~45-50x | ~70x | ~42x | ~55x | ~35x | ~60x | ~60x | ~55x |
 | **EV/EBITDA** | ~30-32x | ~37x | ~38x | ~40x | ~35x | ~50x | ~45x | ~40x |
 | **Earnings Yield** | ~2.4% | ~1.9% | ~1.8% | ~1.7% | ~2.0% | ~2.5% | ~2.4% | ~2.0% |
@@ -384,15 +390,17 @@ Management integrity is fine — this is P&G, not a promoter-driven Indian compa
 | **Dividend Yield** | ~1.5% | ~0.9% | ~1.2% | ~1.5% | ~1.8% | ~2.0% | ~1.5% | ~1.5% |
 | Market Cap/Sales | ~8.2x | ~9.0x | ~9.5x | ~8.8x | ~8.6x | ~9.0x | ~8.5x | ~8.9x |
 
+*Note: Dividend Yield above reflects regular dividends only, excluding periodic special dividends. Including special dividends averaged over a cycle, the effective yield is materially higher (~2.0-2.5%).*
+
 ### Historical Comparison
 
 The stock has historically traded at a PE of 35-55x, with a median around 45-50x. The current PE of ~42-43x (on TTM earnings) is at the **lower end of its historical range**. This is partly because the stock price has fallen ~25% from its 52-week high (~₹14,543) while earnings have grown.
 
-**On P/B, the stock is staggeringly expensive at 30-45x book value.** However, this is structurally misleading because the equity base is artificially suppressed by dividend extractions. P/B is not a useful valuation metric for this company.
+**On P/B, the stock is staggeringly expensive at ~38-48x book value (depending on whether Sep 2025 or Mar 2025 BVPS is used).** However, this is structurally misleading because the equity base is artificially suppressed by dividend extractions. P/B is not a useful valuation metric for this company.
 
 The most honest metric is **PE on normalised earnings**. At ~42x TTM earnings, the stock is expensive but not at the extreme end of its own history.
 
-> *"Price is what you pay, value is what you get."* — Buffett. At 42x earnings for a 3% revenue growth business, you're paying a lot for what you're getting.
+> *"Price is what you pay, value is what you get."* — Buffett. At 42x earnings for a ~7% revenue growth business, you're paying a lot for what you're getting.
 
 ---
 
@@ -400,31 +408,35 @@ The most honest metric is **PE on normalised earnings**. At ~42x TTM earnings, t
 
 ### Owner Earnings Used as Starting Point: ~₹824 Cr (TTM)
 
+*Note: Terminal Value calculated using exit multiple method (more appropriate for FMCG than Gordon Growth). Conservative = 20x Y10 OE, Base = 25x, Optimistic = 30x.*
+
 | Assumption | Conservative | Base | Optimistic |
 |---|---|---|---|
 | Starting Owner Earnings (₹ Cr) | 824 | 824 | 824 |
 | Growth Rate Years 1-5 | 8% | 12% | 15% |
 | Growth Rate Years 6-10 | 6% | 8% | 10% |
-| Terminal Growth Rate | 4% | 5% | 5% |
+| Terminal Exit Multiple on Y10 OE | 20x | 25x | 30x |
 | Discount Rate | 11% | 11% | 11% |
 
 | DCF Component (₹ Cr) | Conservative | Base | Optimistic |
 |---|---|---|---|
-| PV of Year 1-10 Cash Flows | 6,670 | 8,190 | 9,630 |
-| Terminal Value (PV) | 13,050 | 19,800 | 27,250 |
-| **Enterprise Value** | **19,720** | **27,990** | **36,880** |
+| Y10 Owner Earnings | 1,620 | 2,134 | 2,669 |
+| PV of Year 1-10 Cash Flows | 6,933 | 8,205 | 9,374 |
+| Terminal Value (Y10 OE × Exit Multiple) | 32,405 | 53,343 | 80,076 |
+| PV of Terminal Value | 11,412 | 18,787 | 28,201 |
+| **Enterprise Value** | **18,345** | **26,991** | **37,575** |
 | Less: Net Debt | 0 | 0 | 0 |
-| **Equity Value** | **19,720** | **27,990** | **36,880** |
-| **Intrinsic Value Per Share (₹)** | **6,068** | **8,612** | **11,348** |
-| Margin of Safety at CMP ~₹10,885 | **-79%** (overvalued) | **-26%** (overvalued) | **-4%** (barely fair) |
+| **Equity Value** | **18,345** | **26,991** | **37,575** |
+| **Intrinsic Value Per Share (₹)** | **5,651** | **8,315** | **11,576** |
+| Margin of Safety at CMP ~₹10,885 | **-93%** (overvalued) | **-31%** (overvalued) | **+6%** (slightly undervalued) |
 
 ### Summary Table
 
 | Scenario | Intrinsic Value/Share | Current Price | Margin of Safety | Upside/(Downside) |
 |---|---|---|---|---|
-| Conservative | ₹6,068 | ₹10,885 | **-79%** | **(44% overvalued)** |
-| Base | ₹8,612 | ₹10,885 | **-26%** | **(26% overvalued)** |
-| Optimistic | ₹11,348 | ₹10,885 | **-4%** | **(Roughly fair)** |
+| Conservative | ₹5,651 | ₹10,885 | **-93%** | **(48% overvalued)** |
+| Base | ₹8,315 | ₹10,885 | **-31%** | **(24% overvalued)** |
+| Optimistic | ₹11,576 | ₹10,885 | **+6%** | **(6% undervalued — roughly fair)** |
 
 **Even in the optimistic scenario, the stock is barely at fair value.** In the base and conservative cases, it is materially overvalued. Buffett requires a significant margin of safety (typically 25-30%) — which doesn't exist at any reasonable set of assumptions.
 
@@ -454,44 +466,46 @@ The most honest metric is **PE on normalised earnings**. At ~42x TTM earnings, t
 
 ### Step 3: Implied EPS CAGR Needed
 
+*Formula: Implied EPS CAGR = (Current PE / Terminal PE × (1+Hurdle)^n)^(1/n) − 1, where Current PE = 42.7x*
+
 **At Terminal PE = 25x (Mature)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 21.4% | 26.8% | 32.4% |
-| 10 Years | 14.8% | 17.3% | 19.9% |
-| 15 Years | 12.8% | 14.7% | 16.6% |
+| 5 Years | 22.4% | 28.0% | 33.6% |
+| 10 Years | 16.0% | 21.3% | 26.6% |
+| 15 Years | 14.0% | 19.2% | 24.4% |
 
 **At Terminal PE = 35x (Market Average)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 15.7% | 20.9% | 26.3% |
-| 10 Years | 11.8% | 14.3% | 16.9% |
-| 15 Years | 10.8% | 12.6% | 14.5% |
+| 5 Years | 14.5% | 19.7% | 24.9% |
+| 10 Years | 12.2% | 17.3% | 22.4% |
+| 15 Years | 11.5% | 16.5% | 21.6% |
 
 **At Terminal PE = 45x (Compounder Premium)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 11.5% | 16.5% | 21.7% |
-| 10 Years | 9.7% | 12.2% | 14.7% |
-| 15 Years | 9.4% | 11.2% | 13.0% |
+| 5 Years | 8.8% | 13.8% | 18.7% |
+| 10 Years | 9.4% | 14.4% | 19.4% |
+| 15 Years | 9.6% | 14.6% | 19.6% |
 
 **At Terminal PE = 48x (Historical Average)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 10.4% | 15.4% | 20.6% |
-| 10 Years | 9.1% | 11.6% | 14.1% |
-| 15 Years | 9.0% | 10.7% | 12.5% |
+| 5 Years | 7.4% | 12.3% | 17.2% |
+| 10 Years | 8.7% | 13.7% | 18.6% |
+| 15 Years | 9.1% | 14.1% | 19.1% |
 
 ### Step 4: Reality Check
 
 | Benchmark | EPS CAGR |
 |---|---|
 | India nominal GDP growth | 10-12% |
-| PGHH's 5-year historical EPS CAGR | **~8%** |
+| PGHH's 5-year historical EPS CAGR | **~10%** |
 | PGHH's 10-year historical EPS CAGR | **~8%** |
 | Industry average growth | 10-14% |
 
@@ -499,13 +513,13 @@ The most honest metric is **PE on normalised earnings**. At ~42x TTM earnings, t
 
 Even to earn a **10% return over 10 years** assuming the PE stays at its historical average of 48x, you need ~9% EPS CAGR — roughly in line with what the company has historically delivered. This is **🟢 GREEN** but ONLY if the PE sustains at 48x.
 
-If the PE compresses to 35x (more reasonable for a slow grower), you need ~12% EPS CAGR for a 10% return — above what the company has delivered. **🟡 YELLOW.**
+If the PE compresses to 35x (more reasonable for a slow grower), you need ~12% EPS CAGR for a 10% return — above the 10-year track record of ~8% but near the recent 5-year CAGR of ~10%. **🟡 YELLOW.**
 
-If the PE compresses to 25x, you need ~15% EPS CAGR for a 10% return. **🔴 RED — the company has never sustained this.**
+If the PE compresses to 25x, you need ~16% EPS CAGR for a 10% return. **🔴 RED — the company has never sustained this.**
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹10,885, to earn a 12% annualised return over 10 years assuming the market values the business at 35x PE at exit, the company needs to grow EPS at ~14% CAGR. The company has historically grown EPS at ~8%. This implies the market is pricing in optimistic-to-heroic growth assumptions if any PE compression occurs."
+> "At the current price of ₹10,885, to earn a 15% annualised return over 10 years assuming the market values the business at 35x PE at exit, the company needs to grow EPS at ~17% CAGR. Even for just a 10% return at 35x exit PE, you need ~12% EPS CAGR — above the 10-year track record of ~8%. This implies the market is pricing in optimistic-to-heroic growth assumptions if any PE compression occurs."
 
 **Buffett's Napkin Test: This fails.** You need a spreadsheet and favourable assumptions to make this work. It's not obviously cheap.
 
@@ -517,7 +531,7 @@ If the PE compresses to 25x, you need ~15% EPS CAGR for a 10% return. **🔴 RED
 |---|---|---|---|
 | Asset / Liquidation | Tangible BV: ~₹287/share | ₹287 | -97% |
 | Trough Earnings | Worst EPS (₹115) × 25x PE | ₹2,875 | -74% |
-| Conservative DCF | ₹6,068 | ₹6,068 | -44% |
+| Conservative DCF | ₹5,651 | ₹5,651 | -48% |
 | Market-panics floor | Historical lowest PE (~30x) × ₹255 EPS | ₹7,650 | -30% |
 
 The most probable downside floor is **₹7,650-8,000** (30x trough PE on current earnings). Below that, long-term value investors would likely step in for a debt-free, high-ROE franchise.
@@ -526,7 +540,7 @@ The most probable downside floor is **₹7,650-8,000** (30x trough PE on current
 
 | Scenario | Valuation Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
-| Base DCF | ₹8,612 | ₹8,612 | -21% (still below CMP) |
+| Base DCF | ₹8,315 | ₹8,315 | -24% (still below CMP) |
 | Bull Case (15% EPS growth, 45x PE in 5 years) | ₹255 × 1.15^5 × 45 = ₹23,060 | ₹23,060 | +112% |
 | Scaling plays out (12% growth, 40x PE in 5 years) | ₹255 × 1.12^5 × 40 = ₹17,970 | ₹17,970 | +65% |
 
@@ -538,11 +552,11 @@ The most probable downside floor is **₹7,650-8,000** (30x trough PE on current
 
 This is **decent but not a fat pitch.** The upside requires growth acceleration that hasn't materialised.
 
-**Part 5: Fat Pitch Verdict**
+**Part 4: Fat Pitch Verdict**
 
 > "At ₹10,885, the realistic downside is approximately 30% to ₹7,650 (Tails scenario). The realistic base-case upside is approximately 65% to ~₹18,000 over 5 years (Heads scenario). This gives an asymmetry ratio of ~2.2:1. However, the upside requires EPS growth of 12%+ which exceeds the company's 8% historical track record. This IS NOT a fat pitch."
 
-**Mispricing Identification: ABSENT.** The stock has already de-rated significantly from its highs (down ~25% from 52-week highs). The current PE of ~42x, while below its own history, is not obviously cheap for a business growing at 3-8%. There is no temporary crisis, no fixable operational problem, no sector-wide panic that's creating a mispricing opportunity. The stock is simply expensive for what it delivers.
+**Mispricing Identification: ABSENT.** The stock has already de-rated significantly from its highs (down ~25% from 52-week highs). The current PE of ~42x, while below its own history, is not obviously cheap for a business growing revenue at ~7% and EPS at ~8-10%. There is no temporary crisis, no fixable operational problem, no sector-wide panic that's creating a mispricing opportunity. The stock is simply expensive for what it delivers.
 
 ---
 
@@ -550,7 +564,9 @@ This is **decent but not a fat pitch.** The upside requires growth acceleration 
 
 ### Part A: DuPont Decomposition
 
-| Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE |
+*Note: The DuPont decomposition below uses year-end (closing) equity and total assets, which produces different ROE figures than the average-equity ROE in Section 6. The difference is most pronounced in years with large special dividends (FY2021: 91% year-end vs 70% average). Both are arithmetically correct; the average-equity method is the more stable measure.*
+
+| Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE (year-end equity) |
 |---|---|---|---|---|
 | FY2019 | 14.2% | 1.82x | 1.78x | ~46% |
 | FY2020 | 14.4% | 1.64x | 1.58x | ~37% |
@@ -568,7 +584,7 @@ The high ROE is driven by a combination of healthy margins AND high asset effici
 
 However, the Equity Multiplier has been rising (from 1.58x to 2.40x) as the equity base shrinks from dividend extractions — this mechanically inflates ROE without any improvement in business economics.
 
-**ROCE vs ROE: ROCE (104%) > ROE (76%)** — healthy pattern confirmed. The business earns extraordinary pre-tax returns; the gap is taxes.
+**ROCE vs ROE: ROCE (104%) > ROE (76%, as reported by Screener.in)** — healthy pattern confirmed. The business earns extraordinary pre-tax returns; the gap is taxes. *(Note: Screener.in's ROE methodology may differ slightly from both the average-equity and year-end-equity calculations in this document.)*
 
 ### Part B: P/B Scenario Analysis
 
@@ -597,9 +613,9 @@ However, the Equity Multiplier has been rising (from 1.58x to 2.40x) as the equi
 | Exit P/B Scenario | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|
 | P/B stays at 38x | 5.0% | 5.0% | 5.0% |
-| P/B compresses to 28x | -0.3% | 0.6% | 1.4% |
-| P/B compresses to 20x | -7.0% | -3.7% | -1.6% |
-| P/B at 1x Book | -49% | -35% | -25% |
+| P/B compresses to 28x | -1.2% | 0.5% | 1.9% |
+| P/B compresses to 20x | -7.6% | -4.2% | -1.5% |
+| P/B at 1x Book | -49% | -38% | -27% |
 
 **Key Insight:** At the current entry P/B of 38x, the return converges to the book value compounding rate of ~5% only if the P/B multiple sustains. Any compression in the P/B multiple devastates returns. Even a compression to 28x wipes out all returns over 5 years.
 
@@ -607,7 +623,7 @@ However, the Equity Multiplier has been rising (from 1.58x to 2.40x) as the equi
 
 | Condition | Verdict |
 |---|---|
-| 10-year return > 10% even if P/B halves? | **🔴 RED — NO.** Even if P/B halves to 19x, the 10-year CAGR is approximately -2%. |
+| 10-year return > 10% even if P/B halves? | **🔴 RED — NO.** If P/B halves to 19x, the 10-year CAGR is approximately -1.5%. |
 | 10-year return > 10% only if P/B sustains? | **🔴 RED.** Even at current P/B, the return is only 5% — well below the 10% hurdle. |
 
 **The P/B analysis confirms what the DCF shows: the stock is fundamentally overvalued for the returns it can deliver through book value compounding.** Returns from here will come primarily from earnings growth (not BV compounding, since so little is retained) and depend entirely on the PE multiple sustaining.
@@ -659,7 +675,7 @@ However, the Equity Multiplier has been rising (from 1.58x to 2.40x) as the equi
 
 > *"The stock market is a device for transferring money from the impatient to the patient."* — Buffett. The patience required here is to wait for a significantly lower entry point.
 
-With a small capital base, Buffett in his Buffett Partnership days would especially need a margin of safety — he cannot afford to be wrong. At 42x PE for a 3-8% grower, the risk-reward is unfavourable.
+With a small capital base, Buffett in his Buffett Partnership days would especially need a margin of safety — he cannot afford to be wrong. At 42x PE for a business growing revenue at ~7% and EPS at ~8-10%, the risk-reward is unfavourable.
 
 > *"Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1."*
 
@@ -695,7 +711,7 @@ With a small capital base, Buffett in his Buffett Partnership days would especia
 | **Financial Health** | **10** | Zero debt, negative working capital, cash generative — a true fortress |
 | **Management Quality** | **6** | P&G-level competence but misaligned incentives; cash extraction over growth |
 | **Scalability** | **6.5** | Exceptional potential (under-penetrated market) but underwhelming execution |
-| **Valuation** | **3** | Expensive at 42-43x PE for a 3-8% grower; no margin of safety |
+| **Valuation** | **3** | Expensive at 42-43x PE for a ~7-10% grower; no margin of safety |
 | **Margin of Safety** | **2** | Negative in all DCF scenarios; PE compression risk is real |
 | **Buffett Verdict** | — | **WONDERFUL BUSINESS, OVERPRICED.** Admire from a distance. |
 | **Buy Zone** | — | Fully Valued / Trim zone at current ₹10,885 |
@@ -705,7 +721,7 @@ With a small capital base, Buffett in his Buffett Partnership days would especia
 
 PGHH is the kind of business Buffett calls a "wonderful company" — it sells two non-discretionary products that Indians reach for every day, with dominant market share, zero debt, and returns on capital that would make most businesses envious. Vicks VapoRub is as culturally embedded in Indian homes as Coca-Cola is in American ones. Whisper is a toll bridge on feminine hygiene with 55% market share in a massively under-penetrated category. The business will almost certainly be worth more in 10 years than it is today.
 
-However, the stock at ~₹10,885 (~42x trailing PE) offers no margin of safety. Revenue has grown at only 3% over 5 years — far below what a company with this runway should deliver. The parent extracts cash via dividends and royalty rather than investing aggressively in Indian growth. At this valuation, even optimistic assumptions barely justify the price, and any PE compression would destroy returns.
+However, the stock at ~₹10,885 (~42x trailing PE) offers no margin of safety. Revenue has grown at ~7% over 5 years (Screener reports a lower 3% due to fiscal year transition effects) — moderate but below what a company with this category penetration runway should deliver. The parent extracts cash via dividends and royalty rather than investing aggressively in Indian growth. At this valuation, even optimistic assumptions barely justify the price, and any PE compression would destroy returns.
 
 **Buffett's decision: PASS at this price. Put it on the watchlist. Buy aggressively if Mr. Market offers it at 25-32x PE (₹6,400-8,200).**
 
