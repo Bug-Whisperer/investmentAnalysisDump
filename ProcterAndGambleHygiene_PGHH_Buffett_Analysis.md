@@ -623,7 +623,7 @@ However, the Equity Multiplier has been rising (from 1.58x to 2.40x) as the equi
 
 | Condition | Verdict |
 |---|---|
-| 10-year return > 10% even if P/B halves? | **🔴 RED — NO.** If P/B halves to 19x, the 10-year CAGR is approximately -1.5%. |
+| 10-year return > 10% even if P/B halves? | **🔴 RED — NO.** If P/B halves to 19x, the 10-year CAGR is approximately -2.0%. |
 | 10-year return > 10% only if P/B sustains? | **🔴 RED.** Even at current P/B, the return is only 5% — well below the 10% hurdle. |
 
 **The P/B analysis confirms what the DCF shows: the stock is fundamentally overvalued for the returns it can deliver through book value compounding.** Returns from here will come primarily from earnings growth (not BV compounding, since so little is retained) and depend entirely on the PE multiple sustaining.
