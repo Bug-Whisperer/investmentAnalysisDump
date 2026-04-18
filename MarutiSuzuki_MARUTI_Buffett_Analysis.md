@@ -24,7 +24,9 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 **Circle of Competence Check:** Buffett bought automobile businesses (BYD via Munger, General Motors briefly). He understands manufacturing. Cars are a product every consumer understands. The risk for Buffett is the capital intensity and cyclicality of auto manufacturing, and the disruptive risk from EVs. He would understand Maruti but would note the EV transition risk.
 
 **Key Business Characteristics:**
-- Subsidiary of Suzuki Motor Corporation (SMC), Japan — SMC holds 56.28% (recently increased from ~56.2% via buyback)
+- Subsidiary of Suzuki Motor Corporation (SMC), Japan — SMC holds **58.28%** (as of Dec 2025; increased from 56.21% in FY17 through buyback participation and the SMG merger)
+
+> *Note:* Screener's "About" description text still shows the older figure of 56.28%. The shareholding pattern table (authoritative source) confirms 58.28% as of Dec 2025.
 - Completed amalgamation of Suzuki Motor Gujarat (SMG) in Dec 2025, bringing Gujarat plant in-house
 - Installed manufacturing capacity: ~2.6 million units/year, with expansion to ~4 million planned
 - Domestic sales: 82% | Exports: 18% of volumes (9M FY26)
@@ -60,11 +62,13 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 | EBITDA Margin | 18.6% | 16.4% | 14.4% | **12.0%** | **9.7%** | 11.8% | 16.8% | **16.9%** | 15.5% |
 | Dividend Payout % | 31% | 32% | 32% | 31% | 47% | 33% | 29% | 29% | — |
 
-**Compounded Growth Rates:**
+**Compounded Growth Rates (as reported by Screener.in):**
 - Sales: 10Y 12% | 5Y 15% | 3Y 20% | TTM 14%
 - Profit: 10Y 16% | 5Y **35%** | 3Y 72% | TTM 3%
 - Stock Price CAGR: 10Y 13% | 5Y 13% | 3Y 15% | 1Y 11%
 - ROE: 10Y 13% | 5Y 13% | 3Y 16% | Last Year 16%
+
+> *Methodology Note:* The Profit CAGRs above (5Y 35%, 3Y 72%) are Screener's directly reported figures and cannot be exactly reproduced from the annual P&L data above. Computing from the P&L: FY20→FY25 (5 years) gives ~20.6% CAGR; FY22→FY25 (3 years) gives ~55.2% CAGR. Screener likely uses a different computation window or methodology (its "Pros" section independently states "34.7% CAGR over last 5 years"). The document reproduces Screener's figures as-is for consistency with the data source, but readers should be aware of this discrepancy when using these CAGRs for derived calculations.
 
 ### Trend Narrative
 
@@ -73,10 +77,10 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 **FY23-FY25 represents a powerful margin recovery** — OPM recovered to 13%, driven by price hikes, commodity cost normalisation, favorable product mix (SUV/UV share rising), and operating leverage from higher volumes. Net profit surged from ₹3,880 Cr (FY22) to ₹14,500 Cr (FY25) — a 3.7x increase in just 3 years.
 
 **Key observations:**
-1. **Earnings growth has massively outpaced revenue growth** over 5 years (35% profit CAGR vs. 15% revenue CAGR) — classic operating leverage in action.
+1. **Earnings growth has massively outpaced revenue growth** over 5 years (Screener-reported 35% profit CAGR vs. 15% revenue CAGR; see methodology note above) — classic operating leverage in action.
 2. **OPM has plateaued at 13%** in FY24-FY25 after the recovery. Further margin expansion is uncertain given competitive intensity and EV investment needs.
 3. **Other Income is substantial and growing** — ₹5,199 Cr in FY25 (3.4% of revenue), driven by the massive investment book (₹66,265 Cr). This is essentially interest/dividend income on the cash hoard.
-4. **Dividend payout is moderate** at ~29-33%, consistent and healthy. The company retains most earnings to fund growth capex.
+4. **Dividend payout is moderate** at ~29-33% in most years, consistent and healthy. FY22 was an outlier at 47% (payout maintained despite depressed earnings). The company retains most earnings to fund growth capex.
 5. **Share count increased ~4% in FY24** due to the SMG merger consideration. This is the ONLY dilution event in 12+ years — excellent capital discipline.
 
 ---
@@ -159,7 +163,7 @@ Buffett: *"Cash combined with courage in a crisis is priceless."* Maruti has the
 
 ### Commentary
 
-**CFO is robust and generally tracks or exceeds net income** — the CFO/NI ratio averages ~1.1x over the last 5 years, confirming earnings quality. The outlier is FY22 (0.47x) when working capital consumed cash due to inventory build-up during semiconductor shortages.
+**CFO is robust and generally tracks or exceeds net income** — the CFO/NI ratio averages ~1.2x over the last 5 years (FY21-FY25), confirming earnings quality. Including FY20 (6-year average), the ratio is ~1.1x. The outlier is FY22 (0.47x) when working capital consumed cash due to inventory build-up during semiconductor shortages.
 
 **CapEx is rising sharply** — from ~₹3,000 Cr (FY20-FY22) to ₹10,000 Cr (FY25) and expected to rise further as Maruti builds new capacity (4th plant, EV production line). The company has approved an initial outlay of ₹4,960 Cr for capacity expansion alone.
 
@@ -380,6 +384,8 @@ Buffett: *"The ideal business is one that takes no capital, and yet grows."* Mar
 
 **Verdict: PASS.** Every ₹1 retained has created ₹2-4 of market value. The recent period (FY22-FY25) shows even stronger value creation as the earnings recovery was recognised by the market.
 
+> *Methodology Note:* The $1 test above uses the equity change method (change in shareholders' equity as a proxy for retained earnings). This includes ~₹14,000+ Cr of equity added via the SMG merger (FY24) which is not retained earnings from operations. If calculated using true retained earnings (cumulative Net Profit minus cumulative Dividends over FY19-FY25), the estimated retained earnings are ~₹39,000-40,000 Cr, which would give a value-per-₹1-retained of approximately ₹2.9 — even more favourable than the ₹2.16 stated. The PASS verdict is therefore robust under either methodology.
+
 ### Capital Allocation Track Record
 
 1. **Zero debt philosophy** — Management has consistently avoided leverage. This is ultra-conservative but Buffett-approved.
@@ -388,7 +394,7 @@ Buffett: *"The ideal business is one that takes no capital, and yet grows."* Mar
 
 3. **Dividend policy** — Consistent 29-33% payout. ₹4,155 Cr paid in FY25. Decent but not aggressive enough given the cash pile. Dividend yield of only 1.06%.
 
-4. **No meaningful buybacks** — Despite the massive cash pile and the stock trading at "reasonable" multiples, management has not pursued significant buybacks. SMC's 56.28% holding makes buybacks complicated (triggers delisting provisions at 75% threshold).
+4. **No meaningful buybacks** — Despite the massive cash pile and the stock trading at "reasonable" multiples, management has not pursued significant buybacks. SMC's 58.28% holding makes buybacks complicated (triggers delisting provisions at 75% threshold).
 
 5. **Capacity expansion** — Investing heavily in new manufacturing capacity (from 2.6M to potentially 4M units). This is the RIGHT use of capital given the 62% ROIC on operating capital.
 
@@ -450,10 +456,10 @@ Buffett: *"I look for three things in hiring people: integrity, intelligence, an
 |---|---|---|
 | **PE Ratio** | 26.8x (on TTM EPS ₹475) | On FY25 EPS ₹461 → PE 27.7x |
 | **P/B Ratio** | 4.02x | BV ₹3,172/share |
-| **EV/EBITDA** | 15.5x | After adjusting for ₹66,000 Cr cash |
+| **EV/EBITDA** | 15.5x (unadjusted) | EV = Mcap + Debt = ~₹4,01,013 Cr; EBITDA = ₹25,832 Cr. Cash-adjusted EV/EBITDA (subtracting ₹66,265 Cr cash) = ~13.0x |
 | **Industry PE** | 28.3x | Maruti trading slightly below sector |
 | **Industry PBV** | 5.56x | Maruti trading significantly below sector |
-| **PEG Ratio** | 0.37x | Very attractive on 5Y profit CAGR of 35% |
+| **PEG Ratio** | 0.77x | On Screener's 5Y profit CAGR of 35% (see Sec 2 methodology note); PEG = 26.8 / 35. On P&L-derived 5Y profit CAGR (~21%), PEG ≈ 1.3x |
 | **Dividend Yield** | 1.06% | Moderate |
 | **Earnings Yield (1/PE)** | 3.7% | |
 | **P/Owner Earnings** | ~31.8x | On OE of ₹401/share |
@@ -508,7 +514,8 @@ After stripping out the massive cash pile, the operating business trades at ~22x
 | Add: Net Cash | 66,178 |
 | **Equity Value** | **~2,68,178** |
 | **IV/Share** | **₹8,532** |
-| **Margin of Safety at ₹12,757** | **-33% (overvalued)** |
+| **Margin of Safety at ₹12,757** | **MoS: -49.5%** (using (IV−CMP)/IV) |
+| **Upside/(Downside) at ₹12,757** | **-33.1%** (using (IV−CMP)/CMP) |
 
 #### Base Case
 - Starting OE: ₹12,608 Cr (₹401/share)
@@ -526,7 +533,8 @@ After stripping out the massive cash pile, the operating business trades at ~22x
 | Add: Net Cash | 66,178 |
 | **Equity Value** | **~3,61,178** |
 | **IV/Share** | **₹11,490** |
-| **Margin of Safety at ₹12,757** | **-10% (slightly overvalued)** |
+| **Margin of Safety at ₹12,757** | **MoS: -11.0%** (using (IV−CMP)/IV) |
+| **Upside/(Downside) at ₹12,757** | **-9.9%** (using (IV−CMP)/CMP) |
 
 #### Optimistic Case
 - Starting OE: ₹13,500 Cr (₹429/share)
@@ -544,15 +552,16 @@ After stripping out the massive cash pile, the operating business trades at ~22x
 | Add: Net Cash | 66,178 |
 | **Equity Value** | **~5,59,178** |
 | **IV/Share** | **₹17,793** |
-| **Margin of Safety at ₹12,757** | **+28%** |
+| **Margin of Safety at ₹12,757** | **MoS: +28.3%** (using (IV−CMP)/IV) |
+| **Upside/(Downside) at ₹12,757** | **+39.5%** (using (IV−CMP)/CMP) |
 
 ### Summary
 
-| Scenario | IV/Share | Margin of Safety | Verdict |
-|---|---|---|---|
-| Conservative | ₹8,532 | -33% | Overvalued |
-| **Base** | **₹11,490** | **-10%** | **Slightly overvalued** |
-| Optimistic | ₹17,793 | +28% | Undervalued |
+| Scenario | IV/Share | MoS (IV−CMP)/IV | Upside/(Downside) (IV−CMP)/CMP | Verdict |
+|---|---|---|---|---|
+| Conservative | ₹8,532 | -49.5% | -33.1% | Overvalued |
+| **Base** | **₹11,490** | **-11.0%** | **-9.9%** | **Slightly overvalued** |
+| Optimistic | ₹17,793 | +28.3% | +39.5% | Undervalued |
 
 **At ₹12,757, the stock is between the Base and Optimistic scenarios.** The market is pricing in better-than-base-case execution — likely factoring in the EV opportunity, export growth, and capacity expansion delivering on plan. There is no margin of safety under conservative assumptions, and only modest upside under optimistic assumptions.
 
@@ -584,29 +593,29 @@ After stripping out the massive cash pile, the operating business trades at ~22x
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 23.3% | 29.6% | 36.1% |
-| 10 Years | 16.1% | 19.2% | 22.3% |
+| 5 Years | 24.3% | 30.0% | 35.6% |
+| 10 Years | 16.9% | 22.3% | 27.6% |
 
 #### At Terminal PE = 22x (Market Average)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 15.0% | 21.0% | 27.2% |
-| 10 Years | 12.8% | 15.8% | 18.8% |
+| 5 Years | 15.2% | 20.4% | 25.6% |
+| 10 Years | 12.6% | 17.7% | 22.8% |
 
 #### At Terminal PE = 28x (Historical / Compounder)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 10.0% | 15.7% | 21.5% |
-| 10 Years | 10.8% | 13.7% | 16.6% |
+| 5 Years | 9.7% | 14.7% | 19.7% |
+| 10 Years | 9.9% | 14.9% | 19.9% |
 
 ### Step 4: Reality Check
 
 | Benchmark | EPS CAGR |
 |---|---|
 | India nominal GDP | 10-12% |
-| Maruti 5Y EPS CAGR | **35%** (recovery-inflated) |
+| Maruti 5Y EPS CAGR (Screener-reported) | **35%** (recovery-inflated; P&L-derived ≈ 21%) |
 | Maruti 10Y EPS CAGR | **16%** |
 | Industry average | 12-15% |
 | Analyst consensus | ~15% |
@@ -614,17 +623,17 @@ After stripping out the massive cash pile, the operating business trades at ~22x
 ### Traffic Light Assessment
 
 At Terminal PE = 28x (historical), 10-year horizon:
-- 10% return needs 10.8% EPS CAGR — **🟢 GREEN** (below historical, achievable)
-- 15% return needs 13.7% EPS CAGR — **🟡 YELLOW** (achievable but requires good execution)
-- 20% return needs 16.6% EPS CAGR — **🟠 ORANGE** (matches 10Y historical, ambitious for large-cap)
+- 10% return needs 9.9% EPS CAGR — **🟢 GREEN** (below historical and GDP growth, very achievable)
+- 15% return needs 14.9% EPS CAGR — **🟡 YELLOW** (close to 10Y historical CAGR of 16%, achievable with good execution)
+- 20% return needs 19.9% EPS CAGR — **🟠 ORANGE** (above 10Y historical, ambitious for large-cap)
 
 At Terminal PE = 22x (de-rating to market avg), 10-year horizon:
-- 10% return needs 12.8% EPS CAGR — **🟡 YELLOW** (reasonable but needs execution)
-- 15% return needs 15.8% EPS CAGR — **🟠 ORANGE** (at the edge of historical)
+- 10% return needs 12.6% EPS CAGR — **🟡 YELLOW** (reasonable but needs execution)
+- 15% return needs 17.7% EPS CAGR — **🟠 ORANGE** (above historical, requires acceleration)
 
 ### Step 5: Verdict
 
-> "At ₹12,757, to earn a 10% return over 10 years assuming 28x PE at exit, Maruti needs 10.8% EPS CAGR. It has historically grown EPS at 16% CAGR over 10 years. This implies the market is pricing in **reasonable growth** — not heroic assumptions. However, if the PE de-rates to 22x (which is possible if growth slows or EV transition challenges emerge), the required EPS CAGR rises to 12.8%, which is still achievable but leaves less room for error."
+> "At ₹12,757, to earn a 10% return over 10 years assuming 28x PE at exit, Maruti needs 9.9% EPS CAGR. It has historically grown EPS at 16% CAGR over 10 years. This implies the market is pricing in **reasonable growth** — not heroic assumptions. However, if the PE de-rates to 22x (which is possible if growth slows or EV transition challenges emerge), the required EPS CAGR rises to 12.6%, which is still achievable but leaves less room for error."
 
 **Napkin Test: CONDITIONAL PASS.** The math works if PE sustains at 28x. If PE compresses to 20x or below, returns become mediocre (sub-10%) unless EPS growth accelerates. You need the market to KEEP believing Maruti is a premium franchise.
 
@@ -645,8 +654,8 @@ At Terminal PE = 22x (de-rating to market avg), 10-year horizon:
 
 | Upside Scenario | Basis | Implied Price | Upside |
 |---|---|---|---|
-| Base Case DCF | ₹11,490 | ₹11,490 | -10% |
-| Optimistic DCF | ₹17,793 | ₹17,793 | +39% |
+| Base Case DCF | ₹11,490 | ₹11,490 | -9.9% |
+| Optimistic DCF | ₹17,793 | ₹17,793 | +39.5% |
 | EV success + export acceleration | 30x × FY30E EPS ₹750 | ₹22,500 | +76% |
 | Re-rate to Hyundai multiples (9.4x P/B) | 9.4 × ₹3,172 | ₹29,817 | +134% |
 
@@ -656,9 +665,9 @@ Using Base Upside (₹11,490, essentially flat) and Probable Downside (₹8,500,
 
 **Asymmetry Ratio = 0% / 33% → Essentially 0:1 on the base case — NO asymmetry.**
 
-Using Optimistic Upside (+39%) and Probable Downside (-33%):
+Using Optimistic Upside (+39.5%) and Probable Downside (-33%):
 
-**Asymmetry Ratio = 39% / 33% = 1.2:1 — Marginal.**
+**Asymmetry Ratio = 39.5% / 33% = 1.2:1 — Marginal.**
 
 **This is NOT a fat pitch at ₹12,757.** The risk-reward is roughly balanced. The stock needs everything to go right (EV success, export growth, margin sustaining, PE sustaining) just to generate modest returns.
 
@@ -842,7 +851,7 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | **Competitive intensity** | 7 | High (70%) | Hyundai IPO war chest; Tata aggression; Chinese EVs. Scale advantages provide buffer |
 | **Cyclical downturn** | 6 | Medium (30%) | Debt-free; ₹66,000 Cr cash; can sustain through cycles |
 | **Regulatory risk (emission norms)** | 5 | Medium | First-mover in BS-VI compliance; CNG/hybrid portfolio |
-| **Parent company (SMC) risk** | 4 | Low (15%) | SMC stable; 56% stake = long-term commitment |
+| **Parent company (SMC) risk** | 4 | Low (15%) | SMC stable; ~58% stake = long-term commitment |
 | **Capital allocation (cash pile)** | 5 | Ongoing | No near-term catalyst for aggressive deployment |
 | **Export market risk** | 4 | Medium | Geopolitical, forex, and regulatory risks in new markets |
 
@@ -867,7 +876,7 @@ The relevant question is not "will it recover?" (it already has) but "can it SUS
 | **Return on Capital** | **9** | ROIC 62%. ROCE 22%. ROE "only" 16% due to cash drag. Core business returns are elite. |
 | **Earnings Quality** | **8** | Owner Earnings = 87% of Net Income. CFO/NI >1.0x. Negative working capital. Solid. |
 | **Scalability** | **6** | Capital-intensive auto manufacturing limits operating leverage. But TAM runway is enormous. |
-| **Valuation** | **5.5** | PE 27x at upper end of fair value. Cash-adjusted PE 22x is more reasonable. No margin of safety. |
+| **Valuation** | **5.5** | PE 27x within the fair value range (24-30x). Cash-adjusted PE 22x is more reasonable. No margin of safety. |
 | **Margin of Safety** | **4** | None. Base case IV ₹11,490 is BELOW current price. Need optimistic case to justify current price. |
 | **Overall Score** | **7.3/10** | |
 
@@ -898,11 +907,11 @@ The relevant question is not "will it recover?" (it already has) but "can it SUS
 **Back-of-napkin:**
 - Buy at ₹12,757, EPS ₹461, PE ~28x
 - Business earns 16% ROE, retains 70% → BV grows at ~10.5%/year
-- If PE stays at 28x and EPS grows at 12-15%/year → Stock at ₹18,000-₹22,000 in 5 years → 7-11% CAGR
-- If PE compresses to 22x and EPS grows at 12% → Stock at ~₹13,000 in 5 years → ~0% return. 😐
-- Needs everything to go right just to earn 10-12%.
+- If PE stays at 28x and EPS grows at 12-15%/year → Stock at ~₹22,700-₹26,000 in 5 years → ~12-15% CAGR
+- If PE compresses to 22x and EPS grows at 12% → Stock at ~₹17,900 in 5 years → ~7% CAGR
+- Needs PE to sustain for double-digit returns; PE compression to 22x still yields positive but mediocre returns.
 
-**Buffett's answer:** *"The math works, but it doesn't make me jump out of my chair. At this price, I'm buying the whole market's optimism, not buying against it. The time to buy Maruti is when the auto cycle turns down, market share fears peak, and the stock trades at 18-20x. That day will come. Patient money wins."*
+**Buffett's answer:** *"The math works — 12-15% returns if PE holds at 28x, which is reasonable for a franchise business. But 7% if PE compresses to 22x isn't exciting. I'd rather wait for a price where even PE compression gives me double digits. At this price, I'm buying the whole market's optimism, not buying against it. The time to buy Maruti is when the auto cycle turns down, market share fears peak, and the stock trades at 18-20x. That day will come. Patient money wins."*
 
 Buffett: *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* At ₹12,757, you DO need a spreadsheet. At ₹9,000, you wouldn't. Wait for the price that makes the math obvious.
 
