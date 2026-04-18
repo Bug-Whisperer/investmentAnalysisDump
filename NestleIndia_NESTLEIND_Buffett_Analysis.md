@@ -52,10 +52,10 @@ Nestle India is a **toll bridge on Indian food consumption**. As 1.4 billion Ind
 | **Net Margin %** | 12.2% | 14.2% | **15.9%** | **15.6%** | 14.4% | 14.2% | **15.7%** | 16.1% | **16.4%** | 15.1% |
 | **EPS (₹)** | 6.35 | 8.33 | 10.21 | 10.80 | 10.99 | 12.40 | 15.55 | 20.40 | **17.19** | 17.20 |
 | EPS Growth | 22.3% | **31.2%** | 22.6% | 5.8% | 1.8% | 12.8% | 25.4% | — | — | — |
-| Shares Outstanding (Cr) | ~19.3 | ~19.3 | ~19.3 | ~19.3 | ~19.3 | ~19.3 | ~19.3 | ~192.8 | ~192.8 | ~192.8 |
+| Shares Outstanding (Cr, split-adjusted) | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 | ~192.8 |
 | Dividend Payout % | 68% | 69% | **168%** | 93% | 91% | 89% | 56% | 79% | 79% | — |
 
-*\*Stock split 1:10 in Jan 2024; face value changed from ₹10 to ₹1. Pre-split shares were ~19.3 Cr; post-split ~192.8 Cr (×10). All EPS figures in the table are split-adjusted (i.e., retrospectively divided by 10 for pre-split years).*
+*\*Stock split 1:10 in Jan 2024; face value changed from ₹10 to ₹1. Actual pre-split shares were ~19.3 Cr; post-split ~192.8 Cr (×10). Both the EPS and Shares Outstanding rows above are presented on a split-adjusted basis (~192.8 Cr shares) for all years, so that the identity Net Profit = EPS × Shares holds across every column.*
 
 **Compounded Growth Rates (from Screener.in):**
 | Period | Sales CAGR | Profit CAGR | EPS CAGR |
@@ -409,7 +409,7 @@ Nestle India has **never been cheap** by conventional metrics. The stock has tra
 
 **Has the stock ever traded sustainably at current multiples?** Yes — the current valuation is actually in line with or slightly below historical averages. The stock briefly touched ~60x PE during the 2022 commodity inflation scare and the early 2024 growth slowdown.
 
-**Is the stock cheap?** Absolutely not, on any conventional metric. PE of 69x, PB of ~56x, EV/EBITDA of ~48x — these are eye-watering multiples by normal standards.
+**Is the stock cheap?** Absolutely not, on any conventional metric. PE of 69x, PB of ~56x, EV/EBITDA of ~52x (GuruFocus; ~48x on Screener data) — these are eye-watering multiples by normal standards.
 
 **Is it a value trap?** No — there is nothing "trappy" about it. This is a genuinely great business trading at a premium because the market recognises its quality. The question is whether the premium is too high for adequate returns.
 
