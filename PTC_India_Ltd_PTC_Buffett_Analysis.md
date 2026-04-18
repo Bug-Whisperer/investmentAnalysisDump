@@ -31,7 +31,7 @@ PTC India Limited was established in 1999 by the Government of India as a Public
 
 > *Buffett: "I try to invest in businesses that are so wonderful that an idiot can run them. Because sooner or later, one will."*
 
-The power trading business is simple to understand. However, the margins are razor-thin (5-7% operating margins on reported revenue), and the "revenue" is largely pass-through electricity cost. The real economic engine is the **trading margin per unit**, which operates in the range of 0.68-4.19 paisa per unit depending on contract type.
+The power trading business is simple to understand. However, the margins are razor-thin (currently 6-7% operating margins on reported revenue, down from 8-10% historically), and the "revenue" is largely pass-through electricity cost. The real economic engine is the **trading margin per unit**, which operates in the range of 0.68-4.19 paisa per unit depending on contract type.
 
 **The business is essentially a commodity intermediary** with some toll-bridge characteristics (regulatory approvals, established relationships, cross-border trade licences). It is NOT a consumer franchise, NOT a switching-cost business in the traditional sense, but it does benefit from regulatory barriers to entry and established relationships with government utilities.
 
@@ -63,6 +63,8 @@ The power trading business is simple to understand. However, the margins are raz
 | Shares Outstanding (Cr) | 29.6 | 29.6 | 29.6 | 29.6 | 29.6 | 29.6 | 29.6 | 29.6 | 29.6 | 29.6 | 29.6 |
 | Shares Change YoY | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
 | Dividend Payout % | 23% | 21% | **59%** | 28% | 44% | 49% | 46% | **52%** | 48% | 38% | — |
+
+> **Methodology Note — EPS & Minority Interest:** Screener.in reports EPS based on **profit attributable to equity holders of the parent company**, which excludes minority interest (primarily from the PFS subsidiary). This is why EPS × Shares Outstanding ≠ Total Consolidated Net Profit. For example, in FY25: consolidated NP = ₹976 Cr but EPS = ₹30.41 (implying attributable profit of ~₹900 Cr). The PE ratio reported by Screener (~7.5x) and the Compounded Profit Growth figures below are also based on this attributable-profit methodology. All EPS, PE, and growth figures sourced from Screener throughout this analysis follow this convention unless explicitly stated otherwise.
 
 ### Compounded Growth Rates
 
@@ -115,7 +117,7 @@ The power trading business is simple to understand. However, the margins are raz
 | Metric | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|---|---|---|---|---|
 | **Debt/Equity** | **2.60** | **3.32** | **3.36** | 2.73 | 2.60 | 2.07 | 1.30 | 0.84 | **0.51** |
-| Book Value/Share (₹) | 120 | 126 | 134 | 141 | 149 | 160 | 170 | 174 | **197** |
+| Book Value/Share (₹) | 130 | 126 | 134 | 141 | 149 | 160 | 170 | 174 | **197** |
 | Current Ratio | — | — | — | — | — | — | — | — | **2.02** |
 | Net Debt (₹ Cr) | ~9,500 | ~11,800 | ~12,800 | ~10,900 | ~11,000 | ~9,200 | ~6,200 | ~3,800 | ~2,100 |
 
@@ -125,7 +127,7 @@ The power trading business is simple to understand. However, the margins are raz
 
 - **Total Borrowings** collapsed from **₹13,320 Cr (FY19)** to **₹2,962 Cr (FY25)** — a **78% reduction** in just 6 years. As of Sep 2025, borrowings are down further to ₹2,264 Cr.
 - **Debt/Equity** went from a dangerous **3.36x (FY19)** to a comfortable **0.51x (FY25)** and likely ~0.39x currently.
-- **Book Value Per Share** has steadily grown from ₹120 (FY17) to ₹197 (FY25), a **5.7% CAGR** — entirely driven by retained earnings with zero dilution.
+- **Book Value Per Share** has steadily grown from ₹130 (FY17) to ₹197 (FY25), a **5.3% CAGR** — entirely driven by retained earnings with zero dilution.
 
 The massive reduction in borrowings is primarily from the wind-down of the NBFC subsidiary's (PFS) loan book and reduction in working capital requirements. Fixed assets also dropped significantly (from ₹2,155 Cr in FY17 to ₹38 Cr in FY25), suggesting divestment or reclassification of the energy subsidiary's assets.
 
@@ -160,6 +162,8 @@ PTC has gone from a dangerously leveraged balance sheet to what is now a **genui
 | FCF Margin | 18.2% | 11.5% | 18.1% | 22.4% | 14.6% | 13.1% |
 | Dividends Paid (est.) | ~179 | ~224 | ~254 | ~264 | ~256 | ~371 |
 
+> *Note: Dividends Paid are estimated as Net Profit × Dividend Payout %. Since Net Profit is total consolidated (including minority interest), and the payout ratio from Screener is calculated on attributable profit, the FY25 estimate of ~₹371 Cr may slightly overstate actual dividends paid to PTC shareholders. Using Screener's DPS of ~₹11.67 × 29.6 Cr shares, actual dividends to PTC shareholders would be ~₹345 Cr.*
+
 ### Key Observations
 
 **The cash flow profile has transformed dramatically.** From FY16-FY19, the company was cash-flow negative from operations (the NBFC subsidiary was consuming cash to grow its loan book). From FY20 onwards, as PFS started winding down its loan book, operating cash flows turned massively positive.
@@ -174,7 +178,7 @@ PTC has gone from a dangerously leveraged balance sheet to what is now a **genui
 
 > *Buffett: "Owner Earnings = Net Income + Depreciation & Amortisation - Maintenance CapEx"*
 
-For PTC, Owner Earnings ≈ Net Profit since D&A (~₹9-10 Cr) and CapEx (~₹5 Cr) are both negligible. The core trading business is genuinely capital-light. However, the NBFC subsidiary complicates this — its capital requirements are fundamentally different and have been the primary driver of balance sheet dynamics.
+For PTC, Owner Earnings = Net Profit + D&A − CapEx. In FY24-FY25, D&A collapsed to ~₹9-10 Cr (from ₹100+ Cr in FY20-FY23, when the energy subsidiary's assets were still on the books), making Owner Earnings ≈ Net Profit for the most recent years. In earlier years (FY20-FY23), Owner Earnings were materially higher than Net Profit due to the ₹100+ Cr D&A exceeding negligible CapEx. The core trading business is genuinely capital-light. However, the NBFC subsidiary complicates this — its capital requirements are fundamentally different and have been the primary driver of balance sheet dynamics.
 
 ---
 
@@ -190,7 +194,7 @@ For PTC, Owner Earnings ≈ Net Profit since D&A (~₹9-10 Cr) and CapEx (~₹5 
 | D&A | 100 | 100 | 101 | 102 | 10 | 9 |
 | Net Profit | 406 | 458 | 552 | 507 | 533 | 976 |
 | SBC | Nil | Nil | Nil | Nil | Nil | Nil |
-| **Owner Earnings** | ~410 | ~462 | ~556 | ~511 | ~537 | ~980 |
+| **Owner Earnings** | ~501 | ~553 | ~648 | ~604 | ~538 | ~980 |
 
 **This is one of the most capital-light businesses imaginable.** CapEx as % of revenue is essentially 0.03% — virtually zero. There is no meaningful distinction between maintenance and growth CapEx because there is almost no CapEx at all.
 
@@ -198,7 +202,7 @@ For PTC, Owner Earnings ≈ Net Profit since D&A (~₹9-10 Cr) and CapEx (~₹5 
 
 **SBC:** Zero. This is a government-promoted PSU-type company with no stock-based compensation.
 
-**Owner Earnings ≈ Net Profit** since D&A and CapEx are both negligible. The "true" economic earnings of the business are very close to reported GAAP earnings, which is a positive signal.
+**Owner Earnings = Net Profit + D&A − CapEx.** In FY24-FY25, D&A collapsed to ₹9-10 Cr (from ₹100+ Cr in FY20-FY23) following the divestment/reclassification of the energy subsidiary's assets, so Owner Earnings ≈ Net Profit in those years. In FY20-FY23, however, D&A of ₹100-102 Cr was significantly above CapEx (~₹5 Cr), making Owner Earnings materially higher than Net Profit (by ~₹95-97 Cr per year). This reflects the fact that the energy subsidiary's assets were depreciating but required minimal replacement CapEx.
 
 However, the **sharp drop in D&A from ₹100+ Cr (FY22-FY23) to ₹9-10 Cr (FY24-FY25)** along with the fixed asset drop from ₹1,617 Cr to ₹38 Cr suggests that the energy subsidiary's assets may have been divested, reclassified, or written off. This is a significant structural change in the consolidated entity.
 
@@ -228,7 +232,9 @@ For PTC's core trading business, maintenance CapEx requirements are essentially 
 | 10-Year Average | ~10% |
 | 5-Year Average | ~11% |
 | 3-Year Average | ~10% |
-| Last Year (FY25) | **~12.3%** (reported), but inflated by other income |
+| Last Year (FY25) | **~12%** (per Screener) |
+
+> **Methodology Note — ROE Discrepancy:** Screener.in reports FY25 ROE as ~12% and averages of 10-11%, which are based on **profit attributable to parent** (excluding minority interest from PFS). The main ROE table above uses full consolidated net profit ÷ average equity, yielding ~18% for FY25 — significantly higher because it includes the minority's share of PFS profits. The Screener-reported figures (12%, 10-11% averages) are more representative of returns accruing to PTC's equity holders specifically, and are used as the basis for valuation analysis throughout this document. The ~18% figure overstates the return to PTC shareholders because a portion of PFS's profits belongs to minority shareholders.
 
 ### Analysis
 
@@ -242,7 +248,7 @@ For PTC's core trading business, maintenance CapEx requirements are essentially 
 
 PTC fails this test on both counts. The returns on capital are adequate but not high (core business ROE ~10-12%), and the business cannot meaningfully reinvest capital at those returns because the trading business doesn't require capital. It is a low-return, low-reinvestment business — the classic "cigar butt" that Buffett evolved away from.
 
-**The ROCE vs. ROE relationship:** ROCE (12%) and ROE (12.3%) are roughly similar in the latest year, which is a positive sign — it means leverage is not artificially inflating returns. In prior years when debt was high, ROCE was sometimes higher than ROE, meaning the cost of debt was eating into shareholder returns. The deleveraging has brought these two metrics into alignment.
+**The ROCE vs. ROE relationship:** ROCE (12%) and ROE (~12% per Screener) are roughly similar in the latest year, which is a positive sign — it means leverage is not artificially inflating returns. In prior years when debt was high, ROCE was sometimes higher than ROE, meaning the cost of debt was eating into shareholder returns. The deleveraging has brought these two metrics into alignment.
 
 ---
 
@@ -270,7 +276,7 @@ PTC India operates in a niche created by regulatory design. India's power tradin
 
 1. **Power Exchanges are the existential threat.** IEX (Indian Energy Exchange) and PXIL are electronic platforms that disintermediate traders like PTC by allowing direct buyer-seller matching. As power exchanges grow, PTC's short-term trading franchise erodes. PTC's own co-promoted HPX (Hindustan Power Exchange) may cannibalise its core business.
 
-2. **Razor-thin margins:** Trading margins of 0.68-4.19 paisa per unit leave almost no room for error. A commodity intermediary with 5-7% operating margins has no pricing power.
+2. **Razor-thin margins:** Trading margins of 0.68-4.19 paisa per unit leave almost no room for error. A commodity intermediary with 6-7% operating margins has no pricing power.
 
 3. **Government utility customers are slow payers:** 107-day debtor days mean PTC is essentially providing free working capital financing to its government customers. This is not a position of strength.
 
@@ -420,16 +426,16 @@ Management integrity appears intact (no fraud, no related-party issues flagged),
 
 ### Power Trading Volume & Key Metrics
 
-| Metric | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | H1 FY26 |
+| Metric | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25/Latest* |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Total Trading Volume (MU) | 37,025 | 42,422 | 48,223 | 57,581 | 62,491 | 66,332 | 80,042 | 87,450 | 70,610 | 74,841 | 82,751* |
-| Volume Growth YoY | — | 14.6% | 13.7% | 19.4% | 8.5% | 6.1% | 20.7% | 9.3% | **-19.2%** | 6.0% | — |
+| Total Trading Volume (MU) | 37,025 | 42,422 | 48,223 | 57,581 | 62,491 | 66,332 | 80,042 | 87,450 | 70,610 | 74,841 | 82,751 |
+| Volume Growth YoY | — | 14.6% | 13.7% | 19.4% | 8.5% | 6.1% | 20.7% | 9.3% | **-19.2%** | 6.0% | 10.6% |
 | Number of Clients | — | — | — | — | — | — | 725 | 787 | 700 | — | 800 |
 | LT/MT Capacity Portfolio (MW) | — | — | — | — | — | — | 9,903 | 10,000 | — | — | 7,500 |
 | Short-Term Trading Margin (p/kWh) | — | — | — | — | — | — | 0.68 | 0.80 | — | — | — |
 | LT/MT/Cross-Border Margin (p/kWh) | — | — | — | — | — | — | 4.19 | — | — | — | — |
 
-*FY25 full year volume was 82.75 BU per company announcement.
+*Volume of 82,751 MU (82.75 BU) is FY25 full year per company announcement. Client count (800) and LT/MT Capacity (7,500 MW) are as of H1 FY26 (Sep 2025) per Screener Insights.
 
 ### Analysis of Operating Fundamentals
 
@@ -453,13 +459,19 @@ Management integrity appears intact (no fraud, no related-party issues flagged),
 |---|---|
 | Market Price (CMP) | ₹158 |
 | Market Cap | ₹4,690 Cr |
-| PE Ratio (TTM) | 7.54x |
+| PE Ratio (Screener-reported) | 7.54x |
 | Price/Book Value | **0.80x** |
-| EV/EBITDA | **2.37x** |
+| EV/EBITDA* | **2.37x** |
 | Dividend Yield | **7.38%** |
 | PEG Ratio | 0.75 |
 | Book Value Per Share | ₹197 |
-| EPS (TTM) | ₹28.78 |
+| EPS (TTM, Screener) | ₹28.78 |
+
+> **Methodology Notes:**
+>
+> **PE Ratio:** Screener.in reports PE of ~7.5x, which is based on profit attributable to equity holders of the parent (excluding minority interest from PFS). If calculated on total consolidated TTM net profit (₹968 Cr ÷ 29.6 Cr shares = ₹32.70 EPS), the PE would be ~4.8x. If calculated on Screener's TTM EPS of ₹28.78: 158/28.78 = ~5.5x. The ~7.5x figure is Screener's own calculation methodology, which likely uses a trailing-twelve-month attributable profit figure that differs from the simple quarterly sum. This PE is used as-reported from Screener throughout this analysis.
+>
+> **EV/EBITDA (*):** For a company with an NBFC subsidiary (PFS), Enterprise Value calculations are inherently problematic. The NBFC subsidiary's borrowings (which are its raw material, not traditional corporate debt) may distort the EV calculation depending on how they are classified. The 2.37x figure should be treated with caution — different debt classification methodologies could yield EV/EBITDA figures ranging from ~2-7x. This metric is less meaningful for PTC than P/B or PE.
 
 ### Historical Valuation (Estimated from Available Data)
 
@@ -469,11 +481,11 @@ Management integrity appears intact (no fraud, no related-party issues flagged),
 | PE Ratio | ~11x | ~4x | ~3.5x | ~4.3x | ~5.6x | ~5.3x | ~6.5x | ~5.9x | 7.54x |
 | P/B Ratio | ~0.60x | ~0.45x | ~0.31x | ~0.44x | ~0.59x | ~0.47x | ~0.60x | ~0.91x | **0.80x** |
 | Dividend Yield | ~5.3% | ~6.7% | ~9.1% | ~6.2% | ~4.2% | ~5.0% | ~3.8% | ~4.4% | **7.38%** |
-| EV/EBITDA | ~12x | ~8x | ~7x | ~8x | ~7x | ~5x | ~5x | ~3x | **2.37x** |
+| EV/EBITDA* | ~12x | ~8x | ~7x | ~8x | ~7x | ~5x | ~5x | ~3x | **2.37x** |
 
 ### Historical Comparison
 
-The stock is trading at a **PE of 7.54x**, which is at the **HIGHER end of its historical range** (historically 3.5x-6.5x). This is important — while the PE looks cheap in absolute terms, by PTC's OWN historical standards, it is actually elevated. The reason: FY25 EPS of ₹30.41 is inflated by one-time other income.
+The stock is trading at a **Screener-reported PE of ~7.5x**, which is at the **HIGHER end of its historical range** (historically 3.5x-6.5x on the same Screener methodology). This is important — while the PE looks cheap in absolute terms, by PTC's OWN historical standards, it is actually elevated. The reason: FY25 EPS of ₹30.41 is inflated by one-time other income.
 
 The **P/B of 0.80x** is below book value, which has been the norm for this stock. It has traded between 0.31x and 0.91x book over the past 8 years. The current 0.80x is near the HIGHER end of its historical P/B range.
 
@@ -502,6 +514,8 @@ FY25 reported Net Profit = ₹976 Cr, but this includes ~₹400 Cr of excess oth
 Using 5-year average net profit (FY20-FY24, excluding anomalous FY25) = ₹491 Cr, suggesting a normalised range of ₹500-630 Cr.
 
 **Starting Owner Earnings: ₹600 Cr (Base Case)**
+
+> **DCF Methodology Note:** The Terminal Value in each scenario below is computed using an implicit exit-multiple approach (approximately 6-10x Year 10 cash flow) rather than the Gordon Growth perpetuity model, even though terminal growth rates are stated as assumptions. Using the perpetuity formula (TV = Year 10 CF × (1+g) / (r-g)) would yield significantly higher terminal values (e.g., ~₹8,000 Cr vs. ~₹4,300 Cr in the Conservative case). The exit-multiple approach is deliberately more conservative and avoids the sensitivity issues that make Gordon Growth terminal values unreliable for a structurally challenged business. This means the intrinsic values below are conservative estimates; the true uncertainty lies in whether the business can maintain even these modest growth rates given exchange disintermediation pressures.
 
 ### Scenario 1: Conservative
 
@@ -605,22 +619,22 @@ Using 5-year average net profit (FY20-FY24, excluding anomalous FY25) = ₹491 C
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 7.7% | 12.3% | 17.1% |
-| 10 Years | 5.5% | 8.0% | 10.4% |
+| 5 Years | 8.2% | 13.2% | 18.1% |
+| 10 Years | 9.1% | 14.1% | 19.0% |
 
 #### At Terminal PE = 6x (Historical Average)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 13.8% | 18.6% | 23.6% |
-| 10 Years | 8.5% | 11.1% | 13.5% |
+| 5 Years | 14.7% | 19.9% | 25.1% |
+| 10 Years | 12.3% | 17.4% | 22.5% |
 
 #### At Terminal PE = 15x (Market Average)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 0.6% | 5.0% | 9.5% |
-| 10 Years | 1.9% | 4.3% | 6.6% |
+| 5 Years | -4.5% | -0.2% | 4.1% |
+| 10 Years | 2.5% | 7.1% | 11.8% |
 
 ### Step 4: Reality Check
 
@@ -635,18 +649,18 @@ Using 5-year average net profit (FY20-FY24, excluding anomalous FY25) = ₹491 C
 **Traffic Light Assessment:**
 
 Using the historical average terminal PE of 6x (which is what the market has ACTUALLY paid for this business):
-- To earn 10% over 10 years, you need 8.5% EPS CAGR — this is **above the core business growth rate of 3-5%** → 🟠 **ORANGE**
-- To earn 15%, you need 11.1% EPS CAGR — this is **2-3x the core business growth rate** → 🔴 **RED**
+- To earn 10% over 10 years, you need 12.3% EPS CAGR — this is **well above the core business growth rate of 3-5%** → 🔴 **RED**
+- To earn 15%, you need 17.4% EPS CAGR — this is **4-5x the core business growth rate** → 🔴 **RED**
 
 Using a more generous 8x terminal PE:
-- To earn 10% over 10 years, you need 5.5% EPS CAGR → 🟡 **YELLOW** (possible but requires volume recovery)
-- To earn 15%, you need 8.0% → 🟠 **ORANGE**
+- To earn 10% over 10 years, you need 9.1% EPS CAGR → 🟠 **ORANGE** (above core business growth; requires sustained volume recovery + other income)
+- To earn 15%, you need 14.1% → 🔴 **RED**
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹158, to earn a 10% annualised return over 10 years assuming the market values the business at 8x PE at exit, the company needs to grow normalised EPS at 5.5% CAGR. The company's core business has grown earnings at approximately 3-5% CAGR (excluding one-off items). This implies the market is pricing in modestly optimistic growth, but the risk-reward is not compelling."
+> "At the current price of ₹158, to earn a 10% annualised return over 10 years assuming the market values the business at 8x PE at exit, the company needs to grow normalised EPS at 9.1% CAGR. The company's core business has grown earnings at approximately 3-5% CAGR (excluding one-off items). This implies the market is pricing in meaningfully optimistic growth, and the risk-reward is unattractive on a pure capital-appreciation basis."
 
-> If the PE reverts to its historical average of 6x (which it has done repeatedly), even 10% returns require 8.5% EPS growth — well above what the core business has delivered. **The current price is NOT a fat pitch.**
+> If the PE reverts to its historical average of 6x (which it has done repeatedly), even 10% returns require 12.3% EPS growth — far above what the core business has delivered. **The current price is NOT a fat pitch.** The only path to reasonable returns is through the 7.4% dividend yield supplementing modest (or even negative) price appreciation.
 
 
 
@@ -730,6 +744,8 @@ The question is whether the pessimism around PTC is temporary or permanent. For 
 | FY24 | 3.2% | 1.06x | 2.94x | ~9.9% |
 | FY25 | **6.0%** | **1.16x** | 2.22x | **~15.5%** |
 
+> **DuPont ROE Reconciliation:** This decomposition uses total consolidated net profit (including minority interest) for the Net Profit Margin, and year-end (not average) balance sheet figures for Asset Turnover and Equity Multiplier. The resulting ~15.5% for FY25 sits between the ~18% in Section 6 (which uses consolidated NP ÷ average equity) and the ~12% reported by Screener (which uses attributable profit ÷ average equity). The Screener figure (~12%) is used for valuation analysis throughout this document as it represents the return accruing to PTC's equity holders specifically.
+
 **Key Observations:**
 
 1. **Net Profit Margin** has been remarkably stable at 2-3.3% for most of the decade, with FY25 at 6.0% being a clear outlier driven by other income and lower taxes. The core business generates 2-3% net margins — tissue-thin.
@@ -744,7 +760,7 @@ The question is whether the pessimism around PTC is temporary or permanent. For 
 - **Normalised ROE** (at 3% net margin, 1.1x asset turnover, 2.2x equity multiplier) = ~7.3%. This is **below cost of equity.**
 - At more realistic assumptions (3.5% margin, 1.15x turnover, 2.5x multiplier) = ~10.1%. This is roughly equal to cost of equity.
 
-**ROCE vs. ROE:** ROCE at 12% and ROE at 12.3% are closely aligned, confirming that leverage is no longer distorting returns. However, the convergence also reveals that the underlying business quality is mediocre.
+**ROCE vs. ROE:** ROCE at 12% and Screener-reported ROE at ~12% are closely aligned, confirming that leverage is no longer distorting returns. However, the convergence also reveals that the underlying business quality is mediocre.
 
 > *Buffett: "When you combine ignorance and leverage, you get some pretty interesting results."*
 
@@ -760,7 +776,7 @@ PTC's historical ROE was meaningfully inflated by leverage. Now that the leverag
 | CMP | ₹158 |
 | Current P/B | 0.80x |
 | Sustainable ROE (normalised) | 10-12% |
-| Retention Ratio | ~55% (45% payout) |
+| Retention Ratio | ~55% (45% payout, based on 5-year average) |
 | BV Compounding Rate | ROE × Retention = 10% × 0.55 = 5.5% |
 
 #### Step 2: Projected BVPS
@@ -768,31 +784,46 @@ PTC's historical ROE was meaningfully inflated by leverage. Now that the leverag
 | Year | Projected BVPS |
 |---|---|
 | Current | ₹197 |
-| Year 5 | ₹258 |
+| Year 5 | ₹257 |
 | Year 7 | ₹287 |
 | Year 10 | ₹337 |
 
 #### Step 3: Expected Return CAGR at CMP of ₹158 (Entry P/B: 0.80x)
 
+**Price Appreciation Only (Excluding Dividends):**
+
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 0.80x | Multiple sustains | 10.3% | 8.9% | 7.9% |
-| P/B compresses to 0.60x | Mild de-rating | 4.5% | 4.6% | 4.8% |
-| P/B compresses to 0.50x | Historical median | 0.9% | 1.8% | 2.9% |
-| P/B expands to 1.0x (book value) | Fair value for 10-12% ROE | **15.0%** | **12.0%** | **10.0%** |
-| P/B at theoretical fair (1.0-1.1x) | For 10-12% ROE with 11% CoE | 15.0-16.5% | 12.0-13.0% | 10.0-10.8% |
+| P/B stays at 0.80x | Multiple sustains | 5.4% | 5.5% | 5.5% |
+| P/B compresses to 0.60x | Mild de-rating | -0.4% | 1.2% | 2.5% |
+| P/B compresses to 0.50x | Historical median | -4.0% | -1.4% | 0.6% |
+| P/B expands to 1.0x (book value) | Fair value for 10-12% ROE | **10.3%** | **8.9%** | **7.9%** |
+| P/B at theoretical fair (1.0-1.1x) | For 10-12% ROE with 11% CoE | 12.4% | 10.4% | 8.9% |
+
+**Total Return (Price Appreciation + ~7.4% Dividend Yield):**
+
+| Exit P/B Scenario | Rationale | 5-Year Total | 7-Year Total | 10-Year Total |
+|---|---|---|---|---|
+| P/B stays at 0.80x | Multiple sustains | ~12.8% | ~12.8% | ~12.9% |
+| P/B compresses to 0.60x | Mild de-rating | ~6.9% | ~8.6% | ~9.9% |
+| P/B compresses to 0.50x | Historical median | ~3.4% | ~6.0% | ~8.0% |
+| P/B expands to 1.0x (book value) | Fair value for 10-12% ROE | **~17.6%** | **~16.3%** | **~15.2%** |
+| P/B at theoretical fair (1.0-1.1x) | For 10-12% ROE with 11% CoE | ~19.8% | ~17.8% | ~16.3% |
+
+> *Note: Total return is approximated as Price CAGR + Dividend Yield. Dividend yield will vary as price changes over the holding period; this is a simplification for illustrative purposes.*
 
 #### Step 4: Key Insight
 
-> "At the current entry P/B of 0.80x with a sustainable ROE of ~10-12% and ~55% retention, book value compounds at ~5.5-6.6% annually. If the P/B remains at 0.80x, the return equals ~5.5-6.6% BV compounding PLUS the 7.38% dividend yield, giving a total return of approximately 12-14% — which is actually reasonable for an income-oriented investment. However, if P/B compresses to its historical median of ~0.50x (which it has done multiple times), the total return drops to ~3% BV growth + 7% dividend = ~10%, barely meeting the hurdle rate."
+> "At the current entry P/B of 0.80x with a sustainable ROE of ~10% and ~55% retention, book value compounds at ~5.5% annually. If P/B remains at 0.80x, the price-only return equals the BV compounding rate of ~5.5%. Adding the 7.4% dividend yield gives a total return of approximately ~12.8% — which is actually reasonable for an income-oriented investment. However, if P/B compresses to its historical median of ~0.50x, the total return drops to ~3-8% depending on the holding period, falling below the 10% hurdle rate for shorter periods. The stock can tolerate P/B compression from 0.80x down to approximately 0.60x over 10 years before the total return (including dividends) drops below 10%."
 
 #### Step 5: Traffic Light Verdict
 
-- 10-year return > 10% even if P/B stays at 0.80x (return ≈ 7.9% BV + 7.4% dividend = ~13% total) → 🟢 **GREEN** (but only because of the high dividend yield)
-- If we exclude dividends and look purely at price appreciation, returns require P/B to stay at or above 0.80x → 🟡 **YELLOW**
-- If P/B compresses to 0.50x, total return drops to ~10% (barely meeting hurdle) → 🟡 **YELLOW**
+- If P/B stays at 0.80x: 10-year total return ≈ 5.5% price + 7.4% dividend = ~12.9% → 🟢 **GREEN** (but only because of the high dividend yield)
+- If P/B compresses to 0.60x: 10-year total return ≈ 2.5% price + 7.4% dividend = ~9.9% → 🟡 **YELLOW** (just below hurdle rate)
+- If P/B compresses to 0.50x: 10-year total return ≈ 0.6% price + 7.4% dividend = ~8.0% → 🔴 **RED** (well below hurdle)
+- Excluding dividends and looking purely at price appreciation, returns require P/B expansion to 1.0x or above to exceed 10% → 🔴 **RED** for capital-gain-only investors
 
-**This is fundamentally an income investment, not a capital appreciation investment.** The 7.38% dividend yield is doing most of the heavy lifting in the total return calculation. If you remove the dividend, the investment thesis is weak.
+**This is fundamentally an income investment, not a capital appreciation investment.** The 7.4% dividend yield is doing most of the heavy lifting in the total return calculation. If you remove the dividend, the investment thesis is weak.
 
 
 
@@ -917,11 +948,11 @@ The balance sheet turnaround is complete and successful. But the business turnar
 
 | Factor | Score (1-10) | Commentary |
 |---|---|---|
-| **Business Quality** | **4/10** | Razor-thin margins (5-7% OPM), commodity intermediary, pass-through revenue model. Capital-light but also moat-light. |
+| **Business Quality** | **4/10** | Razor-thin margins (currently 6-7% OPM, down from 8-10% historically), commodity intermediary, pass-through revenue model. Capital-light but also moat-light. |
 | **Moat Durability** | **3/10** | Narrow regulatory moat actively eroding from power exchange disintermediation. Cross-border trade is the most defensible niche. |
 | **Financial Health** | **8/10** | Fortress balance sheet post-deleveraging. D/E 0.39, current ratio 2.02, minimal debt. Strong dividend coverage. |
 | **Management Quality** | **4/10** | Low promoter ownership (16.2%), government-appointed management, no owner-operator culture. But zero dilution and consistent dividends are positives. |
-| **Valuation** | **6/10** | 0.80x book, 7.54x PE, 7.38% dividend yield — looks cheap in absolute terms. But this is roughly fair for a business earning ~10-12% ROE. Not deep value. |
+| **Valuation** | **6/10** | 0.80x book, ~7.5x PE (Screener-reported, based on attributable profit), 7.38% dividend yield — looks cheap in absolute terms. But this is roughly fair for a business earning ~10-12% ROE. Not deep value. |
 | **Margin of Safety** | **4/10** | At ₹158, base case DCF = ₹157. No meaningful margin of safety. Conservative case suggests ~30% downside. |
 | **Scalability** | **3/10** | Anti-scaling. Revenue declining, margins compressing, growth only from below-the-line items. Business is mature/saturated. |
 | **Returns on Capital** | **4/10** | Core ROE of 10-12% is mediocre — roughly equals cost of equity. FY25 ROE inflated by one-offs. |
