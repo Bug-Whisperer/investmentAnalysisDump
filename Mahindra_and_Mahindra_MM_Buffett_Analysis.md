@@ -71,7 +71,9 @@ The economic engine is **primarily the auto + tractor combination** — the trac
 | Period | Sales CAGR | Profit CAGR | EPS CAGR | Stock Price CAGR |
 |---|---|---|---|---|
 | 10 Years | 8% | 16% | ~15% | 17% |
-| 5 Years | 16% | **113%** | ~80%+ | **28%** |
+| 5 Years | 16% | **113%*** | ~80%+ | **28%** |
+
+> *\*Note: The 5-Year Profit CAGR of 113% is sourced directly from Screener.in. However, this figure is mathematically problematic because the FY20 base year has a net loss of −₹321 Cr. A CAGR from a negative number to a positive number is technically undefined. Using FY21 (₹1,512 Cr.) to FY25 (₹14,073 Cr.) over 4 years gives a more meaningful CAGR of ~75%.*
 | 3 Years | 21% | 27% | ~26% | **36%** |
 
 ### Trend Narrative:
@@ -82,7 +84,7 @@ The economic engine is **primarily the auto + tractor combination** — the trac
 
 2. **Revenue has re-accelerated:** After stagnation in FY19-FY21 (COVID + auto downturn), revenue has compounded at 16% over 5 years and is now accelerating (22.5% TTM).
 
-3. **Profit growth has MASSIVELY outpaced revenue growth:** 5-year profit CAGR of 113% vs. 16% revenue CAGR. This is the hallmark of a business hitting an inflection point — operating leverage + margin expansion creating a profit explosion.
+3. **Profit growth has MASSIVELY outpaced revenue growth:** 5-year profit CAGR of 113% (per Screener; see footnote above on negative base year) vs. 16% revenue CAGR. This is the hallmark of a business hitting an inflection point — operating leverage + margin expansion creating a profit explosion.
 
 4. **The FY20 loss was an anomaly:** M&M reported a consolidated loss of ₹321 Cr. in FY20 due to write-offs (Ssangyong and other international ventures). The core business was profitable even in FY20. Post-cleanup, the company has delivered consistently improving results.
 
@@ -111,7 +113,9 @@ M&M was on the operating table in FY20 — write-offs, COVID, auto downturn. The
 | Investments | 10,027 | 14,662 | 18,268 | 19,210 | 28,778 | 30,060 | 35,272 | 35,208 | 41,309 | 36,327 |
 | Other Assets | 62,270 | 73,905 | 1,09,878 | 1,09,960 | 1,06,938 | 1,09,607 | 1,37,902 | 1,63,345 | 1,91,771 | 2,12,160 |
 | **Debt/Equity** | 1.47 | 1.64 | 1.77 | **2.05** | 1.94 | 1.65 | 1.64 | 1.64 | 1.68 | **1.53** |
-| **Book Value/Share (₹)** | ~218 | ~269 | ~362 | ~361 | ~374 | ~424 | ~507 | ~595 | **~666** | — |
+| **Book Value/Share (₹)** | ~218 | ~269 | ~362 | ~361 | ~374 | ~424 | ~507 | ~595 | **~620** | **~666** |
+
+> *Note: Screener.in reports headline Book Value of ₹666, which corresponds to Sep 2025 equity (₹82,844 Cr. / ~124.3 Cr. diluted shares). Mar 2025 BVPS = ₹77,039 / ~124.3 = ~₹620. The difference between equity capital-implied shares (~111.6 Cr. from ₹558 Cr. ÷ ₹5 face value) and market cap-implied shares (~124.3 Cr.) reflects diluted shares outstanding including ESOPs, stock options, and other instruments. This analysis uses the ~124.3 Cr. diluted share count consistently, matching Screener's own Book Value computation.*
 
 ### Critical Context on Debt:
 
@@ -129,6 +133,8 @@ M&M was on the operating table in FY20 — write-offs, COVID, auto downturn. The
 | Quick ratio | 1.10 — adequate | ✅ OK |
 | Cash conversion cycle | -21 days (negative = working capital efficient) | ✅ Excellent |
 | Interest coverage | 3.43x (low due to NBFC consolidation) | ⚠️ Structural |
+
+> *Note on Interest Coverage: The 3.43x figure does not match standard formulas applied to the document's own data — EBITDA/Interest yields 3.36x, and EBIT/Interest yields 3.10x. The 3.43x may reflect a different computation window or methodology from the source. Regardless, the low coverage is STRUCTURAL to the NBFC consolidation (Mahindra Finance's interest expense dominates) and is not a concern for the standalone auto/tractor business, which has negligible interest costs.*
 | Investment portfolio | ₹41,309 Cr. (includes Tech Mahindra, other listed stakes) | ✅ Hidden value |
 | Fixed assets + CWIP growing | ₹34,636 + ₹8,298 = ₹42,934 Cr. — significant capacity expansion | ✅ Growth investment |
 
@@ -212,6 +218,8 @@ M&M is in a **HEAVY GROWTH INVESTMENT CYCLE**, particularly for:
 
 **For TTM (annualised):** Owner Earnings ~₹17,000 Cr. → ~₹137/share.
 
+> *Methodology Note: Owner Earnings above use consolidated net income (including minority interests from Mahindra Finance and other subsidiaries) divided by ~124.3 Cr. diluted shares. Screener's reported EPS uses profit attributable to parent shareholders, which is lower by ~₹1,000-1,150 Cr. (minority interest). This means Owner Earnings per share on an attributable basis would be ~10% lower (approximately ₹114/share for FY25, ~₹125/share TTM). The consolidated approach is used here because D&A and CapEx figures are also consolidated; mixing attributable income with consolidated D&A/CapEx would be methodologically inconsistent. Investors should be aware of this when comparing Owner Earnings/share to reported EPS.*
+
 The gap between reported net income (₹14,073 Cr.) and Owner Earnings (~₹15,347 Cr.) is small and positive — meaning D&A exceeds maintenance CapEx, as expected during a heavy growth investment phase. The growth CapEx will either generate returns (new models succeeding) or be written off (if they fail). This is the key bet.
 
 > **Buffett:** *"Owner earnings represent the relevant item for valuation purposes. They represent (a) reported earnings plus (b) depreciation, depletion, amortisation, and certain other non-cash charges... less (c) the average annual amount of capitalised expenditures for plant and equipment that the business requires to fully maintain its long-term competitive position and its unit volume."*
@@ -228,6 +236,8 @@ M&M's Owner Earnings are real and growing. The heavy growth CapEx is a bet on th
 | **ROE %** | ~13% | ~13% | ~14% | ~22% | ~15% | **-1%** | ~4% | ~16% | ~22% | ~20% | **~18%** |
 | ROIC % | — | — | — | — | — | — | — | — | — | — | **42.4%** |
 | Asset Turnover | — | — | — | — | — | — | — | — | — | — | 0.62 |
+
+> *Note: Asset Turnover of 0.62 here uses average total assets (FY24+FY25)/2. The DuPont table in Section 14 shows 0.58, which uses end-of-period total assets. Both methods are valid; the difference is methodological. The DuPont product in Section 14 (using end-of-period figures) yields ROE of ~18.3%, which matches Screener's reported ROE.*
 | ROA 12M % | — | — | — | — | — | — | — | — | — | — | 5.51% |
 
 **ROE Summary:**
@@ -235,8 +245,10 @@ M&M's Owner Earnings are real and growing. The heavy growth CapEx is a bet on th
 |---|---|
 | 10-Year | 14% |
 | 5-Year | 16% |
-| 3-Year | 18% |
+| 3-Year | 18%* |
 | Latest Year | **18%** |
+
+> *\*Note: The 3-Year ROE of 18% is sourced directly from Screener.in. The simple arithmetic average of annual ROE figures in this document (FY23: 22%, FY24: 20%, FY25: 18%) yields 20%. Screener likely uses a different aggregation methodology. The FY25 ROE of 18% matches Screener's "Last Year" ROE, which appears to use year-end equity rather than average equity (14,073/77,039 = 18.3%). Earlier years in this document (FY23, FY24) use average equity. Screener's reported figures are retained here for consistency with the primary data source.*
 
 ### Commentary:
 
@@ -293,7 +305,7 @@ M&M's standalone auto/tractor business (42% ROIC) earns exceptional returns on c
 **Evidence of moat WIDENING:**
 - SUV revenue market share has GROWN from 13.6% (FY21) to 22.7% (FY25) — a near-doubling.
 - LCV market share at 51.7% — dominant and stable.
-- Auto volumes grown from 348,621 (FY20) to 941,115 (FY25) — nearly 3x in 5 years.
+- Auto volumes grown from 348,621 (FY21 trough) to 941,115 (FY25) — nearly 2.7x in 4 years.
 - Tractor market leadership maintained while expanding globally (433K units).
 
 **The EV Transition — The Big Question:**
@@ -335,7 +347,7 @@ However, M&M is investing heavily in EVs (Born Electric platform) and has a firs
 | Mar 2024 | 1,39,078 | 14.7% | 24,892 | 22.7% | 25.9% (vs OPM 18%) |
 | **Mar 2025** | **1,59,211** | **14.5%** | **30,518** | **22.6%** | **27.9% (vs OPM 19%)** |
 
-**Scaling Quality: ELITE.** Incremental operating margins (25-28%) are significantly ABOVE current operating margins (19%). Each new rupee of revenue is ~40-50% more profitable than the existing base. This is operating leverage at work — fixed costs (R&D, overheads) are being amortised over a much larger revenue base.
+**Scaling Quality: ELITE.** Incremental operating margins (25-28% in FY24-FY25) are significantly ABOVE current operating margins (19%). In the most recent years, each new rupee of revenue is ~35-47% more profitable than the existing base. This is operating leverage at work — fixed costs (R&D, overheads) are being amortised over a much larger revenue base. Note that FY23 had an incremental margin (18.0%) roughly in line with the base OPM of 17%, so the operating leverage effect has strengthened over time rather than being consistent throughout the period.
 
 **3. Capital Scalability:**
 
@@ -387,11 +399,13 @@ The facts are on the table for M&M. The question is whether the current price al
 ### Buffett's $1 Test:
 
 **Calculation (FY15 to current):**
-- Market Cap FY15 (approx ₹640/share × ~59 Cr. shares pre-split ≈ ₹75,000 Cr.): ~₹75,000 Cr.
-- Current Market Cap: ₹3,64,298 Cr. Change: +₹2,89,298 Cr.
+- Market Cap FY15 (approx ₹640/share post-split adjusted × ~59 Cr. adjusted shares ≈ ₹37,760 Cr.): ~₹38,000 Cr.
+- Current Market Cap: ₹3,64,298 Cr. Change: +₹3,26,298 Cr.
 - Total Retained Earnings FY15 to FY25 (approximate): Net Income ~₹71,000 Cr. minus Dividends ~₹14,000 Cr. = ~₹57,000 Cr. retained.
 
-**$1 Test Result:** For every ₹1 retained, approximately **₹5.07 of market value was created.** **EXCEPTIONAL PASS.** Management has deployed retained earnings at a rate that has generated massive shareholder value.
+**$1 Test Result:** For every ₹1 retained, approximately **₹5.72 of market value was created.** **EXCEPTIONAL PASS.** Management has deployed retained earnings at a rate that has generated massive shareholder value.
+
+> *Note: FY15 equity capital was ₹296 Cr. at ₹10 face value = ~29.6 Cr. shares pre-split. On a post-split (₹5 face value) adjusted basis, this equates to ~59.2 Cr. shares at ~₹640 adjusted price, giving a market cap of ~₹38,000 Cr.*
 
 ### Capital Allocation Track Record:
 
@@ -441,6 +455,8 @@ M&M's management appears to have all three. The capital allocation discipline sh
 | **Global Tractor Sales (units)** | 268,549 | 290,775 | 317,531 | 330,436 | 310,000 | 354,498 | 354,698 | 407,545 | 378,386 | **433,000** |
 | Tractor Volume Growth % | — | 8.3% | 9.2% | 4.1% | -6.2% | 14.4% | 0.1% | 14.9% | **-7.2%** | **14.4%** |
 | Mahindra Finance AUM (₹ K Cr.) | 35.00 | 40.93 | 46.78 | 55.10 | 74.58 | 77.16 | 90.78 | 67.66 | 82.77 | **102.60** → **119.00** |
+
+> *Note on Mahindra Finance AUM: The FY22→FY23 decline from ₹90,780 Cr. to ₹67,660 Cr. (~25% drop) likely reflects a reclassification or change in AUM computation methodology (e.g., exclusion of managed/securitised book), not an actual shrinkage in lending activity. The FY25 column shows two values: ₹1,02,600 Cr. (FY25 year-end) → ₹1,19,000 Cr. (latest reported, likely Sep 2025 or Q3 FY26). These are raw figures as sourced from company disclosures at the time of analysis.*
 | Mahindra Lifespaces Sales (₹ Cr.) | — | — | 602 | 1,023 | 778 | 695 | 1,028 | 1,818.75 | 2,328 | **3,299** |
 | LCV <3.5T Market Share % | — | — | — | 44.5% | 45.7% | 41.5% | 40.3% | **45.5%** | 49.0% | **51.7%** |
 | SUV Revenue Market Share % | — | — | — | — | 17.6% | 13.6% | 15.4% | 19.2% | 20.4% | **22.7%** |
@@ -451,7 +467,7 @@ M&M's management appears to have all three. The capital allocation discipline sh
 
 ### Key Observations:
 
-1. **Auto volumes have nearly TRIPLED from the FY21 trough** (348K → 941K). This is extraordinary growth driven by the new SUV portfolio.
+1. **Auto volumes have grown ~2.7x from the FY21 trough** (348K → 941K). This is extraordinary growth driven by the new SUV portfolio.
 
 2. **SUV market share nearly DOUBLED** from 13.6% to 22.7% — the moat is widening in real-time.
 
@@ -477,13 +493,13 @@ M&M's management appears to have all three. The capital allocation discipline sh
 
 | Metric | Value | Context |
 |---|---|---|
-| **P/E (TTM)** | **22.8x** | Industry PE: 28.4x. Below industry average. |
+| **P/E (TTM)** | **23.2x** | Industry PE: 28.4x. Below industry average. |
 | P/B | 4.40x | Industry PBV: 5.42x. Below industry. |
 | Dividend Yield | 0.86% | Modest but consistent |
 | PEG Ratio | 0.84 | Below 1 = potentially undervalued for growth |
 | Market Cap / Sales | ~2.3x | Reasonable for a diversified auto major |
 | EV/EBITDA (estimated) | ~13-14x | Reasonable for the quality and growth |
-| Earnings Yield | 4.4% (1/PE) | Above risk-free rate |
+| Earnings Yield | 4.3% (1/PE) | Above risk-free rate |
 | P/Owner Earnings (TTM ~₹137/share) | ~21.4x | Reasonable |
 
 ### Historical PE Context:
@@ -493,7 +509,7 @@ M&M's PE has historically traded in a range:
 - **Average PE:** 18-25x
 - **Peak PE:** 30-35x (during high-growth optimism periods)
 
-**Current PE of 22.8x is in the UPPER-MIDDLE range** — not cheap, not expensive. It reflects the market's recognition of the business transformation but not euphoric pricing.
+**Current PE of 23.2x is in the UPPER-MIDDLE range** — not cheap, not expensive. It reflects the market's recognition of the business transformation but not euphoric pricing.
 
 **Historical Comparison:** M&M has traded above 22x PE during prior growth phases. The current multiple is sustainable IF the growth continues. If growth decelerates, PE compression to 15-18x would cause significant downside.
 
@@ -526,7 +542,7 @@ Given the cyclical history and current growth trajectory, I will use Owner Earni
 
 **Discount Rate:** 11% (India risk premium + quality business)
 
-**Terminal Growth Rate:** 5% (nominal GDP-linked)
+**Terminal Value Formula (consistent across all scenarios):** TV = Year 10 OE / (Discount Rate − Terminal Growth Rate)
 
 ### Three-Scenario DCF:
 
@@ -537,11 +553,11 @@ Given the cyclical history and current growth trajectory, I will use Owner Earni
 
 | Component | Value |
 |---|---|
-| PV of 10-Year Cash Flows | ₹1,174/share |
-| Terminal Value (at Year 10 OE: ₹307) | ₹4,561/share |
-| PV of Terminal Value | ₹1,618/share |
-| **Intrinsic Value/Share** | **₹2,792** |
-| **Margin of Safety at ₹2,931** | **-5.0% (overvalued)** |
+| PV of 10-Year Cash Flows | ₹1,294/share |
+| Terminal Value (at Year 10 OE: ₹337) | ₹4,809/share |
+| PV of Terminal Value | ₹1,694/share |
+| **Intrinsic Value/Share** | **₹2,988** |
+| **Margin of Safety at ₹2,931** | **1.9%** |
 
 #### Base Case:
 - Years 1-5 growth: 15% (SUV momentum + EV contribution)
@@ -550,11 +566,11 @@ Given the cyclical history and current growth trajectory, I will use Owner Earni
 
 | Component | Value |
 |---|---|
-| PV of 10-Year Cash Flows | ₹1,342/share |
-| Terminal Value (at Year 10 OE: ₹427) | ₹7,117/share |
-| PV of Terminal Value | ₹2,524/share |
-| **Intrinsic Value/Share** | **₹3,866** |
-| **Margin of Safety at ₹2,931** | **24.2%** |
+| PV of 10-Year Cash Flows | ₹1,479/share |
+| Terminal Value (at Year 10 OE: ₹421) | ₹7,019/share |
+| PV of Terminal Value | ₹2,472/share |
+| **Intrinsic Value/Share** | **₹3,951** |
+| **Margin of Safety at ₹2,931** | **25.8%** |
 
 #### Optimistic:
 - Years 1-5 growth: 20% (EV takes off + market share expansion continues)
@@ -563,19 +579,19 @@ Given the cyclical history and current growth trajectory, I will use Owner Earni
 
 | Component | Value |
 |---|---|
-| PV of 10-Year Cash Flows | ₹1,575/share |
-| Terminal Value (at Year 10 OE: ₹596) | ₹9,933/share |
-| PV of Terminal Value | ₹3,522/share |
-| **Intrinsic Value/Share** | **₹5,097** |
-| **Margin of Safety at ₹2,931** | **42.5%** |
+| PV of 10-Year Cash Flows | ₹1,812/share |
+| Terminal Value (at Year 10 OE: ₹570) | ₹9,501/share |
+| PV of Terminal Value | ₹3,346/share |
+| **Intrinsic Value/Share** | **₹5,159** |
+| **Margin of Safety at ₹2,931** | **43.2%** |
 
 ### Summary:
 
 | Scenario | Growth (Yr 1-5 / 6-10) | Intrinsic Value | Margin of Safety | Upside/Downside |
 |---|---|---|---|---|
-| Conservative | 12% / 8% | ₹2,792 | **-5.0%** | -4.7% downside |
-| **Base Case** | **15% / 10%** | **₹3,866** | **24.2%** | **+31.9% upside** |
-| Optimistic | 20% / 12% | ₹5,097 | 42.5% | +73.9% upside |
+| Conservative | 12% / 8% | ₹2,988 | **1.9%** | +1.9% upside |
+| **Base Case** | **15% / 10%** | **₹3,951** | **25.8%** | **+34.8% upside** |
+| Optimistic | 20% / 12% | ₹5,159 | 43.2% | +76.0% upside |
 
 **Key Takeaway:** At ₹2,931, M&M is approximately fairly valued under conservative assumptions and attractively valued if the growth trajectory continues. The margin of safety exists ONLY if you believe in continued 15%+ earnings growth.
 
@@ -608,29 +624,29 @@ Given the cyclical history and current growth trajectory, I will use Owner Earni
 
 | Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 20.0% | 25.4% | 31.0% |
-| 10 Years | 14.5% | 17.1% | 19.8% |
+| 5 Years | 20.3% | 25.7% | 31.2% |
+| 10 Years | 15.0% | 20.3% | 25.5% |
 
 #### At Terminal PE = 20x (Market Average)
 
 | Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 13.5% | 18.7% | 24.1% |
-| 10 Years | 11.2% | 13.8% | 16.4% |
+| 5 Years | 13.6% | 18.7% | 23.9% |
+| 10 Years | 11.8% | 16.8% | 21.9% |
 
 #### At Terminal PE = 28x (Compounder / Industry PE)
 
 | Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 6.7% | 11.7% | 16.9% |
-| 10 Years | 7.8% | 10.3% | 12.9% |
+| 5 Years | 6.2% | 11.0% | 15.8% |
+| 10 Years | 8.1% | 13.0% | 17.9% |
 
 #### At Terminal PE = 22x (Historical Average)
 
 | Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 11.6% | 16.7% | 22.1% |
-| 10 Years | 10.2% | 12.8% | 15.4% |
+| 5 Years | 11.4% | 16.5% | 21.5% |
+| 10 Years | 10.7% | 15.7% | 20.8% |
 
 ### Step 4: Reality Check
 
@@ -644,17 +660,17 @@ Given the cyclical history and current growth trajectory, I will use Owner Earni
 
 **Traffic Light Assessment (using Terminal PE = 20x, 10% hurdle, 10-year horizon):**
 
-Implied EPS CAGR needed: **11.2%** vs. 10Y historical CAGR of ~15% and 3Y CAGR of ~26%.
+Implied EPS CAGR needed: **11.8%** vs. 10Y historical CAGR of ~15% and 3Y CAGR of ~26%.
 
 → 🟢 **GREEN** — The market is asking for BELOW-HISTORICAL growth to deliver a 10% return. Reasonable.
 
-**For 15% returns at 20x terminal PE over 10 years:** 13.8% CAGR needed. Still below historical and recent trends. → 🟢 **GREEN**
+**For 15% returns at 20x terminal PE over 10 years:** 16.8% CAGR needed. This is slightly ABOVE the 10-year historical CAGR of ~15%, implying the company needs to do a bit better than its long-term track record. → 🟡 **YELLOW**
 
-**For 15% returns at 15x terminal PE (pessimistic) over 10 years:** 17.1% CAGR needed. Achievable given current trajectory but requires execution. → 🟡 **YELLOW**
+**For 15% returns at 15x terminal PE (pessimistic) over 10 years:** 20.3% CAGR needed. This is well above the 10-year historical CAGR and requires near-current growth rates to sustain for a decade. → 🟠 **ORANGE**
 
 ### Step 5: The Verdict
 
-> **"At the current price of ₹2,931, to earn a 12% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at ~12% CAGR. The company has historically grown EPS at ~15% CAGR over 10 years and ~26% CAGR over 3 years. This implies the market is pricing in REASONABLE growth — not heroic assumptions."**
+> **"At the current price of ₹2,931, to earn a 12% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at ~12% CAGR. The company has historically grown EPS at ~15% CAGR over 10 years and ~26% CAGR over 3 years. This implies the market is pricing in REASONABLE growth for a 10% hurdle return — not heroic assumptions. However, for 15%+ returns, the market is pricing in growth that exceeds the company's long-term track record, requiring sustained execution."**
 
 The price is fair but not a screaming bargain. You need the business to continue executing, but you don't need miracles.
 
@@ -666,7 +682,7 @@ The price is fair but not a screaming bargain. You need the business to continue
 |---|---|---|---|
 | Asset / Book Value Floor | 1.0x BV (₹666/share) | ₹666 | **-77%** |
 | Trough Earnings | FY20 EPS ₹1 × 15x | ₹15 | N/M (extreme) |
-| Normalised Bear Case | Conservative DCF ₹2,792 | ₹2,792 | **-4.7%** |
+| Normalised Bear Case | Conservative DCF ₹2,988 | ₹2,988 | **+1.9%** (above CMP) |
 | "Market panics" Floor | Historical low PE ~12x × normalised EPS ₹100 | **₹1,200** | **-59%** |
 | "Recession but business intact" | 15x × trough-normal EPS ₹70 | **₹1,050** | **-64%** |
 | Reasonable downside floor | 18x × base EPS ₹100 | **₹1,800** | **-39%** |
@@ -677,18 +693,18 @@ The price is fair but not a screaming bargain. You need the business to continue
 
 | Scenario | Basis | Implied Price | Upside from ₹2,931 |
 |---|---|---|---|
-| Base DCF | ₹3,866 intrinsic value | ₹3,866 | **+31.9%** |
-| Optimistic DCF | ₹5,097 | ₹5,097 | **+73.9%** |
+| Base DCF | ₹3,951 intrinsic value | ₹3,951 | **+34.8%** |
+| Optimistic DCF | ₹5,159 | ₹5,159 | **+76.0%** |
 | EV re-rating | If EV business scales and market assigns EV multiple to a portion | ₹4,500+ | +53%+ |
 | Earnings momentum | FY27E EPS ₹150 × 25x | ₹3,750 | +28% |
 
 #### Part 3: Asymmetry Ratio
 
-Using Most Probable Downside (₹2,100, -28%) and Base Upside (₹3,866, +32%):
+Using Most Probable Downside (₹2,100, -28%) and Base Upside (₹3,951, +35%):
 
-**Asymmetry Ratio = 32% / 28% = 1.1:1**
+**Asymmetry Ratio = 35% / 28% = 1.25:1**
 
-This is a **MARGINAL pitch** — the upside roughly equals the downside. You're not being paid a significant premium for the risk.
+This is a **MARGINAL pitch** — the upside only slightly exceeds the downside. You're not being paid a significant premium for the risk.
 
 #### Part 4: Catalysts & Anti-Catalysts
 
@@ -706,7 +722,7 @@ This is a **MARGINAL pitch** — the upside roughly equals the downside. You're 
 
 #### Part 5: Fat Pitch Verdict
 
-> **"At ₹2,931, the realistic downside is approximately 28% to ₹2,100 (market correction floor). The realistic base-case upside is approximately 32% to ₹3,866 over 3-5 years. This gives an asymmetry ratio of 1.1:1. This is NOT a fat pitch. The business is wonderful and improving, but the price already reflects much of the good news. This is a HOLD-quality investment for existing holders, but not a pound-the-table BUY for new money at this price."**
+> **"At ₹2,931, the realistic downside is approximately 28% to ₹2,100 (market correction floor). The realistic base-case upside is approximately 35% to ₹3,951 over 3-5 years. This gives an asymmetry ratio of 1.25:1. This is NOT a fat pitch. The business is wonderful and improving, but the price already reflects much of the good news. This is a HOLD-quality investment for existing holders, but not a pound-the-table BUY for new money at this price."**
 
 ### Mispricing Identification:
 
@@ -788,6 +804,8 @@ M&M's leverage is NOT the "ignorance + leverage" variety — it's the structural
 | 5.42x (industry P/B) | Industry re-rating | 17.8% | 16.3% | 15.3% |
 | 1.0x Book | Worst case | **-15.7%** | **-8.0%** | **-2.2%** |
 
+> *Note: The CAGRs in this table are approximate total returns (price appreciation + dividend yield of ~0.86%). Over longer holding periods (7-10 years), dividend contributions are modest (~0.3-0.5 pp CAGR addition). For the 5-year 2.20x P/B scenario, the stated 0.1% CAGR is approximate — the precise price-only CAGR is ~-1.3%, and total return including dividends would be approximately -0.4% CAGR. The slight positive rounding reflects the combined effect of intermediate precision in BVPS projections and dividend compounding.*
+
 #### Key Insight:
 
 > **"At the current entry P/B of 4.40x with a sustainable ROE of ~17% and ~79% retention, book value compounds at ~13.4% annually. If the P/B multiple remains at 4.40x, the return equals the BV compounding rate of ~13.4%. The stock can tolerate P/B compression from 4.40x down to approximately 3.0x before the 10-year return drops below 10%."**
@@ -814,7 +832,9 @@ This means the P/B can compress by ~32% and you still earn 9-10%+ returns over 1
 | **Fully Valued / Trim** | 25x - 32x | **₹3,125 - ₹4,000** | 4.5x - 6.0x | Above fair value; limited upside. |
 | **Overvalued / Sell** | > 32x | **> ₹4,000** | > 6.0x | Priced for perfection; sell. |
 
-**Current price of ₹2,931 falls in the FAIR VALUE / HOLD zone** at 22.8x PE and 4.40x P/B. The stock is FAIRLY priced — not cheap enough to buy aggressively, not expensive enough to sell.
+> *Note: PE ranges and price boundaries are the primary zone anchors (PE × normalised EPS of ~₹125). The P/B ranges are independently selected as approximate guide-rails and do not perfectly correspond to the PE-derived price boundaries (e.g., ₹1,750 = 14x PE but 2.63x P/B, not 2.5x). This is because PE and P/B capture different valuation dimensions — PE reflects earnings quality while P/B reflects balance sheet value — and rounding both to clean numbers for zone definition creates minor misalignment. The PE-based price ranges should be treated as the primary signal.*
+
+**Current price of ₹2,931 falls in the FAIR VALUE / HOLD zone** at ~23x PE and 4.40x P/B. The stock is FAIRLY priced — not cheap enough to buy aggressively, not expensive enough to sell.
 
 ### Position Assessment:
 
@@ -836,7 +856,7 @@ This means the P/B can compress by ~32% and you still earn 9-10%+ returns over 1
 |---|---|---|
 | **Circle of Competence** | Auto + tractors = understandable. Conglomerate complexity adds difficulty. | ⚠️ MARGINAL PASS |
 | **Enduring Moat** | #1 SUV, #1 tractor. Brand + distribution + captive finance. Moat is widening. | ✅ PASS |
-| **Management Trust** | Strong capital allocation post-FY20 cleanup. $1 test: ₹5 created per ₹1 retained. Low promoter holding is a concern. | ✅ PASS |
+| **Management Trust** | Strong capital allocation post-FY20 cleanup. $1 test: ₹5.72 created per ₹1 retained. Low promoter holding is a concern. | ✅ PASS |
 | **Resistant to Disruption** | Auto faces EV transition — SIGNIFICANT disruption risk. Tractors are safe. | ⚠️ PARTIAL PASS |
 | **Sustainable Economics 10+ Years** | Auto: likely yes if EV transition managed. Tractors: definitely yes. | ✅ PASS |
 | **Price Below Intrinsic Value** | DCF: fair to slightly above conservative value. SOTP: above current SOTP. Requires growth to justify. | ⚠️ MARGINAL PASS |
@@ -892,8 +912,8 @@ Buffett would say:
 | **Moat Durability** | **8/10** | Brand + distribution + captive finance. Widening in SUVs. Tractor moat is permanent. EV transition is the unknown. |
 | **Financial Health** | **7/10** | Core auto = fortress. Consolidated distorted by NBFC. |
 | **Management Quality** | **8/10** | Excellent capital allocation post-FY20. $1 test exceptional. Low promoter holding is concern. |
-| **Valuation** | **6/10** | PE 22.8x is fair but not cheap. PEG 0.84 is attractive. SOTP suggests slight overvaluation. |
-| **Margin of Safety** | **5/10** | Modest at base case, absent at conservative case. Growth-dependent. |
+| **Valuation** | **6/10** | PE ~23x is fair but not cheap. PEG 0.84 is attractive. SOTP suggests slight overvaluation. |
+| **Margin of Safety** | **5/10** | Razor-thin at conservative case (~2%), modest at base case (~26%). Growth-dependent. |
 | **Scalability** | **8/10** | Elite incremental margins, massive TAM, at inflection point. |
 | **Earnings Predictability** | **6/10** | Improving but still cyclical. NBFC adds uncertainty. |
 | **Overall Score** | **56/80 = 70%** | Good quality at fair price |
