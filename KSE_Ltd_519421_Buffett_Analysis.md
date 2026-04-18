@@ -144,7 +144,7 @@ KSE passes this test emphatically. The balance sheet is a source of enormous str
 
 6. **No stock buybacks:** The company does not repurchase shares. All capital return is via dividends.
 
-7. **FCF-to-Net Income conversion:** Over 11 years, cumulative Net Income ≈ ₹389 Cr. and cumulative FCF ≈ ₹268 Cr. The conversion ratio of ~69% is decent for a manufacturing business with some working capital needs.
+7. **FCF-to-Net Income conversion:** Over 11 years, cumulative Net Income ≈ ₹393 Cr. and cumulative FCF ≈ ₹268 Cr. The conversion ratio of ~68% is decent for a manufacturing business with some working capital needs.
 
 > **Buffett:** *"We like businesses that are throwing off cash, not businesses that are consuming cash."*
 
@@ -185,7 +185,7 @@ The recent step-up in CapEx (FY22: ₹17 Cr., FY23: ₹13 Cr., FY25: ₹15 Cr.) 
 
 **For FY25:** Owner Earnings ≈ ₹93 Cr. → Owner Earnings per share ≈ ₹29.
 
-**For TTM (trailing):** Net Income ~₹123 Cr. + D&A ~₹7 Cr. - Maintenance CapEx ~₹4 Cr. = **Owner Earnings ~₹126 Cr.** → **~₹39 per share.**
+**For TTM (trailing):** Net Income ~₹123 Cr. + D&A ~₹8 Cr. - Maintenance CapEx ~₹4 Cr. = **Owner Earnings ~₹127 Cr.** → **~₹40 per share.**
 
 The minimal gap between reported earnings and Owner Earnings confirms that KSE's earnings quality is VERY HIGH. There is no SBC hiding costs, no massive maintenance CapEx eating into FCF, and depreciation roughly equals maintenance needs. What you see in reported net income is approximately what the owner actually receives.
 
@@ -288,7 +288,7 @@ KSE is the epitome of Buffett's "absence of change" business. Kerala's dairy far
 
 | Year | Revenue (₹ Cr.) | Revenue Growth | Op. Profit (₹ Cr.) | Op. Profit Growth | Net Profit (₹ Cr.) | NP Growth | Incremental Op. Margin |
 |---|---|---|---|---|---|---|---|
-| Mar 2021 | 1,543 | 18.1% | 139 | 435% | 113 | 495% | N/M (from low base) |
+| Mar 2021 | 1,543 | 8.0% | 139 | 435% | 113 | 495% | N/M (from low base) |
 | Mar 2022 | 1,670 | 8.2% | 11 | -92% | 7 | -94% | **Negative** |
 | Mar 2023 | 1,610 | -3.6% | -3 | N/M | -2 | N/M | Negative |
 | Mar 2024 | 1,683 | 4.6% | 32 | N/M | 18 | N/M | Huge (from loss) |
@@ -356,15 +356,12 @@ For every ₹1 of retained earnings, has the company created at least ₹1 of ma
 
 **Calculation (FY15 to current):**
 
-- Market cap FY15 (approx at ~₹200/share price in 2015): ~₹640 Cr. (but stock was around ₹320 after split adjustment in 2015, so market cap was higher. Let me use book values.)
-- Book Value per share: FY15: ₹22.5 → Sep 2025: ₹110. Growth: ₹87.5 per share.
-- Total Retained Earnings (FY15 to FY25, 11 years): Total Net Income ≈ ₹389 Cr. Total Dividends Paid ≈ ₹150 Cr. Retained ≈ ₹239 Cr. = ~₹75 per share retained.
-- Book value increased by ₹87.5 (some from investment gains, unrealised gains).
-- Market cap FY15: Stock price was approximately ₹68 (pre-split adjusted to ₹1 FV) → Market cap ~₹218 Cr.
-- Current Market cap: ₹633 Cr. Change: +₹415 Cr.
-- Retained earnings over the period: ~₹239 Cr.
+- Market cap FY15: Stock price was approximately ₹85 (₹1 face value, post-split adjusted — consistent with Section 11 historical table) → Market cap ~₹272 Cr. (3.2 Cr. shares × ₹85).
+- Current Market cap: ₹633 Cr. Change: +₹361 Cr.
+- Total Retained Earnings (FY15 to FY25, 11 years): Total Net Income = ₹393 Cr. Total Dividends Paid = ₹146 Cr. Retained = ₹247 Cr. = ~₹77 per share retained.
+- Book Value per share: FY15: ₹22.5 → Sep 2025: ₹110. Growth: ₹87.5 per share (some from investment/unrealised gains beyond retained earnings).
 
-**$1 Test Result:** For every ₹1 retained, approximately ₹1.74 of market value was created. **PASS.** Management has deployed retained earnings to generate more than ₹1 of market value per ₹1 retained.
+**$1 Test Result:** For every ₹1 retained, approximately ₹1.46 of market value was created (₹361 Cr. / ₹247 Cr.). **PASS.** Management has deployed retained earnings to generate more than ₹1 of market value per ₹1 retained.
 
 ### Capital Allocation Track Record:
 
@@ -456,7 +453,7 @@ Management appears competent and conservative — no empire-building, no dilutio
 | **P/E Ratio** | **5.17x** (on TTM EPS ₹38.3) | Industry PE: 24.7x. KSE's PE is at a massive discount. |
 | P/B Ratio | 1.80x (on BV ₹110) | Industry PBV: 3.48x. KSE trades at ~half the industry P/B. |
 | Dividend Yield | 4.04% | Among the highest in the FMCG/food sector |
-| PEG Ratio | 0.04 | Extremely low (5Y EPS CAGR 36.2%) |
+| PEG Ratio | 0.14 | Low (PE 5.17x / 5Y EPS CAGR 36.2%). Note: the 5Y EPS CAGR is heavily distorted by the FY22-FY23 trough base. |
 | EV/EBITDA (approx) | ~3.5-4x | Very low for any consumer business |
 | Earnings Yield | 19.3% (1/PE) | Very high — implies significant undervaluation vs. risk-free rate |
 | P/FCF (on FY25 FCF ₹128 Cr.) | ~4.9x | Very low |
@@ -495,7 +492,7 @@ The stock price has actually DECLINED from its FY21 peak of ~₹400 to ₹198 no
 
 ### Key Challenge: Normalising Earnings
 
-KSE's earnings are wildly cyclical. Using current TTM Owner Earnings of ₹126 Cr. as the starting point would massively overstate intrinsic value. Using trough earnings would understate it. The right approach is to use NORMALISED earnings.
+KSE's earnings are wildly cyclical. Using current TTM Owner Earnings of ₹127 Cr. as the starting point would massively overstate intrinsic value. Using trough earnings would understate it. The right approach is to use NORMALISED earnings.
 
 **Normalised Owner Earnings Estimation:**
 
@@ -537,7 +534,7 @@ I will use **₹18 per share** as the normalised Owner Earnings — this represe
 | Terminal Value (26.63 × 1.03) / (0.12 - 0.03) | | | ₹304.8 |
 | PV of Terminal Value | | | ₹98.1 |
 | **Intrinsic Value Per Share** | | | **₹224** |
-| Margin of Safety at ₹198 | | | **11.6%** |
+| Margin of Safety at ₹198 | | | **11.5%** |
 
 #### Scenario 2: Base Case
 - Years 1-5 growth: 8% (moderate volume + margin normalisation)
@@ -546,11 +543,11 @@ I will use **₹18 per share** as the normalised Owner Earnings — this represe
 
 | Component | Value |
 |---|---|
-| PV of 10-Year Cash Flows | ₹148 |
-| Terminal Value (at year 10: ₹33 OE/share) | ₹429 |
-| PV of Terminal Value | ₹138 |
-| **Intrinsic Value Per Share** | **₹286** |
-| **Margin of Safety at ₹198** | **30.8%** |
+| PV of 10-Year Cash Flows | ₹143 |
+| Terminal Value (at year 10: ₹33.75 OE/share) | ₹439 |
+| PV of Terminal Value | ₹141 |
+| **Intrinsic Value Per Share** | **₹284** |
+| **Margin of Safety at ₹198** | **30.3%** |
 
 #### Scenario 3: Optimistic
 - Years 1-5 growth: 12% (volume recovery + sustained favourable margins + capacity utilisation improvement)
@@ -559,19 +556,19 @@ I will use **₹18 per share** as the normalised Owner Earnings — this represe
 
 | Component | Value |
 |---|---|
-| PV of 10-Year Cash Flows | ₹178 |
-| Terminal Value (at year 10: ₹46 OE/share) | ₹575 |
-| PV of Terminal Value | ₹185 |
-| **Intrinsic Value Per Share** | **₹363** |
-| **Margin of Safety at ₹198** | **45.5%** |
+| PV of 10-Year Cash Flows | ₹171 |
+| Terminal Value (at year 10: ₹46.6 OE/share) | ₹606 |
+| PV of Terminal Value | ₹195 |
+| **Intrinsic Value Per Share** | **₹366** |
+| **Margin of Safety at ₹198** | **45.9%** |
 
 ### Summary Table:
 
 | Scenario | Growth (Yr 1-5 / 6-10) | Intrinsic Value/Share | Margin of Safety at ₹198 | Upside |
 |---|---|---|---|---|
-| Conservative | 5% / 3% | **₹224** | 11.6% | +13% |
-| **Base Case** | **8% / 5%** | **₹286** | **30.8%** | **+44%** |
-| Optimistic | 12% / 8% | **₹363** | 45.5% | +83% |
+| Conservative | 5% / 3% | **₹224** | 11.5% | +13% |
+| **Base Case** | **8% / 5%** | **₹284** | **30.3%** | **+43%** |
+| Optimistic | 12% / 8% | **₹366** | 45.9% | +85% |
 
 **Note:** Even the CONSERVATIVE scenario suggests the stock is modestly undervalued. The base case suggests meaningful undervaluation. However, remember that this DCF uses NORMALISED earnings — if the actual earnings trajectory reverts below normalised levels for an extended period, the intrinsic value would be lower.
 
@@ -609,33 +606,33 @@ The approximate conclusion is clear: at ₹198, KSE appears to offer a reasonabl
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 8.5% | 13.1% | 17.9% |
-| 10 Years | 4.1% | 6.4% | 8.7% |
-| 15 Years | 2.6% | 4.2% | 5.6% |
+| 5 Years | 8.1% | 13.0% | 17.9% |
+| 10 Years | 9.0% | 14.0% | 19.0% |
+| 15 Years | 9.4% | 14.3% | 19.3% |
 
 #### At Terminal PE = 18x (Market Average)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 0.2% | 4.5% | 9.1% |
-| 10 Years | **-0.2%** | 2.1% | 4.3% |
-| 15 Years | **-0.5%** | 1.1% | 2.7% |
+| 5 Years | -0.3% | 4.2% | 8.7% |
+| 10 Years | 4.7% | 9.5% | 14.2% |
+| 15 Years | 6.4% | 11.3% | 16.1% |
 
 #### At Terminal PE = 25x (Compounder)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **-5.5%** | -1.5% | 2.8% |
-| 10 Years | **-3.0%** | -0.9% | 1.2% |
-| 15 Years | **-2.3%** | -0.9% | 0.5% |
+| 5 Years | -6.7% | -2.4% | 1.8% |
+| 10 Years | 1.3% | 5.9% | 10.5% |
+| 15 Years | 4.1% | 8.9% | 13.6% |
 
 #### At Terminal PE = 10x (Historical)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 12.2% | 16.9% | 21.7% |
-| 10 Years | 5.8% | 8.2% | 10.5% |
-| 15 Years | 3.8% | 5.3% | 6.8% |
+| 5 Years | 12.1% | 17.2% | 22.3% |
+| 10 Years | 11.1% | 16.1% | 21.1% |
+| 15 Years | 10.7% | 15.7% | 20.8% |
 
 ### Step 4: Reality Check
 
@@ -643,25 +640,28 @@ The approximate conclusion is clear: at ₹198, KSE appears to offer a reasonabl
 |---|---|
 | India nominal GDP growth | 10-12% |
 | KSE 5Y EPS CAGR (historical) | 36.2% (distorted by cycle) |
-| KSE 10Y EPS CAGR | ~9% |
+| KSE 10Y EPS CAGR | ~8-9%* |
 | KSE 5Y Revenue CAGR | 2.9% |
 | Industry average growth | 8-12% |
 
+*\*Note: Screener.in reports 10Y Compounded Profit Growth as 9%. Computing directly from the document's own EPS (FY15: ₹13.63 → FY25: ₹28.53) yields 7.7%. The difference arises from endpoint selection and methodology. Both figures are used as approximate benchmarks; the true through-cycle EPS CAGR is in the 8-9% range.*
+
 **Traffic Light Assessment (using Terminal PE = 12x, 10% hurdle, 10-year horizon):**
 
-The implied EPS growth needed is **4.1%** per year to earn 10% annual returns over 10 years at a 12x terminal PE.
+The implied EPS growth needed is **9.0%** per year to earn 10% annual returns over 10 years at a 12x terminal PE.
 
-- KSE's 10Y EPS CAGR: ~9%. Implied growth is WELL BELOW historical. → 🟢 **GREEN**
-- Even at a pessimistic 10x terminal PE, you need just 5.8% EPS CAGR for a 10% return. → 🟢 **GREEN**
-- For 15% returns at 12x terminal PE over 10 years: 6.4% CAGR needed. Still below historical. → 🟢 **GREEN**
+- KSE's 10Y EPS CAGR: ~8-9%. Implied growth **roughly equals** historical CAGR. → 🟡 **YELLOW** (Fair but not cheap — you need the business to match its historical track record)
+- At a more generous 18x terminal PE, you need just 4.7% EPS CAGR for a 10% return over 10 years. → 🟢 **GREEN**
+- For 15% returns at 12x terminal PE over 10 years: 14.0% CAGR needed. This is well **above** the historical ~8-9% CAGR. → 🔴 **RED** (Requires acceleration beyond historical track record)
+- For 15% returns at 18x terminal PE over 10 years: 9.5% CAGR needed. Roughly in line with history. → 🟡 **YELLOW**
 
 ### Step 5: The Verdict
 
-> **"At the current price of ₹198, to earn a 10% annualised return over 10 years assuming the market values the business at 12x normalised earnings at exit, the company needs to grow normalised EPS at just 4.1% CAGR. The company has historically grown EPS at ~9% CAGR over 10 years. This implies the market is pricing in BELOW-HISTORICAL growth — the market appears to be discounting this stock for its cyclicality and offering it cheaply."**
+> **"At the current price of ₹198, to earn a 10% annualised return over 10 years assuming the market values the business at 12x normalised earnings at exit, the company needs to grow normalised EPS at ~9.0% CAGR. The company has historically grown EPS at ~8-9% CAGR over 10 years. This implies the market is pricing in growth roughly in line with historical rates — the stock is FAIRLY PRICED, not obviously cheap on a reverse DCF basis. However, if the terminal PE is closer to 18x (the industry average discounted for cyclicality), the required growth drops to just ~4.7%, which IS well below historical — making it attractive."**
 
-This is a clear 🟢 **GREEN** signal. Even pessimistic assumptions generate reasonable returns. The market is not demanding heroic growth — it is barely demanding any growth at all.
+The signal is mixed: 🟡 **YELLOW to GREEN** depending on your terminal PE assumption. The stock is not the "clearly cheap" screaming buy that a 5x PE might suggest — because that 5x is on cyclically elevated peak earnings, not normalised earnings. On normalised earnings (11x PE), the valuation is fair with moderate upside if terminal multiples are generous.
 
-> **Buffett's Napkin Test:** You don't need a spreadsheet for this one. At ₹198, you're buying ₹110 of book value growing at 15-20% normalised ROE, with a 4% dividend yield, at a PE of 5x peak earnings (or 11x normalised). The math works on a napkin.
+> **Buffett's Napkin Test:** At ₹198, you're buying ₹110 of book value growing at 15-20% normalised ROE, with a 4% dividend yield, at a PE of 5x peak earnings (or 11x normalised). The napkin math works — the returns are driven primarily by book value compounding, not by any heroic growth assumption. The margin of safety comes from the book value floor, the dividend yield, and the potential for P/B re-rating from historically depressed levels.
 
 ### Step 6: Asymmetric Upside Check — Fat Pitch Analysis
 
@@ -681,20 +681,20 @@ This is a clear 🟢 **GREEN** signal. Even pessimistic assumptions generate rea
 
 | Upside Scenario | Valuation Basis | Implied Price | Upside from ₹198 |
 |---|---|---|---|
-| Base Case (DCF) | ₹286 intrinsic value | ₹286 | **+44%** |
-| Bull Case (Optimistic DCF) | ₹363 intrinsic value | ₹363 | **+83%** |
+| Base Case (DCF) | ₹284 intrinsic value | ₹284 | **+43%** |
+| Bull Case (Optimistic DCF) | ₹366 intrinsic value | ₹366 | **+85%** |
 | Margin Sustains + Re-rating | If market assigns 12x normalised PE (₹18 EPS) + BV compounds to ₹130 in 2 years | ₹216-260 | +9% to +31% |
 | Peak Earnings Sustain + Re-rating | If TTM EPS ₹38 sustains and market assigns 8-10x PE | ₹304-383 | **+54% to +93%** |
 
 #### Part 3: Asymmetry Ratio
 
-Using Most Probable Downside Floor (₹165, -17%) and Base Case Upside (₹286, +44%):
+Using Most Probable Downside Floor (₹165, -17%) and Base Case Upside (₹284, +43%):
 
-**Asymmetry Ratio = 44% / 17% = 2.6:1**
+**Asymmetry Ratio = 43% / 17% = 2.5:1**
 
-This is a **decent pitch** — positive expected value. The upside roughly 2.6x the downside.
+This is a **decent pitch** — positive expected value. The upside roughly 2.5x the downside.
 
-If using the bull case: 83% / 17% = **4.9:1** — approaching a **strong fat pitch**.
+If using the bull case: 85% / 17% = **5.0:1** — a **strong fat pitch**.
 
 #### Part 4: Catalysts & Anti-Catalysts
 
@@ -712,7 +712,7 @@ If using the bull case: 83% / 17% = **4.9:1** — approaching a **strong fat pit
 
 #### Part 5: Fat Pitch Verdict
 
-> **"At ₹198, the realistic downside is approximately 17% to ₹165 (historical trough P/B floor). The realistic base-case upside is approximately 44% to ₹286 over 3-5 years. This gives an asymmetry ratio of 2.6:1. The market is mispricing this stock because it is treating cyclically elevated earnings with excessive scepticism (5x PE) while ignoring the growing book value, zero debt, and dominant market position. This IS a decent fat pitch — not a once-in-a-decade screaming opportunity, but a clearly favourable risk/reward setup."**
+> **"At ₹198, the realistic downside is approximately 17% to ₹165 (historical trough P/B floor). The realistic base-case upside is approximately 43% to ₹284 over 3-5 years. This gives an asymmetry ratio of 2.5:1. The market is mispricing this stock because it is treating cyclically elevated earnings with excessive scepticism (5x PE) while ignoring the growing book value, zero debt, and dominant market position. This IS a decent fat pitch — not a once-in-a-decade screaming opportunity, but a clearly favourable risk/reward setup."**
 
 ### Mispricing Identification:
 
@@ -754,6 +754,8 @@ If using the bull case: 83% / 17% = **4.9:1** — approaching a **strong fat pit
 | **Mar 2025** | **5.5%** | **4.62 (1650/357)** | **1.20 (357/297)** | **~30%** | **~34%** |
 
 ### Quality Assessment:
+
+**Note on DuPont methodology:** The DuPont Product column uses end-of-year balance sheet figures (Total Assets, Shareholders' Equity) rather than averages. The Reported ROE column uses Net Income / Average Equity. In years where equity changes significantly (e.g., FY18, FY21 — years of high profit accumulation), these two approaches diverge materially. The DuPont decomposition is presented to show directional trends in each component, not to precisely replicate the reported ROE figure.
 
 **The excellent news:** KSE's equity multiplier has been DECLINING over time — from ~1.9x to ~1.2x. This means the company is getting LESS leveraged, not more. The ROE is increasingly driven by profitability and capital efficiency, NOT by leverage. This is the exact quality signal Buffett looks for.
 
@@ -798,11 +800,11 @@ KSE's returns come from the OPPOSITE of leverage — they come from capital effi
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
 | P/B stays at 1.80x | Multiple sustains | 13.0% | 13.0% | 13.0% |
-| P/B compresses to 1.35x (0.75× current) | Mild de-rating | 7.3% | 8.8% | 10.1% |
-| P/B compresses to 0.90x (0.5× current) | Significant de-rating | 0.5% | 3.9% | 6.5% |
-| P/B compresses to 1.5x (approx Fair P/B*) | Reverts to fair value | 10.5% | 11.0% | 11.5% |
-| P/B at historical median ~3.0x | Reverts to 10-year average | 24.0% | 20.7% | 18.2% |
-| P/B at 1.0x Book | Worst case for quality co. | -4.4% | 0.8% | 4.5% |
+| P/B compresses to 1.35x (0.75× current) | Mild de-rating | 6.7% | 8.5% | 9.8% |
+| P/B compresses to 0.90x (0.5× current) | Significant de-rating | -1.6% | 2.3% | 5.4% |
+| P/B compresses to 1.5x (approx Fair P/B*) | Reverts to fair value | 9.0% | 10.1% | 11.0% |
+| P/B at historical median ~3.0x | Reverts to 10-year average | 25.2% | 21.6% | 18.9% |
+| P/B at 1.0x Book | Worst case for quality co. | 0.5% | 3.9% | 6.5% |
 
 *Fair P/B calculated using Gordon Growth Model: (ROE - g) / (CoE - g) = (0.20 - 0.13) / (0.12 - 0.13) → This formula gives a negative denominator when g > CoE, which is nonsensical. Using modified approach: Fair P/B ≈ ROE / CoE ≈ 20%/12% ≈ 1.67x. At 1.67x, BV of ₹110 → Fair Price = ₹184.*
 
@@ -812,15 +814,16 @@ Actually, let me recalculate properly. The issue is that the BV compounding rate
 
 #### Step 4: Key Insight
 
-> **"At the current entry P/B of 1.80x with a sustainable ROE of ~20% and ~65% retention, book value compounds at ~13% annually. If the P/B multiple remains at 1.80x, the return equals the BV compounding rate of ~13%. The stock can tolerate P/B compression from 1.80x down to approximately 1.35x before the 10-year return drops below the 10% hurdle rate."**
+> **"At the current entry P/B of 1.80x with a sustainable ROE of ~20% and ~65% retention, book value compounds at ~13% annually. If the P/B multiple remains at 1.80x, the return equals the BV compounding rate of ~13%. The stock can tolerate P/B compression from 1.80x down to approximately 1.4x before the 10-year return drops below the 10% hurdle rate."**
 
-This means the P/B can compress by 25% and you STILL earn 10%+ returns. That's meaningful safety.
+This means the P/B can compress by roughly 22% and you STILL earn 10%+ returns. That's meaningful safety.
 
 #### Step 5: Traffic Light Verdict
 
 10-year return at current P/B: ~13% — above hurdle. ✅
-10-year return if P/B halves to 0.90x: ~6.5% — below hurdle. ❌
-10-year return if P/B compresses 25% to 1.35x: ~10.1% — just meets hurdle. ✅
+10-year return if P/B halves to 0.90x: ~5.4% — below hurdle. ❌
+10-year return if P/B compresses 25% to 1.35x: ~9.8% — just misses hurdle by 0.2pp. ⚠️
+10-year return if P/B compresses to Fair P/B ~1.50x: ~11.0% — above hurdle. ✅
 
 **Verdict: 🟡 YELLOW — Safe but not bulletproof.** The 10-year return exceeds the hurdle rate if P/B stays stable or compresses modestly. A severe P/B compression (below 1.0x) would hurt returns, but this is unlikely for a profitable, debt-free franchise business.
 
@@ -867,7 +870,7 @@ Based on the DCF, P/B analysis, and normalised earnings framework:
 | **Management Trust** | Conservative capital allocation, no dilution, no SBC. BUT: low promoter holding (22.5%) declining, and MD departing. | ⚠️ MARGINAL PASS |
 | **Resistant to Disruption** | Cattle feed hasn't changed in decades. No technology risk. | ✅ PASS |
 | **Sustainable Economics for 10+ Years** | The business model is sustainable. But margins are HIGHLY cyclical — current peak economics are NOT sustainable. Normalised economics are good but not exceptional. | ⚠️ CONDITIONAL PASS |
-| **Price Below Intrinsic Value** | DCF intrinsic value ₹224-363. Current price ₹198. Margin of safety exists on normalised basis. On peak earnings, the price is very cheap. | ✅ PASS |
+| **Price Below Intrinsic Value** | DCF intrinsic value ₹224-366. Current price ₹198. Margin of safety exists on normalised basis. On peak earnings, the price is very cheap. | ✅ PASS |
 | **Financial Fortress** | Debt/Equity 0.07, current ratio 6.15, ₹182 Cr. investments. Impeccable balance sheet. | ✅ PASS |
 
 **Score: 5.5 out of 7 — Solid but not perfect.**
@@ -932,7 +935,7 @@ What would give Buffett pause:
 | **Financial Health** | **10/10** | Debt/Equity 0.07, current ratio 6.15, ₹182 Cr. investments. A financial fortress. Impeccable. |
 | **Management Quality** | **6/10** | Conservative capital allocation, no dilution, no SBC. But low promoter holding (22.5%, declining) and MD departing create uncertainty. |
 | **Valuation** | **8/10** | PE 5.17x (peak), P/B 1.80x (historical low), dividend yield 4.04%. Cheap on most metrics, even on normalised basis. |
-| **Margin of Safety** | **7/10** | 11-45% margin of safety depending on scenario. Not a screaming bargain but clearly below intrinsic value. |
+| **Margin of Safety** | **7/10** | 11-46% margin of safety depending on scenario. Not a screaming bargain but clearly below intrinsic value. |
 | **Earnings Predictability** | **3/10** | The weakest dimension. Earnings are wildly unpredictable year-to-year. Not Buffett's preferred pattern. |
 | **Scalability** | **4/10** | Limited scaling potential. Mature in Kerala. Capital-light but low growth. |
 | **Overall Score** | **53/80 = 66%** | Solid but not exceptional |
