@@ -57,13 +57,13 @@ The individual businesses — yes. Refining (commodity processing), telecom (tol
 
 **Revenue** has grown at a 10% CAGR over 5 years and 10% over 10 years — decent but not exceptional for a company of this size. Revenue growth has been lumpy, driven heavily by commodity price cycles in O2C (the -21.8% crash in FY21 during COVID and the 49% rebound in FY22).
 
-**Operating margins** have expanded from 8-10% a decade ago to a stable 15-18% band. This structural improvement is driven by the growing share of higher-margin Jio and Retail businesses in the revenue mix, partially offsetting the low-margin commodity O2C segment. **The best OPM (18%) was achieved in FY2024.**
+**Operating margins** have expanded structurally to a stable 15-18% band (Screener data from FY14 shows OPM was 8-10% in FY14-FY15). This improvement is driven by the growing share of higher-margin Jio and Retail businesses in the revenue mix, partially offsetting the low-margin commodity O2C segment. **The best OPM (18%) was achieved in FY2024.**
 
-**Net profit growth** has been slowing markedly: from 26% in FY22 to 9% in FY23 to 7% in FY24 to just **2.9% in FY25**. This deceleration is a concern. EPS growth was essentially flat at 0% in FY25 (₹51.45 to ₹51.47), partly due to the share count doubling from the 1:1 bonus issue.
+**Net profit growth** has been slowing markedly: from 26% in FY22 to 9% in FY23 to 7% in FY24 to just **2.9% in FY25**. This deceleration is a concern. EPS growth was essentially flat at 0% in FY25 (₹51.45 to ₹51.47). Note that Screener retrospectively adjusts all historical EPS for subsequent corporate actions (including the FY25 1:1 bonus issue), so both FY24 and FY25 EPS are on the same post-bonus adjusted basis — the flat EPS is not caused by the bonus but rather because the growth in total consolidated Net Profit (2.9%) accrued primarily to minority interests rather than parent shareholders.
 
 **The FY21 tax rate of just 3%** is an anomaly that inflated that year's profit — the underlying business was weaker than the headline profit suggested.
 
-**Key concern:** Earnings growth is NOT outpacing revenue growth on a sustained basis. The 5-year profit CAGR of 10% roughly equals the revenue CAGR of 10%, suggesting limited operating leverage at the consolidated level. **For a company trading at 24.8x earnings, this growth profile is underwhelming.**
+**Key concern:** Earnings growth is NOT outpacing revenue growth on a sustained basis. Screener reports the 5-year compounded profit growth at 10%, roughly matching the revenue CAGR of 10%, though the 5-year EPS CAGR (FY20 ₹29.10 → FY25 ₹51.47) is approximately 12%. The gap between NP growth and EPS growth reflects minority interest dilution in consolidated profits. **For a company trading at 24.8x earnings (Screener-reported PE), this growth profile is underwhelming.**
 
 > **Buffett:** *"The investor of today does not profit from yesterday's growth."* The question is whether RIL's future growth (driven by Jio ARPU hikes, Retail scale, and New Energy) will accelerate from this 10% trajectory.
 
@@ -98,7 +98,7 @@ The individual businesses — yes. Refining (commodity processing), telecom (tol
 | Book Value Per Share (₹) | ~396 | ~446 | ~247* | ~326 | ~354 | ~543 | ~576 | ~529 | ~587 | 623→**648** |
 | Debt/EBITDA | 4.7x | 4.7x | 3.7x | 3.7x | 4.0x | 3.5x | 2.9x | 3.2x | 2.2x | 2.3x |
 
-*Note: FY2018 BV/share dropped due to share count changes (bonus/split); FY2025 face value adjusted for 1:1 bonus issue (shares doubled from ~676 Cr to ~1,353 Cr).*
+*Note: Screener retrospectively adjusts EPS for corporate actions but the BVPS series may have a share-base discontinuity: FY16-FY17 figures appear to use the FY18-bonus-adjusted share count (~590 Cr shares), while FY18-FY25 figures are on the fully-adjusted basis (both FY18 and FY25 bonuses, ~1,184-1,353 Cr shares). This means FY16-FY17 BVPS figures are approximately double what they would be on the fully-adjusted current share base, creating an apparent sharp drop from FY17 (~446) to FY18 (~247) that is partly an artefact. FY2025 face value adjusted for 1:1 bonus issue (shares doubled from ~676 Cr to ~1,353 Cr).*
 
 ### Buffett's Financial Fortress Assessment
 
@@ -197,7 +197,9 @@ Owner Earnings = Net Income + D&A - Maintenance CapEx
 
 **Observation:** Owner Earnings (~₹81,445 Cr) are roughly equal to reported Net Income (₹81,309 Cr) in FY25 because depreciation approximately equals maintenance capex. This means reported earnings are a reasonable proxy for economic earnings at the current scale, BEFORE growth capex.
 
-However, the **reported FCF of ~₹58,700 Cr is significantly lower** than Owner Earnings because it INCLUDES growth capex. The ~₹22,700 Cr gap (₹81,445 - ₹58,700) represents growth capital that the company is choosing to reinvest rather than return to shareholders.
+*Important note: The Net Income used here (₹81,309 Cr) is total consolidated profit including minority interests (~₹11,660 Cr attributable to minority shareholders of Jio, Retail, and other subsidiaries). Owner Earnings attributable to parent shareholders would be approximately ₹69,650 Cr + ₹53,136 − ₹53,000 = ~₹69,786 Cr (~₹51.6 per share). The ₹60/share figure above is on a total consolidated basis.*
+
+However, the **reported FCF of ~₹58,700 Cr is significantly lower** than Owner Earnings because it INCLUDES growth capex. Growth CapEx alone is ~₹67,000 Cr (₹1,20,000 total - ₹53,000 maintenance). The gap between Owner Earnings and FCF is ~₹22,700 Cr (₹81,445 - ₹58,700) rather than the full ₹67,000 Cr because CFO (₹1,78,703 Cr) exceeds Net Income + D&A (₹1,34,445 Cr) by ~₹44,300 Cr due to favourable working capital movements and other non-cash adjustments. In effect: Growth CapEx (~₹67,000 Cr) minus working capital / non-cash benefits (~₹44,300 Cr) = ~₹22,700 Cr gap.
 
 **The quality question:** Is this growth capex creating value? At ROE of 8-9% and ROIC of 10.6%, the returns on incremental capital are JUST ABOVE the cost of capital. This is adequate but not the high-return reinvestment that Buffett demands.
 
@@ -229,7 +231,7 @@ For RIL, the D&A roughly covers maintenance needs, so reported net income is a f
 - **ROIC of 10.6%** is the most generous metric and suggests the core operations earn just above the cost of capital — but not enough to justify the current P/E of 24.8x.
 - **ROE has trended DOWN** from 12-13% in FY16-18 to 8.4% today. This is driven by the massive equity base expansion (rights issue, Jio stake sales) — the equity base nearly tripled while profits only doubled. **The denominator grew faster than the numerator.**
 
-The 10-year average ROE is 9%, the 5-year average is 8%, and the 3-year average is 9%. **These are persistently below the threshold Buffett demands.**
+The 10-year average ROE is 9%, the 5-year average is 8%, and the 3-year average is 9% (as reported by Screener, which uses its own averaging methodology on NP attributable to parent shareholders; simple arithmetic averages of the ROE table above would give ~10.5%, ~9.1%, and ~9.5% respectively). **These are persistently below the threshold Buffett demands.**
 
 > **Buffett:** *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* RIL employs ENORMOUS amounts of capital but at only 8-10% returns. This is the defining weakness of the Reliance thesis — it is a capital-hungry, moderate-return business. Buffett's ideal is the OPPOSITE: capital-light, high-return.
 
@@ -379,11 +381,13 @@ The one bright spot is negative working capital — RIL's suppliers effectively 
 
 | Period | Cumulative Retained Earnings | Market Cap Change | Value Created per ₹1 Retained |
 |---|---|---|---|
-| FY2016 to FY2025 (10 years) | ~₹5,50,000 Cr retained | Market Cap: ~₹3,30,000 Cr (FY16) → ₹19,06,000 Cr = +₹15,76,000 Cr | **~₹2.87 per ₹1 retained** |
-| FY2020 to FY2025 (5 years) | ~₹3,40,000 Cr retained | Market Cap: ~₹9,50,000 Cr (FY20) → ₹19,06,000 Cr = +₹9,56,000 Cr | **~₹2.81 per ₹1 retained** |
-| FY2022 to FY2025 (3 years) | ~₹2,20,000 Cr retained | Market Cap: ~₹17,00,000 Cr (FY22) → ₹19,06,000 Cr = +₹2,06,000 Cr | **~₹0.94 per ₹1 retained** |
+| FY2016 to FY2025 (10 years) | ~₹4,79,000 Cr retained | Market Cap: ~₹3,30,000 Cr (FY16) → ₹19,06,000 Cr = +₹15,76,000 Cr | **~₹3.29 per ₹1 retained** |
+| FY2020 to FY2025 (5 years) | ~₹3,22,000 Cr retained | Market Cap: ~₹9,50,000 Cr (FY20) → ₹19,06,000 Cr = +₹9,56,000 Cr | **~₹2.97 per ₹1 retained** |
+| FY2022 to FY2025 (3 years) | ~₹2,11,000 Cr retained | Market Cap: ~₹17,00,000 Cr (FY22) → ₹19,06,000 Cr = +₹2,06,000 Cr | **~₹0.98 per ₹1 retained** |
 
-**Interpretation:** Over the long term (10 years), RIL has PASSED Buffett's $1 test — creating ₹2.87 of market value for every ₹1 retained. However, the **more recent 3-year period shows a failure** — only ₹0.94 of market value per ₹1 retained. This deterioration is concerning and aligns with the declining ROE trend. The market is signalling that recent capital allocation is NOT creating value.
+*Note: Retained earnings estimated as cumulative total consolidated Net Profit minus estimated dividends (using reported payout ratios). These use total consolidated NP, which includes minority interests (~14% of NP in FY25); using NP attributable to parent shareholders would reduce the retained figures and increase the $1 test ratio slightly.*
+
+**Interpretation:** Over the long term (10 years), RIL has PASSED Buffett's $1 test — creating ₹3.29 of market value for every ₹1 retained. However, the **more recent 3-year period shows a near-failure** — only ₹0.98 of market value per ₹1 retained. This deterioration is concerning and aligns with the declining ROE trend. The market is signalling that recent capital allocation is NOT creating value.
 
 ### Capital Allocation Track Record
 
@@ -460,7 +464,7 @@ The one bright spot is negative working capital — RIL's suppliers effectively 
 |---|---|---|---|---|
 | P/E Ratio | **24.8x** | ~28x | ~22x | 13.0x |
 | P/B Ratio | **2.17x** | ~2.5x | ~1.8x | 1.90x |
-| EV/EBITDA | **10.9x** | ~12x | ~10x | — |
+| EV/EBITDA | **~11.9x** | ~12x | ~10x | — |
 | Dividend Yield | **0.39%** | ~0.4% | ~0.5% | — |
 | Earnings Yield (1/PE) | **4.03%** | ~3.6% | ~4.5% | — |
 | PEG Ratio | **4.62** | — | — | — |
@@ -468,13 +472,15 @@ The one bright spot is negative working capital — RIL's suppliers effectively 
 | P/Owner Earnings | ~23x | — | — | — |
 | Price/Sales | ~2.0x | — | — | — |
 
+*Methodology notes: (a) P/E of 24.8x is Screener's reported figure, which uses its own EPS calculation (implied EPS ~₹56.8); using TTM EPS of ₹61.49 yields a PE of ~22.9x. The analysis uses Screener's 24.8x as the primary PE throughout for consistency with the data source. (b) EV/EBITDA uses EV = Market Cap (₹19,06,048 Cr) + Net Debt (~₹2,20,000 Cr) = ~₹21.26L Cr divided by TTM EBITDA of ₹1,78,640 Cr. (c) PEG of 4.62 (Screener-reported) implies a growth rate of ~5.4%, consistent with Screener's 3-year compounded profit growth of ~5%; using the 5-year EPS CAGR of ~12% would yield a PEG of ~2.1.*
+
 ### Historical Comparison
 
 RIL's current PE of 24.8x is:
 - **Well above the industry PE of 13.0x** — a massive premium to oil & gas peers.
 - **Below its own 5-year average of ~28x** — suggesting moderate de-rating from peak optimism.
 - **Above its 10-year average of ~22x** — still above long-term norms.
-- **PEG ratio of 4.62** (PE / EPS growth rate) is alarmingly high. A PEG above 2 suggests the stock is expensive relative to its growth; 4.62 is extreme.
+- **PEG ratio of 4.62** (Screener-reported, using 3-year compounded profit growth of ~5%) is alarmingly high. Even using the more favourable 5-year EPS CAGR of ~12%, the PEG would be ~2.1 — still above the "fairly valued" threshold of 1.0.
 
 **Has the stock ever traded sustainably at current multiples?**
 RIL traded at 25-35x PE during 2020-2022 when the Jio and Retail excitement peaked. Before 2019, it typically traded at 12-18x PE. The current 24.8x PE reflects a STRUCTURAL RE-RATING driven by the shift from commodity (O2C) to platform (Jio/Retail) businesses. The question is whether this re-rating is permanent or whether the stock will revert to its historical 15-20x range as growth disappoints.
@@ -493,7 +499,7 @@ RIL traded at 25-35x PE during 2020-2022 when the Jio and Retail excitement peak
 3. New Energy will eventually contribute meaningful earnings (speculative).
 4. The PE multiple will sustain at 25x+ (requires continued narrative premium).
 
-> **Buffett:** *"Price is what you pay; value is what you get."* At ₹1,408 and 24.8x earnings, you are paying a PREMIUM price for a MEDIOCRE-return (8.4% ROE) business with MODERATE growth. The price assumes things must go RIGHT; it provides no margin of safety if things go WRONG.
+> **Buffett:** *"Price is what you pay; value is what you get."* At ₹1,408 and 24.8x earnings, you are paying a PREMIUM price for a MEDIOCRE-return (8.4% ROE) business with MODERATE growth. The price assumes things must go RIGHT; it provides insufficient margin of safety if things go WRONG.
 
 ---
 ## 12. INTRINSIC VALUE & MARGIN OF SAFETY
@@ -516,7 +522,7 @@ RIL traded at 25-35x PE during 2020-2022 when the Jio and Retail excitement peak
 | Less: Net Debt | ₹2,20,000 Cr | |
 | **Equity Value** | **₹14,53,000 Cr** | |
 | **Intrinsic Value Per Share** | **₹1,074** | |
-| **Margin of Safety at ₹1,408** | **-31% (OVERVALUED)** | |
+| **Margin of Safety at ₹1,408** | **-31% (OVERVALUED)** | MoS = (1,074 − 1,408) / 1,074 |
 
 #### Scenario 2: Base Case
 | Parameter | Value | Justification |
@@ -532,7 +538,7 @@ RIL traded at 25-35x PE during 2020-2022 when the Jio and Retail excitement peak
 | Less: Net Debt | ₹2,20,000 Cr | |
 | **Equity Value** | **₹20,74,000 Cr** | |
 | **Intrinsic Value Per Share** | **₹1,533** | |
-| **Margin of Safety at ₹1,408** | **+9% (FAIR VALUE)** | |
+| **Margin of Safety at ₹1,408** | **+8% (FAIR VALUE)** | MoS = (1,533 − 1,408) / 1,533 |
 
 #### Scenario 3: Optimistic
 | Parameter | Value | Justification |
@@ -548,19 +554,21 @@ RIL traded at 25-35x PE during 2020-2022 when the Jio and Retail excitement peak
 | Less: Net Debt | ₹2,20,000 Cr | |
 | **Equity Value** | **₹32,04,000 Cr** | |
 | **Intrinsic Value Per Share** | **₹2,368** | |
-| **Margin of Safety at ₹1,408** | **+68% (UNDERVALUED)** | |
+| **Margin of Safety at ₹1,408** | **+41% (UNDERVALUED)** | MoS = (2,368 − 1,408) / 2,368 |
 
 ### Summary Table
 
-| Scenario | Intrinsic Value/Share | CMP (₹1,408) | Margin of Safety | Upside/Downside |
+| Scenario | Intrinsic Value/Share | CMP (₹1,408) | Margin of Safety (IV denom) | Upside/(Downside) (CMP denom) |
 |---|---|---|---|---|
 | **Conservative** | ₹1,074 | ₹1,408 | **-31%** | -24% downside |
-| **Base Case** | ₹1,533 | ₹1,408 | **+9%** | +9% upside |
-| **Optimistic** | ₹2,368 | ₹1,408 | **+68%** | +68% upside |
+| **Base Case** | ₹1,533 | ₹1,408 | **+8%** | +9% upside |
+| **Optimistic** | ₹2,368 | ₹1,408 | **+41%** | +68% upside |
 
-**Weighted Average (40/40/20):** ~₹1,430 per share — essentially where the stock trades today. **There is NO margin of safety at the current price under probability-weighted assumptions.**
+*Note: Margin of Safety uses the formula (IV − CMP) / IV. Upside/(Downside) uses (IV − CMP) / CMP.*
 
-> **Buffett:** *"We insist on a margin of safety in our purchase price. If we calculate the value of a common stock to be only slightly higher than its price, we're not interested in buying."* At ₹1,408, the probability-weighted intrinsic value is ~₹1,430. A +1.5% "margin of safety" is NO margin of safety. Buffett typically demands 25-30% minimum.
+**Weighted Average (40/40/20):** ₹1,516 per share (0.40 × ₹1,074 + 0.40 × ₹1,533 + 0.20 × ₹2,368). The probability-weighted intrinsic value is ~8% above CMP, representing an **insufficient margin of safety** under Buffett's framework.
+
+> **Buffett:** *"We insist on a margin of safety in our purchase price. If we calculate the value of a common stock to be only slightly higher than its price, we're not interested in buying."* At ₹1,408, the probability-weighted intrinsic value is ₹1,516 — an ~8% margin of safety, well below Buffett's 25-30% minimum threshold.
 
 ---
 
@@ -571,10 +579,11 @@ RIL traded at 25-35x PE during 2020-2022 when the Jio and Retail excitement peak
 | Input | Value | Source |
 |---|---|---|
 | Current Market Price (CMP) | ₹1,408 | Market data (18 Mar 2026) |
-| TTM EPS (Normalised) | ₹61.5 | Screener (TTM) |
-| Current PE (on normalised EPS) | 22.9x | CMP / EPS |
+| Current PE (Screener-reported) | 24.8x | Screener's PE uses its own EPS methodology (implied EPS ~₹56.8) |
+| TTM EPS (sum of last 4 quarters) | ₹61.49 | Screener (TTM); yields a PE of ~22.9x |
+| **EPS Used in Calculations** | **~₹56.8** | Implied by Screener PE 24.8x at CMP ₹1,408; used for consistency with all CAGR tables below |
 | Shares Outstanding (Diluted) | 1,353 Cr | Post-bonus |
-| Historical 5Y EPS CAGR | ~10% | ₹29.10 (FY20) → ₹51.47 (FY25), adjusted for bonus |
+| Historical 5Y EPS CAGR | ~12% | ₹29.10 (FY20) → ₹51.47 (FY25), adjusted for bonus |
 | Historical 10Y EPS CAGR | ~12% | ₹21.51 (FY16) → ₹61.49 (TTM), adjusted |
 
 ### Step 2: Terminal PE Scenarios
@@ -625,28 +634,28 @@ RIL traded at 25-35x PE during 2020-2022 when the Jio and Retail excitement peak
 | Benchmark | EPS CAGR |
 |---|---|
 | India Nominal GDP Growth | 10-12% |
-| RIL 5Y Historical EPS CAGR | ~10% |
+| RIL 5Y Historical EPS CAGR | ~12% |
 | RIL 10Y Historical EPS CAGR | ~12% |
 | Industry Average Growth | 8-10% |
-| RIL 5Y Compounded Profit Growth | 10% |
+| RIL 5Y Compounded Profit Growth (Screener) | 10% |
 
 **Traffic Light Assessment:**
 
 To earn a **10% return over 10 years** at the current price:
-- At terminal PE of 15x: Need **15.0% EPS CAGR** → 1.5x historical CAGR → 🟠 **ORANGE** (Expensive)
-- At terminal PE of 20x: Need **12.0% EPS CAGR** → 1.2x historical CAGR → 🟡 **YELLOW** (Fair but optimistic)
-- At terminal PE of 22x: Need **11.1% EPS CAGR** → 1.1x historical CAGR → 🟡 **YELLOW**
-- At terminal PE of 28x: Need **9.1% EPS CAGR** → 0.9x historical CAGR → 🟢 **GREEN** (but requires PE to sustain at 28x!)
+- At terminal PE of 15x: Need **15.0% EPS CAGR** → 1.25x historical EPS CAGR → 🟠 **ORANGE** (Expensive)
+- At terminal PE of 20x: Need **12.0% EPS CAGR** → ~1.0x historical EPS CAGR → 🟡 **YELLOW** (Fair — needs to match historical best)
+- At terminal PE of 22x: Need **11.1% EPS CAGR** → ~0.9x historical EPS CAGR → 🟢 **GREEN** (but requires PE to sustain at 22x)
+- At terminal PE of 28x: Need **9.1% EPS CAGR** → 0.76x historical EPS CAGR → 🟢 **GREEN** (but requires PE to sustain at 28x!)
 
 ### Step 5: The Verdict
 
-> **"At the current price of ₹1,408, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 12.0% CAGR. The company has historically grown EPS at ~10-12% CAGR. This implies the market is pricing in slightly optimistic growth — requiring RIL to match or slightly exceed its historical best. There is NO cushion for disappointment."**
+> **"At the current price of ₹1,408, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 12.0% CAGR. The company has historically grown EPS at ~12% CAGR. This implies the market is pricing in growth that matches the company's historical best — there is limited cushion for disappointment."**
 
 > **To earn 15% returns, you need 14-15% EPS CAGR** at most terminal PE assumptions — this is ABOVE RIL's historical track record and requires acceleration that is not yet visible in the numbers.
 
 **Buffett's Napkin Test:** If the PE contracts to 15x (which is where the industry trades), you need 15% EPS CAGR just to earn 10% returns. RIL has NEVER sustained 15% EPS CAGR for a decade. **The current price leaves no room for error on EITHER the growth assumption OR the multiple assumption.**
 
-> **Buffett:** *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* But even a fair company at a CRAZY price is a terrible investment. RIL at 24.8x PE with 8.4% ROE and 10% earnings growth is neither wonderful NOR cheap. It's a fair company at a full price.
+> **Buffett:** *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* But even a fair company at a CRAZY price is a terrible investment. RIL at 24.8x PE with 8.4% ROE and ~12% historical EPS growth is neither wonderful NOR cheap. It's a fair company at a full price.
 
 ### Step 6: Asymmetric Upside Check — Is This a Fat Pitch?
 
@@ -737,11 +746,13 @@ ROE = Net Profit Margin × Asset Turnover × Equity Multiplier
 | FY2024 | 8.8% | 0.51x | 2.21x | 9.9% | ~10% |
 | FY2025 | **8.4%** | **0.49x** | **2.31x** | **9.5%** | **8.4%** |
 
+*Note: The DuPont ROE consistently exceeds Reported ROE because the DuPont NPM calculation uses total consolidated Net Profit (including minority interests) while Screener's Reported ROE uses Net Profit Attributable to Parent shareholders. For FY25: total NP = ₹81,309 Cr, NP attributable to parent ≈ ₹69,650 Cr (implied by EPS × shares). The ~1.1pp FY25 gap and similar gaps in prior years reflect this methodological difference, not a calculation error.*
+
 ### Trend Analysis
 
 - **Net Profit Margin:** Has fluctuated between 7-11.5%. Currently 8.4% — mid-range. FY2021's 11.5% was inflated by the abnormally low 3% tax rate. The underlying margin trend is FLAT to slightly improving.
 
-- **Asset Turnover:** Has ranged from 0.35x to 0.57x. Currently at 0.49x — the company generates only 49 paise of revenue for every rupee of assets. This is LOW and reflects the capital-intensive nature of the business. The trend is FLAT — no improvement in asset efficiency.
+- **Asset Turnover:** Has ranged from 0.35x to 0.57x. Currently at 0.49x (year-end basis; 0.52x on average-asset basis as used in Section 8) — the company generates only 49 paise of revenue for every rupee of assets. This is LOW and reflects the capital-intensive nature of the business. The trend is FLAT — no improvement in asset efficiency.
 
 - **Equity Multiplier:** Dropped dramatically from 2.59x to 1.89x after the 2020-21 equity raises (rights issue + stake sales nearly doubled equity). It has recovered to 2.31x but remains below pre-equity-raise levels. **This is the primary reason ROE has dropped from 12-13% to 8-9%** — the denominator (equity) exploded while the numerator (profit) grew only moderately.
 
@@ -799,13 +810,12 @@ ROCE (9.69%) > ROE (8.40%) in FY2025, which is the healthy pattern — it means 
 | P/B stays at 2.17x | Multiple sustains | 8.1% | 8.1% | 8.1% |
 | P/B compresses to 1.63x (75% of current) | Mild de-rating | 2.3% | 4.0% | 5.2% |
 | P/B compresses to 1.09x (50% of current) | Significant de-rating | **-4.0%** | **-0.7%** | 1.8% |
-| P/B to Fair Value ~1.0x (ROE ≈ CoE) | Reverts to theoretical fair value for 9% ROE | **-7.3%** | **-3.3%** | **-0.2%** |
+| P/B compresses to 1.0x Book | Valued at book (theoretical fair for ~9% ROE ≈ CoE) | **-7.3%** | **-3.3%** | **~0%** |
 | P/B to historical median ~1.8x | Reverts to own historical | 3.8% | 5.1% | 6.1% |
-| P/B compresses to 1.0x Book | Valued at book value | **-7.3%** | **-3.3%** | **0.1%** |
 
 #### Step 4: Key Insight
 
-> **"At the current entry P/B of 2.17x with a sustainable ROE of 9.0% and 90% retention, book value compounds at 8.1% annually. If the P/B multiple remains at 2.17x, the return equals the BV compounding rate of 8.1% — BELOW the 10% hurdle rate. Even with ZERO multiple compression, the returns are insufficient. The stock can tolerate ZERO P/B compression before the 10-year return drops below the 10% hurdle rate. In fact, the stock needs MULTIPLE EXPANSION from 2.17x to approximately 2.4x just to deliver 10% returns over 10 years."**
+> **"At the current entry P/B of 2.17x with a sustainable ROE of 9.0% and 90% retention, book value compounds at 8.1% annually. If the P/B multiple remains at 2.17x, the return equals the BV compounding rate of 8.1% — BELOW the 10% hurdle rate. Even with ZERO multiple compression, the returns are insufficient. The stock can tolerate ZERO P/B compression before the 10-year return drops below the 10% hurdle rate. In fact, the stock needs MULTIPLE EXPANSION from 2.17x to approximately 2.6x just to deliver 10% returns over 10 years (required future price of ₹3,652 / projected BVPS of ₹1,412 = 2.59x P/B)."**
 
 **This is a critical finding.** At the current price, you are DEPENDENT on the market becoming MORE optimistic (or ROE improving materially) just to earn your hurdle rate. This is the definition of a dangerous entry point.
 
@@ -815,7 +825,7 @@ ROCE (9.69%) > ROE (8.40%) in FY2025, which is the healthy pattern — it means 
 |---|---|---|
 | 10-year return > hurdle rate even if P/B halves | ❌ Return would be ~1.8% | 🔴 **RED** |
 | 10-year return > hurdle rate only if P/B stays within 25% | ❌ Return is 5.2% even with mild compression | 🔴 **RED** |
-| 10-year return < hurdle rate unless P/B EXPANDS | ✅ This is the case — need 2.17x → 2.4x+ | 🔴 **RED** |
+| 10-year return < hurdle rate unless P/B EXPANDS | ✅ This is the case — need 2.17x → ~2.6x | 🔴 **RED** |
 
 **VERDICT: 🔴 RED — Dangerous entry point.** At the current P/B of 2.17x, with a sustainable ROE of only 9%, the business fundamentals cannot overcome the valuation headwind. You NEED the market to remain optimistic just to earn your hurdle rate. This is NOT Buffett investing.
 
@@ -862,7 +872,7 @@ ROCE (9.69%) > ROE (8.40%) in FY2025, which is the healthy pattern — it means 
 | **Trustworthy Management** | Mukesh Ambani is capable. But key-man risk is extreme and succession is unproven. | **MARGINAL** ⚠️ |
 | **Resistant to Disruption** | O2C faces energy transition risk. Retail faces e-commerce disruption. Jio is most defensible. | **FAIL** ❌ |
 | **Sustainable Economics 10+ Years** | O2C may decline. Jio will likely sustain. Retail uncertain. New Energy unproven. | **MARGINAL** ⚠️ |
-| **Price < Intrinsic Value** | At ₹1,408, the stock is near base-case DCF (₹1,533) with NO margin of safety. | **FAIL** ❌ |
+| **Price < Intrinsic Value** | At ₹1,408, the stock is near base-case DCF (₹1,533) with insufficient margin of safety (~8% vs. Buffett's 25-30% minimum). Probability-weighted IV of ₹1,516 provides only ~8% cushion. | **FAIL** ❌ |
 | **ROE > Cost of Capital** | ROE of 8.4% vs. CoE of ~11%. **BELOW cost of capital.** | **FAIL** ❌ |
 | **Consistent High Returns** | ROE has DECLINED from 13% to 8.4% over 10 years. | **FAIL** ❌ |
 | **Low PEG Ratio** | PEG of 4.62 is extremely expensive for the growth delivered. | **FAIL** ❌ |
@@ -876,7 +886,7 @@ ROCE (9.69%) > ROE (8.40%) in FY2025, which is the healthy pattern — it means 
 1. **Complexity** (too many businesses to understand deeply)
 2. **Capital intensity** (enormous capex requirements forever)
 3. **Mediocre returns** (ROE below cost of capital)
-4. **Full valuation** (no margin of safety)
+4. **Full valuation** (insufficient margin of safety — ~8% vs. Buffett's 25-30%)
 5. **Change-dependent** (requires constant reinvention — the opposite of what Buffett seeks)
 
 ...would make this an automatic PASS in his framework.
@@ -935,7 +945,7 @@ However, a SOFT turnaround thesis exists: **Can ROE recover from 8.4% to 12%+?**
 | **Financial Health** | 6 | Acceptable D/E (0.43x), improving but interest coverage (5.4x) not fortress-level |
 | **Management Quality** | 7 | Ambani is exceptional, but key-man risk and succession uncertainty are significant |
 | **Valuation** | **3** | 24.8x PE, 2.17x P/B for 8.4% ROE = expensive on every metric |
-| **Margin of Safety** | **2** | None. Stock at ~base case DCF. No room for error. |
+| **Margin of Safety** | **2** | Insufficient. Probability-weighted IV (₹1,516) provides only ~8% MoS — well below Buffett's 25-30% minimum. |
 | **Scalability** | 5 | Moderate scaler — linear growth, capital-heavy |
 | **ROE / Return Quality** | **4** | 8.4% ROE below cost of equity; declining trend over 10 years |
 | **Earnings Quality** | 6 | Owner earnings ≈ reported earnings; FCF lumpy due to capex |
@@ -943,7 +953,7 @@ However, a SOFT turnaround thesis exists: **Can ROE recover from 8.4% to 12%+?**
 
 ### Buffett Verdict
 
-> **RIL is a LARGE, IMPORTANT, and COMPETENTLY-MANAGED Indian conglomerate — but it is NOT a Buffett stock.** The business is too complex (multiple segments requiring different expertise), too capital-intensive (₹1.2L Cr+ annual capex), earns below its cost of capital (8.4% ROE vs. 11% CoE), and trades at a valuation (24.8x PE, 2.17x P/B) that provides zero margin of safety. The stock is in **"Fully Valued / Trim" territory**. Buffett, especially with a small capital base, would PASS and look for simpler, higher-quality businesses at lower prices. If the stock fell to ₹800-1,000 range (P/B 1.2-1.5x, PE 13-16x), the risk-reward would become attractive enough to consider a position — but even then, the capital intensity and complexity would be concerns.
+> **RIL is a LARGE, IMPORTANT, and COMPETENTLY-MANAGED Indian conglomerate — but it is NOT a Buffett stock.** The business is too complex (multiple segments requiring different expertise), too capital-intensive (₹1.2L Cr+ annual capex), earns below its cost of capital (8.4% ROE vs. 11% CoE), and trades at a valuation (24.8x PE, 2.17x P/B) that provides insufficient margin of safety (~8% vs. Buffett's 25-30% minimum). The stock is in **"Fully Valued / Trim" territory**. Buffett, especially with a small capital base, would PASS and look for simpler, higher-quality businesses at lower prices. If the stock fell to ₹800-1,000 range (P/B 1.2-1.5x, PE 13-16x), the risk-reward would become attractive enough to consider a position — but even then, the capital intensity and complexity would be concerns.
 
 > **The ONLY scenario where Buffett might have owned RIL:** If he could have bought Jio Platforms ALONE at a reasonable price (P/E 15-20x on normalised Jio earnings). The telecom oligopoly, rising ARPU, and near-zero marginal cost economics are genuinely Buffett-like. But the consolidated RIL, weighed down by commodity O2C and unproven New Energy, dilutes that quality.
 
@@ -969,7 +979,7 @@ A 10-year-old would ask: **"Why would I buy a shop that keeps all the money and 
 ### Does the Math Work Without Excel?
 
 **Napkin Math:**
-- Company earns ₹61.5 per share. Stock costs ₹1,408. That's 23x earnings.
+- Company earns ₹61.5 per share (TTM EPS). Stock costs ₹1,408. That's ~23x TTM earnings (Screener reports PE as 24.8x using its own EPS methodology — either way, mid-20s PE).
 - ROE is 8.4%. Book value is ₹648. You're paying 2.17x book for an 8.4% return.
 - 8.4% return on equity with 2.17x P/B means your economic return on PRICE is roughly 8.4% / 2.17 = **3.9%.**
 - The risk-free rate (govt bond) gives you ~7%.
