@@ -34,8 +34,8 @@ Olectra Greentech is India's largest pure-play electric bus manufacturer. The co
 |---|---|---|---|---|---|---|---|---|
 | Revenue | 170 | 201 | 281 | 593 | 1,091 | 1,154 | **1,802** | ~2,200 est. |
 | Revenue Growth YoY | 6% | 18% | 40% | **111%** | 84% | 6% | 56% | ~22% |
-| Operating Profit | **-15** | 5 | 20 | 85 | 141 | 166 | 262 | ~320 est. |
-| OPM % | **-9%** | 3% | 7% | 14% | 13% | 14% | **15%** | ~14.5% |
+| Operating Profit | **-15** | 5 | 20 | 85 | 141 | 166 | 262 | ~273 est. |
+| OPM % | **-9%** | 3% | 7% | 14% | 13% | 14% | **15%** | ~12.4% |
 | Other Income | 15 | 44 | 11 | 6 | 13 | 20 | 14 | ~16 |
 | Interest | 15 | 14 | 8 | 9 | 31 | 43 | 51 | ~56 |
 | Depreciation | 7 | 18 | 13 | 29 | 33 | 37 | 37 | ~40 |
@@ -47,9 +47,11 @@ Olectra Greentech is India's largest pure-play electric bus manufacturer. The co
 | EPS Growth | — | NM | -41% | **340%** | 85% | 17% | **81%** | ~3% |
 | Shares Outstanding (Cr) | 8.21 | 8.21 | 8.21 | 8.21 | 8.21 | 8.21 | 8.21 | 8.21 |
 | Shares Change YoY | — | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
-| EBITDA (est. OpProfit + D&A) | -8 | 23 | 33 | 114 | 174 | 203 | **299** | ~360 est. |
-| EBITDA Margin | -5% | 11% | 12% | 19% | 16% | 18% | **17%** | ~16% |
+| EBITDA (est. OpProfit + D&A) | -8 | 23 | 33 | 114 | 174 | 203 | **299** | ~313 est. |
+| EBITDA Margin | -5% | 11% | 12% | 19% | 16% | 17.6% | **16.6%** | ~14.2% |
 | Dividend Payout % | 0% | 0% | 0% | 9% | 5% | 4% | 2% | — |
+
+> *Screener.in Methodology Notes: (1) OPM% values in the table are sourced directly from Screener.in, which rounds to integer percentages; the precise FY25 OPM is 262/1,802 = 14.5%. (2) EPS values are Screener.in's reported diluted EPS, which uses weighted-average diluted share counts and may differ slightly from simple NI ÷ face-value shares outstanding. (3) PBT figures may differ by ±₹1 Cr from the sum of components due to independent rounding of each line item on Screener.in. (4) EBITDA and EBITDA Margin rows are computed within this analysis (Operating Profit + D&A) and reflect precise figures, not Screener-rounded values.*
 
 ### Trend Narrative
 
@@ -57,7 +59,9 @@ Olectra Greentech is India's largest pure-play electric bus manufacturer. The co
 
 **Margins:** Operating margins have recovered from the disastrous -9% in FY19 (when the EV business was nascent and loss-making) to a peak of ~15% in FY25. However, margins in H1 FY26 show compression — OPM dipped from ~15.5% (Q2 FY25) to ~13.6% (Q2 FY26), a 190bps deterioration that suggests intensifying tender competition and rising costs.
 
-**Earnings:** Net profit growth has been spectacular (123% CAGR over 5 years) but is decelerating. Q2 FY26 PAT grew only 4% YoY despite 25% revenue growth — margin compression ate into profit growth. Q3 FY26 PAT was essentially flat YoY (₹46.7 Cr vs ₹46.6 Cr) despite 29% revenue growth.
+**Earnings:** Net profit growth has been spectacular (~58% NI CAGR over 5 years, FY20→FY25; ~59% on a diluted EPS basis) but is decelerating. Q2 FY26 PAT grew only 4% YoY despite 25% revenue growth — margin compression ate into profit growth. Q3 FY26 PAT was essentially flat YoY (₹46.7 Cr vs ₹46.6 Cr) despite 29% revenue growth.
+
+> *Note: Screener.in reports "Compounded Profit Growth 5 Years: 123%" which uses its own methodology and may differ from a simple CAGR computed on the consolidated NI figures shown in this analysis.*
 
 **Critical Concern:** Revenue is growing but profit is not keeping pace. This is the classic sign of a company in a competitive, government-tender-driven business where pricing power is limited. Incremental margins are declining, not expanding.
 
@@ -251,7 +255,7 @@ Olectra Greentech is India's largest pure-play electric bus manufacturer. The co
 | FY24 | 1,154 | 6% | 166 | 18% | **39.7%** |
 | **FY25** | **1,802** | **56%** | **262** | **58%** | **14.8%** |
 
-**Incremental margins are erratic** — 20.8% in FY22 (very good), 11.2% in FY23 (below average), 39.7% in FY24 (exceptional but on tiny revenue increment), 14.8% in FY25 (roughly in line with current margins). The average incremental margin (~15%) is approximately equal to the current operating margin — this is a **linear scaler**, not an accelerating one. Each new rupee of revenue is about as profitable as the last.
+**Incremental margins are erratic** — 20.8% in FY22 (very good), 11.2% in FY23 (below average), 39.7% in FY24 (exceptional but on tiny revenue increment), 14.8% in FY25 (roughly in line with current margins). The weighted average incremental margin (total incremental OP ÷ total incremental revenue = 242/1,521) is **~16%**, approximately equal to the current operating margin — this is a **linear scaler**, not an accelerating one. Each new rupee of revenue is about as profitable as the last.
 
 **Capital Scalability:**
 
@@ -299,7 +303,7 @@ Capital efficiency is mixed. The CapEx/Revenue ratio spiked in FY25 due to the G
 | FY22-FY25 (3 years) | ~3,600 | ~7,200 | ~3,600 | ~272 | **~13.2x** |
 | Last 1 Year (FY25-Mar 2026) | ~9,600 | ~7,200 | **-2,400** | ~135 | **-17.8x** |
 
-**Interpretation:** Over 5 years, the $1 test is spectacularly positive — every rupee retained created ₹20+ of market value. But the last year tells a different story: the stock has fallen ~25% from its recent peaks, destroying ₹2,400 Cr of market value even as ₹135 Cr was retained. This is the market correcting an overvaluation — the $1 test in the short term is negative because the stock was priced for perfection and reality fell short.
+**Interpretation:** Over 5 years, the $1 test is spectacularly positive — every rupee retained created ₹20+ of market value. But the last year tells a different story: market cap declined ~25% from ~₹9,600 Cr (start of the period) to ~₹7,200 Cr, destroying ₹2,400 Cr of market value even as ₹135 Cr was retained. (Note: the stock has declined ~49% from its 52-week high of ₹1,714, which is a steeper fall than the MCap-weighted $1 test window suggests.) This is the market correcting an overvaluation — the $1 test in the short term is negative because the stock was priced for perfection and reality fell short.
 
 ### Capital Allocation Assessment
 
@@ -360,7 +364,7 @@ Promoter holding has been stable at **50.02%** — very strong. The promoter gro
 | PE Ratio (TTM, on ₹17.4 EPS) | **~50.6x** | ~70-80x avg |
 | Forward PE (on FY26E ₹20-22 EPS) | ~40-44x | — |
 | P/B Ratio | **~6.4x** | ~8-10x avg |
-| P/Sales (TTM) | ~3.6x | ~5-6x avg |
+| P/Sales (FY25) | ~4.0x | ~5-6x avg |
 | P/Owner Earnings (~₹136 Cr) | ~53x | — |
 | EV/EBITDA (est.) | ~25x | ~35-40x avg |
 | Earnings Yield | ~2.0% | — |
@@ -457,8 +461,8 @@ The stock has corrected significantly from its 52-week high of ₹1,714 (down ~4
 | Benchmark | EPS CAGR |
 |---|---|
 | India nominal GDP growth | 10-12% |
-| Olectra historical 5Y EPS CAGR | ~123% (from a tiny base) |
-| Olectra historical 3Y EPS CAGR | ~56% |
+| Olectra historical 5Y EPS CAGR | ~59% (FY20→FY25) |
+| Olectra historical 3Y EPS CAGR | ~58% (FY22→FY25) |
 | H1 FY26 YoY EPS growth | ~3% |
 | Industry growth (e-bus market) | ~20-35% |
 | Analyst consensus FY26 EPS growth | ~30-50% |
@@ -525,7 +529,7 @@ ROE is driven by improving margins AND asset turnover (both quality signals) AND
 
 ### Key Insight
 
-> **At an entry P/B of 6.4x with a sustainable ROE of 14% and 98% retention, book value compounds at ~13.7% annually. If the P/B remains at 6.4x, the return equals the BV compounding rate of ~13.7% — decent. But if P/B compresses to 3x (the theoretically fair multiple for 14% ROE), 5-year returns are approximately -2.3% (i.e., you lose money). The stock can only tolerate P/B compression from 6.4x to roughly 5x before the 10-year return drops below the 10% hurdle rate.**
+> **At an entry P/B of 6.4x with a sustainable ROE of 14% and 98% retention, book value compounds at ~13.7% annually. If the P/B remains at 6.4x, the return equals the BV compounding rate of ~13.7% — decent. But if P/B compresses to 3x (the theoretically fair multiple for 14% ROE), 5-year returns are approximately -2.3% (i.e., you lose money). The stock can only tolerate P/B compression from 6.4x to approximately 4.6x before the 10-year return drops below the 10% hurdle rate.**
 
 ### Traffic Light Verdict
 
@@ -543,7 +547,9 @@ ROE is driven by improving margins AND asset turnover (both quality signals) AND
 | **Fully Valued / Trim** | 5.0-7.0x | 35-50x | **₹685-960** | Above fair value; limited upside; trim on rallies |
 | **Overvalued / Sell** | >7.0x | >50x | **>₹960** | Priced for perfection; sell/avoid |
 
-**Current Price (₹880): FULLY VALUED / TRIM ZONE** — at the upper end of the Fully Valued zone, bordering Overvalued.
+> *Note: PE Range (est.) values are approximate ranges based on expected forward earnings normalisation, not precise divisions of the P/B-derived price ranges by current TTM EPS. The P/B column is the primary anchor for zone classification; the PE column is indicative only.*
+
+**Current Price (₹880): FULLY VALUED / TRIM ZONE** — P/B of 6.4x places the stock in the Fully Valued range (5.0-7.0x), while PE of ~50.6x sits right at the Overvalued boundary (>50x PE). On balance, the P/B criterion is the primary anchor for a manufacturing business with volatile earnings, and 6.4x P/B places it firmly in Fully Valued — but the PE reading confirms the stock is at the expensive end of this zone.
 
 ### If I Already Hold — What Would Buffett Do?
 
@@ -621,7 +627,7 @@ Buffett would acknowledge the massive tailwind (India's EV bus mandate) and the 
 | Margin of Safety | 2 | Minimal at current price; base-case DCF shows only 9% MoS, well below Buffett's 25% threshold |
 | Growth Runway | 8 | Massive e-bus market opportunity; 10,000+ order book |
 | **Overall Score** | **4.9/10** | — |
-| **Buffett Verdict** | **PASS at current prices** | Olectra is a legitimate beneficiary of India's EV bus revolution with a real first-mover advantage, a massive order book, and improving operational metrics. However, the business lacks a durable moat, operates in a rapidly changing and increasingly competitive industry, is dependent on BYD technology, and generates negative free cash flow. At ~50x PE and ~6.4x P/B for a 14% ROE business, the stock offers insufficient margin of safety (Base DCF IV ~₹972 vs CMP ₹880 = only 9% MoS). Buffett would say: "I'd rather miss this one than overpay." **Wait for ₹480-500 (3-3.5x P/B, ~25x PE) for a Value/Buy entry, or below ₹275 (<2x P/B) for a Deep Value entry.** |
+| **Buffett Verdict** | **PASS at current prices** | Olectra is a legitimate beneficiary of India's EV bus revolution with a real first-mover advantage, a massive order book, and improving operational metrics. However, the business lacks a durable moat, operates in a rapidly changing and increasingly competitive industry, is dependent on BYD technology, and generates negative free cash flow. At ~50x PE and ~6.4x P/B for a 14% ROE business, the stock offers insufficient margin of safety (Base DCF IV ~₹972 vs CMP ₹880 = only 9% MoS). Buffett would say: "I'd rather miss this one than overpay." **Wait for ₹480-500 (~3.5x P/B, ~28x PE) for a Value/Buy entry, or below ₹275 (<2x P/B) for a Deep Value entry.** |
 | **Buy Zone** | **Fully Valued / Trim** | Current price ₹880 is in the Fully Valued zone |
 | **Recommendation** | **AVOID at current levels; WATCHLIST for ₹480-500** | Add to watchlist. Monitor Q4 FY26 results for margin trajectory and delivery execution. If the stock corrects to ₹480-500 range AND the business continues improving (rising ROE, stable/improving margins, successful capacity ramp-up), it becomes a compelling growth-at-reasonable-price (GARP) candidate. |
 
