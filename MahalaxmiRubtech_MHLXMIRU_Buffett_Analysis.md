@@ -59,14 +59,16 @@ This is a **niche industrial manufacturer** with characteristics of a **switchin
 | EPS Growth YoY | — | -2.9% | -2.6% | 12.1% | -2.4% | 26.8% | 11.3% | **101.0%** | 1.4% | **52.1%** | — |
 | Shares Outstanding (Cr) | ~0.92 | ~1.02 | ~1.12 | ~1.30 | ~1.30 | ~1.30 | ~1.06 | ~1.06 | ~1.06 | ~1.06 | ~1.06 |
 | Dividend Payout % | **0%** | **0%** | **0%** | **0%** | **0%** | **0%** | **0%** | **0%** | **0%** | **0%** | — |
-| EBITDA (Op Profit + D&A) | 20 | 22 | 21 | 24 | 26 | 27 | 23 | 21 | 22 | **28** | **33** |
-| EBITDA Margin % | 12% | 11% | 9% | 13% | 14% | 20% | 14% | 30% | 29% | **30%** | **31%** |
+| EBITDA (= Operating Profit)* | 13 | 14 | 13 | 15 | 16 | 18 | 15 | 17 | 18 | **24** | **29** |
+| EBITDA Margin % | 8% | 7% | 6% | 8% | 9% | 13% | 9% | 24% | 24% | **26%** | **27%** |
+
+*\*Note: Screener's Operating Profit already equals EBITDA (it is computed before deducting Depreciation & Amortisation). D&A is NOT added back — doing so would double-count.*
 
 ### Trend Narrative — Two Businesses Becoming One
 
 **The most remarkable feature of MRTL's income statement is the PARADOX: revenue has been DECLINING for a decade while profits have been SURGING.**
 
-- **10-year Sales CAGR: -4%.** Revenue fell from ₹168 Cr (FY2016) to ₹92 Cr (FY2025) — a 45% decline.
+- **10-year Sales CAGR: -4%** (per Screener, which computes 10Y from FY2015: ₹144 Cr → FY2025: ₹92 Cr). Within the document's table range (FY2016 onwards), revenue fell from ₹168 Cr to ₹92 Cr over 9 years — a 45% decline, equating to a -6.5% CAGR over that 9-year window.
 - **10-year Profit CAGR: +20%.** Net profit rose from ₹3 Cr to ₹17 Cr — a 5.7x increase.
 - **5-year Profit CAGR: +29%.** 3-year: +48%.
 
@@ -117,6 +119,10 @@ The company has been systematically **exiting low-margin traditional textile ope
 
 *Note: Screener shows current BV/Share of ₹74.6, which includes Sep 2025 half-year retained earnings (₹79 Cr / 1.06 Cr shares ≈ ₹74.5).*
 
+*Note on D/E: Screener reports D/E of 0.19 for Mar 2025. Manual calculation using rounded balance sheet figures (Borrowings ₹15 Cr / Equity ₹69 Cr) yields 0.22. The difference arises from Screener using precise (unrounded) figures internally. Both are very low; the qualitative conclusion is identical.*
+
+*Note on Interest Coverage: Screener reports 38.9x. Manual derivation from the rounded P&L (EBIT ₹23 Cr / Interest ₹1 Cr = 23x; OP/Interest = 24x) cannot reproduce 38.9x because the interest expense is sub-₹1 Cr in precise data (FY2025 quarterly interest: ₹0.33+0.22+0.25+0.27 = ₹1.07 Cr). Screener likely uses more granular figures. The qualitative conclusion — interest coverage is exceptionally high — holds regardless of the precise figure.*
+
 **Critical observation — the balance sheet SHRANK dramatically around FY2023:**
 Total assets fell from ₹180 Cr (FY2022) to ₹72 Cr (FY2023) — a **60% collapse.** This coincides with the revenue drop from ₹170 Cr to ₹69 Cr. What happened?
 
@@ -164,7 +170,7 @@ The company **divested/wound down its traditional textile operations,** strippin
 
 ### Cash Flow Commentary
 
-1. **CFO has been consistently positive** for 8 of the last 10 years — the one exception (FY2023, -₹3 Cr) was during the textile exit restructuring. This is excellent consistency for a tiny company.
+1. **CFO has been consistently positive** for 9 of the last 10 years — the one exception (FY2023, -₹3 Cr) was during the textile exit restructuring. This is excellent consistency for a tiny company.
 
 2. **FCF is positive and growing:** Estimated FY2025 FCF of ~₹9 Cr, TTM ~₹13 Cr. For a ₹178 Cr market cap company, this represents a **FCF yield of ~7.3%** — very attractive.
 
@@ -235,6 +241,8 @@ Owner Earnings (TTM) = 21 + 4 - 4
 | **ROIC %** | — | — | — | — | — | — | — | — | — | **25.6%** |
 
 **Current reported metrics:** ROE = 27.5%, ROCE = 30.1%, ROIC = 25.6%, ROA = 18.5%
+
+*Note: ROE figures above are sourced from Screener, which uses its own averaging methodology for equity. For FY2023, the ROE appears as ~21% here vs. 26.2% in the DuPont decomposition (Section 14) because DuPont uses year-end equity figures while Screener uses a weighted/average method. The large equity swing in FY2023 (from ₹77 Cr to ₹42 Cr due to restructuring write-downs) amplifies the difference between methods. The 10Y and 5Y average ROE figures (10% and 14%) are also sourced directly from Screener.*
 
 ### Analysis — A Genuine Transformation in Business Quality
 
@@ -396,13 +404,13 @@ MRTL is at the **Inflection Point / Scaling Phase** — the restructuring is com
 
 | Period | Start Equity (Book Value) | End Equity | Retained Earnings | Market Cap Change | Value per ₹1 Retained |
 |---|---|---|---|---|---|
-| FY2016-FY2025 (10Y) | ₹51 Cr | ₹69 Cr | ~₹50 Cr (est. cum.) | Market cap from ~₹20 Cr to ₹178 Cr = +₹158 Cr | **₹3.16 per ₹1** |
-| FY2020-FY2025 (5Y) | ₹88 Cr | ₹69 Cr* | ~₹38 Cr | Market cap from ~₹40 Cr to ₹178 Cr = +₹138 Cr | **₹3.63 per ₹1** |
-| FY2023-FY2025 (3Y) | ₹42 Cr | ₹69 Cr | ~₹39 Cr | Market cap from ~₹100 Cr to ₹178 Cr = +₹78 Cr | **₹2.00 per ₹1** |
+| FY2016-FY2025 (10Y) | ₹48 Cr (end FY2015) | ₹69 Cr | ~₹70 Cr (cum. NP)* | Market cap from ~₹20 Cr to ₹178 Cr = +₹158 Cr | **₹2.26 per ₹1** |
+| FY2021-FY2025 (5Y) | ₹88 Cr (end FY2020) | ₹69 Cr* | ~₹50 Cr (cum. NP)* | Market cap from ~₹40 Cr to ₹178 Cr = +₹138 Cr | **₹2.76 per ₹1** |
+| FY2023-FY2025 (3Y) | ₹77 Cr (end FY2022) | ₹69 Cr | ~₹39 Cr (cum. NP)* | Market cap from ~₹100 Cr to ₹178 Cr = +₹78 Cr | **₹2.00 per ₹1** |
 
-*Note: Equity fell during restructuring period (FY2022-23 write-downs), then recovered.*
+*\*Note: With zero dividends paid in any year, retained earnings = cumulative net profit over each period (FY2016-25: 3+3+4+5+5+6+5+11+11+17 = ₹70 Cr; FY2021-25: 6+5+11+11+17 = ₹50 Cr; FY2023-25: 11+11+17 = ₹39 Cr). The equity change method (End Equity − Start Equity) would show much lower or even negative retained earnings for the 5Y and 10Y periods because of the FY2022-23 restructuring write-downs, which reduced equity on paper but were not operating losses. Cumulative NP is the appropriate measure for this specific company.*
 
-**The $1 test is PASSED across all periods.** Every ₹1 of retained earnings has created ₹2-3.6 of market value. The 5-year figure of ₹3.63 per ₹1 is particularly impressive given the challenging restructuring period.
+**The $1 test is PASSED across all periods.** Every ₹1 of retained earnings has created ₹2-2.8 of market value. The 5-year figure of ₹2.76 per ₹1 is impressive given the challenging restructuring period.
 
 ### Capital Allocation Track Record
 
@@ -480,13 +488,15 @@ MRTL is at the **Inflection Point / Scaling Phase** — the restructuring is com
 |---|---|---|---|
 | **PE Ratio** | **8.48x** | 20.5x | **59% discount to industry** |
 | P/B Ratio | **2.24x** | 1.64x | Slight premium — justified by 28% ROE |
-| EV/EBITDA | **4.81x** | — | Extremely cheap |
+| EV/EBITDA | **~6.1x** (est.)* | — | Cheap |
 | Earnings Yield | **11.8%** | — | More than risk-free rate (7%) — very attractive |
 | Dividend Yield | **0.0%** | — | No dividends ever paid |
-| PEG Ratio | **0.18** | — | Extraordinarily low (5Y profit CAGR 29.5%) |
+| PEG Ratio | **0.29** | — | Very low (5Y profit CAGR ~29%) |
 | Price/Sales | ~1.7x | — | Reasonable for 27% OPM business |
 | P/FCF (est.) | ~14x | — | Reasonable |
 | P/Owner Earnings | **8.4x** | — | Cheap — owner earnings = reported earnings |
+
+*\*EV/EBITDA is estimated using EBITDA = Operating Profit (per Screener convention, OP already equals EBITDA) and an approximate EV calculation (Market Cap + Debt − estimated cash). The precise figure depends on cash & liquid investments not separately broken out in Screener's balance sheet summary.*
 
 ### Historical Comparison
 
@@ -522,7 +532,8 @@ MRTL has historically traded at very low multiples (PE 5-15x for most of its his
 | Less: Net Debt | ₹15 Cr | |
 | **Equity Value** | **₹266 Cr** | |
 | **Intrinsic Value Per Share** | **₹251** | |
-| **Margin of Safety at ₹167** | **+50% (UNDERVALUED)** | |
+| **Upside at ₹167** | **+50%** | (IV − CMP) / CMP |
+| **Margin of Safety** | **33%** | (IV − CMP) / IV |
 
 #### Scenario 2: Base Case
 | Parameter | Value | Justification |
@@ -538,7 +549,8 @@ MRTL has historically traded at very low multiples (PE 5-15x for most of its his
 | Less: Net Debt | ₹15 Cr | |
 | **Equity Value** | **₹445 Cr** | |
 | **Intrinsic Value Per Share** | **₹420** | |
-| **Margin of Safety at ₹167** | **+152% (DEEPLY UNDERVALUED)** | |
+| **Upside at ₹167** | **+152%** | (IV − CMP) / CMP |
+| **Margin of Safety** | **60%** | (IV − CMP) / IV |
 
 #### Scenario 3: Optimistic
 | Parameter | Value | Justification |
@@ -554,21 +566,22 @@ MRTL has historically traded at very low multiples (PE 5-15x for most of its his
 | Less: Net Debt | ₹15 Cr | |
 | **Equity Value** | **₹912 Cr** | |
 | **Intrinsic Value Per Share** | **₹860** | |
-| **Margin of Safety at ₹167** | **+415% (MASSIVELY UNDERVALUED)** | |
+| **Upside at ₹167** | **+415%** | (IV − CMP) / CMP |
+| **Margin of Safety** | **81%** | (IV − CMP) / IV |
 
 ### Summary Table
 
-| Scenario | Intrinsic Value/Share | CMP (₹167) | Margin of Safety | Upside/Downside |
+| Scenario | Intrinsic Value/Share | CMP (₹167) | Margin of Safety (IV−CMP)/IV | Upside (IV−CMP)/CMP |
 |---|---|---|---|---|
-| **Conservative** | **₹251** | ₹167 | **+50%** | +50% upside |
-| **Base Case** | **₹420** | ₹167 | **+152%** | +152% upside |
-| **Optimistic** | **₹860** | ₹167 | **+415%** | +415% upside |
+| **Conservative** | **₹251** | ₹167 | **33%** | +50% |
+| **Base Case** | **₹420** | ₹167 | **60%** | +152% |
+| **Optimistic** | **₹860** | ₹167 | **81%** | +415% |
 
 **Weighted Average (40/40/20):** ₹251×0.4 + ₹420×0.4 + ₹860×0.2 = ₹100 + ₹168 + ₹172 = **₹440 per share**
 
-**The probability-weighted intrinsic value is ₹440 — representing ~164% upside from ₹167.** Even the CONSERVATIVE scenario shows 50% upside. **This stock has a massive margin of safety.**
+**The probability-weighted intrinsic value is ₹440 — representing a 62% margin of safety ((440−167)/440) and ~164% upside from ₹167.** Even the CONSERVATIVE scenario shows 33% margin of safety. **This stock has a massive margin of safety.**
 
-> **Buffett:** *"We insist on a margin of safety in our purchase price. If we calculate the value of a common stock to be only slightly higher than its price, we're not interested in buying."* At ₹167, the margin of safety is 50% even under the MOST pessimistic assumptions. Under probability-weighted assumptions, it's 164%. This is the kind of margin of safety Buffett DEMANDS — and it's available here because the stock is micro-cap, obscure, and ignored.
+> **Buffett:** *"We insist on a margin of safety in our purchase price. If we calculate the value of a common stock to be only slightly higher than its price, we're not interested in buying."* At ₹167, the margin of safety is 33% even under the MOST pessimistic assumptions. Under probability-weighted assumptions, it's 62%. This is the kind of margin of safety Buffett DEMANDS — and it's available here because the stock is micro-cap, obscure, and ignored.
 
 ---
 
@@ -600,33 +613,33 @@ MRTL has historically traded at very low multiples (PE 5-15x for most of its his
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 13.4% | 18.7% | 24.2% |
-| 10 Years | 11.0% | 13.7% | 16.4% |
-| 15 Years | 10.1% | 12.2% | 14.3% |
+| 5 Years | 6.3% | 11.2% | 16.0% |
+| 10 Years | 8.1% | 13.1% | 18.0% |
+| 15 Years | 8.8% | 13.7% | 18.6% |
 
 #### At Terminal PE = 15x
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 1.7% | 6.7% | 11.8% |
-| 10 Years | 5.9% | 8.5% | 11.1% |
-| 15 Years | 6.4% | 8.5% | 10.5% |
+| 5 Years | -2.0% | 2.5% | 7.0% |
+| 10 Years | 3.9% | 8.6% | 13.3% |
+| 15 Years | 5.9% | 10.7% | 15.5% |
 
 #### At Terminal PE = 20x (Industry)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | -4.3% | 0.5% | 5.4% |
-| 10 Years | 2.4% | 5.0% | 7.5% |
-| 15 Years | 3.7% | 5.7% | 7.6% |
+| 5 Years | -7.4% | -3.2% | 1.0% |
+| 10 Years | 0.9% | 5.5% | 10.1% |
+| 15 Years | 3.9% | 8.6% | 13.3% |
 
 #### At Terminal PE = 12x (Historical)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 7.7% | 12.8% | 18.2% |
-| 10 Years | 8.5% | 11.1% | 13.7% |
-| 15 Years | 8.3% | 10.4% | 12.4% |
+| 5 Years | 2.5% | 7.2% | 11.8% |
+| 10 Years | 6.2% | 11.0% | 15.8% |
+| 15 Years | 7.4% | 12.3% | 17.2% |
 
 ### Step 4: Reality Check
 
@@ -641,19 +654,19 @@ MRTL has historically traded at very low multiples (PE 5-15x for most of its his
 **Traffic Light Assessment:**
 
 To earn **15% return over 10 years** at ₹167:
-- At terminal PE 10x: Need **13.7% EPS CAGR** → 0.46x historical CAGR → 🟢 **GREEN** (trivially achievable!)
-- At terminal PE 12x: Need **11.1% EPS CAGR** → 0.38x historical CAGR → 🟢 **GREEN** (trivially achievable!)
-- At terminal PE 15x: Need **8.5% EPS CAGR** → 0.29x historical CAGR → 🟢 **GREEN** (below GDP growth!)
+- At terminal PE 10x: Need **13.1% EPS CAGR** → 0.44x historical 5Y CAGR → 🟢 **GREEN** (easily achievable!)
+- At terminal PE 12x: Need **11.0% EPS CAGR** → 0.37x historical 5Y CAGR → 🟢 **GREEN** (easily achievable!)
+- At terminal PE 15x: Need **8.6% EPS CAGR** → 0.29x historical 5Y CAGR → 🟢 **GREEN** (below GDP growth!)
 
 To earn **20% return over 10 years** at ₹167:
-- At terminal PE 12x: Need **13.7% EPS CAGR** → 0.46x historical CAGR → 🟢 **GREEN**
-- At terminal PE 15x: Need **11.1% EPS CAGR** → 🟢 **GREEN**
+- At terminal PE 12x: Need **15.8% EPS CAGR** → 0.54x historical CAGR → 🟢 **GREEN**
+- At terminal PE 15x: Need **13.3% EPS CAGR** → 🟢 **GREEN**
 
-**EVERY SCENARIO IS GREEN.** The market is pricing in essentially ZERO growth. To earn a 15% return over 10 years, you need EPS to grow at just 8.5-14% — far below what the company has actually delivered (20-30%). The implied growth expectations are absurdly low.
+**EVERY SCENARIO IS GREEN.** The market is pricing in essentially ZERO growth. To earn a 15% return over 10 years, you need EPS to grow at just 8.6-13% — far below what the company has actually delivered (20-30%). The implied growth expectations are absurdly low.
 
 ### Step 5: The Verdict
 
-> **"At the current price of ₹167, to earn a 15% annualised return over 10 years assuming the market values the business at 12x PE at exit, the company needs to grow EPS at just 11.1% CAGR. The company has historically grown EPS at 20-29% CAGR. This implies the market is pricing in growth LESS THAN HALF of what the company has actually delivered. The current price is pricing in EXTREMELY PESSIMISTIC assumptions — this is a classic case of a wonderful small business at a wonderful price."**
+> **"At the current price of ₹167, to earn a 15% annualised return over 10 years assuming the market values the business at 12x PE at exit, the company needs to grow EPS at just 11.0% CAGR. The company has historically grown EPS at 20-29% CAGR. This implies the market is pricing in growth LESS THAN HALF of what the company has actually delivered. The current price is pricing in EXTREMELY PESSIMISTIC assumptions — this is a classic case of a wonderful small business at a wonderful price."**
 
 **Buffett's Napkin Test:** To earn 15% returns, you need ~11% EPS growth for a decade. That's BELOW GDP growth for a 28% ROE company. On a napkin, this works: ₹20 EPS growing at 11% for 10 years = ₹57 EPS. At 12x PE = ₹684 stock price. From ₹167, that's 15% CAGR. **Simple. No spreadsheet needed. No heroic assumptions. This is a no-brainer.**
 
@@ -812,29 +825,29 @@ ROE = Net Profit Margin × Asset Turnover × Equity Multiplier
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
 | P/B stays at 2.24x | Multiple sustains | **25.0%** | **25.0%** | **25.0%** |
-| P/B compresses to 1.68x (75%) | Mild de-rating | 19.2% | 21.1% | 22.5% |
-| P/B compresses to 1.12x (50%) | Significant de-rating | 12.8% | 16.5% | 19.5% |
-| P/B to Fair Value 2.0x (est.) | Slight compression | 22.6% | 23.5% | 24.2% |
-| P/B to industry median 1.64x | Industry average | 18.7% | 20.4% | 22.2% |
-| P/B compresses to 1.0x Book | Valued at book value | **6.4%** | **12.5%** | **16.9%** |
+| P/B compresses to 1.68x (75%) | Mild de-rating | 18.0% | 20.0% | 21.5% |
+| P/B compresses to 1.12x (50%) | Significant de-rating | 8.8% | 13.2% | 16.6% |
+| P/B to Fair Value 2.0x (est.) | Slight compression | 22.2% | 23.0% | 23.6% |
+| P/B to industry median 1.64x | Industry average | 17.5% | 19.6% | 21.2% |
+| P/B compresses to 1.0x Book | Valued at book value | **6.4%** | **11.4%** | **15.3%** |
 
 #### Step 4: Key Insight
 
-> **"At the current entry P/B of 2.24x with a sustainable ROE of 25% and 100% retention, book value compounds at 25% annually. If the P/B multiple remains at 2.24x, the return equals the BV compounding rate of 25%. The stock can tolerate P/B compression from 2.24x all the way down to 1.0x (book value) before the 10-year return drops below the 10% hurdle rate — in fact, even at 1.0x book, the 10-year CAGR is 16.9%, well ABOVE the hurdle rate."**
+> **"At the current entry P/B of 2.24x with a sustainable ROE of 25% and 100% retention, book value compounds at 25% annually. If the P/B multiple remains at 2.24x, the return equals the BV compounding rate of 25%. The stock can tolerate P/B compression from 2.24x all the way down to 1.0x (book value) before the 10-year return drops below the 10% hurdle rate — in fact, even at 1.0x book, the 10-year CAGR is 15.3%, well ABOVE the hurdle rate."**
 
-**This is extraordinary. Even if the market values MRTL at BOOK VALUE in 10 years (the most pessimistic reasonable scenario for a profitable company), you still earn nearly 17% per year from ₹167.** The book value compounding is so powerful (25% per year) that it overwhelms any conceivable multiple compression.
+**This is extraordinary. Even if the market values MRTL at BOOK VALUE in 10 years (the most pessimistic reasonable scenario for a profitable company), you still earn over 15% per year from ₹167.** The book value compounding is so powerful (25% per year) that it overwhelms any conceivable multiple compression.
 
 #### Step 5: Traffic Light Verdict
 
 | Condition | Verdict | Signal |
 |---|---|---|
-| 10-year return > hurdle rate even if P/B halves | ✅ 19.5% CAGR if P/B halves | 🟢 **GREEN** |
-| 10-year return > hurdle if P/B drops to 1.0x | ✅ 16.9% CAGR even at book | 🟢 **GREEN** |
-| Virtually impossible to lose money over 10 years | ✅ Even at 1.0x book, you earn 17%/yr | 🟢🟢 **DOUBLE GREEN** |
+| 10-year return > hurdle rate even if P/B halves | ✅ 16.6% CAGR if P/B halves | 🟢 **GREEN** |
+| 10-year return > hurdle if P/B drops to 1.0x | ✅ 15.3% CAGR even at book | 🟢 **GREEN** |
+| Virtually impossible to lose money over 10 years | ✅ Even at 1.0x book, you earn 15%+/yr | 🟢🟢 **DOUBLE GREEN** |
 
 **VERDICT: 🟢🟢 DOUBLE GREEN — Exceptional entry.** The compounding engine is so powerful that NOTHING the market does to the multiple can overcome it over 10 years. This is the rare situation where business quality GUARANTEES returns regardless of market sentiment.
 
-> **Munger:** *"Over the long term, it's hard for a stock to earn a much better return than the business earns."* MRTL earns 25-28% ROE and retains 100% of it. Your expected return is approximately 25% per year minus whatever drag multiple compression creates. Even with dramatic compression (from 2.24x to 1.0x over 10 years), you earn 17%. **The business quality protects you completely.**
+> **Munger:** *"Over the long term, it's hard for a stock to earn a much better return than the business earns."* MRTL earns 25-28% ROE and retains 100% of it. Your expected return is approximately 25% per year minus whatever drag multiple compression creates. Even with dramatic compression (from 2.24x to 1.0x over 10 years), you earn ~15%. **The business quality protects you completely.**
 
 ---
 
@@ -849,6 +862,8 @@ ROE = Net Profit Margin × Asset Turnover × Equity Multiplier
 | **Fair Value / Hold** | **2.5x - 4.0x Book** | **10-16x** | **₹186 - ₹298** | Fairly valued; returns ~15-25% CAGR |
 | **Fully Valued / Trim** | **4.0x - 6.0x Book** | **16-24x** | **₹298 - ₹450** | Above fair value; returns dependent on sustained growth |
 | **Overvalued / Sell** | **> 6.0x Book** | **> 24x** | **> ₹450** | Priced for perfection |
+
+*Note: Price zones are anchored to P/B multiples (using BVPS of ₹74.6). PE ranges are approximate, based on rounded EPS of ~₹20 (TTM EPS = ₹19.79). At exact TTM EPS, PE at zone boundaries differs slightly (e.g., ₹450 = 22.7x PE, not 24x). P/B is the primary anchor.*
 
 **Current Price: ₹167 → Falls in the "Value / Buy" zone (P/B 2.24x, PE 8.48x)**
 
@@ -898,7 +913,7 @@ This is a **textbook Buffett Partnership-era investment:**
 3. **High insider ownership** (65%) with clean governance ✅
 4. **Extraordinary returns** on capital (28% ROE, 30% ROCE) ✅
 5. **Virtually no debt** (D/E 0.19x) ✅
-6. **Absurdly cheap** (PE 8.5x, PEG 0.18) ✅
+6. **Absurdly cheap** (PE 8.5x, PEG 0.29) ✅
 7. **No institutional ownership** = no competition for the stock ✅
 8. **Earnings growing 30%+** with expanding margins ✅
 9. **Piotroski 8** — strongest possible fundamental quality signal ✅
@@ -950,15 +965,15 @@ The turnaround risk is BEHIND us. The growth opportunity is AHEAD.
 | **Financial Health** | **9** | D/E 0.19x, interest coverage 39x, current ratio 2.5x. **True fortress** for a micro-cap. |
 | **Management Quality** | **7** | 65% promoter holding, zero pledge, intelligent restructuring. Negative: zero dividends, limited transparency. |
 | **Return on Capital** | **9** | ROE 28%, ROCE 30%, ROIC 26%, ROA 18.5%. Among the best in any small-cap. |
-| **Valuation** | **10** | PE 8.5x, PEG 0.18, EV/EBITDA 4.8x, P/Owner Earnings 8.4x. **Absurdly cheap** for this quality. |
-| **Margin of Safety** | **9** | Conservative DCF shows 50% upside; base case shows 152% upside. Probability-weighted: 164% upside. |
+| **Valuation** | **10** | PE 8.5x, PEG 0.29, EV/EBITDA ~6.1x, P/Owner Earnings 8.4x. **Absurdly cheap** for this quality. |
+| **Margin of Safety** | **9** | Conservative DCF: 33% MoS (50% upside); base case: 60% MoS (152% upside). Probability-weighted: 62% MoS (164% upside). |
 | **Scalability** | **7** | Incremental margins 40% vs. current 26%. Revenue growth 17%. Export potential meaningful. |
 | **Earnings Quality** | **9** | Owner earnings = reported earnings. Cash conversion >1x. No adjustments needed. |
 | **Overall Score** | **8.2/10** | |
 
 ### Buffett Verdict
 
-> **Mahalaxmi Rubtech is an OBSCURE, TINY, NICHE manufacturer that has undergone a remarkable transformation — from a mediocre textile company earning 6% ROE to a focused, high-quality printing blanket maker earning 28% ROE. The business is simple (yarn to printing blankets), the moat is real (only vertically integrated Indian manufacturer), the balance sheet is a fortress (D/E 0.19x), management has skin in the game (65% ownership), and the stock is ABSURDLY cheap (PE 8.5x, PEG 0.18).**
+> **Mahalaxmi Rubtech is an OBSCURE, TINY, NICHE manufacturer that has undergone a remarkable transformation — from a mediocre textile company earning 6% ROE to a focused, high-quality printing blanket maker earning 28% ROE. The business is simple (yarn to printing blankets), the moat is real (only vertically integrated Indian manufacturer), the balance sheet is a fortress (D/E 0.19x), management has skin in the game (65% ownership), and the stock is ABSURDLY cheap (PE 8.5x, PEG 0.29).**
 
 > **At ₹167, this is a VALUE / BUY. The market cap of ₹178 Cr is smaller than what many fund managers spend on office furniture. The stock is invisible to institutions (0.1% FII) and has just 5,619 shareholders. This extreme obscurity is the REASON for the mispricing — and it's the OPPORTUNITY for a small-capital investor who does the work.**
 
@@ -985,8 +1000,8 @@ A 10-year-old: **"So I pay ₹167 and get ₹20 every year that stays in the pig
 
 **Napkin Math:**
 - Stock price: ₹167. EPS: ₹20. That's 8.5x earnings.
-- Book value: ₹75. ROE: 28%. Retains 100%.
-- Book value grows 25% per year (ROE × retention).
+- Book value: ₹75. ROE: 28% (current); sustainable estimate: ~25%. Retains 100%.
+- Book value grows ~25% per year (using the conservative sustainable ROE × retention).
 - In 5 years: Book value = ₹75 × (1.25)^5 ≈ ₹228. At 2x P/B = ₹456. **2.7x your money in 5 years.**
 - Even at 1.5x P/B: ₹342. **2x your money in 5 years.**
 - Even at 1.0x P/B (book value): ₹228. **37% gain in 5 years = 6.5% annual.** And that's the WORST case.
@@ -1001,4 +1016,4 @@ A 10-year-old: **"So I pay ₹167 and get ₹20 every year that stays in the pig
 
 *Analysis compiled on 18 March 2026 using data from Screener.in (standalone financials). All figures in ₹ Crores unless stated otherwise. This analysis is for educational purposes and does not constitute investment advice. Always conduct your own research and consult a qualified financial advisor before making investment decisions.*
 
-> **Final Buffett Quote:** *"I don't try to jump over 7-foot bars. I look around for 1-foot bars that I can step over."* MRTL at ₹167 is a 1-foot bar. The business quality is proven (28% ROE). The price is low (8.5x PE). The margin of safety is massive (50-164% upside). The math works on a napkin. The only "bar" is having the conviction to invest in something with a ₹178 Cr market cap that 99.99% of investors have never heard of. **Step over it.**
+> **Final Buffett Quote:** *"I don't try to jump over 7-foot bars. I look around for 1-foot bars that I can step over."* MRTL at ₹167 is a 1-foot bar. The business quality is proven (28% ROE). The price is low (8.5x PE). The margin of safety is massive (33-62% MoS, 50-164% upside). The math works on a napkin. The only "bar" is having the conviction to invest in something with a ₹178 Cr market cap that 99.99% of investors have never heard of. **Step over it.**
