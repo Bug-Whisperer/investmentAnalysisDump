@@ -132,7 +132,7 @@ The key observation: **MRF is a heavy CapEx business.** It must continuously inv
 
 **FCF conversion from Net Income is poor** in most years, which is typical for capital-intensive manufacturers. This is NOT a Coca-Cola type business that throws off cash effortlessly.
 
-The very low dividend payout (2-5%) shows management's preference for reinvesting in the business — typical of promoter-led Indian companies. MRF's dividend yield is a paltry 0.17%.
+The very low dividend payout (typically 2-5%, rising to 10% during trough-earnings years FY2022-23) shows management's preference for reinvesting in the business — typical of promoter-led Indian companies. MRF's dividend yield is a paltry 0.17%.
 
 ---
 
@@ -208,6 +208,8 @@ MRF does NOT meet this standard. It employs large amounts of capital (it's asset
 | FY2025 | 6.6% | 0.95x | 1.60x | 10.6% |
 
 **Quality Signal:** Low equity multiplier (1.6x) means MRF's ROE is NOT leverage-driven — this is genuinely good. The ROE fluctuation comes entirely from **net margin volatility** (swinging between 3.3% and 8.8%), driven by the rubber price cycle. Asset turnover is stable at 0.8-0.95x.
+
+> *Methodology Note:* The DuPont components above (Asset Turnover = Revenue / Ending Total Assets; Equity Multiplier = Ending Total Assets / Ending Equity) use year-end balance sheet figures, while the ROE figures in the returns table use average equity (Screener convention). This creates a small gap (0.1–0.6pp) between the DuPont product and the stated ROE. The qualitative conclusions — that ROE is margin-driven, not leverage-driven — are unaffected by this difference.
 
 ROCE consistently exceeds ROE, which is the healthy pattern. The underlying business engine (pre-leverage, pre-tax) is reasonably strong — the challenge is that raw material volatility compresses margins unpredictably.
 
@@ -289,7 +291,7 @@ MRF scores well on this criterion. The tyre business will look largely the same 
 | Metric | Trend |
 |---|---|
 | CapEx as % of Revenue | 7-10% — relatively stable, not declining |
-| Revenue per ₹1 of CapEx | ~10-14x — stable, not improving materially |
+| Revenue per ₹1 of CapEx | ~9.6-16.1x — volatile, driven by CapEx timing |
 | Working Capital Days | Volatile (0-100 days), not improving |
 | Asset Turnover | 0.85-0.95x — mildly improving |
 
@@ -335,14 +337,14 @@ Promoter holding: **27.73%** (Dec 2025) — stable for years, never pledged.
 | Period | Retained Earnings (₹ Cr) | Market Cap Change (₹ Cr) | Value Created per ₹1 Retained |
 |---|---|---|---|
 | FY2019 to FY2025 | ~₹7,650 (cumulative) | ~₹25,000 (from ~₹29,000 to ~₹54,000 Cr) | **₹3.27** |
-| FY2019 to FY2023 | ~₹4,800 | ~₹6,000 (from ~₹29,000 to ~₹35,000) | **₹1.25** |
+| FY2019 to FY2023 | ~₹3,870 | ~₹6,000 (from ~₹29,000 to ~₹35,000) | **₹1.55** |
 
 Over the full period, MRF has created ~₹3.27 of market value for every ₹1 retained — this **passes Buffett's $1 test** comfortably. However, much of this value creation came from the FY2024-2025 re-rating when profits surged.
 
 **Capital Allocation Track Record:**
 - **No acquisitions** — MRF has grown entirely organically. This is conservative and Buffett-approved.
 - **No buybacks** — With only 4.24M shares at ₹130,000+/share, buybacks are impractical. MRF has never split its stock, making it one of the highest-priced stocks in India.
-- **Minimal dividends** — Payout ratio of 2-5% is very low. Management clearly prefers reinvesting.
+- **Minimal dividends** — Payout ratio of 2-10% (higher payout of 10% in FY2022-23 reflects the same absolute dividend on trough earnings). Management clearly prefers reinvesting.
 - **No SBC** — Zero dilution from stock options. Exemplary.
 - **New greenfield plant** — ₹5,300 Cr investment in Sivaganga, Tamil Nadu (announced Mar 2026). This is aggressive growth spending.
 
@@ -387,20 +389,20 @@ The Mammen family has demonstrated integrity over seven decades. No scandals, no
 
 | Metric | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Current |
 |---|---|---|---|---|---|---|---|---|
-| **PE Ratio** | ~25 | ~20 | ~25 | **~46** | **~46** | ~27 | ~25 | ~24.3 |
+| **PE Ratio** | ~25 | ~20 | ~25 | **~46** | **~46** | ~27 | ~25 | ~24.8 |
 | Forward PE | — | — | — | — | — | — | — | ~21 |
-| **PB Ratio** | ~2.6 | ~2.3 | ~2.4 | ~2.2 | ~2.4 | ~2.8 | ~2.6 | ~2.78 |
-| PS Ratio | ~1.6 | ~1.6 | ~2.3 | ~1.4 | ~1.5 | ~2.3 | ~2.0 | ~1.79 |
-| EV/EBITDA | ~8.5 | ~7.8 | ~9.0 | **~10.5** | ~9.7 | ~10.0 | ~9.5 | ~11.0 |
-| Earnings Yield | 4.0% | 5.0% | 4.0% | **2.2%** | **2.2%** | 3.7% | 4.0% | 4.1% |
+| **PB Ratio** | ~2.6 | ~2.3 | ~2.4 | ~2.2 | ~2.4 | ~2.8 | ~2.6 | ~2.85 |
+| PS Ratio | ~1.6 | ~1.6 | ~2.3 | ~1.4 | ~1.5 | ~2.3 | ~2.0 | ~1.84 |
+| EV/EBITDA | ~8.5 | ~7.8 | ~9.0 | **~10.5** | ~9.7 | ~10.0 | ~9.5 | ~9.5 |
+| Earnings Yield | 4.0% | 5.0% | 4.0% | **2.2%** | **2.2%** | 3.7% | 4.0% | 4.0% |
 | Dividend Yield | 0.08% | 0.11% | 0.10% | 0.10% | 0.15% | 0.13% | 0.17% | 0.18% |
 
 **Historical Comparison:**
 - 13-year median PE: ~29x (per GuruFocus)
 - 5-year average PE: ~33.5x
 - 5-year median PB: ~2.4x
-- Current PE (24.3x) is BELOW the 5-year average — stock is optically cheaper than average
-- Current PB (2.78x) is slightly ABOVE the 5-year median
+- Current PE (~24.8x) is BELOW the 5-year average — stock is optically cheaper than average
+- Current PB (~2.85x) is slightly ABOVE the 5-year median
 
 **Key Insight:** The current PE looks attractive vs. history, but this is because TTM EPS of ₹5,258 reflects strong recent quarters. If margins revert to the mean (which happens every rubber cycle), normalized EPS is closer to ₹3,500-4,000, which would put the normalized PE at 33-37x — NOT cheap.
 
@@ -429,13 +431,13 @@ The Mammen family has demonstrated integrity over seven decades. No scandals, no
 | Add: Net Cash (₹ Cr) | +1,000 | +1,000 | +1,000 |
 | **Equity Value (₹ Cr)** | ~38,400 | ~55,300 | ~85,300 |
 | **Intrinsic Value/Share (₹)** | ~90,600 | ~1,30,400 | ~2,01,200 |
-| **Margin of Safety at ₹1,30,575** | **-31% (overvalued)** | **~0% (fair)** | **+54% (undervalued)** |
+| **Margin of Safety at ₹1,30,575** | **-44% (overvalued)** | **~0% (fair)** | **+35% (undervalued)** |
 
-| Scenario | Intrinsic Value/Share | Margin of Safety | Upside/Downside |
+| Scenario | Intrinsic Value/Share | Margin of Safety (IV−CMP)/IV | Upside/(Downside) (IV−CMP)/CMP |
 |---|---|---|---|
-| **Conservative** | ₹90,600 | **-31%** | -31% downside |
+| **Conservative** | ₹90,600 | **-44%** | -31% downside |
 | **Base** | ₹1,30,400 | **~0%** | ~Fairly valued |
-| **Optimistic** | ₹2,01,200 | **+54%** | +54% upside |
+| **Optimistic** | ₹2,01,200 | **+35%** | +54% upside |
 
 **Verdict:** At ₹1,30,575, MRF is **approximately fairly valued** under the base case. There is essentially no margin of safety. In the conservative case, the stock is materially overvalued. Only under the optimistic case does meaningful upside exist.
 
@@ -448,7 +450,7 @@ The Mammen family has demonstrated integrity over seven decades. No scandals, no
 | Input | Value |
 |---|---|
 | CMP | ₹1,30,575 |
-| TTM EPS (Normalised) | ~₹4,400 (mid-cycle estimate) |
+| TTM EPS (Normalised) | ~₹4,400 (forward-looking mid-cycle estimate, assuming margins normalise at a level above the 7-year average given revenue scale gains; note: Section 11 uses a more conservative ₹3,500-4,000 range based on historical averages — the Reverse DCF results below would require higher implied growth if the lower estimate were used) |
 | Current PE (Normalised) | ~29.7x |
 | Historical 5Y EPS CAGR | ~6% |
 | Historical 10Y EPS CAGR | ~8% |
@@ -597,7 +599,7 @@ ROE is margin-driven, NOT leverage-driven. Quality is acceptable when margins ar
 | High ROE + high reinvestment? | ROE of 10.5% is mediocre | ❌ |
 | No equity dilution? | Zero dilution — exemplary | ✅ |
 
-**Score: 4.5 out of 7**
+**Score: 5.0 out of 8**
 
 **Honest Verdict:** Buffett would **admire MRF's conservative management and financial discipline** but would likely **pass at the current price**. His objections:
 
@@ -646,7 +648,7 @@ MRF is a **fair company at a fully valued price**. Not wonderful enough business
 | **Management Quality** | 8 | Mammen family — conservative, honest, long-term oriented |
 | **Return on Capital** | 5 | ROE ~10.5%; ROCE ~14%; mediocre, cyclical |
 | **Earnings Quality** | 6 | Cyclical margins; FCF volatile; Owner Earnings better indicator |
-| **Valuation** | 5 | P/B 2.85x on 10.5% ROE — rich; PE ~24x on peak-ish EPS |
+| **Valuation** | 5 | P/B 2.85x on 10.5% ROE — rich; PE ~25x on peak-ish EPS |
 | **Margin of Safety** | 4 | Near zero at current price; downside unprotected |
 | **Scalability** | 5 | Physical product; linear scaling; India growth tailwind |
 | **Buffett Verdict** | — | **A fair business run conservatively, priced fully. Not a fat pitch at current levels. Buffett would admire MRF's integrity and discipline but would wait for a better price — ideally below ₹1,00,000 (2.2x book) where the risk-reward becomes compelling. At ₹1,30,575, the stock offers mid-single-digit returns with P/B compression risk. HOLD if owned at lower levels; DO NOT INITIATE a new position here.** |
