@@ -57,11 +57,11 @@ Shilchar's moat isn't a wide, permanent castle-and-moat fortress like Coca-Cola'
 | **Net Profit (₹ Cr)** | 12 | **6** | 8 | **2** | 6 | 14 | 43 | 92 | **147** | **185** |
 | Net Profit Growth YoY | 33% | **-50%** | 33% | **-75%** | 200% | 133% | 207% | 114% | 60% | 59% |
 | Net Profit Margin | 11% | 7% | 7% | **3%** | 5% | 8% | 15% | 23% | **24%** | **25%** |
-| **EPS (₹, adjusted)** | 3.59 | **1.72** | 2.27 | **0.44** | 1.61 | 4.11 | 12.61 | 26.87 | **42.94** | **~162** |
+| **EPS (₹)** | 10.78 | **5.15** | 6.80 | **1.32** | 4.84 | 12.32 | 37.82 | 80.61 | **128.82** | **162.00** |
 | Shares Outstanding (Cr) | ~1.14 | ~1.14 | ~1.14 | ~1.14 | ~1.14 | ~1.14 | ~1.14 | ~1.14 | ~1.14 | ~1.14 |
 | Dividend Payout % | 9% | 13% | 10% | 25% | 10% | 11% | 9% | 10% | 6% | — |
 
-**Note on shares:** Shilchar issued a 1:1 bonus in Sep 2023 and a 1:2 bonus in Jun 2025. Post all bonuses, shares outstanding are approximately 1.14 Cr (11.44 million). All EPS figures above are adjusted to this post-bonus base for comparability.
+**Note on shares:** Shilchar issued a 1:1 bonus in Sep 2023 and a 1:2 bonus in Jun 2025. Post all bonuses, shares outstanding are approximately 1.14 Cr (11.44 million). Screener.in retroactively adjusts all historical EPS to this post-bonus share base, so all EPS figures above are directly from Screener and are on a comparable basis.
 
 ### Trend Narrative
 
@@ -175,6 +175,8 @@ Owner Earnings essentially equal net profit because D&A roughly equals maintenan
 
 ROE surge driven entirely by **margin expansion** (5% → 24%) — the highest-quality driver. Leverage is DECLINING. ROCE > ROE confirms genuine operational excellence, not financial engineering.
 
+*Note: DuPont components use Revenue ÷ Average Total Assets for Asset Turnover and year-end Total Assets ÷ year-end Equity for the Equity Multiplier. Because these mix average and year-end bases, the product may not multiply exactly to the average-equity ROE in years with rapid equity growth (e.g., FY2023 shows a ~4pp gap). The stated ROE figures themselves are computed correctly using average equity.*
+
 > *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* — Buffett
 
 ---
@@ -210,7 +212,7 @@ Transformers are physics-bound, non-substitutable, and change-resistant. The fun
 | FY2024 | 397 | 113 | **51%** |
 | FY2025 | 623 | 185 | **32%** |
 
-Incremental margins of 32-51% ABOVE current 30% OPM = elite operating leverage.
+Incremental margins ranged from 15% (FY2022, during early recovery) to 51% (FY2024), with 3 of 4 years above the current 30% OPM. This demonstrates strong operating leverage as the business scales, though the FY2022 figure shows that operating leverage is not guaranteed in every growth year.
 
 ### Scaling Runway
 
@@ -255,12 +257,14 @@ Incremental margins of 32-51% ABOVE current 30% OPM = elite operating leverage.
 
 | Metric | Mar 2022 | Mar 2023 | Mar 2024 | Mar 2025 | Current |
 |---|---|---|---|---|---|
-| P/E | 10x | 9x | 11x | 8x | **~24x** |
+| P/E | **3.5x** | **3.1x** | **3.6x** | **2.7x** | **~24x** |
 | P/B | 0.61x | 1.09x | 1.58x | 1.16x | **~10.7x** |
-| EV/EBITDA | — | ~7x | ~8x | ~6x | **~18x** |
-| Earnings Yield | 10% | 11.1% | 9.1% | 12.5% | **~4.1%** |
+| EV/EBITDA | — | **~2.3x** | **~2.7x** | **~1.9x** | **~18x** |
+| Earnings Yield | **29%** | **32%** | **28%** | **37%** | **~4.1%** |
 
-Stock has NEVER traded at current P/B multiples. The 7-10x re-rating was justified by the ROE transformation (3% → 53%), but future multiple expansion is unlikely.
+*Note: Historical PE, EV/EBITDA, and Earnings Yield are derived from P/B-implied market caps to ensure internal consistency (P/B × Book Value = Market Cap → Market Cap ÷ NI = PE). Since the stock was a thinly traded BSE-only micro-cap pre-2024 with very low liquidity, year-end prices were often far below intrinsic value.*
+
+Stock has NEVER traded at current P/B multiples historically. The stock has re-rated from ~3x PE and ~0.6x P/B (FY2022) to ~24x PE and ~10.7x P/B currently — an approximately 7-8× PE expansion. This was justified by the fundamental transformation in profitability (ROE going from 3% to 53%), the shift from an unknown micro-cap to a recognised growth compounder, and the NSE listing in November 2025 which brought institutional discovery. The question now is: how much further can the multiple expand? Likely not much — future returns will be driven by earnings growth, not re-rating.
 
 ---
 
@@ -278,7 +282,7 @@ At ₹3,925, the conservative case puts the stock near fair value with negligibl
 
 ## 13. REVERSE DCF — What Is the Market Pricing In?
 
-To earn **15% return over 10 years** at terminal 20x PE → need ~16% EPS CAGR.
+To earn **15% return over 10 years** at terminal 20x PE → need ~17% EPS CAGR.
 
 Management guides 20-25%. Historical 3Y CAGR was 119% (not repeatable).
 
@@ -286,7 +290,7 @@ Management guides 20-25%. Historical 3Y CAGR was 119% (not repeatable).
 
 ### Asymmetry Check
 
-- **Probable downside:** ~28% to ₹2,850 (15-17x normalised PE; near 52-week low)
+- **Probable downside:** ~28% to ₹2,850 (~18x normalised PE; near 52-week low)
 - **Base upside:** ~26% to ₹4,930
 - **Asymmetry Ratio: ~1.0:1** — NOT a fat pitch
 
