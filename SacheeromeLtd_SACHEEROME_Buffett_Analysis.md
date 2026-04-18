@@ -27,7 +27,7 @@ Sacheerome Ltd is a **fragrance and flavour (F&F) manufacturer** — a B2B suppl
 
 *All figures in ₹ Crores unless stated otherwise. Bold marks best/worst.*
 
-| Metric | FY22 | FY23 | FY24 | FY25 | TTM (H1FY26 annualised) |
+| Metric | FY22 | FY23 | FY24 | FY25 | TTM |
 |---|---|---|---|---|---|
 | Revenue | 64 | 70 | 85 | 108 | **134** |
 | Revenue Growth YoY | — | 9.4% | 21.4% | **27.1%** | ~26% |
@@ -47,7 +47,11 @@ Sacheerome Ltd is a **fragrance and flavour (F&F) manufacturer** — a B2B suppl
 | Dividend Payout | **0%** | **0%** | **0%** | **0%** | — |
 
 **3-Year Adjusted EPS CAGR (FY22–FY25): 52.0%**  
-**3-Year Revenue CAGR: 19% (Screener) | 3-Year Profit CAGR: 52% (Screener)**
+**3-Year Revenue CAGR: 19% (Screener) | 3-Year Compounded Profit Growth: 52% (Screener)**
+
+> **Note on EPS and Screener Data:** The EPS figures above are Screener.in's diluted EPS, which use weighted-average diluted share counts that vary by year (reflecting the mid-FY24 bonus issue and mid-FY26 IPO dilution). These EPS figures do not reconcile to simple Net Profit ÷ period-end shares for any single share count. The TTM EPS of ₹12.15 implies a weighted-average share count of ~1.98 Cr. For all valuation sections (Sections 11–15, 19–20), EPS is recalculated on the current fully-diluted post-IPO share count of 2.24 Cr, yielding ₹10.71 (= ₹24 Cr / 2.24 Cr), which gives a PE of 30.6x. Screener's "Compounded Profit Growth" of 52% uses its own methodology and matches the adjusted EPS CAGR; the NP CAGR from the table figures is 47.4% ((16/5)^(1/3)−1), which differs because the share base changed.
+>
+> Additionally, all P&L line items are independently rounded to the nearest ₹ Crore on Screener.in. This means OPM% may not equal rounded OP ÷ rounded Revenue (e.g., FY22 OPM shows 13% from Screener's unrounded data, while 9/64 = 14.1%), PBT may differ by ±₹1 Cr from the sum of its components, and Tax% × PBT may not precisely yield the stated Net Profit. These are presentational artefacts of rounding, not data errors.
 
 ### Trend Narrative
 
@@ -81,13 +85,15 @@ The H1FY26 results show acceleration — OPM at 25%, net profit of ₹15 Cr in j
 | BVPS (Adjusted, Comparable) | ₹**18.1** | ₹21.9 | ₹28.8 | ₹38.8 | ₹**60.3** |
 | BVPS Growth YoY (Adjusted) | — | 20.7% | 31.3% | **34.8%** | — |
 
+> **Screener.in Rounding Note:** All balance sheet line items are independently rounded to the nearest ₹ Crore. As a result, asset-side components may not sum exactly to Total Assets in every year (e.g., FY23: 21+2+0+27 = 50 vs. Total Assets 49; FY24: 22+8+0+33 = 63 vs. 64). These are presentational artefacts, not data errors.
+
 ### Financial Fortress Assessment
 
 This is a **fortress balance sheet** by any standard:
 
 1. **Virtually debt-free.** Borrowings were ₹8 Cr in FY22 and have been repaid to near-zero. The company has no meaningful financial leverage risk.
 
-2. **Shareholders' equity has exploded** from ₹29 Cr to ₹135 Cr — driven by retained profits (₹38 Cr cumulative over FY22–FY25) and the IPO fresh issue proceeds (~₹58 Cr net).
+2. **Shareholders' equity has exploded** from ₹29 Cr (FY22) to ₹135 Cr (H1FY26) — driven by cumulative retained profits of ~₹48 Cr (FY23 through H1FY26: 6+11+16+15) and the IPO fresh issue proceeds (~₹58 Cr net), totalling ~₹106 Cr of equity accretion.
 
 3. **CWIP of ₹39 Cr** represents the new YEIDA manufacturing facility under construction. IPO proceeds are being deployed here. This is growth capital, not maintenance — a very positive signal.
 
@@ -258,7 +264,7 @@ The industry has looked essentially the same for 30+ years: a few large global p
 |---|---|---|---|---|---|
 | CapEx as % Revenue | 6.3% | 2.9% | 11.8% | 21.3% | Spiking (YEIDA investment) — temporary |
 | Revenue/CapEx | 16.0x | 35.0x | 8.5x | 4.7x | Temporarily depressed by growth capex |
-| Working Capital Days | 37 | 63 | 58 | 24 | **Dramatically improving** |
+| Working Capital Days | 37 | 63 | 58 | 24 | **Net improving** (spiked FY23, then sharply declined) |
 | Asset Turnover | — | 1.43x | 1.50x | 1.45x | Stable/high |
 
 Once the YEIDA plant is commissioned and capex normalises, capital scalability metrics will snap back sharply.
@@ -298,13 +304,15 @@ Sacheerome has proven its model, established blue-chip clients, achieved healthy
 
 Since Sacheerome was a private company until June 2025, we use book value as a proxy for value creation:
 
-| Metric | FY22–FY25 |
+| Metric | FY22-end → FY25-end |
 |---|---|
-| Total Retained Earnings (FY22–FY25) | ₹38 Cr (5+6+11+16) |
-| Book Value Change | ₹33 Cr (62 – 29) |
-| BV Created per ₹1 Retained | ₹0.87 |
+| Equity at FY22-end (base) | ₹29 Cr |
+| Retained Earnings FY23–FY25 (no dividends paid) | ₹33 Cr (6+11+16) |
+| Equity at FY25-end | ₹62 Cr |
+| Book Value Change (62 − 29) | ₹33 Cr |
+| **BV Created per ₹1 Retained** | **₹1.00** |
 
-The ₹0.87 per ₹1 retained is slightly below par — the gap is likely due to goodwill/intangible write-offs or bonus share issuance adjustments. However, post-IPO, the story is dramatically different: IPO raised ~₹58 Cr net at ₹102/share, and the stock now trades at ₹328 — shareholders who invested at IPO have seen 3.2x returns in ~9 months. Post-IPO, management has clearly created value.
+Every rupee retained by management was converted into exactly ₹1 of book value — a clean pass of the $1 test. With zero dividends, zero equity transactions (pre-IPO), and no goodwill write-offs, retained earnings flow directly into equity, and the math confirms this perfectly. Post-IPO, the story is even more compelling: IPO raised ~₹58 Cr net at ₹102/share, and the stock now trades at ₹328 — shareholders who invested at IPO have seen 3.2x returns in ~9 months. Management has clearly created value.
 
 ### Capital Allocation
 
@@ -371,8 +379,10 @@ At ₹328 and a PE of 30.6x on TTM earnings, Sacheerome is **not cheap** on an a
 The P/B of 5.4x for a business earning 30% ROE is justified by the Gordon Growth Model:
 
 **Fair P/B = (ROE - g) / (CoE - g)**  
-Where ROE = 27%, g = ROE × Retention = 27%, CoE = 12%  
-Fair P/B = (0.27 - 0.27) / (0.12 - 0.27) — this results in a mathematical anomaly because g > CoE, which indicates the business is compounding faster than the discount rate. In such cases, the theoretical P/B is very high or undefined — essentially, the market is right to pay a significant premium for a business that compounds equity at 27% while investors require only 12%.
+Where ROE = 27%, g = ROE × Retention = 27% × 1.0 = 27%, CoE = 12%  
+Fair P/B = (0.27 − 0.27) / (0.12 − 0.27) = 0 / (−0.15) = **0**
+
+This result is economically meaningless — the Gordon Growth / residual income model fundamentally requires dividends, and with 100% retention it produces P/B = 0, which clearly doesn't reflect reality. The model simply does not apply to zero-dividend, 100%-retention companies. The correct interpretation is that when a business reinvests ALL earnings at 27% ROE (far above the 12% cost of equity), the compounding effect is so powerful that the theoretical fair value expands without bound — the market is justified in paying a significant premium to book value for a business that compounds equity at 27% while investors require only 12%.
 
 Compared to S.H. Kelkar (PE ~30–40x, lower growth), Sacheerome's valuation appears fair. Compared to global F&F players (Givaudan trades at 30–40x PE with single-digit growth), Sacheerome offers dramatically higher growth at a comparable multiple.
 
@@ -434,7 +444,7 @@ The key question is whether Sacheerome can sustain 20%+ earnings growth. Given: 
 | 10 Years | 11.0% | 16.0% | 21.1% |
 | 15 Years | 10.7% | 15.7% | 20.7% |
 
-**At Terminal PE = 34x (Approximate Current Level):**
+**At Terminal PE = 34x (PE on FY25 EPS of ₹9.78; Screener's reported PE ~33.9x):**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
@@ -537,9 +547,9 @@ Using Optimistic Upside (+66.2%) vs. Realistic Downside (-34.8%) = **1.9:1 — M
 
 ### Key Insight
 
-At the current entry P/B of 5.4x with a sustainable ROE of 27% and 100% retention, book value compounds at 27% annually. The stock can tolerate P/B compression from 5.4x down to approximately **2.7x** (a 50% halving) before the 10-year return drops below 15%. Even if P/B compresses to 2.0x (a dramatic de-rating), the 10-year return is still ~15%.
+At the current entry P/B of 5.4x with a sustainable ROE of 27% and 100% retention, book value compounds at 27% annually. The stock can tolerate P/B compression from 5.4x down to approximately **2.0x** (a ~63% de-rating) before the 10-year return drops below 15%. Even at 2.7x (a 50% halving), the 10-year return is still a robust ~18.5%.
 
-**Traffic Light: 🟢 GREEN** — 10-year return exceeds 10% hurdle rate even if P/B halves to 2.7x. The BV compounding at 27% is powerful enough to overwhelm moderate multiple compression.
+**Traffic Light: 🟢 GREEN** — 10-year return exceeds 10% hurdle rate even if P/B halves to 2.7x (18.5% CAGR). Even at a severe de-rating to 2.0x, the 10-year return is ~15%. The BV compounding at 27% is powerful enough to overwhelm substantial multiple compression.
 
 > *Munger: "Over the long term, it's hard for a stock to earn a much better return than the business earns."* At 27% ROE with full retention, the business is compounding at 27%. Even with a 50% P/B de-rating over 10 years, the investor earns ~18.5% CAGR. This is the power of high-ROE compounding — it provides a massive cushion against valuation headwinds.
 
