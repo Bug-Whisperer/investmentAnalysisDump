@@ -186,7 +186,7 @@ No material restructured book or SMA issues reported. Fresh slippages have been 
 | Leverage (Assets/Equity) | 6.8x | 6.7x | **5.7x** | 5.7x | 5.5x | 5.9x | 5.6x | 5.4x |
 
 *\*Q3FY26 standalone ROE of 10.68% is annualised quarterly — full-year ROE tracking ~12-13% for FY2026.*
-*‡FY2025 consolidated ROA of ~2.7% includes the one-time KGI divestment gain. Excluding KGI, normalised consolidated ROA was ~2.2%. §Q3FY26 ROA of 1.89% is standalone annualised.*
+*‡FY2025 consolidated ROA of ~2.7% includes the one-time KGI divestment gain. Excluding KGI, normalised consolidated ROA was ~2.4% (on average total assets). §Q3FY26 ROA of 1.89% is standalone annualised.*
 
 ### ROE Decomposition (DuPont for Banks)
 
@@ -198,10 +198,10 @@ No material restructured book or SMA issues reported. Fresh slippages have been 
 | Provision Intensity (1 - Prov/PPOP) | ~90% | ~92% | ~85% | ⬇ Higher provisions |
 | Tax Efficiency (PAT/PBT) | ~75% | ~75% | ~76% | ↔ Stable |
 | Leverage (Assets/Equity) | 5.5x | 5.9x | 5.6x | ↔ Conservative |
-| **ROA (Consol.)** | **~2.6%** | **~2.6%** | **~2.7%‡** | ⬇ *excl. KGI ~2.2%* |
+| **ROA (Consol.)** | **~2.6%** | **~2.6%** | **~2.7%‡** | ⬇ *excl. KGI ~2.4%* |
 | **ROE = ROA × Leverage** | **~14%** | **~15%** | **~15%** | ↔ Stable at ~15% |
 
-**Critical Distinction:** Kotak's ROE of 15% comes from **consolidated ROA of ~2.6% × Leverage of ~5.6x** (FY2024). This is **HIGH QUALITY** ROE. A consolidated ROA above 2% is excellent by global standards. The leverage of 5.6x is among the LOWEST in Indian banking (most banks operate at 10-15x). This means Kotak is generating strong returns WITHOUT leveraging up aggressively. Note: FY2025 consolidated ROA of 2.7% is inflated by the KGI one-time gain; excluding that, normalised ROA was ~2.2%, still solidly in the "Excellent" tier.
+**Critical Distinction:** Kotak's ROE of 15% comes from **consolidated ROA of ~2.6% × Leverage of ~5.9x** (FY2024). This is **HIGH QUALITY** ROE. A consolidated ROA above 2% is excellent by global standards. The leverage of ~5.5-5.9x is among the LOWEST in Indian banking (most banks operate at 10-15x). This means Kotak is generating strong returns WITHOUT leveraging up aggressively. Note: FY2025 consolidated ROA of 2.7% is inflated by the KGI one-time gain; excluding that, normalised ROA was ~2.4% (on average total assets), still solidly in the "Excellent" tier.
 
 **The paradox:** Kotak's ROE looks "mediocre" at 13-15% compared to HDFC Bank or ICICI Bank (15-18%), but this is because Kotak is OVER-CAPITALISED. If Kotak operated at 8-10x leverage (still conservative), its ROE would be 16-20%. The excess capital is a hidden asset that can be deployed over time.
 
