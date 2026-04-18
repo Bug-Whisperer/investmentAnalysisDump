@@ -9,6 +9,8 @@
 **Sector:** Consumer Discretionary — Gems, Jewellery & Watches  
 **Mode:** STANDARD MODE (Non-Financial Company)
 
+> *Note: P/E (11.4x) and P/B (0.96x) as displayed on Screener.in use Screener's own close price of ₹9.55 (Jan 2, 2026). At our analysis CMP of ₹8.42 (Mar 17, 2026), the CMP-based P/E on TTM EPS (₹0.94) is ~9.0x, and the CMP-based P/B on latest BVPS (₹9.99) is ~0.84x. Throughout this analysis, Sections 14, 15, and 19 (verdict) use the CMP-based P/B of 0.84x for all computed scenarios; Section 11 references Screener's reported 0.87x where citing raw Screener data.*
+
 ---
 
 > *"Risk comes from not knowing what you're doing."* — Warren Buffett
@@ -52,13 +54,15 @@ PC Jeweller is closer to a **commodity business** — gold prices dictate revenu
 | Shares Outstanding (Cr) | 179 | 179 | 179 | 179 | 394 | 395 | 395 | 465 | 465 | 465 | 465 | **636** | ~802 |
 | Dividend Payout % | 15% | 15% | 15% | 4% | 4% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | — |
 
+> *Screener Data Notes: (1) EPS for FY14-FY17 is retrospectively adjusted by Screener for the ~1:1 bonus issue in FY18, so EPS ≠ Net Profit ÷ Equity Capital for those years (the adjusted EPS is exactly half of the unadjusted figure). The "Shares Outstanding" row shows the Equity Capital line from Screener (unadjusted, pre-bonus for FY14-FY17), which is why EPS × Shares ≠ Net Profit for those years. From FY18 onwards the identity holds. (2) TTM EPS of ₹0.94 is Screener's reported figure and uses weighted-average shares over the trailing four quarters (~653 Cr), not the latest diluted share count (~802 Cr). On the current ~802 Cr shares, TTM EPS would be ~₹0.77.*
+
 ### Trend Narrative
 
 The income statement tells a dramatic story of **rise, collapse, and attempted resurrection**:
 
 1. **FY14-FY18 (Golden Era):** Revenue grew steadily from ₹5,325 Cr to ₹9,610 Cr. Net profit peaked at ₹536 Cr. Margins were stable at 9-11% operating level. EPS peaked at ₹1.36 on an undiluted share base (~394 Cr shares post-bonus in FY18).
 
-2. **FY19-FY24 (Catastrophic Decline):** Revenue collapsed 94% from peak (₹9,610 → ₹604 Cr). The company reported cumulative net losses of ~₹1,078 Cr over FY22-FY24. Interest costs ballooned to ₹505 Cr even as revenue shrank, indicating a drowning business servicing unserviceable debt.
+2. **FY19-FY24 (Catastrophic Decline):** Revenue collapsed 94% from peak (₹9,610 → ₹604 Cr). The company reported cumulative net losses of ~₹1,223 Cr over FY22-FY24. Interest costs ballooned to ₹505 Cr even as revenue shrank, indicating a drowning business servicing unserviceable debt.
 
 3. **FY25 (Turnaround Year):** Revenue rebounded to ₹2,244 Cr. OPM expanded to 18% (highest ever). Net profit swung to ₹578 Cr — but this includes significant one-time benefits from the OTS (one-time settlement) with banks and negative tax (deferred tax asset recognition). **Interest cost collapsed from ₹505 Cr to ₹52 Cr** — the single biggest driver of the profit swing.
 
@@ -105,7 +109,7 @@ The tide went out for PC Jeweller in 2019 and the company was found swimming not
 
 **The "Other Assets" Black Box:**
 
-The single biggest red flag on this balance sheet is the **"Other Assets"** line, which constitutes ₹8,814 Cr out of ₹8,915 Cr total assets (99%!). This includes inventory (jewellery stock), trade receivables, and loans/advances. For a company doing ₹2,244 Cr annual revenue, carrying ₹8,000+ Cr of "other assets" means:
+The single biggest red flag on this balance sheet is the **"Other Assets"** line, which constitutes ₹8,814 Cr out of ₹8,915 Cr total assets as of Sep 2025 (99%!). This includes inventory (jewellery stock), trade receivables, and loans/advances. For a company doing ~₹2,889 Cr in TTM revenue (or ₹2,244 Cr in FY25), carrying ₹8,000+ Cr of "other assets" means:
 
 - **Inventory Days: 1,373 days** (FY25) — that is nearly **4 years of inventory**!
 - **Debtor Days: 57 days** (improved from 185 days in FY21)
@@ -127,17 +131,17 @@ This balance sheet tells you that the company was carrying enormous inventory (m
 | Investing Cash Flow | 246 | 213 | -25 | -530 | -378 | 978 | 38 | 94 | 115 | 30 | 7 | 2 |
 | Financing Cash Flow | 571 | -565 | 16 | 47 | -4 | 652 | -170 | -156 | 570 | -111 | -108 | 688 |
 | Net Cash Flow | 31 | -19 | 7 | 312 | -24 | -302 | -57 | 30 | -34 | 19 | -37 | 57 |
-| Cumulative OCF (12 Yr) | | | | | | | | | | | | **-4,036** |
+| Cumulative OCF (12 Yr) | | | | | | | | | | | | **-2,237** |
 
 ### Analysis
 
 **This is a truly terrible cash flow picture:**
 
-- Over 12 years (FY14-FY25), cumulative Operating Cash Flow is approximately **negative ₹4,036 Cr**. The business has CONSUMED cash, not generated it.
+- Over 12 years (FY14-FY25), cumulative Operating Cash Flow is approximately **negative ₹2,237 Cr**. The business has CONSUMED cash, not generated it.
 - Even in FY25, the "turnaround year" with ₹578 Cr reported net profit, OCF was **negative ₹633 Cr** — meaning the business ate cash even as it reported profits. This is because inventory and receivables absorbed all the earnings and more.
 - The company has been funded by debt (FY14-FY24) and then by massive equity raises (FY25 onwards). It has never sustainably funded itself from operations.
 
-**Free Cash Flow = Non-existent.** With negligible CapEx (the business is asset-light in fixed assets), FCF ≈ OCF, which has been negative in 7 out of 12 years.
+**Free Cash Flow = Non-existent.** With negligible CapEx (the business is asset-light in fixed assets), FCF ≈ OCF, which has been negative in 4 out of 12 years (FY14, FY19, FY22, FY25) — and the 4 negative years were so severe (especially FY19's -₹1,931 Cr) that they wiped out the gains from the 8 positive years.
 
 > *"Accounting is the language of business, but cash flow is the language of reality."* — (Paraphrasing Buffett)
 
@@ -157,19 +161,21 @@ This balance sheet tells you that the company was carrying enormous inventory (m
 
 **Owner Earnings Calculation (FY25):**
 
+The correct approach uses Operating Cash Flow as the starting point (since it already incorporates net income, D&A, and working capital changes):
+
 ```
-Net Income:                       ₹578 Cr
-Add: Depreciation & Amortisation: ₹18 Cr
+Operating Cash Flow:              -₹633 Cr
 Less: Maintenance CapEx:          ~₹10 Cr (est.)
-Less: Working Capital Drain:      ₹633 Cr (OCF was -₹633 vs NI of +₹578)
-= True "Owner Earnings":          NEGATIVE ~₹47 Cr
+= True "Owner Earnings":          NEGATIVE ~₹643 Cr
 ```
 
-**The stark reality:** Despite reporting ₹578 Cr profit, the actual cash that an "owner" could extract from this business in FY25 was **nothing** — in fact, the owner had to PUT IN money (via the ₹2,702 Cr equity raise) just to keep the business alive.
+To understand the magnitude: Net Income was ₹578 Cr and D&A was ₹18 Cr, meaning the business consumed ₹1,229 Cr of working capital (NI + D&A - OCF = 578 + 18 - (-633) = 1,229 Cr) to grow inventory and receivables. After subtracting maintenance CapEx, the true owner earnings were deeply negative at approximately **-₹643 Cr**.
+
+**The stark reality:** Despite reporting ₹578 Cr profit, the actual cash that an "owner" could extract from this business in FY25 was **deeply negative** — the owner had to PUT IN over ₹600 Cr (via the ₹2,702 Cr equity raise) just to keep the business alive.
 
 > *"Owner Earnings represent the cash that the business owner would see in his pocket at the end of the year. It's the only number that truly matters."* — Warren Buffett (paraphrased)
 
-By Buffett's Owner Earnings framework, PC Jeweller generated **zero owner earnings** in its supposed turnaround year. The ₹578 Cr profit is an accounting number, not an economic one.
+By Buffett's Owner Earnings framework, PC Jeweller generated **deeply negative owner earnings of approximately -₹643 Cr** in its supposed turnaround year. The ₹578 Cr profit is an accounting number, not an economic one.
 
 ---
 
@@ -180,6 +186,8 @@ By Buffett's Owner Earnings framework, PC Jeweller generated **zero owner earnin
 | ROCE % | **29%** | **28%** | **26%** | 22% | 23% | 7% | 8% | 6% | **-1%** | 5% | **-2%** | 7% |
 | ROE % | ~24% | ~20% | ~18% | ~15% | ~14% | 0% | 2% | 1% | -10% | -5% | **-21%** | **13%** |
 | ROA % | ~8% | ~8% | ~7% | ~6% | ~6% | 0% | 1% | 1% | -5% | -3% | -9% | 7% |
+
+> *Note: ROE and ROA figures in this table are approximate, computed using average equity/assets. ROCE is sourced directly from Screener.in. The Section 14 DuPont decomposition uses year-end balance sheet figures for its components, which may produce slightly different ROE values for the same years — particularly FY25 where equity more than doubled mid-year.*
 
 ### Analysis
 
@@ -298,7 +306,7 @@ For every ₹1 retained, has management created ₹1+ of market value?
 | Period | Retained Earnings (Cumulative, ₹ Cr) | Change in Market Cap (₹ Cr) | Value Created per ₹1 Retained |
 |---|---|---|---|
 | FY14-FY18 | ~₹1,800 | ~₹10,000+ (stock went from IPO to ₹600/share) | **>₹5** — Passed |
-| FY18-FY24 | ~₹-1,200 (cumulative losses) | ~₹-25,000 (from ₹600 to ₹15 pre-split) | **Total Destruction** |
+| FY18-FY24 | ~₹-1,077 (cumulative losses) | ~₹-22,000 (from peak ~₹23,500 to trough ~₹1,400 Cr) | **Total Destruction** |
 | FY25 | ₹578 Cr (retained, no dividend) | ~Flat (stock around ₹8-10 range) | Too early to judge |
 
 **Verdict:** Management **spectacularly failed** the $1 test over the FY18-FY24 period. They destroyed more value than they created over the full cycle.
@@ -452,22 +460,22 @@ Before running any DCF, we need to establish what PC Jeweller actually earns in 
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 5% CAGR | 12% CAGR | 20% CAGR |
-| 10 Years | 5% CAGR | 9% CAGR | 13% CAGR |
+| 5 Years | 13% CAGR | 19% CAGR | 24% CAGR |
+| 10 Years | 12% CAGR | 17% CAGR | 22% CAGR |
 
 **At Terminal PE = 20x (Market Avg)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | -1% CAGR | 5% CAGR | 12% CAGR |
-| 10 Years | 2% CAGR | 5% CAGR | 9% CAGR |
+| 5 Years | 7% CAGR | 12% CAGR | 17% CAGR |
+| 10 Years | 9% CAGR | 14% CAGR | 18% CAGR |
 
 **At Terminal PE = 12x (Deep Value)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 10% CAGR | 17% CAGR | 25% CAGR |
-| 10 Years | 7% CAGR | 11% CAGR | 15% CAGR |
+| 5 Years | 19% CAGR | 24% CAGR | 29% CAGR |
+| 10 Years | 14% CAGR | 19% CAGR | 25% CAGR |
 
 ### Reality Check
 
@@ -480,16 +488,15 @@ Before running any DCF, we need to establish what PC Jeweller actually earns in 
 
 ### Traffic Light
 
-At the current price and assuming Terminal PE of 15x (reasonable for a commodity retailer), the company needs to grow EPS at **5% CAGR for 10 years** just to earn a 10% return. That sounds achievable — **🟢 GREEN** — but ONLY if:
-1. The working capital problem is resolved
-2. No further equity dilution occurs
-3. Normalised earnings are actually ₹0.48/share (not lower)
+At the current price and assuming Terminal PE of 15x (reasonable for a commodity retailer), the company needs to grow EPS at **12% CAGR for 10 years** just to earn a 10% return. Given the company's historical 10Y EPS CAGR of ~5% and the structural challenges, this is demanding — **🟡 YELLOW to 🟠 ORANGE**. It requires the business to grow EPS faster than its historical track record, which in turn requires revenue to recover to ₹5,000+ Cr AND margins to sustain at current elevated levels.
 
-If normalised EPS is closer to ₹0.28 (conservative), the implied PE on reported earnings jumps to 30x, and the growth requirements become much more demanding — **🟠 ORANGE to 🔴 RED**.
+With a more generous Terminal PE of 20x, the required EPS CAGR drops to **9% for a 10% return over 10 years** — more achievable but still requires sustained execution — **🟡 YELLOW**.
+
+If normalised EPS is closer to ₹0.28 (conservative), the starting PE on normalised earnings jumps to ~30x, and the growth requirements become much more demanding — **🔴 RED**.
 
 ### Verdict
 
-> "At the current price of ₹8.42, to earn a 10% annualised return over 10 years assuming the market values the business at 15x PE at exit, the company needs to grow EPS at ~5% CAGR. On a normalised base-case EPS of ₹0.48, this is achievable. However, the normalised earnings estimate carries enormous uncertainty given the company's 12-year history of negative free cash flow and questionable asset quality."
+> "At the current price of ₹8.42, to earn a 10% annualised return over 10 years assuming the market values the business at 15x PE at exit, the company needs to grow EPS at ~12% CAGR. At a more generous 20x terminal PE, ~9% CAGR is needed. The company has historically grown EPS at ~5% CAGR over 10 years (distorted by the crisis). This implies the market is pricing in a meaningful recovery that requires execution beyond the company's track record."
 
 ---
 
@@ -508,6 +515,8 @@ If normalised EPS is closer to ₹0.28 (conservative), the implied PE on reporte
 | FY23 | -8.2% | 0.32x | 2.07x | -5.5% |
 | FY24 | -104.1% | 0.08x | 2.48x | -21.5% |
 | **FY25** | **25.8%** | **0.27x** | **1.36x** | **12.7%** |
+
+> *Note on FY25 DuPont: Asset Turnover (0.27x) and Equity Multiplier (1.36x) use year-end balance sheet figures, consistent with FY17-FY24 rows. However, the ROE of 12.7% is computed using average equity ((₹2,931 + ₹6,193)/2 = ₹4,562 Cr), which is the standard approach. The product of the three year-end components (25.8% × 0.27 × 1.36) gives ~9.5%, which equals the year-end ROE (578/6,193). The large gap arises because FY25 equity more than doubled during the year due to massive capital infusion — making the choice of year-end vs average equity unusually impactful. The 12.7% average-equity ROE is the more meaningful figure as it reflects returns on capital actually deployed throughout the year.*
 
 **Key Takeaway:** In FY25, the high ROE (12.7%) comes from an **extremely high net profit margin (25.8%)** — which is inflated by one-time items. Asset turnover at 0.27x is terrible (Titan's is ~2.5x). The equity multiplier at 1.36x is very low (indicating the massive equity raise has de-leveraged the balance sheet).
 
@@ -537,15 +546,15 @@ If normalised EPS is closer to ₹0.28 (conservative), the implied PE on reporte
 
 | Exit P/B Scenario | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|
-| P/B stays at 0.84x | 12% | 10% | 10% |
-| P/B expands to 1.0x | 15% | 13% | 12% |
-| P/B expands to 1.5x | 22% | 18% | 15% |
-| P/B compresses to 0.6x | 5% | 5% | 6% |
-| P/B compresses to 0.4x | -2% | 0% | 2% |
+| P/B stays at 0.84x | 8% | 8% | 8% |
+| P/B expands to 1.0x | 12% | 11% | 10% |
+| P/B expands to 1.5x | 21% | 17% | 14% |
+| P/B compresses to 0.6x | 1% | 3% | 4% |
+| P/B compresses to 0.4x | -7% | -3% | 0% |
 
 **Traffic Light Verdict:**
 
-At the current entry P/B of 0.84x with a sustainable normalised ROE of ~8%, book value compounds at ~8% annually. If P/B just stays at 0.84x, the return is ~10%/year — exactly at Buffett's hurdle rate. Even if P/B compresses to 0.6x, the 10-year return stays positive (~6%). **🟢 GREEN** — but barely.
+At the current entry P/B of 0.84x with a sustainable normalised ROE of ~8%, book value compounds at ~8% annually. If P/B just stays at 0.84x, the return is ~8%/year — slightly below Buffett's 10% hurdle rate. If P/B expands to 1.0x (fair for an 8% ROE business), the 10-year return reaches ~10%. However, if P/B compresses to 0.6x, the 10-year return drops to just ~4%. **🟡 YELLOW** — the entry is not cheap enough to provide a comfortable margin of safety; returns are only acceptable if the multiple holds or expands.
 
 The risk is that the normalised ROE is lower than 8% (if inventory write-downs hit book value or if the business cannot scale), in which case the BV compounding slows and returns deteriorate.
 
@@ -662,7 +671,7 @@ The debt reduction story is genuinely impressive. But the cash flow problem, com
 
 PC Jeweller is a **troubled jewellery retailer in the early stages of a turnaround** from a near-death experience. The debt reduction story is compelling — from ₹4,150 Cr to potentially debt-free by March 2026. Revenue is recovering. But the fundamental economics are poor: this is a commodity retail business with 1,400+ day cash conversion cycle, no moat, damaged brand, SEBI-penalised management, and massive equity dilution.
 
-The stock at ₹8.42 (0.87x book) is in the **Fair Value / Hold zone**. It is NOT cheap enough to be a deep-value buy, and NOT high-quality enough to be a compounder. Buffett would call this a **"cigar butt at best, a value trap at worst"** and would likely pass.
+The stock at ₹8.42 (0.84x book) is in the **Fair Value / Hold zone**. It is NOT cheap enough to be a deep-value buy, and NOT high-quality enough to be a compounder. Buffett would call this a **"cigar butt at best, a value trap at worst"** and would likely pass.
 
 **If you own it and bought cheaply (below ₹5): HOLD.** The turnaround momentum is real and there may be another 50-80% upside if execution continues.
 
@@ -691,7 +700,7 @@ That's exactly the right question.
 
 > *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* — Warren Buffett
 
-This is NOT a no-brainer. The bull case requires multiple assumptions about inventory quality, normalised margins, working capital improvement, and competitive recovery — all of which require detailed modelling. **By Buffett's napkin test, this is an automatic pass.**
+This is NOT a no-brainer. The bull case requires multiple assumptions about inventory quality, normalised margins, working capital improvement, and competitive recovery — all of which require detailed modelling. **By Buffett's napkin test, this is an automatic fail.**
 
 ---
 
