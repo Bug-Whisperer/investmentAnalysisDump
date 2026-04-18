@@ -64,7 +64,7 @@ Absolutely. Banking is within Buffett's circle of competence — he has owned We
 | ROA (Standalone, excl. one-offs) | ~1.8% | ~1.9% | ~2.1% | ~2.3% | ~2.3% | **~2.5%** | ~2.0% |
 | ROE (Consolidated) | 13% | 14% | 13% | 13% | 14% | **15%** | **15%** |
 
-*\*NII approximated from Revenue minus Interest Expense for consolidated; standalone NII for FY2025 was ₹21,006 Cr per management disclosure.*
+*\*NII approximated from Revenue minus Interest Expense for consolidated; standalone NII for FY2025 was ₹21,006 Cr per management disclosure. Note: For banks, Screener's "Total Expenses" line bundles operating expenses, provisions, and other charges. PBT cannot be derived from Revenue minus Total Expenses alone — it requires adding Other Income and subtracting Depreciation: PBT = Revenue − Interest − Expenses + Other Income − Depreciation.*
 
 **Note:** FY2025 net profit of ₹22,126 Cr includes a one-time gain from the divestment of 70% stake in Kotak General Insurance (KGI). Excluding this gain, ROA was ~2.0% and normalised PAT was lower.
 
@@ -90,10 +90,10 @@ NIM is **compressing** — from a peak of 5.32% in FY2024 to 4.96% in FY2025 and
 | **Total Assets** | 395,171 | 443,173 | 478,854 | 546,498 | 620,430 | 767,667 | **879,774** | **912,952** |
 | Total Asset Growth | 17% | 12% | 8% | 14% | 14% | **24%** | 15% | — |
 | **Shareholders' Equity** | 57,781 | 66,637 | 84,339 | 96,665 | 111,814 | 129,972 | **157,489** | 167,935 |
-| Book Value Per Share (₹) | 303 | 348 | 426 | 487 | 563 | 654 | **792** | **~845** |
+| Book Value Per Share (₹, pre-split at FV ₹5)† | 303 | 348 | 426 | 487 | 563 | 654 | **792** | **~845** |
 | BVPS Growth YoY | — | 15% | 22% | 15% | 15% | **16%** | 21% | — |
-| **Capital Adequacy (CRAR)** | ~18% | ~18% | ~23% | ~22% | ~22% | ~22% | **~22.2%** | **22.8%** |
-| CET-1 Ratio | — | — | — | — | — | — | **~22.3%** | 21.5% |
+| **Capital Adequacy (CRAR)**‡‡ | ~18% | ~18% | ~23% | ~22% | ~22% | ~22% | **~22.2%** | **22.8%** |
+| CET-1 Ratio‡‡ | — | — | — | — | — | — | **~21.2%** | 21.5% |
 | Leverage (Assets/Equity) | 6.8x | 6.7x | **5.7x** | 5.7x | 5.5x | 5.9x | 5.6x | 5.4x |
 | **GNPA %** | ~2.4% | ~2.3% | ~3.2% | ~2.3% | 1.76% | **1.38%** | 1.45% | **1.30%** |
 | **NNPA %** | ~0.9% | ~0.7% | ~1.1% | ~0.6% | 0.41% | **0.36%** | 0.36% | **0.31%** |
@@ -101,10 +101,14 @@ NIM is **compressing** — from a peak of 5.32% in FY2024 to 4.96% in FY2025 and
 
 *\*Dec 2025 Customer Assets = ₹598,780 Cr (includes Advances + Credit Substitutes)*
 
+*†BVPS shown at pre-split face value of ₹5 (as reported historically). Post-split (FV ₹1, effective Jan 2026) BVPS = pre-split BVPS ÷ 5. FY2025 post-split BVPS = ₹792 ÷ 5 = **₹158**. All valuation sections (12–15) use the post-split BVPS of ₹158.*
+
+*‡‡CRAR and CET-1 are reported on a standalone basis (as is standard for bank capital adequacy disclosures), even though the rest of this table is consolidated. On a consolidated basis, FY2025 CRAR was ~23.3% and CET-1 was ~22.3%.*
+
 **Buffett's Financial Fortress Assessment — Adapted for Banks:**
 
 **1. Capital Adequacy — ✅ EXCELLENT.**
-CRAR of 22.2% (FY2025) and CET-1 of ~22% is **massively above** the RBI minimum of ~9-10%. This is one of the best-capitalised banks in India. Kotak has historically maintained excessive capital, which is both a strength (safety) and a weakness (capital inefficiency that suppresses ROE).
+CRAR of 22.2% (FY2025 standalone) and CET-1 of ~21.2% is **massively above** the RBI minimum of ~9-10%. On a consolidated basis, CRAR was ~23.3% with CET-1 of ~22.3%. This is one of the best-capitalised banks in India. Kotak has historically maintained excessive capital, which is both a strength (safety) and a weakness (capital inefficiency that suppresses ROE).
 
 **2. Asset Quality — ✅ EXCELLENT.**
 GNPA of 1.30% and NNPA of 0.31% (Dec 2025) are **among the best in Indian banking**. PCR of 76% is adequate. GNPA has been on a declining trend from 2.4% in FY2019 to 1.30%. The bank navigated demonetisation, IL&FS, COVID, and the unsecured lending cycle without any blow-up.
@@ -134,12 +138,12 @@ No material restructured book or SMA issues reported. Fresh slippages have been 
 | BVPS Growth | — | 15% | **22%** | 15% | 15% | 16% | **21%** |
 | Internal Capital Generation Rate (ROE × Retention) | ~13% | ~14% | ~13% | ~13% | ~14% | ~15% | ~15% |
 | Dividend Payout Ratio | **2%** | 0% | 2% | 2% | 2% | 2% | 2% |
-| Dividend Per Share (post-split ₹) | ~0.03 | 0 | ~0.04 | ~0.05 | ~0.06 | ~0.07 | ~0.09 |
+| Dividend Per Share (post-split ₹) | ~0.15 | 0 | ~0.20 | ~0.25 | ~0.30 | ~0.37 | ~0.45 |
 | Dividend Yield (at CMP ₹375) | — | — | — | — | — | — | **~0.13%** |
 
 **Key Insight:** Kotak retains ~98% of its earnings, making it a **self-funding growth machine**. The internal capital generation rate of ~15% is sufficient to fund 15-16% annual loan book growth while maintaining CRAR above 20%. This means Kotak does NOT need to raise equity capital to fund growth — this is the bank equivalent of "high free cash flow."
 
-**Equity Dilution History:** The only material dilution was during the ING Vysya Bank acquisition (FY2015-16) when shares went from ~386 Cr to ~917 Cr. Since FY2016, dilution has been negligible (<0.3% per year from ESOPs). This is outstanding — many Indian banks (e.g., YES Bank, IDFC First) have repeatedly diluted shareholders.
+**Equity Dilution History:** The only material dilution was during the ING Vysya Bank acquisition (FY2015-16) when equity capital (per Screener) went from ₹386 Cr to ₹917 Cr — equivalent to pre-split shares rising from ~77 Cr to ~183 Cr (a ~2.4x increase). Since FY2016, dilution has been negligible (<0.3% per year from ESOPs). This is outstanding — many Indian banks (e.g., YES Bank, IDFC First) have repeatedly diluted shareholders.
 
 > *Buffett: "The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* Kotak retains nearly all earnings and reinvests them at 14-15% ROE — this is exactly what Buffett looks for.
 
@@ -152,11 +156,13 @@ No material restructured book or SMA issues reported. Fresh slippages have been 
 | Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | **FY2025** |
 |---|---|---|---|---|---|---|
 | Net Income (Consol.) | 8,593 | 9,990 | 12,089 | 14,925 | 18,213 | 22,126 |
+| Less: KGI One-Time Gain (post-tax) | — | — | — | — | — | ~2,730 |
+| Normalised Net Income | 8,593 | 9,990 | 12,089 | 14,925 | 18,213 | **~19,396** |
 | Add: D&A | 465 | 461 | 480 | 599 | 792 | 941 |
-| Actual Credit Cost (Provisions, approx.) | ~2,500 | ~4,500 | ~2,200 | ~1,500 | ~1,800 | ~3,000 |
-| 5-Year Avg Credit Cost (% of Avg Advances) | — | — | — | — | ~0.5% | ~0.5% |
-| Normalised Credit Cost (5Y avg × current advances) | — | — | — | — | ~2,250 | ~2,650 |
-| **Normalised Earnings ("Bank Owner Earnings")** | — | — | — | — | ~16,755 | **~17,417** |
+| Less: Normalised Credit Cost (5Y avg % × advances)† | — | — | — | — | ~2,250 | ~2,650 |
+| **Normalised Earnings ("Bank Owner Earnings")** | — | — | — | — | **~16,755** | **~17,687** |
+
+*†5-year average credit cost % is sourced from management-reported standalone credit cost ratios (FY2020–FY2024 average of ~0.5%), not derived from the approximate consolidated provisions shown above. The standalone credit cost ratios per filings were: FY2020 ~0.8%, FY2021 ~1.5%, FY2022 ~0.2%, FY2023 ~0.3%, FY2024 ~0.3%. The ~0.5% represents a through-cycle normalised estimate.*
 
 **Interpretation:**
 
@@ -173,13 +179,14 @@ No material restructured book or SMA issues reported. Fresh slippages have been 
 | Metric | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | **FY2025** | **Q3FY26** |
 |---|---|---|---|---|---|---|---|---|
 | **ROE (Consol.)** | 13% | 14% | 13% | 13% | 14% | **15%** | **15%** | ~11%* |
-| **ROA (Standalone, excl. one-offs)** | ~1.8% | ~1.9% | ~2.1% | ~2.3% | ~2.3% | **~2.5%** | ~2.0% | **1.89%** |
+| **ROA (Consol.)** | ~2.0% | ~2.1% | ~2.2% | ~2.4% | ~2.6% | **~2.6%** | ~2.7%‡ | **1.89%§** |
 | NIM (Standalone) | ~4.6% | ~4.7% | ~4.6% | ~4.6% | ~5.3% | **5.32%** | 4.96% | **4.54%** |
 | Cost-to-Income | ~44% | ~43% | ~43% | ~46% | ~46% | ~47% | ~48% | **48.3%** |
 | Credit Cost (% of Advances) | ~0.7% | ~0.8% | ~1.5% | ~0.6% | ~0.3% | ~0.3% | ~0.5% | ~0.6% |
 | Leverage (Assets/Equity) | 6.8x | 6.7x | **5.7x** | 5.7x | 5.5x | 5.9x | 5.6x | 5.4x |
 
 *\*Q3FY26 standalone ROE of 10.68% is annualised quarterly — full-year ROE tracking ~12-13% for FY2026.*
+*‡FY2025 consolidated ROA of ~2.7% includes the one-time KGI divestment gain. Excluding KGI, normalised consolidated ROA was ~2.2%. §Q3FY26 ROA of 1.89% is standalone annualised.*
 
 ### ROE Decomposition (DuPont for Banks)
 
@@ -191,10 +198,10 @@ No material restructured book or SMA issues reported. Fresh slippages have been 
 | Provision Intensity (1 - Prov/PPOP) | ~90% | ~92% | ~85% | ⬇ Higher provisions |
 | Tax Efficiency (PAT/PBT) | ~75% | ~75% | ~76% | ↔ Stable |
 | Leverage (Assets/Equity) | 5.5x | 5.9x | 5.6x | ↔ Conservative |
-| **ROA** | **~2.3%** | **~2.5%** | **~2.0%** | ⬇ Declining from peak |
+| **ROA (Consol.)** | **~2.6%** | **~2.6%** | **~2.7%‡** | ⬇ *excl. KGI ~2.2%* |
 | **ROE = ROA × Leverage** | **~14%** | **~15%** | **~15%** | ↔ Stable at ~15% |
 
-**Critical Distinction:** Kotak's ROE of 15% comes from **ROA of ~2.0% × Leverage of ~5.6x**. This is **HIGH QUALITY** ROE. An ROA of 2.0% is excellent by global standards. The leverage of 5.6x is among the LOWEST in Indian banking (most banks operate at 10-15x). This means Kotak is generating strong returns WITHOUT leveraging up aggressively.
+**Critical Distinction:** Kotak's ROE of 15% comes from **consolidated ROA of ~2.6% × Leverage of ~5.6x** (FY2024). This is **HIGH QUALITY** ROE. A consolidated ROA above 2% is excellent by global standards. The leverage of 5.6x is among the LOWEST in Indian banking (most banks operate at 10-15x). This means Kotak is generating strong returns WITHOUT leveraging up aggressively. Note: FY2025 consolidated ROA of 2.7% is inflated by the KGI one-time gain; excluding that, normalised ROA was ~2.2%, still solidly in the "Excellent" tier.
 
 **The paradox:** Kotak's ROE looks "mediocre" at 13-15% compared to HDFC Bank or ICICI Bank (15-18%), but this is because Kotak is OVER-CAPITALISED. If Kotak operated at 8-10x leverage (still conservative), its ROE would be 16-20%. The excess capital is a hidden asset that can be deployed over time.
 
@@ -362,10 +369,10 @@ Uday Kotak stepped down as MD & CEO in September 2023 (post RBI term limits). As
 | Forward PE (est. FY2026E) | — | — | — | — | — | — | ~20-22x |
 | Earnings Yield | 2.8% | 2.6% | 3.1% | 3.8% | 4.8% | 5.9% | **~5.0%** |
 | Dividend Yield | ~0.04% | 0% | ~0.05% | ~0.05% | ~0.07% | ~0.1% | **~0.13%** |
-| BVPS (₹) | 348 | 426 | 487 | 563 | 654 | 792 | ~845 (Dec 25) |
+| BVPS (₹, pre-split)† | 348 | 426 | 487 | 563 | 654 | 792 | ~845 (Dec 25) |
 | BV Growth Rate | 15% | 22% | 15% | 15% | 16% | 21% | — |
 
-*\*PE of ~20x based on TTM consolidated EPS of ~₹18.9 (post-split). Using normalised FY2025 EPS excluding KGI gain, normalised PE is higher.*
+*\*PE of ~20x based on TTM consolidated EPS of ~₹18.9 (per Screener, already at post-split FV ₹1). Note: FY2025 annual EPS from Screener's P&L was ₹22.26 (captured at pre-split FV ₹5, equivalent to ₹4.45 post-split). The TTM EPS of ₹18.9 is lower than FY2025 because the KGI one-time gain (~₹2.7 post-tax per share) has rolled out of the trailing 4-quarter window. TTM PAT ≈ ₹18.9 × 994 Cr shares = ₹18,787 Cr.*
 
 **Historical Comparison:** Kotak has historically traded at 4-5x book value. The current 2.37x book is **near the lowest valuation the stock has seen in over a decade**. This de-rating reflects: (a) NIM compression fears, (b) the RBI embargo aftermath, (c) lower ROE vs. peers, and (d) concerns about the management transition.
 
@@ -413,7 +420,7 @@ At 15% ROE, the fair P/B for Kotak is approximately **2.0-3.0x book**. Current P
 
 **Projected BVPS and Implied Stock Price:**
 
-> *Note: BVPS = ₹158 per share (Equity of ₹157,489 Cr / 994 Cr shares). CMP = ₹375. P/B = 375/158 = 2.37x. Confirmed via Market Cap / Equity = 373,390/157,489 = 2.37x.*
+> *Note: BVPS = ₹158 per share (Equity of ₹157,489 Cr / 994 Cr shares, audited FY2025 year-end). CMP = ₹375. P/B = 375/158 = 2.37x. Confirmed via Market Cap / Equity = 373,390/157,489 = 2.37x. The more recent Dec 2025 BVPS is ~₹169 (unaudited interim, post-split), which would give P/B = 2.22x. We use the audited FY2025 figure as the base for valuation conservatism.*
 
 | Year | Conservative BVPS → Price | Base BVPS → Price | Optimistic BVPS → Price |
 |---|---|---|---|
@@ -547,12 +554,12 @@ Realistic Downside: -37% (trough P/B)
 | Component | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|
 | ROA (Standalone, excl. one-offs) | 2.3% | 2.5% | 2.0% |
-| ROA (Consol., incl. KGI gain FY25) | ~2.4% | ~2.5% | ~2.7% |
+| ROA (Consol., incl. KGI gain FY25) | ~2.6% | ~2.6% | ~2.7% |
 | Leverage (Consol. Assets/Equity) | 5.5x | 5.9x | 5.6x |
-| **Consol. ROA × Leverage** | **~13.2%** | **~14.8%** | **~15.1%** |
+| **Consol. ROA × Leverage** | **~14.3%** | **~15.3%** | **~15.1%** |
 | **Consolidated ROE (reported)** | **~14%** | **~15%** | **~15%** |
 
-**Quality Assessment:** FY2025 reported ROE of ~15% includes the one-time KGI divestment gain. Excluding the gain, normalised consolidated ROA falls to ~2.0%, producing a normalised ROE of ~11-12%. Even this normalised level reflects HIGH QUALITY returns — driven by strong ROA with LOW leverage (5.6x, among the lowest in Indian banking). The gap between standalone and consolidated returns also reflects the earnings contribution from Kotak's non-bank subsidiaries (broking, AMC, insurance, vehicle finance) — an additional moat.
+**Quality Assessment:** FY2025 reported ROE of ~15% includes the one-time KGI divestment gain. Excluding the gain, normalised consolidated ROA falls to ~2.4%, producing a normalised ROE of ~13%. Even this normalised level reflects HIGH QUALITY returns — driven by strong ROA with LOW leverage (5.6x, among the lowest in Indian banking). The gap between standalone and consolidated returns also reflects the earnings contribution from Kotak's non-bank subsidiaries (broking, AMC, insurance, vehicle finance) — an additional moat.
 
 ### Part B: P/B Scenario Analysis
 
