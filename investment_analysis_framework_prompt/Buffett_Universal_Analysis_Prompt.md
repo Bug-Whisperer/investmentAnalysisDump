@@ -77,7 +77,197 @@ Also present: **Equity Dilution History** — any equity raises (QIP, rights iss
 
 ---
 
-## 5. CAPEX QUALITY ANALYSIS — Growth vs. Maintenance CapEx
+
+## 5. KEY RATIOS — The Quality Scorecard (10-12 Year View)
+
+**[ALL MODES — This Section Applies to Both Standard and Bank/NBFC Companies]**
+
+> **Purpose:** Before diving into deep analysis, present a bird's-eye dashboard of the most important financial quality ratios across the longest available period (ideally 10-12 years). This is the first-pass Buffett quality filter — a single table that tells you in seconds whether this business is worth spending more time on.
+
+### Part A: Key Ratio Table
+
+Present the following ratios in a single multi-year table (minimum 10 years where available, 12 preferred). **Bold** the best and worst years for each ratio to immediately surface the range of outcomes.
+
+**[STANDARD MODE]:**
+
+| Ratio | FY[...] | FY[...] | ... | FY[latest] |
+|---|---|---|---|---|
+| ROCE % | | | | |
+| ROE % | | | | |
+| ROIC % | | | | |
+| Debt/Equity | | | | |
+| OPM % | | | | |
+| NPM % | | | | |
+| Debtor Days | | | | |
+| Inventory Days | | | | |
+| Cash Conversion Cycle | | | | |
+| Working Capital Days | | | | |
+| Current Ratio | | | | |
+| Interest Coverage | | | | |
+| Dividend Payout % | | | | |
+
+**[BANK/NBFC MODE — Replace With]:**
+
+| Ratio | FY[...] | FY[...] | ... | FY[latest] |
+|---|---|---|---|---|
+| ROE % | | | | |
+| ROA % | | | | |
+| NIM % | | | | |
+| Cost-to-Income Ratio % | | | | |
+| GNPA % | | | | |
+| NNPA % | | | | |
+| PCR % | | | | |
+| CASA Ratio % | | | | |
+| CRAR % (Total) | | | | |
+| Credit Cost % | | | | |
+| Leverage (Assets/Equity) | | | | |
+| Dividend Payout % | | | | |
+
+### Part B: Buffett's Quality Checklist
+
+Assess the company against Buffett's key quality benchmarks. For each criterion, state the benchmark, the company's actual score (using 5-10 year averages where appropriate), and a clear pass/fail verdict.
+
+**[STANDARD MODE]:**
+
+| Criterion | Benchmark | Company Score | Verdict |
+|---|---|---|---|
+| ROE > 15% consistently | >15% | [X]% (10Y avg) | ✅ / ⚠️ / ❌ |
+| ROCE > 15% | >15% | [X]% (range) | ✅ / ⚠️ / ❌ |
+| Debt/Equity < 0.5 | <0.5 | [X] | ✅ / ⚠️ / ❌ |
+| Consistent profit growth | Growing | [X]% CAGR 10Y | ✅ / ⚠️ / ❌ |
+| Sales growth | Growing | [X]% CAGR 10Y | ✅ / ⚠️ / ❌ |
+| Positive Free Cash Flow | Positive | ₹[X] Cr | ✅ / ⚠️ / ❌ |
+| Promoter/Insider holding | Aligned | [X]% | ✅ / ⚠️ / ❌ |
+| Dividend payout | Paying | [X]% avg | ✅ / ⚠️ / ❌ |
+| OPM stability | Stable | [X]-[X]% range | ✅ / ⚠️ / ❌ |
+| Moat / Pricing Power | Identifiable | [Describe briefly] | ✅ / ⚠️ / ❌ |
+| ROIC | >15% | [X]% | ✅ / ⚠️ / ❌ |
+| Earnings yield | Reasonable | [X]% | ✅ / ⚠️ / ❌ |
+
+**[BANK/NBFC MODE]:**
+
+| Criterion | Benchmark | Company Score | Verdict |
+|---|---|---|---|
+| ROE > 12% consistently | >12% | [X]% (10Y avg) | ✅ / ⚠️ / ❌ |
+| ROA > 1.0% | >1.0% | [X]% (range) | ✅ / ⚠️ / ❌ |
+| GNPA < 3% | <3% | [X]% | ✅ / ⚠️ / ❌ |
+| NNPA < 1% | <1% | [X]% | ✅ / ⚠️ / ❌ |
+| CASA > 40% | >40% | [X]% | ✅ / ⚠️ / ❌ |
+| CRAR > 15% | >15% | [X]% | ✅ / ⚠️ / ❌ |
+| NIM > 3% | >3% | [X]% | ✅ / ⚠️ / ❌ |
+| Cost-to-Income improving | Declining trend | [X]% | ✅ / ⚠️ / ❌ |
+| PCR > 65% | >65% | [X]% | ✅ / ⚠️ / ❌ |
+| Consistent book value growth | Growing | [X]% CAGR 10Y | ✅ / ⚠️ / ❌ |
+| Promoter/Insider holding | Aligned | [X]% | ✅ / ⚠️ / ❌ |
+| No equity dilution in 5 years | No dilution | [State facts] | ✅ / ⚠️ / ❌ |
+
+> *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
+
+After the checklist, provide a 2-3 sentence narrative connecting the ratio trends to the company's competitive advantage. Highlight specifically where the ratios reveal moat strength (e.g., consistently high ROCE signals pricing power) or moat erosion (e.g., declining margins, rising working capital). This sets the stage for the deeper moat analysis in later sections.
+
+---
+
+## 6. QUARTERLY TREND ANALYSIS — Recent Momentum
+
+**[ALL MODES — This Section Applies to Both Standard and Bank/NBFC Companies]**
+
+> **Purpose:** Annual data tells you where the business HAS BEEN. Quarterly data tells you where it IS GOING. This section captures the most recent trajectory — is the business accelerating, decelerating, or cruising at steady state? It also reveals seasonality patterns and flags any recent deterioration that annual averages might mask.
+
+Present consolidated quarterly figures for the most recent 10-13 quarters available (approximately 3+ years of quarters). Use ₹ Crores unless the company reports in different units.
+
+**[STANDARD MODE]:**
+
+| Metric | [Q1] | [Q2] | ... | [Latest Q] |
+|---|---|---|---|---|
+| Sales | | | | |
+| YoY Sales Growth % | | | | |
+| Operating Profit | | | | |
+| OPM % | | | | |
+| Net Profit | | | | |
+| NPM % | | | | |
+| EPS (₹) | | | | |
+
+**Bold** the best and worst quarter for each metric to immediately reveal the range.
+
+**[BANK/NBFC MODE — Replace With]:**
+
+| Metric | [Q1] | [Q2] | ... | [Latest Q] |
+|---|---|---|---|---|
+| Net Interest Income | | | | |
+| NII Growth YoY % | | | | |
+| Other Income | | | | |
+| Total Income | | | | |
+| Operating Expenses | | | | |
+| PPOP | | | | |
+| Provisions | | | | |
+| Net Profit | | | | |
+| NIM % | | | | |
+| Cost-to-Income % | | | | |
+| GNPA % | | | | |
+| NNPA % | | | | |
+| EPS (₹) | | | | |
+
+### Key Observations:
+
+After the table, provide a concise narrative covering:
+
+1. **Revenue/NII Trajectory:** Are quarterly revenues growing, flat, or declining on a YoY and sequential basis? Identify the highest and lowest quarters and explain seasonality if relevant.
+
+2. **Margin Trend:** Are operating margins (OPM for standard, NIM/Cost-to-Income for banks) expanding, stable, or compressing in recent quarters? If compressing, explain why — input cost inflation, competitive pressure, mix shift, higher provisions, etc.
+
+3. **Normalised Quarterly EPS Run-Rate:** Strip out any one-time items (extraordinary gains/losses, exceptional items, demerger impacts, large provision write-backs) and state the normalised quarterly EPS. Annualise this to establish the true current earnings power. This normalised run-rate is critical for validating the TTM EPS used in valuation sections.
+
+4. **Any Red Flags or Positive Surprises:** Flag any quarter that is materially better or worse than the trend — and explain the cause (one-time item, seasonal, or structural shift).
+
+> *"In the business world, the rearview mirror is always clearer than the windshield."* — Warren Buffett
+
+State clearly whether the quarterly data reveals a business that is: (a) **Accelerating** — growth picking up, margins expanding; (b) **Cruising** — stable and predictable, the classic Buffett compounding machine; (c) **Decelerating** — growth slowing, margins under pressure; or (d) **Deteriorating** — declining revenues, collapsing margins, red flags. Buffett values predictability above all. A business where you can forecast next quarter's earnings within a 10% range is far more valuable than one with volatile, unpredictable swings — even if the volatile one grows faster on average.
+
+---
+
+## 7. SHAREHOLDING PATTERN — Who Owns the Company?
+
+**[ALL MODES — This Section Applies to Both Standard and Bank/NBFC Companies]**
+
+> **Purpose:** Ownership tells you who believes in the business — and who is leaving. Shifts in institutional ownership often precede stock price moves. Buffett pays close attention to insider ownership (skin in the game) and institutional flows (smart money signals).
+
+Present the shareholding pattern across the most recent 6-8 available quarters, showing the trend direction.
+
+| Holder | [Quarter 1] | [Quarter 2] | ... | [Latest Quarter] | Trend |
+|---|---|---|---|---|---|
+| Promoters / Insiders | | | | | ↑ / ↓ / → |
+| FIIs / FPIs | | | | | ↑ / ↓ / → |
+| DIIs (MFs + Insurance + PFs) | | | | | ↑ / ↓ / → |
+| Government | | | | | ↑ / ↓ / → |
+| Public / Retail | | | | | ↑ / ↓ / → |
+| No. of Shareholders | | | | | ↑ / ↓ / → |
+
+### Analysis:
+
+After the table, interpret the following signals:
+
+1. **Promoter/Insider Holding & Changes:** Is the promoter increasing stake (strong confidence signal), holding steady, or reducing (potential red flag)? Have there been any pledging of promoter shares (a warning sign of financial stress)? For widely-held companies with no promoter (e.g., ITC, L&T, ICICI Bank), note this and focus instead on the institutional ownership dynamics.
+
+2. **FII / FPI Trend:** Are foreign institutional investors increasing or decreasing their holdings? A sustained FII exit (multiple consecutive quarters of reduction) often signals one of: sector-level concerns (ESG, regulatory), valuation worries, global portfolio rebalancing, or fundamental deterioration. Quantify the magnitude of change (e.g., "FIIs reduced from 43% to 36% over 8 quarters — approximately ₹[X] Cr of selling").
+
+3. **DII Trend:** Are domestic institutions (mutual funds, insurance companies, pension funds) accumulating or distributing? DII accumulation during FII selling is often a contrarian bullish signal — it suggests domestic smart money sees value that foreign money is ignoring.
+
+4. **Retail / Public Trend:** A rising retail base (increasing number of shareholders) often indicates growing awareness and broadening ownership — generally positive for long-term liquidity and price discovery.
+
+5. **Contrarian Signal Check:** If FIIs are selling into DII buying at depressed valuations, this is a classic contrarian setup. Similarly, if both FIIs and DIIs are selling and only retail is buying, that may indicate crowded retail optimism at elevated valuations — a caution signal.
+
+> *"Be fearful when others are greedy, and greedy when others are fearful."* — Warren Buffett
+
+State clearly what the shareholding pattern signals about market sentiment toward this company. Is there a divergence between institutional smart money (accumulating) and market price (declining) that suggests a contrarian opportunity? Or is institutional money exiting for good fundamental reasons?
+
+**[BANK/NBFC MODE — Additional Check]:**
+For banks and NBFCs, also note:
+- **RBI / Regulatory Holding Limits:** Are FIIs near the regulatory ceiling for bank ownership? If so, further FII buying is capped — this is a structural constraint on demand.
+- **Promoter Holding Compliance:** Banks have regulatory requirements for minimum promoter holding and dilution timelines. Flag if the promoter is under regulatory pressure to dilute.
+- **Pledge Position:** For private banks and NBFCs with promoter-held stakes, is there any pledging? Pledged promoter shares in a leveraged financial institution are an elevated risk.
+
+---
+## 8. CAPEX QUALITY ANALYSIS — Growth vs. Maintenance CapEx
 
 **[STANDARD MODE]:**
 This is a critical section. Break down CapEx into:
@@ -110,7 +300,7 @@ This "Normalised Earnings" figure is the bank equivalent of Buffett's Owner Earn
 
 ---
 
-## 6. RETURN ON CAPITAL — The Buffett Quality Test
+## 9. RETURN ON CAPITAL — The Buffett Quality Test
 
 **[STANDARD MODE]:**
 Table covering: ROE, ROA, ROIC, ROCE across all years. Is the business consistently earning above its cost of capital? Is ROIC trending up or down? Apply Buffett's test: a great business earns high returns on capital and can reinvest at those same high returns.
@@ -148,7 +338,7 @@ Apply Buffett's test: A great bank earns high ROE primarily through high ROA (no
 
 ---
 
-## 7. COMPETITIVE POSITION & MOAT ANALYSIS
+## 10. COMPETITIVE POSITION & MOAT ANALYSIS
 
 Assess the moat type (brand, switching costs, cost advantage, network effects, or none). Then critically evaluate:
 - Is the moat enduring or eroding?
@@ -172,7 +362,7 @@ For banks and NBFCs, assess these **specific moat sources**:
 
 ---
 
-## 8. SCALABILITY CHECK — Can This Business Scale and Is It Scaling?
+## 11. SCALABILITY CHECK — Can This Business Scale and Is It Scaling?
 
 **[ALL MODES — This Section Applies to Both Standard and Bank/NBFC Companies]**
 
@@ -303,7 +493,7 @@ Buffett: *"Time is the friend of the wonderful business, the enemy of the medioc
 
 ---
 
-## 9. MANAGEMENT QUALITY & BUFFETT'S $1 TEST
+## 12. MANAGEMENT QUALITY & BUFFETT'S $1 TEST
 
 Evaluate management through Buffett's lens:
 - Buffett's $1 Test: For every $1 of retained earnings, has the company created at least $1 of market value? Calculate this over the analysis period.
@@ -325,7 +515,7 @@ Buffett says banking is a leveraged business where **one bad loan decision can w
 
 ---
 
-## 10. OPERATING METRICS — Industry-Specific KPIs
+## 13. OPERATING METRICS — Industry-Specific KPIs
 
 **[STANDARD MODE]:**
 Pull the most relevant operating/business metrics for the specific industry (e.g., for payments: Active Accounts, TPV, Transactions per User; for retail: same-store sales, inventory turns; for SaaS: ARR, churn, NRR; for banks: NIM, NPL ratio, etc.). Table these across all available periods. Are the operational fundamentals improving or deteriorating beneath the financial surface?
@@ -373,7 +563,7 @@ Are the operational fundamentals improving or deteriorating beneath the financia
 
 ---
 
-## 11. VALUATION ANALYSIS — The Price You Pay Determines Your Return
+## 14. VALUATION ANALYSIS — The Price You Pay Determines Your Return
 
 **[STANDARD MODE]:**
 Table covering (current + all historical years): PE Ratio, Forward PE, PS Ratio, PB Ratio, P/FCF Ratio, P/Owner Earnings Ratio, EV/EBITDA, EV/FCF, Earnings Yield, FCF Yield, PEG Ratio. How does current valuation compare to historical norms (add a specific note on Historical Comparison, indicating has the stock ever traded sustainably at current multiples historically)? Is the stock cheap on all metrics, or only superficially cheap (i.e., a potential value trap)?
@@ -382,7 +572,7 @@ Table covering (current + all historical years): PE Ratio, Forward PE, PS Ratio,
 
 > **Critical Note:** For banks, **EV/EBITDA, EV/FCF, P/FCF, and PS Ratio are meaningless.** Enterprise Value calculations don't work because you cannot cleanly separate operating assets from financing — deposits are simultaneously a liability (you owe depositors) AND the core operating asset (cheap funding that generates NIM). There is no sensible way to define "net debt" for a bank.
 
-Table covering (current + all historical years): **Price-to-Book (P/B), Price-to-Tangible Book (P/TBV), Price-to-Earnings (PE), Forward PE, Price-to-PPOP, Price-to-Normalised Earnings (using the "bank owner earnings" from Section 5), Dividend Yield, Earnings Yield, Book Value Per Share, Book Value Growth Rate.**
+Table covering (current + all historical years): **Price-to-Book (P/B), Price-to-Tangible Book (P/TBV), Price-to-Earnings (PE), Forward PE, Price-to-PPOP, Price-to-Normalised Earnings (using the "bank owner earnings" from Section 8), Dividend Yield, Earnings Yield, Book Value Per Share, Book Value Growth Rate.**
 
 Also present the **Fair P/B Multiple Calculation** (derived from the Gordon Growth Model):
 
@@ -409,7 +599,7 @@ Present Buffett's Bank Valuation Rules of Thumb:
 
 ---
 
-## 12. INTRINSIC VALUE & MARGIN OF SAFETY
+## 15. INTRINSIC VALUE & MARGIN OF SAFETY
 
 **[STANDARD MODE — Traditional Buffett DCF]:**
 
@@ -486,7 +676,7 @@ If the entity has significant subsidiaries (e.g., insurance, AMC, broking, housi
 
 ---
 
-## 13. REVERSE DCF — Napkin Math Reality Check (What Growth Is the Market Pricing In?)
+## 16. REVERSE DCF — Napkin Math Reality Check (What Growth Is the Market Pricing In?)
 
 **[ALL MODES — This Section Applies to Both Standard and Bank/NBFC Companies]**
 
@@ -497,7 +687,7 @@ If the entity has significant subsidiaries (e.g., insurance, AMC, broking, housi
 | Input | Value | Source |
 |---|---|---|
 | Current Market Price (CMP) | ₹[...] | Market data |
-| TTM EPS (Normalised) | ₹[...] | Use normalised EPS — strip out one-time gains/losses, extraordinary provisions, or cyclical peaks/troughs. For banks, use the "Normalised Earnings" per share from Section 5. |
+| TTM EPS (Normalised) | ₹[...] | Use normalised EPS — strip out one-time gains/losses, extraordinary provisions, or cyclical peaks/troughs. For banks, use the "Normalised Earnings" per share from Section 8. |
 | Current PE (on Normalised EPS) | CMP / Normalised EPS | Calculated |
 | Shares Outstanding (Diluted) | [...] | Latest data |
 
@@ -513,7 +703,7 @@ The terminal PE is what the market will likely pay for the business at the END o
 | **Historical Average PE** | [X]x | Use the company's own 5-10 year median PE as a scenario — the market's revealed assessment of this specific business. |
 
 **[BANK/NBFC MODE — Terminal P/B Alternative]:**
-For banks, also run this analysis using **Terminal P/B multiples** instead of PE, since P/B is the more meaningful valuation anchor. Use the Fair P/B from Section 10 as the base case, with ±0.5x as bear and bull scenarios. Convert the implied future price using projected Book Value Per Share.
+For banks, also run this analysis using **Terminal P/B multiples** instead of PE, since P/B is the more meaningful valuation anchor. Use the Fair P/B from Section 14 as the base case, with ±0.5x as bear and bull scenarios. Convert the implied future price using projected Book Value Per Share.
 
 ### Step 3: Reverse DCF Calculation — Implied EPS Growth Required
 
@@ -607,7 +797,7 @@ Estimate the realistic downside by asking: what is this business worth in a WORS
 |---|---|---|---|
 | **Asset / Liquidation Floor** | Tangible Book Value Per Share (what you'd get if the business stopped operating) | ₹[...] | [X]% |
 | **Recession / Trough Earnings** | Worst-year EPS from the last decade × Trough PE (10-12x) | ₹[...] | [X]% |
-| **Normalised Bear Case** | Conservative DCF (from Section 12) or lowest intrinsic value estimate | ₹[...] | [X]% |
+| **Normalised Bear Case** | Conservative DCF (from Section 15) or lowest intrinsic value estimate | ₹[...] | [X]% |
 | **"Business-is-fine-but-market-panics" Floor** | Historical lowest PE or P/B the stock has traded at × current normalised earnings or book value | ₹[...] | [X]% |
 
 **[BANK/NBFC MODE]:**
@@ -627,9 +817,9 @@ Now estimate the realistic upside by asking: if the business executes well over 
 
 | Upside Scenario | Valuation Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
-| **Base Case** | Base intrinsic value from Section 12 / BV compounding model | ₹[...] | [X]% |
+| **Base Case** | Base intrinsic value from Section 15 / BV compounding model | ₹[...] | [X]% |
 | **Bull Case** | Optimistic intrinsic value — business executes at the high end of realistic expectations | ₹[...] | [X]% |
-| **Scaling Multiplier** | If the scalability analysis (Section 8) shows the business is at an inflection point, what are earnings/book value worth if scaling plays out over 5 years? | ₹[...] | [X]% |
+| **Scaling Multiplier** | If the scalability analysis (Section 11) shows the business is at an inflection point, what are earnings/book value worth if scaling plays out over 5 years? | ₹[...] | [X]% |
 | **Re-rating Catalyst** | If there is a specific catalyst (sector tailwind, policy change, order book conversion, index inclusion, institutional discovery) that could trigger a P/E or P/B re-rating, what is the upside? | ₹[...] | [X]% |
 
 **Part 3: The Asymmetry Ratio — Reward-to-Risk**
@@ -702,11 +892,11 @@ Buffett: *"You do things when the opportunities come along. I've had periods in 
 
 ---
 
-## 14. ROE QUALITY CHECK & RETURN EXPECTATION FRAMEWORK — DuPont Sanity Check + P/B Scenario Math
+## 17. ROE QUALITY CHECK & RETURN EXPECTATION FRAMEWORK — DuPont Sanity Check + P/B Scenario Math
 
 **[ALL MODES — This Section Applies to Both Standard and Bank/NBFC Companies]**
 
-> **Purpose:** Before defining buy zones or making a final verdict, stress-test TWO things: (1) WHERE is the ROE actually coming from (is it quality or leverage-driven)? and (2) At the current P/B multiple, what returns can you REALISTICALLY expect under different multiple compression/expansion scenarios? This is the bridge between understanding the business (Sections 1-12) and making a buy/hold/sell decision (Sections 14-19). Munger: *"Over the long term, it's hard for a stock to earn a much better return than the business earns. If the business earns 6% on capital over 40 years, you're not going to make much different than a 6% return — even if you originally buy it at a huge discount."* But the PRICE you pay (expressed as P/B) determines how much of that business compounding you actually capture.
+> **Purpose:** Before defining buy zones or making a final verdict, stress-test TWO things: (1) WHERE is the ROE actually coming from (is it quality or leverage-driven)? and (2) At the current P/B multiple, what returns can you REALISTICALLY expect under different multiple compression/expansion scenarios? This is the bridge between understanding the business (Sections 1-15) and making a buy/hold/sell decision (Sections 18-24). Munger: *"Over the long term, it's hard for a stock to earn a much better return than the business earns. If the business earns 6% on capital over 40 years, you're not going to make much different than a 6% return — even if you originally buy it at a huge discount."* But the PRICE you pay (expressed as P/B) determines how much of that business compounding you actually capture.
 
 ### Part A: DuPont Decomposition of ROE — Quality vs. Leverage Check
 
@@ -748,7 +938,7 @@ Buffett: *"When you combine ignorance and leverage, you get some pretty interest
 
 **[BANK/NBFC MODE — Replace DuPont With Bank-Specific ROE Decomposition]:**
 
-For banks, the standard three-factor DuPont is less useful because leverage (the equity multiplier) is inherently high by design — banks are leveraged businesses. Instead, use the **Bank DuPont Decomposition** already defined in Section 6 (ROE = f(NIM, Fee Income Ratio, Operating Efficiency, Provision Intensity, Tax Efficiency, Leverage, ROA)).
+For banks, the standard three-factor DuPont is less useful because leverage (the equity multiplier) is inherently high by design — banks are leveraged businesses. Instead, use the **Bank DuPont Decomposition** already defined in Section 9 (ROE = f(NIM, Fee Income Ratio, Operating Efficiency, Provision Intensity, Tax Efficiency, Leverage, ROA)).
 
 The key quality check for banks is:
 - **Is ROE driven by high ROA (>1.5%) or by excessive leverage (Assets/Equity >15x)?**
@@ -768,7 +958,7 @@ The key quality check for banks is:
 | Current Book Value Per Share (BVPS) | ₹[...] | Latest balance sheet |
 | Current Market Price (CMP) | ₹[...] | Market data |
 | Current P/B Multiple | CMP / BVPS | Calculated |
-| Sustainable ROE (use normalised, not peak) | [X]% | From Section 6 analysis |
+| Sustainable ROE (use normalised, not peak) | [X]% | From Section 9 analysis |
 | Retention Ratio | [X]% | From dividend/payout data |
 | Book Value Compounding Rate | ROE × Retention | Calculated |
 
@@ -802,12 +992,12 @@ Present the following comprehensive table:
 | **P/B stays at current ([X]x)** | Multiple sustains (optimistic for high P/B) | [X]% | [X]% | [X]% |
 | **P/B compresses to [0.75 × current]x** | Mild de-rating | [X]% | [X]% | [X]% |
 | **P/B compresses to [0.5 × current]x** | Significant de-rating | [X]% | [X]% | [X]% |
-| **P/B compresses to Fair P/B from Section 10** | Reverts to theoretical fair value | [X]% | [X]% | [X]% |
+| **P/B compresses to Fair P/B from Section 14** | Reverts to theoretical fair value | [X]% | [X]% | [X]% |
 | **P/B compresses to historical median P/B** | Reverts to own historical average | [X]% | [X]% | [X]% |
 | **P/B compresses to 1x Book** | Valued at book value (worst case for quality co.) | [X]% | [X]% | [X]% |
 
 **[BANK/NBFC MODE — Additional Row]:**
-| **P/B at quality-tier-implied level (from Section 6 table)** | Based on ROA/ROE quality tier | [X]% | [X]% | [X]% |
+| **P/B at quality-tier-implied level (from Section 9 table)** | Based on ROA/ROE quality tier | [X]% | [X]% | [X]% |
 
 **Step 4: The Key Insight — How Much P/B Compression Can You Survive?**
 
@@ -840,7 +1030,7 @@ Buffett (via Munger): *"Over the long term, it's hard for a stock to earn a much
 
 ---
 
-## 15. BUY ZONE DEFINITION
+## 18. BUY ZONE DEFINITION
 
 **[STANDARD MODE]:**
 Based on the DCF, define clear price zones:
@@ -854,7 +1044,7 @@ State clearly whether the current price falls in any of these zones. Also explai
 
 **[BANK/NBFC MODE — Replace With P/B-Anchored Buy Zones]:**
 
-Define price zones anchored to **Book Value Per Share** and the **Fair P/B Multiple** calculated in Section 10:
+Define price zones anchored to **Book Value Per Share** and the **Fair P/B Multiple** calculated in Section 14:
 
 | Zone | P/B Range | Price Range | Rationale |
 |---|---|---|---|
@@ -868,7 +1058,7 @@ State clearly which zone the current price falls in, and what the implied annual
 Also explain if I already hold the stock (assuming it was bought in each of these price ranges, should I hold / accumulate / sell. Back with reasoning as to what would Buffett do in each scenario, and when working with small capital base)
 ---
 
-## 16. WOULD BUFFETT HIMSELF BUY THIS STOCK (if he were working with a small capital base)?
+## 19. WOULD BUFFETT HIMSELF BUY THIS STOCK (if he were working with a small capital base)?
 
 **[ALL MODES — Apply Full Buffett Checklist]:**
 
@@ -902,7 +1092,7 @@ Quote Buffett appropriately for each aspect evaluated.
 
 ---
 
-## 17. RISK MATRIX
+## 20. RISK MATRIX
 
 Table of key risks (business, competitive, macro, regulatory, management) rated by Severity and Probability, with a brief mitigation note for each.
 
@@ -917,7 +1107,99 @@ Table of key risks (business, competitive, macro, regulatory, management) rated 
 
 ---
 
-## 18. TURNAROUND PROBABILITY (if applicable)
+
+## 21. REGULATORY RISKS & POLICY HEADWINDS — Industry-Specific Assessment
+
+**[ALL MODES — This Section Applies to Both Standard and Bank/NBFC Companies]**
+
+> **Purpose:** Every business operates within a regulatory and policy framework. Some industries face minimal regulatory risk (FMCG staples, consumer tech); others live under the constant shadow of government action (tobacco, alcohol, pharma, banking, mining, defence, real estate, fintech). Buffett pays close attention to regulatory risk because it can permanently impair economics — or, paradoxically, it can STRENGTHEN moats by raising barriers to entry. This section identifies, quantifies, and interprets the specific regulatory and policy risks facing this company.
+
+### The Core Issue:
+
+Describe the primary regulatory and policy risks specific to this company's industry and operations. Explain:
+- What are the key regulatory bodies and frameworks governing this business?
+- What is the current regulatory stance — supportive, neutral, or hostile?
+- Are there any recent or pending regulatory changes (tax changes, licensing changes, environmental regulations, pricing controls, import/export duties, subsidy changes, ESG mandates, digital regulations, etc.) that could materially affect the business?
+
+### Historical Regulatory Impact:
+
+Present a table showing how past regulatory actions have affected the company:
+
+| Event | Year | Nature of Regulation | Impact on Company |
+|---|---|---|---|
+| [Specific regulatory action] | [Year] | [Tax hike / Policy change / New regulation / etc.] | [Volume/revenue/margin impact and recovery timeline] |
+| ... | ... | ... | ... |
+
+The purpose of this table is to establish a TRACK RECORD — has the company survived and thrived through past regulatory disruptions, or has each one caused lasting damage?
+
+### Current Regulatory Headwind Analysis:
+
+If there is a current or imminent regulatory headwind, analyse it in detail:
+
+1. **Nature and Magnitude:** What exactly is changing, and how severe is it (mild / moderate / severe)?
+2. **Demand/Volume Impact:** How will it affect the company's volumes or customer demand? Use historical precedent and industry elasticity data where available.
+3. **Revenue Impact:** Can the company pass through the regulatory cost via price increases? What is the net revenue effect (positive if price hikes > volume loss, negative if volume loss dominates)?
+4. **Margin Impact:** What is the expected short-term margin compression, and over what timeline will margins recover?
+5. **Competitive Impact:** Does the regulation affect the company equally vs. competitors, or does it disproportionately hurt/help the company? Critically — does the regulation actually STRENGTHEN the company's moat by raising barriers to entry or eliminating weaker competitors?
+6. **Structural vs. Cyclical:** Is this a one-time adjustment the business can absorb, or a permanent structural shift that impairs the business model?
+
+### The Demand Curve — How Price-Sensitive Is This Business to Regulatory Costs?
+
+| Regulatory Cost Magnitude | Likely Volume Impact | Company's Response | Net Revenue Impact |
+|---|---|---|---|
+| **Mild (5-8% cost increase)** | -1% to -3% volume | Price hike to fully absorb | Neutral to mildly positive |
+| **Moderate (10-15% cost increase)** | -3% to -5% volume | Partial price hike + mix improvement | Flat to mildly negative short-term |
+| **Severe (>20% cost increase)** | -5% to -10% volume | Price hike + demand destruction risk | **Negative for 1-2 years, then recovery** |
+
+### What Would Buffett Make of This?
+
+Apply Buffett's three-lens framework to the regulatory risk:
+
+**1. History as a Guide:** Has the business survived comparable regulatory disruptions before? If yes, how long did recovery take and did the business emerge stronger or weaker? Buffett values businesses with a PROVEN track record of absorbing regulatory shocks.
+
+**2. The Elasticity / Pricing Power Argument:** Can the business pass through regulatory costs to customers? A business with pricing power (inelastic demand, brand loyalty, switching costs) can absorb tax hikes and regulatory costs far better than a commodity business. If the business can raise prices by 10% and only lose 3% of volume, the net effect is positive — this is the hallmark of a Buffett-quality franchise.
+
+**3. The Terminal Risk Assessment:** Is there any realistic scenario in which regulation could PERMANENTLY destroy the business? (e.g., total product ban, nationalisation, technology mandate that obsoletes the product). If the terminal risk probability is negligible, then all other regulatory risks are manageable — they are costs of doing business, not existential threats.
+
+> *"It's only when the tide goes out that you learn who's been swimming naked."* — Warren Buffett
+
+If the regulation strengthens the moat (by eliminating competition, raising barriers, or creating pricing power), say so explicitly — this is a paradox that the market often misses, pricing in regulatory fear while missing the competitive benefit.
+
+### Risk Rating Table:
+
+| Risk Factor | Probability | Impact | Net Risk | Notes |
+|---|---|---|---|---|
+| [Specific risk 1 — e.g., Tax/duty hike] | High / Medium / Low | Catastrophic / High / Medium / Low | [Manageable / Concerning / Critical] | [Brief explanation] |
+| [Specific risk 2 — e.g., Pricing controls] | | | | |
+| [Specific risk 3 — e.g., Environmental regulation] | | | | |
+| [Specific risk 4 — e.g., Import policy changes] | | | | |
+| [Specific risk 5 — e.g., ESG-driven institutional selling] | | | | |
+| [Terminal risk — e.g., Product ban / Nationalisation] | Very Low | Catastrophic | Negligible probability | |
+
+### Buffett's Verdict on Regulatory Risk:
+
+Provide a concise, clear verdict — is the regulatory risk:
+
+(a) **Manageable and Overpriced by the Market** — the business has survived worse, the moat is intact or widening, and the stock price decline due to regulatory fear creates a buying opportunity.
+
+(b) **Manageable but Fairly Priced** — the risk is real but the company can handle it; however, the market has already priced it in accurately. No mispricing.
+
+(c) **Concerning and Underpriced** — the regulatory risk is more severe than the market appreciates, and current valuations don't reflect the full downside. Caution warranted.
+
+(d) **Structural and Potentially Permanent** — the regulation fundamentally impairs the business model. Even if the company is cheap, it may be cheap for a reason. Value trap territory.
+
+**[BANK/NBFC MODE — Additional Regulatory Risks]:**
+For banks and NBFCs, assess these specific regulatory dimensions:
+- **RBI Monetary Policy:** Interest rate trajectory and its impact on NIM (is the bank asset-sensitive or liability-sensitive?)
+- **RBI Prudential Norms:** Changes to NPA recognition, provisioning requirements, or capital adequacy norms
+- **Priority Sector Lending (PSL):** Requirements to lend to agriculture, MSMEs, housing — and the impact on yield and asset quality
+- **Digital Lending Regulations:** RBI's evolving framework for digital lending, FLDG norms, and impact on fintech partnerships
+- **Deposit Insurance Changes:** Any changes to DICGC coverage or premiums
+- **Governance / Fit & Proper:** RBI's oversight of bank boards, CEO tenure limits, and governance mandates
+- **NBFC Regulation Tightening:** Scale-based regulation, liquidity coverage requirements, and the trend toward bank-like regulation for large NBFCs
+
+---
+## 22. TURNAROUND PROBABILITY (if applicable)
 
 If the company is under stress or in transition, score the key turnaround factors out of 10 and provide an overall turnaround probability score with qualitative verdict.
 
@@ -933,7 +1215,7 @@ If the bank is under stress (high NPAs, low ROE, capital concerns), score the fo
 
 ---
 
-## 19. FINAL SCORECARD & SUMMARY
+## 23. FINAL SCORECARD & SUMMARY
 
 A concise table summarising: Business Quality, Moat Durability, Financial Health, Management Quality, Valuation, Margin of Safety, Buffett Verdict, Buy Zone, and Overall Recommendation. 
 The Buffett Verdict should explain the business and his take on it and the valuation territory and finally his decision on whether to buy / accumulate or hold if owned or sell, it should be a concise verdict covering all these aspects. 
@@ -952,10 +1234,10 @@ The Buffett Verdict should explain the business and his take on it and the valua
 | Margin of Safety (Excess Return Model) | | |
 | Book Value Compounding Potential | | |
 | **Buffett Verdict** | | *[True Buffett Bank / Deep Value / Value Trap]* |
-| **Buy Zone** | | *[Current zone from Section 12]* |
+| **Buy Zone** | | *[Current zone from Section 15]* |
 | **Overall Recommendation** | | *[BUY / HOLD / AVOID with price targets]* |
 
-## 20. TEST SIMPLICITY / NO BRAINER NATURE OF THE INVESTMENT
+## 24. TEST SIMPLICITY / NO BRAINER NATURE OF THE INVESTMENT
 
 Can the investment thesis be explained to a 10 year old ? Does the math make sense without having the need to use excel to arrive at precise values ? Buffett famously said he would rather be approximately right than be precisely wrong, he famously said that if you need to use excel its an automatic pass.
 
@@ -968,4 +1250,3 @@ Weave in Buffett (and occasionally Munger) quotes throughout each section wherev
 Finally, export the COMPLETE analysis — word for word, preserving all tables, section headers, bold formatting, and quotes — as a markdown (.md) file and download it to my machine.
 
 Filename format: <CompanyName>_<TICKER>_Buffett_Analysis.md
-
