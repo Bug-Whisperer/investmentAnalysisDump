@@ -541,7 +541,7 @@ Excess Return per year = (ROE - CoE) × Book Value
 
 | Scenario | Intrinsic Value | Margin of Safety | Upside/Downside |
 |---|---|---|---|
-| Conservative | ₹915 | **-14% (Overvalued)** | -14% downside |
+| Conservative | ₹915 | **-16% (Overvalued)** | -14% downside |
 | **Base** | **₹1,255** | **+16% (Moderate MoS)** | **+19% upside** |
 | Optimistic | ₹1,675 | +37% | +58% upside |
 
