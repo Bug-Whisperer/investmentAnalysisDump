@@ -75,6 +75,8 @@ Buffett: *"Banking is a very good business if you don't do anything dumb."* The 
 | **ROA %** | ~0.56% | ~0.53% | ~0.41% | ~0.27% | **~0.11%** | **~0.07%** | **~0.05%** | ~0.72% | ~0.91% | **~1.05%** | **~1.08%** |
 | **ROE %** | 9% | 9% | 7% | 5% | **2%** | **1%** | **1%** | **12%** | 14% | **14%** | ~14% |
 
+> *Note on data sourcing: (1) Interest Income for FY16-FY19 does not perfectly reconcile with Total Revenue minus Other Income — Screener's "Revenue" line for banks in earlier years may bundle some items differently than in later years. The figures are taken as reported. (2) ROA figures for FY25 (~1.05%) and TTM (~1.08%) differ slightly; FY25 ROA is computed on FY25 annual data while TTM uses the latest four quarters. (3) TTM growth rates (Rev Growth 4%, NP Growth 11%) are computed by Screener vs. the prior TTM period, not vs. FY25 annual figures.*
+
 **Trend Narrative:**
 
 This is a tale of two eras:
@@ -105,14 +107,18 @@ Buffett: *"When a management with a reputation for brilliance tackles a business
 | Equity Capital (₹ Cr) | 180 | 181 | 181 | 181 | 209 | 209 | 209 | 262 | 262 | 262 |
 | Reserves (₹ Cr) | 4,668 | 5,062 | 5,156 | 5,296 | 5,600 | 5,645 | 6,465 | 8,565 | 9,846 | 10,374 |
 | **Shareholders' Equity (₹ Cr)** | **4,848** | **5,243** | **5,337** | **5,477** | **5,809** | **5,854** | **6,674** | **8,827** | **10,108** | **10,636** |
-| **BVPS (₹)** | ~21.5 | ~23.1 | ~23.5 | ~24.1 | ~22.1 | ~22.3 | ~25.5 | ~33.7 | **~38.6** | **~42.1** |
+| **BVPS (₹)** | ~21.5 | ~23.1 | ~23.5 | ~24.1 | ~22.1 | ~22.3 | ~25.5 | ~33.7 | **~38.6** | **~42.1**⁵ |
 | BVPS Growth YoY | — | 7% | 2% | 3% | **-8%** | 1% | **14%** | **32%** | **15%** | — |
 | Leverage (Assets/Equity) | 15.3x | 15.8x | 17.3x | 17.7x | 16.2x | 17.1x | 16.1x | 13.3x | **12.3x** | **12.8x** |
 | Borrowings (₹ Cr) | 1,958 | 4,043 | 4,903 | 6,893 | 4,108 | 3,294 | 6,994 | 3,912 | 4,300 | 6,647 |
-| **GNPA %** | ~3.8% | ~4.2% | ~4.9% | ~5.4% | ~5.6% | ~6.0% | **5.14%** | **4.50%** | **3.20%** | **2.67%** |
-| **NNPA %** | ~2.3% | ~2.9% | ~3.4% | ~3.6% | ~3.3% | ~3.5% | **1.86%** | **1.46%** | **0.92%** | **0.45%** |
+| **GNPA %** | ~3.8% | ~4.2% | ~4.9% | ~5.4% | ~5.6% | ~6.0% | **5.14%** | **4.50%** | **3.20%** | **2.67%**⁴ |
+| **NNPA %** | ~2.3% | ~2.9% | ~3.4% | ~3.6% | ~3.3% | ~3.5% | **1.86%** | **1.46%** | **0.92%** | **0.45%**⁴ |
 | **CRAR (Total)** | ~12.8% | ~12.2% | ~12.2% | ~13.2% | ~14.4% | ~14.4% | ~15.5% | **~16.0%** | ~16%+ | ~16%+ |
 | **PCR (est.)** | ~45% | ~31% | ~31% | ~33% | ~41% | ~42% | **~64%** | **~68%** | **~71%** | **~83%** |
+
+> ⁴ GNPA/NNPA and PCR figures in the "Sep 2025" column are sourced from the latest available quarterly results (Dec 2025: GNPA 2.67%, NNPA 0.45%, PCR ~83%). The actual Sep 2025 quarterly figures were GNPA 2.93% and NNPA 0.56%. The balance sheet line items (advances, deposits, assets, equity) are from the Sep 2025 half-yearly balance sheet as reported on Screener.
+
+> ⁵ BVPS of ₹42.1 is sourced directly from Screener.in. Dividing Sep 2025 equity (₹10,636 Cr) by equity capital at face value (262 Cr shares at ₹1) yields ₹40.6. The ~₹1.5 discrepancy suggests Screener may use a slightly different share count (possibly excluding ESOP shares or using weighted average). All P/B calculations in this analysis use the Screener-reported BVPS of ₹42.1 for consistency.
 
 **Financial Fortress Assessment (Adapted for Banks):**
 
@@ -163,6 +169,8 @@ Buffett: *"When a management with a reputation for brilliance tackles a business
 
 The bank is generating enough internal capital through retained earnings to fund growth WITHOUT frequent equity dilution — a critical positive sign. With ROE of 14% and 92% retention, the internal capital generation rate is ~13%. This means BVPS can compound at ~13% per year from retained earnings alone, allowing the bank to grow its loan book at a similar rate while maintaining CRAR above regulatory minimums.
 
+> *Note on retention ratio: Historical retention (FY23-FY25) has been 92-93%. Forward-looking projections in Sections 12, 14, and 19 use a conservative 90% retention assumption to account for potential dividend increases. At 12% sustainable ROE with 90% retention, BV compounds at ~10.8%; at 92% retention, it would be ~11.0%. The difference is directionally minor.*
+
 **Equity Dilution History:**
 
 | Date | Event | Shares Issued | Price | BVPS at Time | Accretive? |
@@ -196,16 +204,18 @@ Buffett: *"A bank that must repeatedly raise equity capital to grow is destroyin
 |---|---|---|
 | Net Income (₹ Cr) | 1,303 | 1,390 |
 | Add: D&A (₹ Cr) | 102 | ~100 |
-| Less: Forward Normalised Credit Cost (0.7% of ~₹85,000 Cr avg advances) | ~595 | ~620 |
+| Less: Forward Normalised Credit Cost (0.7% of avg advances¹) | ~680 | ~720 |
 | Less: SBC (est.) | ~10 | ~10 |
-| **= Normalised Earnings (₹ Cr)** | **~800** | **~860** |
-| **Normalised EPS (₹)** | **~3.05** | **~3.28** |
+| **= Normalised Earnings (₹ Cr)** | **~715** | **~760** |
+| **Normalised EPS (₹)** | **~2.73** | **~2.90** |
+
+> ¹ FY25 average advances = (₹92,469 Cr + ₹101,860 Cr) / 2 ≈ ₹97,165 Cr; 0.7% × ₹97,165 = ~₹680 Cr. TTM average advances ≈ (₹101,860 Cr + ₹104,310 Cr) / 2 ≈ ₹103,085 Cr; 0.7% × ₹103,085 = ~₹720 Cr.
 
 **Analysis:**
 - **Actual credit cost in FY25** was significantly LOWER than historical normalised levels — the bank is in a benign credit environment where recoveries from previously written-off accounts are boosting profits.
-- **Current reported earnings (₹1,303 Cr) are HIGHER than normalised earnings (~₹800 Cr)** — this means about ₹500 Cr of current profits come from provisioning being BELOW normalised levels or recoveries. This is unsustainable if the credit cycle turns.
+- **Current reported earnings (₹1,303 Cr) are HIGHER than normalised earnings (~₹715 Cr)** — this means about ₹590 Cr of current profits come from provisioning being BELOW normalised levels or recoveries. This is unsustainable if the credit cycle turns.
 - **PCR trend** is RISING (from ~42% to ~83%) — this is conservative and builds buffer. Rising PCR = the bank IS building reserves, not releasing them. This is a positive sign.
-- The gap between reported and normalised earnings will narrow over time as the NPA recovery tailwind fades. Investors should use normalised EPS of ~₹3.05-3.28 (not reported EPS of ₹4.98-5.31) for valuation to be conservative.
+- The gap between reported and normalised earnings will narrow over time as the NPA recovery tailwind fades. Investors should use normalised EPS of ~₹2.73-2.90 (not reported EPS of ₹4.98-5.31) for valuation to be conservative.
 
 ---
 
@@ -329,10 +339,14 @@ The bank has recovered from its crisis (NPA cleanup complete, capital rebuilt, p
 
 | Period | Retained Earnings Cumulative (₹ Cr) | Market Cap Change (₹ Cr) | Value per ₹1 Retained |
 |---|---|---|---|
-| FY17 to FY25 (8 years) | Equity grew from ₹4,848 Cr to ₹10,108 Cr. Retained: ~₹5,260 Cr | Market Cap grew from ~₹4,000 Cr (est.) to ₹9,944 Cr = ~₹5,944 Cr | **~₹1.13 per ₹1 retained** |
-| FY22 to FY25 (3 years) | Equity grew from ₹5,854 Cr to ₹10,108 Cr. Retained: ~₹2,954 Cr (incl. rights issue ~₹1,151 Cr) | Market Cap grew from ~₹4,500 Cr to ₹9,944 Cr = ~₹5,444 Cr | **~₹1.84 per ₹1 retained** |
+| FY17 to FY25 (8 years) | Cumulative NP ~₹4,335 Cr, less dividends ~₹430 Cr = organic retained ~₹3,905 Cr¹ | Market Cap grew from ~₹4,000 Cr (est.) to ₹9,944 Cr = ~₹5,944 Cr | **~₹1.52 per ₹1 retained** |
+| FY22 to FY25 (3 years) | Cumulative NP ~₹3,148 Cr, less dividends ~₹241 Cr = organic retained ~₹2,907 Cr² | Market Cap grew from ~₹2,200 Cr (est.)³ to ₹9,944 Cr = ~₹7,744 Cr | **~₹2.66 per ₹1 retained** |
 
-Over 8 years, the bank has barely created ₹1.13 in market value per ₹1 retained — a PASS but only marginally. Over the turnaround period (FY22-FY25), the result is better at ₹1.84, reflecting the market's recognition of the turnaround. However, this includes the benefit of a rights issue below book value, which inflated the equity base but diluted existing shareholders.
+> ¹ The equity increase of ₹5,260 Cr (from ₹4,848 to ₹10,108 Cr) includes external equity raises (~₹280 Cr FY21 QIP + ~₹1,151 Cr FY24 Rights Issue ≈ ₹1,431 Cr). The $1 Test uses organic retained earnings only, not equity infusions. Cumulative net profits (FY17-FY25) minus estimated dividends gives ~₹3,905 Cr of true retained earnings.
+> ² FY23-FY25 NP: ₹775 + ₹1,070 + ₹1,303 = ₹3,148 Cr. Estimated dividends: ~₹241 Cr.
+> ³ FY22 end: ~209 Cr shares at P/B ~0.47x × BVPS ~₹22.3 ≈ ₹10.5/share → Market Cap ≈ ₹2,190 Cr (approximately). The earlier estimate of ~₹4,500 Cr was overstated.
+
+Over 8 years, the bank has created ~₹1.52 in market value per ₹1 organically retained — a solid PASS. Over the turnaround period (FY22-FY25), the result is excellent at ~₹2.66, reflecting the market's strong recognition of the turnaround. The turnaround period shows that management's NPA cleanup has generated significant shareholder value.
 
 ### Management Assessment (Bank-Specific)
 
@@ -375,7 +389,7 @@ Buffett: *"In looking for people to hire, you look for three qualities: integrit
 | Sep 2025 | 2.93% | 0.56% | ↓ Improving |
 | Dec 2025 | **2.67%** | **0.45%** | ↓ **Best ever** |
 
-**This is a textbook NPA recovery.** 13 consecutive quarters of GNPA improvement. NNPA has gone from 2.26% to 0.45% — now approaching the levels of top-tier private banks. The improvement accelerated in Mar 2025 (GNPA dropped 110 bps in one quarter) suggesting significant recoveries/write-offs.
+**This is a textbook NPA recovery.** GNPA has not increased in 13 consecutive quarters, improving in 11 and remaining flat in one (Jun 2024 = Mar 2024 at 4.50%). NNPA has gone from 2.26% to 0.45% — now approaching the levels of top-tier private banks. The improvement accelerated in Mar 2025 (GNPA dropped 110 bps in one quarter) suggesting significant recoveries/write-offs.
 
 ### Key Operating Ratios
 
@@ -402,13 +416,15 @@ Buffett: *"In looking for people to hire, you look for three qualities: integrit
 |---|---|---|---|---|---|---|---|---|
 | **P/B Ratio** | **0.90x** | ~0.67 | ~0.65 | ~0.52 | ~0.47 | ~0.36 | ~0.20 | **0.15-1.20x** |
 | **P/E Ratio** | **7.15x** | ~5.2 | ~6.1 | ~5.3 | ~290x | ~330x | ~124x | 5-15x (ex-crisis years) |
-| Forward PE (on TTM EPS ₹5.31) | **7.15x** | — | — | — | — | — | — | — |
-| P/Normalised Earnings (on ~₹3.28 EPS) | **~11.6x** | — | — | — | — | — | — | — |
+| Trailing PE (on TTM EPS ₹5.31) | **7.15x** | — | — | — | — | — | — | — |
+| P/Normalised Earnings (on ~₹2.90 EPS) | **~13.1x** | — | — | — | — | — | — | — |
 | Earnings Yield (1/PE) | **14.0%** | 19% | 16% | 19% | — | — | — | — |
 | BVPS (₹) | ₹42.1 | ₹38.6 | ₹33.7 | ₹25.5 | ₹22.3 | ₹22.1 | ₹24.1 | — |
 | BV Growth Rate | — | 15% | 32% | 14% | 1% | -8% | 3% | — |
 | Dividend Yield | **1.05%** | — | — | — | — | — | — | — |
 | Stock P/E vs Industry P/E | **7.15 vs 13.7** | — | — | — | — | — | — | — |
+
+> *Note: "Trailing PE" is computed on TTM (Trailing Twelve Months) EPS, not on forward/consensus estimates. Historical P/B and P/E ratios are sourced from Screener.in and may use different price reference dates (year-end vs. average), which can produce slight differences in implied stock prices when cross-checked.*
 
 ### Fair P/B Calculation (Gordon Growth Model)
 
@@ -468,10 +484,10 @@ This is the central tension of the investment thesis: **Are you buying a 14% ROE
 
 | Year | Projected BVPS | Stock Price (1.2x P/B) | CAGR from ₹38 |
 |---|---|---|---|
-| Year 3 | ₹57.4 | ₹68.8 | **21.9%** |
-| Year 5 | ₹70.5 | ₹84.6 | **17.4%** |
-| Year 7 | ₹86.6 | ₹103.9 | **15.5%** |
-| Year 10 | ₹119.4 | ₹143.3 | **14.2%** |
+| Year 3 | ₹57.3 | ₹68.7 | **21.8%** |
+| Year 5 | ₹70.3 | ₹84.4 | **17.3%** |
+| Year 7 | ₹86.4 | ₹103.6 | **15.4%** |
+| Year 10 | ₹117.4 | ₹140.9 | **14.0%** |
 
 #### Scenario 3: Optimistic (ROE sustains at 14%, P/B re-rates to 1.5x)
 - Sustainable ROE: 14% | Retention: 90% | BV Compounding: 12.6%
@@ -489,7 +505,7 @@ This is the central tension of the investment thesis: **Are you buying a 14% ROE
 | Scenario | Sustainable ROE | Exit P/B | 5-Year Target | 5-Year CAGR | 10-Year Target | 10-Year CAGR |
 |---|---|---|---|---|---|---|
 | **Conservative** | 10% | 1.0x | **₹65.5** | **11.5%** | **₹102** | **10.4%** |
-| **Base** | 12% | 1.2x | **₹84.6** | **17.4%** | **₹143** | **14.2%** |
+| **Base** | 12% | 1.2x | **₹84.4** | **17.3%** | **₹141** | **14.0%** |
 | **Optimistic** | 14% | 1.5x | **₹114.5** | **24.7%** | **₹209** | **18.6%** |
 
 **Key Insight:** Even in the CONSERVATIVE scenario (ROE dropping to 10%, no P/B re-rating), the stock delivers ~10-11% CAGR — which MEETS the hurdle rate. In the base case, returns are 14-17%. In the optimistic case, returns are 19-25%. This is asymmetric — the downside delivers acceptable returns, the upside is exceptional.
@@ -522,9 +538,9 @@ This is the central tension of the investment thesis: **Are you buying a 14% ROE
 |---|---|
 | CMP | ₹38.0 |
 | TTM EPS (Reported) | ₹5.31 |
-| Normalised EPS | ~₹3.28 |
+| Normalised EPS | ~₹2.90 |
 | Current PE (on reported) | 7.15x |
-| Current PE (on normalised) | 11.6x |
+| Current PE (on normalised) | ~13.1x |
 | BVPS | ₹42.1 |
 | Current P/B | 0.90x |
 
@@ -536,15 +552,15 @@ At ₹38 entry, what BV growth does SIB need to deliver for various returns?
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | BVPS needs to reach ₹58 (BV CAGR 6.6%) | ₹72 (11.3%) | ₹90 (16.4%) |
-| 10 Years | ₹93 (BV CAGR 8.3%) | ₹145 (13.2%) | ₹222 (18.1%) |
+| 5 Years | BVPS needs to reach ₹61 (BV CAGR 7.8%) | ₹76 (12.7%) | ₹95 (17.6%) |
+| 10 Years | ₹99 (BV CAGR 8.9%) | ₹154 (13.8%) | ₹235 (18.8%) |
 
 **If Exit P/B = 1.2x (base case re-rating):**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | BVPS needs to reach ₹48 (BV CAGR 2.7%) | ₹60 (7.3%) | ₹75 (12.3%) |
-| 10 Years | ₹78 (BV CAGR 6.3%) | ₹121 (11.1%) | ₹185 (16.0%) |
+| 5 Years | BVPS needs to reach ₹51 (BV CAGR 3.9%) | ₹64 (8.6%) | ₹79 (13.4%) |
+| 10 Years | ₹82 (BV CAGR 6.9%) | ₹128 (11.8%) | ₹196 (16.6%) |
 
 ### Reality Check
 
@@ -631,27 +647,27 @@ Current credit cost is well below the 5-year historical average (which was infla
 |---|---|
 | Current | ₹42.1 |
 | Year 5 | ₹70.3 |
-| Year 7 | ₹87.0 |
-| Year 10 | ₹119.7 |
+| Year 7 | ₹86.3 |
+| Year 10 | ₹117.4 |
 
 **Expected Annual Return (CAGR) at ₹38 Entry (0.90x P/B)**
 
 | Exit P/B | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 0.90x | No re-rating | **13.1%** | **12.6%** | **12.1%** |
-| P/B expands to 1.0x | Modest re-rating to book | **13.1% + 2.1% = ~15%** | **14%** | **13%** |
-| P/B expands to 1.2x | Base case re-rating | **18.8%** | **16.6%** | **15.2%** |
-| P/B expands to 1.5x | Optimistic — ROE sustains above 14% | **24.5%** | **20.5%** | **17.5%** |
-| P/B compresses to 0.7x | Bear case — ROE drops to 9% | **6.4%** | **7.8%** | **8.5%** |
-| P/B compresses to 0.5x | Deep stress — another NPA crisis | **-0.8%** | **2.6%** | **4.9%** |
+| P/B stays at 0.90x | No re-rating | **10.7%** | **10.8%** | **10.8%** |
+| P/B expands to 1.0x | Modest re-rating to book | **13.1%** | **12.4%** | **11.9%** |
+| P/B expands to 1.2x | Base case re-rating | **17.3%** | **15.4%** | **14.0%** |
+| P/B expands to 1.5x | Optimistic — ROE sustains above 14% | **22.6%** | **19.1%** | **16.6%** |
+| P/B compresses to 0.7x | Bear case — ROE drops to 9% | **5.3%** | **6.8%** | **8.0%** |
+| P/B compresses to 0.5x | Deep stress — another NPA crisis | **-1.5%** | **1.8%** | **4.4%** |
 
 **The Key Insight:**
 
-> "At the current entry P/B of 0.90x with a normalised ROE of 12% and 90% retention, book value compounds at ~10.8% annually. If the P/B multiple stays at 0.90x, the return EQUALS the BV compounding rate of ~12%. Even if P/B COMPRESSES to 0.7x (bear case), the 10-year return is still ~8.5% — below the hurdle rate but not catastrophic. The stock can tolerate P/B compression from 0.90x down to 0.70x and still deliver 8%+ over 10 years."
+> "At the current entry P/B of 0.90x with a normalised ROE of 12% and 90% retention, book value compounds at ~10.8% annually. If the P/B multiple stays at 0.90x, the return approximately equals the BV compounding rate of ~10.8% (plus ~1% dividend yield for ~11.8% total return). Even if P/B COMPRESSES to 0.7x (bear case), the 10-year return is still ~8% — below the hurdle rate but not catastrophic. The stock can tolerate P/B compression from 0.90x down to ~0.70x and still deliver 8%+ over 10 years."
 
 The risk/reward at 0.90x P/B is asymmetric because you're already buying BELOW book value — there isn't much further for the P/B to compress unless the bank enters another existential crisis.
 
-**Traffic Light: 🟢 GREEN** — Even in the bear case (P/B halves to 0.45x), you're looking at ~5% CAGR over 10 years — unpleasant but not capital-destructive. In the base case, returns are 13-15%. At current prices, BV compounding overwhelms any likely multiple compression.
+**Traffic Light: 🟢 GREEN** — Even in the bear case (P/B halves to 0.45x), you're looking at ~3-4% CAGR over 10 years — unpleasant but not capital-destructive. In the base case, returns are 11-14%. At current prices, BV compounding overwhelms any likely multiple compression.
 
 ---
 
@@ -733,7 +749,7 @@ Buffett would likely say: *"I wouldn't own this bank at 2x book. But at 0.9x boo
 
 | Factor | Score (1-10) | Evidence |
 |---|---|---|
-| **Asset quality trajectory** | **9/10** | 13 quarters of consecutive GNPA improvement. 5.48% → 2.67%. NNPA from 2.26% → 0.45%. The best trajectory in SIB's history. |
+| **Asset quality trajectory** | **9/10** | 13 consecutive quarters without GNPA increase (11 improving, 1 flat). 5.48% → 2.67%. NNPA from 2.26% → 0.45%. The best trajectory in SIB's history. |
 | **Provision coverage adequacy** | **8/10** | PCR improved from ~42% to ~83%. Balance sheet is CLEAN and building buffers. |
 | **Capital adequacy** | **7/10** | CRAR at 16%+. Sufficient to absorb shocks and grow. Rights issue done; no immediate dilution needed. |
 | **Management credibility** | **6/10** | NPA cleanup demonstrates competence. But no promoter/anchor; management is professional but unproven through a full cycle under their watch. |
@@ -755,7 +771,7 @@ Buffett would likely say: *"I wouldn't own this bank at 2x book. But at 0.9x boo
 | **Asset Quality (NPA, PCR, Credit Cost)** | **8/10** | GNPA 2.67%, NNPA 0.45%, PCR 83%. Dramatically improved. Best in SIB's modern history. |
 | **Capital Adequacy (CRAR, Tier-1)** | **7/10** | CRAR 16%+. Comfortable above regulatory minimums. Internal capital generation sufficient for near-term growth. |
 | **Management Quality & Risk Culture** | **5/10** | Improved underwriting. But 0% promoter, past NPA history, RBI credit card restriction. Unproven through a full cycle. |
-| **Earnings Quality (Normalised vs Reported)** | **5/10** | Reported EPS ₹5.31 vs Normalised ~₹3.28. ~40% of current earnings may be provision tailwind, not sustainable. |
+| **Earnings Quality (Normalised vs Reported)** | **5/10** | Reported EPS ₹5.31 vs Normalised ~₹2.90. ~45% of current earnings may be provision tailwind, not sustainable. |
 | **Valuation (P/B vs Fair P/B)** | **8/10** | 0.90x P/B for a 14% ROE bank. Significant discount to fair P/B of 1.0-1.5x. Price compensates for risks. |
 | **Margin of Safety (Excess Return Model)** | **7/10** | Below book value; 3.7:1 asymmetry ratio. Downside capped by tangible book. |
 | **Book Value Compounding Potential** | **6/10** | BV compounds at ~10.8% (12% ROE, 90% retention). Decent but not exceptional. |
@@ -784,12 +800,13 @@ Buffett would likely say: *"I wouldn't own this bank at 2x book. But at 0.9x boo
 - Book Value: ₹42
 - Stock Price: ₹38
 - You're buying ₹1 of bank equity for ₹0.90
-- Bank earns 14% ROE → Book value grows ~11% per year
+- Bank earns 12% sustainable ROE → Book value grows ~11% per year
 - In 5 years: Book value = ~₹70
 - If market pays just 1.0x book: Stock = ₹70 → 13% annual return
 - If market pays 1.2x book: Stock = ₹84 → 17% annual return
+- If ROE sustains at 14%, book value grows ~13% → 5yr BVPS ≈ ₹76, at 1.2x = ₹91 → 19% annual return
 
-The napkin says: "Buy ₹1 for ₹0.90, let it compound at 11-13%, and hope the market eventually pays ₹1.00-1.20 for ₹1.00 of equity." That's a reasonable bet.
+The napkin says: "Buy ₹1 for ₹0.90, let it compound at 11-13% (depending on ROE), and hope the market eventually pays ₹1.00-1.20 for ₹1.00 of equity." That's a reasonable bet.
 
 Buffett: *"You don't need to use a calculator. It's either cheap enough or it isn't."* At 0.90x book with 14% ROE, SIB is cheap enough. Not screaming cheap, but cheap enough.
 
