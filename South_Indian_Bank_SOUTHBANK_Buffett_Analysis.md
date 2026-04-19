@@ -340,13 +340,13 @@ The bank has recovered from its crisis (NPA cleanup complete, capital rebuilt, p
 | Period | Retained Earnings Cumulative (₹ Cr) | Market Cap Change (₹ Cr) | Value per ₹1 Retained |
 |---|---|---|---|
 | FY17 to FY25 (8 years) | Cumulative NP ~₹4,335 Cr, less dividends ~₹430 Cr = organic retained ~₹3,905 Cr¹ | Market Cap grew from ~₹4,000 Cr (est.) to ₹9,944 Cr = ~₹5,944 Cr | **~₹1.52 per ₹1 retained** |
-| FY22 to FY25 (3 years) | Cumulative NP ~₹3,148 Cr, less dividends ~₹241 Cr = organic retained ~₹2,907 Cr² | Market Cap grew from ~₹2,200 Cr (est.)³ to ₹9,944 Cr = ~₹7,744 Cr | **~₹2.66 per ₹1 retained** |
+| FY22 to FY25 (3 years) | Cumulative NP ~₹3,148 Cr, less dividends ~₹241 Cr = organic retained ~₹2,907 Cr² | Market Cap grew from ~₹2,750 Cr (est.)³ to ₹9,944 Cr = ~₹7,194 Cr | **~₹2.47 per ₹1 retained** |
 
 > ¹ The equity increase of ₹5,260 Cr (from ₹4,848 to ₹10,108 Cr) includes external equity raises (~₹280 Cr FY21 QIP + ~₹1,151 Cr FY24 Rights Issue ≈ ₹1,431 Cr). The $1 Test uses organic retained earnings only, not equity infusions. Cumulative net profits (FY17-FY25) minus estimated dividends gives ~₹3,905 Cr of true retained earnings.
 > ² FY23-FY25 NP: ₹775 + ₹1,070 + ₹1,303 = ₹3,148 Cr. Estimated dividends: ~₹241 Cr.
-> ³ FY22 end: ~209 Cr shares at P/B ~0.47x × BVPS ~₹22.3 ≈ ₹10.5/share → Market Cap ≈ ₹2,190 Cr (approximately). The earlier estimate of ~₹4,500 Cr was overstated.
+> ³ FY22 end: P/B ~0.47x × Total Equity ₹5,854 Cr = Market Cap ≈ ₹2,751 Cr (~₹2,750 Cr). Note: BVPS of ₹22.3 implies ~262 Cr shares (₹5,854 / ₹22.3), consistent with the EPS-implied share count (₹45 Cr / ₹0.17 = ~265 Cr), not the 209 Cr from the Equity Capital row. The earlier estimate of ~₹4,500 Cr was overstated.
 
-Over 8 years, the bank has created ~₹1.52 in market value per ₹1 organically retained — a solid PASS. Over the turnaround period (FY22-FY25), the result is excellent at ~₹2.66, reflecting the market's strong recognition of the turnaround. The turnaround period shows that management's NPA cleanup has generated significant shareholder value.
+Over 8 years, the bank has created ~₹1.52 in market value per ₹1 organically retained — a solid PASS. Over the turnaround period (FY22-FY25), the result is excellent at ~₹2.47, reflecting the market's strong recognition of the turnaround. The turnaround period shows that management's NPA cleanup has generated significant shareholder value.
 
 ### Management Assessment (Bank-Specific)
 
