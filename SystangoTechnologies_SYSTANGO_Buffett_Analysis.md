@@ -46,7 +46,7 @@ Systango is not that kind of business. It requires skilled management to win cli
 
 *All figures in ₹ Crores (Consolidated) unless stated otherwise*
 
-| Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | TTM (Mar'26) |
+| Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | TTM† |
 |---|---|---|---|---|---|---|---|
 | **Revenue** | 14 | 23 | 33 | 52 | 57 | 67 | **84** |
 | Revenue Growth YoY | — | 64% | 43% | **58%** | 10% | 18% | 44% |
@@ -66,6 +66,8 @@ Systango is not that kind of business. It requires skilled management to win cli
 | EBITDA Margin | 22% | 29% | 23% | 30% | 31% | **34%** | **40%** |
 
 *\*FY20 EPS on pre-split, pre-IPO share base; not comparable.*
+*†TTM Growth figures (Revenue 44%, Net Profit 75%) are sourced directly from Screener.in and represent TTM-over-prior-TTM (i.e., the trailing 12 months ending Sep'25 vs the preceding 12 months), not TTM vs FY25. On an FY26-TTM vs FY25 basis, revenue growth is ~25% and net profit growth is ~33%.*
+*‡FY21-FY22 EPS is reported by Screener on a fully adjusted/diluted basis (accounting for stock splits and bonus issues around the IPO). The Shares Outstanding row for FY21-FY22 shows the unadjusted share count derived from Equity Capital ÷ Face Value. These two rows use incompatible bases for FY21-FY22; the EPS figures are the authoritative measure of per-share earnings.*
 
 **Compounded Growth Rates:**
 
@@ -75,11 +77,13 @@ Systango is not that kind of business. It requires skilled management to win cli
 | Net Profit | **54%** | 47% |
 | EPS | — | ~28% (post-IPO comparable) |
 
+*Note: CAGRs are sourced directly from Screener.in, which uses exact (unrounded) financial figures. Calculations using the rounded figures in this table may yield slightly different results (e.g., 5Y NP CAGR computes to ~52% using rounded figures vs Screener's 54%; 3Y NP CAGR computes to ~51% vs Screener's 47%).*
+
 ### Trend Narrative
 
 The income statement tells a **powerfully positive story**:
 
-1. **Revenue growth is accelerating again** — after a slowdown in FY24 (10% growth, likely post-IPO digestion), FY25 delivered 18% and TTM is running at 44%. H1-FY26 alone did ₹45.5 Cr in revenue (vs ₹28.8 Cr in H1-FY25 — a 58% jump).
+1. **Revenue growth is accelerating again** — after a slowdown in FY24 (10% growth, likely post-IPO digestion), FY25 delivered 18% and TTM is running at 44% per Screener (TTM-over-prior-TTM; see footnote †). H1-FY26 alone did ₹45.5 Cr in revenue (vs ₹28.8 Cr in H1-FY25 — a 58% jump).
 
 2. **Margins are expanding dramatically** — OPM has moved from 22% (FY20) to 40% (TTM). This is remarkable for an IT services company. The typical Indian mid-tier IT company runs at 15-22% EBITDA margins. Systango at 34-40% suggests either: (a) very lean operations from Indore (low-cost delivery centre), (b) premium pricing on blockchain/AI work, or (c) some accounting considerations worth investigating (more on this in Section 5).
 
@@ -114,17 +118,21 @@ The margin expansion here is eye-catching, but its durability needs scrutiny. IT
 | Other Assets (incl. Receivables) | 2 | 4 | 9 | 50 | 24 | 47 | 67 |
 | **Total Assets** | 7 | 15 | 22 | 69 | 86 | 112 | **137** |
 
+*Note: Cash & Bank Balances are supplementary estimates included for visibility. In Screener's raw balance sheet, cash is already included within "Other Assets." The Total Assets row is correct as reported by Screener; summing all individual asset rows including the Cash row would double-count cash.*
+
 **Key Fortress Metrics:**
 
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|---|---|
-| Net Cash / (Debt) | 0 | 0 | 0 | ~35 | ~5 | ~20 |
+| Net Cash (Cash − Debt) | 0 | 0 | 0 | ~35 | ~5 | ~20 |
 | Debt/Equity | 0 | 0 | 0 | 0.02 | **0.00** | **0.00** |
 | Goodwill | — | — | — | 0.5 | 0.5 | 0.5 |
 | Book Value Per Share ₹ | — | — | — | ~42 | ~54 | ~70 |
 | BVPS (Sep'25) | — | — | — | — | — | **82.4** |
 | Current Ratio | — | — | — | ~8.7 | ~10.5 | ~9.2 |
 | Debtor Days | 0 | 0 | 3 | 45 | 69 | **84** |
+
+*Note: The "Net Cash" row above reflects Cash minus Debt only. In the narrative and DCF sections, "Net Cash" is defined more broadly as Cash + Investments − Debt (~₹80 Cr for FY25), reflecting the company's total liquid asset position available for shareholder value.*
 
 ### Buffett's Financial Fortress Assessment
 
@@ -214,7 +222,7 @@ Because Systango is an asset-light services business, maintenance CapEx roughly 
 
 **However**, the cash flow analysis (Section 4) shows that while Owner Earnings look clean from a capital perspective, they are NOT fully converting to cash due to working capital absorption. The "true" owner earnings available for distribution are closer to CFO minus maintenance CapEx, i.e., ~₹11 Cr (FY25), not ₹24 Cr. This is a critical distinction.
 
-**⚠️ Other Income Note:** FY25 "Other Income" was ₹7 Cr — nearly 10% of revenue. If this represents returns on investments, it is genuine income. But if any portion is unrealised gains or one-time items, Owner Earnings should be adjusted downward. On a core operating basis (excluding other income), Owner Earnings drop to ~₹17 Cr in FY25.
+**⚠️ Other Income Note:** FY25 "Other Income" was ₹7 Cr — nearly 10% of revenue. If this represents returns on investments, it is genuine income. But if any portion is unrealised gains or one-time items, Owner Earnings should be adjusted downward. On a core operating basis (excluding other income after tax), Owner Earnings drop to ~₹18 Cr in FY25 (i.e., ₹24 Cr − ₹7 Cr × (1 − 18% tax rate) = ₹18.3 Cr).
 
 ---
 
@@ -227,6 +235,7 @@ Because Systango is an asset-light services business, maintenance CapEx roughly 
 | ROA (Net Income / Total Assets) | ~40% | ~32% | ~20% | ~20% | ~21% |
 
 *\*FY20-21 ROE/ROCE on very small equity base; not meaningful.*
+*†ROCE figures are sourced directly from Screener.in, which uses its own formula (EBIT ÷ Average Capital Employed). The methodology may produce varying results across years depending on the pace of equity base changes. The investor presentation reports lower ROCE figures (FY23: 26.9%, FY24: 26.9%, FY25: 28.5%) using a different formula. Post-IPO ROCE (FY24-FY25) is broadly consistent across sources at 27-29%.*
 
 ### Post-IPO Normalised Returns (FY23-FY25, meaningful period)
 
@@ -316,6 +325,7 @@ Systango's business is the opposite of what Buffett typically seeks — it opera
 | TTM | 84 | 44% | 34 | ~48% | 32 | 75% | **65%** |
 
 *\*Incremental Operating Margin = Change in Operating Profit / Change in Revenue*
+*Note: TTM row growth rates (44%, 75%) are Screener's TTM-over-prior-TTM figures (see Section 2 footnote †). The Incremental Operating Margin (65%) is computed from absolute revenue and profit levels (ΔOP/ΔRev = 11/17) and is valid regardless of the growth rate definition used.*
 
 **This is exceptional.** Incremental margins of 40-65% are far above current margins of 34%, meaning each new rupee of revenue is DRAMATICALLY more profitable than the last. This suggests strong operating leverage — the fixed cost base (management, office, tech infrastructure) is largely absorbed, and incremental revenue flows heavily to the bottom line.
 
@@ -327,7 +337,7 @@ Systango's business is the opposite of what Buffett typically seeks — it opera
 |---|---|---|---|---|
 | CapEx as % of Revenue | 4% | 4% | 1.5% | **Declining ✓** |
 | Revenue per ₹ of CapEx | 26x | 29x | **67x** | **Rising ✓** |
-| Working Capital as % of Revenue | 44 days | 71 days | **89 days** | **Rising ✗** |
+| Working Capital Days | 44 days | 71 days | **89 days** | **Rising ✗** |
 
 Capital-light in terms of physical assets, but working capital is consuming more cash as the business scales — a yellow flag.
 
@@ -378,7 +388,9 @@ Systango is earlier on the curve than where Buffett typically invests. This is m
 |---|---|---|---|
 | IPO (Mar'23) to Mar'26 | ~₹55 Cr (cumulative net profit retained since IPO) | ~₹240 Cr (from ~₹133 Cr at IPO to ₹373 Cr) | **₹4.36 created per ₹1 retained** ✅ |
 
-The $1 test is emphatically passed. Every rupee retained has created ₹4.36 of market value. However, a significant portion of this is PE expansion (from ~10x at IPO to ~11.5x now, plus earnings growth being capitalised at higher multiples as the company gains visibility).
+*Note: The IPO was on March 15, 2023 — just 16 days before FY23 ended. FY23's ₹14 Cr net profit was almost entirely earned pre-IPO. Using only post-IPO retained earnings (FY24 ₹17 Cr + FY25 ₹24 Cr = ₹41 Cr), the $1 Test improves to ₹5.85 created per ₹1 retained.*
+
+The $1 test is emphatically passed. Every rupee retained has created ₹4.36 of market value. The vast majority of this value creation came from earnings growth (EPS grew 131% from ₹9.54 to ₹22.04), with a modest contribution from PE expansion (PE expanded ~22% from 9.4x to 11.5x, accounting for the remaining ~28% of total value creation including the interaction effect).
 
 ### Capital Allocation Assessment
 
@@ -418,7 +430,7 @@ Promoter holding of 72% and zero SBC are strong positives. The concern is capita
 | Revenue by Top 10 Clients % | 62% | 65% | 69% | **78%** |
 | Debtor Days | 45 | 69 | **84** | — |
 | Working Capital Days | 44 | 71 | **89** | — |
-| EBITDA per Employee (₹ Lakh) | 5.1 | 6.4 | 8.3 | **13.0*** |
+| EBITDA per Employee (₹ Lakh) | 5.1 | 6.5 | 8.3 | **13.0*** |
 | Attrition Rate | — | — | <10% | <10% |
 
 *\*Annualised from H1-FY26 data.*
@@ -429,7 +441,7 @@ Promoter holding of 72% and zero SBC are strong positives. The concern is capita
 
 2. **⚠️ Client concentration is WORSENING** — Top 3 clients went from 38% to 48%, Top 10 from 62% to 78%. This is a dangerous trend for a micro-cap. Losing one large client could wipe out 15-20% of revenue overnight.
 
-3. **Employee count has been flat** (312 → 296 → 276 → 296) while revenue has grown from ₹52 Cr to ₹84 Cr TTM. This drives the margin expansion but raises questions about sustainability — can you keep growing revenue without adding people?
+3. **Employee count has been flat** (312 → 275 → 276 → 296) while revenue has grown from ₹52 Cr to ₹84 Cr TTM. This drives the margin expansion but raises questions about sustainability — can you keep growing revenue without adding people?
 
 4. **Low attrition (<10%)** — significantly below the industry average of 15-20%. This is a genuine competitive advantage for a services firm.
 
@@ -445,22 +457,22 @@ Promoter holding of 72% and zero SBC are strong positives. The concern is capita
 | Book Value Per Share | ~42 | ~54 | ~70 | **82.4** |
 | **PB Ratio** | ~2.6x | ~3.9x | ~3.6x | **3.08x** |
 | EBITDA (₹ Cr) | 16 | 18 | 23 | 34 (TTM) |
-| **EV/EBITDA** | ~7.5x | ~20x | ~15x | **~8.6x** |
+| **EV/EBITDA** | ~7.5x | ~17x | ~15x | **~8.6x** |
 | Net Profit (₹ Cr) | 14 | 17 | 24 | 32 (TTM) |
 | **PE on Owner Earnings** | ~11.5x | ~18.5x | ~15.5x | **~11.5x** |
 | Earnings Yield | 8.7% | 5.4% | 6.5% | **8.7%** |
 | FCF Yield (on FCF from pres.) | ~0.5% | ~2.2% | ~3.7% | ~11.7%** |
 
-*\*\*H1-FY26 FCF of ₹18.1 Cr annualised = ~₹36 Cr; ₹36/₹373 Cr mkt cap = ~9.7%. Using TTM data from StockAnalysis (~₹43 Cr FCF / ₹373 Cr = ~11.7%).*
+*\*\*FCF Yield uses multiple sources with differing definitions: (a) Section 4 Screener-derived FCF (CFO minus CapEx) = ~₹11 Cr for FY25, yielding ~3% FCF Yield; (b) Investor Presentation FCF = ₹18.1 Cr for H1-FY26 (annualised ~₹36 Cr, ~9.7% yield); (c) StockAnalysis.com TTM FCF = ~₹43 Cr (~11.7% yield). The wide disparity arises from different treatment of working capital changes, investment classification, and period differences. The Screener-derived figure (3%) is the most conservative and verifiable.*
 
 ### Historical Comparison
 
 The stock is currently trading at its **cheapest levels** since the IPO on a PE basis:
 - Current PE of 11.5x vs. historical range of 11.5-18.5x
 - Current P/B of 3.08x vs. historical range of 2.6-3.9x
-- Current EV/EBITDA of ~8.6x vs. historical range of 7.5-20x
+- Current EV/EBITDA of ~8.6x vs. historical range of 7.5-17x
 
-**The stock has de-rated significantly** from its FY24 peak of ~18.5x PE, even as earnings have grown 75% YoY. This compression appears driven by: (i) SME stock sell-off post-SEBI tightening, (ii) general small-cap de-rating, and (iii) possibly limited liquidity and analyst coverage.
+**The stock has de-rated significantly** from its FY24 peak of ~18.5x PE, even as TTM earnings have grown strongly (FY25 net profit was 41% above FY24; TTM is running further ahead). This compression appears driven by: (i) SME stock sell-off post-SEBI tightening, (ii) general small-cap de-rating, and (iii) possibly limited liquidity and analyst coverage.
 
 > *Buffett: "Price is what you pay, value is what you get."*
 
@@ -611,6 +623,8 @@ At 11.5x TTM earnings for a company growing profits at 50%+ CAGR with 23% ROE an
 | Systango Historical 5Y Profit CAGR | **54%** |
 | IT Industry Average Growth | 12-15% |
 
+*Note: Historical CAGRs are Screener.in's reported figures using exact (unrounded) financials — see Section 2 footnote for reconciliation with rounded table figures.*
+
 ### Traffic Light Assessment
 
 At Terminal PE = 15x (Historical), to earn 15% annualised over 10 years, the company needs **12.0% EPS CAGR**. The company has historically grown at 47-54% CAGR.
@@ -632,7 +646,7 @@ The reverse DCF suggests the stock is cheap — but this is a micro-cap SME stoc
 | Asset / Liquidation Floor | Tangible Book Value (₹82.4/share) | ₹82 | -68% |
 | Cash Floor | Net Cash + Investments per share (~₹55/share) | ₹55 | -78% |
 | Trough Earnings | Worst-case 50% profit cut × 8x PE | ₹88 | -65% |
-| Historical Low PE (11.5x, current) × Trough EPS | 10x × ₹15 | ₹150 | -41% |
+| Trough PE × Trough EPS | 10x PE (below current 11.5x) × ₹15 trough EPS | ₹150 | -41% |
 
 **Most Probable Downside Floor: ₹150** (10x trough earnings)
 
