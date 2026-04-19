@@ -12,7 +12,7 @@
 
 ## 1. THE BUSINESS — Understanding the Economic Engine
 
-Tanfac Industries Ltd, incorporated in 1972, is **India's largest supplier of fluorine-based chemicals**. It is a **joint venture** between **Anupam Rasayan India Limited (ARIL)** and the **Tamil Nadu Industrial Development Corporation (TIDCO)**. The company manufactures:
+Tanfac Industries Ltd, incorporated in 1972 and commencing commercial production in March 1985, is **India's largest supplier of fluorine-based chemicals**. It is a **joint venture** between **Anupam Rasayan India Limited (ARIL)** and the **Tamil Nadu Industrial Development Corporation (TIDCO)**. The company manufactures:
 
 - **Anhydrous Hydrofluoric Acid (AHF)** — the core building block
 - **Dilute Hydrofluoric Acid (DHF)** — including solar-grade DHF
@@ -27,7 +27,7 @@ The business model is a **chemical toll bridge with switching costs**: Tanfac pr
 Tanfac is not quite that simple — fluorine chemistry requires genuine technical competence — but the business model IS simple to understand: buy fluorspar, process it into HF acid and derivatives, sell to industrial customers on long-term contracts. The economics are driven by **volume × realisation × capacity utilisation**. Buffett would understand this as an **essential industrial input supplier with a cost-advantage moat** — there are very few producers in India, and the product is critical to multiple downstream industries.
 
 **Key Development (Jan 2026):** ARIL acquired Aditya Birla Group's stake in FY23 and now controls management. Under new management, the company has embarked on aggressive capacity expansion:
-- Doubled HF capacity from 4,850 TPA to 29,700 TPA in FY25 (new DHF unit commissioned Oct 2024)
+- Expanded HF capacity ~6x from 4,850 TPA to 29,700 TPA in FY25 (new DHF unit commissioned Oct 2024)
 - Commissioned first phase of 10,000 TPA Solar Grade DHF in June 2025
 - Approved ₹495 Cr new downstream fluorinated chemicals facility (20,000 TPA) — commissioning by Nov 2026
 - Secured ₹2,362 Cr 7-year supply contract with Japanese customer (₹337.5 Cr/year from Jan 2027)
@@ -40,10 +40,8 @@ Tanfac is not quite that simple — fluorine chemistry requires genuine technica
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** | TTM |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue (₹ Cr) | 117 | 120 | 133 | 126 | 162 | 222 | 165 | 148 | 320 | 375 | 378 | **557** | 695 |
-| Revenue Growth YoY | — | 2.6% | 10.8% | **-5.3%** | 28.6% | 37.0% | -25.7% | -10.3% | **116.2%** | 17.2% | 0.8% | **47.4%** | 75% |
-| Operating Profit (₹ Cr) | 11 | **8** | 9 | 14 | 21 | 53 | 27 | 33 | 76 | 76 | 72 | **131** | 142 |
-| OPM % | 10% | **7%** | 7% | 11% | 13% | **24%** | 16% | 22% | **24%** | 20% | 19% | **24%** | 20% |
-| EBITDA (₹ Cr) | 11 | **8** | 9 | 14 | 21 | 53 | 27 | 33 | 76 | 76 | 72 | **131** | 142 |
+| Revenue Growth YoY | — | 2.6% | 10.8% | **-5.3%** | 28.6% | 37.0% | -25.7% | -10.3% | **116.2%** | 17.2% | 0.8% | **47.4%** | 75%† |
+| Operating Profit / EBITDA (₹ Cr) | 11 | **8** | 9 | 14 | 21 | 53 | 27 | 33 | 76 | 76 | 72 | **131** | 142 |
 | EBITDA Margin | 9.4% | **6.7%** | 6.8% | 11.1% | 13.0% | **23.9%** | 16.4% | 22.3% | **23.8%** | 20.3% | 19.0% | **23.5%** | 20.4% |
 | Other Income (₹ Cr) | 0 | 1 | 4 | 1 | 0 | 1 | 1 | 1 | 3 | **8** | 7 | 3 | 2 |
 | Interest (₹ Cr) | **10** | **10** | 8 | 7 | 7 | 4 | 2 | **1** | 2 | 2 | 2 | 5 | 4 |
@@ -54,6 +52,8 @@ Tanfac is not quite that simple — fluorine chemistry requires genuine technica
 | Net Margin | **-2.6%** | **-4.2%** | 0.0% | 2.4% | 6.2% | **16.2%** | 10.3% | 11.5% | **16.6%** | 14.9% | 13.8% | **15.8%** | 13.5% |
 | EPS (₹) | **-3.04** | **-5.30** | 0.40 | 3.30 | 9.70 | 36.06 | 17.01 | 17.51 | 53.41 | 56.27 | 52.61 | **88.37** | 94.31 |
 | Dividend Payout | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 17% | 12% | 13% | 10% | — |
+
+*Note: All line items are sourced from Screener.in and rounded to whole crores. Individual line items may not sum exactly to PBT due to rounding (typical ±₹1 Cr gaps in FY18, FY20, FY22, FY23). Screener's Operating Profit already excludes D&A and equals EBITDA. †TTM revenue growth of 75% is Screener's figure comparing TTM to Dec-2025 (₹695 Cr) vs TTM to Dec-2024 (~₹398 Cr); it is NOT FY25-on-FY24 growth (which is 47.4%).*
 
 ### Trend Narrative
 
@@ -122,7 +122,7 @@ Tanfac's balance sheet transformation is one of the most remarkable in Indian sm
 
 **The critical context**: Tanfac's FCF turned sharply negative in FY24-FY25 — but this is a **positive signal**, not a negative one. The company is investing aggressively in capacity expansion (CapEx surged from ₹36 Cr in FY24 to ₹96 Cr in FY25) that will drive the next leg of growth. This is **growth CapEx**, not maintenance.
 
-Prior to the expansion phase (FY14-FY23), the company was a consistent cash generator with cumulative OCF of ₹276 Cr over a decade — impressive for a company of this size. The CFO-to-Net-Profit conversion was strong, typically exceeding 60-80%.
+Prior to the expansion phase (FY14-FY23), the company was a consistent cash generator with cumulative OCF of ₹260 Cr over the decade — impressive for a company of this size. The CFO-to-Net-Profit conversion was strong, typically exceeding 60-80%.
 
 The shift to positive financing cash flow in FY25 (₹32 Cr) reflects new borrowings to fund expansion. With the ₹500 Cr QIP approved, this will continue. The key question is whether the **return on this incremental capital** will match the historically exceptional ROCE — and the ₹2,362 Cr Japanese supply contract provides strong evidence it will.
 
@@ -286,7 +286,7 @@ This is an **outstanding** result. Management has created massive value from ret
 | Inventory Days | 75 | 107 | 75 | **134** | 91 | 89 | 100 | **112** |
 | Days Payable | 74 | 90 | 47 | **142** | 76 | 78 | 77 | **48** |
 | Cash Conversion Cycle | 45 | 54 | 67 | **31** | 43 | 60 | 82 | **129** |
-| Capacity (HF TPA) | 4,850 | 4,850 | 4,850 | 4,850 | 4,850 | 4,850 | 4,850→29,700 | **29,700** |
+| Capacity (HF TPA) | 4,850 | 4,850 | 4,850 | 4,850 | 4,850 | 4,850 | 4,850 | **4,850→29,700** |
 | Capacity Utilisation (est.) | High | High | Moderate | Moderate | High | High | Transitioning | **Ramping** |
 
 **Working Capital Deterioration**: The CCC widening from 43 days (FY22) to 129 days (FY25) is the most significant operational concern. Debtor days have stretched from 28 to 65, and inventory days have risen from 91 to 112, while payable days have compressed from 76 to 48. This requires monitoring — it could reflect temporary dislocation from the capacity ramp-up, or it could indicate weakening bargaining power. Given the secured long-term contracts, the former explanation is more likely.
@@ -297,16 +297,16 @@ This is an **outstanding** result. Management has created massive value from ret
 
 ## 11. VALUATION ANALYSIS — The Price You Pay Determines Your Return
 
-| Metric | Current (TTM) | FY25 | FY24 | FY23 | FY22 |
-|---|---|---|---|---|---|
-| PE Ratio | 43.5x | 46.4x | 78.0x* | 72.8x* | 76.7x* |
-| P/B Ratio | 12.0x | 13.1x | ~17.8x* | ~22.2x* | ~30.5x* |
-| P/Owner Earnings | 52.1x | 52.1x | — | — | — |
-| EV/EBITDA | ~29x | ~31x | — | — | — |
-| Earnings Yield | 2.3% | 2.2% | — | — | — |
-| Dividend Yield | 0.2% | ~0.2% | ~0.2% | — | — |
+| Metric | Current (TTM) | FY25 |
+|---|---|---|
+| PE Ratio | 43.5x | 46.4x |
+| P/B Ratio | 12.0x | 13.1x |
+| P/Owner Earnings | 52.1x | 52.1x |
+| EV/EBITDA | ~29x | ~31x |
+| Earnings Yield | 2.3% | 2.2% |
+| Dividend Yield | 0.2% | ~0.2% |
 
-*Historical PE/PB estimates based on approximate year-end market caps; Tanfac was largely undiscovered pre-FY22.*
+*Note: All multiples above are calculated using the current CMP of ₹4,100 divided by the respective period's EPS/BVPS. Historical year-end share prices are not available for this stock due to limited trading history and pre-FY22 illiquidity. Therefore, historical PE/PB multiples (i.e., "what did the market actually pay at the end of FY22, FY23, FY24?") cannot be reliably computed and are excluded to avoid misleading comparisons.*
 
 **Valuation Reality Check:**
 
@@ -358,9 +358,20 @@ The conservative and base-case DCF scenarios indicate the stock is **overvalued*
 | Input | Value |
 |---|---|
 | CMP | ₹4,100 |
-| TTM Normalised EPS | ₹94.31 |
-| Current PE | 43.5x |
+| TTM Reported EPS | ₹94.31 |
+| Current PE (on Reported EPS) | 43.5x |
 | Shares Outstanding | 9.976 million |
+
+*Note: ₹94.31 is TTM reported EPS from Screener, not normalised. Owner Earnings per share (Section 5) is ₹78.7 — a more conservative starting base. Using reported EPS here makes the implied growth hurdles appear ~17% easier than they would on Owner Earnings.*
+
+### Step 2: Terminal PE Multiple Scenarios
+
+| Scenario | Terminal PE | Rationale |
+|---|---|---|
+| Mature / Low-Growth | 15x | Business has matured, growth ≈ GDP |
+| Market Average | 20x | Business grows roughly in line with the market |
+| Above-Average Compounder | 28x | Durable moat, faster-than-market growth |
+| Historical Average | 35x | Company's approximate median recent PE |
 
 ### Step 3: Implied EPS CAGR Required
 
@@ -436,7 +447,7 @@ The reverse DCF tells us that even with significant PE compression from the curr
 | Base Case | Base DCF IV | ₹3,322 | -19% (Overvalued) |
 | Optimistic Case | Optimistic DCF IV | ₹6,228 | +52% |
 | BV Compounding (5Y @ 28% ROE) | BVPS ₹1,025 × 8x P/B | ₹8,200 | +100% |
-| Japanese Contract Re-rating | ₹337.5 Cr/yr revenue adds ₹150 Cr NP → EPS ₹150+ × 30x | ₹4,500+ | +10%+ near-term |
+| Japanese Contract Re-rating | ₹337.5 Cr/yr revenue at ~16-18% net margin adds ~₹55-60 Cr NP, bringing total EPS to ~₹145-150 × 30x | ₹4,350-4,500 | +6-10% near-term |
 
 #### Asymmetry Ratio
 
@@ -488,6 +499,8 @@ This is a **decent but not exceptional** asymmetry ratio. The high current P/B (
 | Sustainable ROE | 28% |
 | Retention Ratio | 88% |
 | BV Compounding Rate | 24.6% |
+
+*Note on ROE methodology: Section 6 reports FY25 ROE of 32.5% using average equity (the Buffett standard: NP ÷ average of opening and closing equity). The 28% used here is deliberately conservative — it approximates NP ÷ year-end equity (88/312 = 28.2%) and sits below the 5-year average of 33%. This conservative choice ensures BV projections are achievable even if ROE moderates from recent peaks. Retention ratio of 88% reflects the 3-year average payout (FY23: 12%, FY24: 13%, FY25: 10%, average ~11.7% → retention ~88%), not the FY25-specific 90%.*
 
 #### BV Projections
 
@@ -588,7 +601,7 @@ With a **small capital base**, Buffett would approach Tanfac like he approached 
 | **QIP dilution at unfavourable price** | Medium | Medium | At 12x book, any QIP is accretive to BVPS; watch for pricing below book value (extremely unlikely at current valuations) |
 | **Chinese competition on commodity grades** | Medium | High | Mitigated by move to downstream/specialty; long-term contracts lock in volumes; safety/quality barriers for Indian customers |
 | **Working capital deterioration** | Medium | Medium | CCC at 129 days is concerning; management needs to demonstrate improvement as new capacity ramps up |
-| **Customer concentration** | Medium | Medium | Single Japanese contract = ₹337.5 Cr/year or ~48% of FY25 revenue; any disruption would be significant |
+| **Customer concentration** | Medium | Medium | Single Japanese contract = ₹337.5 Cr/year or ~61% of FY25 revenue (~49% of TTM revenue); any disruption would be significant |
 | **Environmental/safety incident** | Very High | Low | HF acid is extremely hazardous; any major incident could shut operations and destroy reputation |
 | **Commodity chemical cycle downturn** | Medium | Medium | Partially mitigated by long-term contracts and move to specialty; still exposed to spot market for uncommitted volumes |
 | **Regulatory changes** | Low | Low | Government actively supporting domestic chemical manufacturing; fluorochemicals align with self-reliance policy |
