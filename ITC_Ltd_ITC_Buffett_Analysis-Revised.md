@@ -16,13 +16,13 @@ ITC is India's most peculiar conglomerate — a cigarette company pretending to 
 
 - **FMCG — Cigarettes (42% of revenue, ~78% of PBIT):** India's dominant cigarette manufacturer with **~80% market share** in the organised legal cigarette market. Brands include Gold Flake, Classic, India Kings, Navy Cut, and Insignia. This is the economic engine — a toll bridge on addiction.
 
-- **FMCG — Others (26% of revenue):** Branded packaged foods (Aashirvaad, Sunfeast, Bingo!, YiPPee!), personal care (Fiama, Engage, Vivel), stationery (Classmate), and agarbattis (Mangaldeep). This segment has reached EBITDA profitability (~11% EBITDA margins in FY24), a major milestone after 15+ years of investment.
+- **FMCG — Others (~30% of revenue in FY25):** Branded packaged foods (Aashirvaad, Sunfeast, Bingo!, YiPPee!), personal care (Fiama, Engage, Vivel), stationery (Classmate), and agarbattis (Mangaldeep). This segment has reached EBITDA profitability (~11% EBITDA margins in FY24), a major milestone after 15+ years of investment.
 
-- **Paperboards, Paper & Packaging (8% of revenue):** India's largest manufacturer of paperboards. Integrated backward into farm forestry.
+- **Paperboards, Paper & Packaging (~8% of revenue):** India's largest manufacturer of paperboards. Integrated backward into farm forestry.
 
-- **Agri Business (14% of revenue):** Trading and export of agricultural commodities — leaf tobacco, spices, coffee, seafood, rice.
+- **Agri Business (~14% of revenue):** Trading and export of agricultural commodities — leaf tobacco, spices, coffee, seafood, rice.
 
-- **Hotels:** Demerged as ITC Hotels Ltd in FY25 (shareholders received 1 ITC Hotels share for every 10 ITC shares held).
+- **Hotels:** Demerged as ITC Hotels Ltd in FY25 (shareholders received 1 ITC Hotels share for every 10 ITC shares held). Prior to the demerger, Hotels contributed ~6% of revenue. The remaining ~2% residual comprises IT services and inter-segment eliminations.
 
 **Buffett Classification:** The cigarette business is a **classic consumer franchise and toll bridge** — the product is addictive, brands have enormous loyalty, distribution is entrenched, and pricing power is extraordinary (consumers absorb price hikes with minimal volume impact, historically). The FMCG-Others business is a **consumer brand franchise in the making**, leveraging ITC's massive distribution and brand-building muscle.
 
@@ -58,7 +58,7 @@ Would Buffett understand this business? **Absolutely.** A dominant cigarette com
 
 **Trend Narrative:**
 
-Revenue has compounded at **7% over 10 years and 9% over 5 years** — decent but not spectacular for a large-cap. The FY21 COVID dip was modest (just -0.3%), demonstrating the recession-resistant nature of the cigarette business. OPM has been remarkably stable in the 34–39% range for a decade. Normalised EPS growth has been ~7–8% over 5 years and ~8% over 10 years — steady but not exceptional.
+Revenue has compounded at **7% over 10 years and 9% over 5 years** — decent but not spectacular for a large-cap. The FY21 COVID dip was modest (just -0.3%), demonstrating the recession-resistant nature of the cigarette business. OPM has been remarkably stable in the 34–39% range for a decade. Normalised EPS growth has been in the ~5–8% range over 5 years depending on the normalised earnings estimate used (Screener reports 5-year profit CAGR of 5%; using the upper-end normalised FY25 EPS of ₹17.50 yields ~7%) — steady but not exceptional.
 
 The narrative is one of **stable, predictable, and modestly growing earnings** — exactly the type of business Buffett favours for compounding, provided the price is right.
 
@@ -100,9 +100,9 @@ ITC's balance sheet IS the Buffett financial fortress. No debt, massive cash, no
 | FCF/Share (₹) | **4.01** | 5.46 | 6.19 | 6.00 | 7.53 | 7.27 | 9.33 | 7.45 | 10.43 | **12.59** | 10.80 | 11.98 |
 | Dividends Paid (Cr) | 4,861 | 5,085 | 6,936 | 5,867 | 6,436 | 7,188 | 12,786 | 13,517 | 14,418 | 19,477 | 17,431 | 18,227 |
 
-**Cash Flow Quality:** FCF has grown from ~₹5,000 Cr in FY14 to ~₹15,000 Cr in FY25 — a 3x increase. FCF margins of 18–23% are excellent and demonstrate the capital-light nature of the business. Cash conversion (FCF/Net Profit) is consistently high, indicating that reported earnings translate into real cash.
+**Cash Flow Quality:** FCF has grown from ~₹5,000 Cr in FY14 to ~₹15,000 Cr in FY25 — a 3x increase. FCF margins have ranged from 14% in the early years to 24% at peak, stabilising in the 19–22% range over the last 5 years — excellent for a diversified FMCG conglomerate. Cash conversion (FCF/Net Profit) is consistently high, indicating that reported earnings translate into real cash.
 
-ITC is a **cash geyser.** It generates more cash than it can intelligently deploy — hence the massive dividend payouts (78% average over 5 years) and the ₹34,720 Cr investment portfolio. This is the hallmark of a Buffett-quality business.
+ITC is a **cash geyser.** It generates more cash than it can intelligently deploy — hence the massive dividend payouts (~86% average over the last 5 years) and the ₹34,720 Cr investment portfolio. This is the hallmark of a Buffett-quality business.
 
 > *"If a business earns 18% on capital over 20 or 30 years, even if you pay an expensive looking price, you'll end up with a fine result."* — Charlie Munger
 
@@ -152,7 +152,7 @@ ITC's CapEx intensity is remarkably low (3–5% of revenue). The cigarette busin
 | Asset Turnover | 0.676 | 0.674 | 0.639 | 0.668 | 0.786 | 0.826 | 0.740 | 0.856 |
 | Equity Multiplier | 1.22 | 1.21 | 1.18 | 1.22 | 1.24 | 1.24 | 1.23 | 1.26 |
 
-**Quality Assessment:** ITC's ROE is driven entirely by **high net margins and decent asset turnover, NOT by leverage.** The equity multiplier is only 1.2–1.3x (minimal leverage). ROCE consistently exceeds 32%, and ROA is in the 18–23% range. This is the hallmark of a genuinely superior business.
+**Quality Assessment:** ITC's ROE is driven entirely by **high net margins and decent asset turnover, NOT by leverage.** The equity multiplier is only 1.2–1.3x (minimal leverage). ROCE has generally remained in the 28–39% range over the past decade (dipping to 28% only in COVID-affected FY21), and ROA has been in the 18–23% range in most years (17.9% in FY18–FY19 being the floor). This is the hallmark of a genuinely superior business.
 
 **The critical insight:** ROCE > ROE (ROCE of 36% vs normalised ROE of 27%). This means the business engine is powerful, and the slightly lower ROE is explained by taxes and the large cash/investment portfolio sitting on the balance sheet earning lower returns. If ITC deployed its excess cash more aggressively, ROE would be even higher.
 
@@ -246,21 +246,21 @@ The scaling story is increasingly the FMCG-Others business. If ITC can grow this
 
 | Period | Retained Earnings | Market Cap Change | Value Created per ₹1 Retained |
 |---|---|---|---|
-| FY14 to FY24 (pre-crash) | ~₹46,000 Cr | ~₹3,20,000 Cr | **₹9.48** |
+| FY14 to FY24 (pre-crash) | ~₹33,800 Cr | ~₹3,20,000 Cr | **₹9.48** |
 | FY14 to Current (post-crash) | ~₹50,617 Cr | ~₹1,61,000 Cr | **₹3.18** |
 
-The $1 test from FY14 to the FY24 peak was excellent at ₹9.48 — every rupee retained created ₹9.48 of market value. The crash to current levels has compressed this to ₹3.18, which is still above the ₹1 threshold but reflects the market's severe re-rating post tax hike.
+The $1 test from FY14 to the FY24 peak was excellent at ₹9.48 — every rupee retained created ₹9.48 of market value. The "FY14 to Current" period includes FY25's exceptional gain which inflated net profit (and thus retained earnings) while the stock price crashed, compressing the ratio to ₹3.18 — still above the ₹1 threshold but reflecting the market's severe re-rating post tax hike.
 
 **Capital Allocation:**
 - No major acquisitions (disciplined)
 - No share repurchases (missed opportunity when stock was cheap in FY20 at ₹100)
-- Very high dividend payouts (78% average) — Buffett would approve of returning cash when reinvestment opportunities are limited
+- Very high dividend payouts (~86% average over last 5 years) — Buffett would approve of returning cash when reinvestment opportunities are limited
 - FMCG-Others investment has been patient and is now yielding results (breakeven achieved, margins expanding)
 - Hotels demerger was a smart move — unlock value, let the hotel business stand independently
 
 **Insider Ownership:** ITC has **no promoter.** Ownership is entirely institutional — 36% FIIs, 49% DIIs, 15% Public. This is unusual and means no single controlling shareholder. Management has been professional but not aggressively shareholder-aligned (no buybacks, generous SBC in some periods).
 
-**SBC as % of Net Income:** Minimal — ITC's ESOP dilution has been negligible (shares outstanding grew from ~1,208 Cr in FY14 to ~1,262 Cr in FY25 — just 4.5% dilution over 12 years, or 0.4% annually). Acceptable.
+**SBC as % of Net Income:** Minimal — ITC's ESOP dilution has been negligible (shares outstanding grew from ~1,208 Cr in FY14 to ~1,262 Cr in FY25 — just 4.5% dilution over 11 years, or ~0.4% annually). Acceptable.
 
 > *"We look for three things: intelligence, energy, and integrity. If they don't have the last one, the first two will kill you."* — Buffett
 
@@ -312,7 +312,7 @@ Management scores well on integrity and competence but loses points for not doin
 
 | Scenario | Growth Y1-5 | Growth Y6-10 | Terminal | Intrinsic Value/Share | MoS at ₹295 | Upside |
 |---|---|---|---|---|---|---|
-| **Conservative** | 6% | 4% | 3% | **₹306** | 3.7% | 3.9% |
+| **Conservative** | 6% | 4% | 3% | **₹306** | 3.7% | 3.7% |
 | **Base** | 9% | 6% | 3.5% | **₹386** | 23.6% | 30.9% |
 | **Optimistic** | 12% | 8% | 4% | **₹491** | 39.9% | 66.5% |
 
@@ -321,13 +321,15 @@ Management scores well on integrity and competence but loses points for not doin
 - **Base (9%/6%):** Assumes ITC passes through tax hike with 10–15% price increases, 3–5% volume growth, FMCG-Others continues at 12–15% growth with improving margins.
 - **Optimistic (12%/8%):** Assumes full tax pass-through with minimal volume impact, FMCG-Others accelerates to ₹40,000+ Cr revenue, margins expand towards 15%.
 
-**Verdict:** At ₹295, the conservative case barely breaks even (3.7% MoS). The base case offers a reasonable 24% margin of safety with 31% upside. Buffett would want at least 25–30% margin of safety — the base case just barely meets this threshold.
+**Verdict:** At ₹295, the conservative case barely breaks even (3.7% MoS). The base case offers a reasonable 24% margin of safety with 31% upside. Buffett would want at least 25–30% margin of safety — the base case falls just short of this threshold at 23.6%.
 
 ---
 
 ## 13. REVERSE DCF — Napkin Math Reality Check
 
 **Current Normalised EPS:** ₹16.16 | **Current Price:** ₹295 | **PE (Normalised):** 18.3x
+
+> **Note on Normalised Earnings Basis:** The DCF in Section 12 uses Normalised Owner Earnings (₹22,146 Cr = ₹17.55/share), which starts from a normalised FY25 net profit of ~₹22,000 Cr and adds back depreciation minus maintenance capex. The Reverse DCF here uses TTM Normalised EPS of ₹16.16 (based on actual trailing quarterly data: Q1+Q2+Q3 FY26 annualised ≈ ₹20,400 Cr). The difference reflects (a) Owner Earnings ≠ EPS (OE adds back D&A - maintenance capex), and (b) the TTM quarterly run-rate being slightly below the FY25 normalised annual figure due to input cost pressures and the one-time labour code charge in Q3 FY26. Both are valid measures; the TTM figure is more conservative and current.
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -356,21 +358,21 @@ Management scores well on integrity and competence but loses points for not doin
 
 | Benchmark | EPS CAGR |
 |---|---|
-| ITC's Historical 5Y Normalised EPS CAGR | ~7% |
+| ITC's Historical 5Y Normalised EPS CAGR | ~5–7% |
 | ITC's Historical 10Y Normalised EPS CAGR | ~8% |
 | India Nominal GDP Growth | 10–12% |
 | FMCG Sector Average | 10–12% |
 
 **Traffic Light:**
 
-To earn a **10% return over 10 years at a terminal PE of 20x**, ITC needs **9.0% EPS CAGR.** ITC has historically delivered 7–8% normalised EPS CAGR. This implies the market is pricing in **growth modestly above ITC's track record** — 🟡 **YELLOW (Fair but optimistic).**
+To earn a **10% return over 10 years at a terminal PE of 20x**, ITC needs **9.0% EPS CAGR.** ITC has historically delivered ~5–8% normalised EPS CAGR (depending on the normalised earnings estimate and base year). This implies the market is pricing in **growth at or modestly above ITC's track record** — 🟡 **YELLOW (Fair but optimistic).**
 
 To earn a **15% return**, ITC needs **14% EPS CAGR** — significantly above historical delivery — 🟠 **ORANGE (Expensive for 15% return expectations).**
 
 **Verdict:**
-> "At ₹295, to earn a 10% annualised return over 10 years assuming the market values ITC at 20x PE at exit, the company needs to grow EPS at 9.0% CAGR. ITC has historically grown normalised EPS at ~7–8% CAGR. This implies the market is pricing in growth slightly above ITC's track record — **fair but not cheap.**"
+> "At ₹295, to earn a 10% annualised return over 10 years assuming the market values ITC at 20x PE at exit, the company needs to grow EPS at 9.0% CAGR. ITC has historically grown normalised EPS at ~5–8% CAGR depending on the estimate used. This implies the market is pricing in growth at or slightly above ITC's track record — **fair but not cheap.**"
 
-**Buffett's Napkin Test:** You don't need a spreadsheet to see that at 18x normalised earnings for a business growing at 7–8%, you're paying a fair-to-full price. It's not a steal. But it's not crazy either.
+**Buffett's Napkin Test:** You don't need a spreadsheet to see that at 18x normalised earnings for a business growing at 5–8%, you're paying a fair-to-full price. It's not a steal. But it's not crazy either.
 
 ---
 
@@ -390,32 +392,39 @@ ITC's ROE is driven by **high margins and moderate asset turnover with almost ze
 | CMP | ₹295 |
 | Current P/B | 5.3x |
 | Sustainable ROE | 27% |
-| Retention Ratio | 50% |
-| BV Compounding Rate | 13.5% |
+| Retention Ratio | ~25% (see note below) |
+| BV Compounding Rate | ~6.75% |
+| Estimated Dividend Yield | ~4.9% |
+
+> **Note on Retention Ratio:** ITC has paid out 80–100% of earnings as dividends in recent years (FY20–FY24 average payout ~92%). Historical BVPS CAGR confirms this: FY20–FY24 BVPS compounded at just 3.1% annually. However, with the ITC Hotels demerger complete and FMCG-Others now demanding growth capital, a moderate shift toward 70–75% payout (25–30% retention) is a reasonable forward-looking assumption. The 10-year BVPS CAGR (FY14–FY24) of 10.1% — which blends the earlier lower-payout era (FY14–FY18, ~58% average payout) with the recent high-payout era — provides an upper bound. We use 25% retention (6.75% BV compounding) as the base case, with the caveat that this requires ITC to meaningfully reduce its payout ratio from recent levels.
 
 **Projected BVPS:**
 
 | Year | Projected BVPS |
 |---|---|
-| Year 5 | ₹104.50 |
-| Year 7 | ₹134.62 |
-| Year 10 | ₹196.83 |
+| Year 5 | ₹76.91 |
+| Year 7 | ₹87.64 |
+| Year 10 | ₹106.61 |
 
-**Expected Return CAGR at CMP ₹295:**
+**Expected Return CAGR at CMP ₹295 (Price Appreciation Only, Excluding Dividends):**
 
 | Exit P/B | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|
-| 5.3x (current) | 13.4% | 13.4% | 13.5% |
-| 4.0x | 7.2% | 9.0% | 10.3% |
-| 3.0x | 1.2% | 4.6% | 7.2% |
-| 2.5x | -2.4% | 1.9% | 5.2% |
-| 2.0x | -6.7% | -1.3% | 2.9% |
+| 5.3x (current) | 6.7% | 6.7% | 6.7% |
+| 4.0x | 0.8% | 2.5% | 3.8% |
+| 3.0x | -4.8% | -1.6% | 0.8% |
+| 2.5x | -8.2% | -4.2% | -1.0% |
+| 2.0x | -12.2% | -7.2% | -3.2% |
 
-**Key Insight:** If P/B stays at current 5.3x, your return equals the BV compounding rate of ~13.5% — attractive! But if P/B compresses to 3.0x (its 5Y average was ~3.6x), the 10-year return drops to just 7.2%. The stock can tolerate P/B compression from 5.3x down to approximately **4.0x** before the 10-year return drops below the 10% hurdle rate.
+> **Critical: Add Dividend Yield for Total Returns.** ITC is a high-payout stock — the returns above capture only price appreciation from book value growth. ITC's current dividend yield of ~4.9% is a significant additional return component. Approximate total returns by adding ~4–5% to each CAGR figure above. For example, at the current P/B of 5.3x, the total return ≈ 6.7% (BV growth) + 4.9% (dividends) ≈ **~11.6% total return** — which exceeds the 10% hurdle rate even without any multiple expansion.
+
+**Key Insight:** Unlike capital-light compounders that retain most earnings to grow book value rapidly, ITC returns the vast majority of earnings to shareholders as dividends. The P/B-only return table therefore understates total shareholder returns dramatically. The correct framework for ITC is: **Total Return ≈ BV Compounding Rate + Dividend Yield ± P/B Multiple Change.**
+
+At the current 5.3x P/B, if the multiple merely sustains, total return ≈ 11.6% (above the 10% hurdle). If P/B compresses to 4.0x over 10 years, price-only return is 3.8% + dividend yield ~4.9% = total ~8.7% (below hurdle). The stock can tolerate P/B compression from 5.3x down to approximately **4.5x** before the 10-year total return drops below the 10% hurdle rate.
 
 **Traffic Light:**
 
-🟡 **YELLOW** — 10-year return exceeds hurdle rate only if P/B stays above 4.0x. Given that P/B has historically ranged from 1.9x (FY20) to 7.1x (FY24), there is real risk of compression. The investment is partially dependent on sentiment sustaining.
+🟡 **YELLOW** — 10-year total return (including dividends) exceeds the 10% hurdle rate only if P/B stays above ~4.5x. Given that P/B has historically ranged from 1.9x (FY20) to 7.1x (FY24), there is real risk of compression. The investment is partially dependent on sentiment sustaining the current elevated P/B multiple.
 
 ---
 
@@ -440,7 +449,7 @@ Based on the DCF and P/B analysis:
 | **₹180–220 (Deep Value)** | +34% to +64% profit | **HOLD.** You bought at a wonderful price. The business is still earning 27% ROE. Let it compound. You're collecting 4.9% dividend yield on your cost basis of 6.5–8%. Do nothing. |
 | **₹220–270 (Value)** | +9% to +34% profit | **HOLD.** Decent entry. Business fundamentals intact. Tax hike is a headwind but not fatal. Continue holding for long-term compounding + dividends. |
 | **₹270–340 (Fair Value)** | -13% to +9% mixed | **HOLD.** You're roughly at fair value. If working with small capital, add modestly on dips below ₹270. The 4.9% dividend yield compensates while you wait. |
-| **₹340–420 (Fully Valued)** | -15% to -30% loss | **HOLD reluctantly.** You overpaid during the euphoria. The business is fine but will take time to grow into your entry price. DO NOT sell at a loss unless you have a clearly better opportunity. Tax-loss harvest only if you have offsetting gains. |
+| **₹340–420 (Fully Valued)** | -13% to -30% loss | **HOLD reluctantly.** You overpaid during the euphoria. The business is fine but will take time to grow into your entry price. DO NOT sell at a loss unless you have a clearly better opportunity. Tax-loss harvest only if you have offsetting gains. |
 | **>₹420 (Overvalued)** | -30%+ loss | **HOLD or Tax-loss harvest.** You significantly overpaid. The business will eventually grow into this valuation, but it may take 5+ years. If you need the capital for a better opportunity, consider switching. |
 
 > *"The stock market is a device for transferring money from the impatient to the patient."* — Buffett
@@ -462,7 +471,7 @@ Based on the DCF and P/B analysis:
 
 **Honest Verdict:**
 
-Buffett would **understand and admire** ITC's business. The cigarette franchise is a textbook toll bridge — 80% market share, addictive product, capital-light, enormous FCF. He would appreciate the financial fortress (zero debt, ₹35,000 Cr cash). He would approve of the high dividend payout.
+Buffett would **understand and admire** ITC's business. The cigarette franchise is a textbook toll bridge — 80% market share, addictive product, capital-light, enormous FCF. He would appreciate the financial fortress (zero debt, ₹35,000 Cr in cash & investments). He would approve of the high dividend payout.
 
 **But at ₹295, would he buy?**
 
@@ -525,7 +534,7 @@ However, for the stock to re-rate, the following factors need to play out:
 |---|---|---|
 | **Business Quality** | **9** | Dominant franchise, pricing power, capital-light, recurring demand |
 | **Moat Durability** | **8** | Regulatory moat + brand moat; government taxation is the wildcard |
-| **Financial Health** | **10** | Zero debt, ₹35,000 Cr cash, fortress balance sheet |
+| **Financial Health** | **10** | Zero debt, ₹35,000 Cr cash & investments, fortress balance sheet |
 | **Management Quality** | **7** | Professional and competent; no promoter alignment; missed buyback opportunity |
 | **Return on Capital** | **9** | 27% ROE, 36% ROCE, 20%+ ROA — all without leverage |
 | **Earnings Quality** | **8** | FCF consistently converts from net income; stable and predictable |
@@ -542,7 +551,7 @@ ITC is a **wonderful business** — a dominant cigarette franchise generating 27
 
 At ₹295 (18x normalised PE, 5.3x P/B, 4.9% dividend yield), ITC is **fairly valued, not cheap.** The stock has corrected 34% from its highs but has only come down to fair value, not to deep value. Buffett, working with a small capital base, would **put this on his watchlist** and wait for either: (a) further correction to ₹220–250 (13–15x normalised PE) for a high-conviction buy, or (b) confirmation that the tax hike has been fully absorbed (2–3 quarters of stable volumes post-hike) before buying at current levels.
 
-If already holding, this is a **clear HOLD.** The business will compound book value at 13–14% annually, you collect a 4.9% dividend, and time heals the tax hike wound. Selling a 27% ROE, zero-debt, dominant-franchise business at fair value because of a temporary regulatory shock is the kind of mistake Buffett warns against.
+If already holding, this is a **clear HOLD.** The business generates a 27% ROE, returns ~75–85% as dividends (yielding ~4.9% at current price), and compounds book value at ~5–7% annually — delivering a total shareholder return of ~10–12% even without multiple expansion. Time heals the tax hike wound. Selling a 27% ROE, zero-debt, dominant-franchise business at fair value because of a temporary regulatory shock is the kind of mistake Buffett warns against.
 
 > *"Our favourite holding period is forever."* — Buffett
 
