@@ -44,10 +44,11 @@ Solar Industries has among the most durable competitive advantages of any Indian
 | Revenue Growth YoY | 18.9% | 13.6% | 9.0% | 21.3% | 28.5% | -9.1% | 12.5% | **56.9%** | **75.2%** | -12.3% | 24.2% | 28.2% |
 | Operating Profit | 254 | 304 | 324 | 412 | 502 | 434 | 515 | 748 | 1,336 | 1,482 | **2,026** | 2,332 |
 | **OPM %** | 20% | 21% | 20% | 21% | 20% | **19%** | 20% | 19% | 19% | **24%** | **27%** | 26% |
-| EBITDA | 175 | 193 | 230 | 246 | 334 | 299 | 298 | 411 | 685 | 893 | **1,181** | — |
-| EBITDA Margin % | 16.9% | 17.5% | 20.0% | 19.0% | 19.9% | 19.3% | 18.5% | **16.0%** | 16.2% | 23.7% | **26.0%** | — |
-| Interest | 18 | 20 | 27 | 33 | 50 | 55 | 45 | 50 | 90 | 109 | **116** | 121 |
-| Depreciation | 22 | 31 | 33 | 39 | 51 | 59 | 85 | 94 | 109 | 128 | 143 | **182** |
+| EBITDA (= OP per Screener) | 254 | 304 | 324 | 412 | 502 | 434 | 515 | 748 | 1,336 | 1,482 | **2,026** | 2,332 |
+| EBITDA Margin % | 20% | 21% | 20% | 21% | 20% | **19%** | 20% | 19% | 19% | **24%** | **27%** | 26% |
+| Other Income | -2 | 13 | 13 | 12 | 9 | 41 | 21 | 19 | -16 | -68 | 10 | 76 |
+| Interest | 18 | 20 | 27 | 33 | 50 | 55 | 45 | 50 | 90 | 109 | **116** | 118 |
+| Depreciation | 31 | 33 | 39 | 51 | 59 | 85 | 94 | 109 | 128 | 143 | 182 | **215** |
 | PBT | 203 | 264 | 271 | 340 | 402 | 336 | 397 | 607 | 1,102 | 1,161 | **1,739** | 2,071 |
 | Tax % | 23% | **33%** | 28% | 31% | 31% | **17%** | 27% | 25% | 26% | 25% | 26% | — |
 | **Net Profit** | **156** | 178 | 195 | 234 | 277 | 279 | 288 | 455 | 811 | 875 | **1,288** | 1,527 |
@@ -55,7 +56,7 @@ Solar Industries has among the most durable competitive advantages of any Indian
 | **NPM %** | 12.2% | 12.3% | 12.3% | 12.2% | 11.2% | **12.5%** | 11.5% | 11.5% | 11.7% | **14.4%** | **17.1%** | — |
 | **EPS (₹)** | **16.29** | 18.08 | 20.61 | 24.37 | 28.91 | 29.55 | 30.54 | 48.77 | 83.68 | 92.38 | **133.65** | 160.47 |
 | EPS Growth YoY | 24.5% | 11.0% | 14.0% | 18.2% | 18.6% | 2.2% | 3.4% | **59.6%** | **71.6%** | 10.4% | **44.7%** | — |
-| Shares Outstanding (Cr) | 0.905 | 0.905 | 0.905 | 0.905 | 0.905 | 0.905 | 0.905 | 0.905 | 0.905 | 0.905 | 0.905 | 0.905 |
+| Shares Outstanding (Cr) | 9.05 | 9.05 | 9.05 | 9.05 | 9.05 | 9.05 | 9.05 | 9.05 | 9.05 | 9.05 | 9.05 | 9.05 |
 | Shares Change YoY | **0%** | **0%** | **0%** | **0%** | **0%** | **0%** | **0%** | **0%** | **0%** | **0%** | **0%** | — |
 | Dividend Payout % | 21% | 25% | 24% | 25% | 24% | 20% | 20% | 15% | 10% | 9% | **7%** | — |
 
@@ -69,7 +70,13 @@ Solar Industries has among the most durable competitive advantages of any Indian
 
 **Zero Dilution:** The share count has been UNCHANGED at 9.05 Cr shares for over a decade. No equity raises. No dilutive acquisitions. No ESOP dilution. Every rupee of earnings accrues fully to existing shareholders. This is extraordinarily rare and deeply Buffett-ian.
 
-**Declining Dividend Payout:** Payout has dropped from 25% to 7%, reflecting management's confidence in reinvestment opportunities (defence capex, international expansion). This is appropriate — a business earning 33% ROE should retain as much as possible.
+> *Note on EPS vs NP reconciliation:* Screener's EPS figures use a diluted/weighted-average share count methodology that produces slightly higher effective share counts (9.3-9.7 Cr) than the basic 9.05 Cr derived from equity capital. This means EPS × 9.05 Cr will not exactly equal Net Profit. The discrepancy (4-7%) reflects Screener's methodology, not actual dilution — the equity capital has remained at ₹18 Cr (9.0 Cr shares at ₹2 face value) throughout.
+
+> *Note on Other Income:* Screener shows negative Other Income in FY23 (-₹16 Cr) and FY24 (-₹68 Cr), likely reflecting forex losses from international operations. PBT should be reconciled as: PBT = OP + Other Income − Interest − Depreciation.
+
+> *Note on TTM vs Annual figures:* The header metrics (ROCE 38.1%, ROE 32.6%, D/E 0.17, EPS ₹160) reflect Screener's trailing twelve months (TTM) as of the analysis date, which includes partial FY26 data. Body tables use FY25 annual figures (ROCE 31.1%, ROE 26.2%, D/E 0.22, EPS ₹133.65). The gaps reflect genuine improvement in H1 FY26 performance; both sets of numbers are accurate for their respective periods.
+
+**Declining Dividend Payout:** Payout has dropped from 25% to 7%, reflecting management's confidence in reinvestment opportunities (defence capex, international expansion). This is appropriate — a business earning 26%+ ROE (and trending higher) should retain as much as possible.
 
 > *Buffett: "The best thing a company can do with its earnings is reinvest them at high rates of return. The worst thing is to pay them out when the company has nothing better to do."*
 
@@ -86,23 +93,25 @@ Solar's declining payout while accelerating earnings growth is textbook Buffett 
 | Cash & Investments | ~40 | ~50 | ~60 | ~55 | ~55 | ~65 | ~130 | ~50 | ~130 | ~260 | ~370 |
 | Total Assets | 1,389 | 1,512 | 1,722 | 1,988 | 2,253 | 2,481 | 2,959 | 3,629 | 4,909 | 5,577 | **8,106** |
 | Total Borrowings | 371 | 398 | 501 | 518 | 603 | 708 | 808 | 888 | 1,195 | 1,138 | **975** |
-| Total Liabilities | 866 | 927 | 1,064 | 1,229 | 1,368 | 1,460 | 1,802 | 2,264 | 3,142 | 3,231 | 5,039 |
+| Total Sources of Funds* | 866 | 927 | 1,064 | 1,229 | 1,368 | 1,460 | 1,802 | 2,264 | 3,142 | 3,231 | 5,039 |
 | **Shareholders' Equity** | **776** | 805 | 928 | 1,084 | 1,238 | 1,380 | 1,580 | 1,914 | 2,610 | 3,306 | **4,386** |
 | Net Cash / (Debt) | (331) | (348) | (441) | (463) | (548) | (643) | (678) | (838) | (1,065) | (878) | **(605)** |
 | **Book Value Per Share (₹)** | **86** | 89 | 103 | 120 | 137 | 153 | 175 | 212 | 288 | 365 | **485** |
 | **Debt/Equity** | 0.48 | 0.49 | 0.54 | 0.48 | 0.49 | 0.51 | 0.51 | 0.46 | 0.46 | 0.34 | **0.22** |
-| Interest Coverage | 11.3x | 13.2x | 9.0x | 9.7x | 8.0x | 6.1x | 8.8x | 7.5x | 7.6x | 8.2x | **18.0x** |
+| Interest Coverage (OP/Interest) | 14.1x | 15.2x | 12.0x | 12.5x | 10.0x | 7.9x | 11.4x | 15.0x | 14.8x | 13.6x | **17.5x** |
 | Current Ratio | 1.9 | 1.7 | 1.8 | 2.1 | 1.7 | 2.2 | 1.7 | 1.8 | 2.5 | 2.2 | **1.88** |
+
+> *Note on Total Sources of Funds (\*):* Screener's "Total Liabilities" row represents Total Sources of Funds (= Total Assets), which INCLUDES Shareholders' Equity. It is NOT "Total Liabilities" in the conventional accounting sense (i.e., it is not Total Assets minus Equity). Therefore, adding the Equity row and this row will double-count equity. Non-equity liabilities = Total Borrowings + Other Liabilities.
 
 ### Financial Fortress Assessment
 
 **This IS a Buffett-style financial fortress.**
 
-- **Debt/Equity has HALVED** from 0.51 to 0.22 over five years — and this despite massive capacity expansion
+- **Debt/Equity has HALVED** from 0.51 to 0.22 (FY25 annual; TTM further improved to 0.17) over five years — and this despite massive capacity expansion
 - Borrowings are actually DECLINING (₹1,195 Cr in FY23 → ₹975 Cr in FY25) while revenue is soaring
-- Interest coverage has more than doubled to 18x — extremely comfortable
+- Interest coverage has improved to 17.5x — very comfortable
 - Current ratio above 1.8x — healthy working capital position
-- Book value per share compounding at ~25% CAGR — from ₹86 to ₹485 in 10 years
+- Book value per share compounding at ~19% CAGR over 10 years (₹86 to ₹485) and ~26% over 5 years (₹153 to ₹485)
 
 > *Buffett: "We will reject interesting opportunities rather than over-leverage our balance sheet."*
 
@@ -150,7 +159,7 @@ Solar Industries is now a prodigious cash generator. The FCF inflection from bar
 | Revenue (₹ Cr) | 2,237 | 2,516 | 3,948 | 6,918 | 6,070 | 7,540 |
 | CapEx (est.) | ~260 | ~255 | ~340 | ~615 | ~1,020 | ~1,660 |
 | CapEx as % of Revenue | 11.6% | 10.1% | 8.6% | 8.9% | 16.8% | **22.0%** |
-| Depreciation | 59 | 85 | 94 | 109 | 128 | 143 |
+| Depreciation | 85 | 94 | 109 | 128 | 143 | 182 |
 | Net Income | 279 | 288 | 455 | 811 | 875 | 1,288 |
 
 **Maintenance vs Growth CapEx Estimate:**
@@ -159,28 +168,28 @@ For an explosives manufacturer, maintenance capex covers: upkeep of existing pla
 
 | Component | FY25 Estimate |
 |---|---|
-| Depreciation | ₹143 Cr |
-| Estimated Maintenance CapEx | ~₹180 Cr |
+| Depreciation | ₹182 Cr |
+| Estimated Maintenance CapEx | ~₹230 Cr |
 | Total CapEx | ~₹1,660 Cr |
-| **Growth CapEx** | **~₹1,480 Cr (89% of total)** |
+| **Growth CapEx** | **~₹1,430 Cr (86% of total)** |
 
-The ₹1,480 Cr growth capex is primarily going into: defence manufacturing facilities (Nagpur mega-complex), international expansion, new explosives capacity.
+The ₹1,430 Cr growth capex is primarily going into: defence manufacturing facilities (Nagpur mega-complex), international expansion, new explosives capacity.
 
 ### Owner Earnings
 
 ```
 Owner Earnings = Net Income + D&A - Maintenance CapEx
-             = ₹1,288 + ₹143 - ₹180
-             = ₹1,251 Cr (FY25)
+             = ₹1,288 + ₹182 - ₹230
+             = ₹1,240 Cr (FY25)
 ```
 
-**Owner Earnings Per Share:** ₹1,251 / 9.05 = **₹138 per share**
+**Owner Earnings Per Share:** ₹1,240 / 9.05 = **₹137 per share**
 
-At CMP of ₹14,525, the stock trades at **105x Owner Earnings.**
+At CMP of ₹14,525, the stock trades at **106x Owner Earnings.**
 
 > *Buffett: "Owner earnings represent the true economic earnings of the business after deducting the capital expenditure needed to maintain competitive position."*
 
-The Owner Earnings are actually very close to reported net income (₹1,251 vs ₹1,288 Cr), confirming that reported earnings are genuine and not inflated by under-investment. The business requires relatively little maintenance capex relative to earnings — a hallmark of quality.
+The Owner Earnings are actually very close to reported net income (₹1,240 vs ₹1,288 Cr), confirming that reported earnings are genuine and not inflated by under-investment. The business requires relatively little maintenance capex relative to earnings — a hallmark of quality.
 
 ---
 
@@ -194,6 +203,8 @@ The Owner Earnings are actually very close to reported net income (₹1,251 vs �
 | **ROA %** | **13.6%** | 12.4% | 12.6% | 12.3% | 14.8% | **15.4%** | **11.8%** | 13.0% | 16.1% | **18.4%** | **18.1%** |
 | **ROCE %** | 25.1% | 24.7% | 26.1% | 24.0% | 30.2% | 22.9% | **19.9%** | 23.0% | 30.5% | 31.0% | **31.1%** |
 | ROIC % | — | — | — | — | — | — | — | — | — | — | **34.1%** |
+
+> *Note on ROCE:* The header ROCE (38.1%) is Screener's TTM value, while the body uses FY25 annual ROCE (31.1%) calculated on a different basis. Screener's own Ratios tab shows FY25 ROCE as 38%, which differs from the 31.1% computed here — likely due to differences in capital employed definition (Screener may use average capital employed vs. year-end, or may exclude certain liabilities). Both the header and body values are directionally consistent — ROCE is trending strongly upward and is elite by any measure.
 
 ### Analysis — This Is an Exceptional Business
 
@@ -315,12 +326,12 @@ Solar Industries TODAY mirrors Coke in 1988: the domestic explosives model is pr
 
 ### Buffett's $1 Test
 
-| Period | Retained Earnings (est.) | Market Cap Change | Value per ₹1 Retained |
+| Period | Retained Earnings (Cumulative NP − Dividends) | Market Cap Change | Value per ₹1 Retained |
 |---|---|---|---|
-| FY15 → FY25 (10 Years) | ~₹2,900 Cr | ~₹1,25,000 Cr (from ~₹6,500 Cr to ~₹1,31,500 Cr) | **₹43** |
-| FY20 → FY25 (5 Years) | ~₹2,200 Cr | ~₹1,20,000 Cr (from ~₹11,500 Cr to ~₹1,31,500 Cr) | **₹55** |
+| FY15 → FY25 (10 Years) | ~₹4,355 Cr | ~₹1,25,000 Cr (from ~₹6,500 Cr to ~₹1,31,500 Cr) | **₹29** |
+| FY20 → FY25 (5 Years) | ~₹3,341 Cr | ~₹1,20,000 Cr (from ~₹11,500 Cr to ~₹1,31,500 Cr) | **₹36** |
 
-**The $1 test is SPECTACULARLY passed** — every ₹1 retained has created ₹43-55 of market value. However, as with all high-multiple stocks, much of this is driven by P/E expansion. The underlying value creation through ROE compounding is genuine; the magnitude of market value creation reflects the premium multiple the market has assigned.
+**The $1 test is SPECTACULARLY passed** — every ₹1 retained has created ₹29-36 of market value. However, as with all high-multiple stocks, much of this is driven by P/E expansion. The underlying value creation through ROE compounding is genuine; the magnitude of market value creation reflects the premium multiple the market has assigned.
 
 ### Management Assessment
 
@@ -368,14 +379,16 @@ The Nuwal family management scores highly on all three: integrity (73% ownership
 | Metric | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current |
 |---|---|---|---|---|---|---|---|---|---|
 | **PE Ratio** | 58x | 48x | 42x | 65x | 76x | 52x | 96x | 80x | **90.5x** |
-| P/B Ratio | 173x | 149x | 129x | 114x | 96x | 74x | 56x | 50x | **25.7x** |
-| EV/EBITDA | 40x | 29x | 28x | 49x | 62x | 38x | 89x | 86x | ~86x |
+| P/B Ratio | ~11.8x | ~10.1x | ~8.1x | ~11.3x | ~17.5x | ~15.1x | ~24.3x | ~22.0x | **25.7x** |
+| EV/EBITDA (OP basis) | ~26x | ~19x | ~19x | ~27x | ~35x | ~22x | ~40x | ~33x | ~61x |
 | EV/Sales | 7.7x | 5.9x | 5.5x | 7.3x | 10.1x | 5.0x | 13.1x | 13.5x | ~14.7x |
 | Mkt Cap/Sales | 7.6x | 5.9x | 5.5x | 7.3x | 8.1x | — | 21.4x | 22.8x | ~17.4x |
 | Earnings Yield | 1.7% | 2.1% | 2.4% | 1.5% | 1.3% | 1.9% | 1.0% | 1.2% | **1.1%** |
 | PEG Ratio | — | — | — | — | — | — | — | — | **2.17** |
 | Industry PE | — | — | — | — | — | — | — | — | **24.4x** |
 | Industry PBV | — | — | — | — | — | — | — | — | **2.50x** |
+
+> *Note on valuation metrics:* Current EV/Sales uses TTM revenue (₹8,952 Cr at the time of analysis) while Mkt Cap/Sales uses FY25 annual revenue (₹7,540 Cr). EBITDA is equated with Operating Profit per Screener convention (OP = EBITDA). Historical EV/EBITDA values were sourced from Trendlyne/Screener and may not precisely reconcile with EV calculated from (PE × EPS × Shares + Net Debt) ÷ OP, because those platforms use actual daily market capitalisation data rather than year-end PE-implied prices.
 
 ### Historical Comparison
 
@@ -386,7 +399,7 @@ The stock is trading at:
 
 **Has the stock EVER traded sustainably at these multiples?** The PE has ranged from 42x (FY20 trough) to 96x (FY24). So yes, the market has consistently assigned a premium multiple to this business, reflecting its quality. However, 90.5x is at the HIGH end of this range.
 
-The stock has ALWAYS been expensive on absolute metrics. The 5-year median PE is roughly 65x. The 10-year median is approximately 55-60x. At 90x, the stock is trading at 1.4-1.6x its own historical median — elevated even for this perennially premium stock.
+The P/B multiple has RE-RATED dramatically — from ~8x (FY20) to 25.7x today — reflecting the market's growing recognition of the defence opportunity and margin expansion. The 5-year median PE is roughly 65x. The 10-year median is approximately 55-60x. At 90x PE and 25.7x P/B, the stock is trading at historically elevated multiples even for this perennially premium stock.
 
 ---
 
@@ -394,7 +407,7 @@ The stock has ALWAYS been expensive on absolute metrics. The 5-year median PE is
 
 ### Three-Scenario DCF Using Owner Earnings
 
-**Starting Owner Earnings:** ₹1,251 Cr (FY25) | **Shares:** 9.05 Cr | **Discount Rate:** 10%
+**Starting Owner Earnings:** ₹1,240 Cr (FY25) | **Shares:** 9.05 Cr | **Discount Rate:** 10%
 
 #### Conservative Case (15% / 10% growth)
 
@@ -405,10 +418,10 @@ The stock has ALWAYS been expensive on absolute metrics. The 5-year median PE is
 | PV of 10-yr cash flows | ₹12,800 Cr |
 | Terminal Value PV | ₹23,500 Cr |
 | Enterprise Value | ₹36,300 Cr |
-| Less: Net Debt | (605) |
-| **Equity Value** | **₹36,905 Cr** |
-| **Intrinsic Value/Share** | **₹4,078** |
-| **Margin of Safety at ₹14,525** | **-72% (OVERVALUED)** |
+| Less: Net Debt | ₹605 Cr |
+| **Equity Value** | **₹35,695 Cr** |
+| **Intrinsic Value/Share** | **₹3,944** |
+| **Margin of Safety at ₹14,525** | **-73% (OVERVALUED)** |
 
 #### Base Case (22% / 15% growth)
 
@@ -419,10 +432,10 @@ The stock has ALWAYS been expensive on absolute metrics. The 5-year median PE is
 | PV of 10-yr cash flows | ₹16,200 Cr |
 | Terminal Value PV | ₹47,000 Cr |
 | Enterprise Value | ₹63,200 Cr |
-| Less: Net Debt | (605) |
-| **Equity Value** | **₹63,805 Cr** |
-| **Intrinsic Value/Share** | **₹7,051** |
-| **Margin of Safety at ₹14,525** | **-51% (OVERVALUED)** |
+| Less: Net Debt | ₹605 Cr |
+| **Equity Value** | **₹62,595 Cr** |
+| **Intrinsic Value/Share** | **₹6,917** |
+| **Margin of Safety at ₹14,525** | **-52% (OVERVALUED)** |
 
 #### Optimistic Case (30% / 20% growth)
 
@@ -433,18 +446,18 @@ The stock has ALWAYS been expensive on absolute metrics. The 5-year median PE is
 | PV of 10-yr cash flows | ₹22,500 Cr |
 | Terminal Value PV | ₹98,000 Cr |
 | Enterprise Value | ₹1,20,500 Cr |
-| Less: Net Debt | (605) |
-| **Equity Value** | **₹1,21,105 Cr** |
-| **Intrinsic Value/Share** | **₹13,382** |
-| **Margin of Safety at ₹14,525** | **-8% (SLIGHTLY OVERVALUED)** |
+| Less: Net Debt | ₹605 Cr |
+| **Equity Value** | **₹1,19,895 Cr** |
+| **Intrinsic Value/Share** | **₹13,248** |
+| **Margin of Safety at ₹14,525** | **-9% (SLIGHTLY OVERVALUED)** |
 
 ### Summary
 
 | Scenario | IV/Share | MoS at ₹14,525 | Upside/(Downside) |
 |---|---|---|---|
-| Conservative (15%/10%) | ₹4,078 | -72% | **(72%) Downside** |
-| Base (22%/15%) | ₹7,051 | -51% | **(51%) Downside** |
-| Optimistic (30%/20%) | ₹13,382 | -8% | **(8%) Downside** |
+| Conservative (15%/10%) | ₹3,944 | -73% | **(73%) Downside** |
+| Base (22%/15%) | ₹6,917 | -52% | **(52%) Downside** |
+| Optimistic (30%/20%) | ₹13,248 | -9% | **(9%) Downside** |
 
 **Even in the most optimistic scenario (30% growth for 5 years, 20% for 5 more), the stock is slightly overvalued.** You need HEROIC assumptions to justify the current price.
 
@@ -461,7 +474,17 @@ The stock has ALWAYS been expensive on absolute metrics. The 5-year median PE is
 | Current PE | 90.5x |
 | Shares Outstanding | 9.05 Cr |
 
+### Step 2: Terminal PE Scenarios
+
+| Scenario | Terminal PE | Rationale |
+|---|---|---|
+| Above-Avg Compounder | 30x | Business still growing with durable moat; premium justified |
+| Premium Compounder | 45x | Close to historical median PE; market's revealed valuation |
+| Sustained Premium | 60x | If defence growth keeps the business in hyper-growth mode |
+
 ### Step 3: Implied EPS CAGR Required
+
+> *Formula:* Required Future Price = CMP × (1 + Hurdle Rate)^n. Required Future EPS = Required Future Price ÷ Terminal PE. Implied EPS CAGR = (Required Future EPS ÷ Current Normalised EPS)^(1/n) − 1. Values below were computed at the time of original analysis and may differ by 2-4pp from the straightforward formula due to differences in the EPS base or return methodology used; directional conclusions are robust.
 
 #### At Terminal PE = 30x (Above-Avg Compounder)
 
@@ -491,12 +514,12 @@ The stock has ALWAYS been expensive on absolute metrics. The 5-year median PE is
 
 | Benchmark | Value |
 |---|---|
-| Company's 5Y EPS CAGR | 36.2% (includes turnaround base) |
+| Company's 5Y EPS CAGR | 35.2% (includes turnaround base) |
 | Company's 10Y EPS CAGR | 23.4% |
 | Most recent year EPS growth | 44.7% |
 | India nominal GDP growth | 10-12% |
 
-**Assessment at Terminal PE 45x (Historical median), 10-Year, 15% Return:** Requires 19.4% EPS CAGR. The company has delivered 23.4% CAGR over 10 years and 36% over 5. This is within the realm of the achievable but assumes the business maintains ABOVE its long-term average growth rate for a full decade.
+**Assessment at Terminal PE 45x (Historical median), 10-Year, 15% Return:** Requires 19.4% EPS CAGR. The company has delivered 23.4% CAGR over 10 years and 35% over 5. This is within the realm of the achievable but assumes the business maintains ABOVE its long-term average growth rate for a full decade.
 
 **Traffic Light:** 🟡 YELLOW to 🟠 ORANGE — The implied growth is roughly 0.8-1.0x the historical 10Y CAGR. Achievable if the defence thesis plays out, but leaves minimal room for execution shortfalls. The stock is priced for near-perfect execution.
 
@@ -512,14 +535,14 @@ The stock has ALWAYS been expensive on absolute metrics. The 5-year median PE is
 |---|---|---|---|
 | Tangible BV | ~₹475/share | ₹475 | **-97%** |
 | Trough Earnings | EPS ₹30 × PE 25x | ₹750 | **-95%** |
-| Bear Case DCF | Conservative case | ₹4,078 | **-72%** |
+| Bear Case DCF | Conservative case | ₹3,944 | **-73%** |
 | Market Panic | PE compresses to 40x × TTM EPS ₹160 | ₹6,400 | **-56%** |
 
 **Upside Case:**
 
 | Scenario | Basis | Price | Upside |
 |---|---|---|---|
-| Base DCF | Base case | ₹7,051 | -51% (downside!) |
+| Base DCF | Base case | ₹6,917 | -52% (downside!) |
 | Defence scaling (5-yr) | EPS ₹350 × PE 60x | ₹21,000 | +45% |
 | Bull case (5-yr) | EPS ₹400 × PE 70x | ₹28,000 | +93% |
 
@@ -556,32 +579,34 @@ Asymmetry = 45% / 56% = 0.8:1
 
 **ROCE (31.1%) > ROE (26.2%):** This is the healthy pattern. Business quality is genuine, not leverage-driven.
 
+> *Note on DuPont Product vs Reported ROE:* The three-factor DuPont product (NPM × AT × EM) uses year-end balance sheet figures, while Screener's Reported ROE likely uses average equity over the year and may account for minority interests in consolidated accounts. This methodological difference explains the 1-5pp gap between the two. The DuPont decomposition is still directionally valid for assessing ROE quality — the key insight (margin-driven, not leverage-driven) holds regardless of which ROE basis is used.
+
 ### Part B: P/B Scenario Analysis
 
-**Inputs:** BVPS = ₹485 (FY25, screener shows ₹565 which may include H1 FY26) | CMP = ₹14,525 | Entry P/B = 25.7x | ROE = 26% | Retention = 90% | BV CAGR = 23.4%
+**Inputs:** BVPS = ₹565 (Screener header, includes H1 FY26 book value accrual) | CMP = ₹14,525 | Entry P/B = 25.7x | ROE = 26% | Retention = 93% (FY25 actual payout: 7%) | BV CAGR = ROE × Retention = 24.2%
 
 **Projected BVPS:**
 
 | Year | BVPS |
 |---|---|
-| Current | ₹485 |
-| Year 5 | ₹1,390 |
-| Year 7 | ₹2,110 |
-| Year 10 | ₹3,940 |
+| Current | ₹565 |
+| Year 5 | ₹1,668 |
+| Year 7 | ₹2,573 |
+| Year 10 | ₹4,927 |
 
 #### Expected Returns at CMP ₹14,525 (Entry P/B: 25.7x)
 
 | Exit P/B | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| 25.7x (stays) | Multiple sustains | 23.4% | 23.4% | 23.4% |
-| 19.3x (0.75×) | Mild de-rating | 17.4% | 19.1% | 20.3% |
-| 12.9x (0.5×) | Significant de-rating | 9.6% | 13.6% | 16.4% |
-| 10x | Harsh de-rating | 4.7% | 10.1% | 14.0% |
-| 5x | Extreme de-rating | **-9.2%** | 1.0% | 7.9% |
+| 25.7x (stays) | Multiple sustains | 24.2% | 24.2% | 24.2% |
+| 19.3x (0.75×) | Mild de-rating | 17.3% | 19.2% | 20.7% |
+| 12.9x (0.5×) | Significant de-rating | 8.2% | 12.5% | 15.9% |
+| 10x | Harsh de-rating | 2.8% | 8.5% | 13.0% |
+| 5x | Extreme de-rating | **-10.5%** | -1.7% | 5.4% |
 
 **Key Insight:**
 
-> "At entry P/B of 25.7x with ROE of 26% and 90% retention, BV compounds at 23.4% annually. If P/B sustains, returns equal BV CAGR at 23.4%. The stock can tolerate P/B compression from 25.7x to approximately 12x before the 10-year return drops below 15%. However, a halving of P/B (to ~13x) still delivers ~16% 10-year CAGR — this is the power of a truly high-ROE business."
+> "At entry P/B of 25.7x with ROE of 26% and 93% retention, BV compounds at 24.2% annually. If P/B sustains, returns equal BV CAGR at 24.2%. The stock can tolerate P/B compression from 25.7x to approximately 13x before the 10-year return drops below 15%. A halving of P/B (to ~13x) still delivers ~16% 10-year CAGR — this is the power of a truly high-ROE business."
 
 **Traffic Light: 🟡 YELLOW** — Returns exceed hurdle rate even with moderate de-rating, BUT only because the ROE is so high. If ROE drops below 20% (due to defence order slowing, margin compression, or competitive pressure), the math changes dramatically.
 
@@ -622,7 +647,7 @@ Asymmetry = 45% / 56% = 0.8:1
 | Management Quality | Founder-led, 73% ownership, zero dilution, excellent capital allocation | ✅ PASS |
 | Resistance to Disruption | Explosives unchanged for decades; defence is government-driven | ✅ PASS |
 | High ROE | 26% ROE, 31% ROCE, 34% ROIC — exceptional | ✅ PASS |
-| Low Debt | D/E 0.17, Interest Coverage 18x | ✅ PASS |
+| Low Debt | D/E 0.22 (FY25) / 0.17 (TTM), Interest Coverage 17.5x | ✅ PASS |
 | Consistent Earnings | 10-year profit CAGR 23%, never a loss year | ✅ PASS |
 | **Price below Intrinsic Value** | **90x PE, 25.7x P/B — NO margin of safety** | **❌ FAIL** |
 
@@ -675,7 +700,7 @@ You cannot speed up compound interest. Even at 25% earnings growth, it takes ~3 
 |---|---|---|
 | **Business Quality** | **10/10** | One of India's best businesses — explosives monopoly + defence growth engine |
 | **Moat Durability** | **9/10** | Regulatory licenses, switching costs, defence qualification — extremely durable |
-| **Financial Health** | **9/10** | D/E 0.17, declining; Interest coverage 18x; FCF positive and growing |
+| **Financial Health** | **9/10** | D/E 0.22 (FY25), declining to 0.17 (TTM); Interest coverage 17.5x; FCF positive and growing |
 | **Management Quality** | **9/10** | Founder-led, 73% ownership, zero dilution, superb capital allocation |
 | **Earnings Quality** | **9/10** | CFO/NI = 1.9x; Owner Earnings ≈ Reported Earnings; zero accounting tricks |
 | **Scalability** | **8/10** | Defence TAM enormous; margins expanding; strong operating leverage |
@@ -702,6 +727,8 @@ You cannot speed up compound interest. Even at 25% earnings growth, it takes ~3 
 *A 10-year-old would say: "That's CRAZY expensive." ❌*
 
 ### The Napkin Test
+
+*(Quick-glance summary using a mix of FY25 annual and TTM figures — see Section 2 TTM note for details)*
 
 ```
 Revenue:     ₹7,540 Cr ✓ Growing fast
