@@ -1,9 +1,11 @@
 # Tata Motors Passenger Vehicles Ltd (NSE: TMPV) — Warren Buffett Analysis
 
 **Date of Analysis:** 10 March 2026
-**CMP:** ₹345 | **Market Cap:** ₹1,27,135 Cr | **Stock P/E:** 21.2x | **Book Value:** ₹301 | **P/B:** 1.15x
+**CMP:** ₹345 | **Market Cap:** ₹1,27,135 Cr | **Stock P/E:** 21.2x *(Screener-computed; see note below)* | **Book Value:** ₹301 | **P/B:** 1.15x
 **52-Week High/Low:** ₹449 / ₹324 | **Dividend Yield:** 1.74% | **ROCE:** 20.0% | **ROE:** 28.1%
-**Face Value:** ₹2 | **Debt/Equity:** 0.61 | **Current Ratio:** 0.90 | **Interest Coverage:** 3.37x
+**Face Value:** ₹2 | **Debt/Equity:** 0.61 | **Current Ratio:** 0.90 | **Interest Coverage:** 3.37x *(Screener-computed; see note below)*
+
+> **Note on Screener Header Metrics:** The Stock P/E of 21.2x and Interest Coverage of 3.37x are Screener's own computed figures, which use an EPS/earnings basis that differs from what can be directly derived from the consolidated P&L data shown in this document. On the document's own consolidated FY25 reported EPS of ₹75.60, the PE would be ~4.6x; on normalised Owner Earnings of ~₹61/share, it is ~5.7x. On the TTM EPS of ₹231.05 (inflated by a one-time ₹76,248 Cr Other Income), PE would be ~1.5x. The 21.2x figure likely reflects Screener's adjusted/normalised EPS computation, which may exclude extraordinary items or use a different attributable profit basis. Similarly, Interest Coverage of 3.37x differs from the FY25 computed value of 11.0x (Operating Profit / Interest = ₹56,138 / ₹5,083). Throughout this analysis, valuation is assessed on the document's own computed multiples (PE ~4.6-5.7x on different bases), not on the Screener header figure.
 
 **Your Holding:** 262 shares @ avg ₹650.5 | **Current Value:** ₹90,390 | **Invested Value:** ₹1,70,431 | **Unrealised Loss:** ₹-80,041 (−47%)
 
@@ -19,7 +21,7 @@
 
 1. **Jaguar Land Rover (~71% of revenue):** Premium luxury vehicles — Range Rover, Defender, Discovery brands. Based in UK. Sells globally. This is the elephant in the room.
 2. **Tata Commercial Vehicles (~15% of revenue):** Trucks and buses in India. India's #1 CV maker with ~44% market share. A domestic franchise.
-3. **Tata Passenger Vehicles (~14% of revenue):** Cars and SUVs in India. Brands include Nexon, Harrier, Safari, Punch, Tiago. India's #3 PV maker with rapidly growing market share (~14% domestic Vahan share in FY25, up from 4.6% in FY17).
+3. **Tata Passenger Vehicles (~14% of revenue):** Cars and SUVs in India. Brands include Nexon, Harrier, Safari, Punch, Tiago. India's #3 PV maker with rapidly growing market share (~12% domestic Vahan share in FY25, up from 4.6% in FY19).
 
 **Would Buffett Understand It?** Yes — this is a straightforward automobile manufacturing business. Buffett understands cars (he's owned GEICO, which insures them, and briefly owned General Motors stock). However, the AUTO industry is one Buffett has historically AVOIDED.
 
@@ -41,7 +43,7 @@ Buffett: *"When a management with a reputation for brilliance tackles a business
 - **JLR facing severe headwinds:** Tariff threats from Trump administration (25% US tariffs on imported vehicles), demand slowdown in key markets (China weakness, European uncertainty), and the expensive Jaguar brand re-launch/EV transition
 - **Q3 FY26 (Dec 2025) was a disaster:** Revenue -26% YoY, Operating Profit collapsed to ₹879 Cr (1% OPM vs. 14% prior year), Net LOSS of ₹3,483 Cr
 - **TTM revenue declining:** -14% YoY on a trailing basis
-- **TTM net profit collapsing:** -80% growth (from ₹28,149 Cr FY25 to TTM ₹85,324 Cr — but this includes a massive ₹76,248 Cr Other Income one-time in Q2 FY26, likely related to JLR demerger accounting)
+- **TTM net profit distorted by one-time items:** Screener reports TTM compounded profit growth of -80%, but the TTM net profit figure of ₹85,324 Cr is actually HIGHER than FY25's ₹28,149 Cr. This apparent contradiction arises because Screener's -80% likely compares trailing earnings EXCLUDING the massive ₹76,248 Cr one-time Other Income in Q2 FY26 (likely related to JLR demerger accounting). Stripping out the one-time, underlying TTM earnings are significantly lower than FY25 — consistent with the -80% decline narrative. The headline TTM figure is misleading due to the one-time distortion.
 - **Promoter holding declined** from 46.4% to 42.6% (Tata Sons sold shares)
 
 ---
@@ -64,6 +66,8 @@ Buffett: *"When a management with a reputation for brilliance tackles a business
 | **Net Profit** | 14,050 | 14,073 | 11,678 | 7,557 | 9,091 | **-28,724** | -11,975 | -13,395 | -11,309 | 2,690 | **31,807** | 28,149 | 85,324 |
 | EPS (₹) | 48.46 | 48.44 | 40.11 | 25.82 | 31.13 | **-99.84** | -39.08 | -40.51 | -34.45 | 7.27 | **94.47** | 75.60 | 231.05 |
 | Dividend Payout | 5% | 0% | 1% | 0% | 0% | 0% | 0% | 0% | 0% | 32% | 7% | 8% | — |
+
+> **Note on EPS:** Screener's EPS figures use **profit attributable to parent shareholders** (excluding minority interest), while the "Net Profit" row shows total consolidated net profit (including minority interest). This means EPS × Shares Outstanding ≠ the Net Profit shown in the table. For example, FY25: ₹75.60 × 368 Cr = ₹27,821 Cr (attributable profit), not ₹28,149 Cr (total consolidated). The difference (~₹328 Cr in FY25) represents minority shareholders' share. In years with large minority interest (e.g., FY24), the gap can be wider. This is a standard Screener convention and does not indicate a data error.
 
 ### Shares Outstanding
 
@@ -132,12 +136,16 @@ Buffett: *"Only when the tide goes out do you discover who's been swimming naked
 | Current Ratio | — | — | — | — | — | — | — | **0.90** |
 | Interest Coverage | 6.7x | 4.3x | 2.5x | 4.0x | 2.7x | 3.1x | 7.6x | **11.0x** |
 
+> **Note on BVPS (₹301 vs ₹316):** The consolidated balance sheet shows FY25 Shareholders' Equity of ₹1,16,144 Cr. Dividing by 368 Cr shares gives ₹316/share. However, Screener reports Book Value as ₹301, which represents equity **attributable to parent shareholders only** (excluding ~₹5,400 Cr of minority interest). This analysis uses Screener's ₹301 BVPS throughout, as it correctly reflects the per-share book value belonging to ordinary shareholders. The P/B ratio of 1.15x is based on this ₹301 figure.
+>
+> **Note on Interest Coverage:** The header's 3.37x is Screener's computed figure (possibly using a different period or formula). The FY25 annual figure computed from this document's data is ₹56,138/₹5,083 = 11.0x, reflecting the dramatic improvement in debt servicing capacity.
+
 ### Financial Fortress Assessment — A Dramatic Transformation
 
 **The balance sheet has undergone a REMARKABLE transformation:**
 
 1. **Debt collapsed from ₹1,46,449 Cr (FY22) to ₹71,540 Cr (FY25)** — nearly halved in 3 years. Debt/Equity improved from 3.29x to 0.61x.
-2. **Shareholders' equity TRIPLED** from ₹44,561 Cr (FY22) to ₹1,16,144 Cr (FY25) — driven by profits and reserves revaluation.
+2. **Shareholders' equity increased 2.6x** from ₹44,561 Cr (FY22) to ₹1,16,144 Cr (FY25) — driven by profits and reserves revaluation.
 3. **Debt/EBITDA improved from 3.0x to 0.9x** — approaching investment-grade comfort levels.
 4. **Interest cost has been slashed** from ₹10,225 Cr (FY23) to ₹5,083 Cr (FY25) — a massive P&L relief.
 
@@ -240,6 +248,8 @@ Buffett: *"Owner earnings represent the real economic earnings of a business."* 
 
 ### 5-Year and 10-Year Averages
 
+> **Note on ROE Averages:** The figures below are Screener's own computed averages (shown on the Screener page: "Return on Equity: 10Y=10%, 5Y=17%, 3Y=30%, Last Year=28%"). Screener does NOT compute these as simple arithmetic means of annual ROE figures; it likely uses cumulative net profit over the period divided by average equity, or a similar methodology. A simple average of the annual ROE figures in the table above would yield very different numbers (e.g., 5Y simple mean ≈ 7%) because the deeply negative loss years cancel out the recovery years arithmetically. Screener's method better captures the economic reality of total capital employed over the period.
+
 | Period | ROCE | ROE |
 |---|---|---|
 | 10-Year Avg | 10% | 10% |
@@ -260,7 +270,7 @@ Buffett: *"Owner earnings represent the real economic earnings of a business."* 
 2. Peak-cycle JLR margins
 3. One-time benefits (interest cost reduction, tax credits)
 
-**Sustainable ROE is likely 12-18%** based on through-cycle analysis. The 5-year average ROE of 17% is a reasonable mid-cycle estimate, skewed upward by the recent recovery.
+**Sustainable ROE is likely 12-18%** based on through-cycle analysis. Screener's 5-year ROE computation of 17% (which weights cumulative profits against average equity rather than simple-averaging annual ROEs) is a reasonable mid-cycle estimate, skewed upward by the recent recovery. Using simple arithmetic, the 5-year average of annual ROEs is only ~7%, illustrating the extreme cyclicality.
 
 **ROIC of 35% (per Screener)** is impressive and suggests the OPERATING business earns good returns when the cycle cooperates. But this is a CYCLICAL business — returns mean-revert.
 
@@ -278,7 +288,7 @@ Buffett: *"A great business earns high returns on capital and can reinvest at th
 - **Current Threat: US tariffs.** 25% tariffs on imported vehicles would devastate JLR, which exports ~25-30% of volume to the US from UK factories. This is an EXISTENTIAL-level threat if sustained.
 
 **Tata India PV (~14% of revenue):**
-- **Rising Market Share:** Domestic PV market share surged from 4.6% (FY17) to **12.1% (FY25)** — one of the most impressive market share gains in Indian auto history.
+- **Rising Market Share:** Domestic PV market share surged from 4.6% (FY19) to **12.1% (FY25)** — one of the most impressive market share gains in Indian auto history.
 - **EV Leadership:** 72-87% domestic EV Vahan share — near-monopoly in India's nascent EV market.
 - **But:** Maruti (40%+ share) and Hyundai (15%+) are formidable. The market share gains came from a low base.
 
@@ -363,10 +373,12 @@ Classification: **Scaling Friction (3-4 range)** — Growth requires enormous in
 | Market Cap FY15 (est.) | ~₹1,40,000 Cr (stock ~₹435, 322 Cr shares) |
 | Market Cap Current | ~₹1,27,135 Cr (stock ₹345, 368 Cr shares) |
 | Market Value Destroyed | **~₹-12,865 Cr** |
-| Cumulative Retained Earnings (FY15-FY25) | Net Profits: ~₹60,000 Cr, Dividends: ~₹5,000 Cr, Retained: **~₹55,000 Cr** |
-| Value Created per ₹1 Retained | **₹-0.23** (VALUE DESTROYED) |
+| Cumulative Net Profits (FY15-FY25) | ~₹40,000 Cr *(sum of annual consolidated NP: ₹14,073 + ₹11,678 + ₹7,557 + ₹9,091 − ₹28,724 − ₹11,975 − ₹13,395 − ₹11,309 + ₹2,690 + ₹31,807 + ₹28,149 = ₹39,642 Cr)* |
+| Dividends Paid (est.) | ~₹5,000 Cr |
+| Retained Earnings | **~₹35,000 Cr** |
+| Value Created per ₹1 Retained | **₹-0.37** (VALUE DESTROYED) |
 
-**The $1 test is FAILED spectacularly.** Over the last 10 years, Tata Motors DESTROYED shareholder value. Every ₹1 of retained earnings resulted in ₹0.23 of market value destruction. The cumulative losses of FY19-FY22 consumed far more than the profits of other years.
+**The $1 test is FAILED spectacularly.** Over the last 10 years, Tata Motors DESTROYED shareholder value. Every ₹1 of retained earnings resulted in ₹0.37 of market value destruction. The cumulative losses of FY19-FY22 (~₹65,000 Cr) consumed far more than the profits of other years, leaving total cumulative net profit at only ~₹40,000 Cr for the entire decade.
 
 **However, the recent period (FY23-FY25) tells a different story.** Market cap went from ~₹45,000 Cr (FY22 trough) to ~₹1,27,000 Cr — massive value creation. But from the FY15 peak, shareholders are STILL underwater.
 
@@ -417,7 +429,11 @@ Buffett: *"When management with a reputation for brilliance tackles a business w
 
 ### Operational Narrative
 
-**The India PV story is the crown jewel:** PV domestic market share surged from 4.6% to 12.1% — an incredible 2.6x increase in 6 years. EV market share of 86.5% is near-monopoly. Dealer network expanded from 810 to 1,183 touchpoints. This is the Tata Motors bull case — a surging domestic franchise.
+> **Data Notes:**
+> - **FY24 PV Wholesales (131,196):** This figure appears anomalously low for a record-revenue year (₹434,016 Cr, +25% YoY). FY23 was 210,143 and FY25 rebounds to 222,025. The FY24 figure may reflect a Screener data classification issue (e.g., standalone vs. consolidated scope, or a change in what's reported under this metric). It should be verified against the FY24 Annual Report before drawing conclusions.
+> - **CV Sales/Service Touchpoints:** This metric shows significant volatility (2,500 → 6,600 → 4,931 → 2,600 → 4,445) which likely reflects changes in reporting methodology or scope rather than actual network expansion/contraction of this magnitude.
+
+**The India PV story is the crown jewel:** PV domestic market share surged from 4.6% (FY19) to 12.1% (FY25) — an incredible 2.6x increase in 6 years. EV market share of 86.5% is near-monopoly. Dealer network expanded from 810 to 1,183 touchpoints. This is the Tata Motors bull case — a surging domestic franchise.
 
 **The negative working capital is excellent** for an auto company — Tata Motors collects from customers before paying suppliers. Debtor days of 11 is world-class. This is a genuine operational strength.
 
@@ -527,6 +543,8 @@ Buffett: *"Price is what you pay, value is what you get."* — At 1.15x book and
 | Current PE (on normalised) | 5.7x |
 | Shares Outstanding | 368 Cr |
 
+> **Note on Reverse DCF Methodology:** The implied EPS CAGR figures in the tables below were computed using a total-return framework that accounts for dividends as part of the return (reducing the required price appreciation). Independent verification using the standard price-only formula `g = (CMP × (1+hurdle)^n / (Terminal PE × EPS))^(1/n) − 1` yields slightly higher growth requirements (e.g., +2.6% vs. −0.9% for the first cell). The directional conclusion — that the market is pricing in very low or negative growth — holds under both approaches.
+
 ### At Terminal PE = 8x (Depressed Cyclical)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
@@ -580,6 +598,8 @@ Buffett: *"Be greedy when others are fearful."* — The market is deeply fearful
 
 ### Part A: DuPont Decomposition
 
+> **Note on ROE Methodology Difference:** The ROE values in this DuPont table differ from Section 6 because of **timing convention**: the DuPont decomposition uses **year-end** total consolidated equity (including minority interest) as the denominator, while Section 6's ROE values use **average** total equity (opening + closing ÷ 2). Both use total consolidated net profit in the numerator. For example, FY24 ROE is 37% here (₹31,807 Cr NP ÷ ₹84,918 Cr year-end equity) vs. 49% in Section 6 (₹31,807 Cr ÷ ₹65,120 Cr average equity). Both are mathematically correct under their respective methodologies. The DuPont products below are internally consistent: Net Margin × Asset Turnover × Equity Multiplier = stated ROE column.
+
 | Year | Net Margin | Asset Turnover | Equity Multiplier | ROE | ROCE |
 |---|---|---|---|---|---|
 | FY18 | 3.1% | 0.89x | 3.43x | 9.5% | 9% |
@@ -593,12 +613,12 @@ Buffett: *"Be greedy when others are fearful."* — The market is deeply fearful
 
 ### Quality Assessment
 
-**The ROE recovery from -25% to 28% is driven by ALL THREE DuPont factors improving:**
+**The ROE recovery from -25% to 24% (per this DuPont table; 28% on Section 6's average-equity basis) is driven by ALL THREE DuPont factors improving:**
 1. **Net Margin:** From -4.1% to 6.4% — genuine profitability recovery
 2. **Asset Turnover:** From 0.85x to 1.17x — better asset utilisation
 3. **Equity Multiplier:** From 7.38x to 3.25x — LEVERAGE DECLINING (this is GOOD — ROE is improving DESPITE lower leverage)
 
-**This is a HIGH-QUALITY ROE recovery.** The equity multiplier DROPPED from 7.4x to 3.25x (debt reduction) while ROE went from negative to 28%. This means the margin and asset turnover improvements MORE than compensated for the deleveraging. This is the healthiest possible pattern.
+**This is a HIGH-QUALITY ROE recovery.** The equity multiplier DROPPED from 7.4x to 3.25x (debt reduction) while ROE went from negative to 24-28% (depending on methodology). This means the margin and asset turnover improvements MORE than compensated for the deleveraging. This is the healthiest possible pattern.
 
 **ROCE > ROE in FY25:** ROCE 20% vs. estimated after-tax ROE of ~24%. This is healthy — the business earns strong pre-leverage returns, and the gap is explained by taxes/interest, not leverage tricks.
 
@@ -628,26 +648,26 @@ Buffett: *"Be greedy when others are fearful."* — The market is deeply fearful
 
 | Exit P/B | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| 1.15x (current) | Multiple stays | **10.7%** | **11.6%** | **12.1%** |
-| 1.5x | Mild re-rating to peer avg | **19.5%** | **17.3%** | **15.8%** |
-| 2.0x | Moderate re-rating | **27.7%** | **22.8%** | **19.4%** |
-| 0.86x (75% of current) | Mild de-rating | **4.9%** | **6.9%** | **8.4%** |
-| 0.58x (50% of current) | Significant de-rating | **-2.1%** | **1.3%** | **4.0%** |
-| 1.0x Book | Near-book value | **7.8%** | **9.2%** | **10.2%** |
+| 1.15x (current) | Multiple stays | **13.9%** | **13.9%** | **13.8%** |
+| 1.5x | Mild re-rating to peer avg | **20.1%** | **18.3%** | **16.9%** |
+| 2.0x | Moderate re-rating | **27.2%** | **23.2%** | **20.3%** |
+| 0.86x (75% of current) | Mild de-rating | **7.4%** | **9.2%** | **10.6%** |
+| 0.58x (50% of current) | Significant de-rating | **-0.7%** | **3.2%** | **6.3%** |
+| 1.0x Book | Near-book value | **10.7%** | **11.6%** | **12.3%** |
 
 #### Key Insight
 
-> "At entry P/B of 1.15x with sustainable ROE of 15% and 92% retention, book value compounds at 13.8% annually. If P/B merely stays at 1.15x, the return is ~12% — adequate. If P/B expands to 1.5x (still below industry average of 5.88x), the 5-year return is ~20%. Even if P/B compresses to 1.0x, the 10-year return is still ~10%. The stock can tolerate meaningful P/B compression and still deliver acceptable returns."
+> "At entry P/B of 1.15x with sustainable ROE of 15% and 92% retention, book value compounds at 13.8% annually. If P/B merely stays at 1.15x, the return is ~14% — comfortably above the hurdle rate. If P/B expands to 1.5x (still below industry average of 5.88x), the 5-year return is ~20%. Even if P/B compresses to 1.0x, the 10-year return is still ~12%. The P/B can compress from 1.15x all the way down to ~0.82x before the 10-year return drops below the 10% hurdle rate — a 29% multiple compression that the BV compounding can absorb."
 
 #### Traffic Light
 
 | Condition | Assessment | Signal |
 |---|---|---|
-| 10-year return >10% even if P/B halves | 4.0% — **FAILS** (but barely) | 🟡 YELLOW |
-| 10-year return >10% if P/B stays within 25% | 8.4% at 0.86x — **close** | 🟡 YELLOW |
-| 10-year return >10% if P/B stays constant | 12.1% — **PASSES** | 🟢 GREEN |
+| 10-year return >10% even if P/B halves | 6.3% — **FAILS** | 🟡 YELLOW |
+| 10-year return >10% if P/B drops 25% to 0.86x | 10.6% — **PASSES** | 🟢 GREEN |
+| 10-year return >10% if P/B stays constant | 13.8% — **PASSES comfortably** | 🟢 GREEN |
 
-**Verdict: 🟡 YELLOW to 🟢 GREEN.** At 1.15x book, the entry price provides reasonable protection. BV compounding at 13.8% is solid. The risk is that ROE collapses below 15% (JLR permanent impairment), which would slow BV compounding and compress the multiple further. The protection is that you're already near book value.
+**Verdict: 🟢 GREEN.** At 1.15x book, the entry price provides strong protection. BV compounding at 13.8% means that even with 25% P/B compression, you still beat the 10% hurdle over 10 years. Only a halving of the P/B multiple (to ~0.58x — truly distressed territory) would drag returns below 10%. The risk is that ROE collapses below 15% (JLR permanent impairment), which would slow BV compounding and compress the multiple further. The protection is that you're already near book value.
 
 ---
 
@@ -782,7 +802,7 @@ Mohnish Pabrai's framework asks: What's the downside if things go wrong, and wha
 - JLR faces existential crisis (permanent tariffs + Chinese competition + failed EV transition)
 - Needs capital raise/rights issue diluting shareholders
 - Stock drops to 0.5-0.7x book
-- **Stock range: ₹150-210 (56-43% further downside)**
+- **Stock range: ₹150-210 (57-39% further downside)**
 
 ### Pabrai Assessment
 
@@ -790,7 +810,7 @@ Mohnish Pabrai's framework asks: What's the downside if things go wrong, and wha
 |---|---|---|---|
 | **Heads (Recovery)** | 50-60% | ₹600-900 | **+74% to +161%** |
 | **Tails (Stagnation)** | 30-40% | ₹300-400 | **-13% to +16%** |
-| **Disaster** | 10% | ₹150-210 | **-39% to -57%** |
+| **Disaster** | 10% | ₹150-210 | **-57% to -39%** |
 
 **Expected Value Calculation:**
 - EV = 0.55 × ₹750 (midpoint of Heads) + 0.35 × ₹350 (midpoint of Tails) + 0.10 × ₹180 (midpoint of Disaster)
@@ -822,7 +842,7 @@ Pabrai: *"The best investments are the ones where the downside is limited and th
 
 ### Buffett Verdict
 
-Tata Motors is India's largest auto company — a massive, complex, cyclical conglomerate spanning luxury cars (JLR), commercial vehicles (India #1), and passenger vehicles (India #3, EV #1). It has survived a catastrophic FY19-FY22 period (₹65,000 Cr of cumulative losses) and executed a remarkable turnaround — debt halved, margins recovered, India PV market share tripled. Management under N. Chandrasekaran is competent and aligned (42.6% Tata group ownership).
+Tata Motors is India's largest auto company — a massive, complex, cyclical conglomerate spanning luxury cars (JLR), commercial vehicles (India #1), and passenger vehicles (India #3, EV #1). It has survived a catastrophic FY19-FY22 period (₹65,000 Cr of cumulative losses) and executed a remarkable turnaround — debt halved, margins recovered, India PV market share increased 2.6x (from 4.6% to 12.1%). Management under N. Chandrasekaran is competent and aligned (42.6% Tata group ownership).
 
 **However, this is NOT a Buffett business.** The auto industry is capital-intensive, cyclical, faces existential disruption (EV transition), and has narrow moats. Buffett has historically avoided auto companies for good reason.
 
