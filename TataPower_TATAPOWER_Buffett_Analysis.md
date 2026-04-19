@@ -4,6 +4,8 @@
 **CMP:** ₹402 | **Market Cap:** ₹1,28,501 Cr | **Stock P/E:** 34.0 | **Book Value:** ₹118 | **P/B:** 3.42
 **52-Week High/Low:** ₹417 / ₹332 | **Dividend Yield:** 0.57% | **Promoter Holding:** 46.86%
 
+> *Note on Book Value: The header BV of ₹118 (P/B 3.42x) reflects Screener's latest trailing figure (Sep 2025 quarter: equity ₹37,690 Cr / 320 Cr shares = ₹117.8). The FY25 annual BVPS is ₹112.2 (equity ₹35,841 Cr / 320 Cr shares), which produces P/B = 3.58x. Section 14's quantitative P/B return analysis uses the FY25 annual figure (₹112.2 / 3.58x) as the rigorous basis. Sections referencing P/B of ~3.4x use the header's trailing figure. Both are correct for their respective time periods.*
+
 > **SECTOR DETECTION: Non-Financial Business (STANDARD MODE ACTIVATED)**
 > Tata Power Company Ltd is a power utility — it generates, transmits, and distributes electricity. This is NOT a bank, NBFC, or financial institution. All analysis follows STANDARD MODE instructions.
 
@@ -53,19 +55,23 @@ Power generation and distribution is simple enough — electrons flow, meters ti
 | **Net Profit** | **457** | 786 | 1,100 | 2,611 | 2,606 | 1,316 | 1,439 | 2,156 | 3,810 | 4,280 | **4,775** | 5,008 |
 | NP Growth YoY | — | 72% | 40% | **137%** | -0.2% | -49.5% | 9.4% | 49.8% | 76.7% | 12.3% | 11.6% | — |
 | NPM % | 1.2% | 2.0% | **-0.5%** | 3.9% | 4.0% | 1.2% | 1.7% | 0.5% | 1.1% | 5.0% | **6.1%** | — |
+
+> *Note on NPM: The Net Profit Margin row above is sourced from Screener.in and uses **profit attributable to parent shareholders** (i.e., excluding minority interest), not consolidated Net Profit. Since Tata Power has many subsidiaries with significant minority interests (e.g., Tata Power Delhi Distribution, Odisha discoms), the gap between consolidated NP and attributable NP can be ₹300-800+ Cr in a given year. For example, in FY25, consolidated NP = ₹4,775 Cr but attributable NP ≈ ₹3,978 Cr (implied by EPS × shares). Similarly, EPS uses the attributable profit basis. Therefore, NPM and NP/Revenue will NOT reconcile when using consolidated NP in the numerator, and NP ÷ Shares will NOT equal EPS. This is a Screener data convention, not an error. All other sections using consolidated NP for ratios (e.g., ROE) will differ from EPS-based metrics.*
 | **EPS (Diluted, ₹)** | **0.62** | 2.45 | 3.31 | 8.90 | 8.71 | 3.76 | 3.53 | 5.45 | 10.44 | 11.57 | **12.43** | 11.88 |
 | EPS Growth YoY | — | 295% | 35% | **169%** | -2% | -57% | -6% | 54% | 92% | 11% | 7% | — |
-| Shares Outstanding (Cr) | 27.05 | 27.05 | 27.05 | 27.05 | 27.05 | 27.05 | 31.96 | 31.96 | 31.96 | 31.96 | 31.96 | 31.96 |
+| Shares Outstanding (Cr) | 270.5 | 270.5 | 270.5 | 270.5 | 270.5 | 270.5 | 319.6 | 319.6 | 319.6 | 319.6 | 319.6 | 319.6 |
 | Shares Change YoY | — | 0% | 0% | 0% | 0% | 0% | **+18.2%** | 0% | 0% | 0% | 0% | — |
 | Dividend Payout % | 210% | 53% | 39% | **15%** | 15% | 41% | 44% | 32% | 19% | 17% | 20% | — |
 
 ### Trend Narrative
 
+> *Note on EBITDA: The EBITDA and EBITDA Margin figures above are sourced from Trendlyne/Screener and may be computed on a slightly different revenue base (e.g., net sales vs. total revenue including other operating income). This produces a consistent ~0.4 pp gap versus EBITDA/Revenue computed from the stated figures. The directional trend is unaffected.*
+
 **Revenue:** After a prolonged decline from FY14-FY18 (reflecting legacy thermal issues, Mundra UMPP losses, and coal price challenges), revenue inflected upward from FY19. The FY21-FY23 period saw explosive growth (CAGR ~30%) driven by the consolidation of distribution businesses (Odisha discoms acquisition in FY21) and the commodity price pass-through surge. Growth has normalised to single digits in FY25 (6.6%) and TTM shows a slight decline (-1.3%), reflecting base effects and lower power purchase costs being passed through.
 
 **Margins:** The OPM story is encouraging. After bottoming at 7% in FY16 and again at 14% in FY23 (when high power purchase costs compressed margins), OPM has recovered to 19% in FY25 and 20% TTM. EBITDA margins have followed a similar trajectory, recovering to 23% from a trough of 16%. This reflects the growing share of higher-margin renewables and the operational efficiency improvements in distribution.
 
-**Earnings:** Net profit has compounded at a remarkable 37% over 10 years and 46% CAGR over 5 years — but this is from a very depressed base. FY15 net profit was just ₹457 Cr. The more relevant observation is that EPS growth has decelerated sharply from ~92% in FY23 to 11% in FY24 and just 7% in FY25. The easy gains from the turnaround are behind us. **Earnings growth is NOT outpacing revenue growth anymore** — both are converging toward single digits.
+**Earnings:** Net profit has compounded at a remarkable 37% over 10 years and 46% CAGR over 5 years per Screener.in's stated "Compounded Profit Growth" — but these figures should be treated with caution. Screener's methodology may use a different base/end period or profit definition; computing directly from the consolidated NP figures in the table above yields a 10Y CAGR of ~26% (FY15 ₹457 Cr → FY25 ₹4,775 Cr) and a 5Y CAGR of ~29% (FY20 ₹1,316 Cr → FY25 ₹4,775 Cr). Both are still impressive, but from a very depressed base. FY15 net profit was just ₹457 Cr. The more relevant observation is that EPS growth has decelerated sharply from ~92% in FY23 to 11% in FY24 and just 7% in FY25. The easy gains from the turnaround are behind us. **Earnings growth is NOT outpacing revenue growth anymore** — both are converging toward single digits.
 
 **Dilution:** The company issued new shares in FY21 (18.2% dilution through a rights issue to Tata Sons, which increased promoter holding from 33% to 46.86%). This was strategically valuable (strengthened balance sheet, aligned promoter interest) but did dilute per-share economics.
 
@@ -93,6 +99,8 @@ The earnings trajectory is impressive on a trailing basis, but forward growth is
 | **Debt/Equity** | **2.84** | **3.34** | **3.69** | **2.96** | **2.65** | **2.65** | 2.09 | 2.28 | 1.84 | 1.66 | **1.75** |
 | Interest Coverage | 1.4 | 1.4 | 1.4 | 1.7 | 1.7 | 1.4 | 1.5 | 1.7 | 2.2 | 2.5 | **2.6** |
 | Current Ratio | 0.71 | 0.64 | 0.56 | 0.55 | 0.74 | 0.86 | 0.84 | 0.80 | 0.87 | 0.88 | **0.81** |
+
+> *Note on Balance Sheet Data: (1) **Interest Coverage** figures are sourced from Screener/Trendlyne and appear to use varying formulas across years (some approximate (PBT+Interest)/Interest, others approximate OP/Interest). The directional trend (improving from ~1.4x to ~2.6x) is reliable, but individual years should not be compared at the decimal level. (2) **Total Liabilities + Shareholders' Equity** does not exactly equal Total Assets for FY18-FY21 (gap of ~₹1,500 Cr). This likely reflects a change in how minority interest is classified in Screener's presentation (pre- vs. post-FY22). From FY22 onward, the identity holds. Screener's own balance sheet balances on both sides; the gap arises from how this document's table splits the components.*
 
 ### Financial Fortress Assessment
 
@@ -190,7 +198,7 @@ Owner Earnings = Net Income + D&A - Maintenance CapEx
 | FY24 | 4,280 | 3,786 | ~4,200 | ~3,866 |
 | **FY25** | **4,775** | **4,117** | **~5,000** | **~3,892** |
 
-**Owner Earnings per Share:** ₹3,892 Cr / 31.96 Cr shares = **₹12.2 per share**
+**Owner Earnings per Share:** ₹3,892 Cr / 319.6 Cr shares = **₹12.2 per share**
 
 At CMP of ₹402, the stock trades at **33x Owner Earnings** — this is expensive by Buffett standards.
 
@@ -372,6 +380,8 @@ For every ₹1 of retained earnings, has the company created at least ₹1 of ma
 | FY20 → FY25 (5 Years) | ~₹14,800 Cr (est.) | ~₹1,04,000 Cr (from ~₹24,500 Cr to ~₹1,28,500 Cr) | **₹7.03** |
 
 **The $1 test is PASSED spectacularly** — both over 5 and 10 years. However, much of this is driven by the massive P/E re-rating (from <10x to 34x) rather than purely by retained earnings being deployed at high returns. If the P/E compresses back to 15-20x, the results look very different.
+
+> *Note: The "Total Retained Earnings" figures above use the change in shareholders' equity as a proxy, which includes approximately ₹2,500 Cr from the FY21 rights issue (fresh external capital from Tata Sons). Stripping out the rights issue proceeds, pure retained earnings are ~₹19,000 Cr (10Y) and ~₹12,700 Cr (5Y), which would make the $1 test ratios even higher (₹5.74 and ₹8.17 respectively). The conclusion — that the test is passed — is robust regardless of methodology.*
 
 ### Management Assessment
 
@@ -559,7 +569,7 @@ At 34x PE and 3.42x P/B, you are paying a PREMIUM price. This is not cheap on an
 
 | Scenario | Growth (Yr 1-5 / 6-10) | Intrinsic Value/Share | Margin of Safety at ₹402 | Upside/(Downside) |
 |---|---|---|---|---|
-| **Conservative** | 8% / 5% | **₹90** | **-77%** | **(71%) Downside** |
+| **Conservative** | 8% / 5% | **₹90** | **-77%** | **(78%) Downside** |
 | **Base** | 12% / 8% | **₹182** | **-55%** | **(55%) Downside** |
 | **Optimistic** | 18% / 12% | **₹371** | **-8%** | **(8%) Downside** |
 
@@ -597,62 +607,62 @@ At 34x PE and 3.42x P/B, you are paying a PREMIUM price. This is not cheap on an
 
 | Holding Period | 10% Return Target | 15% Return Target | 20% Return Target |
 |---|---|---|---|
-| 5 Years | 24.3% EPS CAGR | 30.4% | 36.7% |
-| 10 Years | 16.6% EPS CAGR | 19.7% | 22.9% |
-| 15 Years | 13.9% EPS CAGR | 16.0% | 18.2% |
+| 5 Years | 29.4% EPS CAGR needed | 35.3% | 41.2% |
+| 10 Years | 19.3% EPS CAGR needed | 24.7% | 30.2% |
+| 15 Years | 16.1% EPS CAGR needed | 21.4% | 26.7% |
 
 #### At Terminal PE = 20x (Market Average)
 
 | Holding Period | 10% Return Target | 15% Return Target | 20% Return Target |
 |---|---|---|---|
-| 5 Years | 17.6% EPS CAGR | 23.5% | 29.5% |
-| 10 Years | 13.1% EPS CAGR | 16.1% | 19.2% |
-| 15 Years | 11.6% EPS CAGR | 13.6% | 15.7% |
+| 5 Years | 22.2% EPS CAGR needed | 27.8% | 33.3% |
+| 10 Years | 15.9% EPS CAGR needed | 21.2% | 26.5% |
+| 15 Years | 13.9% EPS CAGR needed | 19.1% | 24.3% |
 
 #### At Terminal PE = 28x (Compounder Premium)
 
 | Holding Period | 10% Return Target | 15% Return Target | 20% Return Target |
 |---|---|---|---|
-| 5 Years | 11.5% EPS CAGR | 17.2% | 22.9% |
-| 10 Years | 9.9% EPS CAGR | 12.8% | 15.8% |
-| 15 Years | 9.4% EPS CAGR | 11.4% | 13.5% |
+| 5 Years | 14.2% EPS CAGR needed | 19.4% | 24.6% |
+| 10 Years | 12.1% EPS CAGR needed | 17.2% | 22.3% |
+| 15 Years | 11.4% EPS CAGR needed | 16.5% | 21.5% |
 
 #### At Terminal PE = 25x (Historical Average)
 
 | Holding Period | 10% Return Target | 15% Return Target | 20% Return Target |
 |---|---|---|---|
-| 5 Years | 13.7% EPS CAGR | 19.5% | 25.4% |
-| 10 Years | 11.1% EPS CAGR | 14.1% | 17.1% |
-| 15 Years | 10.2% EPS CAGR | 12.3% | 14.3% |
+| 5 Years | 16.9% EPS CAGR needed | 22.2% | 27.5% |
+| 10 Years | 13.4% EPS CAGR needed | 18.5% | 23.7% |
+| 15 Years | 12.2% EPS CAGR needed | 17.3% | 22.4% |
 
 ### Step 4: Reality Check
 
 | Benchmark | Value |
 |---|---|
 | India nominal GDP growth | 10-12% |
-| Company's 5Y EPS CAGR | 31.1% (from depressed base) |
-| Company's 3Y EPS CAGR | ~31% (from depressed base) |
+| Company's 5Y EPS CAGR | 27.0% (from depressed base; FY20 EPS ₹3.76 → FY25 EPS ₹12.43) |
+| Company's 3Y EPS CAGR | ~31.6% (from depressed base; FY22 EPS ₹5.45 → FY25 EPS ₹12.43) |
 | Normalised forward EPS growth (FY24-FY25) | 7.4% |
 | Industry average growth | 10-15% |
 
-**Critical Insight:** The 5-year historical EPS CAGR of 31% is misleading — it started from a deeply depressed base (FY20 EPS of ₹3.76). The most recent year (FY25) showed only 7.4% EPS growth. Forward growth is likely to be in the 10-15% range, reflecting the normalised growth trajectory of a large utility.
+**Critical Insight:** The 5-year historical EPS CAGR of 27% is misleading — it started from a deeply depressed base (FY20 EPS of ₹3.76). The most recent year (FY25) showed only 7.4% EPS growth. Forward growth is likely to be in the 10-15% range, reflecting the normalised growth trajectory of a large utility.
 
 ### Traffic Light Assessment
 
-| At Terminal PE 20x, 10-year horizon | Implied Growth: 13.1% | vs. Recent Growth: 7.4% | **1.8x historical → 🟠 ORANGE (Expensive)** |
+| At Terminal PE 20x, 10-year horizon | Implied Growth: 15.9% | vs. Recent Growth: 7.4% | **2.1x historical → 🔴 RED (Very Expensive)** |
 |---|---|---|---|
 
-| At Terminal PE 25x, 10-year horizon | Implied Growth: 11.1% | vs. Recent Growth: 7.4% | **1.5x historical → 🟡 YELLOW (Fair but Optimistic)** |
+| At Terminal PE 25x, 10-year horizon | Implied Growth: 13.4% | vs. Recent Growth: 7.4% | **1.8x historical → 🟠 ORANGE (Expensive)** |
 |---|---|---|---|
 
-| At Terminal PE 28x, 10-year horizon | Implied Growth: 9.9% | vs. Nominal GDP: 10-12% | **🟡 YELLOW (Requires steady performance)** |
+| At Terminal PE 28x, 10-year horizon | Implied Growth: 12.1% | vs. Nominal GDP: 10-12% | **🟡 YELLOW (Requires sustained above-GDP performance)** |
 |---|---|---|---|
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹402, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 13.1% CAGR. The company's most recent annual EPS growth was 7.4%. This implies **the market is pricing in growth acceleration** — the company needs to grow 1.8x faster than its recent pace just to deliver market-average returns. This is 🟠 ORANGE — expensive."
+> "At the current price of ₹402, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 15.9% CAGR. The company's most recent annual EPS growth was 7.4%. This implies **the market is pricing in aggressive growth acceleration** — the company needs to grow over 2x faster than its recent pace just to deliver market-average returns. This is 🔴 RED — very expensive."
 
-> Even in the most optimistic terminal PE scenario (28x, maintaining the current premium), the company needs ~10% EPS CAGR for a decade to deliver 10% returns. This is achievable if the renewable and EV thesis plays out, but leaves zero room for disappointment.
+> Even in the most optimistic terminal PE scenario (28x, maintaining the current premium), the company needs ~12% EPS CAGR for a decade to deliver 10% returns. This is above India's nominal GDP growth rate and requires the renewable and EV thesis to play out fully, leaving very little room for disappointment.
 
 ### Step 6: Asymmetric Upside Check — Is This a Fat Pitch?
 
@@ -673,7 +683,7 @@ At 34x PE and 3.42x P/B, you are paying a PREMIUM price. This is not cheap on an
 |---|---|---|---|
 | Base Case Intrinsic Value | DCF Base Case | ₹182 | **-55% (Downside!)** |
 | Optimistic DCF | Optimistic Case | ₹371 | **-8% (Downside!)** |
-| BV Compounding (5-yr) | BV ₹185 × 3.5x P/B | ₹648 | **+61%** |
+| BV Compounding (5-yr) | BV ₹184 × 3.5x P/B (optimistic ROE 13%) | ₹644 | **+60%** |
 | Re-rating + Earnings Growth | EPS ₹20 × 30x PE (5-yr) | ₹600 | **+49%** |
 
 **Part 3: Asymmetry Ratio**
@@ -732,7 +742,7 @@ Asymmetry Ratio = 50% / 35% = 1.4:1
 | FY24 | 5.04% | 0.44 | 4.30 | 9.5% | 11.4% |
 | **FY25** | **6.08%** | **0.42** | **4.36** | **11.1%** | **11.0%** |
 
-*Note: The gap between DuPont product and reported ROE in some years reflects minority interest, other comprehensive income, and consolidation adjustments.*
+*Note: The gap between the DuPont product and reported ROE — which is severe for FY17-FY23 (up to 10 percentage points) — arises because the Net Profit Margin input is on an attributable (parent-only) profit basis (as sourced from Screener), while the Reported ROE is computed on a consolidated net profit basis. As explained in the Section 2 footnote, Tata Power has significant minority interests in its subsidiaries, creating a large divergence between these two profit measures. The DuPont product converges to reported ROE only in years where minority interest is relatively small (e.g., FY25: DuPont = 11.1% vs ROE = 11.0%). For earlier years, the decomposition is directionally useful for trend analysis but the absolute levels of the DuPont product should not be relied upon.*
 
 **Component Analysis:**
 
@@ -762,60 +772,60 @@ Asymmetry Ratio = 50% / 35% = 1.4:1
 | CMP | ₹402 |
 | Current P/B | 3.58x |
 | Sustainable ROE | 11% (conservative) — 13% (optimistic) |
-| Retention Ratio | ~84% |
-| BV Compounding Rate (11% ROE) | 11% × 84% = **9.2%** |
-| BV Compounding Rate (13% ROE) | 13% × 84% = **10.9%** |
+| Retention Ratio | ~80% (FY25 payout ratio = 20%) |
+| BV Compounding Rate (11% ROE) | 11% × 80% = **8.8%** |
+| BV Compounding Rate (13% ROE) | 13% × 80% = **10.4%** |
 
 **Step 2: Project Book Value Per Share**
 
-| Year | BVPS (@ 9.2% CAGR) | BVPS (@ 10.9% CAGR) |
+| Year | BVPS (@ 8.8% CAGR) | BVPS (@ 10.4% CAGR) |
 |---|---|---|
 | Current | ₹112 | ₹112 |
-| Year 5 | ₹174 | ₹189 |
-| Year 7 | ₹208 | ₹233 |
-| Year 10 | ₹271 | ₹314 |
+| Year 5 | ₹171 | ₹184 |
+| Year 7 | ₹202 | ₹224 |
+| Year 10 | ₹261 | ₹302 |
 
 **Step 3: Expected Return CAGR Under Different Exit P/B Scenarios**
 
-#### At Current ROE = 11%, BV CAGR = 9.2%, Entry P/B = 3.58x
+#### At Current ROE = 11%, BV CAGR = 8.8%, Entry P/B = 3.58x
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 3.58x | Multiple sustains | 9.2% | 9.2% | 9.2% |
-| P/B compresses to 2.7x (0.75× current) | Mild de-rating | 3.4% | 5.2% | 6.5% |
-| P/B compresses to 1.8x (0.5× current) | Significant de-rating | **-3.7%** | 0.5% | 3.2% |
-| P/B to Fair Value (~1.5x at 11% ROE) | Reverts to theoretical value | **-8.2%** | -2.9% | 0.6% |
-| P/B compresses to Industry avg 2.44x | Sector average | 0.8% | 3.4% | 5.1% |
-| P/B to 1.0x Book | Worst case for quality company | **-16.0%** | -9.0% | **-3.4%** |
+| P/B stays at 3.58x | Multiple sustains | 8.8% | 8.8% | 8.8% |
+| P/B compresses to 2.69x (0.75× current) | Mild de-rating | 2.7% | 4.4% | 5.7% |
+| P/B compresses to 1.79x (0.5× current) | Significant de-rating | **-5.3%** | **-1.5%** | 1.5% |
+| P/B to Fair Value (~1.5x at 11% ROE) | Reverts to theoretical value | **-8.6%** | **-3.9%** | **-0.3%** |
+| P/B compresses to Industry avg 2.44x | Sector average | 0.8% | 3.0% | 4.7% |
+| P/B to 1.0x Book | Worst case for quality company | **-15.7%** | **-9.3%** | **-4.2%** |
 
-#### At Optimistic ROE = 13%, BV CAGR = 10.9%, Entry P/B = 3.58x
+#### At Optimistic ROE = 13%, BV CAGR = 10.4%, Entry P/B = 3.58x
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 3.58x | Multiple sustains | 10.9% | 10.9% | 10.9% |
-| P/B compresses to 2.7x | Mild de-rating | 5.0% | 6.9% | 8.2% |
-| P/B compresses to 2.0x | Moderate de-rating | -0.4% | 3.1% | 5.2% |
-| P/B to Fair Value (~2.0x at 13% ROE) | Reverts to theoretical value | -0.4% | 3.1% | 5.2% |
+| P/B stays at 3.58x | Multiple sustains | 10.4% | 10.4% | 10.4% |
+| P/B compresses to 2.7x | Mild de-rating | 4.3% | 6.0% | 7.3% |
+| P/B compresses to 2.0x | Moderate de-rating | -1.8% | 1.6% | 4.1% |
+| P/B to Fair Value (~2.0x at 13% ROE) | Reverts to theoretical value | -1.8% | 1.6% | 4.1% |
 
 **Step 4: The Key Insight**
 
-> "At the current entry P/B of 3.58x with a sustainable ROE of 11% and 84% retention, book value compounds at 9.2% annually. If the P/B multiple remains at 3.58x, the return equals the BV compounding rate of 9.2% — just below the 10% hurdle rate. Every 50% compression in P/B over 10 years creates roughly 7% annual drag on returns. **The stock can tolerate P/B compression from 3.58x down to approximately 3.1x before the 10-year return drops below the 10% hurdle rate.**"
+> "At the current entry P/B of 3.58x with a sustainable ROE of 11% and 80% retention, book value compounds at 8.8% annually. If the P/B multiple remains at 3.58x, the return equals the BV compounding rate of 8.8% — already BELOW the 10% hurdle rate. For the stock to deliver a 10% annual return over 10 years, the exit P/B would need to be **4.00x** — meaning the stock actually requires P/B EXPANSION, not just maintenance. **The stock cannot tolerate ANY P/B compression while delivering the hurdle rate.** Every 50% compression in P/B over 10 years creates roughly 7% annual drag on returns."
 
-This means: even a MODEST de-rating from 3.58x to below 3.1x destroys the investment case. There is almost ZERO cushion for multiple compression.
+This means: at current valuation, you are entirely dependent on the market sustaining or INCREASING the premium multiple on this business. There is zero cushion for sentiment shifts.
 
 **Step 5: Traffic Light Verdict**
 
 | Condition | Assessment | Signal |
 |---|---|---|
-| 10-year return > 10% even if P/B halves? | NO — return drops to 3.2% | 🔴 **RED** |
-| 10-year return > 10% only if P/B stays within 25%? | YES — at 2.7x P/B, return is ~6.5% | 🟡 YELLOW |
-| 10-year return < 10% unless P/B EXPANDS? | At 11% ROE, YES — need P/B to stay ≥3.1x | 🔴 **RED** |
+| 10-year return > 10% even if P/B halves? | NO — return drops to 1.5% | 🔴 **RED** |
+| 10-year return > 10% only if P/B stays within 25%? | NO — at 2.69x P/B (75% of current), return is ~5.7% | 🔴 **RED** |
+| 10-year return < 10% unless P/B EXPANDS? | YES — at 11% ROE, need P/B to EXPAND to ≥4.0x for 10% returns | 🔴 **RED** |
 
-**Overall Verdict: 🔴 RED — Dangerous entry point.** The stock requires the market to SUSTAIN a premium multiple (>3x book) for a company earning only 11% ROE. This is fragile. Any de-rating destroys returns.
+**Overall Verdict: 🔴 RED — Dangerous entry point.** The stock requires the market to SUSTAIN AND EXPAND a premium multiple (>3.6x book) for a company earning only 11% ROE. This is extremely fragile. At 8.8% BV compounding, even maintaining the current P/B only delivers 8.8% returns — below the hurdle rate. Any de-rating severely destroys returns.
 
 > *Munger: "Over the long term, it's hard for a stock to earn a much better return than the business earns."*
 
-The business earns 11% ROE. You are buying at 3.58x book. Unless ROE improves significantly (to 15%+), your returns will be dragged below the business returns by the premium P/B you paid.
+The business earns 11% ROE. You are buying at 3.58x book. Unless ROE improves significantly (to 15%+), your returns will be dragged well below the business returns by the premium P/B you paid. Even if the P/B sustains at 3.58x, you only earn 8.8% — below the 10% hurdle.
 
 ---
 
@@ -830,6 +840,8 @@ The business earns 11% ROE. You are buying at 3.58x book. Unless ROE improves si
 | **Fair Value / Hold** | 2.2x - 3.0x Book | 22x - 28x | **₹247 - ₹336** | Fairly priced; hold for BV compounding; limited upside |
 | **Fully Valued / Trim** | 3.0x - 3.8x Book | 28x - 35x | **₹336 - ₹426** | Above fair value; limited margin of safety; trim on strength |
 | **Overvalued / Sell** | > 3.8x Book | > 35x | **> ₹426** | Priced for perfection; sell |
+
+> *Note: The PE ranges in the table above are approximate and independently set based on typical utility valuation bands. They do not derive precisely from the P/B ranges via current EPS (₹12.43); at current EPS, the P/B-implied PE ranges would be ~4.5x lower at each boundary. The P/B ranges and price ranges are the primary anchors; PE ranges are directional guides.*
 
 **Current Price ₹402 falls in the "Fully Valued / Trim" zone** — P/B of 3.42x, PE of 34x. The stock is in the upper half of the "Trim" zone, close to "Overvalued."
 
@@ -865,12 +877,12 @@ For small capital bases specifically: With limited capital, concentration matter
 | **Management Quality** | Good — Dr. Sinha has executed well. Tata Group governance. Strong promoter at 46.86%. | ✅ PASS |
 | **Consistent Earnings** | Inconsistent historically (FY15-FY21 was volatile). FY22-FY25 shows improving consistency. Not yet proven through a full cycle. | ⚠️ MARGINAL PASS |
 | **High ROE** | 11% — mediocre. Below Buffett's 15%+ threshold for quality businesses. | ❌ FAIL |
-| **Low Debt** | D/E of 1.86 with ₹63,000 Cr in borrowings. Heavy leverage. | ❌ FAIL |
+| **Low Debt** | D/E of 1.75 with ₹63,000 Cr in borrowings. Heavy leverage. | ❌ FAIL |
 | **Resistance to Disruption** | Moderate — T&D is resistant; generation faces disruption from distributed solar; EV is itself a disruptor. Mixed. | ⚠️ MARGINAL PASS |
 | **Can sustain economics for 10+ years?** | Distribution: YES. Generation: uncertain (thermal may strand). Renewables: probably, but competitive. | ⚠️ MARGINAL PASS |
 | **Price significantly below intrinsic value?** | NO. At 34x PE and 3.42x P/B, there is ZERO margin of safety. | ❌ FAIL |
 
-**Score: 4 Clear Passes, 4 Marginal Passes, 3 Fails**
+**Score: 3 Clear Passes, 4 Marginal Passes, 3 Fails**
 
 ### Buffett's Honest Verdict
 
@@ -976,7 +988,7 @@ Revenue:     ₹65,000 Cr ✓
 Net Profit:  ₹4,775 Cr ✓
 EPS:         ₹12.4 ✓
 PE:          34x ← Expensive
-BV/Share:    ₹112
+BV/Share:    ₹118 (trailing)
 P/B:         3.4x ← For 11% ROE? Too much.
 Debt:        ₹63,000 Cr ← Heavy.
 Growth:      7% ← Doesn't justify 34x.
