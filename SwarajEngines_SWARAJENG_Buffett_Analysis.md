@@ -38,8 +38,8 @@ A 10-year-old could understand this business: a factory makes tractor engines an
 - **Single customer dependency** — Mahindra's Swaraj Division (both a strength and a risk)
 - **Zero debt** — The company has essentially no borrowings
 - **Asset-light** — Minimal fixed assets relative to revenue
-- **High return on capital** — ROCE consistently above 35%
-- **High dividend payout** — Historically 75-90% payout ratio
+- **High return on capital** — ROCE generally above 35% (range: 32–56%; only dipped to 32% in the FY2016 trough)
+- **High dividend payout** — Historically 65–91% payout ratio
 - **Negative working capital** — Gets paid faster than it pays suppliers (in most years)
 - **No pricing power concerns** — Transfer pricing within the Mahindra group, but the relationship has consistently delivered healthy margins
 
@@ -71,11 +71,11 @@ A 10-year-old could understand this business: a factory makes tractor engines an
 
 ### Trend Narrative
 
-**Revenue:** Swaraj Engines has grown revenue from ₹608 Cr in FY2014 to ₹1,682 Cr in FY2025 — a **10-year CAGR of ~10.8%**. The growth has been lumpy, closely tied to the agricultural/tractor cycle. FY2016 was the trough (₹526 Cr), while FY2025 is the peak at ₹1,682 Cr. The 5-year CAGR is a stronger 17%, reflecting the post-COVID recovery and strong tractor demand.
+**Revenue:** Swaraj Engines has grown revenue from ₹540 Cr in FY2015 to ₹1,682 Cr in FY2025 — a **10-year CAGR of ~12%** (per Screener; FY2014→FY2025 over 11 years works out to ~9.7%). The growth has been lumpy, closely tied to the agricultural/tractor cycle. FY2016 was the trough (₹526 Cr), while FY2025 is the peak at ₹1,682 Cr. The 5-year CAGR is a stronger 17%, reflecting the post-COVID recovery and strong tractor demand.
 
 **Margins:** Operating margins have been remarkably stable in a **13-16% band** over the entire period. There is no clear margin expansion trend — this is a captive supplier with stable, negotiated margins. EBITDA margins have actually compressed slightly from 16-18% in FY2014-FY2018 to 14-15% in FY2022-FY2025. This mild compression is a watch point but not alarming given the revenue growth.
 
-**Earnings Growth:** Net profit has grown from ₹67 Cr to ₹166 Cr (10-year CAGR ~9.5%). The 5-year CAGR is stronger at 19%. Earnings growth has broadly tracked revenue growth, confirming that this is a volume-driven business rather than a margin-expansion story.
+**Earnings Growth:** Net profit has grown from ₹52 Cr (FY2015) to ₹166 Cr (FY2025) — a 10-year CAGR of ~12.3%. The 5-year CAGR is stronger at 19%. Earnings growth has broadly tracked revenue growth, confirming that this is a volume-driven business rather than a margin-expansion story.
 
 **Zero Dilution:** Shares outstanding have remained flat at 1.215 Cr throughout the entire period. This is a massive positive — all per-share metrics have grown in lockstep with absolute profits. There has been ZERO dilution.
 
@@ -247,7 +247,7 @@ These returns on capital are **extraordinary by any standard**:
 
 > **Buffett: "The ideal business is one that earns very high returns on capital and that keeps using lots of capital at those high rates. That becomes a compounding machine."**
 
-Swaraj Engines earns spectacular returns on capital but doesn't need to reinvest much. It distributes 75-90% of earnings as dividends. The limited retained earnings are reinvested at these same spectacular returns (evidenced by the consistently high ROE), but the absolute quantum of reinvestment is small relative to what it earns.
+Swaraj Engines earns spectacular returns on capital but doesn't need to reinvest much. It distributes 65-91% of earnings as dividends. The limited retained earnings are reinvested at these same spectacular returns (evidenced by the consistently high ROE), but the absolute quantum of reinvestment is small relative to what it earns.
 
 This makes Swaraj Engines more like **See's Candies** than Coca-Cola — a business that generates phenomenal returns but has limited ability to deploy large amounts of capital at those returns. Buffett loved See's for the cash it threw off (which he could redeploy elsewhere), not for its ability to compound within the business.
 
@@ -389,10 +389,10 @@ For every ₹1 of retained earnings, has the company created at least ₹1 of ma
 - Market Cap (Mar 2015): ~₹890 Cr (estimated from Stock Price CAGR data)
 - Market Cap (Mar 2025): ~₹4,240 Cr (current)
 - Change in Market Value: ~₹3,350 Cr
-- Total Retained Earnings over FY2015-FY2025: Approximately ₹220 Cr (cumulative net profit minus cumulative dividends)
-- **Market Value Created per ₹1 Retained: ~₹15.2**
+- Total Retained Earnings over FY2015-FY2025: Approximately ₹210 Cr (shareholders' equity grew from ₹209 Cr to ₹419 Cr; cross-checked against cumulative net profit of ~₹1,045 Cr minus estimated dividends of ~₹842 Cr = ₹203 Cr — broadly consistent)
+- **Market Value Created per ₹1 Retained: ~₹16**
 
-This is a spectacular result. For every rupee of earnings retained in the business, the market has assigned over ₹15 of value. This partly reflects the PE expansion the stock has enjoyed, but it also validates that retained earnings are being deployed at extraordinarily high returns. The $1 test is passed with flying colours.
+This is a spectacular result. For every rupee of earnings retained in the business, the market has assigned over ₹16 of value. This partly reflects the PE expansion the stock has enjoyed, but it also validates that retained earnings are being deployed at extraordinarily high returns. The $1 test is passed with flying colours.
 
 ### Capital Allocation Assessment
 
@@ -471,7 +471,7 @@ The latest quarter shows strong volume growth of ~37%, though OPM has compressed
 
 4. **ROCE trend is UP:** From 32% (trough in FY2016) to 56% (peak in FY2025). The return on capital employed is improving even as the business scales — a positive sign.
 
-5. **Volume Context:** The Q3 FY2026 data shows 47,563 engines in one quarter, implying annualised volumes of ~180,000-190,000 engines. The Indian tractor market is approximately 900,000 units per year, so Swaraj is ~20% of the market on an engine basis (note: not all Swaraj tractor models may use Swaraj Engines).
+5. **Volume Context:** The Q3 FY2026 data shows 47,563 engines in one quarter, implying annualised volumes of ~180,000-190,000 engines. The Indian tractor market is approximately 900,000 units per year, while Swaraj tractors hold ~10-12% share (implying ~90,000-108,000 tractors). The ~190,000 engine volume is roughly double the implied tractor count, suggesting Swaraj Engines also supplies engines for some Mahindra-branded tractor models or exports components — extending its captive role beyond just the Swaraj tractor brand within the wider Mahindra Farm Division ecosystem.
 
 ---
 
@@ -677,58 +677,58 @@ At ₹3,490, Swaraj Engines is a wonderful company at a **full-to-slightly-expen
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 19.3% EPS CAGR | 24.8% | 30.4% |
-| 10 Years | 14.3% EPS CAGR | 17.5% | 20.7% |
-| 15 Years | 12.3% EPS CAGR | 14.5% | 16.8% |
+| 5 Years | 19.5% EPS CAGR | 24.9% | 30.3% |
+| 10 Years | 14.6% EPS CAGR | 19.8% | 25.1% |
+| 15 Years | 13.1% EPS CAGR | 18.2% | 23.3% |
 
 **At Terminal PE = 20x (Market Avg)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 13.2% EPS CAGR | 18.6% | 24.0% |
-| 10 Years | 11.3% EPS CAGR | 14.5% | 17.6% |
-| 15 Years | 10.4% EPS CAGR | 12.6% | 14.8% |
+| 5 Years | 12.8% EPS CAGR | 17.9% | 23.0% |
+| 10 Years | 11.4% EPS CAGR | 16.4% | 21.5% |
+| 15 Years | 10.9% EPS CAGR | 16.0% | 21.0% |
 
 **At Terminal PE = 25x (Compounder)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 8.3% EPS CAGR | 13.6% | 18.8% |
-| 10 Years | 9.2% EPS CAGR | 12.3% | 15.4% |
-| 15 Years | 9.2% EPS CAGR | 11.4% | 13.5% |
+| 5 Years | 7.9% EPS CAGR | 12.8% | 17.7% |
+| 10 Years | 8.9% EPS CAGR | 13.9% | 18.8% |
+| 15 Years | 9.3% EPS CAGR | 14.2% | 19.2% |
 
 **At Terminal PE = 22x (Historical Avg)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 10.6% EPS CAGR | 16.0% | 21.3% |
-| 10 Years | 10.2% EPS CAGR | 13.3% | 16.4% |
-| 15 Years | 9.8% EPS CAGR | 12.0% | 14.1% |
+| 5 Years | 10.7% EPS CAGR | 15.7% | 20.7% |
+| 10 Years | 10.3% EPS CAGR | 15.3% | 20.4% |
+| 15 Years | 10.2% EPS CAGR | 15.2% | 20.2% |
 
 ### Step 4: Reality Check — Is the Implied Growth Reasonable?
 
 | Benchmark | Value |
 |---|---|
 | India nominal GDP growth | 10-12% |
-| Company's 5Y EPS CAGR | **15.4%** (₹67.95 to ₹136.64) |
-| Company's 10Y EPS CAGR | **12.6%** (₹41.74 to ₹136.64) |
+| Company's 5Y EPS CAGR | **18.5%** (₹58.55 in FY2020 to ₹136.64 in FY2025) |
+| Company's 10Y EPS CAGR | **12.6%** (₹41.74 in FY2015 to ₹136.64 in FY2025) |
 | Industry/sector average growth | ~10-12% |
 
 **Traffic Light Assessment:**
 
 At the most probable scenario (Terminal PE = 22x, 10-year holding):
 
-- **10% return requires: 10.2% EPS CAGR** → Below historical 5Y CAGR of 15.4%. 🟢 **GREEN — Reasonable.**
-- **15% return requires: 13.3% EPS CAGR** → Below historical 5Y CAGR, roughly in line with 10Y CAGR. 🟢 **GREEN — Reasonable.**
-- **20% return requires: 16.4% EPS CAGR** → Slightly above historical 5Y CAGR of 15.4%. 🟡 **YELLOW — Optimistic but possible.**
+- **10% return requires: 10.3% EPS CAGR** → Below historical 5Y CAGR of 18.5% and roughly in line with 10Y CAGR of 12.6%. 🟢 **GREEN — Reasonable.**
+- **15% return requires: 15.3% EPS CAGR** → Below historical 5Y CAGR of 18.5%, but above 10Y CAGR of 12.6%. 🟡 **YELLOW — Achievable but requires the company to outperform its 10-year track record.**
+- **20% return requires: 20.4% EPS CAGR** → Above both 5Y and 10Y historical CAGRs. 🟠 **ORANGE — Optimistic; requires sustained above-trend growth.**
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹3,490, to earn a **10% annualised return over 10 years** assuming the market values the business at 22x PE at exit, the company needs to grow EPS at **10.2% CAGR**. The company has historically grown EPS at **12.6% CAGR** (10Y) and **15.4% CAGR** (5Y). This implies **the market is pricing in reasonable growth — growth that is BELOW what the company has actually delivered.** This is a 🟢 GREEN signal."
+> "At the current price of ₹3,490, to earn a **10% annualised return over 10 years** assuming the market values the business at 22x PE at exit, the company needs to grow EPS at **10.3% CAGR**. The company has historically grown EPS at **12.6% CAGR** (10Y) and **18.5% CAGR** (5Y). This implies **the market is pricing in reasonable growth — growth that is BELOW what the company has actually delivered.** This is a 🟢 GREEN signal."
 
-> "For a **15% return**, the required EPS CAGR of 13.3% is achievable. For a **20% return**, the required 16.4% CAGR is at the upper end of achievability and depends on a favourable tractor cycle."
+> "For a **15% return**, the required EPS CAGR of 15.3% is above the 10Y track record of 12.6% but below the 5Y CAGR of 18.5% — achievable if the current tractor upcycle continues, but not guaranteed. 🟡 YELLOW. For a **20% return**, the required 20.4% CAGR exceeds all historical benchmarks and is in 🟠 ORANGE territory."
 
-**Buffett's Napkin Test:** The math works on a napkin. You don't need a spreadsheet to see that a 22x PE for a business growing at 12-15% with zero debt, 3% dividend yield, and 42% ROE is not an outrageous price. It's not a screaming bargain either, but it's a reasonable price for a wonderful business.
+**Buffett's Napkin Test:** The math works on a napkin. You don't need a spreadsheet to see that a 22x PE for a business growing at 12-15% with zero debt, 3% dividend yield, and 42% ROE is not an outrageous price. It's not a screaming bargain either, but it's a reasonable price for a wonderful business. Note, however, that the corrected Reverse DCF shows the 15% return case requires ~15% EPS CAGR — above the 10-year track record — making higher-return targets somewhat aspirational rather than comfortably achievable.
 
 ### Step 6: Asymmetric Upside Check — Is This a Fat Pitch?
 
@@ -818,7 +818,7 @@ There is no meaningful pessimism around Swaraj Engines currently. The stock is a
 | FY2024 | 9.7% | 2.55 | 1.51 | 37.4% | ~39% |
 | FY2025 | 9.9% | 2.50 | 1.60 | 39.6% | **~42%** |
 
-*Asset Turnover = Revenue / Total Assets; Equity Multiplier = Total Assets / Shareholders' Equity*
+*Asset Turnover = Revenue / Total Assets; Equity Multiplier = Total Assets / Shareholders' Equity. Note: Most years use year-end assets for asset turnover; FY2021 appears to use average assets (yielding 2.42 vs year-end 2.15), likely reflecting the large balance sheet change during the COVID recovery year. This methodological inconsistency affects only FY2021 and does not alter the overall trend or quality conclusions.*
 
 **DuPont Analysis:**
 
@@ -852,9 +852,9 @@ Swaraj Engines is the anti-thesis of leverage-driven returns. The 42% ROE comes 
 
 | Input | Value |
 |---|---|
-| Current BVPS | ₹345 (FY2025: ₹407 Cr equity / 1.215 Cr shares ≈ ₹335; Sep 2025 data suggests ~₹323 per screener. Using screener's ₹323) |
+| Current BVPS | ₹323 (Screener headline figure, derived from Sep 2025 interim balance sheet: Equity ₹392 Cr / 1.215 Cr shares. *Note: The FY2025 audited annual BVPS is ₹345 = ₹419 Cr / 1.215 Cr shares, as shown in Section 3. The ₹323 figure is more recent and is used by Screener for current P/B display.*) |
 | Current Market Price (CMP) | ₹3,490 |
-| Current P/B Multiple | 10.8x |
+| Current P/B Multiple | 10.8x (using Screener's ₹323 BVPS; using FY2025 annual ₹345 gives P/B = 10.1x) |
 | Sustainable ROE | 35% (normalised, conservative) |
 | Retention Ratio | 20% (80% payout) |
 | BV Compounding Rate | 35% × 20% = 7% |
@@ -878,28 +878,28 @@ Swaraj Engines is the anti-thesis of leverage-driven returns. The 42% ROE comes 
 
 | Exit P/B Scenario | Rationale | 5Y CAGR | 7Y CAGR | 10Y CAGR |
 |---|---|---|---|---|
-| P/B stays at 10.8x | Multiple sustains | 5.4% | 5.7% | 6.1% |
-| P/B compresses to 8.1x (75% of current) | Mild de-rating | -0.2% | 1.6% | 3.3% |
-| P/B compresses to 5.4x (50% of current) | Significant de-rating | -7.5% | -3.3% | -0.7% |
-| P/B compresses to 7.0x (Fair P/B) | Reverts to theoretical fair value | -2.0% | 0.5% | 2.5% |
-| P/B compresses to 7.0x (historical median-ish) | Long-run reversion | -2.0% | 0.5% | 2.5% |
-| P/B compresses to 1.0x Book | Worst case | -33.7% | -23.2% | -15.7% |
+| P/B stays at 10.8x | Multiple sustains | 7.0% | 7.0% | 7.0% |
+| P/B compresses to 8.1x (75% of current) | Mild de-rating | 1.0% | 2.7% | 4.0% |
+| P/B compresses to 5.4x (50% of current) | Significant de-rating | -6.9% | -3.1% | -0.2% |
+| P/B compresses to 7.0x (Fair P/B) | Reverts to theoretical fair value | -1.9% | 0.6% | 2.5% |
+| P/B compresses to 7.0x (historical median-ish) | Long-run reversion | -1.9% | 0.6% | 2.5% |
+| P/B compresses to 1.0x Book | Worst case | -33.5% | -23.8% | -15.7% |
 
 *Adding ~3% dividend yield to the above gives total returns.*
 
 #### Step 4: Key Insight
 
-> "At the current entry P/B of **10.8x** with a sustainable ROE of 35% and 20% retention, book value compounds at **7% annually**. If the P/B multiple remains at 10.8x, the price appreciation return equals the BV compounding rate of 7%, plus ~3% dividend yield = **~10% total return**. Every 50% compression in P/B over 10 years creates roughly **7% annual drag** on returns. The stock can tolerate P/B compression from 10.8x down to approximately **6.0x** before the 10-year total return (including dividends) drops below the 10% hurdle rate."
+> "At the current entry P/B of **10.8x** with a sustainable ROE of 35% and 20% retention, book value compounds at **7% annually**. If the P/B multiple remains at 10.8x, the price appreciation return equals the BV compounding rate of **7%**, plus ~3% dividend yield = **~10% total return**. Every 50% compression in P/B over 10 years creates roughly **7% annual drag** on returns. The stock can tolerate P/B compression from 10.8x down to approximately **7x** before the 10-year total return (including dividends) drops below the 10% hurdle rate."
 
 #### Step 5: Traffic Light Verdict
 
 | Condition | Verdict |
 |---|---|
-| 10-year total return > 10% even if P/B halves (to 5.4x)? | 10Y price CAGR = -0.7% + 3% div = **~2.3% total return. NO — fails hurdle.** |
-| 10-year total return > 10% if P/B stays within 25% of current (≥8.1x)? | 10Y price CAGR = 3.3% + 3% div = **~6.3% total return. NO — fails hurdle.** |
-| 10-year total return > 10% only if P/B SUSTAINS at current? | 10Y price CAGR = 6.1% + 3% div = **~9.1% total return. BORDERLINE.** |
+| 10-year total return > 10% even if P/B halves (to 5.4x)? | 10Y price CAGR = -0.2% + 3% div = **~2.8% total return. NO — fails hurdle.** |
+| 10-year total return > 10% if P/B stays within 25% of current (≥8.1x)? | 10Y price CAGR = 4.0% + 3% div = **~7.0% total return. NO — fails hurdle.** |
+| 10-year total return > 10% only if P/B SUSTAINS at current? | 10Y price CAGR = 7.0% + 3% div = **~10.0% total return. BORDERLINE PASS — barely meets the hurdle rate, but ONLY if the premium P/B multiple fully sustains.** |
 
-**🟡 YELLOW — Risky Entry.** At 10.8x P/B, the entry price is so high that you NEED the P/B multiple to sustain near current levels just to earn a market-rate return. If P/B compresses even moderately (say to 7-8x, which is still a premium), your total 10-year return drops to 5-6% — below the hurdle rate.
+**🟡 YELLOW — Risky Entry.** At 10.8x P/B, the entry price is so high that you NEED the P/B multiple to sustain near current levels just to earn a market-rate return. If P/B compresses even moderately (say to 7-8x, which is still a premium), your total 10-year return drops to 5-6% — below the hurdle rate. The saving grace: if the P/B multiple stays at 10.8x, total return (7% price + 3% dividend) just barely clears the 10% bar.
 
 The critical insight: **The business is wonderful, but the PRICE is not giving you a margin of safety for multiple compression.** You are essentially betting that the market will continue to assign a 10x+ book value to this business for the next decade.
 
@@ -1086,4 +1086,3 @@ The math works on a napkin for existing holders. For new money at ₹3,490, the 
 ---
 
 **Disclaimer:** This analysis represents one framework for evaluating a business. The author is not a registered financial advisor. All investment decisions should be made after independent research and, where appropriate, consultation with a qualified financial professional.
-
