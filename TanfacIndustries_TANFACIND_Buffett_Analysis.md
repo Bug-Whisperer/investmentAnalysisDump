@@ -241,7 +241,7 @@ The business IS capital-intensive during expansion phases (FY25 CapEx/Revenue of
 
 **Current Penetration**: Tanfac's FY25 revenue of ₹557 Cr represents ~7-11% of the domestic market. With the new capacity additions and the Japanese contract, revenue visibility is strong.
 
-**S-Curve Position**: **Early Growth / Inflection Point**. The company has proven its model over decades, recently doubled capacity, secured a transformative long-term contract, and is now investing ₹495 Cr more in downstream capacity. This is analogous to Buffett's Coca-Cola investment in 1988 — the model is proven, the brand (in this case, the technical reputation and customer relationships) is established, and the scaling phase is just beginning.
+**S-Curve Position**: **Early Growth / Inflection Point**. The company has proven its model over decades, recently expanded capacity ~6x, secured a transformative long-term contract, and is now investing ₹495 Cr more in downstream capacity. This is analogous to Buffett's Coca-Cola investment in 1988 — the model is proven, the brand (in this case, the technical reputation and customer relationships) is established, and the scaling phase is just beginning.
 
 ### Part C: Scaling Verdict
 
@@ -312,7 +312,7 @@ This is an **outstanding** result. Management has created massive value from ret
 
 At ₹4,100, Tanfac trades at **43.5x TTM earnings and 12x book value**. These are optically expensive multiples. However:
 
-- The TTM PE of 43.5x on normalised earnings of ₹94/share is high but must be contextualised against 39% 5Y EPS CAGR and strong forward visibility (Japanese contract, new capacity).
+- The TTM PE of 43.5x on reported earnings of ₹94/share is high but must be contextualised against 39% 5Y EPS CAGR and strong forward visibility (Japanese contract, new capacity).
 - The P/Owner Earnings of 52x is similarly expensive — while the heavy growth CapEx that depresses reported FCF is building future earning power, the current price demands sustained high-growth execution to justify.
 - At 12x book, the market is pricing in sustained high ROE well above cost of equity — which the company HAS delivered consistently.
 
