@@ -52,13 +52,15 @@ EPC contracting is a business with structurally difficult economics: lumpy reven
 | EBITDA (Op. Profit + D&A) | 127 | 176 | 229 | 197 | 234 | 180 | 87 | -1 | -2 | 32 | 20 | 44 | 54 |
 | EBITDA Margin | 8.5% | 9.6% | **11.3%** | 8.7% | **11.4%** | 8.9% | 5.1% | **-0.1%** | **-0.2%** | 3.6% | 1.5% | 5.7% | 7.1% |
 
+> **Data Note:** All P&L figures above are sourced directly from Screener.in (consolidated). For FY15–FY17, the stated EPS (from Screener) does not reconcile with Net Profit ÷ Shares Outstanding — the gap is ~2x, suggesting Screener may be displaying standalone EPS alongside consolidated Net Profit for those early years, or using a different weighted-average share count. From FY18 onwards, the reconciliation is within ~1% (acceptable rounding). EPS figures for FY15–FY17 should be treated with caution for cross-referencing purposes.
+
 ### Trend Narrative
 
 The income statement tells a story of **extreme volatility and a nascent turnaround**:
 
 1. **Revenue collapse:** From a peak of ₹2,276 Cr (FY17) to a trough of ₹683 Cr (FY21) — a 70% decline. FY25 revenue of ₹771 Cr is still just 34% of the FY17 peak. The 5-year revenue CAGR is **-15%**. This is terrible.
 
-2. **Profitability:** The company was loss-making or barely breakeven for 7 of the last 12 years. FY21 saw a catastrophic ₹117 Cr loss. FY25 is the first meaningful profit year (₹48 Cr) in a very long time.
+2. **Profitability:** The company was loss-making or barely breakeven for 8–9 of the last 12 years (5 loss-making years plus 3–4 years of near-zero profit). FY21 saw a catastrophic ₹117 Cr loss. FY25 is the first meaningful profit year (₹48 Cr) in a very long time.
 
 3. **Margin expansion in FY25-FY26:** OPM has recovered from negative territory to 6-7% in FY25 and 10.8% in Q3 FY26. This is driven by focus on "higher-margin projects" under SPML 2.0 strategy targeting 10%+ margins on new orders.
 
@@ -90,12 +92,14 @@ The income statement tells a story of **extreme volatility and a nascent turnaro
 | Debt/Equity | **2.22x** | **3.25x** | **3.44x** | **3.98x** | **7.04x** | **6.45x** | **5.45x** | 1.19x | **0.48x** | **0.44x** |
 | Book Value/Share (₹) | 128 | 106 | 117 | 107 | 71 | 66 | 65 | 82 | **105** | **103** |
 
+> **Data Note:** Screener's Equity Capital row (in ₹ Cr) divided by the ₹2 face value implies a share count slightly higher than the Shares Outstanding shown in the income statement (e.g., FY25: ₹15 Cr ÷ ₹2 = 7.50 Cr shares vs. 7.2 Cr in the P&L). The gap (~0.3 Cr shares, ~4%) likely reflects warrants issued but not yet exercised, or partly-paid shares included in equity capital but not yet in the diluted share count. Screener's stated BVPS of ₹105 falls between ₹770 ÷ 7.2 = ₹107 and ₹770 ÷ 7.5 = ₹103, suggesting Screener uses its own share count convention. This document uses Screener's stated BVPS of ₹105 throughout for consistency.
+
 ### Key Observations
 
 **The Good — Dramatic Debt Reduction:**
 - Borrowings have collapsed from ₹1,844 Cr (FY21) to ₹369 Cr (FY25) to ₹351 Cr (Sep-25). This is the single most positive development.
 - Debt/Equity has improved from a terrifying **7.04x** (FY21) to a manageable **0.48x** (FY25).
-- The remaining ₹317 Cr debt reportedly carries **zero interest** and no immediate repayment pressure, backed by arbitration awards of ₹621 Cr already received and ₹4,417 Cr in pending claims.
+- The remaining ₹317 Cr debt (as referenced in management commentary; note that the balance sheet shows ₹369 Cr total borrowings in FY25 — the ₹317 Cr likely refers to a specific sub-component such as long-term borrowings or borrowings net of a particular offset) reportedly carries **zero interest** and no immediate repayment pressure, backed by arbitration awards of ₹621 Cr already received and ₹4,417 Cr in pending claims.
 
 **The Concerning — Asset Quality:**
 - "Other Assets" at ₹1,922 Cr represent **98% of total assets** (excluding fixed assets and investments). This is overwhelmingly trade receivables, retention money, and work-in-progress from government projects. Debtor days of 187 is alarmingly high.
@@ -128,7 +132,7 @@ Cash flows are **wildly erratic** — precisely what you would expect from a pro
 
 - FY24 saw a massive ₹594 Cr OCF — this was largely driven by debt restructuring/settlement and collection of old receivables, NOT by operating normalcy.
 - FY25 reverted to -₹84 Cr OCF as the company invested in new project execution (mobilisation advances, working capital for new orders).
-- There is NO consistent Free Cash Flow generation. In 12 years, FCF was positive in perhaps 5 years and negative in 7.
+- There is NO consistent Free Cash Flow generation. In 12 years, FCF was positive in 6 years and negative in 6.
 
 **FCF quality is poor.** The business is inherently cash-consumptive during growth phases and cash-generative only during contraction or collection phases. This is the antithesis of what Buffett seeks.
 
@@ -169,8 +173,11 @@ The REAL "maintenance cost" for an EPC business is **working capital** — the c
 
 ### Analysis
 
-- **10-Year Average ROE: ~3%** — This is abysmal by any standard. A savings account would have done better.
-- **5-Year Average ROE: ~2%** — Even worse.
+- **10-Year Average ROE: ~3%** (as per Screener.in) — This is abysmal by any standard. A savings account would have done better.
+- **5-Year Average ROE: ~2%** (as per Screener.in) — Even worse.
+
+> **Methodology Note:** Screener.in computes multi-year average ROE using cumulative net profit divided by cumulative average equity over the period, which gives a capital-weighted average. A simple arithmetic average of individual year ROEs yields approximately -1% over 10 years, dragged down heavily by FY21's catastrophic -36.3%. Screener's method effectively weights years with larger equity bases more heavily. Either way, the message is the same: returns have been deeply inadequate.
+
 - **FY25 ROE: 7.8%** — First decent year, but still below cost of equity (~12% for a small-cap infra company).
 - **ROCE peaked at 15% (FY16-18)** when the company was larger and more active, but has been in single digits since FY20.
 
@@ -332,16 +339,18 @@ Negligible — management compensation is not through stock options, which is po
 | Metric | Current (CMP ~₹190) | FY25 Basis | Historical Context |
 |---|---|---|---|
 | Market Cap | ₹1,468 Cr | — | — |
-| **PE Ratio** | **24.7x** (on FY25 EPS ₹6.70) | — | Historical PE has been N/M (losses) for most years |
-| Forward PE (on TTM EPS ₹8.13) | **23.4x** | — | — |
+| **PE Ratio** | **24.7x** (TTM basis, as per Screener; note: on FY25 EPS of ₹6.70, PE = ~28.4x) | — | Historical PE has been N/M (losses) for most years |
+| PE (CMP ÷ TTM EPS ₹8.13) | **23.4x** | — | Differs from Screener's 24.7x due to share count basis (see note below) |
 | **P/B Ratio** | **1.81x** (on BV ₹105) | — | Historical P/B ranged from 0.3x (FY21) to 4x (FY18) |
 | P/Sales (on TTM) | 1.92x | — | Historical 0.1-0.3x during stress years |
 | P/Owner Earnings | ~30x | on ₹48 Cr FY25 | — |
-| EV/EBITDA | ~33x | on ₹44 Cr FY25 EBITDA | Highly elevated |
+| EV/EBITDA | ~33x | TTM basis (on TTM EBITDA ~₹54 Cr; note: on FY25 EBITDA of ₹44 Cr, EV/EBITDA = ~39.5x) | Highly elevated |
 | Earnings Yield | 4.0% | — | Below risk-free rate |
 | FCF Yield | Negative | — | Negative FCF in FY25 |
 | Dividend Yield | **0.0%** | — | No dividends in 12+ years |
 | Book Value/Share | ₹105 | — | Was ₹128 in FY14, ₹65 in FY23 |
+
+> **PE Note:** The two PE figures differ because Screener's 24.7x uses Market Cap (₹1,468 Cr) ÷ TTM Net Profit (₹60 Cr), which implicitly uses the current total share count (~7.73 Cr at ₹190). The 23.4x uses CMP (₹190) ÷ TTM EPS (₹8.13), where Screener's EPS uses a weighted-average diluted share count (~7.38 Cr). Both are TTM-based; the gap is purely a share-count methodology difference. On FY25 reported EPS of ₹6.70, the PE is ~28.4x.
 
 ### Historical Comparison
 
@@ -519,7 +528,7 @@ At the optimistic end, the asymmetry is favourable (2.67:1). But this requires B
 
 ### Mispricing Assessment
 
-> "There is **no obvious mispricing** at ₹190. The stock has already re-rated from ₹7 (2020 lows) to ₹190 — a 27x return — on the turnaround narrative. Much of the good news (debt reduction, order book revival, BESS entry, Vijay Kedia investment) is already reflected in the price. At 1.81x book and 24x earnings, the stock is priced for continued execution excellence — not for uncertainty. The market is **NOT** mispricing this business; if anything, it is pricing in the most optimistic scenario."
+> "There is **no obvious mispricing** at ₹190. The stock has already re-rated from ₹7 (2020 lows) to ₹190 — a 27x return — on the turnaround narrative. Much of the good news (debt reduction, order book revival, BESS entry, Vijay Kedia investment) is already reflected in the price. At 1.81x book and ~25x TTM earnings, the stock is priced for continued execution excellence — not for uncertainty. The market is **NOT** mispricing this business; if anything, it is pricing in the most optimistic scenario."
 
 > *Buffett: "Be fearful when others are greedy, and greedy when others are fearful."* At ₹190, the market is not particularly fearful about SPML — the turnaround narrative is well-known and priced in.
 
@@ -542,6 +551,8 @@ At the optimistic end, the asymmetry is favourable (2.67:1). But this requires B
 - Net Profit Margin improvement (6.2%) — **Genuine improvement**
 - Low Asset Turnover (0.39x) — Revenue is still low relative to assets; assets are bloated with receivables
 - Moderate Equity Multiplier (2.55x) — De-leveraging has reduced this from 10x+ to 2.5x — **Healthy**
+
+> **Methodology Note:** The DuPont table above uses year-end total assets and year-end shareholders' equity for Asset Turnover and Equity Multiplier, while ROE is computed using average equity (as is standard). In years where equity changes significantly (e.g., FY25, where equity nearly doubled from ₹461 Cr to ₹770 Cr due to preferential allotments), the three-factor DuPont product will NOT exactly equal the stated ROE. Using average equity for FY25, the Equity Multiplier becomes ~3.20 and the DuPont product reconciles to ~7.8%. The decomposition is therefore directionally accurate and illustrative, but approximate in years with large equity movements.
 
 The ROE improvement is **genuinely driven by margin improvement and de-leveraging**, not by financial engineering. However, 7.8% ROE is still BELOW cost of equity.
 
@@ -573,15 +584,15 @@ The ROE improvement is **genuinely driven by margin improvement and de-leveragin
 |---|---|---|---|---|
 | 1.81x (stays) | Optimistic | 10-12% | 10-12% | 10-12% |
 | 1.5x | Mild de-rating | 5-7% | 7-9% | 8-10% |
-| 1.0x (book value) | Significant de-rating | **-2% to 1%** | **2-4%** | **4-6%** |
-| 0.7x | Stress | **-9% to -6%** | **-3% to 0%** | **0-3%** |
+| 1.0x (book value) | Significant de-rating | **-2% to -1%** | **1-3%** | **4-6%** |
+| 0.7x | Stress | **-9% to -7%** | **-4% to -2%** | **0-2%** |
 
 ### Traffic Light Verdict
 
 | Condition | Verdict |
 |---|---|
-| 10-year return > 10% even if P/B halves from 1.81x to 0.9x | ❌ NO — returns would be ~4-5% |
-| 10-year return > 10% only if P/B stays within 25% of current | ✅ YES — needs P/B ≥ 1.35x |
+| 10-year return > 10% even if P/B halves from 1.81x to 0.9x | ❌ NO — returns would be ~2.6–4.4% |
+| 10-year return > 10% only if P/B stays near current | ✅ YES — needs P/B ≥ ~1.51x (at 12% ROE) to ~1.81x (at 10% ROE) for a 10% 10-year return |
 | **Verdict** | 🟡 YELLOW — Risky entry; dependent on sentiment sustaining |
 
 > *Munger: "Over the long term, it's hard for a stock to earn a much better return than the business earns."* With sustainable ROE of 10-12%, the maximum long-term CAGR from this stock is ~10-12% even if P/B sustains. At 1.81x P/B, you face additional headwind from potential multiple compression.
@@ -624,10 +635,10 @@ The ROE improvement is **genuinely driven by margin improvement and de-leveragin
 | Enduring Moat | No — commoditised L1 bidding, no pricing power | ❌ FAIL |
 | Management Trustworthy & Rational? | Mixed — good debt reduction, but promoter pledge (25%), dilution, unproven BESS pivot | ⚠️ BORDERLINE |
 | Resistant to Disruption? | Moderate — physical infra is hard to disrupt, but BESS is new and competitive | ⚠️ BORDERLINE |
-| Sustainable Economics for 10+ Years? | Unproven — 10-year track record is terrible (avg ROE ~3%) | ❌ FAIL |
-| Price Significantly Below Intrinsic Value? | No — at 1.81x P/B and 24x PE for a 7.8% ROE business | ❌ FAIL |
+| Sustainable Economics for 10+ Years? | Unproven — 10-year track record is terrible (avg ROE ~3% per Screener; simple average of individual years is approximately -1%) | ❌ FAIL |
+| Price Significantly Below Intrinsic Value? | No — at 1.81x P/B and ~25x TTM PE for a 7.8% ROE business | ❌ FAIL |
 
-**Verdict: 2 PASS, 2 BORDERLINE, 3 FAIL — Buffett would NOT buy this stock.**
+**Verdict: 1 PASS, 2 BORDERLINE, 3 FAIL (out of 6 criteria) — Buffett would NOT buy this stock.**
 
 > *Buffett: "I don't look to jump over seven-foot bars; I look around for one-foot bars that I can step over."* SPML Infra is a seven-foot bar — a turnaround with uncertain execution, thin margins, erratic cash flows, and a management team with a mixed track record. Buffett would pass and look for simpler, more predictable businesses.
 
@@ -681,10 +692,10 @@ SPML Infra is indeed a turnaround story. Scoring the key factors:
 | Financial Health | **6** | Dramatically improved via de-leveraging; but WC/receivables risk remains |
 | Management Quality | **5** | Good debt management; but promoter pledge, dilution, unproven BESS pivot |
 | Scalability | **4** | EPC businesses don't scale elegantly; linear cost structure |
-| Valuation | **4** | At 1.81x P/B and 24x PE for a 7.8% ROE business, priced for turnaround success |
+| Valuation | **4** | At 1.81x P/B and ~25x TTM PE for a 7.8% ROE business, priced for turnaround success |
 | Margin of Safety | **3** | Negligible to negative MoS at current price; downside exceeds upside at base case |
 | Turnaround Probability | **6** | Debt done, order book strong, but execution and BESS are key unknowns |
-| **Buffett Verdict** | — | **This is NOT a Buffett stock.** It is a speculative turnaround play in a commodity EPC business with no durable moat. The debt reduction is impressive and the order book revival is encouraging. The DCF Base Case (₹222/share) suggests the stock is **roughly fair-valued to slightly undervalued** at ₹190, but the Conservative case (₹107) shows significant overvaluation risk if the turnaround stalls. Buffett would say: "The business economics are mediocre — thin margins, erratic cash flows, no moat. At ₹190 (1.81x BV, 24x PE), you're paying for a successful turnaround that hasn't been proven over a full cycle. At ₹70-90 (0.7-0.85x BV), this would be a compelling deep-value bet. Here, I'd need a wider margin of safety." He would **PASS** at this price unless he had strong conviction in the BESS pivot and order book execution. |
+| **Buffett Verdict** | — | **This is NOT a Buffett stock.** It is a speculative turnaround play in a commodity EPC business with no durable moat. The debt reduction is impressive and the order book revival is encouraging. The DCF Base Case (₹222/share) suggests the stock is **roughly fair-valued to slightly undervalued** at ₹190, but the Conservative case (₹107) shows significant overvaluation risk if the turnaround stalls. Buffett would say: "The business economics are mediocre — thin margins, erratic cash flows, no moat. At ₹190 (1.81x BV, ~25x TTM PE), you're paying for a successful turnaround that hasn't been proven over a full cycle. At ₹70-90 (0.7-0.85x BV), this would be a compelling deep-value bet. Here, I'd need a wider margin of safety." He would **PASS** at this price unless he had strong conviction in the BESS pivot and order book execution. |
 | Buy Zone | — | **Currently in "Fully Valued / Trim" zone at 1.81x BV.** DCF Base Case IV is ~₹222. Fair value zone is ₹105-₹158. |
 | **Overall Recommendation** | — | **HOLD IF OWNED (with trailing stop at ₹140-150). WATCHLIST for new entry at ₹105-140 for better margin of safety. Not a Buffett-quality business at any price, but the turnaround has genuine merit — the price needs to better reflect the execution risk.** |
 
@@ -700,7 +711,7 @@ A 10-year-old would understand the business. But then they'd ask: "But will the 
 
 **Does the math make sense without Excel?**
 
-At ₹190 and ₹8 EPS, you're paying 24x earnings for a company that has averaged ~₹3 EPS over the last decade and has a 7.8% ROE. The book value is ₹105.
+At ₹190 and ₹8 TTM EPS, you're paying ~24x TTM earnings for a company whose simple-average EPS over the last decade is actually **negative** (-₹0.41, dragged down by FY21's catastrophic -₹32 EPS). Even excluding that extreme year, the 9-year average is only ~₹3. The ROE is 7.8% and book value is ₹105.
 
 Quick napkin: If BV compounds at 10% for 10 years, BV reaches ~₹272. At 1.0x book, stock = ₹272. That's a 3.6% annual return. At 1.5x book, stock = ₹408. That's a 7.9% annual return.
 
