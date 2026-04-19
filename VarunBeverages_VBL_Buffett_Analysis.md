@@ -63,9 +63,11 @@ Would Buffett understand this business? **Absolutely.** He owns Coca-Cola — VB
 
 4. **The deceleration in FY2025** (revenue growth 8.4%, profit growth 16.2%) is worth watching. After years of 25-50% growth, single-digit revenue growth could signal either a temporary blip (weather, inventory correction) or early signs of India maturation. The market is clearly punishing this — the stock is down 14% in the last year.
 
-5. **EPS has compounded at ~50% CAGR over 5 years.** Earnings growth has significantly outpaced revenue growth — this is the operating leverage of a business where fixed costs (plants, distribution) are being amortised over a much larger revenue base. Exactly what Buffett looks for.
+5. **EPS has compounded at ~55% CAGR over 5 years** (₹1.01 in Dec 2020 to ₹8.98 in Dec 2025). Earnings growth has significantly outpaced revenue growth — this is the operating leverage of a business where fixed costs (plants, distribution) are being amortised over a much larger revenue base. Exactly what Buffett looks for.
 
 > **Buffett:** *"The single most important decision in evaluating a business is pricing power. If you've got the power to raise prices without losing business to a competitor, you've got a very good business."* VBL benefits from PepsiCo's pricing power on branded beverages — consumers pay for the brand, not the liquid.
+
+> **Data Note:** This analysis was prepared on 12 March 2026 using Screener.in data available at that date. Screener has since made minor updates to certain Dec 2025 figures: Operating Profit is now shown as ₹5,070 Cr (vs. ₹5,043 Cr used here), Interest as ₹196 Cr (vs. ₹170 Cr), and Dividend Payout as 17% (vs. 6% at the time of analysis — the final annual payout was updated after the annual report filing). These differences are immaterial to the directional conclusions. The P&L also omits "Other Income" (₹352 Cr in Dec 2025 per Screener) as a separate line, which bridges the gap between EBITDA − Depreciation − Interest and PBT.
 
 ---
 
@@ -91,7 +93,7 @@ Would Buffett understand this business? **Absolutely.** He owns Coca-Cola — VB
 
 **The balance sheet transformation from 2018 to 2025 is remarkable:**
 
-1. **Debt/Equity collapsed from 1.40x to 0.13x** — a dramatic deleveraging. In Dec 2024, VBL raised significant equity capital (equity capital went from ₹650 Cr to ₹676 Cr and reserves jumped from ₹6,287 Cr to ₹15,934 Cr — suggesting a ~₹9,600 Cr equity raise, likely a QIP or rights issue). This transformed the balance sheet overnight.
+1. **Debt/Equity collapsed from 1.40x to 0.13x** — a dramatic deleveraging. In Dec 2024, VBL raised significant equity capital (equity capital went from ₹650 Cr to ₹676 Cr and reserves jumped from ₹6,287 Cr to ₹15,934 Cr). The reserves increase of ₹9,647 Cr includes both the equity raise and retained earnings for the year (Net Profit ₹2,634 Cr minus dividends ~₹340 Cr = ~₹2,290 Cr retained). The actual fresh equity raise was therefore approximately **~₹7,380 Cr** (likely a QIP), which transformed the balance sheet overnight.
 
 2. **Debt/EBITDA at 0.5x is fortress-level.** Borrowings of ₹2,508 Cr against EBITDA of ₹5,043 Cr means VBL could pay off all debt in six months from operating profits alone. This is well within Buffett's comfort zone.
 
@@ -102,6 +104,8 @@ Would Buffett understand this business? **Absolutely.** He owns Coca-Cola — VB
 5. **Fixed assets have grown from ₹4,739 Cr to ₹17,029 Cr** — the company has been investing heavily in manufacturing capacity (new plants across India and Africa). This is growth capex.
 
 > **Buffett:** *"We like to own businesses that can employ their capital at high rates of return. We also like to own businesses that have minimal capital requirements."* VBL requires significant capital (bottling plants are expensive), but the returns on that capital have been attractive. The balance sheet is now a clear fortress — Buffett would approve.
+
+> **Data Notes:** (1) The "Fixed Assets + CWIP" and "Other Assets" rows do not include a separate "Investments" line (₹174 Cr in Dec 2025 per Screener), which explains the minor gap when these two rows are summed against Total Assets. (2) Total Assets for Dec 2025 on Screener has since been updated to ₹25,541 Cr (vs. ₹25,565 Cr at the time of analysis). (3) Market Cap of ₹1,39,069 Cr is sourced from Screener and uses ~338 Cr shares (Equity Capital / Face Value), while diluted EPS uses ~341 Cr shares — this is a Screener convention. BVPS of ₹57.9 is also computed on the 338 Cr share base.
 
 ---
 ## 4. CASH FLOW ANALYSIS — The Lifeblood of Valuation
@@ -116,7 +120,9 @@ Would Buffett understand this business? **Absolutely.** He owns Coca-Cola — VB
 | FCF Margin | -5.5% | -2.5% | 0.9% | **-15.7%** | 6.1% | 1.7% | 0.1% | -4.5% | **-4.3%** |
 | Cash from Financing | 230 | 159 | -84 | 1,107 | -574 | -178 | -18 | 985 | **2,954** |
 | Net Cash Flow | 8 | 32 | -22 | -1,012+1,107=95 | -33 | 46 | 4 | 88 | **2,024** |
-| CFO/Net Income Conversion | 386% | 207% | 212% | 366% | 136% | 79% | 85% | 91% | **110%** |
+| CFO/Net Income Conversion | 386% | 207% | 212% | 366% | 136% | 79% | 85% | 91% | **110%**† |
+
+> †**Note on Dec 2025 column:** The CFO/NI conversion of 110% for the "Dec 2025" column compares Dec 2024 CFO (₹3,381 Cr) to Dec 2025 Net Income (₹3,062 Cr) due to the cash flow data timing issue described in the Data Note below. On a like-for-like basis, Dec 2024 CFO/NI would be 128% (₹3,381/₹2,634). Similarly, FCF Margin of −4.3% uses Dec 2024 FCF against Dec 2025 revenue.
 
 ### Cash Flow Narrative
 
@@ -124,11 +130,13 @@ Would Buffett understand this business? **Absolutely.** He owns Coca-Cola — VB
 
 1. **FCF is negative in most years.** This is NOT because the business is bad — it's because VBL is in hyper-expansion mode. The company is building new bottling plants in India and Africa, acquiring territories, and investing in distribution infrastructure. This is GROWTH capex, not maintenance capex.
 
-2. **Operating cash flow is strong and growing.** CFO grew from ₹620 Cr (2018) to ₹3,381 Cr (2025) — a 5.5x increase. The underlying cash generation of the business is robust. CFO/Net Income conversion averaged ~100-110% in recent years, indicating high-quality earnings.
+2. **Operating cash flow is strong and growing.** CFO grew from ₹620 Cr (2018) to ₹3,381 Cr (2025) — a 5.5x increase. The underlying cash generation of the business is robust. CFO/Net Income conversion improved to ~110% in the most recent year, up from 85-91% in prior years, indicating strengthening earnings quality.
 
 3. **Capital expenditure has surged:** ₹4,311 Cr invested in Dec 2025 — nearly 20% of revenue. This reflects massive capacity expansion. VBL acquired additional territories (South Africa operations in 2024), built new plants, and is preparing for the next leg of growth.
 
-4. **The Dec 2025 financing cash flow of ₹2,954 Cr** confirms the large equity raise that transformed the balance sheet. This inflow funded the massive capex programme.
+4. **The Dec 2024 financing cash flow of ₹2,954 Cr** (shown in the table as the last available period) reflects the large equity raise that transformed the balance sheet. This inflow funded the massive capex programme.
+
+> **Data Note:** The cash flow figures in the table above correspond to the data available on Screener.in at the time of analysis (12 March 2026). The column labelled "Dec 2025" in this table actually represents the Dec 2024 annual cash flow data — Screener had not yet loaded the Dec 2025 cash flow statement at the time of analysis. The Dec 2025 annual P&L and Balance Sheet data were available and are used correctly throughout this analysis. Screener has since updated and now shows Dec 2025 cash flows separately: CFO ₹3,509 Cr, CFI −₹2,725 Cr, CFF −₹1,266 Cr.
 
 5. **Dividends are modest.** Payout fell from 15-16% to just 6% in Dec 2025 — the company is retaining cash for reinvestment. Given the returns on capital, this is the right decision.
 
@@ -199,9 +207,11 @@ Would Buffett understand this business? **Absolutely.** He owns Coca-Cola — VB
 
 4. **ROIC at 15.5% is solid** and well above WACC (~10%). Each rupee of incremental capital deployed is creating 5-6 paise of excess value.
 
-5. **The 5-year average ROE is 22.7%** — this is the relevant figure for long-term compounding potential. Even at the normalised 17% current level, VBL is generating attractive returns.
+5. **The 5-year average ROE is ~22.3%** — this is the relevant figure for long-term compounding potential. Even at the normalised 17% current level, VBL is generating attractive returns.
 
-> **Buffett:** *"Leave aside the question of the price at which the business is available. What's the return on equity? The really great business gets a very high return on equity."* VBL's 5-year ROE of 22.7% qualifies it as a high-quality business. The current normalised 17% is "good" but not "great" — the equity raise diluted returns on equity. The question is whether ROE climbs back above 20% as the new capital gets deployed and earns returns.
+> **Methodology Note:** The Dec 2025 ROE of 16.8% in this table uses average equity ((₹16,610 + ₹19,578)/2 = ₹18,094 Cr) as the denominator, which is the standard DuPont convention. On a year-end equity basis, Dec 2025 ROE is 15.6% (₹3,062/₹19,578). Screener.in reports ROE as 16.2%, reflecting its own computation methodology. The prior years (Dec 2018-2024) use year-end equity as reported by Screener. The large equity raise in Dec 2024 makes the choice of average vs. year-end equity particularly impactful for the Dec 2025 figure — both are valid but readers should note this distinction.
+
+> **Buffett:** *"Leave aside the question of the price at which the business is available. What's the return on equity? The really great business gets a very high return on equity."* VBL's 5-year ROE of ~22% qualifies it as a high-quality business. The current normalised 17% is "good" but not "great" — the equity raise diluted returns on equity. The question is whether ROE climbs back above 20% as the new capital gets deployed and earns returns.
 
 ---
 ## 7. COMPETITIVE POSITION & MOAT ANALYSIS
@@ -349,14 +359,14 @@ For every ₹1 of retained earnings, has VBL created at least ₹1 of market val
 - Total Net Income earned (Dec 2019 to Dec 2025): ₹472 + ₹357 + ₹746 + ₹1,550 + ₹2,102 + ₹2,634 + ₹3,062 = **₹10,923 Cr**
 - Estimated total dividends paid (~15% average payout): ~₹1,600 Cr
 - Retained Earnings: ~₹9,300 Cr
-- Equity raised (QIP/rights in 2024): ~₹9,600 Cr
-- Total capital added: ~₹18,900 Cr
+- Equity raised (QIP in 2024, net of retained earnings): ~₹7,400 Cr
+- Total capital added: ~₹16,700 Cr
 - Market Cap in Dec 2018 (approximate): Stock price ~₹40 adjusted × 316 Cr shares = ~₹12,600 Cr (pre-split adjusted)
 - Current Market Cap: ₹1,39,069 Cr
 - Market Cap Change: ~₹1,26,500 Cr
-- **Market value created per ₹1 invested: ₹1,26,500 / ₹18,900 ≈ ₹6.7 per ₹1 invested**
+- **Market value created per ₹1 invested: ₹1,26,500 / ₹16,700 ≈ ₹7.6 per ₹1 invested**
 
-This is an extraordinary result. For every rupee of capital (retained + raised), VBL has created ₹6.7 of market value. **The $1 test is passed emphatically.**
+This is an extraordinary result. For every rupee of capital (retained + raised), VBL has created ₹7.6 of market value. **The $1 test is passed emphatically.**
 
 However, caveat: Much of this market cap increase reflects the market re-rating the stock from ~10-15x PE to 45x PE. The re-rating may not repeat. If we strip out multiple expansion and look at only earnings growth, the result is still excellent (EPS grew from ₹0.95 to ₹8.98 — 9.5x in 7 years).
 
@@ -433,10 +443,10 @@ However, caveat: Much of this market cap increase reflects the market re-rating 
 | **Earnings Yield** | **2.18%** | (1/PE) |
 | **FCF Yield** | **Negative** | (FCF is negative due to growth capex) |
 | **Dividend Yield** | **0.24%** | |
-| **PEG Ratio** | **1.80** | (PE 45.8 / 5Y EPS CAGR ~25%) |
+| **PEG Ratio** | **1.83** | (PE 45.8 / 5Y EPS CAGR ~25%) |
 | **P/Sales** | **6.41x** | |
 | **Book Value/Share** | **₹57.9** | Growing at ~15-17% annually |
-| **Book Value Growth (5Y CAGR)** | ~30%+ (boosted by equity raise) | Organic BV growth ~17-20% |
+| **Book Value Growth (5Y CAGR)** | ~42% (significantly boosted by ~₹7,400 Cr equity raise in 2024) | Organic BV growth ~17-20% |
 
 ### Historical Valuation Context
 
@@ -571,40 +581,40 @@ The stock is **NOT cheap on any absolute metric**. The only case for reasonable 
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 26.0% | 31.9% | 38.0% |
-| 10 Years | 16.5% | 19.3% | 22.2% |
-| 15 Years | 13.1% | 15.4% | 17.7% |
+| 5 Years | 29.8% | 35.7% | 41.6% |
+| 10 Years | 19.5% | 24.9% | 30.4% |
+| 15 Years | 16.2% | 21.5% | 26.8% |
 
 **At Terminal PE = 25x (Market Avg)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 20.5% | 26.2% | 32.2% |
-| 10 Years | 14.6% | 17.4% | 20.3% |
-| 15 Years | 12.0% | 14.2% | 16.5% |
+| 5 Years | 24.1% | 29.8% | 35.4% |
+| 10 Years | 16.9% | 22.2% | 27.5% |
+| 15 Years | 14.5% | 19.7% | 24.9% |
 
 **At Terminal PE = 35x (Compounder)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 14.1% | 19.5% | 25.3% |
-| 10 Years | 12.1% | 14.8% | 17.6% |
-| 15 Years | 10.5% | 12.7% | 14.9% |
+| 5 Years | 16.1% | 21.3% | 26.6% |
+| 10 Years | 13.0% | 18.1% | 23.3% |
+| 15 Years | 12.0% | 17.1% | 22.2% |
 
 **At Terminal PE = 55x (Historical Avg)**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 5.8% | 11.0% | 16.6% |
-| 10 Years | 8.9% | 11.5% | 14.3% |
-| 15 Years | 8.5% | 10.5% | 12.6% |
+| 5 Years | 6.0% | 10.9% | 15.7% |
+| 10 Years | 8.0% | 12.9% | 17.8% |
+| 15 Years | 8.7% | 13.6% | 18.5% |
 
 ### Step 4: Reality Check
 
 | Benchmark | EPS CAGR |
 |---|---|
 | India nominal GDP growth | 10-12% |
-| VBL 5Y Historical EPS CAGR | ~50% (extraordinary, driven by base effect + operating leverage) |
+| VBL 5Y Historical EPS CAGR | ~55% (extraordinary, driven by base effect + operating leverage) |
 | VBL 3Y Historical EPS CAGR | ~25% |
 | VBL TTM EPS Growth | ~17% |
 | Industry consensus forward estimates | 18-22% for next 2-3 years |
@@ -613,16 +623,16 @@ The stock is **NOT cheap on any absolute metric**. The only case for reasonable 
 
 At the current price of ₹411:
 
-- To earn a **10% return over 10 years** with a **25x terminal PE** → need **14.6% EPS CAGR** → This is achievable (below historical 3Y CAGR of 25%) → 🟢 **GREEN**
-- To earn a **15% return over 10 years** with a **25x terminal PE** → need **17.4% EPS CAGR** → This is possible but requires sustained above-average execution → 🟡 **YELLOW**
-- To earn a **15% return over 10 years** with a **20x terminal PE** → need **19.3% EPS CAGR** → This requires the business to grow faster than its recent trajectory → 🟠 **ORANGE**
-- To earn a **20% return over 10 years** with any reasonable PE → need **20%+ EPS CAGR** → This is aggressive given the decelerating growth profile → 🟠 **ORANGE**
+- To earn a **10% return over 10 years** with a **25x terminal PE** → need **16.9% EPS CAGR** → This is achievable (below historical 3Y CAGR of 25%) but requires sustained above-average execution → 🟡 **YELLOW**
+- To earn a **15% return over 10 years** with a **25x terminal PE** → need **22.2% EPS CAGR** → This is close to the 3Y historical CAGR but requires the business to sustain this pace for a decade — demanding → 🟠 **ORANGE**
+- To earn a **15% return over 10 years** with a **20x terminal PE** → need **24.9% EPS CAGR** → This requires the business to grow faster than its recent trajectory for a full decade → 🟠 **ORANGE**
+- To earn a **20% return over 10 years** with any reasonable PE → need **27%+ EPS CAGR** → This is aggressive and unrealistic given the decelerating growth profile → 🔴 **RED**
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹411, to earn a 12-15% annualised return over 10 years assuming the market values VBL at 25x PE at exit, the company needs to grow EPS at ~15-17% CAGR. VBL has historically grown EPS at ~25% CAGR (3-year) and ~50% (5-year, inflated by base effect). The recent TTM growth is ~17%. This implies **the market is pricing in reasonable growth — not heroic, not conservative. The implied expectations are roughly in line with what the company can likely deliver.** The price is FAIR, not cheap."
+> "At the current price of ₹411, to earn a 10-15% annualised return over 10 years assuming the market values VBL at 25x PE at exit, the company needs to grow EPS at ~17-22% CAGR. VBL has historically grown EPS at ~25% CAGR (3-year) and ~55% (5-year, inflated by base effect). The recent TTM growth is ~17%. This implies **the market is pricing in demanding but not unreasonable growth — you need VBL to deliver at or above its recent growth rate for a full decade just to clear the 10% hurdle, and materially above it for 15% returns.** The price is FAIR to SLIGHTLY EXPENSIVE, not cheap."
 
-**Buffett's Napkin Test Verdict:** The math works on the back of a napkin for a 10-12% return. It does NOT work for a 15%+ return unless growth sustains above 17% for a decade. This is a fairly valued stock, not a screaming bargain.
+**Buffett's Napkin Test Verdict:** The math on the napkin works for a ~10% return only if VBL sustains ~17% EPS CAGR for a decade AND the market assigns a 25x PE at exit. It does NOT work for a 15%+ return unless growth sustains above 22% for a decade. This is a fairly valued to slightly expensive stock, not a screaming bargain.
 
 ### Step 6: Asymmetric Upside Check — Is This a Fat Pitch?
 
@@ -729,7 +739,9 @@ ROE = Net Profit Margin × Asset Turnover × Equity Multiplier
 
 **ROCE vs. ROE Relationship:**
 
-- ROCE (20%) > ROE (16.8%) — This confirms the business engine is powerful. The gap exists because ROCE is calculated on total capital employed (equity + debt), and VBL's debt is now so low that ROCE exceeds ROE. In a leveraged capital structure, ROE > ROCE (leverage amplifies returns to equity). VBL's current structure is the opposite — ultra-conservative.
+- ROCE (20%) > ROE (~16-17%) — This confirms the business engine is powerful. The gap exists because ROCE is calculated on total capital employed (equity + debt), and VBL's debt is now so low that ROCE exceeds ROE. In a leveraged capital structure, ROE > ROCE (leverage amplifies returns to equity). VBL's current structure is the opposite — ultra-conservative.
+
+> **Note:** The DuPont table above uses year-end equity, giving Dec 2025 ROE of 15.6%. Section 6 uses average equity for Dec 2025, giving 16.8%. Screener.in reports 16.2%. The directional conclusion — ROCE exceeding ROE on an ultra-low-leverage balance sheet — holds across all three methodologies.
 
 - This means the "true" business quality is BETTER than the current ROE suggests. If VBL were to employ moderate leverage (D/E of 0.5x), ROE would jump to ~22-24% — closer to its 5-year average.
 
@@ -762,11 +774,11 @@ ROE = Net Profit Margin × Asset Turnover × Equity Multiplier
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
 | P/B stays at 7.10x | Multiple sustains (very optimistic) | 14.8% | 14.8% | 14.8% |
-| P/B compresses to 5.3x (0.75 × current) | Mild de-rating | 9.1% | 10.7% | 12.0% |
-| P/B compresses to 3.55x (0.5 × current) | Significant de-rating | 2.1% | 5.6% | 8.5% |
-| P/B compresses to 3.0x (Fair P/B) | Reverts to fair value based on 17% ROE | -0.5% | 3.9% | 7.2% |
-| P/B compresses to 5.0x (historical median approx) | Reverts to historical average | 7.8% | 9.8% | 11.3% |
-| P/B compresses to 1x Book | Worst case for quality company | -17.5% | -10.8% | -5.6% |
+| P/B compresses to 5.3x (0.75 × current) | Mild de-rating | 8.4% | 10.2% | 11.5% |
+| P/B compresses to 3.55x (0.5 × current) | Significant de-rating | -0.1% | 4.0% | 7.1% |
+| P/B compresses to 3.0x (Fair P/B) | Reverts to fair value based on 17% ROE | -3.4% | 1.5% | 5.3% |
+| P/B compresses to 5.0x (historical median approx) | Reverts to historical average | 7.0% | 9.2% | 10.8% |
+| P/B compresses to 1x Book | Worst case for quality company | -22.4% | -13.2% | -5.6% |
 
 #### The Key Insight
 
@@ -775,16 +787,16 @@ ROE = Net Profit Margin × Asset Turnover × Equity Multiplier
 **Approximate Annual Return ≈ (ROE × Retention) + Annual P/B Change**
 
 - If P/B stays at 7.10x → Return ≈ 14.8% ✅
-- If P/B halves to 3.55x over 10 years → ~14.8% - 6.7% = **~8.1%** ❌ (below hurdle)
-- If P/B compresses to 5.0x over 10 years → ~14.8% - 3.5% = **~11.3%** ✅ (just above hurdle)
+- If P/B halves to 3.55x over 10 years → BV compounds at 14.8%, but ~6.7%/yr P/B drag compounds against it → net return **~7.1%** ❌ (below hurdle)
+- If P/B compresses to 5.0x over 10 years → BV compounds at 14.8%, but ~3.5%/yr P/B drag → net return **~10.8%** ✅ (just above hurdle)
 
 #### Traffic Light Verdict
 
 | Condition | Verdict | Signal |
 |---|---|---|
-| 10-year return > 10% even if P/B halves | **NO** — return drops to ~8.5% | 🟡 YELLOW |
-| 10-year return > 10% if P/B stays within 25% of current | Yes — ~12% CAGR | 🟡 YELLOW |
-| 10-year return requires P/B to EXPAND | No — but requires it to stay above 5x for 10%+ returns | 🟡 YELLOW |
+| 10-year return > 10% even if P/B halves | **NO** — return drops to ~7.1% | 🟡 YELLOW |
+| 10-year return > 10% if P/B stays within 25% of current | Yes — ~11.5% CAGR at 5.3x | 🟡 YELLOW |
+| 10-year return requires P/B to EXPAND | No — but requires it to stay above ~5x for 10%+ returns | 🟡 YELLOW |
 
 **Overall Verdict: 🟡 YELLOW — The entry P/B of 7.10x is aggressive. Returns are highly dependent on the market continuing to assign a premium multiple to VBL. If the multiple compresses to 3-4x book (which is possible if growth slows or the market de-rates FMCG), returns will be mediocre despite the strong business quality.**
 
@@ -910,7 +922,7 @@ The relevant question is not "Will it turn around?" but "Will growth re-accelera
 
 > VBL is one of India's finest consumer franchises — a Coca-Cola bottling equivalent riding PepsiCo's brands in one of the world's most underpenetrated beverage markets. The business is simple, the moat is real, the management is aligned, and the runway is enormous. India's 1.4 billion people drink an embarrassingly small amount of packaged beverages compared to the rest of the world, and that gap will close over the next 20 years. VBL is positioned to capture a disproportionate share of that growth.
 >
-> **But wonderful businesses do not always make wonderful investments.** At ₹411 — 45.8x earnings and 7.10x book value — VBL offers no margin of safety. The stock is priced for continued excellence, leaving no room for error. A 10-year DCF yields fair value of ₹400 under base-case assumptions. The reverse DCF shows you need ~15% EPS CAGR just to earn a 10% return with a reasonable exit multiple. The P/B scenario analysis shows returns are highly dependent on the market sustaining a 5x+ P/B multiple for a decade.
+> **But wonderful businesses do not always make wonderful investments.** At ₹411 — 45.8x earnings and 7.10x book value — VBL offers no margin of safety. The stock is priced for continued excellence, leaving no room for error. A 10-year DCF yields fair value of ₹400 under base-case assumptions. The reverse DCF shows you need ~17% EPS CAGR just to earn a 10% return with a 25x exit PE — demanding given the recent growth deceleration. The P/B scenario analysis shows returns are highly dependent on the market sustaining a 5x+ P/B multiple for a decade.
 >
 > **Buffett's decision: ADMIRE but DO NOT BUY at ₹411. Place on the watchlist. Set a "strong interest" alert at ₹280-300 and a "back up the truck" alert at ₹220-225. The business is wonderful — let the price come to you.**
 
