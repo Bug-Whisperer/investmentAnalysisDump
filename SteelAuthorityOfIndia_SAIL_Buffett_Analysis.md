@@ -30,7 +30,9 @@ SAIL has historically been a **high-cost producer** relative to private-sector p
 
 ## 2. INCOME STATEMENT ANALYSIS — Revenue & Profitability Trends
 
-*All figures in ₹ Crores (Consolidated). Shares Outstanding: 413.1 Cr (unchanged across all years).*
+*All figures in ₹ Crores (Consolidated). Shares Outstanding: 413.1 Cr (unchanged across all years). EPS as reported by Screener.in.*
+
+*Data Note: FY15 EPS of ₹4.93 as reported by Screener.in does not reconcile with NP ₹1,939 Cr ÷ 413.1 Cr shares = ₹4.69. The ~5% gap likely reflects Screener using a different share count denominator (e.g., weighted-average diluted shares if SAIL had a different share base for part of FY15). All other years reconcile within rounding. We use Screener's reported EPS throughout as the authoritative source.*
 
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | TTM |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -48,7 +50,9 @@ SAIL has historically been a **high-cost producer** relative to private-sector p
 | EPS (Diluted) | 6.42 | 4.93 | **-10.11** | -6.67 | -0.68 | 5.69 | 5.13 | 10.04 | **29.64** | 5.27 | 7.42 | 5.74 | 6.75 |
 | Dividend Payout % | 31% | **41%** | 0% | 0% | 0% | 9% | 0% | 28% | 30% | 28% | 27% | 28% | — |
 
-**Key CAGR Data:** 10Y Sales CAGR: 8% | 5Y Sales CAGR: 11% | 3Y Sales CAGR: 0% | 10Y Profit CAGR: 3% | 5Y Profit CAGR: 0%
+**Key CAGR Data (as reported by Screener.in):** 10Y Sales CAGR: 8% | 5Y Sales CAGR: 11% | 3Y Sales CAGR: 0% | 10Y Profit CAGR: 3% | 5Y Profit CAGR: 0%
+
+*Note: Screener.in CAGR figures use their own methodology (likely cumulative-profit-weighted or different base-year conventions). Endpoint-to-endpoint computation yields 10Y Profit CAGR of ~2.0% (FY15→FY25) and 5Y Profit CAGR of ~2.3% (FY20→FY25). Both methods confirm negligible long-term earnings growth.*
 
 **Trend Narrative:**
 
@@ -70,11 +74,13 @@ The current normalised earnings (FY25: ₹2,372 Cr, TTM: ₹2,788 Cr) represent 
 | Net Debt (Borrow - Invest) | 25,929 | 32,085 | 32,861 | 38,921 | 42,780 | 42,195 | **50,887** | 34,235 | **13,527** | 26,588 | 31,734 | 31,958 |
 | Debt/Equity | 0.60x | 0.73x | 0.88x | 1.12x | 1.23x | 1.14x | **1.30x** | 0.83x | **0.32x** | 0.56x | 0.64x | 0.63x |
 | Debt/EBITDA | 6.3x | 6.7x | N/A | **360x** | 9.6x | 4.6x | 5.3x | 2.9x | **0.8x** | 3.8x | 3.3x | 3.5x |
-| Interest Coverage | 4.0x | 3.1x | **-1.2x** | 0.0x | 1.7x | 3.1x | 2.9x | 4.5x | **12.6x** | 3.9x | 4.5x | 3.8x |
+| Interest Coverage (EBITDA/Interest) | 4.0x | 3.1x | **-1.2x** | 0.0x | 1.7x | 3.1x | 2.9x | 4.5x | **12.6x** | 3.9x | 4.5x | 3.8x |
 | BVPS (₹) | 104.8 | 106.0 | 97.2 | **89.7** | 89.4 | 96.0 | 100.5 | 109.9 | 131.2 | 132.5 | 138.2 | **142.6** |
 | Fixed Assets + CWIP | 62,133 | 68,339 | 70,869 | 73,575 | 77,020 | 77,388 | 77,787 | 76,499 | 78,387 | 78,434 | 78,567 | 80,533 |
 
 **Buffett's Financial Fortress Assessment:**
+
+*Note: Interest coverage above uses EBITDA ÷ Interest (Operating Profit ÷ Interest). On an EBIT basis (after deducting ₹5,651 Cr of depreciation), FY25 interest coverage drops to just 1.8x (5,039 ÷ 2,793) — a much tighter measure that reflects the heavy depreciation burden of SAIL's capital-intensive asset base.*
 
 The balance sheet tells a story of **massive capital intensity with moderate leverage**. SAIL carries ₹36,934 Cr of debt against ₹58,906 Cr of equity (D/E 0.63x in FY25) — not dangerously leveraged, but far from a fortress. The company burned through equity during FY16-FY18 (three consecutive years of losses wiped out ~₹6,800 Cr of book value), demonstrating the cyclical vulnerability.
 
@@ -99,7 +105,7 @@ The dramatic debt reduction from **₹54,127 Cr (FY20) to ₹17,284 Cr (FY22)** 
 
 **Cash Flow Quality Assessment:**
 
-SAIL's cash flow profile is **deeply unreliable and hyper-cyclical**. Over the 12-year period, cumulative FCF is roughly breakeven — the massive windfall of FY21-FY22 (₹47,146 Cr of FCF combined) essentially funded ALL the cumulative FCF deficits of every other year. Remove those two supercycle years, and SAIL is a **structurally FCF-negative** business.
+SAIL's cash flow profile is **deeply unreliable and hyper-cyclical**. Over the 12-year period, cumulative FCF is +₹31,150 Cr — but virtually all of it (₹47,146 Cr) was generated in the FY21-FY22 supercycle alone. Excluding those two exceptional years, cumulative FCF is **-₹15,996 Cr**, meaning SAIL is a **structurally FCF-negative** business in normal steel-price environments.
 
 CFO swings from -₹5,290 Cr (FY23, driven by working capital build) to +₹30,987 Cr (FY22) — this extreme volatility makes it nearly impossible to build a reliable DCF.
 
@@ -135,7 +141,9 @@ CFO swings from -₹5,290 Cr (FY23, driven by working capital build) to +₹30,9
 | ROA | 2.8% | 2.0% | **-4.1%** | -2.6% | -0.3% | 2.0% | 1.7% | 3.4% | **10.3%** | 1.7% | 2.3% | 1.7% |
 | ROCE | 5% | 5% | **-6%** | -2% | 3% | 9% | 8% | 11% | **24%** | 6% | 8% | 7% |
 
-**10-Year Average ROE: ~5%** | **5-Year Average ROE: ~9%** | **3-Year Average ROE: ~5%**
+**10-Year Average ROE (Screener.in): ~5%** | **5-Year Average ROE: ~9%** | **3-Year Average ROE: ~5%**
+
+*Note: Screener's 10Y average ROE of ~5% uses a capital-weighted methodology (cumulative net profit ÷ cumulative average equity). The simple arithmetic average of the 10 annual ROE figures (FY16–FY25) is ~4.1%. Both are low, but the arithmetic average better reflects the typical year's experience.*
 
 **DuPont Decomposition:**
 
@@ -296,7 +304,7 @@ The company's net worth grew from ₹43,772 Cr (FY15) to ₹58,906 Cr (FY25) —
 | P/Owner Earnings | — | — | — | — | — | — | **14.4x** | — |
 | Dividend Yield | — | — | — | — | — | — | ~1.1% | ~1.0% |
 
-**Historical Comparison:** SAIL is currently trading at **1.06x book value** — near its cheapest P/B in the last 12 years. However, this "cheapness" reflects genuinely poor ROE (4-5%), not market irrationality. A business earning 4-5% ROE *deserves* to trade near book value.
+**Historical Comparison:** At today's CMP of ₹151, SAIL trades at **1.06x current book value** — one of the lowest P/B readings based on current fundamentals. Note that the table above applies today's CMP to each year's BVPS (showing how expensive today's price would be relative to past book values), not actual historical market P/B ratios. SAIL did historically trade below 1.0x book during the FY20 COVID panic and FY16-FY18 distress periods at then-prevailing market prices. However, the current low P/B is not a mispricing — it reflects genuinely poor ROE (4-5%). A business earning 4-5% ROE *deserves* to trade near book value.
 
 The P/E of 22x on normalised earnings looks expensive, but P/Owner Earnings of ~14x is more reasonable given D&A substantially exceeds maintenance capex.
 
@@ -306,13 +314,13 @@ The P/E of 22x on normalised earnings looks expensive, but P/Owner Earnings of ~
 
 **DCF using Owner Earnings (3 Scenarios):**
 
-Starting Owner Earnings: ₹4,335 Cr (FY25) | Discount Rate: 10%
+Starting Owner Earnings: ₹4,335 Cr (FY25) | Discount Rate: 10% | Net Debt: ₹31,958 Cr (Borrowings ₹36,934 − Investments ₹4,976)
 
-| Scenario | Growth Yr1-5 | Growth Yr6-10 | Terminal | Intrinsic Value/Share | Margin of Safety at ₹151 |
-|---|---|---|---|---|---|
-| **Conservative** | 5% | 3% | 3% | **₹91** | **-66%** (overvalued) |
-| **Base** | 8% | 5% | 4% | **₹146** | **-4%** (fairly valued) |
-| **Optimistic** | 12% | 7% | 4% | **₹204** | **+26%** (undervalued) |
+| Scenario | Growth Yr1-5 | Growth Yr6-10 | Terminal | Enterprise Value | Less: Net Debt | Equity Value | IV/Share | Margin of Safety at ₹151 |
+|---|---|---|---|---|---|---|---|---|
+| **Conservative** | 5% | 3% | 3% | ₹69,441 Cr | ₹31,958 Cr | ₹37,483 Cr | **₹91** | **-66%** (overvalued) |
+| **Base** | 8% | 5% | 4% | ₹92,084 Cr | ₹31,958 Cr | ₹60,126 Cr | **₹146** | **-4%** (fairly valued) |
+| **Optimistic** | 12% | 7% | 4% | ₹116,340 Cr | ₹31,958 Cr | ₹84,382 Cr | **₹204** | **+26%** (undervalued) |
 
 **DCF Verdict:** The base case suggests SAIL is **approximately fairly valued** at ₹151. The conservative case (which assumes the next decade looks like a normal steel cycle) suggests **significant overvaluation**. Only the optimistic case — requiring 12% owner earnings growth for 5 years (implying a sustained upcycle) — offers meaningful margin of safety.
 
@@ -379,7 +387,7 @@ Starting Owner Earnings: ₹4,335 Cr (FY25) | Discount Rate: 10%
 | Bull (upcycle) | ₹15 EPS × 18x PE | ₹270 | +79% |
 | Super-cycle (FY22 repeat) | ₹25 EPS × 12x PE | ₹300 | +99% |
 
-**Asymmetry Ratio:** Bull upside (79%) / Probable downside (24%) = **3.3:1** — decent but dependent entirely on another steel upcycle materialising.
+**Asymmetry Ratio:** Bull upside (79%) / Stressed downside (24%) = **3.3:1** — decent but dependent entirely on another steel upcycle materialising. Using the most probable floor (1.0x book, -6% downside), the ratio improves to ~13:1, but this understates genuine cyclical risk — SAIL has historically traded below book in distress periods, making the 0.8x stressed scenario the more appropriate risk anchor for a cyclical commodity stock.
 
 **Mispricing Assessment:** There is **no obvious mispricing**. The stock at 1.06x book fairly reflects a 4-5% ROE business. Any upside is a **cyclical bet**, not a value discovery. The market knows exactly what SAIL is.
 
@@ -492,7 +500,7 @@ SAIL is **not in turnaround mode** — it is a functioning, profitable company a
 |---|---|---|
 | Business Quality | 3 | Commodity business, no moat, low ROE |
 | Moat Durability | 2 | No moat; captive raw material is partial buffer |
-| Financial Health | 5 | Adequate but not fortress; D/E 0.63x, interest cover 3.8x |
+| Financial Health | 5 | Adequate but not fortress; D/E 0.63x, interest cover 3.8x (EBITDA basis; 1.8x on EBIT basis) |
 | Management Quality | 4 | Government-appointed, no skin in game, honest but not exceptional |
 | Scalability | 3 | Capital-intensive expansion, losing market share |
 | Valuation (P/B 1.06x) | 5 | Near book value — fair for a 5% ROE business |
