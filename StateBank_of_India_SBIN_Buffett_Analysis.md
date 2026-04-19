@@ -158,7 +158,7 @@ For banks, the equivalent of "maintenance CapEx" is credit cost (provisions). Ju
 | **Normalised Earnings (Owner Earnings)** | ~15,000 | ~17,000 | ~32,000 | ~50,000 | ~56,000 | ~65,000 |
 | **Normalised EPS (₹)** | ~16.8 | ~19.1 | ~35.9 | ~56.1 | ~62.8 | ~72.9 |
 
-*(Methodology note: Normalised Earnings for FY2023-FY2025 are computed as: Net Income + D&A − Normalised Credit Cost + Over/Under Provisioning adjustment. For FY2020-FY2022, the normalised earnings figures are lower-bound estimates that also factor in the elevated NPL formation environment of those years — during the NPA supercycle tail, even "normalised" provisioning would have been high due to the stressed starting book. The FY2025 figure of ~₹65,000 Cr / ~₹73 EPS is the key number used for all forward-looking valuation.)*
+*(Methodology note: For FY2023-FY2025, Normalised Earnings are computed as: Net Income + D&A + Over/(Under) Provisioning adjustment, where Over/(Under) = Actual Provisions − Normalised Credit Cost. This effectively replaces actual provisions with normalised provisions: e.g., FY2025 = ₹80,523 + ₹3,991 + (−₹19,000) = ~₹65,500 Cr. For FY2020-FY2022, the Over/(Under) row shows the bank was over-provisioning relative to the rolling 5-year average, but the bottom-line normalised earnings for those years are independently estimated lower-bound figures — NOT mechanically derived from the Over/(Under) row. During the NPA supercycle tail, even "normalised" provisioning would have been elevated due to the stressed starting book, so a simple rolling-average adjustment overstates sustainable earnings for those years. The FY2025 figure of ~₹65,000 Cr / ~₹73 EPS is the key number used for all forward-looking valuation.)*
 
 ### Analysis
 
@@ -512,15 +512,15 @@ Fair P/B = (15% - 12.3%) / (11% - 12.3%) = 2.7% / (-1.3%)
 | Year 3 (FY2028) | ₹869 | ₹1,130 | ₹908 | ₹1,453 | ₹948 | ₹1,896 |
 | Year 5 (FY2030) | ₹1,064 | ₹1,383 | ₹1,145 | ₹1,832 | ₹1,231 | ₹2,462 |
 | Year 7 (FY2032) | ₹1,303 | ₹1,694 | ₹1,444 | ₹2,310 | ₹1,598 | ₹3,196 |
-| Year 10 (FY2035) | ₹1,765 | ₹2,295 | ₹2,045 | ₹3,272 | ₹2,364 | ₹4,728 |
+| Year 10 (FY2035) | ₹1,765 | ₹2,118 | ₹2,045 | ₹3,068 | ₹2,364 | ₹4,255 |
 
 **Implied Annual Return (CAGR) from CMP ₹1,059:**
 
 | Scenario | 3-Year CAGR | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| Conservative | 2.2% | 5.5% | 6.9% | 8.0% |
-| **Base** | **11.1%** | **11.6%** | **11.8%** | **11.9%** |
-| Optimistic | 21.4% | 18.4% | 17.1% | 16.1% |
+| Conservative | 2.2% | 5.5% | 6.9% | 7.2% |
+| **Base** | **11.1%** | **11.6%** | **11.8%** | **11.2%** |
+| Optimistic | 21.4% | 18.4% | 17.1% | 14.9% |
 
 **Key Insight:** In the Base Case, SBI offers ~11-12% annual returns over 5-10 years at the current price. This is roughly equivalent to the cost of equity — meaning you get a FAIR return, not an exceptional one. The Optimistic case delivers 15-19% returns (very attractive), while the Conservative case delivers only 5-7% (below hurdle rate).
 
@@ -641,7 +641,7 @@ Using normalised EPS of ₹73 and Terminal PE of 10.5x:
 
 > **"At the current price of ₹1,059, to earn a 10% annualised return over 10 years assuming the market values SBI at 10.5x PE at exit, the company needs to grow normalised EPS at ~13.6% CAGR. SBI's normalised forward EPS growth potential is approximately 12-15% CAGR. This implies the market is pricing in growth at the upper end of the realistic range — achievable but with limited margin for error. For a 15%+ return, the required ~19% EPS CAGR is a stretch for a bank of SBI's size."**
 
-**Buffett's Napkin Test:** ✅ The math works on a napkin — you need the bank to grow earnings at roughly India's nominal GDP growth rate to get your money's worth. That's reasonable. But for 15%+ returns, you need things to go right. This is a FAIR price, not a GREAT price.
+**Buffett's Napkin Test:** 🟡 The math works on a napkin — but the required ~13.6% normalised EPS CAGR is above India's nominal GDP growth rate (10-12%) and at the upper end of SBI's realistic forward growth range (12-15%). It's achievable, but with limited cushion. For 15%+ returns, you need things to go distinctly right. This is a FAIR price, not a GREAT price.
 
 ### Step 6: Asymmetric Upside Check — Is This a Fat Pitch?
 
