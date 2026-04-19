@@ -59,7 +59,9 @@ Steel's "reputation for bad economics" — cyclicality, capital intensity, commo
 | EBITDA (Op Profit + D&A) | 27,175 | 36,660 | 25,904 | 39,738 | **72,591** | 41,635 | 32,130 | 35,719 | 42,489 |
 | EBITDA Margin | 22% | 23% | 19% | 25% | **30%** | 17% | **14%** | 16% | 19% |
 
-**Shares Outstanding:** ~970 Cr (FY14-17) → ~1,145 Cr (FY18-19) → ~1,198 Cr (FY21) → ~1,247 Cr (FY24-25). Equity has been diluted by ~28% over the decade (from rights issue in 2018 and subsequent issuances). This is a negative signal — the company has needed external equity capital.
+**Shares Outstanding:** ~970 Cr (FY14-17) → ~1,145 Cr (FY18-20) → ~1,198 Cr (FY21) → ~1,247 Cr (FY24-25). Equity has been diluted by ~28% over the decade (from rights issue in 2018 and subsequent issuances). This is a negative signal — the company has needed external equity capital.
+
+> **Methodology Note (EPS vs. Net Profit):** EPS figures in the table above are sourced from Screener.in and are based on profit attributable to parent shareholders (i.e., excluding minority interest in subsidiaries). The Net Profit row shows total consolidated profit including minority interest. Therefore, EPS × Shares Outstanding will NOT equal Net Profit — this is standard for companies with significant minority interests in subsidiaries (e.g., Tata Steel BSL, Tata Steel Long Products). For instance, FY2018 NP of ₹17,743 Cr includes minority interest; the attributable profit (~₹13,660 Cr at EPS ₹11.93 × 1,145 Cr shares) is lower. The Dividend Payout % shown by Screener is also computed on the attributable profit base, not consolidated NP.
 
 ### Trend Narrative
 
@@ -111,6 +113,8 @@ Margins are NOT expanding structurally — they oscillate violently with the ste
 
 **Interest Coverage:** 3.02x — adequate but not strong. During the FY2022 supercycle it was above 10x; during downturns it has fallen below 1x.
 
+> **Note:** The interest coverage ratio of 3.02x is sourced from Screener.in's header metric, which may use a different computation period or formula than the annual figures in this document. Using FY25 data: Operating Profit / Interest = 25,298/7,341 = 3.45x; (PBT + Interest) / Interest = 2.15x. The directional assessment (adequate but not strong) holds across all computation methods.
+
 ### Buffett's Financial Fortress Assessment
 
 > *Buffett: "We will reject interesting opportunities rather than over-leverage our balance sheet."*
@@ -138,6 +142,8 @@ The saving grace is that debt has come down from its FY2020 peak of ₹1.16 lakh
 | FCF Margin | -3.2% | -2.4% | 4.4% | **22.3%** | **13.7%** | 1.4% | 2.6% | 4.4% |
 
 **Note:** CapEx is estimated from Cash from Investing Activity (adjusted for acquisitions/divestments). The massive CFI outflow in FY2019 (₹29,176 Cr) includes the acquisition of Bhushan Steel (now Tata Steel BSL).
+
+> **FCF Methodology Note:** The Free Cash Flow row above is computed as CFO − |CFI| (i.e., CFO minus the absolute value of total investing outflows), not CFO minus pure maintenance/growth CapEx. This means FCF in years with acquisitions (e.g., FY2019 Bhushan Steel) understates organic FCF, while years with divestment proceeds may overstate it. Screener.in also reports its own FCF figure (CFO minus net fixed asset purchases), which differs from the figures above. For a cleaner view of operating cash generation, refer to the Owner Earnings calculation in Section 5.
 
 ### Cash Flow Analysis
 
@@ -175,6 +181,8 @@ For an integrated steel company, maintenance CapEx (keeping existing plants runn
 
 - **Estimated Maintenance CapEx:** ~₹11,000-12,500 Cr per year
 - **Estimated Growth CapEx:** Current total CapEx minus maintenance = ₹14,000 - ₹11,500 = ~₹2,500 Cr. However, the massive CWIP build-up (₹41,622 Cr) suggests that growth capex has been much higher in recent years, funded through additional debt.
+
+> **Note:** The Owner Earnings table below uses a slightly lower maintenance CapEx estimate (~₹10,000-11,500 Cr) based on ~1.0-1.1x depreciation rather than the 1.0-1.2x range cited above. Using the higher end of the narrative range (~₹12,500 Cr) would reduce normalised Owner Earnings by ~₹1,000 Cr/year, yielding ~₹9,250 Cr (₹7.42/share) instead of ₹10,250 Cr (₹8.23/share). The directional conclusions are unchanged.
 
 ### Owner Earnings Calculation (Buffett's Preferred Metric)
 
@@ -215,6 +223,8 @@ For Tata Steel, the gap between accounting earnings and owner earnings is modera
 **5-Year Average ROE:** 14.2% (pulled up heavily by FY2022's 36.5%)
 **3-Year Average ROE:** ~6.2% (depressed by FY2024 loss)
 **10-Year Average ROE:** ~11%
+
+> **Methodology Note:** The 5Y, 3Y, and 10Y average ROE figures above are sourced from Screener.in's header, which computes them using cumulative Net Profit over the period divided by average Shareholders' Equity — NOT as a simple arithmetic mean of annual ROEs. For example, the 3Y average of ~6.2% matches cumulative NP (FY23-25) of ₹6,339 Cr / average equity of ~₹1,00,182 Cr = 6.3%. A simple arithmetic mean of annual ROEs (7.8%, −5.3%, 3.5%) would give 2.0% — a materially different figure. The 5Y figure of 14.2% may use a slightly different trailing window or equity-weighting on Screener's backend (applying the same cumulative method to FY21-25 yields ~12.3%); the exact calculation is opaque but the figure is taken as-is from Screener for consistency. The "Current" ROE of 3.89% shown in the header uses attributable profit / parent equity (excluding minority), while the annual ROE figures in the table use consolidated NP / total equity. Both are valid but use different bases.
 
 ### Return on Capital Assessment
 
@@ -305,7 +315,7 @@ The business will look largely the same in 10 years (still making and selling st
 | Mar 2022 | 2,43,959 | 55.9% | 63,490 | 108.1% | 41,749 | 409.8% | **37.7%** |
 | Mar 2023 | 2,43,353 | -0.2% | 32,300 | -49.1% | 8,075 | -80.7% | NM (flat revenue) |
 | Mar 2024 | 2,29,171 | -5.8% | 22,248 | -31.1% | -4,910 | NM | 71.0% (on decline) |
-| Mar 2025 | 2,18,543 | -4.6% | 25,298 | 13.7% | 3,174 | NM | NM (both declined) |
+| Mar 2025 | 2,18,543 | -4.6% | 25,298 | 13.7% | 3,174 | NM | NM (revenue declined, Op Profit increased) |
 
 *The incremental margin analysis is messy for cyclicals because revenue and profit move non-linearly with steel prices.*
 
@@ -359,7 +369,7 @@ For every ₹1 of retained earnings, has the company created at least ₹1 of ma
 
 | Period | Retained Earnings (Approx Cumulative, ₹ Cr) | Market Cap Change (₹ Cr) | Value Created per ₹1 Retained |
 |---|---|---|---|
-| FY2018-FY2025 (8 years) | ~₹80,000 Cr retained (net income minus dividends) | Market cap went from ~₹70,000 Cr (₹60/share in Mar 2018) to ~₹2,29,000 Cr (₹184/share in Mar 2026) = +₹1,59,000 Cr | ~₹2.0 per ₹1 retained |
+| FY2018-FY2025 (8 years) | ~₹57,000 Cr retained (cumulative net income of ~₹84,300 Cr minus estimated cumulative dividends of ~₹27,000 Cr) | Market cap went from ~₹70,000 Cr (₹60/share in Mar 2018) to ~₹2,29,000 Cr (₹184/share in Mar 2026) = +₹1,59,000 Cr | ~₹2.8 per ₹1 retained |
 
 However, this is misleading because of the rights issue dilution and because the starting point in early 2018 was a trough valuation. If we look at FY2022 peak to today, the picture is far less flattering:
 - **Mar 2022:** Market cap ~₹1,70,000 Cr, BV/share ₹93.7
@@ -440,12 +450,14 @@ Steel is NOT an idiot-proof business. It requires sophisticated operational mana
 | Market Cap | ₹2,29,109 Cr |
 | Stock P/E | 23.4x |
 | TTM EPS | ₹7.33 |
+
+> **Methodology Note:** The Stock P/E of 23.4x is sourced directly from Screener.in's header, which computes P/E using profit attributable to parent shareholders (excluding minority interest), implying an attributable EPS of ~₹7.86. The TTM EPS of ₹7.33 shown in the P&L is derived from total consolidated net profit ÷ shares outstanding, which includes minority interest in the numerator. This ~7% gap is standard for companies with significant subsidiaries. Both figures are valid but use different profit bases. The P/E references throughout this analysis use the Screener header figure of 23.4x for consistency.
 | Book Value/Share | ₹76.1 |
 | P/B Ratio | **2.41x** |
 | Industry P/E | 19.6x |
 | Industry P/B | 1.47x |
 | Dividend Yield | 1.96% |
-| EV/EBITDA (est.) | ~8-9x |
+| EV/EBITDA (est.) | ~7-8x |
 | ROCE | 8.83% |
 | ROE | 3.89% |
 | PEG Ratio | -0.42 (negative = meaningless) |
@@ -456,7 +468,7 @@ Steel is NOT an idiot-proof business. It requires sophisticated operational mana
 |---|---|---|---|---|---|---|---|---|---|
 | EPS (₹) | 11.93 | 9.07 | 1.38 | 6.26 | 32.88 | 7.17 | -3.55 | 2.74 | 7.33 (TTM) |
 | BV/Share (₹) | 53.2 | 60.2 | 64.3 | 62.0 | 93.7 | 84.4 | 73.8 | 73.1 | 76.1 |
-| P/B at year-end | ~1.1x | ~0.7x | ~0.5x | ~1.2x | ~1.4x | ~1.3x | ~1.8x | ~2.0x | **2.41x** |
+| P/B at year-end | ~1.1x | ~0.7x | ~0.5x | ~1.2x | ~1.5x | ~1.3x | ~1.8x | ~2.0x | **2.41x** |
 | P/E at year-end | ~5x | ~5x | ~50x+ | ~12x | ~4x | ~16x | NM (loss) | ~50x+ | **23.4x** |
 
 ### Critical Valuation Observations
@@ -590,33 +602,33 @@ A more practical valuation approach for Tata Steel is the **P/B x ROE framework*
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **29.6%** EPS CAGR | 35.8% | 42.2% |
-| 10 Years | **18.3%** EPS CAGR | 21.9% | 25.6% |
-| 15 Years | **15.0%** EPS CAGR | 18.0% | 21.0% |
+| 5 Years | **29.2%** EPS CAGR | 35.1% | 40.9% |
+| 10 Years | **19.2%** EPS CAGR | 24.6% | 30.1% |
+| 15 Years | **16.1%** EPS CAGR | 21.3% | 26.6% |
 
 #### At Terminal PE = 15x
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **20.4%** EPS CAGR | 26.3% | 32.4% |
-| 10 Years | **14.1%** EPS CAGR | 17.6% | 21.2% |
-| 15 Years | **12.1%** EPS CAGR | 15.0% | 17.9% |
+| 5 Years | **19.1%** EPS CAGR | 24.6% | 30.0% |
+| 10 Years | **14.5%** EPS CAGR | 19.7% | 24.9% |
+| 15 Years | **13.0%** EPS CAGR | 18.1% | 23.2% |
 
 #### At Terminal PE = 20x
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **14.2%** EPS CAGR | 19.9% | 25.8% |
-| 10 Years | **11.1%** EPS CAGR | 14.5% | 18.1% |
-| 15 Years | **10.0%** EPS CAGR | 12.8% | 15.7% |
+| 5 Years | **12.5%** EPS CAGR | 17.6% | 22.7% |
+| 10 Years | **11.2%** EPS CAGR | 16.3% | 21.3% |
+| 15 Years | **10.8%** EPS CAGR | 15.9% | 20.9% |
 
 #### At Terminal PE = 12x (Historical Average)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | **25.5%** EPS CAGR | 31.5% | 37.7% |
-| 10 Years | **16.4%** EPS CAGR | 19.9% | 23.5% |
-| 15 Years | **13.7%** EPS CAGR | 16.6% | 19.6% |
+| 5 Years | **24.6%** EPS CAGR | 30.2% | 35.9% |
+| 10 Years | **17.1%** EPS CAGR | 22.4% | 27.7% |
+| 15 Years | **14.7%** EPS CAGR | 19.9% | 25.1% |
 
 ### Step 4: Reality Check — Is the Implied Growth Reasonable?
 
@@ -632,14 +644,14 @@ A more practical valuation approach for Tata Steel is the **P/B x ROE framework*
 
 At CMP of ₹184 and normalised EPS of ₹8.23 (PE of 22.4x):
 
-- To earn **10% return over 10 years** with terminal PE of 15x: Need **14.1% EPS CAGR** — this is above the realistic range of 8-12% for a steel company. 🟡 **YELLOW — Fair but optimistic.**
-- To earn **10% return over 10 years** with terminal PE of 20x (generous for steel): Need **11.1% EPS CAGR** — this is within the realistic range but at the upper end. 🟡 **YELLOW.**
-- To earn **15% return over 10 years** with terminal PE of 15x: Need **17.6% EPS CAGR** — this is unrealistic for a commodity steel business. 🔴 **RED — Requires heroic growth.**
-- To earn **15% return over 10 years** with terminal PE of 12x (historical average): Need **19.9% EPS CAGR** — impossible for steel. 🔴 **RED.**
+- To earn **10% return over 10 years** with terminal PE of 15x: Need **14.5% EPS CAGR** — this is above the realistic range of 8-12% for a steel company. 🟡 **YELLOW — Fair but optimistic.**
+- To earn **10% return over 10 years** with terminal PE of 20x (generous for steel): Need **11.2% EPS CAGR** — this is within the realistic range but at the upper end. 🟡 **YELLOW.**
+- To earn **15% return over 10 years** with terminal PE of 15x: Need **19.7% EPS CAGR** — this is unrealistic for a commodity steel business. 🔴 **RED — Requires heroic growth.**
+- To earn **15% return over 10 years** with terminal PE of 12x (historical average): Need **22.4% EPS CAGR** — impossible for steel. 🔴 **RED.**
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹184, to earn a 10% annualised return over 10 years assuming the market values the business at 15x PE at exit, the company needs to grow normalised EPS at 14.1% CAGR. The company has historically grown EPS at roughly 8-12% CAGR on a normalised basis. This implies **the market is pricing in optimistic-to-aggressive growth assumptions.** To earn 15%+ returns, the required growth is unrealistic for a commodity cyclical."
+> "At the current price of ₹184, to earn a 10% annualised return over 10 years assuming the market values the business at 15x PE at exit, the company needs to grow normalised EPS at 14.5% CAGR. The company has historically grown EPS at roughly 8-12% CAGR on a normalised basis. This implies **the market is pricing in optimistic-to-aggressive growth assumptions.** To earn 15%+ returns, the required growth is unrealistic for a commodity cyclical."
 
 **Buffett's Napkin Test:** This is NOT a napkin-simple investment. You need very specific assumptions about India capacity ramp-up, European exit, steel prices, and multiple sustenance to make the numbers work. If you need a spreadsheet, Buffett says pass.
 
@@ -732,12 +744,12 @@ Only in the Full Ramp scenario does upside approach parity with downside risk. B
 |---|---|---|---|---|---|
 | Mar 2018 | 14.4% | 0.59x | 3.43x | ~29% | ~29% |
 | Mar 2019 | 5.8% | 0.68x | 3.38x | ~13% | ~13% |
-| Mar 2020 | **0.8%** | 0.56x | **3.39x** | ~2% | ~2% |
+| Mar 2020 | **0.8%** | 0.56x | **3.39x** | ~1.6% | ~1.6% |
 | Mar 2021 | 5.2% | 0.64x | 3.29x | ~11% | ~11% |
 | Mar 2022 | **17.1%** | 0.86x | 2.47x | **~37%** | **~37%** |
 | Mar 2023 | 3.3% | 0.85x | 2.77x | ~8% | ~8% |
 | Mar 2024 | **-2.1%** | 0.85x | 2.93x | **~-5%** | **~-5%** |
-| Mar 2025 | 1.5% | 0.79x | 3.02x | ~4% | ~4% |
+| Mar 2025 | 1.5% | 0.79x | 3.02x | ~3.5% | ~3.5% |
 
 ### DuPont Analysis
 
@@ -765,7 +777,7 @@ The fundamental problem: **Tata Steel's ROE is hostage to its profit margin, whi
 |---|---|---|---|
 | FY2022 | 31% | 37% | ROE > ROCE by 6pp → Leverage boosting returns |
 | FY2024 | 7% | -5% | ROE << ROCE → Leverage destroying equity returns |
-| FY2025 | 9% | 4% | ROE < ROCE → Interest burden consuming business returns |
+| FY2025 | 9% | 3.5% | ROE < ROCE → Interest burden consuming business returns |
 
 **Currently ROE (3.89%) is well below ROCE (8.83%)** — this means the debt burden is consuming a significant portion of operating returns before they reach equity holders. This is the danger of leverage in a low-margin environment.
 
@@ -795,25 +807,26 @@ The fundamental problem: **Tata Steel's ROE is hostage to its profit margin, whi
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 2.41x | Optimistic — sustaining historic peak multiple | 8.0% | 8.0% | 8.0% |
-| P/B compresses to 1.8x | Mild de-rating | -0.3% | 3.3% | 5.3% |
-| P/B compresses to 1.5x | Moderate de-rating to industry average | **-5.3%** | 0.2% | 3.4% |
-| P/B compresses to 1.2x | Reverts to historical median | **-10.3%** | **-3.0%** | 1.0% |
-| P/B compresses to 1.0x | Book value floor — ROE ≈ CoE | **-14.3%** | **-6.0%** | **-1.2%** |
+| P/B stays at 2.41x | Optimistic — sustaining historic peak multiple | 7.9% | 7.9% | 8.0% |
+| P/B compresses to 1.8x | Mild de-rating | 1.8% | 3.5% | 4.9% |
+| P/B compresses to 1.5x | Moderate de-rating to industry average | **-1.8%** | 0.9% | 3.0% |
+| P/B compresses to 1.2x | Reverts to historical median | **-6.1%** | **-2.3%** | 0.7% |
+| P/B compresses to 1.0x | Book value floor — ROE ≈ CoE | **-9.5%** | **-4.8%** | **-1.1%** |
 
 #### Key Insight
 
-> "At the current entry P/B of 2.41x with a sustainable ROE of ~10-12% and ~70% retention, book value compounds at ~7-8% annually. If the P/B multiple remains at 2.41x, the return equals the BV compounding rate of ~8%. However, 2.41x P/B is at the HISTORICAL PEAK for this stock. Every compression from current P/B destroys returns:
-> - The stock can tolerate P/B compression from 2.41x down to approximately 2.0x before the 10-year return drops below the 10% hurdle rate — but even sustaining 2.0x would be historically unprecedented for Tata Steel.
-> - If P/B reverts to its historical median of ~1.2x, the 10-year return is approximately 1% per annum — essentially zero real return over a decade."
+> "At the current entry P/B of 2.41x with a sustainable ROE of ~10-12% and ~70% retention, book value compounds at ~7-8% annually. If the P/B multiple remains at 2.41x, the return equals the BV compounding rate of ~8%. However, 2.41x P/B is at the HISTORICAL PEAK for this stock. Since the BV compounding rate (~8%) is BELOW the 10% hurdle rate, the stock CANNOT deliver a 10% return even if the P/B multiple stays constant — it would require P/B EXPANSION to ~2.9x to hit 10%. This means:
+> - ANY compression from the current 2.41x P/B pushes returns further below the hurdle rate.
+> - If P/B reverts to its historical median of ~1.2x, the 10-year return is approximately 0.7% per annum — essentially zero real return over a decade.
+> - Even including the ~2% dividend yield, the total return at constant P/B is ~10% — exactly at the hurdle rate, with zero margin for error."
 
 ### Traffic Light Verdict
 
 | Condition | Verdict | Signal |
 |---|---|---|
-| 10-year return > 10% only if P/B SUSTAINS at historic peak 2.4x | **Dangerous entry** — you need the market to sustain unprecedented optimism | 🔴 **RED** |
-| 10-year return > 10% if P/B drops to 1.5x (industry average) | Returns are 3.4% — well below hurdle | 🔴 **RED** |
-| 10-year return positive only if P/B stays above 1.0x | Barely positive at 1x book floor | 🔴 **RED** |
+| 10-year return > 10% only if P/B SUSTAINS at historic peak 2.4x (return ~8% price + ~2% dividend ≈ 10%) | **Dangerous entry** — you need the market to sustain unprecedented optimism AND dividends to maintain even a minimal hurdle return | 🔴 **RED** |
+| 10-year return > 10% if P/B drops to 1.5x (industry average) | Returns are ~3.0% price + ~2% dividend ≈ 5% — well below hurdle | 🔴 **RED** |
+| 10-year return positive only if P/B stays above 1.0x | Barely positive at 1x book floor (-1.1% price + ~2% dividend ≈ ~1%) | 🔴 **RED** |
 
 > *Munger: "Over the long term, it's hard for a stock to earn a much better return than the business earns."* At 2.41x book value with 10-12% normalised ROE, the business quality cannot overcome the valuation headwind unless the multiple sustains at historically unprecedented levels. **This is a clear RED signal.**
 
@@ -834,6 +847,8 @@ Based on the analysis, using P/B and normalised earnings as the primary valuatio
 | **Fair Value / Hold** | 1.2x - 1.6x Book | **₹91 - ₹122** | 9-12x | Fairly priced; hold for India growth thesis |
 | **Fully Valued / Trim** | 1.6x - 2.0x Book | **₹122 - ₹152** | 12-15x | Above fair value; limited upside, consider trimming |
 | **Overvalued / Sell** | > 2.0x Book | **> ₹152** | > 15x | Priced for perfection; sell/avoid |
+
+> **Note on "norm. EPS ~₹10":** The PE ranges in the Buy Zone table use estimated normalised mid-cycle *reported* EPS of ~₹10-12/share (from Section 11), representing what the company could earn in a typical year with reasonable steel prices. This is a different — and slightly higher — figure than the 5Y average Owner Earnings of ₹8.23/share used in the Reverse DCF (Section 13), which deducts estimated maintenance CapEx from reported earnings. Both are valid for their respective purposes: the Buy Zone PE ranges reflect market convention (PE on reported EPS), while the Reverse DCF uses the more conservative Owner Earnings measure.
 
 ### Current Price Assessment
 
@@ -951,7 +966,7 @@ Tata Steel is not a classic "distressed turnaround" — the India business is he
 | **Return on Capital** | **4** | Through-cycle ROIC ~8-10%, barely above cost of capital; ROE only high at cyclical peaks |
 | **Valuation** | **2** | 2.41x P/B is at historic peak; PE of 23.4x on depressed earnings; no margin of safety |
 | **Margin of Safety** | **1** | None. The stock is in the overvalued zone by every metric. DCF suggests base-case IV is ~₹60. |
-| **Earnings Quality** | **5** | Volatile; normalised Owner Earnings ~₹8/share vs. current price of ₹184 (23x Owner Earnings for a cyclical!) |
+| **Earnings Quality** | **5** | Volatile; normalised Owner Earnings ~₹8/share vs. current price of ₹184 (~22x Owner Earnings for a cyclical!) |
 | | | |
 | **Buffett Verdict** | **PASS / AVOID at current price** | Tata Steel is a commodity cyclical with partial cost advantage in India, a problematic European legacy, heavy debt, volatile earnings, and mediocre through-cycle returns. The India business is genuinely attractive — growing capacity, captive raw materials, structural demand tailwinds. But at 2.41x book value (the highest P/B the stock has traded at in its history), the market has ALREADY priced in the India transformation thesis and then some. The ROE of 3.89% does not justify a 2.4x P/B — it justifies barely 1.0x. Buffett would look at this and say: "Great business direction, terrible price." He would put it on his watchlist and wait for a steel downcycle to push the stock to 1.0-1.2x book (₹76-91) — and THEN back up the truck. At ₹184, this is a clear PASS. |
 | **Buy Zone** | **₹61-₹91 (0.8-1.2x Book)** | Only at these levels does the risk-reward become Buffett-attractive |
@@ -980,7 +995,7 @@ Tata Steel is not a classic "distressed turnaround" — the India business is he
 
 On a napkin, at ₹184, this is **NOT a good deal.** The math doesn't work without heroic assumptions.
 
-At ₹75-90? The napkin math changes entirely: you'd be paying ~₹85 for ₹76 of book value (1.1x) with ₹8 of normalised earnings (10.6x PE). If earnings grow to ₹12-15 over 5 years, you'd get ₹180-225 at 15x PE. That's a 100-165% return from ₹85. THAT passes the napkin test.
+At ₹75-90? The napkin math changes entirely: you'd be paying ~₹85 for ₹76 of book value (1.1x) with ₹8 of normalised earnings (10.6x PE). If earnings grow to ₹12-15 over 5 years, you'd get ₹180-225 at 15x PE. That's a ~112-165% return from ₹85. THAT passes the napkin test.
 
 **Final Word:**
 
