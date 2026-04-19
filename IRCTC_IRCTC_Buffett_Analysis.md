@@ -19,11 +19,11 @@ IRCTC is arguably **India's purest government-granted monopoly** operating in th
 
 Buffett would understand this business in under five minutes. *"The key to investing is determining the competitive advantage of any given company and, above all, the durability of that advantage."* IRCTC's advantage is not earned through superior execution or brand-building — it is **legislated by the Government of India.** This is the ultimate toll bridge: every digital railway ticket in India must pass through IRCTC, and the company clips a convenience fee on each one. The internet ticketing segment operates at 80%+ margins with near-zero incremental cost per transaction.
 
-The business model breaks down into four primary revenue streams (FY25 approximate mix; a small "other/unallocated" component of ~3-5% is not shown separately):
-- **Catering:** ~53% of revenue (lower-margin, labour-intensive)
-- **Internet Ticketing:** ~27% of revenue (ultra-high-margin, the crown jewel)
+The business model breaks down into four primary revenue streams (FY25 approximate mix; a small "other/unallocated" component of ~5% is not shown separately):
+- **Catering:** ~50% of revenue (lower-margin, labour-intensive)
+- **Internet Ticketing:** ~26% of revenue (ultra-high-margin, the crown jewel)
 - **Rail Neer:** ~7% of revenue (packaged water, moderate margins)
-- **Tourism:** ~13% of revenue (travel packages, seasonal)
+- **Tourism:** ~12% of revenue (travel packages, seasonal)
 
 The genius of IRCTC is that the **high-margin internet ticketing segment subsidises** the overall business economics. Even as lower-margin catering grows as a share of revenue, the absolute profitability of the ticketing monopoly ensures the business generates exceptional returns on capital.
 
