@@ -23,7 +23,7 @@
 
 | Holding | Entity | Nature | Approx. Value (as of late 2025) |
 |---|---|---|---|
-| **50.26%** | **TVS Motor Company Ltd** | India's 3rd-largest two-wheeler manufacturer | **~₹83,000 Cr** (at ₹3,476 CMP × 475.2 Cr shares × 50.26%) |
+| **50.26%** | **TVS Motor Company Ltd** | India's 3rd-largest two-wheeler manufacturer | **~₹83,000 Cr** (at ₹3,476 CMP × 47.52 Cr shares × 50.26%) |
 | Via TVSM | TVS Credit Services Ltd | NBFC — 2W, used cars, tractors, consumer durables financing; AUM ~₹28,645 Cr | Unlisted; estimated ₹8,000-12,000 Cr |
 | Via TVSM | Norton Motorcycles (UK) | Premium motorcycle brand | Early stage |
 | Via TVSM | Swiss E-Mobility Group (SEMG) | E-bikes in Europe | Growing |
@@ -67,11 +67,15 @@ TVS Motor itself passes this test — two-wheelers are a consumer franchise with
 | Shares Outstanding (Cr) | ~1.89 | ~1.89 | ~1.89 | ~1.89 | ~1.89 | ~2.02 | ~2.02 | ~2.02 | ~2.02 |
 | Dividend Payout % | **9%** | 17% | 19% | 16% | 20% | 18% | **24%** | 16% | — |
 
+> **Important Note — Consolidated Net Profit vs Attributable EPS:** The Net Profit figures above are **total consolidated NP** (including minority interest's share). Since TVS Holdings owns ~50.26% of TVS Motor Company (its dominant subsidiary), approximately half of consolidated earnings accrue to minority shareholders. The **EPS figures**, however, are computed by Screener on **profit attributable to the parent company's shareholders only** — hence EPS × Shares ≈ 48-54% of Consolidated NP across all years. This is standard accounting for holding companies and does not indicate an error. Wherever this distinction matters for per-share calculations (Owner Earnings, $1 Test, DCF), it is noted explicitly.
+>
+> **NP Growth vs EPS Growth divergence:** In FY23, NP Growth is 62% while EPS Growth is only 48%. This 14pp gap reflects two factors: (a) shares outstanding increased ~7% from ~1.89 Cr to ~2.02 Cr due to the FY22-23 demerger/restructuring, diluting EPS growth relative to NP growth; and (b) the attributable share of NP growth may differ from total consolidated NP growth.
+
 **Trend Narrative:**
 
 The story here is one of **powerful margin expansion accompanied by robust revenue growth**. Revenue has compounded at ~15% over 10 years and ~18% over 5 years. More impressively, operating margins have nearly doubled from 9% (FY18) to 16% (TTM), demonstrating significant operating leverage as TVS Motor premiumises its product mix (Apache, Jupiter 125, Ntorq, iQube EV) and scales internationally.
 
-Net profit growth has been explosive — **26% CAGR over 5 years (per Screener), 37% CAGR over 3 years (per Screener).** This is earnings growth outpacing revenue growth by a wide margin, which is the hallmark of a business hitting operating leverage. (Note: Screener's CAGR figures may differ slightly from arithmetic calculations due to adjusted/diluted earnings methodology.)
+Net profit growth has been explosive — **26% CAGR over 5 years (per Screener), 37% CAGR over 3 years (per Screener).** This is earnings growth outpacing revenue growth by a wide margin, which is the hallmark of a business hitting operating leverage. (Note: Screener's "Compounded Profit Growth" uses **attributable profit** — i.e., profit after deducting minority interest — which is lower than the consolidated NP shown in the table above. Direct calculation on consolidated NP yields ~31% and ~43% respectively. The attributable-basis CAGRs from Screener are the more meaningful metric for equity shareholders.)
 
 The interest cost has risen sharply (₹372 Cr in FY18 to ₹2,223 Cr in FY25) due to TVS Credit's scaling — this is the cost of financing a growing loan book, not corporate leverage in the traditional sense. This is a key nuance: most of the consolidated debt is TVS Credit's borrowings to fund its lending operations.
 
@@ -139,7 +143,7 @@ The wildly volatile CFO (ranging from -₹4,111 Cr to +₹3,535 Cr) is driven al
 | Retained Earnings | ~659 | ~1,093 | ~1,354 | ~2,023 |
 | Retention Ratio | ~80% | ~82% | ~76% | ~84% |
 
-The company retains 75-85% of earnings and reinvests them into growth (TVS Motor's capacity expansion, EV development, international growth; TVS Credit's AUM scaling). There have been **no equity dilutions** — the share count has been stable at ~2.02 Cr shares since the restructuring. This is exactly what Buffett wants: a business that funds growth through internal accruals.
+The company retains 75-85% of earnings and reinvests them into growth (TVS Motor's capacity expansion, EV development, international growth; TVS Credit's AUM scaling). Shares increased by ~7% (from ~1.89 Cr to ~2.02 Cr) as part of the FY22-23 demerger/restructuring, but there have been **no equity dilutions since** — no QIPs, rights issues, or preferential allotments. This is exactly what Buffett wants: a business that funds growth through internal accruals.
 
 ---
 
@@ -150,8 +154,10 @@ The company retains 75-85% of earnings and reinvests them into growth (TVS Motor
 | Revenue (₹ Cr) | 19,859 | 20,299 | 25,591 | 33,662 | 39,882 | 44,993 |
 | Depreciation (₹ Cr) | 649 | 643 | 845 | 986 | 1,011 | 1,067 |
 | Net Profit (₹ Cr) | 627 | 592 | 824 | 1,333 | 1,782 | 2,409 |
-| CapEx (from investing CF, approx.) | ~1,055 | ~979 | ~1,705 | ~1,439 | ~1,000 | ~2,857 |
+| CapEx (from investing CF, approx.) | ~1,055 | ~979 | ~1,705 | ~1,439 | ~1,000** | ~2,857 |
 | CapEx as % of Revenue | 5.3% | 4.8% | 6.7% | 4.3% | 2.5% | 6.3% |
+
+> *\*\*FY24 CapEx note: Net investing cash flow in FY24 was actually a positive ₹961 Cr (net inflow) because the die-casting business demerger resulted in large asset disposals that more than offset gross CapEx. The ~₹1,000 Cr figure shown here is an estimate of gross CapEx spending, not the net investing CF figure.*
 
 **Owner Earnings Estimate (Buffett's Preferred Metric):**
 
@@ -203,13 +209,13 @@ TVS Motor is delivering this: it is reinvesting retained earnings at 25-30% ROE 
 
 **TVS Motor's Competitive Position:**
 
-TVS Motor is India's **3rd-largest two-wheeler manufacturer** (after Hero MotoCorp and Honda 2W), with FY25 sales of ~44 lakh+ 2Ws and 3Ws. The company has been the **fastest-growing major player**, gaining market share consistently.
+TVS Motor is India's **3rd-largest two-wheeler manufacturer** (after Hero MotoCorp and Honda 2W), with FY25 total sales of ~51+ lakh 2Ws and 3Ws (domestic + international). In the domestic 2W market (~18M units), TVS commands **~20-21% market share** and has been the **fastest-growing major player**, gaining share consistently.
 
 | Company | Market Share (approx.) | Moat Source |
 |---|---|---|
 | Hero MotoCorp | ~28% | Scale, rural distribution, brand |
 | Honda 2W India | ~25% | Technology, brand, scooter dominance |
-| **TVS Motor** | **~17-18%** | **Product innovation, brand premiumisation, EV leadership, captive finance** |
+| **TVS Motor** | **~20-21%** | **Product innovation, brand premiumisation, EV leadership, captive finance** |
 | Bajaj Auto | ~16% | Export focus, Pulsar brand, KTM alliance |
 | Royal Enfield (Eicher) | ~8% | Premium niche, cult brand |
 
@@ -259,7 +265,7 @@ The core two-wheeler business is remarkably stable and slow-changing. People wil
 
 **Total Addressable Market vs. Current Penetration:**
 
-India's two-wheeler market is ~18-20 million units annually and growing. TVS sells ~4.4 million units (FY25), representing ~22% share. International markets (60+ countries, especially Africa and ASEAN) add another massive runway. The EV transition opens an entirely new segment. TVS Credit's AUM of ₹27,000 Cr is tiny vs. the addressable opportunity in vehicle financing (Hero MotoCorp alone sells 5+ million units that need financing).
+India's two-wheeler market is ~18-20 million units annually (domestic) and growing. TVS sold ~51+ lakh (5.1 million) total 2W+3W units in FY25 (including international), with domestic 2W sales of ~37 lakh (3.7 million) — implying a **domestic 2W market share of ~20-21%**. International markets (60+ countries, especially Africa and ASEAN) add another massive runway. The EV transition opens an entirely new segment. TVS Credit's AUM of ₹27,000 Cr is tiny vs. the addressable opportunity in vehicle financing (Hero MotoCorp alone sells 5+ million units that need financing).
 
 **S-Curve Position: GROWTH PHASE (approaching mid-scaling)**
 
@@ -289,9 +295,11 @@ Over the 5-year period FY20-FY25:
 - Market cap increase: from ~₹4,000 Cr (FY20, CMP ~₹2,100) to ~₹28,787 Cr = **~₹24,800 Cr increase**
 - **For every ₹1 retained, ~₹4.05 of market value was created.** This passes the $1 test spectacularly.
 
+> *Note: The ₹6,100 Cr retained earnings figure uses consolidated NP (including minority interest's ~50% share). On an attributable basis (profit accruing to TVS Holdings shareholders only), retained earnings were ~₹2,960 Cr, giving a $1 test ratio of ~₹8.38 per ₹1 retained — nearly double, and even more impressive. The test passes emphatically on either basis.*
+
 **Promoter Holding:** 74.45% — extremely high skin in the game. The VS Trust (Venu Srinivasan family) alone holds 66.55%.
 
-**Capital Allocation:** No equity dilution. Sensible dividend payout (16-24%). Retained earnings reinvested at 25-30% ROE. Acquisitions (Norton, SEMG, Home Credit India) are strategic and bolt-on rather than empire-building. This is textbook Buffett-quality capital allocation.
+**Capital Allocation:** No dilutive equity raises since the restructuring. Sensible dividend payout (16-24%). Retained earnings reinvested at 25-30% ROE. Acquisitions (Norton, SEMG, Home Credit India) are strategic and bolt-on rather than empire-building. This is textbook Buffett-quality capital allocation.
 
 > *"When a management team with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact."* — Buffett
 
@@ -317,13 +325,15 @@ Here we have the opposite: excellent management running an excellent business. T
 | Metric | FY22 | FY23 | FY24 | FY25 | H1 FY26 |
 |---|---|---|---|---|---|
 | AUM (₹ Cr) | 14,403 | 20,602 | 25,900 | 26,647 | 28,645 |
-| AUM Growth | — | **48%** | 26% | **3%** | 5% (ann.) |
+| AUM Growth | — | **43%*** | 26% | **3%** | ~7.5% (H1) |
 | Disbursements (₹ Cr) | ~17,000 | ~21,652 | 25,018 | 26,301 | — |
 | Total Income (₹ Cr) | — | 4,160 | 5,795 | 6,630 | ~3,400 |
 | PAT (₹ Cr) | — | 389 | ~500 | ~600 | — |
 | GNPA % | ~4.5% | ~2.7% | 2.81% | 2.89% | ~3.0% |
 
 **Key Takeaway:** TVS Motor is firing on all cylinders with 30%+ growth in recent months. TVS Credit went through a period of calibrated growth in FY25 (only 3% AUM growth) to focus on asset quality, but is now resuming growth (12% disbursement growth in Q1 FY26). The management discipline to slow down when asset quality needed attention is a positive signal.
+
+> *\*FY23 AUM Growth: Direct calculation from the table (20,602/14,403 − 1) yields ~43%. TVS Credit's own press release states "48% growth from Mar'22" — the difference may arise from a slightly different base AUM definition (e.g., ₹13,928 Cr on a gross loan receivable basis vs ₹14,403 Cr on a managed AUM basis). H1 FY26 growth of ~7.5% is the sequential 6-month increase (Mar 2025 → Sep 2025). The CARE Ratings report states AUM "increased by 5% in H1FY26" which likely uses a different AUM base (₹27,179 Cr gross loan receivables vs ₹26,647 Cr managed AUM).*
 
 ---
 
@@ -333,7 +343,7 @@ Here we have the opposite: excellent management running an excellent business. T
 
 | Component | Valuation Basis | Value (₹ Cr) | Per Share (₹) |
 |---|---|---|---|
-| **50.26% stake in TVS Motor** | Market value at ₹3,476/share × 475.2 Cr shares × 50.26% | **~82,900** | **~41,040** |
+| **50.26% stake in TVS Motor** | Market value at ₹3,476/share × 47.52 Cr shares × 50.26% | **~82,900** | **~41,040** |
 | TVS Credit Services (via TVSM) | 2.5-3x book value (NBFC with ~₹3,500 Cr net worth, 50.26% share) | ~4,400-5,300 | ~2,180-2,620 |
 | Home Credit India (direct holding) | Estimated at ~1x book | ~1,500-2,000 | ~740-990 |
 | Other subsidiaries & investments | Nominal value | ~500-1,000 | ~250-500 |
@@ -380,14 +390,16 @@ This is the most appropriate method. The intrinsic value depends critically on t
 - **Intrinsic Value: ~₹22,000/share** (55% upside)
 
 **Optimistic Scenario:**
-- TVS Motor 15% above current (reflecting growth trajectory)
-- TVS Credit at 3x book
+- TVS Motor 15% above current (reflecting growth trajectory) — this premium already embeds an enhanced valuation for TVS Credit (a consolidated subsidiary of TVSM), so TVS Credit is **not** added separately to avoid double-counting
+- Home Credit India at 1.5x book + other assets
 - 40% holdco discount
 - **Intrinsic Value: ~₹28,000/share** (97% upside)
 
 ### Method 2: Consolidated Earnings-Based DCF
 
 Using Owner Earnings of ~₹2,400 Cr (FY25) as starting point:
+
+> **Methodology Note:** This DCF uses **consolidated** Owner Earnings (₹2,409 Cr), which includes minority shareholders' ~50% share of TVS Motor's earnings. The resulting per-share IV therefore represents value under the assumption that consolidated cash flows accrue proportionally to the holding company — which is directionally correct for a controlling shareholder (50.26% stake with board control) but overstates the strict attributable cash flow. The **SOTP method above is the primary valuation approach** and does not have this issue. The DCF is presented as a cross-check; if run on attributable Owner Earnings (~₹1,163 Cr), the per-share IVs would be roughly half the stated figures, but the growth rates and discount rates would also need recalibration for consistency. The averaged summary below blends both methods.
 
 | Scenario | Growth (Yr 1-5) | Growth (Yr 6-10) | Terminal Growth | Discount Rate | Intrinsic Value/Share | Upside from CMP |
 |---|---|---|---|---|---|---|
@@ -463,7 +475,7 @@ This is a **🟢 GREEN** signal — the market is NOT demanding heroic assumptio
 | FY24 | 4.5% | 0.95x | ~14.6x | ~62.5%* |
 | FY25 | 5.4% | 0.91x | ~13.1x | **~64.0%*** |
 
-*Note: The equity multiplier is extremely volatile due to demerger-related swings in consolidated equity (the die-casting business carve-out drastically altered the equity base between FY22 and FY24). The Screener-reported ROE of 30.2% uses average equity which smooths these distortions. The DuPont product using year-end equity overstates ROE in years where equity was artificially depressed by restructuring. The directional insight remains valid: ROE is driven by genuinely improving margins, not financial engineering.*
+*Note: The DuPont decomposition uses **consolidated Net Profit** (₹2,409 Cr for FY25) in the numerator — which includes minority shareholders' ~50% share of TVS Motor's earnings. Screener's reported ROE of 30.2% uses **attributable Net Profit** (~₹1,163 Cr) — this is the primary reason the DuPont product (~64%) diverges from Screener's ROE (~30%). The equity base is similar in both calculations; it is the profit numerator that differs by ~2x. Additionally, the equity multiplier is volatile due to demerger-related swings in consolidated equity (the die-casting business carve-out drastically altered the equity base between FY22 and FY24). The directional insight remains valid: ROE is driven by genuinely improving margins, not financial engineering.*
 
 **The key insight:** ROE is being driven by **improving net margins** (3.2% → 5.4%) which is genuine business improvement, combined with inherently high leverage from TVS Credit's NBFC operations. This is NOT financial engineering — it is the natural structure of a conglomerate that includes a lending arm.
 
@@ -500,19 +512,23 @@ This is a **🟢 GREEN** signal — the market is NOT demanding heroic assumptio
 
 **Verdict: 🟢 GREEN — The 10-year return exceeds the 10% hurdle rate even if P/B compresses from 5.2x to ~2.5x (less than half).**
 
+> *Note: The return CAGRs above are price-appreciation only and exclude dividend income (~0.5-0.7% yield). Total returns would be modestly higher.*
+
 ---
 
 ## 15. BUY ZONE DEFINITION
 
 Given the holding company nature, buy zones are defined using multiple frameworks:
 
-| Zone | PE Range (Consol.) | Approx. Price Range | Holdco Discount | Rationale |
+| Zone | PE Range (Consol.) | Approx. Price Range | Holdco Discount (indicative) | Rationale |
 |---|---|---|---|---|
 | **Deep Value / Strong Buy** | <10x | Below ₹7,700 | >75% | Exceptional — market ignoring the franchise completely |
 | **Value / Buy** | 10-15x | ₹7,700 - ₹11,550 | 65-75% | Attractive — significant margin of safety |
 | **Fair Value / Hold** | 15-20x | ₹11,550 - ₹15,400 | 55-65% | Fairly priced — hold for compounding |
 | **Fully Valued / Trim** | 20-25x | ₹15,400 - ₹19,250 | 45-55% | Above fair value — limited near-term upside |
 | **Overvalued / Sell** | >25x | Above ₹19,250 | <45% | Priced for perfection |
+
+> *Note: The holdco discount ranges are indicative/aspirational, not mechanically derived from the PE zones. They represent the approximate discount at which a long-term investor would find each zone attractive. The actual holdco discount at any price depends on the prevailing NAV, which fluctuates with TVSM's market price. At current NAV of ~₹89,000 Cr, the precise calculated discounts are ~10pp higher than the indicative ranges shown (e.g., Fair Value zone corresponds to ~65-74% actual discount rather than 55-65%).*
 
 **Current Price ₹14,228 falls in the FAIR VALUE / HOLD zone** (PE ~18.5x on TTM, holdco discount ~67%).
 
@@ -539,7 +555,7 @@ For a small capital base, the optimal strategy is to accumulate aggressively in 
 |---|---|---|
 | Circle of Competence — Is the business understandable? | Two-wheelers for India + captive NBFC. Buffett bought GEICO (auto insurance). He understands this. | ✅ |
 | Enduring Moat | Consumer franchise + distribution + captive finance. Moat widening through premiumisation & EV. | ✅ |
-| Trustworthy & Rational Management | Srinivasan family — stellar reputation, 74.45% ownership, no dilution, Deming Prize. | ✅ |
+| Trustworthy & Rational Management | Srinivasan family — stellar reputation, 74.45% ownership, no dilutive equity raises post-restructuring, Deming Prize. | ✅ |
 | Resistant to Technological Disruption | 2Ws are enduring; TVS is leading the EV transition rather than being disrupted by it. | ✅ |
 | Can sustain economics for 10+ years? | India's need for affordable mobility is a multi-decade secular trend. | ✅ |
 | High ROE with reinvestment opportunity | 30% ROE, 80% retention, reinvesting at attractive returns. | ✅ |
@@ -581,7 +597,7 @@ The market's fear here is the holding company discount and the complexity premiu
 
 ## 18. TURNAROUND PROBABILITY
 
-**Not applicable.** TVS Holdings is NOT a turnaround story — it is a **growth compounder** firing on all cylinders. Revenue growing 18% CAGR, profits growing 26% CAGR, margins expanding, ROE at 30%, and the underlying businesses are gaining market share.
+**Not applicable.** TVS Holdings is NOT a turnaround story — it is a **growth compounder** firing on all cylinders. Revenue growing ~18% CAGR (5Y), attributable profit growing ~26% CAGR (5Y per Screener; ~28% on EPS basis), margins expanding, ROE at 30%, and the underlying businesses are gaining market share.
 
 ---
 
@@ -592,8 +608,8 @@ The market's fear here is the holding company discount and the complexity premiu
 | **Business Quality** | **9** | India's 3rd-largest 2W maker + captive NBFC. Consumer franchise with pricing power. |
 | **Moat Durability** | **8** | Brand, distribution, captive finance, EV leadership. Moat widening, not narrowing. |
 | **Financial Health** | **7** | Standalone fortress (87x debt cover). Consolidated leverage from NBFC is structural, not concerning. |
-| **Management Quality** | **9** | Srinivasan family — impeccable reputation, 74.45% ownership, no dilution, Deming Prize winner. |
-| **Earnings Growth** | **9** | 26% EPS CAGR (5Y), 37% (3Y). Margin expansion ongoing. |
+| **Management Quality** | **9** | Srinivasan family — impeccable reputation, 74.45% ownership, no dilutive equity raises post-restructuring, Deming Prize winner. |
+| **Earnings Growth** | **9** | ~28% EPS CAGR (5Y), ~38% (3Y). Screener reports 26%/37% on attributable profit basis. Margin expansion ongoing. |
 | **Scalability** | **8** | Elite operating leverage; massive domestic + international runway. |
 | **Valuation** | **7** | ~18.5x TTM PE for 25%+ grower is reasonable. But P/B of 5.2x and holdco discount dynamics add uncertainty. |
 | **Margin of Safety** | **7** | ~67% holdco discount to NAV provides significant embedded safety. Base intrinsic value ~67% above CMP (40% MoS). |
@@ -623,8 +639,7 @@ Buffett would say: *"This is a wonderful business at a fair price. If I were wor
 - TVS Motor is worth ~₹1,66,000 Cr in the market
 - TVS Holdings owns 50.26% of it = ~₹83,000 Cr
 - TVS Holdings' market cap = ₹28,787 Cr
-- **You're paying ₹29,000 Cr for ₹83,000 Cr worth of TVS Motor + TVS Credit (worth another ₹8,000-12,000 Cr) + other assets**
-- That's 35 paise for every rupee of value
+- **You're paying ₹29,000 Cr for ₹83,000 Cr worth of TVS Motor alone — that's 35 paise for every rupee of TVS Motor value. And you get TVS Credit (worth ₹8,000-12,000 Cr) and other assets essentially for free.**
 - Even if the discount never narrows, the underlying business compounds at 20%+ ROE
 
 **Do you need Excel?** No. The napkin math works. This is approximately right — and as Buffett says, it's better to be approximately right than precisely wrong.
