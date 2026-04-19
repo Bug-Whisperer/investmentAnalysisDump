@@ -53,6 +53,8 @@ Titan isn't quite idiot-proof — jewellery retail requires careful inventory ma
 | Shares Change YoY | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
 | Dividend Payout % | 25% | 29% | 32% | 29% | 32% | 24% | 37% | 31% | 27% | 28% | 29% | — |
 
+> *Screener.in convention note: EPS is computed on profit attributable to parent shareholders (excluding minority interest), while the Net Profit row shows total consolidated net profit (including minority interest). This causes EPS × Shares to differ slightly from stated Net Profit in some years (e.g., FY18: EPS×88.8Cr = ₹1,130 Cr vs NP of ₹1,102 Cr). Consequently, EPS growth and NP growth may diverge slightly despite constant shares outstanding.*
+
 **Compounded Growth Rates:**
 | Period | Sales CAGR | Profit CAGR | EPS CAGR |
 |---|---|---|---|
@@ -147,7 +149,7 @@ In Titan's case, we need to look through the gold-driven volatility. The underly
 | Depreciation (₹ Cr) | 348 | 375 | 399 | 441 | 584 | 693 |
 | D&A as % of Revenue | 1.7% | 1.7% | 1.4% | 1.1% | 1.1% | 1.1% |
 
-**CapEx is extraordinarily low** — consistently around 1-1.2% of revenue. For a ₹60,000 Cr revenue company, spending only ₹700 Cr on CapEx is remarkable. This is because:
+**CapEx is extraordinarily low** — consistently around 0.9-1.2% of revenue. For a ₹60,000 Cr revenue company, spending only ₹700 Cr on CapEx is remarkable. This is because:
 
 1. **Franchise/lease model:** Most Tanishq stores are franchised — the franchisee puts up the capital for the store fit-out.
 2. **No manufacturing heavy-lift:** Titan outsources most jewellery manufacturing to karigars (artisans). Watch manufacturing is modest.
@@ -183,6 +185,8 @@ The quality of earnings is high — the vast majority of CapEx is discretionary 
 | ROA | ~14% | ~11% | ~9% | ~12% | ~13% | ~12% | ~6% | ~12% | ~14% | ~12% | ~9% |
 
 **10-Year Average ROE: ~26%**
+
+> *Note: The 26% figure is sourced from Screener.in, which computes it as cumulative net profit divided by average equity over the full period (weighting high-NP years more heavily). The simple arithmetic mean of the annual ROE values shown above is ~24.4%.*
 **5-Year Average ROE: ~28%**
 **3-Year Average ROE: ~32%**
 
@@ -378,36 +382,40 @@ The operational fundamentals are **robustly improving:**
 4. **Working capital efficiency improving:** from 69 days to 35 days despite massive revenue scale-up
 5. **Debtor days rock-steady at 5-7:** Titan is a retail business — customers pay upfront. No credit risk.
 
+**One area to monitor:** While Working Capital Days (which nets off liabilities) improved, the **Cash Conversion Cycle deteriorated** from 171 to 208 days in FY25, driven by a 41-day surge in Inventory Days (176 → 217). This reflects the massive gold inventory build-up required to support elevated gold prices and aggressive store expansion. CCC and WC Days can diverge because WC Days includes current liabilities (which also grew with gold-on-lease). The inventory build is not a red flag per se — it is the cost of growing in a gold-based business — but sustained inventory day expansion would signal inefficiency.
+
 ---
 
 ## 11. VALUATION ANALYSIS — The Price You Pay Determines Your Return
 
 | Metric | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current (TTM) |
 |---|---|---|---|---|---|---|---|---|---|---|
-| PE Ratio | ~80 | ~60 | ~65 | ~70 | ~130 | ~50 | ~40 | ~75 | ~95 | **~89** |
-| PB Ratio | ~14 | ~13 | ~15 | ~16 | ~17 | ~12 | ~10 | ~30 | ~27 | **~32** |
-| EV/EBITDA (est.) | ~55 | ~40 | ~45 | ~45 | ~75 | ~30 | ~25 | ~50 | ~55 | ~48 |
-| Earnings Yield | 1.3% | 1.7% | 1.5% | 1.4% | 0.8% | 2.0% | **2.5%** | 1.3% | 1.1% | **1.1%** |
+| PE Ratio | ~59 | ~69 | ~67 | ~50 | ~132 | ~100 | ~68 | ~88 | ~95 | **~89** |
+| PB Ratio | ~10 | ~15 | ~15 | ~11 | ~17 | ~23 | ~19 | ~33 | ~27 | **~31.5** |
+| EV/EBITDA (est.) | ~40 | ~45 | ~45 | ~35 | ~75 | ~55 | ~35 | ~50 | ~55 | ~48 |
+| Earnings Yield | 1.7% | 1.4% | 1.5% | 2.0% | 0.8% | 1.0% | **1.5%** | 1.1% | 1.1% | **1.1%** |
 | FCF Yield (normalised) | ~1.0% | ~neg | ~0.7% | ~neg | ~2.8% | ~neg | ~0.6% | ~0.8% | ~neg | ~0.8% |
-| Dividend Yield | 0.4% | 0.5% | 0.5% | 0.3% | 0.3% | 0.5% | 0.7% | 0.3% | 0.3% | **0.26%** |
+| Dividend Yield | 0.5% | 0.4% | 0.5% | 0.5% | 0.3% | 0.3% | 0.4% | 0.3% | 0.3% | **0.26%** |
+
+> *Note: Historical PE and P/B values are estimates based on approximate March year-end stock prices. Screener.in does not publish historical PE/PB in its ratios table. These should be treated as indicative, not precise.*
 
 ### Historical PE Range (Last 10 Years)
-- **Lowest PE:** ~32-40x (briefly during COVID crash, and during FY23 when earnings surged but stock hadn't caught up)
-- **Median PE:** ~65-70x
-- **Highest PE:** ~130x (FY21 — earnings depressed by COVID, stock priced for recovery)
+- **Lowest PE:** ~50x (FY20 during COVID crash)
+- **Median PE:** ~68-88x
+- **Highest PE:** ~132x (FY21 — earnings depressed by COVID, stock priced for recovery)
 - **Current PE (TTM):** ~89x
 
 ### Historical P/B Range
-- **Lowest P/B:** ~10x
-- **Median P/B:** ~15-18x
-- **Highest P/B:** ~32x (current)
-- **Current P/B:** ~32x — **at or near all-time high multiples**
+- **Lowest P/B:** ~10x (FY17)
+- **Median P/B:** ~17-19x
+- **Highest P/B:** ~33x (FY24 — equity compressed by CaratLane payout)
+- **Current P/B:** ~31.5x — **near the upper end of the historical range**
 
 ### Key Observation
 
-Titan has NEVER been "cheap" by traditional value metrics. It has almost always traded at 50x+ PE and 12x+ P/B. The question is whether the current ~89x PE and ~32x P/B is justified relative to its OWN history and the growth outlook.
+Titan has NEVER been "cheap" by traditional value metrics. It has almost always traded at 50x+ PE and 10x+ P/B. The question is whether the current ~89x PE and ~31.5x P/B is justified relative to its OWN history and the growth outlook.
 
-**Historical Comparison:** The stock has briefly traded at 30-40x PE during severe market dislocations (COVID crash). But sustained trading below 50x PE is rare. The current ~89x PE is in the upper half of its historical range but not at the extreme (which was 130x).
+**Historical Comparison:** The stock has briefly traded at ~50x PE during the COVID crash (FY20). But sustained trading below 60x PE is rare. The current ~89x PE is in the upper half of its historical range but not at the extreme (which was 132x in FY21).
 
 **Is it cheap on ANY metric?** No. Not on PE, not on P/B, not on FCF yield, not on EV/EBITDA. This is a premium business trading at premium multiples. The question is whether the growth justifies the premium.
 
@@ -420,22 +428,15 @@ Titan has NEVER been "cheap" by traditional value metrics. It has almost always 
 ### Three-Scenario DCF Using Owner Earnings
 
 **Common Assumptions:**
-- Starting Owner Earnings: ₹3,700 Cr (FY25 normalised)
-- TTM Owner Earnings: ~₹4,500 Cr (Q3 FY26 run-rate suggests higher run-rate)
-- We use ₹4,200 Cr as the starting point (blended current run-rate)
-- Discount Rate: 11% (Buffett uses 10% as hurdle; India's risk-free rate is higher)
-- Terminal Growth Rate: 5% (nominal GDP growth as terminal rate)
+- Starting Owner Earnings: ₹4,200 Cr (blended current run-rate — Section 5 normalised OE is ₹3,675 Cr; TTM run-rate post Q3 FY26 recovery is ~₹4,500 Cr; we use ₹4,200 as a blended estimate weighted toward the more recent TTM run-rate)
+- Discount Rate: 11% for Method A (conservative, reflecting India's higher risk-free rate); 10% for Method B (Buffett's stated hurdle rate — used because the terminal PE approach already embeds conservatism through the exit multiple rather than the discount rate)
+- Terminal Growth Rate: 5% (nominal GDP growth)
+- Net Debt: ~₹18,000 Cr (borrowings less investments)
 - Shares Outstanding: 88.8 Cr
 
-| Scenario | Growth Yr 1-5 | Growth Yr 6-10 | Terminal Growth | Intrinsic Value/Share | Margin of Safety at ₹4,130 |
-|---|---|---|---|---|---|
-| **Conservative** | 12% | 8% | 5% | **₹3,250** | **-27% (overvalued)** |
-| **Base** | 17% | 12% | 5% | **₹4,850** | **+17% upside** |
-| **Optimistic** | 22% | 15% | 5% | **₹6,900** | **+67% upside** |
+### Method A: Gordon Growth Model DCF (Theoretically Rigorous)
 
-### Detailed Base Case Walkthrough
-
-| Year | Owner Earnings ₹ Cr | Discounted @11% |
+| Year | Owner Earnings ₹ Cr (Base: 17%/12%) | Discounted @11% |
 |---|---|---|
 | 1 | 4,914 | 4,427 |
 | 2 | 5,749 | 4,668 |
@@ -448,14 +449,33 @@ Titan has NEVER been "cheap" by traditional value metrics. It has almost always 
 | 9 | 14,489 | 5,645 |
 | 10 | 16,228 | 5,694 |
 | **PV of 10-Year Cash Flows** | | **52,636** |
-| Terminal Value @5% growth (Gordon Growth Model) | 283,992 | 100,018 |
+| Terminal Value @5% perpetual growth | 283,992 | 100,018 |
 | **Total Enterprise Value** | | **1,52,654** |
-| Less: Net Debt (est.) | | ~18,000 |
+| Less: Net Debt | | ~18,000 |
 | **Equity Value ₹ Cr** | | **~1,34,654** |
-| Shares (Cr) | | 88.8 |
 | **Intrinsic Value Per Share** | | **~₹1,517** |
 
-> **Important note on the DCF disconnect:** The detailed walkthrough yields ~₹1,517/share — far below the ₹4,850 base case stated in the summary table. This is because the summary table uses a less rigorous, more market-realistic approach (applying a terminal PE multiple to Year 10 earnings rather than the Gordon Growth Model). The Gordon Growth DCF with an 11% discount rate mathematically cannot justify a ₹4,000+ price for any company growing at 17% — the discount rate crushes the present value. The summary table reflects what the market ACTUALLY pays for such compounders: a terminal multiple approach where the market assigns 50-65x PE to Year 10 earnings. The true DCF is the honest answer; the market pricing reflects optimism that Buffett would caution against.
+| Scenario | Growth Yr 1-5 | Growth Yr 6-10 | Terminal (perpetual) | IV/Share | vs CMP ₹4,130 |
+|---|---|---|---|---|---|
+| **Conservative** | 12% | 8% | 5% | **₹1,023** | -75% (deeply overvalued) |
+| **Base** | 17% | 12% | 5% | **₹1,517** | -63% (overvalued) |
+| **Optimistic** | 22% | 15% | 5% | **₹2,121** | -49% (overvalued) |
+
+**Interpretation:** Under a strict Gordon Growth DCF at 11% discount rate, Titan is overvalued across ALL scenarios. This is the mathematical reality — no company growing at 17% can justify a 90x PE under traditional DCF. This is precisely why Buffett says he prefers simple mental math over DCF models for high-quality compounders.
+
+### Method B: Terminal PE Multiple Approach (Market-Realistic)
+
+The market does not value high-quality compounders using the Gordon Growth Model. Instead, it assigns a terminal PE multiple to Year 10 earnings reflecting the company's expected quality at that point. This approach explicitly shows what terminal multiple is baked into each IV estimate.
+
+| Scenario | Growth Yr 1-5 | Growth Yr 6-10 | Terminal PE (Yr 10) | Yr 10 OE (₹ Cr) | IV/Share | vs CMP ₹4,130 |
+|---|---|---|---|---|---|---|
+| **Conservative** | 12% | 8% | 40x | 10,876 | **₹2,181** | -47% (overvalued) |
+| **Base** | 17% | 12% | 50x | 16,228 | **₹3,946** | -4% (roughly fair) |
+| **Optimistic** | 22% | 15% | 60x | 22,832 | **₹6,525** | +58% upside |
+
+*Methodology: PV of 10 years of Owner Earnings + (Year 10 OE × Terminal PE) discounted back at 10% (Buffett's hurdle rate). Less net debt. Divided by shares.*
+
+**The honest verdict:** Even under the market-realistic terminal PE approach, the Base Case IV (₹3,946) is slightly below CMP (₹4,130). The stock is **fairly valued at best** — there is no margin of safety. Only the Optimistic scenario (22% growth for 5 years + 60x terminal PE) produces meaningful upside, and that requires heroic assumptions.
 
 ---
 
@@ -538,7 +558,7 @@ Titan has NEVER been "cheap" by traditional value metrics. It has almost always 
 | Tangible Book Floor | ~₹85 TBVPS × 1x | ₹85 | -98% (irrelevant — brand value ≫ book) |
 | Trough Earnings × Trough PE | ₹25 EPS × 40x | ₹1,000 | -76% |
 | Normalised Bear Case | ₹46 EPS × 50x | ₹2,300 | -44% |
-| Market Panic Floor | Historical low PE 32x × ₹46 EPS | ₹1,500 | -64% |
+| Extreme Panic Scenario | Hypothetical ~32x PE (below any observed annual low of ~50x) × ₹46 EPS | ₹1,472 | -64% |
 | **Most Probable Downside Floor** | ₹46 EPS × 55x (market rarely goes below this) | **₹2,530** | **-39%** |
 
 **Upside Case:**
@@ -569,12 +589,14 @@ This is **marginal asymmetry** — barely positive. You're not getting a fat pit
 
 | Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE |
 |---|---|---|---|---|
-| FY20 | 7.1% | 1.55x | 2.03x | ~23% |
+| FY20 | 7.1% | 1.55x | 2.03x | ~22% |
 | FY21 | 4.5% | 1.32x | 2.19x | ~13% |
 | FY22 | 7.6% | 1.36x | 2.28x | ~24% |
 | FY23 | 8.1% | 1.50x | 2.28x | ~28% |
 | FY24 | 6.8% | 1.62x | 3.36x | ~37% |
 | FY25 | 5.5% | 1.49x | 3.50x | ~29% |
+
+> *Methodology note: This DuPont table uses year-end Total Assets and year-end Shareholders' Equity for the Asset Turnover and Equity Multiplier calculations. Section 6 computes ROE using average equity (opening + closing ÷ 2). The two methods produce different ROE figures — most notably for FY24, where the CaratLane payout caused equity to drop sharply mid-year (₹11,851 → ₹9,393 Cr), making year-end equity much lower than the average. This explains why FY24 DuPont ROE (~37%) is higher than Section 6's ~33%.*
 
 **Critical Finding:** The Equity Multiplier has SURGED from 2.0x to 3.5x over 5 years. This means a significant portion of recent ROE expansion is leverage-driven (gold-on-lease + CaratLane acquisition financing), not purely from improving profitability or asset efficiency.
 
@@ -618,6 +640,8 @@ ROCE (19%) being BELOW ROE (32%) confirms this: leverage is doing significant wo
 | P/B compresses to 18x | Moderate de-rating | 7.5% | 11.0% | 13.6% |
 | P/B compresses to 12x | Historical low (fair for 28% ROE business) | -0.9% | 4.7% | 9.1% |
 | P/B compresses to 8x | Severe de-rating | -8.6% | -1.2% | 4.8% |
+
+> *Note: These return CAGRs reflect price appreciation only and exclude dividend income (~0.26% yield at current P/B). Including dividends would add ~0.2-0.3% to each CAGR, making the breakeven P/B thresholds marginally less demanding. The exclusion makes this analysis slightly more conservative — consistent with the overall valuation stance.*
 
 ### Key Insight
 
