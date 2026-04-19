@@ -889,7 +889,7 @@ Swaraj Engines is the anti-thesis of leverage-driven returns. The 42% ROE comes 
 
 #### Step 4: Key Insight
 
-> "At the current entry P/B of **10.8x** with a sustainable ROE of 35% and 20% retention, book value compounds at **7% annually**. If the P/B multiple remains at 10.8x, the price appreciation return equals the BV compounding rate of **7%**, plus ~3% dividend yield = **~10% total return**. Every 50% compression in P/B over 10 years creates roughly **7% annual drag** on returns. The stock can tolerate P/B compression from 10.8x down to approximately **7x** before the 10-year total return (including dividends) drops below the 10% hurdle rate."
+> "At the current entry P/B of **10.8x** with a sustainable ROE of 35% and 20% retention, book value compounds at **7% annually**. If the P/B multiple remains at 10.8x, the price appreciation return equals the BV compounding rate of **7%**, plus ~3% dividend yield = **~10% total return**. Every 50% compression in P/B over 10 years creates roughly **7% annual drag** on returns. Critically, the stock can tolerate essentially **zero P/B compression** before the 10-year total return (including dividends) drops below the 10% hurdle rate — the break-even exit P/B is **10.8x itself**. Even a mild de-rating to 8x book drops the total return to ~7%, and a reversion to the fair P/B of 7x yields only ~5.5%. This is the core valuation risk."
 
 #### Step 5: Traffic Light Verdict
 
