@@ -4,9 +4,9 @@
 
 **Current Market Price (CMP):** ₹3,476 (as of March 20, 2026)
 **Market Cap:** ₹1,65,990 Cr.
-**Stock P/E (TTM):** ~57x | **P/B:** ~20x | **ROE:** ~28% | **ROCE:** ~15%
+**Stock P/E (TTM):** ~57x | **P/B:** ~20x | **ROE:** ~28% (Screener; average-equity ROE is ~31% — see Section 6) | **ROCE:** ~15%
 **52-Week Range:** ₹2,221 – ₹3,970
-**Shares Outstanding:** ~47.5 Cr (Face Value ₹1)
+**Shares Outstanding:** ~47.5 Cr (Face Value ₹1; Screener's Equity Capital of ₹48 Cr implies ~48 Cr shares at par — the ~0.5 Cr difference reflects weighted-average diluted count vs par-value count)
 
 ---
 
@@ -37,7 +37,7 @@ TVS Motor is simple to understand: it makes two-wheelers that hundreds of millio
 | **Revenue** | 16,340 | 20,160 | 18,849 | 19,421 | 24,355 | 31,974 | 38,779 | 44,089 | **52,559** |
 | Revenue Growth YoY | 31.1% | 23.4% | **-6.5%** | 3.0% | 25.4% | 31.3% | 21.3% | 13.7% | ~23% |
 | **Operating Profit (EBITDA)** | 1,571 | 2,163 | 2,264 | 2,232 | 2,755 | 4,027 | 5,435 | 6,575 | **8,084** |
-| OPM % | **10%** | 11% | 12% | 12% | 11% | 13% | 14% | **15%** | 15% |
+| OPM % | **10%** | 11% | 12% | 11% | 11% | 13% | 14% | **15%** | 15% |
 | Other Income | 71 | 25 | 12 | 36 | -5 | 136 | 131 | 99 | -92 |
 | Interest | 338 | 663 | 855 | 881 | 940 | 1,368 | 1,917 | 2,093 | 2,215 |
 | Depreciation | 374 | 442 | 556 | 565 | 743 | 859 | 956 | 1,046 | 1,250 |
@@ -51,6 +51,10 @@ TVS Motor is simple to understand: it makes two-wheelers that hundreds of millio
 | Shares Outstanding (Cr) | ~48 | ~48 | ~48 | ~48 | ~48 | ~48 | ~48 | ~48 | ~48 |
 | Shares Change | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
 | Dividend Payout % | 24% | 24% | 27% | 28% | 24% | 18% | 23% | 21% | — |
+
+> **Notes on the TTM column:**
+> - *TTM growth rates (~23% revenue, ~49% net profit, ~30% EPS)* are sourced from Screener.in and represent **trailing-four-quarter vs prior trailing-four-quarter** comparisons (i.e., TTM ending Dec 2025 vs TTM ending Dec 2024), not TTM vs FY25. This differs from the FY-to-FY methodology used in all other columns. On a TTM-vs-FY25 basis, revenue growth is ~19% and net profit growth is ~29%.
+> - *EPS vs Net Profit reconciliation:* Screener's EPS is computed on **profit attributable to parent shareholders** (excluding minority interest from subsidiaries, primarily TVS Credit Services). The Net Profit row shows **total consolidated net profit** (including minority interest). In FY24-FY25, the gap (consolidated NP minus EPS-implied attributable profit) is ₹93-145 Cr and growing as TVS Credit scales; in earlier years the gap is smaller or may reverse where subsidiaries reported minority losses. This means: Section 5 Owner Earnings (based on consolidated NP) and Section 13 Reverse DCF (based on Screener's attributable EPS) use different profit bases. The PE ratio of ~57x is on the attributable EPS basis; on consolidated NP per share (₹3,064 ÷ 47.5 = ~₹64.5), the effective PE is ~54x.
 
 **Narrative Analysis:**
 
@@ -181,7 +185,7 @@ The fact that Owner Earnings (₹2,330 Cr) are very close to reported Net Income
 | Net Profit Margin | 5.4% | Modest but improving — typical for manufacturing |
 | Asset Turnover | 0.93x | Decent; diluted by TVS Credit's large asset base |
 | Equity Multiplier | 5.6x | High — but reflects lending subsidiary's balance sheet |
-| **ROE** | **~28-31%** | Outstanding — world-class for a manufacturer |
+| **ROE** | **~28-31%** | The three-factor product yields ~28% (year-end basis); average-equity ROE is ~31%. See Section 14 methodology note. |
 
 **Critical Insight — ROE Quality:**
 
@@ -400,7 +404,7 @@ The stock has re-rated significantly over the past 3 years, driven by accelerati
 
 **On a P/B basis:** A P/B of 20x for a manufacturing company is extreme. Even with a ROE of 28-31%, the theoretically justified P/B (using Gordon Growth Model) would be:
 
-Fair P/B = (ROE - g) / (CoE - g) = (0.28 - 0.22) / (0.12 - 0.22) = This produces negative denominator because g > CoE when ROE × retention > CoE.
+Fair P/B = (ROE - g) / (CoE - g) = (0.28 - 0.224) / (0.12 - 0.224) = This produces negative denominator because g > CoE when ROE × retention > CoE.
 
 When the sustainable growth rate exceeds the cost of equity (as it does for TVS — ROE of 28% × 80% retention = 22.4% growth > 12% CoE), the Gordon Growth Model breaks down. This actually tells us that **TVS is a genuinely exceptional compounder** — it can grow faster than investors' required returns by reinvesting retained earnings at very high ROEs. Such businesses command premium multiples. However, 20x book is still at the extreme end of what is sustainable.
 
@@ -517,13 +521,13 @@ The valuation is undeniably rich. TVS is a wonderful business, but the price dem
 |---|---|
 | India nominal GDP growth | 10-12% |
 | TVS 5Y historical EPS CAGR | **~30%** |
-| TVS 10Y historical EPS CAGR | **~22%** |
+| TVS 10Y historical EPS CAGR | **~21%** (FY15 EPS ₹6.91 → FY25 EPS ₹47.06 = 21.1% CAGR; source: Screener P&L) |
 | Industry average growth | ~15% |
 | Analyst consensus (forward 2Y) | ~20-25% |
 
 **Traffic Light Assessment:**
 
-- **At Terminal PE 20x:** To earn 10% return over 10 years, need 22.1% EPS CAGR — roughly in line with TVS's 10Y track record (~22%) but demanding sustained high performance. 🟡 **YELLOW** — achievable but optimistic; you need the business to sustain its best-ever growth rate for a full decade.
+- **At Terminal PE 20x:** To earn 10% return over 10 years, need 22.1% EPS CAGR — marginally above TVS's 10Y track record (~21%) and demanding sustained high performance. 🟡 **YELLOW** — achievable but optimistic; you need the business to slightly exceed its historical best growth rate for a full decade.
 
 - **At Terminal PE 30x:** To earn 10% return over 10 years, need 17.3% EPS CAGR — below TVS's 5Y track record. 🟢 **GREEN** — reasonable if you believe TVS will retain a premium multiple.
 
@@ -531,7 +535,7 @@ The valuation is undeniably rich. TVS is a wonderful business, but the price dem
 
 ### Step 5: The Verdict
 
-> "At the current price of ₹3,476, to earn a 15% annualised return over 10 years assuming the market values the business at 30x PE at exit, the company needs to grow EPS at 22.6% CAGR. The company has historically grown EPS at 22-30% CAGR over 5-10 year periods. This implies the market is pricing in high but historically consistent growth — the price is optimistic but not insane IF the current growth trajectory sustains AND the market continues to assign a premium multiple."
+> "At the current price of ₹3,476, to earn a 15% annualised return over 10 years assuming the market values the business at 30x PE at exit, the company needs to grow EPS at 22.6% CAGR. The company has historically grown EPS at 21-30% CAGR over 5-10 year periods. This implies the market is pricing in high but historically consistent growth — the price is optimistic but not insane IF the current growth trajectory sustains AND the market continues to assign a premium multiple."
 
 🟡 **YELLOW** — the price is fair to expensive. You're not getting a screaming bargain. Your returns depend heavily on: (1) TVS sustaining 20%+ EPS CAGR for a decade, and (2) the market not de-rating the P/E from current levels.
 
@@ -605,6 +609,8 @@ This is **negative asymmetry** — the downside significantly exceeds the upside
 | FY23 | 4.1% | 0.91x | 6.36x | 26.4% |
 | FY24 | 4.6% | 0.92x | 6.20x | 28.9% |
 | **FY25** | **5.4%** | **0.93x** | **5.60x** | **31.1%** |
+
+> **Methodology note:** Asset Turnover and Equity Multiplier in this table use **year-end** total assets and equity (as is standard for DuPont decomposition using Screener's point-in-time balance sheet data). The three-factor product therefore yields the **year-end ROE** (~28% for FY25), not the **average-equity ROE** (~31.1%) shown in the ROE column and Section 6. The ROE column uses average equity to be consistent with Section 6's convention and to avoid understating returns in years of rapid book value growth. The directional trends and quality insights (margin-driven, not leverage-driven) are identical under either convention.
 
 **Key Insight:** ROE has improved from 17% to 31% over 5 years. The improvement is driven by **margin expansion** (3.1% → 5.4%), not by increasing leverage (equity multiplier actually declined from 6.36x to 5.60x in FY23-25). This is the highest-quality ROE improvement — driven by genuine operating efficiency.
 
