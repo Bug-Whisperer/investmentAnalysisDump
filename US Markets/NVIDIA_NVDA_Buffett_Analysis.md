@@ -88,11 +88,11 @@ Book value per share has compounded from $0.38 to $6.47 in seven years — a 50%
 
 **Cash Flow Quality:** NVIDIA's free cash flow conversion is superb. FCF of $96.7 billion in FY2026 represents 80% of net income, with the gap primarily being working capital investment (building inventory for the Blackwell ramp). The capital intensity is remarkably low — CapEx was only $6 billion on $216 billion of revenue (2.8%), because NVIDIA is fabless and outsources manufacturing to TSMC.
 
-**SBC Concern:** Stock-based compensation was a significant concern historically (62% of net income in FY2023), but as profitability exploded, SBC has fallen to just 5.3% of net income — manageable for a tech company. SBC totalled $6.4B in FY2026, which dilutes reported earnings by about 5%. Starting FY2027, NVIDIA will include SBC in its non-GAAP results — a welcome transparency move.
+**SBC Concern:** Stock-based compensation was a significant concern historically (62% of net income in FY2023), but as profitability exploded, GAAP SBC has fallen to just 5.3% of net income ($6.4B in FY2026). Starting FY2027, NVIDIA will include SBC in its non-GAAP results — a welcome transparency move. However, the GAAP SBC figure significantly understates the true economic cost of dilution (see Capital Return discussion below).
 
-**Capital Return:** NVIDIA returned $41.1 billion to shareholders in FY2026 ($40.1B buybacks + $974M dividends). Basic shares outstanding declined from 24,477M to 24,304M over FY2025-FY2026, a modest 0.7% reduction — the buybacks partially offset SBC dilution. The dividend ($0.04/share annual) is token, yielding just ~0.02%. This is a growth-and-buyback story, not an income story.
+**Capital Return:** NVIDIA returned $41.1 billion to shareholders in FY2026 ($40.1B buybacks + $974M dividends). Basic shares outstanding declined from 24,477M to 24,304M in FY2026 — a 173M share net reduction. However, the multi-year picture reveals a critical dynamic that investor Michael Burry highlighted in November 2025: over the full FY2019-FY2026 period, NVIDIA spent ~$103B on cumulative buybacks, yet basic shares actually *increased* by ~64M (from ~24,240M to 24,304M). The cumulative GAAP SBC over this period was ~$22B, but the actual dilution absorbed ~$103B in buybacks without reducing the share count — implying the true economic cost of dilution was ~4.7x the reported GAAP SBC expense. The GAAP SBC figure is recorded at grant-date fair value, but as the stock price appreciated enormously, the shares vesting and entering the market represent a far larger economic cost than the accounting charge suggests. In FY2026 specifically, $40.1B in buybacks achieved only a 173M net share reduction — meaning the vast majority of buyback dollars went to absorbing dilution rather than genuinely reducing shares for existing holders. The dividend ($0.04/share annual) is token, yielding just ~0.02%.
 
-> *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* — Buffett. NVIDIA generates enormous cash, requires minimal capital reinvestment, and returns the excess to shareholders. This is near-ideal.
+> *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* — Buffett. NVIDIA's cash generation and capital-light model are near-ideal. The caveat is that a meaningful portion of the economic value created is shared with employees through SBC rather than accruing to external shareholders — the one blemish on an otherwise pristine capital return story.
 
 ---
 
@@ -184,16 +184,25 @@ NVIDIA is a widely-held, no-promoter company listed on NASDAQ.
 
 **Owner Earnings Calculation:**
 
+*Standard Owner Earnings (accounting-correct):*
 ```
 Net Income (FY2026):          $120,067M
 + Depreciation & Amortisation:  $5,200M
 - Maintenance CapEx (est.):     $1,813M
-= Owner Earnings:             $123,454M ($5.04/share)
+= Standard Owner Earnings:    $123,454M ($5.04/share)
 ```
 
-*Note: SBC ($6,386M) is NOT deducted separately because GAAP Net Income already includes SBC as an operating expense. Deducting it again would double-count.*
+*Buffett-Adjusted Owner Earnings (replacing GAAP SBC with actual dilution cost):*
+```
+Standard Owner Earnings:      $123,454M
++ Add back GAAP SBC:           $6,386M  (already in NI; replacing with true cost below)
+- Maintenance Buybacks:        $17,550M  (actual cash to neutralise ~135M shares of annual SBC dilution)
+= Buffett-Adjusted OE:       $112,290M ($4.58/share)
+```
 
-FCF of $96.7B understates Owner Earnings because FCF includes growth CapEx. True sustainable earning power is approximately $123B, or $5.04/share — slightly above reported EPS of $4.90 because D&A ($5.2B) exceeds estimated maintenance CapEx ($1.8B), meaning GAAP depreciation charges overstate the true capital consumption of this asset-light business.
+*Why the adjustment?* GAAP SBC ($6.4B) is recorded at grant-date fair value, but the shares vest and enter the market at much higher prices. In FY2026, NVIDIA spent $40.1B on buybacks but achieved only a 173M net share reduction — meaning ~$17.6B (44% of buybacks) went solely to neutralising SBC dilution. Over the full FY2019-FY2026 period, $103B in cumulative buybacks failed to reduce the share count at all (shares actually increased by 64M). The true economic cost of SBC dilution — measured by the cash required to offset it — has historically been ~4.7x the GAAP expense. Buffett's Owner Earnings should reflect this reality: the maintenance buyback cost is non-discretionary, just like maintenance CapEx. If the company doesn't spend it, existing owners' percentage of the business deteriorates every year. Cash that cannot be freely extracted by owners is not owner earnings — it is a cost of running the business.
+
+The Buffett-Adjusted OE of $112.3B ($4.58/share) is used as the starting point for the DCF valuation in Section 15.
 
 ---
 
@@ -285,7 +294,7 @@ The total addressable market for AI infrastructure is estimated at $1-2 trillion
 
 **Capital Allocation:** NVIDIA has executed share buybacks aggressively ($40B in FY2026). Given the stock's extraordinary appreciation, the retrospective return on these buybacks is difficult to critique — the stock has only gone up. However, at a current PE of 41x, one could argue buybacks are less efficient than they were at lower multiples. The company has also invested wisely in its CUDA ecosystem, supply chain relationships with TSMC, and strategic investments.
 
-**SBC:** At 5.3% of net income, SBC is well-managed relative to the company's earnings power. It was a concern at 62% of NI in FY2023 but has been dwarfed by the explosion in profitability.
+**SBC:** GAAP SBC at 5.3% of net income ($6.4B) appears manageable, but as discussed in Section 4, the true economic cost of dilution is substantially higher — over the past 8 years, ~$103B in buybacks failed to reduce the share count. This is the single most significant blemish on an otherwise outstanding capital allocation track record.
 
 > *"I learned a long time ago that the most important single factor in choosing a business to invest in is the ability of the management."* — Buffett. Jensen Huang is one of the great business leaders of this generation. His strategic vision, execution, and retention of talent (through SBC) have been extraordinary.
 
@@ -338,17 +347,17 @@ When ROE far exceeds the cost of equity AND the growth rate exceeds the cost of 
 
 | Scenario | Growth Y1-5 | Growth Y6-10 | Terminal Growth | Discount Rate | IV/Share | MoS at $200 | Upside |
 |---|---|---|---|---|---|---|---|
-| **Conservative** | 15% | 8% | 3.0% | 10% | $145.28 | -37.7% | -27.4% |
-| **Base** | 20% | 12% | 3.5% | 10% | $211.84 | 5.6% | 5.9% |
-| **Optimistic** | 25% | 15% | 4.0% | 10% | $301.01 | 33.6% | 50.5% |
+| **Conservative** | 15% | 8% | 3.0% | 10% | $132.35 | -51.1% | -33.8% |
+| **Base** | 20% | 12% | 3.5% | 10% | $192.89 | -3.7% | -3.6% |
+| **Optimistic** | 25% | 15% | 4.0% | 10% | $274.00 | 27.0% | 37.0% |
 
-**Starting Owner Earnings:** $123,454M ($5.04/share), using FY2026 figures.
+**Starting Owner Earnings:** $112,290M ($4.58/share) — Buffett-Adjusted, using FY2026 figures. This reflects the true cash owners can extract after accounting for maintenance buybacks required to neutralise SBC dilution (see Section 8 for derivation).
 
-**Interpretation:** The base case puts intrinsic value at ~$212 — modestly above the current price, implying the stock is **roughly fairly valued with a thin margin of safety (~6%)** under reasonable growth assumptions (20% EPS CAGR for 5 years, decelerating to 12%). The conservative case suggests meaningful downside risk if AI spending decelerates faster than expected. The optimistic case offers ~50% upside if the AI supercycle sustains for a full decade.
+**Interpretation:** The base case puts intrinsic value at ~$193 — slightly below the current price, implying **no margin of safety** under reasonable growth assumptions (20% EPS CAGR for 5 years, decelerating to 12%). The conservative case suggests significant downside risk if AI spending decelerates faster than expected. The optimistic case offers ~37% upside if the AI supercycle sustains for a full decade.
 
 Margin of Safety formula: MoS = (IV − CMP) / IV.
 
-At the current price of $200, the base-case margin of safety is only ~6% — well below the 25%+ Buffett typically demands. This is a wonderful business at a fair price — not a wonderful business at a wonderful price.
+At the current price of $200, the base-case intrinsic value of ~$193 indicates the stock is **slightly above fair value** — the price requires execution at the high end of reasonable assumptions just to justify itself. Buffett would note that this is a wonderful business at a full price — not a wonderful business at a wonderful price.
 
 > *"Price is what you pay, value is what you get."* — Buffett.
 
@@ -487,12 +496,12 @@ Projected BVPS at 25% growth (conservative given 50%+ historical BVPS CAGR):
 | Management quality | Jensen Huang is a once-in-a-generation founder-CEO | ✅ |
 | Technological disruption risk | Industry is inherently subject to change; custom ASICs, new architectures are real threats | ⚠️ |
 | 10+ year economics sustainability | Probable but uncertain; AI spending is a secular shift, but market structure could evolve | ⚠️ |
-| Price below intrinsic value | At ~$200, roughly fairly valued; only ~6% MoS under base case | ⚠️ |
+| Price below intrinsic value | At ~$200, slightly above base-case IV of ~$193; no margin of safety | ❌ |
 | Financial fortress | $55B net cash, 0.05x D/E | ✅ |
 
 **Honest Verdict:** Buffett would deeply admire this business — the returns on capital, the moat, the management, the balance sheet. He would recognise that NVIDIA today has the same "inevitability" quality that Coca-Cola had in 1988 — it is THE essential infrastructure for the most transformative technology shift in decades.
 
-But Buffett would likely **NOT** buy at $200. Three reasons: (1) The ~6% base-case margin of safety is far below his typical 25%+ threshold — continued ~20% earnings growth is required to deliver meaningful returns. (2) The technology sector makes him uncomfortable for 10-20 year predictions — he cannot say with certainty what the competitive landscape looks like in 2036. (3) At $4.9 trillion market cap, NVIDIA must add another $5+ trillion in value to double — the law of large numbers becomes a headwind.
+But Buffett would likely **NOT** buy at $200. Three reasons: (1) Using Buffett-Adjusted Owner Earnings (which account for the true cost of SBC dilution), the base-case intrinsic value is ~$193 — the stock is slightly above fair value with no margin of safety. (2) The technology sector makes him uncomfortable for 10-20 year predictions — he cannot say with certainty what the competitive landscape looks like in 2036. (3) At $4.9 trillion market cap, NVIDIA must add another $5+ trillion in value to double — the law of large numbers becomes a headwind.
 
 However, if Buffett were working with a **small capital base** (as he was at the Buffett Partnership), he might take a different view. With small capital, the opportunity cost of missing NVIDIA's continued compounding is higher, and the position sizing is more flexible. A small-capital Buffett might take a 3-5% position at current prices, with a plan to add aggressively on any 30-40% pullback.
 
@@ -546,10 +555,10 @@ However, if Buffett were working with a **small capital base** (as he was at the
 | Management Quality | **10** | Jensen Huang is a once-in-a-generation founder; 30+ years of vision |
 | Return on Capital | **10** | ROE 101%, ROA 75%, ROIC 67% — historically unprecedented |
 | Scalability | **9** | Elite scaling machine; $1T+ TAM runway; CapEx-light |
-| Valuation | **5** | 40.8x PE with only ~6% MoS at ~$200; fair but not cheap |
-| Margin of Safety | **4** | ~6% MoS under base-case DCF; well below Buffett's 25%+ threshold |
-| **Overall Score** | **8.4 / 10** | |
-| **Buffett Verdict** | | NVIDIA is the most extraordinary business of this generation — monopoly-like market share, >50% net margins, near-zero leverage, and a founder-CEO with 30 years of vision. The economics are beyond what even Buffett has seen at this scale. However, at $200 (~41x PE), the stock is priced for continued excellence, offering only a thin ~6% margin of safety — well below Buffett's 25%+ comfort zone. This is a **wonderful company at a fair price** — not cheap, not expensive, but demanding. For small-capital investors, a 3-5% starter position with aggressive accumulation on 30-40% pullbacks is the Buffett playbook. The ideal entry would be during a market panic or AI sentiment correction that pushes the stock into the $130-150 range (25-30x forward PE), where the risk-reward becomes truly compelling. |
+| Valuation | **5** | 40.8x PE; base-case IV ~$193 using Buffett-Adjusted OE — slightly above fair value |
+| Margin of Safety | **3** | Negative MoS (-3.7%) under Buffett-Adjusted base case; price requires optimistic execution |
+| **Overall Score** | **8.3 / 10** | |
+| **Buffett Verdict** | | NVIDIA is the most extraordinary business of this generation — monopoly-like market share, >50% net margins, near-zero leverage, and a founder-CEO with 30 years of vision. The economics are beyond what even Buffett has seen at this scale. However, when the true cost of SBC dilution is factored in (via maintenance buybacks), the Buffett-Adjusted Owner Earnings of $4.58/share put intrinsic value at ~$193 — meaning at $200, the stock offers **no margin of safety.** This is a **wonderful company at a full price.** For small-capital investors, a watchlist position with aggressive accumulation on 30-40% pullbacks is the Buffett playbook. The ideal entry would be during a market panic or AI sentiment correction that pushes the stock into the $130-150 range (25-30x forward PE), where the risk-reward becomes truly compelling. |
 | **Buy Zone** | | **Fair Value / Hold Zone ($170-$220)** |
 | **Recommendation** | | **HOLD if owned. WATCHLIST if not — wait for a pullback to the $130-150 Buy Zone.** |
 
