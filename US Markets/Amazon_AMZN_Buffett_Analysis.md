@@ -338,7 +338,7 @@ Terminal Growth Rate: 3%
 | Base | 15% | 10% | $254.3 | 1.5% | 1.52% |
 | Optimistic | 18% | 12% | $306.5 | 18.28% | 22.36% |
 
-**Interpretation:** Under the Base Case (15% growth for 5 years, 10% for the next 5), Amazon's intrinsic value is approximately $254.3 per share — implying 1.52% upside from the current price of $250.48. Even the Conservative case suggests the stock is roughly fairly valued.
+**Interpretation:** Under the Base Case (15% growth for 5 years, 10% for the next 5), Amazon's intrinsic value is approximately $254.3 per share — implying the stock is roughly fairly priced at $250.48. The Conservative case ($210.75) suggests ~16% downside, meaning the stock is meaningfully above intrinsic value if growth disappoints. The Optimistic case ($306.50) offers ~22% upside. The range of outcomes spans from -16% to +22%, indicating that at the current price, investors are essentially betting on at least Base Case execution — there is limited margin of safety against growth disappointment.
 
 Buffett: *"Price is what you pay. Value is what you get."*
 
@@ -550,9 +550,9 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 - Amazon earns ~$7.17 per share
 - You pay ~$250 per share → ~35x earnings
 - Earnings grow at ~15% per year for 10 years → EPS grows to ~$29
-- At a modest 20x PE in 10 years → stock price = $580
-- That's a ~8.8% annual return, BEFORE any PE expansion
-- If PE stays at 25x → stock price = $725 → ~11.2% annual return
+- At a 20x PE in 10 years (significant compression from today's ~35x) → stock price = $580
+- That's a ~8.8% annual return, DESPITE a ~43% PE compression headwind
+- If PE compresses only to 25x (still ~29% below today's 35x) → stock price = $725 → ~11.2% annual return
 
 **Napkin Verdict:** ✅ The math works without Excel. This is approximately right, which is better than being precisely wrong.
 
