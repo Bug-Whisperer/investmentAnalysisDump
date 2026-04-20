@@ -276,10 +276,97 @@ This is a critical section. Break down CapEx into:
 - SBC as % of revenue (a real economic cost often ignored)
 - Estimate what proportion of total spend (CapEx + R&D) is likely MAINTENANCE capex (keeping the business competitive / defending the moat) vs. GROWTH capex (genuinely expanding the economic footprint)
 - Recalculate "Owner Earnings" (Buffett's preferred metric) adjusting for true maintenance costs:
-  Owner Earnings = Net Income + D&A - Maintenance CapEx
+
+  **Base Owner Earnings = Net Income + D&A - Maintenance CapEx**
+
+  This is sufficient for companies with zero or negligible SBC (most Indian non-tech companies). For these companies, reported earnings closely approximate true economic earnings and the analysis can stop here.
+
+  **For companies with material SBC and active buyback programmes** (typically US-listed tech, but increasingly relevant for Indian IT and new-economy companies), a further adjustment is required — the Buffett/Burry Anti-Dilution Adjustment:
+
+  **Dilution-Adjusted Owner Earnings = Net Income + D&A - Maintenance CapEx - Cash Spent on Anti-Dilution Buybacks**
+
+  The rationale (per Michael Burry's NVIDIA critique and Buffett's long-standing philosophy): If a company gives away pieces of itself to employees via SBC, and then spends real cash buying those pieces back just to prevent the share count from rising, that cash is **already spoken for** — it is a cost of running the business, not a discretionary return of capital. Buffett: *"If options aren't a form of compensation, what are they? If compensation isn't an expense, what is it? And if expenses shouldn't go into the calculation of earnings, where in the world should they go?"*
+
+  **Defining "Cash Spent on Anti-Dilution Buybacks":** This is the portion of total buyback spending that merely offsets SBC dilution (keeps the share count flat), NOT buybacks that genuinely reduce the share count. If the diluted share count rose despite buybacks (as with NVIDIA — 47 million MORE shares despite $112.5B in buybacks), then the ENTIRE buyback spend was anti-dilution cost and even that wasn't enough. If buybacks exceeded SBC dilution (share count genuinely fell), only the portion needed to keep the count flat is the anti-dilution cost; the remainder is true capital return.
+
+  > **On the technical double-count:** GAAP Net Income already includes SBC as an expense (~$20.5B for NVIDIA). The anti-dilution buyback cost (~$112.5B) represents the actual cash required to neutralise that same dilution at market prices. There is a theoretical overlap of approximately the GAAP SBC amount. However: (a) the GAAP expense uses **grant-date fair values** which may dramatically understate the true cash cost — for NVIDIA the buyback cost was **5.5x** the GAAP expense, making the overlap ~18% of the adjustment; (b) the cash buyback figure is the economically relevant number since it represents actual cash leaving the company; (c) Buffett would say: *"I'd rather be approximately right than precisely wrong."* Burry's conclusion — that NVIDIA's true owner earnings were ~50% lower than reported — stands regardless of whether you adjust for the overlap.
+
+  **Use Dilution-Adjusted Owner Earnings (not Base, not reported FCF) as the starting cash flow for DCF valuation of companies with material SBC.** This is the figure that represents true cash available to the owner after all costs of maintaining the business — including the cost of maintaining the per-share ownership structure.
+
 - Explain what this implies about the quality and sustainability of reported Free Cash Flow
 
 Apply Buffett's "owner earnings" framework and quote him on the difference between accounting earnings and economic earnings.
+
+### SBC & Share Dilution Analysis — The Hidden Cash Cost to Shareholders
+
+> **Purpose:** Here is the subtlety that most analyses miss. GAAP Net Income already includes SBC as an expense — the earnings line looks clean. But there are TWO separate problems:
+>
+> **Problem 1 — The GAAP expense understates reality:** GAAP SBC expense uses grant-date fair values. When a company grants RSUs at $50/share but must buy them back at $500/share to offset dilution, the income statement captured $50 of cost while the cash register shows $500 leaving. The GAAP expense can understate the true economic cost by 5-10x in a rising stock.
+>
+> **Problem 2 — FCF is inflated:** The cash flow statement adds SBC back to OCF (because it's "non-cash"), which means FCF overstates true cash available to shareholders. The company must then spend real cash on buybacks to prevent dilution. That buyback spending is effectively an **operating expense disguised as a financing activity** — invisible in margins, invisible in the income statement, but very real to shareholders.
+>
+> The Burry critique of NVIDIA crystallises both problems: NVIDIA reported $20.5B in GAAP SBC expense, but spent $112.5B on buybacks — and the share count STILL rose by 47 million. The true cash cost of SBC was $112.5B, reducing owner earnings by ~50%.
+
+**The Accounting Flow:**
+```
+Income Statement:  Net Income deducts GAAP SBC expense (grant-date values) — captures PART of the cost
+Cash Flow Statement: OCF ADDS BACK SBC (non-cash) → FCF is INFLATED by the GAAP SBC amount
+Balance Sheet:     New shares created by SBC DILUTE existing shareholders
+Cash Outflow:      Company spends ACTUAL CASH on buybacks to offset dilution — often MUCH MORE than the GAAP expense
+The Gap:           GAAP says cost = $20.5B. Cash reality says cost = $112.5B. The $92B difference is invisible.
+```
+
+The key question: **How much cash does the company burn on buybacks just to keep the share count from growing — and how does this compare to the GAAP SBC expense the income statement reports?**
+
+Present the following **SBC & Dilution Table** across all available years (minimum 5 years):
+
+| Metric | FY[...] | FY[...] | ... | FY[latest] | Cumulative |
+|---|---|---|---|---|---|
+| GAAP SBC Expense (₹ / $) | | | | | [Sum] |
+| SBC as % of Revenue | | | | | |
+| SBC as % of Net Income | | | | | |
+| Gross Shares Issued / Vested from SBC (M) | | | | | [Sum] |
+| Shares Repurchased via Buybacks (M) | | | | | [Sum] |
+| Net Dilution / (Accretion) (M) | | | | | [Sum] |
+| Basic Shares Outstanding (M) | | | | | |
+| Diluted Shares Outstanding (M) | | | | | |
+| Basic-to-Diluted Gap (M) | | | | | |
+| YoY Change in Diluted Shares (%) | | | | | |
+| Total Buyback Spend (₹ / $) | | | | | [Sum] |
+| Cash Cost of Anti-Dilution Buybacks (₹ / $) * | | | | | [Sum] |
+| **True Shareholder Buyback (₹ / $)** ** | | | | | [Sum] |
+| Reported FCF (₹ / $) | | | | | [Sum] |
+| **Dilution-Adjusted Owner Earnings (₹ / $)** *** | | | | | [Sum] |
+
+\* *Cash Cost of Anti-Dilution Buybacks: If diluted share count ROSE despite buybacks in a given year, the entire buyback spend for that year is anti-dilution cost (and even that was insufficient). If diluted share count FELL, estimate the anti-dilution portion as: Gross SBC Shares Issued × Average Share Price. The remainder is genuine capital return.*
+
+\*\* *True Shareholder Buyback = Total Buyback Spend − Anti-Dilution Buyback Cost. This is the ONLY portion of buybacks that genuinely shrinks the float and creates per-share value. If negative, buybacks failed to even fully offset SBC dilution.*
+
+\*\*\* *Dilution-Adjusted Owner Earnings = Net Income + D&A − Maintenance CapEx − Cash Cost of Anti-Dilution Buybacks. This is the Buffett/Burry "true" owner earnings — the cash genuinely available to the owner after maintaining the business AND maintaining the ownership structure.*
+
+> **The cumulative column is critical.** Year-by-year figures can obscure the pattern. Burry's NVIDIA insight came from looking at the CUMULATIVE picture: $205B cumulative NI, $112.5B cumulative buybacks, 47M MORE shares. The cumulative view reveals whether the company is winning or losing the dilution battle over time.
+
+**Analyse the following:**
+
+1. **Gross vs. Net Dilution Trend:** How many new shares does the company issue each year through SBC (options exercised, RSUs vested, ESPP)? How many does it buy back? Is the net share count (diluted) actually declining, flat, or rising over the analysis period? A company that spends billions on "buybacks" but whose diluted share count is flat or rising is running on a treadmill — shareholders are paying for employee compensation through dilution disguised as capital return.
+
+2. **The "SBC Treadmill" Test:** Calculate what percentage of total buyback spending is consumed merely by offsetting SBC dilution. This is the critical metric.
+   - If **< 25%** of buybacks offset SBC → The buyback programme is genuinely returning cash to shareholders. SBC dilution is a minor drag. 🟢
+   - If **25-50%** of buybacks offset SBC → Meaningful portion of buybacks is just running in place. True capital return is materially less than headline buyback numbers suggest. 🟡
+   - If **50-75%** of buybacks offset SBC → The majority of the buyback programme is an SBC offset mechanism, not a capital return. The company has a significant hidden cash compensation cost. 🟠
+   - If **> 75%** of buybacks offset SBC (or share count STILL rising) → The buyback programme is almost entirely an illusion. Nearly all "capital return" is just paying employees with shareholder dilution and then buying the dilution back. This was Burry's NVIDIA finding. 🔴
+
+3. **GAAP Expense vs. Cash Reality Gap:** Compare the cumulative GAAP SBC expense to the cumulative Cash Cost of Anti-Dilution Buybacks. If the cash cost is >2x the GAAP expense, the income statement is materially understating the true cost of SBC compensation. State the ratio explicitly: *"GAAP captured ₹[X] of SBC cost. The actual cash required to offset that dilution was ₹[Y] — [Z]x higher. The income statement understated the true cost of equity compensation by ₹[Y-X]."*
+
+4. **Dilution-Adjusted Owner Earnings vs. Reported Metrics:** Compare Dilution-Adjusted Owner Earnings to (a) reported Net Income and (b) reported FCF. State the gap clearly: *"Reported NI of ₹[X] and reported FCF of ₹[Y] overstate true owner earnings by [A]% and [B]% respectively. Dilution-Adjusted Owner Earnings are ₹[Z]."* For NVIDIA, Burry showed this gap was ~50%. For companies with negligible SBC, the gap will be near-zero.
+
+5. **SBC Trajectory:** Is SBC as a % of revenue declining (good — the cost is being amortised across a larger base), stable, or rising? Is SBC as a % of Net Income declining? For companies where SBC was historically very high (e.g., >30% of NI) but has fallen sharply due to earnings growth (as with NVIDIA falling from 62% to 5%), note that the income statement impact has become manageable but the CASH COST of offsetting dilution may still be large in absolute dollars — especially if the stock price has risen dramatically since grant dates.
+
+6. **GAAP vs. Non-GAAP Earnings Gap:** Many companies (especially US-listed tech) report non-GAAP earnings that add back SBC. State the gap between GAAP EPS and non-GAAP EPS. Under GAAP, SBC is already expensed — so GAAP earnings are the correct starting point for Buffett-style analysis. Non-GAAP earnings that exclude SBC overstate true economic profits. Always use GAAP Net Income in Owner Earnings calculations.
+
+7. **Basic vs. Diluted Share Count Gap:** Track both basic and diluted shares outstanding over time. If the gap between basic and diluted is widening, it means there is a growing overhang of unvested SBC that will convert to real shares in future years — a forward-looking dilution indicator. If the gap is narrowing, the SBC overhang is shrinking.
+
+> Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* The same logic applies to reported FCF that ignores the cash cost of anti-dilution buybacks, and to non-GAAP earnings that add back SBC. Giving away a piece of the business is a cost — whether GAAP chooses to count it properly or not. The cash register doesn't lie: if the money left the building to buy back shares that employees were given, that money is gone.
 
 **[BANK/NBFC MODE — Replace With]:**
 
@@ -568,6 +655,8 @@ Are the operational fundamentals improving or deteriorating beneath the financia
 **[STANDARD MODE]:**
 Table covering (current + all historical years): PE Ratio, Forward PE, PS Ratio, PB Ratio, P/FCF Ratio, P/Owner Earnings Ratio, EV/EBITDA, EV/FCF, Earnings Yield, FCF Yield, PEG Ratio. How does current valuation compare to historical norms (add a specific note on Historical Comparison, indicating has the stock ever traded sustainably at current multiples historically)? Is the stock cheap on all metrics, or only superficially cheap (i.e., a potential value trap)?
 
+> **SBC Warning on FCF-Based Multiples:** For companies with material SBC (>5% of net income), the P/FCF Ratio and FCF Yield will make the stock look CHEAPER than it actually is, because reported FCF adds back SBC (a non-cash expense) in the operating cash flow section AND ignores the cash cost of anti-dilution buybacks. For high-SBC companies, also present **P/Dilution-Adjusted Owner Earnings** (using the Dilution-Adjusted Owner Earnings from Section 8) — this is the most honest valuation multiple as it reflects the true cash available to the owner after ALL costs including anti-dilution buyback costs. For companies with negligible SBC (most Indian non-tech companies), P/Owner Earnings ≈ P/E and this distinction is immaterial.
+
 **[BANK/NBFC MODE — Replace With]:**
 
 > **Critical Note:** For banks, **EV/EBITDA, EV/FCF, P/FCF, and PS Ratio are meaningless.** Enterprise Value calculations don't work because you cannot cleanly separate operating assets from financing — deposits are simultaneously a liability (you owe depositors) AND the core operating asset (cheap funding that generates NIM). There is no sensible way to define "net debt" for a bank.
@@ -605,8 +694,16 @@ Present Buffett's Bank Valuation Rules of Thumb:
 
 Run three scenarios (Conservative, Base, Optimistic) using Owner Earnings (not reported FCF) as the starting point.
 
+> **Which Owner Earnings figure to use as the DCF starting point:**
+>
+> - **For companies with negligible SBC** (most Indian non-tech companies): Use **Base Owner Earnings** (Net Income + D&A − Maintenance CapEx). This is clean — GAAP SBC expense is immaterial and the base formula captures true earning power.
+>
+> - **For companies with material SBC and anti-dilution buyback costs** (US tech, Indian IT/new-economy with significant ESOPs): Use **Dilution-Adjusted Owner Earnings** (Net Income + D&A − Maintenance CapEx − Cash Spent on Anti-Dilution Buybacks) from Section 8. This is the Buffett/Burry figure that represents cash genuinely available to the owner after all costs of maintaining the business — including the cost of maintaining the per-share ownership structure. Using the Base figure for high-SBC companies will OVERSTATE intrinsic value, potentially by 30-50% (as Burry demonstrated with NVIDIA).
+>
+> **Why not reported FCF?** Reported FCF starts from OCF, which adds back SBC (a non-cash expense). This inflates FCF. Worse, it ignores that the company must spend real cash on buybacks to offset that dilution — cash that reported FCF treats as a discretionary "return of capital" rather than a cost of business.
+
 For each scenario, clearly state:
-- Starting Owner Earnings
+- Starting Owner Earnings (specify whether Base or Dilution-Adjusted, and why)
 - Growth rate assumptions (Years 1-5 and Years 6-10), justified by the competitive analysis
 - Terminal growth rate
 - Discount rate (use WACC or 10% as Buffett's hurdle rate)
@@ -615,7 +712,7 @@ For each scenario, clearly state:
 - Total Enterprise Value
 - Less: Net Debt
 - Equity Intrinsic Value
-- Intrinsic Value Per Share
+- Intrinsic Value Per Share — **always divide by DILUTED shares outstanding (not basic).** Diluted shares include the unvested SBC overhang that will convert to real shares, and using basic shares would overstate per-share intrinsic value.
 - Margin of Safety at current price
 
 Summarise in a table showing all three scenarios with intrinsic value, margin of safety %, and upside/downside from current price.
@@ -687,7 +784,7 @@ If the entity has significant subsidiaries (e.g., insurance, AMC, broking, housi
 | Input | Value | Source |
 |---|---|---|
 | Current Market Price (CMP) | ₹[...] | Market data |
-| TTM EPS (Normalised) | ₹[...] | Use normalised EPS — strip out one-time gains/losses, extraordinary provisions, or cyclical peaks/troughs. For banks, use the "Normalised Earnings" per share from Section 8. |
+| TTM EPS (Normalised) | ₹[...] | Use normalised EPS — strip out one-time gains/losses, extraordinary provisions, or cyclical peaks/troughs. **Use GAAP EPS (not non-GAAP)** — non-GAAP EPS that adds back SBC overstates true economic earnings per share. For banks, use the "Normalised Earnings" per share from Section 8. |
 | Current PE (on Normalised EPS) | CMP / Normalised EPS | Calculated |
 | Shares Outstanding (Diluted) | [...] | Latest data |
 
