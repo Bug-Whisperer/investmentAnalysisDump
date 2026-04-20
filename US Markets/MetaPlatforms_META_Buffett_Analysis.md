@@ -329,13 +329,15 @@ The FY2023-2024 period showed **elite scaling** — incremental margins of 72-77
 
 ### Buffett's $1 Test
 
-For every $1 of equity retained, how much market value has been created?
+For every $1 of retained earnings, has the company created at least $1 of market value?
 
-- **Equity Change (2016-2025):** $158.0B ($59.2B → $217.2B)
+- **Cumulative Net Income (2016-2025):** $320.4B
+- **Cumulative Dividends (2016-2025):** $10.4B
+- **Retained Earnings (NI − Dividends):** $310.0B
 - **Market Cap Change (2016-2025):** ~$1,401B ($330B → $1,731B)
-- **$1 Test Result: $8.87 of market value created per $1 of equity retained**
+- **$1 Test Result: $4.52 of market value created per $1 of retained earnings**
 
-This is an **exceptional** $1 test result, well above the $1 minimum. It means Meta's management has turned retained capital into market value at nearly 9:1 — among the best in corporate America.
+This is a **strong** $1 test result — well above the $1 minimum. For every dollar of earnings the company kept, it generated $4.52 in market value. Note: the equity change over this period was only $158B (from $59.2B to $217.2B) because $196B in buybacks reduced book equity — but buybacks are a deployment of retained earnings, not a subtraction from them. The correct denominator is cumulative retained earnings ($310B), not the net equity change.
 
 ### Capital Allocation Track Record
 
