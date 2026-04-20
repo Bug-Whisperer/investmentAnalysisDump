@@ -187,17 +187,19 @@ The setup is classic Buffett contrarian territory: institutional growth investor
 | SBC | 867 | 1,026 | 1,021 | 1,336 | 1,376 | 1,261 | 1,475 | 1,230 | 1,002 |
 | SBC % Revenue | 6.6% | 6.6% | 5.7% | 6.2% | 5.4% | 4.6% | 5.0% | 3.9% | **3.0%** |
 | SBC % NI | 48.3% | 49.9% | 41.5% | 31.8% | 33.0% | 52.1% | 34.7% | 29.7% | **19.1%** |
-| Owner Earnings (adj for SBC) | 1,139 | 1,202 | 1,767 | 3,236 | 3,513 | 2,051 | 3,469 | 3,539 | **4,683** |
+| Owner Earnings | 2,006 | 2,228 | 2,788 | 4,572 | 4,889 | 3,312 | 4,944 | 4,769 | **5,685** |
 
 **Owner Earnings Analysis:**
 
 PayPal is a **capital-light platform business**. CapEx at 2.1–2.6% of revenue is minimal — most of the "investment" in the business comes through R&D and technology spend, which is expensed on the income statement. Estimated maintenance CapEx is roughly 60% of total (~$511M), with the remainder being growth CapEx for data centres, technology infrastructure, etc.
 
-**Buffett's Owner Earnings** (Net Income + D&A – Maintenance CapEx – SBC) = **$4,683M for FY2025**, or **$4.84/share**. This is the true economic earning power of the business after accounting for the real cost of stock-based compensation. At the current CMP of $50.81, this implies a **P/Owner Earnings of ~10.5x** — very cheap for a high-ROIC, capital-light platform business.
+**Buffett's Owner Earnings** (Net Income + D&A – Maintenance CapEx) = **$5,685M for FY2025**, or **$5.87/share**. This is the true economic earning power of the business after accounting for the gap between depreciation and real maintenance capital needs. At the current CMP of $50.81, this implies a **P/Owner Earnings of ~8.7x** — very cheap for a high-ROIC, capital-light platform business.
+
+> *Note: GAAP Net Income already includes SBC as an operating expense, so SBC is NOT subtracted again in the Owner Earnings formula — doing so would double-count it. However, SBC remains a real economic cost to shareholders through dilution. The declining SBC trend (from 6.6% of revenue in 2017 to 3.0% in 2025) means this dilution cost is shrinking, improving the quality of reported earnings over time.*
 
 The sharply declining SBC-to-net-income ratio (from 50% in 2018 to 19% in 2025) dramatically improves earnings quality and validates that management is becoming more disciplined about equity dilution.
 
-> *"Accounting is the language of business."* — Warren Buffett. But the key is reading between the lines — reported EPS overstates true earnings by the amount of SBC, and PayPal has been reducing this overshoot substantially.
+> *"Accounting is the language of business."* — Warren Buffett. The key is reading between the lines — while GAAP earnings already deduct SBC as an expense, the real economic cost to shareholders is dilution. PayPal's sharply declining SBC (from 6.6% to 3.0% of revenue) means dilution is shrinking, making each dollar of reported earnings more valuable to existing shareholders.
 
 ---
 
@@ -347,21 +349,21 @@ An 11.3% FCF yield is more typical of a cigar butt value stock than a platform b
 
 ## 15. INTRINSIC VALUE & MARGIN OF SAFETY
 
-### Traditional Buffett DCF (using SBC-Adjusted Owner Earnings)
+### Traditional Buffett DCF (using Owner Earnings)
 
-Starting Owner Earnings (FY2025, SBC-adjusted): **$4,683M ($4.84/share)**
+Starting Owner Earnings (FY2025): **$5,685M ($5.87/share)**
 
 > *Note: DCF uses mid-year discounting convention (cash flows assumed to arrive mid-year rather than year-end), which produces ~2–3% higher present values than end-of-year discounting.*
 
 | Scenario | Growth Yrs 1-5 | Growth Yrs 6-10 | Terminal Growth | Discount Rate | IV/Share | MoS vs CMP | Upside |
 |---|---|---|---|---|---|---|---|
-| **Conservative** | 6% | 4% | 3% | 10% | **$85.88** | 40.8% | 69.0% |
-| **Base** | 10% | 6% | 3% | 10% | **$108.14** | 53.0% | 112.8% |
-| **Optimistic** | 14% | 8% | 3% | 10% | **$135.91** | 62.6% | 167.5% |
+| **Conservative** | 6% | 4% | 3% | 10% | **$104.26** | 51.3% | 105.2% |
+| **Base** | 10% | 6% | 3% | 10% | **$131.28** | 61.3% | 158.4% |
+| **Optimistic** | 14% | 8% | 3% | 10% | **$164.99** | 69.2% | 224.7% |
 
-**Even in the most conservative scenario** — assuming PayPal grows owner earnings at just 6% for 5 years and 4% thereafter — the intrinsic value of $85.88 represents a 41% margin of safety from the current price. This is well above Buffett's typical 25–30% threshold.
+**Even in the most conservative scenario** — assuming PayPal grows owner earnings at just 6% for 5 years and 4% thereafter — the intrinsic value of $104.26 represents a 51% margin of safety from the current price. This is well above Buffett's typical 25–30% threshold.
 
-The base case (10% growth, consistent with recent margin expansion + low single digit revenue growth + buybacks) yields a 113% upside to intrinsic value.
+The base case (10% growth, consistent with recent margin expansion + low single digit revenue growth + buybacks) yields a 158% upside to intrinsic value.
 
 > *"The three most important words in investing are margin of safety."* — Benjamin Graham, as quoted by Buffett
 
@@ -482,7 +484,7 @@ See Section 9 for the full DuPont table. Summary: FY2025 ROE of 25.7% is driven 
 | Trustworthy management? | Three CEO changes in 3 years. Execution lapses admitted. Instability. | ❌ |
 | Resistant to disruption? | No. Payments is undergoing rapid change. New competitors, new rails, new technologies. | ⚠️ |
 | Sustainable economics for 10+ years? | The platform will likely survive, but take rates may continue compressing and market share may erode. | ⚠️ |
-| Price significantly below intrinsic value? | YES. 9.4x PE, 8.8x P/FCF, 40–53% margin of safety on DCF. | ✅ ✅ |
+| Price significantly below intrinsic value? | YES. 9.4x PE, 8.8x P/FCF, 51–69% margin of safety on DCF. | ✅ ✅ |
 
 **Honest Verdict:** This is a **complicated case for Buffett**. The business quality is high (25%+ ROIC, strong FCF, capital-light), but the moat durability is uncertain and management has been unstable. The price, however, is exceptionally cheap — arguably pricing in permanent impairment that is unlikely to materialise.
 
@@ -546,12 +548,12 @@ PayPal is not in distress, but it is in a **transformation phase** — transitio
 | **Financial Health** | 8 | Net cash positive, D/E < 0.5, Debt/EBITDA 1.4x, ample liquidity |
 | **Management Quality** | 4 | CEO instability; admitted execution failures; unproven new leadership |
 | **Valuation** | 9 | 9.4x PE, 8.8x P/FCF, 11.3% FCF yield — historically unprecedented cheapness |
-| **Margin of Safety** | 9 | 41–53% MoS on DCF; reverse DCF shows near-zero growth needed for 10% returns |
+| **Margin of Safety** | 9 | 51–69% MoS on DCF; reverse DCF shows near-zero growth needed for 10% returns |
 | **Earnings Quality** | 8 | SBC declining sharply (19% of NI vs 50% previously); FCF well above NI |
 | **Scalability** | 7 | Capital-light model scales well; incremental margins 50%+; but growth slowing |
 | **Buffett Verdict** | | **Good company at a wonderful price.** The business earns 25%+ ROIC, generates $5.6B FCF, and is aggressively buying back stock — but the moat is narrowing and management is unstable. At 9.4x earnings with an 11.3% FCF yield, the market prices in permanent decline that is unlikely. This is a classic "fear-driven mispricing" — not Buffett's ideal "wonderful company" but an exceptional value with asymmetric upside. **BUY for patient capital; the risk-reward is heavily skewed in the buyer's favour.** |
 | **Buy Zone** | | **DEEP VALUE / STRONG BUY at current CMP of $50.81** |
-| **Overall Recommendation** | | **BUY** — Target range $85–$110 over 3–5 years (70–115% upside) |
+| **Overall Recommendation** | | **BUY** — Target range $104–$131 over 3–5 years (105–158% upside) |
 
 ---
 
