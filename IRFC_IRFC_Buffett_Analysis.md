@@ -652,7 +652,7 @@ The stock trades at ~₹92. It earns ~₹5.37 per share. Book value is ~₹43.
 
 - You're paying 2x what the company is worth on paper.
 - The company grows its book value by ~9% a year and pays ~2% dividend yield on top.
-- In 10 years, book value will be ~₹100. If the market still pays 2x book, the stock is ₹200 — an ~8% price return plus ~2% dividends = ~11% total annual return. Barely clears the hurdle.
+- In 10 years, book value will be ~₹100. If the market still pays 2x book, the stock is ₹200 — an ~8% price return plus ~2% dividends = ~10% total annual return. Exactly at the hurdle with zero margin.
 - If the market pays only 1.5x book (more likely for a 13% ROE business), the stock is ₹150 — a ~5% price return plus ~2% dividends = ~7% total annual return. Below the hurdle.
 - You can get 7%+ from a government bond risk-free.
 
