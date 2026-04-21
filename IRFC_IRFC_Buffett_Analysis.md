@@ -374,14 +374,14 @@ IRFC's management is a typical PSU leadership — competent bureaucratic managem
 | Non-MoR Loans (₹ Cr) | ~0 | ~0 | ~0 | ~0 | ~23,000 | ~22,527 |
 | Cost of Borrowing | ~7% | ~7% | ~7% | ~7% | <7% | <7% |
 | NIM (annualised) | 1.45% | 1.56% | 1.39% | 1.38% | 1.42% | **1.51%** |
-
-> *Note on NIM figures:* The NIM values in this table are sourced from IRFC's investor presentations, which compute NIM on average AUM (earning assets). The NIM values in Section 5 (Key Ratios) are computed as NII / Average Total Assets, producing slightly lower figures (e.g., 1.37% vs. 1.42% for FY25). Both methodologies are standard; the difference reflects the denominator used. Section 6 quarterly NIM references also use the investor-presentation methodology.
 | GNPA | NIL | NIL | NIL | NIL | NIL | NIL |
 | Net Gearing | 9.00x | 9.47x | 9.21x | 8.38x | 7.83x | **7.38x** |
 | CRAR | ~420% | ~433% | ~485% | ~616% | ~672% | **161%** |
 | Opex Ratio | 0.11% | 0.13% | 0.12% | 0.09% | 0.10% | 0.17% |
 
 *Annualised from 9M data.
+
+> *Note on NIM figures:* The NIM values in this table are sourced from IRFC's investor presentations, which compute NIM on average AUM (earning assets). The NIM values in Section 5 (Key Ratios) are computed as NII / Average Total Assets, producing slightly lower figures (e.g., 1.37% vs. 1.42% for FY25). Both methodologies are standard; the difference reflects the denominator used. Section 6 quarterly NIM references also use the investor-presentation methodology.
 
 **Critical Observation:** AUM actually DECLINED in FY24 and FY25 as the government shifted railway CapEx funding away from IRFC. The recovery in 9M FY26 is entirely driven by non-MoR lending under IRFC 2.0 — ₹21,162 Cr of fresh disbursements. This validates the diversification pivot, but the non-MoR book is still small (4.74% of total AUM).
 
