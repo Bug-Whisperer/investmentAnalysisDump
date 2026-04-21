@@ -318,9 +318,9 @@ The incremental margins are volatile and generally **in line with or below** cur
 | Capital scalability | 9 | Extremely capital-light; minimal incremental CapEx needed |
 | Scaling runway | 6 | 4-5x runway in India + international; foods portfolio adds optionality |
 | S-Curve position | 5 | Mature growth phase; not at inflection |
-| **Overall** | **6.5/10** | **Moderate-to-Strong Scaler — proven model, but past the explosive growth phase** |
+| **Overall** | **6.4/10** | **Moderate-to-Strong Scaler — proven model, but past the explosive growth phase** |
 
-At 6.5/10, Marico sits between the Moderate Scaler tier (5-6: Kraft Heinz — can grow but requires proportional capital) and the Strong Scaler tier (7-8: GEICO/American Express — proven model, clear runway). On capital efficiency, it is firmly a Strong Scaler (9/10). On revenue growth trajectory, it is a Moderate Scaler. The business will compound steadily at 10-12% earnings growth — it won't 5x from here in 5 years.
+At 6.4/10, Marico sits between the Moderate Scaler tier (5-6: Kraft Heinz — can grow but requires proportional capital) and the Strong Scaler tier (7-8: GEICO/American Express — proven model, clear runway). On capital efficiency, it is firmly a Strong Scaler (9/10). On revenue growth trajectory, it is a Moderate Scaler. The business will compound steadily at 10-12% earnings growth — it won't 5x from here in 5 years.
 
 ---
 
@@ -657,7 +657,7 @@ Marico is NOT a turnaround situation. The company is a healthy, growing, well-ma
 | **Moat Durability** | **9/10** | 62% coconut oil share held for 50 years; distribution moat widening |
 | **Financial Health** | **10/10** | Net cash, D/E 0.14, interest coverage 40x — textbook fortress |
 | **Management Quality** | **9/10** | 59% promoter holding, disciplined capital allocation, seamless succession |
-| **Scalability** | **6.5/10** | Capital-light but linear growth; moderate runway remaining |
+| **Scalability** | **6.4/10** | Capital-light but linear growth; moderate runway remaining |
 | **Valuation** | **2/10** | 57x PE, 25x P/B — at or near all-time highs; no margin of safety |
 | **Margin of Safety** | **1/10** | Negative under all DCF scenarios; overvalued by 24-117% |
 | **Buffett Verdict** | — | **Wonderful business at a terrible price. PASS at ₹757.** |
