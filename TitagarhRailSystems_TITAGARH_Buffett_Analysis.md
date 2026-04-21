@@ -422,7 +422,7 @@ The $1 Test result of ₹11.2 per rupee retained appears strong but is **mislead
 | P/B Ratio | 0.83 | 1.43 | 1.71 | 5.60 | 6.70 | 4.35 | **3.97** |
 | EV/EBITDA | NM | NM | ~22 | ~36 | ~22 | ~24 | ~31 |
 | Earnings Yield | NM | NM | NM | 2.4% | 1.9% | 2.6% | **1.85%** |
-| P/Owner Earnings | NM | NM | NM | 40.6x | 50.5x | 38.0x | **34.7x** |
+| P/Owner Earnings | NM | NM | NM | 40.6x | 50.5x | 38.0x | **50.9x** |
 
 **Historical Comparison:** Before FY23, the stock traded at 0.8-1.7x book value — essentially at or below tangible asset value because the business could not earn above its cost of capital. The re-rating from <2x P/B to 4-7x P/B was driven by the profitability transformation. At the current 4.0x P/B, the market is pricing in sustained 12-15%+ ROE — which is NOT yet proven over a full cycle.
 
