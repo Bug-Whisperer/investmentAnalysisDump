@@ -54,6 +54,8 @@ The Marlboro distribution licence in India is an asset that does not appear on t
 
 *Note: All EPS figures are retroactively adjusted to the current post-bonus share base of ~15.6 Cr shares. Screener's "Operating Profit" line is used directly as EBITDA per framework convention.*
 
+*Note on TTM Growth Figures: The TTM Revenue Growth (26%) and TTM NP Growth (20%) are both Screener.in's own reported "Compounded Growth — TTM" figures. However, they appear to use inconsistent base periods. TTM Revenue Growth of 26% is consistent with a TTM-vs-prior-TTM computation (₹6,177 / ₹4,912 = 25.8%). TTM NP Growth of 20%, however, matches a TTM-vs-FY25-annual computation (₹1,284 / ₹1,072 = 19.8%), not TTM-vs-prior-TTM. On a consistent TTM-vs-prior-TTM basis, NP growth would be ~27% (₹1,284 / ₹1,008, where ₹1,008 Cr is the prior TTM NP for the four quarters ending Dec 2024). The 20% figure is retained as Screener's reported data, but readers should note that underlying earnings momentum is stronger than the headline TTM growth suggests.*
+
 **Trend Narrative:**
 
 The income statement reveals a **dramatic profitability transformation.** From FY14 to FY18, GPIL was a mediocre business — revenue was flat (~₹2,300-2,600 Cr), OPM was stuck at 11-15%, and NP margins were a pedestrian 6-7%. The FY17 trough (OPM 10.6%, NP ₹137 Cr) coincided with demonetisation and excise disruptions.
