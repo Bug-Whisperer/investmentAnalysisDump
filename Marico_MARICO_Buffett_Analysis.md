@@ -538,9 +538,9 @@ This is the critical insight: despite a 40%+ ROE, the book value compounds at on
 
 **The Key Insight:**
 
-> *"At the current entry P/B of 25.1x with a sustainable ROE of 40% and 17% retention, book value compounds at ~7% annually. If the P/B multiple remains at 25.1x, the return equals the BV compounding rate of ~7% — which is BELOW the 10% hurdle rate. There is NO exit P/B scenario in which the 10-year return reaches 10%. Even with zero multiple compression, the high payout ratio (83%) limits book value compounding to ~7%, and that is the ceiling on returns."*
+> *"At the current entry P/B of 25.1x with a sustainable ROE of 40% and 17% retention, book value compounds at ~7% annually. If the P/B multiple remains at 25.1x, the price CAGR equals the BV compounding rate of ~7%. Adding the ~1.3% dividend yield (ROE × payout / P/B = 40% × 83% / 25.1), the total shareholder return at constant P/B is ~8.1% — still BELOW the 10% hurdle rate. There is NO exit P/B scenario in which the 10-year total return reaches 10%. Even with zero multiple compression, the high entry P/B dilutes the dividend yield to just ~1.3%, capping total returns at ~8%."*
 
-Even in the BEST case (P/B sustaining at 25.1x), the 10-year return is ~7% — BELOW the 10% hurdle rate. If P/B compresses to even 15x (still a healthy premium for an FMCG leader), the 10-year return turns negligible at 1.6%.
+Even in the BEST case (P/B sustaining at 25.1x), the 10-year price CAGR is ~7% and total return including dividends is ~8% — both BELOW the 10% hurdle rate. If P/B compresses to even 15x (still a healthy premium for an FMCG leader), the 10-year price return turns negligible at 1.6%.
 
 **Traffic Light Verdict:**
 
@@ -668,7 +668,7 @@ Marico is NOT a turnaround situation. The company is a healthy, growing, well-ma
 
 Marico is one of the finest consumer franchises in India — a Parachute blue-bottle business that any grandmother would recognise, any child could explain, and any Buffett disciple would admire. The 40%+ ROCE sustained for a decade (since FY16), the near-zero leverage, the 62% market share held for half a century, and the 59% promoter alignment make this a textbook Buffett business in every quality dimension.
 
-However, at 57x earnings and 25x book value, the market has already priced in all this quality — and then some. The DCF analysis under all three scenarios shows the stock is overvalued by 24-117%. The Reverse DCF shows the market is demanding 18%+ EPS CAGR for a decade (vs. 11% historical track record) just for you to earn a 10% return. The P/B scenario analysis shows that even with no multiple compression, your return matches the meagre 7% book value compounding rate — and any compression destroys returns entirely.
+However, at 57x earnings and 25x book value, the market has already priced in all this quality — and then some. The DCF analysis under all three scenarios shows the stock is overvalued by 24-117%. The Reverse DCF shows the market is demanding 18%+ EPS CAGR for a decade (vs. 11% historical track record) just for you to earn a 10% return. The P/B scenario analysis shows that even with no multiple compression, total return (price appreciation plus dividends) caps out at ~8% — below the 10% hurdle — and any compression destroys returns entirely.
 
 Buffett working with a small capital base would admire this business, add it to his watchlist, and wait patiently for the market to offer it at a sensible price. That price is likely ₹450-500 (~34-38x earnings), which could materialise during a broad market correction, an FMCG sector rotation, or a severe copra cycle that temporarily compresses margins and spooks the market.
 
