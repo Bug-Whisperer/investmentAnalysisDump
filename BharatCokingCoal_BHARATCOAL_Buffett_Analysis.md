@@ -445,9 +445,9 @@ Using **Owner Earnings** (₹1,363 Cr, FY25) as the starting point, with a 12% d
 
 | Scenario | IV/Share (Mid-Cycle OE ~₹750 Cr) | MoS at ₹35.80 |
 |---|---|---|
-| Conservative | ~₹20.00 | **-44%** (overvalued) |
-| Base | ~₹25.00 | **-30%** (overvalued) |
-| Optimistic | ~₹32.00 | **-11%** (overvalued) |
+| Conservative | ~₹20.00 | **-79%** (overvalued) |
+| Base | ~₹25.00 | **-43%** (overvalued) |
+| Optimistic | ~₹32.00 | **-12%** (overvalued) |
 
 The choice of starting earnings point fundamentally changes the valuation conclusion. If FY25 is "normal," the stock is fairly valued. If mid-cycle is "normal," the stock is overvalued.
 
