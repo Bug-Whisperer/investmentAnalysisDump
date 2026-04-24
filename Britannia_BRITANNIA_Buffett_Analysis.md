@@ -375,7 +375,7 @@ Operational fundamentals are steady. The core biscuit franchise remains dominant
 | P/B Ratio | **31.4x** | ~22x | ~26x | ~38x | ~25x | ~35x | ~32x |
 | EV/EBITDA | **39.8x** | ~37x | ~30x | ~40x | ~30x | ~38x | ~37x |
 | Earnings Yield | **1.76%** | 1.8% | 2.1% | 1.6% | 2.6% | 1.6% | 1.6% |
-| FCF Yield | **1.55%** | 1.3% | 2.2% | 0.9% | 2.4% | 2.2% | 2.3% |
+| FCF Yield | **1.55%** | 1.5% | 1.9% | 0.8% | 2.1% | 1.5% | 1.6% |
 | Div Yield | **1.32%** | — | — | — | — | — | 1.3% |
 | PEG Ratio | **6.3** | — | — | — | — | — | — |
 
