@@ -513,9 +513,9 @@ The deleveraging trend (equity multiplier declining from 3.71 to 2.78) is health
 | 1.5x | 3.2% | 6.4% | 8.9% |
 | 1.0x Book | -4.9% | 0.4% | 4.6% |
 
-**Key Insight:** At the current entry P/B of 2.58x with a sustainable ROE of 15%, the stock can tolerate P/B compression to approximately 1.9x before the 10-year return drops below 10%. A compression to 1.0x book over 10 years would generate only 4.6% CAGR — well below the hurdle rate.
+**Key Insight:** At the current entry P/B of 2.58x with a sustainable ROE of 15%, the stock can tolerate P/B compression to approximately 1.65x before the 10-year return drops below 10%. A compression to 1.0x book over 10 years would generate only 4.6% CAGR — well below the hurdle rate.
 
-**Traffic Light:** 🟡 YELLOW — 10-year return exceeds the hurdle rate only if P/B stays above ~1.9x. Given the cyclical and secular headwinds facing coal, P/B compression to 1.5x or below is a realistic risk. The investment is dependent on sentiment sustaining.
+**Traffic Light:** 🟡 YELLOW — 10-year return exceeds the hurdle rate only if P/B stays above ~1.65x (a ~36% compression from current 2.58x). The stock cannot survive a full halving of P/B (1.29x yields only 7.4%). Given the cyclical and secular headwinds facing coal, P/B compression to 1.5x or below is a realistic risk.
 
 ---
 
