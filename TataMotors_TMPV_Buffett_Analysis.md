@@ -11,17 +11,24 @@
 
 > **Sector Detection:** Tata Motors is an automobile manufacturer — a non-financial, capital-intensive manufacturing business. **STANDARD MODE applies.**
 
-> **Important Clarification:** The Screener ticker "TMPV" refers to the CONSOLIDATED Tata Motors entity (including Jaguar Land Rover, Tata Commercial Vehicles, and Tata Passenger Vehicles). This is NOT just the passenger vehicles business — it is the entire Tata Motors group. The analysis covers the full consolidated entity.
+> **Important Clarification — Demerger Impact on This Analysis:**
+>
+> **What TMPV is today:** Following the Tata Motors demerger (effective October 2025), the Screener ticker "TMPV" (BSE: 500570) represents the **post-demerger Tata Motors Passenger Vehicles entity — comprising Jaguar Land Rover (JLR), Tata Passenger Vehicles, and Tata EV (TPEM)**. The Commercial Vehicles business was spun off as a separately listed entity under the ticker **TMCV** (BSE: 544569). TMPV does **NOT** include the CV business.
+>
+> **What this analysis covers:** However, **all historical financial data (FY14-FY25) shown in this analysis is from the OLD pre-demerger consolidated Tata Motors entity, which INCLUDES the CV business.** This is because Screener's annual P&L, balance sheet, and ratio data for TMPV still carries the pre-demerger consolidated history. The CV business contributed approximately ₹75,053 Cr in FY25 revenue (~17% of total) and ₹6,132 Cr in net profit (~22% of total).
+>
+> **Valuation caveat:** The CMP of ₹345 prices ONLY the post-demerger TMPV entity (PV+EV+JLR), but the FY25 earnings used in valuation sections include CV profits. This means the analysis's valuation metrics (PE of 4.6x, P/B of 1.15x, DCF intrinsic values, buy zones) are **overstated** — they make the stock look cheaper than it actually is on a like-for-like basis. Rough estimates suggest the true TMPV-only PE is closer to ~5.9x, P/B is ~1.5-1.7x, and DCF intrinsic values should be ~20-28% lower. **A fresh analysis using clean post-demerger TMPV-only financials is recommended once 4 quarters of standalone data are available on Screener.**
 
 ---
 
 ## 1. THE BUSINESS — Understanding the Economic Engine
 
-**Business Description:** Tata Motors is India's largest automobile company by market capitalisation and the parent of Jaguar Land Rover (JLR), one of Britain's premier luxury car brands. The consolidated entity has three major businesses:
+**Business Description:** Tata Motors Passenger Vehicles Ltd (TMPV) is the post-demerger successor to the original Tata Motors listed entity. Following the October 2025 demerger, TMPV now comprises **two major businesses**:
 
-1. **Jaguar Land Rover (~71% of revenue):** Premium luxury vehicles — Range Rover, Defender, Discovery brands. Based in UK. Sells globally. This is the elephant in the room.
-2. **Tata Commercial Vehicles (~15% of revenue):** Trucks and buses in India. India's #1 CV maker with ~44% market share. A domestic franchise.
-3. **Tata Passenger Vehicles (~14% of revenue):** Cars and SUVs in India. Brands include Nexon, Harrier, Safari, Punch, Tiago. India's #3 PV maker with rapidly growing market share (~12% domestic Vahan share in FY25, up from 4.6% in FY19).
+1. **Jaguar Land Rover (~87% of TMPV's revenue post-demerger):** Premium luxury vehicles — Range Rover, Defender, Discovery brands. Based in UK. Sells globally. This is the elephant in the room.
+2. **Tata Passenger Vehicles + EV (~13% of TMPV's revenue post-demerger):** Cars and SUVs in India. Brands include Nexon, Harrier, Safari, Punch, Tiago. India's #3 PV maker with rapidly growing market share (~12% domestic Vahan share in FY25, up from 4.6% in FY19). Also includes Tata's EV subsidiary (TPEM), which holds ~70%+ of India's passenger EV market.
+
+> **Note:** The former third segment — **Tata Commercial Vehicles (~₹75,053 Cr FY25 revenue, India's #1 CV maker with ~44% market share)** — was demerged into a separately listed entity (ticker: TMCV, BSE: 544569) effective October 2025. The historical financial data (FY14-FY25) in this analysis still includes the CV business, as Screener's annual data reflects the pre-demerger consolidated entity.
 
 **Would Buffett Understand It?** Yes — this is a straightforward automobile manufacturing business. Buffett understands cars (he's owned GEICO, which insures them, and briefly owned General Motors stock). However, the AUTO industry is one Buffett has historically AVOIDED.
 
@@ -35,7 +42,7 @@ Buffett: *"The key to investing is not assessing how much an industry is going t
 - Low switching costs (buyers change brands easily)
 - Regulatory risk (emissions, safety, tariffs)
 
-**However, JLR's luxury positioning and Tata's Indian PV market share gains create SOME moat elements** — brand desirability (Range Rover), scale in India (CV leadership), and the EV first-mover advantage in Indian PV.
+**However, JLR's luxury positioning and Tata's Indian PV market share gains create SOME moat elements** — brand desirability (Range Rover), scale in India PV, and the EV first-mover advantage in Indian PV.
 
 Buffett: *"When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact."* — The auto industry has a reputation for bad economics. Tata Motors' management has been excellent recently, but the industry's structural challenges remain. This is a critical tension throughout the analysis.
 
@@ -280,7 +287,9 @@ Buffett: *"A great business earns high returns on capital and can reinvest at th
 
 ## 7. COMPETITIVE POSITION & MOAT ANALYSIS
 
-### Moat Assessment: **NARROW MOAT — Primarily Brand (JLR) + Scale (India CV)**
+### Moat Assessment: **NARROW MOAT — Primarily Brand (JLR) + Emerging Scale (India PV/EV)**
+
+> **Demerger Note:** The moat analysis below was conducted on the pre-demerger consolidated entity. The India CV moat discussion (below) is retained for historical context but **no longer applies to TMPV** — the CV business is now under TMCV.
 
 **JLR (71% of revenue):**
 - **Brand Moat:** Range Rover and Defender are genuine luxury brands with pricing power. Waitlists for Range Rover were 12+ months during peak demand.
@@ -321,7 +330,7 @@ Buffett: *"We do not get enthused about change... we're looking for the absence 
 
 **This is the OPPOSITE of what Buffett looks for.** He wants businesses where the next 10-20 years look like the last 10-20 years. For auto, the next 10 years will look NOTHING like the last 10 years.
 
-**Verdict: NARROW, ERODING MOAT.** JLR's brand has value but faces existential industry disruption. Tata India PV is gaining share but in a hyper-competitive, changing market. Only Tata India CV has a durable moat, but it's the smallest segment.
+**Verdict: NARROW, ERODING MOAT.** JLR's brand has value but faces existential industry disruption. Tata India PV is gaining share but in a hyper-competitive, changing market. *(Note: The pre-demerger analysis identified Tata India CV as having the most durable moat among the three segments, but CV is now a separate entity under TMCV and no longer part of TMPV.)*
 
 ---
 
@@ -722,7 +731,7 @@ Buffett: *"The most important quality for an investor is temperament, not intell
 | # | Question | Answer | Pass/Fail |
 |---|---|---|---|
 | 1 | Circle of competence? | **Yes** — Auto is simple to understand. Buffett understands cars and has invested in GM, BYD. | ✅ PASS |
-| 2 | Enduring moat? | **Weak.** JLR brand has value but faces disruption. India CV is strong. India PV is growing but competitive. Overall: narrow, eroding moat. | ⚠️ CONDITIONAL |
+| 2 | Enduring moat? | **Weak.** JLR brand has value but faces disruption. India PV is growing but competitive. *(India CV — the strongest moat segment — is now under TMCV, not TMPV.)* Overall: narrow, eroding moat. | ⚠️ CONDITIONAL |
 | 3 | Trustworthy management? | **Yes.** N. Chandrasekaran has executed well. Tata group governance is strong. 42.6% promoter stake. | ✅ PASS |
 | 4 | Resistant to disruption? | **NO.** EV transition, tariff risks, Chinese EV competition — massive disruption ahead. | ❌ FAIL |
 | 5 | Sustainable economics for 10+ years? | **Uncertain.** India business probably yes. JLR (71% of revenue) is highly uncertain. | ⚠️ CONDITIONAL |
@@ -770,7 +779,7 @@ Buffett: *"The most important quality for an investor is temperament, not intell
 | Factor | Score (1-10) | Evidence |
 |---|---|---|
 | Balance Sheet Strength | **8/10** | Debt halved, D/E 0.61, ₹71K Cr borrowings manageable |
-| India Business Trajectory | **9/10** | PV market share 12.1% (from 4.6%), EV leader (87% share), CV market leader (44%) |
+| India Business Trajectory | **9/10** | PV market share 12.1% (from 4.6%), EV leader (87% share). *(CV market leader at 44% is now under TMCV.)* |
 | JLR Recovery Potential | **5/10** | Range Rover/Defender strong, but tariffs/Jaguar relaunch are major risks |
 | Management Quality | **8/10** | Chandrasekaran has proven ability; JLR CEO Thierry Bolloré executing cost restructuring |
 | Valuation Support | **9/10** | 1.15x book, ~5.7x normalised PE — massive margin of safety |
@@ -831,8 +840,8 @@ Pabrai: *"The best investments are the ones where the downside is limited and th
 
 | Factor | Score (1-10) | Commentary |
 |---|---|---|
-| **Business Quality** | **5/10** | Cyclical, capital-intensive auto business. India PV/CV is good; JLR is high-quality but volatile. NOT a Buffett-quality business. |
-| **Moat Durability** | **4/10** | Narrow moat — JLR brand, India CV leadership, India PV share gains. Eroding due to EV disruption. |
+| **Business Quality** | **5/10** | Cyclical, capital-intensive auto business. India PV/EV is promising; JLR is high-quality but volatile. *(India CV — now under TMCV — was the most stable segment.)* NOT a Buffett-quality business. |
+| **Moat Durability** | **4/10** | Narrow moat — JLR brand, India PV share gains. *(India CV leadership — the strongest moat — is now under TMCV.)* Eroding due to EV disruption. |
 | **Financial Health** | **7/10** | Dramatically improved — D/E 0.61, debt halved, strong OCF. Not yet a fortress (current ratio 0.90). |
 | **Management Quality** | **8/10** | N. Chandrasekaran is excellent. Tata group governance is strong. Executed turnaround brilliantly. |
 | **Valuation** | **9/10** | 1.15x book, ~5.7x normalised PE, 1.74% dividend yield. Extremely cheap by any metric. |
@@ -842,7 +851,7 @@ Pabrai: *"The best investments are the ones where the downside is limited and th
 
 ### Buffett Verdict
 
-Tata Motors is India's largest auto company — a massive, complex, cyclical conglomerate spanning luxury cars (JLR), commercial vehicles (India #1), and passenger vehicles (India #3, EV #1). It has survived a catastrophic FY19-FY22 period (₹65,000 Cr of cumulative losses) and executed a remarkable turnaround — debt halved, margins recovered, India PV market share increased 2.6x (from 4.6% to 12.1%). Management under N. Chandrasekaran is competent and aligned (42.6% Tata group ownership).
+Tata Motors Passenger Vehicles (TMPV) is the post-demerger successor entity comprising luxury cars (JLR), passenger vehicles (India #3, EV #1), and EV investments. *(The commercial vehicles business — India #1 with ~44% market share — was demerged into TMCV in October 2025 and is no longer part of this entity.)* The pre-demerger entity survived a catastrophic FY19-FY22 period (₹65,000 Cr of cumulative losses) and executed a remarkable turnaround — debt halved, margins recovered, India PV market share increased 2.6x (from 4.6% to 12.1%). Management under N. Chandrasekaran is competent and aligned (42.6% Tata group ownership).
 
 **However, this is NOT a Buffett business.** The auto industry is capital-intensive, cyclical, faces existential disruption (EV transition), and has narrow moats. Buffett has historically avoided auto companies for good reason.
 
@@ -866,7 +875,7 @@ Tata Motors is India's largest auto company — a massive, complex, cyclical con
 ### Can This Be Explained to a 10-Year-Old?
 
 **The business — YES:**
-"Tata Motors makes cars, trucks, and fancy Range Rovers. They sell trucks all over India (#1 with 44% of trucks) and their cars like Nexon and Punch are getting really popular (their share grew from 5% to 12% in India). They also own Range Rover and Land Rover, which rich people buy in America and Europe."
+"Tata Motors PV makes cars and fancy Range Rovers. Their cars like Nexon and Punch are getting really popular in India (their share grew from 5% to 12%). They also own Range Rover and Land Rover, which rich people buy in America and Europe. *(They used to also sell trucks — India's #1 truck company — but that business was split off into a separate company in 2025.)*"
 
 **The investment thesis — YES, actually:**
 "Right now, the stock is cheap because Range Rover is having problems — America might put big taxes on cars from England, and not as many people are buying them. But the Indian business is doing great, and the stock is trading for barely more than what all the factories and cash are worth on paper. If the Range Rover problems get fixed, the stock could go up a lot. If they don't, you don't lose too much because you're already paying a very low price."
