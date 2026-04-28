@@ -49,7 +49,7 @@ BLS is a **government-contracted toll collector** on global human mobility. The 
 | Shares Outstanding (Cr) | 10.0 | 10.0 | 10.0 | 10.0 | 10.0 | 10.0 | 10.0 | 10.0 | 41.0 | 41.0 | 41.0 | 41.2 |
 | Dividend Payout % | 0% | 0% | 7% | 5% | 10% | **20%** | 10% | 12% | 15% | 13% | 8% | — |
 
-*Note: Shares jumped from 10 Cr to 41 Cr in FY23 due to a 4:1 bonus issue. All EPS figures from Screener are on the current share base. Net Income shown is consolidated (including minority interest in BLS E-Services), while EPS is based on profit attributable to parent shareholders — hence NI ÷ Shares will exceed the stated EPS, with the gap widening as the subsidiary grows (gap: ₹0.35 in FY24, ₹0.83 in FY25).*
+*Note: Shares jumped from 10 Cr to ~41 Cr in FY23 due to two successive 1:1 bonus issues (May 2022 and December 2022), resulting in a ~4x total multiplier (10 → 20 → ~40 Cr, plus minor ESOP issuances). All EPS figures from Screener are on the current share base. Net Income shown is consolidated (including minority interest in BLS E-Services), while EPS is based on profit attributable to parent shareholders — hence NI ÷ Shares will exceed the stated EPS, with the gap widening as the subsidiary grows (gap: ₹0.35 in FY24, ₹0.83 in FY25).*
 
 **Trend Narrative:** This is an extraordinary margin expansion story. OPM has expanded from 6.7% in FY15 to 29.6% in FY25 — a 4.4x improvement. The business was severely impacted by COVID in FY20-FY21 (travel ban = no visa applications), but the recovery has been spectacular. Post-COVID, the business has not merely recovered — it has structurally re-rated to much higher margins, driven by the iDATA acquisition (55-60% EBITDA margins), increased value-added services, and operating leverage from a larger application base. Net profit growth has consistently outpaced revenue growth in recent years, confirming genuine margin expansion rather than just top-line momentum.
 
@@ -72,7 +72,7 @@ The only red flag is the low effective tax rate (8-13% in recent years vs. the s
 | Fixed Assets | 24 | 24 | 78 | 49 | 51 | 41 | 38 | 112 | 234 | 296 | **1,363** |
 | Goodwill + Intangibles | — | — | — | — | — | — | — | — | — | — | Included in Fixed |
 
-*Note: BVPS appears to drop in FY23 due to the 4:1 bonus issue expanding the share base from 10 Cr to 41 Cr shares.*
+*Note: BVPS appears to drop in FY23 due to two successive 1:1 bonus issues expanding the share base from 10 Cr to ~41 Cr shares.*
 
 **Buffett's Financial Fortress Assessment:** The balance sheet has been pristine for most of BLS's history — virtually debt-free from FY20 through FY23 (D/E of 0.00-0.02), with FY19 and FY24 also very low at 0.10 and 0.03 respectively. However, FY25 saw a notable shift: borrowings jumped to ₹359 Cr, primarily to fund the iDATA acquisition (₹720 Cr). Even at this elevated level, the D/E of 0.21 and Debt/EBITDA of 0.55x remain very conservative.
 
