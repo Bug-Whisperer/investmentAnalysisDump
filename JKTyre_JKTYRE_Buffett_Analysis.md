@@ -297,9 +297,11 @@ The Indian tyre industry is a **moderately concentrated oligopoly** dominated by
 | FY22 | 11983 | 31.7% | 1073 | -17.8% | -8.1% |
 | FY23 | 14645 | 22.2% | 1298 | 21.0% | 8.5% |
 | FY24 | 15002 | 2.4% | 2091 | 61.1% | 222.1% |
-| FY25 | 14693 | -2.1% | 1599 | -23.5% | 159.2% |
+| FY25 | 14693 | -2.1% | 1599 | -23.5% | N/M* |
 
-**Incremental margins are wildly inconsistent** — negative in years of rubber price spikes, strongly positive in favourable years. This is NOT the hallmark of an elite scaler. JK Tyre is a **linear scaler at best** — growth requires proportional capital and is constrained by commodity input costs.
+*\*FY25 Incremental OPM: The arithmetic result is +159.2% (ΔOP of −₹492 Cr ÷ ΔRevenue of −₹309 Cr), but this is economically misleading. When both revenue and operating profit decline, a negative-over-negative division produces a positive figure that falsely signals scaling efficiency. The reality is severe operating deleverage: the company lost ₹1.59 of operating profit for every ₹1 of revenue lost — the opposite of what the positive number implies. FY20 (7.7%) has the same neg/neg characteristic but is directionally less misleading since OP held up well (only ₹0.08 lost per ₹1 of revenue decline).*
+
+**Incremental margins are wildly inconsistent** — negative in years of rubber price spikes, strongly positive in favourable years, and mathematically misleading in years of revenue decline. This is NOT the hallmark of an elite scaler. JK Tyre is a **linear scaler at best** — growth requires proportional capital and is constrained by commodity input costs.
 
 ### Part B: S-Curve Position
 
