@@ -525,11 +525,11 @@ The P/B of 1.92x is also near multi-year lows — the stock traded at 5-8x P/B d
 |---|---|---|---|
 | Asset / Tangible Book Floor | TBVPS ~₹506 × 1.0 | ₹506 | -71.0% |
 | Trough Earnings (10x PE) | Worst EPS ~₹45 × 10 | ₹450 | -74.2% |
-| Conservative DCF | From Section 15 | ₹3,178 | +81.9% |
 | Market Panic Floor | Historical low PE ~12x × ₹130 EPS | ₹1,560 | -10.7% |
 
 | Upside Scenario | Valuation Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
+| Conservative DCF | From Section 15 | ₹3,178 | +81.9% |
 | Base Case DCF | From Section 15 | ₹4,118 | +135.7% |
 | Bull Case DCF | From Section 15 | ₹4,962 | +184.0% |
 | Re-rating to 20x PE | 20x × ₹130 EPS | ₹2,600 | +48.8% |
