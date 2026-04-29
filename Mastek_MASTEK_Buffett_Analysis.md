@@ -54,8 +54,10 @@ Mastek is a **switching-cost business** with elements of a **specialised service
 | EPS (₹) | 23.37 | 7.86 | **5.97** | 13.86 | 29.53 | 42.33 | 44.82 | 82.97 | **98.32** | 95.99 | 97.36 | 121.50 | ~130 |
 | Shares (Cr) | ~2.2 | ~2.3 | ~2.3 | ~2.3 | ~2.4 | ~2.4 | ~2.5 | ~3.0 | ~3.1 | ~3.1 | ~3.1 | ~3.1 | ~3.1 |
 | Dividend Payout % | 19% | 32% | **42%** | 25% | 20% | 20% | 18% | **17%** | 19% | 20% | 20% | 19% | — |
-| EBITDA | 123 | 84 | **34** | 60 | 119 | 149 | 181 | 409 | **506** | 523 | 599 | 621 | ~653 |
-| EBITDA Margin | 13% | 8% | **6%** | 11% | 15% | 14% | 17% | **24%** | **23%** | 20% | 20% | 18% | ~18% |
+| EBITDA † | 90 | 47 | **18** | 45 | 100 | 132 | 156 | **364** | **463** | 456 | 509 | 546 | ~580 |
+| EBITDA Margin † | 10% | **5%** | **3%** | 8% | 12% | 13% | 15% | **21%** | **21%** | 18% | 17% | 16% | ~16% |
+
+> † **EBITDA Convention:** Screener.in's "Operating Profit" is already computed before Depreciation & Amortisation (confirmed by the PBT identity: PBT = OP + Other Income − Interest − Depreciation, which holds within ±₹1 Cr for all years above). Therefore **Screener's Operating Profit = EBITDA directly.** Adding D&A back to OP would double-count depreciation. EBITDA and EBITDA Margin shown here are identical to Operating Profit and OPM% respectively.
 
 **Note on FY16:** Revenue dropped sharply due to the demerger of Majesco (insurance software business) in FY16. This makes pre-FY17 comparisons non-comparable on an absolute basis.
 
@@ -417,7 +419,7 @@ Buffett: *"We can afford to lose money — even a lot of money. But we can't aff
 |---|---|---|---|---|---|---|
 | PE Ratio | **13.4x** | 14.4 | 17.7 | 17.1 | — | ~17x |
 | P/B Ratio | **1.92x** (FY26E BVPS ₹908) | 2.19 (FY25 BVPS ₹796) | — | — | — | ~3.5x |
-| EV/EBITDA | ~7.7x | ~8.9 | ~10.5 | — | — | ~12x |
+| EV/EBITDA | ~8.7x | — | — | — | — | — |
 | P/Owner Earnings | **12.1x** | — | — | — | — | — |
 | Earnings Yield | **7.5%** | 6.9% | 5.6% | 5.8% | — | ~6% |
 | Dividend Yield | **1.4%** | 1.5% | — | — | — | — |
