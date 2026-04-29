@@ -11,6 +11,25 @@ Browse the screener tab that is open to gather all financial data, metrics, news
 
 ---
 
+> **IMPORTANT — Valuation Philosophy: Owner Earnings, Not EBITDA:**
+> This prompt follows a **pure Buffett/Munger valuation philosophy**. It deliberately excludes EBITDA-based metrics (EV/EBITDA, Debt/EBITDA) from valuation analysis. The reasons:
+>
+> 1. **Buffett (2000 Letter):** *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"*
+> 2. **Munger:** *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"*
+> 3. **Buffett (2002 Letter):** *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."*
+>
+> EBITDA pretends that the capital a business consumes to maintain its operations is free. A factory that must replace ₹100 Cr of equipment every year is NOT earning ₹100 Cr more than its income statement suggests — it is spending that money to stay in place. EBITDA hides this, making capital-hungry businesses look artificially profitable.
+>
+> **Instead, this prompt uses:**
+> - **EBIT** (Earnings Before Interest & Taxes, AFTER Depreciation) for operating profitability and debt coverage analysis
+> - **Owner Earnings** (Net Income + D&A − Maintenance CapEx) as the primary cash flow metric — Buffett's preferred measure of true economic earnings
+> - **Owner Earnings Per Share (OEPS)** for per-share valuation (P/Owner Earnings, Reverse DCF)
+> - **P/Owner Earnings** as the preferred Buffett-pure valuation multiple
+>
+> Note: Screener.in's "Operating Profit" is EBITDA-equivalent (pre-D&A). This prompt always computes and tracks **EBIT = Screener Operating Profit − Depreciation** to get the true after-capital-charge operating profit.
+
+---
+
 Present ALL financial data in tabular form for multi-year trend comparison (minimum 5 years where available). Highlight in bold the years or periods where results are at extreme ends (best and worst) for each metric. Verify each and every calculation in all the sections by double checking the values. You can make the calculation by creating a python script so that all values turn up accurate and are consistent throughout the analysis.
 
 ---
@@ -31,7 +50,12 @@ Explain the specific type of financial institution: Universal Bank, Small Financ
 ## 2. INCOME STATEMENT ANALYSIS — Revenue & Profitability Trends
 
 **[STANDARD MODE]:**
-Table covering: Revenue, Revenue Growth YoY, Gross Profit, Gross Margin, Operating Income, Operating Margin, Net Income, Net Income Growth, Profit Margin, EPS (Diluted), EPS Growth, Shares Outstanding (Diluted), Shares Change YoY, EBITDA, EBITDA Margin. Analyse the trend narrative — are margins expanding or compressing? Is earnings growth outpacing revenue growth?
+Table covering: Revenue, Revenue Growth YoY, Gross Profit, Gross Margin, Operating Profit (pre-D&A), Operating Margin (pre-D&A), Depreciation & Amortisation, **EBIT (Operating Profit minus D&A)**, **EBIT Margin**, Net Income, Net Income Growth, Profit Margin, EPS (Diluted), EPS Growth, Shares Outstanding (Diluted), Shares Change YoY. Analyse the trend narrative — are margins expanding or compressing? Is earnings growth outpacing revenue growth?
+
+> **CRITICAL — Screener Data Note & Why EBITDA Is Not Used:**
+> Screener.in's "Operating Profit" line item is calculated as Revenue minus all operating expenses BEFORE deducting Depreciation & Amortisation. This makes it **EBITDA-equivalent**, not true EBIT. This prompt deliberately does NOT track EBITDA as a standalone metric or use EBITDA-based valuation multiples (EV/EBITDA, Debt/EBITDA). The reason is philosophical: Buffett and Munger consider EBITDA a misleading metric that pretends capital expenditures don't exist. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"*
+>
+> **Instead, always compute and track EBIT** (Operating Profit from Screener **minus** Depreciation & Amortisation). EBIT is the true operating profit after accounting for the capital the business consumes. EBIT Margin is the relevant profitability metric for a Buffett-style analysis — it tells you what the business earns after maintaining its asset base, before financing decisions and taxes. For valuation purposes, this prompt uses **Owner Earnings** (Section 8) and **EBIT-based multiples** — never EBITDA-based multiples.
 
 **[BANK/NBFC MODE — Replace With]:**
 Table covering: **Interest Income, Interest Expense, Net Interest Income (NII), NII Growth YoY, Net Interest Margin (NIM), Other Income (Fee + Trading), Other Income as % of Total Income, Total Income, Operating Expenses (Opex), Cost-to-Income Ratio, Pre-Provision Operating Profit (PPOP), PPOP Growth, Provisions & Contingencies, Provision as % of PPOP (Provision Intensity), Profit Before Tax, Net Income, Net Income Growth, EPS (Diluted), EPS Growth, Shares Outstanding (Diluted), Shares Change YoY, Return on Assets (ROA), Return on Equity (ROE).**
@@ -43,7 +67,9 @@ Analyse the trend narrative — Is NIM expanding or compressing? Is the cost-to-
 ## 3. BALANCE SHEET ANALYSIS — Financial Fortress Assessment
 
 **[STANDARD MODE]:**
-Table covering: Cash & Short-Term Investments, Total Assets, Total Debt, Total Liabilities, Shareholders' Equity, Net Cash / (Debt), Goodwill, Tangible Book Value Per Share, Book Value Per Share, Debt/Equity, Debt/EBITDA, Current Ratio. Apply Buffett's "financial fortress" standard. Is the balance sheet a source of strength or vulnerability?
+Table covering: Cash & Short-Term Investments, Total Assets, Total Debt, Total Liabilities, Shareholders' Equity, Net Cash / (Debt), Goodwill, Tangible Book Value Per Share, Book Value Per Share, Debt/Equity, **Debt/EBIT**, **Net Debt/Owner Earnings**, Interest Coverage (EBIT / Interest Expense), Current Ratio. Apply Buffett's "financial fortress" standard. Is the balance sheet a source of strength or vulnerability?
+
+> **Why Debt/EBIT and Net Debt/Owner Earnings instead of Debt/EBITDA:** EBITDA pretends the business has no capital consumption. A company with ₹500 Cr debt, ₹100 Cr EBITDA, and ₹60 Cr depreciation looks "comfortable" at 5x Debt/EBITDA — but its Debt/EBIT is 12.5x, revealing the true burden after maintaining the asset base. Net Debt/Owner Earnings goes further by using the Buffett metric for genuine cash earning power. These are the metrics that tell you whether the debt can actually be repaid from real economic earnings, not accounting fiction.
 
 **[BANK/NBFC MODE — Replace With]:**
 Table covering: **Total Advances (Loan Book), Advance Growth YoY, Total Deposits, Deposit Growth YoY, CASA Deposits, CASA Ratio, Cost of Deposits, Total Assets, Total Asset Growth, Shareholders' Equity, Book Value Per Share (BVPS), BVPS Growth YoY, Tangible Book Value Per Share, Capital Adequacy Ratio (CRAR/CAR) — Tier 1 and Total, Leverage Ratio (Assets / Equity), Gross NPA (₹), Gross NPA %, Net NPA (₹), Net NPA %, Provision Coverage Ratio (PCR), Slippage Ratio (Fresh NPAs / Opening Standard Advances), Restructured Book as % of Advances, Credit Cost (Provisions / Average Advances).**
@@ -96,7 +122,8 @@ Present the following ratios in a single multi-year table (minimum 10 years wher
 | ROE % | | | | |
 | ROIC % | | | | |
 | Debt/Equity | | | | |
-| OPM % | | | | |
+| OPM % (pre-D&A, Screener) | | | | |
+| **EBIT Margin %** | | | | |
 | NPM % | | | | |
 | Debtor Days | | | | |
 | Inventory Days | | | | |
@@ -139,7 +166,7 @@ Assess the company against Buffett's key quality benchmarks. For each criterion,
 | Positive Free Cash Flow | Positive | ₹[X] Cr | ✅ / ⚠️ / ❌ |
 | Promoter/Insider holding | Aligned | [X]% | ✅ / ⚠️ / ❌ |
 | Dividend payout | Paying | [X]% avg | ✅ / ⚠️ / ❌ |
-| OPM stability | Stable | [X]-[X]% range | ✅ / ⚠️ / ❌ |
+| EBIT Margin stability | Stable | [X]-[X]% range | ✅ / ⚠️ / ❌ |
 | Moat / Pricing Power | Identifiable | [Describe briefly] | ✅ / ⚠️ / ❌ |
 | ROIC | >15% | [X]% | ✅ / ⚠️ / ❌ |
 | Earnings yield | Reasonable | [X]% | ✅ / ⚠️ / ❌ |
@@ -181,8 +208,11 @@ Present consolidated quarterly figures for the most recent 10-13 quarters availa
 |---|---|---|---|---|
 | Sales | | | | |
 | YoY Sales Growth % | | | | |
-| Operating Profit | | | | |
-| OPM % | | | | |
+| Operating Profit (pre-D&A) | | | | |
+| OPM % (pre-D&A) | | | | |
+| Depreciation | | | | |
+| **EBIT** | | | | |
+| **EBIT Margin %** | | | | |
 | Net Profit | | | | |
 | NPM % | | | | |
 | EPS (₹) | | | | |
@@ -213,7 +243,7 @@ After the table, provide a concise narrative covering:
 
 1. **Revenue/NII Trajectory:** Are quarterly revenues growing, flat, or declining on a YoY and sequential basis? Identify the highest and lowest quarters and explain seasonality if relevant.
 
-2. **Margin Trend:** Are operating margins (OPM for standard, NIM/Cost-to-Income for banks) expanding, stable, or compressing in recent quarters? If compressing, explain why — input cost inflation, competitive pressure, mix shift, higher provisions, etc.
+2. **Margin Trend:** Are operating margins (EBIT Margin for standard companies, NIM/Cost-to-Income for banks) expanding, stable, or compressing in recent quarters? If compressing, explain why — input cost inflation, competitive pressure, mix shift, higher provisions, rising D&A from recent capex, etc. Track both OPM (pre-D&A, as reported by Screener) and EBIT Margin — if OPM is stable but EBIT Margin is compressing, it means D&A is eating into profitability, a sign of rising capital intensity that EBITDA-based analysis would miss entirely.
 
 3. **Normalised Quarterly EPS Run-Rate:** Strip out any one-time items (extraordinary gains/losses, exceptional items, demerger impacts, large provision write-backs) and state the normalised quarterly EPS. Annualise this to establish the true current earnings power. This normalised run-rate is critical for validating the TTM EPS used in valuation sections.
 
@@ -473,10 +503,10 @@ Analyse how the business's economics change as it grows. Present the following f
 
 Present the following trend table (minimum 5 years):
 
-| Year | Revenue | Revenue Growth | Operating Profit | Op. Profit Growth | Net Profit | Net Profit Growth | Incremental Op. Margin* |
-|---|---|---|---|---|---|---|---|
+| Year | Revenue | Revenue Growth | EBIT | EBIT Growth | EBIT Margin | Net Profit | Net Profit Growth | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|---|---|
 
-*\*Incremental Operating Margin = Change in Operating Profit / Change in Revenue. This is the key scaling metric. If incremental margins are HIGHER than current margins, the business is scaling beautifully — each new rupee of revenue is more profitable than the last. If incremental margins are LOWER, the business is hitting scaling friction.*
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. This is the key scaling metric — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). Why? Because a business that grows revenue while D&A is rising faster (due to heavy capex) will show improving pre-D&A margins but DECLINING EBIT margins. The EBIT-based incremental margin reveals the truth: is profit scaling genuinely, or is rising capital consumption eating the scaling benefit? If incremental EBIT margins are HIGHER than current EBIT margins, the business is scaling beautifully. If LOWER, it is hitting scaling friction or becoming more capital-intensive.*
 
 **Scaling Quality Assessment:**
 
@@ -653,13 +683,15 @@ Are the operational fundamentals improving or deteriorating beneath the financia
 ## 14. VALUATION ANALYSIS — The Price You Pay Determines Your Return
 
 **[STANDARD MODE]:**
-Table covering (current + all historical years): PE Ratio, Forward PE, PS Ratio, PB Ratio, P/FCF Ratio, P/Owner Earnings Ratio, EV/EBITDA, EV/FCF, Earnings Yield, FCF Yield, PEG Ratio. How does current valuation compare to historical norms (add a specific note on Historical Comparison, indicating has the stock ever traded sustainably at current multiples historically)? Is the stock cheap on all metrics, or only superficially cheap (i.e., a potential value trap)?
+Table covering (current + all historical years): PE Ratio, Forward PE, PS Ratio, PB Ratio, P/FCF Ratio, **P/Owner Earnings Ratio**, **EV/EBIT**, EV/FCF, Earnings Yield, FCF Yield, **Owner Earnings Yield (Owner Earnings Per Share / CMP)**, PEG Ratio. How does current valuation compare to historical norms (add a specific note on Historical Comparison, indicating has the stock ever traded sustainably at current multiples historically)? Is the stock cheap on all metrics, or only superficially cheap (i.e., a potential value trap)?
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. A steel company and a software company with identical EBITDA but vastly different capital requirements look equally valued on EV/EBITDA — but the software company is genuinely cheaper because it doesn't need to spend billions replacing equipment. EV/EBIT and P/Owner Earnings are the multiples Buffett would use: they account for the capital the business consumes before you get your return. **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from the true economic earnings (NI + D&A - Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner.
 
 > **SBC Warning on FCF-Based Multiples:** For companies with material SBC (>5% of net income), the P/FCF Ratio and FCF Yield will make the stock look CHEAPER than it actually is, because reported FCF adds back SBC (a non-cash expense) in the operating cash flow section AND ignores the cash cost of anti-dilution buybacks. For high-SBC companies, also present **P/Dilution-Adjusted Owner Earnings** (using the Dilution-Adjusted Owner Earnings from Section 8) — this is the most honest valuation multiple as it reflects the true cash available to the owner after ALL costs including anti-dilution buyback costs. For companies with negligible SBC (most Indian non-tech companies), P/Owner Earnings ≈ P/E and this distinction is immaterial.
 
 **[BANK/NBFC MODE — Replace With]:**
 
-> **Critical Note:** For banks, **EV/EBITDA, EV/FCF, P/FCF, and PS Ratio are meaningless.** Enterprise Value calculations don't work because you cannot cleanly separate operating assets from financing — deposits are simultaneously a liability (you owe depositors) AND the core operating asset (cheap funding that generates NIM). There is no sensible way to define "net debt" for a bank.
+> **Critical Note:** For banks, **EV-based multiples (EV/EBIT, EV/FCF), P/FCF, and PS Ratio are meaningless.** Enterprise Value calculations don't work because you cannot cleanly separate operating assets from financing — deposits are simultaneously a liability (you owe depositors) AND the core operating asset (cheap funding that generates NIM). There is no sensible way to define "net debt" for a bank.
 
 Table covering (current + all historical years): **Price-to-Book (P/B), Price-to-Tangible Book (P/TBV), Price-to-Earnings (PE), Forward PE, Price-to-PPOP, Price-to-Normalised Earnings (using the "bank owner earnings" from Section 8), Dividend Yield, Earnings Yield, Book Value Per Share, Book Value Growth Rate.**
 
@@ -785,7 +817,9 @@ If the entity has significant subsidiaries (e.g., insurance, AMC, broking, housi
 |---|---|---|
 | Current Market Price (CMP) | ₹[...] | Market data |
 | TTM EPS (Normalised) | ₹[...] | Use normalised EPS — strip out one-time gains/losses, extraordinary provisions, or cyclical peaks/troughs. **Use GAAP EPS (not non-GAAP)** — non-GAAP EPS that adds back SBC overstates true economic earnings per share. For banks, use the "Normalised Earnings" per share from Section 8. |
+| **Owner Earnings Per Share (OEPS)** | ₹[...] | Owner Earnings (from Section 8) / Diluted Shares Outstanding. For companies with material SBC, use Dilution-Adjusted Owner Earnings / Diluted Shares. This is the Buffett-pure earnings metric. |
 | Current PE (on Normalised EPS) | CMP / Normalised EPS | Calculated |
+| **Current P/OE (on OEPS)** | CMP / OEPS | Calculated — this is the Buffett-pure valuation multiple |
 | Shares Outstanding (Diluted) | [...] | Latest data |
 
 ### Step 2: Choose Terminal PE Multiple Scenarios
@@ -849,17 +883,56 @@ Present the results in the following table:
 | 10 Years | [X]% EPS CAGR needed | [X]% | [X]% |
 | 15 Years | [X]% EPS CAGR needed | [X]% | [X]% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading: a company can grow EPS by (a) underinvesting in maintenance (boosting short-term earnings while the asset base deteriorates), (b) financial engineering (leverage, buybacks funded by debt), or (c) aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. If the EPS-based Reverse DCF says "the market needs 15% EPS growth" but the OEPS-based version says "the business needs 25% Owner Earnings growth," that's a critical red flag: the gap means the business is likely underinvesting or the EPS is flattering. Buffett: *"Accounting is the language of business, but like any language, it can be used to obfuscate rather than illuminate."*
+
+**Formula:**
+```
+Required Future Price         = CMP × (1 + Hurdle Rate)^n
+Required Future OEPS          = Required Future Price / Terminal P/OE Multiple
+Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
+```
+
+> **Terminal P/OE Multiple:** Use terminal multiples similar to the PE scenarios but typically slightly lower, because Owner Earnings < Net Income for capital-intensive businesses (maintenance capex is deducted). For asset-light businesses, P/OE ≈ PE. For capital-heavy businesses, P/OE < PE. Use the following as guidelines: Mature (10-13x), Market Average (15-18x), Compounder (20-25x).
+
+Present a single summary table using the **Market Average Terminal P/OE** scenario:
+
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = [Market Avg]x)
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | [X]% OEPS CAGR needed | [X]% | [X]% |
+| 10 Years | [X]% OEPS CAGR needed | [X]% | [X]% |
+| 15 Years | [X]% OEPS CAGR needed | [X]% | [X]% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal [Market Avg] PE/P(OE) | 10-Year Hurdle (10% Return) |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | [X]% | |
+| Implied OEPS CAGR (from Step 3B) | [X]% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **[X] pp** | |
+
+**Interpretation:**
+- **Gap ≤ 2 pp:** The business is asset-light and EPS closely tracks real economic earnings. Both metrics tell the same story. The standard EPS-based Reverse DCF is reliable.
+- **Gap 2-5 pp:** The business has moderate capital intensity. The market may be slightly underestimating the true growth needed. Use the OEPS figure for a more conservative (and honest) assessment.
+- **Gap > 5 pp:** The business is capital-hungry and EPS significantly overstates true economic earnings growth. **The EPS-based Reverse DCF is dangerously misleading for this business.** The market may think it's pricing in 15% growth, but the real economic hurdle is 20%+. This is exactly the kind of business where EBITDA and EPS-based analysis leads to overpayment. Use the OEPS figure as the true benchmark.
+
+> Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense. In truth, depreciation is a particularly unattractive expense because the cash outlay it represents has already been made."* The same insight applies to EPS vs. Owner Earnings: EPS deducts accounting depreciation, but if actual maintenance spending exceeds depreciation (as it often does in inflationary environments), EPS overstates real earnings. Owner Earnings captures the truth.
+
 ### Step 4: Reality Check — Is the Implied Growth Reasonable?
 
-Compare the implied EPS CAGR from the table above against:
+Compare the implied EPS CAGR **and** OEPS CAGR from the tables above against:
 
-| Benchmark | Typical EPS CAGR | Use As |
-|---|---|---|
-| India nominal GDP growth | 10-12% | Floor for a decent business |
-| Company's own historical 5Y EPS CAGR | [X]% | What it has actually delivered |
-| Company's own historical 10Y EPS CAGR | [X]% | Longer-term track record |
-| Industry/sector average growth | [X]% | Peer comparison |
-| Analyst consensus forward estimates | [X]% | Market expectations |
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 8-10% (capital-heavy) / 10-12% (asset-light) | Floor for a decent business |
+| Company's own historical 5Y EPS CAGR | [X]% | [X]% | What it has actually delivered |
+| Company's own historical 10Y EPS CAGR | [X]% | [X]% | Longer-term track record |
+| Company's own historical Owner Earnings CAGR | — | [X]% | The Buffett-pure growth benchmark |
+| Industry/sector average growth | [X]% | [X]% | Peer comparison |
+| Analyst consensus forward estimates | [X]% | — | Market expectations (analysts rarely forecast OE) |
 
 **Traffic Light System:**
 
@@ -870,11 +943,13 @@ Compare the implied EPS CAGR from the table above against:
 | Implied growth is 1.5-2.0x historical CAGR | **Expensive** — you're betting on acceleration that may not materialise | 🟠 ORANGE |
 | Implied growth > 2x historical CAGR or > 25% CAGR for a large-cap | **Crazy price** — even a wonderful business can be a terrible investment at this price | 🔴 RED |
 
+> **Apply the Traffic Light to BOTH the EPS and OEPS implied growth.** If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
+
 ### Step 5: The Verdict — Reasonable Price or Crazy Price?
 
 State clearly:
 
-> *"At the current price of ₹[...], to earn a [10/15/20]% annualised return over [5/10/15] years assuming the market values the business at [X]x PE at exit, the company needs to grow EPS at [X]% CAGR. The company has historically grown EPS at [X]% CAGR. This implies [the market is pricing in reasonable/optimistic/heroic/impossible growth]."*
+> *"At the current price of ₹[...], to earn a [10/15/20]% annualised return over [5/10/15] years assuming the market values the business at [X]x PE at exit, the company needs to grow EPS at [X]% CAGR (and Owner Earnings at [X]% CAGR). The company has historically grown EPS at [X]% CAGR and Owner Earnings at [X]% CAGR. This implies [the market is pricing in reasonable/optimistic/heroic/impossible growth]. [If EPS and OEPS verdicts diverge:] Note: the EPS-based assessment is [more/less] favourable than the Owner Earnings assessment, indicating [capital intensity is masking the true hurdle / the business is asset-light and EPS is reliable]."*
 
 **Buffett's Napkin Test:** *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* If the implied growth needed just to earn your hurdle rate is higher than what the company has ever delivered — or requires the company to grow at 20%+ for a decade when it's already large — **it's a pass.** A wonderful business at a crazy price is a bad investment.
 
