@@ -404,7 +404,7 @@ Buffett: *"We can afford to lose money — even a lot of money. But we can't aff
 | Cash & Investments (₹ Cr) | — | — | — | 799 | **939** |
 
 **Key Observations:**
-- **Order backlog at $300M** as of March 2026 (up 24% YoY) provides good revenue visibility — roughly 0.7x annual revenue (vs FY26 annual revenue of ~$437M), indicating ~8-9 months of revenue coverage. This is improving and a positive signal.
+- **Order backlog at $300M** as of March 2026 (up ~13% YoY from ~$265M in March 2025) provides good revenue visibility — roughly 0.7x annual revenue (vs FY26 annual revenue of ~$437M), indicating ~8-9 months of revenue coverage. This is improving and a positive signal.
 - **Employee count declining** from ~5,500 (FY23) to 4,730 (Mar 2026) while revenue grows — indicating improving efficiency and higher automation/offshore mix. Revenue per employee has increased significantly.
 - **Attrition at 17.4%** is manageable for mid-cap IT — indicates reasonable employee satisfaction.
 - **Cash position of ₹939 Cr** is the strongest ever, providing significant war chest for acquisitions or buybacks.
