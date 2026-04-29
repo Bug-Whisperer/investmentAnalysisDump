@@ -171,6 +171,8 @@ Assess the company against Buffett's key quality benchmarks. For each criterion,
 | ROIC | >15% | [X]% | ✅ / ⚠️ / ❌ |
 | Earnings yield | Reasonable | [X]% | ✅ / ⚠️ / ❌ |
 
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
 **[BANK/NBFC MODE]:**
 
 | Criterion | Benchmark | Company Score | Verdict |
@@ -683,9 +685,9 @@ Are the operational fundamentals improving or deteriorating beneath the financia
 ## 14. VALUATION ANALYSIS — The Price You Pay Determines Your Return
 
 **[STANDARD MODE]:**
-Table covering (current + all historical years): PE Ratio, Forward PE, PS Ratio, PB Ratio, P/FCF Ratio, **P/Owner Earnings Ratio**, **EV/EBIT**, EV/FCF, Earnings Yield, FCF Yield, **Owner Earnings Yield (Owner Earnings Per Share / CMP)**, PEG Ratio. How does current valuation compare to historical norms (add a specific note on Historical Comparison, indicating has the stock ever traded sustainably at current multiples historically)? Is the stock cheap on all metrics, or only superficially cheap (i.e., a potential value trap)?
+Table covering (current + all historical years): **P/Owner Earnings Ratio** (primary Buffett-pure multiple), PE Ratio, Forward PE, PS Ratio, PB Ratio, P/FCF Ratio, EV/EBIT (secondary cross-check — included for comparability with institutional analysis, not as a Buffett-pure metric; Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets), EV/FCF, Earnings Yield, FCF Yield, **Owner Earnings Yield (Owner Earnings Per Share / CMP)**, PEG Ratio. How does current valuation compare to historical norms (add a specific note on Historical Comparison, indicating has the stock ever traded sustainably at current multiples historically)? Is the stock cheap on all metrics, or only superficially cheap (i.e., a potential value trap)?
 
-> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. A steel company and a software company with identical EBITDA but vastly different capital requirements look equally valued on EV/EBITDA — but the software company is genuinely cheaper because it doesn't need to spend billions replacing equipment. EV/EBIT and P/Owner Earnings are the multiples Buffett would use: they account for the capital the business consumes before you get your return. **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from the true economic earnings (NI + D&A - Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner.
+> **Why EV/EBIT instead of EV/EBITDA (and why P/Owner Earnings is still preferred over both):** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. A steel company and a software company with identical EBITDA but vastly different capital requirements look equally valued on EV/EBITDA — but the software company is genuinely cheaper because it doesn't need to spend billions replacing equipment. EV/EBIT is a major improvement because it accounts for the capital the business consumes. However, Buffett himself rarely uses Enterprise Value constructs at all — he thinks in terms of equity value and what the owner gets, not in terms of capital-structure-adjusted abstractions. **P/Owner Earnings is therefore the preferred Buffett-pure multiple** — it starts from the true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner. EV/EBIT is retained as a secondary cross-check for comparability with institutional analysis and sell-side research.
 
 > **SBC Warning on FCF-Based Multiples:** For companies with material SBC (>5% of net income), the P/FCF Ratio and FCF Yield will make the stock look CHEAPER than it actually is, because reported FCF adds back SBC (a non-cash expense) in the operating cash flow section AND ignores the cash cost of anti-dilution buybacks. For high-SBC companies, also present **P/Dilution-Adjusted Owner Earnings** (using the Dilution-Adjusted Owner Earnings from Section 8) — this is the most honest valuation multiple as it reflects the true cash available to the owner after ALL costs including anti-dilution buyback costs. For companies with negligible SBC (most Indian non-tech companies), P/Owner Earnings ≈ P/E and this distinction is immaterial.
 
@@ -738,7 +740,7 @@ For each scenario, clearly state:
 - Starting Owner Earnings (specify whether Base or Dilution-Adjusted, and why)
 - Growth rate assumptions (Years 1-5 and Years 6-10), justified by the competitive analysis
 - Terminal growth rate
-- Discount rate (use WACC or 10% as Buffett's hurdle rate)
+- Discount rate (use 10% as Buffett's flat opportunity-cost hurdle rate — Buffett explicitly rejects WACC; Munger has called it "nonsense." WACC may be noted in a footnote for academic comparability, but the 10% hurdle is the default for all scenarios)
 - Present Value of all cash flows
 - Terminal Value
 - Total Enterprise Value
