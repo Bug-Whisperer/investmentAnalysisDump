@@ -7,6 +7,23 @@
 **Face Value:** ₹1.00 | **Listing Date:** September 3, 2024
 **Mode:** STANDARD (Non-Financial Company — Solar PV Manufacturing)
 
+> **IMPORTANT — Valuation Philosophy: Owner Earnings, Not EBITDA:**
+> This analysis follows a **pure Buffett/Munger valuation philosophy.** It deliberately excludes EBITDA-based metrics (EV/EBITDA, Debt/EBITDA) from valuation analysis. The reasons:
+>
+> 1. **Buffett (2000 Letter):** *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"*
+> 2. **Munger:** *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"*
+> 3. **Buffett (2002 Letter):** *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."*
+>
+> EBITDA pretends that the capital a business consumes to maintain its operations is free. A factory that must replace ₹100 Cr of equipment every year is NOT earning ₹100 Cr more than its income statement suggests — it is spending that money to stay in place. EBITDA hides this, making capital-hungry businesses look artificially profitable.
+>
+> **Instead, this analysis uses:**
+> - **EBIT** (Earnings Before Interest & Taxes, AFTER Depreciation) for operating profitability and debt coverage analysis
+> - **Owner Earnings** (Net Income + D&A − Maintenance CapEx) as the primary cash flow metric — Buffett's preferred measure of true economic earnings
+> - **Owner Earnings Per Share (OEPS)** for per-share valuation (P/Owner Earnings, Reverse DCF)
+> - **P/Owner Earnings** as the preferred Buffett-pure valuation multiple
+>
+> Note: Screener.in's "Operating Profit" is EBITDA-equivalent (pre-D&A). This analysis always computes and tracks **EBIT = Screener Operating Profit − Depreciation** to get the true after-capital-charge operating profit.
+
 ---
 
 ## 1. THE BUSINESS — Understanding the Economic Engine
@@ -39,11 +56,13 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 |---|---|---|---|---|---|---|---|
 | **Revenue** | 947 | **701** | 743 | 1,429 | 3,144 | **6,519** | 7,215 |
 | Revenue Growth YoY | — | **-26.0%** | 6.0% | 92.3% | 120.0% | **107.3%** | 10.7% |
-| **Operating Profit (EBITDA)** | 94 | 54 | **30** | 78 | 478 | **1,781** | 2,231 |
-| OPM % | 9.9% | 7.7% | **4.0%** | 5.5% | 15.2% | **27.3%** | 30.9% |
+| **Operating Profit (pre-D&A)** | 94 | 54 | **30** | 78 | 478 | **1,781** | 2,231 |
+| OPM % (pre-D&A) | 9.9% | 7.7% | **4.0%** | 5.5% | 15.2% | **27.3%** | 30.9% |
+| Depreciation & Amortisation | 17 | 12 | 28 | 53 | 96 | **498** | 550 |
+| **EBIT (Op Profit minus D&A)** | 77 | 42 | **2** | 25 | 382 | **1,283** | 1,681 |
+| **EBIT Margin %** | 8.1% | 6.0% | **0.3%** | 1.7% | 12.2% | **19.7%** | 23.3% |
 | Other Income | 19 | 35 | 25 | 36 | 29 | **134** | 223 |
 | Interest | 35 | 22 | 43 | 69 | 121 | **177** | 160 |
-| Depreciation | 17 | 12 | 28 | 53 | 96 | **498** | 550 |
 | **Profit Before Tax** | 61 | 56 | **-16** | -8 | 289 | **1,240** | 1,743 |
 | Tax Rate % | 26% | **54%** | -8% | 72% | 20% | 24% | — |
 | **Net Profit** | 45 | 26 | **-14** | -13 | 231 | **937** | 1,331 |
@@ -52,7 +71,7 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 | Shares Outstanding (Cr) | 25 | 25 | 26 | 26 | 26 | 45 | ~45.4 |
 | Dividend Payout % | 0% | 0% | 0% | 0% | 0% | **2%** | — |
 
-> **Data Notes:** All P&L figures above are sourced directly from Screener.in (consolidated view). (1) PBT may differ by ±₹1 Cr from the sum of the line items above it due to Screener's integer rounding of individual items. (2) Tax Rate % is as reported by Screener and reflects the effective tax rate from the consolidated filings, which may include deferred tax adjustments, prior-period items, share of associate profit/loss, and minority interest — items not separately shown in this simplified table. This explains why Tax % cannot always be cleanly derived from PBT and Net Profit shown above (e.g., FY22 and FY23). (3) Annual EPS is computed as Full-Year Net Profit ÷ Year-End Shares Outstanding; quarterly EPS (Section 6) uses weighted-average shares per quarter, which is why the sum of quarterly EPS may not equal the annual EPS — particularly in FY25 where the IPO (Sep 2024) changed the share count mid-year.
+> **Data Notes:** All P&L figures above are sourced directly from Screener.in (consolidated view). (1) Screener's "Operating Profit" is calculated BEFORE deducting Depreciation & Amortisation, making it an **EBITDA-equivalent** figure (labelled "pre-D&A" above). **EBIT** = Operating Profit minus D&A — this is the true operating profit after accounting for capital consumption. PBT = EBIT + Other Income − Interest. (2) PBT may differ by ±₹1 Cr from the sum of line items due to Screener's integer rounding. (3) Tax Rate % is as reported by Screener and reflects the effective tax rate from consolidated filings, which may include deferred tax adjustments, prior-period items, share of associate profit/loss, and minority interest — items not separately shown in this simplified table. This explains why Tax % cannot always be cleanly derived from PBT and Net Profit shown above (e.g., FY22 and FY23). (4) Annual EPS is computed as Full-Year Net Profit ÷ Year-End Shares Outstanding; quarterly EPS (Section 6) uses weighted-average shares per quarter, which is why the sum of quarterly EPS may not equal the annual EPS — particularly in FY25 where the IPO (Sep 2024) changed the share count mid-year. (5) TTM Revenue Growth of 10.7% is as reported by Screener; it compares TTM Revenue (₹7,215 Cr) to FY25 annual (₹6,519 Cr), not to the prior-year TTM (₹6,024 Cr). True YoY TTM growth would be ~19.8%. (6) TTM D&A of ₹550 Cr is sourced from Screener's annual TTM computation. Summing the last four quarterly D&A figures from Section 6 yields ₹580 Cr (187+125+130+138). The ₹30 Cr gap may reflect consolidation adjustments between Screener's quarterly and annual views. All TTM-derived metrics (EBIT, EV/EBIT, Owner Earnings) use the Screener annual TTM figure (₹550 Cr) for internal consistency.
 
 | Growth Metric | Value |
 |---|---|
@@ -97,19 +116,23 @@ Buffett: *"In the business world, the rearview mirror is always clearer than the
 | Other Assets | 538 | 541 | 693 | 1,110 | 2,305 | 4,775 |
 | | | | | | | |
 | **Debt/Equity** | 1.11 | **1.56** | 1.15 | 1.86 | **2.17** | **0.69** |
-| **Debt/EBITDA** | 2.7 | 6.4 | **15.2** | 9.8 | 2.9 | **1.1** |
+| **Debt/EBIT** | 3.3 | 8.3 | **227.5** | 30.6 | 3.7 | **1.5** |
+| **Net Debt/Owner Earnings** | 4.5 | N/M | N/M | N/M | 7.2 | **0.9** |
+| **Interest Coverage (EBIT/Interest)** | 2.2 | 1.9 | **0.0** | 0.4 | 3.2 | **7.2** |
 | BVPS (₹) | 9.24 | 8.88 | 15.15 | 15.81 | 24.85 | 62.71 |
 | Net Debt | 250 | 338 | 400 | 706 | 1,392 | 1,109 |
 
 > **BVPS Note:** The FY25 year-end BVPS of ₹62.71 is computed as Shareholders' Equity (₹2,822 Cr) ÷ Shares (45 Cr). The Screener.in header displays a more recent figure of ₹76.2, which corresponds to the Sep 2025 (H1 FY26) quarter-end balance sheet (Equity Capital ₹45 Cr + Reserves ₹3,409 Cr = ₹3,454 Cr ÷ ~45.3 Cr shares ≈ ₹76.2). Valuation sections (14, 17) use the latest available ₹76.2 figure for current P/B calculations, as it better reflects the company's book value at the analysis date. This table shows the FY25 year-end figure for consistency with other annual data.
 
+> **Why Debt/EBIT and Net Debt/Owner Earnings instead of Debt/EBITDA:** EBITDA pretends the business has no capital consumption. A company with ₹500 Cr debt, ₹100 Cr EBITDA, and ₹60 Cr depreciation looks "comfortable" at 5x Debt/EBITDA — but its Debt/EBIT is 12.5x, revealing the true burden after maintaining the asset base. Net Debt/Owner Earnings goes further by using the Buffett metric for genuine cash earning power. These are the metrics that tell you whether the debt can actually be repaid from real economic earnings, not accounting fiction. For Premier Energies, the difference is stark: Debt/EBIT of 227.5x in FY22 (when EBIT was just ₹2 Cr after D&A consumed nearly all operating profit) reveals a balance sheet far more stressed than Debt/EBITDA of 15.2x would suggest.
+
 ### Financial Fortress Assessment
 
 The balance sheet has undergone a **dramatic transformation:**
 
-**Pre-IPO (FY20-FY24):** The company was heavily leveraged (D/E peaked at 2.17x in FY24) to fund aggressive capacity expansion. Debt/EBITDA hit a dangerous 15.2x in FY22 when earnings collapsed. This was a balance sheet under significant stress — NOT a Buffett-quality fortress.
+**Pre-IPO (FY20-FY24):** The company was heavily leveraged (D/E peaked at 2.17x in FY24) to fund aggressive capacity expansion. Debt/EBIT hit a dangerous 227.5x in FY22 when EBIT collapsed to just ₹2 Cr (D&A nearly consumed all operating profit). Interest coverage fell to 0.0x. This was a balance sheet under significant stress — NOT a Buffett-quality fortress.
 
-**Post-IPO (FY25):** The ₹1,291 Cr fresh equity from the August 2024 IPO, combined with ₹937 Cr in net profit, transformed the balance sheet. D/E dropped from 2.17x to 0.69x. Debt/EBITDA collapsed to a comfortable 1.1x. The equity base expanded 4.4x from ₹646 Cr to ₹2,822 Cr.
+**Post-IPO (FY25):** The ₹1,291 Cr fresh equity from the August 2024 IPO, combined with ₹937 Cr in net profit, transformed the balance sheet. D/E dropped from 2.17x to 0.69x. Debt/EBIT collapsed to a comfortable 1.5x, interest coverage surged to 7.2x, and Net Debt/Owner Earnings fell to just 0.9x. The equity base expanded 4.4x from ₹646 Cr to ₹2,822 Cr.
 
 **However, the ₹12,500 Cr capex plan over the next 2-3 years will re-leverage the balance sheet.** The company plans to fund this through a mix of internal accruals and debt. If execution proceeds smoothly and margins hold, this leverage is manageable. If the cycle turns, it could become dangerous.
 
@@ -166,7 +189,8 @@ Buffett: *"Owner earnings represent the true economic earnings of a business —
 | **ROE %** | 19.5% | 11.5% | **-4.5%** | -3.2% | 43.7% | **54.0%** |
 | **ROA %** | 5.4% | 2.9% | **-1.2%** | -0.8% | 8.2% | **18.1%** |
 | Debt/Equity | 1.11 | 1.56 | 1.15 | **1.86** | **2.17** | **0.69** |
-| OPM % | 9.9% | 7.7% | **4.0%** | 5.5% | 15.2% | **27.3%** |
+| OPM % (pre-D&A, Screener) | 9.9% | 7.7% | **4.0%** | 5.5% | 15.2% | **27.3%** |
+| **EBIT Margin %** | 8.1% | 6.0% | **0.3%** | 1.7% | 12.2% | **19.7%** |
 | NPM % | 4.8% | 3.7% | **-1.9%** | -0.9% | 7.3% | **14.4%** |
 | Debtor Days | 74 | **84** | 71 | **15** | 71 | 45 |
 | Inventory Days | 56 | **44** | 135 | **197** | 157 | 121 |
@@ -186,7 +210,7 @@ Buffett: *"Owner earnings represent the true economic earnings of a business —
 | Positive Free Cash Flow | Positive | ₹728 Cr (FY25), negative 5 of 6 years | ⚠️ Just turned positive |
 | Promoter holding | Aligned | 63.94% | ✅ Strong promoter skin in the game |
 | Dividend payout | Paying | 2% (just started FY25) | ⚠️ Minimal, growth phase |
-| OPM stability | Stable | 4% to 27% — NOT stable, wildly cyclical | ❌ Volatile margins |
+| EBIT Margin stability | Stable | 0.3% to 19.7% — NOT stable, wildly cyclical | ❌ Volatile margins |
 | Moat / Pricing Power | Identifiable | Policy moat (BCD/DCR/PLI) + scale + tech | ⚠️ Policy-dependent, not intrinsic |
 | Earnings yield | Reasonable | 2.8% (at 35.4x PE) | ⚠️ Low for a cyclical business |
 
@@ -202,8 +226,11 @@ Buffett: *"Owner earnings represent the true economic earnings of a business —
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **Sales** | 611 | 694 | 712 | **1,127** | 1,657 | 1,527 | 1,713 | 1,621 | 1,821 | 1,837 | **1,936** |
 | YoY Sales Growth | — | — | — | — | **171%** | 120% | 141% | 44% | 10% | 20% | 13% |
-| **Operating Profit** | **71** | 99 | 123 | 184 | 358 | 381 | 514 | 528 | 548 | 561 | **593** |
-| OPM % | **12%** | 14% | 17% | 16% | 22% | 25% | 30% | **33%** | 30% | 31% | 31% |
+| **Operating Profit (pre-D&A)** | **71** | 99 | 123 | 184 | 358 | 381 | 514 | 528 | 548 | 561 | **593** |
+| OPM % (pre-D&A) | **12%** | 14% | 17% | 16% | 22% | 25% | 30% | **33%** | 30% | 31% | 31% |
+| Depreciation | 10 | 18 | 22 | 46 | 91 | 108 | 113 | **187** | 125 | 130 | 138 |
+| **EBIT** | **61** | 81 | 101 | 138 | 267 | 273 | 401 | 341 | 423 | 431 | **455** |
+| **EBIT Margin %** | **10.0%** | 11.7% | 14.2% | 12.2% | 16.1% | 17.9% | **23.4%** | 21.0% | 23.2% | 23.5% | **23.5%** |
 | **Net Profit** | **31** | 53 | 43 | 104 | 198 | 206 | 255 | 278 | 308 | 353 | **392** |
 | EPS (₹) | **1.19** | 2.01 | 1.64 | 3.95 | 5.93 | 4.57 | 5.66 | 6.16 | 6.83 | 7.80 | **8.65** |
 
@@ -213,7 +240,7 @@ Buffett: *"Owner earnings represent the true economic earnings of a business —
 
 1. **Revenue Trajectory:** Revenue has grown from ~₹611 Cr/quarter (Jun'23) to ~₹1,936 Cr/quarter (Dec'25) — a 3.2x increase. However, YoY growth has decelerated sharply from 171% (Jun'24) to 13% (Dec'25) as the base effect normalises and the initial capacity ramp plateaus before the next wave (new 7 GW cell facility).
 
-2. **Margin Trend:** OPM has expanded dramatically from 12% (Jun'23) to 30-33% (recent quarters) and has stabilised in the 30-33% band for four consecutive quarters. This suggests margins may be finding a sustainable plateau rather than a cyclical peak — though this is uncertain.
+2. **Margin Trend:** OPM (pre-D&A) has expanded dramatically from 12% (Jun'23) to 30-33% (recent quarters) and has stabilised in the 30-33% band for four consecutive quarters. **EBIT Margin** tells a more nuanced story: it expanded from 10% (Jun'23) to 23-24% (recent quarters) but shows a notable dip in Mar'25 (21.0%) due to a ₹187 Cr depreciation charge in that quarter (nearly double the prior quarter's ₹113 Cr) as new capacity was capitalised. EBIT Margin has since stabilised at ~23.5%. The gap between OPM (~31%) and EBIT Margin (~23.5%) of ~7.5 percentage points reflects the rising capital intensity from massive capacity additions — this is the cost EBITDA-based analysis would miss. The OPM plateau masks the D&A drag; EBIT Margin is the truer profitability signal.
 
 3. **Normalised Quarterly EPS Run-Rate:** The last four quarters (Mar'25 through Dec'25) show EPS of ₹6.16, ₹6.83, ₹7.80, ₹8.65 = ₹29.44 annualised. There are no obvious one-time items distorting this. The **normalised earnings power is approximately ₹29-30 per share** on the current share base.
 
@@ -266,7 +293,7 @@ Buffett: *"Owner earnings represent the true economic earnings of a business —
 - 12 GWh BESS capacity
 - 3 GW inverter capacity
 
-This is an **exceptionally capital-intensive growth phase.** CapEx of ₹12,500 Cr against current equity of ~₹2,822 Cr and current EBITDA of ~₹2,231 Cr (TTM) means the company will need to deploy 4.4x its current equity base in capex. This will require a combination of internal accruals (~₹4,000-5,000 Cr over 3 years at current profitability), debt (~₹5,000-6,000 Cr), and potentially additional equity.
+This is an **exceptionally capital-intensive growth phase.** CapEx of ₹12,500 Cr against current equity of ~₹2,822 Cr and current EBIT of ~₹1,681 Cr (TTM) means the company will need to deploy 4.4x its current equity base in capex. This will require a combination of internal accruals (~₹4,000-5,000 Cr over 3 years at current profitability), debt (~₹5,000-6,000 Cr), and potentially additional equity.
 
 **SBC Analysis:** Premier Energies' ESOP is negligible. The April 2026 allotment of 9.57 lakh shares on a base of ~45.4 Cr shares represents ~0.02% dilution. SBC is not a material concern for this company.
 
@@ -335,17 +362,20 @@ Buffett: *"We do not get enthused about change... we're looking for the absence 
 
 ## 11. SCALABILITY CHECK — Can This Business Scale?
 
-### Profit Scalability — Incremental Operating Margin
+### Profit Scalability — Incremental EBIT Margin
 
-| Year | ΔRevenue (₹ Cr) | ΔOp Profit (₹ Cr) | Incremental Op Margin |
-|---|---|---|---|
-| FY21 | -246 | -40 | 16.3% (on declining revenue) |
-| FY22 | +42 | -24 | **-57.1%** (anti-scaling) |
-| FY23 | +686 | +48 | 7.0% (poor) |
-| FY24 | +1,715 | +400 | **23.3%** (good) |
-| FY25 | +3,375 | +1,303 | **38.6%** (elite) |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY20 | 947 | — | 77 | — | 8.1% | — |
+| FY21 | 701 | -26.0% | 42 | -45.5% | 6.0% | 14.2% (on declining revenue) |
+| FY22 | 743 | 6.0% | 2 | -95.2% | **0.3%** | **-95.2%** (anti-scaling) |
+| FY23 | 1,429 | 92.3% | 25 | turnaround | 1.7% | 3.4% (poor) |
+| FY24 | 3,144 | 120.0% | 382 | 1,428% | 12.2% | **20.8%** (good) |
+| FY25 | 6,519 | 107.3% | **1,283** | 235.9% | **19.7%** | **26.7%** (strong) |
 
-The FY25 incremental margin of 38.6% vs. the existing OPM of ~15% (FY24) is extraordinary — each new rupee of revenue was ~2.5x more profitable than the average. This reflects massive operating leverage as new capacity ramps up against a largely fixed cost base.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's pre-D&A Operating Profit. This reveals whether profit scales genuinely, or whether rising D&A from heavy capex is eating the scaling benefit.*
+
+The FY25 incremental EBIT margin of 26.7% vs. the existing EBIT Margin of 12.2% (FY24) is excellent — each new rupee of revenue was ~2.2x more profitable than the average on a post-D&A basis. Note that this is lower than the pre-D&A incremental operating margin (38.6%), because the new capacity carries significant depreciation. This ~12 percentage point gap between pre-D&A and post-D&A incremental margins reveals the capital intensity cost that EBITDA-based analysis would hide. Genuine operating leverage is present, but it is partially offset by the D&A drag from the ₹12,500 Cr capex programme.
 
 ### Scaling Runway
 
@@ -358,7 +388,7 @@ The FY25 incremental margin of 38.6% vs. the existing OPM of ~15% (FY24) is extr
 | Dimension | Score (1-10) | Evidence |
 |---|---|---|
 | Revenue scalability | 7 | Large TAM, but commodity pricing limits pricing power |
-| Profit scalability | 8 | Incremental margins excellent at 38.6%; operating leverage visible |
+| Profit scalability | 8 | Incremental EBIT margins excellent at 26.7% (vs 12.2% existing EBIT margin — 2.2x); strong operating leverage post-D&A |
 | Capital scalability | 4 | VERY capital-intensive; ₹12,500 Cr capex needed |
 | Scaling runway | 8 | 300+ GW target, current penetration ~6-8% |
 | S-Curve position | 7 | At inflection, but execution risk on massive capex |
@@ -412,13 +442,16 @@ The management has created extraordinary value in a short period. The capital al
 | **PE Ratio (TTM)** | **35.4x** |
 | Forward PE (FY27E, ~₹35 EPS) | ~30x |
 | **P/B Ratio** | **13.7x** ¹ |
-| EV/EBITDA (TTM) | 21.7x |
+| **EV/EBIT (TTM)** | **28.8x** |
 | P/FCF (FY25) | 65.0x |
+| **P/Owner Earnings (FY25)** | **37.9x** |
 | Earnings Yield | 2.8% |
-| P/Owner Earnings (FY25) | 37.9x |
+| **Owner Earnings Yield (OEPS / CMP)** | **2.6%** |
 | P/Sales (TTM) | 6.6x |
 
 > **¹ P/B Note:** P/B of 13.7x uses the latest available BVPS of ₹76.2 (Sep 2025 quarter-end), not the FY25 year-end BVPS of ₹62.71. Using the FY25 year-end figure, P/B would be 16.6x. The Sep 2025 figure is used because it is closer to the analysis date and reflects two additional quarters of retained earnings.
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. A steel company and a software company with identical EBITDA but vastly different capital requirements look equally valued on EV/EBITDA — but the software company is genuinely cheaper because it doesn't need to spend billions replacing equipment. EV/EBIT and P/Owner Earnings are the multiples Buffett would use: they account for the capital the business consumes before you get your return. **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from the true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner. For Premier Energies, the distinction matters: EV/EBIT (28.8x) is materially higher than the EV/EBITDA figure (21.7x) would have been, because D&A of ₹550 Cr (TTM) reflects real capital consumption from the massive capacity buildout.
 
 ### Historical Comparison
 
@@ -426,11 +459,11 @@ Premier Energies listed only in September 2024 at ₹990 (IPO price ₹450). The
 
 ### Peer Valuation
 
-| Company | PE | P/B | EV/EBITDA | ROE |
+| Company | PE | P/B | EV/EBIT | ROE |
 |---|---|---|---|---|
-| **Premier Energies** | 35x | 13.7x | 21.7x | 54% ² |
-| Waaree Energies | ~25-30x | ~10-12x | ~18-20x | ~35-40% |
-| Vikram Solar | ~15-20x | ~5-6x | ~12-15x | ~15-20% |
+| **Premier Energies** | 35x | 13.7x | 28.8x | 54% ² |
+| Waaree Energies | ~25-30x | ~10-12x | ~25-30x | ~35-40% |
+| Vikram Solar | ~15-20x | ~5-6x | ~18-22x | ~15-20% |
 
 > **² ROE Note:** All ROE figures above use Screener's standard average-equity methodology. Premier's 54% is inflated by the mid-year IPO equity infusion in FY25 (low opening equity base). On a year-end equity basis, FY25 ROE is ~33%. Sustainable forward ROE is estimated at 20-30% (see Section 9).
 
@@ -465,11 +498,16 @@ At the current price of ₹1,042, the stock is:
 
 ### Inputs
 
-| Input | Value |
-|---|---|
-| CMP | ₹1,042 |
-| Normalised TTM EPS | ₹29.44 |
-| Current PE | 35.4x |
+| Input | Value | Source |
+|---|---|---|
+| CMP | ₹1,042 | Market data |
+| Normalised TTM EPS | ₹29.44 | Sum of last 4 quarters (GAAP, post-IPO share count) |
+| **TTM Owner Earnings Per Share (OEPS)** | **₹36.81** | TTM Owner Earnings (₹1,671 Cr) ÷ 45.4 Cr diluted shares |
+| Current PE (on TTM EPS) | 35.4x | CMP / TTM EPS |
+| **Current P/OE (on TTM OEPS)** | **28.3x** | CMP / TTM OEPS — the Buffett-pure valuation multiple |
+| Shares Outstanding (Diluted) | ~45.4 Cr | Latest data |
+
+> **Why OEPS > EPS for Premier Energies:** TTM Owner Earnings (₹1,671 Cr) significantly exceed TTM Net Income (₹1,331 Cr) because the massive depreciation charge (₹550 Cr) on newly commissioned capacity far exceeds true maintenance capex (~₹210 Cr). The ₹340 Cr difference is accounting D&A on growth assets that is NOT a cash cost of maintaining the existing business — Owner Earnings correctly adds this back. This makes the stock look **cheaper on P/OE (28.3x) than on PE (35.4x)**. For a growth-capex-heavy company in early capacity ramp, this is the expected and favorable pattern — the accounting overstates the capital charge, and Owner Earnings corrects for it.
 
 ### Implied EPS CAGR Needed for Target Returns
 
@@ -505,16 +543,56 @@ At the current price of ₹1,042, the stock is:
 | 10 Years | 10.1% | 15.1% | 20.1% |
 | 15 Years | 10.1% | 15.1% | 20.1% |
 
-### Reality Check
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-The company's historical 5Y EPS CAGR is ~83.5% (FY20→FY25), but this includes the cyclical recovery from losses to peak earnings. **Sustainable forward EPS growth is likely 15-25%** as the company scales capacity from 3.2 GW to 10.6 GW cells.
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading: a company can grow EPS by underinvesting in maintenance (boosting short-term earnings while the asset base deteriorates), financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. If the EPS-based Reverse DCF says "the market needs 15% EPS growth" but the OEPS-based version says "the business needs 25% Owner Earnings growth," that's a critical red flag. Buffett: *"Accounting is the language of business, but like any language, it can be used to obfuscate rather than illuminate."*
 
-**Traffic Light:**
-- At **Terminal PE = 35x** (current): Only 10% EPS growth needed for a 10% return → 🟢 GREEN (if PE sustains)
-- At **Terminal PE = 20x** (PE compression): 16.5% EPS CAGR needed for 10% return over 10Y → 🟡 YELLOW (achievable but requires execution)
-- At **Terminal PE = 15x** (severe compression): 20% EPS CAGR needed for 10% return → 🟠 ORANGE (challenging)
+**At Terminal P/OE = 16x (Market Average)**
 
-**Verdict:** The stock's return profile is heavily dependent on PE multiple sustaining. If the market continues to assign a 30-35x PE (treating it as a growth compounder), returns can be attractive with moderate earnings growth. If the PE compresses to 15-20x (treating it as a cyclical manufacturer), the required EPS growth becomes very demanding.
+| Holding Period | 10% Return | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 23.3% | 28.9% | 34.5% |
+| 10 Years | 16.5% | 21.8% | 27.0% |
+| 15 Years | 14.3% | 19.5% | 24.7% |
+
+> **Terminal P/OE Note:** Terminal P/OE multiples are typically lower than Terminal PE because Owner Earnings > Net Income for most capital-intensive businesses. Guideline: Mature (10-13x), Market Average (15-18x), Compounder (20-25x). For Premier Energies, 16x is used as the market-average scenario.
+
+### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | Terminal Multiple | 10-Year, 10% Hurdle |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | PE = 20x | 16.5% |
+| Implied OEPS CAGR (from Step 3B) | P/OE = 16x | 16.5% |
+| **Gap (OEPS CAGR − EPS CAGR)** | | **~0 pp** |
+
+**Interpretation: Gap ≤ 2pp — The EPS-based Reverse DCF is reliable for this business.**
+
+This near-zero gap is a distinctive and important finding. For most capital-intensive manufacturers, OEPS CAGR exceeds EPS CAGR (indicating EPS understates the true growth hurdle). For Premier Energies, the opposite dynamic operates: **OEPS significantly exceeds EPS** (₹36.81 vs ₹29.44, a 1.25x ratio) because the company is in early-stage capacity ramp where D&A on new assets far exceeds true maintenance costs. This higher OEPS is exactly offset by the lower Terminal P/OE multiple (16x vs 20x), producing identical implied growth rates. The effects cancel — the EPS-based analysis is neither misleadingly optimistic nor pessimistic.
+
+**Caveat:** This favorable OEPS > EPS dynamic is **temporary.** As the capacity matures and maintenance capex rises toward depreciation levels (which happens over 5-10 years), OEPS will converge toward EPS. At that point, the 30% maintenance-capex assumption used in this analysis will understate true maintenance, and OEPS will shrink. The current analysis captures the growth-phase economics; a mature-phase reassessment would use a higher maintenance-capex ratio (50-60%).
+
+### Reality Check — Is the Implied Growth Reasonable?
+
+Compare the implied EPS CAGR and OEPS CAGR against benchmarks:
+
+| Benchmark | Typical CAGR | Use As |
+|---|---|---|
+| India nominal GDP growth | 10-12% | Floor for a decent business |
+| Company's historical 5Y EPS CAGR | ~83.5% | Includes cyclical recovery — not sustainable |
+| Company's historical 5Y Owner Earnings CAGR | ~86.7% | Same caveat (FY20 OE = ₹55 Cr → FY25 OE = ₹1,249 Cr) |
+| Sustainable forward EPS/OEPS growth | 15-25% | Based on 3x capacity expansion underway |
+| Analyst consensus | 20-25% | Market expectations |
+
+The company's historical 5Y EPS CAGR is ~83.5% (FY20→FY25), but this includes the cyclical recovery from losses to peak earnings. **Sustainable forward growth is likely 15-25%** as the company scales capacity from 3.2 GW to 10.6 GW cells.
+
+**Traffic Light (applied to BOTH EPS and OEPS — identical in this case):**
+- At **Terminal PE = 35x / P/OE = 28x** (current multiples sustain): Only ~10% growth needed for a 10% return → 🟢 GREEN (if multiples sustain)
+- At **Terminal PE = 20x / P/OE = 16x** (multiple compression): 16.5% CAGR needed for 10% return over 10Y → 🟡 YELLOW (achievable but requires execution)
+- At **Terminal PE = 15x** (severe compression): ~20% CAGR needed for 10% return → 🟠 ORANGE (challenging)
+
+> Since the EPS and OEPS verdicts are identical (gap ~0pp), the EPS-based analysis is reliable for Premier Energies. The business is NOT in the dangerous category where EPS flatters the true economics. If anything, the current Owner Earnings overstate sustainable economics because of the favorable growth-phase D&A vs maintenance dynamic.
+
+**Verdict:** At the current price of ₹1,042, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE (or 16x P/OE) at exit, the company needs to grow EPS at 16.5% CAGR (and Owner Earnings at 16.5% CAGR). The company has historically grown far faster, but that included cyclical recovery — sustainable forward growth is 15-25%. This implies **the market is pricing in fair-to-moderately-optimistic growth** — 🟡 YELLOW. The stock's return profile is heavily dependent on PE multiple sustaining. If the market continues to assign a 30-35x PE (treating it as a growth compounder), returns can be attractive with moderate earnings growth. If the PE compresses to 15-20x (treating it as a cyclical manufacturer), the required EPS growth becomes very demanding.
 
 ---
 
@@ -670,7 +748,7 @@ Premier Energies' prosperity is inextricably linked to Indian government solar p
 |---|---|---|
 | Business Quality | 7 | Strong execution, market #2 position, TOPCon leadership; but commodity product |
 | Moat Durability | 4 | Policy-dependent moat; no intrinsic pricing power; high-change industry |
-| Financial Health | 7 | D/E 0.69x, Debt/EBITDA 1.1x currently strong; will re-lever with ₹12,500 Cr capex |
+| Financial Health | 7 | D/E 0.69x, Debt/EBIT 1.5x, Interest Coverage 7.2x currently strong; will re-lever with ₹12,500 Cr capex |
 | Management Quality | 8 | Promoter-led, strong execution, 64% skin in game, IPO capital deployed effectively |
 | Valuation | 5 | 35x PE, 13.7x P/B — fair for growth, expensive for cyclical manufacturer |
 | Margin of Safety | 4 | Thin under conservative assumptions; reasonable under base case |
