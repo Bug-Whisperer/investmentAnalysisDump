@@ -34,18 +34,18 @@ As of February 2026, IHCL operates 617 hotels (361 operational, 256 in pipeline)
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 4,066 | 4,189 | 4,023 | 4,021 | 4,104 | 4,512 | 4,463 | **1,575** | 3,056 | 5,810 | 6,769 | **8,335** | 9,349 |
 | Revenue Growth % | — | 3.0% | -4.0% | 0.0% | 2.1% | 9.9% | -1.1% | **-64.7%** | 94.0% | 90.1% | 16.5% | **23.1%** | 20% |
-| Operating Profit | 562 | **427** | 612 | 610 | 671 | 830 | 968 | **-362** | 405 | 1,805 | 2,160 | **2,769** | 3,079 |
-| OPM % | 14% | **10%** | 15% | 15% | 16% | 18% | 22% | **-23%** | 13% | 31% | 32% | **33%** | 33% |
+| Operating Profit (pre-D&A) | 562 | **427** | 612 | 610 | 671 | 830 | 968 | **-362** | 405 | 1,805 | 2,160 | **2,769** | 3,079 |
+| OPM % (pre-D&A) | 14% | **10%** | 15% | 15% | 16% | 18% | 22% | **-23%** | 13% | 31% | 32% | **33%** | 33% |
 | Other Income | -497 | -193 | -43 | 44 | 83 | 90 | 173 | 325 | 171 | 142 | 181 | 535 | 537 |
 | Interest | 169 | 176 | 376 | 324 | 269 | 190 | 341 | 403 | 428 | 236 | 220 | 208 | 220 |
 | Depreciation | 308 | 291 | 285 | 299 | 301 | 328 | 404 | 410 | 406 | 416 | 454 | 518 | 580 |
+| **EBIT** | **254** | **136** | **327** | **311** | **370** | **502** | **564** | **-772** | **-1** | **1,389** | **1,706** | **2,251** | **2,499** |
+| **EBIT Margin %** | **6.2%** | **3.2%** | **8.1%** | **7.7%** | **9.0%** | **11.1%** | **12.6%** | **-49.0%** | **-0.0%** | **23.9%** | **25.2%** | **27.0%** | **26.7%** |
 | PBT | **-412** | -232 | -91 | 31 | 184 | 402 | 396 | **-850** | -258 | 1,295 | 1,666 | **2,578** | 2,816 |
 | Tax % | 27% | 49% | 99% | 372% | 66% | 39% | 11% | -18% | -14% | 25% | 28% | 24% | — |
 | Net Profit | **-536** | -347 | -203 | -46 | 104 | 296 | 364 | **-796** | -265 | 1,053 | 1,330 | **2,038** | 2,164 |
 | EPS (₹) | **-5.14** | -3.51 | -1.75 | -0.48 | 0.76 | 2.17 | 2.68 | **-5.45** | -1.74 | 7.06 | 8.85 | **13.40** | 14.10 |
 | Shares Out (Cr) | 81 | 81 | 99 | 99 | 119 | 119 | 119 | 119 | 142 | 142 | 142 | 142 | 142 |
-| EBITDA | 562 | **427** | 612 | 610 | 671 | 830 | 968 | **-362** | 405 | 1,805 | 2,160 | **2,769** | 3,079 |
-| EBITDA Margin % | 13.8% | **10.2%** | 15.2% | 15.2% | 16.3% | 18.4% | 21.7% | **-23.0%** | 13.2% | 31.1% | 31.9% | **33.2%** | 32.9% |
 
 *Note: Net Profit shown above is consolidated (includes Non-Controlling Interest / minority shareholders in subsidiaries). EPS is computed by Screener on PAT attributable to equity holders of the parent company, which is lower than the consolidated Net Profit. This explains why EPS ≠ Net Profit ÷ Shares Outstanding. For example, FY25: Consolidated NP = ₹2,038 Cr, but PAT attributable to parent ≈ ₹1,903 Cr (₹13.40 × 142 Cr shares).*
 
@@ -60,7 +60,7 @@ As of February 2026, IHCL operates 617 hotels (361 operational, 256 in pipeline)
 
 COVID-19 (FY21) caused a catastrophic 65% revenue collapse, but IHCL's post-COVID recovery has been extraordinary. Margins have structurally expanded from 14-18% (pre-FY20) to 31-33% (FY23-FY25). This is NOT just a cyclical recovery — it reflects permanent operating leverage from: (a) cost restructuring during COVID, (b) higher share of management fee income, (c) premiumisation of the portfolio, (d) digital transformation reducing distribution costs.
 
-Buffett: *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* IHCL's OPM expansion from 14% to 33% over a decade demonstrates that each incremental revenue rupee is far more profitable than the last — a hallmark of a franchise business with operating leverage.
+Buffett: *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* IHCL's OPM (pre-D&A) expansion from 14% to 33% — and more importantly, EBIT Margin expansion from 6% to 27% — over a decade demonstrates that each incremental revenue rupee is far more profitable than the last, even AFTER accounting for the capital the business consumes. This is a hallmark of a franchise business with genuine operating leverage. Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* The EBIT Margin tells the honest story — after depreciation, this business still delivers 27% operating margins.
 
 ---
 
@@ -76,14 +76,15 @@ Buffett: *"The best business to own is one that over an extended period can empl
 | Fixed Assets + CWIP | 6,769 | 6,605 | 7,052 | 6,038 | 6,360 | 6,538 | 8,303 | 8,603 | 8,609 | 9,151 | 9,567 | 11,551 |
 | BVPS (₹) | 32.56 | **27.49** | 26.06 | 25.43 | 35.13 | 36.54 | 36.61 | 30.66 | 49.73 | 56.21 | 66.59 | **78.59** |
 | Debt/Equity | **1.61** | **2.28** | 1.75 | 1.34 | 0.58 | 0.53 | 1.03 | 1.51 | 0.55 | 0.39 | 0.29 | **0.28** |
-| Interest Coverage (EBITDA) | 3.3x | **2.4x** | 1.6x | 1.9x | 2.5x | 4.4x | 2.8x | **-0.9x** | 0.9x | 7.6x | 9.8x | **13.3x** |
+| Debt/EBIT | 16.7x | **37.3x** | 13.8x | 10.9x | 6.6x | 4.6x | 8.0x | N/M | N/M | 2.3x | 1.6x | **1.4x** |
+| Interest Coverage (EBIT/Interest) | 1.5x | **0.8x** | 0.9x | 1.0x | 1.4x | 2.6x | 1.7x | **-1.9x** | -0.0x | 5.9x | 7.8x | **10.8x** |
 | Net Cash Position (Q3 FY26) | — | — | — | — | — | — | — | — | — | — | — | Gross Cash ₹3,877 Cr |
 
 **Financial Fortress Assessment:** IHCL's balance sheet has undergone a remarkable transformation:
 
 1. **Deleveraging:** D/E has collapsed from 2.28x (FY15) to 0.28x (FY25) — an ~88% reduction. Borrowings fell from ₹5,074 Cr to ₹3,084 Cr even as the business doubled in size.
 2. **Equity Strengthening:** Shareholders' equity grew from ₹2,227 Cr (FY15) to ₹11,160 Cr (FY25) — a 5x increase, driven by retained earnings and equity raises (FY16, FY18, FY22 via rights issues).
-3. **Interest Coverage:** From a precarious 1.6x (FY16) to a fortress-like 13.3x (FY25). IHCL now generates 13x the operating profit needed to service its debt.
+3. **Interest Coverage:** From a precarious 0.9x EBIT coverage (FY16) to a fortress-like 10.8x (FY25). IHCL now generates nearly 11x the EBIT needed to service its debt — and this is the honest, post-depreciation figure. Debt/EBIT has collapsed from 37.3x (FY15) to 1.4x (FY25).
 4. **Cash Position:** As of December 2025, IHCL holds gross cash of ₹3,877 Cr — exceeding total borrowings of ₹3,084 Cr (as of March 2025; Sep 2025 borrowings were ₹3,226 Cr). The company is effectively in a **net cash position** of ~₹650–793 Cr depending on the borrowings reference date.
 
 Buffett: *"We will reject interesting opportunities rather than over-leverage our balance sheet."* IHCL's balance sheet is now a genuine financial fortress — well-capitalised, conservatively levered, and cash-rich. The company has earned a credit upgrade to ICRA AAA (Stable) in February 2026, the highest possible credit rating.
@@ -126,12 +127,13 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | ROCE % | 4% | 4% | 5% | 5% | 6% | 8% | 7% | **-6%** | 1% | 13% | 15% | **17%** |
 | ROE % | -20.3% | -14.3% | -8.4% | -1.8% | 3.1% | 6.9% | 8.4% | **-19.9%** | -4.9% | 14.0% | 15.3% | **19.8%** |
 | Debt/Equity | 1.61 | **2.28** | 1.75 | 1.34 | 0.58 | 0.53 | 1.03 | 1.51 | 0.55 | 0.39 | 0.29 | **0.28** |
-| OPM % | 14% | **10%** | 15% | 15% | 16% | 18% | 22% | **-23%** | 13% | 31% | 32% | **33%** |
+| OPM % (pre-D&A, Screener) | 14% | **10%** | 15% | 15% | 16% | 18% | 22% | **-23%** | 13% | 31% | 32% | **33%** |
+| EBIT Margin % | 6.2% | **3.2%** | 8.1% | 7.7% | 9.0% | 11.1% | 12.6% | **-49.0%** | -0.0% | 23.9% | 25.2% | **27.0%** |
 | NPM % | **-13.2%** | -8.3% | -5.0% | -1.1% | 2.5% | 6.6% | 8.2% | **-50.5%** | -8.7% | 18.1% | 19.6% | **24.5%** |
 | Debtor Days | 25 | 26 | 22 | 25 | 29 | 26 | 24 | **51** | 30 | 28 | 26 | 28 |
 | CCC | -179 | -162 | -184 | -189 | -217 | -195 | -268 | **-520** | -376 | -256 | -257 | **-180** |
 | Working Capital Days | -146 | -66 | -166 | -114 | -69 | -112 | -99 | -555 | -165 | -84 | -61 | -40 |
-| Interest Coverage | 3.3x | **2.4x** | 1.6x | 1.9x | 2.5x | 4.4x | 2.8x | **-0.9x** | 0.9x | 7.6x | 9.8x | **13.3x** |
+| Interest Coverage (EBIT) | 1.5x | **0.8x** | 0.9x | 1.0x | 1.4x | 2.6x | 1.7x | **-1.9x** | -0.0x | 5.9x | 7.8x | **10.8x** |
 | Dividend Payout % | 0% | 0% | — | — | 47% | 21% | 17% | — | — | 14% | 20% | 17% |
 
 ### Part B: Buffett's Quality Checklist
@@ -146,11 +148,13 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | Positive FCF | Positive | ~₹1,194 Cr (FY25 est.) | ✅ |
 | Promoter/Insider holding | Aligned | 38.12% (Tata Group) | ✅ Tata Group = gold standard governance |
 | Dividend payout | Paying | 17% avg (recent years) | ✅ Conservative, reinvesting for growth |
-| OPM stability | Stable | 31-33% range (FY23-FY25); was 14-22% pre-COVID | ⚠️ Structural improvement, but cyclical risk exists |
+| EBIT Margin stability | Stable | 24-27% range (FY23-FY25); was 6-13% pre-COVID | ⚠️ Structural improvement, but cyclical risk exists |
 | Moat / Pricing Power | Identifiable | Taj brand = India's strongest hotel brand | ✅ Iconic, irreplaceable brand |
 | Earnings yield | Reasonable | 2.2% at current price | ❌ Very low — stock is expensive |
 
-**Narrative:** The ratios reveal a business that has undergone a complete metamorphosis. Pre-COVID IHCL was a mediocre, over-levered operator with mid-teen margins and negative returns on equity. Post-COVID IHCL is a lean, deleveraged franchise with 33% OPM, ~20% ROE, and fortress-like balance sheet. The improvement is driven by structural factors (capital-light model, cost restructuring, premiumisation) not just cyclical tailwinds. However, the 10-year track record includes deep losses — this is NOT a "consistent compounder" in the Buffett mould. It's a turnaround that has become a quality business. The key question is: are these elevated margins and returns sustainable through the next downturn?
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation (especially relevant for IHCL given IndAS 116), and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
+**Narrative:** The ratios reveal a business that has undergone a complete metamorphosis. Pre-COVID IHCL was a mediocre, over-levered operator — single-digit EBIT Margins and negative ROE through FY17, improving to EBIT Margins of 9-13% and single-digit ROE (3-8%) by FY18-FY20 under Chhatwal's early restructuring, but still well below current levels. Post-COVID IHCL is a lean, deleveraged franchise with 33% OPM (pre-D&A), 27% EBIT Margin, ~20% ROE, and a fortress-like balance sheet. The improvement is driven by structural factors (capital-light model, cost restructuring, premiumisation) not just cyclical tailwinds. The EBIT Margin tells the more honest story — after accounting for the capital the business consumes, it still earns 27% margins. However, the 10-year track record includes deep losses — this is NOT a "consistent compounder" in the Buffett mould. It's a turnaround that has become a quality business. The key question is: are these elevated margins and returns sustainable through the next downturn?
 
 ---
 
@@ -162,7 +166,11 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 1,686 | 1,625 | 1,466 | **1,433** | 1,964 | 1,905 | 1,550 | 1,826 | 2,533 | 2,425 | 2,041 | 2,041 | **2,842** |
 | YoY Growth % | — | — | — | — | 16.5% | 17.2% | 5.7% | 27.4% | 29.0% | 27.3% | 31.7% | 11.8% | 12.2% |
-| OPM % | 35% | 33% | 28% | **25%** | 37% | 35% | 29% | 27% | **38%** | 35% | 28% | 28% | **38%** |
+| Op. Profit (pre-D&A) | 597 | 535 | 410 | **355** | 732 | 660 | 450 | 501 | 962 | 857 | 576 | 570 | **1,076** |
+| OPM % (pre-D&A) | 35% | 33% | 28% | **25%** | 37% | 35% | 29% | 27% | **38%** | 35% | 28% | 28% | **38%** |
+| Depreciation (est.) | 104 | 104 | 110 | 110 | 114 | 114 | 120 | 120 | 130 | 130 | 140 | 140 | 145 |
+| **EBIT** | **493** | **431** | **300** | **245** | **618** | **546** | **330** | **381** | **832** | **727** | **436** | **430** | **931** |
+| **EBIT Margin %** | **29.2%** | **26.5%** | **20.5%** | **17.1%** | **31.5%** | **28.7%** | **21.3%** | **20.9%** | **32.8%** | **30.0%** | **21.4%** | **21.1%** | **32.8%** |
 | Net Profit | 404 | 339 | 236 | **179** | 477 | 438 | 260 | 583* | 633 | 563 | 329 | 318 | **954*** |
 | EPS (₹) | 2.69 | 2.31 | 1.57 | **1.18** | 3.18 | 2.93 | 1.75 | 3.90* | 4.09 | 3.67 | 2.08 | 2.00 | **6.35*** |
 
@@ -172,7 +180,7 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 
 1. **Revenue Trajectory:** Strong double-digit YoY growth in every quarter. Clear seasonality — Dec quarter (Q3) is the peak season (weddings + winter tourism), while Sep quarter (Q2) is lean (monsoon). Dec25 revenue of ₹2,842 Cr is the highest-ever quarterly revenue.
 
-2. **Margin Trend:** OPM is remarkably stable at 28-29% in lean quarters and 35-38% in peak quarters. No margin compression despite growth — operating leverage is working. Q3 FY26 EBITDA margin of 39.1% (company-reported, including other operating income) is the best-ever.
+2. **Margin Trend:** OPM (pre-D&A) ranges from 25-29% in lean quarters (Jun/Sep) and 33-38% in peak quarters (Dec/Mar). EBIT Margin (after D&A) shows a similar stable pattern: 17-21% in lean quarters and 27-33% in peak quarters from FY24 onwards (with Dec quarters consistently the strongest at 29-33%; the earlier Mar23 quarter came in at 26.5% as the post-COVID margin expansion was still ramping). Both OPM and EBIT Margin are moving in lockstep — there is no divergence where rising D&A eats into profitability (a pattern EBITDA-based analysis would miss). This confirms that IHCL's capital-light shift is genuine; the business is NOT becoming more capital-intensive as it scales. Q3 FY26 EBIT Margin of 32.8% is among the best-ever.
 
 3. **Normalised Quarterly EPS Run-Rate:** Stripping exceptional items, Q3 FY26 PAT before exceptionals was ₹668 Cr per the company's press release (EPS ≈ ₹4.70). *(Note: the reported PAT of ₹954 Cr less the net exceptional items doesn't precisely reconcile to ₹668 Cr using the rounded figures of ~₹327 Cr and ~₹37 Cr stated in the filing — the ₹668 Cr figure is taken directly from IHCL's official Q3 FY26 results disclosure.)* 9M FY26 normalised PAT is ~₹1,316 Cr (EPS ≈ ₹9.25). Annualising: ~₹12.3-12.5 normalised EPS for FY26E. This suggests TTM normalised EPS of ~₹12-13, putting the normalised PE closer to 50-52x.
 
@@ -273,16 +281,18 @@ The **Taj brand** is IHCL's primary moat — arguably India's strongest hospital
 
 **Revenue Scalability:** IHCL's management contract model has near-zero marginal cost per incremental hotel. Each new management contract adds ₹5-15 Cr in annual fee income with minimal capital deployment. The brand is the distribution engine — hotel owners COME TO IHCL seeking a franchise, not the other way around. In FY26, IHCL signed 239 hotels — demonstrating massive inbound demand for the brand.
 
-**Profit Scalability (Incremental Margins):**
+**Profit Scalability (Incremental EBIT Margins):**
 
-| Year | Revenue | Rev Growth | Op Profit | OP Growth | Incremental Margin |
-|---|---|---|---|---|---|
-| FY22 | 3,056 | — | 405 | — | — |
-| FY23 | 5,810 | 90.1% | 1,805 | 345.7% | 50.8% |
-| FY24 | 6,769 | 16.5% | 2,160 | 19.7% | 37.0% |
-| FY25 | 8,335 | 23.1% | 2,769 | 28.2% | 38.9% |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY22 | 3,056 | — | -1 | — | -0.0% | — |
+| FY23 | 5,810 | 90.1% | 1,389 | N/M | 23.9% | 50.5% |
+| FY24 | 6,769 | 16.5% | 1,706 | 22.8% | 25.2% | 33.1% |
+| FY25 | 8,335 | 23.1% | 2,251 | 31.9% | 27.0% | 34.8% |
 
-Incremental operating margins of 37-51% are significantly ABOVE current OPM of 33% — this is an **elite scaler.** Each incremental revenue rupee is more profitable than the average.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins exceed current EBIT margins, the business is scaling beautifully even after accounting for depreciation on its expanding asset base.*
+
+Incremental EBIT margins of 33-51% are significantly ABOVE current EBIT Margin of 27% — this is an **elite scaler.** Each incremental revenue rupee is more profitable than the average, even after accounting for the capital consumed. The convergence between OPM-based and EBIT-based incremental margins confirms IHCL's capital-light model: D&A is NOT eating into the scaling benefit.
 
 ### Part B: Scaling Runway
 
@@ -297,7 +307,7 @@ Incremental operating margins of 37-51% are significantly ABOVE current OPM of 3
 | Dimension | Score (1-10) | Evidence |
 |---|---|---|
 | Revenue scalability | 8 | Management contracts = near-zero marginal cost; brand does the selling |
-| Profit scalability | 8 | Incremental margins 37-51% vs current 33%; strong operating leverage |
+| Profit scalability | 8 | Incremental EBIT margins 33-51% vs current EBIT Margin 27%; strong operating leverage |
 | Capital scalability | 9 | 94% capital-light pipeline; FCF generation rising without proportional CapEx |
 | Scaling runway | 9 | India hotel TAM = 30x current revenue; massive underpenetration |
 | S-Curve position | 8 | Inflection phase — model proven, scaling accelerating |
@@ -334,7 +344,7 @@ Buffett: *"When a management team with a reputation for brilliance tackles a bus
 | Total Rooms (Enterprise) | ~18,000 | ~20,000 | ~22,000 | 32,000+ | 62,500+ (incl. pipeline) |
 | Same-Store RevPAR Growth | Recovery | Strong | Strong | Strong | +9% |
 | Management Fee Income (₹ Cr) | — | — | — | ~700 | ₹203 Cr (Q3 alone) |
-| EBITDA Margin (Hotel Segment) | ~15% | ~33% | ~34% | ~35% | 40.7% |
+| EBITDA Margin (Hotel Segment, company-reported) | ~15% | ~33% | ~34% | ~35% | 40.7% |
 | Capital-Light Keys (% of Ops) | — | — | — | 68% | 68% |
 | Capital-Light Keys (% of Pipeline) | — | — | — | 94% | 94% |
 | Epicure Loyalty Revenue (₹ Cr) | — | — | — | — | ₹1,800 Cr (+28% YoY) |
@@ -355,14 +365,18 @@ The operational KPIs confirm that the financial improvement is driven by genuine
 | Market Cap | ₹91,043 Cr | |
 | TTM EPS | ₹14.10 | Includes exceptional items |
 | Normalised EPS (est.) | ~₹12.50 | Stripping one-time gains |
+| **P/Owner Earnings (primary Buffett-pure)** | **43.5x** | **CMP / (OE TTM ₹2,094 Cr / 142.22 Cr shares = ₹14.72 OEPS)** |
+| **Owner Earnings Yield** | **2.30%** | **OEPS ₹14.72 / CMP ₹640** |
 | PE (TTM) | 45.4x | |
 | PE (Normalised) | ~51x | |
 | BVPS | ₹81.3 | (As of Sep 2025) |
 | P/B | 7.87x | |
 | EV (approx.) | ₹90,250 Cr | Mkt Cap + Debt - Cash |
-| EV/EBITDA (TTM) | 29.3x | |
+| EV/EBIT (TTM) | 36.1x | Secondary cross-check; Buffett prefers equity-level multiples |
 | Earnings Yield | 2.2% | |
 | Dividend Yield | 0.36% | Per Screener (based on declared DPS of ~₹2.30) |
+
+> **Why EV/EBIT instead of EV/EBITDA:** Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* EBITDA pretends that the capital a business consumes is free. EV/EBIT tells the honest story after depreciation. **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from the true economic earnings (NI + D&A - Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner.
 
 ### Historical Valuation Context
 
@@ -410,6 +424,8 @@ This is a wonderful business at a rich price. Buffett: *"It's far better to buy 
 | CMP | ₹640 |
 | Reported TTM EPS | ₹14.10 |
 | Current PE (on Reported TTM EPS) | 45.4x |
+| **Owner Earnings Per Share (OEPS)** | **₹14.72** *(Owner Earnings TTM ₹2,094 Cr / 142.22 Cr diluted shares)* |
+| **Current P/OE (on OEPS)** | **43.5x** *(CMP ₹640 / OEPS ₹14.72 — the Buffett-pure valuation multiple)* |
 | Diluted Shares | 142.22 Cr |
 
 > *Note: The reported TTM EPS of ₹14.10 includes exceptional gains (TajSATS consolidation in Sep 2024 and JV stake sale in Dec 2025). Section 14 estimates normalised EPS at ~₹12.50. Using ₹12.50 would increase the implied growth rates below by ~1-2 percentage points across the board, making the stock appear even MORE expensive. The tables below use ₹14.10 (Screener-reported TTM) as a conservative baseline for the reverse DCF — any conclusions about overvaluation are therefore understated.*
@@ -440,24 +456,47 @@ This is a wonderful business at a rich price. Buffett: *"It's far better to buy 
 | 10 Years | 8.9% | 13.9% | 18.8% |
 | 15 Years | 9.3% | 14.3% | 19.2% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading for capital-intensive businesses: a company can grow EPS by underinvesting in maintenance, inflating short-term earnings while the asset base deteriorates. Owner Earnings strips this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. If the EPS-based and OEPS-based Reverse DCFs diverge significantly, the gap reveals hidden capital intensity. Buffett: *"Accounting is the language of business, but like any language, it can be used to obfuscate rather than illuminate."*
+
+**Terminal P/OE Multiple:** 17x (Market Average — slightly lower than PE of 20x because Owner Earnings < Net Income for capital-intensive businesses; for asset-light businesses like IHCL, the gap is small).
+
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 17x)
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 32.7% OEPS CAGR needed | 38.8% | 44.8% |
+| 10 Years | 20.8% OEPS CAGR needed | 26.3% | 31.8% |
+| 15 Years | 17.1% OEPS CAGR needed | 22.4% | 27.8% |
+
+#### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal PE=20x / P/OE=17x, 10-Year, 10% Hurdle |
+|---|---|
+| Implied EPS CAGR (from Step 3) | 19.4% |
+| Implied OEPS CAGR (from Step 3B) | 20.8% |
+| **Gap (OEPS CAGR − EPS CAGR)** | **1.4 pp** |
+
+**Interpretation:** The gap of 1.4 percentage points is ≤ 2 pp, confirming IHCL is an **asset-light business where EPS closely tracks real economic earnings.** The standard EPS-based Reverse DCF is reliable for IHCL. This validates the capital-light transformation narrative. *(Technical note: OEPS of ₹14.72 appears slightly above EPS of ₹14.10 because Owner Earnings are computed from consolidated Net Profit — which includes ~₹159 Cr of Non-Controlling Interest — while EPS uses parent-only PAT. On a like-for-like parent-only basis, OEPS would be ~₹13.60, marginally below EPS, confirming that D&A closely approximates maintenance CapEx.)* The narrow 1.4 pp divergence in implied growth rates is what matters — it confirms the business is asset-light regardless of the NCI base difference. The 68% managed/leased portfolio and 94% capital-light pipeline are delivering on their promise.
+
 ### Reality Check
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| IHCL historical 5Y EPS CAGR | 42.8% (from a low base) |
-| IHCL sustainable EPS growth (est.) | 15-20% |
-| Analyst consensus FY27-28E | 15-18% |
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| IHCL historical 5Y EPS CAGR | 42.8% (low base) | — | Track record (distorted by COVID) |
+| IHCL OE CAGR 2Y (FY23→FY25) | — | 47.9% | Recent Buffett-pure growth |
+| IHCL sustainable EPS/OE growth | 15-20% | 15-20% | Forward estimate |
+| Analyst consensus FY27-28E | 15-18% | — | Market expectations |
 
-**Verdict:**
+> *Apply the Traffic Light to BOTH the EPS and OEPS implied growth. If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.*
 
-At Terminal PE = 20x (PE compression to market average), the stock needs 19.4% EPS CAGR for 10 years just to earn a 10% return. This is at the very upper end of what IHCL can sustainably deliver and assumes perfect execution for a full decade.
+**Traffic Light: 🟠 ORANGE — Expensive.** Both the EPS-based and OEPS-based verdicts converge (gap only 1.4 pp), confirming the stock is genuinely expensive — this is not a case where EBITDA-based analysis flatters a capital-hungry business. The market is pricing in sustained 15-20% EPS/OEPS growth AND elevated multiples. If either falters, returns will be disappointing.
 
-At Terminal PE = 28x (modest PE compression), the stock needs 15.4% EPS CAGR for 10 years for a 10% return — achievable but not easy.
+### Verdict
 
-Only if the PE STAYS at 50x (current level) does the stock deliver decent returns at reasonable growth rates. But sustaining a 50x PE for a decade is a heroic assumption.
-
-**Traffic Light: 🟠 ORANGE — Expensive.** The market is pricing in sustained 15-20% EPS growth AND elevated multiples. If either falters, returns will be disappointing.
+> *"At the current price of ₹640, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE (17x P/OE) at exit, the company needs to grow EPS at 19.4% CAGR (and Owner Earnings at 20.8% CAGR). The company's sustainable growth rate is 15-20%. This implies the market is pricing in optimistic-to-heroic growth. Note: the EPS-based assessment and the Owner Earnings assessment are closely aligned (1.4 pp gap), confirming that IHCL is asset-light and EPS is a reliable measure of true economic earnings."*
 
 ---
 
@@ -491,9 +530,9 @@ Only if the PE STAYS at 50x (current level) does the stock deliver decent return
 | **P/B compresses to 3.9x (50%)** | -1.4% | 2.6% | 5.7% |
 | **P/B compresses to 1.0x** | -25.0% | -15.6% | -7.8% |
 
-**Key Insight:** At the current entry P/B of 7.87x, even with 13.3% annual BV compounding, a 10% hurdle rate requires the exit P/B to stay above ~5.0x over 10 years. If P/B compresses to the theoretical fair value of ~4x (based on 16% ROE / Gordon Growth Model), the 10-year CAGR drops to just 5.9% — well below the hurdle rate.
+**Key Insight:** At the current entry P/B of 7.87x, even with 13.3% annual BV compounding, a 10% hurdle rate requires the exit P/B to stay above ~5.9x over 10 years. The math: a 10% CAGR over 10 years requires the stock to reach ₹640 × 1.10¹⁰ = ₹1,660; projected BVPS at Year 10 is ₹81.3 × 1.133¹⁰ = ₹283; breakeven exit P/B = ₹1,660 ÷ ₹283 = **5.87x**. That is only a 25% compression from today's 7.87x — very little room for error. If P/B compresses to the theoretical fair value of ~4x (based on 16% ROE / Gordon Growth Model), the 10-year CAGR drops to just 5.9% — well below the hurdle rate.
 
-**Traffic Light: 🟡 YELLOW to 🔴 RED.** The 10-year return exceeds the 10% hurdle ONLY if P/B stays above 5x. Any meaningful P/B compression destroys returns. You are highly dependent on sentiment sustaining.
+**Traffic Light: 🟡 YELLOW to 🔴 RED.** The 10-year return exceeds the 10% hurdle ONLY if P/B stays above ~5.9x (a mere 25% compression from 7.87x). Any meaningful P/B compression destroys returns. You are highly dependent on sentiment sustaining.
 
 ---
 
@@ -538,7 +577,7 @@ Buffett with a small capital base would NOT buy IHCL at ₹640. He would put it 
 
 **Verdict: 5 out of 6 pass — but the most important one (price) fails.**
 
-Buffett: *"No matter how wonderful it is, it ain't worth an infinite price."* IHCL is a wonderful business — Tata Group governance, Taj brand, capital-light transformation, India's largest hospitality network, 33% OPM, 20% ROE, net cash position, AAA credit rating. It ticks every quality box.
+Buffett: *"No matter how wonderful it is, it ain't worth an infinite price."* IHCL is a wonderful business — Tata Group governance, Taj brand, capital-light transformation, India's largest hospitality network, 33% OPM (pre-D&A) / 27% EBIT Margin, 20% ROE, net cash position, AAA credit rating. It ticks every quality box.
 
 But at ₹640, you're paying 45-50x normalised earnings and 7.9x book value for a business that earns 16-20% ROE. The math is challenging: even with 15% EPS growth for 10 years, your returns depend on the PE multiple NOT compressing. That's speculating on sentiment, not investing in value.
 
@@ -557,9 +596,9 @@ Buffett: *"The stock market is a no-called-strike game. You don't have to swing 
 | **India tourism slowdown** | Medium | Low | Secular growth trend supported by rising incomes, infrastructure, and G20 momentum |
 | **Competitive intensity** (ITC Hotels demerger, Marriott expansion) | Medium | Medium | Taj brand and 617-hotel scale provide moat; IHCL is the acquirer, not the acquired |
 | **Execution risk on Accelerate 2030** | Medium | Low | Management track record is strong; capital-light model reduces downside |
-| **Input cost inflation** (food, energy, labour) | Medium | Medium | OPM at 33% provides buffer; pricing power allows pass-through |
+| **Input cost inflation** (food, energy, labour) | Medium | Medium | OPM (pre-D&A) at 33% / EBIT Margin 27% provides buffer; pricing power allows pass-through |
 | **Global macro / geopolitical risk** | Medium | Low-Medium | Domestic tourism (85%+ of revenue) provides resilience vs. international |
-| **Interest rate risk** | Low | Low | Net cash position; AAA rating; interest coverage 13x |
+| **Interest rate risk** | Low | Low | Net cash position; AAA rating; EBIT interest coverage 10.8x |
 
 ---
 
@@ -587,9 +626,9 @@ Buffett: *"The stock market is a no-called-strike game. You don't have to swing 
 
 | Factor | Score (1-10) | Commentary |
 |---|---|---|
-| **Business Quality** | 9 | Iconic brand, capital-light model, diversified portfolio, 33% OPM |
+| **Business Quality** | 9 | Iconic brand, capital-light model, diversified portfolio, 27% EBIT Margin |
 | **Moat Durability** | 9 | 120-year Taj brand, heritage assets, scale, switching costs |
-| **Financial Health** | 9 | Net cash position, D/E 0.28x, AAA rating, 13x interest coverage |
+| **Financial Health** | 9 | Net cash position, D/E 0.28x, AAA rating, 10.8x EBIT interest coverage |
 | **Management Quality** | 9 | Tata governance, Chhatwal's turnaround execution, $1 test = ₹24.87 |
 | **Scalability** | 8 | Capital-light pipeline, India TAM 30x current revenue, inflection phase |
 | **Valuation** | 3 | PE 45-50x, P/B 7.9x — expensive by any absolute measure |
