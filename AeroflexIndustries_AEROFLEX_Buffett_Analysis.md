@@ -567,7 +567,7 @@ ROE is primarily driven by **Net Profit Margin** (which is improving) and **Asse
 
 **Key Insight:** At the current entry P/B of ~11x, the stock can tolerate zero P/B compression to deliver 14.9% returns (matching BV compounding). But if P/B compresses to even 5.5x (50% compression), the 5-year return drops to essentially zero. The stock needs the market to sustain a 10-11x P/B multiple — extremely rare for any industrial company over sustained periods.
 
-**Traffic Light: 🔴 RED — Dangerous Entry.** The 10-year return drops below the 10% hurdle rate if P/B compresses by more than ~25%. You need the market to remain extremely optimistic about this stock just to earn a decent return.
+**Traffic Light: 🔴 RED — Dangerous Entry.** The 5-year return drops below the 10% hurdle rate with just ~25% P/B compression (to 8.2x), and the 10-year return drops below 10% if P/B compresses by more than ~35% (to ~7.1x). You need the market to remain extremely optimistic about this stock just to earn a decent return.
 
 ---
 
