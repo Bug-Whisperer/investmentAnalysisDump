@@ -26,25 +26,25 @@ Buffett: *"The key to investing is not assessing how much an industry is going t
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 51,220 | 52,972 | **41,546** | 55,604 | 71,933 | 84,757 | 73,326 | 79,839 | 146,371 | 165,960 | **175,006** | 168,824 | 179,109 |
 | Rev Growth YoY | — | 3.4% | **-21.6%** | 33.9% | 29.4% | 17.8% | -13.5% | 8.9% | **83.3%** | 13.4% | 5.4% | -3.5% | — |
-| **Operating Profit** | 9,169 | 9,364 | **6,422** | 12,308 | 14,916 | 18,930 | 11,813 | 20,178 | **39,114** | 18,470 | 28,157 | 22,725 | 27,017 |
-| OPM % | 18% | 18% | **15%** | 22% | 21% | 22% | 16% | 25% | **27%** | 11% | 16% | 13% | 15% |
+| **Operating Profit (pre-D&A)** | 9,169 | 9,364 | **6,422** | 12,308 | 14,916 | 18,930 | 11,813 | 20,178 | **39,114** | 18,470 | 28,157 | 22,725 | 27,017 |
+| OPM % (pre-D&A) | 18% | 18% | **15%** | 22% | 21% | 22% | 16% | 25% | **27%** | 11% | 16% | 13% | 15% |
 | Other Income | -1,630 | 103 | **-1,966** | 18 | -177 | 196 | -289 | 473 | 1,600 | 1,561 | 1,500 | 73 | 564 |
 | Interest | 3,048 | 3,493 | 3,601 | 3,768 | 3,701 | 3,917 | 4,265 | 3,957 | 4,968 | 6,902 | 8,105 | **8,412** | 9,028 |
-| Depreciation | 3,183 | 3,434 | 3,323 | 3,430 | 3,387 | 4,041 | 4,246 | 4,679 | 6,001 | 7,474 | 8,172 | **9,309** | 9,950 |
+| Depreciation & Amortisation | 3,183 | 3,434 | 3,323 | 3,430 | 3,387 | 4,041 | 4,246 | 4,679 | 6,001 | 7,474 | 8,172 | **9,309** | 9,950 |
+| **EBIT** | 5,986 | 5,930 | **3,099** | 8,878 | 11,529 | 14,889 | 7,567 | 15,499 | **33,113** | 10,996 | 19,985 | **13,416** | 17,067 |
+| **EBIT Margin** | 11.7% | 11.2% | **7.5%** | 16.0% | 16.0% | 17.6% | 10.3% | 19.4% | **22.6%** | 6.6% | 11.4% | **7.9%** | 9.5% |
 | **Net Profit** | 402 | 1,722 | **-481** | 3,467 | 6,113 | 7,524 | 3,919 | 7,873 | **20,938** | 4,139 | 8,973 | 3,491 | 7,766 |
 | NPM % | 0.8% | 3.2% | **-1.2%** | 6.2% | 8.5% | 8.9% | 5.3% | 9.9% | **14.3%** | 2.5% | 5.1% | 2.1% | 4.3% |
 | **EPS (₹)** | 1.87 | 7.43 | **-1.39** | 14.57 | 25.71 | 31.60 | 16.67 | 32.73 | **85.49** | 17.14 | 36.03 | 14.33 | 30.47 |
-| EBITDA | 9,169 | 9,364 | **6,422** | 12,308 | 14,916 | 18,930 | 11,813 | 20,178 | **39,114** | 18,470 | 28,157 | 22,725 | 27,017 |
-| EBITDA Margin | 18% | 18% | **15%** | 22% | 21% | 22% | 16% | 25% | **27%** | 11% | 16% | 13% | 15% |
 | Shares (Cr) | ~215 | ~232 | ~237 | ~238 | ~238 | ~238 | ~235 | ~241 | ~245 | ~242 | ~249 | ~244 | ~244 |
 
-> **Note:** EBITDA = Screener's Operating Profit directly (per analytical convention — Screener's OP already equals EBITDA; re-adding D&A would double-count).
+> **EBIT vs. EBITDA — Why This Analysis Uses EBIT:** Screener.in's "Operating Profit" is calculated pre-D&A, making it EBITDA-equivalent. This analysis computes and tracks **EBIT = Operating Profit − D&A** as the true operating profitability metric. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* EBIT tells you what the business earns after maintaining its asset base — for a capital-intensive steelmaker like JSW Steel where D&A reached ₹9,309 Cr (FY25), this distinction is enormous: EBIT Margin (7.9%) paints a fundamentally different picture than pre-D&A OPM (13%).
 
 > **Screener Data Note (FY16):** The Net Profit row shows consolidated profit (including minority interest share of losses = -₹481 Cr), while EPS is calculated by Screener on profit attributable to parent shareholders only (implying ~-₹330 Cr attributable profit). This creates a visible ~₹151 Cr gap between NP/Shares and reported EPS for FY16. Both figures are raw Screener data and have been retained as-is.
 
 **Trend Narrative:**
 
-This is a textbook commodity cyclical income statement. Revenue has grown at a 12.3% CAGR over 10 years (FY15-FY25) driven by both volume expansion (capacity grew from ~14 MTPA to ~36 MTPA) and steel price cycles. However, profitability is wildly cyclical — OPM has ranged from **11% (FY23) to 27% (FY22)**, and EPS from **-₹1.39 (FY16) to ₹85.49 (FY22)**. The FY22 supercycle saw net profit of ₹20,938 Cr; just three years later in FY25, net profit collapsed to ₹3,491 Cr — an **83% decline**.
+This is a textbook commodity cyclical income statement. Revenue has grown at a 12.3% CAGR over 10 years (FY15-FY25) driven by both volume expansion (capacity grew from ~14 MTPA to ~36 MTPA) and steel price cycles. However, profitability is wildly cyclical — pre-D&A OPM has ranged from **11% (FY23) to 27% (FY22)**, and EBIT Margin from **6.6% (FY23) to 22.6% (FY22)**. The gap between OPM and EBIT Margin has remained substantial throughout the analysis period (~6 pp in FY14, ~5 pp in FY25), though in absolute rupee terms D&A has tripled from ₹3,183 Cr to ₹9,309 Cr as the asset base expanded — a pattern that EBITDA-based analysis would entirely miss. EPS has swung from **-₹1.39 (FY16) to ₹85.49 (FY22)**. The FY22 supercycle saw net profit of ₹20,938 Cr; just three years later in FY25, net profit collapsed to ₹3,491 Cr — an **83% decline**.
 
 Earnings growth has NOT outpaced revenue growth on a sustained basis. The 10Y profit CAGR (7.3%) lags the 10Y sales CAGR (12.3%), meaning margins have structurally compressed as the company scaled. Interest costs have nearly tripled (2.8x) from ₹3,048 Cr (FY14) to ₹8,412 Cr (FY25), reflecting the massive debt-funded expansion.
 
@@ -64,7 +64,9 @@ Buffett: *"When a management with a reputation for brilliance tackles a business
 | Shareholders' Equity | 21,174 | 22,290 | **18,966** | 22,647 | 27,998 | 34,795 | 36,599 | 45,610 | 67,297 | 65,695 | 77,669 | **79,496** |
 | **BVPS (₹)** | 98.5 | 96.2 | **80.0** | 95.2 | 117.7 | 146.1 | 155.7 | 189.6 | **274.8** | 272.0 | 311.9 | **326.3** |
 | **Debt/Equity** | 1.68 | 1.74 | **2.23** | 1.91 | 1.41 | 1.36 | 1.68 | 1.46 | **1.07** | 1.23 | 1.13 | 1.24 |
-| Debt/EBITDA | 3.9 | 4.1 | **6.6** | 3.5 | 2.6 | **2.5** | 5.2 | 3.3 | 1.8 | 4.4 | 3.1 | 4.3 |
+| **Debt/EBIT** | 5.9 | 6.5 | **13.6** | 4.9 | 3.4 | **3.2** | 8.1 | 4.3 | **2.2** (FY22 best) | **7.4** | 4.4 | **7.4** |
+| Net Debt/Owner Earnings | 29.7 | 15.0 | **120.6** | 10.0 | 5.7 | 5.6 | 12.3 | 7.4 | **3.2** | 13.5 | 8.0 | **17.0** |
+| Interest Coverage (EBIT/Interest) | 2.0 | 1.7 | **0.9** | 2.4 | 3.1 | 3.8 | 1.8 | 3.9 | **6.7** | 1.6 | 2.5 | **1.6** |
 | Goodwill (est.) | — | — | — | — | — | — | — | — | — | — | — | — |
 | Current Ratio (est.) | 0.98 | 1.00 | **0.83** | 1.07 | 1.09 | 1.18 | 1.22 | 1.21 | 1.31 | 1.24 | 1.26 | 1.28 |
 
@@ -72,7 +74,7 @@ Buffett: *"When a management with a reputation for brilliance tackles a business
 
 The balance sheet is **NOT** a financial fortress by Buffett standards. Debt/Equity has consistently been above 1.0x — ranging from 1.07 (FY22, the best year) to 2.23 (FY16, the worst). Borrowings have grown relentlessly from ₹35,527 Cr (FY14) to ₹98,752 Cr (FY25), nearly tripling in 11 years. This reflects the capital-intensive nature of steelmaking — expansion requires enormous debt.
 
-Buffett: *"We will reject interesting opportunities rather than over-leverage our balance sheet."* JSW Steel has been doing the opposite — leveraging aggressively to fund growth. While this has driven capacity from ~14 MTPA to ~36 MTPA, it has also made the business vulnerable in downturns. Interest costs of ₹8,412 Cr in FY25 consumed 37% of operating profit — a dangerous level of interest burden.
+Buffett: *"We will reject interesting opportunities rather than over-leverage our balance sheet."* JSW Steel has been doing the opposite — leveraging aggressively to fund growth. While this has driven capacity from ~14 MTPA to ~36 MTPA, it has also made the business vulnerable in downturns. Interest costs of ₹8,412 Cr in FY25 consumed 37% of pre-D&A operating profit and exceeded EBIT coverage at just 1.6x — meaning after accounting for the capital the business consumes (depreciation), there is barely enough operating profit to cover interest. In FY16, EBIT/Interest fell to 0.9x — the business could not cover its interest costs from true operating profits. Debt/EBIT of 7.4x (FY25) reveals the true burden after accounting for capital consumption; the old Debt/EBITDA of 4.3x flatters the picture by pretending depreciation doesn't exist.
 
 The positive: BVPS has compounded from ₹96.2 (FY15) to ₹326.3 (FY25) — a 13.0% CAGR over 10 years, demonstrating genuine equity value creation despite the cyclicality.
 
@@ -111,13 +113,14 @@ Buffett: *"Accounting is the language of business. Earnings can be manipulated, 
 | ROE % | 1.9 | 7.9 | **-2.3** | 16.7 | 24.1 | **24.0** | 11.0 | 19.2 | **37.1** | 6.2 | 12.5 | **4.4** |
 | ROIC % | 5.0 | 10.8 | 7.9 | 13.1 | **17.9** | 17.1 | 13.1 | 12.6 | **21.9** | 9.5 | 12.1 | **9.1** |
 | Debt/Equity | 1.68 | 1.74 | **2.23** | 1.91 | 1.41 | 1.36 | 1.68 | 1.46 | **1.07** | 1.23 | 1.13 | 1.24 |
-| OPM % | 18 | 18 | **15** | 22 | 21 | 22 | 16 | 25 | **27** | **11** | 16 | 13 |
+| OPM % (pre-D&A, Screener) | 18 | 18 | **15** | 22 | 21 | 22 | 16 | 25 | **27** | **11** | 16 | 13 |
+| **EBIT Margin %** | 11.7 | 11.2 | **7.5** | 16.0 | 16.0 | 17.6 | 10.3 | 19.4 | **22.6** | **6.6** | 11.4 | **7.9** |
 | NPM % | 0.8 | 3.2 | **-1.2** | 6.2 | 8.5 | 8.9 | 5.3 | 9.9 | **14.3** | 2.5 | 5.1 | **2.1** |
 | Debtor Days | 16 | 17 | **24** | **27** | 24 | 31 | 22 | 21 | 19 | **16** | **16** | 18 |
 | Inventory Days | **98** | 136 | 135 | 147 | 118 | 123 | 130 | 160 | **208** | 130 | 151 | 142 |
 | Cash Conv. Cycle | **-48** | -23 | -48 | 2 | -7 | 17 | -17 | 9 | **36** | -4 | **33** | 28 |
 | Working Capital Days | **-105** | -58 | -105 | -66 | -36 | -63 | -96 | -93 | -24 | -50 | -29 | **-19** |
-| Interest Coverage | 2.5 | 2.7 | **1.2** | 3.3 | 4.0 | **4.9** | 2.7 | 5.2 | **8.2** | 2.9 | 3.7 | 2.7 |
+| Interest Coverage (EBIT/Interest) | **2.0** | **1.7** | **0.9** | 2.4 | 3.1 | 3.8 | 1.8 | 3.9 | **6.7** | **1.6** | 2.5 | **1.6** |
 | Div. Payout % | 74 | 19 | — | 19 | 16 | 16 | 15 | 25 | 25 | 25 | 25 | 24 |
 
 ### Part B: Buffett's Quality Checklist
@@ -132,10 +135,12 @@ Buffett: *"Accounting is the language of business. Earnings can be manipulated, 
 | Positive Free Cash Flow | Positive | Inconsistent; negative in 3 of 12 years | ⚠️ |
 | Promoter/Insider holding | Aligned | 45.3% — Sajjan Jindal family; strong alignment | ✅ |
 | Dividend payout | Paying | ~24% avg; consistent | ✅ |
-| OPM stability | Stable | 11%-27% range — **highly unstable** | ❌ |
+| EBIT Margin stability | Stable | 6.6%-22.6% range — **highly unstable** | ❌ |
 | Moat / Pricing Power | Identifiable | Low-cost producer advantage; NO pricing power over commodity cycle | ⚠️ |
-| ROIC | >15% | 12.8% avg; drops below 10% in bad years | ⚠️ |
+| ROIC | >15% | 12.8% avg (FY14-FY23 10Y); drops below 10% in bad years | ⚠️ |
 | Earnings yield | Reasonable | 2.4% (TTM); 1.8% (normalized) — very low | ❌ |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Verdict: 3 passes, 6 caution flags, 3 failures.** This does NOT pass Buffett's quality filter. The core issues are: (1) excessive leverage, (2) wildly cyclical margins and returns, and (3) no consistent earnings growth. The company creates value over long cycles (BVPS CAGR 13%) but the path is extremely volatile. The ratio trends reveal a business where moat strength is entirely cycle-dependent — high ROCE in upcycles signals temporary pricing power, not durable competitive advantage.
 
@@ -148,7 +153,10 @@ Buffett: *"Accounting is the language of business. Earnings can be manipulated, 
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 39,134 | 46,962 | 42,213 | 44,584 | 41,940 | 46,269 | 42,943 | 39,684 | 41,378 | **44,819** | 43,147 | **45,152** | **45,991** |
-| OPM % | **11%** | 17% | 17% | **18%** | 17% | 13% | 13% | 14% | 13% | 14% | 17% | 16% | 14% |
+| OPM % (pre-D&A) | **11%** | 17% | 17% | **18%** | 17% | 13% | 13% | 14% | 13% | 14% | 17% | 16% | 14% |
+| Depreciation | 1,882 | 2,009 | 1,900 | 2,019 | 2,059 | 2,194 | 2,209 | 2,267 | 2,336 | 2,497 | 2,537 | 2,554 | 2,362 |
+| **EBIT** | **2,609** | 5,922 | 5,112 | **5,843** | 5,105 | 3,832 | 3,289 | **3,108** | 3,243 | 3,638 | **4,939** | 4,473 | 4,017 |
+| **EBIT Margin %** | **6.7%** | 12.6% | 12.1% | **13.1%** | 12.2% | 8.3% | 7.7% | **7.8%** | 7.8% | 8.1% | **11.4%** | 9.9% | 8.7% |
 | Net Profit | **474** | **3,741** | 2,428 | 2,773 | 2,450 | 1,322 | **867** | **404** | 719 | 1,501 | 2,209 | 1,646 | 2,410 |
 | EPS (₹) | **2.03** | **15.16** | 9.67 | 11.29 | 9.88 | 5.31 | **3.46** | **1.80** | 2.93 | 6.15 | 8.93 | 6.64 | 8.75 |
 
@@ -156,7 +164,7 @@ Buffett: *"Accounting is the language of business. Earnings can be manipulated, 
 
 **Revenue Trajectory:** Quarterly sales have been range-bound between ₹39,684 Cr and ₹46,962 Cr over the past 13 quarters, with no clear growth trajectory. YoY growth in the latest quarter (Dec25 vs Dec24) was +11.1%, primarily driven by higher volumes from the BF3 upgrade completion.
 
-**Margin Trend:** OPM has been compressing — from 17-18% in the Jun-Sep 2023 period to 13-14% through most of FY25. There has been a recent recovery to 17% in Jun25, but this has already faded to 14% in Dec25. The margin compression reflects weak global steel prices, rising coking coal costs, and Chinese export pressure.
+**Margin Trend:** Pre-D&A OPM has been compressing — from 17-18% in the Jun-Sep 2023 period to 13-14% through most of FY25. There has been a recent recovery to 17% in Jun25, but this has already faded to 14% in Dec25. **Critically, EBIT Margin tells a starker story:** it fell from 12-13% (Jun-Sep 2023) to just 7.7-7.8% through FY25, recovering to 11.4% in Jun25 before fading again to 8.7% in Dec25. The widening gap between OPM and EBIT Margin (from ~5 pp in early 2023 to ~5-6 pp in FY25) reflects rising depreciation from the massive BF3 and other expansion projects — the true operating profitability after capital consumption is declining faster than headline OPM suggests. This is precisely the pattern that EBITDA-based analysis would miss.
 
 **Normalised Quarterly EPS Run-Rate:** Stripping out the weak Q2FY25 (₹1.80 EPS, impacted by BF3 shutdown) and the strong Q4FY23 (₹15.16, one-time recovery), the normalised quarterly EPS is approximately ₹7-9, implying an annualised run-rate of ₹28-36. The TTM EPS of ₹30.47 appears reasonable as a normalised estimate.
 
@@ -244,7 +252,23 @@ JSW Steel's competitive advantages are: (1) **India's largest steelmaker by capa
 
 ## 11. SCALABILITY CHECK
 
-**Scaling Verdict:**
+### Part A: Profit Scalability — Does Growth Translate Into Disproportionate Profit Growth?
+
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Net Profit | NP Growth | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|---|---|
+| FY17 | 55,604 | 33.8% | 8,878 | 186.5% | 16.0% | 3,467 | — | 41.1% |
+| FY18 | 71,933 | 29.4% | 11,529 | 29.9% | 16.0% | 6,113 | 76.4% | 16.2% |
+| FY19 | 84,757 | 17.8% | 14,889 | 29.1% | 17.6% | 7,524 | 23.1% | 26.2% |
+| FY20 | 73,326 | -13.5% | 7,567 | -49.2% | 10.3% | 3,919 | -47.9% | 64.1% |
+| FY21 | 79,839 | 8.9% | 15,499 | 104.8% | 19.4% | 7,873 | 100.9% | 121.8% |
+| FY22 | **146,371** | **83.3%** | **33,113** | **113.6%** | **22.6%** | **20,938** | **165.9%** | 26.5% |
+| FY23 | 165,960 | 13.4% | **10,996** | **-66.8%** | **6.6%** | **4,139** | **-80.2%** | **-112.9%** |
+| FY24 | 175,006 | 5.5% | 19,985 | 81.7% | 11.4% | 8,973 | 116.8% | 99.4% |
+| FY25 | 168,824 | -3.5% | **13,416** | **-32.9%** | **7.9%** | **3,491** | **-61.1%** | 106.3% |
+
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), NOT on Screener's Operating Profit (pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. For JSW Steel, the extreme volatility of incremental margins — swinging from -113% (FY23) to +122% (FY21) — is definitive proof that this is a **commodity cyclical, not a scaling machine**. In upcycles (FY21-FY22), incremental margins are spectacular as steel prices rise on a largely fixed cost base. In downcycles (FY23, FY25), incremental margins are deeply negative as revenue falls but depreciation (a fixed cost of the expanding asset base) continues relentlessly. EBITDA-based incremental margins would hide this pattern by excluding the growing D&A burden.*
+
+### Part B: Scaling Verdict
 
 | Dimension | Score | Evidence |
 |---|---|---|
@@ -298,17 +322,21 @@ The operational trajectory is positive — capacity and production are growing, 
 |---|---|
 | CMP | ₹1,289 |
 | Market Cap | ~₹3,14,516 Cr |
+| **P/Owner Earnings (primary Buffett-pure multiple)** | **41.3x** (OEPS ₹31.2) |
+| Owner Earnings Yield (OEPS / CMP) | 2.42% |
 | **PE (TTM EPS ₹30.47)** | **42.3x** |
 | PE (Normalized EPS ₹22.68) | **56.8x** |
 | P/B (FY25 BVPS ₹326) | **3.95x** |
 | P/B (Screener Sep25 BV ₹339) | **3.80x** |
 | EV (Mkt Cap + Debt) | ~₹4,13,268 Cr |
-| **EV/EBITDA (FY25)** | **18.2x** |
-| EV/EBITDA (TTM) | 15.3x |
+| **EV/EBIT (FY25)** | **30.8x** |
+| EV/EBIT (TTM) | 24.2x |
 | Earnings Yield (TTM) | 2.4% |
 | Earnings Yield (Normalized) | **1.8%** |
 | FCF Yield (FY25 FCF ₹3,887 Cr) | 1.2% |
 | Dividend Yield | ~0.22% |
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. JSW Steel's EBITDA of ₹22,725 Cr (FY25) makes the stock look cheaper (EV/EBITDA 18.2x) than the reality captured by EV/EBIT of 30.8x (EBIT ₹13,416 Cr). The ₹9,309 Cr of depreciation is a real economic cost of maintaining the steelmaking asset base — EBITDA hides it. P/Owner Earnings (41.3x) is the preferred Buffett-pure multiple — it uses the true cash available to the owner after maintaining the business.
 
 > **Normalised EPS derivation:** ₹22.68 = 3-year average consolidated Net Profit (FY23-FY25: ₹5,534 Cr) ÷ ~244 Cr diluted shares. This differs slightly from a direct 3Y average of yearly EPS (₹22.50) because share counts vary across years; the NP-based method is more principled.
 
@@ -326,13 +354,15 @@ Buffett: *"Price is what you pay, value is what you get."* At current prices, yo
 
 **DCF Valuation (3 Scenarios, Using Normalised Owner Earnings ₹7,614 Cr)**
 
+> **Discount Rate:** This analysis uses Buffett's flat 10% hurdle rate for all scenarios rather than WACC. Buffett: *"We use a discount rate which is pretty close to the long-term government rate."* Munger has called WACC *"nonsense."* The three scenarios differ in growth assumptions, not in the required return.
+
 | Scenario | Growth 1-5Y | Growth 6-10Y | Terminal g | Discount Rate | IV/Share | MoS | Upside |
 |---|---|---|---|---|---|---|---|
-| **Conservative** | 8% | 6% | 4% | 12% | **₹103** | -1154% | **-92.0%** |
-| **Base** | 12% | 8% | 4.5% | 11% | **₹364** | -254% | **-71.8%** |
-| **Optimistic** | 15% | 10% | 5% | 10% | **₹787** | -64% | **-38.9%** |
+| **Conservative** | 8% | 6% | 4% | 10% | **₹281** | -358.7% | **-78.2%** |
+| **Base** | 10% | 7% | 4.5% | 10% | **₹411** | -213.6% | **-68.1%** |
+| **Optimistic** | 15% | 10% | 5% | 10% | **₹787** | -63.8% | **-38.9%** |
 
-**All three scenarios show the stock as overvalued.** Even in the most optimistic case (15% growth for 5 years, 10% for the next 5, terminal growth 5%, at a 10% discount rate), the intrinsic value of ₹787 implies a **39% downside** from the current ₹1,289.
+**All three scenarios show the stock as overvalued.** Even in the most optimistic case (15% growth for 5 years, 10% for the next 5, terminal growth 5%, at Buffett's 10% hurdle rate), the intrinsic value of ₹787 implies a **39% downside** from the current ₹1,289.
 
 The massive gap between price and intrinsic value is driven by (1) JSW Steel's debt burden of ₹98,752 Cr which gets subtracted from enterprise value, and (2) the normalised earnings base being much lower than what the current stock price implies.
 
@@ -342,9 +372,18 @@ Buffett: *"Margin of safety is the three most important words in investing."* Th
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP ₹1,289 | Normalised EPS ₹22.68 | Current PE (on normalised) 56.8x
+### Step 1: Inputs
 
-### Implied EPS CAGR Needed to Achieve Target Returns
+| Input | Value | Source |
+|---|---|---|
+| Current Market Price (CMP) | ₹1,289 | Market data |
+| TTM EPS (Normalised) | ₹22.68 | 3Y avg NP ÷ 244 Cr shares (Section 14 derivation) |
+| **Owner Earnings Per Share (OEPS)** | **₹31.20** | Normalised OE ₹7,614 Cr ÷ 244 Cr shares (Section 8) |
+| Current PE (on Normalised EPS) | 56.8x | CMP / Normalised EPS |
+| **Current P/OE (on OEPS)** | **41.3x** | CMP / OEPS — the Buffett-pure valuation multiple |
+| Shares Outstanding (Diluted) | ~244 Cr | Latest data |
+
+### Step 3: Implied EPS CAGR Needed to Achieve Target Returns
 
 **At Terminal PE = 15x (Mature Steel Company)**
 
@@ -367,9 +406,51 @@ Buffett: *"Margin of safety is the three most important words in investing."* Th
 | 5 Years | **26.7%** | 32.5% | 38.3% |
 | 10 Years | **18.1%** | 23.4% | 28.8% |
 
-**Reality Check:** JSW Steel's historical 10Y EPS CAGR is 6.8%. The market is demanding 22-26% EPS CAGR over 10 years just to earn a 10% return — **3-4x what the company has historically delivered.**
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-**Traffic Light: 🔴 RED — CRAZY PRICE.** Even using the most generous terminal multiple (28x) and the minimum hurdle rate (10%), the implied growth required (18.1% over 10Y) is 2.7x the historical EPS CAGR. This is a wonderful business (India's largest steelmaker) at a terrible price.
+> **Why this matters:** EPS can be misleading — a company can grow EPS by underinvesting in maintenance, financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."* The same insight applies to EPS vs. Owner Earnings: EPS deducts accounting depreciation, but if actual maintenance spending exceeds depreciation, EPS overstates real earnings.
+
+**At Terminal P/OE = 16x (Market Average — capital-heavy steel business)**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | **33.0%** OEPS CAGR needed | 39.0% | 45.1% |
+| 10 Years | **20.9%** OEPS CAGR needed | 26.4% | 31.9% |
+| 15 Years | **17.2%** OEPS CAGR needed | 22.5% | 27.8% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Market Avg Terminal PE/P(OE) | 10-Year Hurdle (10% Return) |
+|---|---|---|
+| Implied EPS CAGR (Step 3, PE 20x) | 22.1% | |
+| Implied OEPS CAGR (Step 3B, P/OE 16x) | 20.9% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **-1.2 pp** | |
+
+**Interpretation:** The gap is ≤ 2 pp — the EPS-based and OEPS-based Reverse DCFs tell a consistent story. For JSW Steel, Owner Earnings EXCEED Net Profit (because OE = NP + 25% of D&A), so the OEPS base (₹31.20) is higher than EPS (₹22.68), requiring slightly less growth. However, this is offset by the lower terminal P/OE (16x vs 20x for PE). The net result: **both metrics demand 21-22% annual growth for a decade — equally heroic and equally unrealistic.** The standard EPS-based Reverse DCF is reliable for this company.
+
+### Step 4: Reality Check — Is the Implied Growth Reasonable?
+
+| Benchmark | Typical EPS CAGR | Typical OE CAGR (total) | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 8-10% (capital-heavy) | Floor |
+| Company's own 5Y EPS CAGR | -3.0% | 3.2% | Actual track record |
+| Company's own 10Y EPS CAGR | 6.8% | 8.5% | Longer-term track record |
+| Company's own 10Y OE CAGR | — | 8.5% | Buffett-pure benchmark |
+| Industry average growth | 8-12% | 6-10% | Peer comparison |
+
+> *Note: The OE CAGR column shows total Owner Earnings growth. Per-share OEPS CAGR is slightly lower (~7.9% over 10Y) due to mild share dilution (~232 Cr in FY15 to ~244 Cr in FY25). The difference is immaterial to the conclusion.*
+
+**Traffic Light: 🔴 RED — CRAZY PRICE.** Even using the most generous terminal multiple (28x PE) and the minimum hurdle rate (10%), the implied growth required (18.1% over 10Y) is 2.7x the historical EPS CAGR. The OEPS-based assessment confirms: at 20.9% OEPS CAGR needed, this is 2.5x the historical OE CAGR (8.5%). **Both the EPS and OEPS traffic lights are 🔴 RED — no divergence, no escape from the conclusion that this price demands impossible growth.**
+
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
+
+### Step 5: The Verdict
+
+> *"At the current price of ₹1,289, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 22.1% CAGR (and Owner Earnings at 20.9% CAGR). The company has historically grown EPS at 6.8% CAGR and Owner Earnings at 8.5% CAGR. This implies the market is pricing in heroic/impossible growth."*
+
+> *Note: the EPS-based and Owner Earnings assessments are consistent (gap of only 1.2 pp), indicating that the standard Reverse DCF is reliable for this business. The overvaluation conclusion holds regardless of which metric you use.*
+
+**Buffett's Napkin Test:** *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* If the implied growth needed just to earn your hurdle rate is higher than what the company has ever delivered — **it's a pass.**
 
 ---
 
@@ -459,7 +540,7 @@ Even working with a small capital base where Buffett might consider mid-caps and
 |---|---|---|---|
 | **Steel price collapse** (Chinese dumping) | High | Medium | Safeguard duties; but policy dependent |
 | **Coking coal price spike** | High | Medium | Captive coal (Mozambique mine); partial hedge |
-| **Debt service in downturn** | High | Medium | ₹8,412 Cr interest vs ₹22,725 Cr EBITDA (FY25) — 37% consumed |
+| **Debt service in downturn** | High | Medium | ₹8,412 Cr interest vs ₹13,416 Cr EBIT (FY25) — EBIT/Interest just 1.6x |
 | **Execution risk on 50 MTPA** | Medium | Medium | JVs with JFE/POSCO de-risk; but ₹1L+ Cr investment needed |
 | **Green steel transition** | Medium | High (long-term) | EAF and hydrogen investments underway; but capital-intensive |
 | **Regulatory** (export duty, mining policy) | Medium | Medium | Diversified operations; policy engagement |
@@ -492,7 +573,7 @@ Even working with a small capital base where Buffett might consider mid-caps and
 |---|---|---|
 | Business Quality | 5/10 | Commodity business; no pricing power; capital-intensive |
 | Moat Durability | 4/10 | Narrow cost advantage; replicable by well-funded competitors |
-| Financial Health | 4/10 | D/E >1.0x consistently; interest burden 37% of EBITDA |
+| Financial Health | 4/10 | D/E >1.0x consistently; EBIT/Interest just 1.6x (FY25) |
 | Management Quality | 7/10 | Sajjan Jindal is capable; $1 test passes at 4.62x |
 | Valuation | 2/10 | 57x normalised PE, 4x P/B — absurdly expensive for a steel company |
 | Margin of Safety | 0/10 | Negative across all DCF scenarios |
@@ -509,7 +590,7 @@ Even working with a small capital base where Buffett might consider mid-caps and
 
 "JSW Steel makes steel. Steel prices go up and down. When prices are high, the company makes a LOT of money. When prices are low, it barely makes any money. Right now, the stock costs ₹1,289 per share. The company earns about ₹23 per share in a normal year. That means you're paying 57 years of normal earnings for one share. That's like paying ₹57 for a candy bar that gives you ₹1 of enjoyment per year. It would take 57 years just to get your money back. Even an adult with a calculator can see this doesn't make sense."
 
-**Does the math work on a napkin?** No. At ₹1,289, you need 22%+ EPS growth for a decade just to earn 10% annual returns if the PE compresses to 20x. JSW Steel has historically grown EPS at 7% CAGR. **The napkin says PASS.**
+**Does the math work on a napkin?** No. At ₹1,289, you need 22%+ EPS growth (or 21%+ Owner Earnings growth) for a decade just to earn 10% annual returns if the market de-rates to sensible multiples. JSW Steel has historically grown EPS at 7% CAGR and Owner Earnings at 8.5% CAGR. **The napkin says PASS.**
 
 Buffett: *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* This is not a good deal. This is a stock that requires heroic assumptions about steel prices, capacity utilization, and multiple sustainability just to justify the current price. At ₹400, the napkin would say "interesting." At ₹1,289, the napkin says "are you serious?"
 
