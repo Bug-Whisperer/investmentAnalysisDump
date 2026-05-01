@@ -36,11 +36,13 @@ Buffett would understand this business immediately: it builds solar power plants
 |---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 2 | 7 | 6 | 13 | 162 | 351 | 876 | 1,598 | **3,331** |
 | Revenue Growth YoY | — | 250% | -14% | 117% | **1,146%** | 117% | 150% | 82% | 108% |
-| Operating Profit (EBITDA) | 0 | 3 | 1 | 7 | 24 | 84 | 207 | 311 | **641** |
-| OPM % | 25% | **43%** | 15% | **54%** | 15% | 24% | 24% | 19% | 19% |
+| Operating Profit (pre-D&A) | 0 | 3 | 1 | 7 | 24 | 84 | 207 | 311 | **641** |
+| OPM % (pre-D&A) | 25% | **43%** | 15% | **54%** | 15% | 24% | 24% | 19% | 19% |
+| Depreciation & Amortisation | 0 | 1 | 1 | 2 | 4 | 3 | 6 | 6 | 9 |
+| **EBIT** | 0 | 2 | 0 | 5 | 20 | 81 | 201 | 305 | **632** |
+| **EBIT Margin** | 0% | 29% | 0% | 38% | 12% | 23% | 23% | 19% | **19%** |
 | Other Income | 0 | 1 | 1 | 2 | 8 | 2 | 4 | 11 | 20 |
 | Interest | 0 | 2 | 3 | 4 | 7 | 5 | 7 | 15 | 13 |
-| Depreciation | 0 | 1 | 1 | 2 | 4 | 3 | 6 | 6 | 9 |
 | PBT | 0 | 1 | **-3** | 3 | 21 | 77 | 198 | 300 | **640** |
 | Net Profit | 0 | -2 | **-3** | -2 | 9 | 55 | 145 | 229 | **479** |
 | NI Growth YoY | — | — | — | — | Loss→Profit | **511%** | 164% | 58% | 109% |
@@ -79,14 +81,15 @@ Revenue is doubling every year, but margins are stable to slightly declining —
 | Other Assets | 8 | 59 | 50 | 17 | 93 | 128 | 545 | 814 | **1,893** |
 | BVPS (₹) | 0.95 | 0.86 | 2.48 | 2.10 | 2.86 | 8.10 | 23.52 | 43.43 | **88.95** |
 | Debt/Equity | 0.00 | **4.11** | 1.54 | **5.68** | 1.40 | 0.46 | 0.16 | **0.06** | 0.16 |
-| Debt/EBITDA | — | **12.3** | 40.0 | 17.9 | 1.8 | 0.46 | **0.19** | 0.09 | 0.23 |
-| Interest Coverage | — | **1.5** | 0.3 | 1.8 | 3.4 | 16.8 | 29.6 | 20.7 | **49.3** |
+| Debt/EBIT | — | **18.5** | — | 25.0 | 2.1 | 0.48 | **0.20** | 0.09 | 0.23 |
+| Net Debt/Owner Earnings | — | — | — | — | 3.82 | 1.18 | **0.27** | 0.13 | 0.32 |
+| Interest Coverage (EBIT/Int.) | — | **1.0** | 0.0 | 1.2 | 2.9 | 16.2 | 28.7 | 20.3 | **48.6** |
 
 > *Screener.in data note: For the early years (FY18–FY21), the liability-side and asset-side component sums may differ from the stated Total Assets by ±₹1–2 Cr due to independent rounding of each line item to the nearest ₹ Cr. This is a Screener presentation artifact and does not affect the computed ratios. BVPS for FY18–FY19 is calculated using the post-allotment share count (10.5 Cr) applied retroactively; on the actual FY19 share count (5.0 Cr), BVPS was ₹1.80, giving a ~50x increase to ₹88.95 rather than the ~100x shown on the retroactive basis.*
 
 **Financial Fortress Assessment:**
 
-The balance sheet has undergone a **remarkable deleveraging**. Debt/Equity has fallen from a dangerous 5.68x in FY21 to just **0.16x in FY26** — the company is nearly debt-free. Interest coverage at **49.3x** is extraordinary. Borrowings of ₹146 Cr against equity of ₹934 Cr and EBITDA of ₹641 Cr represent negligible financial risk.
+The balance sheet has undergone a **remarkable deleveraging**. Debt/Equity has fallen from a dangerous 5.68x in FY21 to just **0.16x in FY26** — the company is nearly debt-free. Interest coverage (EBIT-based) at **48.6x** is extraordinary. Borrowings of ₹146 Cr against equity of ₹934 Cr and EBIT of ₹632 Cr represent negligible financial risk.
 
 Book value per share has grown from ₹0.86 to ₹88.95 — a **~100x increase on the retroactive 10.5 Cr share basis** (~50x on the actual FY19 share count of 5 Cr) — driven by retained earnings, with one equity dilution event in FY20 (share count increased from 5 Cr to 10.5 Cr via allotment to Waaree Energies, and has been stable since).
 
@@ -132,10 +135,11 @@ Free Cash Flow has been positive in 4 of the last 5 years. The FCF margin of ~5�
 | ROE % | 0% | **-21%** | -17% | -8% | 35% | **96%** | 87% | 65% | 69% |
 | ROIC % | 0% | 8% | **1%** | 5% | 9% | **62%** | 74% | 61% | 62% |
 | Debt/Equity | 0.00 | **4.11** | 1.54 | **5.68** | 1.40 | 0.46 | 0.16 | **0.06** | 0.16 |
-| OPM % | 25% | **43%** | 15% | **54%** | 15% | 24% | 24% | 19% | 19% |
+| OPM % (pre-D&A, Screener) | 25% | **43%** | 15% | **54%** | 15% | 24% | 24% | 19% | 19% |
+| **EBIT Margin %** | 0% | 29% | 0% | 38% | 12% | 23% | 23% | 19% | **19%** |
 | NPM % | 0% | **-29%** | **-50%** | -15% | 6% | 16% | **17%** | 14% | 14% |
 | Debtor Days | 74 | **214** | 87 | 131 | 105 | **64** | 155 | 114 | 128 |
-| Interest Coverage | — | **1.5** | 0.3 | 1.8 | 3.4 | 16.8 | 29.6 | 20.7 | **49.3** |
+| Interest Coverage (EBIT) | — | **1.0** | 0.0 | 1.2 | 2.9 | 16.2 | 28.7 | 20.3 | **48.6** |
 | Dividend Payout % | 0% | 0% | 0% | 0% | **12%** | 4% | 7% | 5% | 0% |
 
 ### Part B: Buffett's Quality Checklist
@@ -150,10 +154,12 @@ Free Cash Flow has been positive in 4 of the last 5 years. The FCF margin of ~5�
 | Positive Free Cash Flow | Positive | ₹164 Cr (FY26) | ✅ |
 | Promoter/Insider holding | Aligned | 74.3% | ✅ Strong skin in game |
 | Dividend payout | Paying | ~5% avg (low) | ⚠️ Minimal but acceptable for growth co. |
-| OPM stability | Stable | 19–24% range | ✅ Stable |
+| EBIT Margin stability | Stable | 19–23% range (FY23–FY26) | ✅ Stable |
 | Moat / Pricing Power | Identifiable | Group ecosystem moat | ⚠️ Narrow; EPC is competitive |
 | ROIC > 15% | >15% | 62% | ✅ Exceptional |
 | Earnings yield | Reasonable | 4.2% | ⚠️ Modest at current PE |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 > *"The key to investing is determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Buffett
 
@@ -168,18 +174,21 @@ The ratios paint a picture of a **hyper-growth business with exceptional capital
 | Metric | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 | Mar26 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Sales** | 61 | 129 | 150 | 324 | 273 | 236 | 524 | 360 | 477 | 603 | 775 | 851 | **1,102** |
-| Op. Profit | 22 | **13** | 31 | 88 | 75 | 41 | 72 | 72 | 126 | 118 | 158 | 159 | **207** |
-| OPM % | **36%** | **10%** | 20% | 27% | 28% | 17% | 14% | 20% | 27% | 19% | 20% | 19% | 19% |
+| Op. Profit (pre-D&A) | 22 | **13** | 31 | 88 | 75 | 41 | 72 | 72 | 126 | 118 | 158 | 159 | **207** |
+| OPM % (pre-D&A) | **36%** | **10%** | 20% | 27% | 28% | 17% | 14% | 20% | 27% | 19% | 20% | 19% | 19% |
+| Depreciation (est.) | 1 | 1 | 2 | 2 | 1 | 1 | 2 | 2 | 1 | 2 | 2 | 2 | 3 |
+| **EBIT** | 21 | **12** | 29 | 86 | 74 | 40 | 70 | 70 | 125 | 116 | 156 | 157 | **204** |
+| **EBIT Margin %** | **34%** | **9%** | 19% | 27% | 27% | 17% | 13% | 19% | 26% | 19% | 20% | 18% | **19%** |
 | Net Profit | 12 | **9** | 21 | 64 | 51 | 28 | 54 | 53 | 94 | 86 | 116 | 120 | **156** |
 | EPS (₹) | 1.18 | **0.88** | 1.98 | 6.17 | 4.93 | 2.72 | 5.14 | 5.13 | 9.00 | 8.29 | 11.16 | 11.52 | **14.93** |
 
-> *Screener.in data notes: (1) Quarterly figures are independently rounded; summing quarters may differ from annual totals by ±₹1 Cr (e.g., FY25 quarterly revenue sums to ₹1,597 Cr vs annual ₹1,598 Cr). (2) OPM % values are as reported by Screener — Jun25 OPM of 118/603 = 19.6% is shown as 19%; Screener may truncate rather than round.*
+> *Screener.in data notes: (1) Quarterly figures are independently rounded; summing quarters may differ from annual totals by ±₹1 Cr (e.g., FY25 quarterly revenue sums to ₹1,597 Cr vs annual ₹1,598 Cr). (2) OPM % values are as reported by Screener — Jun25 OPM of 118/603 = 19.6% is shown as 19%; Screener may truncate rather than round. (3) Quarterly Depreciation is estimated (Screener does not report quarterly D&A); annual D&A is spread across quarters such that each FY's quarterly sum reconciles to the annual figure (FY24: 6, FY25: 6, FY26: 9). Quarterly EBIT = Op. Profit − estimated Dep.*
 
 **Key Observations:**
 
 1. **Revenue Trajectory:** Revenue has grown from ₹61 Cr (Mar-23) to ₹1,102 Cr (Mar-26) — an **18x increase** in 3 years on a quarterly basis. Revenue has been up 5 consecutive quarters (Mar-25 through Mar-26, after a sequential dip in Dec-24). Q4FY26 revenue of ₹1,102 Cr represents a quarterly run-rate of ~₹4,400 Cr annualised.
 
-2. **Margin Trend:** OPM has stabilised in the **19–20% range** for the last 4 quarters, down from 27–28% in the Mar-24/Mar-25 quarters. The management has noted that margin variation is driven by the mix of orders (with-module vs. without-module EPC). When modules are procured under the company's scope, revenue and costs are both higher but margins stay similar on an absolute basis.
+2. **Margin Trend:** OPM (pre-D&A) has stabilised in the **19–20% range** for the last 4 quarters, down from 27–28% in the Mar-24/Mar-25 quarters. **EBIT Margin tracks OPM closely** (18–20% range) because depreciation is minimal relative to operating profit — confirming this is a genuinely asset-light business where EBITDA-based and EBIT-based profitability tell essentially the same story. If OPM were stable but EBIT Margin were compressing, that would signal rising capital intensity — but that pattern is absent here.
 
 3. **Normalised Quarterly EPS Run-Rate:** The last 4 quarters' EPS = ₹8.29 + ₹11.16 + ₹11.52 + ₹14.93 = **₹45.90 (TTM EPS)**. This is clean with no one-time items. Annualised Q4FY26 EPS = 14.93 × 4 = ₹59.72, suggesting forward earnings power is higher than TTM.
 
@@ -232,7 +241,7 @@ The shareholding pattern signals **early institutional discovery of a promoter-c
 
 > *"The ideal business is one that takes no capital, and yet grows."* — Buffett
 
-WRTL comes close to this ideal. It generates ₹641 Cr of operating profit on a ₹450 Cr fixed asset base and needs only ₹9 Cr of maintenance CapEx. Revenue-to-CapEx ratio is ~27x — each rupee of CapEx generates ₹27 of revenue. This is an asset-light, high-return business model.
+WRTL comes close to this ideal. It generates ₹632 Cr of EBIT on a ₹450 Cr fixed asset base and needs only ₹9 Cr of maintenance CapEx. Revenue-to-CapEx ratio is ~27x — each rupee of CapEx generates ₹27 of revenue. This is an asset-light, high-return business model.
 
 ---
 
@@ -292,17 +301,19 @@ Buffett would note that EPC is NOT a business with absence of change. It's proje
 
 ## 11. SCALABILITY CHECK — Can This Business Scale?
 
-**Incremental Operating Margins:**
+**Incremental EBIT Margins:**
 
-| Year | ΔRevenue | ΔOp. Profit | Incremental Margin | Current OPM |
-|---|---|---|---|---|
-| FY22 | +149 | +17 | 11.4% | 14.8% |
-| FY23 | +189 | +60 | 31.7% | 23.9% |
-| FY24 | +525 | +123 | 23.4% | 23.6% |
-| FY25 | +722 | +104 | 14.4% | 19.5% |
-| FY26 | +1,733 | +330 | 19.0% | 19.2% |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | ΔRevenue | ΔEBIT | Incremental EBIT Margin |
+|---|---|---|---|---|---|---|---|---|
+| FY22 | 162 | 1,146% | 20 | — | 12.3% | +149 | +15 | 10.1% |
+| FY23 | 351 | 117% | 81 | 305% | 23.1% | +189 | +61 | 32.3% |
+| FY24 | 876 | 150% | 201 | 148% | 22.9% | +525 | +120 | 22.9% |
+| FY25 | 1,598 | 82% | 305 | 52% | 19.1% | +722 | +104 | 14.4% |
+| FY26 | 3,331 | 108% | 632 | 107% | 19.0% | +1,733 | +327 | 18.9% |
 
-Incremental margins are roughly **equal to current margins** (19%) — indicating the business is a **linear scaler**, not an elite scaler with operating leverage. This makes sense for an EPC business where costs scale proportionally with project size.
+> *Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A / EBITDA-equivalent). This captures whether scaling is genuine or being eaten by rising capital consumption. For WRTL, EBIT-based and pre-D&A incremental margins are nearly identical because D&A is minimal — confirming the business is genuinely asset-light.*
+
+Incremental EBIT margins are roughly **equal to current EBIT margins** (~19%) — indicating the business is a **linear scaler**, not an elite scaler with operating leverage. This makes sense for an EPC business where costs scale proportionally with project size.
 
 **Scaling Runway:** India's solar installation target implies ~44 GW+ of annual additions (FY26 saw 44 GW). The addressable EPC market is enormous. WRTL's 2.83 GWp executed in FY26 is ~6% of annual additions — significant runway remains.
 
@@ -360,13 +371,17 @@ The order book has grown from ~0.5 GWp to 2.83 GWp — providing 12–15 months 
 | Metric | FY22 | FY23 | FY24 | FY25 | FY26 (Current) |
 |---|---|---|---|---|---|
 | EPS (₹) | 0.85 | 5.32 | 13.95 | 21.98 | 45.88 |
+| OEPS (₹) | 1.05 | 3.14 | 14.10 | 19.43 | 42.95 |
 | BVPS (₹) | 2.86 | 8.10 | 23.52 | 43.43 | 88.95 |
+| **P/Owner Earnings** (primary Buffett-pure multiple) | — | — | — | — | **25.3x** |
+| **Owner Earnings Yield** | — | — | — | — | **3.95%** |
 | **P/E** | — | — | — | — | **23.7x** |
 | **P/B** | — | — | — | — | **12.2x** |
-| **EV/EBITDA** | — | — | — | — | **17.9x** |
 | **Earnings Yield** | — | — | — | — | **4.2%** |
+| **EV/EBIT** | — | — | — | — | **18.2x** |
 | **FCF Yield** | — | — | — | — | **1.4%** |
-| P/Owner Earnings | — | — | — | — | **25.3x** |
+
+> *Valuation philosophy: P/Owner Earnings is the preferred Buffett-pure multiple — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you pay for each rupee the business generates for its owner. EV/EBIT is included as a secondary cross-check for institutional comparability; Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value. EV/EBITDA is deliberately excluded — Buffett (2000 Letter): "References to EBITDA make us shudder"; Munger: "I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"*
 
 **Assessment:** At 23.7x trailing PE, the valuation is not cheap for an EPC company, but is reasonable given the 100%+ growth rate. The PEG ratio is approximately 0.2 (PE of 24 / EPS growth of ~109%), which appears attractive.
 
@@ -387,9 +402,11 @@ However, the **P/B of 12.2x is very high** — this means the market is pricing 
 | **Optimistic** | 30% | 18% | 5% | 10% | **₹3,924** | 72.3% | +261.3% |
 
 **Key Assumptions:**
-- Conservative: Growth decelerates sharply as competition intensifies and base grows.
-- Base: Order book execution continues at 25% growth for 5 years, then 15%.
-- Optimistic: BESS expansion and ASPL acquisition drive 30% growth.
+- Conservative: Growth decelerates sharply as competition intensifies and base grows. Discount rate 12% (10% Buffett hurdle + 2% risk premium for narrow moat).
+- Base: Order book execution continues at 25% growth for 5 years, then 15%. Discount rate 11%.
+- Optimistic: BESS expansion and ASPL acquisition drive 30% growth. Discount rate 10% (Buffett's standard hurdle).
+
+> *Discount rate note: Buffett uses a flat 10% hurdle rate and explicitly rejects WACC — Munger has called WACC "nonsense." The 10–12% range across scenarios here reflects the 10% base hurdle with a risk premium for the conservative case, consistent with Buffett's philosophy.*
 
 Under the **Base case**, intrinsic value is ₹2,360 per share — suggesting the stock has ~117% upside and a 54% margin of safety at the current price of ₹1,086. Even the conservative case suggests ~25% upside.
 
@@ -397,7 +414,7 @@ Under the **Base case**, intrinsic value is ₹2,360 per share — suggesting th
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = ₹1,086 | Normalised TTM EPS = ₹45.88 | Current PE = 23.7x
+**Inputs:** CMP = ₹1,086 | Normalised TTM EPS = ₹45.88 | Current PE = 23.7x | OEPS = ₹42.95 (from Section 8) | Current P/OE = 25.3x
 
 **Implied EPS CAGR Needed to Achieve Target Returns:**
 
@@ -431,16 +448,43 @@ Under the **Base case**, intrinsic value is ₹2,360 per share — suggesting th
 
 **Reality Check:**
 
-| Benchmark | EPS CAGR |
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> *Why this matters:* EPS can be misleading — a company can grow EPS by underinvesting in maintenance or through financial engineering. Owner Earnings strips this out and measures the TRUE economic cash generated for the owner. If the OEPS-based hurdle is materially higher than the EPS-based one, EPS is flattering. Buffett: *"Accounting is the language of business, but like any language, it can be used to obfuscate rather than illuminate."*
+
+**At Terminal P/OE = 17x (Market Avg — slightly below PE due to P/OE ≤ PE for most businesses):**
+
+| Holding Period | 10% Return | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 19.1% OEPS CAGR | 24.5% | 29.9% |
+| 10 Years | 14.5% OEPS CAGR | 19.7% | 24.9% |
+| 15 Years | 13.0% OEPS CAGR | 18.1% | 23.2% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Market Avg PE/P(OE), 10-Year, 10% Return |
 |---|---|
-| India nominal GDP | 10–12% |
-| Company's 3Y EPS CAGR | ~105% |
-| Company's 4Y EPS CAGR (profitable years) | ~170% (FY22→FY26) |
-| Implied (10Y, 15% return, 20x exit PE) | 17.0% |
+| Implied EPS CAGR (from Step 3, Terminal PE=20x) | 11.9% |
+| Implied OEPS CAGR (from Step 3B, Terminal P/OE=17x) | 14.5% |
+| **Gap (OEPS CAGR − EPS CAGR)** | **2.6 pp** |
 
-**Verdict:** 🟢 **Reasonable price.** To earn a 15% annualised return over 10 years with a 20x exit PE, the company needs just 17% EPS CAGR — far below its historical 100%+ growth rates. Even with dramatic deceleration to 17% CAGR, investors can earn attractive returns. The market is NOT pricing in heroic assumptions.
+**Interpretation:** Gap of 2.6 pp falls in the **2–5 pp range → Moderate capital intensity.** The OEPS figure is the more conservative and honest benchmark. This moderate gap exists because the 30% maintenance CapEx assumption deducts more than D&A, and the Terminal P/OE (17x) is lower than Terminal PE (20x). For a genuinely asset-light EPC business, this gap is driven more by the conservative maintenance CapEx assumption than by genuine capital consumption — if maintenance CapEx were estimated at D&A alone, the gap would be <1 pp. Either way, the OEPS-based verdict provides a useful sanity check.
 
-If the PE compresses to 15x (mature business), you'd need 20% CAGR to earn 15% returns — still reasonable given the order book and sector tailwinds.
+**Enhanced Reality Check:**
+
+| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP | 10–12% | 10–12% (asset-light) | Floor |
+| Company's 3Y EPS CAGR | ~105% | — | Actual track record |
+| Company's 4Y EPS CAGR (profitable years) | ~170% (FY22→FY26) | — | Actual track record |
+| Company's 4Y OE CAGR | — | ~153% (FY22→FY26) | Buffett-pure benchmark |
+| Implied (10Y, 15% return, 20x PE / 17x P/OE) | 17.0% | 19.7% | Required |
+
+> *Apply the Traffic Light to BOTH the EPS and OEPS implied growth. If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.*
+
+**Verdict:** 🟢 **Reasonable price (confirmed on both EPS and OEPS basis).** To earn a 15% annualised return over 10 years with a 20x exit PE, the company needs 17% EPS CAGR (and 19.7% Owner Earnings CAGR at 17x P/OE). The company has historically grown EPS at ~170% CAGR and Owner Earnings at ~153% CAGR over 4 profitable years. This implies the market is pricing in very moderate growth well within the company's capability. Both the EPS-based and OEPS-based assessments converge on 🟢 GREEN — the business is asset-light and EPS is a reliable proxy for economic earnings.
+
+Even if the PE compresses to 15x (mature business), you'd need 20% CAGR to earn 15% returns — still reasonable given the order book and sector tailwinds.
 
 > *"Price is what you pay, value is what you get."* — Buffett
 
