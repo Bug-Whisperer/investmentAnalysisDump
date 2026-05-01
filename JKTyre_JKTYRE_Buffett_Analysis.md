@@ -36,11 +36,13 @@ Buffett: *"I try to invest in businesses that are so wonderful that an idiot can
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 7583 | 7315 | 6898 | 7689 | 8272 | 10368 | 8723 | 9102 | 11983 | 14645 | 15002 | 14693 | 15862 |
 | Revenue Growth % | — | -3.5 | -5.7 | 11.5 | 7.6 | 25.3 | -15.9 | 4.3 | 31.7 | 22.2 | 2.4 | -2.1 | 8% |
-| Operating Profit (EBITDA) | 871 | 931 | 1117 | 1132 | 737 | 1112 | 986 | 1306 | 1073 | 1298 | 2091 | 1599 | 1857 |
-| OPM % | 11.5 | 12.7 | 16.2 | 14.7 | 8.9 | 10.7 | 11.3 | 14.3 | 9.0 | 8.9 | 13.9 | 10.9 | 11.7 |
+| Operating Profit (pre-D&A) | 871 | 931 | 1117 | 1132 | 737 | 1112 | 986 | 1306 | 1073 | 1298 | 2091 | 1599 | 1857 |
+| OPM % (pre-D&A) | 11.5 | 12.7 | 16.2 | 14.7 | 8.9 | 10.7 | 11.3 | 14.3 | 9.0 | 8.9 | 13.9 | 10.9 | 11.7 |
+| Depreciation & Amortisation | 179 | 158 | 216 | 291 | 299 | 316 | 378 | 387 | 385 | 407 | 437 | 456 | 466 |
+| **EBIT** | **692** | **773** | **901** | **841** | **438** | **796** | **608** | **919** | **688** | **891** | **1654** | **1143** | **1391** |
+| **EBIT Margin %** | **9.1** | **10.6** | **13.1** | **10.9** | **5.3** | **7.7** | **7.0** | **10.1** | **5.7** | **6.1** | **11.0** | **7.8** | **8.8** |
 | Other Income | -41 | -30 | 11 | 135 | 135 | -5 | -76 | 81 | 40 | -25 | 4 | 48 | -32 |
 | Interest | 276 | 257 | 252 | 440 | 466 | 521 | 549 | 466 | 419 | 454 | 447 | 476 | 449 |
-| Depreciation | 179 | 158 | 216 | 291 | 299 | 316 | 378 | 387 | 385 | 407 | 437 | 456 | 466 |
 | PBT | 374 | 486 | 660 | 535 | 107 | 270 | -17 | 534 | 309 | 411 | 1211 | 713 | 910 |
 | Net Profit | 263 | 330 | 467 | 381 | 63 | 171 | 141 | 331 | 201 | 263 | 806 | 509 | 697 |
 | Net Profit Margin % | 3.5 | 4.5 | 6.8 | 5.0 | 0.8 | 1.6 | 1.6 | 3.6 | 1.7 | 1.8 | 5.4 | 3.5 | 4.4 |
@@ -49,13 +51,13 @@ Buffett: *"I try to invest in businesses that are so wonderful that an idiot can
 | Shares (Cr) | 20.5 | 22.5 | 22.5 | 22.5 | 22.5 | 24.5 | 24.5 | 24.5 | 24.5 | 24.5 | 26.0 | 27.5 | 27.5 |
 | Dividend Payout % | 8 | 10 | 12 | 15 | 52 | 21 | 11 | 15 | 18 | 19 | 15 | 17 | — |
 
-> **Screener Data Notes:** (1) PBT may differ by ±₹1-2 Cr from the sum of its component line items (EBITDA + Other Income − Interest − Depreciation) due to independent rounding of each line in Screener's source data. (2) EPS is sourced directly from Screener, which uses weighted-average diluted shares and Profit After Tax attributable to equity holders (after deducting minority interest). Dividing the consolidated Net Profit row by the Shares row will not exactly reproduce Screener's EPS, because the NP row includes minority interest and Shares are year-end (not weighted average). (3) EPS Growth % is computed from Screener's more precise (unrounded) EPS values; recalculating from the 1-decimal rounded EPS in this table may yield minor differences.
+> **Screener Data Notes:** (1) Screener.in's "Operating Profit" is calculated BEFORE deducting Depreciation & Amortisation — making it an EBITDA-equivalent figure labelled here as "Operating Profit (pre-D&A)." EBIT (the true operating profit after capital charges) is computed as Operating Profit (pre-D&A) minus Depreciation and is the Buffett-relevant profitability metric. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* (2) PBT may differ by ±₹1-2 Cr from the sum of its component line items due to independent rounding of each line in Screener's source data. (3) EPS is sourced directly from Screener, which uses weighted-average diluted shares and Profit After Tax attributable to equity holders (after deducting minority interest). Dividing the consolidated Net Profit row by the Shares row will not exactly reproduce Screener's EPS, because the NP row includes minority interest and Shares are year-end (not weighted average). (4) EPS Growth % is computed from Screener's more precise (unrounded) EPS values; recalculating from the 1-decimal rounded EPS in this table may yield minor differences.
 
 ### Trend Narrative
 
 **Revenue:** Sales CAGR of 7.2% over 10 years (FY15-FY25) and 11.0% over 5 years. Revenue doubled from ₹7,315 Cr (FY15) to ₹14,693 Cr (FY25), driven by volume growth, price hikes (partially passing through raw material inflation), and the consolidation of Cavendish Industries (merged effective FY25 quarters). TTM revenue of ₹15,862 Cr reflects continued growth momentum. However, top-line growth is moderate — barely outpacing nominal GDP.
 
-**Margins:** OPM has swung wildly between **8.9-9.0%** (FY22: 9.0%, FY23: 8.9%) and **16.2%** (FY16) — a range of over 7 percentage points. This is the hallmark of a commodity-dependent business where margins are dictated by the rubber-crude cycle, not pricing power. FY24 was an exceptional year (OPM 13.9%) benefiting from soft raw material prices; FY25 saw margin compression back to 10.9% as rubber prices surged 50%+.
+**Margins:** OPM (pre-D&A) has swung wildly between **8.9-9.0%** (FY22: 9.0%, FY23: 8.9%) and **16.2%** (FY16) — a range of over 7 percentage points. **EBIT Margin** (after D&A — the true Buffett-relevant measure) paints an even starker picture: ranging from **5.3%** (FY18) to **13.1%** (FY16), with FY25 at just **7.8%**. The gap between OPM and EBIT Margin (3-4 pp in most years) reflects the significant capital charges this business bears — a reality that EBITDA-based analysis masks entirely. Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* This is the hallmark of a commodity-dependent, capital-intensive business where margins are dictated by the rubber-crude cycle, not pricing power. FY24 was an exceptional year (OPM 13.9%, EBIT Margin 11.0%) benefiting from soft raw material prices; FY25 saw margin compression back to OPM 10.9% / EBIT Margin 7.8% as rubber prices surged 50%+.
 
 **Net Profit:** NP CAGR of 4.4% over 10 years — significantly lower than revenue growth due to volatile margins and high interest costs. The FY18 collapse (NP ₹63 Cr, EPS ₹2.91) shows the downside risk in bad years. FY20 profit includes a deferred tax benefit. FY24 was a blow-out year (NP ₹806 Cr) but is clearly a cyclical peak, not sustainable earning power.
 
@@ -76,9 +78,10 @@ Buffett: *"The investor of today does not profit from yesterday's growth."* The 
 | Total Assets | 6043 | 6904 | 7052 | 10395 | 10535 | 11269 | 11213 | 10940 | 12161 | 12339 | 14012 | 14435 |
 | Debt/Equity | 2.5 | 2.1 | 1.7 | 2.9 | 3.0 | 2.5 | 2.4 | 1.8 | 1.8 | 1.4 | 1.0 | 1.0 |
 | BVPS (₹) | 53.5 | 62.3 | 77.8 | 87.3 | 87.2 | 93.2 | 95.1 | 109.1 | 116.2 | 138.6 | 172.6 | 176.4 |
-| Interest Coverage (x) | 3.2 | 3.6 | 4.4 | 2.6 | 1.6 | 2.1 | 1.8 | 2.8 | 2.6 | 2.9 | 4.7 | 3.4 |
+| Interest Coverage — EBIT/Interest (x) | 2.5 | 3.0 | 3.6 | 1.9 | 0.9 | 1.5 | 1.1 | 2.0 | 1.6 | 2.0 | 3.7 | 2.4 |
 | Borrowings (proxy for Net Debt) | 2705 | 2975 | 2900 | 5655 | 5811 | 5758 | 5549 | 4801 | 5220 | 4882 | 4609 | 4911 |
-| Debt/EBITDA (x) | 3.1 | 3.2 | 2.6 | 5.0 | 7.9 | 5.2 | 5.6 | 3.7 | 4.9 | 3.8 | 2.2 | 3.1 |
+| Debt/EBIT (x) | 3.9 | 3.8 | 3.2 | 6.7 | 13.3 | 7.2 | 9.1 | 5.2 | 7.6 | 5.5 | 2.8 | 4.3 |
+| Net Debt/Owner Earnings (x) | 9.5 | N/M | 9.5 | N/M | N/M | 24.7 | 40.5 | 9.0 | 16.3 | 16.5 | 8.2 | 7.4 |
 
 ### Financial Fortress Assessment
 
@@ -86,13 +89,13 @@ Buffett: *"The investor of today does not profit from yesterday's growth."* The 
 
 1. **Leverage:** Debt/Equity peaked at **3.0x** in FY18 after the Mexico acquisition and expansion capex. It has since improved dramatically to **1.0x** in FY25 — a significant deleveraging story. However, even at 1.0x, this is well above Buffett's preferred <0.5x threshold.
 
-2. **Interest Burden:** Interest expense consumed ₹476 Cr in FY25 against EBITDA of ₹1,599 Cr, yielding interest coverage of just **3.4x**. Buffett prefers >5x. The company pays ₹450-475 Cr annually in interest — this is dead money that neither grows the business nor rewards shareholders.
+2. **Interest Burden:** Interest expense consumed ₹476 Cr in FY25 against EBIT of ₹1,143 Cr, yielding EBIT-based interest coverage of just **2.4x**. Buffett prefers >5x. Note: the EBITDA-based coverage (3.4x) looks deceptively healthier but ignores the ₹456 Cr of depreciation that represents real capital consumption. The company pays ₹450-475 Cr annually in interest — this is dead money that neither grows the business nor rewards shareholders.
 
 3. **BVPS Growth:** Book value has grown from ₹53.51 (FY14) to ₹176.4 (FY25) — a 11.5% CAGR. This is decent but partially driven by equity raises (QIP, preferential allotment) rather than purely organic retained earnings.
 
 4. **Positive Trend:** The deleveraging from D/E of 3.0x (FY18) to 1.0x (FY25) is genuinely impressive and shows disciplined capital allocation post the aggressive expansion phase. If this trend continues to <0.75x, the risk profile improves materially.
 
-Buffett: *"Only when the tide goes out do you discover who's been swimming naked."* JK Tyre was swimming nearly naked in FY18 (D/E 3.0x, interest coverage 1.6x). The tide has come back in with the deleveraging, but the balance sheet is still not fortress-grade.
+Buffett: *"Only when the tide goes out do you discover who's been swimming naked."* JK Tyre was swimming nearly naked in FY18 (D/E 3.0x, EBIT interest coverage 0.9x — EBIT did not even cover interest expense). The tide has come back in with the deleveraging, but the balance sheet is still not fortress-grade.
 
 ---
 
@@ -121,7 +124,7 @@ FCF has been **highly volatile**, ranging from **-₹701 Cr** (FY17, during the 
 
 **CFO-to-Operating Profit conversion** is generally acceptable (70-100% in most years), indicating that reported earnings are backed by real cash generation. The exceptions are capex-heavy years (FY17, FY22) where working capital swings consume cash.
 
-Buffett: *"Owner earnings represent the relevant item for valuation purposes — not GAAP earnings, not operating earnings, not operating cash flow."* JK Tyre's owner earnings are significantly lower than its reported net profit due to the high maintenance capex required to keep manufacturing plants operational.
+Buffett: *"Owner earnings represent the relevant item for valuation purposes — not GAAP earnings, not operating earnings, not operating cash flow."* JK Tyre's owner earnings fluctuate around its reported net profit — in high-capex years (FY15-FY18) OE falls well below NP, while in moderate-capex years (like FY25: OE ₹664 Cr vs NP ₹509 Cr) OE exceeds NP because depreciation added back exceeds the estimated maintenance capex deducted. The long-term average OE is below NP, skewed by the capex-heavy expansion years (especially the FY17 Mexico consolidation anomaly).
 
 ---
 
@@ -134,13 +137,14 @@ Buffett: *"Owner earnings represent the relevant item for valuation purposes —
 | ROCE % | 19 | 19 | 20 | 14 | 6 | 10 | 8 | 12 | 9 | 11 | 19 | 13 |
 | ROE % | 24.0 | 26.4 | 29.6 | 20.5 | 3.2 | 8.1 | 6.1 | 13.2 | 7.3 | 8.4 | 20.4 | 10.9 |
 | Debt/Equity | 2.5 | 2.1 | 1.7 | 2.9 | 3.0 | 2.5 | 2.4 | 1.8 | 1.8 | 1.4 | 1.0 | 1.0 |
-| OPM % | 11.5 | 12.7 | 16.2 | 14.7 | 8.9 | 10.7 | 11.3 | 14.3 | 9.0 | 8.9 | 13.9 | 10.9 |
+| OPM % (pre-D&A, Screener) | 11.5 | 12.7 | 16.2 | 14.7 | 8.9 | 10.7 | 11.3 | 14.3 | 9.0 | 8.9 | 13.9 | 10.9 |
+| **EBIT Margin %** | **9.1** | **10.6** | **13.1** | **10.9** | **5.3** | **7.7** | **7.0** | **10.1** | **5.7** | **6.1** | **11.0** | **7.8** |
 | NPM % | 3.5 | 4.5 | 6.8 | 5.0 | 0.8 | 1.6 | 1.6 | 3.6 | 1.7 | 1.8 | 5.4 | 3.5 |
 | Debtor Days | 64 | 72 | 74 | 85 | 68 | 68 | 77 | 63 | 60 | 57 | 67 | 70 |
 | Inventory Days | 70 | 70 | 82 | 111 | 101 | 92 | 111 | 119 | 110 | 79 | 92 | 100 |
 | Cash Conversion Cycle | 56 | 57 | 66 | 94 | 88 | 73 | 73 | 78 | 71 | 70 | 72 | 96 |
 | Working Capital Days | -21 | -25 | -13 | -5 | -37 | -13 | 73 | -10 | -13 | -3 | 2 | 11 |
-| Interest Coverage (x) | 3.2 | 3.6 | 4.4 | 2.6 | 1.6 | 2.1 | 1.8 | 2.8 | 2.6 | 2.9 | 4.7 | 3.4 |
+| Interest Coverage — EBIT (x) | 2.5 | 3.0 | 3.6 | 1.9 | 0.9 | 1.5 | 1.1 | 2.0 | 1.6 | 2.0 | 3.7 | 2.4 |
 | Dividend Payout % | 8 | 10 | 12 | 15 | 52 | 21 | 11 | 15 | 18 | 19 | 15 | 17 |
 
 ### Part B: Buffett's Quality Checklist
@@ -155,11 +159,13 @@ Buffett: *"Owner earnings represent the relevant item for valuation purposes —
 | Positive Free Cash Flow | Positive | Volatile; negative in 2 of 12 years | ⚠️ Not consistent |
 | Promoter/Insider holding | Aligned | 51.72% | ✅ Majority stake |
 | Dividend payout | Paying | ~17% avg | ✅ Paying but low |
-| OPM stability | Stable | 9-16% range | ❌ Highly cyclical |
+| EBIT Margin stability | Stable | 5-13% range | ❌ Highly cyclical; capital intensity amplifies OPM swings |
 | Moat / Pricing Power | Identifiable | #1 TBR India; brand in CV segment | ⚠️ Narrow moat |
 | Earnings yield | Reasonable | 6.16% | ✅ Decent at CMP |
 
 **Verdict: 3 of 11 criteria pass, 6 are borderline, 2 fail.** This is NOT a classic Buffett quality compounder. The cyclicality, leverage, and margin volatility are all red flags. The improving balance sheet is the most promising trend.
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 ---
 
@@ -170,8 +176,11 @@ Buffett: *"Owner earnings represent the relevant item for valuation purposes —
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 3613 | 3632 | 3718 | 3898 | 3688 | 3698 | 3639 | 3622 | 3674 | 3759 | 3869 | 4011 | 4223 |
-| Operating Profit | 339 | 376 | 457 | 589 | 550 | 481 | 500 | 421 | 314 | 363 | 402 | 521 | 571 |
-| OPM % | 9 | 10 | 12 | 15 | 15 | 13 | 14 | 12 | 9 | 10 | 10 | 13 | 14 |
+| Operating Profit (pre-D&A) | 339 | 376 | 457 | 589 | 550 | 481 | 500 | 421 | 314 | 363 | 402 | 521 | 571 |
+| OPM % (pre-D&A) | 9 | 10 | 12 | 15 | 15 | 13 | 14 | 12 | 9 | 10 | 10 | 13 | 14 |
+| Depreciation | 102 | 106 | 106 | 108 | 111 | 112 | 113 | 113 | 114 | 117 | 114 | 116 | 119 |
+| **EBIT** | **237** | **270** | **351** | **481** | **439** | **369** | **387** | **308** | **200** | **246** | **288** | **405** | **452** |
+| **EBIT Margin %** | **6.6** | **7.4** | **9.4** | **12.3** | **11.9** | **10.0** | **10.6** | **8.5** | **5.4** | **6.5** | **7.4** | **10.1** | **10.7** |
 | Net Profit | 67 | 112 | 159 | 249 | 227 | 172 | 218 | 140 | 53 | 99 | 163 | 227 | 208 |
 | EPS (₹) | 2.7 | 4.4 | 6.2 | 9.8 | 8.5 | 6.5 | 8.1 | 4.9 | 1.9 | 3.5 | 6.0 | 8.3 | 7.2 |
 
@@ -179,7 +188,7 @@ Buffett: *"Owner earnings represent the relevant item for valuation purposes —
 
 1. **Revenue Trajectory:** Revenue has been on an upward trend, rising from ₹3,613 Cr (Dec 2022) to ₹4,223 Cr (Dec 2025) — driven by volume growth and the Cavendish merger effect (visible from Dec 2024 onwards in standalone numbers). The last 4 quarters (Mar 2025-Dec 2025) show sequential improvement: ₹3,759 → ₹3,869 → ₹4,011 → ₹4,223.
 
-2. **Margin Trend:** OPM compressed sharply from the peak of **15%** (Sep-Dec 2023) to a trough of **9%** (Dec 2024) due to rubber price inflation. Recovery is underway: latest quarter (Dec 2025) shows **14%** OPM, suggesting the worst of margin compression may be behind.
+2. **Margin Trend:** OPM (pre-D&A) compressed sharply from the peak of **15%** (Sep-Dec 2023) to a trough of **9%** (Dec 2024) due to rubber price inflation. Recovery is underway: latest quarter (Dec 2025) shows **14%** OPM. **EBIT Margin** tells the fuller story — it dropped from **12.3%** (Sep 2023) to a trough of **5.4%** (Dec 2024), and has recovered to **10.7%** (Dec 2025). The ~3 pp gap between OPM and EBIT Margin is the depreciation charge — a real cost that EBITDA-based analysis would ignore. Notably, this gap has been widening slightly (from ~2.5 pp in early 2023 to ~3.3-3.5 pp in recent quarters), indicating rising capital intensity as JK Tyre invests in capacity expansion.
 
 3. **Normalised Quarterly EPS Run-Rate:** Stripping out the Dec 2024 trough (₹1.92 — impacted by Cavendish merger adjustments and rubber cost spike) and Dec 2025 (₹7.21 — includes -₹92 Cr other income swing), normalised quarterly EPS is approximately ₹6-8 per quarter, implying annualised EPS of ₹24-32. Using mid-point ~₹28, this supports the TTM EPS of ₹25.06.
 
@@ -285,23 +294,27 @@ The Indian tyre industry is a **moderately concentrated oligopoly** dominated by
 
 ### Part A: Profit Scalability
 
-| Year | Revenue | Rev Growth | Op Profit | OP Growth | Incremental OPM |
-|---|---|---|---|---|---|
-| FY15 | 7315 | -3.5% | 931 | 6.9% | -22.4% |
-| FY16 | 6898 | -5.7% | 1117 | 20.0% | -44.6% |
-| FY17 | 7689 | 11.5% | 1132 | 1.3% | 1.9% |
-| FY18 | 8272 | 7.6% | 737 | -34.9% | -67.8% |
-| FY19 | 10368 | 25.3% | 1112 | 50.9% | 17.9% |
-| FY20 | 8723 | -15.9% | 986 | -11.3% | 7.7% |
-| FY21 | 9102 | 4.3% | 1306 | 32.5% | 84.4% |
-| FY22 | 11983 | 31.7% | 1073 | -17.8% | -8.1% |
-| FY23 | 14645 | 22.2% | 1298 | 21.0% | 8.5% |
-| FY24 | 15002 | 2.4% | 2091 | 61.1% | 222.1% |
-| FY25 | 14693 | -2.1% | 1599 | -23.5% | N/M* |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin |
+|---|---|---|---|---|---|---|
+| FY15 | 7315 | -3.5% | 773 | 11.7% | 10.6% | -30.2%* |
+| FY16 | 6898 | -5.7% | 901 | 16.6% | 13.1% | -30.7%* |
+| FY17 | 7689 | 11.5% | 841 | -6.7% | 10.9% | -7.6% |
+| FY18 | 8272 | 7.6% | 438 | -47.9% | 5.3% | -69.1% |
+| FY19 | 10368 | 25.3% | 796 | 81.7% | 7.7% | 17.1% |
+| FY20 | 8723 | -15.9% | 608 | -23.6% | 7.0% | N/M** |
+| FY21 | 9102 | 4.3% | 919 | 51.2% | 10.1% | 82.1% |
+| FY22 | 11983 | 31.7% | 688 | -25.1% | 5.7% | -8.0% |
+| FY23 | 14645 | 22.2% | 891 | 29.5% | 6.1% | 7.6% |
+| FY24 | 15002 | 2.4% | 1654 | 85.6% | 11.0% | 213.7% |
+| FY25 | 14693 | -2.1% | 1143 | -30.9% | 7.8% | N/M** |
 
-*\*FY25 Incremental OPM: The arithmetic result is +159.2% (ΔOP of −₹492 Cr ÷ ΔRevenue of −₹309 Cr), but this is economically misleading. When both revenue and operating profit decline, a negative-over-negative division produces a positive figure that falsely signals scaling efficiency. The reality is severe operating deleverage: the company lost ₹1.59 of operating profit for every ₹1 of revenue lost — the opposite of what the positive number implies. FY20 (7.7%) has the same neg/neg characteristic but is directionally less misleading since OP held up well (only ₹0.08 lost per ₹1 of revenue decline).*
+*\*FY15-FY16: Negative ΔRevenue with positive ΔEBIT → negative incremental margin is mathematically correct but directionally misleading (EBIT improved despite revenue decline — a positive signal that the ratio obscures).*
 
-**Incremental margins are wildly inconsistent** — negative in years of rubber price spikes, strongly positive in favourable years, and mathematically misleading in years of revenue decline. This is NOT the hallmark of an elite scaler. JK Tyre is a **linear scaler at best** — growth requires proportional capital and is constrained by commodity input costs.
+*\*\*FY20, FY25: Both ΔRevenue and ΔEBIT are negative, producing misleadingly positive ratios. FY25's arithmetic result (+165.4%) implies strong scaling but actually reflects severe operating deleverage — ₹1.65 of EBIT lost per ₹1 of revenue lost. Marked N/M.*
+
+> **Note:** Incremental EBIT Margin = ΔEBIT / ΔRevenue — computed on EBIT (after D&A), not on Screener's Operating Profit (pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. A business where incremental EBIT margins are consistently lower than incremental OPM is one where growth capex is creating a rising depreciation drag — the business LOOKS like it's scaling on EBITDA but is NOT scaling on true operating profit.
+
+**Incremental EBIT margins are wildly inconsistent** — deeply negative in commodity-adverse years (FY18: -69%), strongly positive in favourable years (FY24: 214%), and mathematically misleading in revenue-decline years. This is NOT the hallmark of an elite scaler. JK Tyre is a **linear scaler at best** — growth requires proportional capital and is constrained by commodity input costs.
 
 ### Part B: S-Curve Position
 
@@ -367,12 +380,16 @@ The operational fundamentals are stable — JK Tyre is maintaining its market po
 | CMP | ₹407.0 |
 | TTM EPS | ₹25.06 |
 | PE Ratio | 16.2x |
+| **P/Owner Earnings (primary Buffett-pure multiple)** | **16.9x** |
+| **Owner Earnings Yield (OEPS / CMP)** | **5.93%** |
 | Book Value Per Share (FY25) | ₹176.4 |
 | P/B Ratio | 2.31x |
-| EV/EBITDA (FY25) | ~10.1x |
+| EV/EBIT (FY25) | ~14.1x |
 | Earnings Yield | 6.16% |
 | Dividend Yield | 0.74% (based on declared DPS of ₹3.00) |
 | FCF Yield (FY25) | 2.3% |
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. JK Tyre's EV/EBITDA (10.1x) looks much more attractive than its EV/EBIT (14.1x) — a 4-point gap that is entirely explained by ₹456 Cr of annual depreciation. The EBIT-based multiple reveals the true operating cost of capital intensity. Buffett (2000 Letter): *"References to EBITDA make us shudder."* **P/Owner Earnings (16.9x)** is the preferred Buffett-pure multiple — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying per rupee of real cash the business generates.
 
 ### Historical Valuation Context
 
@@ -392,22 +409,33 @@ JK Tyre has historically traded in a PE range of 6-20x, with a median around 10-
 
 | Scenario | Growth Y1-5 | Growth Y6-10 | Terminal g | Discount Rate | PV of CFs | PV Terminal | Enterprise Value | Equity Value | IV/Share | MoS | Upside |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Conservative | 8% | 5% | 4% | 12% | 5271 | 5212 | 10483 | 5572 | ₹203 | -100.9% | -50.2% |
-| Base | 12% | 8% | 4% | 11% | 6611 | 8997 | 15608 | 10697 | ₹389 | -4.6% | -4.4% |
+| Conservative | 8% | 5% | 4% | 10% | 5783 | 8321 | 14105 | 9194 | ₹334 | -21.7% | -17.9% |
+| Base | 12% | 8% | 4% | 10% | 6945 | 11490 | 18435 | 13524 | ₹492 | 17.2% | 20.8% |
 | Optimistic | 15% | 10% | 5% | 10% | 7947 | 17415 | 25362 | 20451 | ₹744 | 45.3% | 82.7% |
 
-**Summary:** At CMP of ₹407.0, the stock is:
-- **Overvalued** in the Conservative scenario (IV ₹203, downside -50.2%)
-- **Roughly fairly valued** in the Base scenario (IV ₹389, upside -4.4%)
-- **Attractively valued** only in the Optimistic scenario (IV ₹744, upside 82.7%)
+> **Discount Rate:** 10% flat Buffett hurdle rate used for all scenarios. Buffett explicitly rejects WACC; Munger has called it "nonsense." The scenario spread comes from varying growth assumptions (conservative vs. optimistic), NOT from adjusting the discount rate — which is the Buffett way. The 10% hurdle represents the minimum return Buffett would accept for any investment; if a business can't clear 10%, he simply passes regardless of its risk profile.
 
-**The margin of safety at current price is thin to non-existent.** Buffett requires a significant margin of safety — this does not offer one at ₹407.
+**Summary:** At CMP of ₹407.0, the stock is:
+- **Modestly overvalued** in the Conservative scenario (IV ₹334, downside -17.9%)
+- **Modestly undervalued** in the Base scenario (IV ₹492, upside 20.8%)
+- **Attractively valued** in the Optimistic scenario (IV ₹744, upside 82.7%)
+
+**The margin of safety at current price is slim.** The Base case IV of ₹492 offers only a 17% margin of safety — Buffett typically requires 25-40%+ for a cyclical business with volatile earnings. The Conservative case shows the stock is overvalued. Only the Optimistic scenario offers a compelling margin. Buffett requires a significant margin of safety — ₹407 does not offer enough for a cyclical compounder.
 
 ---
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = ₹407.0 | Normalised TTM EPS = ₹25.06 | Current PE = 16.2x
+**Inputs:**
+
+| Input | Value | Source |
+|---|---|---|
+| CMP | ₹407.0 | Market data |
+| TTM EPS (Normalised) | ₹25.06 | Screener (GAAP, not non-GAAP) |
+| **Owner Earnings Per Share (OEPS)** | **₹24.15** | FY25 Owner Earnings (₹664 Cr) / 27.5 Cr diluted shares |
+| Current PE | 16.2x | CMP / EPS |
+| **Current P/OE** | **16.9x** | CMP / OEPS — this is the Buffett-pure valuation multiple |
+| Diluted Shares | 27.5 Cr | FY25 |
 
 ### Implied EPS CAGR Needed
 
@@ -443,18 +471,50 @@ JK Tyre has historically traded in a PE range of 6-20x, with a median around 10-
 | 10 Years | 9.5% | 14.5% | 19.5% |
 | 15 Years | 9.7% | 14.7% | 19.6% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** EPS can be misleading for a capital-intensive business like JK Tyre. EPS deducts accounting depreciation, but if actual maintenance spending exceeds depreciation (as it often does in inflationary environments), EPS overstates real earnings. Owner Earnings captures the truth. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense. In truth, depreciation is a particularly unattractive expense because the cash outlay it represents has already been made."* The same insight applies to EPS vs. Owner Earnings.
+
+**Terminal P/OE Multiple:** For the terminal scenario, we use P/OE = 16x (below the 20x terminal PE) because as the business matures and growth capex tapers, maintenance capex is likely to converge toward or exceed depreciation — at which point Owner Earnings will be below Net Income and P/OE will naturally compress below PE. The current FY25 period is atypical: OE (₹664 Cr) exceeds NI (₹509 Cr) because the 70% maintenance capex estimate (₹301 Cr) is well below accounting depreciation (₹456 Cr), producing P/OE (16.9x) slightly above PE (16.2x). At maturity, this relationship inverts. Using **Market Average Terminal P/OE = 16x.**
+
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 16x)
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 11.1% OEPS CAGR needed | 16.2% | 21.3% |
+| 10 Years | 10.6% OEPS CAGR needed | 15.6% | 20.6% |
+| 15 Years | 10.4% OEPS CAGR needed | 15.4% | 20.4% |
+
+#### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal PE=20x / P/OE=16x | 10-Year, 10% Hurdle |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 7.7% | |
+| Implied OEPS CAGR (from Step 3B) | 10.6% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **2.9 pp** | |
+
+**Interpretation: Gap of 2.9 pp → Moderate capital intensity.** JK Tyre sits in the 2-5 pp range, confirming it is a moderately capital-hungry business. The EPS-based Reverse DCF understates the true growth hurdle by ~3 pp. The OEPS figure is the more conservative and honest assessment — the company needs to grow Owner Earnings at **10.6% CAGR** (not the 7.7% implied by EPS) to deliver a 10% return over 10 years. This is a meaningful difference — it separates a 🟢 GREEN from a 🟡 YELLOW verdict.
+
 ### Reality Check
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| JK Tyre historical 10Y EPS CAGR | 2.2% |
-| JK Tyre historical 5Y EPS CAGR | 24.2% |
-| Industry average growth | 8-12% |
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 8-10% (capital-heavy) | Floor |
+| JK Tyre historical 10Y EPS CAGR | 2.2% | — | Actual track record |
+| JK Tyre historical 5Y EPS CAGR | 24.2% | — | Recent (skewed by FY18 base) |
+| JK Tyre Owner Earnings CAGR (FY14→FY25) | — | 8.0% | Buffett-pure benchmark |
+| Industry average growth | 8-12% | 6-10% | Peer comparison |
+| Analyst consensus | 12-15% | — | Market expectations |
 
-**Verdict:** At current price of ₹407.0, to earn a **10% annualised return** over **10 years** assuming the market values the business at its **historical average PE of 17x** at exit, the company needs to grow EPS at **9.5% CAGR**. The company has historically grown EPS at just **2.2% CAGR** over 10 years. This implies the market is pricing in **significantly better growth than the historical track record** — which requires either sustained margin improvement or accelerating revenue growth.
+> **Apply the Traffic Light to BOTH the EPS and OEPS implied growth.** If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
 
-**Traffic Light: 🟡 YELLOW to 🟠 ORANGE** — The implied growth is achievable if the company can sustain FY24-type margins, but is demanding relative to the historical track record.
+**Traffic Light (EPS-based, PE=20x, 10Y):** The 7.7% implied EPS CAGR vs 2.2% historical 10Y CAGR = 🟡 YELLOW (well above historical, but below industry average)
+
+**Traffic Light (OEPS-based, P/OE=16x, 10Y):** The 10.6% implied OEPS CAGR vs 8.0% historical OE CAGR = 🟡 YELLOW to 🟠 ORANGE (the market needs OE growth to accelerate above the historical track record)
+
+**Verdict:** At current price of ₹407.0, to earn a **10% annualised return** over **10 years** assuming the market values the business at **20x PE / 16x P/OE** at exit, the company needs to grow EPS at **7.7% CAGR** (and Owner Earnings at **10.6% CAGR**). The company has historically grown EPS at **2.2% CAGR** (10Y) and Owner Earnings at **8.0% CAGR** (11Y). This implies the market is pricing in **moderately optimistic growth** — achievable if margins improve sustainably, but demanding relative to the EPS track record. Note: the EPS-based assessment (🟡) is more favourable than the Owner Earnings assessment (🟡-🟠), indicating **capital intensity is masking the true growth hurdle** by approximately 3 pp.
+
+**Overall Traffic Light: 🟡 YELLOW to 🟠 ORANGE** — The implied OEPS growth is the binding constraint, and it requires the company to grow Owner Earnings faster than its historical pace.
 
 ---
 
@@ -479,7 +539,7 @@ JK Tyre has historically traded in a PE range of 6-20x, with a median around 10-
 
 > **Methodology Note:** "ROE (DuPont)" is the product of the three year-end-based components (NPM × Asset Turnover × Equity Multiplier), where Asset Turnover = Revenue / Year-End Total Assets and Equity Multiplier = Year-End Total Assets / Year-End Equity. "ROE (Reported)" uses average equity ((opening + closing) / 2), which is standard accounting practice. The systematic gap between the two columns (1-3 pp in most years) arises from this methodological difference — it is not an arithmetic error. The DuPont decomposition is presented using year-end figures to allow clean decomposition into its three factors.
 
-**Key Insight:** ROE has been driven by **high leverage** (Equity Multiplier 3.0-5.5x) rather than by high margins or asset efficiency. The FY14-FY16 ROE of 24-30% was a leveraged illusion — at D/E 1.7-2.5x, the equity multiplier was 4.0-5.5x, turbocharging mediocre 12-16% OPM into flashy ROE numbers. Now that leverage has normalised (EM ~3.0x in FY25), the true underlying ROE is revealed as **~11%** — below Buffett's 15% threshold.
+**Key Insight:** ROE has been driven by **high leverage** (Equity Multiplier 3.0-5.5x) rather than by high margins or asset efficiency. The FY14-FY16 ROE of 24-30% was a leveraged illusion — at D/E 1.7-2.5x, the equity multiplier was 4.0-5.5x, turbocharging mediocre ~11.5-16% OPM (pre-D&A) into flashy ROE numbers. Now that leverage has normalised (EM ~3.0x in FY25), the true underlying ROE is revealed as **~11%** — below Buffett's 15% threshold.
 
 **ROCE vs ROE:** ROCE (13% FY25) is close to ROE (10.9%) — suggesting leverage is NOT dramatically amplifying returns anymore. This is healthier, but also means the business genuinely earns only ~12-13% pre-tax returns on total capital. **Mediocre, not excellent.**
 
@@ -537,7 +597,7 @@ JK Tyre has historically traded in a PE range of 6-20x, with a median around 10-
 | Trustworthy Management | Promoter-run, decent track record, dilutive equity raises | ⚠️ |
 | Resistant to Disruption | Moderate; EV transition + Chinese imports are risks | ⚠️ |
 | Sustainable Economics 10Y+ | Cyclical margins; 10Y EPS CAGR of 2.2% | ❌ |
-| Price Below Intrinsic Value | CMP ₹407.0 ≈ Base IV ₹389; minimal MoS | ❌ |
+| Price Below Intrinsic Value | CMP ₹407.0 vs Base IV ₹492; slim ~17% MoS | ⚠️ |
 
 **Verdict: Buffett would almost certainly PASS on JK Tyre at current prices.** Here's why:
 
@@ -545,7 +605,7 @@ JK Tyre has historically traded in a PE range of 6-20x, with a median around 10-
 2. **Commodity-dependent:** Raw material costs (rubber, crude) drive margins — management cannot control the most important variable.
 3. **Capital-intensive:** Requires continuous heavy capex, limiting free cash flow available to shareholders.
 4. **Leverage:** D/E of 1.0x is improving but still well above Buffett's comfort zone.
-5. **No margin of safety:** At ₹407, the stock is roughly fairly valued in the base case — no fat pitch.
+5. **Slim margin of safety:** At ₹407, Base case IV (₹492 at 10% hurdle) offers only ~17% MoS — insufficient for a cyclical business where Buffett demands 25-40%+.
 
 Buffett: *"Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1."* In a cyclical business trading at the upper end of its historical valuation range, the risk of loss is real if margins compress and the PE de-rates simultaneously — a double whammy that could easily take the stock back to ₹200-250.
 
@@ -601,9 +661,9 @@ The tyre industry in India faces moderate regulatory risk:
 | Moat Durability | 4 | Narrow moat from distribution; easily competed away |
 | Financial Health | 6 | Improving (D/E 3.0→1.0); not yet fortress-grade |
 | Management Quality | 6 | Pragmatic; dilutive equity raises are a negative |
-| Valuation | 4 | At upper end of historical range; minimal MoS at ₹407 |
-| Margin of Safety | 3 | Base case IV ≈ CMP; no cushion for error |
-| **Buffett Verdict** | | JK Tyre is a decent cyclical manufacturer with an improving balance sheet, but it is NOT a Buffett-quality compounder. The business earns mediocre returns on capital (~12-13% ROCE), operates in a commodity-dependent industry with volatile margins (9-16% OPM), and carries leverage above Buffett's comfort level. At ₹407.0 (16.2x PE, 2.31x P/B), the stock is **Fully Valued** with no margin of safety. **PASS at current prices.** Buffett would wait for ₹250-300 (10-12x normalised PE, ~1.5x book) to get interested. |
+| Valuation | 5 | Base IV ₹492 offers modest upside; but at upper end of historical PE range |
+| Margin of Safety | 4 | Base IV ₹492 vs CMP ₹407 = 17% MoS; insufficient for cyclical business |
+| **Buffett Verdict** | | JK Tyre is a decent cyclical manufacturer with an improving balance sheet, but it is NOT a Buffett-quality compounder. The business earns mediocre returns on capital (~12-13% ROCE), operates in a commodity-dependent industry with volatile margins (5-13% EBIT Margin), and carries leverage above Buffett's comfort level. At ₹407.0 (16.2x PE, 2.31x P/B), the Base case IV of ₹492 (10% Buffett hurdle) offers only ~17% margin of safety — insufficient for a cyclical, capital-intensive business where Buffett demands much wider cushions. **PASS at current prices.** Buffett would wait for ₹250-300 (10-12x normalised PE, ~1.5x book) to get interested. |
 | **Buy Zone** | | **Fair Value starts at ₹300; Deep Value below ₹200.** Current price ₹407.0 is in Fully Valued zone. |
 | **Overall Recommendation** | | **HOLD if already owned at lower prices; DO NOT INITIATE at ₹407.0. Accumulate below ₹300.** |
 
