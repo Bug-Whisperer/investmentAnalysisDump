@@ -341,7 +341,7 @@ Buffett: *"We do not get enthused about change... we're looking for the absence 
 
 *\*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins exceed current EBIT margins, the business is scaling beautifully after accounting for the capital it consumes.*
 
-Incremental EBIT margins are consistently **at or above** the current EBIT Margin (17-18%), confirming the business IS scaling — each new rupee of revenue generates proportionally more after-D&A operating profit. FY25's incremental EBIT margin of 22.4% exceeds the current 18.4% — strong evidence of genuine operating leverage. However, note these are slightly lower than the incremental OPM figures (which were 18-31%), because D&A is rising with the capex cycle. The EBIT-based view is the honest one.
+Incremental EBIT margins are **at or above** the current EBIT Margin (17-18%) in three of four years, with FY24 (16.3%) being the exception — marginally below its corresponding 17.6% current margin, likely reflecting the initial drag of heavy capex capitalisation before revenue scaled. FY25's incremental EBIT margin of 22.4% exceeds the current 18.4% — strong evidence that the scaling friction was temporary and genuine operating leverage is reasserting. However, note these are slightly lower than the incremental OPM figures (which were 18-31%), because D&A is rising with the capex cycle. The EBIT-based view is the honest one.
 
 ### Part B: S-Curve Position
 
@@ -492,25 +492,25 @@ Required Future OEPS          = Required Future Price / Terminal P/OE Multiple
 Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
 ```
 
-#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 24x)
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 20x)
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 43.2% OEPS CAGR | 49.7% | 56.2% |
-| 10 Years | 25.5% OEPS CAGR | 31.2% | 36.9% |
-| 15 Years | 20.1% OEPS CAGR | 25.6% | 31.0% |
+| 5 Years | 48.5% OEPS CAGR | 55.3% | 62.0% |
+| 10 Years | 27.8% OEPS CAGR | 33.6% | 39.4% |
+| 15 Years | 21.6% OEPS CAGR | 27.1% | 32.6% |
 
-*Note on Terminal P/OE: Since OEPS (₹3.22) < EPS (₹3.80) for Aeroflex — maintenance capex exceeds D&A — the P/OE multiple is inherently HIGHER than the PE multiple (same price, lower denominator). Terminal P/OE = Terminal PE × (EPS/OEPS) = 20 × (3.80/3.22) ≈ 24x. Setting Terminal P/OE lower than Terminal PE would double-count the capital intensity penalty — once through the lower OEPS and again through the lower multiple.*
+*Note on Terminal P/OE: The Divergence Test uses the SAME absolute terminal multiple (20x) for both PE and P/OE. This is intentional — it holds the exit valuation framework constant so that ANY gap between implied EPS CAGR and implied OEPS CAGR is driven purely by the difference in starting metrics (EPS vs OEPS), which in turn reflects the gap between accounting depreciation and true maintenance capex. Using a scaled terminal P/OE (e.g., PE × EPS/OEPS) would algebraically force the gap to zero regardless of capital intensity — a tautology that cannot diagnose the business economics.*
 
 #### The Divergence Test — EPS vs. OEPS Implied Growth
 
-| Metric | At Terminal Market Avg PE (20x) / P/OE (24x) | 10-Year, 10% Return |
+| Metric | At Terminal Market Avg 20x (same for PE and P/OE) | 10-Year, 10% Return |
 |---|---|---|
 | Implied EPS CAGR (from Step 3) | 25.7% | |
-| Implied OEPS CAGR (from Step 3B) | 25.5% | |
-| **Gap (OEPS CAGR − EPS CAGR)** | **−0.2 pp** | |
+| Implied OEPS CAGR (from Step 3B) | 27.8% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **+2.1 pp** | |
 
-**Interpretation:** The near-zero gap (−0.2 pp) confirms that for Aeroflex, **EPS-based analysis is reliable.** Despite the company being in a capital-intensive expansion phase with depreciation tripling in two years, the EPS and Owner Earnings growth requirements tell essentially the same story when the terminal multiples are correctly calibrated. The standard EPS-based Reverse DCF in Step 3 can be trusted as the primary benchmark for this company.
+**Interpretation:** The 2.1 pp gap reflects **moderate capital intensity.** Aeroflex's estimated maintenance capex (₹22.2 Cr) meaningfully exceeds its accounting depreciation (₹11 Cr), so Owner Earnings (₹41.8 Cr) are ~21% below Net Income (₹53 Cr). Starting from a lower OEPS base (₹3.22 vs EPS ₹3.80), the business needs somewhat faster Owner Earnings growth to deliver the same future stock price. The EPS-based Reverse DCF in Step 3 is directionally reliable but **slightly understates the true growth hurdle** — the honest Buffett-pure benchmark is ~28% OEPS CAGR, not 26% EPS CAGR. This 2 pp gap is worth noting but does not dramatically change the conclusion — the stock is overvalued on both metrics.
 
 ### Reality Check
 
@@ -525,13 +525,13 @@ Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
 
 > **Apply the Traffic Light to BOTH the EPS and OEPS implied growth.** If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
 
-**Traffic Light Assessment:** Even at the most generous terminal PE of 40x (which is itself very high for a 10-year exit), the stock needs **25% EPS CAGR for 5 years just to earn 10% return.** The OEPS-based assessment confirms this: at a correctly calibrated terminal P/OE of 24x, the required OEPS CAGR is 43% for 5 years — essentially the same demanding hurdle. At a more reasonable terminal PE of 20x, the stock needs **44% EPS CAGR for 5 years** — more than double the 3Y historical EPS CAGR of ~19%. The verdict is unambiguously 🔴 RED.
+**Traffic Light Assessment:** Even at the most generous terminal PE of 40x (which is itself very high for a 10-year exit), the stock needs **25% EPS CAGR for 5 years just to earn 10% return.** The OEPS-based assessment is moderately more demanding: at a terminal P/OE of 20x, the required OEPS CAGR is 49% for 5 years (vs 44% EPS CAGR at 20x PE) — a ~5 pp gap at the 5-year horizon, compressing to the ~2 pp shown in the Divergence Test over 10 years. At a more reasonable terminal PE of 20x, the stock needs **44% EPS CAGR for 5 years** — more than double the 3Y historical EPS CAGR of ~19%. The verdict is unambiguously 🔴 RED.
 
 **Verdict: 🔴 RED — Crazy Price.** The implied growth required is 1.5-2x the company's own historical CAGR. At the current price, you are betting on heroic growth assumptions that the business has never sustained at this scale.
 
-> *"At the current price of ₹289, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 25.7% CAGR (and Owner Earnings at 25.5% CAGR at a 24x terminal P/OE — confirming the EPS figure). The company has historically grown EPS at ~19% CAGR (3Y, split-adjusted — lower than the 24% NI CAGR due to IPO dilution) and Owner Earnings at ~14% CAGR (3Y). This implies the market is pricing in heroic/impossible growth."*
+> *"At the current price of ₹289, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 25.7% CAGR (and Owner Earnings at 27.8% CAGR). The company has historically grown EPS at ~19% CAGR (3Y, split-adjusted — lower than the 24% NI CAGR due to IPO dilution) and Owner Earnings at ~14% CAGR (3Y). This implies the market is pricing in heroic/impossible growth."*
 
-> *Note: the EPS and Owner Earnings assessments converge (gap of −0.2 pp), confirming that the standard EPS-based Reverse DCF is reliable for Aeroflex. The 🔴 RED verdict holds on both metrics.*
+> *Note: the OEPS-based assessment is moderately more demanding than the EPS-based assessment (+2.1 pp gap), reflecting the fact that maintenance capex exceeds accounting depreciation. The 🔴 RED verdict holds — and is slightly strengthened — on both metrics.*
 
 Buffett would say: *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."*
 
