@@ -35,19 +35,19 @@ Shalimar's moat is essentially **non-existent**. It has brand heritage (120+ yea
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue (₹ Cr) | 465 | 416 | 384 | 350 | **271** | 288 | 344 | 326 | 358 | 484 | 535 | **599** | 598 |
 | Rev Growth YoY % | — | -10.5 | -7.7 | -8.9 | **-22.6** | 6.3 | 19.4 | -5.2 | 9.8 | **35.2** | 10.5 | 12.0 | — |
-| Operating Profit | 15 | 9 | **30** | 14 | -34 | **-61** | -34 | 4 | -22 | -15 | -54 | -57 | -32 |
-| OPM % | 3.2 | 2.2 | **7.8** | 4.0 | -12.5 | **-21.2** | -9.9 | 1.2 | -6.1 | -3.1 | -10.1 | -9.5 | -5.4 |
+| Operating Profit (pre-D&A) | 15 | 9 | **30** | 14 | -34 | **-61** | -34 | 4 | -22 | -15 | -54 | -57 | -32 |
+| OPM % (pre-D&A) | 3.2 | 2.2 | **7.8** | 4.0 | -12.5 | **-21.2** | -9.9 | 1.2 | -6.1 | -3.1 | -10.1 | -9.5 | -5.4 |
+| Depreciation & Amortisation | 4 | 5 | 5 | 8 | 8 | 9 | 11 | 13 | 13 | 13 | 15 | 16 | 18 |
+| **EBIT** | **11** | **4** | **25** | **6** | **-42** | **-70** | **-45** | **-9** | **-35** | **-28** | **-69** | **-73** | **-51** |
+| **EBIT Margin %** | **2.4** | **1.0** | **6.5** | **1.7** | **-15.5** | **-24.3** | **-13.1** | **-2.8** | **-9.8** | **-5.8** | **-12.9** | **-12.2** | **-8.5** |
 | Net Income | -3 | -11 | **5** | -10 | -46 | **-82** | -38 | -50 | -60 | -36 | -74 | -80 | -68 |
 | NPM % | -0.6 | -2.6 | **1.3** | -2.9 | -17.0 | **-28.5** | -11.0 | -15.3 | -16.8 | -7.4 | -13.8 | -13.4 | — |
 | EPS (₹) | -0.50 | -1.87 | **0.93** | -1.72 | -8.10 | **-15.25** | -7.03 | -9.18 | -8.36 | -5.01 | -8.82 | -9.58 | -8.01 |
 | Shares Out (Cr) | 2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 5.5 | 5.5 | 5.5 | 7.0 | 7.0 | 8.5 | 8.5 | 8.5 |
 | Shares Change % | — | 0 | 0 | 0 | 0 | **+175** | 0 | 0 | **+27.3** | 0 | **+21.4** | 0 | — |
-| EBITDA | 15 | 9 | **30** | 14 | -34 | **-61** | -34 | 4 | -22 | -15 | -54 | -57 | -32 |
-| EBITDA Margin % | 3.2 | 2.2 | **7.8** | 4.0 | -12.5 | **-21.2** | -9.9 | 1.2 | -6.1 | -3.1 | -10.1 | -9.5 | — |
-| Depreciation | 4 | 5 | 5 | 8 | 8 | 9 | 11 | 13 | 13 | 13 | 15 | 16 | 18 |
 | Interest | 21 | 21 | 22 | 23 | 26 | 25 | 20 | 19 | 22 | 16 | 13 | 18 | 25 |
 
-> **Note on EBITDA:** Per Screener.in convention, "Operating Profit" already equals EBITDA (Revenue minus Operating Expenses, before depreciation and interest). The EBITDA and EBITDA Margin rows are therefore identical to Operating Profit and OPM by definition — they are presented separately for completeness per the analysis template.
+> **Note on Operating Profit vs. EBIT:** Per Screener.in convention, "Operating Profit" is calculated as Revenue minus Operating Expenses BEFORE deducting Depreciation & Amortisation — making it EBITDA-equivalent. This analysis deliberately does not track EBITDA as a standalone metric. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* Instead, **EBIT** (Operating Profit minus D&A) is tracked as the true operating profit after accounting for capital consumed by the business. EBIT Margin is the relevant profitability metric for Buffett-style analysis.
 
 > **Note on EPS vs. Shares Outstanding:** The EPS row is sourced directly from Screener.in, which reports EPS on a fully-adjusted basis — restating all historical EPS as if subsequent rights issues and share expansions had already occurred, so that EPS is comparable across the entire time series. This is why the EPS-implied share count for FY14–FY18 (~5.4–6.0 Cr) is approximately 3x the period-end Equity Capital ÷ Face Value count (2.0 Cr); Screener has retrospectively divided those years' Net Income by the post-adjustment share base. The Shares Outstanding row, by contrast, shows the actual period-end share count derived from Equity Capital ÷ Face Value (₹2). Both data series are sourced as reported by Screener and are individually correct within their respective conventions.
 
@@ -55,7 +55,7 @@ Shalimar's moat is essentially **non-existent**. It has brand heritage (120+ yea
 
 The income statement tells a devastating story. Out of 12 fiscal years analysed, the company has been profitable in only ONE year (FY16, with a meagre ₹5 Cr net profit). Cumulative losses over FY14-FY25 total **₹-485 Cr**. This is not a business experiencing a temporary setback — this is a chronically loss-making enterprise.
 
-Revenue has grown from ₹271 Cr (FY18 trough) to ₹599 Cr (FY25) — an impressive top-line recovery. However, this revenue growth has come at the cost of **worsening operating losses**, suggesting the company is buying revenue through aggressive pricing/distribution spending without any operating leverage or margin improvement. Operating margins have been negative in 7 of the last 8 years (FY18–FY25, with only FY21 briefly positive at +1.2% OPM).
+Revenue has grown from ₹271 Cr (FY18 trough) to ₹599 Cr (FY25) — an impressive top-line recovery. However, this revenue growth has come at the cost of **worsening operating losses**, suggesting the company is buying revenue through aggressive pricing/distribution spending without any operating leverage or margin improvement. Operating margins have been negative in 7 of the last 8 years (FY18–FY25, with only FY21 briefly positive at +1.2% pre-D&A OPM — and even that year had negative EBIT of -2.8%).
 
 The share count has expanded from 2 Cr to 8.5 Cr over the period — a **325% dilution** — while the business has generated nothing but losses. Existing shareholders have been massively diluted into a sinking ship.
 
@@ -77,6 +77,11 @@ This income statement is the antithesis of what Buffett looks for. There is no e
 | Fixed Assets + CWIP | 55 | 77 | 81 | 236 | 251 | 270 | 295 | 283 | 276 | 274 | 310 | 330 | 307 |
 | Other Assets | 327 | 305 | 311 | 296 | 244 | 325 | 241 | 222 | 371 | 353 | 360 | 372 | 381 |
 | Current Ratio (approx.) | 1.65 | 1.60 | 1.65 | 1.64 | 1.38 | 2.41 | 1.70 | 1.46 | **2.90** | 2.63 | 2.12 | 1.67 | — |
+| Debt/EBIT | 10.0 | 32.5 | 5.5 | 28.5 | -4.3 | -2.2 | -2.7 | -14.6 | -4.8 | -5.0 | **-1.5** | -2.2 | — |
+| Borrowings/Owner Earnings | -55.0 | -6.8 | 22.8 | -17.1 | -4.1 | -1.7 | -3.0 | -3.3 | -3.4 | -2.2 | **-1.2** | -2.3 | — |
+| Interest Coverage (EBIT/Interest) | 0.5 | 0.2 | **1.1** | 0.3 | -1.6 | -2.8 | -2.2 | -0.5 | -1.6 | -1.8 | **-5.3** | -4.1 | — |
+
+> **Why Debt/EBIT instead of Debt/EBITDA:** EBITDA pretends the business has no capital consumption. A company with ₹500 Cr debt and ₹100 Cr EBITDA but ₹60 Cr depreciation looks "comfortable" at 5x Debt/EBITDA — but its Debt/EBIT is 12.5x, revealing the true burden. For Shalimar, both EBIT and Owner Earnings are deeply negative, making all leverage ratios meaningless — the company cannot service any debt from operating earnings.
 
 **Financial Fortress Assessment:**
 
@@ -141,12 +146,13 @@ There are no owner earnings. There is only owner destruction.
 | ROE % | -4.1 | -16.2 | **7.8** | -8.0 | -28.6 | **-36.9** | -13.1 | -20.2 | -20.9 | -10.3 | -19.9 | -22.6 |
 | ROA % | -0.8 | -2.9 | **1.3** | -2.2 | -8.9 | **-15.1** | -6.7 | -9.6 | -10.4 | -5.7 | -11.4 | -11.7 |
 | Debt/Equity | 1.49 | **2.10** | 2.08 | 0.93 | 1.30 | 0.50 | 0.44 | 0.59 | 0.48 | 0.40 | **0.27** | 0.52 |
-| OPM % | 3.2 | 2.2 | **7.8** | 4.0 | -12.5 | **-21.2** | -9.9 | 1.2 | -6.1 | -3.1 | -10.1 | -9.5 |
+| OPM % (pre-D&A, Screener) | 3.2 | 2.2 | **7.8** | 4.0 | -12.5 | **-21.2** | -9.9 | 1.2 | -6.1 | -3.1 | -10.1 | -9.5 |
+| **EBIT Margin %** | **2.4** | **1.0** | **6.5** | **1.7** | **-15.5** | **-24.3** | **-13.1** | **-2.8** | **-9.8** | **-5.8** | **-12.9** | **-12.2** |
 | NPM % | -0.6 | -2.6 | **1.3** | -2.9 | -17.0 | **-28.5** | -11.0 | -15.3 | -16.8 | -7.4 | -13.8 | -13.4 |
 | Debtor Days | 125 | 135 | **136** | 130 | **142** | 126 | **76** | 89 | 80 | 81 | 76 | 90 |
 | Inventory Days | 126 | 126 | **154** | 139 | 129 | 118 | 136 | 146 | 130 | 120 | **110** | 112 |
 | Cash Conv. Cycle | 83 | 73 | 72 | 75 | **28** | 82 | 61 | 52 | 77 | **98** | 52 | 41 |
-| Interest Coverage | 0.7 | 0.4 | **1.4** | 0.6 | -1.3 | -2.4 | -1.7 | 0.2 | -1.0 | -0.9 | **-4.2** | -3.2 |
+| Interest Coverage (EBIT/Interest) | 0.5 | 0.2 | **1.1** | 0.3 | -1.6 | -2.8 | -2.2 | -0.5 | -1.6 | -1.8 | **-5.3** | -4.1 |
 | Dividend Payout % | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ### Part B: Buffett's Quality Checklist
@@ -161,10 +167,12 @@ There are no owner earnings. There is only owner destruction.
 | Positive Free Cash Flow | Positive | Negative cumulative FCF | ❌ FAIL |
 | Promoter/Insider holding | Aligned | 74.96% (high, BUT 70.5% pledged) | ❌ FAIL (pledge) |
 | Dividend payout | Paying | 0% — zero dividends ever | ❌ FAIL |
-| OPM stability | Stable | Swings from +7.8% to -21.2% | ❌ FAIL |
+| EBIT Margin stability | Stable | Swings from +6.5% to -24.3% | ❌ FAIL |
 | Moat / Pricing Power | Identifiable | None. <1% market share, no brand power | ❌ FAIL |
 | ROIC | >15% | Deeply negative | ❌ FAIL |
 | Earnings Yield | Reasonable | Negative (loss-making) | ❌ FAIL |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Score: 0 out of 12 pass.** This is a clean sweep of failures. Not a single Buffett quality criterion is met.
 
@@ -179,8 +187,11 @@ The ratio trends reveal a company with zero competitive advantage and actively e
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales (₹ Cr) | 129 | 135 | 126 | **119** | 146 | 144 | 128 | 145 | 148 | **178** | 155 | 134 | 131 |
-| Op Profit | -1 | -6 | -5 | **-20** | -7 | -22 | **-21** | -13 | -16 | **-7** | -8 | -6 | -11 |
-| OPM % | 0% | -4% | -4% | **-17%** | -5% | -16% | -16% | -9% | -11% | **-4%** | -5% | -5% | -8% |
+| Op Profit (pre-D&A) | -1 | -6 | -5 | **-20** | -7 | -22 | **-21** | -13 | -16 | **-7** | -8 | -6 | -11 |
+| OPM % (pre-D&A) | 0% | -4% | -4% | **-17%** | -5% | -16% | -16% | -9% | -11% | **-4%** | -5% | -5% | -8% |
+| Depreciation | 3 | 3 | 3 | 3 | 4 | 4 | 4 | 4 | 4 | 4 | 5 | 5 | 5 |
+| **EBIT** | **-4** | **-9** | **-8** | **-23** | **-11** | **-26** | **-25** | **-17** | **-20** | **-11** | **-13** | **-11** | **-16** |
+| **EBIT Margin %** | **-3.1** | **-6.7** | **-6.3** | **-19.3** | **-7.5** | **-18.1** | **-19.5** | **-11.7** | **-13.5** | **-6.2** | **-8.4** | **-8.2** | **-12.2** |
 | Net Profit | -6 | -10 | -10 | **-26** | -12 | **-26** | -27 | -20 | -25 | **-10** | -17 | -14 | **-27** |
 | EPS (₹) | -0.86 | -1.33 | -1.42 | **-3.55** | -1.38 | -3.16 | -3.23 | -2.34 | -2.93 | **-1.14** | -2.00 | -1.69 | **-3.18** |
 
@@ -188,7 +199,7 @@ The ratio trends reveal a company with zero competitive advantage and actively e
 
 **1. Revenue Trajectory:** Quarterly sales peaked at ₹178 Cr in Mar25 but have since declined to ₹131 Cr in Dec25. There is no sustained upward momentum — sales appear seasonal (Q4/Mar quarter is typically strongest). YoY, Dec25 sales of ₹131 Cr are actually DOWN vs Dec24's ₹148 Cr, a -11.5% decline.
 
-**2. Margin Trend:** Operating margins remain deeply negative in every single quarter. The "best" recent quarter (Mar25 at -4% OPM) still loses money. There is no visible path to profitability — even the strongest revenue quarter generates operating losses.
+**2. Margin Trend:** Both OPM (pre-D&A) and EBIT Margin remain deeply negative in every single quarter. Notably, EBIT margins are consistently 2-4 percentage points worse than OPM because depreciation of ₹3-5 Cr/quarter further erodes operating performance — a pattern EBITDA-based analysis would completely miss. FY21 is the starkest example: OPM was briefly positive at +1.2%, but EBIT Margin was still -2.8%, revealing that the business was not genuinely profitable even in its "best" recent year. The "best" recent EBIT quarter (Mar25 at -6.2%) still loses ₹11 Cr. There is no visible path to profitability.
 
 **3. Normalised Quarterly EPS Run-Rate:** Taking the last 4 quarters (Mar25 to Dec25): EPS = -1.14 + -2.00 + -1.69 + -3.18 = **₹-8.01 annualised.** There is no "normalised positive EPS" — every quarter is a loss.
 
@@ -305,15 +316,17 @@ Shalimar has nothing to protect. The industry change (new entrants, digital disr
 
 ### Part A: Profit Scalability
 
-| Year | Revenue | Rev Growth | Op Profit | Op Profit Growth | Incremental Op Margin |
-|---|---|---|---|---|---|
-| FY21 | 326 | -5.2% | 4 | — | — |
-| FY22 | 358 | 9.8% | -22 | -650% | -81.3% |
-| FY23 | 484 | 35.2% | -15 | 31.8% | 5.6% |
-| FY24 | 535 | 10.5% | -54 | -260% | -76.5% |
-| FY25 | 599 | 12.0% | -57 | -5.6% | -4.7% |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY21 | 326 | -5.2% | -9 | — | -2.8% | — |
+| FY22 | 358 | 9.8% | -35 | -288.9% | -9.8% | -81.2% |
+| FY23 | 484 | 35.2% | -28 | 20.0% | -5.8% | 5.6% |
+| FY24 | 535 | 10.5% | -69 | -146.4% | -12.9% | -80.4% |
+| FY25 | 599 | 12.0% | -73 | -5.8% | -12.2% | -6.2% |
 
-**Incremental margins are deeply negative.** Revenue grew by ₹273 Cr from FY21 to FY25, but operating profit went from ₹+4 Cr to ₹-57 Cr. This is **anti-scaling** — the business gets WORSE as it grows.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins are above current EBIT margins, the business is scaling. Below = scaling friction.*
+
+**Incremental EBIT margins are deeply negative.** Revenue grew by ₹273 Cr from FY21 to FY25, but EBIT went from ₹-9 Cr to ₹-73 Cr. This is **anti-scaling** — the business gets WORSE as it grows. The EBIT-based picture is even more damning than the pre-D&A view: FY21 appeared to have a small operating profit of ₹4 Cr on a pre-D&A basis, but EBIT was already ₹-9 Cr — the company was never truly profitable even at the operating level once capital consumption is accounted for.
 
 ### Part B: Scaling Runway — TAM & Penetration
 
@@ -381,16 +394,20 @@ For comparison, Asian Paints operates with 70,000+ dealers, 26 factories, and ge
 |---|---|
 | CMP | ₹49 |
 | Market Cap | ₹417 Cr |
+| **P/Owner Earnings** (primary Buffett-pure multiple) | N/A (Owner Earnings negative: ₹-71 Cr) |
 | P/E | N/A (Loss-making) |
 | P/B | 1.32x (on FY25 BVPS ₹37.1) |
 | P/B (on Sep25 BVPS ₹33.5) | 1.46x |
 | P/Sales | 0.70x |
-| EV (Market Cap + Debt) | ~₹581 Cr |
-| EV/EBITDA | N/A (Negative EBITDA) |
-| EV/Sales | 0.97x |
+| **Owner Earnings Yield (OEPS / CMP)** | N/A (OEPS: ₹-8.35) |
 | Earnings Yield | Negative |
+| EV (Market Cap + Debt) | ~₹581 Cr |
+| **EV/EBIT** | N/A (Negative EBIT: ₹-73 Cr) |
+| EV/Sales | 0.97x |
 | Dividend Yield | 0% |
 | 52-Week High / Low | ₹119.20 / ₹35.21 |
+
+> **Why P/Owner Earnings and EV/EBIT instead of EV/EBITDA:** Buffett (2000 Letter): *"References to EBITDA make us shudder."* P/Owner Earnings is the Buffett-pure multiple — it uses true economic earnings (NI + D&A − Maintenance CapEx) as the denominator, reflecting cash genuinely available to the owner. EV/EBIT is included as a secondary cross-check for institutional comparability. For Shalimar, all earnings-based multiples are meaningless because every earnings metric is deeply negative.
 
 **Historical Comparison:** The stock traded as high as ₹230 (May 2017 all-time high) and as low as ₹19.72 (Nov 2008). At ₹49, it is near multi-year lows. However, the book value is also eroding rapidly — P/B on Sep 2025 equity is already 1.46x, and book value continues to shrink each quarter.
 
@@ -440,13 +457,53 @@ There is **no margin of safety** at the current price. The stock is overvalued o
 
 Since the company has negative EPS, a traditional Reverse DCF (projecting forward EPS growth) is meaningless. Instead, let us ask: **What would need to happen for the stock to justify its current ₹49 price?**
 
+### Step 1: Inputs
+
+| Input | Value | Source |
+|---|---|---|
+| Current Market Price (CMP) | ₹49 | Market data |
+| TTM EPS (Normalised) | ₹-8.01 | Negative — no normalised positive EPS exists |
+| **Owner Earnings Per Share (OEPS)** | **₹-8.35** | Owner Earnings (₹-71 Cr from Section 8) ÷ 8.5 Cr diluted shares |
+| Current PE | N/A | Loss-making |
+| **Current P/OE** | **N/A** | OEPS is negative — no meaningful P/OE ratio exists |
+| Shares Outstanding (Diluted) | 8.5 Cr | Latest data |
+
+### Steps 2-3: Standard Reverse DCF — Not Computable
+
+Both EPS and OEPS are deeply negative. No forward growth rate can be meaningfully computed from a negative base. The standard Reverse DCF tables (implied EPS CAGR at various terminal PE multiples) **cannot be constructed** for a loss-making company.
+
+### Step 3B: Buffett-Pure Reverse DCF (OEPS-Based) — Not Computable
+
+> Per the updated template, Step 3B runs the Reverse DCF using Owner Earnings Per Share (OEPS) instead of EPS, with Terminal P/OE multiples (Mature: 10-13x, Market Average: 15-18x, Compounder: 20-25x). **This is impossible for Shalimar Paints because OEPS is ₹-8.35 — even more negative than EPS of ₹-8.01.** The gap between EPS and OEPS confirms what Section 8 already demonstrated: after deducting maintenance capex, the true economic loss is LARGER than the reported accounting loss. This is the Buffett/Munger insight in action — EBITDA and reported earnings flatter the picture; Owner Earnings reveal the full depth of value destruction.
+
+**The Divergence Test — EPS vs. OEPS:**
+
+| Metric | Value |
+|---|---|
+| TTM EPS | ₹-8.01 |
+| OEPS | ₹-8.35 |
+| **Gap** | **₹-0.34 (OEPS is 4% more negative)** |
+
+**Interpretation:** The gap is small in absolute terms because Shalimar is a moderately capital-intensive manufacturer. The OEPS being slightly more negative than EPS confirms that maintenance capex exceeds depreciation — a further drag on already terrible economics. For a profitable company, this 4% gap would be minor. For Shalimar, it simply confirms that both metrics point to the same conclusion: zero earnings power.
+
+### Step 4: Reality Check — What the Stock Requires
+
+Instead of the standard Reality Check tables, the qualitative test suffices:
+
 | Scenario | Required Outcome | Probability |
 |---|---|---|
 | **Justify ₹49 at 1.0x book** | BVPS must stabilise at ₹49; losses must stop immediately | Very Low |
 | **Justify ₹49 at 15x PE** | EPS must reach ₹3.27; Net Profit of ₹28 Cr | Extremely Low (never achieved in 12 years) |
+| **Justify ₹49 at 15x P/OE** | OEPS must reach ₹3.27; Owner Earnings of ₹28 Cr | Even more extreme — OE has never been >₹6 Cr |
 | **Earn 10% return over 5 years** | Stock must reach ₹79; requires BV growth + re-rating | Nearly Impossible at current fundamentals |
 
-**Traffic Light:** 🔴 RED. The market is pricing in a turnaround that has no supporting evidence. At ₹49, the stock requires the company to do something it has never done in its 120+ year modern history — earn sustained, meaningful profits in a hyper-competitive paint market.
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. Since both are deeply negative — not merely low — both produce the same verdict. For a profitable company where EPS is green but OEPS is yellow, always defer to the OEPS-based verdict as the true Buffett-pure assessment.
+
+### Step 5: Verdict
+
+> *"At the current price of ₹49, the company has no EPS or Owner Earnings to grow — both are deeply negative (EPS: ₹-8.01, OEPS: ₹-8.35). The stock therefore requires a turnaround from a ₹-80 Cr annual loss to a ₹+28 Cr profit (or ₹+28 Cr Owner Earnings) — a ₹108 Cr swing — just to trade at 15x PE/P(OE). This has never been achieved in 12 years of analysed history. The market is pricing in heroic/impossible assumptions."*
+
+**Traffic Light:** 🔴 RED. Buffett's Napkin Test: *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* You don't need a spreadsheet here — you need a miracle.
 
 ---
 
