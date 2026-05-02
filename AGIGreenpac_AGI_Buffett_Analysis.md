@@ -45,10 +45,12 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 1,708 | 1,817 | 1,959 | 2,072 | 2,250 | **1,605** | 1,859 | 1,260 | 1,430 | 2,281 | 2,418 | **2,529** | 2,628 |
 | Revenue Growth YoY | — | 6.4% | 7.8% | 5.8% | 8.6% | **-28.7%** | 15.8% | -32.2% | 13.5% | **59.5%** | 6.0% | 4.6% | — |
-| Operating Profit (EBITDA) | 268 | 342 | 324 | 292 | 273 | **174** | 271 | 266 | 265 | 462 | 561 | **614** | 596 |
-| OPM % | 15.7% | 18.8% | 16.5% | 14.1% | 12.1% | **10.8%** | 14.6% | 21.1% | 18.5% | 20.3% | 23.2% | **24.3%** | 22.7% |
+| Operating Profit (pre-D&A) | 268 | 342 | 324 | 292 | 273 | **174** | 271 | 266 | 265 | 462 | 561 | **614** | 596 |
+| OPM % (pre-D&A) | 15.7% | 18.8% | 16.5% | 14.1% | 12.1% | **10.8%** | 14.6% | 21.1% | 18.5% | 20.3% | 23.2% | **24.3%** | 22.7% |
+| Depreciation & Amortisation | 106 | 119 | 114 | 111 | 114 | 131 | 143 | 95 | 100 | 126 | 161 | **177** | 171 |
+| **EBIT** | **162** | **223** | **210** | **181** | **159** | **43** | **128** | **171** | **165** | **336** | **400** | **437** | 424 |
+| **EBIT Margin** | **9.5%** | **12.3%** | **10.7%** | **8.7%** | **7.1%** | **2.7%** | **6.9%** | **13.6%** | **11.5%** | **14.7%** | **16.5%** | **17.3%** | 16.1% |
 | Other Income | 3 | 4 | 13 | 1 | 3 | 39 | 20 | -13 | **119** | 39 | 27 | 75 | 74 |
-| Depreciation | 106 | 119 | 114 | 111 | 114 | 131 | 143 | 95 | 100 | 126 | 161 | **177** | 171 |
 | Interest | 68 | 74 | 41 | 33 | 56 | 59 | 73 | 33 | **28** | 57 | **87** | 85 | 60 |
 | Net Income | 56 | 104 | 116 | 103 | 75 | **15** | 48 | 88 | 193 | 262 | 251 | **322** | 333 |
 | NI Growth YoY | — | 85.7% | 11.5% | -11.2% | -27.2% | **-80.0%** | 220.0% | 83.3% | **119.3%** | 35.8% | -4.2% | 28.3% | — |
@@ -56,7 +58,6 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 | EPS (₹) | 8.52 | 14.41 | 16.08 | 14.25 | 10.34 | **2.11** | 6.70 | 13.61 | 29.88 | 40.44 | 38.85 | **49.84** | 51.50 |
 | EPS Growth | — | 69.1% | 11.6% | -11.4% | -27.4% | **-79.6%** | 217.5% | 103.1% | **119.5%** | 35.3% | -3.9% | 28.3% | — |
 | Shares O/S (Cr) | 6.57 | 7.22 | 7.21 | 7.23 | 7.25 | 7.11 | 7.16 | 6.47 | 6.46 | 6.48 | 6.46 | 6.46 | — |
-| EBITDA Margin | 15.7% | 18.8% | 16.5% | 14.1% | 12.1% | **10.8%** | 14.6% | 21.1% | 18.5% | 20.3% | 23.2% | **24.3%** | — |
 | Dividend Payout % | 35% | 24% | 25% | 28% | 39% | **142%** | 45% | 29% | 17% | **12%** | 15% | 14% | — |
 
 **Compounded Growth Rates:**
@@ -69,7 +70,9 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 
 **Trend Narrative:**
 
-The income statement tells a dramatic story of transformation — but one that demands careful scrutiny of *what drove it*. Revenue growth has been modest (3.4% CAGR over 10 years, 6.3% over 5 years), yet profit growth has been explosive (46% CAGR over 5 years). This divergence is entirely explained by **massive margin expansion**: OPM expanded from 10.8% in FY19 (the trough) to 24.3% in FY25 (the peak).
+The income statement tells a dramatic story of transformation — but one that demands careful scrutiny of *what drove it*. Revenue growth has been modest (3.4% CAGR over 10 years, 6.3% over 5 years), yet profit growth has been explosive (46% CAGR over 5 years). This divergence is entirely explained by **massive margin expansion**: OPM (pre-D&A) expanded from 10.8% in FY19 (the trough) to 24.3% in FY25 (the peak). More importantly, EBIT Margin (after accounting for the capital the business consumes) expanded from 2.7% to 17.3% — an even more dramatic improvement that confirms genuine operating leverage, not just accounting optics.
+
+> **Why EBIT, not EBITDA?** Screener.in's "Operating Profit" is EBITDA-equivalent (pre-D&A). This analysis tracks EBIT (Operating Profit minus D&A) because Buffett considers depreciation a real expense: *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* For a glass manufacturer that must reline furnaces costing hundreds of crores every 8-10 years, pretending depreciation doesn't exist is especially dangerous. EBIT and Owner Earnings (Section 8) are the Buffett-pure metrics used throughout this analysis.
 
 The critical question — addressed in detail in Section 10 — is whether this margin expansion is structural or cyclical. The headline 5-year profit CAGR of 46% starts from FY20 when margins were depressed (OPM 14.6%) and the largest competitor (HNGIL) was in insolvency. **This CAGR overstates sustainable earning power.** The 10-year EPS CAGR of 13.2% is a more honest representation.
 
@@ -90,16 +93,17 @@ Buffett: *"Earnings can be as pliable as putty when a charlatan heads the compan
 | Shareholders' Equity | 1,121 | 1,435 | 1,387 | 1,450 | 1,489 | 1,256 | 1,256 | 1,234 | 1,392 | 1,607 | 1,815 | **2,098** |
 | Book Value Per Share (₹) | 170.62 | 198.75 | 192.37 | 200.55 | 205.38 | 176.65 | 175.42 | 190.73 | 215.48 | 247.99 | 280.96 | **324.77** |
 | Debt/Equity | **0.98** | 0.52 | 0.45 | 0.63 | **0.83** | 0.70 | 0.79 | 0.73 | 0.84 | 0.46 | 0.34 | **0.26** |
-| Debt/EBITDA | **4.1x** | 2.2x | 1.9x | 3.1x | **4.5x** | **5.0x** | 3.7x | 3.4x | 4.4x | 1.6x | 1.1x | **0.9x** |
-| Interest Coverage | **3.9x** | 4.6x | 7.9x | 8.8x | 4.9x | **2.9x** | 3.7x | 8.1x | **9.5x** | 8.1x | 6.4x | 7.2x |
+| Debt/EBIT | **6.8x** | 3.4x | 3.0x | 5.0x | **7.7x** | **20.3x** | 7.8x | 5.3x | 7.0x | 2.2x | 1.5x | **1.3x** |
+| Net Debt/Owner Earnings | **11.2x** | 4.9x | 3.8x | 6.2x | **10.2x** | **13.1x** | 9.5x | 7.1x | 5.0x | 2.3x | 2.0x | **1.4x** |
+| Interest Coverage (EBIT/Int) | **2.4x** | 3.0x | 5.1x | 5.5x | 2.8x | **0.7x** | 1.8x | 5.2x | 5.9x | 5.9x | 4.6x | **5.1x** |
 | Fixed Assets + CWIP | 1,606 | 1,594 | 1,577 | 1,675 | 1,890 | 1,959 | 1,853 | 1,862 | 1,833 | 2,004 | 2,022 | 2,135 |
 | Goodwill | — | — | — | — | — | — | — | — | — | — | — | — |
 
 **The Deleveraging Story — Genuinely Impressive:**
 
-This is the single most impressive aspect of AGI's recent financial history. Gross borrowings have been cut from ₹1,230 Cr (FY18) to ₹553 Cr (FY25) — a **55% reduction** — funded entirely through internal accruals with no equity dilution. Debt/Equity has declined from 0.83x to 0.26x, and Debt/EBITDA from 4.5x to 0.9x.
+This is the single most impressive aspect of AGI's recent financial history. Gross borrowings have been cut from ₹1,230 Cr (FY18) to ₹553 Cr (FY25) — a **55% reduction** — funded entirely through internal accruals with no equity dilution. Debt/Equity has declined from 0.83x to 0.26x, and Debt/EBIT from 7.7x to 1.3x.
 
-Buffett: *"Only when the tide goes out do you discover who's been swimming naked."* AGI was swimming with a lot of debt in FY14-FY18 (D/E near 1x). The tide went out during FY19 (demerger chaos, business restructuring), and the company was naked. Since then, management has systematically clothed the balance sheet. The current balance sheet is a genuine fortress — **Debt/EBITDA of 0.9x and D/E of 0.26x**.
+Buffett: *"Only when the tide goes out do you discover who's been swimming naked."* AGI was swimming with a lot of debt in FY14-FY18 (D/E near 1x). The tide went out during FY19 (demerger chaos, business restructuring), and the company was naked. Since then, management has systematically clothed the balance sheet. The current balance sheet is a genuine fortress — **Debt/EBIT of 1.3x, Net Debt/Owner Earnings of 1.4x, and D/E of 0.26x**.
 
 **The Warning — Capex Ahead Will Re-Lever:** AGI is simultaneously undertaking two greenfield projects: a 500 TPD container glass plant at Gwalior, MP (₹700 Cr, targeting March 2027) and an aluminum beverage can facility in UP (₹850 Cr Phase 1, targeting Q3 FY28). Combined with maintenance capex of ₹120-150 Cr annually, total capital commitment over the next 2-3 years is approximately ₹1,800-2,000 Cr (₹1,550 Cr growth + ₹240-450 Cr maintenance). Net debt is guided to peak at ₹1,000-1,200 Cr — essentially doubling leverage from current levels.
 
@@ -151,13 +155,14 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | ROCE % | 8% | 10% | 11% | 9% | 7% | **3%** | 7% | 8% | 9% | 15% | 18% | **20%** |
 | ROE % | 5.0% | 8.1% | 8.2% | 7.3% | 5.1% | **1.1%** | 3.8% | 7.1% | 14.7% | **17.5%** | 14.7% | **16.5%** |
 | Debt/Equity | **0.98** | 0.52 | 0.45 | 0.63 | 0.83 | 0.70 | 0.79 | 0.73 | 0.84 | 0.46 | 0.34 | **0.26** |
-| OPM % | 15.7% | **18.8%** | 16.5% | 14.1% | 12.1% | **10.8%** | 14.6% | 21.1% | 18.5% | 20.3% | 23.2% | **24.3%** |
+| OPM % (pre-D&A, Screener) | 15.7% | **18.8%** | 16.5% | 14.1% | 12.1% | **10.8%** | 14.6% | 21.1% | 18.5% | 20.3% | 23.2% | **24.3%** |
+| **EBIT Margin %** | **9.5%** | **12.3%** | **10.7%** | **8.7%** | **7.1%** | **2.7%** | **6.9%** | **13.6%** | **11.5%** | **14.7%** | **16.5%** | **17.3%** |
 | NPM % | 3.3% | 5.7% | 5.9% | 5.0% | 3.3% | **0.9%** | 2.6% | 7.0% | **13.5%** | 11.5% | 10.4% | 12.7% |
 | Debtor Days | **88** | 82 | 72 | 70 | 83 | 74 | 58 | 92 | 78 | 55 | **48** | 57 |
 | Inventory Days | 254 | 241 | 239 | 224 | 232 | 174 | 216 | **415** | 279 | 157 | 196 | 193 |
 | Cash Conv. Cycle | **256** | 252 | 236 | 204 | 226 | 136 | 170 | 288 | 156 | 87 | **47** | 79 |
 | Working Capital Days | -10 | 26 | 20 | -16 | 0 | 16 | 45 | 58 | **146** | 14 | **6** | 19 |
-| Interest Coverage | 3.9x | 4.6x | 7.9x | **8.8x** | 4.9x | **2.9x** | 3.7x | 8.1x | **9.5x** | 8.1x | 6.4x | 7.2x |
+| Interest Coverage (EBIT/Int) | 2.4x | 3.0x | 5.1x | **5.5x** | 2.8x | **0.7x** | 1.8x | 5.2x | **5.9x** | 5.9x | 4.6x | 5.1x |
 | Dividend Payout % | 35% | 24% | 25% | 28% | 39% | **142%** | 45% | 29% | 17% | **12%** | 15% | 14% |
 
 ### Part B: Buffett's Quality Checklist
@@ -172,9 +177,11 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | Positive Free Cash Flow | Positive | Volatile; ₹236 Cr (FY24) | ⚠️ Lumpy, capex-heavy |
 | Promoter/Insider holding | Aligned | 60.23% (stable) | ✅ Strong alignment |
 | Dividend payout | Paying | ~14% avg (recent) | ⚠️ Low payout |
-| OPM stability | Stable | 10.8%-24.3% range | ❌ Highly cyclical |
+| EBIT Margin stability | Stable | 2.7%-17.3% range | ❌ Highly cyclical |
 | Moat / Pricing Power | Identifiable | Freight barrier, oligopoly | ⚠️ Oligopoly not pricing power |
 | Earnings yield | Reasonable | 9.0% (1/PE) at CMP | ✅ |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Narrative:** The ratio table reveals a business that has undergone a genuine improvement in the last 3-4 years — but whose longer-term track record is mediocre. The 10-year average ROE of ~10% and ROCE of ~10.5% are below Buffett's 15% threshold. Only in FY22-FY25 have returns crossed into quality territory. The operating margin range of 10.8% to 24.3% over 12 years signals a cyclical business, not a Buffett-style compounder with stable margins. The improvement in working capital (CCC from 256 days to 47 days in FY24) is impressive but has already partially reversed to 79 days in FY25 — and as discussed in competitive analysis, the improvement was partly a function of the favourable supply-demand environment created by HNGIL's insolvency.
 
@@ -187,8 +194,11 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 567 | **680** | 558 | 615 | 623 | 622 | **566** | 599 | 658 | **705** | 688 | **602** | 634 |
-| Op. Profit | **110** | **177** | 132 | 134 | 151 | 146 | 136 | 154 | **169** | 154 | 142 | 150 | 150 |
-| OPM % | **19%** | **26%** | 24% | 22% | 24% | 23% | 24% | **26%** | **26%** | 22% | 21% | 25% | 24% |
+| Op. Profit (pre-D&A) | **110** | **177** | 132 | 134 | 151 | 146 | 136 | 154 | **169** | 154 | 142 | 150 | 150 |
+| OPM % (pre-D&A) | **19%** | **26%** | 24% | 22% | 24% | 23% | 24% | **26%** | **26%** | 22% | 21% | 25% | 24% |
+| Depreciation | 30 | 38 | 37 | 41 | 42 | 42 | 42 | 47 | 44 | 44 | 41 | 43 | 44 |
+| **EBIT** | **80** | **139** | 95 | 93 | 109 | 104 | 94 | 107 | **125** | 110 | 101 | 107 | 106 |
+| **EBIT Margin %** | **14%** | **20%** | 17% | 15% | 17% | 17% | 17% | 18% | **19%** | 16% | 15% | 18% | 17% |
 | Net Profit | **53** | **109** | 63 | 56 | 67 | 65 | 63 | 72 | **91** | **97** | 89 | 76 | 72 |
 | EPS (₹) | **8.21** | **16.82** | 9.81 | 8.68 | 10.37 | 9.98 | 9.77 | 11.14 | **13.99** | **14.93** | 13.73 | 11.77 | 11.07 |
 
@@ -198,7 +208,7 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 
 1. **Revenue Trajectory:** Quarterly sales have been range-bound at ₹560-705 Cr, with Mar23 (₹680 Cr) and Mar25 (₹705 Cr) being the best quarters and Jun24 (₹566 Cr) the weakest. YoY growth has decelerated from the double-digit post-COVID recovery to low single digits. The latest quarters (Jun25-Dec25) show a flattening trajectory at ₹600-690 Cr.
 
-2. **Margin Trend:** OPM has oscillated between 19-26% over the past 13 quarters, with no clear upward or downward trend. The best quarters (Mar23 at 26%, Sep24/Dec24 at 26%) appear to be peak levels. The most recent Dec25 quarter at 24% OPM suggests margins are holding but not expanding further.
+2. **Margin Trend:** OPM (pre-D&A) has oscillated between 19-26% over the past 13 quarters, with no clear upward or downward trend. EBIT Margin (after D&A) has been more stable at 14-20%, with a tighter band. Notably, while OPM held at 24-26% in Sep24-Dec24, EBIT Margin peaked at 18-19% — the ~7pp gap reflects D&A absorbing roughly a third of the pre-D&A margin. This is the pattern EBITDA-based analysis would miss entirely: the business looks like a 24% margin business on EBITDA, but it is a 17% margin business on EBIT. As D&A rises with the capex programme, this gap will widen further.
 
 3. **Normalised Quarterly EPS Run-Rate:** Stripping out the volatile Mar23 quarter (₹16.82 EPS, boosted by ₹32 Cr other income), the normalised quarterly EPS run-rate is approximately ₹11-14 per quarter, or **₹48-52 annualised**. The TTM EPS of ₹51.50 from Screener appears consistent with this.
 
@@ -250,7 +260,7 @@ Buffett: *"Be fearful when others are greedy, and greedy when others are fearful
 
 AGI is a capital-intensive business where furnaces require complete relining every 8-10 years at substantial cost. The maintenance capex requirement is real and non-discretionary. We estimate it at 60% of D&A, which for FY25 is ~₹106 Cr per year. This means of the ₹442 Cr total capex in FY25, approximately ₹336 Cr was growth capex (the Gwalior plant and aluminum can facility).
 
-**Upcoming CapEx Burden:** The approximately ₹1,800-2,000 Cr capex programme (₹700 Cr Gwalior glass plant + ₹850 Cr aluminum can facility + ₹120-150 Cr/year maintenance over 2-3 years) is ~3.0-3.3x peak EBITDA. This is aggressive for a cyclical business entering a period where margins may compress. Net debt is guided to peak at ₹1,000-1,200 Cr, implying net debt/EBITDA of 1.5-2.0x even at peak EBITDA — and potentially 2.3-2.8x if margins normalise to 17% (EBITDA ~₹430 Cr on current revenue base).
+**Upcoming CapEx Burden:** The approximately ₹1,800-2,000 Cr capex programme (₹700 Cr Gwalior glass plant + ₹850 Cr aluminum can facility + ₹120-150 Cr/year maintenance over 2-3 years) is ~4.1-4.6x peak EBIT (₹437 Cr). This is aggressive for a cyclical business entering a period where margins may compress. Net debt is guided to peak at ₹1,000-1,200 Cr, implying net debt/EBIT of 2.3-2.7x even at peak EBIT — and potentially 4.0-4.7x if margins normalise to 17% OPM (EBIT ~₹253 Cr on current revenue base).
 
 **SBC & Dilution:** Negligible. No material ESOP programmes. Share count flat at ~6.46 Cr. No buyback programme (nor would one be appropriate given the capex ahead).
 
@@ -265,7 +275,7 @@ Buffett: *"The key to investing is not assessing how much an industry is going t
 | ROE % | 5.0 | 8.1 | 8.2 | 7.3 | 5.1 | **1.1** | 3.8 | 7.1 | 14.7 | **17.5** | 14.7 | **16.5** |
 | ROA % | 2.1 | 3.9 | 4.3 | 3.6 | 2.3 | **0.5** | 1.7 | 3.1 | 6.3 | 8.2 | 7.8 | **9.4** |
 | ROCE % | 8 | 10 | 11 | 9 | 7 | **3** | 7 | 8 | 9 | 15 | 18 | **20** |
-| Interest Coverage | 3.9x | 4.6x | 7.9x | 8.8x | 4.9x | **2.9x** | 3.7x | 8.1x | **9.5x** | 8.1x | 6.4x | 7.2x |
+| Interest Coverage (EBIT/Int) | 2.4x | 3.0x | 5.1x | 5.5x | 2.8x | **0.7x** | 1.8x | 5.2x | 5.9x | 5.9x | 4.6x | **5.1x** |
 
 **Quality Assessment:** 
 
@@ -334,17 +344,19 @@ Buffett: *"We do not get enthused about change, with a few exceptions, as a way 
 | **Geographic replicability** | Moderate — glass plants can be built anywhere with gas/power access, but capital is significant. |
 | **CAC trend** | N/A — B2B business with long-term contracts, not consumer acquisition. |
 
-**Profit Scalability (Incremental Margins):**
+**Profit Scalability (Incremental EBIT Margins):**
 
-| Year | Revenue | Rev Growth | Op Profit | OP Growth | Incr. Op Margin |
-|---|---|---|---|---|---|
-| FY21 | 1,260 | -32.2% | 266 | — | — |
-| FY22 | 1,430 | 13.5% | 265 | -0.4% | Negative |
-| FY23 | 2,281 | 59.5% | 462 | 74.3% | 23.1% |
-| FY24 | 2,418 | 6.0% | 561 | 21.4% | **72.3%** |
-| FY25 | 2,529 | 4.6% | 614 | 9.4% | **47.7%** |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY21 | 1,260 | -32.2% | 171 | — | 13.6% | — |
+| FY22 | 1,430 | 13.5% | 165 | -3.5% | 11.5% | Negative |
+| FY23 | 2,281 | 59.5% | 336 | 103.6% | 14.7% | 20.1% |
+| FY24 | 2,418 | 6.0% | 400 | 19.0% | 16.5% | **46.7%** |
+| FY25 | 2,529 | 4.6% | 437 | 9.2% | 17.3% | **33.3%** |
 
-The incremental margins in FY24 (72.3%) and FY25 (47.7%) look spectacular — but these are driven by operating leverage at peak utilisation, not by any structural improvement in the business model. When capacity utilisation falls from 95% to 85% (as HNGIL returns), incremental margins will likely turn negative.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If pre-D&A incremental margins were used, they would appear higher (72.3% for FY24) because they ignore the D&A burden — a pattern EBITDA-based analysis would miss.*
+
+The incremental EBIT margins in FY24 (46.7%) and FY25 (33.3%) are healthy — but notably lower than the pre-D&A incremental margins (72.3% and 47.7% respectively), reflecting the real cost of maintaining the capital base. When capacity utilisation falls from 95% to 85% (as HNGIL returns), incremental margins will likely turn negative.
 
 ### Part B: Scaling Runway
 
@@ -426,12 +438,15 @@ Buffett: *"The CEO who misleads others in public may eventually mislead himself 
 
 | Metric | Value | Historical Range (10Y) |
 |---|---|---|
+| **P/Owner Earnings (primary Buffett-pure multiple)** | **9.4x** | — |
+| **Owner Earnings Yield (OEPS / CMP)** | **10.7%** | — |
 | **PE Ratio (TTM)** | 11.1x | 7x - 40x+ |
 | **P/B Ratio** | 1.76x | 0.8x - 4.0x |
-| **EV/EBITDA** | ~6.9x | 4x - 18x |
 | **Earnings Yield** | 9.0% | — |
 | **Dividend Yield** | 1.2% | — |
-| **P/Owner Earnings** | 9.4x | — |
+| **EV/EBIT** | ~9.7x | — |
+
+*Note: EV/EBIT is included as a secondary cross-check for comparability with institutional analysis. Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets. P/Owner Earnings is the Buffett-pure multiple — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner.*
 
 **Historical Valuation Context:**
 
@@ -495,11 +510,15 @@ Buffett: *"Price is what you pay, value is what you get."* The market is pricing
 |---|---|
 | CMP | ₹570 |
 | TTM EPS (Normalised) | ₹51.50 (peak); ₹21.4 (mid-cycle 17% OPM) |
+| **Owner Earnings Per Share (OEPS)** | **₹60.84** (FY25 OE ₹393 Cr / 6.46 Cr diluted shares) |
 | Current PE (on peak EPS) | 11.1x |
 | Current PE (on normalised EPS) | 26.7x |
+| **Current P/OE (on OEPS)** | **9.4x** (Buffett-pure valuation multiple) |
 | Shares Outstanding (Diluted) | 6.46 Cr |
 | Historical 5Y EPS CAGR | 49.4% (from trough; misleading) |
 | Historical 10Y EPS CAGR | 13.2% |
+| Historical 5Y OE CAGR | 30.2% (from trough; misleading) |
+| Historical 10Y OE CAGR | 10.0% |
 
 ### Step 2-3: Implied EPS CAGR Needed (Using Peak TTM EPS of ₹51.50)
 
@@ -524,15 +543,52 @@ Buffett: *"Price is what you pay, value is what you get."* The market is pricing
 | 5 Years | -8.6% | -4.5% | -0.3% |
 | 10 Years | 0.2% | 4.8% | 9.4% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading for capital-intensive businesses: it deducts accounting depreciation, but if actual maintenance spending exceeds depreciation (as it often does), EPS overstates real earnings. Owner Earnings strips this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense. In truth, depreciation is a particularly unattractive expense because the cash outlay it represents has already been made."* The same insight applies to EPS vs. Owner Earnings.
+
+**Implied OEPS CAGR at Terminal P/OE = 16x (Market Average)**
+
+| Holding Period | 10% Hurdle | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | -1.2% | 3.3% | 7.8% |
+| 10 Years | 4.3% | 9.0% | 13.7% |
+| 15 Years | 6.1% | 11.0% | 15.8% |
+
+*Note: Terminal P/OE of 16x is lower than the 20x terminal PE because Owner Earnings > Net Income for this business (D&A exceeds maintenance capex), making P/OE < PE. For asset-light businesses, P/OE ≈ PE; for capital-heavy businesses, P/OE < PE.*
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal Market Avg PE/P(OE) | 10-Year, 10% Hurdle |
+|---|---|---|
+| Implied EPS CAGR (from Step 3, PE=20x) | 3.7% | |
+| Implied OEPS CAGR (from Step 3B, P/OE=16x) | 4.3% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **0.6 pp** | |
+
+**Interpretation: Gap ≤ 2 pp → Asset-light-equivalent on this metric.** For AGI Greenpac, the EPS and OEPS implied growth rates are very close (0.6pp gap). This is because D&A (₹177 Cr) exceeds estimated maintenance capex (₹106 Cr), so Owner Earnings (₹393 Cr) is actually *higher* than Net Income (₹322 Cr). The standard EPS-based Reverse DCF is reliable for this business — it is not misleadingly understating the true growth hurdle. Both EPS and OEPS tell the same story.
+
 ### Step 4: Reality Check
 
 On **peak EPS of ₹51.50**, the implied growth rates are very manageable. Even at a conservative 15x terminal PE, you only need 3.5% EPS CAGR over 5 years to earn a 10% return. This is well below India's nominal GDP growth.
 
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (OE ≈ EPS here) | Floor for a decent business |
+| Company's own historical 5Y EPS CAGR | 49.4% | 30.2% | Trough-to-peak; misleading |
+| Company's own historical 10Y EPS CAGR | 13.2% | 10.0% | Longer-term track record |
+| Company's own historical OE CAGR | — | 10.0% (10Y) | Buffett-pure benchmark |
+
+**Traffic Light (on peak EPS): 🟢 GREEN — Reasonable price.** The market is not demanding heroic assumptions at 11x peak PE.
+
 However, the more important question is: **what if current EPS is NOT sustainable?** If EPS normalises to ₹21 (mid-cycle scenario), the current price of ₹570 implies a PE of 27x on normalised earnings — and to earn 10% over 10 years at 15x terminal PE, you would need EPS to grow from ₹21 to ₹99 — a 16.7% CAGR from already-normalised levels. That is demanding.
+
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. In this case, both give the same verdict (gap only 0.6pp). The EPS-based assessment is NOT misleadingly optimistic — the business's capital intensity is fully captured by both metrics. Defer to either with confidence.
 
 ### Step 5: Verdict
 
-**On peak earnings: 🟢 GREEN — Reasonable price.** The market is not demanding heroic assumptions at 11x peak PE.
+> *"At the current price of ₹570, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 3.7% CAGR (and Owner Earnings at 4.3% CAGR). The company has historically grown EPS at 13.2% CAGR and Owner Earnings at 10.0% CAGR over 10 years. This implies the market is pricing in reasonable growth on peak earnings. Note: the EPS-based and Owner Earnings-based assessments converge (0.6pp gap), indicating this business is not one where EBIT/OE analysis reveals hidden capital intensity — the standard EPS analysis is reliable."*
+
+**On peak earnings: 🟢 GREEN — Reasonable price.**
 
 **On normalised earnings: 🟠 ORANGE — Expensive.** At 27x normalised PE, the stock is priced for sustained peak-level profitability. If margins compress, the stock has material downside.
 
@@ -692,7 +748,7 @@ Buffett would likely say: *"It's far better to buy a wonderful company at a fair
 | **Aluminum Can Diversification Failure** | MEDIUM | MEDIUM-HIGH | New business with zero track record. Competing against CANPACK and Ball Corp. Market may be oversupplied by FY28 when AGI's facility commissions. |
 | **Input Cost Spike (Soda Ash / Gas)** | MEDIUM | MEDIUM | Anti-dumping duties on soda ash imports could raise costs. Natural gas price volatility. Formula pricing partially mitigates with lag. |
 | **Alco-Bev Regulatory Risk** | MEDIUM | LOW | 76% revenue tied to alcohol packaging. Excise duty hikes, prohibition in key states could reduce demand. |
-| **Re-Leveraging Risk** | MEDIUM | HIGH | Net debt guided to peak at ₹1,000-1,200 Cr during capex phase. If margins compress simultaneously, debt/EBITDA could hit 2.3-2.8x at 17% OPM. |
+| **Re-Leveraging Risk** | MEDIUM | HIGH | Net debt guided to peak at ₹1,000-1,200 Cr during capex phase. If margins compress simultaneously, net debt/EBIT could hit 4.0-4.7x at 17% OPM. |
 | **Management Distraction** | LOW | MEDIUM | Peripheral investments (AI platform, retail business) divert focus from core ₹1,800+ Cr capex execution. |
 | **Working Capital Deterioration** | MEDIUM | MEDIUM-HIGH | Current working capital efficiency (57 debtor days, CCC 79 days — FY25) is at cyclically favourable levels. Will likely deteriorate as competition returns, consuming cash during capex phase. |
 
