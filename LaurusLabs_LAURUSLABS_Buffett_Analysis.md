@@ -38,8 +38,11 @@ Buffett: *"I want to be in businesses so good that even a fool can make money. I
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 1,160 | 1,327 | 1,778 | 1,905 | 2,056 | 2,292 | 2,832 | **4,814** | 4,936 | 6,041 | **5,041** | 5,554 | 6,722 |
 | Revenue Growth YoY | — | 14.4% | 34.0% | 7.1% | 7.9% | 11.5% | 23.6% | **70.0%** | 2.5% | 22.4% | **-16.6%** | 10.2% | 27% |
-| Operating Profit (EBITDA) | 208 | 200 | 362 | 408 | 414 | **357** | 565 | **1,552** | 1,424 | 1,592 | **779** | 1,055 | 1,686 |
-| OPM % | 17.9% | **15.1%** | 20.4% | 21.4% | 20.1% | **15.6%** | 20.0% | **32.2%** | 28.8% | 26.4% | **15.5%** | 19.0% | 25.1% |
+| Operating Profit (pre-D&A) | 208 | 200 | 362 | 408 | 414 | **357** | 565 | **1,552** | 1,424 | 1,592 | **779** | 1,055 | 1,686 |
+| OPM % (pre-D&A) | 17.9% | **15.1%** | 20.4% | 21.4% | 20.1% | **15.6%** | 20.0% | **32.2%** | 28.8% | 26.4% | **15.5%** | 19.0% | 25.1% |
+| Depreciation & Amortisation | 33 | 62 | 86 | 106 | 125 | 164 | 187 | 205 | 251 | 324 | 385 | 430 | 468 |
+| **EBIT** | **175** | **138** | **276** | **302** | **289** | **193** | **378** | **1,347** | **1,173** | **1,268** | **394** | **625** | **1,218** |
+| **EBIT Margin** | **15.1%** | **10.4%** | **15.5%** | **15.9%** | **14.1%** | **8.4%** | **13.3%** | **28.0%** | **23.8%** | **21.0%** | **7.8%** | **11.3%** | **18.1%** |
 | Net Profit | 97 | 68 | 134 | 190 | 168 | **94** | 255 | **984** | 832 | 793 | **162** | 358 | 841 |
 | Net Profit Growth | — | -29.9% | 97.1% | 41.8% | -11.6% | **-44.0%** | **171.3%** | **285.9%** | -15.4% | -4.7% | **-79.6%** | 121.0% | 321% |
 | NPM % | 8.4% | 5.1% | 7.5% | 10.0% | 8.2% | **4.1%** | 9.0% | **20.4%** | 16.9% | 13.1% | **3.2%** | 6.4% | 12.5% |
@@ -50,13 +53,15 @@ Buffett: *"I want to be in businesses so good that even a fool can make money. I
 
 *\*FY17 EPS drop is due to share base expansion from IPO/bonus — not earnings decline. FY17 NP actually grew 42%. Pre-FY17 EPS is on a much smaller share base and not directly comparable.*
 
+> **Screener Data Note & Why EBITDA Is Not Used:** Screener.in's "Operating Profit" is EBITDA-equivalent (pre-D&A). This analysis deliberately tracks **EBIT** (Operating Profit minus D&A) as the true operating profit metric, per Buffett and Munger's philosophy. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* EBIT tells you what the business earns AFTER maintaining its asset base. For a capital-intensive manufacturer like Laurus (D&A of ₹430 Cr in FY25 — 7.7% of revenue), the difference is material: OPM (pre-D&A) of 19.0% vs. EBIT Margin of 11.3%. The gap reveals the true capital consumption cost that EBITDA hides.
+
 **Trend Narrative:**
 
-Laurus Labs has demonstrated **highly cyclical profitability** driven by the ARV business cycle and CDMO order lumpiness. The FY20-FY23 period was a golden era — COVID-19 massively boosted ARV demand (global health procurement), and CDMO orders accelerated. Revenue more than doubled (2.1x) from ₹2,832 Cr (FY20) to ₹6,041 Cr (FY23), with OPM expanding to 26-32% during FY21-FY23 (from 20% in FY20).
+Laurus Labs has demonstrated **highly cyclical profitability** driven by the ARV business cycle and CDMO order lumpiness. The FY20-FY23 period was a golden era — COVID-19 massively boosted ARV demand (global health procurement), and CDMO orders accelerated. Revenue more than doubled (2.1x) from ₹2,832 Cr (FY20) to ₹6,041 Cr (FY23), with OPM (pre-D&A) expanding to 26-32% during FY21-FY23 (from 20% in FY20).
 
-**FY24 was the trough** — ARV demand normalised, CDMO orders were lumpy, and OPM collapsed to 15.5%. Net profit fell 80% to ₹162 Cr.
+**FY24 was the trough** — ARV demand normalised, CDMO orders were lumpy, and OPM collapsed to 15.5% (EBIT Margin to just 7.8%). Net profit fell 80% to ₹162 Cr.
 
-**FY25 marked the recovery inflection** — revenue grew 10%, OPM recovered to 19%, and net profit more than doubled. The TTM trajectory (₹6,722 Cr revenue, 25% OPM, ₹841 Cr profit) shows the recovery is accelerating strongly, driven by CDMO ramp-up and improved ARV volumes.
+**FY25 marked the recovery inflection** — revenue grew 10%, OPM recovered to 19% (EBIT Margin to 11.3%), and net profit more than doubled. The TTM trajectory (₹6,722 Cr revenue, 25% OPM / 18.1% EBIT Margin, ₹841 Cr profit) shows the recovery is accelerating strongly, driven by CDMO ramp-up and improved ARV volumes.
 
 Buffett would note the **cyclicality as a concern** — this is not the steady, predictable earnings growth he prefers. However, the structural shift toward CDMO (higher margins, stickier revenue) could reduce future cyclicality.
 
@@ -72,8 +77,12 @@ Buffett would note the **cyclicality as a concern** — this is not the steady, 
 | Shareholders' Equity | 296 | 656 | 790 | 1,331 | 1,483 | 1,558 | 1,770 | 2,597 | 3,351 | 4,038 | 4,111 | 4,473 | 4,805 |
 | Total Borrowings | 605 | 888 | 1,094 | 842 | 980 | 1,036 | 1,079 | 1,482 | 1,777 | 2,015 | 2,577 | 2,764 | 2,212 |
 | Debt/Equity | **2.04** | 1.35 | 1.38 | 0.63 | 0.66 | 0.66 | 0.61 | 0.57 | **0.53** | 0.50 | 0.63 | 0.62 | 0.46 |
+| Debt/EBIT | 3.5 | **6.4** | 4.0 | 2.8 | 3.4 | 5.4 | 2.9 | **1.1** | 1.5 | 1.6 | **6.5** | 4.4 | 2.1 |
+| Interest Coverage (EBIT/Int) | 2.7 | **1.3** | 2.5 | 3.0 | 3.6 | 2.2 | 4.2 | **19.8** | 11.5 | 7.7 | **2.2** | 2.9 | — |
 | Fixed Assets + CWIP | 615 | 911 | 1,091 | 1,373 | 1,644 | 1,739 | 1,793 | 2,533 | 3,465 | 3,960 | 4,313 | 4,581 | 4,783 |
 | BVPS (₹) | 39.5 | 82.0 | 98.8 | 25.1 | 28.0 | 29.4 | 33.1 | 48.5 | 62.6 | 74.8 | 76.1 | 82.8 | 89.0 |
+
+> **Why Debt/EBIT instead of Debt/EBITDA:** Debt/EBITDA flatters capital-intensive businesses. Laurus's FY25 Debt/EBITDA is 2.6x (looks comfortable), but Debt/EBIT is 4.4x (reveals the true debt burden after maintaining the asset base). The EBIT-based metric is what matters for assessing whether the debt can actually be repaid from real economic earnings. Debt/Owner Earnings (FY25: 6.2x, TTM: 2.9x) goes further by using the Buffett metric for genuine cash earning power.
 
 **Assessment:**
 
@@ -121,7 +130,8 @@ Buffett: *"We love to own businesses that can earn high returns on incremental c
 | ROE % | 32.8 | 14.3 | 18.5 | 17.9 | 11.9 | **6.2** | 15.3 | **45.1** | 28.0 | 21.5 | **4.0** | 8.3 |
 | ROIC % | — | 16.7 | 16.7 | 16.3 | 12.7 | **11.0** | 18.1 | **34.1** | 23.8 | 20.5 | **8.7** | 11.1 |
 | Debt/Equity | **2.04** | 1.35 | 1.38 | 0.63 | 0.66 | 0.66 | 0.61 | 0.57 | **0.53** | **0.50** | 0.63 | 0.62 |
-| OPM % | 17.9 | **15.1** | 20.4 | 21.4 | 20.1 | **15.6** | 20.0 | **32.2** | 28.8 | 26.4 | **15.5** | 19.0 |
+| OPM % (pre-D&A, Screener) | 17.9 | **15.1** | 20.4 | 21.4 | 20.1 | **15.6** | 20.0 | **32.2** | 28.8 | 26.4 | **15.5** | 19.0 |
+| **EBIT Margin %** | 15.1 | **10.4** | 15.5 | 15.9 | 14.1 | **8.4** | 13.3 | **28.0** | 23.8 | 21.0 | **7.8** | 11.3 |
 | NPM % | 8.4 | 5.1 | 7.5 | 10.0 | 8.2 | **4.1** | 9.0 | **20.4** | 16.9 | 13.1 | **3.2** | 6.4 |
 | Debtor Days | **61** | 78 | 91 | 109 | 101 | 113 | 102 | 99 | 100 | 96 | 120 | **132** |
 | Inventory Days | **165** | 210 | 176 | 186 | 201 | 201 | 234 | 266 | **293** | 222 | 277 | **285** |
@@ -141,12 +151,14 @@ Buffett: *"We love to own businesses that can earn high returns on incremental c
 | Positive Free Cash Flow | Positive | Persistently near-zero or negative | ❌ Major failure point |
 | Promoter/Insider holding | Aligned | 27.5% (Dr. Satyanarayana Chava — founder-CEO) | ⚠️ Meaningful but below 30% |
 | Dividend payout | Paying | ~17% avg (5Y, FY21-FY25) | ✅ Pays regularly, modest |
-| OPM stability | Stable | 15%-32% range — highly volatile | ❌ Not stable |
+| EBIT Margin stability | Stable | 7.8%-28.0% range — highly volatile | ❌ Not stable |
 | Moat / Pricing Power | Identifiable | Regulatory approvals, scale in ARV, CDMO switching costs | ✅ Identifiable moat |
 | ROIC > 15% | >15% | 17.2% (10Y avg), but 8.7% in FY24 | ⚠️ Cyclically below threshold |
 | Earnings Yield | Reasonable | 1.4% (TTM EPS / CMP) | ❌ Very low — stock is expensive |
 
-**Narrative:** The ratios reveal a business with **genuine competitive advantages** (consistently high long-term ROCE of 17.0%, dominant market position in ARVs, growing CDMO moat) but **unacceptable cyclicality and capital intensity.** The OPM swing from 32% to 15.5% and back shows this is NOT the predictable compounder Buffett loves. The persistently negative FCF and expanding working capital cycle are the two biggest red flags. The 10Y average ROE of 17.4% masks enormous volatility — from 45% at peak to 4% at trough. Buffett wants "consistent 15%+ ROE through cycles," not "45% in good times and 4% in bad."
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
+**Narrative:** The ratios reveal a business with **genuine competitive advantages** (consistently high long-term ROCE of 17.0%, dominant market position in ARVs, growing CDMO moat) but **unacceptable cyclicality and capital intensity.** The OPM (pre-D&A) swing from 32% to 15.5% and back shows this is NOT the predictable compounder Buffett loves. The persistently negative FCF and expanding working capital cycle are the two biggest red flags. The 10Y average ROE of 17.4% masks enormous volatility — from 45% at peak to 4% at trough. Buffett wants "consistent 15%+ ROE through cycles," not "45% in good times and 4% in bad."
 
 ---
 
@@ -158,8 +170,11 @@ Buffett: *"We love to own businesses that can earn high returns on incremental c
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | **1,545** | 1,381 | **1,182** | 1,224 | 1,195 | 1,440 | 1,195 | 1,224 | 1,415 | 1,720 | 1,570 | 1,653 | **1,778** |
 | YoY Growth | — | — | — | — | -22.7% | 4.3% | 1.1% | 0.0% | 18.4% | 19.4% | **31.4%** | **35.0%** | **25.7%** |
-| Op. Profit | **404** | 286 | **167** | 188 | 181 | 241 | **171** | 178 | 285 | 421 | 382 | 403 | **480** |
-| OPM % | **26%** | 21% | **14%** | 15% | 15% | 17% | **14%** | 15% | 20% | 24% | 24% | 24% | **27%** |
+| Op. Profit (pre-D&A) | **404** | 286 | **167** | 188 | 181 | 241 | **171** | 178 | 285 | 421 | 382 | 403 | **480** |
+| OPM % (pre-D&A) | **26%** | 21% | **14%** | 15% | 15% | 17% | **14%** | 15% | 20% | 24% | 24% | 24% | **27%** |
+| Depreciation | 84 | 87 | 91 | 93 | 98 | 102 | 106 | 108 | 106 | 110 | 117 | 120 | 121 |
+| **EBIT** | **320** | 199 | **76** | **95** | **83** | 139 | **65** | **70** | 179 | **311** | 265 | 283 | **359** |
+| **EBIT Margin %** | **20.7%** | 14.4% | **6.4%** | **7.8%** | **6.9%** | 9.7% | **5.4%** | **5.7%** | 12.7% | **18.1%** | 16.9% | 17.1% | **20.2%** |
 | Net Profit | **203** | 105 | 27 | 37 | 23 | 75 | **13** | **20** | 93 | **233** | 162 | 194 | **252** |
 | EPS (₹) | **3.77** | 1.91 | 0.46 | 0.69 | 0.43 | 1.40 | **0.23** | **0.37** | 1.71 | **4.33** | 3.02 | 3.61 | **4.66** |
 
@@ -167,11 +182,11 @@ Buffett: *"We love to own businesses that can earn high returns on incremental c
 
 **1. Revenue Trajectory — ACCELERATING:** After a painful trough (Jun23-Sep24 where quarterly revenue largely stagnated in the ₹1,182-1,440 Cr range, with most quarters at ₹1,182-1,224 except a Mar24 seasonal uptick to ₹1,440), the business has inflected sharply upward. The last five quarters show a strong recovery: ₹1,415 → ₹1,720 → ₹1,570 → ₹1,653 → ₹1,778 Cr. While not monotonically rising (Q1 FY26 dipped QoQ from Q4 FY25), the YoY growth rates have been strongly positive and accelerating (18-35% YoY). Q3 FY26 (Dec25) was the highest-ever quarterly revenue.
 
-**2. Margin Trend — EXPANDING:** OPM has recovered dramatically from the 14-15% trough (Jun23-Sep24) to 24-27% in the latest four quarters. Q3 FY26's 27% OPM is the highest since FY21-22's peak period. This reflects improved product mix (more CDMO revenue), better capacity utilisation, and ARV volume recovery.
+**2. Margin Trend — EXPANDING:** OPM (pre-D&A) has recovered dramatically from the 14-15% trough (Jun23-Sep24) to 24-27% in the latest four quarters. Q3 FY26's 27% OPM is the highest since FY21-22's peak period. **Critically, EBIT Margin tells the same story but at structurally lower levels:** EBIT Margin recovered from 5.4-7.8% (Jun24-Sep24 trough) to 17-20% (latest four quarters). The persistent 7-8 pp gap between OPM and EBIT Margin reflects Laurus's rising D&A from heavy capex — quarterly D&A has grown from ₹84 Cr (Dec22) to ₹121 Cr (Dec25), a 44% increase. This means capital consumption is eating a growing share of operating profit. OPM alone would mask this trend — tracking EBIT Margin reveals the true after-capital-charge profitability.
 
 **3. Normalised Quarterly EPS Run-Rate:** The last four quarters: ₹4.33, ₹3.02, ₹3.61, ₹4.66 = TTM EPS of ₹15.62. Stripping out the ₹59 Cr "other income" in Mar25 (one-off), normalised Mar25 EPS would be ~₹3.5. So normalised TTM EPS is approximately ₹14.8-15.6. The annualised Q3 FY26 run-rate is ₹4.66 × 4 = ₹18.64 — suggesting significant earnings upside if the current trajectory sustains.
 
-**4. Red Flags / Positive Surprises:** The Q3 FY26 result was a major positive surprise — 27% OPM, ₹252 Cr net profit, and ~26% YoY revenue growth. The CDMO segment grew 50%+ in 9M FY26. The negative surprise was the Mar25 quarter's ₹59 Cr other income (non-recurring) that inflated the headline.
+**4. Red Flags / Positive Surprises:** The Q3 FY26 result was a major positive surprise — 27% OPM (pre-D&A), 20.2% EBIT Margin, ₹252 Cr net profit, and ~26% YoY revenue growth. The CDMO segment grew 50%+ in 9M FY26. The negative surprise was the Mar25 quarter's ₹59 Cr other income (non-recurring) that inflated the headline.
 
 **Verdict: ACCELERATING.** The quarterly data shows a business that has decisively turned the corner. Growth is picking up, margins are expanding, and earnings momentum is strong. The recent five quarters (Dec24 onwards) represent a step-change improvement from the FY24 trough. This is the most bullish part of the Laurus Labs story.
 
@@ -287,23 +302,25 @@ Buffett: *"The best business to own is one that over an extended period can empl
 
 ### Part A: Profit Scalability — Incremental Operating Margins
 
-| Period | Δ Revenue (₹ Cr) | Δ Op. Profit (₹ Cr) | Incremental Margin | Current OPM |
+| Period | Δ Revenue (₹ Cr) | Δ EBIT (₹ Cr) | Incremental EBIT Margin | Current EBIT Margin |
 |---|---|---|---|---|
-| FY14→FY15 | +167 | -8 | **-4.8%** | 15.1% |
-| FY15→FY16 | +451 | +162 | **35.9%** | 20.4% |
-| FY16→FY17 | +127 | +46 | 36.2% | 21.4% |
-| FY17→FY18 | +151 | +6 | 4.0% | 20.1% |
-| FY18→FY19 | +236 | -57 | **-24.2%** | 15.6% |
-| FY19→FY20 | +540 | +208 | **38.5%** | 20.0% |
-| **FY20→FY21** | **+1,982** | **+987** | **49.8%** | **32.2%** |
-| FY21→FY22 | +122 | -128 | -104.9% | 28.8% |
-| FY22→FY23 | +1,105 | +168 | 15.2% | 26.4% |
-| FY23→FY24 | -1,000 | -813 | 81.3%* | 15.5% |
-| **FY24→FY25** | **+513** | **+276** | **53.8%** | **19.0%** |
+| FY14→FY15 | +167 | -37 | **-22.2%** | 10.4% |
+| FY15→FY16 | +451 | +138 | **30.6%** | 15.5% |
+| FY16→FY17 | +127 | +26 | 20.5% | 15.9% |
+| FY17→FY18 | +151 | -13 | **-8.6%** | 14.1% |
+| FY18→FY19 | +236 | -96 | **-40.7%** | 8.4% |
+| FY19→FY20 | +540 | +185 | **34.3%** | 13.3% |
+| **FY20→FY21** | **+1,982** | **+969** | **48.9%** | **28.0%** |
+| FY21→FY22 | +122 | -174 | -142.6% | 23.8% |
+| FY22→FY23 | +1,105 | +95 | 8.6% | 21.0% |
+| FY23→FY24 | -1,000 | -874 | 87.4%* | 7.8% |
+| **FY24→FY25** | **+513** | **+231** | **45.0%** | **11.3%** |
 
-*\*FY23→FY24: Revenue fell but op profit fell faster — 81.3% incremental margin on the decline (negative operating leverage)*
+*\*FY23→FY24: Revenue fell but EBIT fell faster — 87.4% incremental margin on the decline (negative operating leverage)*
 
-**Assessment:** When revenue grows, Laurus shows strong operating leverage — incremental margins of 35-54% in growth years, well above the current OPM. This means each new rupee of revenue is significantly more profitable than the average. However, the reverse is also true: when revenue declines, profits fall disproportionately (negative operating leverage). This is the classic high-fixed-cost manufacturing pattern.
+*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on Screener's Operating Profit (pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. Note the incremental EBIT margins are slightly lower than OPM-based incremental margins, reflecting D&A rising faster than revenue in capex-heavy years.*
+
+**Assessment:** When revenue grows, Laurus shows strong operating leverage — incremental EBIT margins of 34-49% in growth years, well above the current EBIT Margin of 11.3%. This means each new rupee of revenue is significantly more profitable than the average after accounting for capital consumption. However, the reverse is also true: when revenue declines, EBIT falls disproportionately (negative operating leverage). This is the classic high-fixed-cost manufacturing pattern.
 
 ### Part B: Scaling Runway
 
@@ -316,7 +333,7 @@ Buffett: *"The best business to own is one that over an extended period can empl
 | Dimension | Score (1-10) | Evidence |
 |---|---|---|
 | Revenue scalability | 6 | Growing but requires heavy capex; not asset-light |
-| Profit scalability | 7 | Strong operating leverage when revenue grows (35-54% incremental margins) |
+| Profit scalability | 7 | Strong operating leverage when revenue grows (34-49% incremental EBIT margins) |
 | Capital scalability | 4 | Capital-intensive; ₹1,000 Cr+ annual capex; D/E at 0.6x |
 | Scaling runway | 8 | Massive global CDMO TAM; China+1 tailwind; small penetration |
 | S-Curve position | 7 | CDMO at inflection; API mature |
@@ -358,17 +375,17 @@ Buffett: *"Look for three things in a person: intelligence, energy, and integrit
 | **FDF Revenue (₹ Cr)** | — | — | — | — | — | Growing (KRKA JV) |
 | **Bio Revenue (₹ Cr)** | — | — | — | — | ~130 | Nascent |
 | ARV Run-Rate (Revised Guidance) | — | — | — | — | ₹2,600 ±200 Cr | ↑ Upgraded |
-| EBITDA Margin | 28.8% | 26.4% | 15.5% | 19.0% | 26.1% | ↑ Recovering strongly |
+| OPM (pre-D&A) | 28.8% | 26.4% | 15.5% | 19.0% | 26.1% | ↑ Recovering strongly |
 | Gross Margin (Q3 FY26) | — | — | — | — | ~60.9% | Strong |
 | ROCE | 26% | 23% | 7% | 9% | 18.5% (Q3) | ↑ Improving rapidly |
 | Asset Turnover | 0.78 | 0.83 | 0.63 | 0.63 | ~0.91 (target) | ↑ Improving |
 | Borrowings (₹ Cr)* | 1,777 | 2,015 | 2,577 | 2,764 | 2,092† | ↓ Deleveraging |
-| Debt/EBITDA† | 1.25 | 1.27 | 3.31 | 2.62 | ~1.2 | ↓ Improving |
+| Debt/EBIT† | 1.5 | 1.6 | 6.5 | 4.4 | ~1.7 | ↓ Improving |
 | R&D Spend (est. ₹ Cr) | — | — | — | ~250 | ~250/yr | Investing |
 | Manufacturing Facilities | 11+ | 11+ | 11+ | 11+ | 11+ | Expanding |
 | Regulatory Approvals | USFDA, WHO, EMA, MHRA, PDMA, TGA | — | — | — | — | Intact |
 
-*\*FY22-FY25 figures are total borrowings (gross debt); cash balances not deducted. †Sep 25 figure of ₹2,092 Cr is net debt per management (Q3 FY26 concall). The Debt/EBITDA ratio for FY22-FY25 uses gross borrowings as the numerator, while the 9M FY26 figure (~1.2x) uses net debt — part of the apparent improvement from 2.62x to ~1.2x reflects this methodology change, not purely operational deleveraging.*
+*\*FY22-FY25 figures are total borrowings (gross debt); cash balances not deducted. †Sep 25 figure of ₹2,092 Cr is net debt per management (Q3 FY26 concall). The Debt/EBIT ratio for FY22-FY25 uses gross borrowings as the numerator, while the 9M FY26 figure (~1.7x) uses net debt — part of the apparent improvement reflects this methodology change, not purely operational deleveraging.*
 
 **Operational fundamentals are improving rapidly beneath the financial surface.** ROCE at 18.5% (Q3 FY26) is the highest since the FY24 trough and approaching the FY23 annual figure of 23% — a significant recovery from 7% (FY24). Gross margins at 61% are excellent. Net debt is declining. Asset turnover is recovering. Management targets asset turnover of 1.1x and ROCE of 25% — if achieved, this would transform the financial profile.
 
@@ -378,20 +395,24 @@ Buffett: *"Look for three things in a person: intelligence, energy, and integrit
 
 | Metric | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current |
 |---|---|---|---|---|---|---|---|---|---|---|
+| **P/Owner Earnings** (primary) | — | — | — | — | — | — | — | — | — | **63.0x** |
+| **Owner Earnings Yield** | — | — | — | — | — | — | — | — | — | **1.59%** |
 | EPS (₹) | 3.60 | 3.16 | 1.76 | 4.77 | 18.33 | 15.40 | 14.67 | 2.98 | 6.64 | 15.62 (TTM) |
 | PE Ratio* | ~50x | ~50x | ~180x | ~40x | ~25x | ~35x | ~25x | ~130x | ~80x | **71.6x** |
 | BVPS (₹) | 25.1 | 28.0 | 29.4 | 33.1 | 48.5 | 62.6 | 74.8 | 76.1 | 82.8 | 89.0 |
 | P/B | — | — | — | — | — | — | — | — | — | **13.5x** |
-| EV/EBITDA | — | — | — | — | — | — | — | — | — | **37.4x** |
+| EV/EBIT | — | — | — | — | — | — | — | — | — | **51.8x** |
 | P/S | — | — | — | — | — | — | — | — | — | **9.0x** |
 | Earnings Yield | — | — | — | — | — | — | — | — | — | **1.4%** |
 | FCF Yield | — | — | — | — | — | — | — | — | — | **~-0.1%** |
 
 *\*PE ratios are approximate based on year-end prices, which varied significantly*
 
+> **Why P/Owner Earnings is the primary Buffett-pure multiple:** PE uses reported net income, which can be inflated by under-maintaining the asset base. P/Owner Earnings uses Net Income + D&A − Maintenance CapEx — the cash the owner can actually extract. For Laurus, TTM Owner Earnings of ₹959 Cr yield OEPS of ₹17.8/share, giving P/OE of 63.0x — slightly lower than the 71.6x PE because Owner Earnings > Net Income (D&A exceeds maintenance capex). **Why EV/EBIT instead of EV/EBITDA:** EV/EBIT (51.8x) accounts for the capital the business consumes. EV/EBITDA (37.4x) would make Laurus look 28% cheaper than it actually is by pretending ₹468 Cr of annual depreciation doesn't exist. EV/EBIT is included as a secondary cross-check for institutional comparability, not as a Buffett-pure metric.
+
 **Historical Comparison:** Laurus Labs has NEVER sustainably traded at a PE below 25x — even during the FY24 trough (when EPS collapsed to ₹2.98, making the PE optically very high), the lowest PE on normalised earnings was around 20-25x. The current 71.6x PE is among the highest in the company's history. The P/B of 13.5x is extremely elevated for a capital-intensive manufacturer.
 
-**Is the stock cheap?** Absolutely not. On every metric — PE, P/B, P/S, EV/EBITDA, earnings yield, FCF yield — Laurus Labs is **very expensive.** The earnings yield of 1.4% is barely above a risk-free savings account. The negative FCF yield means shareholders are not receiving any cash at all.
+**Is the stock cheap?** Absolutely not. On every metric — PE, P/OE, P/B, P/S, EV/EBIT, earnings yield, FCF yield — Laurus Labs is **very expensive.** The owner earnings yield of 1.6% and earnings yield of 1.4% are barely above a risk-free savings account. The negative FCF yield means shareholders are not receiving any cash at all.
 
 The market is pricing Laurus as a **high-growth CDMO platform** with a long runway, not as a cyclical API manufacturer. If the CDMO thesis plays out and earnings compound at 20%+ for 5+ years, the current valuation may prove justified in hindsight. If not, this is a very expensive stock vulnerable to significant de-rating.
 
@@ -426,12 +447,14 @@ None of these assumptions are conservative. The stock is priced for near-perfect
 
 ### Inputs
 
-| Input | Value |
-|---|---|
-| CMP | ₹1,118 |
-| Normalised TTM EPS | ₹15.62 |
-| Current PE | 71.6x |
-| Diluted Shares | ~54 Cr |
+| Input | Value | Source |
+|---|---|---|
+| CMP | ₹1,118 | Market data |
+| Normalised TTM EPS | ₹15.62 | Section 6 TTM EPS |
+| **Owner Earnings Per Share (OEPS)** | **₹17.8** | TTM Owner Earnings (₹959 Cr) / 54 Cr diluted shares |
+| Current PE | 71.6x | CMP / TTM EPS |
+| **Current P/OE** | **63.0x** | CMP / OEPS — the Buffett-pure valuation multiple |
+| Diluted Shares | ~54 Cr | Latest data |
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -459,7 +482,7 @@ None of these assumptions are conservative. The stock is priced for near-perfect
 | 10 Years | 20.8% | 26.3% | 31.8% |
 | 15 Years | 17.1% | 22.4% | 27.7% |
 
-**At Terminal PE = 62x (Sustain Current):**
+**At Terminal PE = 62x (Near-Current P/OE):**
 
 | Holding Period | 10% Hurdle | 15% Hurdle | 20% Hurdle |
 |---|---|---|---|
@@ -467,19 +490,45 @@ None of these assumptions are conservative. The stock is priced for near-perfect
 | 10 Years | 11.6% | 16.7% | 21.7% |
 | 15 Years | 11.1% | 16.1% | 21.2% |
 
-### Reality Check
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| Laurus historical 8Y EPS CAGR (FY17-FY25) | **8.0%** |
-| Laurus historical 5Y EPS CAGR (FY20-FY25) | **6.8%** |
-| Revenue CAGR 10Y | 15.4% |
-| TTM EPS annualised run-rate (Q3 FY26: ₹4.66 × 4 = ₹18.64) | Implied FY26E EPS: ~₹16-18 |
+> **Why this matters:** EPS can be misleading — a company can grow EPS by underinvesting in maintenance (boosting short-term earnings while the asset base deteriorates) or by financial engineering. Owner Earnings strips this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense. That's nonsense. In truth, depreciation is a particularly unattractive expense because the cash outlay it represents has already been made."* The same insight applies to EPS vs. Owner Earnings.
+
+**Terminal P/OE = 16x (Market Average for capital-intensive businesses):**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 44.7% OEPS CAGR needed | 51.2% | 57.8% |
+| 10 Years | 26.1% OEPS CAGR needed | 31.9% | 37.6% |
+| 15 Years | 20.5% OEPS CAGR needed | 26.0% | 31.5% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal Market Avg PE (20x) / P/OE (16x) | 10-Year, 10% Hurdle |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 25.0% | |
+| Implied OEPS CAGR (from Step 3B) | 26.1% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **1.2 pp** | |
+
+**Interpretation:** The gap of 1.2 pp is ≤ 2 pp, indicating Laurus is **not dramatically capital-hungry relative to its earnings** — Owner Earnings (₹959 Cr TTM) actually exceed Net Income (₹841 Cr TTM) because D&A (₹468 Cr) exceeds estimated maintenance capex (₹350 Cr). This means the EPS-based Reverse DCF is reliable for Laurus. The standard EPS analysis and OEPS analysis tell the same story: heroic growth is required at current prices.
+
+### Reality Check — Is the Implied Growth Reasonable?
+
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light for Laurus) | Floor for a decent business |
+| Laurus historical 8Y EPS CAGR (FY17-FY25) | **8.0%** | — | What it has actually delivered |
+| Laurus historical 5Y EPS CAGR (FY20-FY25) | **6.8%** | — | Recent track record |
+| Laurus OE CAGR (FY17-FY25, 8Y) | — | **14.6%** | Buffett-pure benchmark |
+| Laurus OE CAGR (FY20-FY25, 5Y) | — | **6.2%** | Recent OE track record |
+| Revenue CAGR 10Y | 15.4% | — | Revenue growth ceiling |
+| TTM EPS annualised run-rate | ~₹16-18 | — | Forward estimate |
+
+> **Apply the Traffic Light to BOTH the EPS and OEPS implied growth.** If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment. In Laurus's case, both verdicts converge (1.2 pp gap) — the EPS-based assessment is reliable.
 
 ### The Verdict — 🔴 CRAZY PRICE
 
-> *At the current price of ₹1,118, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 25.0% CAGR — from ₹15.62 to ~₹145. The company has historically grown EPS at 8.0% CAGR over 8 years. This implies the market is pricing in growth that is MORE THAN 3x the historical track record. Even at a generous 28x exit PE, the required 10-year EPS CAGR is 20.8% — still 2.6x the historical rate.*
+> *At the current price of ₹1,118, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 25.0% CAGR (and Owner Earnings at 26.1% CAGR). The company has historically grown EPS at 8.0% CAGR and Owner Earnings at 14.6% CAGR. This implies the market is pricing in growth that is MORE THAN 3x the historical EPS track record and ~1.8x the OE track record. Even at a generous 28x exit PE, the required 10-year EPS CAGR is 20.8% — still 2.6x the historical rate. Note: the EPS-based and Owner Earnings assessments are closely aligned (1.2 pp gap), confirming that the business is not dramatically capital-hungry and the standard EPS analysis is reliable for Laurus.*
 
 The ONLY way to earn reasonable returns at the current price is if the PE multiple sustains at 60-70x — which requires the market to perpetually treat Laurus as a high-growth story. History shows that no company sustains a 60-70x PE for a decade. The current price is a **RED flag** — the market is demanding heroic, unprecedented growth.
 
@@ -659,14 +708,14 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 
 ## 22. TURNAROUND PROBABILITY
 
-**Not Applicable in the Traditional Sense.** Laurus Labs is not a distressed company — it is a cyclical recovery story. The FY24 trough (7% ROCE, 4% ROE, 15.5% OPM) was NOT caused by fundamental business impairment — it was caused by ARV demand normalisation and CDMO order timing. The recovery is already underway (Q3 FY26: 18.5% ROCE, 27% OPM).
+**Not Applicable in the Traditional Sense.** Laurus Labs is not a distressed company — it is a cyclical recovery story. The FY24 trough (7% ROCE, 4% ROE, 15.5% OPM (pre-D&A) / 7.8% EBIT Margin) was NOT caused by fundamental business impairment — it was caused by ARV demand normalisation and CDMO order timing. The recovery is already underway (Q3 FY26: 18.5% ROCE, 27% OPM (pre-D&A) / 20.2% EBIT Margin).
 
 If we score the recovery factors:
 
 | Factor | Score (1-10) | Evidence |
 |---|---|---|
 | Revenue trajectory | 8 | Q3 FY26 revenue at all-time high; ~26% YoY growth |
-| Margin recovery | 9 | OPM recovered from 14% to 27% in 5 quarters |
+| Margin recovery | 9 | OPM (pre-D&A) recovered from 14% to 27%; EBIT Margin from 5.4% to 20.2% in 6 quarters |
 | Capital efficiency | 7 | ROCE improving to 18.5%; net debt declining |
 | Management execution | 8 | Capex on track; CDMO pipeline building; ARV guidance upgraded |
 | Competitive position | 8 | Strengthening — CDMO capabilities expanding, China+1 tailwind |
