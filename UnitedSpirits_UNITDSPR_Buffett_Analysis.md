@@ -28,18 +28,19 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue (₹ Cr)** | 10,508 | 9,254 | 8,495 | 8,818 | 8,591 | 9,341 | 9,325 | **8,131** | 9,712 | 10,612 | 11,321 | **12,069** | 12,919 |
 | Revenue Growth YoY | — | -11.9% | -8.2% | 3.8% | -2.6% | 8.7% | -0.2% | **-12.8%** | **19.4%** | 9.3% | 6.7% | 6.6% | 9% |
-| **Operating Profit (₹ Cr)** | **-3,368** | -366 | 333 | 991 | 1,209 | 1,394 | 1,571 | 1,051 | 1,595 | 1,417 | 2,000 | **2,236** | 2,355 |
-| Operating Margin (OPM %) | **-32.1%** | -4.0% | 3.9% | 11.2% | 14.1% | 14.9% | 16.8% | 12.9% | 16.4% | 13.4% | 17.7% | **18.5%** | 18.2% |
+| **Operating Profit (pre-D&A) (₹ Cr)** | **-3,368** | -366 | 333 | 991 | 1,209 | 1,394 | 1,571 | 1,051 | 1,595 | 1,417 | 2,000 | **2,236** | 2,355 |
+| OPM % (pre-D&A) | **-32.1%** | -4.0% | 3.9% | 11.2% | 14.1% | 14.9% | 16.8% | 12.9% | 16.4% | 13.4% | 17.7% | **18.5%** | 18.2% |
+| Depreciation & Amortisation (₹ Cr) | 203 | 223 | 157 | 189 | 192 | 215 | 285 | **299** | **304** | 283 | 275 | 283 | 291 |
+| **EBIT (₹ Cr)** | **-3,571** | -589 | 176 | 802 | 1,017 | 1,179 | 1,286 | **752** | 1,291 | 1,134 | 1,725 | **1,953** | 2,064 |
+| **EBIT Margin** | **-34.0%** | -6.4% | 2.1% | 9.1% | 11.8% | 12.6% | 13.8% | **9.2%** | 13.3% | 10.7% | 15.2% | **16.2%** | 16.0% |
 | **Net Income (₹ Cr)** | **-4,489** | -1,687 | 143 | 93 | 652 | 684 | 621 | 362 | 811 | 1,126 | 1,408 | **1,582** | 1,720 |
 | Net Profit Margin | **-42.7%** | -18.2% | 1.7% | 1.1% | 7.6% | 7.3% | 6.7% | 4.5% | 8.4% | 10.6% | 12.4% | **13.1%** | 13.3% |
 | **EPS (₹)** | **-61.78** | -23.23 | 1.90 | 1.38 | 8.72 | 9.64 | 9.07 | 5.28 | 11.40 | 15.63 | 19.36 | **21.75** | 23.65 |
 | Shares Outstanding (Cr) | 72.5 | 72.5 | 72.5 | 72.5 | 72.5 | 72.5 | 72.5 | 72.5 | 72.5 | 72.5 | 72.5 | 72.5 | 72.5 |
 | Shares Change YoY | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | — |
-| EBITDA (₹ Cr) | **-3,368** | -366 | 333 | 991 | 1,209 | 1,394 | 1,571 | 1,051 | 1,595 | 1,417 | 2,000 | **2,236** | 2,355 |
-| EBITDA Margin | **-32.1%** | -4.0% | 3.9% | 11.2% | 14.1% | 14.9% | 16.8% | 12.9% | 16.4% | 13.4% | 17.7% | **18.5%** | 18.2% |
 | Dividend Payout % | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 46% | **55%** | — |
 
-**Note:** EBITDA = Screener's Operating Profit (which already equals EBITDA; Screener's "Expenses" line excludes depreciation). EPS figures are sourced directly from Screener.in's reported diluted EPS, which may differ slightly from a simple Net Income ÷ 72.5 Cr shares calculation. The discrepancy arises because Screener's reported EPS reflects the company's statutory filing (which uses weighted average shares and may adjust for minority interests), while the Net Income line is consolidated profit. Both are sourced from Screener as-reported and are internally consistent within their own usage — EPS is used for all per-share and PE calculations; Net Income is used for all aggregate profitability calculations.
+**Note — Screener Data Convention & Why EBITDA Is Not Tracked:** Screener.in's "Operating Profit" is calculated as Revenue minus all operating expenses BEFORE deducting Depreciation & Amortisation — making it EBITDA-equivalent, not true EBIT. This analysis deliberately does NOT track EBITDA as a standalone metric or use EBITDA-based valuation multiples. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* Instead, **EBIT** (Operating Profit minus D&A) is tracked as the true operating profit after the capital the business consumes. EPS figures are sourced directly from Screener.in's reported diluted EPS, which may differ slightly from Net Income ÷ 72.5 Cr shares due to the company's statutory filing using weighted average shares and minority interest adjustments. Both are sourced from Screener as-reported: EPS is used for all per-share and PE calculations; Net Income for all aggregate profitability calculations.
 
 ### Trend Narrative
 
@@ -68,7 +69,9 @@ Key observations:
 | Book Value Per Share (₹) | 41.82 | **9.09** | 22.54 | 24.62 | 33.37 | 42.62 | 51.42 | 56.81 | 68.32 | 82.74 | 98.22 | **111.78** |
 | BVPS Growth YoY | — | -78.3% | 148.0% | 9.2% | 35.5% | 27.7% | 20.7% | 10.5% | 20.3% | 21.1% | 18.7% | 13.8% |
 | Debt/Equity | **2.74** | 7.57 | 2.60 | 2.32 | 1.41 | 0.93 | 0.69 | 0.25 | 0.12 | 0.03 | 0.04 | **0.06** |
-| Debt/EBITDA | N/M | N/M | 12.7x | 4.2x | 2.8x | 2.1x | 1.6x | 1.0x | 0.4x | **0.1x** | 0.1x | 0.2x |
+| Debt/EBIT | N/M | N/M | 24.1x | 5.2x | 3.4x | 2.4x | 2.0x | 1.4x | 0.5x | **0.2x** | 0.2x | 0.2x |
+| Net Debt/Owner Earnings | N/M | N/M | 23.1x | 21.6x | 4.5x | 3.7x | 3.4x | 1.9x | 0.4x | **(0.1)x** | (0.2)x | **(0.3)x** |
+| Interest Coverage (EBIT/Interest) | N/M | N/M | 0.4x | 2.1x | 3.7x | 5.0x | 6.1x | 4.0x | 14.7x | 10.9x | **22.7x** | 21.9x |
 | Current Ratio (approx) | 2.50 | 2.51 | 2.48 | 2.29 | 2.28 | 2.27 | 2.65 | 1.94 | 2.02 | 2.21 | 2.36 | 2.28 |
 | Goodwill (est. ₹ Cr) | ~3,000 | ~500 | ~500 | ~500 | ~400 | ~400 | ~400 | ~400 | ~400 | ~300 | ~300 | ~300 |
 | Tangible BV/Share (₹) | 0.44 | 2.19 | 15.64 | 17.72 | 27.85 | 37.10 | 45.90 | 51.30 | 62.80 | 78.61 | 94.08 | 107.64 |
@@ -114,13 +117,14 @@ Buffett: *"Earnings can be manipulated, but cash flow tells the truth."* USL's c
 | ROE % | **-148.1%** | -91.4% | 12.5% | 5.4% | 31.0% | 24.8% | 18.2% | 9.2% | 17.9% | 20.6% | **21.5%** | 20.8% |
 | ROIC % | **-27.6%** | -4.2% | 2.3% | 9.6% | 14.8% | 16.0% | 13.6% | 12.3% | 22.3% | 21.2% | **22.4%** | 20.7% |
 | Debt/Equity | **2.74** | 7.57 | 2.60 | 2.32 | 1.41 | 0.93 | 0.69 | 0.25 | 0.12 | 0.03 | 0.04 | **0.06** |
-| OPM % | **-32.1%** | -4.0% | 3.9% | 11.2% | 14.1% | 14.9% | 16.8% | 12.9% | 16.4% | 13.4% | 17.7% | **18.5%** |
+| OPM % (pre-D&A, Screener) | **-32.1%** | -4.0% | 3.9% | 11.2% | 14.1% | 14.9% | 16.8% | 12.9% | 16.4% | 13.4% | 17.7% | **18.5%** |
+| **EBIT Margin %** | **-34.0%** | -6.4% | 2.1% | 9.1% | 11.8% | 12.6% | 13.8% | **9.2%** | 13.3% | 10.7% | 15.2% | **16.2%** |
 | NPM % | **-42.7%** | -18.2% | 1.7% | 1.1% | 7.6% | 7.3% | 6.7% | 4.5% | 8.4% | 10.6% | 12.4% | **13.1%** |
 | Debtor Days | 79 | **69** | 99 | **122** | 115 | 99 | 89 | 98 | 89 | 84 | 99 | 103 |
 | Inventory Days | **123** | 150 | 226 | **263** | 235 | 199 | 254 | 229 | 193 | 186 | 197 | 197 |
 | Cash Conv. Cycle | **108** | 136 | 171 | **205** | 183 | 163 | 165 | 177 | 150 | 122 | 108 | 109 |
 | Working Cap Days | **-148** | -61 | -30 | -22 | -12 | -8 | -8 | 17 | 39 | 51 | 52 | 48 |
-| Interest Coverage | N/M | N/M | 0.7x | 2.6x | 4.3x | 5.9x | 7.4x | 5.6x | 18.1x | 13.6x | **26.3x** | 25.1x |
+| Interest Coverage (EBIT/Interest) | N/M | N/M | 0.4x | 2.1x | 3.7x | 5.0x | 6.1x | 4.0x | 14.7x | 10.9x | **22.7x** | 21.9x |
 | Dividend Payout % | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 46% | **55%** |
 
 ### Part B: Buffett's Quality Checklist
@@ -135,10 +139,12 @@ Buffett: *"Earnings can be manipulated, but cash flow tells the truth."* USL's c
 | Positive Free Cash Flow | Positive | ₹1,597 Cr (FY25) — strong | ✅ |
 | Promoter/Insider holding | Aligned | 56.68% (Diageo PLC) — stable | ✅ |
 | Dividend payout | Paying | 55% in FY25, initiated FY24 | ✅ |
-| OPM stability | Stable | 13-19% range (improving) | ✅ |
+| EBIT Margin stability | Stable | 9-16% range (improving from 2% to 16%) | ✅ |
 | Moat / Pricing Power | Identifiable | Regulatory + brand moat (strong) | ✅ |
 | ROIC > 15% | >15% | 20.7% (FY25) | ✅ |
 | Earnings yield | Reasonable | 1.7% (at 59x PE — very low) | ❌ |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Score: 10 of 12 pass.** The business quality is exceptional — high ROE, high ROCE, nearly debt-free, consistent profit growth, strong FCF, dominant franchise. The only concerns are (a) modest revenue growth (5% CAGR is below many other consumer franchises) and (b) the extremely low earnings yield at 59x PE, which is a valuation problem, not a business quality problem.
 
@@ -151,7 +157,11 @@ Buffett: *"The key to investing is not assessing how much an industry is going t
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales (₹ Cr) | 2,779 | **2,503** | 2,667 | 2,869 | 3,002 | 2,783 | 2,761 | 2,844 | 3,433 | 3,031 | 3,021 | 3,173 | **3,694** |
-| OPM % | 13% | **9%** | **27%** | 16% | 16% | 12% | 26% | 18% | 16% | 15% | 21% | 21% | 16% |
+| Operating Profit (pre-D&A) | 372 | **235** | **712** | 468 | 486 | 334 | 712 | 500 | 565 | 459 | 638 | 659 | 599 |
+| OPM % (pre-D&A) | 13% | **9%** | **27%** | 16% | 16% | 12% | 26% | 18% | 16% | 15% | 21% | 21% | 16% |
+| Depreciation | 65 | 69 | 74 | 66 | 63 | 73 | 72 | 69 | 72 | 70 | 76 | 65 | **80** |
+| **EBIT** | 307 | **166** | **638** | 402 | 423 | 261 | 640 | 431 | 493 | 389 | 562 | **594** | 519 |
+| **EBIT Margin %** | 11.0% | **6.6%** | **23.9%** | 14.0% | 14.1% | 9.4% | 23.2% | 15.2% | 14.4% | 12.8% | 18.6% | **18.7%** | 14.0% |
 | Net Profit (₹ Cr) | 214 | **103** | **477** | 339 | 350 | 241 | **485** | 341 | 335 | 421 | 417 | **464** | 418 |
 | EPS (₹) | 2.95 | **1.41** | **6.56** | 4.66 | 4.81 | 3.31 | **6.67** | 4.69 | 4.61 | 5.79 | 5.73 | **6.38** | 5.75 |
 
@@ -159,7 +169,7 @@ Buffett: *"The key to investing is not assessing how much an industry is going t
 
 1. **Revenue trajectory:** Quarterly revenues show clear seasonality — Q3 (Oct-Dec, festive season) is consistently the strongest quarter. Dec25 at ₹3,694 Cr was the highest quarter ever. YoY growth has been in the 7-14% range in recent quarters, suggesting steady acceleration from the 5-7% annual growth rate.
 
-2. **Margin trend:** OPM shows significant Q1 (Jun quarter) seasonality — Q1 margins are typically elevated (~26-27%) due to the way excise and pricing works in the first quarter of the fiscal year. Excluding Q1, margins have stabilised in the 15-21% range. There is a gentle upward trajectory.
+2. **Margin trend — OPM vs EBIT Margin:** OPM (pre-D&A) shows significant Q1 (Jun quarter) seasonality — Q1 OPM is typically elevated (~26-27%). EBIT Margin follows the same seasonal pattern but at a lower level (18-24% in Q1, 10-19% in other quarters). Importantly, the gap between OPM and EBIT Margin is roughly stable at 3-4 percentage points, indicating D&A is growing in line with revenue — capital intensity is NOT rising. Both OPM and EBIT Margin show a gentle upward trajectory, confirming genuine operating leverage rather than deferred capital consumption. This is the hallmark of an asset-light franchise.
 
 3. **Normalised quarterly EPS run-rate:** Stripping out the seasonally strong Q1 and using the average of recent non-Q1 quarters (Sep25: ₹6.38, Dec25: ₹5.75, Mar25: ₹5.79) gives a normalised quarterly EPS of approximately ₹5.97, which annualises to ₹23.88. This validates the TTM EPS of ₹23.65.
 
@@ -291,17 +301,19 @@ The business is likely to look fundamentally the same in 20 years as it does tod
 
 **Revenue Scalability:** Moderate. USL can grow revenue through (a) volume growth in existing markets (~3-5% organically), (b) premiumisation (shifting mix to higher-priced P&A brands, adding ~3-5% to revenue growth even without volume growth), and (c) geographic expansion into newly opening states (e.g., re-entry into Andhra Pradesh). However, revenue growth is constrained by regulated pricing in most states — the company cannot freely raise prices.
 
-**Profit Scalability:** This is where the magic happens. Operating margins have expanded from 4% to 18.5% over a decade — demonstrating enormous operating leverage. As fixed costs (overheads, distribution infrastructure) get absorbed over a growing revenue base, incremental margins are well above current margins.
+**Profit Scalability:** This is where the magic happens. EBIT margins have expanded from 2% in FY16 to 16.2% in FY25 — demonstrating enormous operating leverage even AFTER accounting for capital consumption (depreciation). As fixed costs get absorbed over a growing revenue base, incremental EBIT margins are well above current margins.
 
-| Year | Revenue | Rev Growth | Operating Profit | OP Growth | Incremental Op. Margin |
-|---|---|---|---|---|---|
-| FY21 | 8,131 | -12.8% | 1,051 | — | N/M (revenue declined) |
-| FY22 | 9,712 | 19.4% | 1,595 | 51.8% | 34.4% |
-| FY23 | 10,612 | 9.3% | 1,417 | -11.2% | -19.8% (one-off) |
-| FY24 | 11,321 | 6.7% | 2,000 | 41.1% | 82.3% |
-| FY25 | 12,069 | 6.6% | 2,236 | 11.8% | 31.5% |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY21 | 8,131 | -12.8% | 752 | -41.5% | 9.2% | N/M (revenue declined) |
+| FY22 | 9,712 | 19.4% | 1,291 | 71.7% | 13.3% | 34.1% |
+| FY23 | 10,612 | 9.3% | 1,134 | -12.2% | 10.7% | -17.4% (one-off) |
+| FY24 | 11,321 | 6.7% | 1,725 | 52.1% | 15.2% | 83.4% |
+| FY25 | 12,069 | 6.6% | 1,953 | 13.2% | 16.2% | 30.5% |
 
-Incremental operating margins in FY24 (82.3%) and FY25 (31.5%) are well above current OPM of 18.5%. This confirms the business is scaling beautifully — each new rupee of revenue is significantly more profitable than the average.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins are HIGHER than current EBIT margins, the business is scaling beautifully. If LOWER, it is hitting scaling friction or becoming more capital-intensive — a pattern that EBITDA-based analysis would entirely miss.*
+
+Incremental EBIT margins in FY24 (83.4%) and FY25 (30.5%) are well above the current EBIT Margin of 16.2%. This confirms the business is scaling genuinely — each new rupee of revenue is significantly more profitable than the average, even after accounting for the capital consumed to maintain the asset base.
 
 **Capital Scalability:** Excellent. CapEx/Revenue is just 2-3%, and declining in real terms. Revenue per unit of CapEx has been rising steadily. Working capital days, while rising from negative to ~48 days, have stabilised. The business generates more cash than it needs to invest.
 
@@ -381,13 +393,16 @@ The number of manufacturing facilities has declined (rationalisation and efficie
 
 | Metric | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current |
 |---|---|---|---|---|---|---|---|---|---|
+| **P/Owner Earnings** (primary Buffett-pure multiple) | — | — | — | — | — | — | — | — | **60.8x** |
+| **Owner Earnings Yield** | — | — | — | — | — | — | — | — | **1.64%** |
 | PE Ratio (approx) | ~69x | ~57x | ~66x | ~110x | ~70x | ~48x | ~62x | ~64x | **58.7x** |
 | P/B Ratio (approx) | ~18x | ~13x | ~12x | ~10x | ~12x | ~9x | ~12x | ~13x | **12.4x** |
 | P/Sales | ~5.1x | ~4.3x | ~4.7x | ~5.2x | ~6.0x | ~5.1x | ~7.7x | ~8.4x | **7.8x** |
-| EV/EBITDA | ~40x | ~30x | ~28x | ~43x | ~35x | ~37x | ~38x | ~39x | **44.8x** (FY25) |
+| EV/EBIT | ~46x | ~36x | ~36x | ~57x | ~45x | ~48x | ~50x | ~52x | **49x** (TTM) |
 | Earnings Yield | 1.5% | 1.8% | 1.5% | 0.9% | 1.4% | 2.1% | 1.6% | 1.6% | **1.7%** |
 | FCF Yield | — | — | — | — | — | — | — | — | **1.6%** |
-| P/Owner Earnings | — | — | — | — | — | — | — | — | **60.8x** |
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT accounts for the capital the business consumes before you get your return. **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash. For USL, on a same-period FY25 basis, P/OE (60.8x) is correctly lower than PE (63.7x) — the ~5% gap confirms that this is an asset-light business where D&A roughly equals maintenance capex, and reported earnings closely approximate true economic earnings. (The "Current" PE of 58.7x uses TTM EPS; the FY25-basis comparison is the apples-to-apples test.)
 
 ### Historical Comparison
 
@@ -429,7 +444,9 @@ This is the fundamental challenge with USL: **wonderful business, terrible price
 |---|---|
 | Current Market Price | ₹1,389 |
 | Normalised TTM EPS | ₹23.65 |
+| **Owner Earnings Per Share (OEPS)** | ₹22.83 (FY25 Owner Earnings ₹1,655 Cr ÷ 72.5 Cr diluted shares) |
 | Current PE | 58.7x |
+| **Current P/OE (on OEPS)** | 60.8x (Buffett-pure valuation multiple) |
 | Shares Outstanding (Diluted) | 72.5 Cr |
 
 ### Implied EPS CAGR Needed
@@ -466,25 +483,54 @@ This is the fundamental challenge with USL: **wonderful business, terrible price
 | 10 Years | 10.7% CAGR | 15.8% CAGR | 20.8% CAGR |
 | 15 Years | 10.5% CAGR | 15.5% CAGR | 20.5% CAGR |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** EPS can be misleading — a company can grow EPS by underinvesting in maintenance or through financial engineering. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates after maintaining its productive capacity. For USL, on a same-period FY25 basis, P/OE (60.8x) is correctly lower than PE (63.7x) — a modest ~5% gap typical of an asset-light consumer franchise. But the divergence test below quantifies this precisely.
+
+**Terminal P/OE Multiples:** For this asset-light business, P/OE ≈ PE, so terminal multiples are similar. Using Market Average Terminal P/OE = 17x:
+
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 17x)
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 42.0% OEPS CAGR | 48.4% | 54.9% |
+| 10 Years | 25.0% OEPS CAGR | 30.6% | 36.3% |
+| 15 Years | 19.8% OEPS CAGR | 25.2% | 30.6% |
+
+#### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal Market Avg PE (20x) / P/OE (17x) | 10-Year Hurdle (10% Return) |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 22.5% | |
+| Implied OEPS CAGR (from Step 3B) | 25.0% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **2.5 pp** | |
+
+**Interpretation:** The 2.5 pp gap falls in the **"moderate capital intensity"** zone (2-5 pp). This is expected — USL has some D&A (~₹283 Cr/year) that creates a small wedge between earnings and owner earnings. The gap is modest enough that the standard EPS-based Reverse DCF is broadly reliable, but the OEPS figure provides a marginally more conservative and honest assessment. For a truly asset-light business (software, IP), the gap would be <1 pp. For a capital-heavy business (steel, power), it would be >5 pp.
+
+Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."* The same logic applies to EPS vs. Owner Earnings: EPS deducts accounting depreciation, but if actual maintenance spending differs from depreciation, EPS may misstate real earnings. Owner Earnings captures the truth. For USL, the two are close — confirming this is a capital-light franchise where reported earnings are trustworthy.
+
 ### Reality Check
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP | 10-12% |
-| USL 5Y EPS CAGR | 19.1% |
-| USL 7Y EPS CAGR (FY18-FY25) | 13.9% |
-| USL 3Y EPS CAGR | 24.0% |
-| Analyst consensus FY26-28 growth | 15-18% |
+| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| USL 5Y EPS CAGR | 19.1% | — | What it has actually delivered |
+| USL 7Y EPS CAGR (FY18-FY25) | 13.9% | — | Longer-term track record |
+| USL OE 7Y CAGR (FY18-FY25) | — | 11.9% | Buffett-pure growth benchmark |
+| USL OE 5Y CAGR (FY20-FY25) | — | 17.0% | Recent OE track record |
+| Analyst consensus FY26-28 growth | 15-18% | — | Market expectations |
 
 **Traffic Light Assessment:**
 
 The ONLY scenario where the implied growth is achievable is if the market continues to value USL at ~55x PE at exit (its historical average). At 55x terminal PE, you need ~11% EPS CAGR for a 10% return over 10 years — which is achievable given USL's track record.
 
-But if the PE compresses to anything more "normal" — even 28x (still a premium compounder multiple) — you need 18.5% EPS CAGR for 10 years to earn just 10%. That's ambitious for a business growing sales at 5-7%.
+But if the PE compresses to anything more "normal" — even 28x (still a premium compounder multiple) — you need 18.5% EPS CAGR (and ~21% OEPS CAGR) for 10 years to earn just 10%. That's ambitious for a business growing sales at 5-7%.
+
+> **Apply the Traffic Light to BOTH the EPS and OEPS implied growth.** At the Market Average terminal multiples, the EPS-based verdict is 🔴 RED (22.5% needed vs 13.9% historical = 1.6× track record). The OEPS-based verdict is also 🔴 RED (25.0% needed vs 11.9% historical = 2.1× track record). Both verdicts agree — the price is demanding heroic growth. The OEPS verdict is slightly more severe, as expected for a business with some capital intensity, but the directional conclusion is identical. **Always defer to the OEPS-based verdict for the final Buffett-pure assessment.**
 
 **Verdict: 🟠 ORANGE to 🔴 RED** — depending on your PE assumption. If the premium PE sustains: 🟡 YELLOW. If PE compresses to global norms: 🔴 RED.
 
-*"At ₹1,389, to earn a 10% annualised return over 10 years assuming the market values USL at 28x PE at exit, the company needs to grow EPS at 18.5% CAGR. It has historically grown EPS at 13.9% CAGR (7Y). This implies the market is pricing in optimistic to heroic growth."*
+*"At ₹1,389, to earn a 10% annualised return over 10 years assuming the market values USL at 20x PE at exit, the company needs to grow EPS at 22.5% CAGR (and Owner Earnings at 25.0% CAGR). The company has historically grown EPS at 13.9% CAGR (7Y) and Owner Earnings at 11.9% CAGR (7Y). This implies the market is pricing in heroic growth. Note: the EPS-based assessment and the Owner Earnings assessment are closely aligned (2.5 pp gap), confirming that this is an asset-light business where EPS is reliable — the overvaluation conclusion holds regardless of which metric is used."*
 
 ### Asymmetric Upside Check
 
@@ -680,7 +726,7 @@ The regulatory framework actually STRENGTHENS USL's moat by creating high barrie
 |---|---|---|
 | **Business Quality** | 9 | Consumer franchise with 200-year heritage; capital-light; 18-20% ROE; near-zero debt |
 | **Moat Durability** | 9 | Triple moat: regulatory + brand + distribution; widening, not eroding |
-| **Financial Health** | 9 | Net cash positive; D/E 0.06; interest coverage 25x; ₹1,600 Cr annual FCF |
+| **Financial Health** | 9 | Net cash positive; D/E 0.06; interest coverage (EBIT) 22x; ₹1,600 Cr annual FCF |
 | **Management Quality** | 8 | Diageo parentage — disciplined capital allocation, clean governance, strategic premiumisation |
 | **Scalability** | 7 | Strong scaler; premiumisation tailwind; moderate revenue growth offset by operating leverage |
 | **Valuation** | 3 | 59x PE, 12.4x P/B — extremely expensive; no margin of safety under DCF |
@@ -688,7 +734,7 @@ The regulatory framework actually STRENGTHENS USL's moat by creating high barrie
 | **Earnings Quality** | 9 | Owner Earnings ≈ Net Income; no SBC; clean FCF conversion; zero dilution |
 | **Buffett Verdict** | — | **Wonderful business at a terrible price.** This is a premium consumer franchise that Buffett would love to own — but ONLY at 5-8x book value (₹559-₹894), not at 12.4x book. At current prices, forward returns are capped at ~9% (BV compounding rate) with meaningful downside if the PE compresses. **PASS at current price. Buy aggressively below ₹750-800.** |
 | **Buy Zone** | — | Currently in the **Fully Valued / Trim zone** (10-13x P/B) |
-| **Overall Recommendation** | — | **AVOID at current price.** WATCHLIST for accumulation below ₹800 (7x P/B). If already owned at lower prices: HOLD but do NOT add. |
+| **Overall Recommendation** | — | **AVOID at current price.** WATCHLIST for accumulation below ₹800 (~7.2x P/B). If already owned at lower prices: HOLD but do NOT add. |
 
 ---
 
@@ -710,7 +756,7 @@ The regulatory framework actually STRENGTHENS USL's moat by creating high barrie
 **The investment math does NOT make sense at current prices:**
 - You're paying ₹1,389 for ₹112 of book value — 12.4x the company's net worth.
 - You're paying 59 years' worth of current earnings.
-- The company would need to grow earnings at 19%+ per year for a DECADE just to justify the current price on a "normal" PE of 20x.
+- The company would need to grow earnings at 22.5%+ per year for a DECADE just to justify the current price on a "normal" PE of 20x.
 - If the market ever decides this deserves even a 30-35x PE (still premium), the stock falls 40-50%.
 
 Buffett: *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* For USL, no spreadsheet is needed to reach the conclusion: **great business, lousy price.** The napkin math says: "Wait for ₹750-800 or lower. At those levels, it becomes a no-brainer. At ₹1,389, it's a head-scratcher."
