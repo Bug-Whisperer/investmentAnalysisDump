@@ -37,18 +37,20 @@ Buffett would understand this business instantly. It sits firmly within his circ
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue (₹ Cr) | 6,913 | 7,858 | 8,397 | 9,054 | 9,914 | 11,055 | 11,600 | 13,136 | 14,136 | **16,301** | 16,769 | 17,943 | **18,865** |
 | Rev Growth YoY | — | 13.7% | 6.9% | 7.8% | 9.5% | 11.5% | 4.9% | 13.2% | 7.6% | **15.3%** | **2.9%** | 7.0% | 7% |
-| Operating Profit (₹ Cr) | **627** | 870 | 1,224 | 1,278 | 1,501 | 1,732 | 1,843 | 2,509 | 2,201 | 2,831 | **3,167** | 3,176 | 3,481 |
-| OPM % | **9%** | 11% | 15% | 14% | 15% | 16% | 16% | **19%** | 16% | 17% | **19%** | 18% | 18% |
+| Operating Profit (pre-D&A) (₹ Cr) | **627** | 870 | 1,224 | 1,278 | 1,501 | 1,732 | 1,843 | 2,509 | 2,201 | 2,831 | **3,167** | 3,176 | 3,481 |
+| OPM % (pre-D&A) | **9%** | 11% | 15% | 14% | 15% | 16% | 16% | **19%** | 16% | 17% | **19%** | 18% | 18% |
+| Depreciation & Amortisation (₹ Cr) | 83 | 144 | 113 | 119 | 142 | 162 | 185 | 198 | 201 | 226 | 300 | 313 | 333 |
+| **EBIT (₹ Cr)** | **544** | 726 | 1,111 | 1,159 | 1,359 | 1,570 | 1,658 | **2,311** | 2,000 | 2,605 | **2,867** | 2,863 | **3,148** |
+| **EBIT Margin** | **7.9%** | 9.2% | 13.2% | 12.8% | 13.7% | 14.2% | 14.3% | **17.6%** | **14.1%** | 16.0% | **17.1%** | 16.0% | **16.7%** |
 | Net Income (₹ Cr) | **395** | 689 | 825 | 885 | 1,004 | 1,155 | 1,394 | 1,851 | 1,516 | **2,316** | 2,134 | 2,178 | 2,416 |
 | NI Growth YoY | — | **74.4%** | 19.7% | 7.3% | 13.4% | 15.0% | 20.7% | 32.8% | **-18.1%** | 52.8% | -7.9% | 2.1% | 11% |
 | NPM % | **5.7%** | 8.8% | 9.8% | 9.8% | 10.1% | 10.4% | 12.0% | **14.1%** | 10.7% | **14.2%** | 12.7% | 12.1% | 12.8% |
 | EPS (₹) | **16.48** | 28.71 | 34.36 | 36.85 | 41.83 | 48.23 | 58.33 | 77.38 | 63.31 | **96.39** | 88.84 | 90.45 | **100.27** |
 | EPS Growth YoY | — | **74.2%** | 19.7% | 7.2% | 13.5% | 15.3% | 20.9% | 32.7% | **-18.2%** | 52.3% | -7.8% | 1.8% | — |
 | Shares (Cr) | 24 | 24 | 24 | 24 | 24 | 24 | 24 | 24 | 24 | 24 | 24 | 24 | 24.09 |
-| EBITDA (₹ Cr)† | **627** | 870 | 1,224 | 1,278 | 1,501 | 1,732 | 1,843 | 2,509 | 2,201 | 2,831 | **3,167** | 3,176 | 3,481 |
 | Div Payout % | 36% | 28% | 29% | 30% | 30% | 31% | 60% | **204%** | 89% | 75% | 83% | 83% | — |
 
-*†Note: Screener.in's "Operating Profit" line already represents EBITDA — Depreciation & Amortisation is deducted separately below it in Screener's P&L structure. Hence Operating Profit = EBITDA here. D/EBITDA (Section 3) and EV/EBITDA (Section 14) use this same figure, which is methodologically correct.*
+> **Note on Screener.in's Operating Profit:** Screener's "Operating Profit" is computed BEFORE deducting Depreciation & Amortisation, making it EBITDA-equivalent. This prompt deliberately tracks **EBIT** (Operating Profit minus D&A) as the true operating profit metric, per Buffett/Munger's insistence that depreciation is a real expense. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"*
 
 **Key CAGRs:**
 - Revenue 10Y CAGR: 8.6% | 5Y CAGR: 9.1%
@@ -57,13 +59,13 @@ Buffett would understand this business instantly. It sits firmly within his circ
 
 **Trend Narrative:**
 
-Britannia has delivered consistent, if unspectacular, revenue growth of ~9% CAGR — in line with India's nominal GDP growth for a consumer staple. The real story is the **massive margin expansion** from FY14 to FY21: OPM expanded from 9% to 19%, meaning operating profit grew at nearly twice the rate of revenue. This was driven by: (a) premiumisation of the product mix (Good Day, NutriChoice at higher margins vs. glucose biscuits), (b) cost efficiencies under the Varun Berry-led management, and (c) operational improvements.
+Britannia has delivered consistent, if unspectacular, revenue growth of ~9% CAGR — in line with India's nominal GDP growth for a consumer staple. The real story is the **massive margin expansion** from FY14 to FY21: OPM (pre-D&A) expanded from 9% to 19%, meaning operating profit grew at nearly twice the rate of revenue. This was driven by: (a) premiumisation of the product mix (Good Day, NutriChoice at higher margins vs. glucose biscuits), (b) cost efficiencies under the Varun Berry-led management, and (c) operational improvements.
 
 However, since FY21, margins have plateaued in the 17-19% range. The easy gains from premiumisation and cost cutting have been captured. FY22 saw a sharp earnings decline (-18%) from input cost inflation (palm oil, wheat), which the company could not fully pass through immediately. FY23 saw a strong bounce-back (+52.8% NI growth) as inflation eased and pricing power kicked in. FY24-25 have seen modest single-digit growth, suggesting the business is now in a "cruising" phase.
 
 The near-zero share dilution over 12 years is exceptional. Shares have remained at 24 Cr throughout — all earnings growth translates directly to EPS growth.
 
-> *"I try to buy stock in businesses that are so wonderful that an idiot can run them. Because sooner or later, one will."* — Buffett. Britannia is this kind of business — the brand sells itself. But the management has been far from idiotic — they've delivered 9% → 19% OPM expansion, which is exceptional execution.
+> *"I try to buy stock in businesses that are so wonderful that an idiot can run them. Because sooner or later, one will."* — Buffett. Britannia is this kind of business — the brand sells itself. But the management has been far from idiotic — they've delivered 9% → 19% OPM (pre-D&A) expansion, which is exceptional execution.
 
 ---
 
@@ -76,7 +78,9 @@ The near-zero share dilution over 12 years is exceptional. Shares have remained 
 | SH Equity (₹ Cr) | **798** | 1,245 | 2,092 | 2,696 | 3,406 | **4,253** | 4,403 | 3,548 | **2,558** | 3,534 | 3,941 | **4,356** |
 | BVPS (₹) | **33.2** | 51.9 | 87.2 | 112.3 | 141.9 | **177.2** | 183.5 | 147.8 | **106.6** | 147.2 | 164.2 | **181.5** |
 | D/E | 0.19 | 0.12 | 0.06 | **0.05** | 0.06 | **0.04** | 0.35 | 0.60 | **0.97** | 0.85 | 0.52 | 0.29 |
-| D/EBITDA | 0.24 | 0.17 | 0.11 | **0.10** | 0.13 | **0.09** | 0.83 | 0.85 | **1.13** | 1.06 | 0.65 | 0.39 |
+| Debt/EBIT | 0.28 | 0.20 | 0.12 | **0.11** | 0.15 | **0.10** | 0.93 | 0.92 | **1.24** | 1.15 | 0.72 | 0.44 |
+| Net Debt/Owner Earnings | — | 0.18 | 0.17 | **0.15** | 0.24 | **0.14** | 1.11 | 1.10 | **1.81** | 1.41 | 0.97 | 0.55 |
+| Interest Coverage (EBIT/Int) | 68.0x | **181.5x** | **222.2x** | **231.8x** | 169.9x | 174.4x | 21.5x | 20.8x | **13.9x** | 15.4x | 17.5x | 20.6x |
 | Current Ratio | **0.82** | 0.99 | **1.31** | **1.89** | 1.62 | 1.62 | 1.60 | 1.42 | 1.40 | 1.16 | 1.09 | 0.92 |
 
 **The Debt Story:**
@@ -87,7 +91,7 @@ The massive dividend payouts of FY21-FY22 (₹3,780 Cr in dividends on ₹1,851 
 
 **Financial Fortress Assessment:**
 
-Despite the higher-than-historical leverage, Britannia's balance sheet is strong. With D/EBITDA of just 0.39x and interest coverage of 22.8x, the company can service its debt many times over. The negative working capital model means the business is funded by suppliers and customers — a hallmark of Buffett-quality franchises. Walmart, Costco, and Apple run the same model.
+Despite the higher-than-historical leverage, Britannia's balance sheet is strong. With Debt/EBIT of just 0.44x, Net Debt/Owner Earnings of 0.55x, and EBIT-based interest coverage of 20.6x, the company can service its debt many times over from true post-depreciation operating earnings. The negative working capital model means the business is funded by suppliers and customers — a hallmark of Buffett-quality franchises. Walmart, Costco, and Apple run the same model.
 
 > *"We like businesses that are financed conservatively. Our interest is in learning about competitive advantages, not leverage."* — Buffett. Britannia passes this test: the leverage is modest, deliberate, and well within the company's earnings capacity.
 
@@ -128,7 +132,8 @@ The capital-light nature of the business is evident: CapEx averages just 3-4% of
 | ROE % | 49.5 | **67.4** | 49.4 | 37.0 | 32.9 | **30.2** | 32.2 | 46.6 | 49.7 | **76.0** | 57.1 | 52.5 |
 | ROIC % | **46.3** | **53.6** | 46.1 | 34.5 | 30.8 | **28.1** | 27.1 | 32.0 | 30.0 | 37.2 | 36.9 | **40.5** |
 | D/E | 0.19 | 0.12 | 0.06 | **0.05** | 0.06 | **0.04** | 0.35 | 0.60 | **0.97** | 0.85 | 0.52 | 0.29 |
-| OPM % | **9** | 11 | 15 | 14 | 15 | 16 | 16 | **19** | 16 | 17 | **19** | 18 |
+| OPM % (pre-D&A, Screener) | **9** | 11 | 15 | 14 | 15 | 16 | 16 | **19** | 16 | 17 | **19** | 18 |
+| **EBIT Margin %** | **7.9** | 9.2 | 13.2 | 12.8 | 13.7 | 14.2 | 14.3 | **17.6** | **14.1** | 16.0 | **17.1** | 16.0 |
 | NPM % | **5.7** | 8.8 | 9.8 | 9.8 | 10.1 | 10.4 | 12.0 | **14.1** | 10.7 | **14.2** | 12.7 | 12.1 |
 | Debtor Days | **6** | **6** | 7 | 7 | 11 | **13** | 10 | **7** | 9 | **7** | 9 | 9 |
 | Inventory Days | **31** | 32 | 43 | 39 | 43 | 39 | 52 | **57** | 45 | 45 | 43 | 43 |
@@ -149,10 +154,12 @@ The capital-light nature of the business is evident: CapEx averages just 3-4% of
 | Positive Free Cash Flow | Positive | ₹2,134 Cr (FY25) | ✅ Strong |
 | Promoter holding | Aligned | 50.55% (Wadia Group) | ✅ Stable |
 | Dividend payout | Paying | 65% avg; very generous | ✅ Exceptional |
-| OPM stability | Stable | 14-19% range (expanding) | ✅ Strong |
+| EBIT Margin stability | Stable | 12.8-17.6% range (expanding) | ✅ Strong |
 | Moat / Pricing Power | Identifiable | #1 biscuit brand, 33%+ market share | ✅ Clear Moat |
 | ROIC > 15% | >15% | 40.5% (FY25) | ✅ Exceptional |
 | Earnings yield | Reasonable | 1.76% (at CMP ₹5,700) | ❌ Very Expensive |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Overall: 10/12 criteria pass.** The only concerns are modest revenue growth (limited by the slow-growing biscuit category) and an extremely expensive valuation that delivers a paltry 1.76% earnings yield.
 
@@ -165,7 +172,10 @@ The capital-light nature of the business is evident: CapEx averages just 3-4% of
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales (₹ Cr) | 4,197 | 4,023 | **4,011** | 4,433 | 4,256 | **4,069** | 4,250 | 4,668 | 4,593 | 4,432 | 4,622 | 4,841 | **4,970** |
-| OPM % | 19 | 20 | **17** | **20** | 19 | 19 | 18 | 17 | 18 | 18 | **16** | **20** | **20** |
+| OPM % (pre-D&A) | 19 | 20 | **17** | **20** | 19 | 19 | 18 | 17 | 18 | 18 | **16** | **20** | **20** |
+| Depreciation (₹ Cr) | 58 | 65 | 71 | 72 | 78 | 80 | 74 | 76 | 82 | 81 | 82 | 85 | 85 |
+| **EBIT (₹ Cr)** | 760 | 736 | **618** | **799** | 742 | 704 | 679 | 704 | 761 | 720 | **670** | **866** | **892** |
+| **EBIT Margin %** | 18.1 | 18.3 | **15.4** | **18.0** | 17.4 | 17.3 | 16.0 | **15.1** | 16.6 | 16.2 | **14.5** | **17.9** | **17.9** |
 | Net Profit (₹ Cr) | **932*** | 558 | **455** | 586 | 556 | 537 | 505 | 532 | 582 | 559 | 520 | 655 | **682** |
 | EPS (₹) | **38.71*** | 23.19 | **19.00** | 24.39 | 23.10 | 22.35 | 20.99 | 22.06 | 24.15 | 23.25 | 21.62 | 27.17 | **28.23** |
 
@@ -175,7 +185,7 @@ The capital-light nature of the business is evident: CapEx averages just 3-4% of
 
 1. **Revenue Trajectory:** Revenue has been growing at 7-8% YoY, with Q3FY26 (Dec25) being the strongest quarter at ₹4,970 Cr. The business shows mild seasonality with Q2 (Sep quarter, festive season) and Q3 (Dec quarter) typically being stronger.
 
-2. **Margin Trend:** OPM has been oscillating between 16-20%, with recent quarters (Sep25: 20%, Dec25: 20%) showing improvement. The Q1 quarters (Jun) tend to be weaker on margins, likely due to raw material procurement timing.
+2. **Margin Trend:** OPM (pre-D&A) has been oscillating between 16-20%, with recent quarters (Sep25: 20%, Dec25: 20%) showing improvement. However, **EBIT Margin** (post-D&A) tells a slightly different story: it has compressed from 18.1-18.3% (Dec22-Mar23) to 14.5-17.9% range recently. The gap between OPM and EBIT Margin is widening as D&A has risen from ₹58 Cr/quarter (Dec22) to ₹85 Cr/quarter (Dec25) — reflecting Britannia's recent capex cycle (new manufacturing lines). This rising capital intensity is a pattern that EBITDA-based analysis would miss entirely. The Q1 quarters (Jun) tend to be weaker on margins, likely due to raw material procurement timing.
 
 3. **Normalised Quarterly EPS Run-Rate:** Stripping out the Dec22 one-time (₹428 Cr other income), the normalised EPS run-rate based on the last 4 quarters (Mar25 to Dec25) is: 23.25 + 21.62 + 27.17 + 28.23 = **₹100.27 annualised TTM EPS**. The latest two quarters (₹27.17 and ₹28.23) suggest an annualised run-rate of ~₹111.
 
@@ -293,22 +303,24 @@ Britannia is exactly the kind of business Buffett loves — one where the way it
 
 ## 11. SCALABILITY CHECK — Can This Business Scale and Is It Scaling?
 
-### Part A: Incremental Operating Margins
+### Part A: Incremental EBIT Margins
 
-| Year | Revenue | Rev Growth | Op Profit | Op Growth | Incremental OPM |
-|---|---|---|---|---|---|
-| FY16 | 8,397 | 6.9% | 1,224 | 40.7% | **65.7%** |
-| FY17 | 9,054 | 7.8% | 1,278 | 4.4% | 8.2% |
-| FY18 | 9,914 | 9.5% | 1,501 | 17.5% | 25.9% |
-| FY19 | 11,055 | 11.5% | 1,732 | 15.4% | 20.2% |
-| FY20 | 11,600 | 4.9% | 1,843 | 6.4% | 20.4% |
-| FY21 | 13,136 | 13.2% | 2,509 | 36.1% | **43.4%** |
-| FY22 | 14,136 | 7.6% | 2,201 | -12.3% | **-30.8%** |
-| FY23 | 16,301 | 15.3% | 2,831 | 28.6% | 29.1% |
-| FY24 | 16,769 | 2.9% | 3,167 | 11.9% | **71.8%** |
-| FY25 | 17,943 | 7.0% | 3,176 | 0.3% | 0.8% |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY16 | 8,397 | 6.9% | 1,111 | 53.0% | 13.2% | **71.4%** |
+| FY17 | 9,054 | 7.8% | 1,159 | 4.3% | 12.8% | 7.3% |
+| FY18 | 9,914 | 9.5% | 1,359 | 17.3% | 13.7% | 23.3% |
+| FY19 | 11,055 | 11.5% | 1,570 | 15.5% | 14.2% | 18.5% |
+| FY20 | 11,600 | 4.9% | 1,658 | 5.6% | 14.3% | 16.1% |
+| FY21 | 13,136 | 13.2% | 2,311 | 39.4% | 17.6% | **42.5%** |
+| FY22 | 14,136 | 7.6% | 2,000 | -13.5% | 14.1% | **-31.1%** |
+| FY23 | 16,301 | 15.3% | 2,605 | 30.2% | 16.0% | 27.9% |
+| FY24 | 16,769 | 2.9% | 2,867 | 10.1% | 17.1% | **56.0%** |
+| FY25 | 17,943 | 7.0% | 2,863 | -0.1% | 16.0% | -0.3% |
 
-Incremental margins are volatile (commodity-linked business) but average well above current margins in good years. In years of strong revenue growth (FY16, FY21, FY23, FY24), incremental OPMs are 29-72%, far above the current 18% OPM. This confirms the business has genuine operating leverage.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. This is computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins are HIGHER than current EBIT margins, the business is scaling beautifully. If LOWER, it is hitting scaling friction or becoming more capital-intensive.*
+
+Incremental EBIT margins are volatile (commodity-linked business) but average well above current margins in good years. In years of strong revenue growth (FY16, FY21, FY23, FY24), incremental EBIT margins are 28-71%, far above the current 16% EBIT Margin. This confirms the business has genuine operating leverage even after accounting for capital consumption. Notably, FY25's near-zero incremental EBIT margin (-0.3%) reflects rising D&A from recent capex — OPM held steady at 18% but EBIT margin compressed as depreciation absorbed the operating gains.
 
 ### Part B: Scaling Runway
 
@@ -371,13 +383,17 @@ Operational fundamentals are steady. The core biscuit franchise remains dominant
 
 | Metric | Current | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|---|---|---|
+| **P/Owner Earnings** (primary) | **60.1x** | ~48x | ~59x | ~42x | ~69x | ~63x | ~60x |
 | PE Ratio | **56.8x** | ~55x | ~48x | ~61x | ~38x | ~63x | ~63x |
 | P/B Ratio | **31.4x** | ~22x | ~26x | ~38x | ~25x | ~35x | ~32x |
-| EV/EBITDA | **39.8x** | ~37x | ~30x | ~40x | ~30x | ~38x | ~37x |
+| EV/EBIT | **44.0x** | ~42x | ~50x | ~30x | ~57x | ~48x | ~48x |
 | Earnings Yield | **1.76%** | 1.8% | 2.1% | 1.6% | 2.6% | 1.6% | 1.6% |
+| **Owner Earnings Yield** | **1.66%** | 2.1% | 1.7% | 2.4% | 1.5% | 1.6% | 1.7% |
 | FCF Yield | **1.55%** | 1.5% | 1.9% | 0.8% | 2.1% | 1.5% | 1.6% |
 | Div Yield | **1.32%** | — | — | — | — | — | 1.3% |
 | PEG Ratio | **6.3** | — | — | — | — | — | — |
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* EV/EBIT is included as a secondary cross-check for institutional comparability; **P/Owner Earnings** is the preferred Buffett-pure valuation multiple — it starts from the true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner.
 
 **Historical Comparison:** Britannia has ALWAYS traded at premium valuations. Its 5-year median PE is approximately 55-60x. The current 56.8x is at the lower end of this range, suggesting fair-to-slightly-cheap relative to its own history, but extremely expensive in absolute terms.
 
@@ -407,7 +423,7 @@ Operational fundamentals are steady. The core biscuit franchise remains dominant
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = ₹5,700 | Normalised EPS = ₹90.45 (FY25) | Current PE = 63x (on FY25 EPS; TTM PE = 56.8x on TTM EPS of ₹100.27)
+**Inputs:** CMP = ₹5,700 | Normalised EPS = ₹90.45 (FY25) | Current PE = 63x (on FY25 EPS; TTM PE = 56.8x on TTM EPS of ₹100.27) | **Owner Earnings Per Share (OEPS) = ₹94.77** (FY25 OE ₹2,283 Cr / 24.09 Cr diluted shares) | **Current P/OE = 60.1x**
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -443,19 +459,46 @@ Operational fundamentals are steady. The core biscuit franchise remains dominant
 | 10 Years | 11.5% | 16.6% | 21.6% |
 | 15 Years | 11.0% | 16.0% | 21.1% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading for capital-intensive businesses. Owner Earnings strips out the noise — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."*
+
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 17x)
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 41.6% OEPS CAGR needed | 48.1% | 54.5% |
+| 10 Years | 24.8% OEPS CAGR needed | 30.5% | 36.2% |
+| 15 Years | 19.7% OEPS CAGR needed | 25.1% | 30.5% |
+
+#### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal Mkt Avg PE/P(OE) | 10-Year, 10% Hurdle |
+|---|---|---|
+| Implied EPS CAGR (Step 3, PE=20x) | 23.4% | |
+| Implied OEPS CAGR (Step 3B, P/OE=17x) | 24.8% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **1.4 pp** | |
+
+**Interpretation:** Gap of 1.4 pp ≤ 2 pp → **Britannia is an asset-light business where EPS closely tracks true economic earnings.** The standard EPS-based Reverse DCF is reliable. This is consistent with Britannia's capital-light FMCG model where depreciation roughly equals maintenance capex. The small gap confirms that EBITDA-vs-EBIT distinctions, while philosophically important, do not materially change the valuation conclusion for this specific company — both metrics tell the same story: the stock is extremely overpriced.
+
 ### Reality Check
 
-| Benchmark | EPS CAGR |
-|---|---|
-| Historical 10Y EPS CAGR | 12.2% |
-| Historical 5Y EPS CAGR | 9.2% |
-| India nominal GDP growth | 10-12% |
+| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| Historical 10Y EPS CAGR | 12.2% | — | What it has actually delivered |
+| Historical 5Y EPS CAGR | 9.2% | — | Recent track record |
+| Historical 10Y Owner Earnings CAGR | — | 11.3% | Buffett-pure benchmark |
+| Historical 5Y Owner Earnings CAGR | — | 10.4% | Recent OE track record |
+| India nominal GDP growth | 10-12% | 10-12% | Floor |
 
 **Traffic Light: 🔴 RED (at realistic terminal PEs)**
 
-At any realistic terminal PE (15-28x), the implied growth needed is 19-47% — **far above Britannia's historical 9-12% EPS CAGR.** The maths only works at Terminal PE = 55x (historical average), which requires the market to perpetually value Britannia at 55x+ earnings forever. This is a dangerous assumption.
+At any realistic terminal PE (15-28x), the implied growth needed is 19-47% — **far above Britannia's historical 9-12% EPS CAGR and 10-11% Owner Earnings CAGR.** The maths only works at Terminal PE = 55x (historical average), which requires the market to perpetually value Britannia at 55x+ earnings forever. This is a dangerous assumption.
 
-> *"At ₹5,700, to earn a 10% annualised return over 10 years assuming the market values Britannia at 20x PE at exit, the company needs to grow EPS at 23.4% CAGR. Britannia has historically grown EPS at 12.2% CAGR. This implies the market is pricing in nearly 2x the company's historical growth rate — heroic assumptions."*
+Apply the Traffic Light to BOTH the EPS and OEPS implied growth. For Britannia, the EPS-based verdict (🔴) and the OEPS-based verdict (🔴) are aligned — the asset-light nature means both tell the same story. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
+
+> *"At ₹5,700, to earn a 10% annualised return over 10 years assuming the market values Britannia at 20x PE at exit, the company needs to grow EPS at 23.4% CAGR (and Owner Earnings at 24.8% CAGR). The company has historically grown EPS at 12.2% CAGR and Owner Earnings at 11.3% CAGR. This implies the market is pricing in nearly 2x the company's historical growth rate — heroic assumptions. Note: the EPS-based assessment and Owner Earnings assessment are closely aligned (1.4 pp gap), confirming the business is asset-light and EPS is a reliable indicator of true economic earnings."*
 
 ---
 
@@ -515,7 +558,7 @@ The DuPont decomposition (Section 9) shows ROE is driven by a mix of margin qual
 | Enduring moat | Brand + distribution; 132-year history | ✅ |
 | Trustworthy management | Wadia Group, strong capital allocation | ✅ |
 | Resistant to disruption | People will eat biscuits forever | ✅ |
-| Sustainable economics for 10+ years | Yes — OPM 18%, ROCE 50%+ | ✅ |
+| Sustainable economics for 10+ years | Yes — EBIT Margin 16%, ROCE 50%+ | ✅ |
 | **Price below intrinsic value** | **₹5,700 vs DCF IV of ₹2,000-3,300** | **❌ Significantly overvalued** |
 
 **Verdict: Buffett would ADMIRE this business but would NOT buy at this price.**
@@ -561,7 +604,7 @@ Buffett with a small capital base would have this business on his "wonderful com
 
 ## 22. TURNAROUND PROBABILITY
 
-**Not Applicable.** Britannia is not under stress. The business is firing on all cylinders with 53% ROCE, 18% OPM, and growing FCF. There is nothing to "turn around."
+**Not Applicable.** Britannia is not under stress. The business is firing on all cylinders with 53% ROCE, 16% EBIT Margin, and growing FCF. There is nothing to "turn around."
 
 ---
 
@@ -574,7 +617,7 @@ Buffett with a small capital base would have this business on his "wonderful com
 | Financial Health | **9** | Low debt, negative working capital, massive FCF generation |
 | Management Quality | **8** | Excellent capital allocation track record; new CEO is a transition risk |
 | Scalability | **7** | Strong but limited by physical product nature and category growth rate |
-| Valuation | **2** | 57x PE, 31x P/B, 1.76% earnings yield — extremely expensive by any measure |
+| Valuation | **2** | 57x PE, 60x P/OE, 31x P/B, 1.66% owner earnings yield — extremely expensive by any measure |
 | Margin of Safety | **1** | NEGATIVE margin of safety; DCF IV significantly below CMP |
 | **Buffett Verdict** | | **Wonderful business at a crazy price. Britannia is an A+ business priced like a AAA bond — it yields almost nothing. At 57x PE, the stock discounts >20 years of perfect execution. Buffett would love this business in his portfolio but would NEVER buy at this price. The business will compound, but the returns to shareholders are capped by the astronomical entry multiple. AVOID at current prices; add to watchlist for the inevitable correction to the ₹2,700-3,600 zone.** |
 | **Buy Zone** | | **Currently in "Fully Valued / Trim" zone (₹5,000-₹5,900)** |
