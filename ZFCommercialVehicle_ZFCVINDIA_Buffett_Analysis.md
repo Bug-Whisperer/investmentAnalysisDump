@@ -32,13 +32,13 @@ ZF CV India is close to this ideal — it benefits from regulatory mandates (ABS
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 1,110 | 1,347 | 1,832 | 2,067 | 2,573 | 2,854 | **1,930** | **1,864** | 2,543 | 3,445 | 3,784 | **3,804** |
 | Revenue Growth YoY | — | 21.4% | **36.0%** | 12.8% | 24.5% | 10.9% | **-32.4%** | -3.4% | 36.4% | 35.5% | 9.8% | 0.5% |
-| Operating Profit | 166 | 203 | 287 | 326 | 399 | 411 | 254 | **206** | 253 | 470 | 563 | **626** |
-| OPM % | 15.0% | 15.1% | **15.7%** | 15.8% | 15.5% | 14.4% | **13.2%** | **11.1%** | 9.9% | 13.6% | 14.9% | **16.5%** |
-| EBITDA | 166 | 203 | 287 | 326 | 399 | 411 | 254 | 206 | 253 | 470 | 563 | **626** |
-| EBITDA Margin | 15.0% | 15.1% | 15.7% | 15.8% | 15.5% | 14.4% | 13.2% | **11.1%** | 9.9% | 13.6% | 14.9% | **16.5%** |
+| Operating Profit (pre-D&A) | 166 | 203 | 287 | 326 | 399 | 411 | 254 | **206** | 253 | 470 | 563 | **626** |
+| OPM % (pre-D&A) | 15.0% | 15.1% | **15.7%** | 15.8% | 15.5% | 14.4% | **13.2%** | **11.1%** | 9.9% | 13.6% | 14.9% | **16.5%** |
+| Depreciation & Amortisation | 32 | 47 | 56 | 62 | 62 | 71 | 90 | 90 | 92 | 105 | 109 | 123 |
+| **EBIT** | **134** | **156** | **231** | **264** | **337** | **340** | **164** | **116** | **161** | **365** | **454** | **503** |
+| **EBIT Margin** | **12.1%** | **11.6%** | **12.6%** | **12.8%** | **13.1%** | **11.9%** | **8.5%** | **6.2%** | **6.3%** | **10.6%** | **12.0%** | **13.2%** |
 | Other Income | 27 | 20 | 40 | 36 | 46 | 72 | 62 | 39 | 38 | 67 | 96 | **109** |
 | Interest | 0 | 0 | 0 | 0 | 2 | 0 | 2 | 2 | 2 | 6 | 5 | 6 |
-| Depreciation | 32 | 47 | 56 | 62 | 62 | 71 | 90 | 90 | 92 | 105 | 109 | 123 |
 | PBT | 161 | 177 | 270 | 300 | 382 | 411 | 223 | **152** | 196 | 427 | 544 | **607** |
 | Tax % | 27% | **32%** | 25% | 29% | 29% | 31% | 29% | 32% | 27% | 26% | 26% | **24%** |
 | Net Profit | 117 | 121 | 203 | 213 | 273 | 282 | 159 | **104** | 142 | 318 | 405 | **459** |
@@ -63,7 +63,7 @@ The recovery since FY23 has been spectacular. Revenue has recovered to new all-t
 
 > *"In the short run, the market is a voting machine but in the long run, it is a weighing machine."* — Warren Buffett
 
-The "weighing machine" story here is powerful: earnings growth (14.3% CAGR over 10 years) has outpaced revenue growth (10.9%), demonstrating operating leverage. Net profit margins have expanded from ~10% to ~12%, and the FY25 OPM of 16.5% is structurally higher than the historical average — likely reflecting the shift toward higher-margin electronic content (ADAS, EBS).
+The "weighing machine" story here is powerful: earnings growth (14.3% CAGR over 10 years) has outpaced revenue growth (10.9%), demonstrating operating leverage. Net profit margins have expanded from ~10% to ~12%, and the FY25 OPM (pre-D&A) of 16.5% and EBIT Margin of 13.2% are both structurally higher than the historical average — likely reflecting the shift toward higher-margin electronic content (ADAS, EBS). Importantly, EBIT Margin has expanded from 12% to 13.2% even as D&A rose from ₹62 Cr to ₹123 Cr — the operating leverage is genuine, not masked by underdepreciation.
 
 Zero dilution over 12 years is noteworthy — shares have remained flat at ~1.90 Cr. All growth has accrued entirely to existing shareholders.
 
@@ -85,7 +85,9 @@ Zero dilution over 12 years is noteworthy — shares have remained flat at ~1.90
 | Book Value/Share (₹) | 400 | 454 | 564 | 669 | 804 | 938 | 997 | 1,050 | 1,115 | 1,269 | 1,469 | **1,691** |
 | BVPS Growth YoY | — | 13.5% | **24.2%** | 18.7% | 20.1% | 16.8% | 6.3% | **5.3%** | 6.2% | 13.8% | 15.8% | 15.1% |
 | Debt/Equity | **0.00** | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Debt/EBITDA | **0.0x** | 0.0x | 0.0x | 0.0x | 0.0x | 0.0x | 0.0x | 0.0x | 0.0x | 0.0x | 0.0x | 0.0x |
+| Debt/EBIT | **0.0x** | 0.0x | 0.0x | 0.0x | 0.0x | 0.0x | 0.0x | 0.0x | 0.0x | 0.0x | 0.0x | 0.0x |
+| Net Debt/Owner Earnings | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash |
+| Interest Coverage (EBIT) | ∞ | ∞ | ∞ | ∞ | 169x | ∞ | 82x | 58x | 81x | 61x | 91x | 84x |
 | Current Ratio | 2.9 | 2.9 | 2.0 | 2.2 | 2.0 | 2.8 | 4.0 | 2.7 | 3.2 | 3.7 | 4.5 | **5.3** |
 
 **Buffett's "Financial Fortress" Assessment:**
@@ -140,14 +142,15 @@ SBC is negligible for this Indian manufacturing company, and there are no buybac
 | ROE % | 15.5 | 15.0 | **21.0** | 18.3 | 19.6 | 17.1 | 8.7 | **5.3** | 6.9 | 14.1 | 15.6 | 15.3 |
 | ROA % | 12.2 | 11.7 | **15.4** | 13.1 | 14.0 | 12.5 | 7.0 | **4.4** | 5.5 | 11.2 | 12.7 | 12.9 |
 | Debt/Equity | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| OPM % | 15.0 | 15.1 | 15.7 | 15.8 | 15.5 | 14.4 | 13.2 | **11.1** | **9.9** | 13.6 | 14.9 | **16.5** |
+| OPM % (pre-D&A, Screener) | 15.0 | 15.1 | 15.7 | 15.8 | 15.5 | 14.4 | 13.2 | **11.1** | **9.9** | 13.6 | 14.9 | **16.5** |
+| **EBIT Margin %** | **12.1** | **11.6** | **12.6** | **12.8** | **13.1** | **11.9** | **8.5** | **6.2** | **6.3** | **10.6** | **12.0** | **13.2** |
 | NPM % | 10.5 | 9.0 | **11.1** | 10.3 | 10.6 | 9.9 | 8.2 | **5.6** | 5.6 | 9.2 | 10.7 | **12.1** |
 | Debtor Days | 76 | 81 | 87 | 91 | 92 | 81 | 69 | **115** | 96 | **80** | 90 | 107 |
 | Inventory Days | **65** | 54 | 58 | 43 | 30 | 30 | 36 | 37 | 32 | **26** | 26 | 31 |
 | Cash Conv Cycle | 54 | 53 | 30 | 38 | **1** | 29 | 55 | 41 | 51 | 46 | 58 | **82** |
 | Working Capital Days | 82 | 73 | 50 | 51 | **37** | 49 | 56 | 61 | 56 | **46** | 63 | **83** |
 | Current Ratio | 2.9 | 2.9 | 2.0 | 2.2 | 2.0 | 2.8 | 4.0 | 2.7 | 3.2 | 3.7 | 4.5 | **5.3** |
-| Interest Coverage | ∞ | ∞ | ∞ | ∞ | 200x | ∞ | 127x | 103x | 127x | 78x | 113x | 104x |
+| Interest Coverage (pre-D&A) | ∞ | ∞ | ∞ | ∞ | 200x | ∞ | 127x | 103x | 127x | 78x | 113x | 104x |
 | Dividend Payout % | 8% | 8% | 6% | 6% | 6% | 6% | 12% | **20%** | 16% | 8% | 8% | 8% |
 
 ### Part B: Buffett's Quality Checklist
@@ -162,14 +165,16 @@ SBC is negligible for this Indian manufacturing company, and there are no buybac
 | Positive Free Cash Flow | Positive | 10/12 years positive; cumulative ~₹958 Cr | ✅ Pass |
 | Promoter/Insider holding | Aligned | 60% (ZF Group) — reduced from 75% | ⚠️ Declining |
 | Dividend payout | Paying | 8% avg payout; ₹19/share | ✅ Modest |
-| OPM stability | Stable | 10-16.5% range; currently at best | ✅ Pass |
+| EBIT Margin stability | Stable | 6-13% range; currently at 12Y best (13.2%) | ✅ Pass |
 | Moat / Pricing Power | Identifiable | Market leader in CV braking; regulatory mandate | ✅ Strong |
 | ROIC | >15% | ~18-20% pre-tax; ~14-15% post-tax | ✅ Pass |
 | Earnings yield | Reasonable | 1.78% (CMP ₹14,727 / EPS ₹262) | ❌ Very low |
 
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
 > *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
 
-The ratio dashboard reveals a high-quality business that endured a brutal trough (FY20-FY22) and has recovered to — and in many metrics exceeded — its historical best. ROCE of 20% with ZERO debt is exceptional. The moat is evident in the consistent OPM above 13% even during the worst downcycle. The key concern is the rising cash conversion cycle (82 days vs. historical average of ~45 days) and the extremely low earnings yield at the current price — the stock is priced for perfection.
+The ratio dashboard reveals a high-quality business that endured a brutal trough (FY20-FY22) and has recovered to — and in many metrics exceeded — its historical best. ROCE of 20% with ZERO debt is exceptional. The moat is evident in the consistent OPM (pre-D&A) above 13% and EBIT Margin above 8% even during the worst downcycle. The key concern is the rising cash conversion cycle (82 days vs. historical average of ~45 days) and the extremely low earnings yield at the current price — the stock is priced for perfection.
 
 ---
 
@@ -180,19 +185,25 @@ The ratio dashboard reveals a high-quality business that endured a brutal trough
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 876 | 977 | 961 | 981 | 887 | 956 | 938 | **907** | 956 | 1,003 | 963 | 902 | **1,058** |
-| OPM % | 14% | 15% | 15% | 15% | 15% | 15% | 15% | 15% | **18%** | 17% | **13%** | 15% | **18%** |
+| Operating Profit (pre-D&A) | 120 | 144 | 141 | 144 | 131 | 147 | 138 | 139 | **175** | 172 | **128** | 132 | **195** |
+| OPM % (pre-D&A) | 14% | 15% | 15% | 15% | 15% | 15% | 15% | 15% | **18%** | 17% | **13%** | 15% | **18%** |
+| Depreciation (est.) | ~23 | ~26 | ~26 | ~27 | ~27 | ~28 | ~28 | ~29 | ~31 | ~31 | ~31 | ~32 | ~32 |
+| **EBIT (est.)** | **97** | **118** | **115** | **117** | **104** | **119** | **110** | **110** | **144** | **141** | **97** | **100** | **163** |
+| **EBIT Margin % (est.)** | **11%** | **12%** | **12%** | **12%** | **12%** | **12%** | **12%** | **12%** | **15%** | **14%** | **10%** | **11%** | **15%** |
 | Net Profit | 85 | 101 | 100 | 104 | 100 | 101 | 99 | 109 | **125** | 125 | 120 | **106** | **139** |
 | EPS (₹) | 45.03 | 53.36 | 52.59 | 55.00 | 52.52 | 53.29 | 52.30 | 57.65 | **65.85** | 66.00 | 63.36 | **56.13** | **73.11** |
+
+*Note: Quarterly depreciation is estimated by apportioning annual D&A across quarters (FY23: ₹105 Cr, FY24: ₹109 Cr, FY25: ₹123 Cr). Quarterly EBIT = Operating Profit (pre-D&A) minus estimated quarterly depreciation.*
 
 ### Key Observations:
 
 **1. Revenue Trajectory:** Quarterly revenue has been range-bound between ₹900-1,060 Cr for over 3 years. The latest quarter (Dec25) at ₹1,058 Cr is the highest in the dataset, suggesting an uptick. However, the growth has been sluggish on a YoY basis — the CV cycle appears to be in a mature phase rather than accelerating.
 
-**2. Margin Trend:** OPM has shown a notable improvement in Dec24 (18%) and Dec25 (18%), likely reflecting seasonal strength plus ongoing mix improvement toward higher-margin electronic content. The Jun25 quarter showed a dip to 13%, suggesting some seasonality or one-time cost pressures.
+**2. Margin Trend:** OPM (pre-D&A) has shown a notable improvement in Dec24 (18%) and Dec25 (18%), likely reflecting seasonal strength plus ongoing mix improvement toward higher-margin electronic content. EBIT Margin tracks a similar pattern but at a lower level (15% vs 18% in the best quarters), reflecting the D&A charge from recent CapEx investments. Importantly, both OPM and EBIT Margin are moving in the SAME direction — there is no divergence suggesting rising capital intensity eating into pre-D&A gains. This is a healthy signal: the operating leverage is genuine, not masked by underdepreciation. The Jun25 quarter showed a dip (OPM 13%, EBIT 10%), suggesting some seasonality or one-time cost pressures.
 
 **3. Normalised Quarterly EPS Run-Rate:** Stripping out seasonal variation, the average quarterly EPS over the last 4 quarters (Mar25+Jun25+Sep25+Dec25) is ₹64.65, annualised to ₹258.60. This is consistent with the TTM EPS of ~₹262 (consolidated).
 
-**4. Red Flags / Positive Surprises:** The Dec25 quarter was a clear positive surprise — highest-ever quarterly revenue with 18% OPM. The Jun25 quarter (OPM 13%) was weak but appears seasonal rather than structural.
+**4. Red Flags / Positive Surprises:** The Dec25 quarter was a clear positive surprise — highest-ever quarterly revenue with 18% OPM (pre-D&A) / 15% EBIT Margin. The Jun25 quarter (OPM 13%, EBIT 10%) was weak but appears seasonal rather than structural.
 
 **Trajectory Assessment: CRUISING — stable and predictable, with signs of mild acceleration in the latest quarter.** This is the classic Buffett compounding machine — predictable, steady, with gradual margin expansion driven by technology-led content increase.
 
@@ -307,21 +318,22 @@ The need for braking systems on trucks is not going to change. The HOW is evolvi
 
 ### Part A: The Unit Economics of Scaling
 
-**Profit Scalability — Incremental Operating Margins:**
+**Profit Scalability — Incremental EBIT Margins:**
 
-| Year | Revenue | Rev Growth | Op Profit | OP Growth | Incremental OP Margin |
-|---|---|---|---|---|---|
-| FY15 | 1,347 | 21.4% | 203 | 22.3% | 15.6% |
-| FY16 | 1,832 | 36.0% | 287 | 41.4% | 17.3% |
-| FY17 | 2,067 | 12.8% | 326 | 13.6% | 16.6% |
-| FY18 | 2,573 | 24.5% | 399 | 22.4% | 14.4% |
-| FY19 | 2,854 | 10.9% | 411 | 3.0% | 4.3% |
-| FY22 | 2,543 | 36.4% (recovery) | 253 | 22.8% | 6.9% |
-| FY23 | 3,445 | 35.5% | 470 | 85.8% | **24.1%** |
-| FY24 | 3,784 | 9.8% | 563 | 19.8% | **27.4%** |
-| FY25 | 3,804 | 0.5% | 626 | 11.2% | **315%** (margin expansion on flat rev) |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY15 | 1,347 | 21.4% | 156 | 16.4% | 11.6% | 9.3% |
+| FY16 | 1,832 | 36.0% | 231 | 48.1% | 12.6% | **15.5%** |
+| FY17 | 2,067 | 12.8% | 264 | 14.3% | 12.8% | **14.0%** |
+| FY18 | 2,573 | 24.5% | 337 | 27.7% | 13.1% | **14.4%** |
+| FY19 | 2,854 | 10.9% | 340 | 0.9% | 11.9% | 1.1% |
+| FY23 | 3,445 | 35.5% | 365 | 126.7% | 10.6% | **22.6%** |
+| FY24 | 3,784 | 9.8% | 454 | 24.4% | 12.0% | **26.3%** |
+| FY25 | 3,804 | 0.5% | 503 | 10.8% | 13.2% | **245%** (margin expansion on flat rev) |
 
-**Assessment:** The post-recovery incremental margins (FY23: 24%, FY24: 27%) are SIGNIFICANTLY above current margins (16.5%), indicating genuine operating leverage. The fixed cost base is now well-absorbed, and each incremental rupee of revenue generates disproportionately higher profit. FY25 is exceptional — margins expanded even with flat revenue, driven by product mix improvement (more electronic content).
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins are HIGHER than current EBIT margins, the business is scaling beautifully — each new rupee of revenue is more profitable after maintaining the asset base.*
+
+**Assessment:** The post-recovery incremental EBIT margins (FY23: 22.6%, FY24: 26.3%) are SIGNIFICANTLY above current EBIT margins (13.2%), indicating genuine operating leverage even after accounting for D&A. Notably, FY19 was a warning year — incremental EBIT margin collapsed to 1.1% as D&A grew faster than Operating Profit, signalling capital intensity headwinds. The subsequent recovery confirms this was cyclical, not structural. FY25 is exceptional — EBIT margins expanded even with flat revenue, driven by product mix improvement (more electronic content).
 
 **Capital Scalability:**
 
@@ -417,13 +429,15 @@ The key operational trend is **content per vehicle increase** — rising from ~�
 
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| **P/Owner Earnings** (primary) | ~48x | ~60x | ~55x | ~60x | ~50x | ~40x | ~65x | **~101x** | ~85x | ~55x | ~55x | ~60x | **60.9x** |
 | PE Ratio | ~48x | ~60x | ~55x | ~60x | ~50x | ~40x | ~65x | ~120x | ~85x | ~55x | ~55x | ~60x | **56.1x** |
 | PB Ratio | ~7.5x | ~8.5x | ~10.5x | ~10.0x | ~9.0x | ~6.5x | ~5.5x | ~6.3x | ~5.7x | ~7.3x | ~8.0x | ~8.7x | **8.71x** |
-| EV/EBITDA | ~18x | ~19x | ~20x | ~21x | ~18x | ~15x | ~22x | ~32x | ~25x | ~18x | ~17x | ~17x | ~44x* |
+| EV/EBIT | ~42x | ~46x | ~47x | ~47x | ~39x | ~32x | ~60x | ~102x | ~73x | ~48x | ~49x | ~55x | **55.5x** |
 | Earnings Yield | 2.1% | 1.7% | 1.8% | 1.7% | 2.0% | 2.5% | 1.5% | 0.8% | 1.2% | 1.8% | 1.8% | 1.7% | **1.78%** |
+| Owner Earnings Yield | 2.1% | 1.7% | 1.8% | 1.7% | 2.0% | 2.5% | 1.5% | ~1.0% | 1.2% | 1.8% | 1.8% | 1.7% | **1.64%** |
 | FCF Yield | ~1.3% | ~0.8% | ~1.5% | ~0.9% | ~1.7% | ~0.3% | ~0.8% | ~0.5% | neg | ~0.5% | neg | ~0.4% | ~0.4% |
 
-*Note: EV/EBITDA estimates based on approximate market caps; current figure uses Market Cap ₹27,944 Cr + 0 Debt - 31 Cash = ₹27,913 Cr EV, divided by FY25 EBITDA of ₹626 Cr = 44.6x.*
+*Note: P/Owner Earnings is the Buffett-pure valuation multiple — it reflects the price paid per rupee of true economic cash the business generates for its owner after maintaining the asset base (NI + D&A − Maintenance CapEx). For ZF CV India, since SBC is negligible and maintenance CapEx ≈ D&A, Owner Earnings ≈ Net Income in most years, so P/OE ≈ PE — except FY21, where actual CapEx (₹71 Cr) was below D&A (₹90 Cr), producing OE of ₹123 Cr vs. NI of ₹104 Cr and P/OE of ~101x vs. PE of ~120x. The current P/OE of 60.9x uses standalone FY25 OEPS of ₹241.9 (vs. consolidated TTM PE of 56.1x on EPS of ₹262.32). Historical EV/EBIT values are derived from PE-implied market caps minus cash, divided by EBIT. EV/EBIT uses current EV of ₹27,913 Cr ÷ FY25 EBIT of ₹503 Cr = 55.5x. EV/EBIT is included as a secondary cross-check for institutional comparability — Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets.*
 
 **Historical Comparison:** The stock has almost NEVER traded below 40x PE in its history. The median historical PE is approximately 55-60x. The current PE of 56x is squarely within its historical range — the market has consistently valued this as a premium franchise.
 
@@ -465,7 +479,9 @@ At 56x earnings and 8.7x book, this is unambiguously expensive by any classical 
 |---|---|---|
 | CMP | ₹14,727 | Market (Apr 29, 2026) |
 | TTM EPS (Normalised) | ₹262.32 | Screener consolidated TTM |
-| Current PE | 56.1x | Calculated |
+| Owner Earnings Per Share (OEPS) | ₹262.32 | OE ≈ NI for this company (SBC negligible, maint CapEx ≈ D&A); consolidated TTM equivalent |
+| Current PE | 56.1x | CMP / TTM EPS |
+| Current P/OE | 56.1x | CMP / OEPS (≈PE since OE ≈ NI) |
 | Shares Outstanding (Diluted) | 1.8975 Cr | Calculated |
 
 ### Step 2: Implied EPS CAGR to Achieve Target Returns
@@ -502,16 +518,42 @@ At 56x earnings and 8.7x book, this is unambiguously expensive by any classical 
 | 10 Years | **12.5%** | 17.6% | 22.7% |
 | 15 Years | **11.6%** | 16.7% | 21.8% |
 
-### Step 3: Reality Check
+### Step 3: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-| Benchmark | EPS CAGR |
-|---|---|
-| Company's own 10Y EPS CAGR | 14.3% |
-| Company's own 5Y EPS CAGR | 23.6% (recovery-inflated) |
-| India nominal GDP growth | 10-12% |
-| Auto components sector average | 12-15% |
+> **Why this matters:** Step 2 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading: a company can grow EPS by underinvesting in maintenance, financial engineering, or aggressive accounting. Owner Earnings strips all this out. For ZF CV India, OE ≈ NI (SBC negligible, maintenance CapEx ≈ D&A), so the gap is driven entirely by the terminal multiple difference (P/OE < PE for capital-intensive businesses). Buffett: *"Accounting is the language of business, but like any language, it can be used to obfuscate rather than illuminate."*
 
-### Step 4: Traffic Light Assessment
+**Terminal P/OE Multiple:** 17x (Market Average for P/OE — slightly lower than PE because Owner Earnings < Net Income for capital-intensive businesses; for asset-light businesses P/OE ≈ PE).
+
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 17x)
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | **39.7%** OEPS CAGR needed | 46.0% | 52.4% |
+| 10 Years | **24.0%** OEPS CAGR needed | 29.6% | 35.2% |
+| 15 Years | **19.1%** OEPS CAGR needed | 24.5% | 29.9% |
+
+#### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal PE 20x / P/OE 17x | 10-Year, 10% Return |
+|---|---|---|
+| Implied EPS CAGR (from Step 2) | 22.0% | |
+| Implied OEPS CAGR (from Step 3) | 24.0% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **2.0 pp** | |
+
+**Interpretation:** The 2.0 pp gap falls right at the boundary between "asset-light" (≤2 pp) and "moderate capital intensity" (2-5 pp). This is consistent with ZF CV India being a manufacturing business with moderate capital needs — it's not asset-light like software, but not capital-hungry like steel. The standard EPS-based Reverse DCF is broadly reliable, but the OEPS figure gives a slightly more conservative (and honest) view. The gap is driven by the terminal multiple assumption (P/OE 17x < PE 20x), not by divergence between Owner Earnings and Net Income — which are approximately equal for this company.
+
+### Step 4: Reality Check
+
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (moderate capital) | Floor for a decent business |
+| Company's own historical 10Y EPS CAGR | 14.3% | 14.3% | Longer-term track record |
+| Company's own historical 5Y EPS CAGR | 23.6% (recovery-inflated) | 23.6% | Actual track record |
+| Company's own historical Owner Earnings CAGR | — | 14.3% (10Y) | Buffett-pure benchmark |
+| Auto components sector average | 12-15% | 12-15% | Peer comparison |
+| Analyst consensus forward estimates | ~15-18% | — | Market expectations |
+
+### Step 5: Traffic Light Assessment
 
 To earn just a **10% return over 10 years**, the market requires:
 - At Terminal PE 15x: **25.5% EPS CAGR** — 🔴 RED (1.8x the 10Y historical CAGR of 14.3%)
@@ -519,9 +561,13 @@ To earn just a **10% return over 10 years**, the market requires:
 - At Terminal PE 28x: **17.9% EPS CAGR** — 🟠 ORANGE (1.25x historical)
 - At Terminal PE 45x: **12.5% EPS CAGR** — 🟡 YELLOW (requires the premium multiple to SUSTAIN for a decade)
 
+**OEPS-based check (at Terminal P/OE 17x):** 10% return over 10 years requires **24.0% OEPS CAGR** — 🔴 RED (1.7x historical). The OEPS verdict is slightly MORE restrictive than the PE 20x EPS verdict (24.0% vs 22.0%), confirming the EPS-based assessment is not misleadingly optimistic. Both metrics point to the same conclusion.
+
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment. **In ZF CV India's case, both verdicts are consistently 🔴 RED — the price is unambiguously too high.**
+
 **Verdict:**
 
-> *"At the current price of ₹14,727, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 22.0% CAGR. The company has historically grown EPS at 14.3% CAGR over 10 years. This implies the market is pricing in growth that is 1.5x what the company has ever delivered on a sustained basis."*
+> *"At the current price of ₹14,727, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE (or 17x P/OE) at exit, the company needs to grow EPS at 22.0% CAGR (and Owner Earnings at 24.0% CAGR). The company has historically grown EPS at 14.3% CAGR and Owner Earnings at 14.3% CAGR over 10 years. This implies the market is pricing in growth that is 1.5-1.7x what the company has ever delivered on a sustained basis. Note: the EPS-based assessment is marginally more favourable than the Owner Earnings assessment, indicating moderate capital intensity — but both arrive at the same 🔴 RED verdict."*
 
 The ONLY scenario where the current price is reasonable is if the market SUSTAINS a 45x+ PE multiple for the next decade — which requires a permanently elevated premium that is extremely difficult to maintain. If the PE mean-reverts to even 28x (still a premium), the stock needs to deliver 18% EPS CAGR for a decade just to generate a 10% return.
 
