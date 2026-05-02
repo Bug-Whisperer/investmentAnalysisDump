@@ -648,25 +648,25 @@ At ₹1,900, a meaningful margin of safety exists only if you believe in 30%+ Ow
 
 > **Why this matters:** EPS can be misleading — a company can grow EPS by underinvesting in maintenance (boosting short-term earnings while the asset base deteriorates), financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense. That's nonsense."* The same insight applies to EPS vs. Owner Earnings.
 
-**At Terminal P/OE = 17x (Market Average):**
+**At Terminal P/OE = 20x (Market Average):**
 
-*Terminal P/OE multiples are typically slightly lower than PE because Owner Earnings < Net Income for capital-intensive businesses (maintenance capex is deducted). For asset-light businesses, P/OE ≈ PE.*
+*Terminal P/OE multiples track the same relationship as current multiples. When OE < NI (maintenance capex exceeds D&A), P/OE is mechanically higher than PE — confirmed by Advait's own current multiples (P/OE 52.1x > PE 51.4x). For the terminal multiple, the same logic applies: Terminal P/OE ≈ Terminal PE × (EPS/OEPS). For Advait, EPS/OEPS = 36.93/36.46 = 1.01, so Terminal P/OE ≈ Terminal PE — the gap is negligible. We use 20x (same as terminal PE) as the Market Average terminal P/OE.*
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 37.6% OEPS CAGR needed | 43.9% | 50.1% |
-| 10 Years | 23.0% OEPS CAGR needed | 28.6% | 34.2% |
-| 15 Years | 18.5% OEPS CAGR needed | 23.9% | 29.3% |
+| 5 Years | 33.2% OEPS CAGR needed | 39.3% | 45.3% |
+| 10 Years | 21.1% OEPS CAGR needed | 26.6% | 32.1% |
+| 15 Years | 17.3% OEPS CAGR needed | 22.6% | 27.9% |
 
 ### The Divergence Test — EPS vs. OEPS Implied Growth
 
-| Metric | At Terminal Market Avg PE (20x) / P/OE (17x) | 10-Year Hurdle (10% Return) |
+| Metric | At Terminal Market Avg PE (20x) / P/OE (20x) | 10-Year Hurdle (10% Return) |
 |---|---|---|
 | Implied EPS CAGR (from Step 3) | 20.9% | |
-| Implied OEPS CAGR (from Step 3B) | 23.0% | |
-| **Gap (OEPS CAGR − EPS CAGR)** | **2.1 pp** | |
+| Implied OEPS CAGR (from Step 3B) | 21.1% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **0.2 pp** | |
 
-**Interpretation:** The 2.1 pp gap indicates **moderate capital intensity** — the business consumes some capital on maintenance (₹6 Cr/year estimated) that makes true economic earnings slightly lower than reported net income. The standard EPS-based Reverse DCF is broadly reliable for this company, but the OEPS figure (23.0%) provides a marginally more conservative and honest assessment. This is consistent with an EPC/manufacturing business — not asset-light, but not capital-hungry either.
+**Interpretation:** The 0.2 pp gap confirms this is a **mildly capital-intensive business** where EPS very closely tracks true economic earnings. Maintenance capex (₹6 Cr/year estimated) only slightly exceeds D&A (₹3 Cr/year), creating a small OE-to-NI gap (₹40 Cr vs ₹43 Cr). The standard EPS-based Reverse DCF is fully reliable for this company. This is consistent with the capital-light nature of the base EPC/supply business — the company's capital intensity comes primarily from working capital (receivables), not fixed asset maintenance.
 
 ### Reality Check — Is the Implied Growth Reasonable?
 
@@ -680,15 +680,15 @@ At ₹1,900, a meaningful margin of safety exists only if you believe in 30%+ Ow
 
 **Traffic Light Assessment:**
 
-To earn a **10% return over 10 years** assuming the PE compresses to **20x (market average)**, the company needs to grow EPS at **21% CAGR** (and Owner Earnings at **23% CAGR**) for a decade. Given the company has historically grown at 76%+ CAGR (3Y), this seems achievable — but from a much larger base.
+To earn a **10% return over 10 years** assuming the PE compresses to **20x (market average)**, the company needs to grow EPS at **21% CAGR** (and Owner Earnings at **~21% CAGR** — virtually identical, confirming EPS is reliable for this company) for a decade. Given the company has historically grown at 76%+ CAGR (3Y), this seems achievable — but from a much larger base.
 
-**Apply the Traffic Light to BOTH:** The EPS-based verdict is 🟡 YELLOW and the OEPS-based verdict is also 🟡 YELLOW (23% is higher than EPS's 21%, but still below the company's historical delivery). Both metrics agree — no divergence concern for this company.
+**Apply the Traffic Light to BOTH:** The EPS-based verdict is 🟡 YELLOW and the OEPS-based verdict is also 🟡 YELLOW (21.1% vs 20.9% — near-identical). Both metrics agree — no divergence concern for this company.
 
 **Verdict: 🟡 YELLOW — Fair but optimistic.** The market is pricing in sustained 20-25% earnings growth for a decade. The company has a track record of much higher growth, but from a much smaller base. Growth deceleration is inevitable as the base grows.
 
-> *"At the current price of ₹1,900, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 21% CAGR (and Owner Earnings at 23% CAGR). The company has historically grown EPS at 76% CAGR (3Y) and Owner Earnings at ~120% CAGR (2Y). This implies the market is pricing in optimistic but not heroic growth — the required rate is well below historical delivery, but sustaining it for a decade at growing scale is the challenge.*
+> *"At the current price of ₹1,900, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 21% CAGR (and Owner Earnings at ~21% CAGR — near-identical). The company has historically grown EPS at 76% CAGR (3Y) and Owner Earnings at ~120% CAGR (2Y). This implies the market is pricing in optimistic but not heroic growth — the required rate is well below historical delivery, but sustaining it for a decade at growing scale is the challenge.*
 >
-> *Note: the EPS-based and OEPS-based assessments are closely aligned (2.1 pp gap), confirming this is a moderately capital-intensive business where EPS is a broadly reliable indicator of true economic earnings.*
+> *Note: the EPS-based and OEPS-based assessments are virtually identical (0.2 pp gap), confirming this is a mildly capital-intensive business where EPS is a fully reliable indicator of true economic earnings.*
 
 **Buffett's Napkin Test:** *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* If the implied growth needed just to earn your hurdle rate is higher than what the company has ever delivered — or requires the company to grow at 20%+ for a decade when it's already large — **it's a pass.** At PE 51x, this is a wonderful growth story at a demanding price.
 

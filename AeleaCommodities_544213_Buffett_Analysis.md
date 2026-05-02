@@ -371,7 +371,7 @@ Buffett: *"We do not get enthused about change... we're looking for the absence 
 | FY24 | 120 | 50% | 11 | 267% | 9.2% | 20.0% |
 | FY25 | 171 | 43% | 7 | -36% | 4.1% | **-7.8%** |
 
-*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. FY25's negative incremental EBIT margin reveals that not only did revenue growth fail to generate additional pre-D&A profit, but the rising D&A from capacity expansion made it worse at the EBIT level.*
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. FY25's negative incremental EBIT margin of -7.8% is actually less severe than the pre-D&A incremental margin of -9.8% (ΔOP -5 / ΔRev 51), because D&A decreased from ₹2 Cr (FY24) to ₹1 Cr (FY25) — the D&A decline cushioned the EBIT result by ~2 ppt. The anti-scaling was driven entirely by the collapse in pre-D&A operating profit, not by rising capital intensity. As the expanded capacity matures and D&A normalises upward, this cushion will reverse.*
 
 The FY25 incremental EBIT margin was **-7.8%** — revenue grew ₹51 Cr but EBIT FELL by ₹4 Cr. This is anti-scaling in FY25. FY24 showed strong incremental EBIT margins of 20%, but it didn't sustain.
 
