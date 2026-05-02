@@ -5,7 +5,7 @@
 **52-Week High/Low:** ₹449 / ₹324 | **Dividend Yield:** 1.74% | **ROCE:** 20.0% | **ROE:** 28.1%
 **Face Value:** ₹2 | **Debt/Equity:** 0.61 | **Current Ratio:** 0.90 | **Interest Coverage:** 3.37x *(Screener-computed; see note below)*
 
-> **Note on Screener Header Metrics:** The Stock P/E of 21.2x and Interest Coverage of 3.37x are Screener's own computed figures, which use an EPS/earnings basis that differs from what can be directly derived from the consolidated P&L data shown in this document. On the document's own consolidated FY25 reported EPS of ₹75.60, the PE would be ~4.6x; on normalised Owner Earnings of ~₹61/share, it is ~5.7x. On the TTM EPS of ₹231.05 (inflated by a one-time ₹76,248 Cr Other Income), PE would be ~1.5x. The 21.2x figure likely reflects Screener's adjusted/normalised EPS computation, which may exclude extraordinary items or use a different attributable profit basis. Similarly, Interest Coverage of 3.37x differs from the FY25 computed value of 11.0x (Operating Profit / Interest = ₹56,138 / ₹5,083). Throughout this analysis, valuation is assessed on the document's own computed multiples (PE ~4.6-5.7x on different bases), not on the Screener header figure.
+> **Note on Screener Header Metrics:** The Stock P/E of 21.2x and Interest Coverage of 3.37x are Screener's own computed figures, which use an EPS/earnings basis that differs from what can be directly derived from the consolidated P&L data shown in this document. On the document's own consolidated FY25 reported EPS of ₹75.60, the PE would be ~4.6x; on normalised Owner Earnings of ~₹61/share, it is ~5.7x. On the TTM EPS of ₹231.05 (inflated by a one-time ₹76,248 Cr Other Income), PE would be ~1.5x. The 21.2x figure likely reflects Screener's adjusted/normalised EPS computation, which may exclude extraordinary items or use a different attributable profit basis. Similarly, Interest Coverage of 3.37x differs from the FY25 EBIT-based value of 6.5x (EBIT / Interest = ₹32,882 / ₹5,083). Throughout this analysis, valuation is assessed on the document's own computed multiples (PE ~4.6-5.7x on different bases), not on the Screener header figure.
 
 **Your Holding:** 262 shares @ avg ₹650.5 | **Current Value:** ₹90,390 | **Invested Value:** ₹1,70,431 | **Unrealised Loss:** ₹-80,041 (−47%)
 
@@ -63,11 +63,13 @@ Buffett: *"When a management with a reputation for brilliance tackles a business
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 232,834 | 263,159 | 273,046 | 269,693 | 291,550 | 301,938 | 261,068 | 249,795 | 278,454 | 345,967 | **434,016** | 439,695 | 349,637 |
 | Revenue Growth | — | 13% | 4% | -1% | 8% | 4% | **-14%** | -4% | 11% | 24% | **25%** | 1% | **-14%** |
-| Op. Profit | 34,853 | 39,239 | 38,395 | 29,589 | 31,458 | 24,664 | **17,987** | 32,287 | 24,720 | 31,816 | **57,809** | 56,138 | 24,455 |
-| OPM % | **15%** | **15%** | 14% | 11% | 11% | 8% | **7%** | 13% | 9% | 9% | 13% | 13% | **7%** |
+| Op. Profit (pre-D&A) | 34,853 | 39,239 | 38,395 | 29,589 | 31,458 | 24,664 | **17,987** | 32,287 | 24,720 | 31,816 | **57,809** | 56,138 | 24,455 |
+| OPM % (pre-D&A) | **15%** | **15%** | 14% | 11% | 11% | 8% | **7%** | 13% | 9% | 9% | 13% | 13% | **7%** |
+| Depreciation | 11,078 | 13,389 | 16,711 | 17,905 | 21,554 | 23,591 | 21,425 | 23,547 | 24,836 | 24,860 | 27,239 | 23,256 | 19,986 |
+| **EBIT** | 23,775 | 25,850 | 21,684 | 11,684 | 9,904 | **1,073** | **-3,438** | 8,740 | -116 | 6,956 | **30,570** | **32,882** | 4,469 |
+| **EBIT Margin** | **10%** | **10%** | 8% | 4% | 3% | **0%** | **-1%** | 4% | 0% | 2% | **7%** | **7%** | 1% |
 | Other Income | -157 | 714 | -2,670 | 1,869 | 5,933 | **-26,686** | 102 | **-11,118** | 2,424 | 6,664 | 4,807 | 10,852 | **85,293** |
 | Interest | 4,749 | 4,861 | 4,889 | 4,238 | 4,682 | 5,759 | 7,243 | 8,097 | 9,312 | 10,225 | 7,594 | 5,083 | 3,136 |
-| Depreciation | 11,078 | 13,389 | 16,711 | 17,905 | 21,554 | 23,591 | 21,425 | 23,547 | 24,836 | 24,860 | 27,239 | 23,256 | 19,986 |
 | PBT | 18,869 | 21,703 | 14,126 | 9,315 | 11,155 | **-31,371** | -10,580 | -10,474 | -7,003 | 3,394 | **27,783** | 38,651 | 86,626 |
 | Tax Rate | 25% | 35% | 21% | 35% | 39% | -8% | 4% | 24% | **60%** | 21% | **-14%** | 27% | — |
 | **Net Profit** | 14,050 | 14,073 | 11,678 | 7,557 | 9,091 | **-28,724** | -11,975 | -13,395 | -11,309 | 2,690 | **31,807** | 28,149 | 85,324 |
@@ -90,20 +92,13 @@ Buffett: *"When a management with a reputation for brilliance tackles a business
 
 **Dilution History:** Shares increased from ~322 Cr (FY14) to ~384 Cr (FY22) — **~19% dilution over 8 years**, driven by rights issues to fund JLR/operations during loss years. Recently, shares have been REDUCED (from 384 to 368 Cr) — buybacks/cancellations as profitability returned. This is positive.
 
-### EBITDA Reconstruction (₹ Crores)
-
-| Metric | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | **FY24** | FY25 | TTM |
-|---|---|---|---|---|---|---|---|---|---|
-| Operating Profit | 31,458 | 24,664 | 17,987 | 32,287 | 24,720 | 31,816 | **57,809** | 56,138 | 24,455 |
-| Depreciation | 21,554 | 23,591 | 21,425 | 23,547 | 24,836 | 24,860 | 27,239 | 23,256 | 19,986 |
-| **EBITDA** | 53,012 | 48,255 | 39,412 | 55,834 | 49,556 | 56,676 | **85,048** | 79,394 | 44,441 |
-| **EBITDA Margin** | 18% | 16% | 15% | 22% | 18% | 16% | **20%** | 18% | **13%** |
+> **Why EBIT, Not EBITDA:** This analysis tracks EBIT (Operating Profit minus D&A) as the primary operating profitability metric, not EBITDA. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* For a capital-intensive auto company like Tata Motors with ₹23-27K Cr annual D&A, EBITDA at ~13% OPM masks the reality that EBIT margin is only ~7% — the business consumes half its operating profit just maintaining its asset base. EBIT tells the truth about what the business earns AFTER the capital it consumes. For valuation, this analysis uses Owner Earnings (Section 5) and EBIT-based multiples — never EBITDA-based multiples.
 
 ### Trend Narrative — The Roller-Coaster
 
 **This is one of the most volatile P&Ls in Indian corporate history:**
 
-1. **FY14-FY15 (Good Times):** Revenue ~₹2.6 Lakh Cr, Net Profit ~₹14,000 Cr, OPM 15%. JLR was firing.
+1. **FY14-FY15 (Good Times):** Revenue ~₹2.6 Lakh Cr, Net Profit ~₹14,000 Cr, OPM 15% (pre-D&A; EBIT margin ~10%). JLR was firing.
 2. **FY16-FY18 (Gradual Decline):** Margins compressed, profits fell. China slowed, Brexit fears, Diesel-gate aftermath.
 3. **FY19 (The Collapse):** Net LOSS of ₹28,724 Cr — one of India's largest corporate losses. JLR wrote down £3.1 billion in goodwill. India CV/PV business weakened.
 4. **FY20-FY22 (The Desert Years):** Three consecutive years of net losses totalling ₹36,679 Cr. COVID, chip shortage, JLR demand destruction.
@@ -139,13 +134,16 @@ Buffett: *"Only when the tide goes out do you discover who's been swimming naked
 | Debt/Equity | 0.93 | **1.76** | **1.98** | **2.57** | **3.29** | **2.96** | 1.26 | **0.61** |
 | Net Debt (₹ Cr) | ~80,000 | ~100,000 | ~120,000 | ~135,000 | ~140,000 | ~125,000 | ~90,000 | **~50,000** |
 | Book Value/Share (₹) | 281 | 177 | 175 | 144 | 116 | 118 | 221 | **301** |
-| Debt/EBITDA | 1.7x | 2.2x | 3.2x | 2.5x | 3.0x | 2.4x | 1.3x | **0.9x** |
+| Debt/EBIT | 9.0x | **99.0x** | **N/M** | 16.3x | **N/M** | 19.3x | 3.5x | **2.2x** |
+| Net Debt/Owner Earnings | — | — | — | — | — | — | 2.5x | **2.2x** |
 | Current Ratio | — | — | — | — | — | — | — | **0.90** |
-| Interest Coverage | 6.7x | 4.3x | 2.5x | 4.0x | 2.7x | 3.1x | 7.6x | **11.0x** |
+| Interest Coverage (EBIT/Interest) | 2.1x | **0.2x** | **-0.5x** | 1.1x | **0.0x** | 0.7x | 4.0x | **6.5x** |
+
+> *Net Debt/Owner Earnings uses normalised OE of ₹22,500 Cr (not FY25 actual of ₹25,905 Cr) for a through-cycle view. Using FY25 actual OE, the ratio would be ~2.0x.*
 
 > **Note on BVPS (₹301 vs ₹316):** The consolidated balance sheet shows FY25 Shareholders' Equity of ₹1,16,144 Cr. Dividing by 368 Cr shares gives ₹316/share. However, Screener reports Book Value as ₹301, which represents equity **attributable to parent shareholders only** (excluding ~₹5,400 Cr of minority interest). This analysis uses Screener's ₹301 BVPS throughout, as it correctly reflects the per-share book value belonging to ordinary shareholders. The P/B ratio of 1.15x is based on this ₹301 figure.
 >
-> **Note on Interest Coverage:** The header's 3.37x is Screener's computed figure (possibly using a different period or formula). The FY25 annual figure computed from this document's data is ₹56,138/₹5,083 = 11.0x, reflecting the dramatic improvement in debt servicing capacity.
+> **Note on Interest Coverage:** The header's 3.37x is Screener's own displayed ratio (methodology unclear — possibly uses a different period or attributable earnings basis). A simple computation from Screener's FY25 P&L data yields 11.0x (₹56,138/₹5,083), which uses pre-D&A operating profit and thus overstates true coverage. The FY25 EBIT-based Interest Coverage used in this analysis is ₹32,882/₹5,083 = 6.5x — the most conservative metric, accounting for capital consumption before measuring debt service capacity.
 
 ### Financial Fortress Assessment — A Dramatic Transformation
 
@@ -153,8 +151,8 @@ Buffett: *"Only when the tide goes out do you discover who's been swimming naked
 
 1. **Debt collapsed from ₹1,46,449 Cr (FY22) to ₹71,540 Cr (FY25)** — nearly halved in 3 years. Debt/Equity improved from 3.29x to 0.61x.
 2. **Shareholders' equity increased 2.6x** from ₹44,561 Cr (FY22) to ₹1,16,144 Cr (FY25) — driven by profits and reserves revaluation.
-3. **Debt/EBITDA improved from 3.0x to 0.9x** — approaching investment-grade comfort levels.
-4. **Interest cost has been slashed** from ₹10,225 Cr (FY23) to ₹5,083 Cr (FY25) — a massive P&L relief.
+3. **Debt/EBIT improved from N/M (FY22, negative EBIT) to 2.2x (FY25)** — approaching manageable levels, though still elevated compared to asset-light businesses.
+4. **Interest cost has been slashed** from ₹10,225 Cr (FY23) to ₹5,083 Cr (FY25) — a massive P&L relief. EBIT-based Interest Coverage improved from 0.7x (FY23) to 6.5x (FY25).
 
 **However, this is NOT yet a financial fortress by Buffett standards:**
 - Current ratio of 0.90 means current liabilities EXCEED current assets (common for auto companies)
@@ -281,6 +279,8 @@ Buffett: *"Owner earnings represent the real economic earnings of a business."* 
 
 **ROIC of 35% (per Screener)** is impressive and suggests the OPERATING business earns good returns when the cycle cooperates. But this is a CYCLICAL business — returns mean-revert.
 
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 5 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
 Buffett: *"A great business earns high returns on capital and can reinvest at those same high returns."* — Tata Motors' returns are high SOMETIMES but terrible at other times. This is NOT a consistently high-ROIC business. The auto industry simply doesn't allow it. This disqualifies it from being a "great" Buffett business — it is, at best, a "good cyclical" business.
 
 ---
@@ -346,17 +346,19 @@ Buffett: *"We do not get enthused about change... we're looking for the absence 
 | Geographic replicability | JLR sells globally; Tata PV expanding to emerging markets | **Moderate** |
 | CAC trend | Brand awareness rising in India (EV leadership), but customer acquisition is expensive in auto | **Mixed** |
 
-### Incremental Operating Margins
+### Incremental EBIT Margins
 
-| Year | Revenue | Rev Growth | Op Profit | Op Profit Growth | Incremental OPM |
-|---|---|---|---|---|---|
-| FY22 | 278,454 | 11% | 24,720 | -23% | Negative |
-| FY23 | 345,967 | 24% | 31,816 | 29% | 10.5% |
-| FY24 | 434,016 | 25% | 57,809 | 82% | **29.5%** |
-| FY25 | 439,695 | 1% | 56,138 | -3% | Negative (margin compression on flat revenue) |
-| TTM | 349,637 | -14% | 24,455 | -56% | **Massively negative** |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY22 | 278,454 | 11% | -116 | N/M | 0% | N/M |
+| FY23 | 345,967 | 24% | 6,956 | N/M | 2% | 10.5% |
+| FY24 | 434,016 | 25% | 30,570 | 339% | 7% | **26.8%** |
+| FY25 | 439,695 | 1% | 32,882 | 8% | 7% | ~41% (small revenue base change) |
+| TTM | 349,637 | -14% | 4,469 | -86% | 1% | **Massively negative** |
 
-**The scaling picture is UGLY in the current downturn.** FY24 showed beautiful incremental margins (29.5%), but the moment revenue stalled/declined (FY25-TTM), operating leverage REVERSED brutally.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on Screener's Operating Profit (pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. A business that shows improving pre-D&A margins but declining EBIT margins is becoming more capital-intensive — a pattern EBITDA-based analysis would miss entirely.*
+
+**The scaling picture is UGLY in the current downturn.** FY24 showed strong incremental EBIT margins (26.8%), but the moment revenue stalled/declined (TTM), operating leverage REVERSED brutally — EBIT collapsed from ₹32,882 Cr to ₹4,469 Cr. Note that pre-D&A OPM (Screener's "Operating Margin") paints a more stable picture (13% → 7%) than EBIT Margin (7% → 1%) because D&A continues regardless of revenue levels.
 
 ### Scaling Verdict
 
@@ -461,12 +463,16 @@ Buffett: *"When management with a reputation for brilliance tackles a business w
 
 | Metric | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | **FY24** | FY25 | **Current** |
 |---|---|---|---|---|---|---|---|---|---|
-| PE Ratio | ~10x | **Neg** | **Neg** | **Neg** | **Neg** | ~48x | **4.2x** | 5.4x | **~5.7x** (on TTM Owner Earnings ₹61) |
+| **P/Owner Earnings** | — | — | — | — | — | — | **4.1x** | 5.4x | **5.7x** *(primary Buffett-pure multiple)* |
+| PE Ratio | ~10x | **Neg** | **Neg** | **Neg** | **Neg** | ~48x | **4.2x** | 5.4x | **~4.6x** (on FY25 EPS ₹75.60) |
 | P/B Ratio | 1.5x | 2.4x | 2.2x | 2.6x | 2.9x | 2.9x | 2.0x | 1.3x | **1.15x** |
-| EV/EBITDA | ~4.0x | ~4.5x | ~6.5x | ~5.0x | ~5.5x | ~4.5x | ~2.5x | ~2.5x | **~4.0x** |
+| EV/EBIT | ~25.7x | **N/M** | **N/M** | ~29.7x | **N/M** | ~37.9x | **~8.6x** | ~5.5x | **~5.4x** |
+| **Owner Earnings Yield** | — | — | — | — | — | — | — | — | **17.7%** (₹61 OEPS / ₹345 CMP) |
 | Dividend Yield | 0% | 0% | 0% | 0% | 0% | 0.6% | 1.4% | 1.7% | **1.74%** |
 | Earnings Yield | 10% | Neg | Neg | Neg | Neg | 2% | **24%** | 19% | **18%** |
 | P/Sales | 0.6x | 0.4x | 0.3x | 0.5x | 0.5x | 0.4x | 0.4x | 0.3x | **0.36x** |
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. For Tata Motors, EBITDA margin of ~13% masks an EBIT margin of just ~7% — the business consumes roughly half its operating profit maintaining its asset base. EV/EBIT at ~5.4x is the honest metric. **P/Owner Earnings at 5.7x is the preferred Buffett-pure multiple** — it uses true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates.
 
 ### Historical Comparison
 
@@ -486,56 +492,60 @@ Buffett: *"Price is what you pay, value is what you get."* — At 1.15x book and
 
 **Starting Owner Earnings:** ₹22,500 Cr (~₹61/share)
 
+> **Discount Rate:** This DCF uses Buffett's flat **10% hurdle rate**, not WACC. Buffett explicitly rejects WACC; Munger has called it "nonsense." Buffett: *"I just want to buy things that I can understand and where I think I'll get a 10% return."* The 10% rate reflects the minimum acceptable return for an equity investor — the opportunity cost of buying a broad market index.
+
 | Scenario | Growth Yrs 1-5 | Growth Yrs 6-10 | Terminal Growth | Discount Rate |
 |---|---|---|---|---|
-| **Conservative** | 0% (stagnation) | 5% | 3% | 11% |
-| **Base** | 8% | 6% | 3.5% | 11% |
-| **Optimistic** | 12% | 8% | 4% | 11% |
+| **Conservative** | 0% (stagnation) | 5% | 3% | **10%** |
+| **Base** | 8% | 6% | 3.5% | **10%** |
+| **Optimistic** | 12% | 8% | 4% | **10%** |
 
 #### Conservative (Stagnation + JLR Struggles)
 
 | Component | Value (₹ Cr) |
 |---|---|
-| PV of 10-year cash flows | ~1,41,000 |
-| PV of Terminal Value | ~1,19,000 |
-| Enterprise Value | ~2,60,000 |
+| PV of 10-year cash flows | ~1,46,000 |
+| PV of Terminal Value | ~1,63,000 |
+| Enterprise Value | ~3,09,000 |
 | Less: Net Debt | -50,000 |
-| Equity Value | ~2,10,000 |
-| **Intrinsic Value/Share** | **₹571** |
+| Equity Value | ~2,59,000 |
+| **Intrinsic Value/Share** | **₹704** |
 
 #### Base (Moderate Recovery + India Growth)
 
 | Component | Value (₹ Cr) |
 |---|---|
-| PV of 10-year cash flows | ~1,72,000 |
-| PV of Terminal Value | ~1,75,000 |
-| Enterprise Value | ~3,47,000 |
+| PV of 10-year cash flows | ~1,98,000 |
+| PV of Terminal Value | ~2,72,000 |
+| Enterprise Value | ~4,70,000 |
 | Less: Net Debt | -40,000 |
-| Equity Value | ~3,07,000 |
-| **Intrinsic Value/Share** | **₹834** |
+| Equity Value | ~4,30,000 |
+| **Intrinsic Value/Share** | **₹1,169** |
 
 #### Optimistic (JLR Thrives + India PV Surges)
 
 | Component | Value (₹ Cr) |
 |---|---|
-| PV of 10-year cash flows | ~2,08,000 |
-| PV of Terminal Value | ~2,52,000 |
-| Enterprise Value | ~4,60,000 |
+| PV of 10-year cash flows | ~2,35,000 |
+| PV of Terminal Value | ~3,89,000 |
+| Enterprise Value | ~6,25,000 |
 | Less: Net Debt | -30,000 |
-| Equity Value | ~4,30,000 |
-| **Intrinsic Value/Share** | **₹1,168** |
+| Equity Value | ~5,95,000 |
+| **Intrinsic Value/Share** | **₹1,616** |
 
 ### Summary Table
 
 | Scenario | Intrinsic Value | CMP ₹345 | Margin of Safety | Upside |
 |---|---|---|---|---|
-| **Conservative** | **₹571** | ₹345 | **40%** | **+65%** |
-| **Base** | **₹834** | ₹345 | **59%** | **+142%** |
-| **Optimistic** | **₹1,168** | ₹345 | **70%** | **+238%** |
+| **Conservative** | **₹704** | ₹345 | **51%** | **+104%** |
+| **Base** | **₹1,169** | ₹345 | **70%** | **+239%** |
+| **Optimistic** | **₹1,616** | ₹345 | **79%** | **+368%** |
+
+> **⚠️ Demerger Adjustment:** These values include CV business earnings (~22% of NP). Demerger-adjusted intrinsic values are approximately 20-28% lower (Conservative ~₹507-563, Base ~₹842-935, Optimistic ~₹1,164-1,293). See preamble caveat. A fresh analysis on clean post-demerger TMPV-only data is recommended.
 
 ### The Critical Insight
 
-**Even in the CONSERVATIVE scenario (zero growth for 5 years), the intrinsic value is ₹571 — 65% above the current price.** This suggests the market is pricing in something WORSE than stagnation — it's pricing in deterioration. If JLR merely survives (not thrives), and India business keeps growing modestly, the stock is significantly undervalued.
+**Even in the CONSERVATIVE scenario (zero growth for 5 years), the intrinsic value is ₹704 — 104% above the current price.** This suggests the market is pricing in something WORSE than stagnation — it's pricing in deterioration. If JLR merely survives (not thrives), and India business keeps growing modestly, the stock is significantly undervalued.
 
 **This is where the Mohnish Pabrai "Heads I Win, Tails I Don't Lose Much" framework becomes relevant** (addressed in Section 18).
 
@@ -548,8 +558,10 @@ Buffett: *"Price is what you pay, value is what you get."* — At 1.15x book and
 | Input | Value |
 |---|---|
 | CMP | ₹345 |
-| Normalised Owner Earnings/Share | ₹61 |
-| Current PE (on normalised) | 5.7x |
+| Normalised EPS (FY25) | ₹75.60 |
+| **Owner Earnings Per Share (OEPS)** | **₹61** *(Owner Earnings from Section 5 ÷ diluted shares)* |
+| Current PE (on normalised EPS) | 4.6x |
+| **Current P/OE (on OEPS)** | **5.7x** *(Buffett-pure valuation multiple)* |
 | Shares Outstanding | 368 Cr |
 
 > **Note on Reverse DCF Methodology:** The implied EPS CAGR figures in the tables below were computed using a total-return framework that accounts for dividends as part of the return (reducing the required price appreciation). Independent verification using the standard price-only formula `g = (CMP × (1+hurdle)^n / (Terminal PE × EPS))^(1/n) − 1` yields slightly higher growth requirements (e.g., +2.6% vs. −0.9% for the first cell). The directional conclusion — that the market is pricing in very low or negative growth — holds under both approaches.
@@ -575,16 +587,41 @@ Buffett: *"Price is what you pay, value is what you get."* — At 1.15x book and
 | 5 Years | <0% needed | <0% | -6.5% |
 | 10 Years | <0% needed | <0% | -2.3% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading for capital-intensive businesses: a company can grow EPS by underinvesting in maintenance (boosting short-term earnings while the asset base deteriorates). Owner Earnings strips this out — it measures the TRUE economic cash the business generates after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense... That's nonsense. In truth, depreciation is a particularly unattractive expense because the cash outlay it represents has already been made."* The same insight applies to EPS vs. Owner Earnings.
+
+**Terminal P/OE Multiple:** For a cyclical, capital-heavy auto company, P/OE multiples are typically lower than PE multiples when maintenance capex exceeds D&A (as in Tata Motors' FY25; the normalised case is closer to neutral). Using **15x** as the Market Average terminal P/OE:
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | -9.5% OEPS CAGR needed | -5.4% | -1.3% |
+| 10 Years | -0.2% OEPS CAGR needed | 4.3% | 8.8% |
+| 15 Years | 3.1% OEPS CAGR needed | 7.8% | 12.4% |
+
+### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal Market Avg PE/P(OE) | 10-Year Hurdle (10% Return) |
+|---|---|---|
+| Implied EPS CAGR (from Step 3, 18x terminal PE) | -4.1% | |
+| Implied OEPS CAGR (from Step 3B, 15x terminal P/OE) | -0.2% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **+3.9 pp** | |
+
+**Interpretation:** The 3.9 pp gap falls in the **2-5 pp range → Moderate capital intensity.** Tata Motors' business consumes meaningful capital. In FY25 specifically, maintenance capex (~₹25K Cr) slightly exceeds D&A (~₹23K Cr), making OE < NI. However, the normalised assumptions reverse this (D&A ~₹25K Cr > Maint ~₹22K Cr), bringing OE closer to NI. The divergence test gap reflects FY25-specific numbers. The EPS-based Reverse DCF is slightly MORE optimistic than the OEPS version in FY25 terms, though both confirm the same directional conclusion: the market is pricing in negative-to-flat growth, which is an extremely low bar.
+
+> **Apply the Traffic Light to BOTH:** The EPS-based verdict is 🟢 GREEN and the OEPS-based verdict is also 🟢 GREEN. Both show negative growth priced in. For Tata Motors, the EPS and OEPS verdicts are directionally consistent, reinforcing the conclusion that the valuation bar is set very low.
+
 ### Step 4: Reality Check
 
 **The market is pricing in NEGATIVE growth.** At 5.7x normalised Owner Earnings, even a 0% growth scenario with a modest 12x terminal PE gives you a strong return. The market is essentially saying: "These earnings will DECLINE and may not recover."
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| Company's 5Y Profit CAGR | 37% (but from massive loss base) |
-| Company's 10Y Revenue CAGR | 5% |
-| Industry average | 10-15% |
+| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 8-10% (capital-heavy auto) | Floor for a decent business |
+| Company's 5Y Profit CAGR | 37% (but from massive loss base) | N/M (negative OE base in FY22) | Distorted by loss base |
+| Company's 10Y Revenue CAGR | 5% | — | Longer-term track record |
+| Company's FY23→FY25 OE CAGR | — | ~92% (from low base) | Recent recovery trajectory |
+| Industry average | 10-15% | 8-12% | Peer comparison |
 
 ### Traffic Light
 
@@ -595,7 +632,9 @@ Buffett: *"Price is what you pay, value is what you get."* — At 1.15x book and
 
 ### Verdict
 
-> "At ₹345, to earn a 10% annualised return over 10 years assuming the market values the business at 12x PE at exit, the company needs to grow Owner Earnings at roughly 0% — i.e., just MAINTAIN current normalised earnings. Given Tata Motors has historically earned ₹20,000-30,000 Cr in good years, this is achievable unless JLR faces permanent impairment. The market is pricing in a VERY pessimistic scenario."
+> "At ₹345, to earn a 10% annualised return over 10 years assuming the market values the business at 12x PE at exit, the company needs to grow EPS at roughly 0% — and Owner Earnings at roughly 0% as well (the divergence is minimal at 3.9 pp). Given Tata Motors has historically earned ₹20,000-30,000 Cr in good years, just MAINTAINING current normalised earnings clears this bar unless JLR faces permanent impairment. The market is pricing in a VERY pessimistic scenario."
+
+**Note:** The EPS-based assessment and the Owner Earnings assessment are directionally consistent — both show 🟢 GREEN. The 3.9 pp gap indicates moderate capital intensity but does not change the conclusion. For this business, EPS is a reasonably reliable proxy for economic earnings.
 
 **This is 🟢 GREEN territory.** The bar is set extremely low. You don't need heroic growth — you just need survival and normalcy.
 
@@ -690,6 +729,8 @@ Buffett: *"Be greedy when others are fearful."* — The market is deeply fearful
 | **Fully Valued / Trim** | **₹600 - ₹900** | 2.0-3.0x Book | Premium valuation; requires sustained peak earnings |
 | **Overvalued / Sell** | **Above ₹900** | >3.0x Book | Priced for perfection; sell/avoid |
 
+> **⚠️ Demerger Note:** These zones are based on pre-demerger BVPS of ₹301 and earnings including CV. Post-demerger TMPV-only BVPS is likely ~₹207-235, which would shift all zones lower by roughly 20-30%. Until clean post-demerger data is available, treat these zones as approximate.
+
 ### Current Price: ₹345 — **VALUE / BUY ZONE**
 
 The stock sits firmly in the Value zone, near the lower end.
@@ -707,7 +748,7 @@ You bought at ₹650.5, which at the time was in the "Fully Valued / Trim" zone 
 **Buffett's answer is clear:** *"The stock doesn't know you own it."* Your entry price is irrelevant to the current investment decision. The ONLY question is: "Would I buy this stock today at ₹345?"
 
 Given:
-- Intrinsic value of ₹571-1,168 across scenarios (all above ₹345)
+- Intrinsic value of ₹704-1,616 across scenarios (all well above ₹345)
 - P/B of 1.15x for a 15-28% ROE business
 - Normalised Owner Earnings yield of ~18%
 - Book value compounding at ~13.8%
@@ -720,7 +761,7 @@ Given:
 3. **Time horizon must be 3-5 years** — the JLR headwinds may persist for 12-18 months; recovery is not immediate
 4. **The long-term capital loss classification is IRRELEVANT to the investment decision** — it's a tax consideration, not a valuation one
 
-Buffett: *"The most important quality for an investor is temperament, not intellect. You need a temperament that neither derives great pleasure from being with the crowd or against the crowd."* — Being down 47% is psychologically brutal. But selling a ₹571+ intrinsic value stock at ₹345 because it hurts to look at is exactly the kind of temperament failure Buffett warns against.
+Buffett: *"The most important quality for an investor is temperament, not intellect. You need a temperament that neither derives great pleasure from being with the crowd or against the crowd."* — Being down 47% is psychologically brutal. But selling a ₹704+ intrinsic value stock at ₹345 because it hurts to look at is exactly the kind of temperament failure Buffett warns against.
 
 ---
 
@@ -735,7 +776,7 @@ Buffett: *"The most important quality for an investor is temperament, not intell
 | 3 | Trustworthy management? | **Yes.** N. Chandrasekaran has executed well. Tata group governance is strong. 42.6% promoter stake. | ✅ PASS |
 | 4 | Resistant to disruption? | **NO.** EV transition, tariff risks, Chinese EV competition — massive disruption ahead. | ❌ FAIL |
 | 5 | Sustainable economics for 10+ years? | **Uncertain.** India business probably yes. JLR (71% of revenue) is highly uncertain. | ⚠️ CONDITIONAL |
-| 6 | Price below intrinsic value? | **YES, significantly.** P/B 1.15x, PE ~5.7x on normalised earnings, 40-70% margin of safety. | ✅ PASS |
+| 6 | Price below intrinsic value? | **YES, significantly.** P/B 1.15x, P/OE ~5.7x (PE ~4.6x on FY25 EPS), 51-79% margin of safety. | ✅ PASS |
 
 ### Honest Verdict
 
@@ -782,7 +823,7 @@ Buffett: *"The most important quality for an investor is temperament, not intell
 | India Business Trajectory | **9/10** | PV market share 12.1% (from 4.6%), EV leader (87% share). *(CV market leader at 44% is now under TMCV.)* |
 | JLR Recovery Potential | **5/10** | Range Rover/Defender strong, but tariffs/Jaguar relaunch are major risks |
 | Management Quality | **8/10** | Chandrasekaran has proven ability; JLR CEO Thierry Bolloré executing cost restructuring |
-| Valuation Support | **9/10** | 1.15x book, ~5.7x normalised PE — massive margin of safety |
+| Valuation Support | **9/10** | 1.15x book, P/OE ~5.7x (PE ~4.6x) — massive margin of safety |
 | Industry Tailwinds | **6/10** | India auto market growing; global luxury cyclical; EV transition is both opportunity and threat |
 | Cash Flow Generation | **7/10** | ₹63-68K Cr OCF in good years; but cyclically volatile |
 | **Overall Turnaround Score** | **7.4/10** | **High probability of value recovery; timeline uncertain** |
@@ -826,6 +867,8 @@ Mohnish Pabrai's framework asks: What's the downside if things go wrong, and wha
 - EV = ₹412.50 + ₹122.50 + ₹18.00 = **₹553**
 - **Expected return: ₹553/₹345 = +60%**
 
+> *⚠️ Demerger note: The Pabrai scenario prices and expected value use pre-demerger earnings. Demerger-adjusted "Heads" targets would be ~15-20% lower (₹510-765), and the expected value ~₹470-490 — still well above ₹345.*
+
 **THIS IS A CLASSIC PABRAI BET.** The expected value is significantly above the current price. The downside in the "Tails" scenario is limited (you roughly break even). Only in the disaster scenario (10% probability) do you face material loss. The upside (50-60% probability) is 74-161%.
 
 **The key insight:** At 1.15x book, most of the bad news is ALREADY PRICED IN. The stock would need to fall to 0.5-0.7x book (truly distressed levels) for further material downside. Given the company has ₹116,000 Cr of equity, no immediate liquidity concerns, and a strong India business, the disaster scenario requires MULTIPLE things to go wrong simultaneously.
@@ -844,8 +887,8 @@ Pabrai: *"The best investments are the ones where the downside is limited and th
 | **Moat Durability** | **4/10** | Narrow moat — JLR brand, India PV share gains. *(India CV leadership — the strongest moat — is now under TMCV.)* Eroding due to EV disruption. |
 | **Financial Health** | **7/10** | Dramatically improved — D/E 0.61, debt halved, strong OCF. Not yet a fortress (current ratio 0.90). |
 | **Management Quality** | **8/10** | N. Chandrasekaran is excellent. Tata group governance is strong. Executed turnaround brilliantly. |
-| **Valuation** | **9/10** | 1.15x book, ~5.7x normalised PE, 1.74% dividend yield. Extremely cheap by any metric. |
-| **Margin of Safety** | **8/10** | 40-70% margin of safety vs. DCF intrinsic value. Market pricing in worse-than-stagnation. |
+| **Valuation** | **9/10** | 1.15x book, P/OE ~5.7x, 1.74% dividend yield. Extremely cheap by any metric. *(Demerger-adjusted: P/B ~1.5-1.7x, P/OE ~7.8x — still cheap, less dramatically so.)* |
+| **Margin of Safety** | **9/10** | 51-79% margin of safety vs. DCF intrinsic value (at 10% Buffett hurdle rate). Market pricing in worse-than-stagnation. *(Demerger-adjusted MoS ~35-65% — still significant.)* |
 | **Growth Prospects** | **6/10** | India PV/EV is a genuine growth story (12% share, 87% EV share). JLR is uncertain. |
 | **Cash Flow Quality** | **6/10** | Strong in good years (₹63-68K Cr OCF); unreliable in bad years. Cyclical. |
 
@@ -855,14 +898,14 @@ Tata Motors Passenger Vehicles (TMPV) is the post-demerger successor entity comp
 
 **However, this is NOT a Buffett business.** The auto industry is capital-intensive, cyclical, faces existential disruption (EV transition), and has narrow moats. Buffett has historically avoided auto companies for good reason.
 
-**But at ₹345 (1.15x book, 5.7x normalised earnings), the PRICE compensates for the business quality.** Even conservative DCF scenarios show 40%+ margin of safety. The Pabrai framework shows an expected value of ₹553 (+60%). The downside in a stagnation scenario is limited (~breakeven at book value). Only a disaster (10% probability) causes material further loss.
+**But at ₹345 (1.15x book, P/OE ~5.7x on normalised Owner Earnings), the PRICE compensates for the business quality.** Even conservative DCF scenarios show 51%+ margin of safety (at Buffett's 10% hurdle rate). The Pabrai framework shows an expected value of ₹553 (+60%). The downside in a stagnation scenario is limited (~breakeven at book value). Only a disaster (10% probability) causes material further loss.
 
 **This is NOT a "buy and hold forever" Buffett stock. It IS a compelling deep-value, mean-reversion, asymmetric bet** for investors with a 3-5 year horizon and tolerance for volatility.
 
 | Verdict Component | Assessment |
 |---|---|
 | Business Quality | **Fair to Good** — Great India business, uncertain JLR |
-| Valuation Territory | **Deep Value / Buy Zone** — 1.15x book, ~5.7x normalised PE |
+| Valuation Territory | **Deep Value / Buy Zone** — 1.15x book, P/OE ~5.7x (PE ~4.6x) |
 | For YOUR 262-share holding @ ₹650.5 | **HOLD — DO NOT SELL.** Consider averaging down if you have capital and can tolerate 18-24 months of pain. Target 3-5 year recovery to ₹500-750. |
 | If Not Owned | **SELECTIVE BUY** — Position size should be moderate (not a core holding). Buy for mean-reversion, not compounding. |
 | Buy Zone | ₹240-400 (current zone — attractive) |
