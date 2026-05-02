@@ -33,8 +33,11 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 1,566 | 1,682 | 1,940 | 2,371 | 2,454 | 2,961 | 3,743 | 4,228 | 5,553 | 7,449 | 8,613 | 10,157 | 10,782 |
 | Revenue Growth % | — | 7.4% | 15.3% | 22.2% | 3.5% | 20.7% | 26.4% | 13.0% | 31.3% | 34.1% | 15.6% | 17.9% | 11% |
-| Operating Profit | 101 | 168 | 192 | 180 | 231 | 336 | 373 | 380 | 464 | 604 | 728 | 690 | 705 |
-| OPM % | 6.4% | 10.0% | 9.9% | 7.6% | 9.4% | 11.3% | 10.0% | 9.0% | 8.4% | 8.1% | 8.5% | 6.8% | 6.5% |
+| Operating Profit (pre-D&A) | 101 | 168 | 192 | 180 | 231 | 336 | 373 | 380 | 464 | 604 | 728 | 690 | 705 |
+| OPM % (pre-D&A) | 6.4% | 10.0% | 9.9% | 7.6% | 9.4% | 11.3% | 10.0% | 9.0% | 8.4% | 8.1% | 8.5% | 6.8% | 6.5% |
+| Depreciation & Amortisation | 8 | 6 | 6 | 11 | 12 | 13 | 37 | 40 | 47 | 59 | 132 | 121 | 102 |
+| **EBIT** | **93** | **162** | **186** | **169** | **219** | **323** | **336** | **340** | **417** | **545** | **596** | **569** | **603** |
+| **EBIT Margin** | **5.9%** | **9.6%** | **9.6%** | **7.1%** | **8.9%** | **10.9%** | **9.0%** | **8.0%** | **7.5%** | **7.3%** | **6.9%** | **5.6%** | **5.6%** |
 | Net Profit | 78 | 133 | 159 | 157 | 192 | 249 | 277 | 244 | 376 | 452 | 308 | 425 | 441 |
 | NP Growth % | — | 70.5% | 19.5% | -1.3% | 22.3% | 29.7% | 11.2% | -11.9% | 54.1% | 20.2% | -31.9% | 38.0% | 8% |
 | NPM % | 5.0% | 7.9% | 8.2% | 6.6% | 7.8% | 8.4% | 7.4% | 5.8% | 6.8% | 6.1% | 3.6% | 4.2% | 4.1% |
@@ -42,9 +45,6 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 | EPS Growth % | — | 72.2% | 18.7% | -1.6% | 23.3% | 29.4% | 11.1% | -11.9% | 54.3% | 20.1% | -31.8% | 37.6% | — |
 | Shares Out (Cr) | 28.2 | 27.9 | 28.1 | 28.2 | 27.9 | 28.0 | 28.0 | 28.1 | 28.0 | 28.0 | 28.0 | 28.1 | 28.03 |
 | Shares Change % | — | -1.0% | 0.8% | 0.4% | -0.9% | 0.2% | 0.1% | 0.0% | -0.1% | 0.1% | -0.1% | 0.3% | — |
-| EBITDA (=OP) | 101 | 168 | 192 | 180 | 231 | 336 | 373 | 380 | 464 | 604 | 728 | 690 | 705 |
-| EBITDA Margin % | 6.4% | 10.0% | 9.9% | 7.6% | 9.4% | 11.3% | 10.0% | 9.0% | 8.4% | 8.1% | 8.5% | 6.8% | 6.5% |
-| Depreciation | 8 | 6 | 6 | 11 | 12 | 13 | 37 | 40 | 47 | 59 | 132 | 121 | 102 |
 | Interest | 2 | 3 | 8 | 9 | 5 | 3 | 15 | 15 | 18 | 19 | 85 | 65 | 42 |
 | Div Payout % | 51% | 55% | 60% | 60% | 57% | 53% | 76% | 60% | 58% | 48% | 103% | 29% | — |
 
@@ -52,7 +52,7 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 
 Revenue has grown at a **10-year CAGR of ~20%**, impressive at first glance. However, this is heavily driven by the low-margin domestic distribution segment (which passes through Microsoft licence revenues). The IITS segment — where real value resides — has grown at roughly 15-18% over the same period.
 
-Operating margins tell a concerning story: OPM has **compressed from ~10% (FY2015-16) to ~7% (FY2025)**. This compression coincides with the Quant Systems acquisition integration costs, rising employee costs, and competitive pricing pressure in the IT services market. The domestic distribution business structurally pulls down blended margins (it operates at 2-3% OPM).
+Operating margins tell a concerning story: OPM (pre-D&A) has **compressed from ~10% (FY2015-16) to ~7% (FY2025)**. More revealingly, **EBIT Margin** — the true after-capital-charge operating profitability — has compressed from ~9.6% to just **5.6%**, as rising D&A from the Quant Systems acquisition (₹132 Cr in FY24 vs. ₹13 Cr in FY19) consumes an increasing share of operating profit. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* For Sonata, the gap between OPM (6.8%) and EBIT Margin (5.6%) in FY25 — 120bps — represents real capital consumption that EBITDA-based analysis would ignore. This compression coincides with the Quant Systems acquisition integration costs, rising employee costs, and competitive pricing pressure in the IT services market.
 
 Net profit growth has been slower than revenue growth — a **10-year profit CAGR of ~12% vs. 20% revenue CAGR** — confirming margin compression. The FY2024 net profit of ₹308 Cr was anomalously low due to a ₹155 Cr negative other income hit in Q3 FY2024 (likely a one-time acquisition-related write-down or forex loss), pulling the full-year down despite solid operating performance.
 
@@ -77,6 +77,9 @@ Buffett: *"In the business world, the rearview mirror is always clearer than the
 | Net Debt/(Cash) | -52 | -40 | 124 | -73 | -164 | -130 | 72 | 109 | 0 | 370 | 520 | 267 |
 | BVPS (₹) | 13.32 | 15.39 | 16.77 | 20.93 | 23.36 | 27.42 | 23.86 | 32.26 | 39.22 | 46.4 | 50.25 | 60.78 |
 | Debt/Equity | 0.02 | 0.06 | 0.37 | 0.09 | 0.05 | 0.02 | 0.13 | 0.2 | 0.14 | 0.45 | 0.54 | 0.3 |
+| Debt/EBIT | 0.1x | 0.1x | 0.9x | 0.3x | 0.2x | 0.0x | 0.3x | 0.5x | 0.4x | 1.1x | 1.3x | 0.9x |
+| Net Debt/Owner Earnings | -0.6x | -0.3x | 1.0x | -0.4x | -0.8x | -0.6x | 0.3x | 0.4x | 0.0x | 1.0x | 1.3x | 0.5x |
+| Interest Coverage (EBIT/Int.) | 46.5x | 54.0x | 23.2x | 18.8x | 43.8x | 107.7x | 22.4x | 22.7x | 23.2x | 28.7x | 7.0x | 8.8x |
 | Fixed Assets | 17 | 23 | 120 | 118 | 114 | 199 | 298 | 324 | 427 | 1,732 | 1,671 | 1,603 |
 
 **Analysis:**
@@ -130,11 +133,12 @@ The FY2025 FCF recovery to ₹565 Cr (on ₹10,157 Cr revenue) is encouraging �
 | ROE % | 20.8% | 33.1% | 35.3% | 29.6% | 30.9% | 35.0% | 38.6% | 31.0% | 37.5% | 37.7% | 22.7% | 27.3% |
 | ROIC % | 22.8% | 34.4% | 27.3% | 22.3% | 34.0% | 42.3% | 39.5% | 29.9% | 32.9% | 33.1% | 27.1% | 26.2% |
 | Debt/Equity | 0.02 | 0.06 | 0.37 | 0.09 | 0.05 | 0.02 | 0.13 | 0.2 | 0.14 | 0.45 | 0.54 | 0.3 |
-| OPM % | 6.4% | 10.0% | 9.9% | 7.6% | 9.4% | 11.3% | 10.0% | 9.0% | 8.4% | 8.1% | 8.5% | 6.8% |
+| OPM % (pre-D&A, Screener) | 6.4% | 10.0% | 9.9% | 7.6% | 9.4% | 11.3% | 10.0% | 9.0% | 8.4% | 8.1% | 8.5% | 6.8% |
+| **EBIT Margin %** | **5.9%** | **9.6%** | **9.6%** | **7.1%** | **8.9%** | **10.9%** | **9.0%** | **8.0%** | **7.5%** | **7.3%** | **6.9%** | **5.6%** |
 | NPM % | 5.0% | 7.9% | 8.2% | 6.6% | 7.8% | 8.4% | 7.4% | 5.8% | 6.8% | 6.1% | 3.6% | 4.2% |
 | Debtor Days | 49 | 67 | 67 | 80 | 59 | 100 | 68 | 53 | 61 | 61 | 68 | 63 |
 | Working Capital Days | -7 | 9 | -1 | 8 | -11 | 24 | -4 | -18 | -17 | -34 | -47 | -21 |
-| Interest Coverage | 50.5x | 56.0x | 24.0x | 20.0x | 46.2x | 112.0x | 24.9x | 25.3x | 25.8x | 31.8x | 8.6x | 10.6x |
+| Interest Coverage (EBIT/Int.) | 46.5x | 54.0x | 23.2x | 18.8x | 43.8x | 107.7x | 22.4x | 22.7x | 23.2x | 28.7x | 7.0x | 8.8x |
 | Div Payout % | 51% | 55% | 60% | 60% | 57% | 53% | 76% | 60% | 58% | 48% | 103% | 29% |
 
 ### Part B: Buffett's Quality Checklist
@@ -149,12 +153,14 @@ The FY2025 FCF recovery to ₹565 Cr (on ₹10,157 Cr revenue) is encouraging �
 | Positive Free Cash Flow | Positive | ₹565 Cr (FY25) | ✅ |
 | Promoter/Insider holding | Aligned | 28.17% | ⚠️ Low |
 | Dividend payout | Paying | ~59% avg (12Y) | ✅ |
-| OPM stability | Stable | 6.4%-11.3% range | ⚠️ Compressing |
+| EBIT Margin stability | Stable | 5.6%-10.9% range | ⚠️ Compressing |
 | Moat / Pricing Power | Identifiable | Microsoft ecosystem partner; moderate switching costs | ⚠️ |
 | ROIC > 15% | >15% | 26.2% (FY25) | ✅ |
 | Earnings Yield | Reasonable | 6.1% | ✅ |
 
-Sonata passes most of Buffett's quality benchmarks. The ROCE of 40.0% (10Y avg) and ROE of 32.6% are excellent and signal a business earning well above its cost of capital. However, two concerns emerge: (1) OPM has compressed from ~10% to ~7%, suggesting either pricing pressure or business mix shift toward lower-margin work, and (2) promoter holding at 28.17% is on the lower side. The ratio trends reveal a business with a strong historical moat (consistently high ROCE/ROE) but with early signs of moat compression (declining OPM).
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
+Sonata passes most of Buffett's quality benchmarks. The ROCE of 40.0% (10Y avg) and ROE of 32.6% are excellent and signal a business earning well above its cost of capital. However, two concerns emerge: (1) EBIT Margin has compressed from ~9.6% to ~5.6% — even more sharply than OPM — as rising D&A from the Quant Systems acquisition consumes an increasing share of operating profit, and (2) promoter holding at 28.17% is on the lower side. The ratio trends reveal a business with a strong historical moat (consistently high ROCE/ROE) but with clear signs of moat compression (declining EBIT Margin).
 
 ---
 
@@ -165,8 +171,11 @@ Sonata passes most of Buffett's quality benchmarks. The ROCE of 40.0% (10Y avg) 
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 2,261 | 1,914 | 2,016 | 1,913 | 2,493 | 2,192 | 2,527 | 2,170 | 2,843 | 2,617 | 2,965 | 2,119 | 3,081 |
-| Operating Profit | 156 | 152 | 178 | 197 | 208 | 144 | 176 | 177 | 164 | 173 | 160 | 173 | 200 |
-| OPM % | 7% | 8% | 9% | 10% | 8% | 7% | 7% | 8% | 6% | 7% | 5% | 8% | 6% |
+| Operating Profit (pre-D&A) | 156 | 152 | 178 | 197 | 208 | 144 | 176 | 177 | 164 | 173 | 160 | 173 | 200 |
+| OPM % (pre-D&A) | 7% | 8% | 9% | 10% | 8% | 7% | 7% | 8% | 6% | 7% | 5% | 8% | 6% |
+| Depreciation | 14 | 19 | 31 | 33 | 34 | 34 | 33 | 33 | 32 | 23 | 26 | 26 | 27 |
+| **EBIT** | **142** | **133** | **147** | **164** | **174** | **110** | **143** | **144** | **132** | **150** | **134** | **147** | **173** |
+| **EBIT Margin %** | **6.3%** | **6.9%** | **7.3%** | **8.6%** | **7.0%** | **5.0%** | **5.7%** | **6.6%** | **4.6%** | **5.7%** | **4.5%** | **6.9%** | **5.6%** |
 | Net Profit | 118 | 114 | 120 | 124 | -46 | 110 | 106 | 106 | 105 | 108 | 109 | 120 | 104 |
 | EPS (₹) | 4.2 | 4.06 | 4.28 | 4.43 | -1.65 | 3.94 | 3.77 | 3.8 | 3.74 | 3.83 | 3.9 | 4.29 | 3.72 |
 | Other Income | 17 | 25 | 28 | 23 | -155 | 55 | 19 | 19 | 21 | 11 | 24 | 31 | -20 |
@@ -175,7 +184,7 @@ Sonata passes most of Buffett's quality benchmarks. The ROCE of 40.0% (10Y avg) 
 
 1. **Revenue Trajectory:** Quarterly revenue shows a clear pattern of high-revenue "Q3" quarters (Dec quarter, often the strongest for Microsoft licence renewals in the domestic segment) alternating with lower Q2/Q4 quarters. The domestic distribution business creates significant revenue lumpiness — Dec 2025 revenue of ₹3,081 Cr vs Sep 2025 of ₹2,119 Cr (a 45% swing!) demonstrates this volatility is structural, not concerning.
 
-2. **Margin Trend:** OPM has been ranging between 5-10% over the last 13 quarters — compressed versus the 8-11% range seen in FY2019-FY2023. The Q3 FY26 (Dec25) quarter shows 6% OPM on ₹3,081 Cr revenue, while Q2 FY26 (Sep25) shows 8% OPM on ₹2,119 Cr. Higher domestic distribution quarters naturally have lower blended OPM.
+2. **Margin Trend:** OPM (pre-D&A) has been ranging between 5-10% over the last 13 quarters. More critically, **EBIT Margin has been compressing** — from 7-9% in FY2023 quarters to 4.5-6.9% in recent quarters. The gap between OPM and EBIT Margin has widened as D&A rose post-acquisition (from ₹14 Cr/quarter pre-acquisition to typically ₹26-34 Cr/quarter post-acquisition, with some quarters lower at ₹19-23 Cr). This is precisely the pattern that EBITDA-based analysis would miss: OPM looks "stable at 7%", but EBIT Margin reveals the true after-capital-charge profitability is declining. Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"*
 
 3. **Normalised Quarterly EPS Run-Rate:** Excluding the anomalous Dec23 quarter (₹-1.65 EPS due to a one-time ₹155 Cr negative other income), the normalised quarterly EPS has been stable at ₹3.70-₹4.30. Annualised normalised EPS = **~₹15.5-16.0**, which validates the TTM EPS of ₹15.74.
 
@@ -278,23 +287,25 @@ Buffett: *"The best business to own is one that over an extended period can empl
 
 ### Part A: Unit Economics of Scaling
 
-**Profit Scalability — Incremental Operating Margin:**
+**Profit Scalability — Incremental EBIT Margin:**
 
-| Period | Δ Revenue | Δ Op Profit | Incremental OPM | Actual OPM |
+| Period | Δ Revenue | ΔEBIT | Incremental EBIT Margin | Actual EBIT Margin |
 |---|---|---|---|---|
-| FY2014→FY2015 | 116 | 67 | 57.8% | 10.0% |
-| FY2015→FY2016 | 258 | 24 | 9.3% | 9.9% |
-| FY2016→FY2017 | 431 | -12 | -2.8% | 7.6% |
-| FY2017→FY2018 | 83 | 51 | 61.4% | 9.4% |
-| FY2018→FY2019 | 507 | 105 | 20.7% | 11.3% |
-| FY2019→FY2020 | 782 | 37 | 4.7% | 10.0% |
-| FY2020→FY2021 | 485 | 7 | 1.4% | 9.0% |
-| FY2021→FY2022 | 1,325 | 84 | 6.3% | 8.4% |
-| FY2022→FY2023 | 1,896 | 140 | 7.4% | 8.1% |
-| FY2023→FY2024 | 1,164 | 124 | 10.7% | 8.5% |
-| FY2024→FY2025 | 1,544 | -38 | -2.5% | 6.8% |
+| FY2014→FY2015 | 116 | 69 | 59.5% | 9.6% |
+| FY2015→FY2016 | 258 | 24 | 9.3% | 9.6% |
+| FY2016→FY2017 | 431 | -17 | -3.9% | 7.1% |
+| FY2017→FY2018 | 83 | 50 | 60.2% | 8.9% |
+| FY2018→FY2019 | 507 | 104 | 20.5% | 10.9% |
+| FY2019→FY2020 | 782 | 13 | 1.7% | 9.0% |
+| FY2020→FY2021 | 485 | 4 | 0.8% | 8.0% |
+| FY2021→FY2022 | 1,325 | 77 | 5.8% | 7.5% |
+| FY2022→FY2023 | 1,896 | 128 | 6.8% | 7.3% |
+| FY2023→FY2024 | 1,164 | 51 | 4.4% | 6.9% |
+| FY2024→FY2025 | 1,544 | -27 | -1.7% | 5.6% |
 
-**Scaling Assessment:** The incremental margin picture is mixed. In the high-growth years (FY2019, FY2022), incremental margins were above current margins — indicating genuine scaling. However, in recent years (FY2024-FY2025), incremental margins have been BELOW current margins — suggesting scaling friction. The Quant Systems integration costs and the growing weight of the low-margin distribution business are the primary culprits.
+*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. For Sonata, the FY2024→FY2025 incremental EBIT margin of -1.7% (versus the already-low incremental OPM of -2.5% on pre-D&A figures) confirms that growth is not only not scaling — it is actively diluting EBIT. D&A actually declined in this period (₹132 Cr → ₹121 Cr), so the EBIT picture is actually slightly less bad than the OPM picture for this specific year, but the structural trend is clear.*
+
+**Scaling Assessment:** The incremental EBIT margin picture is mixed. In the high-growth years (FY2019, FY2022), incremental EBIT margins were above current margins — indicating genuine scaling. However, in recent years (FY2024-FY2025), incremental EBIT margins have been BELOW current margins and turned negative — suggesting scaling friction. The Quant Systems integration costs, rising D&A, and the growing weight of the low-margin distribution business are the primary culprits.
 
 ### Part B: Scaling Runway
 
@@ -366,14 +377,19 @@ The operational metrics reveal a company that is strategically well-positioned (
 |---|---|---|
 | CMP | ₹257 |  |
 | Consolidated TTM EPS | ₹15.74 |  |
+| **Owner Earnings Per Share (OEPS)** | **₹18.34** | **(primary Buffett-pure metric)** — OE ₹514 Cr ÷ 28.03 Cr shares |
+| **P/Owner Earnings** | **14.0x** | **(primary Buffett-pure multiple)** — CMP ÷ OEPS |
 | PE (TTM) | 16.3x | Below 5Y median (~25x); near historical lows |
+| **Owner Earnings Yield** | **7.1%** | OEPS ÷ CMP — attractive vs. fixed income and equity risk premium |
+| Earnings Yield | 6.1% | TTM EPS ÷ CMP |
 | Book Value Per Share | ₹63.2 | Sep 2025 half-year; FY25 year-end BVPS = ₹60.78 (see Section 3 note) |
 | P/B | 4.1x | Reasonable for IT services quality |
-| EV/EBITDA | 10.8x | On FY25 EBITDA of ₹690 Cr; 10.6x on TTM EBITDA of ₹705 Cr |
-| Earnings Yield | 6.1% | Attractive vs. fixed income |
+| EV/EBIT | 13.1x | EV ₹7,471 Cr ÷ FY25 EBIT ₹569 Cr; 12.4x on TTM EBIT ₹603 Cr |
 | P/S Ratio | 0.7x | Low — reflects high-revenue/low-margin mix |
 | Dividend Yield | 1.71% |  |
 | 52W High/Low | ₹464.2/₹207.15 | Trading ~45% off high; ~24% above low |
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. For Sonata, the gap is telling: EV/EBITDA (10.6x on TTM) vs. EV/EBIT (12.4x) — a 17% difference. The EBIT figure accounts for the ₹102 Cr of annual D&A that represents real capital consumption. **P/Owner Earnings (14.0x) is the preferred Buffett-pure multiple** — it starts from the true economic earnings and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."*
 
 **Historical Comparison:** Sonata Software historically traded at 25-40x PE during FY2018-FY2023, driven by high growth expectations and the IT sector premium. The current PE of 16.3x represents a **significant de-rating** — the market is pricing in concerns about margin sustainability, competitive pressure, and the acquisition integration. The stock has never sustained below 15x PE for extended periods in its history, suggesting this is either a deep value opportunity or a structural re-rating to lower multiples.
 
@@ -385,13 +401,15 @@ At 4.1x P/B with 27% ROE, Sonata is trading at a moderate premium to book — ju
 
 **Starting Owner Earnings: ₹514 Cr (Base Owner Earnings — SBC is negligible for Sonata)**
 
+> *Discount Rate: This DCF uses Buffett's flat **10% hurdle rate** — the minimum return he requires to commit capital. Buffett explicitly rejects WACC; Munger has called it "nonsense." A WACC-based rate for Sonata (~11-12%) is noted for academic comparability, but the 10% hurdle is the default for Buffett-style analysis.*
+
 | Scenario | Growth Y1-5 | Growth Y6-10 | Terminal | Discount | Enterprise Value (₹ Cr) | Less Net Debt | Equity Value | IV/Share (₹) | Margin of Safety | Upside/(Downside) |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Conservative | 8% | 5% | 4% | 11% | 9,351 | 267 | 9,084 | ₹324.0 | 20.7% | 26.1% |
-| Base | 12% | 8% | 4% | 11% | 12,129 | 267 | 11,862 | ₹423.0 | 39.2% | 64.6% |
-| Optimistic | 15% | 10% | 4% | 11% | 14,616 | 267 | 14,349 | ₹512.0 | 49.8% | 99.2% |
+| Conservative | 8% | 5% | 4% | 10% | 10,918 | 267 | 10,651 | ₹380 | 32.4% | 47.9% |
+| Base | 12% | 8% | 4% | 10% | 14,271 | 267 | 14,004 | ₹500 | 48.6% | 94.6% |
+| Optimistic | 15% | 10% | 4% | 10% | 17,279 | 267 | 17,012 | ₹607 | 57.7% | 136.2% |
 
-The base case intrinsic value of **₹423.0** per share suggests a **39.2% margin of safety** at the current price of ₹257. Even the conservative scenario produces an intrinsic value of ₹324.0, offering 20.7% margin of safety.
+The base case intrinsic value of **₹500** per share suggests a **48.6% margin of safety** at the current price of ₹257. Even the conservative scenario produces an intrinsic value of ₹380, offering 32.4% margin of safety.
 
 The DCF is driven by owner earnings of ₹514 Cr — which is above reported net income due to the D&A vs. maintenance capex excess typical of asset-light IT businesses.
 
@@ -399,7 +417,7 @@ The DCF is driven by owner earnings of ₹514 Cr — which is above reported net
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = ₹257 | Normalised TTM EPS = ₹15.74 | Current PE = 16.3x
+**Inputs:** CMP = ₹257 | Normalised TTM EPS = ₹15.74 | Current PE = 16.3x | **Owner Earnings Per Share (OEPS) = ₹18.34** (OE ₹514 Cr ÷ 28.03 Cr shares) | **Current P/OE = 14.0x** (Buffett-pure valuation multiple)
 
 **At Terminal PE = Mature (15x)**
 
@@ -435,16 +453,53 @@ The DCF is driven by owner earnings of ₹514 Cr — which is above reported net
 
 **Reality Check:**
 
-| Benchmark | Value |
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE. But EPS can be misleading: a company can grow EPS by underinvesting in maintenance or through financial engineering. Owner Earnings strips this out — it measures the TRUE economic cash the business generates. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."* The same insight applies to EPS vs. Owner Earnings.
+
+**At Terminal P/OE = Market Average (17x):**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 5.8% OEPS CAGR | 10.6% | 15.5% |
+| 10 Years | 7.9% OEPS CAGR | 12.8% | 17.7% |
+| 15 Years | 8.6% OEPS CAGR | 13.5% | 18.5% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal Mkt Avg PE (20x) / P/OE (17x), 10-Year, 10% Hurdle |
 |---|---|
-| India nominal GDP growth | 10-12% |
-| Sonata 5Y EPS CAGR | 8.9% |
-| Sonata 10Y EPS CAGR | 12.2% |
-| IT sector average growth | 12-15% |
+| Implied EPS CAGR (from Step 3) | 7.8% |
+| Implied OEPS CAGR (from Step 3B) | 7.9% |
+| **Gap (OEPS CAGR − EPS CAGR)** | **0.1 pp** |
 
-**Verdict:** At the current price of ₹257, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at **7.8% CAGR**. The company has historically grown EPS at 12.2% CAGR. This implies **the market is pricing in reasonable to moderately pessimistic growth** — the implied growth needed is BELOW the historical track record.
+**Interpretation:** Gap ≤ 2 pp → **Asset-light business, EPS is reliable.** Sonata's IT services model consumes very little capital — D&A far exceeds maintenance capex, so Owner Earnings are actually HIGHER than Net Income. The standard EPS-based Reverse DCF is trustworthy for this company. This is the expected pattern for an IT services company — in sharp contrast to capital-heavy industrials where the gap can exceed 5 pp.
 
-🟢 **GREEN — Reasonable price.** The market is NOT demanding heroic assumptions. At terminal PE of 20x (market average), the stock only needs ~7.8% EPS CAGR to deliver 10% returns — well within Sonata's demonstrated capability.
+### Step 4: Reality Check — Is the Implied Growth Reasonable?
+
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| Sonata 5Y EPS CAGR | 8.9% | — | Actual track record |
+| Sonata 10Y EPS CAGR | 12.2% | — | Longer-term track record |
+| Sonata 10Y OE CAGR | — | 14.4% | Buffett-pure benchmark |
+| Sonata 5Y OE CAGR | — | 14.6% | Recent OE track record |
+| IT sector average growth | 12-15% | 12-15% | Peer comparison |
+| Analyst consensus | ~15% | — | Market expectations |
+
+**Traffic Light System:**
+
+The implied 7.8% EPS CAGR (or 7.9% OEPS CAGR) needed for a 10% return at 20x/17x terminal multiples over 10 years is **well below** both the historical EPS CAGR of 12.2% and the historical OE CAGR of 14.4%.
+
+🟢 **GREEN — Reasonable price** on BOTH the EPS and OEPS basis. The EPS and OEPS verdicts are concordant (gap of only 0.1 pp), confirming this is an asset-light business where EPS reliably tracks true economic earnings. The market is NOT demanding heroic assumptions.
+
+> *Note: Apply the Traffic Light to BOTH the EPS and OEPS implied growth. If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment. For Sonata, both are 🟢 — no divergence.*
+
+### Step 5: The Verdict — Reasonable Price or Crazy Price?
+
+> *"At the current price of ₹257, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 7.8% CAGR (and Owner Earnings at 7.9% CAGR at 17x terminal P/OE). The company has historically grown EPS at 12.2% CAGR and Owner Earnings at 14.4% CAGR. This implies the market is pricing in reasonable to moderately pessimistic growth — the implied growth needed is BELOW the historical track record. Note: the EPS-based assessment and the Owner Earnings assessment are virtually identical (0.1 pp gap), confirming Sonata is an asset-light business where EPS is a reliable proxy for true economic earnings."*
+
+**Buffett's Napkin Test:** *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* At ₹257, the stock needs just ~8% earnings growth for a decade to deliver 10% returns at a market-average exit PE. The company has delivered 12%+ growth historically. This passes the napkin test.
 
 ---
 
@@ -458,20 +513,20 @@ The DCF is driven by owner earnings of ₹514 Cr — which is above reported net
 | Trough Earnings | Worst EPS ₹2.77 × 12x | ₹33.0 | -87.0% |
 | **Historical Low PE** | **~12x × TTM EPS ₹15.74** | **₹189** | **-26.5%** |
 
-> *Note: The Conservative DCF intrinsic value of ₹324 from Section 15 is ABOVE CMP — it represents the floor of intrinsic value (upside), not a downside scenario. The most probable downside floor is the Historical Low PE scenario at ₹189.*
+> *Note: The Conservative DCF intrinsic value of ₹380 from Section 15 is ABOVE CMP — it represents the floor of intrinsic value (upside), not a downside scenario. The most probable downside floor is the Historical Low PE scenario at ₹189.*
 
 **Upside Case:**
 
 | Scenario | Basis | Price | Upside |
 |---|---|---|---|
-| Base DCF | From Section 15 | ₹423.0 | 64.6% |
-| Optimistic DCF | From Section 15 | ₹512.0 | 99.2% |
-| Re-rating to 20x PE | 20x × ₹15.74 | ₹315 | 22.0% |
-| Re-rating to 25x PE | 25x × ₹15.74 | ₹394 | 53.0% |
+| Base DCF | From Section 15 | ₹500 | 94.6% |
+| Optimistic DCF | From Section 15 | ₹607 | 136.2% |
+| Re-rating to 20x PE | 20x × ₹15.74 | ₹315 | 22.6% |
+| Re-rating to 25x PE | 25x × ₹15.74 | ₹394 | 53.3% |
 
-**Asymmetry Ratio:** Base upside of 64.6% vs. probable downside of 26.5% (to ₹189 at 12x trough PE) = **2.4:1**
+**Asymmetry Ratio:** Base upside of 94.6% vs. probable downside of 26.5% (to ₹189 at 12x trough PE) = **3.6:1**
 
-This is a **decent pitch** — positive expected value with 2.4:1 asymmetry.
+This is a **strong fat pitch** — favourable risk/reward with 3.6:1 asymmetry. The business would need to materially deteriorate to lose significant money, while moderate execution delivers excellent returns.
 
 **Mispricing Identification:**
 
@@ -522,24 +577,24 @@ The mispricing opportunity is **PRESENT**. The market is mispricing Sonata becau
 
 | Zone | Price Range | P/B Range | Rationale |
 |---|---|---|---|
-| Deep Value / Strong Buy | < ₹227 | < 3.6x P/B | Exceptional MoS; back up the truck |
-| Value / Buy | ₹227-₹324 | 3.6-5.1x P/B | Below conservative IV; attractive risk-reward |
-| Fair Value / Hold | ₹324-₹423 | 5.1-6.7x P/B | Fairly priced; hold for compounding |
-| Fully Valued / Trim | ₹423-₹512 | 6.7-8.1x P/B | Above fair value; limited upside |
-| Overvalued / Sell | > ₹512 | > 8.1x P/B | Priced for perfection |
+| Deep Value / Strong Buy | < ₹266 | < 4.2x P/B | Exceptional MoS; back up the truck |
+| Value / Buy | ₹266-₹380 | 4.2-6.0x P/B | Below conservative IV; attractive risk-reward |
+| Fair Value / Hold | ₹380-₹500 | 6.0-7.9x P/B | Fairly priced; hold for compounding |
+| Fully Valued / Trim | ₹500-₹607 | 7.9-9.6x P/B | Above fair value; limited upside |
+| Overvalued / Sell | > ₹607 | > 9.6x P/B | Priced for perfection |
 
-> *Note: The P/B ranges appear elevated because Sonata is an asset-light IT services business with 27% ROE — such businesses structurally trade at high P/B multiples. The price ranges above are DCF-derived (from Section 15) and represent the primary buy-zone framework; the P/B column is the implied P/B at those prices using BVPS of ₹63.2 (Sep 2025 half-year).*
+> *Note: The P/B ranges appear elevated because Sonata is an asset-light IT services business with 27% ROE — such businesses structurally trade at high P/B multiples. The price ranges above are DCF-derived (from Section 15, at 10% Buffett hurdle rate) and represent the primary buy-zone framework; the P/B column is the implied P/B at those prices using BVPS of ₹63.2 (Sep 2025 half-year).*
 
-**Current Price ₹257 falls in the: Value / Buy zone.**
+**Current Price ₹257 falls in the: Deep Value / Strong Buy zone.**
 
 **If You Already Hold — Buffett's Recommendation by Entry Price:**
 
 | Entry Zone | Entry Price | Current P&L | Buffett Action | Reasoning |
 |---|---|---|---|---|
-| Deep Value | < ₹227 | Profitable | HOLD with conviction | Bought at great prices; let compounding work |
-| Value | ₹227-₹324 | Profitable or small loss | HOLD / Accumulate on dips | Good entry; business fundamentals intact |
-| Fair Value | ₹324-₹423 | Likely in loss | HOLD if thesis intact | Patience required; wait for earnings recovery |
-| Overvalued | > ₹423 | In significant loss | Review thesis critically | If fundamentals unchanged, average down; if deteriorating, book loss |
+| Deep Value | < ₹266 | Profitable | HOLD with conviction | Bought at great prices; let compounding work |
+| Value | ₹266-₹380 | Profitable or small loss | HOLD / Accumulate on dips | Good entry; business fundamentals intact |
+| Fair Value | ₹380-₹500 | Likely in loss | HOLD if thesis intact | Patience required; wait for earnings recovery |
+| Overvalued | > ₹500 | In significant loss | Review thesis critically | If fundamentals unchanged, average down; if deteriorating, book loss |
 
 ---
 
@@ -552,7 +607,7 @@ The mispricing opportunity is **PRESENT**. The market is mispricing Sonata becau
 | Trustworthy management? | Decent track record but CEO transition creates uncertainty | ⚠️ Partial |
 | Resistant to disruption? | AI is both a threat (automating services) and opportunity (enabling new services) | ⚠️ Mixed |
 | Sustainable for 10+ years? | IT services will exist; Sonata's specific positioning is less certain | ⚠️ Probable |
-| Price below IV? | ₹257 vs. base IV ₹423.0 — YES | ✅ |
+| Price below IV? | ₹257 vs. base IV ₹500 — YES | ✅ |
 
 **Honest Verdict:** Buffett would likely **NOT buy** Sonata Software at any price. IT services businesses are outside his circle of competence — they are people-dependent, project-based, and susceptible to rapid technological change. He has historically avoided technology services companies.
 
@@ -598,7 +653,7 @@ Sonata is **not in distress** but is in a **transition phase** — integrating t
 
 Key factors:
 - Acquisition integration: 70% complete (3 years post-deal)
-- Margin trajectory: Compressing (FY25 OPM 6.8% vs. FY24 OPM 8.5% — 170bps decline YoY)
+- Margin trajectory: Compressing (FY25 OPM 6.8% / EBIT Margin 5.6% vs. FY24 OPM 8.5% / EBIT Margin 6.9% — 130bps EBIT margin decline YoY)
 - Debt reduction: On track (₹765 Cr → ₹516 Cr)
 - CEO transition: Risk factor for next 2-3 quarters
 - AI capabilities: Growing (14% of order book)
@@ -616,11 +671,11 @@ Key factors:
 | Financial Health | 7/10 | Manageable debt (D/E 0.30); strong cash generation; deleveraging post-acquisition |
 | Management Quality | 6/10 | Decent $1 test (₹4.4); CEO transition creates uncertainty; low promoter holding |
 | Valuation | 8/10 | PE 16.3x on normalised earnings — cheap vs. history and quality; P/B 4.1x reasonable for 27% ROE |
-| Margin of Safety | 7/10 | Base IV ₹423.0 vs CMP ₹257 — 39.2% margin of safety |
+| Margin of Safety | 8/10 | Base IV ₹500 vs CMP ₹257 — 48.6% margin of safety |
 | Scalability | 6/10 | Moderate scaler; IT services requires proportional headcount; limited operating leverage |
 | Risk Profile | 6/10 | Concentrated in US, CEO transition, AI disruption risk — manageable but real |
-| **Buffett Verdict** |  | **GARP Opportunity at Beaten-Down Prices.** Sonata is a quality mid-cap IT services company (27% ROE, 29% ROCE) trading at historically low multiples (16.3x PE) due to a combination of temporary factors (acquisition integration, CEO transition, FII exit). This is NOT a classic Buffett deep-value cigar butt — it is a quality business at a discounted price. For a small capital base, this is an accumulate-on-weakness opportunity in the ₹200-260 range, with a 2-3 year holding horizon for re-rating. If margins recover to 9-10% OPM and the PE re-rates to 20-25x, the stock could deliver 50-100% returns from current levels. The downside is bounded by tangible book value and cash generation quality. |
-| **Buy Zone** |  | Value / Buy zone at ₹257 |
+| **Buffett Verdict** |  | **GARP Opportunity at Beaten-Down Prices.** Sonata is a quality mid-cap IT services company (27% ROE, 29% ROCE) trading at historically low multiples (16.3x PE) due to a combination of temporary factors (acquisition integration, CEO transition, FII exit). This is NOT a classic Buffett deep-value cigar butt — it is a quality business at a discounted price. For a small capital base, this is an accumulate-on-weakness opportunity in the ₹200-260 range, with a 2-3 year holding horizon for re-rating. If margins recover to 9-10% OPM (pre-D&A) / 7-8% EBIT Margin and the PE re-rates to 20-25x, the stock could deliver 50-100%+ returns from current levels. The downside is bounded by tangible book value and cash generation quality. |
+| **Buy Zone** |  | Deep Value / Strong Buy zone at ₹257 |
 | **Overall Recommendation** |  | **ACCUMULATE** in the ₹200-260 range for small capital investors. HOLD if already owned. Not a Buffett-classic but a compelling GARP opportunity. |
 
 ---
