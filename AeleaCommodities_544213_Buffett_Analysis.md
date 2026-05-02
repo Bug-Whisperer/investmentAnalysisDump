@@ -587,7 +587,7 @@ This means the market is pricing in near-optimistic-case growth — which would 
 | Implied OEPS CAGR (from Step 3B) | 20.9% | |
 | **Gap (OEPS CAGR − EPS CAGR)** | **~0.0 pp** | |
 
-**Interpretation:** The ~0 pp gap places Aelea firmly in the "asset-light equivalent" category (≤ 2 pp). This may seem surprising for a cashew processor with physical plant, but the explanation is straightforward: Aelea's maintenance capex (estimated ~₹3 Cr) is only modestly below D&A (₹1-2 Cr), so Owner Earnings (₹5 Cr) is close to Net Income (₹6 Cr) — an OE/NI ratio of 83%. The capital intensity penalty is already fully captured in the lower OEPS figure itself (₹2.46 vs. ₹2.95 EPS). There is no *additional* hidden hurdle from using EPS instead of OEPS; the standard EPS-based Reverse DCF is reliable for this company at its current scale.
+**Interpretation:** The ~0 pp gap places Aelea firmly in the "asset-light equivalent" category (≤ 2 pp). This may seem surprising for a cashew processor with physical plant, but the explanation is straightforward: Aelea's maintenance capex (estimated ~₹3 Cr) is only modestly above D&A (₹1-2 Cr), so Owner Earnings (₹5 Cr) is close to Net Income (₹6 Cr) — an OE/NI ratio of 83%. The capital intensity penalty is already fully captured in the lower OEPS figure itself (₹2.46 vs. ₹2.95 EPS). There is no *additional* hidden hurdle from using EPS instead of OEPS; the standard EPS-based Reverse DCF is reliable for this company at its current scale.
 
 > *Note: If Aelea's maintenance capex grows faster than earnings as the 140 MT/day facility ages and CNSL oil production comes online, the OE/NI ratio could deteriorate and a gap would emerge in future analyses. This test should be re-run annually.*
 

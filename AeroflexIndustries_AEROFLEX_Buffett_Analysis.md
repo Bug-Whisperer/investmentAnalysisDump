@@ -492,23 +492,25 @@ Required Future OEPS          = Required Future Price / Terminal P/OE Multiple
 Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
 ```
 
-#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 16x)
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 24x)
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 55.3% OEPS CAGR | 62.4% | 69.4% |
-| 10 Years | 30.7% OEPS CAGR | 36.6% | 42.6% |
-| 15 Years | 23.4% OEPS CAGR | 29.0% | 34.6% |
+| 5 Years | 43.2% OEPS CAGR | 49.7% | 56.2% |
+| 10 Years | 25.5% OEPS CAGR | 31.2% | 36.9% |
+| 15 Years | 20.1% OEPS CAGR | 25.6% | 31.0% |
+
+*Note on Terminal P/OE: Since OEPS (₹3.22) < EPS (₹3.80) for Aeroflex — maintenance capex exceeds D&A — the P/OE multiple is inherently HIGHER than the PE multiple (same price, lower denominator). Terminal P/OE = Terminal PE × (EPS/OEPS) = 20 × (3.80/3.22) ≈ 24x. Setting Terminal P/OE lower than Terminal PE would double-count the capital intensity penalty — once through the lower OEPS and again through the lower multiple.*
 
 #### The Divergence Test — EPS vs. OEPS Implied Growth
 
-| Metric | At Terminal Market Avg PE (20x) / P/OE (16x) | 10-Year, 10% Return |
+| Metric | At Terminal Market Avg PE (20x) / P/OE (24x) | 10-Year, 10% Return |
 |---|---|---|
 | Implied EPS CAGR (from Step 3) | 25.7% | |
-| Implied OEPS CAGR (from Step 3B) | 30.7% | |
-| **Gap (OEPS CAGR − EPS CAGR)** | **5.0 pp** | |
+| Implied OEPS CAGR (from Step 3B) | 25.5% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **−0.2 pp** | |
 
-**Interpretation:** The 5.0 pp gap places Aeroflex right at the threshold where EPS-based analysis becomes **dangerously misleading.** The business is in a capital-intensive expansion phase — depreciation has tripled in two years — and the EBIT/Owner Earnings metrics capture this honestly while EPS smooths over it. The true hurdle to earn a 10% return over 10 years is **30.7% Owner Earnings CAGR, not 25.7% EPS CAGR.** The 5 pp gap is the hidden cost of capital consumption that EBITDA and EPS-based analysis ignores.
+**Interpretation:** The near-zero gap (−0.2 pp) confirms that for Aeroflex, **EPS-based analysis is reliable.** Despite the company being in a capital-intensive expansion phase with depreciation tripling in two years, the EPS and Owner Earnings growth requirements tell essentially the same story when the terminal multiples are correctly calibrated. The standard EPS-based Reverse DCF in Step 3 can be trusted as the primary benchmark for this company.
 
 ### Reality Check
 
@@ -523,13 +525,13 @@ Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
 
 > **Apply the Traffic Light to BOTH the EPS and OEPS implied growth.** If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
 
-**Traffic Light Assessment:** Even at the most generous terminal PE of 40x (which is itself very high for a 10-year exit), the stock needs **25% EPS CAGR for 5 years just to earn 10% return.** The OEPS-based assessment is even more demanding: at a terminal P/OE of 16x, the stock needs **55% OEPS CAGR for 5 years.** At a more reasonable terminal PE of 20x, the stock needs **44% EPS CAGR for 5 years** — more than double the 3Y historical EPS CAGR of ~19%. The OEPS verdict is unambiguously 🔴 RED.
+**Traffic Light Assessment:** Even at the most generous terminal PE of 40x (which is itself very high for a 10-year exit), the stock needs **25% EPS CAGR for 5 years just to earn 10% return.** The OEPS-based assessment confirms this: at a correctly calibrated terminal P/OE of 24x, the required OEPS CAGR is 43% for 5 years — essentially the same demanding hurdle. At a more reasonable terminal PE of 20x, the stock needs **44% EPS CAGR for 5 years** — more than double the 3Y historical EPS CAGR of ~19%. The verdict is unambiguously 🔴 RED.
 
 **Verdict: 🔴 RED — Crazy Price.** The implied growth required is 1.5-2x the company's own historical CAGR. At the current price, you are betting on heroic growth assumptions that the business has never sustained at this scale.
 
-> *"At the current price of ₹289, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 25.7% CAGR (and Owner Earnings at 30.7% CAGR at a 16x terminal P/OE). The company has historically grown EPS at ~19% CAGR (3Y, split-adjusted — lower than the 24% NI CAGR due to IPO dilution) and Owner Earnings at ~14% CAGR (3Y). This implies the market is pricing in heroic/impossible growth."*
+> *"At the current price of ₹289, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 25.7% CAGR (and Owner Earnings at 25.5% CAGR at a 24x terminal P/OE — confirming the EPS figure). The company has historically grown EPS at ~19% CAGR (3Y, split-adjusted — lower than the 24% NI CAGR due to IPO dilution) and Owner Earnings at ~14% CAGR (3Y). This implies the market is pricing in heroic/impossible growth."*
 
-> *Note: the EPS-based assessment is more favourable than the Owner Earnings assessment (5.0 pp gap), indicating that capital intensity is masking the true growth hurdle. The OEPS-based verdict is the Buffett-pure assessment.*
+> *Note: the EPS and Owner Earnings assessments converge (gap of −0.2 pp), confirming that the standard EPS-based Reverse DCF is reliable for Aeroflex. The 🔴 RED verdict holds on both metrics.*
 
 Buffett would say: *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."*
 
