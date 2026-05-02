@@ -31,17 +31,20 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue (₹ Cr) | 3,986 | 4,707 | 5,202 | 5,500 | 6,770 | 7,986 | 8,830 | 8,792 | 12,204 | 14,108 | 18,039 | 22,408 | 27,005 |
 | Rev Growth YoY % | - | 18.1 | 10.5 | 5.7 | 23.1 | 18.0 | 10.6 | -0.4 | 38.8 | 15.6 | 27.9 | 24.2 | 29% |
-| Operating Profit | 299 | 442 | 492 | 480 | 729 | 950 | 1,129 | 1,111 | 1,264 | 1,843 | 2,492 | 2,964 | 3,870 |
-| OPM % | 7.5 | 9.4 | 9.5 | 8.7 | 10.8 | 11.9 | 12.8 | 12.6 | 10.4 | 13.1 | 13.8 | 13.2 | 14.3 |
+| Operating Profit (pre-D&A) | 299 | 442 | 492 | 480 | 729 | 950 | 1,129 | 1,111 | 1,264 | 1,843 | 2,492 | 2,964 | 3,870 |
+| OPM % (pre-D&A) | 7.5 | 9.4 | 9.5 | 8.7 | 10.8 | 11.9 | 12.8 | 12.6 | 10.4 | 13.1 | 13.8 | 13.2 | 14.3 |
+| Depreciation & Amortisation | 71 | 98 | 111 | 128 | 133 | 141 | 161 | 176 | 202 | 209 | 245 | 298 | 369 |
+| **EBIT** | 228 | 344 | 381 | 352 | 596 | 809 | 968 | 935 | 1,062 | 1,634 | 2,247 | 2,666 | 3,501 |
+| **EBIT Margin %** | 5.7 | 7.3 | 7.3 | 6.4 | 8.8 | 10.1 | 11.0 | 10.6 | 8.7 | 11.6 | 12.5 | 11.9 | 13.0 |
 | Net Income | 89 | 164 | 185 | 233 | 359 | 500 | 766 | 886 | 917 | 1,283 | 1,803 | 2,046 | 2,657 |
 | NI Growth YoY % | - | 84.3 | 12.8 | 25.9 | 54.1 | 39.3 | 53.2 | 15.7 | 3.5 | 39.9 | 40.5 | 13.5 | 43% |
 | Profit Margin % | 2.2 | 3.5 | 3.6 | 4.2 | 5.3 | 6.3 | 8.7 | 10.1 | 7.5 | 9.1 | 10.0 | 9.1 | 9.8 |
 | EPS (₹) | 12.65 | 11.64 | 13.09 | 16.48 | 25.35 | 35.39 | 50.97 | 59.15 | 60.80 | 84.85 | 118.75 | 134.28 | 174.49 |
 | EPS Growth % | - | -8.0 | 12.5 | 25.9 | 53.8 | 39.6 | 44.0 | 16.0 | 2.8 | 39.6 | 40.0 | 13.1 | 30% |
 | Diluted Shares (Cr) | 7.04 | 14.09 | 14.13 | 14.14 | 14.16 | 14.13 | 15.03 | 14.98 | 15.08 | 15.12 | 15.18 | 15.24 | 15.23 |
-| EBITDA | 299 | 442 | 492 | 480 | 729 | 950 | 1,129 | 1,111 | 1,264 | 1,843 | 2,492 | 2,964 | 3,870 |
-| EBITDA Margin % | 7.5 | 9.4 | 9.5 | 8.7 | 10.8 | 11.9 | 12.8 | 12.6 | 10.4 | 13.1 | 13.8 | 13.2 | 14.3 |
 | Div Payout % | 8 | 9 | 13 | 6 | 0 | 8 | 14 | 17 | 23 | 24 | 25 | 26 | ~25 |
+
+> **CRITICAL — Screener Data Note & Why EBITDA Is Not Used:** Screener.in's "Operating Profit" is calculated BEFORE deducting Depreciation & Amortisation, making it an EBITDA-equivalent. This prompt deliberately does NOT track EBITDA as a standalone metric. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* Instead, **EBIT** (Operating Profit minus D&A) is tracked as the true after-capital-charge operating profit. For valuation, this prompt uses **Owner Earnings** (Section 8) and **P/Owner Earnings** — never EBITDA-based multiples.
 
 **Key CAGRs:**
 - Revenue CAGR (10Y, FY15→FY25): **16.9%** | 5Y (FY20→FY25): **20.5%**
@@ -52,7 +55,7 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 
 Revenue has compounded at ~17% over 10 years and ~20% over 5 years, accelerating to 24% in FY25 and ~29% TTM. This is a business that has shifted into a higher growth gear since FY22, driven by infrastructure spending (government capex on power transmission, railways, renewable energy), housing boom, and FMEG expansion.
 
-Operating margins have expanded from 7–9% (FY14–FY17) to a stable 12–14% band (FY19 onwards). This expansion reflects three forces: (a) mix shift towards higher-margin retail/distribution W&C and away from institutional; (b) operating leverage as revenue scales over a partially fixed cost base; and (c) premiumisation in FMEG. The **best OPM year was FY24 at 13.8%**, while FY22's 10.4% was the **worst recent year** (commodity spike). The FY25 OPM of 13.2% and TTM of 14.3% suggest margins are holding even as revenue scales aggressively.
+Operating margins (pre-D&A, as reported by Screener) have expanded from 7–9% (FY14–FY17) to a stable 12–14% band (FY19 onwards). This expansion reflects three forces: (a) mix shift towards higher-margin retail/distribution W&C and away from institutional; (b) operating leverage as revenue scales over a partially fixed cost base; and (c) premiumisation in FMEG. The **best OPM year was FY24 at 13.8%**, while FY22's 10.4% was the **worst recent year** (commodity spike). The FY25 OPM of 13.2% and TTM of 14.3% suggest margins are holding even as revenue scales aggressively. EBIT Margin (after D&A) has similarly expanded — from 5.7–7.3% (FY14–FY16) to 11–12% (FY19 onwards) — confirming that the margin improvement is genuine and not masked by under-depreciation.
 
 Net profit has grown faster than revenue — a hallmark of operating leverage. The **FY24 net profit growth of 40.5%** on 27.9% revenue growth confirms that earnings power is amplifying. EPS has compounded at 21.4% over 5 years and 27.7% over 10 years — outstanding for a mid-cap industrial company.
 
@@ -72,7 +75,9 @@ Buffett: *"The key to investing is determining the competitive advantage of any 
 | Fixed Assets + CWIP | 866 | 1,001 | 1,123 | 1,293 | 1,333 | 1,469 | 1,663 | 1,969 | 2,050 | 2,318 | 2,916 | 3,719 |
 | BVPS (₹) | 209 | 116 | 126 | 141 | 166 | 202 | 258 | 319 | 372 | 442 | 546 | 655 |
 | D/E Ratio | 0.31 | 0.33 | 0.45 | 0.43 | 0.34 | 0.1 | 0.04 | 0.06 | 0.02 | 0.02 | 0.02 | 0.02 |
-| Interest Coverage | 3.2 | 4.1 | 3.3 | 7.3 | 7.8 | 8.1 | 22.6 | 25.8 | 36.1 | 30.7 | 23.1 | 17.5 |
+| Debt/EBIT | 2.0 | 1.6 | 2.1 | 2.4 | 1.3 | 0.3 | 0.2 | 0.3 | 0.1 | 0.1 | 0.1 | 0.1 |
+| Net Debt/Owner Earnings | - | 3.5 | 4.2 | 3.6 | 1.9 | 0.5 | 0.1 | -0.4 | -0.7 | -1.0 | -1.0 | -0.8 |
+| Interest Coverage (EBIT/Int) | 2.4 | 3.2 | 2.6 | 5.3 | 6.3 | 6.9 | 19.4 | 21.7 | 30.3 | 27.2 | 20.8 | 15.8 |
 
 **Buffett's Financial Fortress Verdict: ✅ IMPREGNABLE**
 
@@ -80,7 +85,7 @@ This balance sheet is a fortress. Polycab has gone from a leveraged company (D/E
 
 Book Value Per Share has compounded from ₹116 (FY15) to ₹655 (FY25) — a **19% CAGR** over 10 years, driven entirely by retained earnings. No significant equity dilution (equity capital went from ₹141 Cr to ₹150 Cr over 10 years — minimal ESOP dilution).
 
-Interest coverage of 17.5x in FY25 means debt service is a non-issue. Goodwill is negligible — this is a tangible-asset business where book value is real.
+Interest coverage of 15.8x (EBIT / Interest) in FY25 means debt service is a non-issue. Goodwill is negligible — this is a tangible-asset business where book value is real. Net Debt/Owner Earnings is negative (-0.8x), confirming Polycab holds more cash and investments than it owes — the fortress has a moat filled with liquid assets.
 
 Buffett: *"We will reject interesting opportunities rather than over-leverage our balance sheet."* Polycab's management has done exactly this — they've funded massive growth (revenue up 5.6x from FY14 to FY25) almost entirely through internal accruals, not debt. This is capital allocation discipline of the highest order.
 
@@ -127,13 +132,14 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | ROE % | **6.0** | 10.5 | 10.8 | 12.3 | 16.5 | 19.3 | 22.9 | 20.6 | 17.8 | 21.1 | **24.3** | 22.7 |
 | ROIC % | 9.7 | 14.6 | 14.5 | 11.3 | 15.3 | 20.0 | 24.1 | 20.7 | 18.2 | 22.3 | 25.1 | 24.5 |
 | D/E | 0.31 | 0.33 | 0.45 | 0.43 | 0.34 | 0.1 | 0.04 | 0.06 | 0.02 | 0.02 | 0.02 | 0.02 |
-| OPM % | 7.5 | 9.4 | 9.5 | 8.7 | 10.8 | 11.9 | 12.8 | 12.6 | 10.4 | 13.1 | 13.8 | 13.2 |
+| OPM % (pre-D&A, Screener) | 7.5 | 9.4 | 9.5 | 8.7 | 10.8 | 11.9 | 12.8 | 12.6 | 10.4 | 13.1 | 13.8 | 13.2 |
+| **EBIT Margin %** | 5.7 | 7.3 | 7.3 | 6.4 | 8.8 | 10.1 | 11.0 | 10.6 | 8.7 | 11.6 | 12.5 | 11.9 |
 | NPM % | 2.2 | 3.5 | 3.6 | 4.2 | 5.3 | 6.3 | 8.7 | 10.1 | 7.5 | 9.1 | 10.0 | 9.1 |
 | Debtor Days | 88 | 84 | 95 | 80 | 70 | 61 | 59 | 60 | 39 | 32 | 41 | 42 |
 | Inventory Days | 70 | 95 | 94 | 134 | - | 128 | 116 | 113 | 86 | 104 | 105 | 86 |
 | Cash Conv. Cycle | 81 | 78 | 88 | 94 | 70 | 91 | 94 | 96 | 77 | 65 | 65 | 64 |
 | Working Cap Days | 92 | 86 | 94 | 96 | 57 | 45 | 71 | 67 | 67 | 58 | 59 | 54 |
-| Interest Coverage | 3.2 | 4.1 | 3.3 | 7.3 | 7.8 | 8.1 | 22.6 | 25.8 | 36.1 | 30.7 | 23.1 | 17.5 |
+| Interest Coverage (EBIT) | 2.4 | 3.2 | 2.6 | 5.3 | 6.3 | 6.9 | 19.4 | 21.7 | 30.3 | 27.2 | 20.8 | 15.8 |
 | Div Payout % | 8 | 9 | 13 | 6 | 0 | 8 | 14 | 17 | 23 | 24 | 25 | 26 |
 
 ### Part B: Buffett's Quality Checklist
@@ -148,10 +154,12 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | Positive Free Cash Flow | Positive | Yes, most years | ✅ |
 | Promoter/Insider holding | Aligned | 61.5% (Dec 2025) | ✅ |
 | Dividend payout | Paying | ~25% avg recent | ✅ |
-| OPM stability | Stable | 10–14% range | ✅ |
+| EBIT Margin stability | Stable | 6–12% range (expanding trend) | ✅ |
 | Moat / Pricing Power | Identifiable | #1 market share, brand, distribution | ✅ |
 | ROIC > 15% | >15% | 24.5% (FY25) | ✅ |
 | Earnings yield | Reasonable | 2.2% (at CMP) | ⚠️ (low due to premium valuation) |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **11 of 12 criteria pass.** The only caution is the low earnings yield — a consequence of the stock trading at 46.0x PE. This is a premium valuation for premium quality.
 
@@ -164,8 +172,11 @@ The ratio trends reveal a clear moat-widening narrative: ROCE has expanded from 
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 3,715 | 4,324 | 3,889 | 4,218 | 4,340 | 5,592 | 4,698 | 5,498 | 5,226 | 6,986 | 5,906 | 6,477 | 7,636 |
-| Op Profit | 503 | 603 | 549 | 609 | 570 | 762 | 583 | 632 | 720 | 1,025 | 858 | 1,021 | 966 |
-| OPM % | 14 | 14 | 14 | 14 | 13 | 14 | 12 | 11 | 14 | 15 | 15 | 16 | 13 |
+| Op Profit (pre-D&A) | 503 | 603 | 549 | 609 | 570 | 762 | 583 | 632 | 720 | 1,025 | 858 | 1,021 | 966 |
+| OPM % (pre-D&A) | 14 | 14 | 14 | 14 | 13 | 14 | 12 | 11 | 14 | 15 | 15 | 16 | 13 |
+| Depreciation | 52 | 53 | 57 | 60 | 62 | 66 | 67 | 72 | 79 | 80 | 86 | 97 | 106 |
+| **EBIT** | 451 | 550 | 492 | 549 | 508 | 696 | 516 | 560 | 641 | 945 | 772 | 924 | 860 |
+| **EBIT Margin %** | 12.1 | 12.7 | 12.7 | 13.0 | 11.7 | 12.4 | 11.0 | 10.2 | 12.3 | 13.5 | 13.1 | 14.3 | 11.3 |
 | Net Profit | 361 | 429 | 403 | 430 | 417 | 553 | 402 | 445 | 464 | 734 | 600 | 693 | 630 |
 | EPS (₹) | 23.89 | 28.38 | 26.67 | 28.37 | 27.49 | 36.34 | 26.34 | 29.24 | 30.42 | 48.31 | 39.34 | 45.54 | 41.30 |
 
@@ -178,7 +189,9 @@ The ratio trends reveal a clear moat-widening narrative: ROCE has expanded from 
 
 **1. Revenue Trajectory — Accelerating:** Revenue has shown a clear acceleration pattern. Q3FY26 (Dec 2025) revenue of ₹7,636 Cr was the **highest-ever quarterly revenue**, up 46% YoY. The 9M FY26 revenue crossed ₹20,000 Cr for the first time. Sequential growth has also been strong — each Q4 (March quarter) tends to be the strongest due to infrastructure project completions.
 
-**2. Margin Trend — Stable with volatility:** OPM has ranged between 11% (Sep24) and 16% (Sep25) in recent quarters. The Q1FY25 and Q2FY25 OPM dip to 12% and 11% respectively reflected copper price spikes and FMEG investment costs (advertising doubled). However, margins recovered to 15–16% in Q1FY26–Q2FY26 (Jun25–Sep25), suggesting the dip was transitory.
+**2. Margin Trend — Stable with volatility:** OPM (pre-D&A) has ranged between 11% (Sep24) and 16% (Sep25) in recent quarters. The Q1FY25 and Q2FY25 OPM dip to 12% and 11% respectively reflected copper price spikes and FMEG investment costs (advertising doubled). However, margins recovered to 15–16% in Q1FY26–Q2FY26 (Jun25–Sep25), suggesting the dip was transitory.
+
+EBIT Margin tells a similar story but at a lower level (10.2–14.3% range), reflecting rising depreciation from the heavy capex cycle. Notably, while OPM dipped in Q3FY26 (Dec25) to 13%, EBIT Margin fell further to 11.3% — the widening gap (1.7 pp vs. the typical 1.5 pp) signals rising D&A from recently commissioned capacity. This is not a red flag for Polycab (the capacity will generate future revenue), but it is exactly the pattern that EBITDA-based analysis would miss: OPM looks fine, but EBIT Margin reveals the true cost of capital intensity.
 
 **3. Normalised Quarterly EPS Run-Rate:** The last 4 quarters (Mar25 + Jun25 + Sep25 + Dec25) deliver EPS of ₹48.31 + ₹39.34 + ₹45.54 + ₹41.30 = **₹174.49** annualised. This is the TTM EPS and represents genuine current earnings power — no significant one-time items to strip out.
 
@@ -303,23 +316,25 @@ Buffett: *"We do not get enthused about change, with a few exceptions, as a way 
 
 **Revenue Scalability:** STRONG. Polycab's distribution network is a fixed-cost asset that carries incremental products (FMEG) at near-zero marginal distribution cost. Adding a fan or LED bulb to an existing dealer's shelf is essentially free revenue.
 
-**Profit Scalability — Incremental Operating Margins:**
+**Profit Scalability — Incremental EBIT Margins:**
 
-| Year | Revenue | Rev Growth | Op Profit | OP Growth | Incremental OP Margin |
-|---|---|---|---|---|---|
-| FY15 | 4,707 | 18.1% | 442 | 47.8% | 19.8% |
-| FY16 | 5,202 | 10.5% | 492 | 11.3% | 10.1% |
-| FY17 | 5,500 | 5.7% | 480 | -2.4% | -4.0% |
-| FY18 | 6,770 | 23.1% | 729 | 51.9% | 19.6% |
-| FY19 | 7,986 | 18.0% | 950 | 30.3% | 18.2% |
-| FY20 | 8,830 | 10.6% | 1,129 | 18.8% | 21.2% |
-| FY21 | 8,792 | -0.4% | 1,111 | -1.6% | N/A |
-| FY22 | 12,204 | 38.8% | 1,264 | 13.8% | 4.5% |
-| FY23 | 14,108 | 15.6% | 1,843 | 45.8% | 30.4% |
-| FY24 | 18,039 | 27.9% | 2,492 | 35.2% | 16.5% |
-| FY25 | 22,408 | 24.2% | 2,964 | 18.9% | 10.8% |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY15 | 4,707 | 18.1% | 344 | 50.9% | 7.3% | 16.1% |
+| FY16 | 5,202 | 10.5% | 381 | 10.8% | 7.3% | 7.5% |
+| FY17 | 5,500 | 5.7% | 352 | -7.6% | 6.4% | -9.7% |
+| FY18 | 6,770 | 23.1% | 596 | 69.3% | 8.8% | 19.2% |
+| FY19 | 7,986 | 18.0% | 809 | 35.7% | 10.1% | 17.5% |
+| FY20 | 8,830 | 10.6% | 968 | 19.7% | 11.0% | 18.8% |
+| FY21 | 8,792 | -0.4% | 935 | -3.4% | 10.6% | N/A |
+| FY22 | 12,204 | 38.8% | 1,062 | 13.6% | 8.7% | 3.7% |
+| FY23 | 14,108 | 15.6% | 1,634 | 53.9% | 11.6% | 30.0% |
+| FY24 | 18,039 | 27.9% | 2,247 | 37.5% | 12.5% | 15.6% |
+| FY25 | 22,408 | 24.2% | 2,666 | 18.6% | 11.9% | 9.6% |
 
-Incremental operating margins have been highly variable (reflecting copper price swings) but the trend is clear: in growth years like FY23 (30%) and FY24 (17%), incremental margins exceed the base OPM, confirming operating leverage. In FY22, the severely compressed incremental margin (4.5% vs. base OPM of 12–13%) reflected the copper spike — a temporary input cost event, not structural scaling friction.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. This is computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins exceed current EBIT margins, the business is scaling beautifully. If lower, it is hitting scaling friction or becoming more capital-intensive.*
+
+Incremental EBIT margins have been highly variable (reflecting copper price swings and capex cycles) but the trend is clear: in growth years like FY23 (30.0%) and FY18 (19.2%), incremental EBIT margins significantly exceed the base EBIT margin, confirming genuine operating leverage after capital charges. In FY22, the severely compressed incremental EBIT margin (3.7% vs. base EBIT margin of 8–11%) reflected the copper spike — a temporary input cost event, not structural scaling friction. FY17 shows a genuinely negative incremental EBIT margin (-9.7%), driven by a low-growth year where revenue grew just 5.7% but D&A continued rising from prior capex — exactly the kind of capital intensity drag that OPM-based analysis misses.
 
 **Capital Scalability:** CapEx as % of revenue has been in the 4–6% range, which is moderate for a manufacturer. Revenue per unit of CapEx has been rising, indicating improving capital efficiency.
 
@@ -386,10 +401,16 @@ The operational fundamentals are improving across every dimension — market sha
 
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current |
 |---|---|---|---|---|---|---|---|
+| **P/Owner Earnings** *(primary)* | 11.4 | 21.3 | 36.5 | 39.1 | 52.8 | 47.0 | 50.9 |
 | PE Ratio | 11.4 | 20.3 | 39.5 | 38.9 | 48.8 | 42.4 | 46.0 |
 | P/B Ratio | 2.3 | 3.8 | 6.5 | 7.5 | 10.6 | 8.7 | 12.3 |
 | Earnings Yield % | 8.8 | 4.9 | 2.5 | 2.6 | 2.0 | 2.4 | 2.2 |
-| EV/EBITDA | 7.8 | 15.9 | 28.1 | 26.4 | 34.7 | 28.8 | 31.2 |
+| **Owner Earnings Yield %** | 8.8 | 4.7 | 2.7 | 2.6 | 1.9 | 2.1 | 2.0 |
+| EV/EBIT *(cross-check)* | 9.1 | 18.8 | 33.5 | 29.8 | 38.4 | 32.0 | 34.5 |
+
+> **Why P/Owner Earnings is the primary Buffett-pure multiple:** P/OE starts from true economic earnings (NI + D&A − Maintenance CapEx) — the cash genuinely available to the owner. PE uses reported Net Income, which doesn't account for the capital the business must reinvest just to stay in place. For Polycab, P/OE (~51x) exceeds PE (~46x) because Owner Earnings < Net Income (maintenance capex is deducted). This gap reveals the true cost of the manufacturing asset base — invisible in PE, visible in P/OE.
+>
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT is included as a secondary cross-check for institutional comparability; Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets.
 
 **Historical Comparison:** Polycab has never traded sustainably at its current PE of ~46.0x. In its earliest post-IPO years (FY20), it traded at 11x PE. The stock has undergone a massive re-rating as institutional investors discovered the quality — from 11x → 20x → 39x → 49x → 46x currently. The 6-year median PE (FY20–FY25) is approximately 39x.
 
@@ -417,7 +438,7 @@ This does NOT mean Polycab is a bad business — it means the market has already
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = ₹8033 | Normalised TTM EPS = ₹174.49 | Current PE = 46.0x
+**Inputs:** CMP = ₹8,033 | Normalised TTM EPS = ₹174.49 | Current PE = 46.0x | **Owner Earnings Per Share (OEPS) = ₹157.69** (OE/NI ratio of 90.4% × TTM EPS) | **Current P/OE = 50.9x**
 
 **At Terminal PE = Mature: 15x**
 
@@ -451,20 +472,54 @@ This does NOT mean Polycab is a bad business — it means the market has already
 | 10 Years | 10.0% | 15.0% | 20.0% |
 | 15 Years | 10.0% | 15.0% | 20.0% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading: a company can grow EPS by underinvesting in maintenance, financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."* The same insight applies to EPS vs. Owner Earnings.
+
+**Formula:**
+```
+Required Future Price         = CMP × (1 + Hurdle Rate)^n
+Required Future OEPS          = Required Future Price / Terminal P/OE Multiple
+Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
+```
+
+**Implied OEPS CAGR Needed (at Terminal P/OE = Market Avg: 16x)**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 38.7% OEPS CAGR needed | 45.0% | 51.3% |
+| 10 Years | 23.5% OEPS CAGR needed | 29.1% | 34.7% |
+| 15 Years | 18.8% OEPS CAGR needed | 24.2% | 29.6% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal Market Avg PE/P(OE) | 10-Year, 10% Return |
+|---|---|---|
+| Implied EPS CAGR (from Step 3, PE=20x) | 19.6% | |
+| Implied OEPS CAGR (from Step 3B, P/OE=16x) | 23.5% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **3.9 pp** | |
+
+**Interpretation:** The 3.9 pp gap indicates **moderate capital intensity**. Polycab is a manufacturing business that must continuously invest in plant, equipment, and capacity — this real capital consumption means EPS slightly overstates true economic earnings growth. The OEPS figure (23.5% CAGR needed for a 10% hurdle return) is the more conservative and honest benchmark. For a Buffett-pure assessment, defer to the OEPS-based verdict.
+
 ### Reality Check
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10–12% |
-| Polycab 5Y historical EPS CAGR | 21.4% |
-| Polycab 10Y historical EPS CAGR | 27.7% |
-| Analyst consensus (next 2–3 years) | 18–22% |
+| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10–12% | 8–10% (capital-heavy) / 10–12% (asset-light) | Floor |
+| Polycab 5Y historical EPS CAGR | 21.4% | 19.2% | Actual track record |
+| Polycab 10Y historical EPS CAGR | 27.7% | — | Longer-term track record |
+| Polycab 5Y historical OE CAGR | — | 19.2% | Buffett-pure benchmark |
+| Analyst consensus (next 2–3 years) | 18–22% | — | Market expectations |
 
-**Verdict:** At ₹8033, to earn a 15% annualised return over 10 years assuming the market values Polycab at 28x PE at exit (a reasonable "above-average compounder" multiple), the company needs to grow EPS at **20.9% CAGR**. The company has historically grown EPS at 21.4% (5Y) and 27.7% (10Y). This implies the market is pricing in **moderately optimistic growth** — achievable but not guaranteed.
+**Verdict:** At ₹8,033, to earn a 15% annualised return over 10 years assuming the market values Polycab at 28x PE at exit, the company needs to grow EPS at **20.9% CAGR** (and Owner Earnings at approximately **25% CAGR** at 22x terminal P/OE). The company has historically grown EPS at 21.4% (5Y) and Owner Earnings at 19.2% (5Y). This implies the market is pricing in **moderately optimistic to stretched growth** — the EPS hurdle is roughly in line with history, but the Owner Earnings hurdle exceeds the 5Y track record.
 
-If the PE compresses to 20x (market average) over 10 years, you need **25.0% EPS CAGR** for a 15% return — this requires the company to do significantly better than its track record.
+Note: The EPS-based assessment (🟡 YELLOW) is more favourable than the Owner Earnings assessment, indicating that capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
 
-**Traffic Light: 🟡 YELLOW (Fair but optimistic)** — at current prices, you're paying for continued high growth and a premium multiple. Not crazy, but not cheap either.
+If the PE compresses to 20x (market average) over 10 years, you need **25.0% EPS CAGR** (and ~29% OEPS CAGR) for a 15% return — this requires the company to do significantly better than its track record on both measures.
+
+**Traffic Light: 🟡 YELLOW (Fair but optimistic)** — at current prices, you're paying for continued high growth and a premium multiple. The OEPS-based test leans toward 🟠 ORANGE, suggesting the true economic hurdle is higher than EPS suggests. Not crazy, but not cheap either.
+
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
 
 ---
 
