@@ -37,11 +37,13 @@ BCCL's moat is not a classic Buffett moat. It is a **regulatory and geological m
 |---|---|---|---|---|---|
 | Revenue | 6,567 | 10,128 | 12,624 | **14,246** | 13,803 |
 | Revenue Growth YoY | — | **54.2%** | 24.6% | 12.8% | **-3.1%** |
-| Operating Profit (EBITDA) | **-1,426** | 133 | 499 | **2,088** | 1,758 |
-| OPM % | **-21.7%** | 1.3% | 4.0% | **14.7%** | 12.7% |
+| Operating Profit (pre-D&A) | **-1,426** | 133 | 499 | **2,088** | 1,758 |
+| OPM % (pre-D&A) | **-21.7%** | 1.3% | 4.0% | **14.7%** | 12.7% |
+| Depreciation & Amortisation | **209** | 315 | 305 | 340 | **581** |
+| **EBIT** | **-1,635** | **-182** | 194 | **1,748** | 1,177 |
+| **EBIT Margin** | **-24.9%** | **-1.8%** | 1.5% | **12.3%** | 8.5% |
 | Other Income | 180 | **452** | 393 | 406 | **598** |
 | Interest | **122** | 78 | **56** | 62 | 72 |
-| Depreciation | **209** | 315 | 305 | 340 | **581** |
 | PBT | **-1,577** | 191 | 530 | **2,092** | 1,703 |
 | Net Profit | **-1,202** | 112 | 665 | **1,564** | 1,240 |
 | NPM % | **-18.3%** | 1.1% | 5.3% | **11.0%** | 9.0% |
@@ -50,9 +52,11 @@ BCCL's moat is not a classic Buffett moat. It is a **regulatory and geological m
 
 **Trend Narrative:**
 
-The income statement tells the story of a dramatic turnaround followed by a concerning reversal. FY21 was an operational catastrophe — the company lost ₹1,202 Cr on ₹6,567 Cr of revenue. Then came a remarkable recovery: revenue doubled by FY24 as total coal production surged from ~30.5 MT (FY22) to ~41.1 MT (FY24), and margins expanded from -21.7% to +14.7% — a 36-percentage-point swing.
+The income statement tells the story of a dramatic turnaround followed by a concerning reversal. FY21 was an operational catastrophe — the company lost ₹1,202 Cr on ₹6,567 Cr of revenue. Then came a remarkable recovery: revenue doubled by FY24 as total coal production surged from ~30.5 MT (FY22) to ~41.1 MT (FY24), and pre-D&A margins expanded from -21.7% to +14.7% — a 36-percentage-point swing.
 
-However, FY25 shows the first cracks: revenue declined 3.1%, operating margins compressed from 14.7% to 12.7%, and net profit fell 21% from the FY24 peak. The quarterly data (Section 6) reveals the situation has deteriorated sharply in FY26.
+However, FY25 shows the first cracks: revenue declined 3.1%, EBIT margins compressed from 12.3% to 8.5%, and net profit fell 21% from the FY24 peak. The quarterly data (Section 6) reveals the situation has deteriorated sharply in FY26.
+
+> **EBITDA Note:** Screener.in's "Operating Profit" is pre-D&A (EBITDA-equivalent). This analysis tracks **EBIT** (Operating Profit minus D&A) as the true operating profit metric, per Buffett: *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* (2000 Letter). Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* For BCCL — a capital-intensive mining business with ₹581 Cr of D&A in FY25 — the gap between OPM (12.7%) and EBIT Margin (8.5%) is 4.2 percentage points, representing real capital consumption that EBITDA hides.
 
 > *"In business, I look for economic castles protected by unbreachable moats."* — Buffett. BCCL's margins swing wildly because coal is a commodity — there is no "unbreachable moat" protecting margins from production disruptions, cost inflation, or pricing pressure.
 
@@ -72,6 +76,9 @@ However, FY25 shows the first cracks: revenue declined 3.1%, operating margins c
 | BVPS (₹) | **₹6.63** | ₹7.03 | ₹8.17 | ₹11.43 | **₹13.88** |
 | BVPS Growth YoY | — | 6.0% | 16.2% | **39.9%** | 21.4% |
 | Debt/Equity | **0.66** | **0.00** | 0.06 | 0.04 | **0.04** |
+| Debt/EBIT | N/M | N/M | 1.1 | **0.13** | 0.20 |
+| Interest Coverage (EBIT/Interest) | N/M | N/M | 3.5x | **28.2x** | 16.3x |
+| Gross Debt / Owner Earnings | N/M | 0.0 | 0.58 | 0.19 | **0.17** |
 | Goodwill | 0 | 0 | 0 | 0 | 0 |
 | Other Liabilities | 7,288 | 7,892 | **9,654** | 9,533 | **10,944** |
 
@@ -134,7 +141,8 @@ BCCL is a PSU with negligible stock-based compensation, so no SBC adjustment is 
 | ROE % | — | **3.5%** | 18.8% | **34.3%** | 21.0% |
 | ROA % | — | **0.9%** | 5.4% | **10.9%** | 7.6% |
 | Debt/Equity | **0.66** | **0.00** | 0.06 | 0.04 | 0.04 |
-| OPM % | **-21.7%** | 1.3% | 4.0% | **14.7%** | 12.7% |
+| OPM % (pre-D&A, Screener) | **-21.7%** | 1.3% | 4.0% | **14.7%** | 12.7% |
+| **EBIT Margin %** | **-24.9%** | **-1.8%** | 1.5% | **12.3%** | 8.5% |
 | NPM % | **-18.3%** | 1.1% | 5.3% | **11.0%** | 9.0% |
 | Debtor Days | **167** | 37 | 36 | **34** | 49 |
 | Cash Conversion Cycle | **167** | 113 | 36 | **34** | 49 |
@@ -155,9 +163,11 @@ BCCL is a PSU with negligible stock-based compensation, so no SBC adjustment is 
 | Positive Free Cash Flow | Positive | ₹32 Cr (FY25, barely) | ❌ Collapsing FCF |
 | Promoter/Insider holding | Aligned | 90% (CIL/Govt) | ✅ Strong, but PSU incentives differ |
 | Dividend payout | Paying | ~3.6% FY25 (first ever) | ⚠️ Minimal |
-| OPM stability | Stable | -21.7% to +14.7% | ❌ Wildly volatile |
+| EBIT Margin stability | Stable | -24.9% to +12.3% | ❌ Wildly volatile |
 | Moat / Pricing Power | Identifiable | Regulatory monopoly, not pricing power | ⚠️ Quasi-moat |
 | Earnings yield | Reasonable | FY25 EPS: 7.4% yield; TTM: 1% | ⚠️ Depends on normalisation |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Narrative:** BCCL fails the Buffett "consistency" test decisively. The ratios swing from deeply negative to highly attractive and back — this is the hallmark of a commodity business subject to production variability and pricing cycles. The debt-free balance sheet and dominant market position are genuine strengths, but they cannot compensate for the fundamental unpredictability of earnings. FY24's 45% ROCE was clearly a cyclical peak, not a sustainable level. The volatility of margins reveals the absence of pricing power — BCCL is a price-taker in a government-administered market, not a price-maker with brand or franchise value.
 
@@ -168,8 +178,11 @@ BCCL is a PSU with negligible stock-based compensation, so no SBC adjustment is 
 | Metric | Q3 FY25 (Dec 2024) | Q1 FY26 (Jun 2025) | Q2 FY26 (Sep 2025) | Q3 FY26 (Dec 2025) |
 |---|---|---|---|---|
 | Sales | **3,688** | ~3,087* | **2,572** | 2,783 |
-| Operating Profit | **566** | ~216* | **-384** | 34 |
-| OPM % | **15%** | ~7%* | **-15%** | 1% |
+| Operating Profit (pre-D&A) | **566** | ~216* | **-384** | 34 |
+| OPM % (pre-D&A) | **15%** | ~7%* | **-15%** | 1% |
+| Depreciation | 104 | ~104* | 101 | 127 |
+| **EBIT** | **462** | ~112* | **-485** | **-93** |
+| **EBIT Margin %** | **12.5%** | ~3.6%* | **-18.9%** | **-3.3%** |
 | Other Income | 69 | ~59* | **470** | 70 |
 | Net Profit | **425** | **177** | **-53** | **-23** |
 | EPS (₹) | **₹0.91** | ₹0.38 | **-₹0.11** | **-₹0.05** |
@@ -180,7 +193,7 @@ BCCL is a PSU with negligible stock-based compensation, so no SBC adjustment is 
 
 1. **Revenue Trajectory — Deteriorating:** Q3 FY26 revenue of ₹2,783 Cr is down 24.5% from Q3 FY25 (₹3,688 Cr). FY26 full-year production has fallen 12.3% to 35.52 MT — the sharpest production decline in recent history.
 
-2. **Margin Trend — Collapsing:** Operating margins have gone from +15% (Q3 FY25) to -15% (Q2 FY26) to +1% (Q3 FY26). The cost structure is rigid (32,000+ employees, heavy machinery, mining leases), so any production shortfall immediately crushes margins.
+2. **Margin Trend — Collapsing:** EBIT margins tell an even starker story than pre-D&A OPM: from +12.5% (Q3 FY25) to -18.9% (Q2 FY26) to -3.3% (Q3 FY26). Notably, OPM turned marginally positive in Q3 FY26 (+1%), but EBIT remained negative (-3.3%) because depreciation (₹127 Cr) exceeded the thin operating profit (₹34 Cr). This is exactly the pattern EBITDA-based analysis misses — the business looks break-even on pre-D&A margins but is actually loss-making after accounting for capital consumption. The cost structure is rigid (32,000+ employees, heavy machinery, mining leases), so any production shortfall immediately crushes margins.
 
 3. **Normalised Quarterly EPS Run-Rate:** At the current trajectory, FY26 full-year EPS is likely to be ₹0.22-0.30 — implying a forward PE of 120-160x. This is deeply unattractive. Even normalising to FY25 levels (₹2.66 EPS), the PE is only 13.5x — reasonable if you believe FY25 earnings are sustainable, which FY26 data suggests they are not.
 
@@ -321,16 +334,18 @@ BCCL holds 58.5% of India's domestic coking coal production — an overwhelming 
 
 **Revenue Scalability:** Poor. Each additional tonne of coal requires proportional mining effort, equipment, and labour. There is no zero-marginal-cost scaling. Growth requires more machines, more overburden removal, more workers, and more mine development — it is inherently capital-intensive and labour-intensive.
 
-**Profit Scalability — Incremental Operating Margins:**
+**Profit Scalability — Incremental EBIT Margins:**
 
-| Year | Revenue | Revenue Change | Op Profit | Op Profit Change | Incremental Margin |
-|---|---|---|---|---|---|
-| FY22 | 10,128 | +3,561 | 133 | +1,559 | 43.8% |
-| FY23 | 12,624 | +2,496 | 499 | +366 | 14.7% |
-| FY24 | 14,246 | +1,622 | 2,088 | +1,589 | **98.0%** |
-| FY25 | 13,803 | -443 | 1,758 | -330 | N/A (revenue fell) |
+| Year | Revenue | Revenue Change | EBIT | EBIT Change | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY22 | 10,128 | +3,561 | -182 | +1,453 | -1.8% | 40.8% |
+| FY23 | 12,624 | +2,496 | 194 | +376 | 1.5% | 15.1% |
+| FY24 | 14,246 | +1,622 | 1,748 | +1,554 | 12.3% | **95.8%** |
+| FY25 | 13,803 | -443 | 1,177 | -571 | 8.5% | N/A (revenue fell) |
 
-FY24's incremental margin of 98% was exceptional — nearly all incremental revenue dropped to operating profit. This reflected the operating leverage of a mining business: once fixed costs are covered, incremental production is highly profitable. However, the reverse is equally true — when revenue declines (FY25, FY26), margins collapse because the fixed cost base remains rigid.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins are higher than current EBIT margins, the business is scaling beautifully. If lower, it is hitting scaling friction or becoming more capital-intensive.*
+
+FY24's incremental EBIT margin of 95.8% was exceptional — nearly all incremental revenue dropped to EBIT even after D&A. This reflected the operating leverage of a mining business: once fixed costs are covered, incremental production is highly profitable. However, the reverse is equally true — when revenue declines (FY25, FY26), margins collapse because the fixed cost base (including depreciation on recently acquired HEMM) remains rigid.
 
 **Capital Scalability:** BCCL has a target to expand production from 40.5 MTPA (FY25) to 56 MTPA by FY30. This requires significant CapEx (₹1,000+ Cr annually) and is subject to environmental clearances, land acquisition, and operational execution — all significant risks for a PSU in Jharkhand.
 
@@ -406,14 +421,18 @@ The revenue realisation per tonne has been broadly flat at ₹3,300-3,500, confi
 
 | Metric | FY22 | FY23 | FY24 | FY25 | Current (TTM) |
 |---|---|---|---|---|---|
+| **P/Owner Earnings** *(primary Buffett-pure multiple)* | — | — | — | **12.2x** | Very high |
+| Owner Earnings Yield | — | — | — | **8.2%** | <1% |
 | EPS (₹) | 0.24 | 1.43 | 3.36 | 2.66 | 0.36 |
 | PE Ratio | — | — | — | 13.5x | **99.4x** |
 | BVPS (₹) | 7.03 | 8.17 | 11.43 | 13.88 | ~14.1 est |
 | P/B Ratio | — | — | — | 2.58x | ~2.54x |
-| EV/EBITDA | — | — | — | 8.2x | Very high |
+| EV/EBIT | — | — | — | 12.2x | N/M (EBIT negative on TTM) |
 | Earnings Yield (FY25) | — | — | — | 7.4% | 1.0% (TTM) |
 | FCF Yield | — | — | — | 0.2% | Negative |
 | Dividend Yield | 0% | 0% | 0% | ~0% | 0% |
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. For BCCL, FY25 EBITDA of ₹1,758 Cr becomes EBIT of ₹1,177 Cr after ₹581 Cr of D&A — a 33% reduction that EV/EBITDA hides. Buffett (2000 Letter): *"References to EBITDA make us shudder."* **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from the true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner. EV/EBIT is included as a secondary cross-check for institutional comparability.
 
 **Valuation Assessment:**
 
@@ -431,7 +450,9 @@ The valuation picture is highly dependent on which earnings you normalise to:
 
 ## 15. INTRINSIC VALUE & MARGIN OF SAFETY
 
-Using **Owner Earnings** (₹1,363 Cr, FY25) as the starting point, with a 12% discount rate appropriate for a PSU mining company with commodity risk.
+Using **Owner Earnings** (₹1,363 Cr, FY25) as the starting point, with a 12% discount rate⁴.
+
+*⁴ Buffett's standard hurdle rate is 10%, and he explicitly rejects WACC (Munger has called it "nonsense"). However, for a PSU commodity miner with deeply cyclical earnings, government-controlled pricing, and secular energy transition risk, a 12% rate is more appropriate — it reflects the higher uncertainty a rational investor would demand. A 10% hurdle would overstate intrinsic value for this risk profile.*
 
 ### DCF Valuation Summary
 
@@ -441,13 +462,15 @@ Using **Owner Earnings** (₹1,363 Cr, FY25) as the starting point, with a 12% d
 | **Base** | 6% | 4% | 3% | **₹43.80** | ₹35.80 | **18.3%** | +22.3% |
 | **Optimistic** | 10% | 6% | 3% | **₹53.34** | ₹35.80 | **32.9%** | +49.0% |
 
-**Critical Caveat:** The FY25 Owner Earnings of ₹1,363 Cr used as the DCF starting point is likely overstated relative to current earning power. FY26 is tracking toward dramatically lower earnings. If we used normalised mid-cycle Owner Earnings of ~₹700-800 Cr (average of the FY21-FY25 range excluding the loss year), the intrinsic values would be roughly 45% lower:
+**Critical Caveat:** The FY25 Owner Earnings of ₹1,363 Cr used as the DCF starting point is likely overstated relative to current earning power. FY26 is tracking toward dramatically lower earnings. If we used normalised mid-cycle Owner Earnings of ~₹700-800 Cr (average of the FY21-FY25 range excluding the loss year), rerunning the DCF at OE = ₹750 Cr produces:
 
 | Scenario | IV/Share (Mid-Cycle OE ~₹750 Cr) | MoS at ₹35.80 |
 |---|---|---|
-| Conservative | ~₹20.00 | **-79%** (overvalued) |
-| Base | ~₹25.00 | **-43%** (overvalued) |
-| Optimistic | ~₹32.00 | **-12%** (overvalued) |
+| Conservative | ~₹22.00 | **-63%** (overvalued) |
+| Base | ~₹26.30 | **-36%** (overvalued) |
+| Optimistic | ~₹31.50 | **-14%** (overvalued) |
+
+*Note: Mid-cycle IVs are roughly 39-41% below FY25 IVs (not a flat 45%), because the ₹2,260 Cr net cash component is fixed and does not scale down with earnings — the same non-linear effect noted in the CapEx sensitivity below.*
 
 The choice of starting earnings point fundamentally changes the valuation conclusion. If FY25 is "normal," the stock is fairly valued. If mid-cycle is "normal," the stock is overvalued.
 
@@ -457,9 +480,18 @@ The choice of starting earnings point fundamentally changes the valuation conclu
 
 ## 16. REVERSE DCF — Napkin Math Reality Check
 
-**CMP:** ₹35.80 | **Normalised EPS (FY25):** ₹2.66 | **Current PE (FY25):** 13.5x
+### Step 1: Establish the Inputs
 
-### Implied EPS CAGR Needed to Achieve Target Returns
+| Input | Value | Source |
+|---|---|---|
+| Current Market Price (CMP) | ₹35.80 | Market data |
+| Normalised EPS (FY25) | ₹2.66 | FY25 GAAP EPS |
+| **Owner Earnings Per Share (OEPS)** | **₹2.93** | Owner Earnings (₹1,363 Cr from Section 8) / 465.7 Cr diluted shares |
+| Current PE (on FY25 EPS) | 13.5x | CMP / EPS |
+| **Current P/OE (on OEPS)** | **12.2x** | CMP / OEPS — the Buffett-pure valuation multiple |
+| Shares Outstanding (Diluted) | 465.7 Cr | No SBC dilution |
+
+### Step 3: Implied EPS CAGR Needed to Achieve Target Returns
 
 **At Terminal PE = 15x (Mature):**
 
@@ -475,13 +507,61 @@ The choice of starting earnings point fundamentally changes the valuation conclu
 | 5 Years | 10.8% | 15.8% | 20.8% |
 | 10 Years | 10.4% | 15.4% | 20.4% |
 
-**Reality Check:**
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-BCCL's 3-year profit CAGR is 123% (FY22-FY25), but this is misleading — it started from a depressed base (FY22 NP = ₹112 Cr). There is no reliable 10-year EPS CAGR because the company was unlisted with volatile results.
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading for capital-intensive businesses: it deducts accounting depreciation, but if actual maintenance spending exceeds depreciation (as it often does in inflationary mining environments), EPS overstates real earnings. Owner Earnings strips this out. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."* The same logic applies to EPS vs. Owner Earnings.
 
-At a Terminal PE of 13x (commodity business peer level), the market requires 10.4% EPS CAGR over 10 years just to earn a 10% return. For a company whose FY26 earnings are collapsing, sustaining even 10% EPS growth is uncertain.
+**Formula:**
+```
+Required Future Price         = CMP × (1 + Hurdle Rate)^n
+Required Future OEPS          = Required Future Price / Terminal P/OE Multiple
+Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
+```
 
-**Traffic Light:** 🟡 YELLOW to 🟠 ORANGE — The implied growth is achievable if production targets are met, but FY26's sharp deterioration makes this highly uncertain. The base-case 10% hurdle requires ~8-10% EPS CAGR, which is roughly in line with India's nominal GDP growth. This is achievable for a commodity producer with growing capacity — but only if execution improves dramatically from current FY26 levels.
+> **Terminal P/OE Multiple:** For BCCL — a capital-heavy commodity business — P/OE < PE because Owner Earnings < Net Income (maintenance CapEx is deducted). Using 12x as the Market Average terminal P/OE for a capital-heavy commodity miner.
+
+#### Implied OEPS CAGR Needed (at Terminal P/OE = 12x)
+
+| Holding Period | 10% Hurdle | 15% Hurdle | 20% Hurdle |
+|---|---|---|---|
+| 5 Years | 10.4% | 15.4% | 20.4% |
+| 10 Years | 10.2% | 15.2% | 20.2% |
+| 15 Years | 10.1% | 15.1% | 20.1% |
+
+#### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal PE=20x / P/OE=12x | 10-Year, 10% Hurdle |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 5.7% | |
+| Implied OEPS CAGR (from Step 3B) | 10.2% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **4.5 pp** | |
+
+**Interpretation:** The 4.5 pp gap falls in the **2-5 pp (moderate capital intensity)** zone. This confirms BCCL is a capital-hungry business where EPS slightly overstates true economic earnings growth. The EPS-based Reverse DCF at Terminal PE 20x makes the stock look cheap (only 5.7% growth needed), but the OEPS-based version reveals the truer hurdle is 10.2% — meaningfully higher. **Always defer to the OEPS-based verdict for the Buffett-pure assessment.**
+
+### Step 4: Reality Check — Is the Implied Growth Reasonable?
+
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 8-10% (capital-heavy) | Floor |
+| Company's own historical 3Y EPS CAGR | ~123% (distorted by low FY22 base) | ~93% (FY23-FY25, also distorted) | Unreliable |
+| Company's own normalised Owner Earnings CAGR | — | Not calculable (too few years, loss year) | Unavailable |
+| Industry/sector average growth | 8-12% | 6-10% | Peer comparison |
+
+**Traffic Light (applied to BOTH EPS and OEPS):**
+
+At the peer-level Terminal PE of 13x, the implied EPS CAGR needed for 10% return over 10 years is 10.4%. At Terminal P/OE of 12x, implied OEPS CAGR needed is 10.2%. Both are approximately equal to India's nominal GDP growth — achievable for a growing coking coal producer if production targets are met.
+
+**Verdict: 🟡 YELLOW** — The implied growth is at the boundary of reasonable. It requires BCCL to match GDP growth consistently over a decade, which is possible but far from guaranteed given FY26's sharp production decline. The EPS-based assessment at higher terminal PEs (20x) gives a misleadingly 🟢 GREEN signal (only 5.7% growth needed), but the OEPS-based assessment corrects this to 🟡 YELLOW — the business's capital intensity is masking the true growth hurdle.
+
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
+
+### Step 5: The Verdict — Reasonable Price or Crazy Price?
+
+> *"At the current price of ₹35.80, to earn a 10% annualised return over 10 years assuming the market values the business at 13x PE (or 12x P/OE) at exit, the company needs to grow EPS at 10.4% CAGR (and Owner Earnings at 10.2% CAGR). The company has no reliable long-term historical EPS CAGR (too few years, loss years), but India's coking coal demand is growing at ~8-10% annually. This implies the market is pricing in growth roughly in line with industry trajectory — fair but not cheap, with no margin for execution failure."*
+
+*Note: The EPS-based assessment at Terminal PE 20x is more favourable (only 5.7% EPS CAGR needed) than the Owner Earnings assessment (10.2% OEPS CAGR needed), indicating that capital intensity is masking the true hurdle. The OEPS figure is the honest benchmark.*
+
+**Buffett's Napkin Test:** At 13.5x FY25 PE, the stock needs roughly GDP-level growth to justify its price. There is no obvious mispricing, no screaming bargain, and no margin of safety for execution risk. This is not a fat pitch.
 
 ---
 
