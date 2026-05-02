@@ -40,11 +40,13 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 | **Revenue** | 3,120 | 3,505 | 3,767 | 4,053 | 4,658 | 5,424 | 5,280 | 5,074 | 6,369 | 7,543 | 7,801 | 7,823 |
 | Revenue Growth YoY | — | 12.3% | 7.5% | 7.6% | 14.9% | 16.4% | -2.7% | -3.9% | **25.5%** | 18.4% | 3.4% | **0.3%** |
 | Expenses | 2,753 | 3,054 | 3,182 | 3,315 | 3,864 | 4,672 | 4,476 | 4,211 | 5,720 | 6,725 | 6,774 | 6,881 |
-| **Operating Profit (EBITDA)** | 367 | 451 | 585 | **737** | 794 | 753 | 804 | 863 | **649** | 818 | **1,028** | 942 |
-| OPM % | 11.8% | 12.9% | 15.5% | **18.2%** | 17.0% | 13.9% | 15.2% | 17.0% | **10.2%** | 10.8% | **13.2%** | 12.0% |
+| **Operating Profit (pre-D&A)** | 367 | 451 | 585 | **737** | 794 | 753 | 804 | 863 | **649** | 818 | **1,028** | 942 |
+| OPM % (pre-D&A) | 11.8% | 12.9% | 15.5% | **18.2%** | 17.0% | 13.9% | 15.2% | 17.0% | **10.2%** | 10.8% | **13.2%** | 12.0% |
+| Depreciation & Amortisation | 66 | 68 | 68 | 70 | 77 | 106 | 142 | 165 | 170 | 180 | 190 | 202 |
+| **EBIT** | 301 | 383 | 517 | **667** | 717 | 647 | 662 | 698 | **479** | 638 | **838** | 740 |
+| **EBIT Margin** | 9.6% | 10.9% | 13.7% | **16.5%** | 15.4% | 11.9% | 12.5% | 13.8% | **7.5%** | 8.5% | **10.7%** | 9.5% |
 | Other Income | 10 | 22 | **563** | 98 | 71 | 61 | 26 | 38 | 25 | 26 | **753** | **769** |
 | Interest | 2 | 1 | 0 | 0 | 1 | 10 | 21 | 24 | 29 | 29 | 29 | 31 |
-| Depreciation | 66 | 68 | 68 | 70 | 77 | 106 | 142 | 165 | 170 | 180 | 190 | 202 |
 | PBT | 310 | 404 | 1,079 | 765 | 787 | 697 | 667 | 712 | 476 | 635 | 1,561 | 1,478 |
 | Tax % | 33% | 32% | 16% | 33% | 35% | 36% | 23% | 26% | 28% | 26% | 25% | 25% |
 | **Net Profit (Reported)** | 209 | 275 | **902** | 510 | 514 | 448 | 516 | 526 | **343** | 468 | **1,176** | **1,109** |
@@ -56,9 +58,11 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 
 ### Trend Narrative
 
+> **CRITICAL — Screener Data Note & Why EBITDA Is Not Used:** Screener.in's "Operating Profit" is calculated BEFORE deducting Depreciation & Amortisation, making it **EBITDA-equivalent**, not true EBIT. This analysis deliberately does NOT track EBITDA as a standalone metric or use EBITDA-based valuation multiples. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* Instead, EBIT (Operating Profit minus D&A) is always computed and tracked as the true operating profit after accounting for the capital the business consumes.
+
 **Revenue growth has stalled.** After a strong post-COVID recovery (FY22: +25.5%, FY23: +18.4%), revenue growth decelerated sharply to 3.4% in FY24 and a mere 0.3% in FY25. The 5-year sales CAGR is 8.2% and the 10-year CAGR is 8.4% — both mediocre for a paints company operating in a market growing at ~9-10% CAGR. This means Kansai Nerolac is **losing market share**.
 
-**Margins are compressed.** The operating margin peaked at 18.2% in FY17, collapsed to 10.2% in FY22 (raw material inflation cycle), partially recovered to 13.2% in FY24, and is now back down to 12.0% in FY25. This margin trajectory is inferior to peers — Asian Paints consistently operates at 18-20% OPM, and Berger at 15-17%.
+**Margins are compressed — and the EBIT picture is worse than OPM suggests.** The pre-D&A operating margin (OPM) peaked at 18.2% in FY17, collapsed to 10.2% in FY22, partially recovered to 13.2% in FY24, and is now 12.0% in FY25. But EBIT Margin — the true operating profit after D&A — tells a starker story: it peaked at 16.5% (FY17), crashed to 7.5% (FY22), and has only recovered to 9.5% (FY25). The growing gap between OPM and EBIT Margin — which narrowed from ~2.2pp in FY14 to a trough of ~1.6pp in FY18 (when the asset base was still light), then spiked to ~3.2pp in FY21 during the heavy capex cycle, and has settled at ~2.5pp in FY25 — reveals rising capital intensity. Post the FY18-FY20 capacity expansion, depreciation is permanently consuming a larger share of operating profit. This is a pattern EBITDA-based analysis would entirely miss.
 
 **Normalised earnings growth is weak.** Stripping out the massive exceptional other income items (FY16: ₹543 Cr, FY24: ₹723 Cr, FY25: ₹739 Cr), the normalised 10-year EPS CAGR is only **7.6%** — barely above inflation and well below the industry growth rate. Earnings growth is NOT outpacing revenue growth on a normalised basis; it is roughly tracking it.
 
@@ -82,6 +86,8 @@ Buffett: *"When a management team with a reputation for brilliance tackles a bus
 | CWIP | 48 | 44 | 42 | 154 | 346 | 316 | 169 | 207 | 225 | 113 | 153 | 226 |
 | Investments | 49 | 208 | 539 | 531 | 521 | 197 | 306 | 669 | 211 | 501 | 1,327 | 1,850 |
 | Debt/Equity | 0.05 | 0.03 | 0.02 | **0.01** | 0.01 | 0.03 | **0.06** | 0.04 | 0.05 | 0.04 | 0.05 | 0.05 |
+| Debt/EBIT | 0.23 | 0.13 | 0.09 | **0.04** | 0.05 | 0.17 | 0.37 | 0.25 | **0.42** | 0.25 | 0.33 | 0.40 |
+| Interest Coverage (EBIT/Int.) | 151x | 383x | 999x | 999x | 717x | 65x | 32x | 29x | **17x** | 22x | 29x | 24x |
 | BVPS (₹) | 17.54 | 19.75 | 31.03 | 34.72 | 38.75 | 42.70 | 46.93 | 50.47 | 53.49 | 56.77 | 69.60 | **81.89** |
 | BVPS Growth YoY | — | 12.6% | 57.1% | 11.9% | 11.6% | 10.2% | 9.9% | 7.5% | 6.0% | 6.1% | 22.6% | 17.7% |
 
@@ -89,7 +95,7 @@ Buffett: *"When a management team with a reputation for brilliance tackles a bus
 
 ### Assessment
 
-The balance sheet is a genuine **financial fortress** by Buffett's standards. The company is virtually debt-free (Debt/Equity of 0.05 — negligible) with growing equity, substantial investments (₹1,850 Cr in FY25), and no financial fragility whatsoever. Interest coverage has always been extraordinarily high (23x+ even in the worst year).
+The balance sheet is a genuine **financial fortress** by Buffett's standards. The company is virtually debt-free (Debt/Equity of 0.05, Debt/EBIT of 0.40 — negligible) with growing equity, substantial investments (₹1,850 Cr in FY25), and no financial fragility whatsoever. EBIT-based interest coverage has always been extraordinarily high (17x+ even in the worst year, FY22).
 
 However, note two things: (1) BVPS jumped significantly in FY16 (+57%) and FY24 (+23%) due to the exceptional other income being retained — this flatters the BVPS growth trend. On a normalised basis, BVPS compounds at roughly 7-8% annually. (2) The investments balance has grown from ₹49 Cr (FY14) to ₹1,850 Cr (FY25) — this is where proceeds from subsidiary/investment disposals are being parked, and it explains the large "other income" items when these are periodically realised.
 
@@ -129,7 +135,8 @@ FCF conversion from normalised net income is reasonable but not exceptional — 
 | ROCE % | 22% | **25%** | **25%** | **26%** | 25% | 20% | 18% | 17% | **11%** | 14% | 17% | 13% |
 | ROE % (normalised) | 14.7% | **18.2%** | 16.6% | 16.0% | 15.4% | 12.4% | 14.4% | 13.5% | **8.4%** | 10.8% | 12.2% | 8.6% |
 | Debt/Equity | 0.05 | 0.03 | 0.02 | **0.01** | 0.01 | 0.03 | **0.06** | 0.04 | 0.05 | 0.04 | 0.05 | 0.05 |
-| OPM % | 11.8% | 12.9% | 15.5% | **18.2%** | 17.0% | 13.9% | 15.2% | 17.0% | **10.2%** | 10.8% | 13.2% | 12.0% |
+| OPM % (pre-D&A, Screener) | 11.8% | 12.9% | 15.5% | **18.2%** | 17.0% | 13.9% | 15.2% | 17.0% | **10.2%** | 10.8% | 13.2% | 12.0% |
+| **EBIT Margin %** | 9.6% | 10.9% | 13.7% | **16.5%** | 15.4% | 11.9% | 12.5% | 13.8% | **7.5%** | 8.5% | **10.7%** | 9.5% |
 | NPM % (normalised) | 6.7% | 7.8% | **12.0%** | 11.4% | 10.3% | 7.9% | 9.7% | **10.4%** | **5.4%** | 6.2% | 8.1% | 7.1% |
 | Debtor Days | 55 | 54 | 53 | 53 | 55 | **51** | 54 | **69** | 63 | 60 | 62 | 63 |
 | Inventory Days | **125** | 95 | **90** | 123 | 107 | 132 | 127 | **158** | 153 | 134 | 136 | 133 |
@@ -138,7 +145,7 @@ FCF conversion from normalised net income is reasonable but not exceptional — 
 | Interest Coverage | 188x | 473x | 999x | 999x | 865x | 81x | 40x | 38x | **23x** | 29x | 61x | 55x |
 | Dividend Payout % | 29% | 28% | **18%** | 32% | 27% | 31% | 33% | **53%** | 34% | 31% | 26% | 27% |
 
-> *Interest coverage note: Calculated as (Operating Profit + Other Income) / Interest, consistent across all years. FY24 and FY25 figures (61x, 55x) are inflated by exceptional other income of ₹723 Cr and ₹739 Cr respectively. Using EBITDA-only / Interest, FY24 would be ~35x and FY25 ~30x — still extremely comfortable. The worst-year figure of 23x (FY22) is unaffected by exceptional items.*
+> *Interest coverage note: Calculated as (Operating Profit + Other Income) / Interest, consistent across all years. FY24 and FY25 figures (61x, 55x) are inflated by exceptional other income of ₹723 Cr and ₹739 Cr respectively. The EBIT-based interest coverage (EBIT / Interest, shown in Section 3) gives a cleaner picture: FY24 = 29x, FY25 = 24x — still extremely comfortable. The worst-year EBIT-based coverage is 17x (FY22).*
 
 ### Part B: Buffett's Quality Checklist
 
@@ -152,16 +159,18 @@ FCF conversion from normalised net income is reasonable but not exceptional — 
 | Positive Free Cash Flow | Positive | Mostly positive, some negative years | ⚠️ Lumpy |
 | Promoter/Insider holding | Aligned | 74.98% (Kansai Japan) | ✅ Very strong |
 | Dividend payout | Paying | ~30% avg | ✅ Consistent payer |
-| OPM stability | Stable | 10.2%-18.2% range | ⚠️ Volatile — 800bps swing |
+| EBIT Margin stability | Stable | 7.5%-16.5% range | ⚠️ Volatile — 900bps swing |
 | Moat / Pricing Power | Identifiable | Brand + auto OEM switching costs | ✅ Identifiable but narrowing |
 | ROIC | >15% | 18.4% (12Y avg) | ✅ Above cost of capital |
 | Earnings yield (normalised) | Reasonable | 3.8% (at ₹188, norm EPS ₹7.06) | ❌ Low for the risk |
 
 > *ROIC/ROCE note: The 12Y ROIC average of 18.4% and ROCE average of ~19% include FY16, where the effective tax rate was unusually low (16% vs normal 25-33%) due to the nature of exceptional income. This inflates FY16 ROIC to 28.4% (vs ~25% at a normal tax rate). The ROCE figures are sourced directly from Screener.in. Excluding FY16, the averages would be ~1 percentage point lower — still above the 15% threshold.*
 
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
 **Score: 5 ✅, 5 ⚠️, 2 ❌ — Mixed quality. Not a clear-cut Buffett business.**
 
-The ratio trends reveal a business that was genuinely high-quality from FY14-FY18 (ROCE 22-26%, OPM 12-18%, strong growth) but has deteriorated significantly since FY19. ROCE has fallen from 25%+ to 13%, margins have compressed, growth has stalled, and ROE on a normalised basis has dropped below 10% in recent years. This is moat erosion in real-time — the competitive pressure from Asian Paints' dominance, Berger's expansion, new entrants (Birla Opus, JSW/Akzo), and raw material volatility are all eating into Kansai Nerolac's franchise economics.
+The ratio trends reveal a business that was genuinely high-quality from FY14-FY18 (ROCE 22-26%, EBIT Margin 10-16%, strong growth) but has deteriorated significantly since FY19. ROCE has fallen from 25%+ to 13%, EBIT Margin has compressed from 15-16% to 9.5%, growth has stalled, and ROE on a normalised basis has dropped below 10% in recent years. This is moat erosion in real-time — the competitive pressure from Asian Paints' dominance, Berger's expansion, new entrants (Birla Opus, JSW/Akzo), and raw material volatility are all eating into Kansai Nerolac's franchise economics.
 
 ---
 
@@ -172,8 +181,11 @@ The ratio trends reveal a business that was genuinely high-quality from FY14-FY1
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 1,827 | 1,734 | **2,157** | 1,957 | 1,919 | **1,769** | 2,133 | 1,951 | 1,922 | 1,817 | **2,162** | 1,954 | 1,982 |
-| Op. Profit | 195 | 168 | **332** | 273 | 244 | 179 | **330** | 212 | 235 | **166** | 303 | 215 | 240 |
-| OPM % | 11% | **10%** | **15%** | 14% | 13% | 10% | 15% | 11% | 12% | **9%** | 14% | 11% | 12% |
+| Op. Profit (pre-D&A) | 195 | 168 | **332** | 273 | 244 | 179 | **330** | 212 | 235 | **166** | 303 | 215 | 240 |
+| OPM % (pre-D&A) | 11% | **10%** | **15%** | 14% | 13% | 10% | 15% | 11% | 12% | **9%** | 14% | 11% | 12% |
+| Depreciation | 46 | 46 | 47 | 47 | 48 | 48 | 48 | 49 | 53 | 52 | 53 | 54 | **60** |
+| **EBIT** | 149 | 122 | **285** | 226 | 196 | **131** | **282** | 163 | 182 | **114** | **250** | 161 | 180 |
+| **EBIT Margin %** | 8.2% | **7.0%** | **13.2%** | 11.5% | 10.2% | **7.4%** | 13.2% | 8.4% | 9.5% | **6.3%** | 11.6% | 8.2% | 9.1% |
 | Net Profit (adj.) | 109 | 96 | ~135* | 175 | 152 | 114 | ~195* | 120 | ~132* | 102 | 216 | 133 | 117 |
 | EPS (₹) | 1.36 | 1.16 | **9.13** | 2.19 | 1.91 | **1.44** | 2.86 | 1.52 | **8.42** | **1.34** | 2.73 | 1.67 | 1.50 |
 
@@ -183,11 +195,11 @@ The ratio trends reveal a business that was genuinely high-quality from FY14-FY1
 
 **1. Revenue Trajectory:** Quarterly revenues are essentially flat on a YoY basis. Jun25 sales of ₹2,162 Cr vs Jun24 of ₹2,133 Cr (+1.4%). Dec25 sales of ₹1,982 Cr vs Dec24 of ₹1,922 Cr (+3.1%). There is a clear seasonal pattern — Q1 (Apr-Jun) is always the strongest quarter, Q4 (Jan-Mar) is the weakest. But the concerning signal is the absence of meaningful YoY growth in any quarter.
 
-**2. Margin Trend:** OPM oscillates between 9-15% with significant quarter-to-quarter volatility. There is no clear expanding trend. Q1 quarters (Jun-ending) consistently show the best margins (14-15%), while Q4 (Mar-ending) shows the worst (9-10%). This ~600bps seasonal swing makes quarterly comparisons treacherous.
+**2. Margin Trend:** Pre-D&A OPM oscillates between 9-15% with significant quarter-to-quarter volatility. EBIT Margin shows an even wider swing (6.3%-13.2%) and a more concerning trend: the OPM-to-EBIT gap is widening in recent quarters (Dec25: OPM 12% vs EBIT 9.1% — a 290bps gap, vs ~250bps a year earlier). This means depreciation is consuming a growing share of operating profit, reflecting the rising capital intensity from FY18-FY20 capacity additions. Quarterly EBIT Margin is trending downward — Dec25 at 9.1% is below Dec24's 9.5% and well below Dec23's 10.2%. This pattern of stable OPM but compressing EBIT Margin is exactly the kind of deterioration that EBITDA-based analysis would completely miss.
 
 **3. Normalised Quarterly EPS Run-Rate:** Stripping out exceptional items, the normalised quarterly EPS is approximately ₹1.50-2.73. The last 4 clean quarters (Mar25: ₹1.34, Jun25: ₹2.73, Sep25: ₹1.67, Dec25: ₹1.50) give a TTM normalised EPS of **₹7.24**. Annualised current earnings power is approximately **₹7.00-7.50 per share**.
 
-**4. Red Flags:** The massive spikes in Other Income (Jun23: ₹678 Cr, Dec24: ₹671 Cr) are clearly one-time items that inflate reported EPS to ₹9.13 and ₹8.42 respectively. While TTM normalised EPS (including normal other income of ~₹25-35 Cr/quarter) works out to ₹7.24, the pure *operating* EPS — from operating profit alone, after interest, depreciation, and tax, but excluding all other income — is approximately ₹6.41 annualised. This operating-only figure has grown only modestly relative to FY20-FY21 levels (₹6.16-6.21 operating EPS, computed as [EBITDA − Dep − Interest] × [1 − tax rate] ÷ shares), confirming that the core business is barely growing. This is a **Decelerating** business.
+**4. Red Flags:** The massive spikes in Other Income (Jun23: ₹678 Cr, Dec24: ₹671 Cr) are clearly one-time items that inflate reported EPS to ₹9.13 and ₹8.42 respectively. While TTM normalised EPS (including normal other income of ~₹25-35 Cr/quarter) works out to ₹7.24, the pure *operating* EPS — from operating profit alone, after interest, depreciation, and tax, but excluding all other income — is approximately ₹6.41 annualised. This operating-only figure has grown only modestly relative to FY20-FY21 levels (₹6.16-6.21 operating EPS, computed as [Operating Profit (pre-D&A) − Dep − Interest] × [1 − tax rate] ÷ shares), confirming that the core business is barely growing. This is a **Decelerating** business.
 
 **Verdict: (c) Decelerating** — Growth has slowed to near-zero, margins are under pressure from competition and raw material costs, and the underlying earnings power (stripping out one-time gains) has stagnated. This is NOT the predictable Buffett compounding machine.
 
@@ -299,23 +311,25 @@ Buffett on change: *"We do not get enthused about change as a way to make a lot 
 
 ## 11. SCALABILITY CHECK — Can This Business Scale and Is It Scaling?
 
-### Profit Scalability — Incremental Operating Margins
+### Profit Scalability — Incremental EBIT Margins
 
-| Year | Revenue | Rev Growth | Op. Profit | OP Growth | Incremental OPM |
-|---|---|---|---|---|---|
-| FY15 | 3,505 | 12.3% | 451 | 22.9% | 21.8% |
-| FY16 | 3,767 | 7.5% | 585 | 29.7% | 51.1% |
-| FY17 | 4,053 | 7.6% | 737 | 26.0% | 53.1% |
-| FY18 | 4,658 | 14.9% | 794 | 7.7% | 9.4% |
-| FY19 | 5,424 | 16.4% | 753 | -5.2% | **-5.3%** |
-| FY20 | 5,280 | -2.7% | 804 | 6.8% | **-35.4%** |
-| FY21 | 5,074 | -3.9% | 863 | 7.3% | **-28.6%** |
-| FY22 | 6,369 | 25.5% | 649 | -24.8% | **-16.5%** |
-| FY23 | 7,543 | 18.4% | 818 | 26.0% | 14.4% |
-| FY24 | 7,801 | 3.4% | 1,028 | 25.7% | 81.4% |
-| FY25 | 7,823 | 0.3% | 942 | -8.4% | **Neg.** |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY15 | 3,505 | 12.3% | 383 | 27.2% | 10.9% | 21.3% |
+| FY16 | 3,767 | 7.5% | 517 | 35.0% | 13.7% | 51.1% |
+| FY17 | 4,053 | 7.6% | **667** | 29.0% | **16.5%** | **52.4%** |
+| FY18 | 4,658 | 14.9% | 717 | 7.5% | 15.4% | 8.3% |
+| FY19 | 5,424 | 16.4% | 647 | -9.8% | 11.9% | **-9.1%** |
+| FY20 | 5,280 | -2.7% | 662 | 2.3% | 12.5% | **-10.4%** |
+| FY21 | 5,074 | -3.9% | 698 | 5.4% | 13.8% | **-17.5%** |
+| FY22 | 6,369 | 25.5% | **479** | **-31.4%** | **7.5%** | **-16.9%** |
+| FY23 | 7,543 | 18.4% | 638 | 33.2% | 8.5% | 13.5% |
+| FY24 | 7,801 | 3.4% | **838** | 31.3% | **10.7%** | 77.5% |
+| FY25 | 7,823 | 0.3% | 740 | -11.7% | 9.5% | **Neg.** |
 
-The incremental margins tell a troubling story. During FY15-FY17, the business showed excellent scaling characteristics (incremental OPM of 20-53% — well above the base OPM of 12-18%). But from FY18 onwards, incremental margins have been volatile and frequently negative. FY25 is particularly alarming — revenue growth was essentially zero while operating profit declined 8.4%. The business is NOT scaling.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether profit scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins are higher than current EBIT margins, the business is scaling beautifully. If lower, it is hitting scaling friction or becoming more capital-intensive.*
+
+The incremental EBIT margins tell a troubling story. During FY15-FY17, the business showed excellent scaling characteristics (incremental EBIT margins of 21-52% — well above the base EBIT Margin of 10-16%). But from FY18 onwards, incremental margins have been volatile and frequently negative. FY25 is particularly alarming — revenue growth was essentially zero while EBIT declined 11.7%. The business is NOT scaling. The EBIT-based analysis is actually worse than the pre-D&A version because depreciation is rising faster than revenue, meaning each new rupee of revenue faces a higher capital maintenance burden.
 
 ### Scaling Verdict
 
@@ -377,19 +391,23 @@ The operational picture shows a company that is strong in its niche (auto coatin
 
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current (TTM) |
 |---|---|---|---|---|---|---|---|
+| **P/Owner Earnings** (primary Buffett-pure multiple) | — | — | — | — | — | — | **29.3x** |
+| Owner Earnings Yield | — | — | — | — | — | — | **3.4%** |
 | Reported EPS (₹) | 6.44 | 6.55 | 4.44 | 5.86 | 14.66 | 14.14 | 7.24 |
 | Normalised EPS (₹) | 6.42 | 6.56 | 4.44 | 5.89 | 7.83 | 7.06 | 7.24 |
 | PE (on reported) | — | — | — | — | — | — | 26.0x |
 | **PE (on normalised)** | — | — | — | — | — | — | **26.6x** |
 | BVPS (₹) | 46.93 | 50.47 | 53.49 | 56.77 | 69.60 | 81.89 | ~80 |
 | **P/B** | — | — | — | — | — | — | **2.35x** |
-| EBITDA | 804 | 863 | 649 | 818 | 1,028 | 942 | 924 |
-| EV/EBITDA (approx) | — | — | — | — | — | — | ~15.3x |
+| EBIT | 662 | 698 | 479 | 638 | 838 | 740 | ~705 |
+| EV/EBIT | — | — | — | — | — | — | ~21.8x |
 | Earnings Yield (norm.) | — | — | — | — | — | — | 3.8% |
 | FCF Yield (norm. OE) | — | — | — | — | — | — | ~3.4% |
 | Dividend Yield | — | — | — | — | — | — | ~1.3% |
 
 > *PE methodology note: The "PE (on reported)" uses TTM EPS of ₹7.24 (last 4 quarters, which happen to contain no exceptional items). The "PE (on normalised)" uses the full-year FY25 normalised EPS of ₹7.06, which is a slightly lower figure because FY25 annual normalised earnings (₹554 Cr) divided by FY25 weighted-average shares (78.4 Cr) gives ₹7.06, whereas the specific TTM quarter mix yields ₹7.24. Since the current TTM quarters are essentially clean of exceptional items, the TTM PE of 26.0x is also a valid "normalised" PE. The 26.6x figure using FY25 annual normalised EPS is marginally more conservative.*
+
+> *EV/EBIT note: EV/EBIT is included as a secondary cross-check for institutional comparability. Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets. **P/Owner Earnings** (29.3x) is the primary Buffett-pure valuation multiple — it uses the true economic cash the business generates for its owner after maintaining productive capacity. Note that P/OE > PE (29.3x vs 26.6x) because Owner Earnings (₹519 Cr) < normalised Net Income (₹554 Cr) — the gap reflects maintenance capex that exceeds depreciation, confirming this is a capital-consuming business where accounting earnings overstate real economic earnings.*
 
 > *Dividend yield note: Screener.in reports a dividend yield of 1.50%, but this is computed at its displayed closing price of ₹167 (20 March). At CMP ₹188, the yield on the same trailing DPS (~₹2.50) is approximately 1.3%. Note that the FY25 dividend payout ratio of 27% shown in Section 2 is computed on reported Net Profit of ₹1,109 Cr (which includes ~₹739 Cr of exceptional other income). A 27% payout on that inflated base would imply DPS of ~₹3.82 and a yield of ~2.0% — but the actual board-declared dividend was lower because management correctly recognised the exceptional nature of the income. The payout as a percentage of normalised NP (₹554 Cr) is closer to ~35-37%, which is consistent with DPS of ~₹2.50.*
 
@@ -434,13 +452,15 @@ The DCF analysis paints a sobering picture. Even in the **optimistic scenario** 
 
 ### Inputs
 
-| Input | Value |
-|---|---|
-| CMP | ₹188 |
-| Normalised FY25 EPS | ₹7.06 |
-| Current PE (normalised) | 26.6x |
-| TTM Normalised EPS | ₹7.24 |
-| TTM PE | 26.0x |
+| Input | Value | Source |
+|---|---|---|
+| CMP | ₹188 | Market data |
+| Normalised FY25 EPS | ₹7.06 | Section 2 (normalised) |
+| Current PE (normalised) | 26.6x | CMP / Normalised EPS |
+| **Owner Earnings Per Share (OEPS)** | **₹6.42** | **Section 8: Norm. OE ₹519 Cr / 80.87 Cr diluted shares** |
+| **Current P/OE** | **29.3x** | **CMP / OEPS — Buffett-pure valuation multiple** |
+| TTM Normalised EPS | ₹7.24 | Last 4 clean quarters |
+| TTM PE | 26.0x | CMP / TTM EPS |
 
 ### Implied EPS CAGR Needed
 
@@ -468,17 +488,49 @@ The DCF analysis paints a sobering picture. Even in the **optimistic scenario** 
 | 10 Years | 10.3% | 15.3% | 20.3% |
 | 15 Years | 10.2% | 15.2% | 20.2% |
 
-### Reality Check
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| Kansai Nerolac 10Y normalised EPS CAGR | **7.6%** |
-| Industry average growth | 12-15% |
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading: a company can grow EPS by underinvesting in maintenance (boosting short-term earnings while the asset base deteriorates). Owner Earnings strips this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."* The same insight applies to EPS vs. Owner Earnings.
 
-**Traffic Light:** To earn even a 10% hurdle return over 10 years assuming the PE compresses to a market-average 20x, Kansai Nerolac needs to grow normalised EPS at **13.2% CAGR.** The company has historically delivered only **7.6% CAGR** on normalised earnings over the past decade. This implies the market is demanding **1.7x the historical growth rate** — firmly in **🟠 ORANGE** territory.
+**At Terminal P/OE = 16x (Market Average for moderate-capital-intensity manufacturer)**
 
-> *"At ₹188, to earn a 10% return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow normalised EPS at 13.2% CAGR. The company has historically grown normalised EPS at 7.6% CAGR. This implies the market is pricing in significantly optimistic growth that the company has never delivered on a sustained basis."*
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 24.1% OEPS CAGR needed | 29.8% | 35.4% |
+| 10 Years | 16.9% OEPS CAGR needed | 22.2% | 27.5% |
+| 15 Years | 14.5% OEPS CAGR needed | 19.7% | 24.9% |
+
+### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal PE 20x / P(OE) 16x | 10-Year, 10% Hurdle |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 13.2% | |
+| Implied OEPS CAGR (from Step 3B) | 16.9% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **3.7 pp** | |
+
+**Interpretation: Gap of 3.7 pp = moderate capital intensity.** Kansai Nerolac's maintenance capex exceeds its depreciation, meaning the true economic growth hurdle is materially higher than the EPS-based analysis suggests. The EPS-based Reverse DCF says the market needs 13.2% growth; the OEPS-based version says it actually needs 16.9%. This is a company where EPS somewhat overstates real economic earnings growth — the business consumes more capital than its income statement reveals.
+
+### Reality Check — Is the Implied Growth Reasonable?
+
+| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 8-10% (capital-heavy) / 10-12% (asset-light) | Floor |
+| Kansai Nerolac 5Y normalised EPS CAGR | 1.9% | — | Recent track record (FY20→FY25) |
+| Kansai Nerolac 10Y normalised EPS CAGR | **7.6%** | — | Longer-term track record |
+| Kansai Nerolac 10Y Owner Earnings CAGR | — | **5.5%** | Buffett-pure benchmark |
+| Kansai Nerolac 5Y Owner Earnings CAGR | — | **8.1%** | Recent OE track record |
+| Industry average growth | 12-15% | 10-13% | Peer comparison |
+
+**Traffic Light (EPS-based):** Implied 13.2% vs historical 7.6% = 1.7x → **🟠 ORANGE**
+**Traffic Light (OEPS-based):** Implied 16.9% vs historical 5.5% = **3.1x** → **🔴 RED**
+
+> **Apply the Traffic Light to BOTH the EPS and OEPS implied growth.** The EPS-based verdict is 🟠 ORANGE, but the OEPS-based verdict is 🔴 RED. The EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. **Defer to the OEPS-based verdict for the final Buffett-pure assessment: 🔴 RED.**
+
+### The Verdict — Reasonable Price or Crazy Price?
+
+> *"At ₹188, to earn a 10% return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 13.2% CAGR (and Owner Earnings at 16.9% CAGR). The company has historically grown normalised EPS at 7.6% CAGR and Owner Earnings at only 5.5% CAGR. This implies the market is pricing in heroic growth that the company has never delivered on a sustained basis. Note: the EPS-based assessment (🟠 ORANGE) is more favourable than the Owner Earnings assessment (🔴 RED), indicating that the business's capital intensity is masking the true growth hurdle."*
+
+Buffett: *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* The implied Owner Earnings growth of 16.9% is **3.1x** what the company has actually delivered over the past decade. This is not a close call.
 
 ---
 

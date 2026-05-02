@@ -555,7 +555,7 @@ Buffett: *"Price is what you pay, value is what you get."* The market is pricing
 | 10 Years | 4.3% | 9.0% | 13.7% |
 | 15 Years | 6.1% | 11.0% | 15.8% |
 
-*Note: Terminal P/OE of 16x is lower than the 20x terminal PE because Owner Earnings > Net Income for this business (D&A exceeds maintenance capex), making P/OE < PE. For asset-light businesses, P/OE ≈ PE; for capital-heavy businesses, P/OE < PE.*
+*Note: Terminal P/OE of 16x is lower than the 20x terminal PE because Owner Earnings > Net Income for this specific business (D&A of ₹177 Cr exceeds estimated maintenance capex of ₹106 Cr, so OE = NI + net D&A add-back > NI), making OEPS > EPS and therefore P/OE < PE. This is atypical — for most capital-heavy businesses, maintenance capex exceeds D&A (replacement cost > historical cost), making OE < NI and P/OE > PE. For asset-light businesses, P/OE ≈ PE.*
 
 **The Divergence Test — EPS vs. OEPS Implied Growth:**
 
