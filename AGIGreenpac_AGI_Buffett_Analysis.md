@@ -547,25 +547,25 @@ Buffett: *"Price is what you pay, value is what you get."* The market is pricing
 
 > **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading for capital-intensive businesses: it deducts accounting depreciation, but if actual maintenance spending exceeds depreciation (as it often does), EPS overstates real earnings. Owner Earnings strips this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense. In truth, depreciation is a particularly unattractive expense because the cash outlay it represents has already been made."* The same insight applies to EPS vs. Owner Earnings.
 
-**Implied OEPS CAGR at Terminal P/OE = 16x (Market Average)**
+**Implied OEPS CAGR at Terminal P/OE = 20x (Market Average)**
 
 | Holding Period | 10% Hurdle | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | -1.2% | 3.3% | 7.8% |
-| 10 Years | 4.3% | 9.0% | 13.7% |
-| 15 Years | 6.1% | 11.0% | 15.8% |
+| 5 Years | -5.5% | -1.2% | 3.1% |
+| 10 Years | 2.0% | 6.6% | 11.2% |
+| 15 Years | 4.6% | 9.3% | 14.1% |
 
-*Note: Terminal P/OE of 16x is lower than the 20x terminal PE because Owner Earnings > Net Income for this specific business (D&A of ₹177 Cr exceeds estimated maintenance capex of ₹106 Cr, so OE = NI + net D&A add-back > NI), making OEPS > EPS and therefore P/OE < PE. This is atypical — for most capital-heavy businesses, maintenance capex exceeds D&A (replacement cost > historical cost), making OE < NI and P/OE > PE. For asset-light businesses, P/OE ≈ PE.*
+*Note: The Divergence Test uses the SAME absolute terminal multiple (20x) for both PE and P/OE. Using different multiples (e.g., scaling terminal P/OE by the EPS/OEPS ratio) would be a tautology — the gap would vanish by construction, defeating the purpose of the diagnostic. By holding the terminal multiple constant, any gap between the implied EPS CAGR and implied OEPS CAGR reveals a genuine difference between accounting earnings and economic earnings.*
 
 **The Divergence Test — EPS vs. OEPS Implied Growth:**
 
-| Metric | At Terminal Market Avg PE/P(OE) | 10-Year, 10% Hurdle |
+| Metric | At Terminal 20x (Market Avg) | 10-Year, 10% Hurdle |
 |---|---|---|
 | Implied EPS CAGR (from Step 3, PE=20x) | 3.7% | |
-| Implied OEPS CAGR (from Step 3B, P/OE=16x) | 4.3% | |
-| **Gap (OEPS CAGR − EPS CAGR)** | **0.6 pp** | |
+| Implied OEPS CAGR (from Step 3B, P/OE=20x) | 2.0% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **-1.7 pp** | |
 
-**Interpretation: Gap ≤ 2 pp → Asset-light-equivalent on this metric.** For AGI Greenpac, the EPS and OEPS implied growth rates are very close (0.6pp gap). This is because D&A (₹177 Cr) exceeds estimated maintenance capex (₹106 Cr), so Owner Earnings (₹393 Cr) is actually *higher* than Net Income (₹322 Cr). The standard EPS-based Reverse DCF is reliable for this business — it is not misleadingly understating the true growth hurdle. Both EPS and OEPS tell the same story.
+**Interpretation: Gap is negative (-1.7pp) → Owner Earnings exceed Net Income.** For AGI Greenpac, the OEPS-based hurdle is actually *lower* than the EPS-based hurdle. This is because D&A (₹177 Cr) exceeds estimated maintenance capex (₹106 Cr), so Owner Earnings (₹393 Cr) is *higher* than Net Income (₹322 Cr) — OEPS of ₹60.84 > EPS of ₹51.50. The business generates more real economic cash than its income statement reports. The standard EPS-based Reverse DCF is conservative (not misleadingly optimistic) for this business — it slightly overstates the true growth hurdle. This is the reverse of what you'd typically see in a capital-heavy business where maintenance capex exceeds D&A.
 
 ### Step 4: Reality Check
 
@@ -582,11 +582,11 @@ On **peak EPS of ₹51.50**, the implied growth rates are very manageable. Even 
 
 However, the more important question is: **what if current EPS is NOT sustainable?** If EPS normalises to ₹21 (mid-cycle scenario), the current price of ₹570 implies a PE of 27x on normalised earnings — and to earn 10% over 10 years at 15x terminal PE, you would need EPS to grow from ₹21 to ₹99 — a 16.7% CAGR from already-normalised levels. That is demanding.
 
-> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. In this case, both give the same verdict (gap only 0.6pp). The EPS-based assessment is NOT misleadingly optimistic — the business's capital intensity is fully captured by both metrics. Defer to either with confidence.
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. In this case, the OEPS-based hurdle is actually lower than EPS (gap of -1.7pp), confirming that the EPS-based assessment is conservative, not misleadingly optimistic. Owner Earnings exceed Net Income for this business, so the standard EPS analysis slightly overstates the growth needed. Defer to either with confidence.
 
 ### Step 5: Verdict
 
-> *"At the current price of ₹570, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 3.7% CAGR (and Owner Earnings at 4.3% CAGR). The company has historically grown EPS at 13.2% CAGR and Owner Earnings at 10.0% CAGR over 10 years. This implies the market is pricing in reasonable growth on peak earnings. Note: the EPS-based and Owner Earnings-based assessments converge (0.6pp gap), indicating this business is not one where EBIT/OE analysis reveals hidden capital intensity — the standard EPS analysis is reliable."*
+> *"At the current price of ₹570, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 3.7% CAGR (and Owner Earnings at only 2.0% CAGR, since OE > NI for this business). The company has historically grown EPS at 13.2% CAGR and Owner Earnings at 10.0% CAGR over 10 years. This implies the market is pricing in reasonable growth on peak earnings. Note: the OEPS-based hurdle (2.0%) is lower than the EPS-based hurdle (3.7%), with a gap of -1.7pp — confirming the EPS analysis is conservative, not misleadingly optimistic. This business generates more real economic cash than its income statement reports."*
 
 **On peak earnings: 🟢 GREEN — Reasonable price.**
 

@@ -734,7 +734,7 @@ Buffett working with a small capital base: With small capital, Buffett would foc
 | **Trustworthy management?** | Strong MD pedigree; high promoter holding; too early to fully assess | ⚠️ |
 | **Resistant to disruption?** | Low disruption risk but highly vulnerable to commodity cycles | ⚠️ |
 | **Sustainable economics for 10+ years?** | Margins wildly volatile; no evidence of 10-year sustainable ROE > 15% | ❌ |
-| **Price significantly below IV?** | Price (₹152) is ABOVE intrinsic value in ALL scenarios | ❌ |
+| **Price significantly below IV?** | Price (₹152) is above IV in Conservative (₹68) and Base (₹113) scenarios; only marginally below in Optimistic (₹167, just 8.7% MoS) — no meaningful margin of safety | ❌ |
 
 ### Verdict: **BUFFETT WOULD NOT BUY THIS STOCK.**
 
