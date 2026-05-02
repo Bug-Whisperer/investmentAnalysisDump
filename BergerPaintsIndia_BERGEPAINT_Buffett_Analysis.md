@@ -29,8 +29,10 @@ Would Buffett understand it? **Absolutely.** You buy raw materials (titanium dio
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 3,732 | 4,170 | 4,223 | 4,552 | 5,166 | 6,062 | 6,366 | 6,818 | 8,762 | 10,568 | 11,199 | 11,545 | 11,716 |
 | Revenue Growth YoY | — | 11.7% | 1.3% | 7.8% | 13.5% | 17.3% | 5.0% | 7.1% | 28.5% | **20.6%** | 6.0% | 3.1% | **1.5%** |
-| **Operating Profit (EBITDA)** | 431 | 511 | 645 | 719 | 807 | 935 | 1,053 | 1,182 | 1,331 | 1,478 | **1,861** | 1,856 | 1,779 |
-| OPM % | **12%** | **12%** | 15% | 16% | 16% | 15% | 17% | 17% | 15% | 14% | **17%** | 16% | 15% |
+| **Operating Profit (pre-D&A)** | 431 | 511 | 645 | 719 | 807 | 935 | 1,053 | 1,182 | 1,331 | 1,478 | **1,861** | 1,856 | 1,779 |
+| OPM % (pre-D&A) | **12%** | **12%** | 15% | 16% | 16% | 15% | 17% | 17% | 15% | 14% | **17%** | 16% | 15% |
+| **EBIT** | **360** | 419 | 546 | 611 | 683 | 753 | 862 | 971 | 1,104 | 1,214 | **1,530** | 1,502 | 1,399 |
+| **EBIT Margin** | **9.6%** | 10.0% | 12.9% | 13.4% | 13.2% | 12.4% | 13.5% | **14.2%** | 12.6% | **11.5%** | **13.7%** | 13.0% | 11.9% |
 | Other Income | 36 | 36 | 40 | **108** | 46 | 60 | 69 | 51 | 68 | **48** | 105 | 129 | 61 |
 | Interest | 47 | 50 | 27 | **16** | 25 | 47 | 47 | 44 | 51 | **99** | 78 | 63 | 61 |
 | Depreciation | **71** | 92 | 99 | 108 | 124 | 182 | 191 | 211 | 227 | 264 | 331 | **354** | 380 |
@@ -49,9 +51,11 @@ Would Buffett understand it? **Absolutely.** You buy raw materials (titanium dio
 - Net Profit CAGR: 11Y = 15.2%, 5Y = 12.5%, 3Y = 12.4%
 - EPS CAGR: 11Y = 15.2%, 5Y = 12.4%
 
-**Trend Narrative:** Revenue growth has been solid over the decade but is clearly decelerating — TTM growth is just 1.5%, partly reflecting the intense competitive pressure from new entrants (Birla Opus, JSW Paints). Operating margins have oscillated in a 12-17% band, with raw material cycles (crude-linked TiO₂ and petrochemical inputs) driving the swing. The tax rate reduction post-FY19 (from ~35% to ~25%) provided a one-time ~30% boost to bottom-line growth. Profit growth has outpaced revenue growth over the decade (15.2% vs 10.8% CAGR), driven by margin expansion and the tax cut. However, FY25 showed near-flat profit growth (1.1%), and the TTM picture is worse — indicating the business is entering a tougher phase with competition compressing pricing power.
+**Trend Narrative:** Revenue growth has been solid over the decade but is clearly decelerating — TTM growth is just 1.5%, partly reflecting the intense competitive pressure from new entrants (Birla Opus, JSW Paints). Pre-D&A operating margins (Screener's OPM) have oscillated in a 12-17% band, while EBIT margins (the true post-capital-charge operating profitability) have ranged from 9.6% to 14.2%. The gap between OPM and EBIT Margin has widened from ~2pp in FY14 to ~3pp in FY25, reflecting rising depreciation from the recent heavy capex cycle — a signal of increasing capital intensity that pure EBITDA-based analysis would miss entirely. The tax rate reduction post-FY19 (from ~35% to ~25%) provided a one-time ~30% boost to bottom-line growth. Profit growth has outpaced revenue growth over the decade (15.2% vs 10.8% CAGR), driven by margin expansion and the tax cut. However, FY25 showed near-flat profit growth (1.1%), and the TTM picture is worse — indicating the business is entering a tougher phase with competition compressing pricing power.
 
-Buffett: *"Margins are a very important indicator of the quality of a business."* Berger's operating margins of 14-17% are healthy for a paint company, but the range suggests the business does not have unlimited pricing power — it must balance price hikes against volume loss in a competitive market.
+> **Why EBITDA Is Not Used in This Analysis:** Screener.in's "Operating Profit" is EBITDA-equivalent (pre-D&A). This analysis deliberately tracks EBIT (Operating Profit minus D&A) as the true operating profitability metric, following Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* EBIT accounts for the capital the business consumes to maintain its operations; EBITDA pretends that cost doesn't exist.
+
+Buffett: *"Margins are a very important indicator of the quality of a business."* Berger's EBIT margins of 10-14% (the true post-capital-charge profitability) are healthy for a paint company, but the range suggests the business does not have unlimited pricing power — it must balance price hikes against volume loss in a competitive market.
 
 ---
 
@@ -65,6 +69,9 @@ Buffett: *"Margins are a very important indicator of the quality of a business."
 | Shareholders' Equity | 1,120 | 1,260 | 1,562 | 1,901 | 2,194 | 2,444 | 2,660 | 3,377 | 3,927 | 4,494 | 5,379 | 6,155 |
 | Total Borrowings | **624** | 610 | **354** | 406 | 422 | 753 | 767 | 634 | 1,014 | **1,189** | 753 | **670** |
 | D/E Ratio | **0.56** | 0.48 | **0.23** | 0.21 | **0.19** | 0.31 | 0.29 | 0.19 | 0.26 | 0.26 | 0.14 | **0.11** |
+| Debt/EBIT | **1.73** | 1.46 | **0.65** | 0.66 | 0.62 | 1.00 | 0.89 | 0.65 | 0.92 | 0.98 | 0.49 | **0.45** |
+| Interest Coverage (EBIT/Int) | **7.7** | 8.4 | **20.2** | **38.2** | 27.3 | 16.0 | 18.3 | 22.1 | 21.6 | **12.3** | 19.6 | 23.8 |
+| Borrowings/Owner Earnings | — | — | — | — | — | — | 1.32 | 0.80 | **1.62** | **1.78** | 0.62 | **0.51** |
 | BVPS (₹) | **9.60** | 10.80 | 13.38 | 16.29 | 18.80 | 20.94 | 22.79 | 28.94 | 33.65 | 38.51 | 46.09 | **52.74** |
 | BVPS Growth YoY | — | 12.5% | 23.9% | 21.7% | 15.4% | 11.4% | 8.8% | 27.0% | 16.3% | 14.4% | 19.7% | 14.4% |
 | Fixed Assets + CWIP | 997 | 1,031 | 1,014 | 1,198 | 1,364 | 1,753 | 2,094 | 2,151 | 2,793 | 3,443 | 3,689 | 3,802 |
@@ -73,7 +80,7 @@ Buffett: *"Margins are a very important indicator of the quality of a business."
 
 **Buffett's Financial Fortress Assessment:**
 
-This is a **strong balance sheet**. Debt/equity has declined from 0.56x in FY14 to just 0.11x in FY25 — the company is essentially debt-free. Borrowings of ₹670 Cr against shareholders' equity of ₹6,155 Cr and annual cash flow from operations of ₹1,269 Cr means the entire debt could be repaid in 6 months of operating cash flow. The current ratio has improved to 2.08x, indicating comfortable liquidity.
+This is a **strong balance sheet**. Debt/equity has declined from 0.56x in FY14 to just 0.11x in FY25 — the company is essentially debt-free. Debt/EBIT is just 0.45x — the company earns more than double its entire debt in a single year of true operating profit. Borrowings/Owner Earnings of 0.51x means Berger's genuine economic cash flow could extinguish the entire gross borrowings in six months. Interest coverage (EBIT/Interest) of 23.8x is fortress-level — Berger could service its interest bill nearly 24 times over from operating profit alone. The current ratio has improved to 2.08x, indicating comfortable liquidity.
 
 Book value per share has compounded at 16.8% CAGR over 11 years from FY14 to FY25 (from ₹9.60 to ₹52.74), which is an excellent rate of book value creation driven by high ROE and moderate retention.
 
@@ -126,14 +133,15 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | ROE % | 22.2 | 22.3 | 26.3 | **27.4** | 22.5 | **21.3** | 25.7 | 23.9 | 22.8 | **20.4** | **23.7** | 20.5 |
 | ROIC % | 17.5 | 18.7 | **22.5** | **22.8** | 21.3 | 20.9 | 23.5 | 23.5 | 22.0 | 20.6 | **23.6** | 21.5 |
 | D/E | **0.56** | 0.48 | 0.23 | 0.21 | **0.19** | 0.31 | 0.29 | 0.19 | 0.26 | 0.26 | 0.14 | **0.11** |
-| OPM % | **12** | **12** | 15 | 16 | 16 | 15 | **17** | **17** | 15 | 14 | **17** | 16 |
+| OPM % (pre-D&A, Screener) | **12** | **12** | 15 | 16 | 16 | 15 | **17** | **17** | 15 | 14 | **17** | 16 |
+| **EBIT Margin %** | **9.6** | 10.0 | **12.9** | **13.4** | 13.2 | 12.4 | 13.5 | **14.2** | 12.6 | **11.5** | **13.7** | 13.0 |
 | NPM % | **6.7** | 6.4 | 8.8 | **10.4** | 8.9 | 8.2 | 10.3 | 10.6 | 9.5 | 8.1 | **10.5** | 10.2 |
 | Debtor Days | 48 | 47 | 47 | 46 | 49 | **40** | 41 | **55** | 44 | 43 | 42 | 49 |
 | Inventory Days | 122 | **104** | 108 | 153 | 140 | 138 | 142 | 174 | **178** | 142 | **134** | 143 |
 | Cash Conversion Cycle | **74** | 70 | **56** | 75 | **56** | 67 | 65 | 67 | **83** | 77 | 73 | **86** |
 | Working Capital Days | **2** | 17 | 26 | 33 | 37 | 31 | 28 | 43 | 34 | 31 | 46 | **53** |
 | Current Ratio | 1.77 | 1.83 | 1.58 | 1.56 | 1.69 | 1.77 | 1.69 | 1.79 | 1.84 | 1.90 | 1.98 | **2.08** |
-| Interest Coverage | 9.2 | 10.2 | **23.9** | **44.9** | 32.3 | 19.9 | 22.4 | 26.9 | 26.1 | **14.9** | 23.9 | 29.5 |
+| Interest Coverage (EBIT/Int) | 7.7 | 8.4 | **20.2** | **38.2** | 27.3 | 16.0 | 18.3 | 22.1 | 21.6 | **12.3** | 19.6 | 23.8 |
 | Dividend Payout % | 31 | 33 | 31 | 36 | **38** | 37 | **32** | 38 | 36 | 36 | 35 | **38** |
 
 ### Part B: Buffett's Quality Checklist
@@ -148,10 +156,12 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | Positive Free Cash Flow | Positive | ₹619 Cr (FY25) | ✅ Consistently positive |
 | Promoter/Insider holding | Aligned | 74.99% | ✅ Near maximum regulatory limit |
 | Dividend payout | Paying | 35% avg | ✅ Consistent payer |
-| OPM stability | Stable | 12-17% range | ⚠️ Moderate volatility with input cycles |
+| EBIT Margin stability | Stable | 9.6-14.2% range | ⚠️ Moderate volatility; rising D&A compressing EBIT margins relative to OPM |
 | Moat / Pricing Power | Identifiable | Brand + Distribution network | ✅ Strong #2 player moat |
 | ROIC > 15% | >15% | 17.5-23.6% range | ✅ Well above cost of capital |
 | Earnings yield | Reasonable | 2.01% at CMP | ❌ Very low — stock is expensive |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 The ratio trends reveal a business with a **durable moat** — consistently high ROCE (24%+) and ROE (20%+) for over a decade signals genuine competitive advantage. The declining debt/equity (from 0.56 to 0.11) combined with rising profitability shows a business that generates more cash than it needs and is strengthening its fortress year by year. The one concern is the rising working capital days (from 2 to 53 over the decade), which suggests the business is tying up more capital in operations as competition intensifies — potentially from more generous dealer credit terms to compete with new entrants.
 
@@ -165,8 +175,11 @@ The ratio trends reveal a business with a **durable moat** — consistently high
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 2,694 | **2,444** | **3,030** | 2,767 | 2,882 | **2,520** | **3,091** | 2,775 | 2,975 | 2,704 | **3,201** | **2,827** | 2,984 |
 | YoY Sales Growth % | — | — | — | — | 7.0% | 3.1% | 2.0% | 0.3% | 3.2% | 7.3% | 3.6% | 1.9% | 0.3% |
-| Operating Profit | 350 | 347 | **557** | 474 | 480 | **351** | 522 | 434 | 472 | 428 | 528 | **352** | 471 |
-| OPM % | 13% | 14% | **18%** | 17% | 17% | **14%** | 17% | 16% | 16% | 16% | 17% | **12%** | 16% |
+| Operating Profit (pre-D&A) | 350 | 347 | **557** | 474 | 480 | **351** | 522 | 434 | 472 | 428 | 528 | **352** | 471 |
+| OPM % (pre-D&A) | 13% | 14% | **18%** | 17% | 17% | **14%** | 17% | 16% | 16% | 16% | 17% | **12%** | 16% |
+| Depreciation (est) | 66 | 66 | 66 | 66 | 83 | 83 | 83 | 83 | 88 | 88 | 95 | 95 | 95 |
+| **EBIT** | 284 | 281 | **491** | 408 | 397 | **268** | 439 | 351 | 384 | 340 | 433 | **257** | 376 |
+| **EBIT Margin %** | 10.5% | 11.5% | **16.2%** | 14.7% | 13.8% | **10.6%** | 14.2% | 12.6% | 12.9% | 12.6% | 13.5% | **9.1%** | 12.6% |
 | Net Profit | 201 | **186** | **355** | 292 | 300 | **223** | 354 | 270 | 296 | 263 | 315 | **206** | 271 |
 | EPS (₹) | 1.72 | **1.59** | **3.04** | 2.50 | 2.57 | **1.91** | 3.03 | 2.31 | 2.53 | 2.25 | 2.70 | **1.77** | 2.33 |
 
@@ -174,11 +187,11 @@ The ratio trends reveal a business with a **durable moat** — consistently high
 
 **1. Revenue Trajectory:** Quarterly sales have been growing in low single digits YoY (0.3-7.3% range in the last 8 quarters). The Q1 of each fiscal year (April-June) is consistently the strongest quarter because it is the pre-monsoon painting season — homeowners and contractors rush to complete painting work before the June/July monsoon arrives. Q4 (Jan-Mar) is the weakest. The growth deceleration is clear — from 7% YoY in Dec 2023 to sub-2% in Sep-Dec 2025. This reflects increased competition from Birla Opus and JSW Paints compressing growth.
 
-**2. Margin Trend:** OPM has been volatile — ranging from 12% (Sep 2025, when crude oil surged to ~$120/bbl) to 18% (Jun 2023, when input costs were benign). The Sep 2025 quarter was particularly weak, with OPM crashing to 12% due to crude-linked input cost inflation and competitive pressure preventing full pass-through. Berger announced a 5-10% price hike effective April 2026, which should help margins recover.
+**2. Margin Trend:** OPM (pre-D&A) has been volatile — ranging from 12% (Sep 2025) to 18% (Jun 2023). EBIT Margin (the true post-capital-charge profitability) shows a wider and more revealing range: from 9.1% (Sep 2025) to 16.2% (Jun 2023). Critically, the gap between OPM and EBIT Margin has widened in recent quarters as depreciation from the FY22-FY24 capex cycle flows through — OPM of 16% in Dec 2025 translates to only 12.6% EBIT Margin, meaning ~3.4pp of apparent profitability is consumed by capital charges. This is a pattern that EBITDA-based analysis would miss entirely: the business is becoming more capital-intensive as it invests in new greenfield plants, and the true operating profitability is lower than the pre-D&A figures suggest. The Sep 2025 quarter was particularly weak, with EBIT Margin crashing to 9.1% due to crude-linked input cost inflation and competitive pressure preventing full pass-through.
 
 **3. Normalised Quarterly EPS Run-Rate:** Stripping out the weak Q2 FY26 (Sep 2025, EPS ₹1.77 affected by crude spike), the normalised quarterly EPS run-rate is approximately ₹2.40-2.50, implying annualised earnings power of ₹9.60-10.00. The TTM EPS of ₹9.05 understates normalised earnings slightly due to the weak Sep quarter.
 
-**4. Red Flags:** The Sep 2025 quarter (₹352 Cr operating profit, 12% OPM) was a clear negative outlier driven by crude oil surge and competitive inability to raise prices immediately. This is a cyclical margin compression, not structural — but it highlights Berger's vulnerability to input cost spikes in an increasingly competitive market.
+**4. Red Flags:** The Sep 2025 quarter (₹352 Cr operating profit, 12% OPM pre-D&A / 9.1% EBIT Margin) was a clear negative outlier driven by crude oil surge and competitive inability to raise prices immediately. This is a cyclical margin compression, not structural — but it highlights Berger's vulnerability to input cost spikes in an increasingly competitive market.
 
 **Verdict:** The business is currently **Decelerating** — revenue growth has slowed to low single digits, and margins are under pressure from both input costs and competition. This is not a deteriorating business (the franchise is intact), but the growth tailwinds that powered the 2014-2024 decade are fading as the "Paint War" intensifies.
 
@@ -278,23 +291,25 @@ Buffett: *"We do not get enthused about change... we're looking for the absence 
 
 ### Part A: Profit Scalability — Incremental Margins
 
-| Year | Revenue | Rev Growth | Op Profit | OP Growth | Incremental Op. Margin |
-|---|---|---|---|---|---|
-| FY15 | 4,170 | 11.7% | 511 | 18.6% | 18.3% |
-| FY16 | 4,223 | 1.3% | 645 | 26.2% | 252.8%* |
-| FY17 | 4,552 | 7.8% | 719 | 11.5% | 22.5% |
-| FY18 | 5,166 | 13.5% | 807 | 12.2% | 14.3% |
-| FY19 | 6,062 | 17.3% | 935 | 15.9% | 14.3% |
-| FY20 | 6,366 | 5.0% | 1,053 | 12.6% | 38.8% |
-| FY21 | 6,818 | 7.1% | 1,182 | 12.2% | 28.5% |
-| FY22 | 8,762 | 28.5% | 1,331 | 12.6% | 7.7% |
-| FY23 | 10,568 | 20.6% | 1,478 | 11.0% | 8.1% |
-| FY24 | 11,199 | 6.0% | 1,861 | 25.9% | 60.7% |
-| FY25 | 11,545 | 3.1% | 1,856 | -0.3% | -1.4% |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY15 | 4,170 | 11.7% | 419 | 16.4% | 10.0% | 13.5% |
+| FY16 | 4,223 | 1.3% | 546 | 30.3% | 12.9% | 239.6%** |
+| FY17 | 4,552 | 7.8% | 611 | 11.9% | 13.4% | 19.8% |
+| FY18 | 5,166 | 13.5% | 683 | 11.8% | 13.2% | 11.7% |
+| FY19 | 6,062 | 17.3% | 753 | 10.2% | 12.4% | 7.8% |
+| FY20 | 6,366 | 5.0% | 862 | 14.5% | 13.5% | 35.9% |
+| FY21 | 6,818 | 7.1% | 971 | 12.6% | 14.2% | 24.1% |
+| FY22 | 8,762 | 28.5% | 1,104 | 13.7% | 12.6% | 6.8% |
+| FY23 | 10,568 | 20.6% | 1,214 | 10.0% | 11.5% | 6.1% |
+| FY24 | 11,199 | 6.0% | 1,530 | 26.0% | 13.7% | 50.1% |
+| FY25 | 11,545 | 3.1% | 1,502 | -1.8% | 13.0% | -8.1% |
 
-*FY16 anomaly due to tiny revenue increment with large OP improvement (input cost benefit).*
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. This is the key scaling metric — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). A business that grows revenue while D&A rises faster (due to heavy capex) will show improving pre-D&A margins but DECLINING EBIT margins. The EBIT-based incremental margin reveals the truth: is profit scaling genuinely, or is rising capital consumption eating the scaling benefit?*
 
-The incremental margin pattern is mixed. In good years (FY16, FY20, FY21, FY24), incremental margins are well above current margins — indicating operating leverage when input costs are favourable. But in high-growth years driven by input cost inflation pass-through (FY22, FY23), incremental margins drop sharply because revenue growth is driven by price, not volume, while margins compress. FY25 shows negative incremental margins — a troubling sign of scaling friction in the current competitive environment.
+*\*\*FY16 anomaly due to tiny revenue increment (₹53 Cr) with large EBIT improvement (input cost benefit).*
+
+The incremental EBIT margin pattern is revealing. In good years (FY16, FY20, FY21, FY24), incremental EBIT margins are well above current EBIT margins — indicating genuine operating leverage after capital charges. But in high-growth years driven by input cost pass-through (FY22, FY23), incremental EBIT margins drop to just 6-7% — well below the current EBIT margin, meaning growth is getting more expensive on a post-D&A basis. FY25 shows sharply negative incremental EBIT margins (-8.1%) — a troubling sign of scaling friction. Notably, the EBIT-based figures show more muted scaling than pre-D&A metrics would suggest: in FY19, the incremental EBIT margin was 7.8% vs the incremental OPM of 14.3%, because the heavy capex of FY18-FY19 pushed up D&A, consuming much of the apparent scaling benefit.
 
 ### Part B: Where on the S-Curve?
 
@@ -345,7 +360,7 @@ Buffett: *"When a management team with a reputation for brilliance tackles a bus
 |---|---|---|---|
 | Market Share (organized decorative, est.) | ~20% | ~55% | ~15% |
 | ROCE % (FY25) | 25% | 26% | 13% |
-| OPM % (FY25) | 16% | ~16% | ~12% |
+| OPM % (pre-D&A) (FY25) | 16% | ~16% | ~12% |
 | Revenue (₹ Cr) | 11,545 | ~33,900 | ~7,800 |
 | P/E (current) | ~50x | ~55x | ~25x |
 | Debt/Equity | 0.11 | ~0.14 | ~0.06 |
@@ -358,14 +373,17 @@ Berger's operational efficiency (ROCE, OPM) is comparable to the market leader A
 
 | Metric | Current (CMP ₹450) |
 |---|---|
+| **P/Owner Earnings (primary Buffett-pure multiple)** | **40.3x** |
+| Owner Earnings Yield (OEPS / CMP) | 2.48% |
 | P/E (TTM) | 49.7x |
 | P/E (FY25 normalised) | 44.5x |
 | P/B | 8.53x |
-| EV/EBITDA | 28.5x |
+| EV/EBIT | 35.3x |
 | Earnings Yield | 2.01% |
 | FCF Yield (FY25) | 1.18% |
 | Dividend Yield | 0.86% |
-| P/Owner Earnings | 40.3x |
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. A steel company and a software company with identical EBITDA but vastly different capital requirements look equally valued on EV/EBITDA — but the software company is genuinely cheaper because it doesn't need to spend billions replacing equipment. EV/EBIT accounts for the capital the business consumes. That said, Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets — hence **P/Owner Earnings is the primary valuation multiple** in this analysis.
 
 **Historical Context:** Berger has historically traded at a premium — its 5-year median P/E was approximately 55-60x during 2020-2024. The current P/E of ~50x represents a de-rating from those peak levels but is still extremely elevated by any absolute standard. The stock has traded at 8-12x P/B for much of the last 5 years. The current P/B of 8.5x, while lower than peak levels, is still extraordinarily high by Buffett standards.
 
@@ -401,6 +419,8 @@ Buffett: *"Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1."* 
 - CMP: ₹450
 - TTM EPS (reported): ₹9.05
 - Current PE (on TTM EPS): 49.7x
+- **Owner Earnings Per Share (OEPS):** ₹11.17 (Owner Earnings of ₹1,304 Cr / 116.7 Cr diluted shares; SBC is negligible so Base OE = Dilution-Adjusted OE)
+- **Current P/OE (CMP / OEPS):** 40.3x — the Buffett-pure valuation multiple
 - *(Note: Normalised EPS adjusting for the weak Sep 2025 quarter is ~₹9.50-9.60, but the tables below use reported TTM EPS of ₹9.05 to present the more conservative case.)*
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
@@ -437,22 +457,57 @@ Buffett: *"Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1."* 
 | 10 Years | 11.1% | 16.2% | 21.2% |
 | 15 Years | 10.7% | 15.8% | 20.8% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading: a company can grow EPS by underinvesting in maintenance, financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense. In truth, depreciation is a particularly unattractive expense because the cash outlay it represents has already been made."* The same insight applies to EPS vs. Owner Earnings.
+
+**Formula:**
+```
+Required Future Price         = CMP × (1 + Hurdle Rate)^n
+Required Future OEPS          = Required Future Price / Terminal P/OE Multiple
+Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
+```
+
+> **Terminal P/OE Multiple:** Use terminal multiples slightly lower than PE scenarios, because Owner Earnings < Net Income for capital-intensive businesses. For asset-light businesses like Berger (where OE ≈ 1.1× NI due to D&A exceeding maintenance capex), P/OE ≈ PE/1.1. Using Market Average terminal P/OE of 18x (= 20x PE / 1.1 OE-to-NI ratio).
+
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 18x)
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 29.2% OEPS CAGR needed | 35.1% | 41.0% |
+| 10 Years | 19.2% OEPS CAGR needed | 24.6% | 30.1% |
+| 15 Years | 16.1% OEPS CAGR needed | 21.3% | 26.6% |
+
+#### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal PE=20x / P(OE)=18x | 10-Year, 10% Return |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 20.5% | |
+| Implied OEPS CAGR (from Step 3B) | 19.2% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **-1.3 pp** | |
+
+**Interpretation:** The gap is less than 2 pp — Berger is an **asset-light** business where Owner Earnings per share are actually slightly *higher* than EPS (because D&A exceeds maintenance capex in most years, so adding back D&A and subtracting only 50% as maintenance creates OE > NI). This is the hallmark of a capital-efficient franchise. The standard EPS-based Reverse DCF is reliable for this company — the OEPS version confirms rather than contradicts the EPS-based assessment. Both metrics tell the same story: the stock requires ~20% earnings growth for a decade to justify its current price.
+
 ### Reality Check
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| Berger 11Y EPS CAGR (FY14-FY25) | 15.2% |
-| Berger 5Y EPS CAGR | 12.4% |
-| Paint industry growth | 9-10% |
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| Berger 11Y EPS CAGR (FY14-FY25) | 15.2% | — | Actual long-term track record |
+| Berger 5Y EPS CAGR | 12.4% | — | Recent track record |
+| Berger 5Y Owner Earnings CAGR (FY20-FY25) | — | 17.5% | Buffett-pure growth benchmark |
+| Paint industry growth | 9-10% | 9-10% | Peer comparison |
+| Analyst consensus | ~12-14% | — | Market expectations |
 
 **Traffic Light:**
 
 The ONLY scenario where the implied growth is "reasonable" is if you assume the PE STAYS at 45x forever (historical average) AND you're satisfied with a 10% return — requiring 11.1% EPS CAGR over 10 years, which is achievable. But this requires the extraordinarily optimistic assumption that the market will NEVER de-rate this stock from its current ~50x PE. If the PE compresses to even 28x (still a premium compounder multiple), you need 16.5% EPS CAGR over 10 years to earn a 10% return — above Berger's own historical track record and significantly above what the decelerating growth environment suggests.
 
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. For Berger, the EPS-based and OEPS-based verdicts converge (gap < 2pp), confirming the business is asset-light and EPS is a reliable guide. Both produce a 🟠 ORANGE verdict.
+
 **Verdict:** 🟠 ORANGE — **Expensive.** At ₹450, you are betting on acceleration that may not materialise, OR that the PE multiple will sustain at historically elevated levels indefinitely. If either assumption fails, you earn sub-par returns.
 
-> *"At the current price of ₹450, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 20.5% CAGR. The company has historically grown EPS at 15.2% CAGR. This implies the market is pricing in optimistic growth — significantly above the historical track record."*
+> *"At the current price of ₹450, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 20.5% CAGR (and Owner Earnings at 19.2% CAGR). The company has historically grown EPS at 15.2% CAGR and Owner Earnings at 17.5% CAGR over 5 years. This implies the market is pricing in optimistic growth — significantly above the historical track record. Note: the EPS-based and Owner Earnings assessments converge (gap ~1pp), confirming Berger is asset-light and the EPS-based Reverse DCF is reliable."*
 
 ---
 
