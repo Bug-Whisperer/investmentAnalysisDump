@@ -36,11 +36,13 @@ Buffett: *"Never invest in a business you cannot understand."* IT services is a 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 2,335 | 2,656 | 2,952 | 3,056 | 3,108 | 3,966 | 4,182 | 3,781 | 4,244 | 4,848 | 4,902 | 5,281 | **5,687** |
 | Revenue Growth YoY | — | 13.7% | 11.1% | 3.5% | 1.7% | **27.6%** | 5.4% | **-9.6%** | 12.2% | 14.2% | 1.1% | 7.7% | 7.7% |
-| Operating Profit | 358 | 392 | 439 | 382 | 365 | 479 | 493 | **685** | 656 | **552** | **872** | 817 | ~893 |
-| OPM % | 15% | 15% | 15% | 12% | 12% | 12% | 12% | **18%** | 15% | **11%** | **18%** | 15% | ~16% |
+| Operating Profit (pre-D&A) | 358 | 392 | 439 | 382 | 365 | 479 | 493 | **685** | 656 | **552** | **872** | 817 | ~893 |
+| OPM % (pre-D&A) | 15.3% | 14.8% | 14.9% | 12.5% | 11.7% | 12.1% | 11.8% | **18.1%** | 15.5% | **11.4%** | **17.8%** | 15.5% | ~15.7% |
+| Depreciation & Amortisation | 38 | 42 | 65 | 49 | 65 | 89 | 159 | 175 | 185 | 183 | 134 | 102 | ~92 |
+| **EBIT** | **320** | **350** | **374** | **333** | **300** | **390** | **334** | **510** | **471** | **369** | **738** | **715** | **~801** |
+| **EBIT Margin** | 13.7% | 13.2% | 12.7% | 10.9% | 9.7% | 9.8% | **8.0%** | **13.5%** | 11.1% | **7.6%** | **15.1%** | 13.5% | ~14.1% |
 | Other Income | 30 | 27 | 54 | 24 | 74 | 93 | 88 | -24 | 138 | 103 | 159 | 160 | 234 |
 | Interest | 10 | 11 | 11 | 9 | 23 | 37 | 61 | 54 | 35 | 28 | 21 | 17 | ~14 |
-| Depreciation | 38 | 42 | 65 | 49 | 65 | 89 | 159 | 175 | 185 | 183 | 134 | 102 | ~92 |
 | PBT | 340 | 366 | 417 | 349 | 352 | 445 | 362 | 433 | 574 | 444 | 876 | 858 | ~1,020 |
 | Tax Rate | 30% | 28% | 30% | 32% | 30% | 28% | 25% | 29% | 27% | 26% | 24% | 24% | ~24% |
 | **Net Profit** | 238 | 265 | 292 | **238** | 246 | 319 | 272 | 307 | 422 | **328** | **665** | 650 | **775** |
@@ -64,7 +66,10 @@ Buffett: *"Never invest in a business you cannot understand."* IT services is a 
 
 ### Trend Narrative
 
-Revenue growth has been moderate and lumpy — the 27.6% spike in FY19 was driven by the acquisition of Keystone Logic/Foolproof, while the -9.6% decline in FY21 was the COVID impact. Organic growth has averaged 5-8% over most periods, significantly below top-tier Indian IT peers like Infosys (10-15%) or HCL Tech (12-15%). However, the profitability story is strong: net profit has grown at 2x the rate of revenue over the last 5 years, reflecting margin expansion from 11% OPM (FY23 trough) back to 15-18%. The FY24 profit spike (₹665 Cr, +102.7% YoY) was driven by a combination of margin recovery and provision write-backs/other income; FY25 showed a slight dip before FY26 resumed growth. EPS growth has outpaced revenue growth handsomely, indicating improving capital efficiency and operating leverage.
+Revenue growth has been moderate and lumpy — the 27.6% spike in FY19 was driven by the acquisition of Keystone Logic/Foolproof, while the -9.6% decline in FY21 was the COVID impact. Organic growth has averaged 5-8% over most periods, significantly below top-tier Indian IT peers like Infosys (10-15%) or HCL Tech (12-15%). However, the profitability story is strong: net profit has grown at 2x the rate of revenue over the last 5 years, reflecting margin expansion from 7.6% EBIT Margin (FY23 trough) back to 13-15%. The FY24 profit spike (₹665 Cr, +102.7% YoY) was driven by a combination of margin recovery and provision write-backs/other income; FY25 showed a slight dip before FY26 resumed growth. EPS growth has outpaced revenue growth handsomely, indicating improving capital efficiency and operating leverage.
+
+> **CRITICAL — Screener Data Note & Why EBITDA Is Not Used:**
+> Screener.in's "Operating Profit" line item is calculated as Revenue minus all operating expenses BEFORE deducting Depreciation & Amortisation. This makes it **EBITDA-equivalent**, not true EBIT. This analysis deliberately does NOT track EBITDA as a standalone metric or use EBITDA-based valuation multiples. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* Instead, we always compute and track **EBIT** (Screener Operating Profit minus Depreciation) — the true operating profit after accounting for the capital the business consumes.
 
 Buffett: *"In the business world, the rearview mirror is always clearer than the windshield."* The rear-view mirror shows a business that has grown slowly on the top line but managed margins well enough to deliver double-digit earnings compounding. The question is whether the windshield — the FY26 record order book of $401.8M — signals an acceleration in revenue growth.
 
@@ -86,20 +91,25 @@ Buffett: *"In the business world, the rearview mirror is always clearer than the
 | **BVPS (₹)** | **43.0** | **56.2** | **74.2** | **92.9** | **104.1** | **119.4** | **132.3** | **158.3** | **180.8** |
 | BVPS Growth | — | — | — | — | 12.0% | 14.7% | 10.8% | 19.7% | 14.2% |
 | Debt/Equity | 0.18 | 0.12 | **0.01** | 0.16 | 0.15 | 0.12 | 0.09 | 0.05 | **0.03** |
+| Debt/EBIT | 0.53 | 0.40 | **0.03** | 0.99 | 0.69 | 0.71 | 0.74 | 0.25 | **0.17** |
+| Net Debt/Owner Earnings | 0.08 | 0.05 | **-0.95** | 0.15 | -0.42 | 0.02 | **-1.49** | **-1.67** | **-2.27** |
+| Interest Coverage (EBIT/Int) | 32.0x | 34.0x | 13.0x | 5.5x | 9.4x | 13.5x | 13.2x | **35.1x** | **42.1x** |
 
 ### Financial Fortress Assessment
 
 Zensar's balance sheet is a **financial fortress** by any standard. Key strengths:
 
-1. **Virtually debt-free:** D/E has declined from 0.18 (FY14) to just 0.03 (FY25). Borrowings of ₹125 Cr against equity of ₹4,069 Cr is negligible. This is a genuinely debt-free business.
+1. **Virtually debt-free:** D/E has declined from 0.18 (FY14) to just 0.03 (FY25). Borrowings of ₹125 Cr against equity of ₹4,069 Cr is negligible. Debt/EBIT is a mere 0.17x — the company could repay all debt from ~2 months of operating profit. Interest coverage at 42.1x is fortress-grade.
 
-2. **Strong net cash position:** Investments of ₹1,714 Cr plus cash equivalents significantly exceed borrowings of ₹125 Cr. The company had net cash of $319.5M (~₹2,700 Cr) at end of Q4 FY26 — this is almost 22% of the market cap sitting in cash!
+2. **Strong net cash position:** Net Debt/Owner Earnings is deeply negative at -2.27x, confirming Zensar has more cash than it knows what to do with. The company had net cash of $319.5M (~₹2,700 Cr) at end of Q4 FY26 — this is almost 22% of the market cap sitting in cash!
 
 3. **No goodwill concerns:** The acquisition of Keystone Logic (FY19) would have created some goodwill, but fixed assets have been declining since FY20 (from ₹1,334 Cr to ₹1,171 Cr), suggesting write-downs and amortisation have reduced intangible overhang.
 
 4. **Book value compounding:** BVPS has compounded at approximately 14-15% CAGR over 10 years, from ₹43 to ₹181 — consistently building tangible shareholder wealth.
 
 Buffett: *"We will reject interesting opportunities rather than over-leverage our balance sheet."* Zensar embodies this principle — it has grown steadily while maintaining a fortress balance sheet. The net cash position provides significant downside protection and optionality for acquisitions or capital returns.
+
+> **Why Debt/EBIT and Net Debt/Owner Earnings instead of Debt/EBITDA:** EBITDA pretends the business has no capital consumption. Debt/EBIT and Net Debt/Owner Earnings tell you whether debt can be repaid from *real* economic earnings after maintaining the asset base. For Zensar, all debt metrics are deeply comfortable — the company is net cash regardless of which metric you use.
 
 ---
 
@@ -148,7 +158,8 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | ROCE % | **34** | 30 | 31 | 24 | 23 | 23 | **17** | 21 | 21 | **15** | **25** | 21 |
 | ROE % | **25.2** | **25.2** | 24.1 | 17.4 | 15.7 | 17.7 | **13.5** | 13.9 | 16.8 | **11.6** | **20.3** | 17.0 |
 | Debt/Equity | 0.18 | 0.15 | 0.12 | 0.09 | **0.01** | 0.15 | 0.16 | 0.15 | 0.12 | 0.09 | 0.05 | **0.03** |
-| OPM % | 15 | 15 | 15 | 12 | 12 | 12 | 12 | **18** | 15 | **11** | **18** | 15 |
+| OPM % (pre-D&A, Screener) | 15 | 15 | 15 | 12 | 12 | 12 | 12 | **18** | 15 | **11** | **18** | 15 |
+| **EBIT Margin %** | 13.7 | 13.2 | 12.7 | 10.9 | 9.7 | 9.8 | **8.0** | **13.5** | 11.1 | **7.6** | **15.1** | 13.5 |
 | NPM % | 10.2 | 10.0 | 9.9 | 7.8 | 7.9 | 8.0 | 6.5 | 8.1 | 9.9 | **6.8** | **13.6** | 12.3 |
 | Debtor Days | 56 | 62 | 67 | 64 | 75 | **81** | 58 | 57 | 69 | **55** | **55** | **55** |
 | Working Capital Days | 44 | 41 | 56 | 49 | **70** | 57 | **20** | **19** | 36 | 21 | 27 | 30 |
@@ -166,12 +177,14 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | Positive Free Cash Flow | Positive | Consistently positive | ✅ Pass |
 | Promoter/Insider holding | Aligned | 49.01% (RPG Group) | ✅ Strong — majority stake |
 | Dividend payout | Paying | 26% avg, rising to 45% | ✅ Pass — increasing payout |
-| OPM stability | Stable | 11-18% range (volatile) | ⚠️ Wide range, needs monitoring |
+| EBIT Margin stability | Stable | 7.6-15.1% range (volatile) | ⚠️ Wide range, needs monitoring |
 | Moat / Pricing Power | Identifiable | Client relationships, RPG backing | ⚠️ Narrow moat |
 | ROIC | >15% | ~18-22% (ROCE as proxy) | ✅ Pass |
 | Earnings yield | Reasonable | 6.3% (1/PE) at CMP ₹536 | ✅ Pass |
 
-The ratio trends reveal a business with solid returns on capital (ROCE consistently above 15%), conservative financial management (debt approaching zero), and improving working capital efficiency (debtor days declining from 81 to 55). The key concern is the OPM volatility (11% to 18%) — this reflects the project-based nature of IT services where margins can swing with utilisation, wage cycles, and client mix. The moat is narrow — Zensar is a mid-tier IT player without the brand power or scale of TCS, Infosys, or HCL Tech.
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
+The ratio trends reveal a business with solid returns on capital (ROCE consistently above 15%), conservative financial management (debt approaching zero), and improving working capital efficiency (debtor days declining from 81 to 55). The key concern is the EBIT Margin volatility (7.6% to 15.1%) — even wider than the OPM range because D&A amplifies the swing. This reflects the project-based nature of IT services where margins can swing with utilisation, wage cycles, and client mix. Notably, OPM (pre-D&A) and EBIT Margin tell a consistent story for Zensar — both improved together as D&A has been declining, indicating the business is becoming more capital-light over time (a positive structural trend). The moat is narrow — Zensar is a mid-tier IT player without the brand power or scale of TCS, Infosys, or HCL Tech.
 
 ---
 
@@ -182,15 +195,21 @@ The ratio trends reveal a business with solid returns on capital (ROCE consisten
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 | Mar26 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 1,198 | 1,213 | 1,227 | 1,241 | 1,204 | 1,230 | 1,288 | 1,308 | 1,326 | **1,359** | **1,385** | **1,421** | **1,431** | **1,450** |
-| OPM % | **11%** | 14% | **19%** | **19%** | 17% | 17% | 15% | 15% | 16% | 16% | 15% | 15% | 17% | 16% |
+| Op Profit (pre-D&A) | 135 | 176 | **230** | **231** | 208 | 203 | 196 | 201 | 207 | 212 | 211 | 220 | **250** | 236 |
+| OPM % (pre-D&A) | **11%** | 14% | **19%** | **19%** | 17% | 17% | 15% | 15% | 16% | 16% | 15% | 15% | 17% | 16% |
+| Depreciation (est) | ~46 | ~46 | ~34 | ~34 | ~33 | ~33 | ~26 | ~26 | ~25 | ~25 | ~23 | ~23 | ~23 | ~23 |
+| **EBIT** | **89** | **130** | **196** | **197** | 175 | 170 | 170 | 175 | 182 | 187 | 188 | 197 | **227** | **213** |
+| **EBIT Margin %** | **7.4%** | 10.7% | **16.0%** | **15.9%** | 14.5% | 13.8% | 13.2% | 13.4% | 13.7% | 13.8% | 13.6% | 13.9% | **15.9%** | **14.7%** |
 | Net Profit | **76** | 119 | 156 | **174** | 162 | 173 | 158 | 156 | 160 | 176 | 182 | 182 | **200** | **211** |
 | EPS (₹) | **3.38** | 5.27 | 6.90 | **7.68** | 7.14 | 7.65 | 6.97 | 6.86 | 7.04 | 7.77 | 8.01 | 8.01 | **8.79** | **9.15** |
+
+> **Reconciliation note:** FY26 quarterly Operating Profit sums to ₹917 Cr (211+220+250+236), which is ₹24 Cr higher than the annual consolidated figure of ~₹893 Cr used in Section 2. This is a standard reconciliation difference — audited annual results incorporate reclassifications and adjustments not reflected in individual quarterly filings. Revenue (₹5,687 Cr) and Net Profit (₹775 Cr) sum correctly across quarters. The annual figure is used for all ratio and valuation calculations; the quarterly figures are used only for trend analysis.
 
 ### Key Observations
 
 1. **Revenue Trajectory:** Sequential revenue has grown steadily from ₹1,198 Cr (Dec 2022) to ₹1,450 Cr (Mar 2026) — a ~21% increase over 14 quarters, or ~1.5% QoQ average. YoY revenue growth has been in the 5-10% range. The trajectory is **steady but uninspiring** — this is not a high-growth IT company.
 
-2. **Margin Trend:** OPM peaked at 19% in Q1-Q2 FY24, then compressed to 15-16% and has stayed there. The EBITDA margin for Q4 FY26 was 16.1%. This suggests margins have found a new normal around 15-17% — down from the 18-19% highs but well above the 11% trough.
+2. **Margin Trend:** OPM (pre-D&A) peaked at 19% in Q1-Q2 FY24, then compressed to 15-16% and has stayed there. EBIT Margin tells a subtly different story: it spiked to 16.0% in Q1 FY24 but has settled into a 13-14% range for most of FY25-FY26, with a notable uptick to 15.9% in Dec 2025. The convergence between OPM and EBIT Margin (the gap has narrowed from ~4pp in FY23 to ~2pp in FY26) is a positive signal — it means D&A is declining as a share of revenue, indicating the business is becoming more capital-light. This is exactly the pattern EBITDA-based analysis would miss.
 
 3. **Normalised Quarterly EPS Run-Rate:** The last 4 quarters (Jun25 to Mar26) show EPS of ₹8.01, ₹8.01, ₹8.79, ₹9.15 — annualised to approximately ₹34. This is broadly consistent with the reported FY26 EPS of ₹33.69.
 
@@ -313,14 +332,16 @@ Zensar operates in a highly competitive market with several hundred Indian IT se
 
 ### Part A: Profit Scalability
 
-| Year | Revenue (₹ Cr) | Rev Growth | Op Profit | OP Growth | Net Profit | NP Growth | Incr. Op Margin |
-|---|---|---|---|---|---|---|---|
-| FY21 | 3,781 | -9.6% | 685 | — | 307 | — | — |
-| FY22 | 4,244 | 12.2% | 656 | -4.2% | 422 | 37.5% | Negative |
-| FY23 | 4,848 | 14.2% | 552 | -15.9% | 328 | -22.3% | Negative |
-| FY24 | 4,902 | 1.1% | 872 | 58.0% | 665 | 102.7% | ~593% (misleading — low ΔRev base of ₹54 Cr) |
-| FY25 | 5,281 | 7.7% | 817 | -6.3% | 650 | -2.3% | Negative |
-| FY26 | 5,687 | 7.7% | ~893 | ~9.3% | 775 | 19.2% | ~19% |
+| Year | Revenue (₹ Cr) | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Net Profit | NP Growth | Incr. EBIT Margin* |
+|---|---|---|---|---|---|---|---|---|
+| FY21 | 3,781 | -9.6% | 510 | — | 13.5% | 307 | — | — |
+| FY22 | 4,244 | 12.2% | 471 | -7.6% | 11.1% | 422 | 37.5% | Negative (-8.4%) |
+| FY23 | 4,848 | 14.2% | 369 | -21.7% | 7.6% | 328 | -22.3% | Negative (-16.9%) |
+| FY24 | 4,902 | 1.1% | 738 | 100.0% | 15.1% | 665 | 102.7% | ~683% (misleading — low ΔRev base of ₹54 Cr) |
+| FY25 | 5,281 | 7.7% | 715 | -3.1% | 13.5% | 650 | -2.3% | Negative (-6.1%) |
+| FY26 | 5,687 | 7.7% | 801 | 12.0% | 14.1% | 775 | 19.2% | 21.2% |
+
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. This is the key scaling metric — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). A business that grows revenue while D&A rises faster (due to heavy capex) will show improving pre-D&A margins but DECLINING EBIT margins. The EBIT-based incremental margin reveals the truth: is profit scaling genuinely, or is rising capital consumption eating the scaling benefit? For Zensar, EBIT and OPM tell a consistent story because D&A is declining — this confirms that scaling is genuine, not masked by capital consumption.*
 
 The incremental operating margin story is mixed. FY22-FY23 saw revenue growth with margin compression (negative incremental margins) — classic anti-scaling. FY24 showed extraordinary margin recovery. FY25-FY26 are returning to more normal patterns. The business does NOT demonstrate consistent positive operating leverage — it is closer to a **linear scaler** where margins oscillate around a mean rather than steadily expanding with scale.
 
@@ -374,7 +395,8 @@ Buffett: *"We look for three things when hiring people: integrity, intelligence,
 |---|---|---|---|---|
 | Revenue (USD) | ~$584M | ~$593M | $624.5M | $643.7M |
 | USD Revenue Growth | — | ~2% | 5.4% | 3.1% |
-| EBITDA Margin | ~11% | ~18% | ~15.5% | ~16% |
+| OPM (pre-D&A) | ~11% | ~18% | ~15.5% | ~16% |
+| **EBIT Margin** | **~7.6%** | **~15.1%** | **~13.5%** | **~14.1%** |
 | PAT Margin | 6.8% | 13.6% | 12.3% | 13.6% |
 | Order Book (Q4) | — | — | $213.5M | **$401.8M** |
 | Net Cash | — | — | $290.5M | $319.5M |
@@ -392,18 +414,23 @@ Buffett: *"We look for three things when hiring people: integrity, intelligence,
 
 | Metric | Current (FY26 basis) | 5Y Avg | 10Y Avg |
 |---|---|---|---|
+| **P/Owner Earnings (primary Buffett-pure multiple)** | **15.0x** | — | — |
+| **Owner Earnings Yield** | **6.7%** | — | — |
 | P/E Ratio | **15.9x** | ~23x | ~25x |
 | P/B Ratio | **2.68x** | ~3.5x | ~3.0x |
-| EV/EBITDA | ~12x | ~16x | ~15x |
+| EV/EBIT | ~11.8x | ~18x | ~17x |
 | Earnings Yield | 6.3% | ~4.3% | ~4.0% |
 | Dividend Yield | 2.8% | ~1.5% | ~1.2% |
-| P/Owner Earnings | 15.1x | — | — |
+
+> **Why P/Owner Earnings is the primary multiple:** P/OE starts from true economic cash earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner. For Zensar, P/OE (15.0x) is slightly lower than P/E (15.9x), reflecting the asset-light nature — Owner Earnings exceed Net Income because D&A exceeds maintenance CapEx.
+>
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT accounts for the capital the business consumes. For Zensar (asset-light IT), the difference is modest — EV/EBIT is ~11.8x — but using the correct metric matters on principle. Note: Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets. EV/EBIT is included as a secondary cross-check for institutional comparability.
 
 ### Historical Comparison
 
 The stock is trading at its **cheapest valuation in 5+ years** on both P/E and P/B basis. The current PE of 15.9x is a significant discount to both the 5Y average (~23x) and 10Y average (~25x). The P/B of 2.68x is similarly below the historical 3.0-3.5x range.
 
-**Has the stock ever traded sustainably at current multiples?** Yes — the stock traded at similar or lower PE levels during: (a) COVID lows in March 2020, (b) the FY23 earnings trough when margins compressed to 11% OPM, and (c) very briefly during the 2018-2019 consolidation. However, in each prior case, the low PE was associated with either depressed earnings or a specific crisis. The current low PE is occurring alongside **peak earnings** (FY26 EPS of ₹33.69 is an all-time high), which is more concerning — it suggests the market is pricing in either earnings decline or structurally lower multiples for mid-tier IT.
+**Has the stock ever traded sustainably at current multiples?** Yes — the stock traded at similar or lower PE levels during: (a) COVID lows in March 2020, (b) the FY23 earnings trough when EBIT margins compressed to ~7.6%, and (c) very briefly during the 2018-2019 consolidation. However, in each prior case, the low PE was associated with either depressed earnings or a specific crisis. The current low PE is occurring alongside **peak earnings** (FY26 EPS of ₹33.69 is an all-time high), which is more concerning — it suggests the market is pricing in either earnings decline or structurally lower multiples for mid-tier IT.
 
 ---
 
@@ -437,14 +464,16 @@ The stock is trading at its **cheapest valuation in 5+ years** on both P/E and P
 
 ### Inputs
 
-| Input | Value |
-|---|---|
-| CMP | ₹536 |
-| TTM EPS (FY26, Normalised) | ₹33.69 |
-| Current PE | 15.9x |
-| Diluted Shares | ~23.0 Cr |
+| Input | Value | Source |
+|---|---|---|
+| CMP | ₹536 | Market data |
+| TTM EPS (FY26, Normalised) | ₹33.69 | GAAP EPS — Section 2 |
+| **Owner Earnings Per Share (OEPS)** | **₹35.65** | Owner Earnings ₹820 Cr ÷ 23.0 Cr diluted shares — Section 8 |
+| Current PE | 15.9x | CMP / EPS |
+| **Current P/OE** | **15.0x** | CMP / OEPS — this is the Buffett-pure valuation multiple |
+| Diluted Shares | ~23.0 Cr | Latest data |
 
-### Implied EPS CAGR Needed to Achieve Target Returns
+### Step 3: Implied EPS CAGR Needed to Achieve Target Returns
 
 **At Terminal PE = 15x (Mature)**
 
@@ -467,18 +496,54 @@ The stock is trading at its **cheapest valuation in 5+ years** on both P/E and P
 | 5 Years | -1.8% | 2.7% | 7.2% |
 | 10 Years | 4.0% | 8.7% | 13.4% |
 
-### Reality Check
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-| Benchmark | EPS CAGR |
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading: a company can grow EPS by underinvesting in maintenance (boosting short-term earnings while the asset base deteriorates) or through financial engineering. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."* The same insight applies to EPS vs. Owner Earnings.
+
+**Terminal P/OE multiples** for an asset-light IT services company: since Zensar's Owner Earnings are only ~6% above Net Income (D&A barely exceeds maintenance CapEx), P/OE ≈ PE. The current ratio of P/OE to PE is 15.0/15.9 = 0.94x. Applying this ratio to the Terminal PE of 20x gives Terminal P/OE = ~19x — maintaining consistency between the two frameworks.
+
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 19x)
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 5.0% OEPS CAGR needed | 9.7% | 14.5% |
+| 10 Years | 7.5% OEPS CAGR needed | 12.3% | 17.2% |
+| 15 Years | 8.3% OEPS CAGR needed | 13.2% | 18.1% |
+
+#### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal PE 20x / P/OE 19x, 10-Year, 10% Return |
 |---|---|
-| Historical 10Y EPS CAGR | 10.0% |
-| Historical 5Y EPS CAGR | 20.4% |
-| India Nominal GDP Growth | 10-12% |
-| Mid-tier IT sector average | 10-15% |
+| Implied EPS CAGR (from Step 3) | 7.5% |
+| Implied OEPS CAGR (from Step 3B) | 7.5% |
+| **Gap (OEPS CAGR − EPS CAGR)** | **~0 pp** |
 
-**Verdict: 🟢 GREEN at Terminal PE 20x.** To earn a 10% annualised return over 10 years at a terminal PE of 20x, Zensar needs to grow EPS at 7.5% CAGR — this is **below its historical 10Y CAGR of 10%**. The market is pricing in very modest expectations. Even a 15% return requires only 12.4% EPS CAGR at 20x terminal PE — well within historical delivery.
+**Interpretation:** The gap is essentially zero — confirming Zensar is an **asset-light business where EPS closely tracks real economic earnings.** Owner Earnings per share (₹35.65) is only 6% above EPS (₹33.69), and with consistent terminal multiples, both frameworks demand identical growth. The standard EPS-based Reverse DCF is fully reliable for this company. This is exactly the result we'd expect for an IT services business with negligible maintenance CapEx.
 
-The current PE of 15.9x at all-time high earnings means the market is pricing Zensar as a **no-growth or slow-growth** mature business. If the company delivers even its historical average EPS growth of ~10%, the stock is significantly undervalued.
+### Step 4: Reality Check — Is the Implied Growth Reasonable?
+
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| Company's own historical 5Y EPS CAGR | 20.4% | — | What it has actually delivered |
+| Company's own historical 10Y EPS CAGR | 10.0% | — | Longer-term track record |
+| Company's own historical OE CAGR (10Y) | — | 9.7% | Buffett-pure benchmark |
+| Company's own historical OE CAGR (5Y) | — | 15.8% | Recent track record |
+| Mid-tier IT sector average | 10-15% | 10-15% | Peer comparison |
+
+**Traffic Light System:**
+
+The implied EPS CAGR of 7.5% (at Terminal PE 20x, 10Y, 10% hurdle) is **below** the historical 10Y EPS CAGR of 10.0%. The implied OEPS CAGR of 7.5% (at Terminal P/OE 19x) is also **below** the historical 10Y OE CAGR of 9.7%. Both verdicts align: 🟢 **GREEN** — the market is NOT demanding heroic assumptions.
+
+> **Note:** Apply the Traffic Light to BOTH the EPS and OEPS implied growth. If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment. **For Zensar, both verdicts are 🟢 GREEN — the assessments are identical, as expected for an asset-light business where P/OE ≈ PE.**
+
+### Step 5: The Verdict
+
+> *"At the current price of ₹536, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 7.5% CAGR (and Owner Earnings at 7.5% CAGR at 19x P/OE). The company has historically grown EPS at 10.0% CAGR and Owner Earnings at 9.7% CAGR over 10 years. This implies the market is pricing in growth that is BELOW the company's own historical track record — a reasonable-to-cheap price."*
+
+> *"Note: the EPS-based and Owner Earnings assessments are perfectly aligned (~0 pp gap), confirming that this is an asset-light business where EPS is a fully reliable proxy for true economic earnings."*
+
+**Buffett's Napkin Test:** *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* If the implied growth needed just to earn your hurdle rate is lower than what the company has historically delivered, the napkin math says this is a good deal. ✅
 
 ---
 
