@@ -32,22 +32,22 @@ CIE's business doesn't require genius — it requires operational excellence, en
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 5,320 | 6,428 | **8,032** | 7,908 | **6,050** | 6,765 | 8,753 | 9,280 | 8,964 | 9,123 |
 | Rev Growth YoY | — | 20.8% | **25.0%** | -1.5% | **-23.5%** | 11.8% | 29.4% | 6.0% | -3.4% | ~0% |
-| Operating Profit | 531 | 806 | **1,001** | 968 | **502** | 942 | 1,172 | **1,424** | 1,351 | 1,327 |
-| OPM % | 10% | 13% | 12% | 12% | **8%** | 14% | 13% | **15%** | 15% | 15% |
+| Operating Profit (pre-D&A) | 531 | 806 | **1,001** | 968 | **502** | 942 | 1,172 | **1,424** | 1,351 | 1,327 |
+| OPM % (pre-D&A) | 10% | 13% | 12% | 12% | **8%** | 14% | 13% | **15%** | 15% | 15% |
 | Net Profit | 169 | 358 | **498** | 354 | **106** | 393 | -136 | **1,125** | 828 | 809 |
 | NPM % | 3.2% | 5.6% | **6.2%** | 4.5% | **1.8%** | 5.8% | -1.6% | **12.1%** | 9.2% | 8.9% |
 | EPS (₹) | 4.47 | 9.47 | **13.15** | 9.33 | **2.81** | 10.37 | -3.59 | **29.66** | 21.81 | 21.33 |
 | EPS Growth | — | 111.8% | 38.9% | -29.1% | **-69.9%** | 269.0% | N/M | N/M | -26.4% | — |
-| Depreciation | 232 | 268 | 287 | 316 | 306 | 273 | 296 | 322 | 331 | 343 |
-| EBITDA (=OP) | 531 | 806 | 1,001 | 968 | 502 | 942 | 1,172 | 1,424 | 1,351 | 1,327 |
-| EBITDA Margin | 10.0% | 12.5% | 12.5% | 12.2% | 8.3% | 13.9% | 13.4% | 15.3% | 15.1% | 14.5% |
+| Depreciation & Amort. | 232 | 268 | 287 | 316 | 306 | 273 | 296 | 322 | 331 | 343 |
+| **EBIT (OP minus D&A)** | 299 | 538 | **714** | 652 | **196** | 669 | 876 | **1,102** | 1,020 | 984 |
+| **EBIT Margin** | 5.6% | 8.4% | **8.9%** | 8.2% | **3.2%** | 9.9% | 10.0% | **11.9%** | 11.4% | 10.8% |
 | Shares (Cr) | 37.8 | 37.8 | 37.9 | 37.9 | 37.9 | 37.9 | 37.9 | 37.9 | 37.9 | 37.9 |
 | Shares Change | — | 0% | 0.3% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
 | Dividend Payout | 0% | 0% | 0% | 0% | 0% | 24% | — | 17% | 32% | — |
 
 **Trend Narrative:**
 
-> *Note: OPM % row uses Screener's whole-number rounding; EBITDA Margin row is computed to one decimal from the same Operating Profit / Revenue. Both represent the same metric — differences are purely a rounding artefact.*
+> *Note on EBIT vs. EBITDA: Screener.in's "Operating Profit" is EBITDA-equivalent (Revenue minus expenses BEFORE D&A). This analysis deliberately tracks EBIT (Operating Profit minus D&A) as the true operating profit metric, following Buffett (2000 Letter): "References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?" OPM % (pre-D&A) retains Screener's whole-number rounding for reference; EBIT Margin is the analytically relevant row.*
 
 Revenue growth has been lumpy: a strong expansion phase (CY16-18), a sharp COVID-driven contraction (CY20), a strong rebound (CY21-23), and a mild dip in CY24 (-3.4%) as European auto markets weakened. The 5-year revenue CAGR of ~2.5% is disappointing — but this masks the fact that operating margins have expanded dramatically from 10% (CY16) to 15% (CY23-24). Earnings growth has significantly outpaced revenue growth — EPS CAGR of 18.5% over 5 years (CY19→CY24) despite near-flat revenue, driven purely by margin expansion and cost efficiency.
 
@@ -55,7 +55,7 @@ The CY22 net loss (₹-136 Cr) was caused by a ₹749 Cr exceptional negative "o
 
 > *"The key to investing is determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
 
-The margin expansion from 10% to 15% OPM signals improving competitive advantage — CIE is doing more with each rupee of revenue. This is the hallmark of a business moving up the value chain and extracting operating leverage.
+The margin expansion from 5.6% to 11.4% EBIT Margin (and from 10% to 15% pre-D&A OPM) signals improving competitive advantage — CIE is doing more with each rupee of revenue even after accounting for the capital the business consumes. This is the hallmark of a business moving up the value chain and extracting genuine operating leverage.
 
 ---
 
@@ -75,11 +75,15 @@ The margin expansion from 10% to 15% OPM signals improving competitive advantage
 | BVPS Growth | — | 13.8% | 15.1% | 8.0% | 5.9% | 5.9% | -2.0% | 17.5% | 9.8% |
 | Tangible BV/Share (₹) | ~86 | ~98 | ~113 | ~122 | ~130 | ~137 | ~135 | ~158 | ~174 |
 | Current Ratio | — | — | — | — | — | — | — | — | ~1.0x |
-| Debt/EBITDA | 2.6x | 1.5x | 1.6x | 1.5x | 3.3x | 1.6x | 0.8x | 0.6x | **0.4x** |
+| Debt/EBIT | 4.7x | 2.2x | 2.3x | 2.3x | **8.4x** | 2.2x | 1.1x | 0.8x | **0.6x** |
+| Interest Coverage (EBIT/Int) | 5.1x | 10.5x | 14.3x | 12.5x | **3.6x** | **19.1x** | 38.1x | 10.3x | 13.1x |
+| Net Debt/Owner Earnings | — | 2.5x | 1.5x | 2.9x | **6.2x** | 2.1x | N/M | **0.0x** | **Net Cash** |
 
 **Financial Fortress Assessment:**
 
-This is an exceptionally strong balance sheet by any standard. The D/E ratio has collapsed from 0.43 (CY16) to **0.09 (CY24)** — the company is virtually debt-free. Debt/EBITDA of 0.4x means the company could repay all its debt from less than 5 months of operating cash flow.
+This is an exceptionally strong balance sheet by any standard. The D/E ratio has collapsed from 0.43 (CY16) to **0.09 (CY24)** — the company is virtually debt-free. Debt/EBIT of 0.6x means the company could repay all its debt from roughly 7 months of true operating profit (after D&A), and interest coverage of 13x leaves enormous headroom. By CY24 the company is in a **net cash position** (investments exceed borrowings by ₹468 Cr), so Net Debt/Owner Earnings is effectively negative — the fortress is overflowing.
+
+> *Why Debt/EBIT instead of Debt/EBITDA: EBITDA pretends the business has no capital consumption. A company with ₹500 Cr debt and ₹100 Cr EBITDA but ₹60 Cr depreciation looks "comfortable" at 5x Debt/EBITDA — but its Debt/EBIT is 12.5x, revealing the true burden after maintaining the asset base.* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"*
 
 Book value has compounded steadily from ₹86 (CY16) to ₹174 (CY24) — an 8-year CAGR of ~9.2%. The CY22 dip was caused by the exceptional write-down; stripping that, BVPS growth has been consistent.
 
@@ -127,7 +131,8 @@ The trend is clear: CIE has transitioned from a capex-heavy acquisition and expa
 | ROCE % | **8%** | 12% | 14% | 11% | **4%** | 11% | 15% | **18%** | 17% |
 | ROE % | 6.4% | 10.3% | **12.4%** | 7.9% | **2.2%** | 7.8% | -2.6% | **20.3%** | 13.2% |
 | D/E | 0.43 | 0.32 | 0.38 | 0.32 | 0.34 | 0.29 | 0.19 | 0.14 | **0.09** |
-| OPM % | **10%** | 13% | 12% | 12% | **8%** | 14% | 13% | **15%** | 15% |
+| OPM % (pre-D&A, Screener) | **10%** | 13% | 12% | 12% | **8%** | 14% | 13% | **15%** | 15% |
+| **EBIT Margin %** | **5.6%** | 8.4% | **8.9%** | 8.2% | **3.2%** | 9.9% | 10.0% | **11.9%** | 11.4% |
 | NPM % | 3.2% | 5.6% | **6.2%** | 4.5% | **1.8%** | 5.8% | -1.6% | **12.1%** | 9.2% |
 | Debtor Days | **36** | 34 | 34 | 34 | 43 | 36 | 36 | **25** | 26 |
 | Inventory Days | **142** | 128 | 123 | 103 | 131 | 148 | 93 | 86 | **85** |
@@ -147,9 +152,11 @@ The trend is clear: CIE has transitioned from a capex-heavy acquisition and expa
 | Positive Free Cash Flow | Positive | ₹644 Cr (CY24); 7 of 8 yrs positive | ✅ |
 | Promoter/Insider holding | Aligned | 65.7% (CIE Automotive S.A.) | ✅ Strong parent commitment |
 | Dividend payout | Paying | ~24% avg since CY21 (32% in CY24) | ✅ Initiated and growing |
-| OPM stability | Stable | 12-15% range (improving) | ✅ Expanding trend |
+| EBIT Margin stability | Stable & improving | 5.6-11.9% range (expanding) | ✅ Strong improvement trend |
 | Moat / Pricing Power | Identifiable | Multi-tech OEM supplier, switching costs | ⚠️ Moderate moat |
 | Earnings yield | Reasonable | 4.6% (on CY24 EPS) | ⚠️ Not cheap |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 > *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
 
@@ -164,8 +171,11 @@ The trend is clear: CIE has transitioned from a capex-heavy acquisition and expa
 | Metric | Sep22 | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Q1CY26 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 2,229 | 2,247 | 2,440 | 2,320 | 2,279 | 2,240 | **2,427** | 2,293 | 2,135 | **2,110** | 2,273 | 2,369 | 2,372 | **2,541** |
-| Op. Profit | 293 | 292 | **381** | 370 | 345 | 327 | 361 | 360 | 331 | **299** | 335 | 337 | 356 | ~**430** |
-| OPM % | 13% | 13% | **16%** | 16% | 15% | 15% | 15% | 16% | 15% | **14%** | 15% | 14% | 15% | **16.9%** |
+| Op. Profit (pre-D&A) | 293 | 292 | **381** | 370 | 345 | 327 | 361 | 360 | 331 | **299** | 335 | 337 | 356 | ~**430** |
+| OPM % (pre-D&A) | 13% | 13% | **16%** | 16% | 15% | 15% | 15% | 16% | 15% | **14%** | 15% | 14% | 15% | **16.9%** |
+| Depreciation | 73 | 77 | 83 | 83 | 78 | 78 | 86 | 84 | 80 | 81 | 86 | 87 | 89 | ~95 |
+| **EBIT** | 220 | 215 | **298** | 287 | 267 | 249 | 275 | 276 | 251 | **218** | 249 | 250 | 267 | **~335** |
+| **EBIT Margin %** | 9.9% | 9.6% | **12.2%** | 12.4% | 11.7% | 11.1% | 11.3% | 12.0% | 11.8% | **10.3%** | 11.0% | 10.6% | 11.3% | **13.2%** |
 | Net Profit | 171 | **-658** | 279 | 302 | **375** | 169 | 230 | 217 | 195 | **185** | 206 | 204 | 214 | **249** |
 | EPS (₹) | 4.52 | **-17.34** | 7.36 | 7.95 | **9.90** | 4.45 | 6.08 | 5.72 | 5.15 | **4.88** | 5.44 | 5.37 | 5.64 | **~6.57** |
 
@@ -175,11 +185,11 @@ The trend is clear: CIE has transitioned from a capex-heavy acquisition and expa
 
 1. **Revenue Trajectory:** After a soft patch (Jun24-Dec24 with revenues around ₹2,100-2,300 Cr), revenue has re-accelerated in Q1 CY2026 to ₹2,541 Cr — an ~12% YoY jump over Screener's Q1 CY2025 figure of ₹2,273 Cr. (Note: the company's investor presentation reports 16% consolidated growth, based on segmental data that uses a slightly different Q1 CY2025 base of ~₹2,190 Cr after inter-segment eliminations.) Either way, this was driven by strong Indian demand in tractors (+37% YoY), 2-wheelers (+21% YoY), and MHCVs (+25% YoY), plus European margin recovery.
 
-2. **Margin Trend:** OPM has been stable at 14-16% for the last 8 quarters. Q1 CY2026 at 16.9% EBITDA margin is the highest recent quarter — suggesting operating leverage is kicking in as volumes recover.
+2. **Margin Trend:** Pre-D&A OPM has been stable at 14-16% for the last 8 quarters, while EBIT Margin (after D&A) has tracked at 10-12%, with Q1 CY2026 hitting **13.2%** — the highest in the series. Importantly, both OPM and EBIT Margin are expanding in tandem, indicating that the margin improvement is genuine and not being eroded by rising capital intensity (D&A is growing roughly in line with revenue, not faster). Q1 CY2026 at 16.9% OPM / 13.2% EBIT Margin suggests operating leverage is kicking in as volumes recover.
 
 3. **Normalised Quarterly EPS Run-Rate:** Stripping out the Dec22 exceptional loss (₹-658 Cr from European restructuring) and the Sep23 exceptional gain (₹375 Cr including restructuring gains), normalised quarterly EPS is approximately ₹5.0-5.5 per quarter, implying annualised normalised EPS of ~₹20-22. The Q1 CY2026 EPS of ~₹6.57 annualises to ~₹26 — suggesting acceleration.
 
-4. **Positive Surprise:** Q1 CY2026 was the strongest quarter in the company's history by revenue and EBITDA. European EBITDA margins recovered from 12.7% (Q4 CY25) to 15.7% (Q1 CY26) — a remarkable turnaround attributed to restructuring benefits.
+4. **Positive Surprise:** Q1 CY2026 was the strongest quarter in the company's history by revenue and EBIT. European EBIT margins recovered from ~10% (Q4 CY25) to ~13% (Q1 CY26) — a remarkable turnaround attributed to restructuring benefits.
 
 > *"In the business world, the rearview mirror is always clearer than the windshield."* — Warren Buffett
 
@@ -230,7 +240,7 @@ The pattern is textbook contrarian: FIIs are selling, DIIs are aggressively buyi
 
 **Note on SBC:** CIE Automotive India has **negligible stock-based compensation** — this is an Indian industrial company with no material ESOP programme. The SBC analysis (Burry/NVIDIA framework) is therefore not applicable. Base Owner Earnings ≈ true economic earnings.
 
-CapEx as % of revenue has declined from ~5% to 2.6% in CY24, confirming the transition from investment phase to harvest phase. Growth CapEx has shrunk dramatically (₹38 Cr in CY24 vs ₹178 Cr in CY18), while the business continues to generate ₹1,350 Cr of EBITDA — indicating that the existing asset base is now sufficient to sustain current revenue levels.
+CapEx as % of revenue has declined from ~5% to 2.6% in CY24, confirming the transition from investment phase to harvest phase. Growth CapEx has shrunk dramatically (₹38 Cr in CY24 vs ₹178 Cr in CY18), while the business continues to generate ₹1,020 Cr of EBIT — indicating that the existing asset base is now sufficient to sustain current revenue levels.
 
 > *"If options aren't a form of compensation, what are they? If compensation isn't an expense, what is it?"* — Warren Buffett. Fortunately, SBC is immaterial at CIE — reported earnings closely approximate true owner earnings.
 
@@ -284,19 +294,21 @@ The auto-component industry IS susceptible to change (EV transition), which Buff
 
 ## 11. SCALABILITY CHECK — Can This Business Scale?
 
-### Part A: Profit Scalability — Incremental Operating Margins
+### Part A: Profit Scalability — Incremental EBIT Margins
 
-| Year | Revenue | Rev Growth | Op Profit | OP Growth | Net Profit | NP Growth | Incremental OPM |
-|---|---|---|---|---|---|---|---|
-| CY18 | 8,032 | 25.0% | 1,001 | 24.2% | 498 | 39.1% | 12.2% |
-| CY19 | 7,908 | -1.5% | 968 | -3.3% | 354 | -28.9% | N/M (rev decline) |
-| CY20 | 6,050 | -23.5% | 502 | -48.1% | 106 | -70.1% | 25.1% (cyclical) |
-| CY21 | 6,765 | 11.8% | 942 | 87.6% | 393 | 270.8% | 61.5% (recovery) |
-| CY22 | 8,753 | 29.4% | 1,172 | 24.4% | -136 | N/M | 11.6% |
-| CY23 | 9,280 | 6.0% | 1,424 | 21.5% | 1,125 | N/M | 47.8% |
-| CY24 | 8,964 | -3.4% | 1,351 | -5.1% | 828 | -26.4% | N/M (rev decline) |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Net Profit | NP Growth | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|---|---|
+| CY18 | 8,032 | 25.0% | 714 | 32.7% | 8.9% | 498 | 39.1% | 11.0% |
+| CY19 | 7,908 | -1.5% | 652 | -8.7% | 8.2% | 354 | -28.9% | N/M (rev decline) |
+| CY20 | 6,050 | -23.5% | 196 | -69.9% | 3.2% | 106 | -70.1% | N/M (rev decline) |
+| CY21 | 6,765 | 11.8% | 669 | 241.3% | 9.9% | 393 | 270.8% | 66.2% (recovery) |
+| CY22 | 8,753 | 29.4% | 876 | 30.9% | 10.0% | -136 | N/M | 10.4% |
+| CY23 | 9,280 | 6.0% | 1,102 | 25.8% | 11.9% | 1,125 | N/M | 42.9% |
+| CY24 | 8,964 | -3.4% | 1,020 | -7.4% | 11.4% | 828 | -26.4% | N/M (rev decline) |
 
-**Key Insight:** In growth years (CY21, CY23), incremental operating margins of 47-62% are dramatically above the current 15% OPM — indicating strong operating leverage. When revenue grows, a disproportionate share falls to the bottom line because fixed costs (depreciation, overhead) are already absorbed. This is the hallmark of a business with scaling potential.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins are HIGHER than current EBIT margins, the business is scaling beautifully. If LOWER, it is hitting scaling friction or becoming more capital-intensive.*
+
+**Key Insight:** In growth years (CY21, CY23), incremental EBIT margins of 43-66% are dramatically above the current 11% EBIT Margin — indicating strong genuine operating leverage even after D&A. When revenue grows, a disproportionate share falls to the bottom line because fixed costs (depreciation, overhead) are already absorbed. Importantly, the EBIT-based incremental margins (66%/43%) are in line with the pre-D&A incremental margins — confirming that D&A is NOT growing disproportionately and the scaling is genuine, not masked by rising capital intensity.
 
 ### Part B: Scaling Runway
 
@@ -375,18 +387,22 @@ The operational fundamentals are improving: India operations are delivering 17%+
 
 | Metric | CY17 | CY18 | CY19 | CY20 | CY21 | CY22 | CY23 | CY24 | Current |
 |---|---|---|---|---|---|---|---|---|---|
+| **P/Owner Earnings** *(primary)* | ~21x | ~16x | ~20x | ~43x | ~20x | N/M | ~13x | ~18x | **~19x** |
+| **Owner Earnings Yield** | 4.8% | 6.2% | 4.9% | 2.3% | 5.1% | N/M | 7.8% | 5.6% | **5.3%** |
 | PE Ratio | ~27x | ~20x | ~28x | ~93x | ~25x | N/M | ~15x | ~21x | **~22x** |
 | P/B Ratio | ~2.6x | ~2.3x | ~2.1x | ~2.0x | ~1.9x | ~2.5x | ~2.7x | ~2.6x | **~2.75x** |
-| EV/EBITDA | ~13x | ~11x | ~11x | ~22x | ~12x | ~11x | ~11x | ~12x | **~13x** |
+| EV/EBIT | ~20x | ~15x | ~17x | ~58x | ~16x | ~15x | ~15x | ~16x | **~18x** |
 | Earnings Yield | 3.7% | 5.0% | 3.6% | 1.1% | 4.0% | N/M | 6.7% | 4.8% | **4.6%** |
 | FCF Yield | 2.2% | N/M | 4.5% | 1.2% | 2.9% | 3.8% | 3.0% | 3.8% | ~3.6% |
 | Dividend Yield | 0% | 0% | 0% | 0% | 0.9% | — | 0.6% | 1.5% | **1.5%** |
 
 **Historical Comparison:**
 
-The stock has historically traded at 20-28x PE and 2.0-2.7x P/B. Current multiples (22x PE, 2.75x P/B) are within the historical range but at the upper end of P/B. EV/EBITDA of ~13x is in line with the stock's historical range of 11-13x (excluding the CY20 COVID distortion).
+The stock has historically traded at 20-28x PE and 2.0-2.7x P/B. Current multiples (22x PE, 2.75x P/B) are within the historical range but at the upper end of P/B. EV/EBIT of ~18x is in line with the stock's normal-year range of 15-20x (excluding the CY20 COVID distortion). The Buffett-pure P/Owner Earnings multiple of ~19x indicates the stock is modestly priced relative to true economic earning power.
 
-> *Note: EV = Market Cap + Borrowings − Investments. EV/EBITDA values use approximate year-end prices derived from P/B × BVPS.*
+> *Why EV/EBIT instead of EV/EBITDA: EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT accounts for the capital the business consumes before you get your return. P/Owner Earnings is the preferred Buffett-pure multiple — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash.*
+
+> *Note: EV = Market Cap + Borrowings − Investments. EV/EBIT values use approximate year-end prices derived from P/B × BVPS. P/Owner Earnings uses Owner Earnings from Section 8.*
 >
 > *CY23 caveat: PE (~15x) and P/B (~2.7x) use approximate year-end values and do not perfectly reconcile because CY23 EPS of ₹29.66 was inflated by a ₹409 Cr restructuring gain in "Other Income." At the P/B-derived price (~₹427), PE would be ~14.4x. The P/B is the more reliable metric for CY23; PE and Earnings Yield are distorted by the one-off gain.*
 >
@@ -427,6 +443,8 @@ The base case intrinsic value of ₹694 suggests the stock is ~30% undervalued. 
 | CMP | ₹477 |
 | Normalised EPS (CY24) | ₹21.81 |
 | Current PE | 21.9x |
+| **Owner Earnings Per Share (OEPS)** | **₹25.33** (CY24 OE ₹960 Cr / 37.9 Cr shares) |
+| **Current P/OE** | **18.8x** (CMP / OEPS — the Buffett-pure valuation multiple) |
 | Diluted Shares | 37.9 Cr |
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
@@ -455,18 +473,48 @@ The base case intrinsic value of ₹694 suggests the stock is ~30% undervalued. 
 | 10 Years | 9.9% | 14.9% | 19.9% |
 | 15 Years | 10.0% | 15.0% | 20.0% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> *Why this matters:* EPS can be misleading — a company can grow EPS by underinvesting in maintenance or through financial engineering. Owner Earnings strips this out, measuring the TRUE economic cash the business generates after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense. That's nonsense."* The same insight applies to EPS vs. Owner Earnings.
+
+**Formula:** Required Future Price = CMP × (1 + Hurdle Rate)^n → Required Future OEPS = Required Future Price / Terminal P/OE → Implied OEPS CAGR = (Required Future OEPS / Current OEPS)^(1/n) − 1
+
+**Terminal P/OE Multiple:** 17x (Market Average for industrials — slightly lower than PE because Owner Earnings < Net Income for capital-intensive businesses; for asset-light businesses P/OE ≈ PE).
+
+#### Implied OEPS CAGR at Terminal P/OE = 17x
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 12.3% OEPS CAGR needed | 17.4% | 22.5% |
+| 10 Years | 11.1% OEPS CAGR needed | 16.2% | 21.2% |
+| 15 Years | 10.8% OEPS CAGR needed | 15.8% | 20.8% |
+
+#### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Market Avg Terminal PE (20x) / P/OE (17x) | 10-Year, 10% Return |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 11.0% | |
+| Implied OEPS CAGR (from Step 3B) | 11.1% | |
+| **Gap (OEPS − EPS)** | **0.1 pp** | |
+
+**Interpretation: Gap ≤ 2 pp → Asset-light business, EPS reliable.** CIE's maintenance CapEx (~60% of D&A) is less than full depreciation, so Owner Earnings actually EXCEED Net Income — making the EPS-based Reverse DCF slightly more conservative than the OEPS version. The two metrics tell the same story. The standard EPS-based Reverse DCF is trustworthy for this business.
+
 ### Reality Check
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| CIE 5Y historical EPS CAGR (CY19→CY24) | 18.5% |
-| CIE 7Y historical EPS CAGR (CY17→CY24) | 12.7% |
-| Auto-component sector average | 12-15% |
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor |
+| CIE 5Y historical EPS CAGR (CY19→CY24) | 18.5% | 14.9% | Actual track record |
+| CIE 7Y historical EPS CAGR (CY17→CY24) | 12.7% | 10.9% | Longer-term track record |
+| CIE historical Owner Earnings CAGR (CY17→CY24) | — | 10.9% | Buffett-pure benchmark |
+| Auto-component sector average | 12-15% | 10-13% | Peer comparison |
+| Analyst consensus | 12-15% | — | Market expectations |
 
 **Traffic Light: 🟢 GREEN (for 10% return at 20x terminal PE)**
 
-At the current price of ₹477, to earn a 10% annualised return over 10 years assuming a 20x exit PE, CIE needs to grow EPS at 11% CAGR. The company has historically grown EPS at 12.7-18.5% CAGR. The market is pricing in reasonable growth — you don't need heroic assumptions.
+At the current price of ₹477, to earn a 10% annualised return over 10 years assuming a 20x exit PE, CIE needs to grow EPS at 11% CAGR (and Owner Earnings at 11.1% CAGR). The company has historically grown EPS at 12.7% CAGR and Owner Earnings at 10.9% CAGR. The market is pricing in reasonable growth — you don't need heroic assumptions.
+
+> *Apply the Traffic Light to BOTH the EPS and OEPS implied growth. In CIE's case, both verdicts are 🟢 GREEN — the 0.1 pp gap confirms this is an asset-light (relative to D&A) business where EPS is a reliable proxy for true economic earnings. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.*
 
 For a 15% return at 20x terminal PE, you need 16% EPS CAGR — achievable given the recent margin expansion trajectory, but optimistic. **🟡 YELLOW.**
 
@@ -503,7 +551,7 @@ Base upside (+45%) / Probable downside (-31%) = **1.5:1**
 
 This is a **marginal pitch** — positive expected value but not a table-pounding fat pitch. The upside is decent but the downside is not minimal (31% to trough).
 
-**Mispricing Identification:** There is a **moderate mispricing** present. The market appears to be anchoring to the tepid 5-year revenue CAGR of 2.5% and the historically sub-15% ROE, while missing: (a) the dramatic margin expansion from 10% to 15% OPM, (b) the deleveraging from 0.43 to 0.09 D/E, (c) the Q1 CY26 acceleration in volumes, and (d) the EV order pipeline. DII accumulation of 10+ percentage points in 3 years supports this thesis.
+**Mispricing Identification:** There is a **moderate mispricing** present. The market appears to be anchoring to the tepid 5-year revenue CAGR of 2.5% and the historically sub-15% ROE, while missing: (a) the dramatic margin expansion from 5.6% to 11.4% EBIT Margin (and OPM from 10% to 15%), (b) the deleveraging from 0.43 to 0.09 D/E, (c) the Q1 CY26 acceleration in volumes, and (d) the EV order pipeline. DII accumulation of 10+ percentage points in 3 years supports this thesis.
 
 ---
 
