@@ -37,24 +37,26 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 71 | 83 | 89 | 116 | 134 | **141** | 196 | 264 | 311 | 372 | 459 |
 | Revenue Growth YoY | 9.2% | 16.9% | 7.2% | **30.3%** | 15.5% | 5.2% | 39.0% | 34.7% | 17.8% | 19.6% | 29% |
-| Operating Profit (EBITDA) | 10 | 20 | 26 | 32 | 31 | **12** | 38 | **62** | 69 | 68 | 92 |
-| OPM % | 14% | **25%** | **29%** | 27% | 23% | **9%** | 20% | 23% | 22% | 18% | 20% |
+| Operating Profit (pre-D&A) | 10 | 20 | 26 | 32 | 31 | **12** | 38 | **62** | 69 | 68 | 92 |
+| OPM % (pre-D&A) | 14% | **25%** | **29%** | 27% | 23% | **9%** | 20% | 23% | 22% | 18% | 20% |
+| Depreciation & Amortisation | 1 | 0 | 1 | 1 | 2 | 4 | 4 | 4 | 6 | 7 | 10 |
+| **EBIT** | **9** | **20** | **25** | **31** | **29** | **8** | **34** | **58** | **63** | **61** | **82** |
+| **EBIT Margin** | **12.7%** | **24.1%** | **28.1%** | **26.7%** | **21.6%** | **5.7%** | **17.3%** | **22.0%** | **20.3%** | **16.4%** | **17.9%** |
 | Net Income | 7 | 14 | 19 | 26 | 25 | **17** | 28 | **46** | **51** | 49 | 62 |
 | Net Income Growth | 16.7% | **100.0%** | 35.7% | 36.8% | -3.8% | **-32.0%** | **64.7%** | **64.3%** | 10.9% | -3.9% | 30% |
 | NPM % | 9.9% | 16.9% | **21.3%** | **22.4%** | 18.7% | **12.1%** | 14.3% | 17.4% | 16.4% | 13.2% | 13.5% |
 | EPS (Diluted, ₹) | 242.67 | 456.67 | 4.82 | 4.73 | 4.59 | **3.03** | 5.06 | **8.41** | **9.39** | 8.96 | 11.01 |
 | EPS Growth | — | — | — | -1.9% | -3.0% | **-34.0%** | **66.7%** | **66.2%** | 11.7% | -4.6% | — |
 | Shares Outstanding (Cr) | 0.03 | 0.03 | 3.94 | 5.50 | 5.45 | 5.61 | 5.53 | 5.47 | 5.43 | 5.47 | 5.70 |
-| Depreciation | 1 | 0 | 1 | 1 | 2 | 4 | 4 | 4 | 6 | 7 | 10 |
 | Dividend Payout % | 0% | 0% | 0% | 7% | 16% | **25%** | 20% | **9%** | 16% | 17% | — |
 
-*Note: EPS figures for FY16-FY17 are pre-IPO on a tiny share base and not comparable. Post-IPO EPS from FY18 onwards is adjusted for the 1:1 bonus issue in FY24. Shares outstanding are derived as Net Profit / Screener EPS to ensure consistency. TTM EPS of ₹11.01 is Screener.in's reported figure, which may use a weighted-average share count and thus not reconcile exactly with TTM NP (₹62 Cr) ÷ period-end shares (5.70 Cr) = ₹10.88. OPM % figures are as reported by Screener.in and may show minor rounding differences vs. manually computed Operating Profit ÷ Revenue (e.g., FY17: Screener reports 25% vs. computed 20/83 = 24.1%).*
+*Note: EPS figures for FY16-FY17 are pre-IPO on a tiny share base and not comparable. Post-IPO EPS from FY18 onwards is adjusted for the 1:1 bonus issue in FY24. Shares outstanding are derived as Net Profit / Screener EPS to ensure consistency. TTM EPS of ₹11.01 is Screener.in's reported figure, which may use a weighted-average share count and thus not reconcile exactly with TTM NP (₹62 Cr) ÷ period-end shares (5.70 Cr) = ₹10.88. OPM % (pre-D&A) figures are as reported by Screener.in and may show minor rounding differences vs. manually computed Operating Profit ÷ Revenue (e.g., FY17: Screener reports 25% vs. computed 20/83 = 24.1%). EBIT = Screener's Operating Profit minus Depreciation. This prompt deliberately tracks EBIT (not EBITDA) per Buffett: "References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"*
 
 **Trend Narrative:**
 
 Revenue has compounded at a strong **19% CAGR over 10 years** (FY15-FY25) and **23% over 5 years** (FY20-FY25), driven by the structural shift toward premium PU wood coatings and the company's aggressive distribution expansion. The TTM revenue run-rate of ₹459 Cr shows continued acceleration, partly boosted by the Wembley acquisition.
 
-**However, margins are compressing.** OPM peaked at 29% in FY18 and has been on a declining trajectory, falling to 18% in FY25 and stabilising around 20% TTM. The compression reflects: (a) the shift toward mass-market products (Unico, Wembley) which carry lower margins than premium Sirca products; (b) rising raw material costs; (c) increased operating expenses from expansion (branches, dealers, studios). Net profit actually **declined** 3.9% in FY25 despite 19.6% revenue growth — a clear signal that growth is currently coming at the expense of profitability.
+**However, margins are compressing.** OPM (pre-D&A) peaked at 29% in FY18 and has fallen to 18% in FY25, stabilising around 20% TTM. More tellingly, **EBIT Margin** (which accounts for the capital the business consumes via depreciation) peaked at 28% in FY18 and has fallen to 16.4% in FY25 — a sharper decline than OPM, reflecting rising depreciation from the ₹107 Cr capacity expansion. This is exactly the pattern EBITDA-based analysis would miss: OPM suggests the business is stabilising at 20%, but EBIT Margin reveals that rising D&A is eating into the true operating profit. The compression reflects: (a) the shift toward mass-market products (Unico, Wembley) which carry lower margins than premium Sirca products; (b) rising raw material costs; (c) increased operating expenses from expansion; and (d) rising depreciation from new capacity. Net profit actually **declined** 3.9% in FY25 despite 19.6% revenue growth — a clear signal that growth is currently coming at the expense of profitability.
 
 Buffett: *"The single most important decision in evaluating a business is pricing power. If you've got the power to raise prices without losing business to a competitor, you've got a very good business."* Sirca has some pricing power in its premium segment, but the push into mass-market is diluting overall margins. This warrants close monitoring.
 
@@ -74,6 +76,9 @@ Buffett: *"The single most important decision in evaluating a business is pricin
 | Borrowings | **11** | 4 | 5 | **0** | **0** | 13 | **0** | **0** | **0** | **0** | 45 |
 | Other Liabilities | 14 | 23 | 22 | 23 | 25 | 40 | 37 | 47 | 42 | 101 | 71 |
 | Debt/Equity | 0.55 | 0.12 | 0.07 | **0.00** | **0.00** | 0.06 | **0.00** | **0.00** | **0.00** | **0.00** | 0.10 |
+| Debt/EBIT | **1.22** | 0.20 | 0.20 | **0.00** | **0.00** | **1.62** | **0.00** | **0.00** | **0.00** | **0.00** | — |
+| Net Debt/Owner Earnings | **1.57** | 0.29 | 0.26 | **0.00** | **0.00** | 0.76 | **0.00** | **0.00** | **0.00** | **0.00** | — |
+| Interest Coverage (EBIT/Interest) | ∞ | ∞ | ∞ | ∞ | ∞ | ∞ | ∞ | ∞ | ∞ | ∞ | ∞ |
 | BVPS (₹) | — | — | 17 | 31 | 34 | 36 | 41 | 48 | 57 | 64 | **78** |
 | Current Ratio | 2.86 | 2.22 | 3.41 | **6.83** | 6.40 | 5.30 | 5.62 | 5.36 | 5.79 | 2.82 | — |
 
@@ -126,7 +131,8 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | ROE % | 42.2 | **51.7** | 37.6 | 22.1 | 14.2 | **8.8** | 13.1 | **18.8** | 17.8 | 14.9 |
 | ROIC % | 23.1 | **37.0** | 31.2 | 18.7 | 13.0 | **4.4** | 12.6 | 18.7 | 17.8 | 15.5 |
 | Debt/Equity | 0.55 | 0.12 | 0.07 | **0.00** | **0.00** | 0.06 | **0.00** | **0.00** | **0.00** | **0.00** |
-| OPM % | 14 | **25** | **29** | 27 | 23 | **9** | 20 | 23 | 22 | 18 |
+| OPM % (pre-D&A, Screener) | 14 | **25** | **29** | 27 | 23 | **9** | 20 | 23 | 22 | 18 |
+| **EBIT Margin %** | **12.7** | **24.1** | **28.1** | **26.7** | **21.6** | **5.7** | **17.3** | **22.0** | **20.3** | **16.4** |
 | NPM % | 9.9 | 16.9 | **21.3** | **22.4** | 18.7 | **12.1** | 14.3 | 17.4 | 16.4 | 13.2 |
 | Debtor Days | 83 | 106 | **137** | 125 | 124 | 112 | **85** | **71** | 77 | 92 |
 | Inventory Days | 45 | 76 | 120 | 144 | **265** | **282** | 217 | 248 | 206 | 198 |
@@ -150,10 +156,12 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | Positive Free Cash Flow | Positive | Lumpy; negative in 4 of 10 years | ⚠️ Growth-phase lumpiness |
 | Promoter/Insider holding | Aligned | 65.2% promoter (down from 67.55%) | ✅ High skin in the game |
 | Dividend payout | Paying | ~15% avg since FY19 | ✅ Modest but consistent |
-| OPM stability | Stable | 9-29% range — volatile | ⚠️ Wide range; compressing trend |
+| EBIT Margin stability | Stable | 5.7-28.1% range — volatile | ⚠️ Wide range; compressing trend |
 | Moat / Pricing Power | Identifiable | Italian brand licensing, niche focus | ⚠️ Moat exists but shallow |
 | ROIC | >15% | 15.5% (FY25); avg ~19% | ✅ Above threshold |
 | Earnings yield | Reasonable | 2.6% (CMP ₹430) | ❌ Low — stock is expensive |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Narrative:** The ratio trends reveal a business with genuinely strong fundamentals (high ROCE, near-zero debt, excellent growth) but **two structural concerns**: (1) **margin compression** from the FY17-18 peak as the company scales into lower-margin segments, and (2) **high working capital intensity** (218-day cash conversion cycle) that ties up capital and limits the capital-light scaling ideal. The ROE has ranged between 14.9-18.8% in recent years (FY23-FY25), hovering around the 15% Buffett threshold — good but not elite. The near-zero-debt balance sheet is a clear Buffett-quality signal.
 
@@ -167,8 +175,11 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 65 | 68 | 73 | 84 | 72 | 83 | 79 | 105 | 89 | 101 | 114 | **131** | 113 |
 | YoY Growth | — | — | — | — | 10.8% | 22.1% | 8.2% | 25.0% | 23.6% | 21.7% | 44.3% | **24.8%** | 27.0% |
-| Op Profit | 14 | 13 | 17 | **21** | 14 | 16 | 14 | 19 | 15 | 19 | 23 | **27** | 23 |
-| OPM % | 22% | 19% | **24%** | **25%** | 19% | 20% | **18%** | 18% | **17%** | 19% | 20% | 21% | 20% |
+| Op Profit (pre-D&A) | 14 | 13 | 17 | **21** | 14 | 16 | 14 | 19 | 15 | 19 | 23 | **27** | 23 |
+| OPM % (pre-D&A) | 22% | 19% | **24%** | **25%** | 19% | 20% | **18%** | 18% | **17%** | 19% | 20% | 21% | 20% |
+| Depreciation | 1 | 1 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 3 | 3 |
+| **EBIT** | **13** | **12** | **16** | **19** | **12** | **14** | **12** | **17** | **13** | **17** | **21** | **24** | **20** |
+| **EBIT Margin %** | **20.0%** | **17.6%** | **21.9%** | **22.6%** | **16.7%** | **16.9%** | **15.2%** | **16.2%** | **14.6%** | **16.8%** | **18.4%** | **18.3%** | **17.7%** |
 | Net Profit | 11 | 9 | 13 | **16** | 11 | 13 | 10 | 13 | 11 | 14 | 14 | **18** | 15 |
 | NPM % | 16.9% | 13.2% | **17.8%** | **19.0%** | 15.3% | 15.7% | 12.7% | 12.4% | 12.4% | 13.9% | 12.3% | **13.7%** | 13.3% |
 | EPS (₹) | 1.92 | 1.73 | 2.35 | **2.83** | 1.92 | 2.28 | 1.86 | 2.42 | 2.09 | 2.58 | 2.59 | **3.19** | 2.65 |
@@ -177,7 +188,7 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 
 1. **Revenue Trajectory:** Revenue is on a clear upward trend, with the Wembley acquisition contributing from H1 FY26 onwards. The Sep25 quarter (₹131 Cr) was the strongest ever. There is clear seasonality — Q2 (Jul-Sep) tends to be the strongest quarter (festival/wedding season demand), while Q3 (Oct-Dec) and Q4 (Jan-Mar) see sequential dips.
 
-2. **Margin Trend:** OPM has compressed from the 24-25% range (Jun-Sep 2023) to 17-21% in recent quarters. The margin dilution is structural as mass-market Wembley and Unico products form a larger revenue share. Management has guided for stabilisation at ~20% OPM.
+2. **Margin Trend:** OPM (pre-D&A) has compressed from the 24-25% range (Jun-Sep 2023) to 17-21% in recent quarters. More importantly, **EBIT Margin** has compressed from 22-23% (Jun-Sep 2023) to 15-18% — a steeper decline, reflecting rising depreciation from new capacity. The OPM-EBIT gap has approximately doubled from ~1.5pp in FY23 to ~2.5pp in recent quarters, confirming rising capital intensity. This is a pattern that EBITDA-based analysis would miss entirely.
 
 3. **Normalised Quarterly EPS Run-Rate:** Stripping out seasonality, the average of the last 4 quarters (Mar25 + Jun25 + Sep25 + Dec25) gives ₹2.58 + 2.59 + 3.19 + 2.65 = ₹11.01 annualised — matching the TTM EPS of ₹11.01 exactly.
 
@@ -279,16 +290,18 @@ Buffett: *"The best business to own is one that over an extended period can empl
 
 ## 11. SCALABILITY CHECK — Can This Business Scale and Is It Scaling?
 
-### Part A: Profit Scalability — Incremental Margins
+### Part A: Profit Scalability — Incremental EBIT Margins
 
-| Year | Revenue | Rev Growth | Op Profit | OP Growth | NP | NP Growth | Incr. Op. Margin |
-|---|---|---|---|---|---|---|---|
-| FY22 | 196 | 39.0% | 38 | 216.7% | 28 | 64.7% | 47.3% |
-| FY23 | 264 | 34.7% | 62 | 63.2% | 46 | 64.3% | 35.3% |
-| FY24 | 311 | 17.8% | 69 | 11.3% | 51 | 10.9% | 14.9% |
-| FY25 | 372 | 19.6% | 68 | -1.4% | 49 | -3.9% | **-1.6%** |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | NP | NP Growth | Incr. EBIT Margin* |
+|---|---|---|---|---|---|---|---|---|
+| FY22 | 196 | 39.0% | 34 | 325.0% | 17.3% | 28 | 64.7% | 47.3% |
+| FY23 | 264 | 34.7% | 58 | 70.6% | 22.0% | 46 | 64.3% | 35.3% |
+| FY24 | 311 | 17.8% | 63 | 8.6% | 20.3% | 51 | 10.9% | 10.6% |
+| FY25 | 372 | 19.6% | 61 | -3.2% | 16.4% | 49 | -3.9% | **-3.3%** |
 
-**Scaling Assessment:** The incremental operating margins deteriorated sharply from 47% (FY22) to -1.6% (FY25), indicating **scaling friction**. FY25 revenue grew 19.6% but operating profit actually fell — every new rupee of revenue was LESS profitable than the last. This reflects: (a) the margin-dilutive mix shift toward mass-market products, (b) expansion costs (new branches, Wembley integration), and (c) input cost pressures.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. This is computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). A business that grows revenue while D&A is rising faster (due to heavy capex) will show improving pre-D&A margins but DECLINING EBIT margins. The EBIT-based incremental margin reveals the truth.*
+
+**Scaling Assessment:** The incremental EBIT margins deteriorated sharply from 47% (FY22) to -3.3% (FY25), indicating **scaling friction**. FY25 revenue grew 19.6% but EBIT actually fell 3.2% — every new rupee of revenue was LESS profitable after accounting for the capital consumed. This is worse than the pre-D&A picture (-1.6% incremental OPM) because rising depreciation from the ₹107 Cr capacity expansion is eating into true operating profit. Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* — the EBIT-based view confirms the scaling friction is real, not masked by ignoring D&A.
 
 **However**, this is likely a temporary phase. The company invested ₹107 Cr in new capacity in FY25 — these plants are not yet contributing to revenue at scale. As capacity utilisation improves in FY26-27, incremental margins should normalise.
 
@@ -349,15 +362,18 @@ Buffett: *"When a management team with a reputation for brilliance tackles a bus
 
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current |
 |---|---|---|---|---|---|---|---|
+| **P/Owner Earnings** (primary Buffett-pure) | — | — | — | — | — | — | **39.5x** |
+| Owner Earnings Yield (OEPS/CMP) | — | — | — | — | — | — | **2.5%** |
 | PE Ratio | — | — | — | — | — | — | **39.1x** |
 | P/B Ratio | — | — | — | — | — | — | **5.53x** |
-| EV/EBITDA | — | — | — | — | — | — | **26.6x** |
+| EV/EBIT | — | — | — | — | — | — | **29.9x** |
 | Earnings Yield | — | — | — | — | — | — | **2.6%** |
 | Market Cap (₹ Cr) | — | — | — | — | — | — | ~2,451 |
 | TTM EPS | — | — | — | — | — | — | ₹11.01 |
+| TTM OEPS | — | — | — | — | — | — | ₹10.88 |
 | BVPS (Sep 25) | — | — | — | — | — | — | ₹77.72 |
 
-*Note: Historical PE data is limited as the stock was SME-listed until relatively recently. The 3-year average PE from Zerodha is ~41x; current PE of ~39x is slightly below this average.*
+*Note: Historical PE data is limited as the stock was SME-listed until relatively recently. The 3-year average PE from Zerodha is ~41x; current PE of ~39x is slightly below this average. P/Owner Earnings (39.5x) is nearly identical to PE (39.1x) because for Sirca, Owner Earnings ≈ Net Profit (maintenance capex ≈ D&A). EV/EBIT replaces the commonly-used EV/EBITDA: Buffett (2000 Letter): "References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?" EV/EBIT at 29.9x accounts for the ₹10 Cr annual depreciation that EV/EBITDA would have ignored.*
 
 **Historical Comparison:** The stock has typically traded at 35-50x PE since gaining broader market recognition. At 39x, it is near the lower end of its historical range — but this is still a premium valuation in absolute terms. The P/B of 5.53x is high for a 15% ROE business.
 
@@ -378,25 +394,43 @@ At 5.53x P/B vs. 1.63x fair P/B, the stock trades at a **massive premium** to th
 
 ## 15. INTRINSIC VALUE & MARGIN OF SAFETY
 
-**Using Owner Earnings (TTM) = ₹62 Cr as the DCF starting point.**
+**Using Owner Earnings (TTM) = ₹62 Cr as the DCF starting point. Discount rate: 10% flat (Buffett's hurdle rate).**
+
+*Buffett explicitly rejects WACC as a discount rate. Munger has called it "nonsense." The 10% hurdle represents the minimum return Buffett demands from any investment — the opportunity cost of capital.*
 
 | Scenario | Growth Yr 1-5 | Growth Yr 6-10 | Terminal g | Discount Rate | IV/Share | MoS at ₹430 | Upside/(Downside) |
 |---|---|---|---|---|---|---|---|
-| **Conservative** | 15% | 10% | 4% | 12% | **₹265** | **-62.3%** | -38.3% |
-| **Base** | 18% | 12% | 4% | 11% | **₹371** | **-15.9%** | -13.7% |
+| **Conservative** | 15% | 10% | 4% | 10% | **₹366** | **-17.5%** | -14.9% |
+| **Base** | 18% | 12% | 4% | 10% | **₹442** | **2.7%** | +2.8% |
 | **Optimistic** | 22% | 15% | 5% | 10% | **₹658** | **34.7%** | +53.0% |
 
-**Key Finding:** Under conservative and base-case assumptions, the stock offers **NO margin of safety** — it is priced above intrinsic value. Only the optimistic scenario (22% earnings growth for 5 years, 15% for the next 5, at a 10% discount rate) justifies the current price with a 35% margin of safety.
-
-This tells us the market is pricing in the OPTIMISTIC scenario. The current valuation assumes everything goes right — Wembley integration succeeds, margins recover, national expansion scales smoothly, and growth sustains at 20%+ for a decade.
+**Key Finding:** With a uniform 10% Buffett hurdle rate, the Base case IV (₹442) is almost exactly at the current price — the stock is **fairly valued** under base-case assumptions, not overvalued. The Conservative scenario still shows no margin of safety (-17.5%), while the Optimistic scenario provides a 35% margin. The current valuation is pricing in slightly-above-base-case execution.
 
 ---
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = ₹430, Normalised TTM EPS = ₹11.01, Current PE = 39.1x
+### Step 1: Inputs
 
-#### Implied EPS CAGR Needed to Achieve Target Returns
+| Input | Value | Source |
+|---|---|---|
+| Current Market Price (CMP) | ₹430 | Market data |
+| TTM EPS (Normalised) | ₹11.01 | Screener.in (GAAP, post-bonus adjusted) |
+| **Owner Earnings Per Share (OEPS)** | **₹10.88** | Owner Earnings (₹62 Cr) ÷ Diluted Shares (5.70 Cr). For Sirca, OE ≈ NP since maintenance capex ≈ D&A. |
+| Current PE (on Normalised EPS) | 39.1x | CMP / EPS |
+| **Current P/OE (on OEPS)** | **39.5x** | CMP / OEPS — this is the Buffett-pure valuation multiple |
+| Shares Outstanding (Diluted) | 5.70 Cr | Latest (post Sep 2025 preferential allotment) |
+
+### Step 2: Terminal PE Scenarios
+
+| Scenario | Terminal PE | Rationale |
+|---|---|---|
+| **Mature / Low-Growth** | 15x | Business has matured, growth ≈ GDP |
+| **Market Average** | 20x | Grows roughly in line with market |
+| **Above-Average Compounder** | 28x | Durable moat, faster-than-market growth |
+| **Historical Average PE** | 39x | Company's own 3-year median PE |
+
+### Step 3: Implied EPS CAGR Needed to Achieve Target Returns
 
 **At Terminal PE = 15x (Mature)**
 
@@ -426,20 +460,54 @@ This tells us the market is pricing in the OPTIMISTIC scenario. The current valu
 | 5 Years | 10.0% | 15.0% | 20.0% |
 | 10 Years | 10.0% | 15.0% | 20.0% |
 
-**Reality Check:**
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-| Benchmark | EPS CAGR |
-|---|---|
-| Company's 7Y EPS CAGR (FY18-FY25) | 9.3% |
-| Company's 5Y EPS CAGR (FY20-FY25) | 14.3% |
-| Company's 5Y Revenue CAGR | 22.7% |
-| India nominal GDP growth | 10-12% |
+> **Why this matters:** EPS can be misleading — a company can grow EPS by underinvesting in maintenance, financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense. That's nonsense."* The same insight applies to EPS vs. Owner Earnings.
+
+**At Terminal P/OE = 17x (Market Average for Owner Earnings)**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 30.2% OEPS CAGR needed | 36.1% | 42.0% |
+| 10 Years | 19.7% OEPS CAGR needed | 25.1% | 30.6% |
+| 15 Years | 16.4% OEPS CAGR needed | 21.6% | 26.9% |
+
+*Terminal P/OE multiples are typically slightly lower than PE because Owner Earnings ≤ Net Income for capital-intensive businesses. For asset-light businesses like Sirca (where OE ≈ NP), the gap is small.*
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal Market Avg (PE 20x / P/OE 17x) | 10-Year Hurdle (10% Return) |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 17.6% | |
+| Implied OEPS CAGR (from Step 3B) | 19.7% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **2.0 pp** | |
+
+**Interpretation:** The 2.0 pp gap is at the boundary between "asset-light" (≤2 pp) and "moderate capital intensity" (2-5 pp). For Sirca, this makes sense — the business was historically very asset-light, but the recent ₹107 Cr capacity expansion has introduced moderate capital intensity. The standard EPS-based Reverse DCF is broadly reliable, but the OEPS figure provides a slightly more conservative (and honest) picture. For a company still in its capital investment phase, the OEPS-based verdict is the safer guide.
+
+### Step 4: Reality Check — Is the Implied Growth Reasonable?
+
+| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| Company's 5Y EPS CAGR (FY20-FY25) | 14.3% | ~14.3% | Actual 5Y track record |
+| Company's 7Y EPS CAGR (FY18-FY25) | 9.3% | ~9.3% | Longer-term track record (depressed by IPO dilution) |
+| Company's 7Y Total OE CAGR (aggregate, not per-share) | — | 14.5% | Aggregate OE growth before dilution |
+| Company's 5Y Revenue CAGR | 22.7% | 22.7% | Revenue track record |
+| Analyst consensus forward estimates | ~18-20% | — | Market expectations |
+
+*Note: The 7Y OEPS CAGR (9.3%) is significantly lower than the 5Y (14.3%) because shares outstanding increased 39% from 3.94 Cr (FY18, post-IPO) to 5.47 Cr (FY25) due to the IPO allotment and Sep 2025 preferential issue. The aggregate (total) OE CAGR of 14.5% reflects genuine business growth, but per-share earnings were diluted. Since the Reverse DCF's required growth rates (Step 3B) are per-share figures, the per-share OEPS CAGR is the correct comparator. The 5Y OEPS CAGR (14.3%) is the most representative forward-looking benchmark since material dilution is unlikely to recur.*
 
 **Traffic Light Verdict:**
 
-To earn a 10% return over 10 years at a 20x terminal PE, the company needs 17.6% EPS CAGR — above its 7Y historical average of 9.3% but below the 5Y revenue CAGR. This is **🟡 YELLOW — fair but optimistic**. At the current PE of 39x, the stock needs the PE to SUSTAIN at current levels for you to earn your hurdle rate purely from earnings growth. Any PE compression makes the math much harder.
+To earn a 10% return over 10 years at a 20x terminal PE, the company needs 17.6% EPS CAGR. To earn 10% at 17x terminal P/OE, the company needs 19.7% OEPS CAGR. The company has historically grown OEPS at 14.3% CAGR over 5 years and 9.3% over 7 years (the 7Y figure is depressed by 39% IPO-era share dilution). Using the more representative 5Y benchmark: this is **🟡 YELLOW — fair but optimistic**. Using the 7Y benchmark: this would be **🟠 ORANGE — expensive**, requiring growth well above the per-share track record.
 
-> *"At the current price of ₹430, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 17.6% CAGR. The company has historically grown EPS at 9-14% CAGR. This implies the market is pricing in above-average growth — optimistic but not crazy given the structural tailwinds."*
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. The EPS-based verdict is 🟡 YELLOW (17.6% vs historical 5Y of 14.3%). The OEPS-based verdict is 🟡 YELLOW on the 5Y benchmark (19.7% vs 14.3%) but 🟠 ORANGE on the 7Y benchmark (19.7% vs 9.3%). The divergence between 5Y and 7Y benchmarks reflects IPO-era dilution that is unlikely to recur — the 5Y per-share CAGR is the more relevant forward-looking comparator, but investors should note the business needs to grow OEPS ~37% faster than its 5Y track record to justify the current price at a market-average exit multiple.
+
+### Step 5: The Verdict
+
+> *"At the current price of ₹430, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 17.6% CAGR (and Owner Earnings per share at 19.7% CAGR at a 17x P/OE exit). The company has historically grown OEPS at 14.3% CAGR (5Y) and 9.3% (7Y, diluted by IPO). Using the representative 5Y benchmark, this implies the market is pricing in above-average growth — optimistic but not crazy given the structural tailwinds. However, the 5.4 pp gap between required (19.7%) and achieved (14.3%) means the company must accelerate meaningfully from its track record."*
+
+> *Note: the EPS-based assessment (17.6% required vs 14.3% historical) is more favourable than the OEPS-based assessment (19.7% vs 14.3%), reflecting the conservative Terminal P/OE of 17x vs Terminal PE of 20x. For Sirca (where OE ≈ NP), this 3x terminal multiple gap is a methodological conservatism rather than a capital intensity signal — the per-share earnings are virtually identical.*
 
 ---
 
@@ -482,26 +550,26 @@ To earn a 10% return over 10 years at a 20x terminal PE, the company needs 17.6%
 
 ## 18. BUY ZONE DEFINITION
 
-Based on the DCF analysis and P/B scenarios:
+Based on the DCF analysis (10% Buffett hurdle rate) and P/B scenarios:
 
 | Zone | PE Range | Price Range | Rationale |
 |---|---|---|---|
-| **Deep Value / Strong Buy** | < 18x | < ₹200 | Priced below conservative IV; exceptional MoS |
-| **Value / Buy** | 18-25x | ₹200 - ₹275 | Conservative IV range; attractive risk-reward |
-| **Fair Value / Hold** | 25-35x | ₹275 - ₹385 | Base-case IV range; hold for compounding |
-| **Fully Valued / Trim** | 35-50x | ₹385 - ₹550 | Priced for optimistic outcomes |
+| **Deep Value / Strong Buy** | < 20x | < ₹220 | Deep discount to conservative IV (₹366); exceptional MoS |
+| **Value / Buy** | 20-28x | ₹220 - ₹310 | Below conservative IV; attractive risk-reward |
+| **Fair Value / Hold** | 28-36x | ₹310 - ₹400 | Between conservative and base IV (₹366-442); hold for compounding |
+| **Fully Valued / Trim** | 36-50x | ₹400 - ₹550 | Above base IV; priced for optimistic outcomes |
 | **Overvalued / Sell** | > 50x | > ₹550 | Priced for perfection; sell/avoid |
 
-**Current Price ₹430 → FULLY VALUED zone (PE ~39x).**
+**Current Price ₹430 → FULLY VALUED zone (PE ~39x).** At the 10% flat hurdle rate, the Base IV is ₹442 — just 3% above the current price. There is essentially zero margin of safety.
 
 **Holding Scenario Table (What Would Buffett Do?):**
 
 | Your Entry Price Zone | Current Position | Buffett's Recommendation |
 |---|---|---|
-| Deep Value (< ₹200) | +115% profit | HOLD — let compounding work; trim only if fundamentals deteriorate |
-| Value (₹200-275) | +56-115% profit | HOLD — still reasonable if business executes; consider trimming if PE > 50x |
-| Fair Value (₹275-385) | +12-56% profit | HOLD — monitor margins closely; do NOT add at these levels |
-| **Fully Valued (₹385-550)** | **-22% to +12%** | **HOLD with CAUTION — do NOT add; trim if margins continue compressing** |
+| Deep Value (< ₹220) | +95% profit | HOLD — let compounding work; trim only if fundamentals deteriorate |
+| Value (₹220-310) | +39-95% profit | HOLD — still reasonable if business executes; consider trimming if PE > 50x |
+| Fair Value (₹310-400) | +8-39% profit | HOLD — monitor margins closely; do NOT add at these levels |
+| **Fully Valued (₹400-550)** | **-22% to +8%** | **HOLD with CAUTION — do NOT add; trim if EBIT margins continue compressing** |
 | Overvalued (> ₹550) | Underwater | HOLD if thesis intact; use tax-loss harvesting if beneficial |
 
 With a small capital base, Buffett would say: *"The key is not to be precisely right but to avoid being precisely wrong."* At ₹430, the risk-reward is marginal. Wait for a better pitch.
@@ -521,9 +589,9 @@ With a small capital base, Buffett would say: *"The key is not to be precisely r
 
 **Verdict: Buffett would ADMIRE the business but PASS at this price.**
 
-The business has all the hallmarks Buffett loves: simplicity, a structural tailwind, conservative management, near-zero debt, and a growing brand franchise. But at 39x earnings and 5.53x book, the price demands perfection. Buffett's discipline is buying wonderful businesses at FAIR prices — and ₹430 is not fair for a 15% ROE, 14% EPS CAGR business.
+The business has all the hallmarks Buffett loves: simplicity, a structural tailwind, conservative management, near-zero debt, and a growing brand franchise. But at 39x earnings and 5.53x book, the price demands near-perfect execution. Buffett's discipline is buying wonderful businesses at FAIR prices — and ₹430 is approximately fair (Base DCF IV = ₹442) but offers no margin of safety for a 15% ROE business with a 14% per-share earnings CAGR (5Y).
 
-*"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* Sirca is a good-to-wonderful business at an expensive price. With a small capital base, Buffett would add it to his watchlist and wait for a correction to the ₹275-350 range (25-30x normalised earnings), where the risk-reward becomes compelling.
+*"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* Sirca is a good-to-wonderful business at a full price. With a small capital base, Buffett would add it to his watchlist and wait for a correction to the ₹275-350 range (25-32x normalised earnings), where the risk-reward becomes compelling.
 
 ---
 
@@ -574,11 +642,11 @@ Sirca operates in a relatively benign regulatory environment. Paints are not hea
 | Moat Durability | 5 | Narrow moat — Italian brand licensing, niche focus. Vulnerable to large competitors |
 | Financial Health | 9 | Near-zero debt, strong balance sheet, adequate cash generation |
 | Management Quality | 8 | Founder-led, 65% skin in game, rational capital allocation, good track record |
-| Valuation | 3 | At 39x PE and 5.53x P/B, priced for optimistic outcomes. No margin of safety |
-| Margin of Safety | 2 | Negative MoS under conservative and base-case DCF scenarios |
+| Valuation | 4 | At 39x PE (P/OE 39.5x) and 5.53x P/B. Base DCF IV (₹442) ≈ CMP — fairly valued, no margin of safety |
+| Margin of Safety | 3 | Negative MoS under conservative DCF; ~zero MoS under base case |
 | Growth Potential | 8 | 27x TAM runway, structural shift to PU coatings, national expansion underway |
 | Scalability | 6.5 | Strong revenue scalability but current margin friction; working capital intensive |
-| **Buffett Verdict** | — | *Good business, expensive price. Sirca is a niche leader in India's premium wood coatings market with a clean balance sheet, competent management, and massive growth runway. At ₹430 (39x PE), the stock is priced for everything to go right — margins recover, Wembley integrates smoothly, national scaling succeeds. With a 15% ROE and 5.53x P/B, the entry point does not offer Buffett-style margin of safety. WATCHLIST — wait for ₹275-350 (25-30x PE) for a compelling risk-reward.* |
+| **Buffett Verdict** | — | *Good business, fully-priced. Sirca is a niche leader in India's premium wood coatings market with a clean balance sheet, competent management, and massive growth runway. At ₹430 (PE 39x, P/OE 39.5x), the stock is approximately at Base DCF IV (₹442) — fairly valued but with zero margin of safety. EBIT margins are compressing (28% → 16%) as the business invests for scale. With a 15% ROE and 5.53x P/B, the entry point requires near-perfect execution. WATCHLIST — wait for ₹275-350 (25-32x PE) for a compelling risk-reward.* |
 | **Buy Zone** | — | **FULLY VALUED** — current price in the ₹385-550 zone |
 | **Overall Recommendation** | — | **HOLD if owned (do NOT add); AVOID new positions at ₹430. Target entry: ₹275-350** |
 
