@@ -567,35 +567,35 @@ This means the market is pricing in near-optimistic-case growth — which would 
 >
 > Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense. In truth, depreciation is a particularly unattractive expense because the cash outlay it represents has already been made."* The same insight applies to EPS vs. Owner Earnings.
 
-**Inputs:** OEPS = ₹2.46, Terminal P/OE = 24x
+**Inputs:** OEPS = ₹2.46, Terminal P/OE = 20x
 
-> *Terminal P/OE derivation:* When OE < NI, OEPS < EPS, so P/OE is mechanically *higher* than PE (confirmed by current multiples: P/OE 61.8x > PE 51.5x). The correct terminal P/OE preserves this ratio: Terminal P/OE = Terminal PE × (EPS / OEPS) = 20 × (2.95 / 2.46) ≈ 24x. Setting Terminal P/OE *lower* than Terminal PE would be an error — it would double-count the capital intensity penalty (once in the lower OEPS denominator, again in the lower multiple).
+> *Terminal P/OE methodology:* The terminal P/OE is set equal to the terminal PE (20x) — the same absolute multiple applied to both earnings measures. This ensures the Divergence Test produces a genuine diagnostic signal: any gap between implied EPS CAGR and implied OEPS CAGR reflects the real difference between reported earnings and economic owner earnings (the OE/NI ratio). Deriving Terminal P/OE from PE × (EPS/OEPS) would algebraically force the gap to zero by construction, making the test a tautology that cannot diagnose capital intensity.
 
-#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 24x)
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 20x)
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 32.9% | 38.9% | 45.0% |
-| 10 Years | 20.9% | 26.4% | 31.9% |
-| 15 Years | 17.2% | 22.5% | 27.8% |
+| 5 Years | 37.8% | 44.1% | 50.4% |
+| 10 Years | 23.1% | 28.7% | 34.3% |
+| 15 Years | 18.6% | 24.0% | 29.4% |
 
 #### The Divergence Test — EPS vs. OEPS Implied Growth
 
-| Metric | At Terminal Market Avg PE (20x) / P/OE (24x) | 10-Year, 10% Return |
+| Metric | At Terminal Market Avg PE / P/OE (both 20x) | 10-Year, 10% Return |
 |---|---|---|
 | Implied EPS CAGR (from Step 3) | 20.9% | |
-| Implied OEPS CAGR (from Step 3B) | 20.9% | |
-| **Gap (OEPS CAGR − EPS CAGR)** | **~0.0 pp** | |
+| Implied OEPS CAGR (from Step 3B) | 23.1% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **+2.2 pp** | |
 
-**Interpretation:** The ~0 pp gap places Aelea firmly in the "asset-light equivalent" category (≤ 2 pp). This may seem surprising for a cashew processor with physical plant, but the explanation is straightforward: Aelea's maintenance capex (estimated ~₹3 Cr) is only modestly above D&A (₹1-2 Cr), so Owner Earnings (₹5 Cr) is close to Net Income (₹6 Cr) — an OE/NI ratio of 83%. The capital intensity penalty is already fully captured in the lower OEPS figure itself (₹2.46 vs. ₹2.95 EPS). There is no *additional* hidden hurdle from using EPS instead of OEPS; the standard EPS-based Reverse DCF is reliable for this company at its current scale.
+**Interpretation:** The +2.2 pp gap places Aelea in the "moderate capital intensity" category (2-5 pp). This is consistent with a cashew processor that has physical plant and working capital requirements: maintenance capex (estimated ~₹3 Cr) modestly exceeds D&A (₹1-2 Cr), producing an OE/NI ratio of 83% (₹5 Cr Owner Earnings vs. ₹6 Cr Net Income). The standard EPS-based Reverse DCF understates the true growth hurdle by approximately 2 pp. While this is not a dramatic gap (contrast with capital-hungry infrastructure or heavy industry where gaps can exceed 5 pp), it means the OEPS-based figure of 23.1% is the more conservative and honest benchmark.
 
-> *Note: If Aelea's maintenance capex grows faster than earnings as the 140 MT/day facility ages and CNSL oil production comes online, the OE/NI ratio could deteriorate and a gap would emerge in future analyses. This test should be re-run annually.*
+> *Note: If Aelea's maintenance capex grows faster than earnings as the 140 MT/day facility ages and CNSL oil production comes online, the OE/NI ratio could deteriorate and the gap would widen in future analyses. This test should be re-run annually.*
 
 ### Reality Check
 
 | Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
 |---|---|---|---|
-| India nominal GDP growth | 10-12% | 10-12% (≈ EPS for this company) | Floor |
+| India nominal GDP growth | 10-12% | 8-10% (capital-intensive) / 10-12% (asset-light) | Floor |
 | Company's historical 3Y EPS CAGR | ~37% Sales (off low base) | — | Off trough, misleading |
 | Company's historical 5Y Profit CAGR | -18% (Screener) | — | Actual track record |
 | Company's historical OE CAGR (FY21-FY24) | — | ~5.3% | Buffett-pure benchmark |
@@ -605,13 +605,13 @@ This means the market is pricing in near-optimistic-case growth — which would 
 
 **Traffic Light Assessment:**
 
-To earn a 10% return over 10 years at 20x terminal PE, the company needs 20.9% EPS CAGR (and an equivalent 20.9% OEPS CAGR — the Divergence Test confirms EPS is reliable here). The company's historical Owner Earnings CAGR is just ~5.3% (FY21-FY24). **🔴 RED — Crazy price territory.**
+To earn a 10% return over 10 years at 20x terminal PE, the company needs 20.9% EPS CAGR. The OEPS-based assessment raises this to 23.1% (+2.2 pp capital-intensity penalty). The company's historical Owner Earnings CAGR is just ~5.3% (FY21-FY24). **🔴 RED — Crazy price territory on BOTH EPS and OEPS measures.**
 
-> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. In this case, both are 🔴 RED and identical at 20.9%, confirming that the EPS-based assessment is reliable and not being flattered by capital intensity. The 20.9% required growth is ~4x the company's demonstrated OE CAGR of 5.3%.
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. The EPS-based verdict is 🔴 RED (20.9% vs. 5.3% historical). The OEPS-based verdict is also 🔴 RED and slightly worse (23.1%). The +2.2 pp gap confirms moderate capital intensity — EPS slightly understates the true hurdle, but both metrics agree decisively that the stock is overpriced.
 
-**Verdict:** *"At the current price of ₹152, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 20.9% CAGR (and Owner Earnings at an equivalent 20.9% CAGR — the Divergence Test confirms no capital-intensity penalty). The company has historically grown Owner Earnings at ~5.3% CAGR. This implies the market is pricing in growth that is ~4x the company's demonstrated Owner Earnings track record."*
+**Verdict:** *"At the current price of ₹152, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 20.9% CAGR (and Owner Earnings at 23.1% CAGR — a +2.2 pp capital-intensity premium). The company has historically grown Owner Earnings at ~5.3% CAGR. This implies the market is pricing in growth that is ~4x the company's demonstrated Owner Earnings track record."*
 
-*Note: the EPS and OEPS assessments converge at 20.9%, confirming this is not a case where capital intensity masks the true hurdle. The standard EPS-based Reverse DCF is reliable for Aelea.*
+*Note: the OEPS-based assessment requires 23.1% growth vs. 20.9% for EPS — a 2.2 pp gap reflecting moderate capital intensity. While the gap is meaningful, both measures agree the stock is in 🔴 RED territory. The OEPS figure is the more conservative Buffett-pure benchmark.*
 
 ### Asymmetric Upside Check
 

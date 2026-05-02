@@ -35,8 +35,11 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 12,220 | 13,615 | 14,271 | 15,062 | 16,825 | 19,240 | 20,211 | 21,713 | 29,101 | 34,489 | **35,495** | 33,906 |
 | Revenue Growth YoY | — | 11.4% | 4.8% | 5.5% | 11.7% | 14.4% | 5.0% | 7.4% | **34.0%** | 18.5% | 2.9% | **-4.5%** |
-| EBITDA (Op. Profit) | 2,004 | 2,243 | 2,725 | 2,994 | 3,204 | 3,765 | 4,167 | 4,856 | 4,804 | 6,260 | **7,585** | 6,006 |
-| EBITDA Margin | 16.4% | 16.5% | 19.1% | 19.9% | 19.0% | 19.6% | 20.6% | **22.4%** | **16.5%** | 18.2% | **21.4%** | 17.7% |
+| Operating Profit (pre-D&A) | 2,004 | 2,243 | 2,725 | 2,994 | 3,204 | 3,765 | 4,167 | 4,856 | 4,804 | 6,260 | **7,585** | 6,006 |
+| OPM % (pre-D&A) | 16.4% | 16.5% | 19.1% | 19.9% | 19.0% | 19.6% | 20.6% | **22.4%** | **16.5%** | 18.2% | **21.4%** | 17.7% |
+| Depreciation & Amortisation | 246 | 266 | 276 | 335 | 360 | 622 | 780 | 791 | 816 | 858 | 853 | 1,026 |
+| **EBIT** | 1,758 | 1,977 | 2,449 | 2,659 | 2,844 | 3,143 | 3,387 | 4,065 | 3,988 | 5,402 | **6,732** | 4,980 |
+| **EBIT Margin** | 14.4% | 14.5% | 17.2% | 17.7% | 16.9% | 16.3% | 16.8% | **18.7%** | **13.7%** | 15.7% | **19.0%** | 14.7% |
 | Net Profit | 1,263 | 1,427 | 1,803 | 2,016 | 2,098 | 2,208 | 2,774 | 3,207 | 3,085 | 4,195 | **5,558** | 3,710 |
 | Net Profit Growth | — | 13.0% | **26.3%** | 11.8% | 4.1% | 5.2% | 25.6% | 15.6% | -3.8% | 36.0% | 32.5% | **-33.2%** |
 | Net Profit Margin | 10.3% | 10.5% | 12.6% | 13.4% | 12.5% | 11.5% | 13.7% | 14.8% | **10.6%** | 12.2% | **15.7%** | 10.9% |
@@ -59,7 +62,9 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 
 Asian Paints delivered steady top-line growth of ~10% CAGR over a decade, but FY25 was a jarring break from the trend — revenue declined 4.5% while net profit plunged 33%. The culprit was a perfect storm: raw material cost inflation (crude-linked TiO₂ and monomers), intensified competition from Birla Opus and JSW Paints entering with aggressive pricing, and a subdued demand environment. FY24 was the high-water mark with ₹5,558 Cr profit and a 15.7% NPM; FY25 represents a sharp reversion. Margins are compressing, not expanding. Over the last 5 years, earnings growth (6.0% CAGR) has significantly lagged revenue growth (10.9% CAGR) — a cautionary signal that margin headwinds are real, even though over 10-year and 3-year windows earnings slightly outpace revenue.
 
-Buffett: *"Only when the tide goes out do you discover who's been swimming naked."* FY25 is revealing that Asian Paints' extraordinary FY24 margins (21.4% EBITDA) were partly cyclical (low raw material costs) rather than structural. The normalised EBITDA margin appears to be 18-20%, not 21%+.
+Buffett: *"Only when the tide goes out do you discover who's been swimming naked."* FY25 is revealing that Asian Paints' extraordinary FY24 margins (21.4% OPM pre-D&A / 19.0% EBIT Margin) were partly cyclical (low raw material costs) rather than structural. The normalised EBIT Margin appears to be 15-17%, not 19%+. Note the widening gap between OPM (pre-D&A) and EBIT Margin in recent years — D&A rose from ₹246 Cr (FY14) to ₹1,026 Cr (FY25) as new manufacturing capacity was commissioned, compressing EBIT Margin by 2-3pp relative to OPM. This rising capital intensity is invisible in EBITDA-based analysis.
+
+> **Why EBIT, Not EBITDA:** Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* Screener's "Operating Profit" is EBITDA-equivalent (pre-D&A). This analysis always tracks **EBIT** (Operating Profit minus D&A) as the true after-capital-charge operating profit, and uses **Owner Earnings** (Section 8) as the primary cash flow metric.
 
 ---
 
@@ -74,7 +79,9 @@ Buffett: *"Only when the tide goes out do you discover who's been swimming naked
 | Total Assets | 8,075 | 8,914 | 10,559 | 12,405 | 13,763 | 16,249 | 16,138 | 20,355 | 22,958 | 25,779 | **29,901** | 30,355 |
 | Investments | 1,424 | 1,588 | 2,712 | 2,652 | 2,141 | 2,569 | 2,019 | 4,737 | 3,248 | 4,262 | 4,588 | 4,725 |
 | Debt/Equity | **0.06** | 0.09 | 0.05 | 0.07 | 0.06 | **0.14** | 0.11 | 0.09 | 0.11 | 0.12 | 0.13 | 0.12 |
-| Debt/EBITDA | **0.12** | 0.19 | 0.12 | 0.19 | 0.17 | **0.35** | 0.27 | 0.23 | 0.33 | 0.31 | 0.33 | 0.38 |
+| Debt/EBIT | **0.14** | 0.21 | 0.13 | 0.21 | 0.19 | **0.42** | 0.33 | 0.27 | 0.40 | 0.36 | 0.37 | **0.46** |
+| Net Debt/Owner Earnings | **-1.04** | -0.85 | -1.63 | -0.99 | -1.34 | -0.89 | -0.28 | -0.98 | -0.48 | -0.59 | -0.55 | **-0.67** |
+| Interest Coverage (EBIT/Int.) | 36.6x | 47.1x | **50.0x** | **71.9x** | 69.4x | 28.6x | 31.4x | 44.2x | 42.0x | 37.5x | 32.8x | **21.9x** |
 | BVPS (₹) | 42.1 | 49.4 | 68.0 | 79.2 | 87.6 | 98.7 | 105.5 | 133.4 | 143.9 | 166.6 | 195.1 | **202.1** |
 | Net Cash/(Debt) | 1,175 | 1,170 | 2,389 | 2,092 | 1,608 | 1,249 | 901 | 3,644 | 1,661 | 2,329 | 2,114 | **2,435** |
 
@@ -82,7 +89,7 @@ Buffett: *"Only when the tide goes out do you discover who's been swimming naked
 
 ### Fortress Assessment
 
-Asian Paints' balance sheet is an absolute fortress — one of the strongest in Indian corporate history. Debt/Equity of 0.12x means the company is virtually debt-free. Net cash of ₹2,435 Cr means the company could pay off all borrowings and still have cash left over. Debt/EBITDA of 0.38x means total debt is less than 5 months of operating profit. The company has CRISIL AAA rating — the highest possible credit rating.
+Asian Paints' balance sheet is an absolute fortress — one of the strongest in Indian corporate history. Debt/Equity of 0.12x means the company is virtually debt-free. Net cash of ₹2,435 Cr means the company could pay off all borrowings and still have cash left over. Debt/EBIT of 0.46x means total debt could be repaid from less than 6 months of true operating profit (after capital charges). Net Debt/Owner Earnings is negative (−0.67x) — the company has more cash and investments than debt, meaning owner earnings are entirely unencumbered. Interest coverage of 21.9x (even in the depressed FY25) provides enormous safety. The company has CRISIL AAA rating — the highest possible credit rating.
 
 Buffett: *"We never want to count on the kindness of strangers in order to meet tomorrow's obligations."* Asian Paints doesn't need the kindness of anyone. It generates massive operating cash flows, has virtually no debt, and could fund operations for years even if revenue dropped to zero. This is a textbook financial fortress.
 
@@ -122,7 +129,8 @@ Buffett: *"Accounting is the language of business."* The cash flow statement cor
 | ROE % | 31.3 | **32.5** | 32.0 | 28.5 | 26.2 | 24.7 | 28.3 | 28.0 | 23.2 | 28.2 | **32.0** | **19.5** |
 | ROIC % | **48.3** | 48.1 | 48.1 | 42.2 | 34.9 | 33.6 | 36.3 | 39.1 | 33.4 | 35.9 | 38.1 | **26.1** |
 | Debt/Equity | 0.06 | 0.09 | **0.05** | 0.07 | 0.06 | **0.14** | 0.11 | 0.09 | 0.11 | 0.12 | 0.13 | 0.12 |
-| OPM % | **16** | 16 | 19 | 20 | 19 | 20 | 21 | **22** | 17 | 18 | **21** | 18 |
+| OPM % (pre-D&A, Screener) | **16** | 16 | 19 | 20 | 19 | 20 | 21 | **22** | 17 | 18 | **21** | 18 |
+| **EBIT Margin %** | 14.4 | 14.5 | 17.2 | 17.7 | 16.9 | 16.3 | 16.8 | **18.7** | **13.7** | 15.7 | **19.0** | 14.7 |
 | NPM % | 10.3 | 10.5 | 12.6 | 13.4 | 12.5 | 11.5 | 13.7 | 14.8 | **10.6** | 12.2 | **15.7** | 10.9 |
 | Debtor Days | **30** | 32 | 30 | 35 | 38 | 36 | 32 | 44 | 49 | 49 | **50** | 46 |
 | Inventory Days | **108** | 123 | 108 | **142** | 117 | 119 | 127 | 134 | 142 | 121 | 122 | **142** |
@@ -131,7 +139,7 @@ Buffett: *"Accounting is the language of business."* The cash flow statement cor
 | Interest Coverage | 36.6x | 47.1x | **50.0x** | **71.9x** | 69.4x | 28.6x | 31.4x | 44.2x | 42.0x | 37.5x | 32.8x | **21.9x** |
 | Dividend Payout % | 42% | 42% | **41%** | 51% | 41% | 47% | 43% | 55% | 61% | 60% | 58% | **65%** |
 
-> **Note:** OPM % values in this table are sourced from Screener's ratios page (rounded to integers). For FY22, Screener reports OPM as 17%, while the independently computed EBITDA margin in Section 2 is 16.5%. This 0.5pp difference arises from Screener's rounding convention.
+> **Note:** OPM % (pre-D&A) values are sourced from Screener's ratios page (rounded to integers). For FY22, Screener reports OPM as 17%, while the independently computed OPM (pre-D&A) in Section 2 is 16.5%. This 0.5pp difference arises from Screener's rounding convention. EBIT Margin % is independently computed as (Screener Operating Profit − Depreciation) / Revenue.
 
 ### Part B: Buffett's Quality Checklist
 
@@ -145,12 +153,14 @@ Buffett: *"Accounting is the language of business."* The cash flow statement cor
 | Positive Free Cash Flow | Positive | ₹2,769 Cr (FY25); always positive | ✅ Reliably cash-generative |
 | Promoter holding | Aligned | 52.63% — stable for 5+ years | ✅ Strong, stable, no pledging |
 | Dividend payout | Paying | 50.5% average; rising to 65% | ✅ Generous and increasing |
-| OPM stability | Stable | 16-22% range over 12 years | ⚠️ Stable long-term but cyclical swings of 6pp |
+| EBIT Margin stability | Stable | 13.7-19.0% range over 12 years | ⚠️ Stable long-term but cyclical swings of 5pp |
 | Moat / Pricing Power | Identifiable | #1 brand, 54% organised market share, distribution dominance | ✅ Wide moat |
 | ROIC > 15% | >15% | 26-48% range; 10Y avg ~38% | ✅ Exceptional |
 | Earnings Yield | Reasonable | 1.6% at current price | ❌ Very low; stock priced for perfection |
 
-**Verdict: 8 clear passes (✅), 3 conditional cautions (⚠️), and 1 clear fail (❌).** The three caution items are recent profit growth (FY25 -33%), sales growth deceleration, and OPM cyclicality. The clear fail is the earnings yield — at 62x PE, the market is demanding exceptional growth that the company is currently NOT delivering.
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
+**Verdict: 8 clear passes (✅), 3 conditional cautions (⚠️), and 1 clear fail (❌).** The three caution items are recent profit growth (FY25 -33%), sales growth deceleration, and EBIT Margin cyclicality. The clear fail is the earnings yield — at 62x PE, the market is demanding exceptional growth that the company is currently NOT delivering.
 
 *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
 
@@ -165,7 +175,11 @@ The ratio trends reveal a business with a wide, durable moat (consistently high 
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 8,637 | 8,787 | **9,182** | 8,479 | 9,103 | 8,731 | 8,970 | **8,028** | 8,549 | 8,359 | 8,939 | 8,531 | 8,867 |
-| OPM % | 19% | 21% | **23%** | 20% | 23% | 19% | 19% | **15%** | 19% | 17% | 18% | 18% | 20% |
+| Op. Profit (pre-D&A) | 1,611 | 1,865 | **2,121** | 1,716 | 2,056 | 1,691 | 1,694 | **1,240** | 1,637 | 1,436 | 1,625 | 1,503 | 1,781 |
+| OPM % (pre-D&A) | 19% | 21% | **23%** | 20% | 23% | 19% | 19% | **15%** | 19% | 17% | 18% | 18% | 20% |
+| Depreciation | 214 | 220 | 198 | 209 | 220 | 226 | 228 | 242 | 256 | 301 | 301 | 305 | 313 |
+| **EBIT** | 1,397 | 1,645 | **1,923** | 1,507 | 1,836 | 1,465 | 1,466 | **998** | 1,381 | 1,135 | 1,324 | 1,198 | **1,468** |
+| **EBIT Margin %** | 16.2% | 18.7% | **20.9%** | 17.8% | 20.2% | 16.8% | 16.3% | **12.4%** | 16.2% | 13.6% | 14.8% | 14.0% | 16.6% |
 | Net Profit | 1,097 | 1,258 | **1,575** | 1,232 | 1,475 | 1,275 | 1,187 | **694** | 1,128 | 701 | 1,117 | 1,018 | 1,074 |
 | EPS (₹) | 11.18 | 12.87 | **16.16** | 12.57 | 15.09 | 13.10 | 12.20 | **7.24** | 11.58 | 7.22 | 11.47 | 10.36 | 11.05 |
 
@@ -179,11 +193,11 @@ The ratio trends reveal a business with a wide, durable moat (consistently high 
 
 **Revenue Trajectory:** After peaking at ₹35,495 Cr in FY24, revenue declined YoY for six consecutive quarters (Mar24 through Jun25). The tide appears to be turning — Sep25 (+6.3% YoY) and Dec25 (+3.7%) show a return to growth, but the growth rates are modest. Volume growth in Dec25 was a robust 7.9%, suggesting the revenue weakness was price-driven (competitive discounting) rather than demand-driven.
 
-**Margin Trend:** OPM compressed sharply from 23% (Jun23/Dec23) to 15% (Sep24 — the worst quarter) before recovering to 20% in Dec25. The margin trajectory is improving but remains below the FY24 peak. Input cost inflation (crude oil, TiO₂) and competitive intensity from new entrants (Birla Opus, JSW Paints) are the primary margin headwinds.
+**Margin Trend:** OPM (pre-D&A) compressed sharply from 23% (Jun23/Dec23) to 15% (Sep24 — the worst quarter) before recovering to 20% in Dec25. EBIT Margin tells a starker story: it compressed from 20.9% (Jun23) to just 12.4% (Sep24) — a 8.5pp collapse — and has only recovered to 16.6% in Dec25. The gap between OPM and EBIT Margin has widened from ~2pp (Dec22) to ~3.4pp (Dec25) as quarterly depreciation rose from ₹214 Cr to ₹313 Cr — reflecting new capacity coming on-stream. This rising capital intensity is invisible in OPM (pre-D&A) but fully captured in EBIT Margin.
 
 **Normalised Quarterly EPS Run-Rate:** Stripping out the ₹158 Cr exceptional items in Dec25 (labour code implementation ₹64 Cr + White Teak impairment ₹94 Cr), normalised Q3 FY26 NP would be ~₹1,232 Cr (EPS ~₹12.83). The normalised last-four-quarters EPS is approximately ₹42.38, implying a normalised PE of ~59x at CMP ₹2,500.
 
-**Red Flags:** Sep24 was a terrible quarter — ₹694 Cr net profit, OPM 15% — driven by extended monsoon, raw material cost spike, and competitive aggression. Mar25 was also weak at ₹701 Cr. Two profit troughs in four quarters is unusual for Asian Paints.
+**Red Flags:** Sep24 was a terrible quarter — ₹694 Cr net profit, OPM 15% (EBIT Margin just 12.4%) — driven by extended monsoon, raw material cost spike, and competitive aggression. Mar25 was also weak at ₹701 Cr (EBIT Margin 13.6%). Two profit troughs in four quarters is unusual for Asian Paints.
 
 **Verdict:** The quarterly data reveals a business that is **Decelerating** — growth is slowing, margins are under pressure from competition and input costs, and the company is clearly past its FY24 earnings peak. The recent Dec25 quarter shows signs of stabilisation, but the trajectory is uncertain. This is NOT the "cruising" predictability that Buffett values most.
 
@@ -305,25 +319,27 @@ The decorative paints business in India has been remarkably resistant to change 
 
 ### Part A: Unit Economics of Scaling
 
-**Profit Scalability — Incremental Margins:**
+**Profit Scalability — Incremental EBIT Margins:**
 
-| Year | Revenue | Rev Growth | Op. Profit | OP Growth | Net Profit | NP Growth | Incr. Op. Margin |
-|---|---|---|---|---|---|---|---|
-| FY15 | 13,615 | 11.4% | 2,243 | 11.9% | 1,427 | 13.0% | 17.1% |
-| FY16 | 14,271 | 4.8% | 2,725 | 21.5% | 1,803 | 26.3% | **73.5%** |
-| FY17 | 15,062 | 5.5% | 2,994 | 9.9% | 2,016 | 11.8% | 34.0% |
-| FY18 | 16,825 | 11.7% | 3,204 | 7.0% | 2,098 | 4.1% | 11.9% |
-| FY19 | 19,240 | 14.4% | 3,765 | 17.5% | 2,208 | 5.2% | 23.2% |
-| FY20 | 20,211 | 5.0% | 4,167 | 10.7% | 2,774 | 25.6% | 41.4% |
-| FY21 | 21,713 | 7.4% | 4,856 | 16.5% | 3,207 | 15.6% | 45.9% |
-| FY22 | 29,101 | 34.0% | 4,804 | -1.1% | 3,085 | -3.8% | **-0.7%** |
-| FY23 | 34,489 | 18.5% | 6,260 | 30.3% | 4,195 | 36.0% | 27.0% |
-| FY24 | 35,495 | 2.9% | 7,585 | 21.2% | 5,558 | 32.5% | **131.7%** |
-| FY25 | 33,906 | -4.5% | 6,006 | -20.8% | 3,710 | -33.2% | 99.4%* |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Net Profit | NP Growth | Incr. EBIT Margin* |
+|---|---|---|---|---|---|---|---|---|
+| FY15 | 13,615 | 11.4% | 1,977 | 12.5% | 14.5% | 1,427 | 13.0% | 15.7% |
+| FY16 | 14,271 | 4.8% | 2,449 | 23.9% | 17.2% | 1,803 | 26.3% | **72.0%** |
+| FY17 | 15,062 | 5.5% | 2,659 | 8.6% | 17.7% | 2,016 | 11.8% | 26.5% |
+| FY18 | 16,825 | 11.7% | 2,844 | 7.0% | 16.9% | 2,098 | 4.1% | 10.5% |
+| FY19 | 19,240 | 14.4% | 3,143 | 10.5% | 16.3% | 2,208 | 5.2% | 12.4% |
+| FY20 | 20,211 | 5.0% | 3,387 | 7.8% | 16.8% | 2,774 | 25.6% | 25.1% |
+| FY21 | 21,713 | 7.4% | 4,065 | 20.0% | 18.7% | 3,207 | 15.6% | 45.1% |
+| FY22 | 29,101 | 34.0% | 3,988 | -1.9% | 13.7% | 3,085 | -3.8% | **-1.0%** |
+| FY23 | 34,489 | 18.5% | 5,402 | 35.5% | 15.7% | 4,195 | 36.0% | 26.2% |
+| FY24 | 35,495 | 2.9% | 6,732 | 24.6% | 19.0% | 5,558 | 32.5% | **132.2%** |
+| FY25 | 33,906 | -4.5% | 4,980 | -26.0% | 14.7% | 3,710 | -33.2% | 110.3%** |
 
-*FY25 incremental margin is misleading due to negative revenue change with large OP decline.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. This is computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). A business that grows revenue while D&A rises faster (due to heavy capex) will show improving pre-D&A margins but DECLINING EBIT margins — the EBIT-based incremental margin reveals whether scaling is genuine or being eaten by rising capital consumption.*
 
-The incremental margin pattern is volatile — in good years (FY16, FY20, FY21, FY24), incremental margins are dramatically higher than average margins, indicating excellent operating leverage when input costs are favourable. In bad years (FY22, FY18), incremental margins compress sharply. This is typical of a raw-material-sensitive business — operating leverage works both ways.
+**FY25 incremental margin is misleading due to negative revenue change with large EBIT decline.
+
+The incremental EBIT margin pattern is volatile — in good years (FY16, FY21, FY24), incremental margins are dramatically higher than average margins, indicating excellent operating leverage when input costs are favourable. In bad years (FY22, FY18), incremental margins compress to near-zero or negative. Comparing to the pre-D&A incremental margins from the original analysis: the EBIT-based figures are slightly lower in most years (FY15: 15.7% vs 17.1%; FY19: 12.4% vs 23.2%) because D&A is eating into some of the operating leverage. This confirms that Asian Paints' scaling is real but less dramatic than EBITDA-based analysis would suggest.
 
 **Capital Scalability:**
 
@@ -412,16 +428,19 @@ The slight market share erosion from ~55% to ~51-52% over 5 years is the most co
 
 | Metric | Current/FY25 | Historical Context |
 |---|---|---|
+| **P/Owner Earnings (TTM)** | **59.2x** | **(primary Buffett-pure multiple)** — the most honest valuation metric |
+| **Owner Earnings Yield** | **1.69%** | True economic cash yield to owner — below 10Y G-Sec yield (~7%) |
 | PE Ratio (TTM) | 62.3x | 5Y median ~55x; 10Y median ~55-60x |
 | Forward PE (FY27E) | ~45-50x | Based on analyst consensus ~₹50-55 EPS |
 | P/B Ratio | 12.4x | 5Y median ~15x; 10Y range 8-20x |
 | P/FCF Ratio (FY25) | ~87x | Volatile due to lumpy capex |
-| P/Owner Earnings (TTM) | 59.2x | — |
-| EV/EBITDA (TTM) | 37.4x | 5Y median ~40x; 10Y median ~35x |
+| EV/EBIT (TTM) | 46.4x | Cross-check for institutional comparability; Buffett prefers equity-level metrics |
 | Earnings Yield | 1.61% | Below 10Y G-Sec yield (~7%) |
 | FCF Yield | 1.15% | Very low |
 | Dividend Yield | 1.0% | Increasing payout partially offsets |
 | PEG Ratio (using 10Y EPS CAGR) | 6.2x | >2x = expensive on growth-adjusted basis |
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT accounts for the capital the business consumes. However, Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets — hence **P/Owner Earnings is the primary valuation metric** in this analysis. EV/EBIT is included as a secondary cross-check for comparability with institutional analysis.
 
 ### Historical Comparison
 
@@ -467,8 +486,12 @@ Buffett: *"Price is what you pay, value is what you get."* At ₹2,500, you are 
 | CMP | ₹2,500 |
 | Reported TTM EPS (Screener) | ₹40.10 |
 | Current PE (on Reported TTM EPS) | 62.3x |
+| **Owner Earnings Per Share (OEPS)** | **₹42.23** (TTM Owner Earnings ₹4,054 Cr / 96 Cr shares) |
+| **Current P/OE (on OEPS)** | **59.2x** (Buffett-pure valuation multiple) |
 | Historical 5Y EPS CAGR | 6.3% |
 | Historical 10Y EPS CAGR | 10.1% |
+| **Historical 5Y OEPS CAGR** | **2.5%** |
+| **Historical 10Y OEPS CAGR** | **10.3%** |
 
 > **Note:** Section 6 derives a normalised TTM EPS of ₹42.38 after adding back ₹158 Cr of exceptional items in Q3 FY26 (labour code + White Teak impairment). The reported TTM EPS of ₹40.10 is used here as the more conservative base for the Reverse DCF; using ₹42.38 would reduce the implied growth requirements by ~0.5-1pp for most scenarios (up to ~1.8pp at 5-year horizons with low terminal PEs).
 
@@ -506,16 +529,50 @@ Buffett: *"Price is what you pay, value is what you get."* At ₹2,500, you are 
 | 10 Years | 11.4% | 16.4% | 21.5% |
 | 15 Years | 10.9% | 16.0% | 21.0% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading for capital-intensive businesses: Owner Earnings strips out the difference between accounting depreciation and true maintenance spending. For asset-light businesses, OEPS ≈ EPS and both tell the same story. For capital-hungry businesses, the divergence is a critical red flag. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."*
+
+**Formula:**
+```
+Required Future Price         = CMP × (1 + Hurdle Rate)^n
+Required Future OEPS          = Required Future Price / Terminal P/OE Multiple
+Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
+```
+
+**At Terminal P/OE = 17x (Market Average)**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 41.2% OEPS CAGR needed | 47.6% | 54.0% |
+| 10 Years | 24.6% OEPS CAGR needed | 30.3% | 35.9% |
+| 15 Years | 19.5% OEPS CAGR needed | 25.0% | 30.4% |
+
+### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal PE 20x / P/OE 17x | 10-Year, 10% Hurdle |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 23.2% | |
+| Implied OEPS CAGR (from Step 3B) | 24.6% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **1.4 pp** | |
+
+**Interpretation:** The gap of 1.4pp is ≤ 2pp, confirming that Asian Paints is an **asset-light business where EPS closely tracks true economic earnings.** The standard EPS-based Reverse DCF is reliable for this company. This makes intuitive sense — paint manufacturing is not capital-intensive once plants are built, maintenance capex is modest relative to D&A, and Owner Earnings are only marginally below Net Income. The EBIT migration adds transparency but does not materially change the investment conclusion for this particular business.
+
 ### Reality Check
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India Nominal GDP | 10-12% |
-| Asian Paints 5Y Historical EPS CAGR | 6.3% |
-| Asian Paints 10Y Historical EPS CAGR | 10.1% |
-| Analyst Consensus (FY26-28) | ~15-18% |
+| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+|---|---|---|---|
+| India Nominal GDP | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| Asian Paints 5Y Historical EPS CAGR | 6.3% | 2.5% | What it has actually delivered |
+| Asian Paints 10Y Historical EPS CAGR | 10.1% | 10.3% | Longer-term track record |
+| Asian Paints Historical Owner Earnings CAGR | — | 10.3% (10Y) | Buffett-pure benchmark |
+| Analyst Consensus (FY26-28) | ~15-18% | — | Market expectations (analysts rarely forecast OE) |
+
+> **Note:** The 5Y OEPS CAGR of 2.5% is dramatically lower than the 5Y EPS CAGR of 6.3%. This is NOT because of capital intensity (the divergence test showed only 1.4pp gap) but because the FY20 starting base for Owner Earnings was abnormally high (₹3,239 Cr vs ₹2,774 Cr NI) due to very low capex that year. Over 10 years, the two metrics converge (10.1% EPS vs 10.3% OEPS), confirming that Asian Paints' long-term EPS is a reliable proxy for true economic earnings growth.
 
 ### Traffic Light Verdict
+
+> **Apply the Traffic Light to BOTH the EPS and OEPS implied growth.** If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment. For Asian Paints, the divergence is minimal (1.4pp), so both verdicts converge.
 
 **At terminal PE of 55x (market continues to assign the historical premium):** To earn 10% return over 10 years, Asian Paints needs 11.4% EPS CAGR. This is roughly in line with the 10Y historical CAGR of 10.1%. **🟡 YELLOW** — fair but requires the market to SUSTAIN a 55x PE premium for a decade, which is a bold assumption.
 
@@ -523,7 +580,7 @@ Buffett: *"Price is what you pay, value is what you get."* At ₹2,500, you are 
 
 **At terminal PE of 20x (significant PE compression to market average):** To earn 10% return over 10 years, Asian Paints needs 23.2% EPS CAGR — more than 2x historical. **🔴 RED** — crazy price.
 
-*"At the current price of ₹2,500, to earn a 10% annualised return over 10 years assuming the market continues to value Asian Paints at 55x PE at exit, the company needs to grow EPS at 11.4% CAGR. The company has historically grown EPS at 10.1% CAGR (10Y) and 6.3% CAGR (5Y). This implies the market is pricing in growth roughly in line with long-term history — but ONLY if the PE multiple sustains at 55x. Any PE compression destroys returns."*
+*"At the current price of ₹2,500, to earn a 10% annualised return over 10 years assuming the market continues to value Asian Paints at 55x PE at exit, the company needs to grow EPS at 11.4% CAGR (and Owner Earnings at a similar ~12% CAGR given the 1.4pp asset-light divergence). The company has historically grown EPS at 10.1% CAGR (10Y) and Owner Earnings at 10.3% CAGR (10Y). This implies the market is pricing in growth roughly in line with long-term history — but ONLY if the PE multiple sustains at 55x. Any PE compression destroys returns. Note: the EPS-based and OEPS-based assessments are nearly identical, confirming that Asian Paints is asset-light and EPS is a reliable earnings metric for this business."*
 
 ### Asymmetric Upside Check — Is This a Fat Pitch?
 
