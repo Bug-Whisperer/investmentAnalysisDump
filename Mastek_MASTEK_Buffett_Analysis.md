@@ -42,11 +42,13 @@ Mastek is a **switching-cost business** with elements of a **specialised service
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 923 | 1,013 | **527** | 560 | 817 | 1,033 | 1,071 | 1,722 | 2,184 | 2,563 | 3,055 | 3,455 | **3,699** |
 | Revenue Growth YoY | — | 9.8% | **-48.0%** | 6.3% | 45.9% | 26.4% | 3.7% | **60.8%** | 26.8% | 17.4% | 19.2% | 13.1% | 7.1% |
-| Operating Profit | 90 | 47 | **18** | 45 | 100 | 132 | 156 | **364** | **463** | 456 | 509 | 546 | ~580 |
-| OPM % | 10% | **5%** | **3%** | 8% | 12% | 13% | 15% | **21%** | **21%** | 18% | 17% | 16% | ~16% |
+| Operating Profit (pre-D&A) | 90 | 47 | **18** | 45 | 100 | 132 | 156 | **364** | **463** | 456 | 509 | 546 | ~580 |
+| OPM % (pre-D&A) | 10% | **5%** | **3%** | 8% | 12% | 13% | 15% | **21%** | **21%** | 18% | 17% | 16% | ~16% |
 | Other Income | 11 | 14 | 15 | 12 | 21 | 25 | 17 | 28 | 36 | **64** | 12 | 30 | ~42 |
 | Interest | 1 | 1 | **0** | 4 | 6 | 6 | 4 | 8 | 8 | 25 | **44** | 42 | ~34 |
-| Depreciation | 33 | 37 | 16 | 15 | 19 | 17 | 25 | 45 | 43 | 67 | **90** | 75 | ~73 |
+| Depreciation & Amortisation | 33 | 37 | 16 | 15 | 19 | 17 | 25 | 45 | 43 | 67 | **90** | 75 | ~73 |
+| **EBIT (OP minus D&A)** | 57 | **10** | **2** | 30 | 81 | 115 | 131 | **319** | **420** | 389 | 419 | 471 | ~507 |
+| **EBIT Margin** | 6.2% | **1.0%** | **0.4%** | 5.4% | 9.9% | 11.1% | 12.2% | **18.5%** | **19.2%** | 15.2% | 13.7% | 13.6% | ~13.7% |
 | PBT | 68 | 22 | **16** | 39 | 96 | 133 | 144 | 339 | **448** | 427 | 386 | 459 | 551 |
 | Tax % | 24% | 20% | 17% | 17% | 27% | 24% | 21% | 26% | 26% | **27%** | 19% | 18% | ~27% |
 | **Net Profit** | 52 | 18 | **14** | 32 | 70 | 101 | 114 | 252 | **333** | 310 | 311 | 376 | **404** |
@@ -54,10 +56,8 @@ Mastek is a **switching-cost business** with elements of a **specialised service
 | EPS (₹) | 23.37 | 7.86 | **5.97** | 13.86 | 29.53 | 42.33 | 44.82 | 82.97 | **98.32** | 95.99 | 97.36 | 121.50 | ~130 |
 | Shares (Cr) | ~2.2 | ~2.3 | ~2.3 | ~2.3 | ~2.4 | ~2.4 | ~2.5 | ~3.0 | ~3.1 | ~3.1 | ~3.1 | ~3.1 | ~3.1 |
 | Dividend Payout % | 19% | 32% | **42%** | 25% | 20% | 20% | 18% | **17%** | 19% | 20% | 20% | 19% | — |
-| EBITDA † | 90 | 47 | **18** | 45 | 100 | 132 | 156 | **364** | **463** | 456 | 509 | 546 | ~580 |
-| EBITDA Margin † | 10% | **5%** | **3%** | 8% | 12% | 13% | 15% | **21%** | **21%** | 18% | 17% | 16% | ~16% |
 
-> † **EBITDA Convention:** Screener.in's "Operating Profit" is already computed before Depreciation & Amortisation (confirmed by the PBT identity: PBT = OP + Other Income − Interest − Depreciation, which holds within ±₹1 Cr for all years above). Therefore **Screener's Operating Profit = EBITDA directly.** Adding D&A back to OP would double-count depreciation. EBITDA and EBITDA Margin shown here are identical to Operating Profit and OPM% respectively.
+> **Valuation Philosophy — EBIT, Not EBITDA:** This analysis follows a pure Buffett/Munger framework. Screener.in's "Operating Profit" is pre-D&A (EBITDA-equivalent), confirmed by the PBT identity: PBT = OP + Other Income − Interest − Depreciation. We compute **EBIT = Screener OP − D&A** as the true after-capital-charge operating profit. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* EBITDA pretends the capital a business consumes to maintain operations is free. EBIT does not. For valuation, we use **Owner Earnings** (Section 8) and **EBIT-based multiples** — never EBITDA.
 
 **Note on FY16:** Revenue dropped sharply due to the demerger of Majesco (insurance software business) in FY16. This makes pre-FY17 comparisons non-comparable on an absolute basis.
 
@@ -67,7 +67,7 @@ Mastek is a **switching-cost business** with elements of a **specialised service
 
 **Revenue trajectory:** Post-demerger, Mastek has delivered impressive revenue growth — a 13% CAGR over 10 years and 26% over 5 years. However, growth has decelerated from the post-COVID boom (60.8% in FY21) to single digits in FY26 (7.1%), reflecting the broader IT services slowdown and cautious enterprise spending.
 
-**Margin story:** OPM peaked at 21% in FY21-FY22 (COVID-era WFH cost savings and strong demand), then compressed to 15-16% by FY25-FY26. This margin compression is a key concern — the business is growing revenue but not translating it into proportionate profit growth. Earnings growth of 7.4% in FY26 on 7.1% revenue growth shows zero operating leverage at current margins.
+**Margin story:** OPM (pre-D&A) peaked at 21% in FY21-FY22, then compressed to 15-16% by FY25-FY26. **EBIT Margin** tells a slightly different story — it peaked at 19.2% (FY22) and has normalised to ~13.6-13.7% (FY25-FY26). The gap between OPM and EBIT Margin widened slightly from ~1.8pp (FY22: 21% vs 19.2%) to ~2.4pp (FY25: 16% vs 13.6%) as D&A rose post-Evosys, but has since stabilised at ~2-2.5pp. Both margins are compressing, confirming that the business is growing revenue but not translating it into proportionate profit growth. Earnings growth of 7.4% in FY26 on 7.1% revenue growth shows zero operating leverage at current margins.
 
 **EPS growth:** 10-year EPS CAGR of ~31.5% (FY15→FY25) is outstanding, but this includes recovery from the FY15-FY16 trough. The more relevant 5-year EPS CAGR is ~22% — still strong. However, the last 3-year EPS CAGR has slowed to ~7% (FY22→FY25), and FY26 shows only ~7% growth. (Note: Screener.in reports "3Y Compounded Profit Growth: 9%" which uses a NP CAGR methodology that may differ from the EPS CAGR due to share count changes.)
 
@@ -89,6 +89,8 @@ Buffett: *"The best business to own is one that over an extended period can empl
 | Fixed Assets | 261 | 279 | 66 | 180 | 179 | 167 | 857 | 807 | 841 | 1,740 | 1,950 | 1,818 |
 | Investments | 84 | 54 | 50 | 274 | 284 | 396 | 276 | 234 | 26 | 69 | 94 | 178 |
 | D/E Ratio | **0.00** | 0.05 | 0.00 | 0.14 | 0.13 | 0.10 | 0.42 | 0.32 | 0.19 | 0.24 | 0.25 | 0.24 |
+| Debt/EBIT | 0.04 | **2.90** | 0.00 | 2.20 | 0.86 | 0.61 | **2.56** | 0.86 | **0.48** | 1.04 | 1.24 | 1.24 |
+| Interest Coverage (EBIT/Int) | 57.0 | 10.0 | ∞ | 7.5 | 13.5 | 19.2 | **32.8** | **39.9** | **52.5** | 15.6 | **9.5** | 11.2 |
 | BVPS (₹) | 255 | 259 | 133 | 204 | 229 | 299 | 316 | 286 | 355 | 545 | 673 | **796** |
 
 > **Note on BVPS:** Screener.in's header shows BVPS of ₹864 — this is computed from the **Sep 2025 interim balance sheet** (Equity ₹2,676 Cr / ~3.1 Cr shares = ₹863), not from the FY25 (March 2025) annual balance sheet. The FY25 annual BVPS above is computed as Shareholders' Equity ₹2,462 Cr / ~3.09 Cr diluted shares = ₹796. For valuation purposes in later sections, we use the **estimated FY26 BVPS of ~₹908** (based on FY25 equity + FY26 retained earnings).
@@ -97,7 +99,7 @@ Buffett: *"The best business to own is one that over an extended period can empl
 
 **Additional Data (FY26 / March 2026):**
 - **Cash & Equivalents + MF Investments: ₹938.5 Cr** (as of Mar 2026, from Q4 FY26 results)
-- **Net Cash Position (FY26 estimate):** Cash of ₹938.5 Cr (Mar 2026) minus Borrowings of ₹583 Cr (FY25; FY26 borrowings not yet separately reported but likely similar given stable financing activity) = **estimated Net Cash of ~₹356 Cr.** This net cash figure is used in the DCF valuation (Section 15) and should be updated once the full FY26 annual balance sheet is published.
+- **Net Cash Position (FY26 estimate):** Cash of ₹938.5 Cr (Mar 2026) minus Borrowings of ₹583 Cr (FY25; FY26 borrowings not yet separately reported but likely similar given stable financing activity) = **estimated Net Cash of ~₹356 Cr.** Net Debt/Owner Earnings = −0.80x (negative = net cash exceeds OE — extremely healthy). This net cash figure is used in the DCF valuation (Section 15) and should be updated once the full FY26 annual balance sheet is published.
 - **Goodwill (within Fixed Assets):** A significant portion of fixed assets includes goodwill from the Evosys acquisition (FY23). Goodwill jumped from ₹841 Cr (FY22) to ₹1,740 Cr (FY23) — approximately ₹900 Cr of goodwill was added.
 
 ### Buffett's Financial Fortress Assessment
@@ -126,7 +128,7 @@ Buffett: *"We will reject interesting opportunities rather than over-leverage ou
 | Financing Cash Flow | -67 | 22 | -4 | 65 | -7 | -16 | 205 | -118 | -128 | 93 | 2 | -57 |
 | Net Cash Flow | -40 | 53 | -57 | -20 | 40 | 5 | 127 | **387** | 119 | -519 | 173 | 80 |
 | **FCF (CFO – CapEx est.)** | ~70 | ~45 | ~25 | ~30 | ~55 | ~65 | ~160 | ~270 | ~250 | ~90 | ~390 | ~370 |
-| FCF/NI Conversion | 135% | 250% | 179% | 94% | 79% | 65% | 144% | 107% | 75% | **29%** | **125%** | **99%** |
+| FCF/NI Conversion | 135% | 250% | 179% | 94% | 79% | 65% | 140% | 107% | 75% | **29%** | **125%** | **99%** |
 
 **Notes:**
 - FY23 operating cash flow dropped to ₹108 Cr despite ₹310 Cr net profit — likely driven by working capital build-up during the Evosys integration
@@ -147,7 +149,8 @@ Buffett: *"We consider the industry-loss-loss-loss-loss-profit cycle to be only 
 | ROCE % | 12 | **5** | **3** | 10 | 17 | 19 | 16 | 26 | **32** | 23 | 18 | 17 |
 | ROE % | 9.3 | **3.1** | **3.1** | 8.1 | 13.8 | 16.0 | 15.1 | **30.6** | **34.5** | 22.5 | 16.5 | 16.5 |
 | D/E | 0.00 | 0.05 | 0.00 | 0.14 | 0.13 | 0.10 | **0.42** | 0.32 | 0.19 | 0.24 | 0.25 | 0.24 |
-| OPM % | 10 | **5** | **3** | 8 | 12 | 13 | 15 | **21** | **21** | 18 | 17 | 16 |
+| OPM % (pre-D&A, Screener) | 10 | **5** | **3** | 8 | 12 | 13 | 15 | **21** | **21** | 18 | 17 | 16 |
+| **EBIT Margin %** | 6.2 | **1.0** | **0.4** | 5.4 | 9.9 | 11.1 | 12.2 | **18.5** | **19.2** | 15.2 | 13.7 | 13.6 |
 | NPM % | 5.6 | **1.8** | **2.7** | 5.7 | 8.6 | 9.8 | 10.6 | **14.6** | **15.2** | 12.1 | 10.2 | 10.9 |
 | Debtor Days | **46** | 48 | 67 | 55 | 78 | 74 | **108** | 79 | 73 | 72 | 67 | 78 |
 | Working Capital Days | 26 | 25 | 38 | 29 | 15 | 38 | 4 | **-35** | -20 | 34 | -1 | 28 |
@@ -165,9 +168,11 @@ Buffett: *"We consider the industry-loss-loss-loss-loss-profit cycle to be only 
 | Positive Free Cash Flow | Positive | ₹370 Cr FY25 | ✅ Consistently positive |
 | Promoter/Insider holding | Aligned | 35.78% | ✅ Meaningful skin in the game |
 | Dividend payout | Paying | ~20% avg | ✅ Steady |
-| OPM stability | Stable | 3%-21% range — wide | ⚠️ Wide range; currently compressing |
+| EBIT Margin stability | Stable | 0.4%-19.2% range — very wide | ⚠️ Wide range; currently stabilising at ~13.5-14% |
 | Moat / Pricing Power | Identifiable | UK Govt switching costs + Oracle specialisation | ✅ Narrow but identifiable |
 | Earnings yield | Reasonable | 7.5% (at PE 13.4x) | ✅ Attractive |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Narrative:** Mastek's ratios reveal a business that underwent a genuine transformation from FY17 onwards — ROE jumped from single digits to 30%+ by FY22, driven by improved margins and the Evosys acquisition bringing Oracle Cloud capabilities. However, the last 3 years show clear deceleration: ROE has normalised from 30%+ to ~16%, margins have compressed from 21% to 16%, and profit growth has slowed from 30%+ to single digits. The moat exists (UK government relationships, Oracle specialisation) but is narrow — the company must continually win contracts in a competitive IT services market.
 
@@ -180,8 +185,11 @@ Buffett: *"We consider the industry-loss-loss-loss-loss-profit cycle to be only 
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 | Mar26 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 659 | 709 | 725 | 766 | 784 | 780 | 813 | 867 | 870 | **905** | **915** | **940** | 906 | **938** |
-| Operating Profit | 114 | 126 | **127** | **123** | 134 | 125 | **124** | **143** | 141 | 139 | 137 | **146** | **146** | ~151 |
-| OPM % | 17 | 18 | 18 | **16** | 17 | 16 | **15** | 16 | 16 | 15 | 15 | 15 | 16 | 16 |
+| Operating Profit (pre-D&A) | 114 | 126 | **127** | **123** | 134 | 125 | **124** | **143** | 141 | 139 | 137 | **146** | **146** | ~151 |
+| OPM % (pre-D&A) | 17 | 18 | 18 | **16** | 17 | 16 | **15** | 16 | 16 | 15 | 15 | 15 | 16 | 16 |
+| Depreciation | 17 | 17 | 22 | 22 | 23 | 23 | 19 | 19 | 19 | 18 | 18 | 18 | 18 | 19 |
+| **EBIT** | **97** | **109** | 105 | **101** | 111 | 102 | **105** | **124** | 122 | 121 | 119 | **128** | **128** | ~132 |
+| **EBIT Margin %** | **14.7** | **15.4** | 14.5 | **13.2** | 14.2 | 13.1 | **12.9** | **14.3** | 14.0 | 13.4 | 13.0 | **13.6** | **14.1** | ~14.1 |
 | Net Profit | 67 | 73 | 74 | **65** | 78 | 94 | 72 | **129** | 95 | **81** | 92 | 97 | 108 | 106 |
 | EPS (₹) | 21.33 | 23.77 | 22.91 | **20.50** | 24.56 | 29.85 | 23.18 | **41.68** | 30.67 | **26.20** | 29.75 | 31.46 | **34.96** | ~34.24 |
 
@@ -189,7 +197,7 @@ Buffett: *"We consider the industry-loss-loss-loss-loss-profit cycle to be only 
 
 **1. Revenue Trajectory:** Quarterly revenue has grown steadily from ₹659 Cr (Dec 2022) to ₹938 Cr (Mar 2026) — a ~42% increase over 14 quarters. YoY growth in the four most recent quarters ranged from 4% to 13% (Jun25: 12.5%, Sep25: 8.4%, Dec25: 4.1%, Mar26: 3.6%), with the latest two quarters decelerating to low single digits. Revenue crossed the ₹900 Cr quarterly mark in FY26.
 
-**2. Margin Trend:** OPM has compressed from 17-18% in FY23 to a persistent 15-16% band over the last 6 quarters. This compression reflects higher employee costs (wage inflation, onboarding for new deals), and pricing pressure from clients optimising IT budgets.
+**2. Margin Trend:** OPM (pre-D&A) has compressed from 17-18% in FY23 to a persistent 15-16% band over the last 6 quarters. **EBIT Margin** shows a parallel trend — from 14-15% (Dec22-Mar23) to 13-14% (recent quarters). Importantly, EBIT Margin has been relatively stable at 13-14% even as OPM compressed, because D&A (which was elevated post-Evosys) has been declining. This is a mildly positive signal — the "true" after-D&A profitability is stabilising even though headline OPM is soft. The compression reflects higher employee costs (wage inflation, onboarding for new deals), and pricing pressure from clients optimising IT budgets.
 
 **3. Normalised Quarterly EPS Run-Rate:** Stripping out the anomalous Q2 FY25 (Sep24) where NP spiked to ₹129 Cr (low tax quarter at 0%), the normalised quarterly EPS is approximately ₹30-35. Annualised, this gives a run-rate of ₹120-140 EPS. FY26 reported EPS of ~₹130 is consistent with this run-rate.
 
@@ -332,17 +340,19 @@ Buffett: *"We do not get enthused about change... we're looking for the absence 
 
 ### Profit Scalability Table
 
-| Year | Revenue | Rev Growth | Op. Profit | OP Growth | Net Profit | NP Growth | Incremental OPM |
-|---|---|---|---|---|---|---|---|
-| FY20 | 1,071 | 3.7% | 156 | 18% | 114 | 12.9% | — |
-| FY21 | 1,722 | 60.8% | 364 | 133% | 252 | 121% | 32.0% |
-| FY22 | 2,184 | 26.8% | 463 | 27% | 333 | 32% | 21.4% |
-| FY23 | 2,563 | 17.4% | 456 | -1.5% | 310 | -6.9% | **-1.8%** |
-| FY24 | 3,055 | 19.2% | 509 | 11.6% | 311 | 0.3% | 10.8% |
-| FY25 | 3,455 | 13.1% | 546 | 7.3% | 376 | 20.9% | 9.3% |
-| FY26 | 3,699 | 7.1% | ~580 | ~6.2% | 404 | 7.4% | ~13.9% |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Net Profit | NP Growth | Incremental EBIT Margin * |
+|---|---|---|---|---|---|---|---|---|
+| FY20 | 1,071 | 3.7% | 131 | — | 12.2% | 114 | 12.9% | — |
+| FY21 | 1,722 | 60.8% | 319 | 143.5% | 18.5% | 252 | 121% | 28.9% |
+| FY22 | 2,184 | 26.8% | 420 | 31.7% | 19.2% | 333 | 32% | 21.9% |
+| FY23 | 2,563 | 17.4% | 389 | -7.4% | 15.2% | 310 | -6.9% | **-8.2%** |
+| FY24 | 3,055 | 19.2% | 419 | 7.7% | 13.7% | 311 | 0.3% | 6.1% |
+| FY25 | 3,455 | 13.1% | 471 | 12.4% | 13.6% | 376 | 20.9% | 13.0% |
+| FY26 | 3,699 | 7.1% | ~507 | ~7.6% | ~13.7% | 404 | 7.4% | ~14.8% |
 
-**Key Observation:** Incremental operating margins have declined sharply from 32% (FY21) and 21% (FY22) to single digits (FY23-FY25). This signals **scaling friction** — each new rupee of revenue is becoming LESS profitable than the last. The FY23 negative incremental margin is particularly concerning, driven by the Evosys integration costs.
+*\* Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins are higher than current EBIT margins, the business is scaling beautifully. If lower, scaling friction.*
+
+**Key Observation:** Incremental EBIT margins tell a sharper story than pre-D&A margins: FY23 shows **-8.2%** incremental EBIT margin (vs -1.8% on OP), because the Evosys-related amortisation surge hit EBIT harder. However, FY25-FY26 show recovery to 13-15% incremental EBIT margin — close to the current EBIT margin of ~13.7%, indicating the business is scaling **linearly** (not with operating leverage, but not with friction either). This is more honest than the pre-D&A picture.
 
 ### Scaling Verdict
 
@@ -417,13 +427,16 @@ Buffett: *"We can afford to lose money — even a lot of money. But we can't aff
 
 | Metric | Current (FY26 basis) | FY25 | FY24 | FY23 | FY22 | 5Y Median |
 |---|---|---|---|---|---|---|
+| **P/Owner Earnings (primary Buffett-pure multiple)** | **12.1x** | — | — | — | — | — |
+| **Owner Earnings Yield (OEPS / CMP)** | **8.2%** | — | — | — | — | — |
 | PE Ratio | **13.4x** | 14.4 | 17.7 | 17.1 | — | ~17x |
 | P/B Ratio | **1.92x** (FY26E BVPS ₹908) | 2.19 (FY25 BVPS ₹796) | — | — | — | ~3.5x |
-| EV/EBITDA | ~8.7x | — | — | — | — | — |
-| P/Owner Earnings | **12.1x** | — | — | — | — | — |
+| EV/EBIT | ~10.0x | — | — | — | — | — |
 | Earnings Yield | **7.5%** | 6.9% | 5.6% | 5.8% | — | ~6% |
 | Dividend Yield | **1.4%** | 1.5% | — | — | — | — |
 | PEG Ratio (on 3Y EPS CAGR) | **1.8x** | — | — | — | — | — |
+
+> **Why EV/EBIT, not EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT and P/Owner Earnings are the multiples Buffett would use: they account for the capital the business consumes before you get your return. **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from the true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner. EV/EBIT is included as a secondary cross-check for comparability with institutional analysis — Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets.
 
 ### Historical Comparison
 
@@ -473,13 +486,15 @@ The P/B of 1.92x is also near multi-year lows — the stock traded at 5-8x P/B d
 
 ### Inputs
 
-| Input | Value |
-|---|---|
-| CMP | ₹1,747 |
-| FY26 Normalised EPS | ₹130 |
-| Current PE | 13.4x |
-| Historical 5Y EPS CAGR | 22.1% |
-| Historical 10Y EPS CAGR | 31.5% |
+| Input | Value | Source |
+|---|---|---|
+| CMP | ₹1,747 | Market data |
+| FY26 Normalised EPS | ₹130 | Use GAAP EPS — strip out one-time items |
+| **Owner Earnings Per Share (OEPS)** | **₹144** | Owner Earnings ₹447 Cr (Section 8) / 3.1 Cr diluted shares |
+| Current PE | 13.4x | CMP / Normalised EPS |
+| **Current P/OE** | **12.1x** | CMP / OEPS — the Buffett-pure valuation multiple |
+| Historical 5Y EPS CAGR | 22.1% | FY20→FY25 |
+| Historical 10Y EPS CAGR | 31.5% | FY15→FY25 |
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -504,20 +519,48 @@ The P/B of 1.92x is also near multi-year lows — the stock traded at 5-8x P/B d
 | 5 Years | -5.1% | -0.8% | 3.6% |
 | 10 Years | 2.2% | 6.8% | 11.5% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading for capital-intensive businesses. Owner Earnings strips this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett: *"Accounting is the language of business, but like any language, it can be used to obfuscate rather than illuminate."*
+
+**Terminal P/OE = 16x (Market Average)** — slightly lower than PE because Owner Earnings > Net Income for this asset-light IT company (D&A exceeds maintenance CapEx), so a lower multiple on higher per-share earnings gives approximately the same implied price.
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 4.1% OEPS CAGR needed | 8.8% | 13.5% |
+| 10 Years | 7.0% OEPS CAGR needed | 11.9% | 16.7% |
+| 15 Years | 8.0% OEPS CAGR needed | 12.9% | 17.8% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal Market Avg PE/P(OE) | 10-Year, 10% Return |
+|---|---|---|
+| Implied EPS CAGR (from Step 3, PE 20x) | 5.7% | |
+| Implied OEPS CAGR (from Step 3B, P/OE 16x) | 7.0% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **1.3 pp** | |
+
+**Interpretation:** Gap of 1.3 pp ≤ 2 pp → **Mastek is an asset-light business where EPS closely tracks real economic earnings.** The standard EPS-based Reverse DCF is reliable. This is expected for an IT services company where D&A (mostly acquisition amortisation) exceeds true maintenance CapEx — Owner Earnings actually exceed reported Net Income, making the OEPS-based picture slightly more demanding but not materially so.
+
 ### Reality Check
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| Mastek 5Y historical EPS CAGR | 22.1% |
-| Mastek 10Y historical EPS CAGR | 31.5% |
-| Mastek 3Y recent EPS CAGR (FY22→FY25) | ~7% |
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light IT) | Floor for a decent business |
+| Mastek 5Y historical EPS CAGR | 22.1% | — | What it has delivered |
+| Mastek 10Y historical EPS CAGR | 31.5% | — | Longer-term track record |
+| Mastek historical Owner Earnings CAGR | — | 28.2% (5Y), ~25-27% (10Y) † | Buffett-pure benchmark |
+| Mastek 3Y recent EPS CAGR (FY22→FY25) | ~7% | — | Most recent trajectory |
+| Industry/sector average growth | 12-15% | 12-15% | Peer comparison |
 
-**Traffic Light:** At a terminal PE of 20x (reasonable for a quality mid-cap IT company), you need just **5.7% EPS CAGR over 10 years to earn a 10% annual return.** The company has historically delivered 22%+ EPS CAGR. Even the slowing 3-year EPS CAGR of ~7% (FY22→FY25) is above this threshold.
+> † *10Y OE CAGR ranges from ~25% to ~27% depending on the maintenance CapEx assumption for FY15 (an early year with very different business scale). The 5Y figure (28.2%) is more reliable as it uses a consistent cost structure.*
+
+**Traffic Light:** At a terminal PE of 20x (reasonable for a quality mid-cap IT company), you need just **5.7% EPS CAGR over 10 years to earn a 10% annual return.** The OEPS-based hurdle is 7.0% — modestly higher but still well below all historical benchmarks. The company has historically delivered 22%+ EPS CAGR and 25-28% Owner Earnings CAGR. Even the slowing 3-year EPS CAGR of ~7% (FY22→FY25) meets the threshold.
+
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. The EPS-based verdict is 🟢 and the OEPS-based verdict is also 🟢 (7.0% required vs 7%+ recent delivery and 25-28% historical). Because the gap is only 1.3 pp (asset-light business), both verdicts agree. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
 
 🟢 **GREEN — The market is demanding very modest growth assumptions at the current price.** Even mediocre execution should deliver acceptable returns. This is classic "low expectations" pricing.
 
-**Verdict:** *"At the current price of ₹1,747, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at just 5.7% CAGR. The company has historically grown EPS at 22%+ CAGR over 5 years and 31%+ over 10 years. This implies the market is pricing in extremely conservative growth — well below the company's track record."*
+**Verdict:** *"At the current price of ₹1,747, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at just 5.7% CAGR (and Owner Earnings at 7.0% CAGR). The company has historically grown EPS at 22%+ CAGR and Owner Earnings at 25-28% CAGR. This implies the market is pricing in extremely conservative growth — well below the company's track record. Note: the EPS-based and OEPS-based assessments are closely aligned (1.3 pp gap), confirming that Mastek is asset-light and EPS is a reliable proxy for economic earnings."*
 
 ### Asymmetric Upside Check
 
