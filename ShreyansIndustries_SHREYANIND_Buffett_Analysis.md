@@ -36,8 +36,11 @@ All figures in ₹ Crores unless stated otherwise.
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 402 | 368 | 389 | 420 | 464 | 574 | 540 | **366** | 584 | **866** | 699 | 617 | 634 |
 | Revenue Growth YoY % | — | -8.5 | 5.7 | 8.0 | 10.5 | **23.7** | -5.9 | **-32.2** | 59.6 | 48.3 | -19.3 | -11.7 | — |
-| Operating Profit | 36 | 22 | 24 | 57 | 57 | 80 | 42 | **5** | 11 | **107** | 98 | 70 | 45 |
-| OPM % | 9 | **6** | 6 | 14 | 12 | 14 | 8 | **1** | 2 | 12 | **14** | 11 | 7 |
+| Operating Profit (pre-D&A) | 36 | 22 | 24 | 57 | 57 | 80 | 42 | **5** | 11 | **107** | 98 | 70 | 45 |
+| OPM % (pre-D&A) | 9 | **6** | 6 | 14 | 12 | 14 | 8 | **1** | 2 | 12 | **14** | 11 | 7 |
+| Depreciation & Amortisation | 9 | 7 | 7 | 8 | 9 | 9 | 11 | 11 | 13 | 13 | 14 | 15 | 16 |
+| **EBIT (OP minus D&A)** | **27** | **15** | **17** | **49** | **48** | **71** | **31** | **-6** | **-2** | **94** | **84** | **55** | **29** |
+| **EBIT Margin %** | **6.7** | **4.1** | **4.4** | **11.7** | **10.3** | **12.4** | **5.7** | **-1.6** | **-0.3** | **10.9** | **12.0** | **8.9** | **4.6** |
 | Other Income | 1 | 6 | 0 | -4 | 4 | 6 | 6 | 20 | 20 | 6 | **35** | 17 | 20 |
 | Net Income | 13 | 10 | 9 | 25 | 31 | 47 | 32 | **9** | 10 | 73 | **87** | 51 | 35 |
 | Net Income Growth % | — | -23.1 | -10.0 | **177.8** | 24.0 | 51.6 | -31.9 | **-71.9** | 11.1 | 630.0 | 19.2 | -41.4 | — |
@@ -46,9 +49,8 @@ All figures in ₹ Crores unless stated otherwise.
 | EPS Growth % | — | -22.4 | -11.6 | **189.6** | 24.2 | 50.6 | -31.9 | **-72.5** | 13.4 | 638.1 | 19.0 | -42.1 | — |
 | Shares Outstanding (Cr) | 1.40 | 1.40 | 1.40 | 1.40 | 1.40 | 1.40 | 1.40 | 1.40 | 1.40 | 1.40 | 1.40 | 1.40 | 1.40 |
 
-> *Note: Screener.in's "Operating Profit" already represents EBITDA (Operating Income before Depreciation & Amortisation). A separate EBITDA row is therefore omitted as it would be identical to Operating Profit. OPM % = EBITDA Margin % for this company.*
+> *Note: Screener.in's "Operating Profit" is calculated before deducting Depreciation & Amortisation, making it EBITDA-equivalent. This analysis tracks EBIT (Operating Profit minus D&A) as the primary operating profitability metric per Buffett/Munger philosophy. Buffett (2000 Letter): "References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?" Munger: "I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'" EBIT captures the true operating profit after accounting for the capital the business consumes.*
 | Shares Change YoY | — | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | — |
-| Depreciation | 9 | 7 | 7 | 8 | 9 | 9 | 11 | 11 | 13 | 13 | 14 | 15 | 16 |
 | Interest | 6 | 7 | 6 | 6 | 6 | 6 | 5 | 5 | 6 | 5 | 4 | 4 | 4 |
 | Dividend Payout % | 13 | 17 | 19 | 8 | 8 | 15 | 13 | **47** | 28 | 9 | 8 | 14 | — |
 
@@ -56,7 +58,7 @@ All figures in ₹ Crores unless stated otherwise.
 
 Revenue is highly cyclical and has grown at a modest 4% CAGR over 11 years (FY14-FY25), reflecting the commodity nature of paper pricing. The peak year was FY23 (₹866 Cr) driven by post-COVID paper price spikes, followed by a sharp normalisation. Revenue has now settled in the ₹617-634 Cr range.
 
-Margins are equally cyclical. OPM swung from a trough of just 1% in FY21 (COVID disruption) to a peak of 14% in FY24, before compressing to 11% in FY25 and further to ~7% in the TTM period. This volatility is characteristic of commodity businesses — when paper prices rise and raw material costs lag, margins expand dramatically; when the cycle reverses, margins compress just as violently.
+Margins are equally cyclical. OPM (pre-D&A) swung from a trough of just 1% in FY21 (COVID disruption) to a peak of 14% in FY24, before compressing to 11% in FY25 and further to ~7% in the TTM period. **EBIT Margin** — the true profitability metric after accounting for capital consumption — tells a starker story: it swung from -1.6% in FY21 to a peak of 12.0% in FY24, but has now compressed to 4.6% TTM. The gap between OPM (7%) and EBIT Margin (4.6%) in the TTM period reflects the ₹16 Cr annual depreciation charge — a real cost of maintaining the paper mills that EBITDA-based analysis would hide. This volatility is characteristic of commodity businesses — when paper prices rise and raw material costs lag, margins expand dramatically; when the cycle reverses, margins compress just as violently.
 
 Net profit growth has massively outpaced revenue growth over 11 years (13.2% CAGR vs. 4.0%), reflecting significant margin expansion from the FY14-16 trough. However, this is not structural improvement — it is cyclical. The business alternates between periods of excellent profitability (FY17-19, FY23-24) and near-zero earnings (FY21-22).
 
@@ -79,7 +81,8 @@ All figures in ₹ Crores.
 | Borrowings | **47** | 44 | **55** | 41 | 46 | 32 | 58 | 66 | 61 | 42 | **34** | 45 |
 | Other Liabilities | 97 | 91 | 93 | 104 | 109 | 115 | 108 | 107 | 138 | 138 | 143 | 144 |
 | Debt/Equity | **0.55** | 0.48 | **0.56** | 0.33 | 0.30 | 0.16 | 0.27 | 0.29 | 0.26 | 0.14 | **0.09** | 0.11 |
-| Debt/EBITDA | 1.31 | 2.00 | 2.29 | 0.72 | 0.81 | 0.40 | 1.38 | **13.20** | 5.55 | 0.39 | **0.35** | 0.64 |
+| Debt/EBIT | 1.74 | 2.93 | 3.24 | 0.84 | 0.96 | 0.45 | 1.87 | n/m | n/m | 0.45 | **0.40** | 0.82 |
+| Interest Coverage (EBIT/Interest) | 4.5 | **2.1** | **2.8** | 8.2 | 8.0 | **11.8** | 6.2 | **-1.2** | -0.3 | **18.8** | **21.0** | 13.8 |
 | BVPS (₹) | 60.71 | 65.71 | 70.71 | 89.29 | 110.71 | 141.43 | 154.29 | 161.43 | 165.71 | 215.71 | 273.57 | **305.00** |
 | BVPS Growth % | — | 8.2 | 7.6 | **26.3** | 24.0 | **27.7** | 9.1 | 4.6 | **2.7** | 30.2 | 26.8 | 11.5 |
 
@@ -129,14 +132,17 @@ Buffett: *"We will reject interesting opportunities rather than over-leverage ou
 | ROE % | 15.3 | 11.3 | **9.4** | 22.3 | 22.1 | **26.6** | 15.5 | **4.1** | 4.4 | **27.3** | 25.4 | 12.6 |
 | ROIC % | 15.8 | 11.5 | **12.3** | 22.3 | 19.3 | **23.3** | 15.0 | **1.6** | 3.1 | **24.3** | 17.9 | 11.1 |
 | Debt/Equity | **0.55** | 0.48 | **0.56** | 0.33 | 0.30 | 0.16 | 0.27 | 0.29 | 0.26 | 0.14 | **0.09** | 0.11 |
-| OPM % | 9 | **6** | **6** | **14** | 12 | **14** | 8 | **1** | 2 | 12 | **14** | 11 |
+| OPM % (pre-D&A, Screener) | 9 | **6** | **6** | **14** | 12 | **14** | 8 | **1** | 2 | 12 | **14** | 11 |
+| **EBIT Margin %** | **6.7** | **4.1** | **4.4** | **11.7** | **10.3** | **12.4** | **5.7** | **-1.6** | **-0.3** | **10.9** | **12.0** | **8.9** |
 | NPM % | 3.2 | 2.7 | **2.3** | 6.0 | 6.7 | 8.2 | 5.9 | 2.5 | **1.7** | 8.4 | **12.4** | 8.3 |
 | Debtor Days | **38** | 28 | 33 | **21** | 31 | 25 | **19** | 26 | 20 | **15** | 15 | 22 |
 | Inventory Days | 64 | 59 | **47** | 50 | 54 | 56 | 60 | **79** | 58 | **43** | 62 | 65 |
 | Cash Conversion Cycle | 16 | 15 | 11 | 12 | 13 | 21 | 13 | 17 | **-2** | 16 | **24** | 19 |
 | Working Capital Days | -19 | -26 | -21 | -23 | -13 | -4 | -18 | **-42** | -35 | -19 | -20 | -20 |
-| Interest Coverage | 4.7 | **3.0** | **2.8** | 7.5 | 8.7 | 12.7 | 7.6 | 2.8 | 3.0 | 19.8 | **29.8** | 18.0 |
+| Interest Coverage (Screener*) | 4.7 | **3.0** | **2.8** | 7.5 | 8.7 | 12.7 | 7.6 | 2.8 | 3.0 | 19.8 | **29.8** | 18.0 |
 | Dividend Payout % | 13 | 17 | 19 | 8 | 8 | 15 | 13 | **47** | 28 | 9 | **8** | 14 |
+
+> *\*Interest Coverage (Screener) = (EBIT + Other Income) / Interest Expense.* This is Screener.in's published definition, which includes investment and other non-operating income in the coverage calculation. Section 3 presents a stricter **EBIT-only Interest Coverage** (= EBIT / Interest Expense) which excludes Other Income. The two metrics diverge materially in years with large Other Income — notably FY21 (Screener: 2.8x vs EBIT-only: -1.2x) and FY24 (Screener: 29.8x vs EBIT-only: 21.0x). The EBIT-only figure in Section 3 is the more conservative and Buffett-appropriate measure: it answers "can the *operating business alone* service its debt?" In FY21-22, the answer was no — the operating business generated negative EBIT, and only the ₹20 Cr investment income rescued interest coverage. This distinction matters for assessing the operating franchise's standalone debt capacity versus the total entity's ability to pay.
 
 ### Part B: Buffett's Quality Checklist
 
@@ -150,10 +156,12 @@ Buffett: *"We will reject interesting opportunities rather than over-leverage ou
 | Positive Free Cash Flow | Positive | 8 of 11 years positive; ₹22 Cr avg | ⚠️ Usually positive but lumpy |
 | Promoter holding | Aligned | 50.5% | ✅ Majority stake — strong alignment |
 | Dividend payout | Paying | 15% avg (12Y) | ✅ Consistent, low payout — retains for reinvestment |
-| OPM stability | Stable | 1-14% range | ❌ Extremely volatile |
+| EBIT Margin stability | Stable | -1.6% to 12.4% range | ❌ Extremely volatile — even more so than OPM due to depreciation amplification |
 | Moat / Pricing Power | Identifiable | Agro-based cost advantage; limited pricing power | ⚠️ Some cost moat but commodity pricing |
 | ROIC > 15% | >15% | 14.8% avg (12Y); Range: 1.6-24.3% | ⚠️ Average acceptable but volatile |
 | Earnings Yield | Reasonable | 15.1% (TTM EPS-based) | ✅ Very high — stock is cheap |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Narrative:** The ratios reveal a classic commodity cyclical — periods of outstanding returns (ROCE >30%, ROE >25%) interspersed with near-zero returns. The critical insight is that the AVERAGE return on capital is genuinely good (ROCE ~21%, ROE ~17%), suggesting the underlying business earns above its cost of capital through the full cycle. The near-zero debt amplifies the safety during troughs. The negative working capital days indicate the business generates cash from operations even before it produces goods (likely from advance payments or favourable creditor terms) — an unusual positive for a manufacturer.
 
@@ -164,7 +172,10 @@ Buffett: *"We will reject interesting opportunities rather than over-leverage ou
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | **229** | 228 | 188 | 171 | 173 | 168 | 136 | **132** | 170 | 179 | 154 | 142 | 159 |
-| OPM % | 12.8 | 14.0 | **20.9** | 13.9 | 10.1 | 10.3 | 11.6 | **5.7** | 9.4 | 15.0 | 10.3 | 4.0 | **-2.5** |
+| OPM % (pre-D&A) | 12.8 | 14.0 | **20.9** | 13.9 | 10.1 | 10.3 | 11.6 | **5.7** | 9.4 | 15.0 | 10.3 | 4.0 | **-2.5** |
+| Depreciation | 3.30 | 3.24 | 3.31 | 3.38 | 3.44 | 3.45 | 3.73 | 3.97 | 3.87 | 3.90 | 3.87 | 3.95 | 3.92 |
+| **EBIT** | **26.2** | **28.7** | **35.9** | **20.4** | **13.9** | **13.8** | **12.0** | **3.6** | **12.1** | **23.0** | **12.0** | **1.7** | **-7.8** |
+| **EBIT Margin %** | **11.4** | **12.6** | **19.1** | **11.9** | **8.1** | **8.2** | **8.9** | **2.7** | **7.1** | **12.8** | **7.8** | **1.2** | **-4.9** |
 | Net Profit | 20.2 | 24.1 | **32.0** | 19.7 | 20.9 | 14.9 | 14.0 | 9.1 | 9.1 | 18.5 | 17.3 | 2.2 | **-2.6** |
 | EPS (₹) | 14.58 | 17.45 | **23.13** | 14.24 | 15.08 | 10.78 | 10.11 | 6.56 | 6.58 | 13.35 | 12.49 | 1.61 | **-1.84** |
 | Other Income | 0.6 | 2.1 | 7.6 | 6.1 | **15.2** | 6.1 | 7.4 | 9.1 | 2.1 | 2.6 | **11.1** | 0.5 | 5.3 |
@@ -173,11 +184,11 @@ Buffett: *"We will reject interesting opportunities rather than over-leverage ou
 
 **1. Revenue Trajectory:** Quarterly revenue has declined sharply from the ₹228-229 Cr range (Dec22-Mar23) to the ₹132-179 Cr range. The peak (Jun23 at ₹188 Cr) benefited from still-elevated paper prices post-COVID. The current run-rate of ₹142-159 Cr (Sep25-Dec25) suggests annualised revenue of approximately ₹600-635 Cr, well below the FY23 peak of ₹866 Cr.
 
-**2. Margin Trend — COMPRESSING SHARPLY:** OPM has deteriorated alarmingly from the 14-21% range in FY23 to negative territory in Dec25 (-2.5%). The Dec25 quarter posted an operating LOSS of ₹3.9 Cr — a red flag. This is driven by paper price softening while raw material and energy costs have remained elevated. The paper industry is in a cyclical trough.
+**2. Margin Trend — COMPRESSING SHARPLY:** OPM (pre-D&A) has deteriorated alarmingly from the 14-21% range in FY23 to negative territory in Dec25 (-2.5%). **EBIT Margin** tells an even more severe story: it has fallen from 19.1% (Jun23) to -4.9% (Dec25). The gap between OPM and EBIT Margin widens during troughs because depreciation is a fixed cost — when revenue falls, the D&A charge eats a larger share of already-thin operating profit. In Dec25, the operating loss (pre-D&A) of ₹3.9 Cr becomes an EBIT loss of ₹7.8 Cr after depreciation. This pattern — where EBITDA-based analysis shows a mild problem but EBIT-based analysis reveals a more serious one — is precisely why Buffett and Munger reject EBITDA as a metric. The paper industry is in a cyclical trough.
 
 **3. Normalised Quarterly EPS Run-Rate:** Stripping out the volatile other income and the Dec25 loss quarter, a normalised quarterly EPS of approximately ₹8-10 seems reasonable (using the Mar25 ₹13.35 as a somewhat optimistic anchor and the Sep25 ₹1.61 as a trough). This implies normalised annualised EPS of ₹32-40. Using the midpoint of ₹36, the TTM normalised PE is approximately 4.7x.
 
-**4. Red Flags:** The Dec25 quarter is deeply concerning — the first operating loss in over 3 years, with OPM at -2.5%. Expenses (₹163 Cr) exceeded sales (₹159 Cr). If this is a one-quarter aberration driven by seasonal shutdown or raw material spike, it will recover. If it represents a structural shift in paper economics, the business is in trouble.
+**4. Red Flags:** The Dec25 quarter is deeply concerning — the first operating loss in over 3 years, with OPM (pre-D&A) at -2.5% and EBIT Margin at -4.9%. Expenses (₹163 Cr) exceeded sales (₹159 Cr). If this is a one-quarter aberration driven by seasonal shutdown or raw material spike, it will recover. If it represents a structural shift in paper economics, the business is in trouble.
 
 Buffett: *"In the business world, the rearview mirror is always clearer than the windshield."* The quarterly data reveals a business that is clearly **Decelerating** — revenues declining, margins compressing, and the most recent quarter showing an operating loss. This is a cyclical trough, not a steady-state. The question is whether this is temporary (as it was in FY20-22) or something more permanent.
 
@@ -297,17 +308,19 @@ The moat is **narrow and eroding**, not wide and enduring. Here's why:
 
 **2. Profit Scalability:**
 
-| Year | Revenue | Rev Growth | Op Profit | OP Growth | Net Profit | NP Growth | Incremental OPM |
-|---|---|---|---|---|---|---|---|
-| FY21 | 366 | -32.2% | 5 | -88.1% | 9 | -71.9% | — |
-| FY22 | 584 | 59.6% | 11 | 120.0% | 10 | 11.1% | 2.8% |
-| FY23 | 866 | 48.3% | 107 | 872.7% | 73 | 630.0% | 34.0% |
-| FY24 | 699 | -19.3% | 98 | -8.4% | 87 | 19.2% | 5.4% * |
-| FY25 | 617 | -11.7% | 70 | -28.6% | 51 | -41.4% | 34.1% * |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Net Profit | NP Growth | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|---|---|
+| FY21 | 366 | -32.2% | -6 | — | -1.6% | 9 | -71.9% | — |
+| FY22 | 584 | 59.6% | -2 | 66.7% | -0.3% | 10 | 11.1% | 1.8% |
+| FY23 | 866 | 48.3% | 94 | n/m | 10.9% | 73 | 630.0% | 34.0% |
+| FY24 | 699 | -19.3% | 84 | -10.6% | 12.0% | 87 | 19.2% | 6.0% ** |
+| FY25 | 617 | -11.7% | 55 | -34.5% | 8.9% | 51 | -41.4% | 35.4% ** |
 
-*Note: Incremental margins on declining revenue are misleading — they show how much margin is lost per rupee of revenue decline.*
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. This is the key scaling metric — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). Why? Because a business that grows revenue while D&A is rising faster (due to heavy capex) will show improving pre-D&A margins but DECLINING EBIT margins. The EBIT-based incremental margin reveals the truth: is profit scaling genuinely, or is rising capital consumption eating the scaling benefit?*
 
-The FY21-FY23 upcycle shows explosive operating leverage — incremental OPM of 34% in FY23 (against a base OPM of 12%). This confirms that paper manufacturing has HIGH FIXED COST LEVERAGE: when utilisation rises and prices increase, profits multiply disproportionately. The reverse is equally true — when volumes and prices decline, profits collapse.
+*\*\*Incremental margins on declining revenue show how much EBIT is lost per rupee of revenue decline — the reverse-leverage effect.*
+
+The FY21-FY23 upcycle shows explosive operating leverage — incremental EBIT margin of 34% in FY23 (against a base EBIT margin of 10.9%). This confirms that paper manufacturing has HIGH FIXED COST LEVERAGE: when utilisation rises and prices increase, profits multiply disproportionately. The reverse is equally true — when volumes and prices decline, profits collapse even faster because depreciation doesn't reduce with volume.
 
 **3. Capital Scalability:** Moderate. Revenue per unit of CapEx fluctuates wildly, and the business requires periodic large capital outlays for capacity expansion or modernisation.
 
@@ -370,7 +383,7 @@ Buffett: *"In evaluating people, you look for three qualities: integrity, intell
 |---|---|---|---|---|---|---|---|---|---|
 | Installed Capacity (MT) | ~37,000 | ~37,000 | ~37,000 | ~37,000 | ~37,000 | ~37,000 | ~37,000 | ~37,000 | ~37,000 |
 | Revenue per MT (₹/MT, approx.) | 113,514 | 125,405 | 155,135 | 145,946 | 98,919 | 157,838 | 234,054 | 188,919 | 166,757 |
-| OPM % | 14 | 12 | 14 | 8 | 1 | 2 | 12 | 14 | 11 |
+| OPM % (pre-D&A) | 14 | 12 | 14 | 8 | 1 | 2 | 12 | 14 | 11 |
 | Debtor Days | 21 | 31 | 25 | 19 | 26 | 20 | 15 | 15 | 22 |
 | Inventory Days | 50 | 54 | 56 | 60 | 79 | 58 | 43 | 62 | 65 |
 | Working Capital Days | -23 | -13 | -4 | -18 | -42 | -35 | -19 | -20 | -20 |
@@ -390,21 +403,22 @@ Debtor days have improved significantly from 38 days (FY14) to 22 days (FY25), i
 
 | Metric | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current |
 |---|---|---|---|---|---|---|---|---|---|---|
+| **P/Owner Earnings (primary Buffett-pure multiple)** | — | — | — | — | — | — | — | — | **5.3** | **7.9** |
+| **Owner Earnings Yield %** | — | — | — | — | — | — | — | — | **18.9** | **12.6** |
 | EPS (₹) | 18.16 | 22.55 | 33.96 | 23.12 | 6.35 | 7.20 | 53.14 | 63.24 | 36.60 | 25.61 (TTM) |
 | BVPS (₹) | 89 | 111 | 141 | 154 | 161 | 166 | 216 | 274 | 305 | ~320 (est.) |
 | PE Ratio | — | — | — | — | — | — | — | — | 4.6 | **6.6** |
 | P/B Ratio | — | — | — | — | — | — | — | — | 0.56 | **0.53** |
 | P/Sales | — | — | — | — | — | — | — | — | 0.39 | 0.37 |
-| EV/EBITDA | — | — | — | — | — | — | — | — | 4.04 | ~6.3 |
+| EV/EBIT | — | — | — | — | — | — | — | — | 5.15 | ~9.8 |
 | Earnings Yield % | — | — | — | — | — | — | — | — | 21.5 | **15.1** |
 | Dividend Yield % | — | — | — | — | — | — | — | — | 1.8 | **2.9** |
-| P/Owner Earnings | — | — | — | — | — | — | — | — | ~4.7 | ~6.8 |
 
 *Note: Historical PE/PB computation requires contemporaneous market prices, which are not available in Screener data. The above uses FY25 year-end price of ~₹170.*
 
-*Note on P/Owner Earnings: Since Base Owner Earnings ≈ Net Income for this company (zero SBC, Maintenance CapEx ≈ Depreciation — see Section 8), P/Owner Earnings approximates the PE ratio. Using the more conservative 70%-maintenance Owner Earnings from Section 8 (FY25: ₹45 Cr), the P/OE would be ~5.3 for FY25.*
+*Note on P/Owner Earnings: Owner Earnings = NI + D&A − 70% of CapEx (Maintenance CapEx estimate). FY25: ₹45 Cr → OE/share = ₹32.14 → P/OE = 5.3. TTM: ₹30 Cr → OE/share = ₹21.43 → P/OE = 7.9. P/OE must always exceed PE (since OE ≤ NI when Maintenance CapEx > 0), as confirmed here. P/Owner Earnings is the Buffett-pure valuation multiple — it reflects what you pay for each rupee of true economic earnings available to the owner after maintaining the business.*
 
-*Note on EV/EBITDA: EV is computed as Market Cap + Debt = ₹283 Cr (standard formula). However, SIL holds a ₹240 Cr non-operating investment portfolio (39% of total assets). Subtracting this gives an Adjusted EV of ₹43 Cr, implying an Adjusted EV/EBITDA of just 0.6x on FY25 EBITDA — underscoring how cheap the operating business is when the investment portfolio is separated out.*
+*Note on EV/EBIT: EV = Market Cap + Debt = ₹283 Cr (standard formula). Included as a secondary cross-check for institutional comparability, not as a Buffett-pure metric. Adjusting for the ₹240 Cr non-operating investment portfolio gives Adjusted EV = ₹43 Cr, implying Adjusted EV/EBIT of just 0.8x on FY25 EBIT — underscoring how cheap the operating business is when the investment portfolio is separated out. This analysis deliberately uses EV/EBIT rather than EV/EBITDA: Buffett (2002 Letter): "Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense."*
 
 **Valuation Summary — Extreme Deep Value:**
 
@@ -432,6 +446,8 @@ Three DCF scenarios using Owner Earnings (= Net Income for this company, as SBC 
 
 **Starting Owner Earnings:** ₹43.7 Cr (6-year average Net Income, FY20-FY25) = ₹31.19 per share.
 **Discount Rate:** 12% (appropriate for small-cap, illiquid stock).
+
+> *Note on Discount Rate:* Buffett explicitly rejects WACC; Munger has called it "nonsense." Buffett uses a flat 10% hurdle rate (the long-term equity return he demands). For a micro-cap with thin volumes and cyclical earnings, a 12% discount rate provides a more conservative (and realistic) margin of error. At a 10% Buffett hurdle, the intrinsic values would be approximately 20-25% higher than shown below. The 12% rate is used here as the primary rate; the 10% Buffett rate is available as an optimistic cross-check.
 **Terminal Growth Rate:** 4%.
 
 | Scenario | Growth Y1-5 | Growth Y6-10 | Terminal g | IV/Share | MoS at ₹170 | Upside/(Downside) |
@@ -466,6 +482,8 @@ Even on a pure asset-liquidation basis (ignoring all future earnings), the stock
 | CMP | ₹170 | Market |
 | Normalised EPS (3Y avg: FY23-FY25) | ₹51.0 | (53.14 + 63.24 + 36.60) / 3 |
 | Current PE on normalised EPS | 3.33x | 170 / 51.0 |
+| **Owner Earnings Per Share (OEPS)** | **₹50.0** | Normalised OE (3Y avg: FY23-25 = ₹70 Cr) / 1.40 Cr shares |
+| **Current P/OE (on OEPS)** | **3.40x** | 170 / 50.0 — the Buffett-pure valuation multiple |
 | Historical 11Y EPS CAGR | 13.4% | FY14→FY25 |
 | Historical 5Y EPS CAGR | 9.6% | FY20→FY25 |
 
@@ -487,15 +505,53 @@ Even on a pure asset-liquidation basis (ignoring all future earnings), the stock
 | 10 Years | **-8.0%** | -3.9% | 0.3% |
 | 15 Years | **-2.4%** | 2.1% | 6.5% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 2-3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading for capital-intensive businesses: Owner Earnings strips out the difference between accounting depreciation and actual maintenance spending. For SIL, the gap is moderate (OE ≈ 82-98% of NI depending on the year), but in trough years when CapEx exceeds depreciation, the gap matters.
+
+**Normalised OEPS:** ₹50.0 (3Y average Owner Earnings of ₹70 Cr ÷ 1.40 Cr shares)
+**Terminal P/OE:** 16x (Market Average — slightly below the 20x terminal PE since OE < NI for capital-intensive businesses)
+
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 16x)
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | **-19.3%** OEPS CAGR needed | -15.6% | -12.0% |
+| 10 Years | **-5.8%** OEPS CAGR needed | -1.5% | 2.8% |
+| 15 Years | **-0.8%** OEPS CAGR needed | 3.7% | 8.2% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal PE 20x / P(OE) 16x | 10-Year Hurdle (10% Return) |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | -8.0% | |
+| Implied OEPS CAGR (from Step 3B) | -5.8% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **+2.2 pp** | |
+
+**Interpretation:** The gap is 2.2 pp — at the boundary between "asset-light" (≤2 pp) and "moderate capital intensity" (2-5 pp). This is consistent with SIL's nature: a paper mill is not asset-light, but it is not extremely capital-hungry either. The EPS-based Reverse DCF is broadly reliable for this business, though the OEPS figure provides a slightly more conservative (and honest) benchmark. Both metrics tell the same story: the market is pricing in permanent decline.
+
 ### Step 4: Reality Check
 
-The numbers are remarkable. Even at a MATURE terminal PE of 15x, the market only requires the company to deliver 3.2% EPS CAGR over 10 years for you to earn a 20% annualised return. The company has historically delivered 13.4% EPS CAGR over 11 years. The market is pricing in NEGATIVE earnings growth — implying a permanent decline in the business.
+Compare the implied growth from Steps 3 and 3B against benchmarks:
 
-**Traffic Light: 🟢 GREEN — Extreme Deep Value.** The implied growth needed to earn a 10% hurdle rate is NEGATIVE. The market is not just being conservative — it is pricing this business as if it will shrink permanently. Even if earnings fall 50% from the normalised level and stay there, the stock is reasonably priced.
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 8-10% (capital-heavy) / 10-12% (asset-light) | Floor for a decent business |
+| Company's own historical 11Y EPS CAGR | 13.4% | — | What it has actually delivered |
+| Company's own historical 5Y EPS CAGR | 9.6% | — | Recent track record |
+| Company's own historical 5Y OE CAGR | — | 38.0% (from very low FY20 base — not representative) | Buffett-pure benchmark |
+| Industry/sector average growth | ~8-10% | ~6-8% | Peer comparison |
+| Analyst consensus | n/a (no coverage) | — | Market expectations |
+
+**Traffic Light: 🟢 GREEN — Extreme Deep Value.** The implied growth needed to earn a 10% hurdle rate is NEGATIVE on BOTH EPS and OEPS measures. The market is not just being conservative — it is pricing this business as if it will shrink permanently. Even if earnings fall 50% from the normalised level and stay there, the stock is reasonably priced.
+
+> *Apply the Traffic Light to BOTH the EPS and OEPS implied growth. If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.* **In this case, both EPS and OEPS verdicts are 🟢 GREEN — the conclusion is robust.**
 
 ### Step 5: Verdict
 
-> *"At the current price of ₹170, to earn a 10% annualised return over 10 years assuming the market values the business at 15x PE at exit, the company needs to SHRINK EPS at 5.4% annually — i.e., earnings can DECLINE every year for a decade and you still make 10% p.a. The company has historically GROWN EPS at 13.4% CAGR. This implies the market is pricing in catastrophic, permanent decline. This is either a value trap or one of the deepest mispricings in the small-cap universe."*
+> *"At the current price of ₹170, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE (or 16x P/OE) at exit, the company needs to SHRINK EPS at 8.0% annually (and Owner Earnings at 5.8% annually) — i.e., earnings can DECLINE every year for a decade and you still make 10% p.a. The company has historically GROWN EPS at 13.4% CAGR. This implies the market is pricing in catastrophic, permanent decline. This is either a value trap or one of the deepest mispricings in the small-cap universe."*
+>
+> *Note: the EPS-based and Owner Earnings-based assessments are closely aligned (2.2 pp gap), indicating SIL has moderate capital intensity but the EPS metric is broadly reliable for this business. No material divergence between the two — both confirm extreme deep value.*
 
 ### Step 6: Asymmetric Upside Check — Is This a Fat Pitch?
 
@@ -689,7 +745,7 @@ The negatives that would give him pause: commodity business with no pricing powe
 |---|---|---|---|
 | Demonetisation | FY17 | Cash crunch, economic slowdown | Mild — paper demand temporarily dipped; recovered within a quarter |
 | GST Implementation | FY18 | Tax restructuring | Neutral — input tax credits improved but transition caused brief disruption |
-| COVID Lockdowns | FY21 | Factory shutdowns, demand collapse | Severe — OPM collapsed to 1%; recovered strongly by FY23 |
+| COVID Lockdowns | FY21 | Factory shutdowns, demand collapse | Severe — OPM (pre-D&A) collapsed to 1%; EBIT turned negative; recovered strongly by FY23 |
 | Environment norms tightening | Ongoing | Stricter emission standards | Manageable — SIL already has chemical recovery plants; smaller competitors face higher compliance costs (moat-strengthening) |
 
 **Buffett's Verdict on Regulatory Risk: (a) Manageable and Overpriced by the Market.** The regulatory risks facing paper manufacturing are real but manageable. Environmental compliance costs rise gradually, and SIL is already better positioned than many smaller mills due to its chemical recovery infrastructure. The bigger risk (digital substitution) is not regulatory but technological/social — and it operates on a multi-decade timeline.
