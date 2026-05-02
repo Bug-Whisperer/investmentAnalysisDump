@@ -32,16 +32,17 @@ Buffett: *"I try to invest in businesses that are so wonderful that an idiot can
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Revenue (₹ Cr) | 50.4 | 62.0 | 82.2 | 95.6 | 89.9 | 100.2 | 101.2 |
 | Revenue Growth YoY | — | 22.9% | 32.8% | 16.2% | -6.0% | 11.5% | — |
-| Operating Profit (₹ Cr) | 11.5 | 14.5 | 19.7 | 21.7 | 28.3 | 33.1 | 32.4 |
-| **OPM %** | 22.9% | 23.5% | 23.9% | **22.7%** | 31.5% | **33.1%** | 32.0% |
+| Operating Profit (pre-D&A) (₹ Cr) | 11.5 | 14.5 | 19.7 | 21.7 | 28.3 | 33.1 | 32.4 |
+| OPM % (pre-D&A) | 22.9% | 23.5% | 23.9% | **22.7%** | 31.5% | **33.1%** | 32.0% |
+| Depreciation & Amortisation (₹ Cr) | 0.89 | 1.06 | 2.04 | 1.29 | 1.30 | 1.38 | 1.74 |
+| **EBIT (₹ Cr)** | 10.65 | 13.48 | 17.64 | 20.42 | 27.02 | 31.75 | 30.66 |
+| **EBIT Margin %** | **21.1%** | 21.8% | 21.4% | 21.4% | 30.1% | **31.7%** | 30.3% |
 | Net Income (₹ Cr) | 8.4 | 10.3 | 13.6 | 16.4 | 21.4 | 25.5 | 25.9 |
 | Net Income Growth YoY | — | 23.2% | 31.9% | 20.5% | 30.2% | 19.3% | — |
 | **NPM %** | 16.6% | 16.7% | **16.5%** | 17.2% | 23.8% | **25.4%** | 25.6% |
 | EPS (₹, adjusted) | 2.26 | 2.78 | 3.67 | 4.42 | 5.75 | 6.87 | 6.97 |
 | EPS Growth YoY | — | 23.0% | 32.0% | 20.4% | 30.1% | 19.5% | — |
 | Shares Outstanding (Cr) | 3.71 | 3.71 | 3.71 | 3.71 | 3.71 | 3.71 | 3.71 |
-| EBITDA (₹ Cr) | 11.5 | 14.5 | 19.7 | 21.7 | 28.3 | 33.1 | 32.4 |
-| EBITDA Margin % | 22.9% | 23.5% | 23.9% | 22.7% | 31.5% | 33.1% | 32.0% |
 | Dividend Payout % | 0% | 0% | 0% | 0% | 9% | 7% | — |
 
 *Note: EPS for all years is retroactively adjusted to the current share base of 3.71 Cr shares (post-bonus restructuring in FY23). Pre-FY23, the company had a much smaller equity base (~₹0.25 Cr equity capital). Screener adjusts historical EPS to the post-bonus share count for comparability. Growth rates throughout this document are computed from unrounded source data and may differ marginally (±0.5pp) from growth rates derived from the rounded figures displayed in tables. Minor differences between NP growth and EPS growth (e.g., FY21: 23.2% vs 23.0%) arise from rounding of EPS to 2 decimal places.*
@@ -50,7 +51,9 @@ Buffett: *"I try to invest in businesses that are so wonderful that an idiot can
 
 Revenue has grown from ₹50 Cr (FY20) to ₹100 Cr (FY25) — a **5-year CAGR of 14.7%**. However, FY24 saw a **6% revenue decline** before recovering +11.5% in FY25. The 3-year revenue CAGR of 6.8% is modest.
 
-The story, however, is in **margin expansion**. OPM jumped from ~23% (FY20-FY23) to **31-33%** (FY24-FY25) — a structural 10 percentage point improvement. This drove **net profit CAGR of 24.9%** over 5 years, far outpacing revenue growth. NPM expanded from ~16-17% to 24-25%. Earnings growth is dramatically outpacing revenue growth — a hallmark of a business gaining operating leverage and pricing power.
+The story, however, is in **margin expansion**. OPM (pre-D&A) jumped from ~23% (FY20-FY23) to **31-33%** (FY24-FY25) — a structural 10 percentage point improvement. EBIT Margin (after D&A — the true operating profitability) mirrors this: from ~21% to ~31-32%, confirming the margin expansion is genuine and not masked by declining depreciation. This drove **net profit CAGR of 24.9%** over 5 years, far outpacing revenue growth. NPM expanded from ~16-17% to 24-25%. Earnings growth is dramatically outpacing revenue growth — a hallmark of a business gaining operating leverage and pricing power.
+
+> **Why EBIT, not EBITDA:** Screener.in's "Operating Profit" is EBITDA-equivalent (pre-D&A). This analysis tracks **EBIT** (Operating Profit minus D&A) as the true operating profit after accounting for capital consumed. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* For Kronox, the gap between OPM and EBIT Margin is generally small (~1-2pp, peaking at 2.5pp in FY22 when D&A was temporarily elevated) because D&A is minimal (₹1.4 Cr on ₹100 Cr revenue) — confirming this is an asset-light business where capital consumption is negligible.
 
 Buffett: *"The single most important decision in evaluating a business is pricing power."* The margin expansion from 23% to 33% suggests Kronox is either gaining pricing power, improving product mix toward higher-margin products, or achieving operating leverage — or all three. This is the signature of a business strengthening its competitive position.
 
@@ -67,7 +70,12 @@ Buffett: *"The single most important decision in evaluating a business is pricin
 | Shareholders' Equity (₹ Cr) | 23.2 | 27.2 | 40.2 | 45.0 | 66.0 | 90.0 |
 | Book Value Per Share (₹) | 6.27 | 7.34 | 10.85 | 12.13 | 17.79 | 24.26 |
 | Debt/Equity | 0.0 | 0.15 | 0.07 | 0.0 | 0.0 | 0.0 |
+| Debt/EBIT | 0.0 | 0.30 | 0.17 | 0.0 | 0.0 | 0.0 |
+| Net Debt/Owner Earnings | 0.0 | −0.39 | −0.22 | 0.0 | 0.0 | 0.0 |
+| Interest Coverage (EBIT/Interest) | N/M | N/M | N/M | N/M | N/M | N/M |
 | Goodwill (₹ Cr) | 0 | 0 | 0 | 0 | 0 | 0 |
+
+*Note: Net Debt/OE is computed as (Borrowings − Cash) / Owner Earnings. For FY21-22, the negative values correctly reflect the net cash position. For FY23-25, Borrowings = 0 and the ratio shows 0.0 — however, the company holds surplus cash from strong FCF generation (₹5-28 Cr annually over FY23-FY25). The true net debt position is negative (net cash) for all years since FY23; the 0.0 values reflect absence of borrowings only, not absence of cash. Interest Coverage is not meaningful (N/M) as the company has negligible interest expense.*
 
 **Financial Fortress Assessment:**
 
@@ -118,7 +126,8 @@ Buffett: *"Owner Earnings represent the true economic earnings of a business —
 | ROCE % | N/A | N/A | 46.6 | 49.8 | 43.1 | 38.9 |
 | ROE % (avg equity) | — | 40.9 | 40.3 | 38.5 | 38.5 | 32.7 |
 | Debt/Equity | 0.0 | 0.15 | 0.07 | 0.0 | 0.0 | 0.0 |
-| OPM % | 22.9% | 23.5% | 23.9% | 22.7% | 31.5% | 33.1% |
+| OPM % (pre-D&A, Screener) | 22.9% | 23.5% | 23.9% | 22.7% | 31.5% | 33.1% |
+| **EBIT Margin %** | 21.1% | 21.8% | 21.4% | 21.4% | 30.1% | 31.7% |
 | NPM % | 16.6% | 16.7% | 16.5% | 17.2% | 23.8% | 25.4% |
 | Debtor Days | 110 | 90 | 114 | 71 | 72 | 72 |
 | Inventory Days | 70 | 58 | 58 | 61 | 74 | 46 |
@@ -138,9 +147,11 @@ Buffett: *"Owner Earnings represent the true economic earnings of a business —
 | Positive Free Cash Flow | Positive | ₹28 Cr (FY25) | ✅ |
 | Promoter/Insider holding | Aligned | 74.21% | ✅ Very High |
 | Dividend payout | Paying | ~8% avg (started FY24) | ⚠️ Low but just started |
-| OPM stability | Stable | 23-33% (expanding) | ✅ Improving |
+| EBIT Margin stability | Stable | 21-32% (expanding) | ✅ Improving |
 | Moat / Pricing Power | Identifiable | Switching costs + certifications | ✅ |
 | Earnings yield | Reasonable | 5.4% | ✅ |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **11 of 11 criteria pass or are acceptable.** This is a high-quality business by any Buffett standard. ROCE of 43-50% in FY22-FY24, moderating to 38.9% in FY25 as the expanded asset base is not yet fully utilised. Debt-free balance sheet, strong promoter alignment, and margins that are expanding rather than compressing — the ratios reveal a business with a widening moat and growing pricing power.
 
@@ -151,7 +162,10 @@ Buffett: *"Owner Earnings represent the true economic earnings of a business —
 | Metric | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Sales (₹ Cr) | 21.47 | 25.95 | 21.02 | 20.71 | 22.18 | 25.19 | 24.86 | 24.01 | 26.13 | 24.29 | 25.53 | 25.27 |
-| OPM % | 18.6% | 32.8% | 27.9% | 29.4% | 35.4% | 32.6% | 35.4% | 34.8% | 29.7% | 32.8% | 33.9% | 31.8% |
+| OPM % (pre-D&A) | 18.6% | 32.8% | 27.9% | 29.4% | 35.4% | 32.6% | 35.4% | 34.8% | 29.7% | 32.8% | 33.9% | 31.8% |
+| Depreciation (₹ Cr) | 0.30 | 0.32 | 0.38 | 0.30 | 0.29 | 0.33 | 0.34 | 0.36 | 0.35 | 0.40 | 0.47 | 0.52 |
+| **EBIT (₹ Cr)** | 3.69 | 8.20 | 5.48 | 5.78 | 7.56 | 7.88 | 8.46 | 8.00 | 7.40 | 7.57 | 8.18 | 7.51 |
+| **EBIT Margin %** | 17.2% | 31.6% | 26.1% | 27.9% | 34.1% | 31.3% | 34.0% | 33.3% | 28.3% | 31.2% | 32.0% | 29.7% |
 | Net Profit (₹ Cr) | 2.44 | 6.38 | 4.35 | 4.74 | 5.88 | 6.15 | 6.47 | 6.53 | 6.32 | 6.28 | 6.68 | 6.59 |
 | EPS (₹) | 0.66 | 1.72 | 1.17 | 1.28 | 1.58 | 1.66 | 1.74 | 1.76 | 1.70 | 1.69 | 1.80 | 1.78 |
 
@@ -159,7 +173,7 @@ Buffett: *"Owner Earnings represent the true economic earnings of a business —
 
 1. **Revenue Trajectory:** Quarterly revenue has stabilised in the ₹24-26 Cr range over the last 8 quarters, with mild seasonality (Q1/Jun quarters tend to be slightly higher). The business is **cruising** at ~₹100 Cr annualised revenue.
 
-2. **Margin Trend:** OPM has structurally shifted upward from the 18-29% range (FY23 quarters) to 30-35% (FY25-H1FY26 quarters). This appears to be a permanent improvement in product mix and pricing power, not a one-time event.
+2. **Margin Trend:** OPM (pre-D&A) has structurally shifted upward from the 18-29% range (FY23 quarters) to 30-35% (FY25-H1FY26 quarters). EBIT Margin (after D&A) mirrors this shift closely: from 17-28% to 28-34%. The gap between OPM and EBIT Margin is generally small (1-2pp, though it reached 2.5pp in FY22 when D&A spiked), confirming D&A is not growing faster than operating profits — there is no hidden capital intensity eating into profitability. If OPM were stable but EBIT Margin were compressing, it would signal rising capital consumption masked by EBITDA — but Kronox shows no such pattern. The margin expansion is genuine across both metrics.
 
 3. **Normalised Quarterly EPS Run-Rate:** The last 4 quarters show EPS of ₹1.70, ₹1.69, ₹1.80, ₹1.78 — remarkably stable. Annualised normalised EPS = **₹6.97**, which is the true current earnings power.
 
@@ -262,17 +276,17 @@ Buffett: *"We are looking for the absence of change to protect ways that are alr
 
 **Profit Scalability:**
 
-| Year | Revenue (₹ Cr) | Rev Growth | Op Profit (₹ Cr) | OP Growth | Incremental Op Margin |
-| --- | --- | --- | --- | --- | --- |
-| FY21 | 62.0 | 22.9% | 14.5 | 26.0% | 26.0% |
-| FY22 | 82.2 | 32.8% | 19.7 | 35.4% | 25.3% |
-| FY23 | 95.6 | 16.2% | 21.7 | 10.3% | 15.2% |
-| FY24 | 89.9 | -6.0% | 28.3 | 30.4% | -115.6% |
-| FY25 | 100.2 | 11.5% | 33.1 | 17.0% | 46.6% |
+| Year | Revenue (₹ Cr) | Rev Growth | EBIT (₹ Cr) | EBIT Growth | EBIT Margin | Incremental EBIT Margin |
+| --- | --- | --- | --- | --- | --- | --- |
+| FY21 | 62.0 | 22.9% | 13.48 | 26.6% | 21.8% | 24.5% |
+| FY22 | 82.2 | 32.8% | 17.64 | 30.9% | 21.4% | 20.5% |
+| FY23 | 95.6 | 16.2% | 20.42 | 15.8% | 21.4% | 20.9% |
+| FY24 | 89.9 | -6.0% | 27.02 | 32.3% | 30.1% | -115.4% |
+| FY25 | 100.2 | 11.5% | 31.75 | 17.5% | 31.7% | 45.8% |
 
-*Note: Growth rates and incremental margins are computed from unrounded source data (e.g., revenue ₹82.25 Cr not ₹82.2 Cr) and may differ marginally from values derived from the rounded figures displayed above.*
+*Note: Incremental EBIT Margin = Change in EBIT / Change in Revenue. This is computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). A business that grows revenue while D&A is rising faster (due to heavy capex) will show improving pre-D&A margins but DECLINING EBIT margins. For Kronox, the gap between incremental OPM and incremental EBIT margin is negligible — confirming the scaling is genuine and not being eaten by rising capital consumption. Growth rates and incremental margins are computed from unrounded source data.*
 
-**Key Insight:** FY24 stands out — revenue DECLINED 6% but operating profit GREW 30%. The table correctly shows −115.6% incremental margin (a positive ₹6.6 Cr OP change divided by a negative ₹5.7 Cr revenue change). The negative sign is a mathematical artifact of the formula when the denominator is negative — the economic reality is the opposite of what the sign suggests: this is a powerful demonstration of pricing power and mix improvement, where the company grew profits despite lower volumes. FY25 delivered 46.6% incremental margin on ₹10.3 Cr of revenue growth — well above the current 33% margin. The business is **scaling beautifully** from a profit perspective.
+**Key Insight:** FY24 stands out — revenue DECLINED 6% but EBIT GREW 32%. The table correctly shows −115.4% incremental EBIT margin (a positive ₹6.6 Cr EBIT change divided by a negative ₹5.7 Cr revenue change). The negative sign is a mathematical artifact of the formula when the denominator is negative — the economic reality is the opposite of what the sign suggests: this is a powerful demonstration of pricing power and mix improvement, where the company grew profits despite lower volumes. FY25 delivered 45.8% incremental EBIT margin on ₹10.3 Cr of revenue growth — well above the current 31.7% EBIT margin. The business is **scaling beautifully** from a profit perspective.
 
 ### Part B: Scaling Runway
 
@@ -350,12 +364,16 @@ Buffett: *"In looking for people to hire, look for three qualities: integrity, i
 
 | Metric | Current/TTM | FY25 | FY24 | FY23 |
 | --- | --- | --- | --- | --- |
+| **P/Owner Earnings** (primary Buffett-pure multiple) | 18.5x | 18.8x | 22.4x | 29.2x |
 | PE Ratio | 18.5x | 18.8x | 22.4x | 29.2x |
 | P/B Ratio | 4.74x (Sep25 BVPS) | 5.3x | 7.3x | 10.6x |
-| EV/EBITDA | 14.8x | 14.5x | — | — |
+| EV/EBIT | 15.6x | 15.1x | 17.7x | 23.4x |
 | P/S Ratio | 4.73x | 4.8x | — | — |
 | Earnings Yield | 5.4% | — | — | — |
+| **Owner Earnings Yield (OEPS / CMP)** | 5.4% | — | — | — |
 | FCF Yield | 5.8% (FY25 FCF) | — | — | — |
+
+*Note: For Kronox, P/Owner Earnings ≈ PE because Owner Earnings ≈ Net Income (D&A ≈ Maintenance CapEx, cancelling out). The two multiples would diverge significantly for capital-heavy businesses where maintenance CapEx exceeds D&A. EV/EBIT is included for comparability with institutional analysis but is not a Buffett-pure metric — Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets.*
 
 **Historical Comparison:** Kronox listed only in June 2024 at ₹136/share. It traded up to ₹207 and currently sits at ₹129. The stock has limited trading history for historical multiple comparison. At IPO, it was valued at ~23x trailing earnings; it now trades at ~18.5x — a meaningful de-rating.
 
@@ -389,8 +407,12 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | --- | --- |
 | CMP | ₹129.0 |
 | TTM EPS (Normalised) | ₹6.97 |
+| **Owner Earnings Per Share (OEPS)** | ₹6.97 |
 | Current PE | 18.5x |
+| **Current P/OE (Buffett-pure multiple)** | 18.5x |
 | Shares Outstanding | 3.71 Cr |
+
+*Note: OEPS = Owner Earnings (₹25.87 Cr TTM) / Diluted Shares (3.71 Cr) = ₹6.97. For Kronox, OEPS ≈ EPS because Owner Earnings ≈ Net Income (negligible SBC, D&A ≈ Maintenance CapEx). For capital-heavy or high-SBC companies, OEPS < EPS and the P/OE multiple would be higher than PE — revealing the true cost of ownership that PE conceals.*
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -426,18 +448,50 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | 10 Years | 6.7% | 11.6% | 16.4% |
 | 15 Years | 7.8% | 12.7% | 17.6% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading for capital-heavy or high-SBC companies. Owner Earnings strips out the noise — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. For Kronox, OEPS ≈ EPS (asset-light, no SBC), so this step serves as a confirmation rather than a correction. For capital-hungry businesses, this step would reveal a much higher growth hurdle than EPS suggests.
+
+**At Terminal P/OE = Market Average (18x)**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+| --- | --- | --- | --- |
+| 5 Years | 10.6% OEPS CAGR | 15.6% | 20.7% |
+| 10 Years | 10.3% OEPS CAGR | 15.3% | 20.3% |
+| 15 Years | 10.2% OEPS CAGR | 15.2% | 20.2% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal Market Avg PE/P(OE) | 10-Year, 10% Return |
+| --- | --- | --- |
+| Implied EPS CAGR (Step 3, Terminal PE 20x) | 9.2% | |
+| Implied OEPS CAGR (Step 3B, Terminal P/OE 18x) | 10.3% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **1.1 pp** | |
+
+**Interpretation:** The gap of **1.1 pp is ≤ 2 pp** → This is an **asset-light business where EPS closely tracks true economic earnings**. The standard EPS-based Reverse DCF is reliable for Kronox. The slightly higher OEPS CAGR reflects the lower terminal P/OE multiple (18x vs 20x PE), not a divergence in underlying economics. For a capital-heavy business like a steel company, this gap would be 5-10+ pp — signalling that EPS-based analysis dangerously overstates the attractiveness.
+
+Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."* The same insight applies to EPS vs. Owner Earnings: for capital-heavy businesses, EPS overstates real earnings. For Kronox, the two converge — confirming the business is genuinely asset-light.
+
+---
+
 ### Reality Check
 
-| Benchmark | EPS CAGR |
-| --- | --- |
-| India nominal GDP growth | 10-12% |
-| Company's 5Y EPS CAGR | 24.9% |
-| Company's 3Y PAT CAGR | 23.2% |
-| Industry average growth | 12-18% |
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+| --- | --- | --- | --- |
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| Company's 5Y EPS CAGR | 24.9% | 24.9% | What it has actually delivered |
+| Company's 3Y PAT CAGR | 23.2% | 23.2% | Recent track record |
+| Company's Owner Earnings CAGR | — | 24.9% (= NP CAGR, since OE ≈ NI) | Buffett-pure benchmark |
+| Industry average growth | 12-18% | 12-18% | Peer comparison |
+| Analyst consensus | N/A (no coverage) | — | Market expectations |
 
 **Verdict: 🟢 GREEN — Reasonable Price**
 
-At ₹129.0, to earn a 15% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at **14.1% CAGR**. The company has historically grown EPS at **24.9% CAGR** over 5 years. The market is pricing in growth that is **well below the historical track record**. This is a reasonable to attractive price.
+At ₹129.0, to earn a 15% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at **14.1% CAGR** (and Owner Earnings at **15.3% CAGR** assuming 18x terminal P/OE). The company has historically grown both EPS and Owner Earnings at **24.9% CAGR** over 5 years. The market is pricing in growth that is **well below the historical track record**. This is a reasonable to attractive price.
+
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. For Kronox, both verdicts are 🟢 GREEN — the 1.1 pp gap confirms this is an asset-light business where the EPS verdict is reliable. Always defer to the OEPS-based verdict for the final Buffett-pure assessment; in this case, both agree.
+
+*Note: The EPS-based assessment and the Owner Earnings assessment are effectively identical for Kronox, confirming the business is asset-light and EPS is reliable. For capital-heavy companies, the OEPS verdict would be more cautious — and that would be the one to trust.*
 
 Even at a pessimistic 15x terminal PE, a 10% return requires only ~12% EPS CAGR over 10 years — comfortably below what this company has demonstrated.
 
@@ -561,7 +615,7 @@ With a small capital base, Buffett would say: a 2-3% position is too small to mo
 
 | Risk | Severity | Probability | Mitigation |
 | --- | --- | --- | --- |
-| Raw material price volatility | Medium | Medium | Specialty chemicals can pass through costs; 33% OPM provides buffer |
+| Raw material price volatility | Medium | Medium | Specialty chemicals can pass through costs; 32% EBIT margin provides buffer |
 | Customer concentration | Medium | Medium | 625+ customers over 5 years; no single customer dominates |
 | Regulatory changes (pharma/food) | Medium | Low | Certifications are a moat; regulatory tightening helps incumbents |
 | Key man risk (3 promoters) | High | Low | All three involved since inception; deep institutional knowledge |
@@ -602,7 +656,7 @@ With a small capital base, Buffett would say: a 2-3% position is too small to mo
 | Margin of Safety | 5 | CMP (₹129) is slightly above conservative IV (₹124.85, MOS = −3.3%) but 37.6% below base IV (₹206.59). Safety margin exists only against the base/optimistic scenarios, not the conservative case — hence a middling score. |
 | Growth Runway | 8 | Tiny player in massive market; Unit IV + 122 products in pipeline |
 | Scalability | 7.8 | Incremental margins above current; asset-light model scales well (see Section 11) |
-| **Buffett Verdict** | | **Small-Cap Quality Compounder at Fair-to-Attractive Price.** A debt-free, 30%+ ROE specialty chemical micro-cap with 74% promoter holding, expanding margins (23%→33% OPM), and a massive scaling runway. At ₹129.0 (18.5x PE), the stock is in the Fair Value zone — not a screaming bargain, but a wonderful small business at a reasonable price. Buffett (with small capital) would BUY and hold for book value compounding, adding aggressively on any meaningful dip below ₹110. |
+| **Buffett Verdict** | | **Small-Cap Quality Compounder at Fair-to-Attractive Price.** A debt-free, 30%+ ROE specialty chemical micro-cap with 74% promoter holding, expanding margins (21%→32% EBIT margin), and a massive scaling runway. At ₹129.0 (18.5x PE / 18.5x P/OE), the stock is in the Fair Value zone — not a screaming bargain, but a wonderful small business at a reasonable price. Buffett (with small capital) would BUY and hold for book value compounding, adding aggressively on any meaningful dip below ₹110. |
 | **Buy Zone** | | **Fair Value / Hold** (₹129.0 is at the lower end of ₹125-207 range) |
 | **Overall Recommendation** | | **BUY on dips below ₹110-115; HOLD at current levels; ACCUMULATE below ₹100** |
 
