@@ -36,10 +36,12 @@ This is a **control transition** — new promoter, new chairman (Parth Jindal), 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 2,332 | 2,442 | 2,640 | 2,572 | 2,719 | 2,918 | **2,662** | **2,421** | 3,149 | 3,802 | 3,962 | **4,091** |
 | Revenue Growth YoY (%) | — | 4.7 | 8.1 | -2.6 | 5.7 | 7.3 | **-8.8** | **-9.1** | **30.1** | 20.7 | 4.2 | 3.3 |
-| Operating Profit (EBITDA) | **192** | 261 | 260 | 329 | 300 | 342 | 370 | 343 | 434 | 526 | 633 | **642** |
-| OPM (%) | **8.2** | 10.7 | 9.8 | 12.8 | 11.0 | 11.7 | 13.9 | 14.2 | 13.8 | 13.8 | **16.0** | 15.7 |
+| Operating Profit (pre-D&A) | **192** | 261 | 260 | 329 | 300 | 342 | 370 | 343 | 434 | 526 | 633 | **642** |
+| OPM % (pre-D&A) | **8.2** | 10.7 | 9.8 | 12.8 | 11.0 | 11.7 | 13.9 | 14.2 | 13.8 | 13.8 | **16.0** | 15.7 |
+| Depreciation & Amortisation | 44 | 53 | 54 | 54 | 58 | 65 | 79 | 76 | 76 | 82 | 82 | 89 |
+| **EBIT** | **148** | 208 | 206 | 275 | 242 | 277 | 291 | 267 | 358 | 444 | **551** | **553** |
+| **EBIT Margin (%)** | **6.3** | 8.5 | 7.8 | 10.7 | 8.9 | 9.5 | 10.9 | 11.0 | 11.4 | 11.7 | **13.9** | 13.5 |
 | Other Income | 57 | 68 | 110 | 65 | **240** | 43 | 41 | **21** | 23 | 26 | 35 | 27 |
-| Depreciation | 44 | 53 | 54 | 54 | 58 | 65 | 79 | 76 | 76 | 82 | 82 | 89 |
 | Interest | 2 | 2 | 2 | 3 | 4 | 4 | 9 | 10 | **14** | 14 | 12 | 10 |
 | PBT | 203 | 275 | 314 | 337 | **478** | 316 | 323 | **278** | 367 | 456 | **573** | 570 |
 | Tax Rate (%) | 26 | 32 | 32 | 27 | **16** | **33** | 27 | 25 | 21 | 26 | 26 | 25 |
@@ -51,7 +53,7 @@ This is a **control transition** — new promoter, new chairman (Parth Jindal), 
 | Shares Out (Cr) | 4.66 | 4.66 | 4.66 | 4.66 | 4.67 | 4.55 | 4.55 | 4.56 | 4.55 | 4.55 | 4.56 | 4.56 |
 | Shares Change YoY (%) | — | 0.0 | 0.0 | 0.0 | 0.0 | -2.5 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 
-*Note: EBITDA = Screener's Operating Profit per framework convention; EBITDA Margin equals OPM.*
+*Note: Screener.in's "Operating Profit" is pre-D&A (EBITDA-equivalent). EBIT = Operating Profit minus D&A. Per Buffett/Munger philosophy, EBIT — not EBITDA — is the true operating profit after capital consumption. Munger: "I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"*
 
 **Compounded Growth (from Screener):** Sales 10Y CAGR: 5%, 5Y CAGR: 9%. Profit 10Y CAGR: 11%, 5Y CAGR: 13%.
 
@@ -59,7 +61,7 @@ This is a **control transition** — new promoter, new chairman (Parth Jindal), 
 
 Revenue growth has been modest — 5% CAGR over 10 years, reflecting the company's conservative approach under AkzoNobel ownership. The decorative paints market in India grew faster (~12-14% during this period), meaning Akzo Nobel was **losing market share** to more aggressive competitors (Asian Paints, Berger). FY20 and FY21 saw COVID-related declines, with a sharp recovery in FY22-23.
 
-The real story is **margin expansion.** OPM expanded from 8.2% in FY14 to 15.7% in FY25 — nearly doubling. This was driven by raw material cost optimisation, premiumisation of the product mix, and operating leverage. NPM improved from 6.4% to 10.5%. Earnings growth (11% CAGR) meaningfully outpaced revenue growth (5%), confirming improving profitability.
+The real story is **margin expansion.** OPM (pre-D&A) expanded from 8.2% in FY14 to 15.7% in FY25. More importantly, **EBIT Margin** (the true operating profit after capital consumption) expanded from 6.3% to 13.5% — more than doubling. This was driven by raw material cost optimisation, premiumisation of the product mix, and operating leverage. NPM improved from 6.4% to 10.5%. Earnings growth (11% CAGR) meaningfully outpaced revenue growth (5%), confirming improving profitability.
 
 FY18 is an outlier — the company booked ₹240 Cr of other income (likely investment gains/divestments) and had a low 16% tax rate, inflating NP to ₹401 Cr. Stripping this out, the underlying earnings growth is smoother.
 
@@ -85,14 +87,16 @@ FY18 is an outlier — the company booked ₹240 Cr of other income (likely inve
 | CWIP | 31 | 12 | 9 | 23 | 27 | 17 | 16 | 16 | 42 | 73 | 119 | 67 |
 | Investments | 629 | 394 | 600 | 336 | 573 | 377 | 84 | 0 | 0 | 0 | 0 | 0 |
 | Debt/Equity | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.05 | 0.05 | 0.06 | 0.05 | 0.05 | 0.05 |
-| Debt/EBITDA | 0.00 | 0.00 | 0.01 | 0.01 | 0.01 | 0.01 | 0.17 | 0.19 | 0.16 | 0.13 | 0.09 | 0.10 |
+| Debt/EBIT | 0.00 | 0.00 | 0.01 | 0.01 | 0.01 | 0.01 | 0.22 | 0.24 | 0.20 | 0.16 | 0.11 | 0.11 |
+| Net Debt/Owner Earnings | 0.00 | 0.00 | 0.01 | 0.01 | 0.01 | 0.01 | 0.22 | 0.24 | 0.21 | 0.20 | 0.14 | 0.14 |
+| Interest Coverage (EBIT/Int) | 74x | 104x | 103x | 92x | 61x | 69x | 32x | 27x | 26x | 32x | 46x | 55x |
 | BVPS (₹) | 182 | 198 | 250 | 216 | 276 | 249 | 272 | 282 | 276 | 289 | 292 | 292 |
 
 **Note:** Post-divestment gain (Sep 2025), BVPS jumped to ~₹495 due to exceptional income flowing into reserves.
 
 **Financial Fortress Assessment:**
 
-The balance sheet is a **fortress by any standard.** The company is virtually **debt-free** — the ₹62 Cr "borrowings" in FY25 are entirely lease liabilities (Ind-AS 116), not actual financial debt. There is zero bank debt, zero bonds, zero term loans. Debt/Equity is 0.05x; Debt/EBITDA is 0.10x. Interest coverage is 64x.
+The balance sheet is a **fortress by any standard.** The company is virtually **debt-free** — the ₹62 Cr "borrowings" in FY25 are entirely lease liabilities (Ind-AS 116), not actual financial debt. There is zero bank debt, zero bonds, zero term loans. Debt/Equity is 0.05x; Debt/EBIT is 0.11x; Net Debt/Owner Earnings is 0.14x. Interest coverage (EBIT/Interest) is 55x.
 
 Buffett: *"We will reject interesting opportunities rather than over-leverage our balance sheet."* Akzo Nobel India/JSW Dulux has followed this principle throughout its history. This is a company that generates cash, pays it out as dividends, and carries no financial risk from leverage.
 
@@ -139,13 +143,14 @@ Buffett: *"Owner earnings are the relevant item for valuation purposes... We def
 | ROE (%) | 17.7 | 21.0 | 20.5 | 22.7 | **34.9** | 17.4 | 20.0 | **16.5** | 22.8 | 26.0 | **32.3** | **32.3** |
 | ROIC (%) | 16.8 | 20.1 | 17.0 | 22.1 | 21.9 | 18.8 | 22.1 | **19.4** | 25.6 | 28.7 | **33.7** | **34.6** |
 | Debt/Equity | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.05 | 0.05 | 0.06 | 0.05 | 0.05 | 0.05 |
-| OPM (%) | **8.2** | 10.7 | 9.8 | 12.8 | 11.0 | 11.7 | 13.9 | 14.2 | 13.8 | 13.8 | **16.0** | 15.7 |
+| OPM % (pre-D&A, Screener) | **8.2** | 10.7 | 9.8 | 12.8 | 11.0 | 11.7 | 13.9 | 14.2 | 13.8 | 13.8 | **16.0** | 15.7 |
+| **EBIT Margin %** | **6.3** | 8.5 | 7.8 | 10.7 | 8.9 | 9.5 | 10.9 | 11.0 | 11.4 | 11.7 | **13.9** | 13.5 |
 | NPM (%) | **6.4** | 7.6 | 8.1 | 9.6 | 14.7 | 7.2 | 8.9 | 8.6 | 9.2 | 8.8 | **10.8** | 10.5 |
 | Debtor Days | 48 | **42** | 49 | **58** | 53 | 56 | 54 | **62** | 57 | 53 | 53 | 52 |
 | Inventory Days | 86 | 95 | 89 | 107 | **84** | 85 | 107 | **135** | 129 | 95 | 100 | 95 |
 | Cash Conv. Cycle | 4 | 17 | **-7** | 1 | **-22** | 9 | -10 | **-23** | **22** | 11 | -10 | -3 |
 | Working Cap Days | **-62** | -12 | -59 | 15 | 10 | 20 | -3 | -14 | 14 | 4 | -2 | 22 |
-| Interest Coverage | **96x** | 131x | 130x | 110x | 75x | 86x | **41x** | **34x** | 31x | 38x | 53x | 64x |
+| Interest Coverage (EBIT) | **74x** | 104x | 103x | 92x | 61x | 69x | 32x | **27x** | 26x | 32x | 46x | 55x |
 | Div. Payout (%) | **233** | 50 | **153** | 42 | **26** | 52 | **27** | 110 | 118 | 88 | 80 | 106 |
 
 ### Part B: Buffett's Quality Checklist
@@ -160,14 +165,16 @@ Buffett: *"Owner earnings are the relevant item for valuation purposes... We def
 | Positive Free Cash Flow | Positive | Positive in all 12 years | ✅ Pass |
 | Promoter/Insider holding | Aligned | 61.2% (JSW Paints — new promoter) | ✅ Pass |
 | Dividend payout | Paying | 91.5% avg (3Y) | ✅ Pass (very generous) |
-| OPM stability | Stable/Expanding | 8.2% → 15.7% (expanding over 12Y) | ✅ Pass |
+| EBIT Margin stability | Stable/Expanding | 6.3% → 13.5% (expanding over 12Y) | ✅ Pass |
 | Moat / Pricing Power | Identifiable | Dulux brand + 22,000 dealer network | ✅ Pass |
 | ROIC > 15% | >15% | 23.4% (12Y avg) | ✅ Pass |
 | Earnings yield | Reasonable | 3.2% (on FY25 EPS); 2.5% (post-div) | ⚠️ Thin |
 
 **11 of 12 criteria pass.** The only caution is modest top-line growth (5% 10Y CAGR, which is below the industry average of ~12%) and thin earnings yield at the current price. This is a **high-quality business at a full valuation.**
 
-The ratio trends reveal a company with an **expanding moat** — ROCE doubling from 16% to 42% over 12 years, OPM nearly doubling from 8% to 16%, and ROE climbing from 18% to 32%. These are the fingerprints of pricing power, premiumisation, and operating leverage. The moat is widening, not eroding.
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
+The ratio trends reveal a company with an **expanding moat** — ROCE doubling from 16% to 42% over 12 years, EBIT Margin more than doubling from 6.3% to 13.5%, and ROE climbing from 18% to 32%. These are the fingerprints of pricing power, premiumisation, and operating leverage. The moat is widening, not eroding.
 
 ---
 
@@ -178,17 +185,21 @@ The ratio trends reveal a company with an **expanding moat** — ROCE doubling f
 | Metric | Dec'22 | Mar'23 | Jun'23 | Sep'23 | Dec'23 | Mar'24 | Jun'24 | Sep'24 | Dec'24 | Mar'25 | Jun'25 | Sep'25* | Dec'25* |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 987 | 951 | 999 | 956 | 1,033 | 973 | 1,036 | 982 | **1,050** | 1,022 | 995 | **835** | 908 |
-| OPM (%) | 14 | 16 | 16 | 15 | 16 | **17** | 16 | 15 | 16 | 16 | 14 | **13** | 15 |
+| Operating Profit (pre-D&A) | 138 | 152 | 160 | 143 | 165 | **165** | 166 | 147 | 168 | 164 | 139 | **109** | 136 |
+| OPM % (pre-D&A) | 14 | 16 | 16 | 15 | 16 | **17** | 16 | 15 | 16 | 16 | 14 | **13** | 15 |
+| Depreciation (est.) | ~20 | ~21 | ~21 | ~21 | ~21 | ~21 | ~22 | ~22 | ~22 | ~22 | ~22 | ~18 | ~19 |
+| **EBIT** | 118 | 131 | 139 | 122 | 144 | **144** | 144 | 125 | 146 | 142 | **117** | **91** | 117 |
+| **EBIT Margin %** | 12.0 | 13.8 | 13.9 | 12.8 | 13.9 | **14.8** | 13.9 | 12.7 | 13.9 | 13.9 | **11.8** | **10.9** | 12.9 |
 | Net Profit | 97 | 95 | 110 | 94 | 114 | 109 | 115 | 98 | 109 | 108 | 91 | **1,683** | 74 |
 | EPS (₹) | 21.39 | 20.95 | 24.13 | 20.68 | 24.99 | 23.89 | 25.16 | 21.50 | 23.85 | 23.61 | 19.98 | **369.50** | 16.27 |
 
-*Sep'25 includes exceptional gain of ~₹1,874 Cr from divestment; Dec'25 reflects reduced business post-divestment.*
+*Sep'25 includes exceptional gain of ~₹1,874 Cr from divestment; Dec'25 reflects reduced business post-divestment. Quarterly D&A is estimated from annual figures.*
 
 **Key Observations:**
 
 **Revenue Trajectory:** Pre-divestment quarterly sales were stable at ₹950-1,050 Cr. Post-divestment (Sep'25 onwards), sales dropped to ₹835-908 Cr, reflecting the loss of the Powder Coatings and IRC revenue stream. (Note: Jun'25 / Q1 FY26 is still pre-divestment as the slump sale occurred in Q2 FY26.) On a comparable basis (excluding divested segments), Q3 FY26 revenue decline was only ~1% YoY — suggesting the core decorative/industrial business is stable.
 
-**Margin Trend:** OPM has been remarkably stable at 14-17% over all reported quarters. Even post-divestment, Q3 FY26 OPM of 15% is in line with the historical range. No margin deterioration visible.
+**Margin Trend:** OPM (pre-D&A) has been remarkably stable at 14-17% over all reported quarters. EBIT Margin tells a more nuanced story — it ranged from 10.9% to 14.8% across all quarters. Post-divestment quarters (Sep'25 at 10.9%, Dec'25 at 12.9%) show that EBIT margins are stabilising — Sep'25 was depressed by the divestment transition, while Dec'25 recovered to near-historical levels. Jun'25 (pre-divestment) was a seasonally weak quarter at 11.8%. Importantly, both OPM and EBIT Margin track closely for this company (gap is just D&A, which is stable at ~₹20-22 Cr/quarter), confirming that rising capital intensity is NOT an issue here — this is a genuinely asset-light business where EBITDA and EBIT tell a similar story.
 
 **Normalised Quarterly EPS Run-Rate:** Stripping out the Sep'25 exceptional gain, only one clean post-divestment quarter is available — Dec'25 at ₹16.27. Annualising from a single quarter gives ~₹65, but Dec is typically the weakest quarter for paints (post-festive lull). A more conservative estimate using the pre-divestment Jun'25 run-rate adjusted for the ~15% revenue lost from divested segments gives **annualised post-divestment EPS of ~₹68-72.** This is ~23-28% lower than the FY25 full-year EPS of ₹94.11, reflecting the lost earnings from divested segments.
 
@@ -310,15 +321,17 @@ Buffett: *"We do not get enthused about change, with a few exceptions, as a way 
 
 **Profit Scalability Table:**
 
-| Year | Revenue | Rev Growth | Op. Profit | OP Growth | Net Profit | NP Growth | Incr. Op. Margin |
-|---|---|---|---|---|---|---|---|
-| FY21 | 2,421 | -9.1% | 343 | -7.3% | 208 | -12.2% | — |
-| FY22 | 3,149 | 30.1% | 434 | 26.5% | 290 | 39.4% | 12.5% |
-| FY23 | 3,802 | 20.7% | 526 | 21.2% | 335 | 15.5% | 14.1% |
-| FY24 | 3,962 | 4.2% | 633 | 20.4% | 427 | 27.5% | 66.9% |
-| FY25 | 4,091 | 3.3% | 642 | 1.4% | 429 | 0.5% | 7.0% |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Net Profit | NP Growth | Incr. EBIT Margin* |
+|---|---|---|---|---|---|---|---|---|
+| FY21 | 2,421 | -9.1% | 267 | — | 11.0% | 208 | -12.2% | — |
+| FY22 | 3,149 | 30.1% | 358 | 34.1% | 11.4% | 290 | 39.4% | 12.5% |
+| FY23 | 3,802 | 20.7% | 444 | 24.0% | 11.7% | 335 | 15.5% | 13.2% |
+| FY24 | 3,962 | 4.2% | 551 | 24.1% | 13.9% | 427 | 27.5% | 66.9% |
+| FY25 | 4,091 | 3.3% | 553 | 0.4% | 13.5% | 429 | 0.5% | 1.6% |
 
-FY24 stands out with an **incremental operating margin of 66.9%** — meaning each new rupee of revenue in FY24 generated ₹0.67 of operating profit, vs. the existing ~16% margin. This is elite-level operating leverage. FY25 showed fatigue with just 3.3% revenue growth.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (pre-D&A). For this asset-light paint business, Incremental EBIT Margin closely tracks Incremental Operating Margin — confirming that D&A is not eating into scaling benefits. For a capital-heavy business, you would see a divergence (high Incremental OPM but low Incremental EBIT Margin), signalling that scaling is illusory.*
+
+FY24 stands out with an **incremental EBIT margin of 66.9%** — meaning each new rupee of revenue in FY24 generated ₹0.67 of EBIT, vs. FY23's ~12% EBIT margin. This is elite-level operating leverage. FY25 showed fatigue with just 3.3% revenue growth and incremental EBIT margin collapsing to 1.6%.
 
 **Scaling Verdict:**
 
@@ -382,12 +395,16 @@ The 5.9% volume growth in Q3 FY26 (on a comparable basis post-divestment) is enc
 
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current |
 |---|---|---|---|---|---|---|---|
+| **P/Owner Earnings** (primary) | 27.0x | 37.5x | 29.2x | 28.2x | 27.0x | 29.1x | **29.2x** |
 | PE Ratio (approx) | 33x | 48x | 33x | 30x | 28x | 31x | 31x (FY25 EPS) / **40-43x (post-div EPS)** |
 | P/B Ratio | ~6.2x | ~7.8x | ~7.6x | ~7.6x | ~8.9x | ~10.0x | **5.9x (Sep'25 BVPS)** |
-| EV/EBITDA | ~12x | ~14x | ~12x | ~11x | ~11x | ~21x | ~21x |
+| EV/EBIT | 26.8x | 37.8x | 26.9x | 22.7x | 21.6x | 24.0x | **24.1x** |
 | Earnings Yield | 3.1% | 2.1% | 3.0% | 3.3% | 3.6% | 3.2% | 2.5% (post-div) |
+| **Owner Earnings Yield** | 3.7% | 2.7% | 3.4% | 3.5% | 3.7% | 3.4% | **3.4%** |
 | FCF Yield | 4.3% | 2.6% | 0.6% | 3.8% | 3.7% | 1.5% | — |
 | Dividend Yield | 0.8% | 5.1% | 5.6% | 4.0% | 3.1% | 3.4% | 3.4% |
+
+> **Why EV/EBIT instead of EV/EBITDA:** Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't real. EV/EBIT accounts for capital consumption. **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates.
 
 **Historical Comparison:** The stock has historically traded in a PE range of 28-48x, with a median around 32x. The current PE of ~31x (on FY25 EPS) is at the lower end of the historical range. However, on post-divestment earnings (~₹68-72 annualised), the PE is ~40-43x — at the HIGH end of the range.
 
@@ -422,7 +439,7 @@ The stock has **never traded cheaply** — even at the COVID low, PE was ~25x. T
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = ₹2,915 | Normalised EPS = ₹94.11 (FY25) | Current PE = 31x
+**Inputs:** CMP = ₹2,915 | Normalised EPS = ₹94.11 (FY25) | Current PE = 31x | **Owner Earnings Per Share (OEPS) = ₹99.67** (Section 8) | **Current P/OE = 29.2x**
 
 **Implied EPS CAGR Needed to Achieve Target Returns:**
 
@@ -434,18 +451,46 @@ The stock has **never traded cheaply** — even at the COVID low, PE was ~25x. T
 
 **Reality Check:**
 
-| Benchmark | EPS CAGR |
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** EPS can be misleading — a company can grow EPS by underinvesting in maintenance, financial engineering, or aggressive accounting. Owner Earnings strips this out — it measures TRUE economic cash after maintaining productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense."* The same insight applies to EPS vs. Owner Earnings.
+
+**Using Terminal P/OE = 17x (Market Average):**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 22.6% OEPS CAGR needed | 28.2% | 33.8% |
+| 10 Years | 16.1% OEPS CAGR needed | 21.4% | 26.7% |
+| 15 Years | 14.1% OEPS CAGR needed | 19.2% | 24.4% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth (10Y, 10% Return):**
+
+| Metric | Value |
 |---|---|
-| Company's 10Y historical EPS CAGR | ~11% |
-| Company's 5Y historical EPS CAGR | ~13% |
-| India nominal GDP growth | 10-12% |
-| Indian paints industry growth | ~9-12% |
+| Implied EPS CAGR (at 20x terminal PE) | 14.9% |
+| Implied OEPS CAGR (at 17x terminal P/OE) | 16.1% |
+| **Gap (OEPS CAGR − EPS CAGR)** | **1.2 pp** |
+
+**Interpretation:** Gap of 1.2 pp is ≤ 2 pp → **This is an asset-light business where EPS closely tracks true economic earnings.** The standard EPS-based Reverse DCF is reliable for JSW Dulux. Owner Earnings actually exceed Net Income (OE ₹454 Cr > NI ₹429 Cr) because D&A exceeds maintenance CapEx — a hallmark of a capital-light franchise. The small gap arises from using a lower terminal P/OE (17x) vs. terminal PE (20x), not from capital intensity.
+
+### Step 4: Reality Check — Is the Implied Growth Reasonable?
+
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| Company's own historical 5Y EPS CAGR | ~13% | ~9.6% | What it has actually delivered |
+| Company's own historical 10Y EPS CAGR | ~11% | ~8.3% | Longer-term track record |
+| Company's own historical OE CAGR (10Y) | — | 8.0% | Buffett-pure benchmark |
+| Indian paints industry growth | ~9-12% | ~9-12% | Peer comparison |
+| Analyst consensus forward estimates | ~12-15% | — | Market expectations |
 
 **Traffic Light Verdict:**
 
-At the current price, to earn a **10% annualised return over 10 years** assuming the stock de-rates to a market-average 20x PE at exit, the company needs to grow EPS at **14.9% CAGR.** The company has historically grown EPS at 11% (10Y) to 13% (5Y). The implied growth is ~1.15-1.35x the historical CAGR.
+At the current price, to earn a **10% annualised return over 10 years** assuming the stock de-rates to a market-average 20x PE at exit, the company needs to grow EPS at **14.9% CAGR** (and Owner Earnings at **16.1% CAGR** at a 17x terminal P/OE). The company has historically grown EPS at 11% (10Y) to 13% (5Y) and Owner Earnings at ~8-10% CAGR. The implied growth is ~1.15-1.35x the historical EPS CAGR.
 
-**🟡 YELLOW — Fair but Optimistic.** You need the business to do slightly better than its track record. Under JSW's more aggressive ownership, this is plausible but not certain.
+> Apply the Traffic Light to BOTH EPS and OEPS implied growth. If the EPS verdict is 🟢 but the OEPS verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic. For JSW Dulux, the gap is only 1.2 pp (asset-light), so both verdicts converge. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
+
+**🟡 YELLOW — Fair but Optimistic.** You need the business to do slightly better than its track record. Under JSW's more aggressive ownership, this is plausible but not certain. Note: the EPS-based assessment and the Owner Earnings assessment converge here, confirming this is a genuinely asset-light business where EPS is reliable.
 
 If the market sustains the current ~35x PE (which requires the company to remain a premium compounder), then 10% returns need only 8.7% EPS CAGR — comfortably within historical range. **🟢 GREEN on this scenario.**
 
