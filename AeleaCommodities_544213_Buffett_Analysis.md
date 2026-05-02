@@ -563,35 +563,39 @@ This means the market is pricing in near-optimistic-case growth — which would 
 
 ### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading: a company can grow EPS by underinvesting in maintenance, through financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. If the EPS-based Reverse DCF says "the market needs 20% EPS growth" but the OEPS-based version says "the business needs 26% Owner Earnings growth," that's a critical red flag: the gap means the business is capital-intensive and EPS is flattering.
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading: a company can grow EPS by underinvesting in maintenance, through financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. The Divergence Test below reveals whether EPS is a reliable proxy for true economic earnings or whether capital intensity creates a hidden gap.
 >
 > Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense. In truth, depreciation is a particularly unattractive expense because the cash outlay it represents has already been made."* The same insight applies to EPS vs. Owner Earnings.
 
-**Inputs:** OEPS = ₹2.46, Terminal P/OE = 16x (Market Average — slightly lower than PE scenarios since Owner Earnings < Net Income for capital-intensive businesses)
+**Inputs:** OEPS = ₹2.46, Terminal P/OE = 24x
 
-#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 16x)
+> *Terminal P/OE derivation:* When OE < NI, OEPS < EPS, so P/OE is mechanically *higher* than PE (confirmed by current multiples: P/OE 61.8x > PE 51.5x). The correct terminal P/OE preserves this ratio: Terminal P/OE = Terminal PE × (EPS / OEPS) = 20 × (2.95 / 2.46) ≈ 24x. Setting Terminal P/OE *lower* than Terminal PE would be an error — it would double-count the capital intensity penalty (once in the lower OEPS denominator, again in the lower multiple).
+
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 24x)
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 44.1% | 50.7% | 57.2% |
-| 10 Years | 25.9% | 31.6% | 37.4% |
-| 15 Years | 20.4% | 25.8% | 31.3% |
+| 5 Years | 32.9% | 38.9% | 45.0% |
+| 10 Years | 20.9% | 26.4% | 31.9% |
+| 15 Years | 17.2% | 22.5% | 27.8% |
 
 #### The Divergence Test — EPS vs. OEPS Implied Growth
 
-| Metric | At Terminal Market Avg PE (20x) / P/OE (16x) | 10-Year, 10% Return |
+| Metric | At Terminal Market Avg PE (20x) / P/OE (24x) | 10-Year, 10% Return |
 |---|---|---|
 | Implied EPS CAGR (from Step 3) | 20.9% | |
-| Implied OEPS CAGR (from Step 3B) | 25.9% | |
-| **Gap (OEPS CAGR − EPS CAGR)** | **+5.0 pp** | |
+| Implied OEPS CAGR (from Step 3B) | 20.9% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **~0.0 pp** | |
 
-**Interpretation:** The 5.0 pp gap places Aelea at the boundary of the "moderate capital intensity" (2-5 pp) and "capital-hungry" (>5 pp) categories. This is expected — cashew processing requires physical plant, CWIP, and working capital. The standard EPS-based Reverse DCF understates the true growth hurdle by approximately 5 percentage points. The OEPS-based figure of 25.9% is the more honest benchmark: the business must grow its true economic earnings at ~26% for a decade just to earn a 10% return. For a commodity processor, this is effectively impossible.
+**Interpretation:** The ~0 pp gap places Aelea firmly in the "asset-light equivalent" category (≤ 2 pp). This may seem surprising for a cashew processor with physical plant, but the explanation is straightforward: Aelea's maintenance capex (estimated ~₹3 Cr) is only modestly below D&A (₹1-2 Cr), so Owner Earnings (₹5 Cr) is close to Net Income (₹6 Cr) — an OE/NI ratio of 83%. The capital intensity penalty is already fully captured in the lower OEPS figure itself (₹2.46 vs. ₹2.95 EPS). There is no *additional* hidden hurdle from using EPS instead of OEPS; the standard EPS-based Reverse DCF is reliable for this company at its current scale.
+
+> *Note: If Aelea's maintenance capex grows faster than earnings as the 140 MT/day facility ages and CNSL oil production comes online, the OE/NI ratio could deteriorate and a gap would emerge in future analyses. This test should be re-run annually.*
 
 ### Reality Check
 
 | Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
 |---|---|---|---|
-| India nominal GDP growth | 10-12% | 8-10% (capital-intensive) | Floor |
+| India nominal GDP growth | 10-12% | 10-12% (≈ EPS for this company) | Floor |
 | Company's historical 3Y EPS CAGR | ~37% Sales (off low base) | — | Off trough, misleading |
 | Company's historical 5Y Profit CAGR | -18% (Screener) | — | Actual track record |
 | Company's historical OE CAGR (FY21-FY24) | — | ~5.3% | Buffett-pure benchmark |
@@ -601,13 +605,13 @@ This means the market is pricing in near-optimistic-case growth — which would 
 
 **Traffic Light Assessment:**
 
-To earn a 10% return over 10 years at 20x terminal PE, the company needs 20.9% EPS CAGR. At 16x terminal P/OE, it needs 25.9% OEPS CAGR. The company's historical Owner Earnings CAGR is just ~5.3% (FY21-FY24). **🔴 RED — Crazy price territory on BOTH EPS and OEPS measures.**
+To earn a 10% return over 10 years at 20x terminal PE, the company needs 20.9% EPS CAGR (and an equivalent 20.9% OEPS CAGR — the Divergence Test confirms EPS is reliable here). The company's historical Owner Earnings CAGR is just ~5.3% (FY21-FY24). **🔴 RED — Crazy price territory.**
 
-> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. In this case, both are 🔴 RED — the EPS-based assessment is already dire, and the OEPS-based assessment is even worse (+5 pp harder). The capital intensity of cashew processing means EPS understates the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. In this case, both are 🔴 RED and identical at 20.9%, confirming that the EPS-based assessment is reliable and not being flattered by capital intensity. The 20.9% required growth is ~4x the company's demonstrated OE CAGR of 5.3%.
 
-**Verdict:** *"At the current price of ₹152, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 20.9% CAGR (and Owner Earnings at 25.9% CAGR). The company has historically grown Owner Earnings at ~5.3% CAGR. This implies the market is pricing in heroic growth that is 5x the company's demonstrated Owner Earnings track record."*
+**Verdict:** *"At the current price of ₹152, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 20.9% CAGR (and Owner Earnings at an equivalent 20.9% CAGR — the Divergence Test confirms no capital-intensity penalty). The company has historically grown Owner Earnings at ~5.3% CAGR. This implies the market is pricing in growth that is ~4x the company's demonstrated Owner Earnings track record."*
 
-*Note: the EPS-based assessment requires 20.9% growth while the Owner Earnings assessment requires 25.9% — a 5.0 pp gap indicating capital intensity is masking the true hurdle. The OEPS-based verdict is the honest Buffett-pure assessment.*
+*Note: the EPS and OEPS assessments converge at 20.9%, confirming this is not a case where capital intensity masks the true hurdle. The standard EPS-based Reverse DCF is reliable for Aelea.*
 
 ### Asymmetric Upside Check
 

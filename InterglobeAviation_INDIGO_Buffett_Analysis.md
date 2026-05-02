@@ -46,11 +46,13 @@ IndiGo is a **capacity-constrained commodity business with some cost advantages.
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 16,140 | 18,580 | 23,021 | 28,497 | 35,756 | **14,641** | 25,931 | 54,446 | **68,904** | 80,803 | 84,676 |
 | Revenue Growth YoY | 15.9% | 15.1% | 23.9% | 23.8% | 25.5% | **-59.1%** | 77.1% | **110.0%** | 26.6% | 17.3% | 11% |
-| Operating Profit (EBITDA) | 3,164 | 2,219 | 3,030 | **-151** | 4,069 | 2 | 558 | 6,521 | **16,331** | 18,050 | 17,185 |
-| OPM % | **20%** | 12% | 13% | **-1%** | 11% | 0% | 2% | 12% | **24%** | 22% | 20% |
+| Operating Profit (pre-D&A) | 3,164 | 2,219 | 3,030 | **-151** | 4,069 | 2 | 558 | 6,521 | **16,331** | 18,050 | 17,185 |
+| OPM % (pre-D&A) | **20%** | 12% | 13% | **-1%** | 11% | 0% | 2% | 12% | **24%** | 22% | 20% |
+| Depreciation & Amortisation | 505 | 457 | 437 | 760 | 3,974 | 4,699 | 5,068 | 5,101 | 6,406 | **8,637** | 10,428 |
+| **EBIT** | **2,659** | 1,762 | 2,593 | **-911** | 95 | **-4,697** | -4,510 | 1,420 | **9,925** | 9,413 | 6,757 |
+| **EBIT Margin** | **16.5%** | 9.5% | 11.3% | **-3.2%** | 0.3% | **-32.1%** | -17.4% | 2.6% | **14.4%** | 11.6% | 8.0% |
 | Other Income | 515 | 789 | 947 | 1,325 | 1,531 | 1,036 | 725 | 1,431 | 2,326 | **3,307** | 2,642 |
 | Interest Expense | 350 | 406 | 413 | 563 | 1,902 | 2,170 | 2,386 | 3,168 | 4,208 | **5,133** | 5,818 |
-| Depreciation | 505 | 457 | 437 | 760 | 3,974 | 4,699 | 5,068 | 5,101 | 6,406 | **8,637** | 10,428 |
 | Net Profit | **1,986** | 1,659 | 2,242 | 156 | -248 | **-5,830** | -6,171 | -317 | **8,168** | 7,253 | 3,233 |
 | Net Profit Margin | **12.3%** | 8.9% | 9.7% | 0.5% | -0.7% | **-39.8%** | -23.8% | -0.6% | **11.9%** | 9.0% | 3.8% |
 | EPS (₹) | 55.1 | 45.9 | 58.3 | 4.1 | -6.4 | **-151.5** | -160.2 | -8.2 | **211.6** | 187.7 | 83.7 |
@@ -58,8 +60,9 @@ IndiGo is a **capacity-constrained commodity business with some cost advantages.
 
 **Notes:**
 - FY20 onwards: IndAS 116 implementation capitalised operating leases, inflating D&A and Interest while boosting Operating Profit. Pre-FY20 and post-FY20 margins are NOT directly comparable.
-- EBITDA = Screener's Operating Profit line (D&A sits below it per Screener convention). OPM % figures are rounded to whole numbers as sourced from Screener.
+- Screener's "Operating Profit" line is EBITDA-equivalent (pre-D&A). This analysis tracks it as "Operating Profit (pre-D&A)" but computes and tracks **EBIT** (Operating Profit minus D&A) as the true after-capital-charge operating profit. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* EBIT Margin is the relevant profitability metric; OPM % (pre-D&A) figures are rounded to whole numbers as sourced from Screener.
 - The massive interest expense (₹5,133 Cr in FY25) is primarily lease liability interest under IndAS 116, not traditional debt interest.
+- **EBIT Margin tells the real story:** FY25 OPM (pre-D&A) of 22% collapses to 11.6% EBIT Margin after deducting ₹8,637 Cr of D&A. The 10 pp gap reveals how capital-intensive (lease-intensive) IndiGo truly is — a fact that EBITDA-based analysis hides entirely.
 
 ### Trend Narrative
 
@@ -84,6 +87,9 @@ Buffett: *"When a management team with a reputation for brilliance tackles a bus
 | Shareholders' Equity | **2,723** | 3,779 | **7,077** | 6,944 | 5,863 | 71 | **-6,036** | -6,309 | 1,932 | **9,306** |
 | BVPS (₹) | 76 | 105 | **184** | 181 | 152 | 2 | **-157** | -163 | 50 | **241** |
 | Debt/Equity | 1.19 | 0.69 | **0.35** | 0.35 | 3.87 | 420.6 | Neg Eq | Neg Eq | 26.5 | **7.21** |
+| Debt/EBIT | 1.2x | 1.5x | **0.9x** | N/M | 239x | N/M | N/M | 31.6x | 5.2x | **7.1x** |
+| Interest Coverage (EBIT/Int.) | **7.6x** | 4.3x | 6.3x | **-1.6x** | 0.0x | -2.2x | -1.9x | 0.4x | 2.4x | **1.8x** |
+| Net Debt/Owner Earnings | 1.0x | N/M | **-1.9x** | N/M | 4.1x | N/M | N/M | 7.4x | 2.4x | **2.7x** |
 | Net Debt (Borr. - Inv.) | 2,259 | -1,117 | **-3,891** | -4,088 | 13,220 | 22,570 | 28,845 | 33,346 | 34,827 | **40,686** |
 
 ### Critical IndAS 116 Context
@@ -114,7 +120,7 @@ The balance sheet is paradoxically both weaker and stronger than it appears. Wea
 | Dividends Paid | 536 | 1,228 | 224 | 192 | 0 | 0 | 0 | 0 | 0 | 363 |
 | CFO / Operating Profit | 117% | 190% | 153% | N/M | 178% | N/M | 404% | 201% | 133% | 136% |
 
-*Note: CFO/Operating Profit ratios are sourced directly from Screener.in's pre-computed figures. The divergence from the EBITDA figures in Section 2 is material for pre-FY20 years (18-34 pp gap), likely because Screener's "Operating Profit" definition includes working capital adjustments or uses a different P&L line item. Post-IndAS 116 (FY20 onwards), the gap narrows to 2-3 pp. These ratios should be treated as Screener-sourced benchmarks rather than independently derivable from the P&L data in this document.*
+*Note: CFO/Operating Profit ratios are sourced directly from Screener.in's pre-computed figures. Screener's underlying "Operating Profit" definition for this ratio differs from the P&L Operating Profit (EBITDA) line shown in Section 2 — the divergence is material for pre-FY20 years (18-34 pp gap) but narrows to 2-3 pp post-IndAS 116 adoption. These ratios should be taken as Screener-sourced figures rather than independently derived from this document's P&L data.*
 
 *† FY17 CapEx shows as positive (₹376 Cr) because it is estimated as CFO minus Screener's FCF. In FY17, proceeds from investment redemptions/asset disposals likely exceeded gross capital expenditure, making Screener's reported FCF (₹4,158 Cr) exceed CFO (₹3,782 Cr). This does not represent a data error — it reflects net investment activity in that year.*
 
@@ -139,11 +145,12 @@ Buffett: *"Accounting is the language of business. If you don't understand it, y
 | ROCE % | **61** | 38 | 40 | **0** | 5 | -14 | -13 | 7 | **25** | 17 |
 | ROE % | **127** | 51 | 41 | 2 | -4 | **-197** | N/M | N/M | N/M | **129** |
 | Debt/Equity | 1.19 | 0.69 | **0.35** | 0.35 | 3.87 | **420.6** | Neg | Neg | 26.5 | 7.21 |
-| OPM % | **20** | 12 | 13 | **-1** | 11 | 0 | 2 | 12 | **24** | 22 |
+| OPM % (pre-D&A, Screener) | **20** | 12 | 13 | **-1** | 11 | 0 | 2 | 12 | **24** | 22 |
+| **EBIT Margin %** | **16.5** | 9.5 | 11.3 | **-3.2** | 0.3 | -32.1 | -17.4 | 2.6 | **14.4** | 11.6 |
 | NPM % | **12.3** | 8.9 | 9.7 | 0.5 | **-0.7** | **-39.8** | -23.8 | -0.6 | **11.9** | 9.0 |
 | Debtor Days | 4 | **3** | 4 | **5** | 3 | 5 | 5 | 3 | **3** | **3** |
 | Working Capital Days | -63 | -72 | -70 | -64 | -146 | **-415** | -287 | -141 | -144 | -123 |
-| Interest Coverage | 9.0x | 5.5x | **7.3x** | **-0.3x** | 2.1x | 0.0x | 0.2x | 2.1x | 3.9x | 3.5x |
+| Interest Coverage (Screener, pre-D&A) | 9.0x | 5.5x | **7.3x** | **-0.3x** | 2.1x | 0.0x | 0.2x | 2.1x | 3.9x | 3.5x |
 
 ### Part B: Buffett's Quality Checklist
 
@@ -157,9 +164,11 @@ Buffett: *"Accounting is the language of business. If you don't understand it, y
 | Positive Free Cash Flow | Positive | FY25: ₹22,846 Cr | ✅ Exceptional recent FCF |
 | Promoter/Insider holding | Aligned | 41.57% (declining from 68%) | ⚠️ Significant promoter selling |
 | Dividend payout | Paying | 5% in FY25 (first in 5 years) | ⚠️ Minimal |
-| OPM stability | Stable | Range: -1% to 24% | ❌ Highly unstable |
+| EBIT Margin stability | Stable | Range: -32% to 16.5% | ❌ Extreme volatility — D&A amplifies OPM swings |
 | Moat / Pricing Power | Identifiable | Cost advantage + scale + 64% share | ✅ Strongest in Indian aviation |
 | Earnings yield | Reasonable | FY25 EPS yield: 4.1% | ⚠️ Moderate |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 IndiGo passes Buffett's quality test on growth and competitive position, but **fails spectacularly on consistency.** The airline's earnings are wildly volatile — profits swing from +₹8,168 Cr to -₹6,171 Cr within a few years. This is fundamentally at odds with Buffett's preference for predictable compounders. The ratios reveal that IndiGo's moat is real (cost advantage, scale) but fragile — it can be destroyed overnight by fuel spikes, pandemics, or geopolitical events.
 
@@ -173,7 +182,11 @@ IndiGo passes Buffett's quality test on growth and competitive position, but **f
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 14,933 | 14,161 | 16,683 | 14,944 | 19,452 | 17,825 | 19,571 | 16,970 | 22,111 | 22,152 | 20,496 | 18,555 | **23,472** |
 | YoY Growth % | — | — | — | — | **30.3%** | 25.9% | 17.3% | 13.6% | 13.7% | 24.3% | 4.7% | 9.3% | 6.2% |
-| OPM % | 21% | 19% | **30%** | 15% | 26% | 22% | 26% | 10% | 23% | **27%** | 25% | **3%** | 23% |
+| Operating Profit (pre-D&A) | 3,114 | 2,748 | **4,968** | 2,196 | 5,144 | 3,984 | 5,146 | 1,618 | 5,160 | **6,082** | 5,205 | **545** | 5,353 |
+| OPM % (pre-D&A) | 21% | 19% | **30%** | 15% | 26% | 22% | 26% | 10% | 23% | **27%** | 25% | **3%** | 23% |
+| Depreciation | 1,342 | 1,352 | 1,404 | 1,545 | 1,660 | 1,796 | 1,866 | 2,078 | 2,215 | 2,477 | 2,553 | 2,629 | **2,768** |
+| **EBIT** | 1,772 | 1,396 | **3,564** | 651 | 3,484 | 2,188 | 3,280 | **-460** | 2,945 | **3,605** | 2,652 | **-2,084** | 2,585 |
+| **EBIT Margin %** | 11.9% | 9.9% | **21.4%** | 4.4% | 17.9% | 12.3% | 16.8% | **-2.7%** | 13.3% | **16.3%** | 12.9% | **-11.2%** | 11.0% |
 | Net Profit | 1,418 | 916 | **3,087** | 188 | 2,998 | 1,894 | 2,727 | **-989** | 2,442 | **3,073** | 2,161 | **-2,614** | 613 |
 | EPS (₹) | 36.79 | 23.76 | **80.07** | 4.87 | 77.69 | 49.07 | 70.64 | **-25.60** | 63.20 | **79.53** | 55.91 | **-67.62** | 15.85 |
 
@@ -181,7 +194,7 @@ IndiGo passes Buffett's quality test on growth and competitive position, but **f
 
 **1. Revenue Trajectory:** Revenue growth is decelerating — from 30%+ YoY in late FY24 to single digits in recent quarters (Jun25: +4.7%, Dec25: +6.2%). This reflects fleet expansion constraints due to FDTL (Flight Duty Time Limitation) norms, supply bottlenecks (Pratt & Whitney engine issues), and demand moderation from geopolitical headwinds (Middle East tensions impacting oil and international routes).
 
-**2. Margin Trend: Alarming seasonal volatility.** The Sep quarter is consistently weak (monsoon season, lower leisure travel), but Sep25 was catastrophic — OPM collapsed to just 3% with a net loss of ₹2,614 Cr. This was driven by surging ATF costs (Middle East conflict → oil spike), forex losses, and operational disruptions. The Dec25 quarter partially recovered to 23% OPM but with other income turning deeply negative (-₹403 Cr, likely forex/mark-to-market losses).
+**2. Margin Trend: Alarming seasonal volatility — and D&A amplification.** The Sep quarter is consistently weak (monsoon season, lower leisure travel), but Sep25 was catastrophic — OPM (pre-D&A) collapsed to just 3%, and **EBIT Margin plunged to -11.2%** with a net loss of ₹2,614 Cr. The gap between OPM and EBIT Margin is critical: Sep25 OPM of 3% (just barely positive) becomes deeply negative on an EBIT basis because depreciation (₹2,629 Cr) consumes the entire Operating Profit (₹545 Cr) and then some. This pattern — where rising D&A from fleet expansion turns a marginally profitable quarter into a loss-making one — is precisely the insight EBITDA-based analysis would miss. Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* The Dec25 quarter partially recovered to 11.0% EBIT Margin (vs. 23% OPM pre-D&A) — the persistent ~12 pp gap between OPM and EBIT Margin reflects IndiGo's growing capital intensity as the fleet scales.
 
 **3. Normalised Quarterly EPS Run-Rate:** Stripping out the loss quarters, IndiGo's "normal" quarterly EPS is approximately ₹60-80 in strong quarters and ₹15-55 in weak ones. Annualising the latest 4 quarters (Mar25 + Jun25 + Sep25 + Dec25): ₹79.53 + ₹55.91 + (-₹67.62) + ₹15.85 = **₹83.67 TTM EPS.** This is significantly depressed vs. FY25 full-year of ₹187.70 due to the geopolitical headwinds.
 
@@ -308,14 +321,16 @@ Buffett says: *"We're looking for the absence of change to protect ways that are
 
 ## 11. SCALABILITY CHECK — Can This Business Scale?
 
-### Part A: Profit Scalability (Incremental Operating Margin)
+### Part A: Profit Scalability (Incremental EBIT Margin)
 
-| Period | Revenue Chg | Op. Profit Chg | Incremental Margin | Current OPM |
+| Period | Revenue Chg | EBIT Chg | Incremental EBIT Margin | Current EBIT Margin |
 |---|---|---|---|---|
-| FY23→FY24 | +14,458 | +9,810 | **67.9%** | 24% |
-| FY24→FY25 | +11,899 | +1,719 | **14.4%** | 22% |
+| FY23→FY24 | +14,458 | +8,505 | **58.8%** | 14.4% |
+| FY24→FY25 | +11,899 | -512 | **-4.3%** | 11.6% |
 
-FY23→FY24 showed elite scaling — incremental margin of 68%, far above the 24% current OPM. This was IndiGo's sweet spot: post-COVID recovery, reduced competition, and operating leverage. FY24→FY25 reverted to 14.4% incremental margin — below the 22% current OPM, indicating scaling friction from rising costs (fuel, labour, fleet expansion costs).
+*Incremental EBIT Margin = Change in EBIT / Change in Revenue. This is computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). A business that grows revenue while D&A is rising faster (due to fleet expansion) will show improving pre-D&A margins but DECLINING EBIT margins — revealing that rising capital consumption is eating the scaling benefit.*
+
+FY23→FY24 showed elite scaling on an EBIT basis — incremental EBIT margin of 58.8%, 4x the current 14.4% EBIT margin. This was IndiGo's sweet spot: post-COVID recovery, reduced competition, and operating leverage overwhelming D&A growth. **FY24→FY25 tells a starkly different story:** incremental EBIT margin was **negative (-4.3%)** — meaning EBIT actually FELL despite ₹11,899 Cr of revenue growth. The culprit: D&A surged ₹2,231 Cr (+35%) as fleet expansion accelerated, consuming all of the ₹1,719 Cr improvement in Operating Profit (pre-D&A) and then some. This is the classic pattern that EBITDA-based analysis hides: pre-D&A incremental margin was a respectable 14.4%, but the true incremental EBIT margin was negative. Buffett's tooth fairy is very much present.
 
 ### Part B: Scaling Runway
 
@@ -382,22 +397,28 @@ IndiGo's operational metrics paint a picture of relentless expansion — fleet g
 
 | Metric | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current (TTM) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| **P/Owner Earnings** (primary) | ~22x | ~20x | ~25x | N/M | ~16x | N/M | N/M | ~20x | ~8x | **11.9x** | — |
 | PE Ratio | ~20x | ~28x | ~25x | N/M | N/M | N/M | N/M | N/M | ~23x | ~24x | **54.6x** |
 | P/B Ratio | ~14x | ~12x | ~8x | ~10x | ~10x | N/M | N/M | N/M | ~90x | **19.0x** | 19.0x |
-| EV/EBITDA | ~8x | ~12x | ~10x | N/M | ~10x | N/M | N/M | ~14x | ~10x | **12.0x** | — |
-| EV/EBITDAR | — | — | — | — | ~6x | ~20x | ~15x | ~9x | ~7x | **8.1x** | — |
+| EV/EBIT | ~20x | ~31x | ~22x | N/M | N/M | N/M | N/M | ~86x | ~13x | **23.1x** | — |
+| EV/EBITDA (= EBITDAR post-IndAS) | — | — | — | — | — | — | — | — | — | **12.0x** | — |
 | FCF Yield | — | — | 4.6% | 2.0% | 8.1% | N/M | 2.4% | 16.7% | ~12% | **12.9%** | — |
+| **Owner Earnings Yield** | — | — | — | — | — | — | — | — | ~9.3% | **8.4%**† | — |
 | Earnings Yield (FY25 EPS) | — | — | — | — | — | — | — | — | — | **4.1%** | **1.8% (TTM)** |
 
-*EV/EBITDAR derivation: EBITDAR (FY25) ≈ EBITDA ₹18,050 + D&A ₹8,637 = ₹26,687 Cr. EV = Market Cap ₹1,76,483 + Net Debt ₹40,686 = ₹2,17,169 Cr. EV/EBITDAR = 2,17,169 / 26,687 = 8.1x. Note: this approximation treats all D&A as lease-related (Right-of-Use asset depreciation); actual EBITDAR using only aircraft lease rentals would be marginally different.*
+*† P/Owner Earnings (11.9x) and Owner Earnings Yield (8.4%) use normalised Owner Earnings (avg FY24-FY25 = ₹14,826 Cr) rather than FY25-specific OE (₹15,280 Cr). FY25-specific P/OE = 11.5x, OE Yield = 8.7%. Normalised figures used for conservatism and mid-cycle representativeness.*
 
-**The Valuation Puzzle:** IndiGo looks expensive on P/E (54.6x TTM) and P/B (19.0x) but cheap on EV/EBITDAR (~8x) and FCF yield (~13%). The divergence is explained by:
+*EV/EBITDA note: Under IndAS 116, aircraft lease rentals are removed from operating expenses and reclassified as RoU asset depreciation + lease liability interest. This means post-IndAS 116 EBITDA already EXCLUDES lease costs — making it equivalent to pre-IndAS EBITDAR. Therefore, EV/EBITDA (₹2,17,169 Cr / ₹18,050 Cr = 12.0x) IS the correct EV/EBITDAR-equivalent metric for post-IndAS 116 comparisons. Adding D&A back to post-IndAS EBITDA would double-count and produce a meaningless figure.*
+
+**The Valuation Puzzle:** IndiGo looks expensive on P/E (54.6x TTM), P/B (19.0x), and EV/EBIT (23.1x) but cheap on **P/Owner Earnings (11.9x)** and Owner Earnings Yield (8.4%). EV/EBITDA of 12.0x (which equals EV/EBITDAR post-IndAS 116) is in the mid-range. The divergence is explained by:
 1. **TTM earnings are depressed** — the Sep25 loss quarter drags down TTM, making P/E look inflated
 2. **P/B is distorted** by the rebuilt-from-negative equity base
-3. **EV/EBITDAR is the RIGHT metric for airlines** — at 8x, IndiGo is trading at or below its historical median and below global LCC peers (Ryanair: 8-10x, Southwest: 6-8x)
-4. **FCF yield of 13% (on FY25 FCF)** is genuinely attractive — the company generated more free cash than its book value in a single year
+3. **P/Owner Earnings of 11.9x is the most honest Buffett-pure multiple** — it reflects that IndiGo's D&A (₹8,637 Cr) massively exceeds maintenance CapEx (₹610 Cr), meaning true economic earnings are far higher than reported net income. OEPS of ₹383.5 vs. EPS of ₹187.7 — Owner Earnings are 2x reported earnings.
+4. **EV/EBITDA of 12.0x** — for post-IndAS 116 airlines, this IS the EBITDAR-equivalent metric since EBITDA already excludes lease costs. At 12x, IndiGo is moderately valued relative to global LCC peers.
 
-**Historical Comparison:** IndiGo's 5Y median PE (on profitable years) is approximately 23-25x. The stock has traded at EV/EBITDAR of 6-10x through the cycle. At current EV/EBITDAR of ~8x, the valuation is within the historical range — neither screamingly cheap nor obviously expensive.
+> **Why EV/EBIT instead of EV/EBITDA:** Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* EV/EBIT accounts for the capital the business consumes before you get your return. **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from true economic earnings (NI + D&A - Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner.
+
+**Historical Comparison:** IndiGo's 5Y median PE (on profitable years) is approximately 23-25x. At current PE of 24.3x (on FY25 normalised EPS) and **P/Owner Earnings of just 11.9x**, the valuation is reasonable to attractive by the most appropriate metrics.
 
 ---
 
@@ -425,8 +446,9 @@ IndiGo's operational metrics paint a picture of relentless expansion — fleet g
 
 **Important Caveats:**
 1. DCF for airlines is inherently unreliable due to earnings volatility. A single bad year (fuel spike, pandemic) can destroy the terminal value assumptions.
-2. **Conservative methodology note:** Owner Earnings (Net Income + D&A - Maintenance CapEx) are *levered* cash flows — interest expense (including ~₹5,133 Cr of lease interest) is already deducted inside Net Income. Standard DCF practice would either (a) use unlevered cash flows and subtract debt, or (b) use levered cash flows and arrive at equity value directly without subtracting debt. This model does (b's cash flows) but (a's debt subtraction), which **double-penalises for lease costs and understates intrinsic value.** The IV/Share figures above should therefore be treated as a **conservative lower bound** — actual intrinsic value is likely higher.
-3. The "normalised" Owner Earnings of ₹14,826 Cr may be above mid-cycle. In a bad year, Owner Earnings can be negative.
+2. **Conservative methodology note:** Owner Earnings (Net Income + D&A − Maintenance CapEx) is a *levered* cash flow — it is computed after interest expense (₹5,133 Cr in FY25, mostly lease interest). Standard DCF practice would either (a) use unlevered cash flows and subtract net debt, or (b) use levered cash flows and treat the result as equity value directly without subtracting debt. This analysis subtracts net debt from levered cash flows, which double-penalises for lease costs and **understates intrinsic value.** The figures below are therefore a conservative lower bound — actual intrinsic values are likely higher. This errs on the side of caution, consistent with Buffett's preference for a wide margin of safety.
+3. Net Debt of ₹40,686 Cr is mostly IndAS 116 lease liabilities — which are real obligations but are also serviced by the interest expense already deducted within Owner Earnings (see point 2 above).
+4. The "normalised" Owner Earnings of ₹14,826 Cr may be above mid-cycle. In a bad year, Owner Earnings can be negative.
 
 Even with these caveats, the DCF suggests IndiGo offers significant upside from current levels under all three scenarios. The Conservative case alone implies 44% MOS — within Buffett's comfort zone.
 
@@ -441,6 +463,8 @@ Even with these caveats, the DCF suggests IndiGo offers significant upside from 
 | CMP | ₹4,565 |
 | Normalised EPS (FY25) | ₹187.70 |
 | Current PE (on FY25 EPS) | 24.3x |
+| **Owner Earnings Per Share (OEPS)** | **₹383.5** (Normalised OE ₹14,826 Cr / 38.66 Cr diluted shares) |
+| **Current P/OE (on OEPS)** | **11.9x** — the Buffett-pure valuation multiple |
 
 ### Implied EPS CAGR to Achieve Target Returns
 
@@ -460,17 +484,44 @@ Even with these caveats, the DCF suggests IndiGo offers significant upside from 
 | 10 Years | 8.5% | 13.4% | 18.3% |
 | 15 Years | 9.0% | 13.9% | 18.9% |
 
-### Reality Check
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-| Benchmark | Value |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| IndiGo 10Y Sales CAGR | ~19% |
-| IndiGo Historical EPS CAGR (FY18-FY25) | ~18% |
+> **Why this matters:** EPS can be misleading for IndiGo because massive D&A (₹8,637 Cr in FY25, mostly lease amortisation under IndAS 116) depresses net income well below true economic earnings. Owner Earnings (₹14,826 Cr normalised) are **2x** Net Income (₹7,253 Cr) — OEPS of ₹383.5 is 2x EPS of ₹187.7. The OEPS-based Reverse DCF tells you what REAL economic growth is needed.
 
-**Traffic Light:** At terminal PE of 20x, achieving 10% returns requires ~12% EPS CAGR over 10 years. IndiGo's sales have grown at ~19% CAGR over 10 years. Even with some margin compression, 12% EPS CAGR is **achievable.** 🟢 **GREEN — Reasonable price.** At the more generous 28x terminal PE, just 8.5% EPS CAGR is needed — easily achievable. The market is NOT demanding heroic assumptions at current prices.
+**Terminal P/OE = 16x** (Market Average for a capital-intensive airline — lower than PE because Owner Earnings > Net Income)
 
-**Verdict:** *"At ₹4,565, to earn 10% annualised return over 10 years assuming 20x exit PE, IndiGo needs 12.2% EPS CAGR. The company has delivered ~18-20% sales CAGR historically. This implies the market is pricing in reasonable growth — not heroic assumptions."*
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 3.7% OEPS CAGR needed | 8.4% | 13.1% |
+| 10 Years | 6.8% OEPS CAGR needed | 11.6% | 16.5% |
+| 15 Years | 7.9% OEPS CAGR needed | 12.8% | 17.7% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal PE 20x / P/OE 16x | 10-Year Hurdle (10% Return) |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 12.2% | |
+| Implied OEPS CAGR (from Step 3B) | 6.8% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **-5.4 pp** | |
+
+**Interpretation:** The gap is *negative* — OEPS CAGR required is 5.4 pp LOWER than EPS CAGR. This is unusual and reveals an important structural feature of IndiGo: **D&A massively exceeds maintenance CapEx** (₹8,637 Cr vs. ₹610 Cr), making Owner Earnings far higher than Net Income. The EPS-based Reverse DCF *overstates* the true growth hurdle. On a P/Owner Earnings basis, IndiGo needs just 6.8% economic earnings growth to deliver 10% returns over 10 years — a very modest bar for India's dominant airline in a high-growth market. This is the mirror image of a capital-hungry business: IndiGo's lease model means D&A is a huge accounting charge with minimal real cash cost (maintenance capex on leased aircraft is low), making true economic earnings much higher than reported earnings suggest.
+
+### Reality Check — Is the Implied Growth Reasonable?
+
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (IndiGo is near-asset-light in cash terms) | Floor |
+| IndiGo 10Y Sales CAGR | ~19% | ~19% | Revenue track record |
+| IndiGo Historical EPS CAGR (FY18-FY25) | ~18% | ~18% (similar — base period had comparable OE/NI) | Actual track record |
+| IndiGo Owner Earnings CAGR (FY23-FY25) | — | ~84% (from trough; not representative) | Trough-to-peak, ignore |
+
+**Traffic Light (EPS-based):** At terminal PE of 20x, achieving 10% returns requires ~12% EPS CAGR over 10 years. IndiGo's sales have grown at ~19% CAGR over 10 years. Even with some margin compression, 12% EPS CAGR is **achievable.** 🟢 **GREEN — Reasonable price.**
+
+**Traffic Light (OEPS-based, Buffett-pure):** At terminal P/OE of 16x, achieving 10% returns requires just ~6.8% OEPS CAGR — well below GDP growth. 🟢 **GREEN — Comfortably achievable.** The OEPS-based verdict is *more* favourable than the EPS-based verdict, confirming that IndiGo's capital structure (high D&A, low maintenance capex) makes it look worse on traditional earnings than it actually is on an economic earnings basis.
+
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. For IndiGo, both are GREEN, with the OEPS verdict more favourable. This is the opposite of a capital-hungry business where EBITDA flatters and Owner Earnings reveal the truth — here, Owner Earnings are *more generous* than reported earnings, confirming that the lease-heavy accounting depresses reported profits more than economic reality warrants.
+
+**Verdict:** *"At ₹4,565, to earn 10% annualised return over 10 years assuming 20x exit PE, IndiGo needs 12.2% EPS CAGR (and just 6.8% Owner Earnings CAGR at 16x terminal P/OE). The company has delivered ~18-19% sales CAGR historically. This implies the market is pricing in reasonable growth — not heroic assumptions. The Owner Earnings assessment is more favourable than the EPS assessment, indicating that IndiGo's lease accounting depresses reported earnings below true economic earning power."*
 
 ---
 
@@ -483,7 +534,7 @@ Even with these caveats, the DCF suggests IndiGo offers significant upside from 
 | Asset Floor (TBVPS) | ₹241 (FY25 BVPS) | ₹241 | -94.7% |
 | Trough Earnings | FY25 EPS ₹188 × 12x trough PE | ₹2,256 | -50.6% |
 | Conservative DCF | ₹8,107 (Section 15) | ₹8,107 | +77.6% (upside) |
-| Market Panic Floor | Historical trough EV/EBITDAR ~5x | ~₹3,000 | -34.3% |
+| Market Panic Floor | Trough PE ~16x on FY25 EPS (severe sentiment reset) | ~₹3,000 | -34.3% |
 
 The book value floor (₹241) is meaningless for an asset-light airline. The realistic downside is the **Market Panic Floor** of ~₹3,000 — a ~35% downside if oil spikes or another industry crisis hits.
 
@@ -527,25 +578,25 @@ But on a 3-5 year horizon using DCF base case:
 
 Current P/B of 19.0x at face value looks insane. But BVPS rebuilt from negative to ₹241 in just 2 years. If IndiGo earns ₹7,000+ Cr/year and retains 95%, BVPS will compound at 40-60% CAGR from the current low base — making the P/B compress rapidly even without price appreciation.
 
-**The right framework for IndiGo is EV/EBITDAR and P/E, not P/B.**
+**The right framework for IndiGo is P/Owner Earnings and P/E, not P/B.**
 
-At EV/EBITDAR of ~8x against a 10-year median of ~8-9x, IndiGo is **fairly valued to slightly cheap** by the most appropriate airline valuation metric.
+At P/Owner Earnings of just 11.9x (Owner Earnings Yield of 8.4%) and PE of 24.3x (on normalised FY25 EPS), IndiGo is **fairly valued to attractive** by the most appropriate metrics for this business.
 
-**Traffic Light:** 🟡 **YELLOW** — Fairly valued on EV/EBITDAR, expensive on P/B and TTM P/E, but cheap on normalised P/E and FCF yield. Not a table-pounding buy, but reasonable entry for long-term investors.
+**Traffic Light:** 🟡 **YELLOW** — Attractive on P/Owner Earnings (11.9x) and OE Yield (8.4%), moderate on EV/EBITDA (12.0x), expensive on P/B and TTM P/E. Reasonable entry for long-term investors.
 
 ---
 
 ## 18. BUY ZONE DEFINITION
 
-### Price Zone Framework (PE and EV/EBITDAR Anchored)
+### Price Zone Framework (PE and P/Owner Earnings Anchored)
 
-| Zone | PE Range (on FY25 EPS ₹188) | Price Range | EV/EBITDAR Implied | Rationale |
+| Zone | PE Range (on FY25 EPS ₹188) | Price Range | EV/EBITDA Implied | Rationale |
 |---|---|---|---|---|
-| **Deep Value / Strong Buy** | <15x | Below ₹2,800 | <5x | Crisis pricing; pandemic-level discount |
-| **Value / Buy** | 15x-22x | ₹2,800 - ₹4,130 | 5x-7x | Below fair value; attractive for long-term |
-| **Fair Value / Hold** | 22x-28x | ₹4,130 - ₹5,260 | 7x-9x | Fairly priced; hold for earnings growth |
-| **Fully Valued / Trim** | 28x-35x | ₹5,260 - ₹6,580 | 9x-11x | Above fair value; limited near-term upside |
-| **Overvalued / Sell** | >35x | Above ₹6,580 | >11x | Priced for perfection |
+| **Deep Value / Strong Buy** | <15x | Below ₹2,800 | <8x | Crisis pricing; pandemic-level discount |
+| **Value / Buy** | 15x-22x | ₹2,800 - ₹4,130 | 8x-11x | Below fair value; attractive for long-term |
+| **Fair Value / Hold** | 22x-28x | ₹4,130 - ₹5,260 | 11x-14x | Fairly priced; hold for earnings growth |
+| **Fully Valued / Trim** | 28x-35x | ₹5,260 - ₹6,580 | 14x-16x | Above fair value; limited near-term upside |
+| **Overvalued / Sell** | >35x | Above ₹6,580 | >16x | Priced for perfection |
 
 **Current Price ₹4,565 = 24.3x FY25 EPS → FAIR VALUE / HOLD zone** (lower end).
 
@@ -573,7 +624,7 @@ At EV/EBITDAR of ~8x against a 10-year median of ~8-9x, IndiGo is **fairly value
 | Trustworthy management | Bhatia has been excellent; CEO transition creates uncertainty | ⚠️ (Transition risk) |
 | Resistant to disruption | Airlines face fuel/regulatory/competitive disruption constantly | ❌ (Not resistant) |
 | Sustainable economics for 10+ years | India's aviation demand is secular; IndiGo's position is strong | ✅ (Likely) |
-| Price below intrinsic value | DCF suggests 44-72% MOS; EV/EBITDAR is reasonable | ✅ (Reasonable) |
+| Price below intrinsic value | DCF suggests 44-72% MOS; P/Owner Earnings 11.9x is attractive | ✅ (Reasonable) |
 
 ### Honest Verdict
 
@@ -636,7 +687,7 @@ The regulatory risk is **(a) Manageable and Fairly Priced.** India's aviation re
 | **Moat Durability** | 6 | Cost leadership + scale + regulatory barriers; narrow but widening as competitors exit |
 | **Financial Health** | 7 | Strong cash generation; negative working capital; IndAS 116 distorts leverage metrics |
 | **Management Quality** | 7 | Bhatia is excellent; CEO transition a concern; promoter selling is negative |
-| **Valuation** | 7 | Fair on EV/EBITDAR (~8x); cheap on FCF yield (~13%); expensive on P/B (19x) and TTM P/E (55x) |
+| **Valuation** | 7 | Attractive on P/Owner Earnings (11.9x) and OE Yield (8.4%); moderate on EV/EBITDA (12.0x); expensive on P/B (19x) and TTM P/E (55x) |
 | **Margin of Safety** | 6 | DCF suggests 44% MOS (conservative); but airline DCF is inherently unreliable |
 | **Scalability** | 7 | India's aviation TAM is massive; IndiGo is best-positioned to capture growth |
 | **Earnings Predictability** | 3 | The single biggest weakness — earnings are highly volatile and unpredictable |
