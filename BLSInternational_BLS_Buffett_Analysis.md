@@ -39,8 +39,11 @@ BLS is a **government-contracted toll collector** on global human mobility. The 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 450 | 505 | 635 | 789 | 804 | 786 | **478** | 850 | 1,516 | 1,677 | 2,193 | **2,877** |
 | Revenue Growth YoY | — | 12.2% | 25.7% | 24.3% | 1.9% | -2.2% | **-39.2%** | **77.8%** | 78.4% | 10.6% | 30.8% | 48% |
-| Operating Profit (EBITDA) | 30 | 38 | 84 | 160 | 111 | 86 | **41** | 108 | 223 | 351 | **649** | 789 |
-| OPM % | **6.7%** | 7.5% | 13.2% | 20.3% | 13.8% | 10.9% | 8.6% | 12.7% | 14.7% | 20.9% | **29.6%** | 27.4% |
+| Operating Profit (pre-D&A) | 30 | 38 | 84 | 160 | 111 | 86 | **41** | 108 | 223 | 351 | **649** | 789 |
+| OPM % (pre-D&A) | **6.7%** | 7.5% | 13.2% | 20.3% | 13.8% | 10.9% | 8.6% | 12.7% | 14.7% | 20.9% | **29.6%** | 27.4% |
+| Depreciation & Amortisation | 5 | 6 | 26 | 40 | 19 | 12 | 9 | 7 | 18 | 31 | **77** | ~89 |
+| **EBIT** | 25 | 32 | 58 | 120 | 92 | 74 | **32** | 101 | 205 | 320 | **572** | ~700 |
+| **EBIT Margin** | **5.6%** | 6.3% | 9.1% | 15.2% | 11.4% | 9.4% | 6.7% | 11.9% | 13.5% | 19.1% | **26.1%** | ~24.3% |
 | Net Income | 24 | 31 | 50 | 97 | 105 | 52 | **50** | 111 | 204 | 326 | **540** | 682 |
 | NP Growth YoY | — | 29.2% | 61.3% | **94.0%** | 8.2% | **-50.5%** | -3.8% | 122.0% | 83.8% | 59.8% | 65.6% | 42% |
 | NPM % | **5.3%** | 6.1% | 7.9% | 12.3% | 13.1% | 6.6% | 10.5% | 13.1% | 13.5% | 19.4% | **24.6%** | 23.7% |
@@ -51,7 +54,9 @@ BLS is a **government-contracted toll collector** on global human mobility. The 
 
 *Note: Shares jumped from 10 Cr to ~41 Cr in FY23 due to two successive 1:1 bonus issues (May 2022 and December 2022), resulting in a ~4x total multiplier (10 → 20 → ~40 Cr, plus minor ESOP issuances). All EPS figures from Screener are on the current share base. Net Income shown is consolidated (including minority interest in BLS E-Services), while EPS is based on profit attributable to parent shareholders — hence NI ÷ Shares will exceed the stated EPS, with the gap widening as the subsidiary grows (gap: ₹0.35 in FY24, ₹0.83 in FY25).*
 
-**Trend Narrative:** This is an extraordinary margin expansion story. OPM has expanded from 6.7% in FY15 to 29.6% in FY25 — a 4.4x improvement. The business was severely impacted by COVID in FY20-FY21 (travel ban = no visa applications), but the recovery has been spectacular. Post-COVID, the business has not merely recovered — it has structurally re-rated to much higher margins, driven by the iDATA acquisition (55-60% EBITDA margins), increased value-added services, and operating leverage from a larger application base. Net profit growth has consistently outpaced revenue growth in recent years, confirming genuine margin expansion rather than just top-line momentum.
+**Trend Narrative:** This is an extraordinary margin expansion story. OPM (pre-D&A) has expanded from 6.7% in FY15 to 29.6% in FY25 — a 4.4x improvement. More importantly, EBIT Margin (the true after-capital-charge operating profitability) has expanded from 5.6% to 26.1%, confirming that the margin expansion is genuine and not being consumed by rising depreciation. The business was severely impacted by COVID in FY20-FY21 (travel ban = no visa applications), but the recovery has been spectacular. Post-COVID, the business has not merely recovered — it has structurally re-rated to much higher margins, driven by the iDATA acquisition (55-60% margins), increased value-added services, and operating leverage from a larger application base. Net profit growth has consistently outpaced revenue growth in recent years, confirming genuine margin expansion rather than just top-line momentum.
+
+> *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* — Warren Buffett (2000 Letter). This is why we track EBIT separately from Screener's Operating Profit (which is pre-D&A, i.e. EBITDA-equivalent). For BLS, the gap between OPM (29.6%) and EBIT Margin (26.1%) is only 3.5pp, reflecting the asset-light nature of the business — depreciation is a small fraction of operating profit. For capital-heavy businesses, this gap can be 10-15pp, which EBITDA-based analysis dangerously hides.
 
 The only red flag is the low effective tax rate (8-13% in recent years vs. the statutory 25%), which benefits from overseas subsidiaries in low-tax jurisdictions. This is a legitimate structural advantage, not a one-time item.
 
@@ -67,14 +72,16 @@ The only red flag is the low effective tax rate (8-13% in recent years vs. the s
 | Shareholders' Equity | 83 | 118 | 165 | 260 | 372 | 428 | 460 | 570 | 803 | 1,207 | **1,731** |
 | Total Borrowings | 7 | 6 | 95 | 108 | 38 | **1** | 1 | 11 | 7 | 31 | **359** |
 | D/E Ratio | 0.08 | 0.05 | 0.58 | 0.42 | 0.10 | **0.00** | 0.00 | 0.02 | 0.01 | 0.03 | **0.21** |
-| Debt/EBITDA | 0.23 | 0.16 | 1.13 | 0.68 | 0.34 | **0.01** | 0.02 | 0.10 | 0.03 | 0.09 | 0.55 |
+| Debt/EBIT | 0.28 | 0.19 | 1.64 | 0.90 | 0.41 | **0.01** | 0.03 | 0.11 | 0.03 | 0.10 | 0.63 |
+| Net Debt/Owner Earnings | 0.29 | 0.19 | 1.40 | 0.85 | 0.33 | **0.02** | 0.02 | 0.10 | 0.03 | 0.09 | 0.61 |
+| Interest Coverage (EBIT/Interest) | 12.5x | 32.0x | 8.3x | 9.2x | 7.1x | 18.5x | 16.0x | **50.5x** | **68.3x** | 40.0x | 12.2x |
 | BVPS (₹) | 8.30 | 11.80 | 16.50 | 26.00 | 37.20 | 42.80 | 46.00 | 57.00 | 19.59 | 29.44 | **42.22** |
 | Fixed Assets | 24 | 24 | 78 | 49 | 51 | 41 | 38 | 112 | 234 | 296 | **1,363** |
 | Goodwill + Intangibles | — | — | — | — | — | — | — | — | — | — | Included in Fixed |
 
 *Note: BVPS appears to drop in FY23 due to two successive 1:1 bonus issues expanding the share base from 10 Cr to ~41 Cr shares.*
 
-**Buffett's Financial Fortress Assessment:** The balance sheet has been pristine for most of BLS's history — virtually debt-free from FY20 through FY23 (D/E of 0.00-0.02), with FY19 and FY24 also very low at 0.10 and 0.03 respectively. However, FY25 saw a notable shift: borrowings jumped to ₹359 Cr, primarily to fund the iDATA acquisition (₹720 Cr). Even at this elevated level, the D/E of 0.21 and Debt/EBITDA of 0.55x remain very conservative.
+**Buffett's Financial Fortress Assessment:** The balance sheet has been pristine for most of BLS's history — virtually debt-free from FY20 through FY23 (D/E of 0.00-0.02), with FY19 and FY24 also very low at 0.10 and 0.03 respectively. However, FY25 saw a notable shift: borrowings jumped to ₹359 Cr, primarily to fund the iDATA acquisition (₹720 Cr). Even at this elevated level, the D/E of 0.21, Debt/EBIT of 0.63x, and Net Debt/Owner Earnings of 0.61x remain very conservative — the company could repay its entire debt from less than 8 months of owner earnings.
 
 The fixed asset jump to ₹1,363 Cr in FY25 (from ₹296 Cr in FY24) reflects the iDATA acquisition and related goodwill/intangible assets. This needs monitoring — if iDATA underperforms, there could be goodwill impairment risk.
 
@@ -131,12 +138,15 @@ The company is genuinely asset-light in its core operations — visa processing 
 | ROE % | 30.8% | 35.3% | **45.6%** | 33.2% | 13.0% | **11.3%** | 21.6% | 29.7% | 32.4% | **36.8%** |
 | ROA % | **25.8%** | 23.0% | 25.3% | 22.2% | 11.0% | **10.3%** | 19.6% | 25.9% | 25.5% | 24.4% |
 | D/E | 0.05 | 0.58 | 0.42 | 0.10 | **0.00** | 0.00 | 0.02 | 0.01 | 0.03 | **0.21** |
-| OPM % | 7.5% | 13.2% | 20.3% | 13.8% | 10.9% | **8.6%** | 12.7% | 14.7% | 20.9% | **29.6%** |
+| OPM % (pre-D&A, Screener) | 7.5% | 13.2% | 20.3% | 13.8% | 10.9% | **8.6%** | 12.7% | 14.7% | 20.9% | **29.6%** |
+| **EBIT Margin %** | 6.3% | 9.1% | 15.2% | 11.4% | 9.4% | **6.7%** | 11.9% | 13.5% | 19.1% | **26.1%** |
 | NPM % | 6.1% | 7.9% | 12.3% | 13.1% | 6.6% | 10.5% | 13.1% | 13.5% | 19.4% | **24.6%** |
 | Debtor Days | **2** | 34 | **98** | 80 | 52 | 76 | 10 | 8 | 9 | 20 |
 | Working Capital Days | 36 | 20 | 46 | 51 | 51 | **77** | 7 | -2 | -4 | **-42** |
-| Interest Coverage | 38.0x | 12.4x | 12.6x | 11.8x | 17.8x | 30.0x | **61.5x** | **80.7x** | 48.9x | 15.5x |
+| Interest Coverage † | 38.0x | 12.4x | 12.6x | 11.8x | 17.8x | 30.0x | **61.5x** | **80.7x** | 48.9x | 15.5x |
 | Dividend Payout % | 0% | 7% | 5% | 10% | **20%** | 10% | 12% | 15% | 13% | 8% |
+
+*†Interest Coverage in this table is Screener.in's reported figure, which uses (Operating Profit + Other Income) / Interest Expense. Section 3's Interest Coverage uses EBIT / Interest Expense (a more conservative, Buffett-pure measure that deducts D&A and excludes Other Income). The Screener figure is typically higher because its numerator includes the D&A add-back and Other Income — the exception is FY20, where negative Other Income (₹-15 Cr during COVID) more than offset the D&A add-back, making Screener's figure (17.8x) slightly lower than the EBIT-based figure (18.5x). For debt safety assessment, the Section 3 EBIT-based figure (FY25: 12.2x) is the more conservative and relevant metric.*
 
 ### Part B: Buffett's Quality Checklist
 
@@ -150,13 +160,15 @@ The company is genuinely asset-light in its core operations — visa processing 
 | Positive Free Cash Flow | Positive | Positive in 8 of 10 years | ✅ Pass |
 | Promoter/Insider holding | Aligned | 70.4% | ✅ Pass (high conviction) |
 | Dividend payout | Paying | ~10% avg payout | ⚠️ Adequate (low but growing) |
-| OPM stability | Stable | 8.6%-29.6% range — EXPANDING | ✅ Pass (improving) |
+| EBIT Margin stability | Stable | 5.6%-26.1% range — EXPANDING | ✅ Pass (improving) |
 | Moat / Pricing Power | Identifiable | Govt contract toll bridge + switching costs | ✅ Pass |
 | Earnings yield | Reasonable | 5.3% (at ₹296) | ✅ Pass |
 
 **10 of 11 criteria pass.** This is a high-quality business by any Buffett standard. The ROE consistently above 15% (and averaging 29% over 10 years) with minimal leverage is exceptional. The expanding margins signal a business with strengthening pricing power and operating leverage — exactly what Buffett looks for.
 
-The ratio trends reveal moat strengthening: OPM has expanded from single digits to nearly 30%, working capital has turned negative (from +77 days to -42 days), and ROE has expanded from the teens back to the mid-30s post-COVID. These are unmistakable signs of a business whose competitive position is IMPROVING, not eroding.
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
+The ratio trends reveal moat strengthening: OPM (pre-D&A) has expanded from single digits to nearly 30%, EBIT Margin has expanded from 6.3% to 26.1%, working capital has turned negative (from +77 days to -42 days), and ROE has expanded from the teens back to the mid-30s post-COVID. These are unmistakable signs of a business whose competitive position is IMPROVING, not eroding.
 
 ---
 
@@ -167,19 +179,25 @@ The ratio trends reveal moat strengthening: OPM has expanded from single digits 
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 438 | 449 | 383 | 408 | 438 | 448 | 493 | 495 | 513 | **693** | **711** | **737** | 736 |
-| OPM % | 15% | 15% | 21% | 21% | 20% | 20% | 27% | **33%** | 31% | 25% | 29% | 29% | 27% |
+| Operating Profit (pre-D&A) | 66 | 67 | 80 | 87 | 89 | 90 | 133 | **164** | 158 | 174 | **204** | **213** | 198 |
+| OPM % (pre-D&A) | 15% | 15% | 21% | 21% | 20% | 20% | 27% | **33%** | 31% | 25% | 29% | 29% | 27% |
+| Depreciation (est.) | ~4 | ~5 | ~6 | ~7 | ~8 | ~10 | ~15 | ~19 | ~21 | ~22 | ~24 | ~25 | ~25 |
+| **EBIT** | 62 | 62 | 74 | 80 | 81 | 80 | 118 | **145** | 137 | 152 | **180** | **188** | 173 |
+| **EBIT Margin %** | 14.2% | 13.8% | 19.3% | 19.6% | 18.5% | 17.9% | 23.9% | **29.3%** | 26.7% | 21.9% | 25.3% | 25.5% | **23.5%** |
 | Net Profit | 46 | 77 | 71 | 82 | 87 | 85 | 121 | **146** | 128 | 145 | **181** | **186** | 170 |
 | EPS (₹) | 1.23 | 1.68 | 1.68 | 1.91 | 2.05 | 1.96 | 2.77 | **3.36** | 2.93 | 3.28 | **4.15** | **4.26** | 3.95 |
+
+*Note: Quarterly depreciation is estimated by distributing annual D&A across quarters (FY24: ₹31 Cr = 6+7+8+10; FY25: ₹77 Cr = 15+19+21+22; FY26 Q1-Q3: ~₹24-25 Cr per quarter est.). Estimates are calibrated to sum to the annual figures reported in Section 2.*
 
 ### Key Observations:
 
 **1. Revenue Trajectory:** Revenue shows a clear step-up from Q1FY25 (Jun24) onwards, reflecting the iDATA consolidation. Pre-iDATA quarterly revenue was ₹380-450 Cr; post-iDATA it has jumped to ₹490-740 Cr. The latest three quarters (Jun25-Dec25) show a stabilisation around ₹710-737 Cr, suggesting the iDATA integration revenue boost has been fully absorbed and organic growth is now the key driver. YoY growth remains strong at ~44% in Q3FY26, but sequential growth has flattened.
 
-**2. Margin Trend:** OPM peaked at 33% in Q2FY25 (Sep24) and has since moderated to 27% in Q3FY26. This compression is a watch item — it likely reflects the Digital Services segment (which operates at lower margins) growing faster than Visa/Consular, plus the consolidation of Aadifidelis Solutions. The visa segment itself maintains ~40% EBITDA margins, which is excellent.
+**2. Margin Trend:** OPM (pre-D&A) peaked at 33% in Q2FY25 (Sep24) and has since moderated to 27% in Q3FY26. EBIT Margin shows a similar pattern — peaking at 29.3% in Sep24 and compressing to 23.5% in Dec25. Notably, the gap between OPM and EBIT Margin has widened from ~1pp (pre-iDATA) to ~3-4pp (post-iDATA), reflecting the higher depreciation/amortisation from the iDATA acquisition's intangible asset amortisation. This is a pattern that EBITDA-based analysis would miss entirely — OPM at 27% looks healthy, but EBIT Margin at 23.5% reveals the true after-capital-charge profitability. For BLS, the gap is still manageable given the asset-light core, but it bears monitoring as the iDATA intangible amortisation continues. The margin compression itself is driven by mix shift toward lower-margin Digital Services (which operates at lower margins) plus the consolidation of Aadifidelis Solutions. The visa segment itself maintains ~40% operating margins, which is excellent.
 
 **3. Normalised Quarterly EPS Run-Rate:** The last four quarters (Mar25 through Dec25) show EPS of ₹3.28, ₹4.15, ₹4.26, and ₹3.95. Annualised normalised EPS ≈ ₹15.64 (TTM). Stripping out any seasonality, the sustainable quarterly EPS appears to be in the ₹3.90-4.25 range, implying annualised run-rate of ₹15.50-17.00.
 
-**4. Red Flags / Positive Surprises:** The margin compression from 33% to 27% OPM over the last 4 quarters is a yellow flag, driven by mix shift toward lower-margin digital services. However, absolute profits continue rising. The FII selling (from 10.9% to 6.4% over 4 quarters) despite strong results is concerning and suggests institutional scepticism about margin sustainability.
+**4. Red Flags / Positive Surprises:** The margin compression from 33% to 27% OPM (pre-D&A) over the last 4 quarters is a yellow flag, driven by mix shift toward lower-margin digital services. However, absolute profits continue rising. The FII selling (from 10.9% to 6.4% over 4 quarters) despite strong results is concerning and suggests institutional scepticism about margin sustainability.
 
 **Verdict: CRUISING with potential DECELERATION on margins.** The business is still growing strongly on an absolute basis, but the rate of margin expansion appears to have peaked. Buffett would note that the revenue trajectory remains predictable (quarterly EPS is within a ±10% range), which is positive for a compounder.
 
@@ -242,7 +260,7 @@ The capital efficiency is exceptional. BLS generates ₹587 Cr of Owner Earnings
 
 ### ROE, ROA & ROCE Trend
 
-| Year | ROE % | ROA % | ROCE % | Interest Coverage |
+| Year | ROE % | ROA % | ROCE % | Interest Coverage † |
 |---|---|---|---|---|
 | FY16 | 30.8% | 25.8% | 30% | 38.0x |
 | FY17 | 35.3% | 23.0% | 31% | 12.4x |
@@ -254,6 +272,8 @@ The capital efficiency is exceptional. BLS generates ₹587 Cr of Owner Earnings
 | FY23 | 29.7% | 25.9% | 32% | **80.7x** |
 | FY24 | 32.4% | 25.5% | 31% | 48.9x |
 | FY25 | **36.8%** | 24.4% | 34% | 15.5x |
+
+*†Interest Coverage here is Screener.in's reported figure using (Operating Profit + Other Income) / Interest. See Section 5 footnote for the distinction from Section 3's EBIT-based measure.*
 
 **10-Year Average ROE: ~29%** | **10-Year Average ROA: ~21%** | **10-Year Average ROCE: ~28%**
 
@@ -326,18 +346,20 @@ The only disruption risk is if governments bring processing back in-house, but t
 
 **Revenue Scalability:** Elite. Each new government contract opens an entirely new geography with essentially zero incremental corporate overhead. The visa centres are staffed locally with local leases — the marginal cost of adding a new market is just the centre setup cost, which is recovered within months through application fees. The iDATA acquisition exemplifies this — BLS bought access to 15+ new European countries overnight.
 
-**Profit Scalability — Incremental Margins:**
+**Profit Scalability — Incremental EBIT Margins:**
 
-| Year | ΔRevenue | ΔOp Profit | Incremental OPM |
+| Year | ΔRevenue | ΔEBIT | Incremental EBIT Margin |
 |---|---|---|---|
-| FY17 | +130 | +46 | **35.4%** |
-| FY18 | +154 | +76 | **49.4%** |
-| FY22 | +372 | +67 | 18.0% |
-| FY23 | +666 | +115 | 17.3% |
-| FY24 | +161 | +128 | **79.5%** |
-| FY25 | +516 | +298 | **57.8%** |
+| FY17 | +130 | +26 | **20.0%** |
+| FY18 | +154 | +62 | **40.3%** |
+| FY22 | +372 | +69 | 18.5% |
+| FY23 | +666 | +104 | 15.6% |
+| FY24 | +161 | +115 | **71.4%** |
+| FY25 | +516 | +252 | **48.8%** |
 
-Incremental margins have been spectacular in FY24-FY25 (58-80%), confirming that operating leverage is kicking in hard. Each new rupee of revenue from the visa segment is dramatically more profitable than the average — fixed costs are absorbed, brand is established, and value-added services layer on high-margin revenue.
+*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins are higher than current EBIT margins, the business is scaling beautifully; if lower, rising D&A from heavy capex is consuming the scaling benefit.*
+
+Incremental EBIT margins have been spectacular in FY24-FY25 (49-71%), well above the current blended EBIT Margin of 26.1%, confirming that operating leverage is kicking in hard — and that scaling is genuine, not being consumed by rising depreciation. Each new rupee of revenue from the visa segment is dramatically more profitable than the average — fixed costs are absorbed, brand is established, and value-added services layer on high-margin revenue.
 
 **Capital Scalability:** Outstanding. CapEx as % of revenue is typically 1-3% for the core business. Revenue per unit of CapEx has been rising steadily. The business requires almost no incremental capital to grow organically — new contracts require minimal upfront investment since centres are leased and staff hired locally.
 
@@ -400,9 +422,9 @@ For every ₹1 of earnings retained by management over 8 years, ₹7.47 of marke
 | Business Correspondent Network | — | — | — | — | — | 20,000+ | 20,000+ |
 | Visa & Consular Revenue (₹ Cr) | ~650 | ~350 | ~700 | ~1,250 | ~1,400 | ~1,700 | ~1,340 |
 | Digital Services Revenue (₹ Cr) | ~136 | ~128 | ~150 | ~266 | ~277 | ~493 | ~844 |
-| Visa Segment EBITDA Margin | ~15% | ~12% | ~18% | ~22% | ~30% | ~35%+ | ~40% |
+| Visa Segment Operating Margin | ~15% | ~12% | ~18% | ~22% | ~30% | ~35%+ | ~40% |
 
-The operational trajectory is unambiguously positive. Visa volumes have recovered from COVID lows and are at all-time highs. The number of countries and client governments served continues to expand. The digital services business has quadrupled in 3 years. The visa segment EBITDA margin has expanded from ~15% to ~40% — a structural improvement driven by value-added services and the iDATA contribution.
+The operational trajectory is unambiguously positive. Visa volumes have recovered from COVID lows and are at all-time highs. The number of countries and client governments served continues to expand. The digital services business has quadrupled in 3 years. The visa segment operating margin has expanded from ~15% to ~40% — a structural improvement driven by value-added services and the iDATA contribution.
 
 ---
 
@@ -411,12 +433,15 @@ The operational trajectory is unambiguously positive. Visa volumes have recovere
 | Metric | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current (TTM) |
 |---|---|---|---|---|---|---|---|---|
 | EPS (₹) | 2.57 | 1.28 | 1.22 | 2.72 | 4.89 | 7.60 | 12.34 | 15.64 |
+| **P/Owner Earnings** (primary Buffett-pure multiple) | — | — | — | — | — | — | 20.8x | **20.8x** |
+| **Owner Earnings Yield** (OEPS / CMP) | — | — | — | — | — | — | — | **4.8%** |
 | PE (approx) | ~35x | ~45x | ~50x | ~25x | ~35x | ~50x | ~25x | **18.9x** |
 | BVPS (₹) | 37.20 | 42.80 | 46.00 | 57.00 | 19.59 | 29.44 | 42.22 | ~51.7 |
 | P/B | ~2.4x | ~1.3x | ~1.3x | ~1.2x | ~8.7x | ~12.8x | ~7.0x | **5.7x** |
 | Earnings Yield | ~2.9% | ~2.2% | ~2.0% | ~4.0% | ~2.9% | ~2.0% | ~4.0% | **5.3%** |
-| EV/EBITDA | — | — | — | — | — | — | 19.3x | ~15.8x |
-| P/Owner Earnings | — | — | — | — | — | — | ~20.8x | ~17.9x |
+| EV/EBIT | — | — | — | — | — | — | 21.9x | ~17.9x |
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT is included as a secondary cross-check for comparability with institutional analysis, but Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets. **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from the true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner. Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"*
 
 **Historical Comparison:** At a TTM PE of 18.9x, the stock is trading at its LOWEST valuation in at least 5 years. The market typically valued BLS at 25-50x PE. The current 18.9x represents a ~46% discount to the historical median PE of ~35x. This compression has occurred despite the business delivering its best-ever financial performance.
 
@@ -432,39 +457,60 @@ The P/B of 5.7x appears optically high, but for a business generating 35%+ ROE w
 
 ### DCF Valuation (Three Scenarios)
 
-**Starting Point:** Owner Earnings FY25 = ₹587 Cr | Discount Rate = 12% | Diluted Shares = 41.17 Cr
+**Starting Point:** Owner Earnings FY25 = ₹587 Cr | Discount Rate = 10% (Buffett's flat hurdle rate) | Diluted Shares = 41.17 Cr
+
+> *Buffett explicitly rejects WACC as a discount rate. Munger has called it "nonsense." Buffett uses a flat 10% hurdle — the minimum return he demands from any investment, regardless of the company's capital structure. The previous version of this analysis used 12%; this revision applies the Buffett-pure 10% hurdle. A 12% WACC-based DCF is noted in the footnote for academic comparability.*
 
 | Parameter | Conservative | Base | Optimistic |
 |---|---|---|---|
 | Growth Years 1-5 | 15% | 20% | 25% |
 | Growth Years 6-10 | 10% | 15% | 18% |
 | Terminal Growth | 3% | 4% | 4% |
-| PV of 10Y Cash Flows | ₹6,354 Cr | ₹8,116 Cr | ₹10,090 Cr |
-| PV of Terminal Value | ₹7,007 Cr | ₹12,297 Cr | ₹17,154 Cr |
-| Enterprise Value | ₹13,360 Cr | ₹20,413 Cr | ₹27,243 Cr |
+| PV of 10Y Cash Flows | ₹7,026 Cr | ₹9,031 Cr | ₹11,277 Cr |
+| PV of Terminal Value | ₹10,787 Cr | ₹19,633 Cr | ₹27,388 Cr |
+| Enterprise Value | ₹17,813 Cr | ₹28,664 Cr | ₹38,664 Cr |
 | Less: Net Debt | ₹359 Cr | ₹359 Cr | ₹359 Cr |
-| **Equity Value** | **₹13,001 Cr** | **₹20,054 Cr** | **₹26,884 Cr** |
-| **IV Per Share** | **₹316** | **₹487** | **₹653** |
-| **Margin of Safety** | **6.3%** | **39.2%** | **54.7%** |
-| **Upside/(Downside)** | **+6.7%** | **+64.6%** | **+120.6%** |
+| **Equity Value** | **₹17,454 Cr** | **₹28,305 Cr** | **₹38,305 Cr** |
+| **IV Per Share** | **₹424** | **₹688** | **₹930** |
+| **Margin of Safety** | **30.2%** | **57.0%** | **68.2%** |
+| **Upside/(Downside)** | **+43.2%** | **+132.4%** | **+214.2%** |
+
+*Footnote: At 12% discount rate (previous version), the three scenarios yielded IV of ₹316, ₹487, and ₹653 per share respectively. The 10% hurdle rate produces higher intrinsic values because a lower discount rate increases the present value of future cash flows. The 10% rate is the Buffett-pure default; investors who demand higher returns should mentally haircut accordingly.*
 
 ### Summary Table
 
 | Scenario | Intrinsic Value | Current Price | Margin of Safety | Upside |
 |---|---|---|---|---|
-| Conservative | ₹316 | ₹296 | 6.3% | +6.7% |
-| **Base** | **₹487** | **₹296** | **39.2%** | **+64.6%** |
-| Optimistic | ₹653 | ₹296 | 54.7% | +120.6% |
+| Conservative | ₹424 | ₹296 | 30.2% | +43.2% |
+| **Base** | **₹688** | **₹296** | **57.0%** | **+132.4%** |
+| Optimistic | ₹930 | ₹296 | 68.2% | +214.2% |
 
-Even the conservative scenario suggests the stock is approximately fairly valued, while the base case shows ~39% margin of safety. The base case assumes 20% OE growth for 5 years (below the 5Y historical 60% NP CAGR) followed by 15% for the next 5 — a reasonable deceleration trajectory for a business at this stage.
+Even the conservative scenario shows a meaningful 30% margin of safety, while the base case shows 57%. The base case assumes 20% OE growth for 5 years (below the 5Y historical 61% OE CAGR) followed by 15% for the next 5 — a reasonable deceleration trajectory for a business at this stage.
 
 ---
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = ₹296 | Normalised TTM EPS = ₹15.64 | Current PE = 18.9x
+### Step 1: Establish the Inputs
 
-### Implied EPS CAGR Needed to Achieve Target Returns
+| Input | Value | Source |
+|---|---|---|
+| Current Market Price (CMP) | ₹296 | Market data |
+| TTM EPS (Normalised) | ₹15.64 | Screener (GAAP, attributable) |
+| **Owner Earnings Per Share (OEPS)** | **₹14.26** | Owner Earnings ₹587 Cr / 41.17 Cr diluted shares (Section 8) |
+| Current PE (on Normalised EPS) | 18.9x | CMP / EPS |
+| **Current P/OE (on OEPS)** | **20.8x** | CMP / OEPS — this is the Buffett-pure valuation multiple |
+| Shares Outstanding (Diluted) | 41.17 Cr | Latest data |
+
+### Step 2: Terminal PE Multiple Scenarios
+
+| Scenario | Terminal PE | Rationale |
+|---|---|---|
+| **Mature / Low-Growth** | 15x | Business has matured, growth ≈ GDP |
+| **Market Average** | 20x | Business grows roughly in line with the market |
+| **Historical Average** | 25x | Company's own 5-10 year median PE — market's revealed assessment |
+
+### Step 3: Implied EPS CAGR Needed to Achieve Target Returns
 
 **At Terminal PE = 15x (Mature)**
 
@@ -490,22 +536,64 @@ Even the conservative scenario suggests the stock is approximately fairly valued
 | 10 Years | 7.0% | 11.8% | 16.7% |
 | 15 Years | 8.0% | 12.9% | 17.8% |
 
-### Reality Check
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| BLS 5Y historical EPS CAGR | **57.3%** |
-| BLS 10Y historical EPS CAGR | **35.8%** |
-| Industry growth (visa outsourcing) | ~14% |
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But Owner Earnings strips out accounting noise and captures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. If the EPS-based Reverse DCF says "the market needs 9% growth" but the OEPS-based version says "the business needs 12% Owner Earnings growth," that gap reveals capital intensity masking the true hurdle. Buffett: *"Accounting is the language of business, but like any language, it can be used to obfuscate rather than illuminate."*
+
+**Formula:**
+```
+Required Future Price  = CMP × (1 + Hurdle Rate)^n
+Required Future OEPS   = Required Future Price / Terminal P/OE Multiple
+Implied OEPS CAGR      = (Required Future OEPS / Current OEPS)^(1/n) - 1
+```
+
+> **Terminal P/OE Multiple:** For asset-light businesses like BLS, P/OE ≈ PE (since Owner Earnings ≈ Net Income + D&A − small maintenance CapEx). We use 17x as the Market Average Terminal P/OE — slightly below the PE terminal of 20x, reflecting the modest maintenance CapEx deduction.
+
+**At Terminal P/OE = 17x (Market Avg for asset-light business)**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 14.5% OEPS CAGR needed | 19.7% | 24.9% |
+| 10 Years | 12.2% OEPS CAGR needed | 17.3% | 22.4% |
+| 15 Years | 11.5% OEPS CAGR needed | 16.5% | 21.6% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal Market Avg PE/P(OE) | 10-Year, 10% Return |
+|---|---|---|
+| Implied EPS CAGR (from Step 3, PE=20x) | 9.4% | |
+| Implied OEPS CAGR (from Step 3B, P/OE=17x) | 12.2% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **2.8 pp** | |
+
+**Interpretation:** The 2.8pp gap falls in the **2-5pp range** — moderate capital intensity. This is expected: BLS is fundamentally asset-light (visa processing doesn't require factories), but the iDATA acquisition introduced meaningful intangible asset amortisation that creates a wedge between EPS and Owner Earnings. The OEPS figure is the more conservative and honest assessment. For BLS, this gap is manageable and does not invalidate the EPS-based analysis, but the OEPS benchmark should be used for the final Buffett-pure verdict.
+
+### Step 4: Reality Check — Is the Implied Growth Reasonable?
+
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| BLS 5Y historical EPS CAGR | **57.3%** | **61.2%** | What it has actually delivered |
+| BLS 10Y historical EPS CAGR | **35.8%** | **37.7%** | Longer-term track record |
+| BLS historical Owner Earnings CAGR | — | **37.7%** (10Y) | Buffett-pure benchmark |
+| Industry growth (visa outsourcing) | ~14% | ~14% | Peer comparison |
 
 **Traffic Light:**
 
 At Terminal PE = 20x, earning a 15% return requires ~14.4% EPS CAGR over 10 years. BLS has historically delivered 36% EPS CAGR over 10 years. The implied growth is **less than half** the historical track record. 🟢 **GREEN — Reasonable price.**
 
+At Terminal P/OE = 17x (OEPS basis), earning a 10% return requires 12.2% OEPS CAGR over 10 years. BLS has historically delivered 37.7% OE CAGR over 10 years. The implied growth is **less than one-third** the track record. 🟢 **GREEN — Reasonable price on the Buffett-pure metric too.**
+
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment. **For BLS, both verdicts are 🟢 GREEN — consistent and reliable.**
+
 At Terminal PE = 15x (bear case), earning a 10% return requires 12.6% EPS CAGR — still well below historical performance and roughly in line with nominal GDP growth. 🟢 **GREEN.**
 
-**Verdict:** *"At ₹296, to earn a 15% annualised return over 10 years assuming the market values BLS at 20x PE at exit, the company needs to grow EPS at 14.4% CAGR. The company has historically grown EPS at 36% CAGR. The market is pricing in highly conservative growth — roughly half of what the company has delivered. This is a reasonable price for a wonderful business."*
+### Step 5: The Verdict — Reasonable Price or Crazy Price?
+
+> *"At ₹296, to earn a 15% annualised return over 10 years assuming the market values BLS at 20x PE at exit, the company needs to grow EPS at 14.4% CAGR (and Owner Earnings at 17.3% CAGR at a 17x terminal P/OE). The company has historically grown EPS at 36% CAGR and Owner Earnings at 38% CAGR. The market is pricing in highly conservative growth — roughly one-third to one-half of what the company has delivered. This is a reasonable price for a wonderful business."*
+
+> *"Note: The EPS-based assessment and the Owner Earnings assessment are closely aligned (2.8pp gap), confirming that BLS is an asset-light business where EPS is a reliable proxy for true economic earnings. The slight divergence is entirely explained by iDATA amortisation."*
+
+**Buffett's Napkin Test:** *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* If the implied growth needed just to earn your hurdle rate is higher than what the company has ever delivered — or requires the company to grow at 20%+ for a decade when it's already large — **it's a pass.** For BLS at ₹296, the implied hurdle is ~12-14% growth for a business that has delivered 36-38%. **This is clearly a pass — in the RIGHT direction.**
 
 ---
 
@@ -580,7 +668,7 @@ ROCE (34%) ≈ ROE (37%), confirming no leverage tricks. The slight difference i
 | **Trustworthy Management** | 70.4% promoter holding, $1 test = ₹7.47, prudent capital allocation | ✅ Yes |
 | **Resistant to Disruption** | Visa processing model unchanged for decades; trend toward MORE outsourcing | ✅ Yes |
 | **Sustainable Economics 10+ Years** | Global mobility only increases; outsourcing share rising from 35% to 50% | ✅ Yes |
-| **Price Below Intrinsic Value** | Base IV ₹487 vs CMP ₹296 = 39% margin of safety | ✅ Yes |
+| **Price Below Intrinsic Value** | Base IV ₹688 vs CMP ₹296 = 57% margin of safety | ✅ Yes |
 
 **6 out of 6 pass.** This is a true Buffett stock.
 
@@ -602,7 +690,7 @@ At 18.9x TTM PE for a business with a 10Y EPS CAGR of ~36%, the PEG ratio is ~0.
 | **MEA regulatory action** | High | Low-Medium | Oct 2025 ban was reversed; signals relationship risk |
 | **COVID-like travel shutdown** | Catastrophic | Very Low | Company survived COVID; would recover as before |
 | **iDATA integration failure** | Medium | Low | Already contributing 40% margins; integration on track |
-| **Margin compression from mix shift** | Medium | Medium | Digital services lower margin; may dilute blended OPM |
+| **Margin compression from mix shift** | Medium | Medium | Digital services lower margin; may dilute blended OPM (pre-D&A) and EBIT Margin |
 | **VFS Global competitive pressure** | Medium | Medium | Market is duopoly; both can grow in expanding market |
 | **Forex risk** | Medium | Medium | Multi-currency revenue with natural hedging |
 | **Key man risk (Shikhar Aggarwal)** | Medium | Low | Promoter family deeply embedded; succession planning unclear |
@@ -643,9 +731,9 @@ At 18.9x TTM PE for a business with a 10Y EPS CAGR of ~36%, the PEG ratio is ~0.
 | **Growth Trajectory** | 9 | Revenue +17% 10Y CAGR; NP +36.5% 10Y CAGR; accelerating |
 | **Scalability** | 8.4 | 5% of a market growing at 14% CAGR; enormous runway |
 | **Valuation** | 7.5 | PE 18.9x vs 10Y EPS CAGR 36% = PEG ~0.5x; cheap on earnings, elevated on P/B |
-| **Margin of Safety** | 7 | Base IV ₹487 vs CMP ₹296 = 39% MoS; conservative IV ~fair value |
+| **Margin of Safety** | 7 | Base IV ₹688 vs CMP ₹296 = 57% MoS (at 10% hurdle); conservative IV ₹424 still 30% MoS |
 | **Earnings Quality** | 8 | OCF typically exceeds NP (avg ~145%); real cash; low SBC; low tax rate is structural |
-| **Buffett Verdict** | **BUY** | *True Buffett compounder. A wonderful toll-bridge business at a fair-to-good price after a ~35% correction. The market is pricing in <15% growth for a business that has delivered >35% for a decade. This is the rare case where business quality, growth trajectory, management integrity, AND valuation all align. At ₹296 with 30%+ ROE and a PEG of ~0.5x (PE 18.9 / 10Y EPS CAGR 36%), the asymmetry is strongly in the investor's favour. The risk is margin compression from mix shift — but even if OPM settles at 22-25% (vs current 27-30%), the earnings power supports ₹350+ within 2 years. For a small capital base, this is a high-conviction position. Accumulate on dips below ₹250; hold through ₹400+.* |
+| **Buffett Verdict** | **BUY** | *True Buffett compounder. A wonderful toll-bridge business at a fair-to-good price after a ~35% correction. The market is pricing in <15% growth for a business that has delivered >35% for a decade. This is the rare case where business quality, growth trajectory, management integrity, AND valuation all align. At ₹296 with 30%+ ROE and a PEG of ~0.5x (PE 18.9 / 10Y EPS CAGR 36%), the asymmetry is strongly in the investor's favour. The risk is margin compression from mix shift — but even if OPM (pre-D&A) settles at 22-25% (vs current 27-30%), the earnings power supports ₹350+ within 2 years. For a small capital base, this is a high-conviction position. Accumulate on dips below ₹250; hold through ₹400+.* |
 | **Buy Zone** | Fair Value / Hold (₹250-₹344) | Approaching Value zone |
 | **Overall Recommendation** | **BUY / ACCUMULATE** at ₹296; Strong Buy below ₹250 |
 
