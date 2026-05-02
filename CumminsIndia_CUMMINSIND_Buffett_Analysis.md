@@ -29,8 +29,11 @@ Would Buffett understand this business? **Absolutely.** Engines and power genera
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 4,720 | 5,106 | 5,112 | 5,697 | 5,191 | **4,360** | 6,171 | 7,772 | 9,000 | 10,391 | **11,602** |
 | Revenue Growth YoY | -4.0% | 8.2% | 0.1% | 11.4% | **-8.9%** | **-16.0%** | **41.5%** | 25.9% | 15.8% | 15.5% | 13% |
-| **Operating Profit (EBITDA)** | 775 | 805 | 738 | 869 | **593** | 603 | 883 | 1,248 | 1,770 | **2,080** | **2,478** |
-| OPM % | 16% | 16% | **14%** | 15% | **11%** | 14% | 14% | 16% | **20%** | **20%** | **21%** |
+| **Operating Profit (pre-D&A)** | 775 | 805 | 738 | 869 | **593** | 603 | 883 | 1,248 | 1,770 | **2,080** | **2,478** |
+| OPM % (pre-D&A) | 16% | 16% | **14%** | 15% | **11%** | 14% | 14% | 16% | **20%** | **20%** | **21%** |
+| Depreciation & Amortisation | 81 | 85 | 94 | 111 | 121 | 127 | 136 | 142 | 159 | 185 | 193 |
+| **EBIT** | 694 | 720 | 644 | 758 | **472** | **476** | 747 | 1,106 | **1,611** | **1,895** | **2,285** |
+| **EBIT Margin** | 14.7% | 14.1% | **12.6%** | 13.3% | **9.1%** | **10.9%** | 12.1% | 14.2% | **17.9%** | **18.2%** | **19.7%** |
 | Other Income | 116 | 141 | 298 | 328 | 356 | 366 | 472 | 502 | 622 | **714** | 656 |
 | Net Income | 721 | 736 | 712 | 743 | 706 | **635** | 934 | 1,228 | 1,721 | **2,000** | **2,242** |
 | Net Income Growth | -6.6% | 2.1% | -3.3% | 4.4% | -5.0% | **-10.1%** | **47.1%** | 31.5% | **40.1%** | 16.2% | 16% |
@@ -72,10 +75,14 @@ Buffett: *"The best business to own is one that over an extended period can empl
 | BVPS (₹) | 130 | 140 | 149 | 155 | 159 | 168 | 186 | 208 | 239 | **273** |
 | BVPS Growth YoY | — | 7.3% | 6.4% | 4.0% | 2.8% | **5.7%** | **10.6%** | **11.9%** | **14.8%** | **14.3%** |
 | Debt/Equity | 0.00 | 0.07 | 0.06 | 0.07 | **0.12** | 0.01 | 0.08 | 0.07 | 0.02 | **0.00** |
-| Debt/EBITDA | 0.00 | 0.31 | 0.35 | 0.36 | **0.86** | 0.07 | 0.47 | 0.30 | 0.07 | **0.01** |
+| Debt/EBIT | 0.00 | 0.35 | 0.40 | 0.41 | **1.08** | 0.08 | 0.56 | 0.34 | 0.08 | **0.02** |
+| Net Debt/Owner Earnings† | -0.96 | -0.89 | -0.60 | -0.22 | -0.77 | -0.81 | -0.44 | -0.85 | -0.89 | **-0.71** |
+| Interest Coverage (EBIT/Interest) | 69x | 42x | 43x | 45x | **23x** | 28x | 62x | 69x | 60x | **118x** |
 | Current Ratio (proxy) | 2.25 | 2.19 | 2.20 | 2.33 | 2.19 | 2.40 | 2.55 | 2.35 | 2.21 | 2.42 |
 
 *\*Net Cash = Investments − Borrowings. Company holds ₹1,482 Cr in investments vs. ₹30 Cr in borrowings as of FY25.*
+
+*†Net Debt/Owner Earnings: Negative values indicate net cash position (investments exceed borrowings). Owner Earnings from Section 8.*
 
 **Buffett's Financial Fortress Assessment:**
 
@@ -101,11 +108,11 @@ Buffett: *"We will reject interesting opportunities rather than over-leverage ou
 | CFO/Operating Profit† | 112% | 116% | 110% | 91% | 129% | 145% | 109% | 94% | 101% | 108% |
 | Dividends Paid (est.) | 389 | 390 | 413 | 468 | 388 | 413 | 514 | 688 | 1,050 | 1,420 |
 
-*†CFO/OP values are sourced directly from Screener.in. Screener's "OP" denominator in this ratio differs from the EBITDA (Operating Profit) shown in Section 2 — Screener likely uses a narrower operating profit definition. Direct CFO ÷ EBITDA from this document's own data averages ~87% over FY16-FY25.*
+*†CFO/OP values are sourced directly from Screener.in. Screener's "OP" denominator in this ratio differs from the Operating Profit (pre-D&A) shown in Section 2 — Screener likely uses a narrower operating profit definition. Direct CFO ÷ Operating Profit (pre-D&A) from this document's own data averages ~87% over FY16-FY25.*
 
 **Cash Flow Quality Assessment:**
 
-The cash flow profile is **excellent**. Using Screener.in's reported CFO/OP metric, the ratio has averaged ~112% over the decade, indicating the company consistently converts its operating profits into real cash. Even using the more conservative CFO ÷ EBITDA calculation from this document's own data (~87% average), the conversion is healthy — the gap vs 100% is largely explained by working capital investment during growth years. FCF has grown from ₹205 Cr (FY16) to ₹1,455 Cr (FY25), a 7x increase. FCF margin has expanded from ~4% to 14%, tracking the margin expansion in the P&L.
+The cash flow profile is **excellent**. Using Screener.in's reported CFO/OP metric, the ratio has averaged ~112% over the decade, indicating the company consistently converts its operating profits into real cash. Even using the more conservative CFO ÷ Operating Profit (pre-D&A) calculation from this document's own data (~87% average), the conversion is healthy — the gap vs 100% is largely explained by working capital investment during growth years. FCF has grown from ₹205 Cr (FY16) to ₹1,455 Cr (FY25), a 7x increase. FCF margin has expanded from ~4% to 14%, tracking the margin expansion in the P&L.
 
 CapEx has been modest and lumpy — ranging from ₹92 Cr to ₹491 Cr annually — reflecting that this is a **relatively capital-light manufacturing business** for its size. CapEx/Revenue has averaged just 3-4%, with the rest of the capital needs funded internally.
 
@@ -122,15 +129,18 @@ Buffett: *"We like businesses that drown in cash."* Cummins India increasingly f
 | ROCE % | 24 | 22 | 21 | 24 | **18** | **17** | 21 | 27 | **35** | **36** |
 | ROE % | 21.5 | 19.7 | 17.8 | 17.7 | 16.3 | **14.0** | 19.1 | 22.5 | **27.8** | **28.2** |
 | Debt/Equity | 0.00 | 0.07 | 0.06 | 0.07 | **0.12** | 0.01 | 0.08 | 0.07 | 0.02 | **0.00** |
-| OPM % | 16 | 16 | **14** | 15 | **11** | 14 | 14 | 16 | **20** | **20** |
+| OPM % (pre-D&A, Screener) | 16 | 16 | **14** | 15 | **11** | 14 | 14 | 16 | **20** | **20** |
+| **EBIT Margin %** | 14.7 | 14.1 | **12.6** | 13.3 | **9.1** | **10.9** | 12.1 | 14.2 | **17.9** | **18.2** |
 | NPM % | 15.3 | 14.4 | 13.9 | **13.0** | 13.6 | 14.6 | 15.1 | 15.8 | **19.1** | **19.2** |
 | Debtor Days | 73 | 69 | **96** | 82 | 81 | 91 | 74 | 75 | 85 | 80 |
 | Inventory Days | 75 | 63 | 61 | 64 | 62 | 75 | **66** | 63 | 60 | **56** |
 | Cash Conv. Cycle | **79** | 65 | 71 | 63 | 68 | 69 | 51 | 58 | 56 | **49** |
 | Working Capital Days | 78 | 49 | 57 | 59 | 40 | 72 | 39 | **36** | 48 | 46 |
 | Current Ratio | 2.25 | 2.19 | 2.20 | 2.33 | 2.19 | 2.40 | 2.55 | 2.35 | 2.21 | 2.42 |
-| Interest Coverage | 78x | 47x | 49x | 51x | 28x | 36x | 74x | 78x | 66x | **130x** |
+| Interest Coverage† | 78x | 47x | 49x | 51x | 28x | 36x | 74x | 78x | 66x | **130x** |
 | Dividend Payout % | 54 | 53 | 58 | 63 | 55 | **65** | 55 | 56 | 61 | **71** |
+
+*†Interest Coverage in this table uses Screener.in's reported values, which use Operating Profit (pre-D&A) as the numerator. Section 3 uses the stricter EBIT/Interest definition (after D&A), which gives lower but more conservative values (e.g., FY25: 118x vs 130x here). Both confirm massive coverage — the difference is definitional, not material.*
 
 ### Part B: Buffett's Quality Checklist
 
@@ -144,15 +154,17 @@ Buffett: *"We like businesses that drown in cash."* Cummins India increasingly f
 | Positive Free Cash Flow | Positive | ₹1,455 Cr (FY25) — always positive | ✅ |
 | Promoter/Insider holding | Aligned | 51% (Cummins Inc. USA) | ✅ |
 | Dividend payout | Paying | 59% avg (10Y) | ✅ |
-| OPM stability | Stable | 11-20% range, expanding | ✅ |
+| EBIT Margin stability | Stable | 9.1-18.2% range, expanding | ✅ |
 | Moat / Pricing Power | Identifiable | Technology, brand, switching costs, aftermarket | ✅ |
 | Earnings Yield | Reasonable | 1.55% (very low at current PE 65x) | ❌ |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **10 of 11 quality criteria pass — the sole failure is the stock's 1.55% earnings yield at the current PE of 65x.** The business is exceptional; the question is entirely about the price.
 
 *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
 
-Cummins India's ratio trends reveal a business whose moat is **widening**: ROCE has risen from 17% to 36%, OPM from 11% to 20%, ROE from 14% to 28% — all while maintaining zero debt and shortening the cash conversion cycle from 79 days to 49 days. This is a company that is simultaneously becoming more profitable, more efficient, and more capital-light. The pricing power and operating leverage are now visibly compounding.
+Cummins India's ratio trends reveal a business whose moat is **widening**: ROCE has risen from 17% to 36%, EBIT Margin from 9.1% to 18.2%, ROE from 14% to 28% — all while maintaining zero debt and shortening the cash conversion cycle from 79 days to 49 days. This is a company that is simultaneously becoming more profitable, more efficient, and more capital-light. The pricing power and operating leverage are now visibly compounding.
 
 ---
 
@@ -163,7 +175,10 @@ Cummins India's ratio trends reveal a business whose moat is **widening**: ROCE 
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 2,185 | **1,934** | 2,218 | **1,922** | 2,541 | 2,319 | 2,316 | 2,509 | **3,096** | 2,470 | 2,907 | **3,170** | 3,055 |
-| OPM % | 19% | 17% | **15%** | 18% | 21% | **23%** | 20% | 19% | 19% | 21% | 21% | **22%** | 21% |
+| OPM % (pre-D&A) | 19% | 17% | **15%** | 18% | 21% | **23%** | 20% | 19% | 19% | 21% | 21% | **22%** | 21% |
+| Depreciation | 35 | 38 | 36 | 38 | 42 | 42 | 44 | 45 | 49 | 46 | 48 | 49 | 50 |
+| **EBIT** | 378 | 292 | 306 | 308 | 501 | 497 | 429 | 439 | 549 | 479 | 576 | **646** | 584 |
+| **EBIT Margin %** | 17.3% | **15.1%** | **13.8%** | 16.0% | 19.7% | **21.4%** | 18.5% | 17.5% | 17.7% | 19.4% | 19.8% | **20.4%** | 19.1% |
 | Net Profit | 414 | 349 | 354 | **329** | 499 | 539 | 463 | 449 | 558 | 530 | 604 | **622** | 486 |
 | EPS (₹) | 14.93 | 12.59 | 12.76 | **11.87** | 18.00 | 19.44 | 16.69 | 16.21 | 20.15 | 19.10 | **21.79** | **22.45** | 17.53 |
 
@@ -171,7 +186,7 @@ Cummins India's ratio trends reveal a business whose moat is **widening**: ROCE 
 
 **1. Revenue Trajectory:** Quarterly revenues have grown from ~₹1,900-2,200 Cr (early FY23) to ₹2,900-3,200 Cr (recent quarters) — a ~40% step-up. There is moderate seasonality (Q2/Sep and Q3/Dec tend to be stronger). The Dec25 quarter (₹3,055 Cr) saw a slight 1.3% YoY decline vs Dec24 (₹3,096 Cr) — the first YoY revenue dip in several quarters, worth monitoring.
 
-**2. Margin Trend:** OPM has stabilised in the 19-23% band, a significant improvement from the 15-17% range seen in early FY23. Margins appear to have plateaued at a healthy level rather than continuing to expand — suggesting the easy gains from operating leverage are behind, but the new normal is structurally higher.
+**2. Margin Trend:** OPM (pre-D&A) has stabilised in the 19-23% band, a significant improvement from the 15-17% range seen in early FY23. EBIT Margin (after D&A) has similarly improved from 13.8-16.0% (early FY23) to 19-20% (recent quarters), tracking the OPM trend closely. The fact that both OPM and EBIT Margin are expanding in tandem confirms this is genuine operating improvement — D&A is not rising disproportionately to consume the pre-D&A gains. This is a capital-light scaler where EBITDA-based and EBIT-based analysis tell the same story.
 
 **3. Normalised Quarterly EPS Run-Rate:** Excluding any one-offs, the last 4 quarters (Mar25 to Dec25) show EPS of ₹19.10, ₹21.79, ₹22.45, ₹17.53. The Dec25 dip reflects lower other income (₹46 Cr vs ₹168-217 Cr in prior quarters). Normalising for other income, the operating EPS run-rate is approximately ₹20-22/quarter, or **₹80-88 annualised**. The TTM EPS of ₹80.87 is a reasonable representation of current earnings power.
 
@@ -284,18 +299,20 @@ Buffett: *"We do not get enthused about change, with a few exceptions, as a way 
 
 ## 11. SCALABILITY CHECK — Can This Business Scale and Is It Scaling?
 
-### Part A: Profit Scalability — Incremental Operating Margins
+### Part A: Profit Scalability — Incremental EBIT Margins
 
-| Year | Revenue | Rev Growth | Op Profit | OP Growth | Incremental Margin | Actual OPM |
+| Year | Revenue | ΔRevenue | EBIT | ΔEBIT | Incremental EBIT Margin* | Actual EBIT Margin |
 |---|---|---|---|---|---|---|
-| FY17 | 5,106 | +386 | 805 | +30 | 7.8% | 16% |
-| FY19 | 5,697 | +585 | 869 | +131 | 22.4% | 15% |
-| FY22 | 6,171 | +1,811 | 883 | +280 | 15.5% | 14% |
-| FY23 | 7,772 | +1,601 | 1,248 | +365 | 22.8% | 16% |
-| FY24 | 9,000 | +1,228 | 1,770 | +522 | **42.5%** | **20%** |
-| FY25 | 10,391 | +1,391 | 2,080 | +310 | 22.3% | 20% |
+| FY17 | 5,106 | +386 | 720 | +26 | 6.7% | 14.1% |
+| FY19 | 5,697 | +591 | 758 | +38 | 6.4% | 13.3% |
+| FY22 | 6,171 | +474 | 747 | -11 | **-2.3%** | 12.1% |
+| FY23 | 7,772 | +1,601 | 1,106 | +359 | **22.4%** | 14.2% |
+| FY24 | 9,000 | +1,228 | 1,611 | +505 | **41.1%** | **17.9%** |
+| FY25 | 10,391 | +1,391 | 1,895 | +284 | **20.4%** | **18.2%** |
 
-**Scaling Quality Assessment:** The FY23-FY25 period shows **elite scaling** — incremental margins of 22-42% are significantly above the current OPM of 20%. Each new rupee of revenue is generating more profit than the average rupee. The FY24 incremental margin of 42.5% is extraordinary, driven by operating leverage (fixed costs being amortised over a much larger revenue base) and likely product/price mix improvements.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If a business appears to be scaling on pre-D&A margins but incremental EBIT margins are lower, it means D&A (capital consumption) is absorbing the benefit of growth — a pattern that EBITDA-based analysis would miss entirely.*
+
+**Scaling Quality Assessment:** The FY23-FY25 period shows **strong scaling** — incremental EBIT margins of 20-41% are well above the current EBIT Margin of 18.2%. Each new rupee of revenue is generating more after-D&A profit than the average rupee. The FY24 incremental EBIT margin of 41.1% is extraordinary. Notably, the FY17-FY22 period showed weak or negative incremental EBIT margins (despite positive pre-D&A margins), confirming that genuine operating leverage only kicked in from FY23 onward — the pre-D&A view would have been misleadingly optimistic for that earlier period.
 
 ### Part B: Scaling Runway
 
@@ -359,18 +376,21 @@ The operational fundamentals are **improving**: inventory days declining (75→5
 | CMP | ₹5,232 |
 | Market Cap | ₹1,45,031 Cr |
 | TTM EPS | ₹80.87 |
+| **P/Owner Earnings (primary Buffett-pure multiple)** | **70.9x** |
+| Owner Earnings Yield (OEPS / CMP) | **1.41%** |
 | PE Ratio | **64.7x** |
 | PB Ratio | **19.2x** |
 | PS Ratio | 12.5x |
-| EV/EBITDA | 57.9x |
+| EV/EBIT† | 62.8x |
 | P/FCF | 99.7x |
-| P/Owner Earnings | 70.9x |
 | Earnings Yield | 1.55% |
 | FCF Yield | 1.0% |
 | Dividend Yield | ~1.0% |
 | 10-Year Mean PE | ~33x |
 | 5-Year Mean PE | ~40x |
 | Historical PE Range | ~20x-60x |
+
+*†EV/EBIT is included as a secondary cross-check for comparability with institutional analysis. Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets. The P/Owner Earnings multiple above is the Buffett-pure metric.*
 
 **Historical Comparison:** The current PE of 64.7x is the **highest** the stock has ever traded at on a sustained basis. The 10-year mean PE is ~33x, and the 5-year mean is ~40x. The stock is trading at nearly **2x its own historical average PE**. Even accounting for the structural improvement in margins and ROE (which justifies some premium), the current multiple embeds very aggressive growth expectations.
 
@@ -404,7 +424,7 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = ₹5,232 | Normalised TTM EPS = ₹80.87 | Current PE = 64.7x
+**Inputs:** CMP = ₹5,232 | Normalised TTM EPS = ₹80.87 | Current PE = 64.7x | OEPS = ₹73.85 | Current P/OE = 70.8x
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -432,24 +452,54 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | 10 Years | **17.7%** | 23.0% | 28.4% |
 | 15 Years | **15.0%** | 20.3% | 25.5% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading: a company can grow EPS by underinvesting in maintenance (boosting short-term earnings while the asset base deteriorates) or financial engineering. Owner Earnings strips this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. If the EPS-based Reverse DCF says "the market needs 15% EPS growth" but the OEPS-based version says "25% Owner Earnings growth," that gap is a critical red flag. Buffett: *"Accounting is the language of business, but like any language, it can be used to obfuscate rather than illuminate."*
+
+**Terminal P/OE = 17x (Market Average)** — slightly below PE because Owner Earnings < Net Income for capital-intensive businesses; for asset-light businesses like Cummins, the gap is modest.
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | **46.3%** OEPS CAGR needed | 53.0% | 59.6% |
+| 10 Years | **26.9%** OEPS CAGR needed | 32.6% | 38.4% |
+| 15 Years | **21.0%** OEPS CAGR needed | 26.5% | 32.0% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal Market Avg PE (20x) / P/OE (17x) | 10-Year, 10% Return |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 23.7% | |
+| Implied OEPS CAGR (from Step 3B) | 26.9% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **3.2 pp** | |
+
+**Interpretation:** The 3.2 pp gap places Cummins India in the **moderate capital intensity** zone (2-5 pp). The OEPS figure is the more conservative and honest benchmark. The EPS-based Reverse DCF slightly understates the true growth hurdle — the company does consume some capital on maintenance that D&A doesn't fully capture. However, the gap is moderate, confirming this is a relatively capital-light manufacturer. For the final Buffett-pure assessment, defer to the OEPS-based figures.
+
 ### Reality Check
 
-| Benchmark | Typical EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| Cummins India 10Y EPS CAGR | **10.0%** |
-| Cummins India 5Y EPS CAGR | **23.2%** |
-| Cummins India 3Y EPS CAGR | 28.9% |
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| Cummins India 10Y EPS CAGR | **10.0%** | — | Actual track record |
+| Cummins India 5Y EPS CAGR | **23.2%** | — | Recent acceleration |
+| Cummins India Owner Earnings CAGR (9Y) | — | **16.8%** | Buffett-pure benchmark |
+| Cummins India OE CAGR (5Y) | — | **24.5%** | Recent OE acceleration |
+| Cummins India 3Y EPS CAGR | 28.9% | — | Short-term trajectory |
 
 **Traffic Light Verdict:**
 
 Even in the MOST FAVOURABLE scenario (terminal PE sustains at 33x, 10-year holding period), the company needs to grow EPS at **17.7% CAGR** just to earn a 10% return. That is 1.8x the 10-year historical CAGR of 10%. And if the PE reverts to 15-20x (which is more likely for a maturing industrial company), the required growth is **23.7-27.3%** — 2.4-2.7x historical.
 
+On the Buffett-pure OEPS basis, the hurdle is even higher: **26.9% OEPS CAGR** at Market Average terminal P/OE — above even the exceptional 5Y OE CAGR of 24.5%.
+
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. The EPS-based verdict is 🔴 RED. The OEPS-based verdict is also 🔴 RED (even more so). Both assessments agree: the current price demands heroic/impossible growth. The OEPS analysis confirms the EPS analysis is not misleadingly optimistic for this particular company — the 3.2 pp gap is moderate and does not change the conclusion.
+
 **🔴 RED — The current price demands heroic/impossible growth assumptions.** Even using the exceptional 5-year CAGR of 23.2% (which benefited from a COVID recovery and a structural margin step-up that may not repeat), the math barely works — and only if the PE sustains at historically elevated levels.
 
-> *"At the current price of ₹5,232, to earn a 10% annualised return over 10 years assuming the market values the business at 33x PE at exit, the company needs to grow EPS at 17.7% CAGR. The company has historically grown EPS at 10% CAGR over 10 years. This implies the market is pricing in growth that is 1.8x the historical track record — an expensive bet."*
+> *"At the current price of ₹5,232, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 23.7% CAGR (and Owner Earnings at 26.9% CAGR at 17x P/OE). The company has historically grown EPS at 10.0% CAGR (10Y) and Owner Earnings at 16.8% CAGR (9Y). This implies the market is pricing in growth that is 1.6-2.4x the historical track record — an expensive bet."*
 
-Buffett's Napkin Test: *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* At 65x earnings, this fails the napkin test decisively. The earnings yield (1.55%) is below the risk-free rate. You are effectively PAYING the company for the privilege of owning it.
+*Note: the EPS-based assessment is slightly more favourable than the Owner Earnings assessment (by 3.2 pp), indicating moderate capital intensity is masking a portion of the true growth hurdle. However, both assessments reach the same RED verdict.*
+
+Buffett's Napkin Test: *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* At 65x earnings, this fails the napkin test decisively. The earnings yield (1.55%) and owner earnings yield (1.41%) are both below the risk-free rate. You are effectively PAYING the company for the privilege of owning it.
 
 ---
 
@@ -602,7 +652,7 @@ For a small capital base investor, there is zero urgency. The stock will have co
 | **Margin of Safety** | **1** | Negative under all DCF scenarios; zero safety cushion |
 | **Overall Score** | **65/90** | |
 
-| **Buffett Verdict** | Cummins India is an **exceptional industrial franchise** — a technology-moated, capital-light, cash-generating compounder with expanding margins and a pristine balance sheet. It is exactly the kind of business Buffett would want to own for decades. **However, at ₹5,232 (64.7x PE, 19.2x P/B)**, the stock is priced for perfection and beyond. The DCF intrinsic value range of ₹2,100-₹3,475 implies the stock is 50-150% overvalued. The reverse DCF shows the market is demanding 17.7-27.3% EPS CAGR for 10 years — far above the 10-year historical CAGR of 10%. This is a **wonderful business at a crazy price**. **AVOID at current levels.** Add to watchlist for purchase in the ₹2,000-₹3,000 range (25-35x PE). |
+| **Buffett Verdict** | Cummins India is an **exceptional industrial franchise** — a technology-moated, capital-light, cash-generating compounder with expanding margins and a pristine balance sheet. It is exactly the kind of business Buffett would want to own for decades. **However, at ₹5,232 (64.7x PE, 19.2x P/B, 70.9x P/Owner Earnings)**, the stock is priced for perfection and beyond. The DCF intrinsic value range of ₹2,100-₹3,475 implies the stock is 50-150% overvalued. The reverse DCF shows the market is demanding 23.7% EPS CAGR and 26.9% Owner Earnings CAGR for 10 years at Market Average exit multiples — far above the 10-year historical EPS CAGR of 10% and 9-year OE CAGR of 16.8%. This is a **wonderful business at a crazy price**. **AVOID at current levels.** Add to watchlist for purchase in the ₹2,000-₹3,000 range (25-35x PE). |
 | **Buy Zone** | Currently in **Overvalued / Sell** zone (>55x PE, >16x P/B) |
 | **Recommendation** | **AVOID / WATCHLIST ONLY** — Wait for 40-50% correction to enter. Target buy zone: ₹2,000-₹3,000. |
 
