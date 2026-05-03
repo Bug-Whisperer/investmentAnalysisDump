@@ -35,10 +35,12 @@ HAL benefits from this principle in an unusual way: as a government PSU, managem
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 15,939 | 16,758 | 17,950 | 18,520 | 20,008 | 21,445 | 22,882 | 24,620 | 26,927 | 30,381 | **30,981** | 32,847 |
 | Rev Growth YoY | — | 5.1% | 7.1% | 3.2% | 8.0% | 7.2% | 6.7% | 7.6% | 9.4% | **12.8%** | 2.0% | — |
-| **Operating Profit (EBITDA)** | 2,379 | 2,474 | 3,231 | 3,449 | 4,551 | 4,914 | 5,344 | 5,415 | 6,686 | **9,752** | 9,621 | 10,006 |
-| OPM % | **14.9%** | 14.8% | 18.0% | 18.6% | 22.7% | 22.9% | 23.4% | 22.0% | 24.8% | **32.1%** | 31.1% | 30.5% |
+| **Operating Profit (pre-D&A)** | 2,379 | 2,474 | 3,231 | 3,449 | 4,551 | 4,914 | 5,344 | 5,415 | 6,686 | **9,752** | 9,621 | 10,006 |
+| OPM % (pre-D&A) | **14.9%** | 14.8% | 18.0% | 18.6% | 22.7% | 22.9% | 23.4% | 22.0% | 24.8% | **32.1%** | 31.1% | 30.5% |
 | Other Income | **1,650** | 1,608 | 1,058 | 776 | **376** | 423 | 364 | 985 | 1,673 | 1,923 | **2,608** | 3,248 |
-| Depreciation | 822 | 863 | **681** | 947 | 1,025 | 999 | 1,158 | 1,111 | **1,785** | 1,407 | 1,340 | 1,457 |
+| Depreciation & Amortisation | 822 | 863 | **681** | 947 | 1,025 | 999 | 1,158 | 1,111 | **1,785** | 1,407 | 1,340 | 1,457 |
+| **EBIT (OP minus D&A)** | 1,557 | 1,611 | 2,550 | 2,502 | 3,526 | 3,915 | 4,186 | 4,304 | 4,901 | **8,345** | 8,281 | 8,549 |
+| **EBIT Margin** | **9.8%** | 9.6% | 14.2% | 13.5% | 17.6% | 18.3% | 18.3% | 17.5% | 18.2% | **27.5%** | 26.7% | 26.0% |
 | Interest | 15 | **6** | 16 | 35 | 178 | **360** | 267 | 65 | 64 | 43 | 22 | 10 |
 | **Net Income** | 2,399 | **2,004** | 2,625 | **1,990** | 2,328 | 2,883 | 3,246 | 5,080 | 5,828 | 7,621 | **8,364** | 8,897 |
 | NI Growth YoY | — | -16.5% | 31.0% | **-24.2%** | 17.0% | 23.8% | 12.6% | **56.5%** | 14.7% | 30.8% | 9.7% | — |
@@ -54,7 +56,9 @@ HAL benefits from this principle in an unusual way: as a government PSU, managem
 
 ### Trend Narrative
 
-**Margins are expanding powerfully.** OPM has doubled from ~15% in FY15-16 to 31-32% in FY24-25. This is remarkable for what was historically a low-margin government contractor. The expansion is driven by operating leverage on the MRO/spares business (high-margin) and improving execution on manufacturing.
+**Margins are expanding powerfully.** OPM (pre-D&A) has doubled from ~15% in FY15-16 to 31-32% in FY24-25, while EBIT Margin (the true after-capital-charge profitability) has expanded from ~10% to 27%. The fact that EBIT Margin tracks OPM closely — rather than lagging it — confirms HAL's capital-light model: depreciation is a small and declining fraction of revenue, meaning almost all operating profit survives as genuine post-D&A earnings. This is remarkable for what was historically a low-margin government contractor. The expansion is driven by operating leverage on the MRO/spares business (high-margin) and improving execution on manufacturing.
+
+> **Why EBIT, not EBITDA:** Screener.in's "Operating Profit" is EBITDA-equivalent (pre-D&A). This analysis deliberately tracks EBIT (Operating Profit minus D&A) as the true operating profit metric. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* EBIT tells you what the business earns after maintaining its asset base; EBITDA pretends that capital consumption is free.
 
 **Earnings growth has dramatically outpaced revenue growth.** Revenue CAGR over 10 years is a modest 6.9%, but Net Income CAGR is 13.3% — nearly double. Over 5 years, the divergence is even more stark: Revenue CAGR of 7.6% vs. Net Income CAGR of 23.7%. This signals genuine operating leverage — a hallmark of a business where fixed costs are being amortised over a growing revenue base.
 
@@ -79,12 +83,14 @@ HAL is approaching this ideal. With virtually zero debt, minimal CapEx requireme
 | **Total Borrowings** | 165 | 80 | 1,022 | 905 | **4,116** | **5,927** | **53** | 49 | 52 | 50 | **51** |
 | Other Liabilities | 47,370 | 45,420 | 38,163 | 38,047 | 35,298 | 35,027 | 37,619 | 40,892 | 45,652 | 51,723 | **73,665** |
 | **Debt/Equity** | 0.01 | 0.01 | 0.08 | 0.10 | **0.34** | **0.45** | **0.00** | 0.00 | 0.00 | 0.00 | **0.00** |
+| **Debt/EBIT** | 0.11 | 0.05 | 0.40 | 0.36 | **1.17** | **1.51** | **0.01** | 0.01 | 0.01 | 0.01 | **0.01** |
+| **Net Debt/Owner Earnings** | 0.06 | 0.04 | 0.40 | 0.39 | **1.43** | **1.87** | **0.01** | 0.01 | 0.01 | 0.01 | **0.01** |
 | **BVPS (₹)** | 174.3 | **152.4** | 173.5 | **142.4** | 180.9 | 198.3 | 230.9 | 289.1 | 352.9 | 436.2 | **523.7** |
-| Interest Coverage | 158.6x | **412.3x** | 201.9x | 98.5x | 25.6x | **13.7x** | 20.0x | 83.3x | 104.5x | 226.8x | **437.3x** |
+| Interest Coverage (EBIT / Interest) | 103.8x | **268.5x** | 159.4x | 71.5x | 19.8x | **10.9x** | 15.7x | 66.2x | 76.6x | 194.1x | **376.4x** |
 
 ### Buffett's Financial Fortress Assessment
 
-**This balance sheet is a granite fortress.** HAL is essentially debt-free with total borrowings of just ₹51 Cr against equity of ₹34,981 Cr — a Debt/Equity ratio of 0.00. Interest coverage is 437x. The brief spike in borrowings during FY19-20 (likely related to advance payments/working capital during IndAS transition) was completely eliminated by FY21.
+**This balance sheet is a granite fortress.** HAL is essentially debt-free with total borrowings of just ₹51 Cr against equity of ₹34,981 Cr — a Debt/Equity ratio of 0.00. Interest coverage (EBIT-based) is 376x, and Net Debt/Owner Earnings is 0.01x. The brief spike in borrowings during FY19-20 (likely related to advance payments/working capital during IndAS transition) was completely eliminated by FY21.
 
 **The "Other Liabilities" of ₹73,665 Cr (FY25) requires context.** This is NOT debt — it is overwhelmingly **customer advance payments** from the MoD for orders placed but not yet executed. When the Indian government places a ₹62,370 Cr order for 97 LCA Mk1A aircraft, substantial advance payments flow to HAL, which sit as liabilities on the balance sheet until delivery. This is the equivalent of a restaurant receiving payment before cooking the meal — it is a sign of extraordinary customer trust and pricing power, not financial stress.
 
@@ -144,13 +150,14 @@ Owner Earnings closely approximate Net Income because CapEx is minimal — HAL's
 | **ROE %** | 14.3 | 14.4 | 22.3 | 18.0 | 21.6 | 22.8 | 22.6 | **29.2** | 27.2 | **28.9** | 26.1 |
 | **ROIC %** | 10.5 | 13.8 | 17.4 | 20.2 | 17.7 | 18.5 | **26.2** | 27.1 | 25.5 | 25.1 | 21.1 |
 | **Debt/Equity** | 0.01 | 0.01 | 0.08 | 0.10 | **0.34** | **0.45** | 0.00 | 0.00 | 0.00 | 0.00 | **0.00** |
-| **OPM %** | **14.9** | **14.8** | 18.0 | 18.6 | 22.7 | 22.9 | 23.4 | 22.0 | 24.8 | **32.1** | 31.1 |
+| **OPM % (pre-D&A, Screener)** | **14.9** | **14.8** | 18.0 | 18.6 | 22.7 | 22.9 | 23.4 | 22.0 | 24.8 | **32.1** | 31.1 |
+| **EBIT Margin %** | **9.8** | **9.6** | 14.2 | 13.5 | 17.6 | 18.3 | 18.3 | 17.5 | 18.2 | **27.5** | 26.7 |
 | **NPM %** | 15.1 | **12.0** | 14.6 | **10.7** | 11.6 | 13.4 | 14.2 | 20.6 | 21.6 | 25.1 | **27.0** |
 | Debtor Days | **144** | 105 | 86 | 133 | **227** | 191 | 90 | 69 | 64 | **55** | 55 |
 | Inventory Days | **1,104** | 1,016 | 879 | 870 | 881 | 815 | 602 | 607 | **527** | 544 | 736 |
 | Cash Conv. Cycle | **1,145** | 1,030 | 900 | 931 | 995 | 843 | 617 | 580 | **475** | 484 | 634 |
 | Working Cap Days | 39 | **-5** | 74 | 101 | **221** | 185 | 145 | 111 | 38 | **37** | 121 |
-| Int Coverage (x) | 158.6 | 412.3 | 201.9 | 98.5 | 25.6 | **13.7** | 20.0 | 83.3 | 104.5 | 226.8 | **437.3** |
+| Int Coverage (x, pre-D&A, Screener) | 158.6 | 412.3 | 201.9 | 98.5 | 25.6 | **13.7** | 20.0 | 83.3 | 104.5 | 226.8 | **437.3** |
 | Div Payout % | **20** | 31 | 30 | **54** | 28 | 39 | 31 | 26 | 32 | 31 | 32 |
 
 ### Part B: Buffett's Quality Checklist
@@ -165,7 +172,7 @@ Owner Earnings closely approximate Net Income because CapEx is minimal — HAL's
 | Positive Free Cash Flow | Positive | ₹11,764 Cr (FY25) | ✅ PASS |
 | Promoter/Insider holding | Aligned | 71.64% (GoI) | ✅ PASS |
 | Dividend payout | Paying | ~32% avg | ✅ PASS |
-| OPM stability | Stable & rising | 15%→31% (expanding) | ✅ PASS |
+| EBIT Margin stability | Stable & rising | 10%→27% (expanding) | ✅ PASS |
 | Moat / Pricing Power | Identifiable | Govt monopoly, sole manufacturer | ✅ STRONG PASS |
 | ROIC > 15% | >15% | 10.5-27.1% (above 15% since FY17) | ✅ PASS |
 | Earnings yield | Reasonable | ~3.1% (at CMP) | ⚠️ LOW (high PE) |
@@ -174,7 +181,9 @@ Owner Earnings closely approximate Net Income because CapEx is minimal — HAL's
 
 **Score: 10 out of 12 criteria pass.** The two amber flags are (1) revenue growth has been modest at ~7% CAGR, though this is accelerating with the order book, and (2) earnings yield is low at current valuations, reflecting the market's premium pricing.
 
-The ratios tell a clear story of a business whose moat is WIDENING. ROCE has climbed from 23% to 34-39%, OPM has doubled, and working capital efficiency has improved dramatically (Cash Conversion Cycle halved from 1,145 to 475 days before a recent uptick). Debtor days collapsed from 144 to 55. The recent CCC increase to 634 days (FY25) reflects higher inventory build-up for the manufacturing ramp — this is growth-related, not inefficiency.
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
+The ratios tell a clear story of a business whose moat is WIDENING. ROCE has climbed from 23% to 34-39%, EBIT Margin has expanded from ~10% to ~27%, and working capital efficiency has improved dramatically (Cash Conversion Cycle halved from 1,145 to 475 days before a recent uptick). Debtor days collapsed from 144 to 55. The recent CCC increase to 634 days (FY25) reflects higher inventory build-up for the manufacturing ramp — this is growth-related, not inefficiency.
 
 > *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
 
@@ -190,7 +199,11 @@ HAL's competitive advantage is structural and strengthening.
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Sales** | 5,666 | **12,495** | **3,915** | 5,636 | 6,061 | **14,769** | 4,348 | 5,976 | 6,957 | **13,700** | 4,819 | 6,629 | 7,699 |
-| **OPM %** | 17% | 26% | 22% | **27%** | 24% | **40%** | 23% | 27% | 24% | **39%** | 27% | 24% | 24% |
+| **OP (pre-D&A)** | 985 | **3,232** | **877** | 1,528 | 1,435 | **5,901** | 991 | 1,640 | 1,683 | **5,295** | 1,282 | 1,558 | 1,871 |
+| OPM % (pre-D&A) | 17% | 26% | 22% | **27%** | 24% | **40%** | 23% | 27% | 24% | **39%** | 27% | 24% | 24% |
+| Depreciation | 269 | 1,056 | 201 | 350 | 212 | 644 | 149 | 178 | 277 | 736 | 185 | 226 | 310 |
+| **EBIT** | 716 | **2,176** | **676** | 1,178 | 1,223 | **5,257** | 842 | 1,462 | 1,406 | **4,559** | 1,097 | 1,332 | 1,561 |
+| **EBIT Margin %** | **12.6%** | 17.4% | 17.3% | **20.9%** | 20.2% | **35.6%** | 19.4% | **24.5%** | 20.2% | **33.3%** | 22.8% | 20.1% | 20.3% |
 | **Net Profit** | 1,155 | 2,831 | **814** | 1,237 | 1,262 | **4,309** | 1,437 | 1,510 | 1,440 | **3,977** | 1,384 | 1,669 | 1,867 |
 | **EPS (₹)** | 17.27 | 42.33 | **12.17** | 18.49 | 18.86 | **64.43** | 21.49 | 22.59 | 21.53 | **59.46** | 20.69 | 24.96 | 27.91 |
 
@@ -198,7 +211,7 @@ HAL's competitive advantage is structural and strengthening.
 
 **1. Revenue Trajectory — Strong Seasonal Pattern:** HAL's revenue is extremely Q4-heavy (March quarter accounts for 44-49% of annual revenue). This is structural — defence contracts are typically executed and settled in the March quarter aligned with government fiscal year-end. Q1 (June) is always the weakest. Year-on-year, Q3 FY26 (Dec 2025) revenue of ₹7,699 Cr vs ₹6,957 Cr in Q3 FY25 represents a healthy 10.7% growth.
 
-**2. Margin Trend:** OPM peaks in Q4 at 39-40% (volume leverage) and normalises to 23-27% in other quarters. On a trailing basis, OPM has stabilised at ~30-31%. NIM equivalent is expanding.
+**2. Margin Trend:** OPM (pre-D&A) peaks in Q4 at 39-40% (volume leverage) and normalises to 23-27% in other quarters. EBIT Margin follows the same pattern but at lower absolute levels (Q4: 33-36%, other quarters: 17-25%), reflecting D&A deductions. Importantly, the gap between OPM and EBIT Margin is narrowing over time — in Q1 FY24 (Jun23), OPM was 22% vs EBIT Margin 17.3% (4.7pp gap), but by Q3 FY26 (Dec25), OPM was 24% vs EBIT Margin 20.3% (3.7pp gap). This confirms HAL is NOT becoming more capital-intensive — D&A is a shrinking drag, the opposite of what you'd see in a heavy-manufacturing business. On a trailing basis, EBIT Margin has stabilised at ~26-27%.
 
 **3. Normalised Quarterly EPS Run-Rate:** Excluding the Q4 seasonal spike, the normalised run-rate for Q1-Q3 is approximately ₹22-28 per quarter. Adding the Q4 bump (~₹60), the normalised annual EPS is approximately ₹125-133. The TTM EPS per Screener is ₹133.02.
 
@@ -336,20 +349,22 @@ HAL is the textbook application of this principle.
 
 ### Part A: Profit Scalability — Incremental Operating Margins
 
-| Year | Revenue | Rev Growth | Op Profit | OP Growth | Incremental Op Margin |
-|---|---|---|---|---|---|
-| FY16 | 16,758 | 5.1% | 2,474 | 4.0% | 11.6% (below OPM ⚠️) |
-| FY17 | 17,950 | 7.1% | 3,231 | 30.6% | **63.5%** (elite) |
-| FY18 | 18,520 | 3.2% | 3,449 | 6.7% | 38.2% (above OPM) |
-| FY19 | 20,008 | 8.0% | 4,551 | 31.9% | **74.1%** (elite) |
-| FY20 | 21,445 | 7.2% | 4,914 | 8.0% | 25.3% (above OPM) |
-| FY21 | 22,882 | 6.7% | 5,344 | 8.8% | 29.9% (above OPM) |
-| FY22 | 24,620 | 7.6% | 5,415 | 1.3% | 4.1% (friction) |
-| FY23 | 26,927 | 9.4% | 6,686 | 23.5% | **55.1%** (elite) |
-| FY24 | 30,381 | 12.8% | 9,752 | 45.8% | **88.8%** (exceptional) |
-| FY25 | 30,981 | 2.0% | 9,621 | -1.3% | -21.8% (friction — low rev growth) |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Net Profit | NP Growth | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|---|---|
+| FY16 | 16,758 | 5.1% | 1,611 | 3.5% | 9.6% | 2,004 | -16.5% | 6.6% (below EBIT margin ⚠️) |
+| FY17 | 17,950 | 7.1% | 2,550 | 58.3% | 14.2% | 2,625 | 31.0% | **78.8%** (elite) |
+| FY18 | 18,520 | 3.2% | 2,502 | -1.9% | 13.5% | 1,990 | -24.2% | -8.4% (friction — D&A spike) |
+| FY19 | 20,008 | 8.0% | 3,526 | 40.9% | 17.6% | 2,328 | 17.0% | **68.8%** (elite) |
+| FY20 | 21,445 | 7.2% | 3,915 | 11.0% | 18.3% | 2,883 | 23.8% | 27.1% (above EBIT margin) |
+| FY21 | 22,882 | 6.7% | 4,186 | 6.9% | 18.3% | 3,246 | 12.6% | 18.9% (at EBIT margin) |
+| FY22 | 24,620 | 7.6% | 4,304 | 2.8% | 17.5% | 5,080 | 56.5% | 6.8% (friction) |
+| FY23 | 26,927 | 9.4% | 4,901 | 13.9% | 18.2% | 5,828 | 14.7% | 25.9% (above EBIT margin) |
+| FY24 | 30,381 | 12.8% | 8,345 | 70.3% | 27.5% | 7,621 | 30.8% | **99.7%** (exceptional) |
+| FY25 | 30,981 | 2.0% | 8,281 | -0.8% | 26.7% | 8,364 | 9.7% | -10.7% (friction — low rev growth) |
 
-**Verdict:** The incremental margins are spectacularly volatile due to HAL's lumpy revenue recognition, but the TREND is unmistakable — in growth years (FY17, FY19, FY23, FY24), incremental margins are 55-89%, meaning each new rupee of revenue is dramatically more profitable. FY25's negative incremental margin is solely because revenue growth stalled at 2% due to supply chain issues — the underlying operating leverage is intact.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins exceed current EBIT margins, the business is scaling beautifully. For HAL, the EBIT-based incremental margins track closely to the pre-D&A incremental margins — confirming D&A is NOT consuming the scaling benefit.*
+
+**Verdict:** The incremental EBIT margins are volatile due to HAL's lumpy revenue recognition, but the TREND is unmistakable — in growth years (FY17, FY19, FY24), incremental EBIT margins are 69-100%, meaning each new rupee of revenue is dramatically more profitable even after accounting for capital consumption. FY25's negative incremental margin is solely because revenue growth stalled at 2% due to supply chain issues — the underlying operating leverage is intact.
 
 ### Part B: Scaling Runway
 
@@ -362,7 +377,7 @@ HAL is the textbook application of this principle.
 | Dimension | Score | Evidence |
 |---|---|---|
 | Revenue scalability | 7/10 | Growing order book (₹2.54L Cr), but supply chain constraints limit ramp speed |
-| Profit scalability | 9/10 | Incremental margins of 55-89% in growth years — exceptional operating leverage |
+| Profit scalability | 9/10 | Incremental EBIT margins of 69-100% in growth years — exceptional operating leverage |
 | Capital scalability | 8/10 | CapEx at only 3-6% of revenue; capital-light assembly model |
 | Scaling runway | 9/10 | India's military modernisation cycle provides 10-15 year runway |
 | S-Curve position | 8/10 | At inflection — manufacturing transition beginning |
@@ -427,12 +442,19 @@ Honest? Yes — clean audit history, transparent reporting, AAA credit rating. A
 | Metric | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** | **Current** |
 |---|---|---|---|---|---|---|---|---|
 | EPS (₹) | 34.82 | 43.10 | 48.53 | 75.96 | 87.14 | 113.96 | 125.07 | 133.02 (TTM) |
+| **OEPS (₹)** | 43.0 | 47.4 | 59.4 | 83.4 | 104.5 | 120.8 | 131.2 | ~131.2 |
 | PE Ratio (est.) | ~19x | ~18x | ~21x | ~20x | ~26x | ~34x | ~33x | **32.8x** |
+| **P/Owner Earnings** (primary) | ~15x | ~16x | ~17x | ~18x | ~22x | ~32x | ~31x | **33.2x** |
 | P/B Ratio | ~3.7x | ~3.8x | ~4.3x | ~5.3x | ~6.5x | ~8.9x | ~7.9x | **7.9x** |
-| EV/EBITDA (est.) | ~14x | ~13x | ~12x | ~14x | ~16x | ~21x | ~25x | **~26x** |
+| EV/EBIT (est.) | ~19x | ~19x | ~15x | ~18x | ~24x | ~29x | ~35x | **~35x** |
 | Earnings Yield | 5.3% | 5.6% | 4.8% | 5.0% | 3.8% | 2.9% | 3.0% | **3.1%** |
+| **Owner Earnings Yield** | 6.5% | 6.3% | 5.9% | 5.6% | 4.5% | 3.1% | 3.2% | **3.0%** |
 | Dividend Yield | ~1.5% | ~2.2% | ~1.5% | ~1.3% | ~1.1% | ~0.9% | ~0.9% | **~0.96%** |
 | BVPS (₹) | 180.9 | 198.3 | 230.9 | 289.1 | 352.9 | 436.2 | 523.7 | ~555 |
+
+> **Why P/Owner Earnings is the primary Buffett-pure multiple:** PE uses reported net income, which is an accounting number. P/Owner Earnings uses the Buffett metric — Net Income + D&A − Maintenance CapEx — which measures genuine cash available to the owner. For HAL, P/OE (~33x) is very close to PE (~33x) because maintenance CapEx roughly equals D&A — confirming this is a capital-light business where reported earnings are genuine economic earnings. For capital-heavy businesses, P/OE would be significantly higher than PE, revealing that reported earnings overstate true cash generation.
+>
+> **Why EV/EBIT rather than EV/EBITDA:** Included as a secondary cross-check for institutional comparability. Buffett himself rarely uses Enterprise Value constructs, preferring equity-level metrics (what does the owner get?). EV/EBIT is vastly superior to EV/EBITDA because it accounts for real capital consumption. Buffett (2000): *"References to EBITDA make us shudder."*
 
 ### Historical Valuation Context
 
@@ -450,21 +472,25 @@ The current P/B of ~7.9x is high for any business, but consider that HAL's ROE i
 
 **Starting point: Owner Earnings FY25 = ₹8,764 Cr (₹131.2 per share)**
 
+> **Discount Rate: 10% flat (Buffett's hurdle rate).** Buffett explicitly rejects WACC as a discount rate. Munger has called WACC "nonsense." Buffett uses a flat 10% hurdle — the minimum acceptable return for deploying capital. All three scenarios below use the same 10% discount rate; they differ only in growth assumptions.
+
 | Scenario | Growth Yrs 1-5 | Growth Yrs 6-10 | Terminal Growth | Discount Rate | **IV/Share** | **MoS** | **Upside/(Downside)** |
 |---|---|---|---|---|---|---|---|
-| **Conservative** | 10% | 8% | 4% | 12% | ₹2,459 | -77.2% | -43.6% |
-| **Base** | 15% | 10% | 5% | 11% | ₹4,111 | -6.0% | -5.7% |
+| **Conservative** | 10% | 8% | 4% | 10% | ₹3,351 | -30.1% | -23.1% |
+| **Base** | 15% | 10% | 5% | 10% | ₹5,010 | 13.0% | +15.0% |
 | **Optimistic** | 20% | 12% | 5% | 10% | ₹6,586 | 33.8% | +51.1% |
 
-**Interpretation:** At the current price of ₹4,358, the stock is roughly at Base Case intrinsic value — meaning the market is pricing in ~15% owner earnings growth for the next 5 years, decelerating to ~10% thereafter. Given the ₹2.54 lakh crore order book and the manufacturing ramp-up, this is ACHIEVABLE but requires execution. There is no margin of safety at the Base case. Meaningful upside (50%+) exists only in the Optimistic scenario where HAL delivers 20% growth and the market applies a lower discount rate.
+**Interpretation:** At the current price of ₹4,358, the stock sits between the Conservative and Base Case intrinsic values. The Base Case IV of ₹5,010 implies a 13% margin of safety and ~15% upside — meaning the market is pricing in approximately 12-13% owner earnings growth, while the Base assumes 15%. Given the ₹2.54 lakh crore order book and the manufacturing ramp-up, this is ACHIEVABLE but requires execution. Meaningful upside (50%+) exists only in the Optimistic scenario where HAL delivers 20% growth.
 
-**Margin of Safety at Current Price: MINIMAL (approximately -6% to +34% depending on scenario).** Buffett typically demands 25-30% margin of safety. HAL currently offers this only in the Optimistic case.
+**Margin of Safety at Current Price: MODEST (~13% in the Base case, ~34% in Optimistic).** Buffett typically demands 25-30% margin of safety. HAL meets this threshold only in the Optimistic case. In the Conservative scenario, the stock is ~23% overvalued — highlighting the risk if growth disappoints.
 
 ---
 
 ## 16. REVERSE DCF — Napkin Math Reality Check
 
-**Inputs:** CMP = ₹4,358 | Normalised TTM EPS = ₹133.02 | Current PE = 32.8x
+**Inputs:** CMP = ₹4,358 | Normalised TTM EPS = ₹133.02 | Current PE = 32.8x | **OEPS = ₹131.2** | **Current P/OE = 33.2x**
+
+> *OEPS (Owner Earnings Per Share) = Owner Earnings (₹8,764 Cr from Section 8) ÷ Diluted Shares (66.8 Cr) = ₹131.2. P/OE = CMP / OEPS = the Buffett-pure valuation multiple.*
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -500,22 +526,49 @@ The current P/B of ~7.9x is high for any business, but consider that HAL's ROE i
 | 10 Years | 10.3% | 15.3% | 20.3% |
 | 15 Years | 10.2% | 15.2% | 20.2% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading for capital-intensive businesses: a company can grow EPS by underinvesting in maintenance. Owner Earnings strips this out — it measures TRUE economic cash the business generates after maintaining its productive capacity. For HAL, the gap is small (asset-light model), but this step confirms that. Buffett: *"Accounting is the language of business, but like any language, it can be used to obfuscate rather than illuminate."*
+
+**At Terminal P/OE = 17x (Market Average)**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 25.8% OEPS CAGR | 31.5% | 37.2% |
+| 10 Years | 17.6% OEPS CAGR | 23.0% | 28.3% |
+| 15 Years | 15.0% OEPS CAGR | 20.3% | 25.5% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal Market Avg PE (20x) / P/OE (17x) | 10-Year, 10% Return |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 15.6% | |
+| Implied OEPS CAGR (from Step 3B) | 17.6% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **2.0 pp** | |
+
+**Interpretation: Gap ≤ 2 pp → Asset-light business. EPS is reliable.** HAL's Owner Earnings closely approximate its Net Income because maintenance CapEx roughly equals D&A. The standard EPS-based Reverse DCF is trustworthy for this company. The 2.0 pp gap is driven by the slightly lower terminal P/OE multiple (17x vs 20x PE), not by capital intensity distortion. This confirms HAL's capital-light model — what you see in EPS is what you get in real economic earnings.
+
 ### Reality Check
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| HAL's 5Y EPS CAGR | **23.7%** |
-| HAL's 10Y EPS CAGR | **17.5%** |
-| Analyst consensus (FY26-28E) | ~15-20% |
+| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| HAL's 5Y EPS CAGR | **23.7%** | **22.6%** | What it has actually delivered |
+| HAL's 10Y EPS CAGR | **17.5%** | **12.4%** | Longer-term track record |
+| HAL's historical Owner Earnings CAGR | — | **12.4%** (10Y) | Buffett-pure benchmark |
+| Analyst consensus (FY26-28E) | ~15-20% | — | Market expectations |
 
 **Traffic Light Assessment:**
 
-To earn a 10% return over 10 years assuming PE compresses to 20x: HAL needs 15.6% EPS CAGR. HAL has historically delivered 17.5% over 10 years and 23.7% over 5 years. **This is ACHIEVABLE.**
+To earn a 10% return over 10 years assuming PE compresses to 20x: HAL needs 15.6% EPS CAGR (and 17.6% OEPS CAGR at P/OE 17x). HAL has historically delivered 17.5% EPS CAGR (10Y) and 22.6% OEPS CAGR (5Y). **This is ACHIEVABLE.**
 
 To earn a 15% return over 10 years at 20x terminal PE: HAL needs 20.8% EPS CAGR — this exceeds its 10-year track record but is within its 5-year track record. **This is OPTIMISTIC but not unreasonable given the order book ramp.**
 
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. For HAL, both verdicts converge (gap ≤ 2 pp), confirming EPS is a reliable proxy. For capital-heavy businesses where the gap exceeds 5 pp, always defer to the OEPS-based verdict.
+
 **Verdict: 🟡 YELLOW — Fair but Optimistic.** At ₹4,358, the market is asking HAL to deliver slightly better than its historical average. The massive order book makes this achievable, but there is no fat-pitch pricing.
+
+> *"At the current price of ₹4,358, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 15.6% CAGR (and Owner Earnings at 17.6% CAGR). The company has historically grown EPS at 17.5% CAGR (10Y) and Owner Earnings at 12.4% CAGR (10Y). This implies the market is pricing in fair-to-optimistic growth — achievable given the ₹2.54L Cr order book, but with no margin for error. Note: the EPS-based assessment aligns closely with the Owner Earnings assessment (2 pp gap), confirming HAL is asset-light and EPS is a reliable proxy for true economic earnings.*
 
 > *"Price is what you pay, value is what you get."* — Warren Buffett
 
@@ -531,20 +584,20 @@ At today's price, you are paying for the visible order book execution. You are N
 | Book Value (1x P/B) | ₹555 | ~₹555 | -87% |
 | Recession (normalised EPS ₹100 × 15x) | Bear market floor | ~₹1,500 | -66% |
 | Historical low PE (~18x on current EPS) | Market panic | ~₹2,394 | -45% |
-| Conservative DCF | Fundamental floor | ~₹2,459 | -44% |
+| Conservative DCF | Fundamental floor | ~₹3,351 | -23% |
 
 **Upside:**
 
 | Scenario | Basis | Implied Price | Upside |
 |---|---|---|---|
-| Base DCF | ₹4,111 | ₹4,111 | -6% |
+| Base DCF | ₹5,010 | ₹5,010 | +15% |
 | Optimistic DCF | ₹6,586 | ₹6,586 | +51% |
 | Order book re-rating (35x forward PE on ₹160 EPS) | Bull case | ₹5,600 | +29% |
 | Analyst targets | Citi ₹5,560, CLSA ₹5,175 | ~₹5,350 avg | +23% |
 
-**Asymmetry Ratio:** Realistic upside ~25-50% vs. Realistic downside ~44% (to conservative DCF). Ratio = ~0.6:1 to 1.2:1.
+**Asymmetry Ratio:** Realistic base-case upside ~15% (to base DCF ₹5,010) vs. Realistic downside ~23-45% (conservative DCF ₹3,351 to historical low PE ₹2,394). Using base upside vs. conservative downside: Ratio = 15% / 23% = ~0.7:1. Even using optimistic upside (51%) vs. conservative downside (23%), ratio = ~2.2:1.
 
-**Fat Pitch Verdict:** ❌ **This is NOT a fat pitch at ₹4,358.** The risk-reward is roughly symmetrical — the downside to fundamental value is comparable to the upside from optimistic execution. Buffett would say: "I'd rather wait for a better price."
+**Fat Pitch Verdict:** ❌ **This is NOT a fat pitch at ₹4,358.** The base-case risk-reward is modestly unfavourable — the downside to the conservative DCF (23%) exceeds the base-case upside (15%). The asymmetry only turns positive if you use the optimistic scenario, which requires 20% growth. Buffett would say: "I'd rather wait for a better price."
 
 **Mispricing Assessment:** There is NO obvious mispricing. The stock is roughly correctly valued for its current fundamentals and visible order book. The market has efficiently priced in the Atmanirbhar Bharat tailwind, the massive order book, and the margin expansion. Returns from here will be driven by execution, not by re-rating.
 
@@ -701,9 +754,9 @@ HAL operates in one of the most REGULATION-FRIENDLY environments possible. The I
 | **Financial Health** | 10/10 | Debt-free, massive FCF, customer-funded operations |
 | **Management Quality** | 7/10 | Honest, improving execution, but PSU bureaucratic limitations |
 | **Valuation** | 4/10 | At 33x PE and 8x P/B, priced for near-perfection |
-| **Margin of Safety** | 3/10 | Minimal at current price; ~-6% MoS in base DCF case |
+| **Margin of Safety** | 4/10 | Modest at current price; ~13% MoS in base DCF case (10% Buffett hurdle) |
 | **Scalability** | 8/10 | Strong scaler at inflection point; ₹2.54L Cr order book |
-| **Overall Score** | **7.1/10** | |
+| **Overall Score** | **7.3/10** | |
 | **Buffett Verdict** | | **Wonderful business at a full price.** HAL is the rare Indian company with a Buffett-quality moat — government monopoly, decades of switching costs, zero debt, and a massive order book providing long-term visibility. However, at ₹4,358 (33x PE, 8x P/B), the market has efficiently priced in the visible growth. Margin of safety is minimal. **HOLD if already owned; WAIT for a 25-30% correction (₹3,000-₹3,200) before initiating a new position.** |
 | **Buy Zone** | | Currently in **Fully Valued / Trim** zone. Ideal entry: ₹2,400-₹3,200 (Value zone). |
 | **Overall Recommendation** | | **HOLD / WAIT** — Do not initiate fresh positions at current levels. Accumulate aggressively on 25-30% corrections. |
