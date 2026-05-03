@@ -40,27 +40,28 @@ The Marlboro distribution licence in India is an asset that does not appear on t
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue (₹ Cr) | 2,477 | 2,586 | 2,331 | 2,403 | 2,326 | 2,497 | 2,877 | 2,525 | 2,688 | 3,562 | 4,018 | **5,611** | 6,177 |
 | Rev Growth YoY | — | 4.4% | **-9.9%** | 3.1% | -3.2% | 7.3% | 15.2% | -12.2% | 6.5% | 32.5% | 12.8% | **39.6%** | 26% |
-| Operating Profit (₹ Cr) | 367 | 367 | 324 | **254** | 260 | 403 | 592 | 541 | 633 | 804 | 903 | **1,177** | 1,301 |
-| OPM % | 14.8% | 14.2% | 13.9% | **10.6%** | 11.2% | 16.1% | 20.6% | 21.4% | **23.5%** | 22.6% | 22.5% | 21.0% | 21.1% |
+| Operating Profit (pre-D&A) (₹ Cr) | 367 | 367 | 324 | **254** | 260 | 403 | 592 | 541 | 633 | 804 | 903 | **1,177** | 1,301 |
+| OPM % (pre-D&A) | 14.8% | 14.2% | 13.9% | **10.6%** | 11.2% | 16.1% | 20.6% | 21.4% | **23.5%** | 22.6% | 22.5% | 21.0% | 21.1% |
+| Depreciation & Amortisation (₹ Cr) | 91 | 108 | 107 | 98 | 98 | 99 | 155 | 141 | 145 | 154 | 108 | 124 | 130 |
+| **EBIT (₹ Cr)** | 276 | 259 | 217 | **156** | 162 | 304 | 437 | 400 | 488 | 650 | 795 | **1,053** | 1,171 |
+| **EBIT Margin** | 11.1% | 10.0% | 9.3% | **6.5%** | 7.0% | 12.2% | 15.2% | 15.8% | 18.2% | 18.2% | **19.8%** | 18.8% | 19.0% |
 | Other Income (₹ Cr) | 12 | 32 | 37 | 47 | 73 | 79 | 107 | 119 | 114 | 252 | 328 | 349 | 472 |
 | Net Profit (₹ Cr) | 175 | 183 | 170 | **137** | 159 | 260 | 385 | 376 | 438 | 690 | 884 | **1,072** | 1,284 |
 | NP Growth YoY | — | 4.6% | -7.1% | **-19.4%** | 16.1% | 63.5% | 48.1% | -2.3% | 16.5% | 57.5% | 28.1% | **21.3%** | 20% |
 | NPM % | 7.1% | 7.1% | 7.3% | **5.7%** | 6.8% | 10.4% | 13.4% | 14.9% | 16.3% | 19.4% | **22.0%** | 19.1% | 20.8% |
 | EPS (₹, adj.) | 11.25 | 11.75 | 10.88 | **8.80** | 10.20 | 16.69 | 24.67 | 24.14 | 28.08 | 44.26 | 56.61 | **68.72** | 82.31 |
 | EPS Growth | — | 4.4% | -7.4% | **-19.1%** | 15.9% | 63.6% | 47.8% | -2.1% | 16.3% | 57.6% | 27.9% | **21.4%** | — |
-| EBITDA (₹ Cr) | 367 | 367 | 324 | **254** | 260 | 403 | 592 | 541 | 633 | 804 | 903 | **1,177** | 1,301 |
-| EBITDA Margin | 14.8% | 14.2% | 13.9% | **10.6%** | 11.2% | 16.1% | 20.6% | 21.4% | **23.5%** | 22.6% | 22.5% | 21.0% | 21.1% |
 | Div Payout % | 24% | 23% | 25% | 30% | 26% | **16%** | 32% | 33% | 33% | 33% | 33% | **46%** | — |
 
-*Note: All EPS figures are retroactively adjusted to the current post-bonus share base of ~15.6 Cr shares. Screener's "Operating Profit" line is used directly as EBITDA per framework convention.*
+*Note: All EPS figures are retroactively adjusted to the current post-bonus share base of ~15.6 Cr shares. Screener's "Operating Profit" line is pre-D&A (EBITDA-equivalent). EBIT = Screener Operating Profit minus D&A. This analysis tracks EBIT (not EBITDA) as the primary operating profitability metric, per Buffett/Munger philosophy: "References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?" (Buffett, 2000 Letter).*
 
 *Note on TTM Growth Figures: The TTM Revenue Growth (26%) and TTM NP Growth (20%) are both Screener.in's own reported "Compounded Growth — TTM" figures. However, they appear to use inconsistent base periods. TTM Revenue Growth of 26% is consistent with a TTM-vs-prior-TTM computation (₹6,177 / ₹4,912 = 25.8%). TTM NP Growth of 20%, however, matches a TTM-vs-FY25-annual computation (₹1,284 / ₹1,072 = 19.8%), not TTM-vs-prior-TTM. On a consistent TTM-vs-prior-TTM basis, NP growth would be ~27% (₹1,284 / ₹1,008, where ₹1,008 Cr is the prior TTM NP for the four quarters ending Dec 2024). The 20% figure is retained as Screener's reported data, but readers should note that underlying earnings momentum is stronger than the headline TTM growth suggests.*
 
 **Trend Narrative:**
 
-The income statement reveals a **dramatic profitability transformation.** From FY14 to FY18, GPIL was a mediocre business — revenue was flat (~₹2,300-2,600 Cr), OPM was stuck at 11-15%, and NP margins were a pedestrian 6-7%. The FY17 trough (OPM 10.6%, NP ₹137 Cr) coincided with demonetisation and excise disruptions.
+The income statement reveals a **dramatic profitability transformation.** From FY14 to FY18, GPIL was a mediocre business — revenue was flat (~₹2,300-2,600 Cr), OPM (pre-D&A) was stuck at 11-15%, and NP margins were a pedestrian 6-7%. The FY17 trough (OPM 10.6%, NP ₹137 Cr) coincided with demonetisation and excise disruptions.
 
-From FY19 onwards, the business underwent a structural re-rating in profitability. OPM nearly doubled from 11% to 21-24%, and NPM tripled from 7% to 19-22%. This was driven by portfolio premiumisation (shift toward higher-margin brands), pricing power (successive price hikes absorbed by inelastic demand), the exit of the loss-making 24Seven retail chain, and operating leverage on a growing revenue base.
+From FY19 onwards, the business underwent a structural re-rating in profitability. OPM (pre-D&A) nearly doubled from 11% to 21-24%, and NPM tripled from 7% to 19-22%. This was driven by portfolio premiumisation (shift toward higher-margin brands), pricing power (successive price hikes absorbed by inelastic demand), the exit of the loss-making 24Seven retail chain, and operating leverage on a growing revenue base.
 
 Critically, **earnings growth has massively outpaced revenue growth** — the hallmark of a business gaining operating leverage and pricing power. Revenue grew at 8% CAGR over 10 years, but net profit grew at 19% CAGR. This is the kind of margin expansion Buffett loves — it signals a strengthening moat.
 
@@ -81,6 +82,9 @@ Critically, **earnings growth has massively outpaced revenue growth** — the ha
 | Investments (₹ Cr) | 327 | 273 | 410 | 507 | 924 | 1,232 | 1,251 | 1,554 | 1,844 | 2,669 | 3,000 | **3,197** |
 | Net Cash/(Debt) (₹ Cr) | 88 | (4) | 278 | 434 | 896 | **1,190** | 894 | 1,158 | 1,507 | 2,314 | 2,655 | **3,018** |
 | Debt/Equity | 0.20 | **0.21** | 0.08 | 0.04 | **0.02** | 0.02 | 0.16 | 0.15 | 0.12 | 0.10 | 0.08 | **0.03** |
+| Debt/EBIT | 0.9x | 1.1x | 0.6x | 0.5x | **0.2x** | **0.1x** | 0.8x | 1.0x | 0.7x | 0.5x | 0.4x | **0.2x** |
+| Debt/Owner Earnings | 1.1x | 1.2x | 0.6x | 0.4x | **0.1x** | **0.2x** | 1.4x | 1.0x | 0.7x | 0.4x | 0.4x | **0.2x** |
+| Interest Coverage (EBIT/Int) | 9.5x | 13.6x | 21.7x | 39.0x | 81.0x | **304.0x** | 14.6x | 12.9x | 14.4x | 22.4x | 56.8x | **87.8x** |
 | BVPS (₹, adj.) | 75.9 | 84.1 | 101.0 | 106.4 | 114.9 | 130.6 | 140.2 | 165.5 | 187.6 | 227.4 | 271.3 | **336.2** |
 | Fixed Assets (₹ Cr) | **707** | 675 | 695 | 700 | 650 | 694 | 1,015 | 1,034 | 983 | 932 | 893 | **732** |
 | Current Ratio (approx.) | 1.66 | 2.19 | 2.23 | 2.08 | 1.35 | 1.18 | 1.35 | 1.48 | 1.47 | 1.26 | 1.53 | **1.95** |
@@ -136,14 +140,15 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | ROE % | 14.8% | 14.7% | 11.8% | **8.5%** | 9.2% | 13.6% | 18.2% | 15.8% | 15.9% | 21.3% | **22.7%** | **22.6%** |
 | ROIC % | 22.8% | 18.7% | 17.5% | 14.3% | 19.7% | 32.3% | 34.3% | 29.3% | 34.3% | **51.5%** | 45.8% | 40.7% |
 | Debt/Equity | 0.20 | **0.21** | 0.08 | 0.04 | **0.02** | 0.02 | 0.16 | 0.15 | 0.12 | 0.10 | 0.08 | **0.03** |
-| OPM % | 14.8% | 14.2% | 13.9% | **10.6%** | 11.2% | 16.1% | 20.6% | 21.4% | **23.5%** | 22.6% | 22.5% | 21.0% |
+| OPM % (pre-D&A, Screener) | 14.8% | 14.2% | 13.9% | **10.6%** | 11.2% | 16.1% | 20.6% | 21.4% | **23.5%** | 22.6% | 22.5% | 21.0% |
+| **EBIT Margin %** | 11.1% | 10.0% | 9.3% | **6.5%** | 7.0% | 12.2% | 15.2% | 15.8% | 18.2% | 18.2% | **19.8%** | 18.8% |
 | NPM % | 7.1% | 7.1% | 7.3% | **5.7%** | 6.8% | 10.4% | 13.4% | 14.9% | 16.3% | 19.4% | **22.0%** | 19.1% |
 | Debtor Days | 15 | 18 | 17 | **27** | 13 | **10** | 9 | 18 | 21 | 15 | 16 | **34** |
 | Inventory Days | 216 | 248 | **257** | **187** | 179 | 218 | 199 | 222 | 247 | 190 | 242 | 224 |
 | Cash Conv Cycle | 176 | 217 | **231** | 169 | **140** | **130** | 134 | 170 | 192 | 131 | 191 | 202 |
 | Working Capital Days | 23 | 39 | **74** | 70 | 30 | **9** | 21 | 33 | 42 | 21 | 56 | **89** |
 | Current Ratio | 1.66 | **2.19** | 2.23 | 2.08 | 1.35 | **1.18** | 1.35 | 1.48 | 1.47 | 1.26 | 1.53 | **1.95** |
-| Interest Coverage | 13.1x | 21.0x | 36.1x | 75.3x | **166.5x** | **482.0x** | 23.3x | 21.3x | 22.0x | 36.4x | 87.9x | **127.2x** |
+| Interest Coverage (EBIT/Int) | 9.5x | 13.6x | 21.7x | 39.0x | 81.0x | **304.0x** | 14.6x | 12.9x | 14.4x | 22.4x | 56.8x | **87.8x** |
 | Div Payout % | 24% | 23% | 25% | 30% | 26% | **16%** | 32% | 33% | 33% | 33% | 33% | **46%** |
 
 ### Part B: Buffett's Quality Checklist
@@ -158,14 +163,16 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | Positive Free Cash Flow | Positive | Positive in 10 of 12 years | ✅ |
 | Promoter/Insider holding | Aligned | **72.58% promoter** (KK Modi + PMI 25.1%) | ✅ |
 | Dividend payout | Paying | **~30% average (12Y), rising to 46%** | ✅ |
-| OPM stability | Stable | **21–23.5% range (last 5Y)** | ✅ |
+| EBIT Margin stability | Stable | **6.5–19.8% range (expanding strongly); 15–19% last 5Y** | ✅ |
 | Moat / Pricing Power | Identifiable | **Marlboro licence + brand portfolio + addictive product** | ✅ |
 | ROIC | >15% | **40.7% latest; 40.3% 5Y avg (FY21-FY25)** | ✅ |
 | Earnings yield | Reasonable | **3.84% at CMP** | ⚠️ (not cheap) |
 
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
 **Score: 10/12 Clear Passes, 2 Caution flags.**
 
-The ratio trends reveal a company that has transformed from a mediocre cigarette maker (FY14-18: ROCE 10-18%, ROE 8-15%, OPM 11-15%) into a genuine quality compounder (FY20-25: ROCE 20-26%, ROE 18-23%, OPM 21-24%). The ROIC trajectory — from 14% in FY17 to 41% in FY25 — is extraordinary and signals that every incremental rupee reinvested is generating 40+ paise of after-tax operating income. This is the hallmark of a business with a widening moat.
+The ratio trends reveal a company that has transformed from a mediocre cigarette maker (FY14-18: ROCE 10-18%, ROE 8-15%, OPM (pre-D&A) 11-15%) into a genuine quality compounder (FY20-25: ROCE 20-26%, ROE 18-23%, OPM 21-24%, EBIT Margin 15-20%). The ROIC trajectory — from 14% in FY17 to 41% in FY25 — is extraordinary and signals that every incremental rupee reinvested is generating 40+ paise of after-tax operating income. This is the hallmark of a business with a widening moat.
 
 ---
 
@@ -175,20 +182,23 @@ The ratio trends reveal a company that has transformed from a mediocre cigarette
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales (₹ Cr) | 920 | **796** | 1,046 | 1,158 | 1,250 | 875 | 1,088 | 1,360 | 1,589 | 1,573 | 1,486 | **1,289** | **1,829** |
 | YoY Sales Gr % | — | — | — | — | 35.9% | 9.9% | 4.0% | 17.4% | 27.1% | 79.8% | 36.6% | -5.2% | **15.1%** |
-| Op Profit (₹ Cr) | 210 | **152** | 253 | 224 | 228 | 191 | 270 | 277 | 361 | 269 | 338 | 314 | **380** |
-| OPM % | 23% | **19%** | 24% | 19% | 18% | 22% | **25%** | 20% | 23% | **17%** | 23% | 24% | 21% |
+| Op Profit (pre-D&A) (₹ Cr) | 210 | **152** | 253 | 224 | 228 | 191 | 270 | 277 | 361 | 269 | 338 | 314 | **380** |
+| OPM % (pre-D&A) | 23% | **19%** | 24% | 19% | 18% | 22% | **25%** | 20% | 23% | **17%** | 23% | 24% | 21% |
+| Depreciation (₹ Cr) | 39 | 37 | 37 | 36 | 36 | 28 | 27 | 27 | 28 | 42 | 28 | 29 | 31 |
+| **EBIT (₹ Cr)** | 171 | **115** | 216 | 188 | 192 | 163 | **243** | 250 | **333** | 227 | 310 | 285 | **349** |
+| **EBIT Margin %** | 18.6% | **14.4%** | 20.7% | 16.2% | 15.4% | 18.6% | **22.3%** | 18.4% | 21.0% | **14.4%** | 20.9% | 22.1% | 19.1% |
 | Net Profit (₹ Cr) | 199 | **147** | 254 | 202 | 212 | 215 | 229 | 248 | 316 | 280 | **356** | 305 | **343** |
 | NPM % | 21.6% | **18.5%** | **24.3%** | 17.4% | 17.0% | 24.6% | 21.0% | 18.2% | 19.9% | 17.8% | 23.9% | 23.7% | 18.8% |
 | EPS (₹, adj.) | 12.77 | **9.43** | 16.31 | 12.95 | 13.61 | 13.73 | 14.65 | 15.92 | 20.25 | 17.90 | **22.84** | 19.56 | **22.01** |
 | Other Inc (₹ Cr) | 79 | 44 | 53 | 38 | 87 | **114** | 40 | 94 | 80 | **136** | **141** | 101 | 94 |
 
-*Note: FY24 quarterly "Sales" figures from Screener sum to ₹4,329 Cr vs the annual "Revenue" figure of ₹4,018 Cr — a ₹311 Cr (7.7%) discrepancy. This is a Screener reporting-basis difference (quarterly Sales may include gross excise/duty components that are netted in the annual P&L), not an analytical error. FY25 quarterly sum (₹5,610 Cr) matches the annual figure (₹5,611 Cr) to within ₹1 Cr. As a result, some FY25 YoY quarterly growth rates (especially Mar25's 79.8%) may appear distorted when compared against the FY24 quarterly base.*
+*Note: FY24 quarterly "Sales" figures from Screener sum to ₹4,329 Cr vs the annual "Revenue" figure of ₹4,018 Cr — a ₹311 Cr (7.7%) discrepancy. This is a Screener reporting-basis difference (quarterly Sales may include gross excise/duty components that are netted in the annual P&L), not an analytical error. Similarly, FY24 quarterly Depreciation figures sum to ₹137 Cr vs the annual figure of ₹108 Cr; accordingly, FY24 quarterly EBIT and EBIT Margin figures (Jun23 through Mar24) should be interpreted with this reporting-basis caveat. FY25 quarterly sums match the annual figures for both Sales and D&A. As a result, some FY25 YoY quarterly growth rates (especially Mar25's 79.8%) may appear distorted when compared against the FY24 quarterly base.*
 
 ### Key Observations:
 
 **1. Revenue Trajectory:** Revenue has shown strong momentum, hitting an all-time quarterly high of ₹1,829 Cr in Dec25. The FY26 9-month revenue of ₹4,604 Cr (Jun25+Sep25+Dec25) vs 9M FY25 of ₹4,037 Cr represents ~14% YoY growth. However, there is pronounced seasonality — Q4 (Mar quarter) consistently shows lower revenue, while Q3 (Dec quarter) tends to peak, likely reflecting festive demand and channel stocking patterns.
 
-**2. Margin Trend:** OPM has been volatile in the 17-25% range. The Mar25 quarter's 17% OPM was the weakest, coinciding with the excise duty transition period. Recent quarters (Jun25: 23%, Sep25: 24%, Dec25: 21%) show margins stabilising in the 21-24% band despite the massive excise duty restructuring. The Dec25 OPM compression to 21% from Sep25's 24% reflects higher input costs on a high-revenue quarter.
+**2. Margin Trend:** OPM (pre-D&A) has been volatile in the 17-25% range. The Mar25 quarter's 17% OPM was the weakest, coinciding with the excise duty transition period. Recent quarters (Jun25: 23%, Sep25: 24%, Dec25: 21%) show margins stabilising in the 21-24% band. **EBIT Margin** (after D&A — the true operating margin) tells a similar but slightly more volatile story: the range is 14-22%, with the Mar25 dip to 14.4% driven by both lower OPM and a spike in depreciation (₹42 Cr vs the usual ₹27-31 Cr). Importantly, the gap between OPM and EBIT Margin has been narrowing in recent years as D&A has declined relative to revenue (D&A/Revenue fell from ~5% in FY20 to ~2% in FY25), confirming the capital-light nature of the business. This is a pattern EBITDA-based analysis would miss entirely — OPM looks stable, but EBIT Margin has been expanding faster because the business is becoming even more capital-light over time.
 
 **3. Normalised Quarterly EPS Run-Rate:** Stripping out volatility, the last 4 quarters (Mar25 through Dec25) deliver total EPS of ₹82.31 (TTM). The normalised quarterly run-rate is approximately ₹20-22/share, implying annualised earnings power of ₹80-88/share. This supports the TTM EPS of ₹82.31 as a reliable base for valuation.
 
@@ -325,20 +335,20 @@ Buffett: *"We do not get enthused about change... we're looking for the absence 
 **1. Revenue Scalability:**
 Cigarette revenue scales through two levers: volume growth and price/mix improvement. In India, the volume opportunity comes from converting illicit/bidi consumption into legal cigarettes. The price opportunity comes from premiumisation (upgrading consumers to higher-priced brands). Both levers require minimal incremental capital.
 
-**2. Profit Scalability — Incremental Margins:**
+**2. Profit Scalability — Incremental EBIT Margins:**
 
-| Year | Revenue | Rev Growth | Op Profit | OP Growth | NP | NP Growth | Incremental OPM* |
-|---|---|---|---|---|---|---|---|
-| FY20 | 2,877 | 15.2% | 592 | 46.9% | 385 | 48.1% | **49.7%** |
-| FY21 | 2,525 | -12.2% | 541 | -8.6% | 376 | -2.3% | 14.5% |
-| FY22 | 2,688 | 6.5% | 633 | 17.0% | 438 | 16.5% | **56.4%** |
-| FY23 | 3,562 | 32.5% | 804 | 27.0% | 690 | 57.5% | **19.6%** |
-| FY24 | 4,018 | 12.8% | 903 | 12.3% | 884 | 28.1% | **21.7%** |
-| FY25 | 5,611 | 39.6% | 1,177 | 30.3% | 1,072 | 21.3% | **17.2%** |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | NP | NP Growth | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|---|---|
+| FY20 | 2,877 | 15.2% | 437 | 43.8% | 15.2% | 385 | 48.1% | **35.0%** |
+| FY21 | 2,525 | -12.2% | 400 | -8.5% | 15.8% | 376 | -2.3% | 10.5% |
+| FY22 | 2,688 | 6.5% | 488 | 22.0% | 18.2% | 438 | 16.5% | **54.0%** |
+| FY23 | 3,562 | 32.5% | 650 | 33.2% | 18.2% | 690 | 57.5% | **18.5%** |
+| FY24 | 4,018 | 12.8% | 795 | 22.3% | 19.8% | 884 | 28.1% | **31.8%** |
+| FY25 | 5,611 | 39.6% | 1,053 | 32.5% | 18.8% | 1,072 | 21.3% | **16.2%** |
 
-*Incremental OPM = ΔOperating Profit / ΔRevenue*
+*\*Incremental EBIT Margin = ΔEBIT / ΔRevenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. A business that grows revenue while D&A is rising faster will show improving pre-D&A margins but declining EBIT margins — the EBIT-based incremental margin reveals the truth.*
 
-The incremental OPM has been volatile but generally at or near the current OPM of 21%, suggesting the business is a **linear scaler** — each new rupee of revenue is roughly as profitable as the last. This is expected for a cigarette company where pricing-led growth (not volume-led) dominates. In years with strong pricing actions (FY20, FY22), incremental margins were exceptionally high (50%+), confirming operating leverage when volume holds steady.
+The incremental EBIT margin has been volatile (10-54%) but generally at or near the current EBIT Margin of 19%, suggesting the business is a **linear-to-good scaler** — each new rupee of revenue generates roughly the same or better EBIT after accounting for capital consumption. In years with strong pricing actions (FY20, FY22), incremental EBIT margins were exceptionally high (35-54%), confirming genuine operating leverage. Critically, because GPIL's D&A has been flat-to-declining while revenue doubled, the EBIT-based scaling picture is slightly better than what pre-D&A OPM alone would suggest — the business is becoming more capital-light as it scales.
 
 **3. Capital Scalability:**
 CapEx as % of revenue has declined from 3-5% to 1.1%. Revenue per rupee of CapEx has improved dramatically. The business requires almost zero incremental capital to grow — it grows through pricing, not capacity addition.
@@ -401,7 +411,7 @@ Buffett: *"When management with a reputation for brilliance tackles a business w
 | Revenue (₹ Cr) | 2,326 | 2,497 | 2,877 | 2,525 | 2,688 | 3,562 | 4,018 | **5,611** |
 | Cigarette Rev % of Total | ~95% | ~95% | ~96% | ~97% | ~98% | ~99% | ~99% | **~99%** |
 | Mkt Share (Volume %) | ~13% | ~13% | ~13% | ~13% | ~13% | ~14% | ~14% | **~14%** |
-| OPM % | 11.2% | 16.1% | 20.6% | 21.4% | 23.5% | 22.6% | 22.5% | **21.0%** |
+| OPM % (pre-D&A) | 11.2% | 16.1% | 20.6% | 21.4% | 23.5% | 22.6% | 22.5% | **21.0%** |
 | Revenue/Employee (₹ Cr) | — | — | — | — | — | — | — | — |
 | Debtor Days | 13 | 10 | 9 | 18 | 21 | 15 | 16 | **34** |
 | Inventory Days | 179 | 218 | 199 | 222 | 247 | 190 | 242 | **224** |
@@ -423,14 +433,18 @@ The operational fundamentals are **improving beneath the financial surface:**
 
 | Metric | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** | **Current** |
 |---|---|---|---|---|---|---|---|---|
+| **P/Owner Earnings (primary Buffett-pure multiple)** | ~19x | ~15x | ~14x | ~13x | ~15x | ~28x | ~28x | **28.8x (on FY25 OE)** |
+| Owner Earnings/Share (₹) | 17.7 | 16.2 | 26.7 | 33.1 | 50.9 | 61.4 | 74.3 | **74.3 (FY25)** |
+| **Owner Earnings Yield** | — | — | — | — | — | — | — | **3.47%** |
 | EPS (₹, adj.) | 16.69 | 24.67 | 24.14 | 28.08 | 44.26 | 56.61 | 68.72 | **82.31 (TTM)** |
 | PE Ratio (approx.) | ~20x | ~10x | ~15x | ~15x | ~17x | ~30x | ~30x | **26.0x (on TTM EPS)** |
+| Earnings Yield | — | — | — | — | — | — | — | **3.84%** |
 | Book Value/Share (₹) | 130.6 | 140.2 | 165.5 | 187.6 | 227.4 | 271.3 | 336.2 | **336.2 (FY25)** |
 | P/B Ratio | ~2.6x | ~1.8x | ~2.2x | ~2.3x | ~3.3x | ~6.3x | ~6.1x | **6.4x (on FY25 BV)** |
-| Owner Earnings/Share (₹) | 17.7 | 16.2 | 26.7 | 33.1 | 50.9 | 61.4 | 74.3 | **74.3 (FY25)** |
-| P/Owner Earnings | ~19x | ~15x | ~14x | ~13x | ~15x | ~28x | ~28x | **28.8x (on FY25 OE)** |
-| Earnings Yield | — | — | — | — | — | — | — | **3.84%** |
+| EV/EBIT (cross-check) | — | — | — | — | — | — | — | **25.9x (on TTM EBIT)** |
 | Dividend Yield | — | — | — | — | — | — | — | **~1.5%** |
+
+> **Why P/Owner Earnings is the primary multiple:** P/OE starts from Buffett's preferred measure of true economic cash flow (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates. PE is useful for comparability but can be distorted by D&A timing. EV/EBIT is included as a secondary cross-check for institutional comparability — Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets.
 
 **Valuation Context:**
 
@@ -499,6 +513,8 @@ Buffett: *"Price is what you pay, value is what you get."* At ₹2,141, you're p
 | CMP | ₹2,141 |
 | TTM Normalised EPS | ₹82.31 |
 | Current PE | 26.0x |
+| **Owner Earnings Per Share (OEPS)** | **₹74.3 (FY25)** |
+| **Current P/OE (on OEPS)** | **28.8x** |
 | Shares Outstanding (Diluted) | 15.6 Cr |
 
 ### Step 2-3: Implied EPS CAGR Needed
@@ -535,14 +551,46 @@ Buffett: *"Price is what you pay, value is what you get."* At ₹2,141, you're p
 | 10 Years | 10.4% | 15.5% | 20.5% |
 | 15 Years | 10.3% | 15.3% | 20.3% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading: a company can grow EPS by underinvesting in maintenance, financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett: *"Accounting is the language of business, but like any language, it can be used to obfuscate rather than illuminate."*
+
+**Formula:**
+```
+Required Future Price         = CMP × (1 + Hurdle Rate)^n
+Required Future OEPS          = Required Future Price / Terminal P/OE Multiple
+Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
+```
+
+**Current OEPS:** ₹74.3 (FY25) | **Current P/OE:** 28.8x | **Terminal P/OE:** 17x (Market Average — slightly below PE because OE < NI for most businesses; for GPIL, OE > EPS so the gap is small)
+
+#### Implied OEPS CAGR Needed at Terminal P/OE = 17x (Market Average)
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 22.2% | 27.8% | 33.4% |
+| 10 Years | 16.0% | 21.2% | 26.5% |
+| 15 Years | 13.9% | 19.1% | 24.3% |
+
+#### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal Market Avg PE (20x) / P/OE (17x) | 10-Year, 10% Return |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 12.9% | |
+| Implied OEPS CAGR (from Step 3B) | 16.0% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **3.1 pp** | |
+
+**Interpretation:** The 3.1 pp gap falls in the **2-5 pp "moderate capital intensity"** band. However, for GPIL this gap is NOT caused by capital intensity (the business is extremely capital-light). It arises because the Terminal P/OE multiple (17x) is lower than the Terminal PE (20x), reflecting the general principle that P/OE < PE for most businesses. For GPIL specifically, OE/share (₹74.3) is actually *higher* than EPS (₹68.72) because D&A exceeds maintenance CapEx — so the gap is a multiple-convention difference, not a capital-intensity red flag. **Both the EPS and OEPS verdicts point in the same direction: reasonable growth expectations.**
+
 ### Step 4: Reality Check
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| GPIL 5Y historical EPS CAGR | 22.7% |
-| GPIL 10Y historical EPS CAGR | 19.3% |
-| Cigarette industry growth | 8-12% |
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| GPIL 5Y historical EPS CAGR | 22.7% | 35.6% | What it has actually delivered |
+| GPIL 10Y historical EPS CAGR | 19.3% | 17.4% | Longer-term track record |
+| GPIL historical Owner Earnings CAGR | — | 17.4% (10Y) | Buffett-pure benchmark |
+| Cigarette industry growth | 8-12% | 8-12% | Peer comparison |
 
 **Traffic Light Assessment:**
 
@@ -552,9 +600,11 @@ For a 15% return over 10 years at 25x terminal PE, GPIL needs 15.5% EPS CAGR. Th
 
 If the PE compresses to 15x (mature business), GPIL needs 16.2% EPS CAGR for a 10% return — slightly below its 10Y historical rate of 19.3%. This is still reasonable — 🟡 YELLOW.
 
+> **Apply the Traffic Light to BOTH EPS and OEPS implied growth.** At Terminal P/OE 17x and 10-year holding period, a 10% hurdle requires 16.0% OEPS CAGR. GPIL's historical 10Y Owner Earnings CAGR is 17.4%. This is achievable — 🟢 GREEN. The EPS and OEPS verdicts are consistent for this asset-light business, confirming the standard EPS-based Reverse DCF is reliable here.
+
 ### Step 5: Verdict
 
-> *"At the current price of ₹2,141, to earn a 10% annualised return over 10 years assuming the market values the business at 25x PE at exit, the company needs to grow EPS at 10.4% CAGR. The company has historically grown EPS at 19.3% CAGR. This implies the market is pricing in very reasonable growth — well below what the company has delivered historically."*
+> *"At the current price of ₹2,141, to earn a 10% annualised return over 10 years assuming the market values the business at 25x PE at exit, the company needs to grow EPS at 10.4% CAGR (and Owner Earnings at ~16% CAGR at 17x terminal P/OE). The company has historically grown EPS at 19.3% CAGR and Owner Earnings at 17.4% CAGR. This implies the market is pricing in very reasonable growth — well below what the company has delivered historically. The EPS and OEPS assessments are consistent, confirming the business is asset-light and EPS is a reliable proxy for economic earnings."*
 
 **Napkin Test: 🟢 REASONABLE PRICE.** The implied growth is achievable and the market is not demanding heroic assumptions.
 
