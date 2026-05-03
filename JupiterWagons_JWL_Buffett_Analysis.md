@@ -37,18 +37,20 @@ Jupiter Wagons Ltd (formerly CEBBCO) is India's leading integrated railway engin
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 138 | 118 | 107 | 105 | **97** | 216 | 126 | 996 | 1,178 | 2,068 | 3,641 | **3,871** |
 | Revenue Growth % | — | -14.5 | -9.3 | -1.9 | **-7.6** | 122.7 | -41.7 | 690.5 | 18.3 | 75.6 | 76.1 | **6.3** |
-| Operating Profit (= EBITDA)† | -21 | **-84** | -13 | 2 | 0 | 12 | 2 | 106 | 114 | 254 | 491 | **548** |
-| OPM % | -15% | **-71%** | -12% | 2% | 0% | 6% | 2% | 11% | 10% | 12% | 13% | **14%** |
+| Operating Profit (pre-D&A)† | -21 | **-84** | -13 | 2 | 0 | 12 | 2 | 106 | 114 | 254 | 491 | **548** |
+| OPM % (pre-D&A) | -15% | **-71%** | -12% | 2% | 0% | 6% | 2% | 11% | 10% | 12% | 13% | **14%** |
+| Depreciation & Amortisation | **30** | 20 | 15 | 10 | 10 | 10 | 8 | 21 | 23 | 25 | 28 | 31 |
+| **EBIT (OP minus D&A)** | **-51** | **-104** | -28 | -8 | -10 | 2 | -6 | 85 | 91 | 229 | 463 | **517** |
+| **EBIT Margin %** | **-37.0%** | **-88.1%** | -26.2% | -7.6% | -10.3% | 0.9% | -4.8% | 8.5% | 7.7% | 11.1% | 12.7% | **13.4%** |
 | Net Income | -70 | -103 | **-105** | -36 | -37 | 89 | 0 | 54 | 50 | 125 | 333 | **373** |
 | Net Margin % | **-51%** | -87% | **-98%** | -34% | -38% | 41% | 0% | 5.4% | 4.2% | 6.0% | 9.1% | **9.6%** |
 | EPS (₹) | -12.82 | -18.66 | **-19.07** | -6.48 | -6.72 | 9.91 | -0.02 | 5.98 | 5.59 | 3.24 | 8.07 | **8.79** |
-| Depreciation | **30** | 20 | 15 | 10 | 10 | 10 | 8 | 21 | 23 | 25 | 28 | 31 |
 | Interest | 19 | 22 | 21 | **27** | **28** | 22 | 6 | 21 | 18 | 29 | 41 | 53 |
 | Dividend Payout % | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 15 | 7 | **15** |
 
-*†Screener.in's "Operating Profit" line = Sales − Expenses (where Expenses exclude Depreciation & Amortisation). This already equals EBITDA by definition. A separate EBITDA row is therefore omitted to avoid redundancy.*
+*†Screener.in's "Operating Profit" = Sales − Expenses (excluding D&A). This is EBITDA-equivalent, not true EBIT. Per Buffett/Munger philosophy, this prompt tracks EBIT (after D&A) as the primary operating profitability metric. Buffett (2000 Letter): "References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?" Munger: "I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"*
 
-**Trend Narrative:** This is a **turnaround story**, not a steady compounder. FY2014-FY2020 was a period of losses, distress, and near-death (the old CEBBCO entity). The Jupiter Group took control in FY2019 via the resolution process, and the business was reborn. Post-FY2021, revenues have exploded from ₹996 Cr to ₹3,871 Cr (40% CAGR over 4 years), margins have expanded from 11% to 14% OPM, and net profit has gone from ₹54 Cr to ₹373 Cr (62% CAGR). Earnings growth has massively outpaced revenue growth — a sign of operating leverage kicking in.
+**Trend Narrative:** This is a **turnaround story**, not a steady compounder. FY2014-FY2020 was a period of losses, distress, and near-death (the old CEBBCO entity). The Jupiter Group took control in FY2019 via the resolution process, and the business was reborn. Post-FY2021, revenues have exploded from ₹996 Cr to ₹3,871 Cr (40% CAGR over 4 years), OPM (pre-D&A) has expanded from 11% to 14%, EBIT margin has expanded from 8.5% to 13.4%, and net profit has gone from ₹54 Cr to ₹373 Cr (62% CAGR). Earnings growth has massively outpaced revenue growth — a sign of operating leverage kicking in. Notably, EBIT margin expansion (8.5% → 13.4%, +490 bps) has tracked OPM expansion (11% → 14%, +300 bps) closely, indicating that D&A as a percentage of revenue has actually *declined* — the business is becoming more capital-efficient, not less.
 
 **Critical caution:** FY2025 revenue growth decelerated sharply to just 6.3%, and the recent FY2026 quarters show YoY *declines* of 22-54% due to wheelset supply disruptions. The hypergrowth phase appears to have hit a supply-side wall.
 
@@ -69,6 +71,9 @@ Jupiter Wagons Ltd (formerly CEBBCO) is India's leading integrated railway engin
 | Total Borrowings | 42 | 50 | 138 | 139 | 288 | 338 | 394 |
 | Net Debt | 33 | 30 | 108 | 83 | 213 | 292 | ~344 |
 | Debt/Equity | 0.44 | 0.53 | 0.22 | 0.20 | 0.36 | 0.21 | **0.14** |
+| Debt/EBIT | 21.0x | Neg | 1.6x | 1.5x | 1.3x | **0.7x** | 0.8x |
+| Net Debt/Owner Earnings | 0.4x | Neg | 2.0x | 1.7x | 1.7x | **0.9x** | 0.9x |
+| Interest Coverage (EBIT/Interest) | 0.1x | Neg | 4.0x | 5.1x | 7.9x | **11.3x** | 9.8x |
 | Fixed Assets + CWIP | 113 | 117 | 437 | 448 | 489 | 547 | 627 |
 | Investments | 0 | 0 | 4 | 10 | 16 | 452 | **1,093** |
 | Other Assets | 95 | 83 | 550 | 615 | 1,133 | 1,796 | 2,151 |
@@ -136,7 +141,8 @@ For a capital goods company in heavy investment mode, negative FCF is expected a
 | ROCE % | **-13** | -6 | -8 | 2 | -2 | 19 | 12 | 24 | **32** | 21.5 |
 | ROE % (avg equity) | Neg | Neg | Neg | ~94 | 0 | 14.8† | 7.6 | 16.8 | **27.4** | 17.1 |
 | Debt/Equity | Neg | Neg | Neg | 0.44 | 0.53 | 0.22 | 0.20 | 0.36 | 0.21 | **0.14** |
-| OPM % | **-12** | 2 | 0 | 6 | 2 | 11 | 10 | 12 | 13 | **14** |
+| OPM % (pre-D&A, Screener) | **-12** | 2 | 0 | 6 | 2 | 11 | 10 | 12 | 13 | **14** |
+| **EBIT Margin %** | **-26** | -8 | -10 | 1 | -5 | 9 | 8 | 11 | **12.7** | **13.4** |
 | NPM % | **-98** | -34 | -38 | 41 | 0 | 5.4 | 4.2 | 6.0 | 9.1 | **9.6** |
 | Debtor Days | 42 | 54 | 26 | 30 | 32 | 26 | **22** | 38 | 47 | **76** |
 | Inventory Days | 43 | 30 | 43 | 30 | **174** | 120 | 130 | 114 | 117 | 86 |
@@ -160,9 +166,11 @@ For a capital goods company in heavy investment mode, negative FCF is expected a
 | Positive Free Cash Flow | Positive | -₹603 Cr (FY25) — heavy investment phase | ❌ Fail (growth capex; expected to turn positive) |
 | Promoter holding | Aligned | 68.3% | ✅ Strong alignment |
 | Dividend payout | Paying | 15% (just started FY23) | ✅ Token dividends initiated |
-| OPM stability | Stable | 10-14% range since FY2021 | ⚠️ Narrow range, but only 5 years of positive margins |
+| EBIT Margin stability | Stable | 8-13% range since FY2021; expanding trend | ⚠️ Narrow range, but only 5 years of positive margins |
 | Moat / Pricing Power | Identifiable | Licensed wagon manufacturer, backward integration into wheelsets | ⚠️ Government-dependent, moderate moat |
 | Earnings yield | Reasonable | 3.2% (FY25 EPS), 2.1% (TTM) | ❌ Low — stock is expensive |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Narrative:** Jupiter Wagons has delivered spectacular numbers over the past 4-5 years, but the track record is too short to confirm durability. The pre-2019 history was one of destruction. The post-2019 revival under the Jupiter Group is impressive, but Buffett would want to see this level of performance sustained through a full cycle — including periods of government capex slowdown, raw material inflation, and competitive pressure. The current ROCE of 21.5% is strong, but the rising debtor days and negative FCF are yellow flags.
 
@@ -176,8 +184,11 @@ For a capital goods company in heavy investment mode, negative FCF is expected a
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 644 | 712 | 753 | 879 | 896 | **1,113** | 895 | 974 | 1,000 | 1,002 | **411** | 707 | 776 |
 | YoY Growth % | — | — | — | — | +39% | **+56%** | +19% | +11% | +12% | -10% | **-54%** | -27% | -22% |
-| Operating Profit | 81 | 93 | 97 | 121 | 125 | **148** | 129 | 133 | 141 | 145 | **51** | 88 | 94 |
-| OPM % | 13 | 13 | 13 | **14** | **14** | 13 | **14** | **14** | **14** | **14** | **12** | **12** | **12** |
+| Operating Profit (pre-D&A) | 81 | 93 | 97 | 121 | 125 | **148** | 129 | 133 | 141 | 145 | **51** | 88 | 94 |
+| OPM % (pre-D&A) | 13 | 13 | 13 | **14** | **14** | 13 | **14** | **14** | **14** | **14** | **12** | **12** | **12** |
+| Depreciation | 6 | 6 | 7 | 7 | 7 | 7 | 7 | 8 | 8 | 8 | 9 | 9 | 9 |
+| **EBIT** | 75 | 87 | 90 | 114 | 118 | **141** | 122 | 125 | 133 | 137 | **42** | 79 | 85 |
+| **EBIT Margin %** | 11.6 | 12.2 | 12.0 | 13.0 | 13.2 | **12.7** | **13.6** | 12.8 | 13.3 | **13.7** | **10.2** | 11.2 | **11.0** |
 | Net Profit | 46 | 41 | 64 | 82 | 83 | **104** | 89 | 89 | 98 | 97 | **33** | 53 | 58 |
 | EPS (₹) | 1.20 | 1.05 | 1.59 | 2.04 | 2.02 | **2.53** | 2.16 | 2.09 | 2.31 | 2.29 | **0.77** | 1.24 | 1.36 |
 
@@ -185,7 +196,7 @@ For a capital goods company in heavy investment mode, negative FCF is expected a
 
 1. **Revenue Trajectory — DETERIORATING:** Revenue peaked at ₹1,113 Cr in Q4FY24 and has fallen sharply. The Q1FY26 print of ₹411 Cr was catastrophic — a 54% YoY decline driven by severe wheelset supply constraints. Q2 and Q3 improved sequentially (₹707 → ₹776 Cr) as supply normalized, but are still 22-27% below year-ago levels.
 
-2. **Margin Trend — COMPRESSING:** OPM dropped from 14% (FY2025 quarters) to 12% in FY2026. This 200 bps compression is likely due to lower capacity utilization (fixed costs spread over fewer wagons) and possibly pricing pressure.
+2. **Margin Trend — COMPRESSING:** OPM (pre-D&A) dropped from 14% (FY2025 quarters) to 12% in FY2026. EBIT margin shows a similar pattern: 13-14% in FY2025 quarters compressing to 10-11% in FY2026. The ~250 bps EBIT margin compression is slightly worse than the ~200 bps OPM compression because quarterly depreciation has risen from ₹7 Cr to ₹9 Cr (reflecting recent capex on the Odisha plant). This is a pattern that EBITDA-based analysis would miss entirely — OPM looks like a 200 bps problem, but EBIT reveals a 250 bps problem as rising D&A adds to the margin drag. The compression is likely due to lower capacity utilization (fixed costs spread over fewer wagons) and possibly pricing pressure.
 
 3. **Normalised Quarterly EPS Run-Rate:** The most recent quarter (Dec 2025) shows ₹1.36 EPS. Annualised: ₹5.44. The 9-month FY26 cumulative EPS is approximately ₹3.37 (0.77 + 1.24 + 1.36). Full-year FY26 EPS is likely ₹5.5-6.5 — a **sharp decline from FY25's ₹8.79.** The TTM EPS of ₹5.66 (from Screener) reflects this deterioration.
 
@@ -304,16 +315,18 @@ For a capital goods company in heavy investment mode, negative FCF is expected a
 
 ## 11. SCALABILITY CHECK — Can This Business Scale?
 
-### Part A: Incremental Operating Margins
+### Part A: Incremental EBIT Margins
 
-| Year | Revenue | Δ Revenue | Operating Profit | Δ OP | Incremental Margin |
-|---|---|---|---|---|---|
-| FY2022 | 1,178 | +182 | 114 | +8 | 4.4% |
-| FY2023 | 2,068 | +890 | 254 | +140 | **15.7%** |
-| FY2024 | 3,641 | +1,573 | 491 | +237 | **15.1%** |
-| FY2025 | 3,871 | +230 | 548 | +57 | **24.8%** |
+| Year | Revenue | Δ Revenue | EBIT | EBIT Margin | Δ EBIT | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY2022 | 1,178 | +182 | 91 | 7.7% | +6 | 3.3% |
+| FY2023 | 2,068 | +890 | 229 | 11.1% | +138 | **15.5%** |
+| FY2024 | 3,641 | +1,573 | 463 | 12.7% | +234 | **14.9%** |
+| FY2025 | 3,871 | +230 | 517 | 13.4% | +54 | **23.5%** |
 
-Incremental margins of 15-25% vs. current margins of 14% = **the business IS scaling.** Each new rupee of revenue is generating higher profits than the existing base. This is operating leverage in action.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins exceed current EBIT margins, the business is scaling genuinely after accounting for the capital it consumes.*
+
+Incremental EBIT margins of 15-24% vs. current EBIT margin of 13.4% = **the business IS scaling on a true post-depreciation basis.** Each new rupee of revenue is generating higher *real* operating profits than the existing base. This is genuine operating leverage, not an EBITDA illusion.
 
 ### Part B: Scaling Runway
 
@@ -367,7 +380,7 @@ For every ₹1 of retained earnings, the market has created ₹13.10 of market v
 | Order Book / Revenue | ~1.7x | ~2.4x | ~1.9x | ~1.6x | ~2.0x (on 9M annualised run-rate) |
 | Revenue / Employee | N/A | N/A | N/A | N/A | N/A |
 | Debtor Days | 22 | 38 | 47 | **76** | Likely elevated |
-| OPM % | 10% | 12% | 13% | **14%** | ~12% |
+| OPM % (pre-D&A) | 10% | 12% | 13% | **14%** | ~12% |
 
 **Order Book Provides Visibility:** The ₹5,041 Cr order book (as of Dec 2025) provides approximately 1.3x cover on FY2025 full-year revenue (₹3,871 Cr), or approximately 1.7-2.0x on the current depressed FY2026 trailing run-rate (₹2,525-2,896 Cr). Either way, this is healthy for a capital goods company and suggests the demand side is intact despite the supply-driven revenue decline.
 
@@ -377,12 +390,18 @@ For every ₹1 of retained earnings, the market has created ₹13.10 of market v
 
 | Metric | FY2022 | FY2023 | FY2024 | **FY2025** | **Current (TTM)** |
 |---|---|---|---|---|---|
+| **P/Owner Earnings (primary Buffett-pure multiple)** | ~20x | ~50x | ~50x | **31.0x** | **48.2x** |
 | PE Ratio | ~20x | ~50x | ~50x | **31.1x** | **48.2x** |
 | P/B Ratio | — | ~6x | ~10x | **4.17x** | 4.17x |
-| EV/EBITDA | ~10x | ~20x | ~25x | ~22x | ~30x (TTM) |
+| EV/EBIT | ~130x | ~52x | ~26x | **23.1x** | ~35x (TTM) |
 | Earnings Yield | 5.0% | 2.0% | 2.0% | 3.2% | **2.1%** |
+| **Owner Earnings Yield (OEPS/CMP)** | 5.0% | 2.0% | 2.0% | **3.2%** | **2.1%** |
 | Book Value/Share | 17.6 | 20.9 | 39.4 | **65.4** | 65.4 |
 | Dividend Yield | 0% | 0.2% | 0.2% | **0.34%** | 0.34% |
+
+*Note on historical PE vs EV/EBIT comparability (FY2022-FY2024): Historical PE uses Screener's reported EPS, which is computed on the weighted-average share count for each year (8.9 Cr for FY2022, ~38.7 Cr for FY2023, ~41 Cr for FY2024 — varying due to the CEBBCO amalgamation and QIP issuances). EV/EBIT uses year-end market capitalisation (price × total shares outstanding at year-end). Since the share bases differ dramatically in pre-FY2025 years, PE and EV/EBIT cannot be directly cross-derived for those years. FY2025 and TTM figures use a stable ~42.4 Cr share base and are fully consistent (PE 31.1x × NI/EBIT × (1 + Net Debt/MC) = EV/EBIT 23.1x). The decision-relevant multiples (FY2025 and TTM) are correct; the historical columns are directionally useful for trend context but not cross-comparable in the PE-to-EV/EBIT identity sense.*
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT and P/Owner Earnings are the multiples Buffett would use: they account for the capital the business consumes before you get your return. **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from the true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner. For JWL, Owner Earnings ≈ Net Income (since maintenance capex ≈ depreciation), so P/OE ≈ PE — the 0.1x difference (31.0x vs 31.1x) reflects minor share-count rounding between the Owner Earnings calculation (42.4 Cr shares) and Screener's EPS denominator (42.44 Cr diluted shares). The distinction becomes material for capital-heavy businesses where maintenance capex significantly exceeds depreciation.
 
 *Note: The dividend yield (0.34%, from Screener) and dividend payout ratio (15%, from Screener) appear arithmetically inconsistent — a 15% payout on FY2025 NI of ₹373 Cr implies DPS of ₹1.32 and yield of ~0.48% at CMP. The discrepancy likely reflects different dividend periods, timing of ex-dates, or Screener's yield being computed on a different price base. Both figures are sourced directly from Screener.in.*
 
@@ -418,6 +437,15 @@ For every ₹1 of retained earnings, the market has created ₹13.10 of market v
 
 **Inputs:** CMP = ₹273, Normalised EPS = ₹8.79 (FY2025), Current PE = 31.1x
 
+| Input | Value | Source |
+|---|---|---|
+| Current Market Price (CMP) | ₹273 | Market data |
+| TTM EPS (Normalised) | ₹8.79 | FY2025 standalone EPS |
+| **Owner Earnings Per Share (OEPS)** | **₹8.80** | Owner Earnings (₹373 Cr) / 42.4 Cr diluted shares. For JWL, OE ≈ NI since maintenance capex ≈ depreciation. |
+| Current PE (on Normalised EPS) | 31.1x | CMP / EPS |
+| **Current P/OE (on OEPS)** | **31.0x** | CMP / OEPS — the Buffett-pure valuation multiple |
+| Shares Outstanding (Diluted) | 42.4 Cr | Latest data |
+
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
 **At Terminal PE = 15x (Mature)**
@@ -448,18 +476,45 @@ For every ₹1 of retained earnings, the market has created ₹13.10 of market v
 | 5 Years | **7.4%** | 12.3% | 17.2% |
 | 10 Years | **8.7%** | 13.6% | 18.6% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But Owner Earnings strips out accounting noise and measures the TRUE economic cash the business generates for its owner. For JWL, Owner Earnings ≈ Net Income (since maintenance capex ≈ depreciation), so the gap between EPS and OEPS implied growth is driven primarily by the terminal multiple difference (PE vs. P/OE). For capital-heavy businesses where maintenance capex exceeds depreciation, this gap would be much larger — and the OEPS-based Reverse DCF would reveal a significantly higher growth hurdle than the EPS version suggests.
+
+**At Terminal P/OE = 17x (Market Average)**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | **24.1%** OEPS CAGR needed | 29.7% | 35.3% |
+| 10 Years | **16.8%** OEPS CAGR needed | 22.1% | 27.4% |
+| 15 Years | **14.5%** OEPS CAGR needed | 19.7% | 24.9% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal Market Avg PE/P(OE) | 10-Year, 10% Return |
+|---|---|---|
+| Implied EPS CAGR (Step 3, Terminal PE = 20x) | 14.9% | |
+| Implied OEPS CAGR (Step 3B, Terminal P/OE = 17x) | 16.8% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **1.9 pp** | |
+
+**Interpretation:** The gap of 1.9 pp is **≤ 2 pp** → JWL is an **asset-light business** at the standalone level (maintenance capex ≈ depreciation, so Owner Earnings ≈ Net Income). The standard EPS-based Reverse DCF is reliable for this company. The modest gap is driven entirely by the lower terminal P/OE multiple (17x vs. 20x PE), not by capital intensity distorting earnings. For capital-hungry businesses (steel, cement, utilities), this gap would be 5-10+ pp, revealing a much larger hidden growth hurdle.
+
 ### Reality Check
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| JWL historical 4Y EPS CAGR (FY21-25, adjusted) | ~62% |
-| Industry average | 12-18% |
-| Analyst consensus (pre-disruption) | ~25-30% |
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| JWL historical 4Y EPS CAGR (FY21-25, adjusted) | ~62% | ~62% (OE = NI) | What it has actually delivered |
+| JWL historical OE CAGR | — | ~62% | Buffett-pure benchmark |
+| Industry average | 12-18% | 12-18% | Peer comparison |
+| Analyst consensus (pre-disruption) | ~25-30% | — | Market expectations |
 
-**Traffic Light:** To earn a 10% return over 10 years at a terminal PE of 20x, JWL needs to deliver **14.9% EPS CAGR.** This is above nominal GDP growth but below its historical 62% CAGR. 🟡 **YELLOW — Fair but optimistic.** The catch: the 62% historical CAGR is from a low base (turnaround), and FY2026 is showing negative growth. Sustaining 15% for a decade requires the wheelset plant, EV business, and container segments to all deliver.
+**Traffic Light (EPS-based):** To earn a 10% return over 10 years at a terminal PE of 20x, JWL needs to deliver **14.9% EPS CAGR.** This is above nominal GDP growth but below its historical 62% CAGR. 🟡 **YELLOW — Fair but optimistic.** The catch: the 62% historical CAGR is from a low base (turnaround), and FY2026 is showing negative growth. Sustaining 15% for a decade requires the wheelset plant, EV business, and container segments to all deliver.
 
-To earn 15% return over 10 years at 20x terminal PE, JWL needs **20.2% EPS CAGR.** This is aggressive for a company facing near-term headwinds. 🟠 **ORANGE — Expensive.**
+**Traffic Light (OEPS-based):** The OEPS-based hurdle is 16.8% — also 🟡 **YELLOW.** Since the EPS and OEPS verdicts agree (both Yellow), the EPS-based assessment is reliable for JWL. For capital-heavy businesses where the verdicts diverge (e.g., EPS says 🟢 but OEPS says 🟡), always defer to the OEPS verdict.
+
+To earn 15% return over 10 years at 20x terminal PE, JWL needs **20.2% EPS CAGR** (and **22.1% OEPS CAGR** at 17x terminal P/OE). This is aggressive for a company facing near-term headwinds. 🟠 **ORANGE — Expensive.**
+
+**Verdict:** *"At the current price of ₹273, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 14.9% CAGR (and Owner Earnings at 16.8% CAGR at 17x terminal P/OE). The company has historically grown EPS at ~62% CAGR and Owner Earnings at ~62% CAGR. This implies the market is pricing in fair-but-optimistic growth — the required growth rate is achievable but not guaranteed, particularly given the FY2026 earnings decline."*
 
 ---
 
