@@ -34,17 +34,21 @@ Indigo's business is simple to understand: buy raw materials (titanium dioxide, 
 
 ## 2. INCOME STATEMENT ANALYSIS — Revenue & Profitability Trends
 
-All figures in ₹ Crores (Standalone). EBITDA = Screener's Operating Profit per the framework convention (Screener's OP already equals EBITDA as it includes D&A add-back in its definition).
+All figures in ₹ Crores (Standalone).
+
+> **Screener Data Note:** Screener.in's "Operating Profit" is calculated as Revenue minus operating expenses BEFORE deducting Depreciation & Amortisation — making it **EBITDA-equivalent**. This prompt does NOT track EBITDA as a standalone valuation metric. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* Instead, we compute and track **EBIT** (Operating Profit minus D&A) — the true operating profit after accounting for capital consumed.
 
 | Metric | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | TTM |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 289 | 411 | 536 | 625 | 723 | 906 | 1,073 | **1,255** | 1,277 | 1,299 |
 | Revenue Growth YoY | — | 42.2% | 30.4% | 16.6% | 15.7% | 25.3% | 18.4% | 17.0% | **1.8%** | — |
-| **EBITDA (Operating Profit)** | -2 | 24 | 54 | 91 | 123 | 136 | 182 | **233** | 232 | 241 |
-| OPM % | -1% | 6% | 10% | 15% | 17% | 15% | 17% | **19%** | 18% | 19% |
+| **Operating Profit (pre-D&A)** | -2 | 24 | 54 | 91 | 123 | 136 | 182 | **233** | 232 | 241 |
+| OPM % (pre-D&A) | -1% | 6% | 10% | 15% | 17% | 15% | 17% | **19%** | 18% | 19% |
+| Depreciation & Amortisation | 14 | 17 | 17 | 20 | 24 | 31 | 34 | 46 | 54 | 53 |
+| **EBIT (OP minus D&A)** | **-16** | 7 | 37 | 71 | 99 | 105 | 148 | **187** | 178 | 188 |
+| **EBIT Margin** | **-5.5%** | 1.7% | 6.9% | 11.4% | 13.7% | 11.6% | 13.8% | **14.9%** | 13.9% | 14.5% |
 | Other Income | 1 | -1 | 1 | 2 | 4 | 11 | 10 | 13 | 17 | 12 |
 | Interest | 3 | 4 | 5 | 6 | 4 | 1 | 1 | 2 | 3 | 3 |
-| Depreciation | 14 | 17 | 17 | 20 | 24 | 31 | 34 | 46 | 54 | 53 |
 | PBT | -18 | 2 | 34 | 67 | 98 | 114 | 156 | **198** | 192 | 196 |
 | Tax Rate | -10% | -14% | 20% | 29% | 28% | 26% | **15%** | 25% | 25% | — |
 | **Net Profit** | **-16** | 3 | 27 | 48 | 71 | 84 | 132 | **149** | 144 | 145 |
@@ -56,11 +60,11 @@ All figures in ₹ Crores (Standalone). EBITDA = Screener's Operating Profit per
 
 **Note on EPS:** EPS figures are sourced directly from Screener.in and may not exactly reconcile with the rounded Net Profit figures in this table (Screener uses more precise, unrounded NP for EPS calculation). For example, FY18 NP is displayed as ₹3 Cr (rounded) but the underlying figure used for EPS of ₹0.90 is closer to ₹2.6 Cr.
 
-**Note on Rounding:** All line items are independently rounded to the nearest ₹ Cr from Screener's source data. Derived calculations (e.g., PBT = EBITDA + Other Income − Interest − Depreciation) may therefore show ±₹1 Cr variance from the stated PBT figure.
+**Note on Rounding:** All line items are independently rounded to the nearest ₹ Cr from Screener's source data. Derived calculations (e.g., PBT = Operating Profit (pre-D&A) + Other Income − Interest − Depreciation) may therefore show ±₹1 Cr variance from the stated PBT figure.
 
 **Trend Narrative:**
 
-The story of Indigo Paints is one of spectacular growth followed by a sharp deceleration. Revenue grew at a 30%+ CAGR from FY15 to FY25 (Screener.in: FY15 revenue ₹90 Cr → FY25 ₹1,277 Cr), but the most recent year (FY25) saw growth collapse to just **1.8%** — a dramatic slowdown. Operating margins have expanded beautifully from negative territory in FY17 to a peak of 19% in FY24, but FY25 saw a slight compression to 18%.
+The story of Indigo Paints is one of spectacular growth followed by a sharp deceleration. Revenue grew at a 30%+ CAGR from FY15 to FY25 (Screener.in: FY15 revenue ₹90 Cr → FY25 ₹1,277 Cr), but the most recent year (FY25) saw growth collapse to just **1.8%** — a dramatic slowdown. Pre-D&A operating margins have expanded beautifully from negative territory in FY17 to a peak of 19% in FY24, but FY25 saw a slight compression to 18%. EBIT margins (the true after-capital-charge profitability) peaked at 14.9% in FY24 and compressed to 13.9% in FY25, with rising D&A from the new Jodhpur plant absorbing a growing share of operating profit.
 
 Net profit actually **declined** from ₹149 Cr in FY24 to ₹144 Cr in FY25, the first year-on-year decline in profits since the company turned profitable. EPS declined from ₹31.22 to ₹30.22.
 
@@ -87,13 +91,16 @@ All figures in ₹ Crores (Standalone).
 | Borrowings | 54 | 88 | 75 | 9 | 12 | 12 | 17 | **20** |
 | Other Liabilities | 125 | 156 | 169 | 239 | 258 | 274 | 290 | 290 |
 | **Debt / Equity** | 0.54 | 0.68 | 0.42 | **0.02** | 0.02 | 0.02 | 0.02 | 0.02 |
+| **Debt / EBIT** | 7.7x | 2.4x | 1.1x | **0.1x** | 0.1x | 0.1x | 0.1x | 0.1x |
+| **Net Debt / Owner Earnings** | 4.0x | 2.0x | 1.0x | **-0.5x** | -1.7x | -0.8x | -1.0x | **-1.4x** |
+| **Interest Coverage (EBIT / Int.)** | 1.8x | 7.4x | 11.8x | 24.8x | **105.0x** | 148.0x | 93.5x | 59.3x |
 | Net Cash / (Debt) | -39 | -68 | -54 | 41 | 161 | 120 | 171 | **227** |
 | BVPS (₹) | 34.5 | 44.5 | 61.7 | 117.5 | 135.4 | 161.9 | 190.6 | **218.3** |
 | Tangible BV/Share (₹) | 34.5 | 44.5 | 61.7 | 117.5 | 135.4 | 161.9 | 190.6 | 218.3 |
 
 **Buffett's Financial Fortress Assessment:**
 
-This is an **exceptionally clean balance sheet**. The company is virtually debt-free with a Debt/Equity ratio of just 0.02x. After the IPO in FY21, the company used proceeds to retire most debt and has maintained near-zero leverage since. The balance sheet holds **₹247 Cr in investments and ₹20 Cr in borrowings**, translating to a **net cash position of ₹227 Cr** — this is a genuine financial fortress.
+This is an **exceptionally clean balance sheet**. The company is virtually debt-free with a Debt/Equity ratio of just 0.02x and Debt/EBIT of just 0.1x. After the IPO in FY21, the company used proceeds to retire most debt and has maintained near-zero leverage since. The balance sheet holds **₹247 Cr in investments and ₹20 Cr in borrowings**, translating to a **net cash position of ₹227 Cr** — this is a genuine financial fortress. Net Debt/Owner Earnings is **-1.4x** (negative = net cash exceeds obligations), and Interest Coverage (EBIT/Interest) of 59.3x in FY25 means EBIT covers interest costs nearly 60 times over.
 
 No goodwill on the balance sheet (Tangible Book = Book Value), meaning BVPS of ₹218.3 represents real, tangible assets. BVPS has compounded at a healthy rate: from ₹117.5 in FY21 to ₹218.3 in FY25 — a CAGR of ~16.7%.
 
@@ -145,14 +152,15 @@ This is ~15% higher than reported net income, reflecting the difference between 
 | ROCE % | **-10** | 5 | 21 | **31** | 25 | 19 | 22 | 23 | 20 |
 | ROE % | -14.1 | 3.0 | 23.6 | **31.2** | 19.1 | 13.8 | 18.5 | 17.6 | **14.7** |
 | Debt/Equity | 0.53 | 0.54 | 0.68 | 0.42 | **0.02** | 0.02 | 0.02 | 0.02 | 0.02 |
-| OPM % | -1 | 6 | 10 | 15 | 17 | 15 | 17 | **19** | 18 |
+| OPM % (pre-D&A, Screener) | -1 | 6 | 10 | 15 | 17 | 15 | 17 | **19** | 18 |
+| **EBIT Margin %** | **-5.5** | 1.7 | 6.9 | 11.4 | **13.7** | 11.6 | 13.8 | **14.9** | 13.9 |
 | NPM % | **-5.5** | 0.7 | 5.0 | 7.7 | 9.8 | 9.3 | **12.3** | 11.9 | 11.3 |
 | Debtor Days | **99** | 92 | 71 | 61 | 61 | 69 | 68 | **59** | 63 |
 | Inventory Days | **107** | 81 | 85 | 87 | 92 | 84 | **72** | 93 | 80 |
 | Cash Conv. Cycle | 16 | 2 | -11 | -9 | **-27** | 10 | 18 | 29 | **54** |
 | Working Capital Days | 9 | 6 | -9 | 0 | 3 | 22 | 25 | **37** | 35 |
 | Current Ratio | 1.41 | 1.34 | 1.29 | 1.18 | 2.13 | 1.71 | 1.51 | 1.62 | 1.56 |
-| Interest Coverage | N/M | 6.0x | 10.8x | 15.2x | 30.8x | **136.0x** | 182.0x | 116.5x | 77.3x |
+| Interest Coverage (pre-D&A) | N/M | 6.0x | 10.8x | 15.2x | 30.8x | **136.0x** | 182.0x | 116.5x | 77.3x |
 | Div. Payout % | 0 | 0 | 0 | 0 | 0 | 17 | 13 | 11 | 12 |
 
 ### Part B: Buffett's Quality Checklist
@@ -167,9 +175,11 @@ This is ~15% higher than reported net income, reflecting the difference between 
 | Positive Free Cash Flow | Positive | ₹30 Cr (FY25) | ⚠️ Positive but thin (2.3% FCF margin) |
 | Promoter/Insider holding | Aligned | 53.9% | ✅ Pass — strong promoter stake |
 | Dividend payout | Paying | ~13% avg | ⚠️ Low but acceptable for growth co. |
-| OPM stability | Stable | 15-19% range (5Y) | ✅ Pass — stable and expanding |
+| EBIT Margin stability | Stable | 11.6-14.9% range (5Y) | ✅ Pass — stable, expanding until FY25 mild compression |
 | Moat / Pricing Power | Identifiable | Category-creator in niche segments | ⚠️ Real but narrow vs. Asian Paints |
 | Earnings yield | Reasonable | 3.6% | ⚠️ Low — implies market pricing in growth |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 > *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Buffett
 
@@ -184,16 +194,19 @@ Standalone quarterly figures in ₹ Crores.
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 281 | 325 | 277 | 270 | 341 | **366** | 294 | 289 | 327 | **367** | 295 | 298 | 339 |
-| OPM % | 14 | **22** | 17 | **15** | 18 | **22** | 16 | **15** | 18 | **23** | **15** | **15** | 19 |
+| Operating Profit (pre-D&A) | 41 | 72 | 48 | 42 | 61 | **82** | 46 | 43 | 57 | **86** | 44 | 46 | 66 |
+| OPM % (pre-D&A) | 14 | **22** | 17 | **15** | 18 | **22** | 16 | **15** | 18 | **23** | **15** | **15** | 19 |
+| Depreciation | 9 | 9 | 9 | 10 | 13 | 14 | 14 | 14 | 14 | 12 | 14 | 14 | 14 |
+| **EBIT** | 32 | **63** | 39 | **32** | 48 | **68** | 32 | **29** | 43 | **74** | **30** | 32 | 52 |
+| **EBIT Margin %** | 11.4 | **19.4** | 14.1 | **11.9** | 14.1 | **18.6** | **10.9** | **10.0** | 13.1 | **20.2** | **10.2** | 10.7 | 15.3 |
 | Net Profit | 26 | 49 | 31 | 26 | 38 | **54** | 26 | **24** | 36 | **57** | 26 | 26 | 36 |
 | EPS (₹) | 5.52 | 10.23 | 6.58 | 5.49 | 7.92 | **11.24** | 5.56 | **5.06** | 7.65 | **11.95** | 5.53 | 5.35 | 7.58 |
-| Depreciation | 9 | 9 | 9 | 10 | 13 | 14 | 14 | 14 | 14 | 12 | 14 | 14 | 14 |
 
 ### Key Observations:
 
 **1. Revenue Trajectory:** The business shows a clear **seasonal pattern** — Q4 (March quarter) is consistently the strongest quarter due to the painting season, while Q1 (June) and Q2 (September) are weaker. Revenue has been broadly flat YoY: Dec25 (₹339 Cr) vs Dec24 (₹327 Cr) is +3.7% growth, suggesting a mild recovery but nothing dramatic.
 
-**2. Margin Trend:** OPM follows a similar seasonal pattern — Q4 delivers 22-23% margins while Q1/Q2 compress to 15-16%. This is structural (higher volumes in Q4 absorb fixed costs). There is no evidence of secular margin compression — the pattern is remarkably consistent across years.
+**2. Margin Trend:** Pre-D&A OPM follows a seasonal pattern — Q4 delivers 22-23% while Q1/Q2 compress to 15-16%. This is structural (higher volumes in Q4 absorb fixed costs). EBIT Margin shows the same seasonality but at a lower level (Q4: 18-20%, Q1/Q2: 10-11%), reflecting the D&A charge that EBITDA-based analysis ignores. Notably, EBIT Margin in Q1/Q2 has compressed slightly from ~14% (Jun23) to ~10% (Jun24-Jun25), while OPM has remained stable at 15-17% — this divergence reflects rising depreciation from the new Jodhpur plant capacity, a pattern that EBITDA-based analysis would completely miss. The rising D&A is not a red flag (it reflects productive new capacity), but it does mean that EBIT margins will remain compressed until the new capacity generates proportional revenue.
 
 **3. Normalised Quarterly EPS Run-Rate:** Stripping out seasonality, the last 4 quarters (Mar25 + Jun25 + Sep25 + Dec25) give an annualised EPS of ₹11.95 + 5.53 + 5.35 + 7.58 = ₹30.41 (matching Screener's TTM). This is broadly in line with FY25 full-year EPS of ₹30.22.
 
@@ -347,17 +360,19 @@ The paint industry fits this criterion perfectly. The question is whether Indigo
 
 ### Part A: Unit Economics of Scaling
 
-**Incremental Operating Margins:**
+**Incremental EBIT Margins:**
 
-| Year | Revenue | Rev Growth | Op. Profit | OP Growth | NP | NP Growth | Incremental OP Margin |
-|---|---|---|---|---|---|---|---|
-| FY21 | 723 | 15.7% | 123 | 35.2% | 71 | 47.9% | **32.7%** |
-| FY22 | 906 | 25.3% | 136 | 10.6% | 84 | 18.3% | **7.1%** |
-| FY23 | 1,073 | 18.4% | 182 | 33.8% | 132 | 57.1% | **27.5%** |
-| FY24 | 1,255 | 17.0% | 233 | 28.0% | 149 | 12.9% | **28.0%** |
-| FY25 | 1,277 | 1.8% | 232 | -0.4% | 144 | -3.4% | **-4.5%** |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | NP | NP Growth | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|---|---|
+| FY21 | 723 | 15.7% | 99 | 39.4% | 13.7% | 71 | 47.9% | **28.6%** |
+| FY22 | 906 | 25.3% | 105 | 6.1% | 11.6% | 84 | 18.3% | **3.3%** |
+| FY23 | 1,073 | 18.4% | 148 | 41.0% | 13.8% | 132 | 57.1% | **25.7%** |
+| FY24 | 1,255 | 17.0% | 187 | 26.4% | 14.9% | 149 | 12.9% | **21.4%** |
+| FY25 | 1,277 | 1.8% | 178 | -4.8% | 13.9% | 144 | -3.4% | **-40.9%** |
 
-**FY21, FY23, and FY24 showed excellent scaling** — incremental margins of 27-33% (well above current OPM of 18%), indicating operating leverage was working beautifully in those years. However, **FY22 was a notable exception** with an incremental margin of just 7.1%, likely due to raw material cost inflation that compressed margins even as revenue grew strongly. **FY25 was a disaster for scaling metrics** — revenue barely grew, yet operating profit actually declined slightly, producing a negative incremental margin. This is the signature of a business hitting growth friction.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins are HIGHER than current EBIT margins, the business is scaling beautifully. If LOWER, scaling friction or rising capital intensity is present.*
+
+**FY21, FY23, and FY24 showed strong EBIT-based scaling** — incremental EBIT margins of 21-29% (well above current EBIT margin of ~14%), indicating genuine operating leverage after accounting for D&A. However, **FY22 was a notable exception** with an incremental EBIT margin of just 3.3% — raw material cost inflation compressed margins even as revenue grew strongly, and higher D&A from recent capex ate further into incremental profitability (note: the pre-D&A incremental margin was 7.1% in FY22, already weak, and the EBIT-based figure of 3.3% reveals an even worse picture once capital consumption is included). **FY25 was a disaster** — revenue barely grew while EBIT actually declined 4.8%, producing a deeply negative incremental EBIT margin of -40.9%.
 
 ### Part B: Scaling Runway
 
@@ -398,7 +413,7 @@ The $1 test **fails spectacularly** — for every ₹1 retained, the market has 
 
 If we measure management by operating metrics rather than market price:
 - Revenue grew 41% from ₹906 Cr (FY22) to ₹1,277 Cr (FY25)
-- Operating margins expanded from 15% to 18%
+- Pre-D&A operating margins expanded from 15% to 18% (EBIT margins from 12% to 14%)
 - Balance sheet remained debt-free
 - New manufacturing capacity being built (Jodhpur plant)
 - No questionable acquisitions or related-party transactions
@@ -429,14 +444,17 @@ The operational fundamentals show steady distribution expansion (dealer network 
 
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current |
 |---|---|---|---|---|---|---|---|
+| **P/Owner Earnings (primary Buffett-pure multiple)** | — | — | — | — | — | — | **24.2x** |
+| **Owner Earnings Yield (OEPS / CMP)** | — | — | — | — | — | — | **4.1%** |
 | EPS (₹) | 16.48 | 14.89 | 17.67 | 27.73 | 31.22 | 30.22 | 30.41 (TTM) |
 | BVPS (₹) | 61.7 | 117.5 | 135.4 | 161.9 | 190.6 | 218.3 | ~218.3 |
 | PE Ratio | — | ~175x | ~113x | ~44x | ~38x | ~33x | **27.5x** |
 | P/B Ratio | — | ~22x | ~14.8x | ~7.5x | ~6.3x | ~4.5x | **3.83x** |
-| EV/EBITDA | — | — | — | ~25x | ~18x | ~16x | **15.7x** |
+| EV/EBIT | — | — | — | — | — | — | **20.2x** |
 | Earnings Yield | — | 0.6% | 0.9% | 2.3% | 2.6% | 3.0% | **3.6%** |
-| P/Owner Earnings | — | — | — | — | — | — | **24.2x** |
 | Dividend Yield | — | — | — | 0.3% | 0.3% | 0.4% | **0.42%** |
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT accounts for the capital the business consumes. **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner. EV/EBIT is included as a secondary cross-check for institutional comparability; Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets.
 
 **Historical Comparison:** The stock has NEVER traded at current valuation levels during its listed history. It listed at 175x PE and has been consistently de-rating. The current 27.5x PE is the cheapest the stock has ever been. However, 27.5x PE is still expensive for a company growing EPS at only 0-3% YoY.
 
@@ -480,9 +498,27 @@ The key sensitivity: if growth stays at the current 2% rate (not 12-15%), intrin
 
 ## 16. REVERSE DCF — Napkin Math Reality Check
 
-**Inputs:** CMP = ₹837, TTM EPS = ₹30.41, Current PE = 27.5x
+### Step 1: Establish the Inputs
 
-### Implied EPS CAGR Needed to Achieve Target Returns
+| Input | Value | Source |
+|---|---|---|
+| Current Market Price (CMP) | ₹837 | Market data |
+| TTM EPS (Normalised) | ₹30.41 | Screener TTM (GAAP) |
+| **Owner Earnings Per Share (OEPS)** | **₹34.6** | TTM Owner Earnings ₹166.2 Cr / 4.8 Cr diluted shares (Section 8) |
+| Current PE (on Normalised EPS) | 27.5x | CMP / EPS |
+| **Current P/OE (on OEPS)** | **24.2x** | CMP / OEPS — the Buffett-pure valuation multiple |
+| Shares Outstanding (Diluted) | 4.8 Cr | Latest data |
+
+### Step 2: Terminal PE Scenarios
+
+| Scenario | Terminal PE | Rationale |
+|---|---|---|
+| **Mature / Low-Growth** | 15x | Business has matured, growth ≈ GDP |
+| **Market Average** | 20x | Grows roughly in line with market |
+| **Above-Average Compounder** | 28x | Faster growth, durable moat |
+| **Historical Average PE** | 35x | Company's own median PE since listing |
+
+### Step 3: Implied EPS CAGR Needed to Achieve Target Returns
 
 **Terminal PE = 15x (Mature):**
 
@@ -516,26 +552,56 @@ The key sensitivity: if growth stays at the current 2% rate (not 12-15%), intrin
 | 10 Years | 7.4% | 12.3% | 17.1% |
 | 15 Years | 8.2% | 13.2% | 18.1% |
 
-### Reality Check
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| Indigo 5Y EPS CAGR (FY20-FY25) | ~13% (post-dilution adjusted) |
-| Indigo 3Y EPS CAGR (FY22-FY25) | ~20% |
-| Industry growth rate | 8-10% |
+> **Why this matters:** EPS can be misleading: a company can grow EPS by underinvesting in maintenance or via financial engineering. Owner Earnings strips this out — it measures the TRUE economic cash the business generates after maintaining its productive capacity. If the EPS-based Reverse DCF says "the market needs 15% EPS growth" but the OEPS-based version says "the business needs 20% Owner Earnings growth," that's a red flag indicating capital intensity is masking the true hurdle. Buffett: *"Accounting is the language of business, but like any language, it can be used to obfuscate rather than illuminate."*
+
+**Terminal P/OE = 17x (Market Average for Owner Earnings — slightly below 20x PE, reflecting that P/OE < PE for capital-consuming businesses):**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 18.0% OEPS CAGR | 23.4% | 28.8% |
+| 10 Years | 14.0% OEPS CAGR | 19.1% | 24.3% |
+| 15 Years | 12.6% OEPS CAGR | 17.7% | 22.9% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal Market Avg PE / P(OE) | 10-Year, 10% Hurdle |
+|---|---|---|
+| Implied EPS CAGR (from Step 3, Terminal PE = 20x) | 13.6% | |
+| Implied OEPS CAGR (from Step 3B, Terminal P/OE = 17x) | 14.0% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **0.4 pp** | |
+
+**Interpretation:** The gap of just 0.4 pp confirms that **Indigo Paints is an asset-light business** where EPS closely tracks true economic earnings. The standard EPS-based Reverse DCF is reliable for this company. This is consistent with a paint manufacturer — maintenance capex is a small fraction of depreciation, and there is no significant capital intensity masking earnings quality. The divergence test is a non-issue here. 🟢
+
+### Step 4: Reality Check — Is the Implied Growth Reasonable?
+
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| Indigo 5Y EPS CAGR (FY20-FY25) | ~13% | — | Actual track record |
+| Indigo 3Y EPS CAGR (FY22-FY25) | ~20% | — | Shorter-term track record |
+| Indigo 5Y Owner Earnings CAGR (FY20-FY25) | — | ~24% | Buffett-pure benchmark |
+| Industry growth rate | 8-10% | 8-10% | Peer comparison |
+| Analyst consensus | 15-18% | — | Market expectations |
 
 **Traffic Light Verdict:**
 
 If the terminal PE is 20x (market average for a mature paint company):
-- To earn 10% return over 10 years, Indigo needs 13.6% EPS CAGR — this is achievable if growth re-accelerates but demanding given the current 0-3% growth rate.
+- To earn 10% return over 10 years, Indigo needs 13.6% EPS CAGR (and 14.0% OEPS CAGR — virtually identical, confirming asset-light nature).
 - **🟡 YELLOW — Fair but optimistic.** The market is not demanding heroic assumptions at 20x terminal PE, but the current growth trajectory falls well short.
 
 If the terminal PE compresses to 15x (as for a mature slow-grower):
-- To earn 10% return over 10 years, Indigo needs 16.9% EPS CAGR — this is above historical delivery and quite demanding.
+- To earn 10% return over 10 years, Indigo needs 16.9% EPS CAGR — above historical delivery and quite demanding.
 - **🟠 ORANGE — Expensive on a bear case basis.**
 
-> *"At the current price of ₹837, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 13.6% CAGR. The company has historically grown EPS at ~13% CAGR (post-dilution). This implies the market is pricing in a continuation of historical growth — which is reasonable IF growth re-accelerates from the current lull, but optimistic if it doesn't."*
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. In this case, the EPS-based verdict (🟡) matches the OEPS-based verdict (🟡) — consistent with an asset-light business. The EPS-based Reverse DCF is reliable here.
+
+### Step 5: The Verdict
+
+> *"At the current price of ₹837, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 13.6% CAGR (and Owner Earnings at 14.0% CAGR — virtually identical). The company has historically grown EPS at ~13% CAGR and Owner Earnings at ~24% CAGR (the OE CAGR is higher because Owner Earnings expanded from a lower base as margins improved). This implies the market is pricing in a continuation of historical EPS growth — which is reasonable IF growth re-accelerates from the current lull, but optimistic if it doesn't."*
+
+> *Note: The EPS-based assessment matches the Owner Earnings assessment (gap of just 0.4 pp), confirming this is an asset-light business where reported EPS is reliable as a valuation anchor.*
 
 ### Asymmetric Upside Check — Fat Pitch Assessment
 
@@ -671,7 +737,7 @@ Indigo Paints is a good (not wonderful) company at a fair (not cheap) price. Thi
 | **Competitive Intensification** (Birla Opus, JSW, Asian Paints retaliation) | High | High | Category-creation differentiation; but limited vs. deep-pocketed competition |
 | **Sustained Revenue Deceleration** | High | Medium | New Jodhpur capacity may re-accelerate growth; improving macro for housing |
 | **Raw Material Cost Inflation** (TiO2, crude-linked inputs) | Medium | Medium | Industry-wide; can pass through partially via price hikes |
-| **Margin Compression** from trade discounts / competitive pricing | Medium | Medium-High | Strong OPM trend but under pressure from new entrants |
+| **Margin Compression** from trade discounts / competitive pricing | Medium | Medium-High | Strong pre-D&A OPM trend but under pressure from new entrants |
 | **Key Man Risk** (Hemant Jalan) | Medium | Low | Founder-dependent but building institutional capabilities |
 | **Market Share Erosion** | High | Medium | Growing dealer network but sub-scale vs. leaders |
 | **Macro Risk** (Real estate slowdown, construction downturn) | Medium | Low-Medium | Paint is repaint-driven (~65% of demand), less cyclical than new construction |
@@ -702,7 +768,7 @@ This section is **partially applicable**. Indigo is not a distressed company —
 
 | Factor | Score (1-10) | Evidence |
 |---|---|---|
-| Business quality fundamentals | 7 | 20% ROCE, 18% OPM, debt-free |
+| Business quality fundamentals | 7 | 20% ROCE, ~14% EBIT margin, debt-free |
 | New capacity coming online | 8 | Jodhpur solvent (live Feb 2026), water-based (Jun 2026), powder expansion |
 | Competitive dynamics | 4 | Birla Opus pricing aggression; Asian Paints' dominance |
 | Industry tailwind | 7 | Indian paint market growing 8-10% CAGR |
