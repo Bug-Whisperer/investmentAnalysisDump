@@ -34,23 +34,24 @@ Buffett: *"A brand is a promise."* Jockey's promise is comfort, quality, and con
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue (₹ Cr) | 1,188 | 1,543 | 1,796 | 2,129 | 2,551 | 2,852 | 2,946 | 2,833 | **3,886** | **4,714** | 4,569 | 4,935 | 5,092 |
 | Rev Growth YoY | — | 29.9% | 16.4% | 18.5% | 19.8% | 11.8% | 3.3% | **-3.8%** | **37.2%** | 21.3% | -3.1% | 8.0% | — |
-| Operating Profit (₹ Cr) | 256 | 320 | 376 | 415 | 542 | 618 | 533 | 528 | 787 | 863 | 860 | **1,063** | 1,128 |
-| OPM % | 22% | 21% | 21% | **19%** | 21% | **22%** | 18% | 19% | 20% | 18% | 19% | **22%** | 22% |
+| Operating Profit (pre-D&A) (₹ Cr) | 256 | 320 | 376 | 415 | 542 | 618 | 533 | 528 | 787 | 863 | 860 | **1,063** | 1,128 |
+| OPM % (pre-D&A) | 22% | 21% | 21% | **19%** | 21% | **22%** | 18% | 19% | 20% | 18% | 19% | **22%** | 22% |
+| Depreciation & Amortisation (₹ Cr) | 14 | 18 | 24 | 25 | 28 | 31 | 61 | 63 | 65 | 78 | 91 | 99 | ~102 |
+| **EBIT (₹ Cr)** | 242 | 302 | 352 | 390 | 514 | 587 | 472 | 465 | 722 | 785 | 769 | **964** | 1,026 |
+| **EBIT Margin** | 20.4% | 19.6% | 19.6% | **18.3%** | 20.1% | **20.6%** | **16.0%** | 16.4% | 18.6% | 16.7% | 16.8% | **19.5%** | 20.1% |
 | Net Profit (₹ Cr) | 154 | 196 | 232 | 266 | 347 | 394 | 343 | 341 | 537 | 571 | 569 | **729** | 749 |
 | NP Growth YoY | — | 27.3% | 18.4% | 14.7% | 30.5% | 13.5% | **-12.9%** | **-0.6%** | **57.5%** | 6.3% | -0.4% | 28.1% | — |
 | NPM % | 13.0% | 12.7% | 12.9% | 12.5% | 13.6% | 13.8% | 11.6% | 12.0% | 13.8% | 12.1% | 12.5% | **14.8%** | — |
 | EPS (₹) | 137.87 | 175.74 | 207.57 | 238.73 | 311.08 | 353.19 | 307.71 | 305.35 | 481.02 | 512.15 | 510.31 | **653.71** | 671.61 |
 | EPS Growth | — | 27.5% | 18.1% | 15.0% | 30.3% | 13.5% | **-12.9%** | **-0.8%** | **57.5%** | 6.5% | -0.4% | 28.1% | — |
-| EBITDA (₹ Cr)† | 256 | 320 | 376 | 415 | 542 | 618 | 533 | 528 | 787 | 863 | 860 | **1,063** | 1,128 |
-| EBITDA Margin† | 22% | 21% | 21% | **19%** | 21% | **22%** | 18% | 19% | 20% | 18% | 19% | **22%** | 22% |
 | Shares (Cr) | 1.117 | 1.115 | 1.118 | 1.114 | 1.116 | 1.116 | 1.115 | 1.117 | 1.116 | 1.115 | 1.115 | 1.115 | — |
 | Shares Change YoY | — | ~0% | ~0% | ~0% | ~0% | ~0% | ~0% | ~0% | ~0% | ~0% | ~0% | ~0% | — |
 
-*† Note: Per Screener.in convention, the "Operating Profit" line already represents EBITDA (i.e., it is computed before deducting Depreciation & Amortisation). Hence EBITDA and Operating Profit are identical. True EBIT (Operating Profit less D&A) would be lower — e.g., FY25 EBIT = 1,063 − 99 = ₹964 Cr.*
+> **Note on Screener.in Convention:** Screener's "Operating Profit" is computed BEFORE deducting Depreciation & Amortisation, making it EBITDA-equivalent. This prompt tracks EBIT (Operating Profit minus D&A) as the true after-capital-charge operating profit. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"*
 
 **Trend Narrative:**
 - Revenue has compounded at 12.3% over 10 years — solid but not explosive. The post-COVID burst (FY22: +37%) was followed by normalisation (FY24: -3.1%) and recovery (FY25: +8%).
-- Operating margins have been remarkably **stable in a 18-22% band** for over a decade. FY25 saw margin expansion back to 22%, the high end of the range, driven by input cost easing and operational efficiencies.
+- Operating margins (pre-D&A) have been remarkably **stable in a 18-22% band** for over a decade. FY25 saw margin expansion back to 22%, the high end of the range, driven by input cost easing and operational efficiencies. EBIT Margins (after D&A) show a wider range (16-21%) because rising D&A from capacity expansion compressed true operating margins during FY20-24. Crucially, FY25 EBIT Margin recovered to 19.5% — confirming that the D&A drag from recent capex is now being absorbed by higher revenue. This divergence between stable OPM and volatile EBIT Margin is exactly the pattern EBITDA-based analysis would miss.
 - **Net profit margins improved to 14.8% in FY25** — the highest in the entire series — reflecting better cost control and lower provisions.
 - **Zero dilution**: Share count has remained unchanged at ~1.115 Cr for the entire period. EPS growth perfectly tracks profit growth. This is a hallmark of a Buffett-quality business.
 - Buffett: *"Beware of companies that make heavy use of stock options."* Page Industries issues zero meaningful SBC — every rupee of profit belongs to shareholders.
@@ -67,12 +68,14 @@ Buffett: *"A brand is a promise."* Jockey's promise is comfort, quality, and con
 | Fixed Assets + CWIP | 177 | 217 | 217 | 260 | 297 | 308 | 435 | 414 | 467 | 635 | 727 | 830 |
 | BVPS (₹) | 259 | 347 | 474 | 598 | 759 | 695 | 736 | 792 | 975 | 1,230 | 1,432 | 1,262 |
 | D/E Ratio | 0.56 | 0.41 | 0.18 | 0.13 | 0.08 | 0.11 | 0.21 | 0.14 | 0.10 | 0.30 | 0.12 | 0.19 |
-| Debt/EBITDA | 0.64x | 0.49x | 0.25x | 0.21x | **0.13x** | 0.14x | 0.33x | 0.24x | 0.14x | **0.47x** | 0.22x | 0.25x |
+| Debt/EBIT | 0.67x | 0.52x | 0.27x | 0.23x | **0.13x** | 0.14x | 0.37x | 0.27x | 0.15x | **0.52x** | 0.24x | 0.27x |
+| Net Debt/Owner Earnings | 1.18x | 0.87x | 0.39x | 0.35x | **0.21x** | 0.21x | 0.60x | 0.34x | 0.21x | **0.81x** | 0.34x | 0.37x |
+| Interest Coverage (EBIT/Int.) | 16x | 17x | 19x | 21x | **29x** | **35x** | 14x | 16x | 21x | 19x | 17x | **21x** |
 | Current Ratio (est.) | 2.2 | 2.2 | 2.3 | 2.1 | 1.8 | 2.1 | 2.1 | 1.9 | 1.8 | 2.2 | 2.2 | 1.9 |
 
 **Financial Fortress Verdict: IMPREGNABLE**
 
-This balance sheet would make Buffett smile. Total debt of ₹262 Cr against EBITDA of ₹1,063 Cr gives a Debt/EBITDA of just 0.25x. The D/E ratio of 0.19x is negligible. Page Industries could pay off its entire debt from a single quarter's operating profit.
+This balance sheet would make Buffett smile. Total debt of ₹262 Cr against EBIT of ₹964 Cr gives a Debt/EBIT of just 0.27x. Net Debt/Owner Earnings of 0.37x means the company could retire all debt from less than 5 months of true economic earnings. The D/E ratio of 0.19x is negligible. Interest coverage at 21x EBIT provides an enormous safety cushion.
 
 Note that BVPS declined from ₹1,432 (FY24) to ₹1,262 (FY25) because the company paid out 138% of its net profit as dividends — effectively returning capital from reserves to shareholders. This is not a sign of weakness; it is a sign of a company that generates far more cash than it needs to reinvest.
 
@@ -111,13 +114,14 @@ Buffett on Owner Earnings: *"The primary test of managerial economic performance
 | ROE % | 53 | **58** | 51 | 45 | 46 | 49 | 43 | **40** | **54** | 46 | **38** | 49 |
 | ROIC % | 37 | 43 | 43 | 40 | 44 | **45** | 43 | 39 | **54** | 44 | **36** | 46 |
 | D/E | 0.56 | 0.41 | 0.18 | 0.13 | **0.08** | 0.11 | 0.21 | 0.14 | 0.10 | **0.30** | 0.12 | 0.19 |
-| OPM % | 22 | 21 | 21 | **19** | 21 | **22** | 18 | 19 | 20 | 18 | 19 | **22** |
+| OPM % (pre-D&A, Screener) | 22 | 21 | 21 | **19** | 21 | **22** | 18 | 19 | 20 | 18 | 19 | **22** |
+| **EBIT Margin %** | 20 | 20 | 20 | **18** | 20 | **21** | **16** | **16** | 19 | 17 | 17 | **20** |
 | NPM % | 13.0 | 12.7 | 12.9 | 12.5 | 13.6 | 13.8 | **11.6** | 12.0 | 13.8 | 12.1 | 12.5 | **14.8** |
 | Debtor Days | 22 | 21 | 21 | 19 | 21 | 16 | **9** | 18 | 16 | 11 | 13 | 14 |
 | Inventory Days | **337** | 317 | 288 | 264 | 191 | 229 | 200 | **160** | 208 | **279** | 205 | **147** |
 | CCC (Days) | **305** | 279 | 259 | 236 | 166 | 207 | 183 | **106** | 146 | 240 | 185 | **118** |
 | Working Capital Days | 52 | 58 | **61** | 57 | 37 | 55 | 42 | **10** | 33 | **59** | 49 | **19** |
-| Interest Coverage | 17x | 18x | 20x | 23x | **31x** | 38x | 16x | 18x | 24x | 21x | 20x | **24x** |
+| Interest Coverage (EBIT/Int.) | 16x | 17x | 19x | 21x | 29x | **35x** | **14x** | 16x | 21x | 19x | 17x | 21x |
 | Div Payout % | 44 | 41 | 41 | 41 | 42 | **97** | 52 | 82 | 77 | 49 | 72 | **138** |
 
 ### Part B: Buffett's Quality Checklist
@@ -132,10 +136,12 @@ Buffett on Owner Earnings: *"The primary test of managerial economic performance
 | Positive Free Cash Flow | Positive | ₹1,002 Cr (FY25) | ✅ PASS |
 | Promoter/Insider holding | Aligned | 42.89% | ⚠️ Declining (-3.2% in 3Y) |
 | Dividend payout | Paying | 86% avg (3Y) | ✅ GENEROUS |
-| OPM stability | Stable | 18-22% range (12Y) | ✅ STABLE |
+| EBIT Margin stability | Stable | 16-21% range (12Y) | ✅ STABLE |
 | Moat / Pricing Power | Identifiable | Exclusive Jockey license + brand | ✅ STRONG |
 | ROIC > 15% | >15% | 36-54% range | ✅ EXCEPTIONAL |
 | Earnings yield | Reasonable | 1.85% (at CMP) | ❌ VERY LOW |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Narrative:** Page Industries scores 10/12 on the Buffett quality checklist — one of the highest scores among Indian equities. The two concerns are (a) declining promoter holding and (b) very low earnings yield at current price. The ROCE of 45-69% across 12 years is among the highest in Indian corporate history, signaling pricing power and capital efficiency that is virtually unmatched. The ROE of 40-58% is extraordinary — this is a business that earns ₹45+ on every ₹100 of equity, year after year. The declining promoter stake from 49% (FY17) to 42.9% (Dec25) requires monitoring but the sell-down has been gradual over 8+ years and likely reflects estate planning rather than loss of confidence.
 
@@ -146,13 +152,17 @@ Buffett on Owner Earnings: *"The primary test of managerial economic performance
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales (₹ Cr) | 1,200 | **965** | 1,229 | 1,125 | 1,226 | 992 | 1,278 | 1,246 | 1,313 | **1,098** | 1,317 | 1,291 | **1,387** |
-| OPM % | 16 | **14** | 19 | 21 | 18 | 17 | 19 | **23** | **23** | 21 | 22 | 22 | **23** |
+| Operating Profit (pre-D&A) | 193 | **134** | 239 | 234 | 226 | 164 | 243 | 281 | **303** | 235 | 295 | 280 | **318** |
+| OPM % (pre-D&A) | 16 | **14** | 19 | 21 | 18 | 17 | 19 | **23** | **23** | 21 | 22 | 22 | **23** |
+| Depreciation (est. ₹ Cr) | ~19 | ~19 | ~22 | ~22 | ~23 | ~23 | ~24 | ~24 | ~25 | ~25 | ~26 | ~26 | ~26 |
+| **EBIT (est. ₹ Cr)** | 174 | **115** | 217 | 212 | 203 | **141** | 219 | **257** | **278** | 210 | **269** | 254 | **292** |
+| **EBIT Margin %** | 14% | **12%** | 18% | 19% | 17% | **14%** | 17% | **21%** | **21%** | 19% | **20%** | 20% | **21%** |
 | Net Profit (₹ Cr) | 124 | **78** | 158 | 150 | 152 | 108 | 165 | 195 | **205** | 164 | 201 | 195 | 190 |
 | EPS (₹) | 110.93 | **70.24** | 141.98 | 134.73 | 136.59 | 97.01 | 148.13 | 175.06 | **183.49** | 147.04 | 180.03 | 174.61 | 169.93 |
 
 **Key Observations:**
 1. **Revenue Trajectory:** Q3 FY26 (Dec25) at ₹1,387 Cr is the highest quarterly revenue ever — growing 5.6% YoY. Mar quarter is consistently the weakest (seasonal). The trend shows steady sequential improvement.
-2. **Margin Trend:** OPM has structurally improved from the 14-18% trough (FY23 quarters) to 21-23% range since Sep24. This is a meaningful and sustained margin expansion driven by input cost easing and operational efficiencies.
+2. **Margin Trend:** OPM (pre-D&A) has structurally improved from the 14-18% trough (FY23 quarters) to 21-23% range since Sep24. EBIT Margin tells a slightly different story: it compressed to 12-17% during FY23-early FY24 (when rising D&A from capacity expansion ate into true operating profit) but has recovered strongly to 19-21% since Sep24. The convergence of OPM and EBIT Margin trajectories in recent quarters confirms that the D&A drag from FY20-24 capex is now fully absorbed — a positive signal that EBITDA-based analysis would have missed entirely.
 3. **Normalised Quarterly EPS Run-Rate:** Stripping the Dec25 quarter's ₹35 Cr labour code provision (exceptional item) on a post-tax basis (at ~26% tax rate), normalised Q3 FY26 PAT would be ~₹216 Cr (EPS ~₹194). Substituting this into the TTM gives a normalised TTM EPS of ~₹696 (Mar25: ₹147 + Jun25: ₹180 + Sep25: ₹175 + normalised Dec25: ₹194), approximately 3.5% above the reported TTM of ₹672 — confirming that underlying earnings power is modestly ahead of the as-reported figure.
 4. **Red Flag:** Dec25 PAT declined 7.4% YoY despite record revenue — entirely due to the one-time ₹35 Cr labour code provision. Excluding this, PAT would have grown ~3-4% YoY.
 
@@ -267,17 +277,19 @@ Page Industries possesses a rare multi-layered moat:
 
 **Incremental Operating Margins:**
 
-| Year | ΔRevenue | ΔOp. Profit | Incremental Margin | vs Current OPM |
-|---|---|---|---|---|
-| FY15 | +355 | +64 | 18.0% | Below (21%) |
-| FY16 | +253 | +56 | 22.1% | Inline (21%) |
-| FY17 | +333 | +39 | 11.7% | Below (19%) |
-| FY18 | +422 | +127 | **30.1%** | **Well Above (21%)** |
-| FY19 | +301 | +76 | 25.2% | Above (22%) |
-| FY22 | +1,053 | +259 | 24.6% | Above (20%) |
-| FY25 | +366 | +203 | **55.5%** | **Far Above (22%)** |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY15 | 1,543 | 29.9% | 302 | 24.8% | 19.6% | 16.9% |
+| FY16 | 1,796 | 16.4% | 352 | 16.6% | 19.6% | 19.8% |
+| FY17 | 2,129 | 18.5% | 390 | 10.8% | 18.3% | 11.4% |
+| FY18 | 2,551 | 19.8% | 514 | 31.8% | 20.1% | **29.4%** |
+| FY19 | 2,852 | 11.8% | 587 | 14.2% | 20.6% | 24.3% |
+| FY22 | 3,886 | 37.2% | 722 | 55.3% | 18.6% | 24.4% |
+| FY25 | 4,935 | 8.0% | 964 | 25.4% | 19.5% | **53.3%** |
 
-FY25's incremental margin of 55.5% is extraordinary — it means that on the ₹366 Cr of additional revenue, ₹203 Cr (55%) flowed to operating profit. This signals powerful operating leverage kicking in as the fixed cost base is being better utilised.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins exceed current EBIT margins, the business is scaling beautifully after accounting for all capital charges.*
+
+FY25's incremental EBIT margin of 53.3% is extraordinary — on ₹366 Cr of additional revenue, ₹195 Cr flowed to EBIT even after absorbing D&A. This confirms genuine operating leverage, not an EBITDA illusion. Note the contrast with FY23 (not shown as revenue declined in FY24) where incremental EBIT margins were compressed — the scaling benefit was temporarily masked by the D&A ramp from FY20-22 capex.
 
 ### Part B: Scaling Runway — TAM & Penetration
 
@@ -290,7 +302,7 @@ The Indian innerwear market is estimated at ₹45,000-50,000 Cr (growing 8-10% a
 | Dimension | Score | Evidence |
 |---|---|---|
 | Revenue scalability | 7/10 | Incremental margins above current; distribution expansion ongoing |
-| Profit scalability | 8/10 | FY25 incremental margin of 55%; OPM at 12Y high |
+| Profit scalability | 8/10 | FY25 incremental EBIT margin of 53%; EBIT Margin at cycle high |
 | Capital scalability | 9/10 | CapEx < 5% of revenue; near-zero incremental working capital |
 | Scaling runway | 7/10 | 4-5x TAM runway; Tier 2/3 + international expansion |
 | S-Curve position | 7/10 | Growth phase; proven model, replicating at scale |
@@ -334,15 +346,18 @@ This is one of the highest $1 test scores in Indian equity history. Buffett: *"T
 
 | Metric | Value (at CMP ₹35,400) |
 |---|---|
+| **P/Owner Earnings (primary Buffett-pure multiple)** | **55.8x** |
+| Owner Earnings Yield (OEPS / CMP) | 1.79% |
 | FY25 PE | 54.2x |
 | TTM PE (Dec25) | 52.7x |
 | P/B | 28.1x |
-| EV/EBITDA | 37.4x |
+| EV/EBIT | 41.2x |
 | P/FCF | 39.4x |
-| P/Owner Earnings | 55.8x |
 | Earnings Yield | 1.85% |
 | FCF Yield | 2.54% |
 | Dividend Yield | ~2.6% (on FY25 DPS ₹902) |
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT accounts for the capital the business consumes before you get your return. P/Owner Earnings is the preferred Buffett-pure multiple — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates for its owner. For Page Industries, P/OE (55.8x) is close to PE (54.2x) because this is a capital-light business where Owner Earnings ≈ Net Income — confirming the business quality.
 
 **Historical PE Context:** Page Industries has historically traded at 45-98x PE (median ~74x). At the current 52-54x PE, the stock is trading near the **lower end of its historical range**. However, this "discount" to history must be evaluated carefully — the company's growth rate has decelerated from 20%+ revenue growth (FY14-18) to 8-11% (FY23-25). A lower PE for lower growth is rational, not a bargain.
 
@@ -372,7 +387,7 @@ Buffett: *"Price is what you pay, value is what you get."* At ₹35,400, you are
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Normalised EPS:** ₹671.61 (TTM Dec25) | **Current PE:** 52.7x
+**Normalised EPS:** ₹671.61 (TTM Dec25) | **Current PE:** 52.7x | **OEPS:** ₹634 | **Current P/OE:** 55.8x
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -408,20 +423,48 @@ Buffett: *"Price is what you pay, value is what you get."* At ₹35,400, you are
 | 10 Years | 10.6% | 15.6% | 20.6% |
 | 15 Years | 10.4% | 15.4% | 20.4% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** EPS can be misleading — a company can grow EPS by underinvesting in maintenance (boosting short-term earnings while the asset base deteriorates) or through financial engineering. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."* The same insight applies to EPS vs. Owner Earnings.
+
+**OEPS:** ₹634 (FY25 Owner Earnings ₹707 Cr / 1.115 Cr diluted shares) | **Current P/OE:** 55.8x
+
+#### Implied OEPS CAGR Needed (at Terminal P/OE = 18x, Market Average)
+
+| Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 38.0% OEPS CAGR needed | 44.2% | 50.5% |
+| 10 Years | 23.2% OEPS CAGR needed | 28.8% | 34.4% |
+| 15 Years | 18.6% OEPS CAGR needed | 24.0% | 29.4% |
+
+#### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Market Avg Terminal PE/P(OE) | 10-Year, 10% Return |
+|---|---|---|
+| Implied EPS CAGR (from Step 3, at 20x PE) | 21.2% | |
+| Implied OEPS CAGR (from Step 3B, at 18x P/OE) | 23.2% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **2.0 pp** | |
+
+**Interpretation:** The 2.0 pp gap is right at the boundary between "asset-light" (≤2 pp) and "moderate capital intensity" (2-5 pp). This is exactly what we'd expect for Page Industries — it is predominantly capital-light (brand-driven, outsources 36% of production), but the FY20-25 capacity expansion cycle pushed D&A higher, creating a modest wedge between reported earnings and true owner earnings. As the capex cycle normalises, this gap should narrow. **The standard EPS-based Reverse DCF is broadly reliable for Page, but the OEPS figure provides the more conservative and honest benchmark.**
+
 ### Reality Check
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| Page 10Y historical EPS CAGR | 14.0% |
-| Page 5Y historical EPS CAGR | 16.3% |
-| Industry average | 10-15% |
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| Page 10Y historical EPS CAGR | 14.0% | — | Actual track record |
+| Page 5Y historical EPS CAGR | 16.3% | — | Recent track record |
+| Page historical Owner Earnings CAGR (10Y) | — | 14.7% | Buffett-pure benchmark |
+| Page historical Owner Earnings CAGR (5Y) | — | 19.3% | Recent OE track record |
+| Industry average | 10-15% | 10-15% | Peer comparison |
 
-**Traffic Light:** To earn just a 10% return over 10 years assuming PE compresses to even 28x (still premium), Page needs 17.2% EPS CAGR — modestly above its historical 14% CAGR. **🟡 FAIR BUT OPTIMISTIC.** If PE compresses to 20x (market average), the required 21.2% CAGR is well above historical delivery — **🟠 EXPENSIVE.**
+**Traffic Light:** To earn just a 10% return over 10 years assuming PE compresses to even 28x (still premium), Page needs 17.2% EPS CAGR — modestly above its historical 14% CAGR. **🟡 FAIR BUT OPTIMISTIC.** If PE compresses to 20x (market average), the required 21.2% CAGR is well above historical delivery — **🟠 EXPENSIVE.** The OEPS-based assessment at 18x terminal P/OE requires 23.2% — also **🟠 EXPENSIVE**, confirming the EPS verdict is not misleadingly optimistic for this asset-light business.
+
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment. **For Page Industries, both verdicts align at 🟠, confirming consistency.**
 
 Only if the PE sustains at ~50x (historical average for Page) does the math work comfortably — but betting on a 50x PE sustaining for a decade is speculative, not investing.
 
-> *"At ₹35,400, to earn a 10% return over 10 years assuming the market values Page at 28x PE at exit, the company needs to grow EPS at 17.2% CAGR. Page has historically grown EPS at 14.0% CAGR. This implies the market is pricing in modestly optimistic growth."*
+> *"At ₹35,400, to earn a 10% return over 10 years assuming the market values Page at 28x PE at exit, the company needs to grow EPS at 17.2% CAGR (and Owner Earnings at ~19.2% CAGR at 25x terminal P/OE). Page has historically grown EPS at 14.0% CAGR and Owner Earnings at 14.7% CAGR. This implies the market is pricing in modestly optimistic growth. Note: the EPS-based assessment and Owner Earnings assessment are closely aligned, confirming that the business is asset-light and EPS is a reliable proxy for true economic earnings."*
 
 ### Fat Pitch Asymmetry Assessment
 
