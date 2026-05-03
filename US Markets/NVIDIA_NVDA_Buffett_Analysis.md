@@ -1,6 +1,6 @@
 # NVIDIA Corporation (NASDAQ: NVDA) — Warren Buffett-Style Fundamental Analysis
 
-**Analysis Date:** April 20, 2026  
+**Analysis Date:** May 03, 2026  
 **Current Market Price (CMP):** ~$200.00  
 **Market Capitalisation:** ~$4.86 Trillion  
 **Fiscal Year End:** Late January (FY2026 ended January 25, 2026)  
@@ -31,22 +31,25 @@ NVIDIA's economic engine generates revenue across four platforms: Data Centre (~
 | Rev Growth YoY | — | **-6.8%** | 52.7% | 61.4% | 0.2% | 125.9% | 114.2% | **65.5%** |
 | Gross Profit | 7,171 | 6,768 | 10,396 | 16,291 | **10,353** | 31,369 | 97,858 | **153,463** |
 | Gross Margin | 61.2% | 62.0% | 62.3% | 60.5% | **38.4%** | 51.5% | **75.0%** | 71.1% |
-| Operating Income | 3,804 | 2,846 | 6,252 | 10,429 | **2,914** | 22,122 | 81,453 | **130,387** |
-| Operating Margin | 32.5% | 26.1% | 37.5% | 38.7% | **10.8%** | 36.3% | **62.4%** | 60.4% |
+| Operating Profit (pre-D&A) | 4,404 | 3,446 | 6,952 | 11,409 | **4,314** | 23,622 | 84,953 | **135,587** |
+| OPM % (pre-D&A) | 37.6% | 31.6% | 41.7% | 42.4% | **16.0%** | 38.8% | **65.1%** | 62.8% |
+| Depreciation & Amortisation | 600 | 600 | 700 | 980 | 1,400 | 1,500 | 3,500 | 5,200 |
+| **EBIT** | **3,804** | **2,846** | **6,252** | **10,429** | **2,914** | **22,122** | **81,453** | **130,387** |
+| **EBIT Margin** | **32.5%** | **26.1%** | **37.5%** | **38.7%** | **10.8%** | **36.3%** | **62.4%** | **60.4%** |
 | Net Income | 4,141 | 2,796 | 4,332 | 9,752 | **4,368** | 29,760 | 72,880 | **120,067** |
 | Net Margin | 35.3% | 25.6% | 26.0% | 36.2% | **16.2%** | 48.8% | **55.8%** | 55.6% |
 | EPS (Diluted) | $0.17 | **$0.11** | $0.17 | $0.39 | $0.17 | $1.19 | $2.94 | **$4.90** |
 | EPS Growth | — | **-35.3%** | 54.5% | 129.4% | -56.4% | 600.0% | 147.1% | **66.7%** |
 | Diluted Shares (B) | 25.0 | 24.8 | 25.1 | 25.2 | 25.1 | 24.9 | 24.8 | **24.5** |
-| EBITDA | 4,404 | 3,446 | 6,952 | 11,409 | **4,314** | 23,622 | 84,953 | **135,587** |
-| EBITDA Margin | 37.6% | 31.6% | 41.7% | 42.4% | **16.0%** | 38.8% | **65.1%** | 62.8% |
 | SBC | 557 | 844 | 1,397 | 2,004 | 2,709 | 3,408 | 4,737 | **6,386** |
 
-**Trend Narrative:** The income statement tells a story of extraordinary transformation. From FY2019-FY2023, NVIDIA was a solid but cyclical semiconductor company with revenues oscillating between $11-27 billion. FY2023 was a brutal trough — the crypto hangover crushed gaming demand, margins collapsed to 38%, and operating income fell 72%. Then the AI revolution arrived. Revenue exploded from $27B to $216B in three years — a nearly 8x increase. Net margins expanded from 16% to 56%. Earnings growth has been utterly parabolic: EPS went from $0.17 to $4.90 in three years.
+> **Why EBIT, not EBITDA?** Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* EBIT is the true operating profit after accounting for the capital the business consumes. The Operating Profit (pre-D&A) row is shown for reference only — it is the EBITDA-equivalent figure. All profitability analysis in this document uses **EBIT Margin**, not EBITDA Margin.
 
-The critical insight: margins EXPANDED as revenue scaled. Operating margins went from 10.8% in FY2023 to 62.4% in FY2025 before settling at 60.4% in FY2026. This is classic operating leverage on a fabless semiconductor business — R&D and design costs are largely fixed, so each incremental dollar of revenue drops to profit at extraordinary rates.
+**Trend Narrative:** From FY2019-FY2023, NVIDIA was a solid but cyclical semiconductor company. FY2023 was a brutal trough — EBIT margins collapsed to 10.8%, and EBIT fell 72%. Then the AI revolution arrived. Revenue exploded from $27B to $216B in three years. EBIT margins expanded from 10.8% to 62.4% before settling at 60.4% in FY2026 — classic operating leverage on a fabless business.
 
-> *"I try to buy stock in businesses that are so wonderful that an idiot can run them. Because sooner or later, one will."* — Warren Buffett. In NVIDIA's case, the business is so wonderful that even a massive increase in operating expenses (from $7.4B to $23.1B) barely dented margins because revenue grew even faster.
+The gap between pre-D&A OPM (62.8%) and EBIT Margin (60.4%) is only 2.4pp in FY2026, confirming NVIDIA's extremely low capital intensity — D&A is a minor drag on this asset-light business. An EBITDA-based analysis would not even surface this insight.
+
+> *"I try to buy stock in businesses that are so wonderful that an idiot can run them. Because sooner or later, one will."* — Buffett. In NVIDIA's case, even a massive increase in operating expenses (from $7.4B to $23.1B) barely dented margins because revenue grew even faster.
 
 ---
 
@@ -57,18 +60,20 @@ The critical insight: margins EXPANDED as revenue scaled. Operating margins went
 | Cash & Investments | 7,422 | 10,897 | 11,561 | 21,208 | 13,296 | 25,984 | 43,209 | **62,600** |
 | Total Assets | 13,292 | 17,315 | 28,791 | 44,187 | 41,182 | 65,728 | 111,601 | **206,803** |
 | Total Debt | 1,988 | 1,991 | 5,964 | 10,946 | 9,703 | 8,459 | 8,462 | **7,469** |
-| Total Liabilities | 3,950 | 5,111 | 11,898 | 17,575 | 19,081 | 22,750 | 32,274 | 49,510 |
 | Equity | 9,342 | 12,204 | 16,893 | 26,612 | 22,101 | 42,978 | 79,327 | **157,293** |
 | Net Cash | 5,434 | 8,906 | 5,597 | 10,262 | 3,593 | 17,525 | 34,747 | **55,131** |
-| BVPS (split-adj) | $0.38 | $0.50 | $0.68 | $1.06 | $0.90 | $1.74 | $3.24 | **$6.47** |
+| BVPS (split-adj) | $0.39 | $0.50 | $0.68 | $1.06 | $0.90 | $1.74 | $3.24 | **$6.47** |
 | Debt/Equity | 0.21 | 0.16 | 0.35 | 0.41 | **0.44** | 0.20 | 0.11 | **0.05** |
+| Debt/EBIT | 0.5x | 0.7x | 1.0x | 1.0x | **3.3x** | 0.4x | 0.1x | **0.1x** |
+| Net Debt/Owner Earnings | Net cash | Net cash | Net cash | Net cash | Net cash | Net cash | Net cash | **-0.49x** |
+| Interest Coverage (EBIT/Int.) | 63.4x | 54.7x | 34.0x | 44.2x | **11.3x** | 86.1x | 331.1x | **530.0x** |
 | Current Ratio | 7.9 | 7.7 | 4.1 | 6.7 | 3.5 | 4.2 | 4.4 | 3.6 |
 
-**Financial Fortress Verdict:** This is one of the strongest balance sheets in corporate history. NVIDIA holds $62.6 billion in cash and investments against only $7.5 billion in debt — **a net cash position of $55 billion.** The Debt/Equity ratio has fallen to an almost negligible 0.05x. The company could repay all its debt eight times over from cash on hand.
+> **Why Debt/EBIT instead of Debt/EBITDA:** Debt/EBITDA flatters capital-intensive companies by pretending depreciation isn't real. Debt/EBIT = 0.1x — NVIDIA could repay all debt from about 3 weeks of EBIT. Net Debt/Owner Earnings is -0.49x, meaning net cash exceeds nearly half a year's Buffett-Adjusted Owner Earnings.
 
-Book value per share has compounded from $0.38 to $6.47 in seven years — a 50%+ CAGR — driven entirely by retained earnings from explosive profitability. The balance sheet is accumulating cash faster than NVIDIA can return it to shareholders (despite ~$41 billion in total capital returns in FY2026 alone).
+**Financial Fortress Verdict:** One of the strongest balance sheets in corporate history. $62.6B cash against $7.5B debt — **net cash of $55B.** Debt/Equity 0.05x. Interest coverage 530x. Zero bankruptcy risk.
 
-> *"We like to buy businesses with cash, not sell businesses for cash."* — Buffett. NVIDIA's balance sheet passes every conceivable Buffett fortress test. Debt is immaterial. Liquidity is massive. There is zero bankruptcy risk.
+> *"We like to buy businesses with cash, not sell businesses for cash."* — Buffett.
 
 ---
 
@@ -86,13 +91,13 @@ Book value per share has compounded from $0.38 to $6.47 in seven years — a 50%
 | Dividends Paid | 371 | 390 | 395 | 399 | 398 | 395 | 589 | 974 |
 | Share Buybacks | 1,580 | 2,720 | 2,004 | 3,457 | 9,533 | 9,823 | 33,706 | **40,086** |
 
-**Cash Flow Quality:** NVIDIA's free cash flow conversion is superb. FCF of $96.7 billion in FY2026 represents 80% of net income, with the gap primarily being working capital investment (building inventory for the Blackwell ramp). The capital intensity is remarkably low — CapEx was only $6 billion on $216 billion of revenue (2.8%), because NVIDIA is fabless and outsources manufacturing to TSMC.
+**Cash Flow Quality:** FCF of $96.7B in FY2026 represents 80% of net income. CapEx was only $6B on $216B revenue (2.8%) — fabless model.
 
-**SBC Concern:** Stock-based compensation was a significant concern historically (62% of net income in FY2023), but as profitability exploded, GAAP SBC has fallen to just 5.3% of net income ($6.4B in FY2026). Starting FY2027, NVIDIA will include SBC in its non-GAAP results — a welcome transparency move. However, the GAAP SBC figure significantly understates the true economic cost of dilution (see Capital Return discussion below).
+**SBC & Dilution — The Burry Critique:** GAAP SBC has fallen to 5.3% of net income ($6.4B in FY2026), but this significantly understates the true economic cost. Over FY2019-FY2026, NVIDIA spent ~$103B on cumulative buybacks, yet basic shares actually *increased* by ~64M (from ~24,240M to 24,304M). The cumulative GAAP SBC was ~$22B, but the actual dilution absorbed ~$103B without reducing the share count — the true cost was ~4.7x the reported GAAP expense. In FY2026 specifically, $40.1B in buybacks achieved only a 173M net share reduction — approximately 44% (~$17.6B) went to absorbing SBC dilution, with the remaining 56% (~$22.5B) achieving genuine share count reduction for existing holders.
 
-**Capital Return:** NVIDIA returned $41.1 billion to shareholders in FY2026 ($40.1B buybacks + $974M dividends). Basic shares outstanding declined from 24,477M to 24,304M in FY2026 — a 173M share net reduction. However, the multi-year picture reveals a critical dynamic that investor Michael Burry highlighted in November 2025: over the full FY2019-FY2026 period, NVIDIA spent ~$103B on cumulative buybacks, yet basic shares actually *increased* by ~64M (from ~24,240M to 24,304M). The cumulative GAAP SBC over this period was ~$22B, but the actual dilution absorbed ~$103B in buybacks without reducing the share count — implying the true economic cost of dilution was ~4.7x the reported GAAP SBC expense. The GAAP SBC figure is recorded at grant-date fair value, but as the stock price appreciated enormously, the shares vesting and entering the market represent a far larger economic cost than the accounting charge suggests. In FY2026 specifically, $40.1B in buybacks achieved only a 173M net share reduction — approximately 44% (~$17.6B) went to absorbing SBC dilution, with the remaining 56% (~$22.5B) achieving genuine share count reduction for existing holders. The dividend ($0.04/share annual) is token, yielding just ~0.02%.
+**Capital Return:** NVIDIA returned $41.1B to shareholders in FY2026 ($40.1B buybacks + $974M dividends). The dividend ($0.04/share annual) is token, yielding ~0.02%.
 
-> *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* — Buffett. NVIDIA's cash generation and capital-light model are near-ideal. The caveat is that a meaningful portion of the economic value created is shared with employees through SBC rather than accruing to external shareholders — the one blemish on an otherwise pristine capital return story.
+> *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* — Buffett. NVIDIA's cash generation and capital-light model are near-ideal. The caveat is that a meaningful portion of economic value is shared with employees through SBC — the one blemish on an otherwise pristine capital return story.
 
 ---
 
@@ -106,7 +111,8 @@ Book value per share has compounded from $0.38 to $6.47 in seven years — a 50%
 | ROE % | 44.3 | 26.0 | 29.8 | 44.8 | **17.9** | 91.5 | **119.2** | 101.5 |
 | ROIC % | 31.6 | 19.5 | 26.8 | 27.2 | **7.7** | 37.8 | **80.7** | 67.2 |
 | Debt/Equity | 0.21 | 0.16 | 0.35 | **0.41** | 0.44 | 0.20 | 0.11 | **0.05** |
-| OPM % | 32.5 | 26.1 | 37.5 | 38.7 | **10.8** | 36.3 | **62.4** | 60.4 |
+| OPM % (pre-D&A) | 37.6 | 31.6 | 41.7 | 42.4 | **16.0** | 38.8 | **65.1** | 62.8 |
+| **EBIT Margin %** | **32.5** | **26.1** | **37.5** | **38.7** | **10.8** | **36.3** | **62.4** | **60.4** |
 | NPM % | 35.3 | 25.6 | 26.0 | 36.2 | **16.2** | 48.8 | **55.8** | 55.6 |
 | Interest Coverage | 63.4 | 54.7 | 34.0 | 44.2 | **11.3** | 86.1 | 331.1 | **530.0** |
 | Dividend Payout % | 9.0 | 13.9 | 9.1 | 4.1 | 9.1 | **1.3** | 0.8 | **0.8** |
@@ -123,12 +129,14 @@ Book value per share has compounded from $0.38 to $6.47 in seven years — a 50%
 | Positive Free Cash Flow | Positive | $96.7B FCF (FY26) | ✅ |
 | Insider holding | Aligned | Jensen Huang ~3.6% (~$176B at CMP) | ✅ |
 | Dividend payout | Paying | 0.8% (token; buybacks are the return mechanism) | ⚠️ |
-| OPM stability | Stable | Range 10.8%-62.4% — volatile but trending up | ⚠️ |
+| EBIT Margin stability | Stable | Range 10.8%-62.4% — volatile but trending up | ⚠️ |
 | Moat / Pricing Power | Identifiable | CUDA ecosystem + 80-90% DC GPU share | ✅ |
 | ROIC > 15% | >15% | 67.2% (FY26); >15% in 7 of 8 years | ✅ |
 | Earnings yield | Reasonable | 2.45% (low; implies growth expectations) | ⚠️ |
 
-**Narrative:** The ratios reveal a business of extraordinary quality — ROE above 100%, ROIC above 60%, and near-zero leverage. The one caution is cyclicality: FY2023 saw a severe collapse in every metric (ROCE fell to 9.2%, OPM to 10.8%). This demonstrates that while the moat is enormous, the business IS subject to demand cycles. The AI supercycle has driven metrics to levels that are genuinely historic for a company at this scale. The question is sustainability, not quality.
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
+**Narrative:** The ratios reveal extraordinary quality — ROE above 100%, ROIC above 60%, near-zero leverage. The gap between pre-D&A OPM and EBIT Margin (~2.4pp) confirms minimal capital intensity. The one caution is cyclicality: FY2023 saw a severe collapse in every metric.
 
 ---
 
@@ -138,14 +146,24 @@ Book value per share has compounded from $0.38 to $6.47 in seven years — a 50%
 |---|---|---|---|---|---|---|---|---|
 | Revenue ($B) | 26.0 | 30.0 | 35.1 | 39.3 | 44.1 | 46.7 | 57.0 | **68.1** |
 | YoY Growth | 262% | 122% | 94% | 78% | 69% | 56% | 63% | **73%** |
-| Op Margin % | 62.4 | 62.1 | 62.3 | 61.1 | 54.9 | 58.0 | 63.2 | **65.0** |
+| Op Profit pre-D&A ($B) | 16.8 | 19.2 | 22.7 | 25.1 | 25.3 | 28.3 | 37.4 | **45.8** |
+| OPM % (pre-D&A) | 64.3% | 64.1% | 64.6% | 63.8% | 57.4% | 60.5% | 65.7% | **67.2%** |
+| Depreciation ($B) | 0.5 | 0.6 | 0.8 | 1.1 | 1.1 | 1.2 | 1.4 | **1.5** |
+| **EBIT ($B)** | **16.3** | **18.6** | **21.9** | **24.0** | **24.2** | **27.1** | **36.0** | **44.3** |
+| **EBIT Margin %** | **62.4%** | **62.1%** | **62.3%** | **61.1%** | **54.9%** | **58.0%** | **63.2%** | **65.0%** |
 | Net Profit ($B) | 15.2 | 16.6 | 19.3 | 22.1 | 15.8 | 29.9 | 31.9 | **43.0** |
-| Net Margin % | 58.5 | 55.3 | 55.0 | 56.2 | 35.9 | 63.9 | 56.0 | **63.1** |
+| NPM % | 58.5% | 55.3% | 55.0% | 56.2% | 35.9% | 63.9% | 56.0% | **63.1%** |
 | EPS ($) | 0.61 | 0.67 | 0.78 | 0.89 | 0.65 | 1.22 | 1.30 | **1.76** |
 
-**Normalised Quarterly EPS Run-Rate:** Q4 FY2026 EPS of $1.76 (GAAP) annualises to ~$7.04, well above the TTM of $4.90. Stripping out the Q1 FY2026 H20 charge ($4.5B, which depressed Q1 EPS to $0.65), the normalised run-rate is even higher. With Q1 FY2027 guidance of $78B revenue at ~75% gross margin, the forward quarterly EPS run-rate is approximately $1.90-2.00 (annualising to ~$7.60-$8.00). Analyst consensus for FY2027 EPS is ~$7.70, which sits toward the lower end of this range and likely reflects conservatism around mix shifts and operating expense ramp.
+**1. Revenue Trajectory:** Revenue re-accelerated from 56% YoY growth (Q2'26) to 73% (Q4'26), driven by the Blackwell ramp.
 
-**Verdict: ACCELERATING.** Revenue growth re-accelerated from 56% (Q2'26) to 73% (Q4'26). Margins are expanding. The Blackwell product cycle is in full ramp. This is a business with extraordinary momentum.
+**2. Margin Trend — OPM vs EBIT Margin:** Pre-D&A OPM expanded from 57.4% to 67.2%. EBIT Margin tracked closely, from 54.9% to 65.0%. The gap was stable at ~2.2pp, confirming D&A is not growing faster than revenue — capital intensity is NOT increasing despite massive scaling. An EBITDA-based analysis would miss this entirely.
+
+**3. Normalised Quarterly EPS Run-Rate:** Q4 EPS of $1.76 annualises to ~$7.04. Stripping out the Q1 FY2026 H20 charge ($4.5B), the normalised run-rate is higher. Forward quarterly EPS ~$1.90-2.00 (annualising to ~$7.60-$8.00). Analyst consensus FY2027 EPS is ~$7.70, at the lower end of the range.
+
+**4. Red Flags:** Q1 FY2026 was an anomaly — the $4.5B H20 charge depressed EBIT Margin to 54.9% and NPM to 35.9%.
+
+**Verdict: ACCELERATING.** Revenue re-accelerated, EBIT margins expanding, Blackwell in full ramp.
 
 ---
 
@@ -159,13 +177,7 @@ NVIDIA is a widely-held, no-promoter company listed on NASDAQ.
 | Insiders (Jensen Huang + management) | ~4% | → Stable |
 | Retail / Public | ~28% | → Stable |
 
-**Top Institutional Holders:** Vanguard (~8.7%), BlackRock (~7.4%), Fidelity, State Street, and Geode Capital collectively own ~25%+ of the company.
-
-**Jensen Huang** holds approximately 880 million shares (~3.6%), valued at ~$176 billion at $200/share. This is extraordinary skin in the game — Huang's personal wealth is almost entirely tied to NVIDIA's success.
-
-**Key Signal:** Institutional ownership is stable and dominated by the world's largest passive and active managers. No single active fund has a dominant position, which reduces overhang risk. The stock is extremely liquid ($160M+ average daily volume). Retail participation has grown significantly as NVIDIA became the world's most valuable company, but institutions remain the anchor.
-
-> *"We like managers who are owner-oriented — who think about enhancing the value of each share rather than just growing the empire."* — Buffett. Jensen Huang is quintessentially owner-oriented: he founded the company, has run it for 30+ years, and his personal fortune is entirely NVIDIA stock.
+**Jensen Huang** holds ~880 million shares (~3.6%), valued at ~$176 billion at $200/share — extraordinary skin in the game.
 
 ---
 
@@ -180,9 +192,9 @@ NVIDIA is a widely-held, no-promoter company listed on NASDAQ.
 | SBC ($M) | 1,397 | 2,004 | 2,709 | 3,408 | 4,737 | 6,386 |
 | SBC % of Revenue | 8.4% | 7.4% | 10.0% | 5.6% | 3.6% | 3.0% |
 
-**Estimated Maintenance vs. Growth CapEx:** NVIDIA is fabless — it does not own fabs. Its CapEx is primarily for data centre capacity (for internal AI research), design tools, and test equipment. Estimated ~30% ($1.8B) is maintenance; ~70% ($4.2B) is growth CapEx. This is a phenomenally capital-light business.
+**Estimated Maintenance vs. Growth CapEx:** NVIDIA is fabless. Estimated ~30% ($1.8B) is maintenance; ~70% ($4.2B) is growth CapEx.
 
-**Owner Earnings Calculation:**
+**Owner Earnings Calculation — Two Frameworks:**
 
 *Standard Owner Earnings (accounting-correct):*
 ```
@@ -195,14 +207,14 @@ Net Income (FY2026):          $120,067M
 *Buffett-Adjusted Owner Earnings (replacing GAAP SBC with actual dilution cost):*
 ```
 Standard Owner Earnings:      $123,454M
-+ Add back GAAP SBC:           $6,386M  (already in NI; replacing with true cost below)
-- Maintenance Buybacks:        $17,550M  (actual cash to neutralise ~135M shares of annual SBC dilution)
++ Add back GAAP SBC:           $6,386M  (already in NI; replacing with true cost)
+- Maintenance Buybacks:        $17,550M  (cash to neutralise ~135M shares of annual dilution)
 = Buffett-Adjusted OE:       $112,290M ($4.58/share)
 ```
 
-*Why the adjustment?* GAAP SBC ($6.4B) is recorded at grant-date fair value, but the shares vest and enter the market at much higher prices. In FY2026, NVIDIA spent $40.1B on buybacks but achieved only a 173M net share reduction — meaning ~$17.6B (44% of buybacks) went solely to neutralising SBC dilution. Over the full FY2019-FY2026 period, $103B in cumulative buybacks failed to reduce the share count at all (shares actually increased by 64M). The true economic cost of SBC dilution — measured by the cash required to offset it — has historically been ~4.7x the GAAP expense. Buffett's Owner Earnings should reflect this reality: the maintenance buyback cost is non-discretionary, just like maintenance CapEx. If the company doesn't spend it, existing owners' percentage of the business deteriorates every year. Cash that cannot be freely extracted by owners is not owner earnings — it is a cost of running the business.
+*Why the adjustment?* GAAP SBC ($6.4B) is recorded at grant-date fair value, but shares vest at much higher prices. Over FY2019-FY2026, $103B in buybacks failed to reduce shares (they actually increased by 64M). The true cost of dilution — measured by the cash required to offset it — has been ~4.7x the GAAP expense. Maintenance buybacks are non-discretionary, just like maintenance CapEx. Cash that cannot be freely extracted by owners is not owner earnings — it is a cost of running the business.
 
-The Buffett-Adjusted OE of $112.3B ($4.58/share) is used as the starting point for the DCF valuation in Section 15.
+> *"If options aren't a form of compensation, what are they? If compensation isn't an expense, what is it?"* — Buffett
 
 ---
 
@@ -216,87 +228,50 @@ The Buffett-Adjusted OE of $112.3B ($4.58/share) is used as the starting point f
 | ROCE % | 33.6 | 20.0 | 27.4 | 27.8 | **9.2** | 43.0 | **92.8** | 79.1 |
 | Equity Multiplier | 1.42 | 1.42 | 1.58 | 1.68 | **1.75** | 1.64 | 1.45 | **1.35** |
 
-**Critical Insight:** NVIDIA's ROE of 101.5% is driven almost entirely by **extraordinary net profit margins (55.6%) and high asset turnover (1.36x)**, NOT by leverage. The equity multiplier is just 1.35x — one of the lowest in the S&P 500. This is the highest-quality ROE imaginable.
-
-**ROA of 75.4%** is breathtaking. Most exceptional businesses achieve ROA of 15-25%. NVIDIA earns 75 cents of profit for every dollar of assets. This is the signature of a business with almost no physical capital requirements, massive pricing power, and extraordinary operating leverage.
-
-> *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* — Buffett. NVIDIA earns returns on capital that are literally unprecedented for a company at this scale. The question is not quality — it is duration.
+ROE of 101.5% driven by **extraordinary net margins (55.6%) and high asset turnover (1.36x)**, NOT by leverage (equity multiplier just 1.35x). ROA of 75.4% is breathtaking. This is the highest-quality ROE possible.
 
 ---
 
 ## 10. COMPETITIVE POSITION & MOAT ANALYSIS
 
-**Moat Type: WIDE — Multi-layered competitive advantages.**
+**Moat Type: WIDE.** CUDA ecosystem (4.7M+ developers, 18 years), architecture leadership (Blackwell → Vera Rubin), full-stack platform (chips + networking + software), and scale ($18.5B R&D > AMD's entire revenue).
 
-**1. CUDA Ecosystem (Switching Costs + Network Effects):** NVIDIA's CUDA platform has 4.7 million+ developers and 18 years of accumulated software libraries. Virtually every AI framework (PyTorch, TensorFlow) is optimised for CUDA first. Switching to AMD or custom silicon means rewriting code, retraining teams, and accepting lower performance. This is a moat that widens with every new developer and library.
+**Threats:** AMD (MI300X), Google (TPU), Amazon (Trainium), custom ASICs. Real but manageable — ~80-90% training/inference share.
 
-**2. Architecture Leadership (Technological Superiority):** NVIDIA consistently delivers the most powerful GPUs 12-18 months ahead of competition. The Blackwell architecture (H200, B100, B200, GB200, GB300) offers an order of magnitude better inference performance per dollar than the prior Hopper generation. The upcoming Vera Rubin architecture extends this further.
-
-**3. Full-Stack Platform (Systems Integration):** NVIDIA doesn't just sell chips — it sells complete systems (DGX), networking (NVLink, InfiniBand, Spectrum-X), and software (CUDA, cuDNN, TensorRT, NeMo, Omniverse). This full-stack approach makes it the easiest path for customers to deploy AI infrastructure.
-
-**4. Scale Advantages:** At $216B revenue, NVIDIA can invest $18.5B in R&D — more than AMD's entire revenue. This creates a self-reinforcing cycle: more R&D investment → better products → higher margins → more R&D investment.
-
-**Competitive Threats:** AMD (MI300X), Intel (Gaudi), Google (TPU), Amazon (Trainium/Inferentia), and custom ASICs from hyperscalers. These are real but manageable threats — AMD has gained some market share, and custom silicon is taking some workloads. However, NVIDIA's share of training and high-end inference remains dominant.
-
-**Susceptibility to Change:** This is the key Buffett concern. The semiconductor industry IS subject to change. However, NVIDIA has successfully navigated multiple platform shifts (gaming → crypto → data centre → AI). The CUDA ecosystem creates a durable moat that transcends any single hardware generation. Buffett would note that unlike consumer staples, the specific form of NVIDIA's moat could evolve or be disrupted over a 20-year horizon — this is a genuine risk that commands a higher discount rate.
-
-> *"We do not get enthused about change... we're looking for the absence of change to protect ways that are already making a lot of money."* — Buffett. NVIDIA sits uncomfortably here: it is making more money than almost any business in history, but it operates in a technology sector where change is constant. Buffett would likely admire the business but worry about the 20-year durability.
+> *"We do not get enthused about change... we're looking for the absence of change to protect ways that are already making a lot of money."* — Buffett. NVIDIA operates in a technology sector where change is constant. The CUDA ecosystem creates durability, but the 20-year landscape is uncertain.
 
 ---
 
-## 11. SCALABILITY CHECK — Can This Business Scale and Is It Scaling?
+## 11. SCALABILITY CHECK
 
-### Part A: Unit Economics of Scaling
+### Part A: Profit Scalability (EBIT-Based)
 
-**Revenue Scalability:** Near-perfect. NVIDIA designs chips once (fixed R&D cost) and TSMC manufactures them. Each additional GPU sold carries minimal incremental cost to NVIDIA — the marginal cost is primarily TSMC's wafer cost and packaging, while NVIDIA captures the design premium.
+| Year | Revenue ($M) | Rev Growth | EBIT ($M) | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY2021 | 16,675 | 52.7% | 6,252 | 119.7% | 37.5% | 59.2% |
+| FY2022 | 26,914 | 61.4% | 10,429 | 66.8% | 38.7% | 40.8% |
+| FY2024 | 60,922 | 125.9% | 22,122 | 659.2% | 36.3% | 56.6% |
+| FY2025 | 130,497 | 114.2% | 81,453 | 268.2% | 62.4% | **85.3%** |
+| FY2026 | 215,938 | 65.5% | 130,387 | 60.1% | 60.4% | 57.3% |
 
-**Incremental Operating Margins:**
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on pre-D&A Operating Profit — this captures whether scaling is genuine or being eaten by rising capital consumption. NVIDIA's incremental EBIT margins of 57-85% versus current EBIT margins of 60% confirm elite operating leverage.*
 
-| Period | ΔRevenue ($M) | Inc. Op Margin | Inc. Net Margin |
-|---|---|---|---|
-| FY2023→FY2024 | +33,948 | 56.6% | 74.8% |
-| FY2024→FY2025 | +69,575 | **85.3%** | 62.0% |
-| FY2025→FY2026 | +85,441 | 57.3% | 55.2% |
-
-**Scaling Quality: ELITE.** Incremental operating margins of 57-85% versus current operating margins of 60% confirm that NVIDIA is scaling beautifully. Every new dollar of revenue is at least as profitable as the existing business — and in FY2024-FY2025, incremental margins were substantially HIGHER than current margins.
-
-**Capital Scalability:** CapEx as % of Revenue was just 2.8% in FY2026 — declining from 6.8% in FY2023. Revenue per dollar of CapEx increased from $14.7 to $35.7 over this period. This is the epitome of capital-light scaling.
-
-### Part B: Scaling Runway
-
-The total addressable market for AI infrastructure is estimated at $1-2 trillion annually by 2030 (including chips, networking, software, and systems). NVIDIA's FY2026 Data Centre revenue of $194B represents perhaps 15-20% penetration of the eventual TAM. The runway is enormous — potentially 5-10x from current levels over a decade, though growth rates will inevitably decelerate.
-
-**S-Curve Position: Growth Phase / Post-Inflection.** NVIDIA has clearly passed the inflection point (that was FY2024). It is now in the high-growth scaling phase — the model is proven, the moat is established, and revenue is being replicated at massive scale. This is analogous to Coca-Cola in the late 1980s (post-inflection, international scaling).
-
-### Part C: Scaling Verdict
-
-| Dimension | Score | Evidence |
-|---|---|---|
-| Revenue scalability | 10/10 | Fabless model; near-zero incremental design cost per unit |
-| Profit scalability | 9/10 | Inc. margins 57-85%; slight deceleration as mix evolves |
-| Capital scalability | 10/10 | 2.8% CapEx/Revenue; no fabs needed |
-| Scaling runway | 8/10 | Enormous TAM but base is now $216B — law of large numbers applies |
-| S-Curve position | 8/10 | Post-inflection growth phase; ideal timing |
-| **Overall** | **9/10** | **Elite Scaling Machine** |
+**Scaling Verdict: 9/10 — Elite Scaling Machine.** Fabless model, $1T+ TAM runway, post-inflection growth phase.
 
 ---
 
 ## 12. MANAGEMENT QUALITY & BUFFETT'S $1 TEST
 
-**Jensen Huang — Founder-CEO since 1993.** One of the most remarkable founder-CEO tenures in corporate history. Huang anticipated the AI revolution years before it arrived, pivoted the company from gaming to AI infrastructure, and built the CUDA ecosystem that now creates massive switching costs.
+**Jensen Huang — Founder-CEO since 1993.**
 
 **Buffett's $1 Test:**
-- FY2019 to FY2026: Cumulative Net Income = ~$248B, Cumulative Dividends = ~$3.9B, Retained Earnings = ~$244B
-- Market cap went from ~$90B to ~$4,860B = ~$4,770B increase
-- Market value created per dollar of retained earnings: **$4,770B / $244B ≈ $19.5** per $1 retained — an outstanding result by any standard.
+- Cumulative Retained Earnings (FY2019-FY2026): ~$244B (NI ~$248B minus dividends ~$3.9B)
+- Market cap change: ~$4,770B ($90B → $4,860B)
+- **$19.5 per $1 retained** — an outstanding result.
 
-*Note: Equity increased by only ~$148B over this period (from $9.3B to $157.3B) because ~$103B in cumulative share buybacks reduced book equity. The $1 test correctly uses retained earnings (NI minus dividends), not the net equity change.*
+*Note: Equity increased by only ~$148B because ~$103B in buybacks reduced book equity. The $1 test uses retained earnings, not equity change.*
 
-**Capital Allocation:** NVIDIA has executed share buybacks aggressively ($40B in FY2026). Given the stock's extraordinary appreciation, the retrospective return on these buybacks is difficult to critique — the stock has only gone up. However, at a current PE of 41x, one could argue buybacks are less efficient than they were at lower multiples. The company has also invested wisely in its CUDA ecosystem, supply chain relationships with TSMC, and strategic investments.
-
-**SBC:** GAAP SBC at 5.3% of net income ($6.4B) appears manageable, but as discussed in Section 4, the true economic cost of dilution is substantially higher — over the past 8 years, ~$103B in buybacks failed to reduce the share count. This is the single most significant blemish on an otherwise outstanding capital allocation track record.
-
-> *"I learned a long time ago that the most important single factor in choosing a business to invest in is the ability of the management."* — Buffett. Jensen Huang is one of the great business leaders of this generation. His strategic vision, execution, and retention of talent (through SBC) have been extraordinary.
+**SBC Assessment:** GAAP SBC at 5.3% of NI appears manageable, but the true economic cost is substantially higher — over 8 years, ~$103B in buybacks failed to reduce the share count. This is the single most significant blemish on an otherwise outstanding capital allocation track record.
 
 ---
 
@@ -306,44 +281,36 @@ The total addressable market for AI infrastructure is estimated at $1-2 trillion
 |---|---|---|---|---|
 | Data Centre Revenue ($B) | 15.0 | 47.5 | 115.2 | **193.7** |
 | DC Revenue % of Total | 55.6% | 78.0% | 88.3% | **89.7%** |
-| DC Revenue Growth | 41% | 217% | 142% | **68%** |
 | Gaming Revenue ($B) | 9.1 | 10.3 | 11.4 | 16.0 |
 | Networking Revenue ($B) | 1.8 | 5.5 | 13.0 | **31.4** |
-| R&D Spend ($B) | 7.3 | 8.7 | 12.9 | ~18.5 |
-| Employees | ~26,000 | ~29,600 | ~32,000 | ~36,000 |
 | Rev per Employee ($M) | 1.04 | 2.06 | 4.08 | **6.00** |
-
-**Key Observations:** Data Centre revenue now represents nearly 90% of the business, up from 56% in FY2023. Within Data Centre, networking revenue exploded 142% to $31.4B as NVLink became essential for large-scale AI clusters. Revenue per employee nearly tripled in two years — extraordinary operating leverage from a knowledge-intensive business.
 
 ---
 
 ## 14. VALUATION ANALYSIS — The Price You Pay Determines Your Return
 
-| Metric | Current (Apr 2026) | FY2025 YE | FY2024 YE | FY2023 YE | 5Y Median |
-|---|---|---|---|---|---|
-| PE Ratio | 40.8x | ~41x | ~51x | ~35x | ~40x |
-| P/B Ratio | 30.9x | ~37x | ~35x | ~7x | ~20x |
-| P/FCF | 50.8x | ~48x | ~54x | ~46x | ~48x |
-| EV/EBITDA | ~35x | ~34x | ~38x | ~35x | ~35x |
-| Earnings Yield | 2.45% | 2.4% | 2.0% | 2.9% | 2.5% |
-| FCF Yield | 1.97% | 2.1% | 1.9% | 2.2% | 2.0% |
+| Metric | Current (May 2026) | FY2025 YE | FY2024 YE | FY2023 YE |
+|---|---|---|---|---|
+| **P/Owner Earnings** (primary Buffett-pure) | **43.7x** | ~41x | ~54x | ~46x |
+| **Owner Earnings Yield** | **2.29%** | 2.4% | 1.9% | 2.2% |
+| PE Ratio | 40.8x | ~41x | ~51x | ~35x |
+| P/B Ratio | 30.9x | ~37x | ~35x | ~7x |
+| P/FCF | 50.8x | ~48x | ~54x | ~46x |
+| EV/EBIT | 37.2x | ~35x | ~38x | ~35x |
+| Earnings Yield | 2.45% | 2.4% | 2.0% | 2.9% |
+| FCF Yield | 1.97% | 2.1% | 1.9% | 2.2% |
 
-**Valuation Context:** At a PE of 40.8x, NVIDIA trades at a premium to the S&P 500 (~20x) but at a discount to its own trailing-year growth rates (EPS grew 67% in FY2026). The PEG ratio is approximately 0.6x (using trailing FY2026 EPS growth of ~67%), which would suggest the stock is undervalued relative to growth. However, the absolute multiple is high, and it requires sustained extraordinary growth to justify.
+> **Why P/Owner Earnings is the primary multiple:** It uses Buffett-Adjusted Owner Earnings — true cash available to the owner after maintaining the business AND maintaining the ownership structure (via maintenance buybacks). P/FCF is misleading because reported FCF adds back SBC as "non-cash" while ignoring the buyback cash needed to offset dilution. PE uses accounting earnings that understate SBC's true cost.
 
-At 30.9x book value, NVIDIA is one of the most expensive stocks in history on a P/B basis. This is justified by the extraordinary ROE (>100%) — the theoretical Fair P/B using the Gordon Growth Model would be astronomical:
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't real. EV/EBIT of 37.2x accounts for the capital consumed. For NVIDIA (fabless, low D&A), the EV/EBIT and EV/EBITDA gap is small (~1x) — confirming the asset-light nature. Buffett himself rarely uses EV constructs, preferring P/Owner Earnings.
 
-```
-Fair P/B = (ROE - g) / (CoE - g)
-         = (1.015 - 0.25) / (0.10 - 0.25) → Negative denominator = undefined
-```
-
-When ROE far exceeds the cost of equity AND the growth rate exceeds the cost of equity, the Gordon Growth Model produces undefined or infinite values. This indicates that NVIDIA's current profitability is genuinely exceptional — the standard valuation frameworks break down. The practical interpretation: pay attention to earnings-based multiples (PE, P/FCF), not book-based multiples.
+At P/OE of 43.7x, the stock requires continued extraordinary growth to justify. PEG ratio ~0.6x (using trailing 67% EPS growth) suggests undervaluation relative to current growth, but the absolute multiple is high.
 
 ---
 
 ## 15. INTRINSIC VALUE & MARGIN OF SAFETY
 
-### Three-Scenario DCF (Owner Earnings Based)
+### Three-Scenario DCF (Buffett-Adjusted Owner Earnings)
 
 | Scenario | Growth Y1-5 | Growth Y6-10 | Terminal Growth | Discount Rate | IV/Share | MoS at $200 | Upside |
 |---|---|---|---|---|---|---|---|
@@ -351,13 +318,9 @@ When ROE far exceeds the cost of equity AND the growth rate exceeds the cost of 
 | **Base** | 20% | 12% | 3.5% | 10% | $192.89 | -3.7% | -3.6% |
 | **Optimistic** | 25% | 15% | 4.0% | 10% | $274.00 | 27.0% | 37.0% |
 
-**Starting Owner Earnings:** $112,290M ($4.58/share) — Buffett-Adjusted, using FY2026 figures. This reflects the true cash owners can extract after accounting for maintenance buybacks required to neutralise SBC dilution (see Section 8 for derivation).
+**Starting Owner Earnings:** $112,290M ($4.58/share) — Buffett-Adjusted. Discount Rate: 10% flat (Buffett's hurdle rate; Munger has called WACC "nonsense").
 
-**Interpretation:** The base case puts intrinsic value at ~$193 — slightly below the current price, implying **no margin of safety** under reasonable growth assumptions (20% EPS CAGR for 5 years, decelerating to 12%). The conservative case suggests significant downside risk if AI spending decelerates faster than expected. The optimistic case offers ~37% upside if the AI supercycle sustains for a full decade.
-
-Margin of Safety formula: MoS = (IV − CMP) / IV.
-
-At the current price of $200, the base-case intrinsic value of ~$193 indicates the stock is **slightly above fair value** — the price requires execution at the high end of reasonable assumptions just to justify itself. Buffett would note that this is a wonderful business at a full price — not a wonderful business at a wonderful price.
+**Interpretation:** Base case IV ~$193 — slightly below CMP, implying **no margin of safety.** The price requires execution at the high end of reasonable assumptions. This is a wonderful business at a full price.
 
 > *"Price is what you pay, value is what you get."* — Buffett.
 
@@ -365,57 +328,92 @@ At the current price of $200, the base-case intrinsic value of ~$193 indicates t
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = $200, Normalised TTM EPS = $4.90, Current PE = 40.8x
+### Step 1: Inputs
 
-### Implied EPS CAGR Needed to Achieve Target Returns
+| Input | Value | Source |
+|---|---|---|
+| CMP | $200.00 | Market data |
+| TTM EPS (Normalised) | $4.90 | FY2026 GAAP EPS |
+| **Owner Earnings Per Share (OEPS)** | **$4.58** | Buffett-Adjusted OE / 24,514M diluted shares |
+| Current PE | 40.8x | CMP / EPS |
+| **Current P/OE** | **43.7x** | CMP / OEPS — Buffett-pure multiple |
 
-**Terminal PE = 15x (Mature)**
+### Step 3: Implied EPS CAGR Needed
+
+**At Terminal PE = 15x (Mature)**
 
 | Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
 | 5 Years | 34.4% | 40.5% | 46.6% |
 | 10 Years | 21.6% | 27.1% | 32.6% |
 
-**Terminal PE = 22x (Market Average)**
+**At Terminal PE = 22x (Market Average)**
 
 | Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
 | 5 Years | 24.5% | 30.1% | 35.8% |
 | 10 Years | 17.0% | 22.3% | 27.7% |
 
-**Terminal PE = 30x (Above-Average Compounder)**
+**At Terminal PE = 30x (Compounder)**
 
 | Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
 | 5 Years | 17.0% | 22.3% | 27.6% |
 | 10 Years | 13.4% | 18.6% | 23.8% |
 
-**Terminal PE = 40x (Historical Average)**
+**At Terminal PE = 40x (Historical)**
 
 | Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
 | 5 Years | 10.4% | 15.5% | 20.5% |
 | 10 Years | 10.2% | 15.2% | 20.2% |
 
-### Reality Check
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-| Benchmark | EPS CAGR |
-|---|---|
-| Company 5Y Historical EPS CAGR | ~96% |
-| Company 3Y Historical EPS CAGR | ~207% |
-| Nominal GDP Growth (US) | 5-6% |
-| Analyst FY2027 EPS Estimate | ~$7.70 (~57% growth) |
-| Q1 FY2027 Guidance Implied Run-Rate | ~$7.60-$8.00 annualised |
+> **Why this matters:** EPS can be misleading — it ignores the cash cost of maintaining per-share ownership through buybacks. For NVIDIA, the gap between EPS ($4.90) and OEPS ($4.58) is driven by SBC dilution costs. If the EPS-based Reverse DCF says "the market needs 17% growth" but the OEPS version says "20%," that 3pp gap is the hidden cost of SBC that most investors miss.
 
-**Traffic Light:**
+**Terminal P/OE multiples:** Mature (13x), Market Average (18x), Compounder (25x).
 
-At Terminal PE 30x (reasonable for a quality compounder): To earn 10% returns over 10 years, NVIDIA needs 13.4% EPS CAGR. Given the company has grown EPS at 96%+ over 5 years, 13.4% seems very achievable. **🟢 GREEN.**
+#### Implied OEPS CAGR Needed (at Terminal P/OE = 18x, Market Average)
 
-At Terminal PE 22x (market average): To earn 15% returns over 10 years, NVIDIA needs 22.3% EPS CAGR. This is ambitious for a $216B revenue company but plausible given the AI runway. **🟡 YELLOW.**
+| Period | 10% Return | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 31.3% | 37.3% | 43.3% |
+| 10 Years | 20.2% | 25.7% | 31.1% |
+| 15 Years | 16.7% | 22.0% | 27.3% |
 
-At Terminal PE 15x (mature business): To earn 10% returns over 10 years, NVIDIA needs 21.6% EPS CAGR. This scenario assumes severe multiple compression AND requires double-digit earnings growth — a tougher ask. **🟠 ORANGE.**
+#### The Divergence Test — EPS vs. OEPS Implied Growth
 
-**Verdict:** At $200, with a terminal PE assumption of 25-30x, the market is pricing in roughly 15-20% EPS CAGR for the next decade. This is well below NVIDIA's recent growth rates but requires the company to grow from $216B to ~$1 trillion+ in revenue. That is ambitious but not impossible if the AI infrastructure buildout continues at the expected pace. The price is **FAIR to SLIGHTLY OPTIMISTIC** — not crazy, not a bargain.
+| Metric | At Market Avg Terminal Multiple | 10-Year, 10% Hurdle |
+|---|---|---|
+| Implied EPS CAGR (Step 3, PE 22x) | **17.0%** | |
+| Implied OEPS CAGR (Step 3B, P/OE 18x) | **20.2%** | |
+| **Gap (OEPS − EPS)** | **3.2 pp** | |
+
+**Interpretation:** The 3.2pp gap falls in the **2-5pp range (moderate)**. For NVIDIA, this gap is driven not by physical capital intensity (minimal for fabless) but by SBC dilution costs — GAAP earnings understate the true cash required to maintain per-share value. The standard EPS-based Reverse DCF makes NVIDIA look ~3pp cheaper than it actually is. **Defer to the OEPS-based verdict.**
+
+> Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice."* The same logic applies to EPS vs. Owner Earnings: EPS ignores the cash cost of maintaining ownership. OEPS captures the truth.
+
+### Step 4: Reality Check
+
+| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+|---|---|---|---|
+| US nominal GDP growth | 5-6% | 5-6% | Floor |
+| Company 5Y historical EPS CAGR | ~96% | ~92% | Track record |
+| Analyst FY2027 EPS estimate | ~$7.70 (~57%) | — | Near-term |
+| Q1 FY2027 guidance run-rate | ~$7.60-$8.00 | — | Forward trajectory |
+
+**Traffic Light (applied to BOTH EPS and OEPS):**
+
+At Terminal PE 30x / P/OE 25x: EPS needs 13.4%; OEPS needs 16.3%. Both achievable. **🟢 GREEN.**
+
+At Terminal PE 22x / P/OE 18x: EPS needs 17.0%; OEPS needs 20.2%. EPS verdict is borderline green; OEPS verdict is yellow. **Defer to OEPS: 🟡 YELLOW.**
+
+At Terminal PE 15x: EPS needs 21.6%; OEPS needs 24.2%. **🟠 ORANGE.**
+
+### Step 5: Verdict
+
+> *"At $200, to earn 10% over 10 years at 22x terminal PE, NVIDIA needs 17.0% EPS CAGR (and 20.2% Owner Earnings CAGR). The company has grown EPS at ~96% CAGR over 5 years. This implies the market is pricing in growth well below the historical rate but requires sustained ~20% OE growth from a $216B revenue base — fair but optimistic. Note: the EPS-based assessment (17.0%, borderline green) is more favourable than the Owner Earnings assessment (20.2%, yellow), indicating SBC dilution costs are masking the true growth hurdle by ~3pp."*
 
 ---
 
@@ -423,67 +421,40 @@ At Terminal PE 15x (mature business): To earn 10% returns over 10 years, NVIDIA 
 
 ### Part A: DuPont Decomposition
 
-| Component | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
-|---|---|---|---|---|---|---|
-| Net Profit Margin | 26.0% | 36.2% | 16.2% | 48.8% | 55.8% | 55.6% |
-| Asset Turnover | 0.72 | 0.74 | 0.63 | 1.14 | 1.47 | 1.36 |
-| Equity Multiplier | 1.58 | 1.68 | 1.75 | 1.64 | 1.45 | 1.35 |
-| DuPont ROE | 29.6% | 45.0% | 17.9% | 91.2% | 118.9% | 102.1% |
+| Year | Net Profit Margin | Asset Turnover | Equity Multiplier | DuPont ROE | Direct ROE |
+|---|---|---|---|---|---|
+| FY2023 | 16.2% | 0.63 | 1.75 | 17.9% | 17.9% |
+| FY2024 | 48.8% | 1.14 | 1.64 | 91.2% | 91.5% |
+| FY2025 | 55.8% | 1.47 | 1.45 | 118.9% | 119.2% |
+| FY2026 | 55.6% | 1.36 | 1.35 | 102.1% | 101.5% |
 
-**Quality Assessment:** NVIDIA's ROE is driven by the first two factors — extraordinary net margins and high asset turnover — NOT by leverage. The equity multiplier has actually DECLINED from 1.75 to 1.35 over three years as the balance sheet de-levered. This is the highest quality ROE possible.
+ROE driven by margins and turnover, NOT leverage. ROCE (79.1%) < ROE (101.5%) — gap from non-operating gains, not financial engineering.
 
-**ROCE vs. ROE:** ROCE (79.1%) < ROE (101.5%). The gap is primarily explained by non-operating gains (including $8.9B in investment gains in FY2026 from holdings including Intel stock). The underlying business ROCE of ~79% confirms the ROE is genuine quality, not financial engineering.
+### Part B: P/B Scenario Analysis
 
-### Part B: P/B Multiple Scenario Analysis
+| Exit P/B | 5-Year CAGR | 10-Year CAGR |
+|---|---|---|
+| 30.9x (current) | 25.0% | 25.0% |
+| 23.2x (mild compression) | 18.0% | 21.5% |
+| 15.5x (50% compression) | 8.8% | 16.6% |
+| 10.0x (severe) | -0.3% | 11.7% |
+| 5.0x (bear) | -13.2% | 4.2% |
 
-**Inputs:** Current BVPS = $6.47, CMP = $200, Entry P/B = 30.9x
-
-Projected BVPS at 25% growth (conservative given 50%+ historical BVPS CAGR):
-
-| Horizon | Projected BVPS |
-|---|---|
-| 5 Years | $19.74 |
-| 7 Years | $30.85 |
-| 10 Years | $60.26 |
-
-**Expected Return CAGR at $200 Entry:**
-
-| Exit P/B | Rationale | 5Y CAGR | 7Y CAGR | 10Y CAGR |
-|---|---|---|---|---|
-| 30.9x (current) | Multiple sustains | 25.0% | 25.0% | 25.0% |
-| 23.2x (75% of current) | Mild compression | 18.0% | 20.0% | 21.5% |
-| 15.5x (50% of current) | Significant compression | 8.8% | 13.2% | 16.6% |
-| 15.0x | Round number scenario | 8.2% | 12.7% | 16.3% |
-| 10.0x | Severe de-rating | -0.3% | 6.4% | 11.7% |
-| 5.0x | Bear case | -13.2% | -3.6% | 4.2% |
-
-**Key Insight:** If BVPS compounds at 25% and the P/B halves from 30.9x to 15.5x over 10 years, the return is still 16.6% annually. If P/B compresses to 10x (a severe de-rating), the 10-year return is 11.7% — still above the hurdle rate. The business quality provides substantial protection even against aggressive multiple compression over long horizons.
-
-**Traffic Light:** 🟢 **GREEN** — 10-year return exceeds the 10% hurdle rate even if P/B halves. The extraordinary profitability overwhelms the valuation headwind over time.
+**Traffic Light:** 🟢 GREEN — 10-year return exceeds 10% hurdle even if P/B halves.
 
 ---
 
 ## 18. BUY ZONE DEFINITION
 
-| Zone | Price Range | PE Range | Rationale |
-|---|---|---|---|
-| **Deep Value / Strong Buy** | Below $130 | <27x | Below conservative IV; exceptional MoS |
-| **Value / Buy** | $130 - $170 | 27x - 35x | Attractive risk-reward; mild MoS |
-| **Fair Value / Hold** | $170 - $220 | 35x - 45x | Fairly priced; returns driven by execution |
-| **Fully Valued / Trim** | $220 - $280 | 45x - 57x | Limited MoS; hold only with high conviction |
-| **Overvalued / Sell** | Above $280 | >57x | Priced for perfection; significant downside risk |
+| Zone | Price Range | PE Range |
+|---|---|---|
+| **Deep Value / Strong Buy** | Below $130 | <27x |
+| **Value / Buy** | $130 - $170 | 27x - 35x |
+| **Fair Value / Hold** | $170 - $220 | 35x - 45x |
+| **Fully Valued / Trim** | $220 - $280 | 45x - 57x |
+| **Overvalued / Sell** | Above $280 | >57x |
 
-**Current price of $200 falls in the FAIR VALUE / HOLD zone.**
-
-### What Would Buffett Do If You Already Hold?
-
-| Your Entry Zone | Avg. Cost Range | Position vs. CMP | Recommendation |
-|---|---|---|---|
-| Deep Value | $90-130 | +54% to +122% profit | HOLD. Extraordinary business. Let compounding work. Trim only if position is >15% of portfolio. |
-| Value | $130-170 | +18% to +54% profit | HOLD. Attractive entry; the growth runway justifies continued holding. |
-| Fair Value | $170-220 | -9% to +18% | HOLD. You paid a fair price; returns depend on execution. Do not average up at current price. |
-| Fully Valued | $220-280 | -10% to -29% loss | HOLD with patience. The business quality is extraordinary; 2-3 years of earnings growth will bail you out. Do NOT panic sell. |
-| Overvalued | $280+ | -29%+ loss | HOLD reluctantly. The business will likely grow into the valuation over 3-5 years, but opportunity cost is real. |
+**Current price of $200: FAIR VALUE / HOLD zone.**
 
 ---
 
@@ -491,21 +462,15 @@ Projected BVPS at 25% growth (conservative given 50%+ historical BVPS CAGR):
 
 | Criterion | Assessment | Verdict |
 |---|---|---|
-| Circle of competence | Semiconductor/AI technology is OUTSIDE traditional Buffett territory, but the toll-bridge economic model IS within it | ⚠️ |
-| Enduring moat | CUDA ecosystem, 80%+ market share, full-stack platform | ✅ |
-| Management quality | Jensen Huang is a once-in-a-generation founder-CEO | ✅ |
-| Technological disruption risk | Industry is inherently subject to change; custom ASICs, new architectures are real threats | ⚠️ |
-| 10+ year economics sustainability | Probable but uncertain; AI spending is a secular shift, but market structure could evolve | ⚠️ |
-| Price below intrinsic value | At ~$200, slightly above base-case IV of ~$193; no margin of safety | ❌ |
+| Circle of competence | Toll-bridge model is within; semiconductor details are not | ⚠️ |
+| Enduring moat | CUDA + 80%+ share + full stack | ✅ |
+| Management | Jensen Huang — generational founder-CEO | ✅ |
+| Disruption risk | Technology sector; constant change | ⚠️ |
+| 10+ year sustainability | Probable but uncertain | ⚠️ |
+| Price below IV | At ~$200, slightly above base-case IV ~$193; no MoS | ❌ |
 | Financial fortress | $55B net cash, 0.05x D/E | ✅ |
 
-**Honest Verdict:** Buffett would deeply admire this business — the returns on capital, the moat, the management, the balance sheet. He would recognise that NVIDIA today has the same "inevitability" quality that Coca-Cola had in 1988 — it is THE essential infrastructure for the most transformative technology shift in decades.
-
-But Buffett would likely **NOT** buy at $200. Three reasons: (1) Using Buffett-Adjusted Owner Earnings (which account for the true cost of SBC dilution), the base-case intrinsic value is ~$193 — the stock is slightly above fair value with no margin of safety. (2) The technology sector makes him uncomfortable for 10-20 year predictions — he cannot say with certainty what the competitive landscape looks like in 2036. (3) At $4.9 trillion market cap, NVIDIA must add another $5+ trillion in value to double — the law of large numbers becomes a headwind.
-
-However, if Buffett were working with a **small capital base** (as he was at the Buffett Partnership), he might take a different view. With small capital, the opportunity cost of missing NVIDIA's continued compounding is higher, and the position sizing is more flexible. A small-capital Buffett might take a 3-5% position at current prices, with a plan to add aggressively on any 30-40% pullback.
-
-> *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* — Buffett. NVIDIA is the most wonderful business of this generation. At $200, it is a wonderful business at a fair-to-full price. It is NOT a screaming buy, but nor is it uninvestable.
+**Verdict:** Buffett would NOT buy at $200. Base-case IV ~$193 using Buffett-Adjusted OE offers no margin of safety. But on a small capital base, he might watchlist with aggressive accumulation at $130-150.
 
 ---
 
@@ -513,35 +478,28 @@ However, if Buffett were working with a **small capital base** (as he was at the
 
 | Risk | Severity | Probability | Mitigation |
 |---|---|---|---|
-| **AI spending slowdown / cyclical downturn** | High | Medium | Diversified customer base; inference demand growing alongside training |
-| **Custom silicon / ASIC threat** | High | Medium | Full-stack advantage; CUDA ecosystem lock-in; NVIDIA also offers custom solutions |
-| **Gross margin compression** | Medium | High | Already declining from 75% to 71%; Blackwell cost structure improving; mix shifts |
-| **US-China export controls** | High | Medium-High | $4.5B H20 charge in Q1'26; China revenue structurally impaired; ~5% revenue impact |
-| **Concentration risk (hyperscaler dependency)** | High | Medium | Top 4 hyperscalers are 50%+ of DC revenue; loss of any one would be material |
-| **Technology disruption (quantum, neuromorphic)** | High | Low | 10+ year horizon; NVIDIA actively investing in quantum computing (Ising models) |
-| **Valuation compression** | High | Medium | PE of 41x requires sustained growth; any deceleration will compress the multiple |
-| **Key-man risk (Jensen Huang)** | High | Low | Huang is 63; deep bench of executives, but he is genuinely irreplaceable in the near term |
-| **Supply chain / TSMC dependency** | High | Low | Single-source for advanced nodes; any TSMC disruption would be catastrophic |
+| AI spending slowdown | High | Medium | Inference demand growing |
+| Custom silicon / ASIC threat | High | Medium | CUDA lock-in; full-stack |
+| Gross margin compression | Medium | High | 75% → 71%; mix shifts |
+| US-China export controls | High | Medium-High | ~5% revenue impact |
+| SBC dilution cost escalation | Medium | High | At $200/sh, ~$27B/yr to keep shares flat |
+| Valuation compression | High | Medium | PE 41x requires sustained growth |
+| Key-man risk (Jensen Huang) | High | Low | Deep bench but irreplaceable |
+| TSMC dependency | High | Low | Single-source for advanced nodes |
 
 ---
 
 ## 21. REGULATORY RISKS & POLICY HEADWINDS
 
-**Key Regulatory Bodies:** US Bureau of Industry and Security (BIS), EU Chips Act regulators, Chinese MOFCOM.
+**US Export Controls on China:** Most significant. $4.5B H20 charge in Q1 FY2026. China revenue structurally impaired. **Buffett's Verdict: (a) Manageable and likely overpriced by market.** Global AI TAM expands faster than China shrinks.
 
-**Primary Regulatory Risk — US Export Controls on China:** This is the most significant regulatory headwind. The US government has progressively restricted NVIDIA's ability to sell advanced AI chips to China. NVIDIA took a $4.5 billion charge in Q1 FY2026 related to the H20 chip inventory write-down. China was historically ~20-25% of NVIDIA's revenue; it is now structurally impaired, with the company not including any China data centre revenue in its Q1 FY2027 guidance.
-
-**Impact Assessment:** The China revenue loss (~$10-15B annually) is real but has been more than offset by surging demand from the rest of the world. Revenue grew 65% in FY2026 despite the China restrictions. The market has largely priced in this headwind.
-
-**Antitrust Risk:** As NVIDIA approaches 90% market share in AI GPUs, antitrust scrutiny is increasing. The French competition authority has investigated NVIDIA. However, NVIDIA's dominance is driven by superior products, not anticompetitive behaviour — making antitrust action less likely.
-
-**Buffett's Verdict on Regulatory Risk:** **(a) Manageable and likely overpriced by the market.** The China export controls are a permanent impairment to one market, but the global AI buildout is so large that NVIDIA's total addressable market continues to expand faster than the China business shrinks. The regulatory risk is real but not existential.
+**Antitrust:** Scrutiny increasing at ~90% share. Dominance is from superior products — action less likely.
 
 ---
 
 ## 22. TURNAROUND PROBABILITY
 
-**Not Applicable.** NVIDIA is not under stress or in transition. It is at the peak of its competitive and financial powers, with accelerating revenue growth, expanding margins, and the strongest product pipeline in its history (Blackwell → Vera Rubin → next generation).
+**Not Applicable.** Peak competitive and financial powers.
 
 ---
 
@@ -549,18 +507,18 @@ However, if Buffett were working with a **small capital base** (as he was at the
 
 | Factor | Score (1-10) | Commentary |
 |---|---|---|
-| Business Quality | **10** | Fabless toll bridge on AI infrastructure; 55% net margins; $96B FCF |
-| Moat Durability | **9** | CUDA ecosystem + 80%+ market share; -1 for long-term disruption uncertainty |
-| Financial Health | **10** | $55B net cash; 0.05x D/E; pristine balance sheet |
-| Management Quality | **10** | Jensen Huang is a once-in-a-generation founder; 30+ years of vision |
-| Return on Capital | **10** | ROE 101%, ROA 75%, ROIC 67% — historically unprecedented |
-| Scalability | **9** | Elite scaling machine; $1T+ TAM runway; CapEx-light |
-| Valuation | **5** | 40.8x PE; base-case IV ~$193 using Buffett-Adjusted OE — slightly above fair value |
-| Margin of Safety | **3** | Negative MoS (-3.7%) under Buffett-Adjusted base case; price requires optimistic execution |
-| **Overall Score** | **8.3 / 10** | |
-| **Buffett Verdict** | | NVIDIA is the most extraordinary business of this generation — monopoly-like market share, >50% net margins, near-zero leverage, and a founder-CEO with 30 years of vision. The economics are beyond what even Buffett has seen at this scale. However, when the true cost of SBC dilution is factored in (via maintenance buybacks), the Buffett-Adjusted Owner Earnings of $4.58/share put intrinsic value at ~$193 — meaning at $200, the stock offers **no margin of safety.** This is a **wonderful company at a full price.** For small-capital investors, a watchlist position with aggressive accumulation on 30-40% pullbacks is the Buffett playbook. The ideal entry would be during a market panic or AI sentiment correction that pushes the stock into the $130-150 range (25-30x forward PE), where the risk-reward becomes truly compelling. |
-| **Buy Zone** | | **Fair Value / Hold Zone ($170-$220)** |
-| **Recommendation** | | **HOLD if owned. WATCHLIST if not — wait for a pullback to the $130-150 Buy Zone.** |
+| Business Quality | **10** | Fabless toll bridge; 55% NPM; 60% EBIT margins |
+| Moat Durability | **9** | CUDA + 80%+ share; -1 for disruption uncertainty |
+| Financial Health | **10** | $55B net cash; Debt/EBIT 0.1x; pristine |
+| Management Quality | **10** | Huang; $19.5 per $1 retained |
+| Return on Capital | **10** | ROE 101%, ROA 75% — margins-driven, not leverage |
+| Scalability | **9** | Incremental EBIT margins 57-85%; $1T+ TAM |
+| Valuation | **5** | P/OE 43.7x; IV ~$193 — slightly above fair value |
+| Margin of Safety | **3** | -3.7% MoS; OEPS Reverse DCF needs 20.2% CAGR |
+| **Overall Score** | **8.25 / 10** | |
+| **Buffett Verdict** | | Extraordinary business, full price, no MoS. Buffett-Adjusted OE of $4.58/share → IV ~$193. OEPS Reverse DCF confirms 20% OE growth needed for 10% returns at 18x exit P/OE. Wait for the fat pitch at $130-150. |
+| **Buy Zone** | | **Fair Value / Hold ($170-$220)** |
+| **Recommendation** | | **HOLD if owned. WATCHLIST if not.** |
 
 ---
 
@@ -568,28 +526,22 @@ However, if Buffett were working with a **small capital base** (as he was at the
 
 **Can the thesis be explained to a 10-year-old?**
 
-"NVIDIA makes the special computer chips that every company in the world needs to build AI. They're like the only company that makes really good pickaxes during a gold rush. They sell $216 billion worth of chips every year and keep $120 billion as profit. That's like selling lemonade for $2.16 and keeping $1.20 — the best lemonade stand in the world."
+"NVIDIA makes the special computer chips that every company needs to build AI. They're the only company that makes really good pickaxes during a gold rush. They sell $216 billion worth of chips and keep $120 billion as profit."
 
 A 10-year-old would understand this. ✅
 
 **Does the math work without Excel?**
 
-The business math is simple: 55% net margins × growing revenue = growing profits. $4.90 EPS growing at even 15% for 10 years = ~$19.82 EPS. At 25x PE = ~$495 stock price. From $200, that's ~9.5% annual return. Decent but not a no-brainer.
+$4.90 EPS × 1.15^10 = ~$19.82. At 25x = ~$495. From $200, that's ~9.5% annual return. At 20% growth = ~$30.30 EPS × 25 = ~$757 = ~14.2% return.
 
-At 20% EPS growth for 10 years = ~$30.30 EPS. At 25x = ~$757. That's ~14.2% annual return. Attractive.
+**At $200, you make 10-14% if NVIDIA grows 15-20% for a decade.** Not a no-brainer, but solid. At $130-150, the napkin math screams "buy."
 
-The napkin math says: **if NVIDIA grows EPS at 15-20% for a decade (very reasonable given the AI runway), you make 10-14% annually from $200.** Not a screaming bargain, but a solid investment in a world-class business.
-
-> *"If you need to use Excel, it's an automatic pass."* — Buffett. The NVIDIA thesis doesn't NEED Excel — the business quality is obvious. The question is whether $200 is a price that gives you a comfortable margin, and the napkin math says: barely. At $130-150, the napkin math screams "buy." At $200, it whispers "maybe."
+> *"If you need to use Excel, it's an automatic pass."* — Buffett. At $200, it whispers "maybe." At $130, it screams "yes."
 
 ---
-
-*"The stock market is designed to transfer money from the active to the patient."* — Warren Buffett
-
-NVIDIA is the rare business worth being patient for — both patient enough to hold through volatility if you own it, and patient enough to wait for the right price if you don't. The AI revolution is real, NVIDIA's moat is formidable, and Jensen Huang is a generational CEO. The only variable that isn't perfect is the price.
 
 **Wait for the fat pitch.**
 
 ---
 
-*Analysis prepared April 20, 2026. All data sourced from NVIDIA SEC filings (10-K, 10-Q, 8-K), CFO Commentary, and public financial databases. Fiscal years end in late January; FY2026 ended January 25, 2026. All EPS figures adjusted for the 10:1 stock split completed June 2024. This analysis is for educational purposes only and does not constitute investment advice.*
+*Analysis prepared May 03, 2026. All data from NVIDIA SEC filings. EPS adjusted for 10:1 split (June 2024). Valuation uses Buffett-Adjusted Owner Earnings (deducting maintenance buybacks per the Burry SBC framework). EBIT used throughout; EBITDA deliberately excluded per Buffett/Munger philosophy. This is for educational purposes only and does not constitute investment advice.*
