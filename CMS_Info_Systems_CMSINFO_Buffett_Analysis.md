@@ -32,8 +32,11 @@ CMS passes Buffett's simplicity test. The business is easy to understand: banks 
 |---|---|---|---|---|---|---|---|---|
 | Revenue | **1,146** | 1,383 | 1,306 | 1,590 | 1,915 | 2,265 | **2,425** | 2,473 |
 | Revenue Growth YoY | — | 20.7% | **-5.6%** | **21.7%** | 20.4% | 18.3% | 7.1% | 2.0% |
-| EBITDA (Op. Profit) | **198** | 254 | 294 | 400 | 538 | 599 | **627** | 597 |
-| EBITDA Margin | **17.3%** | 18.4% | 22.5% | 25.2% | **28.1%** | 26.4% | 25.9% | 24.1% |
+| Operating Profit (pre-D&A) | **198** | 254 | 294 | 400 | 538 | 599 | **627** | 597 |
+| OPM % (pre-D&A) | **17.3%** | 18.4% | 22.5% | 25.2% | **28.1%** | 26.4% | 25.9% | 24.1% |
+| Depreciation & Amortisation | **54** | 57 | 63 | 92 | 132 | 150 | **161** | 192 |
+| **EBIT** | **144** | 197 | 231 | 308 | **406** | 449 | 466 | 405 |
+| **EBIT Margin** | **12.6%** | 14.2% | 17.7% | 19.4% | **21.2%** | 19.8% | 19.2% | 16.4% |
 | Net Profit | **96** | 135 | 169 | 224 | 297 | 347 | **372** | 322 |
 | Net Profit Growth YoY | — | **40.6%** | 25.2% | 32.5% | 32.6% | 16.8% | **7.2%** | -12% |
 | Net Profit Margin | **8.4%** | 9.8% | 12.9% | 14.1% | **15.5%** | 15.3% | 15.3% | 13.0% |
@@ -41,12 +44,13 @@ CMS passes Buffett's simplicity test. The business is easy to understand: banks 
 | EPS Growth YoY | — | **40.0%** | 25.2% | 28.4% | 31.6% | 10.8% | **6.2%**† | — |
 | Shares Outstanding (Cr) | 14.8 | 14.8 | 14.8 | 15.3 | 15.4 | 16.3 | 16.4 | 16.4 |
 | Shares Change YoY | — | 0.0% | 0.0% | 3.4% | 0.7% | 5.8% | 0.6% | — |
-| Depreciation | **54** | 57 | 63 | 92 | 132 | 150 | **161** | 191 |
 | Dividend Payout % | 25% | 20% | **13%** | 17% | 25% | 27% | **42%** | — |
 
 *†FY25 EPS Growth of 6.2% is calculated from Screener's reported EPS (₹21.33→₹22.66), which uses weighted-average diluted shares. If instead derived from Net Profit ÷ period-end share count (₹21.29→₹22.68), growth is ~6.5%. The difference reflects Screener's share-count methodology.*
 
-**Trend Narrative:** CMS has delivered an impressive revenue CAGR of **~13%** over 6 years (FY19→FY25), with net profit growing even faster at **~25% CAGR** over the same period — a clear sign of operating leverage. However, the TTM picture shows a concerning deceleration: revenue growth has slowed to just 2% and TTM net profit has DECLINED ~12%. The margin expansion story from FY19 (17% EBITDA margin) to FY23 (28% peak) has reversed, with margins compressing back to 24-26% due to wage inflation and industry volatility. Earnings are growing SLOWER than revenue in the recent period — the operating leverage that drove the FY19-FY23 story has temporarily reversed.
+**Trend Narrative:** CMS has delivered an impressive revenue CAGR of **~13%** over 6 years (FY19→FY25), with net profit growing even faster at **~25% CAGR** over the same period — a clear sign of operating leverage. However, the TTM picture shows a concerning deceleration: revenue growth has slowed to just 2% and TTM net profit has DECLINED ~12%. The margin expansion story from FY19 (17% OPM) to FY23 (28% peak) has reversed, with OPM compressing back to 24-26% due to wage inflation and industry volatility.
+
+**Critical EBIT insight:** While OPM (pre-D&A) has compressed by ~600 bps from its Mar 2023 quarterly peak (29% → 23%), EBIT Margin tells an even starker story — compressing by 820 bps over the same period (21.8% → 13.6%). The extra 220 bps gap is entirely D&A consuming the operating leverage, as depreciation surged from ₹32 Cr/quarter to ₹56 Cr/quarter from managed services infrastructure investment. Buffett would focus on EBIT Margin, not OPM, because it captures the true after-capital-charge operating profitability. Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* The EBITDA-based view flatters CMS; the EBIT view reveals the true margin pressure.
 
 The share count has been relatively stable (14.8 Cr → 16.4 Cr over 6 years, ~1.7% CAGR), with dilution primarily from ESOPs. This is acceptable but not ideal.
 
@@ -66,7 +70,12 @@ The share count has been relatively stable (14.8 Cr → 16.4 Cr over 6 years, ~1
 | Book Value Per Share | ₹50.4 | ₹57.4 | ₹66.5 | ₹82.1 | ₹101.4 | ₹119.4 | ₹138.2 |
 | BVPS Growth YoY | — | 13.9% | 15.8% | 23.5% | 23.6% | 17.8% | 15.7% |
 | Debt/Equity | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Debt/EBIT | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Net Debt / Owner Earnings | -0.09x | -0.40x | -0.55x | -0.85x | -0.89x | -1.12x | -1.39x |
+| Interest Coverage (EBIT-based) | 20.6x | 28.1x | 28.9x | 22.0x | 20.3x | 28.1x | 25.9x |
 | Current Ratio (approx) | 2.01 | 1.76 | 1.5 | 1.56 | 1.73 | 1.85 | 1.74 |
+
+> *Note: Net Debt is negative in all years (cash exceeds borrowings). Net Debt/Owner Earnings of -1.39x means the company holds 1.4 years' worth of Owner Earnings in net cash — exceptional financial strength. Interest Coverage uses EBIT (after D&A), not EBITDA — a more conservative measure. Interest expense arises from Ind AS 116 lease liabilities, not financial debt.*
 
 **Buffett's Financial Fortress Assessment:** CMS Info Systems has an **impeccable balance sheet** — quite possibly the cleanest among Indian mid-caps of this size. **Zero borrowings** across the entire analysis period (FY19-FY25). Zero debt. Not a rupee. The company has steadily built up its investment portfolio from ₹12 Cr to ₹616 Cr (primarily liquid mutual funds and FDs), essentially sitting on a growing cash pile.
 
@@ -115,12 +124,13 @@ Cumulative FCF over 7 years: **₹1,190 Cr** | Cumulative Net Income: **₹1,640
 | ROE % | — | 16.9% | 18.4% | 20.0% | 21.1% | 19.8% | 17.7% |
 | ROIC % | 17.3% | 22.1% | 23.9% | 26.1% | 31.0% | 30.3% | 28.5% |
 | Debt/Equity | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
-| OPM % | 17.3% | 18.4% | 22.5% | 25.2% | 28.1% | 26.4% | 25.9% |
+| OPM % (pre-D&A, Screener) | 17.3% | 18.4% | 22.5% | 25.2% | 28.1% | 26.4% | 25.9% |
+| **EBIT Margin %** | **12.6%** | 14.2% | 17.7% | 19.4% | **21.2%** | 19.8% | 19.2% |
 | NPM % | 8.4% | 9.8% | 12.9% | 14.1% | 15.5% | 15.3% | 15.3% |
 | Debtor Days | 80 | 88 | 140 | 115 | 100 | 116 | 123 |
 | Working Capital Days | 62 | 46 | 45 | 59 | 60 | 60 | 50 |
 | Cash Conversion Cycle | -60 | -156 | -300 | -318 | -374 | -401 | -291 |
-| Interest Coverage | 28.3x | 36.3x | 36.8x | 28.6x | 26.9x | 37.4x | 34.8x |
+| Interest Coverage (pre-D&A based) | 28.3x | 36.3x | 36.8x | 28.6x | 26.9x | 37.4x | 34.8x |
 | Dividend Payout % | 25% | 20% | 13% | 17% | 25% | 27% | 42% |
 
 > *Note: Interest expense arises from lease liabilities under Ind AS 116 (right-of-use assets for vehicles, vaults, and premises), not from borrowings — the company has zero financial debt.*
@@ -137,18 +147,20 @@ Cumulative FCF over 7 years: **₹1,190 Cr** | Cumulative Net Income: **₹1,640
 | Positive Free Cash Flow | Positive | 6 of 7 years positive | ✅ PASS |
 | Promoter/Insider holding | Aligned | 0% (PE exit complete — see Sec 7) | ⚠️ CAUTION |
 | Dividend payout | Paying | 24% avg | ✅ PASS |
-| OPM stability | Stable | 17.3-28.1% range | ⚠️ VOLATILE |
+| EBIT Margin stability | Stable | 12.6-21.2% range | ⚠️ VOLATILE |
 | Moat / Pricing Power | Identifiable | #1 market share, 42% in cash logistics | ✅ PASS |
 | ROIC > 15% | >15% | Range 17.3-31.0% | ✅ PASS |
 | Earnings yield | Reasonable | 7.6% (vs 10Y GSec ~7%) | ✅ PASS |
 
 **Score: 10/12 Pass, 2 Caution flags.**
 
-The two caution flags are significant: (1) the complete PE exit from promoter holding (Sion Investment Holdings/Baring PE) means there is **no skin-in-the-game promoter** — this is now a professionally managed, widely-held company; and (2) OPM has been volatile, swinging from 17% to 28% and back to 23-24% in recent quarters, suggesting the business may not have as much pricing power as the market share suggests.
+The two caution flags are significant: (1) the complete PE exit from promoter holding (Sion Investment Holdings/Baring PE) means there is **no skin-in-the-game promoter** — this is now a professionally managed, widely-held company; and (2) EBIT Margin has been volatile, swinging from 12.6% to 21.2% and back to 16.4% TTM, suggesting the business may not have as much pricing power as the market share suggests — and that rising D&A from managed services capex is a structural headwind.
 
 > *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
 
 The ratios paint a picture of a business with genuinely strong return characteristics (ROCE consistently >24%, ROE ~17%, ROIC >15%) and a fortress balance sheet, but one where margin durability is the key open question — and where the recent quarter's margin compression raises legitimate concerns about the sustainability of the FY22-FY23 peak profitability.
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 ---
 
@@ -160,9 +172,11 @@ The ratios paint a picture of a business with genuinely strong return characteri
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 488 | 501 | 512 | 544 | 582 | 627 | 599 | 625 | 581 | 619 | 627 | 609 | 618 |
 | YoY Sales Growth % | — | — | — | — | 19.3% | 25.1% | 17.0% | 14.9% | -0.2% | -1.3% | 4.7% | -2.6% | 6.4% |
-| Operating Profit | 135 | 144 | 148 | 146 | 151 | 155 | 152 | 153 | 159 | 162 | 158 | 137 | 140 |
-| OPM % | 28% | 29% | 29% | 27% | 26% | 25% | 25% | 24% | 27% | 26% | 25% | 23% | 23% |
+| Operating Profit (pre-D&A) | 135 | 144 | 148 | 146 | 151 | 155 | 152 | 153 | 159 | 162 | 158 | 137 | 140 |
+| OPM % (pre-D&A) | 28% | 29% | 29% | 27% | 26% | 25% | 25% | 24% | 27% | 26% | 25% | 23% | 23% |
 | Depreciation | 32 | 35 | 36 | 36 | 38 | 40 | 39 | 39 | 41 | 43 | 45 | 48 | 56 |
+| **EBIT** | **103** | 109 | 112 | 110 | 113 | 115 | 113 | 114 | 118 | 119 | 113 | **89** | **84** |
+| **EBIT Margin %** | **21.1%** | 21.8% | 21.9% | 20.2% | 19.4% | 18.3% | 18.9% | 18.2% | 20.3% | 19.2% | 18.0% | **14.6%** | **13.6%** |
 | Net Profit | 76 | 80 | 84 | 84 | 87 | 91 | 91 | 91 | 93 | 98 | 94 | 73 | 57 |
 | EPS (₹) | ₹4.91 | ₹5.18 | ₹5.46 | ₹5.39 | ₹5.56 | ₹5.62 | ₹5.58 | ₹5.57 | ₹5.67 | ₹5.94 | ₹5.69 | ₹4.46 | ₹3.49 |
 
@@ -170,7 +184,7 @@ The ratios paint a picture of a business with genuinely strong return characteri
 
 **1. Revenue Trajectory:** Revenue has been in the ₹580-630 Cr range per quarter since Jun 2024, after peaking at ₹627 Cr in Mar 2024. YoY growth has decelerated sharply from ~20% (Dec 2023) to low single digits. The business is currently in a **consolidation phase**, not a growth phase.
 
-**2. Margin Trend — ALARM BELLS:** OPM has compressed from 29% (Mar 2023 peak) to 23% (Sep/Dec 2025). This is a 600 bps margin erosion — very significant. The culprits are wage inflation, the shift to fixed-price contracts from variable contracts, and the ramp-up costs of new managed services contracts. Critically, depreciation has surged from ₹32 Cr/quarter to ₹56 Cr/quarter — a 75% increase — as the company capitalises its managed services infrastructure investments. This D&A burden is a structural headwind that will persist.
+**2. Margin Trend — ALARM BELLS:** OPM (pre-D&A) has compressed from 29% (Mar 2023 peak) to 23% (Sep/Dec 2025) — a 600 bps erosion. But **EBIT Margin tells the full story**: it has collapsed from 21.8% (Mar 2023) to just 13.6% (Dec 2025) — an 820 bps erosion. The widening gap between OPM and EBIT Margin is the critical signal: OPM is compressing by 600 bps, but EBIT Margin by 820 bps — the extra 220 bps comes from surging depreciation (₹32 Cr/quarter → ₹56 Cr/quarter, a 75% increase) as managed services infrastructure investments hit the P&L. This is exactly the pattern that EBITDA-based analysis would miss entirely — OPM looks concerning but manageable; EBIT Margin reveals the true severity of the profitability erosion.
 
 **3. Normalised Quarterly EPS Run-Rate:** Stripping out the Q3 FY26 exceptional item (₹11 Cr wage code cost), normalised quarterly EPS is approximately ₹4.0-4.5. Annualised: **₹16-18 per share** — significantly below the FY25 reported EPS of ₹22.66. This suggests FY25 earnings may have been the cyclical peak, and the true current earnings power is ~20-25% lower.
 
@@ -281,7 +295,7 @@ CMS's moat is a **triple-layered defensive structure:**
 
 **Arguments for durability:** India's cash usage continues to grow in absolute terms even as digital payments rise. Currency in circulation has grown from ₹18 lakh Cr (2018) to ₹36+ lakh Cr (2025). ATM count is still expanding. Banks are increasingly outsourcing cash management rather than doing it in-house (40% of ATMs are still bank-managed — each one is a potential CMS customer).
 
-**Arguments for concern:** OPM compression from 28% to 23% suggests **pricing power may be weaker than the market share implies.** If banks are negotiating harder on contracts (shift to fixed-price from variable), CMS may be a price-taker despite its dominant share. The managed services business, while growing, is more capital-intensive and lower-margin than pure cash logistics.
+**Arguments for concern:** OPM (pre-D&A) compression from 28% to 23% — and more critically, EBIT Margin compression from 21% to 16% — suggests **pricing power may be weaker than the market share implies.** If banks are negotiating harder on contracts (shift to fixed-price from variable), CMS may be a price-taker despite its dominant share. The managed services business, while growing, is more capital-intensive and lower-margin than pure cash logistics.
 
 ### Susceptibility to Change:
 
@@ -297,22 +311,25 @@ This is where Buffett would pause. The business IS susceptible to a long-term st
 
 ### Part A: Incremental Operating Margin Analysis
 
-| Year | Revenue | Rev. Growth | Op. Profit | Op. Profit Growth | Incremental Op. Margin |
-|---|---|---|---|---|---|
-| FY19 | 1,146 | — | 198 | — | — |
-| FY20 | 1,383 | 20.7% | 254 | — | 23.6% |
-| FY21 | 1,306 | -5.6% | 294 | — | -51.9% |
-| FY22 | 1,590 | 21.7% | 400 | — | 37.3% |
-| FY23 | 1,915 | 20.4% | 538 | — | 42.5% |
-| FY24 | 2,265 | 18.3% | 599 | — | 17.4% |
-| FY25 | 2,425 | 7.1% | 627 | — | 17.5% |
+| Year | Revenue | Rev. Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY19 | 1,146 | — | 144 | — | 12.6% | — |
+| FY20 | 1,383 | 20.7% | 197 | 36.8% | 14.2% | 22.4% |
+| FY21 | 1,306 | -5.6% | 231 | 17.3% | 17.7% | -44.2% |
+| FY22 | 1,590 | 21.7% | 308 | 33.3% | 19.4% | 27.1% |
+| FY23 | 1,915 | 20.4% | 406 | 31.8% | 21.2% | 30.2% |
+| FY24 | 2,265 | 18.3% | 449 | 10.6% | 19.8% | 12.3% |
+| FY25 | 2,425 | 7.1% | 466 | 3.8% | 19.2% | 10.6% |
 
-**Key Finding:** Incremental operating margins have been **highly volatile**:
-- FY20→FY21: -51.9% (negative revenue but profit grew — COVID efficiencies)
-- FY21→FY22: 37.3% — **elite scaling**, massive operating leverage
-- FY22→FY23: 42.5% — continued strong scaling
-- FY23→FY24: 17.4% — scaling friction, margins compressing
-- FY24→FY25: 17.5% — **scaling friction intensifying**, growth capex not yet yielding returns
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If OPM-based incremental margins look healthy but EBIT-based ones are declining, it means D&A is consuming the scaling benefit — the business is becoming more capital-intensive even as it grows.*
+
+**Key Finding:** Incremental EBIT margins have been **highly volatile** and are now firmly in scaling-friction territory:
+- FY21→FY22: 27.1% — **strong scaling**, operating leverage kicking in
+- FY22→FY23: 30.2% — **elite scaling**, peak performance
+- FY23→FY24: 12.3% — scaling friction emerges, D&A surge begins
+- FY24→FY25: 10.6% — **scaling friction intensifying**, each new rupee of revenue adds only ₹0.11 of EBIT
+
+Note the contrast: on an OPM (pre-D&A) basis, FY24→FY25 incremental margin was 17.5% — seemingly acceptable. On an EBIT basis, it's only 10.6%. The 7 pp gap is entirely D&A consuming the operating leverage. Buffett would focus on the EBIT figure — it represents the truth after the business maintains its asset base.
 
 ### Part B: Scaling Runway
 
@@ -393,22 +410,27 @@ The operational fundamentals show a **healthy top-line franchise** — market sh
 |---|---|
 | Market Cap | ₹4,887 Cr |
 | CMP | ₹298 |
+| **P/Owner Earnings (FY25) — primary Buffett-pure multiple** | **11.1x** |
+| **Owner Earnings Yield (OEPS ₹26.94 / CMP)** | **9.0%** |
 | PE (TTM, on ₹19.58 EPS) | 15.2x |
 | PE (on FY25 EPS ₹22.66) | 13.2x |
 | P/B (on FY25 BV ₹138.2) | 2.16x |
-| EV/EBITDA (FY25) | 6.8x |
-| EV/EBITDA (TTM) | 7.2x |
+| EV/EBIT (FY25) | 9.2x |
+| EV/EBIT (TTM) | 10.5x |
 | P/FCF (FY25) | 14.8x |
-| P/Owner Earnings (FY25) | 11.1x |
 | Earnings Yield (FY25 basis) | 7.6% |
 | FCF Yield | 6.77% |
 | Dividend Yield (FY25 DPS ₹9.52) | ~3.2% |
 
 > *Note: Earnings Yield of 7.6% uses FY25 EPS (₹22.66); on a TTM EPS basis (₹19.58), Earnings Yield is 6.6%. The PE ratios above are shown on both bases for comparison.*
+>
+> *P/Owner Earnings is the preferred Buffett-pure valuation multiple — it starts from true economic earnings (NI + D&A − Maintenance CapEx). EV/EBIT is included as a secondary cross-check for institutional comparability, not as a Buffett-endorsed metric — Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets.*
 
-**Historical Comparison:** CMS listed in Dec 2021 at a PE of ~15x. It traded as high as ~25x PE at its peak (~₹540). The current PE of ~13-15x is near the bottom of its (admittedly short) trading history. P/B at 2.1x on 17% ROE is reasonable by Indian market standards.
+**Historical Comparison:** CMS listed in Dec 2021 at a PE of ~15x. It traded as high as ~25x PE at its peak (~₹540). The current PE of ~13-15x is near the bottom of its (admittedly short) trading history. P/B at 2.1x on 17% ROE is reasonable by Indian market standards. At 11.1x Owner Earnings, the stock is priced to deliver a 9.0% Owner Earnings Yield — above the risk-free rate and attractive for a zero-debt market leader.
 
-On an EV/EBITDA basis, 6.8x for FY25 and 7.2x on TTM is modest for a market leader in a growing niche. However, if the normalised earnings run-rate is closer to ₹16-18 EPS (as the quarterly trend suggests), the effective PE is closer to **17-19x** — not as cheap as it first appears.
+On an EV/EBIT basis, 9.2x for FY25 and 10.5x on TTM is modest for a market leader in a growing niche. However, if the normalised earnings run-rate is closer to ₹16-18 EPS (as the quarterly trend suggests), the effective PE is closer to **17-19x** — not as cheap as it first appears. The Owner Earnings-based multiples are more forgiving because Owner Earnings (₹442 Cr) exceed Net Income (₹372 Cr) — D&A materially exceeds maintenance capex for this business.
+
+> Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* The shift from EV/EBITDA (6.8x) to EV/EBIT (9.2x) reveals that CMS is less cheap than the EBITDA-based view suggests — ₹161 Cr of annual depreciation is a real cost that EBITDA ignores.
 
 ---
 
@@ -433,12 +455,27 @@ On an EV/EBITDA basis, 6.8x for FY25 and 7.2x on TTM is modest for a market lead
 
 **Note on DCF Methodology:** Equity Value = PV of 10-year Owner Earnings + PV of Terminal Value − Net Debt + Non-Operating Assets (₹616 Cr investment portfolio comprising liquid MFs and FDs). Since the company has zero borrowings, the investment portfolio adds directly to equity value.
 
+> *Discount rates of 10-12% are Buffett's minimum hurdle rates, NOT WACC. Buffett explicitly rejects WACC; Munger has called it "nonsense." Buffett (1997 Berkshire meeting): "We use a minimum of 10% as the discount rate. We don't use the Capital Asset Pricing Model." The three scenarios use 12% (conservative), 11% (base), and 10% (optimistic) to bracket the range of required returns.*
+
 ---
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Normalised EPS:** ₹20.0 (conservative estimate, weighting the recent quarterly trend below FY25's ₹22.66 and TTM's ₹19.58 to reflect current earnings trajectory)
-**Current PE:** 14.9x
+### Step 1: Inputs
+
+| Input | Value | Source |
+|---|---|---|
+| Current Market Price (CMP) | ₹298 | Market data |
+| TTM EPS (Normalised) | ₹20.0 | Conservative estimate, weighting the recent quarterly trend below FY25's ₹22.66 and TTM's ₹19.58 |
+| **Owner Earnings Per Share (OEPS)** | **₹26.94** | FY25 Owner Earnings (₹441.8 Cr) / 16.4 Cr diluted shares (Section 8) |
+| Current PE (on Normalised EPS) | 14.9x | 298 / 20.0 |
+| **Current P/OE (on OEPS)** | **11.1x** | 298 / 26.94 — **the Buffett-pure valuation multiple** |
+
+### Step 2: Terminal PE Multiple Scenarios
+
+Three exit PE scenarios bracket the range: **Mature (15x)** — business matures, growth ≈ GDP; **Market Average (20x)** — grows in line with the market; **Compounder (28x)** — still growing faster with durable moat.
+
+### Step 3: Implied EPS CAGR Needed
 
 **At Terminal PE = Mature (15x)**
 
@@ -461,21 +498,56 @@ On an EV/EBITDA basis, 6.8x for FY25 and 7.2x on TTM is modest for a market lead
 | 5 Years | -3.0% EPS CAGR | 1.4% EPS CAGR |
 | 10 Years | 3.3% EPS CAGR | 8.0% EPS CAGR |
 
-### Reality Check:
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-| Benchmark | EPS CAGR |
-|---|---|
-| CMS Historical 6Y EPS CAGR | 23.1% |
-| CMS Historical 5Y EPS CAGR | 20.0% |
-| CMS Historical 3Y EPS CAGR | 15.7% |
-| India Nominal GDP Growth | 10-12% |
-| Management FY27 Revenue Guidance Implied | ~15-20% |
+> **Why this matters:** EPS can be misleading — a company can grow EPS by underinvesting in maintenance, financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."* The same insight applies to EPS vs. Owner Earnings.
 
-**The Verdict:** At ₹298, to earn a 10% annualised return over 10 years:
-- If the market values CMS at 15x PE at exit: you need **9.9% EPS CAGR** — this is achievable and within historical range
-- If the market values CMS at 20x PE at exit: you need **6.8% EPS CAGR** — very modest, essentially GDP growth rate
+**At Terminal P/OE = Market Average (16x)**
 
-🟢 **GREEN — Reasonable Price.** The market is NOT demanding heroic assumptions at ₹298. Even conservative assumptions (15x exit PE, 10% hurdle) require only moderate EPS growth well within the company's historical track record. The stock is priced for single-digit growth — if the business delivers even mid-teens growth (which is below its long-term average), the returns will be attractive.
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 2.2% OEPS CAGR | 6.8% OEPS CAGR | 11.5% OEPS CAGR |
+| 10 Years | 6.0% OEPS CAGR | 10.8% OEPS CAGR | 15.7% OEPS CAGR |
+| 15 Years | 7.3% OEPS CAGR | 12.2% OEPS CAGR | 17.1% OEPS CAGR |
+
+> *Terminal P/OE of 16x is appropriate for an asset-light services business at market-average growth. For capital-heavy businesses, P/OE multiples are typically lower than PE (10-13x Mature, 15-18x Market Avg). For CMS, P/OE < PE because Owner Earnings > Net Income (D&A exceeds maintenance capex), so the P/OE multiple correctly reflects the premium earnings quality.*
+
+### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal Market Avg (PE=20x / P/OE=16x) | 10-Year Hurdle (10% Return) |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 6.8% | |
+| Implied OEPS CAGR (from Step 3B) | 6.0% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **-0.8 pp** | |
+
+**Interpretation:** The gap is **-0.8 pp (negative)** — meaning the Owner Earnings-based hurdle is actually LOWER than the EPS-based hurdle. This is the hallmark of an **asset-light business** where D&A exceeds true maintenance capex. CMS's economic earnings are genuinely higher than its accounting earnings. The standard EPS-based Reverse DCF is already conservative — the OEPS-based version is even more favourable. Gap ≤ 2 pp confirms: **EPS is reliable for this business. No capital-intensity distortion.**
+
+### Step 4: Reality Check
+
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light) | Floor for a decent business |
+| CMS Historical 6Y EPS CAGR | 23.1% | — | Actual track record |
+| CMS Historical 5Y EPS CAGR | 20.0% | — | — |
+| CMS Historical 3Y EPS CAGR | 15.7% | — | Recent deceleration |
+| CMS Historical 6Y Owner Earnings CAGR | — | 22.4% | Buffett-pure benchmark |
+| Management FY27 Revenue Guidance Implied | ~15-20% | — | Market expectations |
+
+**Traffic Light System:**
+
+At ₹298, the market needs only **6.8% EPS CAGR** (or **6.0% OEPS CAGR**) over 10 years at a market-average exit multiple to deliver a 10% return. The company has historically grown EPS at 23.1% and Owner Earnings at 22.4%. The implied growth is roughly **one-third** of the historical track record.
+
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
+
+**Both EPS and OEPS verdicts align:** 🟢 **GREEN — Reasonable Price.**
+
+### Step 5: The Verdict
+
+> *"At the current price of ₹298, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE (or 16x P/OE) at exit, the company needs to grow EPS at 6.8% CAGR (and Owner Earnings at 6.0% CAGR). The company has historically grown EPS at 23.1% CAGR and Owner Earnings at 22.4% CAGR. This implies the market is pricing in well-below-historical growth — you are buying a proven compounder at a price that requires only GDP-rate growth to deliver your hurdle return."*
+
+> *"Note: The EPS-based and Owner Earnings-based assessments are fully aligned (gap of only -0.8 pp), confirming that CMS is an asset-light business where EPS reliably tracks true economic earnings. No capital-intensity distortion."*
+
+🟢 **GREEN — Reasonable Price.** The market is NOT demanding heroic assumptions at ₹298. The stock is priced for single-digit growth — if the business delivers even mid-teens growth (which is below its long-term average), the returns will be attractive.
 
 ---
 
