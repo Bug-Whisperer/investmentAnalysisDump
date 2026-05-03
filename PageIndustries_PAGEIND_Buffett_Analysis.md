@@ -439,13 +439,15 @@ Buffett: *"Price is what you pay, value is what you get."* At ₹35,400, you are
 
 #### The Divergence Test — EPS vs. OEPS Implied Growth
 
+> *Note: Step 3 uses TTM EPS (₹671.61) and Step 3B uses FY25 OEPS (₹634). For an apples-to-apples comparison, the Divergence Test re-bases the EPS side to FY25 EPS (₹653.71, PE = 54.2x) so both metrics use the same annual period.*
+
 | Metric | At Market Avg Terminal PE/P(OE) | 10-Year, 10% Return |
 |---|---|---|
-| Implied EPS CAGR (from Step 3, at 20x PE) | 21.2% | |
-| Implied OEPS CAGR (from Step 3B, at 18x P/OE) | 23.2% | |
-| **Gap (OEPS CAGR − EPS CAGR)** | **2.0 pp** | |
+| Implied EPS CAGR (FY25 basis, at 20x PE) | 21.5% | |
+| Implied OEPS CAGR (FY25 basis, at 18x P/OE) | 23.2% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **1.7 pp** | |
 
-**Interpretation:** The 2.0 pp gap is right at the boundary between "asset-light" (≤2 pp) and "moderate capital intensity" (2-5 pp). This is exactly what we'd expect for Page Industries — it is predominantly capital-light (brand-driven, outsources 36% of production), but the FY20-25 capacity expansion cycle pushed D&A higher, creating a modest wedge between reported earnings and true owner earnings. As the capex cycle normalises, this gap should narrow. **The standard EPS-based Reverse DCF is broadly reliable for Page, but the OEPS figure provides the more conservative and honest benchmark.**
+**Interpretation:** The 1.7 pp gap is firmly within the "asset-light" category (≤2 pp), confirming that EPS is a reliable proxy for true economic earnings at Page Industries. This is exactly what we'd expect — the business is brand-driven, outsources 36% of production, and requires minimal capital to sustain its operations. The modest gap exists because the FY20-25 capacity expansion cycle pushed D&A higher than normalised maintenance CapEx, but this wedge is small and shrinking as the capex cycle normalises. **The standard EPS-based Reverse DCF is reliable for Page Industries.**
 
 ### Reality Check
 
