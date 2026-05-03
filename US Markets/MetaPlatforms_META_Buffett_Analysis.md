@@ -399,7 +399,7 @@ Buffett: *"It's not necessary to do extraordinary things to get extraordinary re
 | PE Ratio | ~28x | ~24x | ~13x | ~33x | ~26x | **29.2x (reported) / 23.1x (normalised)** |
 | P/B Ratio | ~7.0x | ~7.3x | ~4.3x | ~6.5x | ~8.5x | **8.1x** |
 | P/FCF | ~24x | ~19x | ~23x | ~18x | ~28x | **38.4x** |
-| EV/EBIT | ~35x | ~25x | ~18x | ~22x | ~29x | **21.0x** |
+| EV/EBIT | ~22x | ~19x | ~9x | ~19x | ~21x | **21.0x** |
 | Earnings Yield | 3.5% | 4.2% | 7.8% | 3.0% | 3.8% | **3.4% / 4.3% (norm)** |
 | FCF Yield | 4.2% | 5.4% | 4.3% | 5.6% | 3.6% | **2.6%** |
 | Dividend Yield | 0% | 0% | 0% | 0% | 0.3% | **0.3%** |
