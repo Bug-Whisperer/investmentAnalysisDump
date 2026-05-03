@@ -36,18 +36,21 @@ Would Buffett understand this business? **Yes.** It is a toll bridge with monopo
 | Revenue Growth YoY | 18.3% | 12.8% | **41.2%** | 9.8% | **8.7%** | 13.9% | 15.1% |
 | Gross Profit | 89,961 | 97,795 | 146,698 | 156,633 | 174,062 | 203,712 | 240,301 |
 | Gross Margin | 55.6% | 53.6% | 56.9% | 55.4% | 56.6% | 58.2% | **59.7%** |
-| Operating Income | 34,231 | 41,224 | **78,714** | 74,842 | 84,293 | 112,390 | **129,039** |
-| Operating Margin | 21.1% | 22.6% | **30.6%** | **26.5%** | 27.4% | 32.1% | 32.0% |
+| Operating Profit (pre-D&A) | 45,087 | 54,129 | **88,987** | 88,317 | 96,239 | 127,701 | **150,175** |
+| OPM % (pre-D&A) | 27.9% | 29.7% | **34.5%** | **31.2%** | 31.3% | 36.5% | **37.3%** |
+| Depreciation & Amortisation | 10,856 | 12,905 | 10,273 | 13,475 | 11,946 | 15,311 | **21,136** |
+| **EBIT (Operating Income)** | 34,231 | 41,224 | **78,714** | 74,842 | 84,293 | 112,390 | **129,039** |
+| **EBIT Margin** | 21.1% | 22.6% | **30.6%** | **26.5%** | 27.4% | 32.1% | 32.0% |
 | Net Income | 34,343 | 40,269 | **76,033** | **59,972** | 73,795 | 100,118 | **132,170** |
 | Net Margin | 21.2% | 22.1% | **29.5%** | **21.2%** | 24.0% | 28.6% | **32.8%** |
 | EPS (Diluted, Split-Adj) | $2.46 | $2.93 | $5.61 | **$4.56** | $5.80 | $8.04 | **$10.81** |
 | EPS Growth | — | 19.2% | **91.4%** | **-18.8%** | 27.2% | 38.7% | 34.4% |
 | Shares Diluted (M, post-split) | 13,980 | 13,740 | 13,553 | 13,159 | 12,722 | 12,447 | 12,230 |
 | Share Count Change YoY | — | -1.7% | -1.4% | **-2.9%** | **-3.3%** | -2.2% | -1.7% |
-| EBITDA | 45,087 | 54,129 | 88,987 | 88,317 | 96,239 | 127,701 | **150,175** |
-| EBITDA Margin | 27.9% | 29.7% | **34.5%** | **31.2%** | 31.3% | 36.5% | **37.3%** |
 
-**Trend Narrative:** This is a textbook Buffett compounder accelerating. Revenue has compounded at 17.2% CAGR over five years, while net income has compounded at 26.8% — earnings growth dramatically outpacing revenue growth signals powerful operating leverage. Gross margins expanded from 53.6% to 59.7% over five years (FY2020–FY2025), and operating margins moved from the low-20s to above 32%. The FY2022 dip (net income fell 21%) proved temporary — caused by equity investment losses and a brief ad-market slowdown, not structural deterioration. The recovery has been ferocious.
+> **Note — Why EBIT, Not EBITDA:** This analysis deliberately tracks EBIT (Operating Income, after D&A) rather than EBITDA as the primary operating profitability metric. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* EBITDA pretends the capital a business consumes to maintain its operations is free. EBIT is the true operating profit after accounting for the capital the business consumes. The pre-D&A figures are shown for reference but EBIT Margin is the relevant profitability metric for Buffett-style analysis.
+
+**Trend Narrative:** This is a textbook Buffett compounder accelerating. Revenue has compounded at 17.2% CAGR over five years, while net income has compounded at 26.8% — earnings growth dramatically outpacing revenue growth signals powerful operating leverage. Gross margins expanded from 53.6% to 59.7% over five years (FY2020–FY2025), and EBIT margins moved from the low-20s to above 32%. The FY2022 dip (net income fell 21%) proved temporary — caused by equity investment losses and a brief ad-market slowdown, not structural deterioration. The recovery has been ferocious.
 
 Buffett: *"I look for businesses with an economic moat — a competitive advantage that protects them from the competition."* The margin expansion here IS the moat becoming visible in the numbers.
 
@@ -67,7 +70,12 @@ Buffett: *"I look for businesses with an economic moat — a competitive advanta
 | BVPS (Split-Adj) | $14.41 | $16.20 | $18.57 | $19.47 | $22.27 | $26.12 | **$33.95** |
 | Tangible BVPS | $12.93 | $14.66 | $16.87 | $17.27 | $19.98 | $23.56 | **$31.22** |
 | Debt / Equity | 0.02 | 0.06 | 0.06 | 0.06 | 0.05 | **0.03** | 0.11 |
+| Debt / EBIT | 0.13x | 0.34x | 0.19x | 0.20x | 0.16x | **0.10x** | 0.36x |
+| Net Debt / Owner Earnings | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash | **Net Cash** |
+| Interest Coverage (EBIT / Int Exp) | — | — | 227x | 210x | 274x | 419x | **175x** |
 | Current Ratio | — | — | — | — | — | — | **2.01** |
+
+> **Why Debt/EBIT instead of Debt/EBITDA:** EBITDA pretends the business has no capital consumption. A company with $500M debt, $100M EBITDA, and $60M depreciation looks "comfortable" at 5x Debt/EBITDA — but its Debt/EBIT is 12.5x, revealing the true burden after maintaining the asset base. Net Debt/Owner Earnings goes further by using the Buffett metric for genuine cash earning power. For Alphabet, the question is moot — the company carries $80.3B in **net cash**, making all debt-coverage ratios academic. The fortress is impregnable.
 
 **Financial Fortress Assessment:** Alphabet maintains one of the strongest balance sheets in corporate history. With $126.8B in cash and securities against $46.5B in long-term debt, the company carries $80.3B in net cash. The Debt/Equity ratio of 0.11 is negligible for a company generating $165B in operating cash flow annually.
 
@@ -105,7 +113,8 @@ Despite the CapEx surge, FCF held at $73.3B, and the company returned $55.8B via
 | ROE % | 15.0 | **8.7** | 18.6 | 18.1 | 19.0 | **32.1** | 23.6 | 27.4 | 32.9 | **35.7** |
 | ROA % | 12.4 | **6.9** | 14.3 | 13.5 | 13.5 | **22.4** | 16.6 | 19.2 | 23.5 | **25.3** |
 | Debt/Equity | 0.00 | 0.00 | 0.00 | 0.02 | 0.06 | 0.06 | 0.06 | 0.05 | **0.03** | 0.11 |
-| OPM % | 26.3 | 23.6 | **20.1** | 21.1 | 22.6 | **30.6** | 26.5 | 27.4 | 32.1 | **32.0** |
+| OPM % (pre-D&A) | 33.1 | 30.0 | 26.1 | 27.9 | 29.7 | **34.5** | **31.2** | 31.3 | 36.5 | **37.3** |
+| **EBIT Margin %** | 26.3 | 23.6 | **20.1** | 21.1 | 22.6 | **30.6** | 26.5 | 27.4 | 32.1 | **32.0** |
 | NPM % | 21.6 | **11.4** | 22.5 | 21.2 | 22.1 | **29.5** | 21.2 | 24.0 | 28.6 | **32.8** |
 | Interest Coverage | — | — | — | — | — | 227x | 210x | 274x | 419x | **175x** |
 | Dividend Payout % | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7.4 | **7.6** |
@@ -124,12 +133,14 @@ Despite the CapEx surge, FCF held at $73.3B, and the company returned $55.8B via
 | Positive Free Cash Flow | Positive | $73.3B FCF (FY25) | ✅ PASS |
 | Promoter/Insider holding | Aligned | Page & Brin: ~51% voting control | ✅ PASS |
 | Dividend payout | Paying | 7.6% (initiated 2024) | ✅ PASS |
-| OPM stability | Stable | 21-32% range; expanding | ✅ PASS |
+| EBIT Margin stability | Stable | 21-32% range; expanding | ✅ PASS |
 | Moat / Pricing Power | Identifiable | Search monopoly, data flywheel, AI leadership | ✅ PASS |
 | ROIC > 15% | >15% | ~28% | ✅ PASS |
 | Earnings Yield | Reasonable | 3.2% (thin at $340) | ⚠️ LOW |
 
 **Score: 11/12 — Elite Quality Business.** Only flag: thin earnings yield at current valuation.
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 ---
 
@@ -139,12 +150,17 @@ Despite the CapEx surge, FCF held at $73.3B, and the company returned $55.8B via
 |---|---|---|---|---|---|---|---|---|
 | Revenue ($M) | 80,539 | 84,742 | 88,268 | 96,469 | 90,234 | 96,428 | 102,346 | **113,828** |
 | YoY Growth | 15.4% | 13.6% | 15.1% | 11.8% | 12.0% | 13.8% | 15.9% | **18.0%** |
-| Op Income | 25,472 | 27,425 | 28,521 | 30,972 | 30,611 | 31,265 | 31,229 | **35,934** |
-| OPM % | 31.6% | 32.4% | 32.3% | 32.1% | 33.9% | 32.4% | 30.5% | **31.6%** |
+| Operating Profit (pre-D&A) | 29,007 | 31,062 | 32,448 | 35,184 | 35,090 | 36,063 | 36,633 | **42,389** |
+| OPM % (pre-D&A) | 36.0% | 36.7% | 36.8% | 36.5% | 38.9% | 37.4% | 35.8% | **37.2%** |
+| Depreciation | 3,535 | 3,637 | 3,927 | 4,212 | 4,479 | 4,798 | 5,404 | **6,455** |
+| **EBIT** | 25,472 | 27,425 | 28,521 | 30,972 | 30,611 | 31,265 | 31,229 | **35,934** |
+| **EBIT Margin %** | 31.6% | 32.4% | 32.3% | 32.1% | 33.9% | 32.4% | 30.5% | **31.6%** |
 | Net Income | 23,662 | 23,619 | 26,301 | 26,536 | 34,540 | 28,832 | 34,343 | **34,455** |
 | EPS (Diluted) | $1.89 | $1.89 | $2.12 | $2.15 | **$2.81** | $2.35 | $2.82 | **$2.82** |
 
 **Revenue is ACCELERATING.** Q4'25 at $113.8B and 18% YoY was the fastest growth since Q1'22. Cloud grew 48% to $17.7B. Search grew 17%.
+
+**Margin Trend — OPM vs EBIT Margin:** Pre-D&A margins (OPM) have been broadly stable at 36-39%, but EBIT Margin dipped from 33.9% in Q1'25 to 30.5% in Q3'25 before recovering to 31.6% in Q4'25. The divergence is explained by rapidly rising D&A ($3.5B/quarter in early FY2024 to $6.5B/quarter by Q4'25) as the massive AI CapEx from FY2023-24 begins depreciating. This is a pattern EBITDA-based analysis would entirely miss — pre-D&A profitability looks stable, but the true after-capital-charge margin is absorbing the cost of the AI buildout. The fact that EBIT Margin has stabilised at ~31-32% despite D&A nearly doubling is a testament to the underlying operating leverage.
 
 **Normalised EPS Run-Rate:** FY2025 EPS of $10.81 includes ~$1.60 from equity securities gains. Normalised EPS is closer to $9.20-$9.50, implying a normalised PE of ~36-37x.
 
@@ -223,15 +239,26 @@ Buffett: *"We're looking for the absence of change to protect ways already makin
 
 ## 11. SCALABILITY CHECK
 
-**Incremental Operating Margins:**
+**Incremental EBIT Margins:**
 
-| Year | Incremental Op Margin | Interpretation |
-|---|---|---|
-| 2021 | 49.9% | Elite scaler |
-| 2022 | -15.4% | Anomalous (ad-market slowdown, rising SBC, aggressive hiring) |
-| 2023 | 38.5% | Good scaler |
-| 2024 | **65.9%** | Extraordinary operating leverage |
-| 2025 | 31.5% | Good scaler (despite massive Waymo charge) |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| 2020 | 182,527 | 12.8% | 41,224 | 20.4% | 22.6% | 33.8% |
+| 2021 | 257,637 | 41.2% | 78,714 | 90.9% | 30.6% | **49.9%** |
+| 2022 | 282,836 | 9.8% | 74,842 | -4.9% | 26.5% | **-15.4%** |
+| 2023 | 307,394 | 8.7% | 84,293 | 12.6% | 27.4% | 38.5% |
+| 2024 | 350,018 | 13.9% | 112,390 | 33.3% | 32.1% | **65.9%** |
+| 2025 | 402,836 | 15.1% | 129,039 | 14.8% | 32.0% | 31.5% |
+
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's pre-D&A Operating Profit. This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins are higher than current EBIT margins, the business is scaling beautifully. If lower, it is hitting scaling friction or becoming more capital-intensive.*
+
+| Year | Interpretation |
+|---|---|
+| 2021 | Elite scaler — incremental margin 49.9% vs current 30.6% |
+| 2022 | Anomalous (ad-market slowdown, rising SBC, aggressive hiring) |
+| 2023 | Good scaler — incremental margin 38.5% vs current 27.4% |
+| 2024 | **Extraordinary operating leverage** — incremental margin 65.9% |
+| 2025 | Good scaler — incremental EBIT margin (31.5%) roughly equals current EBIT margin (32.0%), indicating the business is scaling linearly despite massive D&A increase from AI CapEx |
 
 **TAM & Runway:** Digital advertising (~$740B), Cloud (~$600B), AI applications (trillions). Alphabet at $403B revenue = ~20% penetration. Massive runway.
 
@@ -273,13 +300,16 @@ Every metric improving. TAC declining (less cost per unit of traffic). Cloud mar
 
 | Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | **Current** |
 |---|---|---|---|---|---|---|
+| **P/Owner Earnings** *(primary Buffett-pure multiple)* | 26.5x | 25.2x | **18.6x** | 23.9x | 24.1x | **34.3x** |
+| **Owner Earnings Yield** | 3.8% | 4.0% | **5.4%** | 4.2% | 4.1% | **2.9%** |
 | PE Ratio | 29.9x | 25.8x | **19.4x** | 24.2x | 23.4x | **31.5x** |
 | P/B Ratio | 5.4x | 7.8x | **4.5x** | 6.3x | 7.2x | **10.0x** |
 | P/FCF | 28.1x | 29.7x | **19.3x** | 25.7x | 31.9x | **56.8x** |
-| EV/EBITDA | 18.8x | 22.3x | **12.0x** | 16.4x | 17.6x | **27.2x** |
-| P/Owner Earnings | 26.5x | 25.2x | **18.6x** | 23.9x | 24.1x | **34.3x** |
+| EV/EBIT | 26.2x | 23.3x | **14.2x** | 20.0x | 20.1x | **31.6x** |
 | Earnings Yield | 3.3% | 3.9% | **5.2%** | 4.1% | 4.3% | **3.2%** |
 | FCF Yield | 3.6% | 3.4% | **5.2%** | 3.9% | 3.1% | **1.8%** |
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. A steel company and a software company with identical EBITDA but vastly different capital requirements look equally valued on EV/EBITDA — but the software company is genuinely cheaper. EV/EBIT accounts for the capital the business consumes before you get your return. **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying. EV/EBIT is included as a secondary cross-check for institutional comparability; Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets.
 
 **Historical Comparison:** The 31.5x PE is the highest sustained level in Alphabet's history. The 5-year average PE is ~24-25x. On normalised EPS (~$9.20-9.50, stripping equity gains), the PE is ~36-37x. The PEG ratio of ~1.06 (31.5x PE / 29.8% 5Y EPS CAGR) is near fair.
 
@@ -303,9 +333,9 @@ Every metric improving. TAC declining (less cost per unit of traffic). Cloud mar
 
 ## 16. REVERSE DCF — What Growth Is Priced In?
 
-**CMP = $340 | Reported EPS (FY2025) = $10.81 | Current PE = 31.5x**
+**CMP = $340 | Reported EPS (FY2025) = $10.81 | Current PE = 31.5x | Owner Earnings Per Share (OEPS) = $9.92 | Current P/OE = 34.3x**
 
-*Note: Reported EPS of $10.81 includes ~$1.60 from equity securities gains. Normalised EPS (stripping one-time gains) is ~$9.20-$9.50, implying a normalised PE of ~36-37x. The Reverse DCF below uses reported EPS as the base; if normalised EPS is used, all implied CAGR thresholds shift ~1.5-2 percentage points higher.*
+*Note: Reported EPS of $10.81 includes ~$1.60 from equity securities gains. Normalised EPS (stripping one-time gains) is ~$9.20-$9.50, implying a normalised PE of ~36-37x. The Reverse DCF below uses reported EPS as the base; if normalised EPS is used, all implied CAGR thresholds shift ~1.5-2 percentage points higher. OEPS ($9.92) is derived from Owner Earnings ($121.3B) ÷ Diluted Shares (12,230M) — the Buffett-pure earnings metric.*
 
 ### Implied EPS CAGR Required
 
@@ -316,12 +346,43 @@ Every metric improving. TAC declining (less cost per unit of traffic). Cloud mar
 | 25x (Historical) | 15.2% | **12.6%** | 17.7% |
 | 28x (Compounder) | 12.6% | **11.3%** | 16.3% |
 
-**Reality Check:** Historical 5Y EPS CAGR = 29.8%, 10Y = 25.2%. At Terminal PE = 25x over 10 years, a 10% return needs 12.6% EPS CAGR — well below the historical track record.
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-**🟢 GREEN at Terminal PE = 25-28x:** Market pricing is reasonable relative to history.
-**🟡 YELLOW at Terminal PE = 15-20x:** Requires sustained mid-teens growth even at a 10% hurdle.
+> **Why this matters:** EPS can be misleading — a company can grow EPS by underinvesting in maintenance (boosting short-term earnings while the asset base deteriorates), financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense. That's nonsense."* The same insight applies to EPS vs. Owner Earnings.
 
-> *"At $340, to earn 10% over 10 years at a 25x exit PE, Alphabet needs 12.6% EPS CAGR. It has delivered 25.2% historically. This implies reasonably priced growth expectations — but the stock leaves no room for multiple de-rating."*
+**At Terminal P/OE = 17x (Market Average):**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 26.6% OEPS CAGR | 32.3% | 38.1% |
+| 10 Years | 18.0% OEPS CAGR | 23.4% | 28.7% |
+| 15 Years | 15.3% OEPS CAGR | 20.5% | 25.7% |
+
+### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal Market Avg PE (20x) / P/OE (17x) | 10-Year Hurdle (10% Return) |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 15.1% | |
+| Implied OEPS CAGR (from Step 3B) | 18.0% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **2.9 pp** | |
+
+**Interpretation:** The 2.9 pp gap falls in the **2-5 pp range → moderate capital intensity.** Alphabet is not asset-light enough for EPS to tell the full story. The AI CapEx supercycle means true economic earnings (Owner Earnings) grow slower than reported EPS because the business must reinvest heavily to maintain and grow its productive capacity. The OEPS figure is the more conservative and honest benchmark. However, the gap is moderate — this is not a capital-hungry industrial where the divergence would be 5-10 pp.
+
+**Reality Check:** Historical 5Y EPS CAGR = 29.8%, 10Y = 25.2%. Historical 5Y Owner Earnings CAGR = 21.7%.
+
+| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+|---|---|---|---|
+| US nominal GDP growth | 5-6% | 5-6% | Floor |
+| Company historical 5Y EPS CAGR | 29.8% | — | Actual track record |
+| Company historical 5Y OE CAGR | — | 21.7% | Buffett-pure benchmark |
+| Company historical 10Y EPS CAGR | 25.2% | — | Longer-term record |
+| Analyst consensus FY26E growth | ~15% | — | Market expectations |
+
+At Terminal PE = 25x over 10 years, a 10% hurdle requires 12.6% EPS CAGR — well below the 29.8% historical 5Y track record. At Terminal P/OE = 17x, a 10% hurdle requires 18.0% OEPS CAGR — just below the 21.7% historical 5Y OE CAGR.
+
+**EPS-based verdict: 🟢 GREEN.** OEPS-based verdict: **🟢 GREEN (but tighter).** Both verdicts agree, though the Owner Earnings assessment has less margin for error. The business's moderate capital intensity (AI CapEx) means the true growth hurdle is ~3 pp higher than the EPS-based analysis suggests. Always defer to the OEPS-based verdict for the Buffett-pure assessment.
+
+> *"At $340, to earn 10% over 10 years at a 25x exit PE, Alphabet needs to grow EPS at 12.6% CAGR (and Owner Earnings at 18.0% CAGR at a 17x exit P/OE). The company has historically grown EPS at 25.2% CAGR and Owner Earnings at 21.7% CAGR. This implies reasonably priced growth expectations — but the stock leaves no room for multiple de-rating. Note: the EPS-based assessment is more favourable than the Owner Earnings assessment, indicating the AI CapEx cycle is creating moderate capital intensity that masks the true growth hurdle."*
 
 ### Asymmetric Upside Check
 
