@@ -45,8 +45,11 @@ The moat here, if any, is a **cost advantage moat** — being the lowest-cost pr
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 66,152 | 73,710 | 64,262 | 72,225 | 91,866 | 92,048 | 84,447 | 88,021 | **132,732** | 147,308 | 143,727 | **152,968** |
 | Rev Growth YoY | — | 11.4% | **-12.8%** | 12.4% | **27.2%** | 0.2% | -8.3% | 4.2% | **50.8%** | 11.0% | -2.4% | 6.4% |
-| Operating Profit (EBITDA) | 19,595 | 22,114 | **-18,479** | 21,376 | 24,877 | 23,171 | 20,743 | 27,318 | **44,824** | 34,431 | 35,312 | 42,343 |
-| OPM % | 29.6% | 30.0% | **-28.8%** | 29.6% | 27.1% | 25.2% | 24.6% | 31.0% | **33.8%** | 23.4% | 24.6% | 27.7% |
+| Operating Profit (pre-D&A) | 19,595 | 22,114 | **-18,479** | 21,376 | 24,877 | 23,171 | 20,743 | 27,318 | **44,824** | 34,431 | 35,312 | 42,343 |
+| OPM % (pre-D&A) | 29.6% | 30.0% | **-28.8%** | 29.6% | 27.1% | 25.2% | 24.6% | 31.0% | **33.8%** | 23.4% | 24.6% | 27.7% |
+| Depreciation & Amortisation | 6,882 | 7,159 | 8,572 | 6,292 | 6,283 | 8,192 | 9,093 | 7,638 | 8,895 | 10,555 | 10,723 | 11,096 |
+| **EBIT** | **12,713** | **14,955** | **-27,051** | **15,084** | **18,594** | **14,979** | **11,650** | **19,680** | **35,929** | **23,876** | **24,589** | **31,247** |
+| **EBIT Margin** | **19.2%** | **20.3%** | **-42.1%** | **20.9%** | **20.2%** | **16.3%** | **13.8%** | **22.4%** | **27.1%** | **16.2%** | **17.1%** | **20.4%** |
 | Net Income (Consolidated) † | 11,421 | -11,369 | **-17,862** | 11,316 | 13,692 | 9,698 | -4,744 | 15,032 | **23,710** | 14,503 | 7,539 | 20,535 |
 | NPM % | 17.3% | **-15.4%** | **-27.8%** | 15.7% | 14.9% | 10.5% | -5.6% | 17.1% | **17.9%** | 9.8% | 5.2% | 13.4% |
 | EPS (₹) † | 21.25 | **-52.77** | **-41.39** | 23.47 | 27.82 | 19.01 | -17.93 | 31.21 | **50.58** | 28.45 | 11.40 | 38.33 |
@@ -54,7 +57,7 @@ The moat here, if any, is a **cost advantage moat** — being the lowest-cost pr
 
 > **† Important Distinction:** Net Income above is **total consolidated** profit (including minority shareholders' ~₹5,500 Cr share in FY25, primarily from 35.1% minority in Hindustan Zinc). EPS, however, is calculated on **PAT attributable to equity holders of Vedanta Ltd** — a smaller figure (FY25 attributable PAT ≈ ₹14,987 Cr). This distinction matters for valuation: consolidated NI ÷ shares ≠ EPS.
 
-> **Note on Screener's Operating Profit:** Per Screener.in convention, the "Operating Profit" line already equals EBITDA (Earnings Before Interest, Tax, Depreciation & Amortisation). It is NOT EBIT. Depreciation is separately shown in the P&L below this line.
+> **Note on Screener's Operating Profit:** Per Screener.in convention, the "Operating Profit" line already equals EBITDA (Earnings Before Interest, Tax, Depreciation & Amortisation). It is NOT EBIT. Depreciation is separately shown in the P&L below this line. This analysis tracks **EBIT** (Operating Profit minus D&A) as the true operating profitability metric — EBIT captures the capital the business consumes to maintain its asset base. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"*
 
 **Compounded Growth Rates (from Screener):** Sales 10Y CAGR: 8%, 5Y: 13% | Profit 10Y CAGR: 22%, 5Y: 2% | Stock Price 10Y CAGR: 23%
 
@@ -79,6 +82,9 @@ The recent dividend payout ratios of 357% (FY23) and 259% (FY24) are extraordina
 | Total Borrowings | 80,566 | 77,752 | 67,778 | 71,569 | **58,159** | 66,226 | 59,187 | 57,669 | 53,583 | 80,329 | 87,706 | **91,479** |
 | Net Debt (Borr - Invest) | 42,656 | 38,146 | 14,392 | 24,607 | **29,459** | 33,161 | 34,434 | 41,009 | 36,292 | 67,179 | 75,837 | **76,947** |
 | Debt/Equity | 1.10 | 1.44 | 1.54 | 1.18 | **0.92** | 1.06 | 1.08 | 0.93 | 0.82 | 2.04 | **2.85** | 2.22 |
+| Debt/EBIT | 6.3 | 5.2 | N/A | 4.7 | **3.1** | 4.4 | 5.1 | 2.9 | **1.5** | 3.4 | 3.6 | 2.9 |
+| Net Debt/Attrib OE | 4.2 | N/A | N/A | 2.4 | 2.6 | 3.6 | N/A | 3.0 | **1.9** | 5.5 | **12.5** | 4.8 |
+| Interest Coverage (EBIT/Int) | 2.5x | 2.6x | **-4.7x** | 2.6x | **3.6x** | 2.6x | 2.3x | 3.8x | **7.5x** | 3.8x | 2.6x | 3.2x |
 | BVPS (₹) † | 136 | 250 | 102 | 125 | 129 | 122 | 206 | 129 | 139 | 77 | **46** | 105 |
 | Fixed Assets + CWIP | 1,30,333 | 1,08,856 | 1,05,692 | 1,04,313 | 1,12,334 | 1,21,356 | 1,07,489 | 1,06,784 | 1,09,345 | 1,15,273 | 1,21,852 | **1,33,801** |
 
@@ -149,7 +155,8 @@ Attributable Owner Earnings of ~₹16,055 Cr (₹41.06/share) in FY25 represent 
 
 > **‡ ROIC Note:** ROIC is computed as NOPAT (Operating Profit × (1 − effective tax rate)) ÷ Average Invested Capital. In FY15 and FY20, Operating Profit was positive (₹22,114 Cr and ₹20,743 Cr respectively) even though Net Income was deeply negative — because the massive losses came from below-the-line items (Other Income: -₹19,222 Cr in FY15 from Cairn India write-downs; -₹14,932 Cr in FY20 from impairments). ROIC measures the return on core operations and is positive when operating profit is positive, regardless of write-downs. However, this can overstate the quality of returns in years with massive exceptional losses.
 | Debt/Equity | 1.10 | 1.44 | 1.54 | 1.18 | **0.92** | 1.06 | 1.08 | 0.93 | **0.82** | 2.04 | **2.85** | 2.22 |
-| OPM % | 29.6 | 30.0 | **-28.8** | 29.6 | 27.1 | 25.2 | 24.6 | 31.0 | **33.8** | 23.4 | 24.6 | 27.7 |
+| OPM % (pre-D&A, Screener) | 29.6 | 30.0 | **-28.8** | 29.6 | 27.1 | 25.2 | 24.6 | 31.0 | **33.8** | 23.4 | 24.6 | 27.7 |
+| **EBIT Margin %** | **19.2** | **20.3** | **-42.1** | **20.9** | **20.2** | **16.3** | **13.8** | **22.4** | **27.1** | **16.2** | **17.1** | **20.4** |
 | NPM % | 17.3 | **-15.4** | **-27.8** | 15.7 | 14.9 | 10.5 | -5.6 | 17.1 | **17.9** | 9.8 | 5.2 | 13.4 |
 | Debtor Days | 25 | 18 | 14 | 11 | 16 | 16 | 12 | 14 | 14 | 10 | **9** | **9** |
 | Inventory Days | 143 | 129 | 132 | 161 | 135 | **184** | **184** | 153 | 147 | 124 | **107** | 108 |
@@ -169,10 +176,12 @@ Attributable Owner Earnings of ~₹16,055 Cr (₹41.06/share) in FY25 represent 
 | Positive Free Cash Flow | Positive | ₹22,848 Cr FY25 — positive ALL 12 years | ✅ PASS — strong cash generation |
 | Promoter/Insider holding | Aligned | 56.38% — but declining from 69.7% (FY22) | ⚠️ Significant dilution, -13.3% in 3Y |
 | Dividend payout | Paying | 243% recent 3Y avg (FY23-25) — excessive, depleting equity | ❌ FAIL — unsustainable payout |
-| OPM stability | Stable | Range: -28.8% to 33.8% — extreme swings | ❌ FAIL — no stability whatsoever |
+| EBIT Margin stability | Stable | Range: -42.1% to 27.1% — extreme swings | ❌ FAIL — no stability whatsoever |
 | Moat / Pricing Power | Identifiable | Cost advantage in aluminium/zinc — but price-taker | ⚠️ Narrow cost moat only |
 | ROIC | >15% | ~22% avg (positive years) | ✅ PASS when profitable |
 | Earnings yield | Reasonable | 4.6% at ₹780 | ⚠️ Below hurdle rate |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Verdict: 3 Pass, 6 Caution, 3 Fail.** This is NOT a Buffett-quality business. The extreme cyclicality, high leverage, unsustainable dividend policy, and absence of margin stability would disqualify Vedanta under a strict Buffett framework. The only genuine strengths are consistent FCF generation and decent ROIC during up-cycles.
 
@@ -183,7 +192,7 @@ Attributable Owner Earnings of ~₹16,055 Cr (₹41.06/share) in FY25 represent 
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 34,102 | 37,930 | 33,733 | 38,945 | 35,541 | 35,509 | 35,764 | 37,634 | 17,063 | **40,455** | 37,824 | 18,747 | 23,369 |
-| OPM % | 21% | 25% | **19%** | **29%** | 24% | 25% | 28% | 26% | **29%** | 28% | 26% | 26% | **29%** |
+| OPM % (pre-D&A) | 21% | 25% | **19%** | **29%** | 24% | 25% | 28% | 26% | **29%** | 28% | 26% | 26% | **29%** |
 | Net Profit | 3,091 | 3,132 | 3,308 | **-915** | 2,868 | 2,275 | 5,095 | 5,603 | 4,876 | 4,961 | 4,457 | 3,479 | **7,807** |
 | EPS (₹) | 6.63 | 5.06 | 7.10 | **-4.80** | 5.42 | 3.68 | 9.70 | 11.13 | 9.07 | 8.91 | 8.14 | 4.60 | **14.60** |
 
@@ -193,7 +202,7 @@ Attributable Owner Earnings of ~₹16,055 Cr (₹41.06/share) in FY25 represent 
 
 **1. Revenue Trajectory:** Quarterly revenue has been in the ₹33,000–40,000 Cr range, with FY25 Q4 (Mar25) hitting ₹40,455 Cr — a record. The anomalous drops in Dec24 and Sep25 require adjustment for demerger accounting.
 
-**2. Margin Trend:** Operating margins have stabilised in the 25-29% range over recent quarters, up from the 19-25% range in FY23. This reflects both commodity price recovery (aluminium, zinc) and internal cost optimisation efforts.
+**2. Margin Trend:** Pre-D&A operating margins (OPM) have stabilised in the 25-29% range over recent quarters, up from the 19-25% range in FY23. This reflects both commodity price recovery (aluminium, zinc) and internal cost optimisation efforts. Quarterly D&A is not separately reported on Screener's quarterly page, so quarterly EBIT margins cannot be computed here. However, annual EBIT Margin for FY25 is 20.4% (Section 2) — substantially lower than the 27.7% OPM, reflecting the significant capital consumption (₹11,096 Cr D&A) hidden by pre-D&A margins. This gap between OPM and EBIT Margin (~7 percentage points) is the capital intensity that Buffett and Munger warn about when they reject EBITDA as a profitability measure.
 
 **3. Normalised Quarterly EPS Run-Rate:** Stripping out the anomalous Sep23 quarter (one-time tax adjustment) and the demerger-affected quarters, the normalised quarterly EPS run-rate is approximately ₹8-10 per share, implying an annualised EPS of ₹32-40. The TTM EPS of ₹36.25 is consistent with this.
 
@@ -262,7 +271,7 @@ Attributable Owner Earnings exceed reported attributable EPS (₹38.33) because 
 
 ## 9. RETURN ON CAPITAL — The Buffett Quality Test
 
-| Year | ROCE % | ROE % | ROA % | ROIC % | Interest Coverage |
+| Year | ROCE % | ROE % | ROA % | ROIC % | Interest Coverage (Screener) † |
 |---|---|---|---|---|---|
 | FY14 | 13 | 15.6 | 5.3 | 16.9 | 4.2x |
 | FY15 | 9 | -17.9 | -5.6 | 18.1 ‡ | -3.4x |
@@ -276,6 +285,8 @@ Attributable Owner Earnings exceed reported attributable EPS (₹38.33) because 
 | FY23 | 20 | 27.7 | 7.6 | 23.8 | 6.0x |
 | FY24 | 21 | 21.5 | 4.0 | 12.3 | 4.3x |
 | **FY25** | **25** | **57.1** | **10.6** | **28.6** | 4.8x |
+
+> **† Interest Coverage (Screener vs EBIT-based):** The Interest Coverage values in this table are sourced from Screener.in and use a pre-D&A numerator (Operating Profit + Other Income, i.e. an EBITDA-level figure), producing higher coverage ratios. Section 3's Interest Coverage uses EBIT ÷ Interest Expense (after deducting depreciation), producing lower, more conservative figures (e.g., FY25: 3.2x EBIT-based vs 4.8x Screener). For a Buffett-pure assessment, the Section 3 EBIT-based figures are the relevant metric — they reflect the business's ability to cover interest AFTER maintaining its asset base.
 
 > **‡ ROIC in Loss Years (FY15, FY20):** These years show positive ROIC despite net losses because ROIC uses Operating Profit (which was positive: ₹22,114 Cr in FY15, ₹20,743 Cr in FY20) while net losses were caused by massive below-the-line write-downs in Other Income (-₹19,222 Cr in FY15 from Cairn India impairments; -₹14,932 Cr in FY20). See also the ROIC note (‡) in Section 5.
 
@@ -350,17 +361,19 @@ Buffett's test of "absence of change" is partially met — the core commodities 
 
 **Revenue Scalability:** LIMITED. Each additional tonne of aluminium, zinc, or oil requires physical extraction, processing, and energy. Marginal costs are meaningful (though Vedanta's scale does provide some fixed-cost absorption). This is NOT a zero-marginal-cost business.
 
-**Profit Scalability — Incremental Operating Margins:**
+**Profit Scalability — Incremental EBIT Margins:**
 
-| Year | Revenue | ΔRevenue | Op Profit | ΔOp Profit | Incr. Margin |
-|---|---|---|---|---|---|
-| FY21 | 88,021 | +3,574 | 27,318 | +6,575 | **184%** |
-| FY22 | 132,732 | +44,711 | 44,824 | +17,506 | **39.2%** |
-| FY23 | 147,308 | +14,576 | 34,431 | -10,393 | **-71.3%** |
-| FY24 | 143,727 | -3,581 | 35,312 | +881 | -24.6% |
-| FY25 | 152,968 | +9,241 | 42,343 | +7,031 | **76.1%** |
+| Year | Revenue | ΔRevenue | EBIT | ΔEBIT | EBIT Margin | Incr. EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY21 | 88,021 | +3,574 | 19,680 | +8,030 | 22.4% | **224.7%** |
+| FY22 | 132,732 | +44,711 | 35,929 | +16,249 | 27.1% | **36.3%** |
+| FY23 | 147,308 | +14,576 | 23,876 | -12,053 | 16.2% | **-82.7%** |
+| FY24 | 143,727 | -3,581 | 24,589 | +713 | 17.1% | -19.9% |
+| FY25 | 152,968 | +9,241 | 31,247 | +6,658 | 20.4% | **72.0%** |
 
-The incremental margins are wildly volatile — swinging from 184% to -71% to 76%. This is NOT operating leverage from scaling; this is commodity price volatility flowing directly to the P&L. When commodity prices rise, incremental margins explode upward (FY21: 184%). When they fall, margins collapse. This is the hallmark of a commodity business, not a scaling machine.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. A business that grows revenue while D&A is rising faster (due to heavy capex) will show improving pre-D&A margins but DECLINING EBIT margins. For Vedanta, the EBIT-based incremental margins are even MORE volatile than the pre-D&A version, confirming this is pure commodity cyclicality, not scaling.*
+
+The incremental EBIT margins are wildly volatile — swinging from 225% to -83% to 72%. This is NOT operating leverage from scaling; this is commodity price volatility flowing directly to the P&L. When commodity prices rise, incremental margins explode upward. When they fall, margins collapse. The EBIT lens makes this even starker than the pre-D&A view because depreciation is a steady, rising drag (~₹11,000 Cr/year) that cushions the pre-D&A numbers but is fully exposed in EBIT.
 
 ### Part B: Scaling Runway
 
@@ -445,16 +458,19 @@ Anil Agarwal's management team faces significant governance questions. The promo
 |---|---|
 | CMP | ₹780 |
 | Market Cap | ~₹3,05,000 Cr |
+| **P/Attributable Owner Earnings** (primary Buffett-pure multiple) | **19.0x** |
+| **Owner Earnings Yield** (Attrib OE Per Share / CMP) | **5.3%** |
 | PE (TTM) | 21.5x |
 | P/B | 7.4x |
-| EV/EBITDA | 9.0x |
+| EV/EBIT | 12.2x |
 | P/FCF (consolidated) | 13.3x |
-| P/Attributable Owner Earnings | 19.0x |
 | Earnings Yield | 4.6% |
 | FCF Yield (consolidated) | 7.5% |
 | Dividend Yield | ~5.8% |
 
-> **Note on EV/EBITDA:** EV is calculated as Market Cap (₹3,05,000 Cr) + Net Debt (₹76,947 Cr) = ₹3,82,000 Cr. This does NOT add minority interest at market value to EV (which would be standard for a sum-of-parts approach given Vedanta's significant subsidiaries like HZL with ~35% minority). Adding minority interest market value (~₹1,00,000+ Cr) would increase EV/EBITDA to ~11-12x. Both P/FCF and FCF Yield use consolidated figures; minority shareholders have a claim on a portion of these cash flows (see Section 15 for the attributable earnings distinction).
+> **Why P/Owner Earnings is the primary multiple:** P/Owner Earnings (19.0x) is Buffett's preferred lens — it uses Attributable Owner Earnings (₹16,055 Cr, or ₹41.06/share), which represents cash genuinely available to shareholders after maintaining the asset base. P/OE (19.0x) < PE (21.5x) because OE per share (₹41.06) > EPS (₹38.33) — when the denominator is larger, the multiple is smaller. OE exceeds EPS because D&A exceeds maintenance CapEx. The closeness of P/OE and PE confirms Vedanta's D&A roughly covers its maintenance needs.
+
+> **Why EV/EBIT instead of EV/EBITDA:** Buffett (2000 Letter): *"References to EBITDA make us shudder."* EV/EBIT (12.2x) accounts for the ₹11,096 Cr of annual depreciation that the business must replace. EV is Market Cap + Net Debt = ₹3,82,000 Cr. This does NOT add minority interest at market value to EV; adding minority interest (~₹1,00,000+ Cr) would increase EV/EBIT to ~15-16x. P/FCF and FCF Yield use consolidated figures; minority shareholders have a claim on a portion of these cash flows (see Section 15 for the attributable earnings distinction).
 
 **Historical Comparison:**
 
@@ -470,33 +486,44 @@ The P/B of 7.4x is EXTREMELY elevated for a commodity company. Historically, Ved
 
 **DCF Valuation — Three Scenarios (using Attributable Owner Earnings)**
 
-> **Methodological Note:** This DCF uses **Attributable Owner Earnings** (~₹16,055 Cr in FY25) — the portion of Owner Earnings belonging to Vedanta Ltd equity holders AFTER deducting minority shareholders' claim (primarily HZL's ~35.1% minority). Since we start from a post-interest, post-minority cash flow, this is an **equity-level DCF**: the discount rate is the cost of equity (12%), and the resulting present value IS the equity value — no subtraction of net debt or minority interest is needed.
+> **Methodological Note:** This DCF uses **Attributable Owner Earnings** (~₹16,055 Cr in FY25) — the portion of Owner Earnings belonging to Vedanta Ltd equity holders AFTER deducting minority shareholders' claim (primarily HZL's ~35.1% minority). Since we start from a post-interest, post-minority cash flow, this is an **equity-level DCF**: the discount rate is Buffett's flat 10% hurdle rate, and the resulting present value IS the equity value — no subtraction of net debt or minority interest is needed.
+
+> **Why 10%, not WACC:** Buffett explicitly rejects WACC as a discount rate. Munger has called WACC "nonsense." Buffett uses a simple 10% hurdle — the minimum rate of return he demands from any investment: *"We use a discount rate that is roughly equivalent to the long-term rate on the long bond… but we're going to use 10%."* For context, a WACC-based approach for Vedanta (with D/E of 2.2x and high cyclicality) would yield approximately 12-14%, producing lower intrinsic values. The 10% rate is more generous and represents the MOST FAVOURABLE reading of Vedanta's value.
 
 Starting Attributable Owner Earnings (FY25): ~₹16,055 Cr (₹41.06/share)
-Discount Rate (Cost of Equity): 12% | Terminal Growth: 4%
+Discount Rate: 10% (Buffett's hurdle) | Terminal Growth: 4%
 Shares: 391 Cr
 
 | Scenario | Yr1-5 Growth | Yr6-10 Growth | PV of CFs | PV of Terminal | **Equity Value** | **IV/Share** | **MoS at ₹780** | **Upside** |
 |---|---|---|---|---|---|---|---|---|
-| Conservative | 8% | 5% | ₹1,27,450 Cr | ₹1,26,020 Cr | ₹2,53,470 Cr | **₹648** | **-20.3%** | **-16.9%** |
-| Base | 12% | 8% | ₹1,52,348 Cr | ₹1,74,013 Cr | ₹3,26,361 Cr | **₹835** | **6.6%** | **+7.0%** |
-| Optimistic | 15% | 10% | ₹1,73,786 Cr | ₹2,17,684 Cr | ₹3,91,469 Cr | **₹1,001** | **22.1%** | **+28.4%** |
+| Conservative | 8% | 5% | ₹1,39,837 Cr | ₹2,01,201 Cr | ₹3,41,038 Cr | **₹872** | **10.6%** | **+11.8%** |
+| Base | 12% | 8% | ₹1,67,927 Cr | ₹2,77,827 Cr | ₹4,45,754 Cr | **₹1,140** | **31.6%** | **+46.2%** |
+| Optimistic | 15% | 10% | ₹1,92,163 Cr | ₹3,47,551 Cr | ₹5,39,714 Cr | **₹1,380** | **43.5%** | **+77.0%** |
 
 **Interpretation:**
 
-Under the **Conservative** scenario (8% growth slowing to 5%), Vedanta is OVERVALUED by 17% — the intrinsic value of ₹648 is well below the current price of ₹780. Under the **Base** case (12% growth slowing to 8%), there is only a marginal 7% upside with a thin 6.6% margin of safety — barely worth the risk for a volatile commodity cyclical. Only under the **Optimistic** scenario (15% growth sustained) does the stock offer a meaningful 28% upside.
+Under the **Conservative** scenario (8% growth slowing to 5%), Vedanta shows an intrinsic value of ₹872 — a modest 12% upside from ₹780 with only 10.6% margin of safety. This is thin for a commodity cyclical. Under the **Base** case (12% growth slowing to 8%), there is attractive 46% upside. The **Optimistic** scenario (15% growth sustained) offers 77% upside.
 
-The key takeaway: **at ₹780, the stock is fairly priced ONLY if the Base case plays out, and overvalued if growth disappoints.** For a commodity business with this level of earnings volatility, a prudent investor needs at least a 25-30% margin of safety — which only exists below ₹600.
+The key insight: **the shift from 12% to 10% discount rate materially changes the picture.** At Buffett's 10% hurdle, Vedanta is modestly undervalued in the conservative case and attractively priced in the base case. However, the 10% rate is generous for a business with D/E of 2.2x and extreme cyclicality — a risk-adjusted rate of 12-14% would be more appropriate, and at 12% the stock was overvalued in the conservative case (₹648 IV). The truth likely lies between: Vedanta is approximately **fairly valued** at ₹780, with upside only if growth exceeds the conservative scenario.
 
-**For a commodity cyclical with D/E of 2.2x, a 12% cost of equity may actually be TOO LOW.** A more realistic cost of equity of 13-14% (reflecting the leverage risk and cyclicality) would push intrinsic values even lower, making the stock overvalued in the Base case as well.
+For a commodity business with this level of earnings volatility, a prudent investor needs at least a 25-30% margin of safety — which only exists below ₹650 (at 10% discount) or ₹500 (at 12% discount).
 
 ---
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP ₹780 | Normalised TTM EPS ₹36.25 | Current PE 21.5x
+### Step 1: Inputs
 
-### Implied EPS CAGR Needed to Achieve Target Returns
+| Input | Value | Source |
+|---|---|---|
+| Current Market Price (CMP) | ₹780 | Market data |
+| TTM EPS (Normalised) | ₹36.25 | Screener (attributable, GAAP) |
+| **Owner Earnings Per Share (OEPS)** | **₹41.06** | Attributable OE (₹16,055 Cr) / 391 Cr shares (Section 8) |
+| Current PE (on Normalised EPS) | 21.5x | CMP / EPS |
+| **Current P/OE (on OEPS)** | **19.0x** | CMP / OEPS — the Buffett-pure valuation multiple |
+| Shares Outstanding (Diluted) | 391 Cr | Latest data |
+
+### Step 2 & 3: Implied EPS CAGR Needed to Achieve Target Returns
 
 **At Terminal PE = 15x (Mature Commodity)**
 
@@ -522,22 +549,62 @@ The key takeaway: **at ₹780, the stock is fairly priced ONLY if the Base case 
 | 10 Years | 7.1% | 12.0% | 16.9% |
 | 15 Years | 8.1% | 13.0% | 17.9% |
 
-### Reality Check
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-| Benchmark | Value |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| Vedanta 10Y Revenue CAGR | 7.6% |
-| Vedanta EPS CAGR FY17-FY25 (8Y) | 6.3% |
-| Vedanta 5Y Revenue CAGR | 12.6% |
+> **Why this matters:** EPS can be misleading — a company can grow EPS by underinvesting in maintenance (boosting short-term earnings while the asset base deteriorates), financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense. That's nonsense."* The same insight applies to EPS vs. Owner Earnings.
+
+**Formula:**
+```
+Required Future Price  = CMP × (1 + Hurdle Rate)^n
+Required Future OEPS   = Required Future Price / Terminal P/OE Multiple
+Implied OEPS CAGR      = (Required Future OEPS / Current OEPS)^(1/n) - 1
+```
+
+**Terminal P/OE multiples** are slightly lower than PE scenarios because Owner Earnings < Net Income for capital-intensive businesses (maintenance capex is deducted). For Vedanta (moderate capital intensity, D&A ≈ maintenance CapEx), P/OE ≈ PE. Using: Mature (12x), Market Average (16x), Compounder (22x).
+
+**At Terminal P/OE = 16x (Market Average)**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 13.8% OEPS CAGR needed | 19.0% | 24.2% |
+| 10 Years | 11.9% OEPS CAGR needed | 17.0% | 22.1% |
+| 15 Years | 11.3% OEPS CAGR needed | 16.3% | 21.4% |
+
+### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal Market Avg PE/P(OE) | 10-Year, 10% Hurdle |
+|---|---|---|
+| Implied EPS CAGR (Step 3, PE=20x) | 10.8% | |
+| Implied OEPS CAGR (Step 3B, P/OE=16x) | 11.9% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **1.1 pp** | |
+
+**Interpretation:** Gap ≤ 2 pp → **Vedanta is asset-moderate at current D&A levels.** EPS and Owner Earnings tell approximately the same story — the standard EPS-based Reverse DCF is reliable for this company. The small 1.1pp gap reflects Vedanta's D&A roughly matching its maintenance CapEx, so EPS is a reasonable proxy for true economic earnings. This is one of Vedanta's hidden strengths — despite being a capital-intensive commodity business, its current asset base generates earnings modestly above its maintenance needs.
+
+### Step 4: Reality Check — Is the Implied Growth Reasonable?
+
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (gap is small) | Floor for a decent business |
+| Vedanta 10Y Revenue CAGR | 7.6% | — | Revenue benchmark |
+| Vedanta EPS CAGR FY17-FY25 (8Y) | 6.3% | — | Actual EPS track record |
+| Vedanta Attrib OE CAGR FY17-FY25 (8Y) | — | 5.5% | Buffett-pure growth benchmark |
+| Vedanta 5Y Revenue CAGR | 12.6% | — | Recent track record |
 
 **Traffic Light Assessment:**
 
-At a terminal PE of 15x (realistic for a mature commodity business), to earn even a 10% return over 10 years, Vedanta needs to grow EPS at 14% CAGR — more than DOUBLE its historical 8-year EPS CAGR of 6.3%. 🟠 **ORANGE — Expensive.** The market is pricing in acceleration that Vedanta has never sustained.
+At a terminal PE of 15x (realistic for a mature commodity business), to earn even a 10% return over 10 years, Vedanta needs to grow EPS at 14% CAGR — more than DOUBLE its historical 8-year EPS CAGR of 6.3%. 🟠 **ORANGE — Expensive.**
 
-At a terminal PE of 20x (optimistic for commodities), a 10% return requires ~11% EPS CAGR — still above the historical track record but within the realm of possibility if the commodity cycle cooperates. 🟡 **YELLOW — Fair but optimistic.**
+At a terminal PE of 20x (optimistic for commodities), a 10% return requires ~11% EPS CAGR (and ~12% OEPS CAGR). The historical EPS CAGR is 6.3% and the Attributable OE CAGR is just 5.5%. 🟡 **YELLOW — Fair but optimistic.**
 
-**Verdict:** At ₹780, to earn your hurdle rate of 10-15% over 10 years with a realistic terminal PE of 15-20x, Vedanta needs to deliver 11-19% EPS CAGR. The historical EPS CAGR is 6.3%. The market is pricing in significant growth acceleration, likely driven by demerger re-rating expectations rather than fundamental earnings improvement.
+> **Apply the Traffic Light to BOTH EPS and OEPS implied growth.** In Vedanta's case, the EPS-based verdict (🟡) and the OEPS-based verdict (🟡) agree — the 1.1pp gap is small enough that both tell the same story. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
+
+### Step 5: Verdict
+
+> *"At the current price of ₹780, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 10.8% CAGR (and Owner Earnings at 11.9% CAGR). The company has historically grown EPS at 6.3% CAGR and Owner Earnings at 5.5% CAGR. This implies the market is pricing in optimistic growth — roughly 2x the historical track record."*
+
+> *"Note: the EPS-based assessment and the Owner Earnings assessment are closely aligned (1.1pp gap), indicating this business is asset-moderate and EPS is a reliable proxy for economic earnings. The capital intensity is NOT masking the true growth hurdle — what you see in EPS is approximately what you get in real cash."*
+
+**Buffett's Napkin Test:** At ₹780, the implied growth needed just to earn the hurdle rate is nearly double what Vedanta has historically delivered. The market is betting on commodity cycle tailwinds AND demerger re-rating. If either disappoints, the returns disappoint.
 
 ---
 
@@ -591,23 +658,25 @@ Based on DCF analysis and historical valuation ranges:
 
 | Zone | Price Range | PE Range | P/B Range | Rationale |
 |---|---|---|---|---|
-| Deep Value / Strong Buy | Below ₹350 | <10x | <2.0x | Commodity trough + maximum pessimism; deep margin of safety |
-| Value / Buy | ₹350 – ₹500 | 10-14x | 2.0-3.5x | Below conservative IV (₹648); attractive for contrarian commodity bet |
-| Fair Value / Hold | ₹500 – ₹700 | 14-19x | 3.5-5.0x | Straddles conservative IV (₹648); hold for dividend income and demerger optionality |
-| Fully Valued / Trim | ₹700 – ₹850 | 19-23x | 5.0-7.0x | Near base IV (₹835); demerger premium priced in; trim positions |
-| Overvalued / Sell | Above ₹850 | >23x | >7.0x | Above base IV; priced for perfection; sell into euphoria |
+| Deep Value / Strong Buy | Below ₹450 | <12x | <2.5x | Commodity trough + maximum pessimism; deep margin of safety below even risk-adjusted IV |
+| Value / Buy | ₹450 – ₹650 | 12-18x | 2.5-4.0x | Below conservative IV (₹872 at 10%, ~₹648 at 12%); attractive for contrarian commodity bet |
+| Fair Value / Hold | ₹650 – ₹870 | 18-24x | 4.0-6.0x | Around conservative IV; hold for dividend income and demerger optionality |
+| Fully Valued / Trim | ₹870 – ₹1,100 | 24-30x | 6.0-8.0x | Between conservative and base IV (₹872-₹1,140); demerger premium priced in; trim |
+| Overvalued / Sell | Above ₹1,100 | >30x | >8.0x | At or above base IV; priced for perfection; sell into euphoria |
 
-**Current Position: ₹780 — FULLY VALUED / TRIM ZONE.**
+**Current Position: ₹780 — FAIR VALUE / HOLD ZONE (at Buffett's 10% hurdle); FULLY VALUED at a risk-adjusted 12% discount rate.**
+
+> **Note on DCF sensitivity:** The buy zones above use IV from Buffett's 10% hurdle rate. At a risk-adjusted 12% discount rate (more appropriate for a leveraged cyclical), conservative IV drops to ~₹648 — placing the current price in the Fully Valued zone. The truth lies between: ₹780 is approximately fairly valued with minimal margin of safety.
 
 **Holding Scenario Analysis (if already invested):**
 
 | Your Avg Cost Range | Current P&L | Buffett's Advice |
 |---|---|---|
-| Below ₹350 (Deep Value zone) | **+123%+ profit** | **HOLD core, TRIM 25-30%.** You bought at Buffett prices — the business hasn't changed, but the price has. Take some profits but hold a core position for demerger value-unlocking. |
-| ₹350 – ₹500 (Value zone) | **+56% to +123% profit** | **HOLD.** Decent risk-reward even at current levels if holding through demerger. The demerger (May 1) is imminent — hold through the record date. |
-| ₹500 – ₹700 (Fair Value zone) | **+11% to +56% profit** | **HOLD cautiously.** The demerger is days away. Hold through record date to capture all 5 entities. Reassess after demerger shares are listed and price discovery occurs. |
-| ₹700 – ₹850 (Fully Valued) | **-8% to +11%** | **HOLD through demerger, TRIM after.** At these levels the risk-reward is marginal. Hold only because the demerger record date is May 1 — the value-unlock potential justifies waiting 10 days. After listing, critically reassess each demerged entity independently. |
-| Above ₹850 | **Loss position** | **HOLD for now — DO NOT sell right before demerger.** The sum-of-parts from 5 listed entities may recover your cost basis over 3-6 months. But this was a poor entry, and for a small capital base, the opportunity cost is significant. |
+| Below ₹450 (Deep Value zone) | **+73%+ profit** | **HOLD core, TRIM 25-30%.** You bought at Buffett prices — the business hasn't changed, but the price has. Take some profits but hold a core position for demerger value-unlocking. |
+| ₹450 – ₹650 (Value zone) | **+20% to +73% profit** | **HOLD.** Decent risk-reward even at current levels if holding through demerger. The demerger (May 1) is imminent — hold through the record date. |
+| ₹650 – ₹870 (Fair Value zone) | **-10% to +20% profit** | **HOLD cautiously.** The demerger is days away. Hold through record date to capture all 5 entities. Reassess after demerger shares are listed and price discovery occurs. |
+| ₹870 – ₹1,100 (Fully Valued) | **-29% to -10%** | **HOLD through demerger, reassess after.** The sum-of-parts from 5 listed entities may recover your cost basis over 3-6 months. But for a small capital base, the opportunity cost is significant. |
+| Above ₹1,100 | **>29% loss** | **HOLD for demerger, DO NOT add.** Wait for SOTP value discovery across all 5 entities before making any further decisions. |
 
 ---
 
@@ -632,7 +701,7 @@ Buffett would almost certainly **PASS** on Vedanta at ₹780. His reasons:
 
 2. **The governance structure is toxic** — a heavily indebted parent milking the subsidiary through unsustainable dividends is the antithesis of Buffett's "owner-oriented" management standard.
 
-3. **The price isn't cheap enough** — At ₹780, there is no margin of safety. Buffett might be interested at ₹350-400 (5-6x normalised earnings, 2-3x book) — the kind of price that compensates for all the business quality deficiencies.
+3. **The price isn't cheap enough** — At ₹780, there is minimal margin of safety. At Buffett's generous 10% hurdle, conservative IV is ₹872 — only 12% above CMP. At a risk-adjusted 12%, the stock is overvalued. Buffett might be interested at ₹450-500 (10-12x normalised earnings, 3-4x book) — the kind of price that compensates for all the business quality deficiencies.
 
 4. **However**, if Buffett were working with a SMALL capital base and saw the demerger as a clear near-term catalyst (1-2 weeks to record date), he might make a small, event-driven allocation — not as a long-term Buffett-style compounding bet, but as a special situation trade.
 
@@ -702,18 +771,18 @@ While Vedanta is not a "distressed turnaround" in the traditional sense (it is p
 | Moat Durability | 4 | Narrow cost moat in 2 of 5 segments; no structural moat against cycles |
 | Financial Health | 3 | D/E 2.2x, equity depleted by excessive dividends, parent company overhang |
 | Management Quality | 4 | Governance concerns; promoter dilution; VRL debt servicing priority over minority shareholders |
-| Valuation | 4 | PE 21.5x, P/B 7.4x — expensive for a commodity cyclical at current earnings |
-| Margin of Safety | 2 | Conservative DCF shows stock is 17% overvalued; Base case offers only 7% upside — insufficient for a volatile cyclical |
+| Valuation | 5 | P/OE 19.0x (primary), PE 21.5x, EV/EBIT 12.2x — fair at 10% discount, expensive at risk-adjusted 12% |
+| Margin of Safety | 4 | Conservative IV ₹872 (at 10%) gives 10.6% MoS; drops to negative at 12%. Adequate only if you trust the 10% hurdle for a cyclical |
 | Cash Flow Quality | 8 | Strong, consistent FCF generation — the genuinely positive feature |
 | Demerger Catalyst | 7 | Near-term catalyst (May 1, 2026) with 10-20% estimated value unlock |
 | Scalability | 4.6 | Capital-heavy growth; no operating leverage magic |
-| **Overall Score** | **4.6/10** | — |
+| **Overall Score** | **5.0/10** | — |
 
 **Buffett Verdict:**
 
-Vedanta is a classic commodity conglomerate — richly cash-generative but cyclical, leveraged, and governed in the interest of the controlling family's parent company debt rather than minority shareholders. The business produces real things the world needs (aluminium, zinc, oil, steel), and the operating assets in aluminium and zinc are genuinely world-class. But Buffett would say: *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* Vedanta is a FAIR business at a currently EXPENSIVE price (₹780, PE 21.5x, P/B 7.4x). The demerger is a genuine catalyst that could unlock 10-20% of value, but much of that expectation is already priced into the stock after its 98% run in one year. For a small capital base, the risk-reward at ₹780 is marginal — the downside to normalised commodity valuations (₹350-500) significantly exceeds the upside from demerger re-rating (₹835-1,000). Buffett would wait for ₹400-500 — a price that provides genuine margin of safety for all the business quality deficiencies.
+Vedanta is a classic commodity conglomerate — richly cash-generative but cyclical, leveraged, and governed in the interest of the controlling family's parent company debt rather than minority shareholders. The business produces real things the world needs (aluminium, zinc, oil, steel), and the operating assets in aluminium and zinc are genuinely world-class. But Buffett would say: *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* Vedanta is a FAIR business at an approximately FAIR price (₹780, P/OE 19.0x, P/B 7.4x) using Buffett's generous 10% hurdle — but EXPENSIVE at a risk-adjusted 12% rate appropriate for a leveraged cyclical. The demerger is a genuine catalyst that could unlock 10-20% of value, but much of that expectation is already priced in after its 98% run in one year. For a small capital base, the risk-reward at ₹780 is marginal — the downside to normalised commodity valuations (₹400-550) exceeds the upside from demerger re-rating. Buffett would wait for ₹450-550 — a price that provides genuine margin of safety for all the business quality deficiencies.
 
-**Overall Recommendation: HOLD if owned through the demerger (May 1, 2026). DO NOT initiate new positions at ₹780. Reassess each demerged entity independently after listing. For new money, WAIT for ₹450-500 or below for a Buffett-style entry.**
+**Overall Recommendation: HOLD if owned through the demerger (May 1, 2026). DO NOT initiate new positions at ₹780. Reassess each demerged entity independently after listing. For new money, WAIT for ₹500-550 or below for a Buffett-style entry with margin of safety.**
 
 ---
 
@@ -729,7 +798,7 @@ Not really. At ₹780, you're paying 21.5x normalised earnings for a commodity b
 
 > *"If you need to use a spreadsheet to figure out whether it's a good deal, it's not a good deal."*
 
-At ₹350-400, the math works on a napkin: you're paying 10x earnings for a business generating ₹20,000+ Cr of FCF annually, getting a handsome dividend yield (6%+ even at a normalised 60% payout, 11%+ at recent payout levels), and the demerger is free optionality. That's a no-brainer. At ₹780, it's a spreadsheet exercise — and spreadsheet exercises at commodity peaks are how investors lose money.
+At ₹450-500, the math works on a napkin: you're paying 12-14x earnings for a business generating ₹20,000+ Cr of FCF annually, getting a handsome dividend yield (6%+ even at a normalised 60% payout, 11%+ at recent payout levels), and the demerger is free optionality. That's a no-brainer. At ₹780, it's a spreadsheet exercise — and spreadsheet exercises at commodity peaks are how investors lose money.
 
 ---
 
