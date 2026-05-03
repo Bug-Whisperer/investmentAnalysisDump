@@ -42,11 +42,11 @@ Buffett: *"I try to invest in businesses that are so wonderful that an idiot can
 | Revenue Growth YoY | — | **47.1%** | 37.4% | 26.6% | 21.6% | 37.2% | **-1.1%** | 15.7% | 21.9% | 22.2% |
 | Gross Profit | 23,849 | 35,199 | 46,483 | 57,927 | 69,273 | 95,280 | 92,855 | 108,943 | 134,340 | **164,791** |
 | Gross Margin % | **86.3%** | 86.6% | 83.2% | 81.9% | 80.6% | 80.8% | **79.6%** | 80.8% | 81.7% | 82.0% |
-| Operating Profit (pre-D&A) | 12,427 | 20,203 | 24,913 | 23,986 | 32,671 | 46,753 | **33,555** | 46,751 | 69,380 | **83,276** |
-| OPM % (pre-D&A) | 45.0% | **49.7%** | 44.6% | 33.9% | 38.0% | 39.6% | **28.8%** | 34.7% | 42.2% | 41.4% |
+| Operating Profit (pre-D&A) | 14,769 | 23,063 | 29,228 | 29,534 | 39,533 | 54,720 | **42,241** | 57,929 | 84,820 | **101,892** |
+| OPM % (pre-D&A) | 53.4% | **56.7%** | 52.3% | 41.8% | 46.0% | 46.4% | **36.2%** | 42.9% | 51.6% | 50.7% |
 | Depreciation & Amortisation | 2,342 | 2,860 | 4,315 | 5,548 | 6,862 | 7,967 | 8,686 | 11,178 | 15,440 | **18,616** |
-| **EBIT** | 10,085 | **17,343** | 20,598 | 18,438 | 25,809 | 38,786 | **24,869** | 35,573 | 53,940 | **64,660** |
-| **EBIT Margin %** | 36.5% | **42.7%** | 36.9% | 26.1% | 30.0% | 32.9% | **21.3%** | 26.4% | 32.8% | 32.2% |
+| **EBIT** | 12,427 | **20,203** | 24,913 | 23,986 | 32,671 | 46,753 | **33,555** | 46,751 | 69,380 | **83,276** |
+| **EBIT Margin %** | 45.0% | **49.7%** | 44.6% | 33.9% | 38.0% | 39.6% | **28.8%** | 34.7% | 42.2% | 41.4% |
 | Net Income | 10,217 | 15,934 | 22,112 | 18,485 | 29,146 | 39,370 | **23,200** | 39,098 | **62,360** | 60,458 |
 | Net Margin % | 37.0% | **39.2%** | 39.6% | 26.1% | 33.9% | 33.4% | **19.9%** | 29.0% | **37.9%** | 30.1% |
 | EPS (Diluted) | $3.58 | $5.39 | $7.57 | $6.43 | $10.09 | $13.77 | **$8.59** | $14.87 | **$23.86** | $23.49 |
@@ -59,7 +59,7 @@ Buffett: *"I try to invest in businesses that are so wonderful that an idiot can
 
 **Revenue:** A remarkable ~25% CAGR over 9 years (2016–2025), compounding from $28B to $201B. The only wobble was FY2022 (-1.1%), caused by Apple's iOS privacy changes (ATT) and a post-COVID ad spending pullback. The recovery was swift and powerful — revenue reaccelerated to 15.7%, 21.9%, and 22.2% in subsequent years, demonstrating the durability of the advertising franchise.
 
-**Margins:** Pre-D&A operating margins have been volatile — collapsing from 39.6% in FY2021 to 28.8% in FY2022 during the "Year of Efficiency" crisis, then rebounding spectacularly to 42.2% in FY2024. The FY2025 OPM of 41.4% shows mild compression. However, **EBIT Margin** (the true after-D&A operating profitability) paints a more nuanced picture: it recovered from 21.3% (FY2022) to 32.8% (FY2024) but remains at 32.2% in FY2025 — a 9-point gap below OPM that reflects the rising D&A from Meta's AI infrastructure buildout. Gross margins have been remarkably stable at 80-82%, proving that the core ad business economics are resilient.
+**Margins:** Pre-D&A operating profit margins (OPM) have ranged from 36.2% (FY2022 trough) to 56.7% (FY2017 peak), with FY2025 at a healthy 50.7%. **EBIT Margin** — the true operating profitability after D&A — collapsed from 39.6% in FY2021 to 28.8% in FY2022, then rebounded to 42.2% in FY2024 before settling at 41.4% in FY2025. The gap between OPM and EBIT Margin has widened from ~7pp (FY2021) to ~9pp (FY2025), reflecting the rising D&A burden from Meta's AI infrastructure buildout — a pattern that EBITDA-based analysis would completely mask. Gross margins have been remarkably stable at 80-82%, proving that the core ad business economics are resilient.
 
 **EPS:** FY2025 reported EPS of $23.49 includes a one-time $15.9B non-cash tax charge in Q3 2025 (related to the Corporate Alternative Minimum Tax). **Normalised FY2025 EPS is approximately $29.70** ($6.43 + $7.14 + $7.25 + $8.88, where $7.25 replaces the distorted Q3 EPS of $1.05). This distinction is critical for valuation.
 
@@ -79,11 +79,11 @@ Buffett: *"Earnings can be as pliable as putty when a charlatan heads the compan
 | Debt/Equity | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.08 | 0.12 | 0.16 | **0.27** |
 | BVPS | $20.75 | $25.15 | $28.80 | $35.14 | $44.42 | $43.68 | $46.53 | $58.26 | $69.87 | **$84.40** |
 | Goodwill | 18,241 | 18,621 | 18,301 | 19,068 | 19,050 | 19,197 | 20,306 | 20,654 | 20,654 | ~28,226 |
-| Debt/EBIT | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.40 | 0.52 | 0.53 | **0.91** |
-| Interest Coverage (EBIT/Int.) | N/A | N/A | N/A | N/A | N/A | N/A | 142x | 63x | 59x | **38x** |
+| Debt/EBIT | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.30 | 0.39 | 0.42 | **0.71** |
+| Interest Coverage (EBIT/Int.) | N/A | N/A | N/A | N/A | N/A | N/A | 192x | 83x | 75x | **49x** |
 | Net Debt/Owner Earnings | N/M | N/M | N/M | N/M | N/M | N/M | -1.4x | -1.1x | -0.7x | **-0.4x** |
 
-> **Why Debt/EBIT instead of Debt/EBITDA:** EBITDA pretends capital consumption is free. Meta's D&A has surged from $2.3B (FY2016) to $18.6B (FY2025) as AI infrastructure ages — using EBITDA would make debt coverage look artificially comfortable. Debt/EBIT = 0.91x and Interest Coverage = 38x still show a fortress balance sheet, but honestly. Net Debt/Owner Earnings is negative (net cash exceeds debt), confirming no leverage concern.
+> **Why Debt/EBIT instead of Debt/EBITDA:** EBITDA pretends capital consumption is free. Meta's D&A has surged from $2.3B (FY2016) to $18.6B (FY2025) as AI infrastructure ages — using EBITDA would make debt coverage look artificially comfortable. Debt/EBIT = 0.71x and Interest Coverage = 49x still show a fortress balance sheet, but honestly. Net Debt/Owner Earnings is negative (net cash exceeds debt), confirming no leverage concern.
 
 ### Assessment
 
@@ -130,7 +130,7 @@ Total capital returned to shareholders (2016-2025): ~$206.5B ($196B buybacks + $
 | ROIC % | 17.4 | 23.6 | 27.5 | 19.3 | 25.0 | 30.8 | 20.7 | 25.1 | 32.0 | 24.1 |
 | Debt/Equity | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.08 | 0.12 | 0.16 | **0.27** |
 | OPM % (pre-D&A, Screener) | 45.0 | **49.7** | 44.6 | 33.9 | 38.0 | 39.6 | **28.8** | 34.7 | **42.2** | 41.4 |
-| **EBIT Margin %** | 36.5 | **42.7** | 36.9 | 26.1 | 30.0 | 32.9 | **21.3** | 26.4 | 32.8 | 32.2 |
+| **EBIT Margin %** | 45.0 | **49.7** | 44.6 | 33.9 | 38.0 | 39.6 | **28.8** | 34.7 | **42.2** | 41.4 |
 | NPM % | 37.0 | 39.2 | **39.6** | 26.1 | 33.9 | 33.4 | **19.9** | 29.0 | **37.9** | 30.1 |
 | FCF Margin % | **42.0** | 43.0 | 27.5 | 30.0 | 27.5 | 33.2 | **16.5** | 32.7 | 32.9 | 22.9 |
 | Dividend Payout % | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 8.2 | 8.8 |
@@ -147,7 +147,7 @@ Total capital returned to shareholders (2016-2025): ~$206.5B ($196B buybacks + $
 | Positive Free Cash Flow | Positive | $46.1B FCF (FY2025) | ✅ PASS |
 | Insider holding | Aligned | ~13.3% (Zuckerberg), 61% voting power | ✅ PASS |
 | Dividend payout | Paying | 8.8% (started 2024) | ✅ PASS (new) |
-| EBIT Margin stability | Stable | 21.3% - 42.7% (volatile) | ⚠️ CAUTION |
+| EBIT Margin stability | Stable | 28.8% - 49.7% (volatile) | ⚠️ CAUTION |
 | Moat / Pricing Power | Identifiable | Network effects + 3.58B DAP audience monopoly | ✅ PASS |
 | ROIC > 15% | >15% | 24.6% (10Y avg) | ✅ PASS |
 | Earnings yield | Reasonable | 3.4% (on reported) / 4.3% (normalised) | ⚠️ FAIR |
@@ -156,7 +156,7 @@ Total capital returned to shareholders (2016-2025): ~$206.5B ($196B buybacks + $
 
 **Score: 10 / 12 criteria pass, 2 caution flags**
 
-The two caution flags — EBIT Margin volatility and moderate earnings yield — are important. EBIT margins have swung dramatically (21.3% to 42.7%) driven by management's willingness to dramatically increase and then cut spending, plus rising D&A from the AI capex surge. The pre-D&A operating margin (OPM) is more stable at 28.8-49.7%, but the EBIT Margin reveals the true picture after capital consumption — a distinction that EBITDA-based analysis would miss entirely.
+The two caution flags — EBIT Margin volatility and moderate earnings yield — are important. EBIT margins have swung dramatically (28.8% to 49.7%) driven by management's willingness to dramatically increase and then cut spending. The pre-D&A operating margin (OPM) is even more volatile at 36.2-56.7%, but EBIT Margin is the honest metric because it captures the rising D&A burden from the AI capex surge — a distinction that EBITDA-based analysis would miss entirely.
 
 ---
 
@@ -166,11 +166,11 @@ The two caution flags — EBIT Margin volatility and moderate earnings yield —
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue ($B) | 28.6 | 32.0 | 34.1 | 40.1 | 36.5 | 39.1 | 40.6 | 48.4 | 42.3 | 47.8 | 51.2 | **59.9** |
 | YoY Growth % | 3 | 11 | 23 | 25 | 27 | 22 | 19 | 21 | 16 | 22 | 26 | **24** |
-| Operating Profit (pre-D&A, $M) | 7,161 | 9,408 | 13,658 | 16,365 | 13,816 | 14,964 | 17,372 | 23,370 | 17,518 | 19,953 | 20,548 | **24,676** |
-| OPM % (pre-D&A) | 25.0 | 29.4 | 40.0 | 40.8 | 37.9 | 38.3 | 42.8 | **48.3** | 41.4 | 41.7 | 40.1 | 41.2 |
+| Operating Profit (pre-D&A, $M) | 9,956 | 12,203 | 16,453 | 19,160 | 17,676 | 18,824 | 21,232 | 27,230 | 22,172 | 24,607 | 25,202 | **29,330** |
+| OPM % (pre-D&A) | 34.8 | 38.1 | 48.2 | 47.8 | 48.5 | 48.2 | 52.3 | **56.3** | 52.4 | 51.4 | 49.2 | 49.0 |
 | Depreciation ($M) | 2,795 | 2,795 | 2,795 | 2,795 | 3,860 | 3,860 | 3,860 | 3,860 | 4,654 | 4,654 | 4,654 | **4,654** |
-| **EBIT ($M)** | 4,366 | 6,613 | 10,863 | 13,570 | 9,956 | 11,104 | 13,512 | **19,510** | 12,864 | 15,299 | 15,894 | **20,022** |
-| **EBIT Margin %** | 15.2 | 20.7 | 31.8 | 33.8 | 27.3 | 28.4 | 33.3 | **40.3** | 30.4 | 32.0 | 31.0 | 33.4 |
+| **EBIT ($M)** | 7,161 | 9,408 | 13,658 | 16,365 | 13,816 | 14,964 | 17,372 | **23,370** | 17,518 | 19,953 | 20,548 | **24,676** |
+| **EBIT Margin %** | 25.0 | 29.4 | 40.0 | 40.8 | 37.9 | 38.3 | 42.8 | **48.3** | 41.4 | 41.7 | 40.1 | 41.2 |
 | Net Income ($B) | 5.7 | 7.8 | 11.6 | 14.0 | 12.4 | 13.5 | 15.7 | **20.8** | 16.6 | 18.3 | **2.7*** | 22.8 |
 | EPS (Diluted) | $2.20 | $2.98 | $4.39 | $5.33 | $4.71 | $5.16 | $6.03 | **$8.02** | $6.43 | $7.14 | **$1.05*** | $8.88 |
 | DAP (Billions) | 3.0 | 3.1 | 3.1 | 3.2 | 3.2 | 3.3 | 3.3 | 3.4 | 3.4 | 3.5 | 3.5 | **3.6** |
@@ -181,7 +181,7 @@ The two caution flags — EBIT Margin volatility and moderate earnings yield —
 
 **Revenue Trajectory:** Revenue is **accelerating** on an absolute basis — Q4 2025 hit $59.9B, a record. YoY growth remains robust at 24%, driven by ad impressions (+18%) and price per ad (+6%). Q1 2026 guidance of $53.5-56.5B implies 23-27% growth, suggesting no deceleration.
 
-**Margin Trend:** Pre-D&A operating margin (OPM) has stabilised at 40-42% after peaking at 48.3% in Q4 2024. However, **EBIT Margin** (after D&A) tells a more nuanced story: it peaked at 40.3% in Q4 2024 but has settled at 30-33% in FY2025 — a ~9 percentage point gap between OPM and EBIT Margin that reveals the rising capital intensity of Meta's AI infrastructure. This gap is widening as D&A grows from the massive capex buildout — a pattern that EBITDA-based analysis would entirely miss. The FY2026 expense guidance ($162-169B) implies management expects further margin pressure.
+**Margin Trend:** EBIT Margin (GAAP operating margin, after D&A) has stabilised at 40-42% in FY2025 after peaking at 48.3% in Q4 2024. Pre-D&A operating margin (OPM) peaked at 56.3% in Q4 2024 and has settled at 49-52% in FY2025. The ~9pp gap between OPM and EBIT Margin reveals the D&A burden from Meta's AI infrastructure buildout — and this gap is widening as recent capex depreciates. This is the pattern that EBITDA-based analysis would entirely miss. The FY2026 expense guidance ($162-169B) implies management expects further margin pressure.
 
 **Normalised Quarterly EPS Run-Rate:** Excluding the Q3 2025 one-time tax, the quarterly run-rate is approximately $7.25-8.88, implying a normalised annualised EPS of ~$29-30 for FY2025.
 
@@ -307,19 +307,19 @@ This is Meta's **weakest point from a Buffett perspective**. The tech sector cha
 
 | Year | Revenue ($M) | ΔRevenue ($B) | EBIT ($M) | ΔEBIT ($B) | EBIT Margin | Incremental EBIT Margin* |
 |---|---|---|---|---|---|---|
-| FY2017 | 40,653 | +13.0 | 17,343 | +7.3 | 42.7% | **55.8%** |
-| FY2018 | 55,838 | +15.2 | 20,598 | +3.3 | 36.9% | 21.4% |
-| FY2019 | 70,697 | +14.9 | 18,438 | -2.2 | 26.1% | **-14.5%** (FTC fine year) |
-| FY2020 | 85,965 | +15.3 | 25,809 | +7.4 | 30.0% | 48.3% |
-| FY2021 | 117,929 | +32.0 | 38,786 | +13.0 | 32.9% | 40.6% |
-| FY2022 | 116,609 | -1.3 | 24,869 | -13.9 | 21.3% | N/M (revenue decline) |
-| FY2023 | 134,902 | +18.3 | 35,573 | +10.7 | 26.4% | **58.5%** |
-| FY2024 | 164,501 | +29.6 | 53,940 | +18.4 | 32.8% | **62.1%** |
-| FY2025 | 200,966 | +36.5 | 64,660 | +10.7 | 32.2% | 29.4% |
+| FY2017 | 40,653 | +13.0 | 20,203 | +7.8 | 49.7% | **59.7%** |
+| FY2018 | 55,838 | +15.2 | 24,913 | +4.7 | 44.6% | 31.0% |
+| FY2019 | 70,697 | +14.9 | 23,986 | -0.9 | 33.9% | **-6.2%** (FTC fine year) |
+| FY2020 | 85,965 | +15.3 | 32,671 | +8.7 | 38.0% | **56.9%** |
+| FY2021 | 117,929 | +32.0 | 46,753 | +14.1 | 39.6% | 44.1% |
+| FY2022 | 116,609 | -1.3 | 33,555 | -13.2 | 28.8% | N/M (revenue decline) |
+| FY2023 | 134,902 | +18.3 | 46,751 | +13.2 | 34.7% | **72.1%** |
+| FY2024 | 164,501 | +29.6 | 69,380 | +22.6 | 42.2% | **76.5%** |
+| FY2025 | 200,966 | +36.5 | 83,276 | +13.9 | 41.4% | 38.1% |
 
 *\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's pre-D&A Operating Profit. This captures whether scaling is genuine or being eaten by rising capital consumption. If the pre-D&A incremental margin looks strong but the EBIT-based incremental margin is compressing, the business is becoming more capital-intensive — each dollar of growth requires more depreciation to maintain.*
 
-The FY2023-2024 period showed **strong scaling** — incremental EBIT margins of 58-62% mean that for every new dollar of revenue, 58-62 cents dropped to EBIT (after D&A). FY2025's lower 29.4% reveals the impact of the AI capex surge: pre-D&A incremental margin was ~38%, but rising D&A consumed a further ~9 points. This is the key insight the EBIT framework provides — Meta is scaling revenue beautifully, but the scaling benefit is being partially consumed by rising capital intensity.
+The FY2023-2024 period showed **elite scaling** — incremental EBIT margins of 72-77% mean that for every new dollar of revenue, 72-77 cents dropped to EBIT. FY2025's lower 38.1% shows the impact of the AI spending surge on operating costs. Notably, the pre-D&A incremental margin was ~47%, but rising D&A consumed ~9 points to arrive at the 38.1% EBIT-based figure. This is the key insight the EBIT framework provides — Meta is scaling revenue beautifully, but the D&A burden from massive AI capex is an increasing headwind on operating profit growth.
 
 ### Part B: Scaling Runway
 
@@ -399,7 +399,7 @@ Buffett: *"It's not necessary to do extraordinary things to get extraordinary re
 | PE Ratio | ~28x | ~24x | ~13x | ~33x | ~26x | **29.2x (reported) / 23.1x (normalised)** |
 | P/B Ratio | ~7.0x | ~7.3x | ~4.3x | ~6.5x | ~8.5x | **8.1x** |
 | P/FCF | ~24x | ~19x | ~23x | ~18x | ~28x | **38.4x** |
-| EV/EBIT | ~35x | ~25x | ~18x | ~22x | ~29x | **27.0x** |
+| EV/EBIT | ~35x | ~25x | ~18x | ~22x | ~29x | **21.0x** |
 | Earnings Yield | 3.5% | 4.2% | 7.8% | 3.0% | 3.8% | **3.4% / 4.3% (norm)** |
 | FCF Yield | 4.2% | 5.4% | 4.3% | 5.6% | 3.6% | **2.6%** |
 | Dividend Yield | 0% | 0% | 0% | 0% | 0.3% | **0.3%** |
