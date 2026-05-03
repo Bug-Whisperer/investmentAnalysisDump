@@ -34,8 +34,11 @@ The business model operates as a **government-dependent contract manufacturer** 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 624 | 761 | 959 | **1,714** | 1,268 | 1,559 | 1,766 | 1,521 | 1,468 | 2,780 | **3,853** | 3,868 | 3,316 |
 | Revenue Growth % | — | 22.0% | 26.0% | **78.7%** | -26.0% | 22.9% | 13.3% | -13.9% | -3.5% | **89.4%** | 38.6% | 0.4% | -15% |
-| EBITDA (Op. Profit) | 5 | 40 | 30 | 108 | **-97** | 9 | 121 | 81 | 165 | 251 | **449** | 409 | 315 |
-| EBITDA Margin % | 0.8% | 5.3% | 3.1% | 6.3% | **-7.6%** | 0.6% | 6.9% | 5.3% | **11.2%** | 9.0% | **11.7%** | 10.6% | 9.5% |
+| Operating Profit (pre-D&A) | 5 | 40 | 30 | 108 | **-97** | 9 | 121 | 81 | 165 | 251 | **449** | 409 | 316 |
+| OPM % (pre-D&A) | 0.8% | 5.3% | 3.1% | 6.3% | **-7.6%** | 0.6% | 6.9% | 5.3% | **11.2%** | 9.0% | **11.7%** | 10.6% | 9.5% |
+| Depreciation & Amortisation | 18 | 26 | 46 | 52 | 51 | 24 | 29 | 30 | 18 | 22 | 27 | 30 | 45 |
+| **EBIT** | **-13** | **14** | **-16** | **56** | **-148** | **-15** | **92** | **51** | **147** | **229** | **422** | **379** | **271** |
+| **EBIT Margin %** | **-2.1%** | **1.8%** | **-1.7%** | **3.3%** | **-11.7%** | **-1.0%** | **5.2%** | **3.4%** | **10.0%** | **8.2%** | **11.0%** | **9.8%** | **8.2%** |
 | Net Income | -10 | -10 | -20 | 27 | **-147** | -23 | -36 | -19 | -1 | 126 | **286** | 275 | 181 |
 | Net Margin % | -1.6% | -1.3% | -2.1% | 1.6% | **-11.6%** | -1.5% | -2.0% | -1.2% | -0.1% | 4.5% | **7.4%** | 7.1% | 5.5% |
 | EPS (₹) | -0.89 | -0.33 | -1.69 | 2.33 | **-12.43** | -2.47 | -2.96 | -1.26 | -0.03 | 10.89 | **21.25** | 20.52 | 13.49 |
@@ -46,11 +49,11 @@ The business model operates as a **government-dependent contract manufacturer** 
 
 **Trend Narrative:**
 
-The story is one of **dramatic transformation.** For an astonishing 8 years (FY14–FY22), Titagarh was essentially a loss-making or breakeven business. Cumulative net profit from FY14 to FY22 was approximately **negative ₹239 Cr** — the company destroyed value for nearly a decade. Then, over just three years (FY23–FY25), it earned ₹687 Cr in cumulative net profits, completely reversing the prior destruction.
+The story is one of **dramatic transformation.** For an astonishing 9 years (FY14–FY22), Titagarh was essentially a loss-making or breakeven business. Cumulative net profit from FY14 to FY22 was approximately **negative ₹239 Cr** — the company destroyed value for nearly a decade. Then, over just three years (FY23–FY25), it earned ₹687 Cr in cumulative net profits, completely reversing the prior destruction.
 
-The FY18 disaster (₹-147 Cr loss, -7.6% EBITDA margin) marks the nadir — driven by adverse wagon mix, Italian subsidiary (Firema) losses, and industry cyclicality. The turnaround began in FY22 with margin expansion to 11.2%, accelerated in FY23 with 89% revenue growth from massive Indian Railways ordering, and peaked in FY24 with the best-ever margins (11.7% EBITDA, 7.4% NPM) and profits (₹286 Cr).
+The FY18 disaster (₹-147 Cr loss, -11.7% EBIT margin) marks the nadir — driven by adverse wagon mix, Italian subsidiary (Firema) losses, and industry cyclicality. The turnaround began in FY22 with EBIT margin expansion to 10.0%, accelerated in FY23 with 89% revenue growth from massive Indian Railways ordering, and peaked in FY24 with the best-ever margins (11.0% EBIT, 7.4% NPM) and profits (₹286 Cr).
 
-**FY25 shows the first signs of normalization** — revenue was essentially flat (+0.4%), EBITDA margin compressed slightly (10.6% vs 11.7%), and net profit dipped to ₹275 Cr. More concerning, the TTM numbers (through Dec 2025) show revenue declining 15% and net profit at ₹181 Cr — a sharp slowdown driven by the freight wagon segment decline.
+**FY25 shows the first signs of normalization** — revenue was essentially flat (+0.4%), EBIT margin compressed slightly (9.8% vs 11.0%), and net profit dipped to ₹275 Cr. More concerning, the TTM numbers (through Dec 2025) show revenue declining 15% and net profit at ₹181 Cr — a sharp slowdown driven by the freight wagon segment decline.
 
 *"Only when the tide goes out do you discover who's been swimming naked."* — Buffett. The tide is going out on the freight wagon ordering cycle. The question is whether the passenger rail segment can replace and exceed the freight earnings.
 
@@ -72,6 +75,11 @@ The FY18 disaster (₹-147 Cr loss, -7.6% EBITDA margin) marks the nadir — dri
 | Investments | 33 | 21 | 83 | 29 | 30 | 32 | 198 | 299 | 310 |
 | BVPS (₹) | 66.2 | 82.9 | 74.3 | 66.6 | 70.2 | 80.3 | **164.3** | **183.9** | 187.9 |
 | **Debt/Equity** | 0.19 | 0.24 | **0.73** | **0.95** | **1.09** | 0.37 | **0.07** | 0.25 | 0.25 |
+| Debt/EBIT | NM | NM | NM | **7.9x** | **6.3x** | 1.5x | **0.4x** | 1.7x | — |
+| Interest Coverage (EBIT/Int.) | NM | NM | NM | 1.0x | 2.6x | 2.8x | **5.8x** | **5.2x** | — |
+| Net Debt/Owner Earnings | NM | NM | NM | NM | **209.1x** | 2.7x | **0.6x** | 2.2x | — |
+
+> *Note on Net Debt/OE: This row uses gross borrowings as a proxy for net debt, since granular quarterly cash & equivalents data is not consistently available from Screener. For FY24 specifically, the company was likely net-debt-negative post-QIP (cash exceeding ₹166 Cr borrowings), which would make the true Net Debt/OE negative — more favourable than the 0.6x shown. For FY25 (borrowings ₹627 Cr), gross debt ≈ net debt as cash balances normalised after JV investments.*
 
 **Buffett's Financial Fortress Assessment:**
 
@@ -133,7 +141,8 @@ Maintenance CapEx is estimated conservatively at 70% of depreciation (₹21 Cr) 
 | ROCE % | 2 | 5 | 2 | 6 | **-8** | 1 | 7 | 5 | 9 | 18 | **25** | 17 |
 | ROE % | NM | -1.5 | -2.4 | 2.8 | **-16.1** | -2.8 | -4.6 | -2.4 | -0.1 | 14.0 | **18.0** | 11.7 |
 | Debt/Equity | 0.19 | 0.18 | 0.24 | 0.38 | 0.73 | **1.10** | 0.95 | 1.01 | 1.09 | 0.37 | **0.07** | 0.25 |
-| OPM % | 0.8 | 5.3 | 3.1 | 6.3 | **-7.6** | 0.6 | 6.9 | 5.3 | 11.2 | 9.0 | **11.7** | 10.6 |
+| OPM % (pre-D&A, Screener) | 0.8 | 5.3 | 3.1 | 6.3 | **-7.6** | 0.6 | 6.9 | 5.3 | 11.2 | 9.0 | **11.7** | 10.6 |
+| **EBIT Margin %** | **-2.1** | **1.8** | **-1.7** | **3.3** | **-11.7** | **-1.0** | **5.2** | **3.4** | **10.0** | **8.2** | **11.0** | **9.8** |
 | NPM % | -1.6 | -1.3 | -2.1 | 1.6 | **-11.6** | -1.5 | -2.0 | -1.2 | -0.1 | 4.5 | **7.4** | 7.1 |
 | Debtor Days | 81 | 54 | 87 | **50** | 79 | 81 | 52 | **136** | 58 | **37** | 50 | 63 |
 | Inventory Days | **313** | 176 | **471** | 182 | 213 | 203 | 119 | 142 | 176 | 78 | **64** | 65 |
@@ -141,6 +150,8 @@ Maintenance CapEx is estimated conservatively at 70% of depreciation (₹21 Cr) 
 | Working Capital Days | **103** | 55 | 57 | 38 | **3** | 62 | 96 | 90 | 48 | **20** | 61 | 58 |
 | Interest Coverage | 0.5x | 0.8x | 0.2x | 2.6x | **-2.8x** | 0.1x | 0.4x | 0.9x | 1.5x | 3.2x | **6.3x** | 6.2x |
 | Dividend Payout % | NM | NM | NM | 34 | NM | NM | **0** | 0 | 0 | 5 | 4 | 5 |
+
+> *Note on Interest Coverage: Values in this table are sourced directly from Screener.in, which uses its own calculation methodology (likely PBT + Interest Expense as numerator). This differs from the EBIT-based Interest Coverage in Section 3 (EBIT / Interest Expense), which produces slightly different values (e.g., FY24: 5.8x vs 6.3x here; FY25: 5.2x vs 6.2x here). The EBIT-based calculation in Section 3 is the Buffett-pure metric.*
 
 ### Part B: Buffett's Quality Checklist
 
@@ -154,9 +165,11 @@ Maintenance CapEx is estimated conservatively at 70% of depreciation (₹21 Cr) 
 | Positive Free Cash Flow | Positive | Mostly negative FCF; CFO was -₹97 Cr in FY25 | ❌ Fails |
 | Promoter/Insider holding | Aligned | 40.46% — stable but reduced from 47.8% in FY23 | ⚠️ Declining |
 | Dividend payout | Paying | Minimal — 4-5% payout in profitable years | ⚠️ Token |
-| OPM stability | Stable | Swung from -7.6% to 11.7% — extremely volatile | ❌ Fails |
+| EBIT Margin stability | Stable | Swung from -11.7% to 11.0% — extremely volatile | ❌ Fails |
 | Moat / Pricing Power | Identifiable | Limited — tender-based business, some switching costs from tech capability in PRS | ⚠️ Emerging |
 | Earnings yield | Reasonable | 1.85% (TTM PE ~54x) — expensive | ⚠️ Stretched |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Quality Verdict:** This is **NOT a classic Buffett quality business.** The ratio history reveals a decade of mediocre-to-terrible returns interrupted by three years of exceptional performance. The consistency that Buffett prizes is completely absent. However, the recent transformation is genuine — the PRS pivot, balance sheet cleanup, and order book strength represent a potential structural shift. The key question: are the last three years the "new normal" or a cyclical peak?
 
@@ -169,7 +182,11 @@ Maintenance CapEx is estimated conservatively at 70% of depreciation (₹21 Cr) 
 | Metric | Q3FY23 | Q4FY23 | Q1FY24 | Q2FY24 | Q3FY24 | Q4FY24 | Q1FY25 | Q2FY25 | Q3FY25 | Q4FY25 | Q1FY26 | Q2FY26 | Q3FY26 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 766 | **974** | 911 | 935 | 955 | **1,052** | 903 | 1,057 | 902 | 1,006 | **679** | 799 | 832 |
-| OPM % | 9% | 9% | **12%** | **12%** | 12% | 11% | 11% | 12% | 10% | **9%** | **9%** | 9% | 10% |
+| Op. Profit (pre-D&A) | 65 | 92 | **106** | **115** | 111 | 118 | 97 | **125** | 94 | 93 | **64** | 74 | 85 |
+| OPM % (pre-D&A) | 8.5% | 9.4% | **11.6%** | **12.3%** | 11.6% | 11.2% | 10.7% | 11.8% | 10.4% | **9.2%** | **9.4%** | 9.3% | 10.2% |
+| Depreciation (est.) | 6 | 6 | 7 | 7 | 7 | 7 | 8 | 8 | 8 | 8 | 12 | 12 | 13 |
+| **EBIT** | **60** | **86** | **99** | **108** | **104** | **111** | **90** | **118** | **87** | **86** | **52** | **62** | **72** |
+| **EBIT Margin %** | **7.8%** | **8.9%** | **10.9%** | **11.6%** | **10.9%** | **10.6%** | **9.9%** | **11.1%** | **9.6%** | **8.5%** | **7.7%** | **7.8%** | **8.7%** |
 | Net Profit | 33 | 48 | 62 | 71 | 75 | **79** | 67 | **81** | 63 | 64 | **31** | 37 | 48 |
 | EPS (₹) | 2.72 | 4.03 | 5.17 | 5.55 | 5.56 | **5.86** | 4.98 | **5.99** | 4.66 | 4.89 | **2.29** | 2.74 | 3.57 |
 
@@ -179,7 +196,7 @@ Maintenance CapEx is estimated conservatively at 70% of depreciation (₹21 Cr) 
 The quarterly revenue trend reveals a clear peak at Q4FY24 (₹1,052 Cr) followed by sequential decline. Q1FY26 at ₹679 Cr was the weakest quarter in 3 years. The decline is driven by the **freight wagon segment** (down 20% YoY in Q3 FY26) as Indian Railways ordering normalised after the post-COVID surge. The PRS segment is growing rapidly (237% YoY) but is still too small in absolute terms to offset the freight decline.
 
 **2. Margin Trend — COMPRESSING from peak:**
-OPM has compressed from the 11-12% range (Q1FY24–Q2FY25) to 9-10% in recent quarters. The freight segment maintains 12-13% PBIT margins, but PRS is still ramping up (12.98% PBIT margin in Q3FY26, up from 9.44% a year ago).
+OPM (pre-D&A) has compressed from the 11-12% range (Q1FY24–Q2FY25) to 9-10% in recent quarters. **EBIT Margin tells a sharper story:** it peaked at 11.6% (Q2FY24) and has compressed to 7.7-8.7% in FY26 quarters. The gap between OPM and EBIT Margin has **widened** in FY26 (from ~1 pp to ~1.5 pp) because D&A jumped from ~₹7-8 Cr/quarter to ~₹12-13 Cr/quarter as new PRS capacity and JV assets entered the books. This is a classic pattern that EBITDA-based analysis would miss entirely: OPM looks merely soft, but EBIT Margin reveals rising capital intensity eating into true operating profitability.
 
 **3. Normalised Quarterly EPS Run-Rate:**
 Stripping out the FY24-era peak, the current quarterly EPS run-rate is approximately ₹2.29–₹3.57 per quarter (Q1-Q3 FY26). The 9-month cumulative EPS is ₹8.60. Annualised: **₹9.16** (extrapolating the weakest Q1 rate) to **₹11.47** (average quarterly rate × 4), up to **₹14.28** if the improving Q3 trend continues. The TTM EPS of ₹13.49 is a reasonable estimate of current earning power but is significantly below FY25's ₹20.52.
@@ -318,15 +335,17 @@ The FY25 ROE decline to 11.7% is driven by: (a) the enlarged equity base from th
 
 **Revenue Scalability — MODERATE:** Each new order requires proportional manufacturing resources (steel, labour, factory capacity). There is some operating leverage from fixed overhead absorption, but the business is fundamentally linear in its scaling. Unlike software or brands, you cannot serve more customers without building more trains.
 
-**Profit Scalability — Incremental Margins Analysis:**
+**Profit Scalability — Incremental EBIT Margins Analysis:**
 
-| Year | Revenue (₹ Cr) | ΔRevenue | Op. Profit | ΔOp. Profit | Incr. Op. Margin |
-|---|---|---|---|---|---|
-| FY23 | 2,780 | +1,312 | 251 | +86 | 6.6% |
-| FY24 | 3,853 | +1,073 | 449 | +198 | **18.5%** |
-| FY25 | 3,868 | +15 | 409 | -40 | **Negative** |
+| Year | Revenue (₹ Cr) | ΔRevenue | EBIT | ΔEBIT | EBIT Margin | Incr. EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY23 | 2,780 | +1,312 | 229 | +82 | 8.2% | 6.2% |
+| FY24 | 3,853 | +1,073 | 422 | +193 | 11.0% | **18.0%** |
+| FY25 | 3,868 | +15 | 379 | -43 | 9.8% | **Negative** |
 
-The incremental margin in FY24 (18.5%) was significantly above the existing OPM (11.7%), indicating operating leverage was kicking in. However, FY25 shows **negative incremental margins** on flat revenue — when growth stalls, margins compress immediately. This is **linear-to-negative scaling** in a stall scenario.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins are HIGHER than current EBIT margins, the business is scaling beautifully. If LOWER, it is hitting scaling friction or becoming more capital-intensive.*
+
+The incremental EBIT margin in FY24 (18.0%) was significantly above the existing EBIT margin (11.0%), indicating genuine operating leverage after accounting for capital consumption. However, FY25 shows **negative incremental EBIT margins** on flat revenue — when growth stalls, margins compress immediately. This is **linear-to-negative scaling** in a stall scenario.
 
 ### Part B: Scaling Runway — TAM & Penetration
 
@@ -418,11 +437,14 @@ The $1 Test result of ₹11.2 per rupee retained appears strong but is **mislead
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current (TTM) |
 |---|---|---|---|---|---|---|---|
 | Stock Price (Approx YE) | ~55 | ~100 | ~120 | ~450 | ~1,100 | ~800 | 730 |
+| **P/Owner Earnings** *(primary)* | NM | NM | NM | 40.6x | 50.5x | 38.0x | **50.9x** |
+| **Owner Earnings Yield** | NM | NM | NM | 2.46% | 1.98% | 2.63% | **1.97%** |
 | PE Ratio | NM | NM | NM | 41.3 | 51.8 | 39.0 | **54.1** |
-| P/B Ratio | 0.83 | 1.43 | 1.71 | 5.60 | 6.70 | 4.35 | **3.97** |
-| EV/EBITDA | NM | NM | ~22 | ~36 | ~22 | ~24 | ~31 |
 | Earnings Yield | NM | NM | NM | 2.4% | 1.9% | 2.6% | **1.85%** |
-| P/Owner Earnings | NM | NM | NM | 40.6x | 50.5x | 38.0x | **50.9x** |
+| P/B Ratio | 0.83 | 1.43 | 1.71 | 5.60 | 6.70 | 4.35 | **3.97** |
+| EV/EBIT *(secondary cross-check)* | NM | NM | NM | 25.1x | 35.6x | 30.2x | **38.7x** |
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. A steel company and a software company with identical EBITDA but vastly different capital requirements look equally valued on EV/EBITDA — but the software company is genuinely cheaper because it doesn't need to spend billions replacing equipment. EV/EBIT and P/Owner Earnings are the multiples Buffett would use: they account for the capital the business consumes before you get your return. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"*
 
 **Historical Comparison:** Before FY23, the stock traded at 0.8-1.7x book value — essentially at or below tangible asset value because the business could not earn above its cost of capital. The re-rating from <2x P/B to 4-7x P/B was driven by the profitability transformation. At the current 4.0x P/B, the market is pricing in sustained 12-15%+ ROE — which is NOT yet proven over a full cycle.
 
@@ -454,9 +476,29 @@ On a TTM PE of ~54x, the stock is priced for perfection. At the current price of
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = ₹730 | Normalised EPS (FY25) = ₹20.52 | Current PE (on normalised) = 35.6x
+### Step 1: Inputs
 
-### Implied EPS CAGR Required to Achieve Target Returns:
+| Input | Value | Source |
+|---|---|---|
+| Current Market Price (CMP) | ₹730 | Market data |
+| Normalised EPS (FY25) | ₹20.52 | FY25 full-year EPS (normalised — stripping TTM decline for base-case assessment) |
+| **Owner Earnings Per Share (OEPS)** | **₹21.04** | Owner Earnings ₹284 Cr / 13.5 Cr diluted shares (from Section 8) |
+| Current PE (on normalised EPS) | 35.6x | 730 / 20.52 |
+| **Current P/OE (on OEPS)** | **34.7x** | 730 / 21.04 — the Buffett-pure valuation multiple |
+| Shares Outstanding (Diluted) | ~13.5 Cr | Latest data |
+
+### Step 2: Terminal PE / P/OE Scenarios
+
+| Scenario | Terminal PE | Terminal P/OE | Rationale |
+|---|---|---|---|
+| **Mature / Low-Growth** | 15x | 13x | Business matured, growth ≈ GDP |
+| **Market Average** | 20x | 18x | Grows in line with market; no moat erosion/expansion |
+| **Compounder** | 28x | 25x | Faster-than-market growth with durable moat |
+| **Historical Average** | 40x | 37x | Company's own recent premium — unlikely to sustain for cyclical |
+
+> *Terminal P/OE is set slightly below Terminal PE because Owner Earnings > Net Income (by 0.3×D&A). For Titagarh, the gap is small (~₹0.50/share) since D&A is modest relative to earnings in profitable years.*
+
+### Step 3: Implied EPS CAGR Required to Achieve Target Returns
 
 **Terminal PE = 15x (Mature):**
 
@@ -486,24 +528,52 @@ On a TTM PE of ~54x, the stock is priced for perfection. At the current price of
 | 5 Years | 7.5% | 12.3% | 17.2% |
 | 10 Years | 8.7% | 13.7% | 18.6% |
 
-### Reality Check:
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-| Benchmark | EPS CAGR |
-|---|---|
-| Historical 2Y EPS CAGR (FY23-FY25) | 37.3% (off loss base — NOT sustainable) |
-| Revenue CAGR 5Y | 17.0% |
-| Revenue CAGR 10Y | 17.7% |
-| India nominal GDP growth | 10-12% |
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading: a company can grow EPS by underinvesting in maintenance (boosting short-term earnings while the asset base deteriorates) or via financial engineering. Owner Earnings strips this out — it measures the TRUE economic cash the business generates after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."*
+
+**Implied OEPS CAGR at Terminal P/OE = 18x (Market Average):**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 25.4% OEPS CAGR | 31.1% | 36.8% |
+| 10 Years | 17.5% OEPS CAGR | 22.8% | 28.1% |
+| 15 Years | 14.9% OEPS CAGR | 20.1% | 25.4% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal PE 20x / P/OE 18x | 10-Year, 10% Hurdle |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 16.5% | |
+| Implied OEPS CAGR (from Step 3B) | 17.5% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **0.9 pp** | |
+
+**Interpretation: Gap ≤ 2 pp → Asset-light from a D&A perspective.** For Titagarh, Owner Earnings ≈ Net Income because D&A (₹30 Cr) and estimated maintenance capex (₹21 Cr) roughly offset each other, adding only ~₹9 Cr to NI. The standard EPS-based Reverse DCF is reliable for this company — EBIT/OE-based analysis confirms rather than contradicts the EPS picture. The capital intensity shows up in working capital consumption (Section 4: negative CFO despite profits), not in D&A understating maintenance costs.
+
+### Step 4: Reality Check — Is the Implied Growth Reasonable?
+
+| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 10-12% (asset-light D&A profile) | Floor for a decent business |
+| Historical 2Y EPS CAGR (FY23-FY25) | 37.3% | 37.8% | Off loss base — NOT sustainable |
+| Revenue CAGR 5Y | 17.0% | — | Actual revenue track record |
+| Revenue CAGR 10Y | 17.7% | — | Longer-term track record |
+| Industry/sector average growth | 15-18% | — | Railway equipment peer range |
+| Analyst consensus forward estimates | 15-20% | — | Market expectations |
+
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
 
 **Traffic Light Assessment:**
 
 At the most generous assumptions (Terminal PE 40x, i.e., the market sustains the current premium forever), you need only 8.7% EPS CAGR over 10 years for a 10% return — 🟢 GREEN. But this is unrealistic — a PE of 40x cannot sustain for a cyclical manufacturer.
 
-At a more reasonable Terminal PE of 20x over 10 years, you need **16.5% EPS CAGR for a 10% return** — 🟡 YELLOW. This is achievable if the PRS segment delivers, but it requires the company to grow earnings faster than its historical revenue growth rate, which demands margin expansion.
+At a more reasonable Terminal PE of 20x over 10 years, you need **16.5% EPS CAGR (and 17.5% OEPS CAGR) for a 10% return** — 🟡 YELLOW for both. This is achievable if the PRS segment delivers, but it requires the company to grow earnings faster than its historical revenue growth rate, which demands margin expansion. The EPS and OEPS verdicts align (gap is only 0.9 pp), confirming the assessment is not distorted by capital intensity.
 
-At a Mature Terminal PE of 15x, the required EPS CAGR is **20% for 10 years** — 🟠 ORANGE to 🔴 RED. Sustaining 20% EPS CAGR for a decade is very difficult for a capital-intensive manufacturer.
+At a Mature Terminal PE of 15x, the required EPS CAGR is **20% for 10 years** — 🟠 ORANGE to 🔴 RED.
 
-**Verdict:** *"At ₹730, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 16.5% CAGR. The company's revenue has grown at 17% CAGR historically, but EPS has been volatile (losses for most of the past decade). This implies the market is pricing in moderately optimistic but achievable growth — IF the PRS pivot succeeds and margins sustain."*
+### Step 5: The Verdict
+
+> *"At ₹730, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 16.5% CAGR (and Owner Earnings at 17.5% CAGR). The company's revenue has grown at 17% CAGR historically, but EPS has been volatile (losses for most of the past decade) and Owner Earnings show a similar profile. This implies the market is pricing in moderately optimistic but achievable growth — IF the PRS pivot succeeds and margins sustain. Note: the EPS-based and OEPS-based assessments are virtually identical (0.9 pp gap), confirming this is not a business where capital intensity masks the true hurdle — the real risk here is earnings volatility and cyclicality, not D&A understating costs."*
 
 The fat pitch analysis follows in Step 6.
 
@@ -664,7 +734,7 @@ While Titagarh is not a distressed turnaround, it IS undergoing a **strategic tr
 | Factor | Score (1-10) | Evidence |
 |---|---|---|
 | Revenue diversification (freight → PRS) | 7/10 | PRS now 77% of order book; revenue contribution growing 237% YoY |
-| Margin sustainability | 6/10 | EBITDA margins improved from negative to 10-12%; but PRS margin still ramping |
+| Margin sustainability | 6/10 | EBIT margins improved from negative to 10-11%; but PRS margin still ramping |
 | Balance sheet health | 9/10 | D/E at 0.25; CRISIL AA-/Stable; net debt negative |
 | Management credibility | 7/10 | FY23-FY25 execution demonstrated capability; FY26 slowdown concerning |
 | Order book visibility | 9/10 | ₹27,755 Cr total — 7+ years of revenue cover |
