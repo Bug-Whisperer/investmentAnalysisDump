@@ -36,6 +36,11 @@ While Microsoft IS a technology company, its core products (Office, Windows, Azu
 
 ## 2. INCOME STATEMENT ANALYSIS — Revenue & Profitability Trends
 
+> **Valuation Philosophy — Owner Earnings, Not EBITDA:**
+> This analysis follows a **pure Buffett/Munger valuation philosophy**. It deliberately excludes EBITDA-based metrics (EV/EBITDA, Debt/EBITDA). Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* EBITDA pretends that the capital a business consumes to maintain its operations is free. Instead, this analysis uses **EBIT** (after D&A) for operating profitability, **Owner Earnings** (NI + D&A − Maintenance CapEx) as the primary cash flow metric, and **P/Owner Earnings** as the preferred Buffett-pure valuation multiple.
+>
+> *Note: For Microsoft (US GAAP 10-K), reported Operating Income is already EBIT — it is computed after deducting Depreciation & Amortisation. This differs from Screener.in's convention for Indian companies, where Operating Profit is pre-D&A (EBITDA-equivalent).*
+
 *All figures in $M. Microsoft fiscal year ends June 30.*
 
 | Metric | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | TTM |
@@ -44,16 +49,15 @@ While Microsoft IS a technology company, its core products (Office, Windows, Azu
 | Revenue Growth YoY | — | 5.4% | **22.7%** | 14.0% | 13.6% | 17.5% | 18.0% | **6.9%** | 15.7% | 14.9% | 16.7% |
 | Gross Profit | 51,976 | 55,689 | 72,007 | 82,933 | 96,937 | 115,856 | 135,620 | 146,052 | 171,008 | 193,893 | 209,499 |
 | Gross Margin | **60.9%** | 61.9% | 65.2% | 65.9% | 67.8% | 68.9% | 68.4% | 68.9% | 69.8% | **68.8%** | 68.6% |
-| Operating Income | 20,182 | 22,326 | 35,058 | 42,959 | 52,959 | 69,916 | 83,383 | 88,523 | 109,433 | 128,528 | 142,559 |
-| Operating Margin | **23.7%** | 24.8% | 31.8% | 34.1% | 37.0% | 41.6% | 42.1% | 41.8% | 44.6% | **45.6%** | 46.7% |
+| Depreciation & Amortisation | 7,800 | 8,778 | 10,261 | 11,682 | 12,796 | 11,686 | 14,460 | 13,861 | 22,287 | 34,153 | 42,202 |
+| **EBIT (Operating Income)** | 20,182 | 22,326 | 35,058 | 42,959 | 52,959 | 69,916 | 83,383 | 88,523 | 109,433 | 128,528 | 142,559 |
+| **EBIT Margin** | **23.7%** | 24.8% | 31.8% | 34.1% | 37.0% | 41.6% | 42.1% | 41.8% | 44.6% | **45.6%** | 46.7% |
 | Net Income | 16,798 | 25,489 | 16,571¹ | 39,240 | 44,281 | 61,271 | 72,738 | 72,361 | 88,136 | 101,832 | 119,262 |
 | Net Margin | 19.7% | 28.3% | **15.0%**¹ | 31.2% | 31.0% | 36.5% | **36.7%** | 34.1% | 36.0% | 36.1% | 39.0% |
 | EPS (Diluted) | $2.10 | $3.25 | $2.13¹ | $5.06 | $5.76 | $8.05 | $9.65 | $9.68 | $11.80 | $13.64 | $15.99 |
 | EPS Growth | — | 54.8% | **-34.5%**¹ | 137.6% | 13.8% | 39.8% | 19.9% | **0.3%** | 21.9% | 15.6% | 28.7% |
 | Shares Outstanding (Dil.) | 7,808 | 7,746 | 7,700 | 7,668 | 7,610 | 7,608 | 7,540 | 7,472 | 7,469 | 7,465 | 7,462 |
 | Shares Change YoY | — | -0.8% | -0.6% | -0.4% | -0.8% | 0.0% | -0.9% | -0.9% | 0.0% | -0.1% | — |
-| EBITDA | 27,982 | 31,104 | 45,319 | 54,641 | 65,755 | 81,602 | 97,843 | 102,384 | 131,720 | 162,681 | 184,761 |
-| EBITDA Margin | **32.8%** | 34.6% | 41.1% | 43.4% | 46.0% | 48.6% | 49.4% | 48.3% | 53.7% | **57.7%** | 60.5% |
 | R&D Expense | 11,988 | 13,037 | 14,726 | 16,876 | 19,269 | 20,716 | 24,512 | 27,195 | 29,510 | 32,488 | — |
 | R&D as % Rev | 14.0% | 14.5% | 13.3% | 13.4% | 13.5% | 12.3% | 12.4% | 12.8% | 12.0% | 11.5% | — |
 | SBC | 3,634 | 4,534 | 4,652 | 4,648 | 5,289 | 5,686 | 7,502 | 9,611 | 10,735 | ~12,000 | — |
@@ -65,7 +69,7 @@ While Microsoft IS a technology company, its core products (Office, Windows, Azu
 
 **Trend Narrative:**
 
-The story here is one of relentless margin expansion driven by the shift from perpetual licenses to cloud subscriptions. Operating margins have nearly **doubled** from 23.7% in FY2016 to 45.6% in FY2025 — an extraordinary transformation. Revenue has grown at 14.2% CAGR over nine years, while operating income has grown at 22.9% CAGR — earnings growth dramatically outpacing revenue growth, the hallmark of a scaling franchise.
+The story here is one of relentless margin expansion driven by the shift from perpetual licenses to cloud subscriptions. EBIT margins have nearly **doubled** from 23.7% in FY2016 to 45.6% in FY2025 — an extraordinary transformation. Revenue has grown at 14.2% CAGR over nine years, while EBIT has grown at 22.9% CAGR — earnings growth dramatically outpacing revenue growth, the hallmark of a scaling franchise.
 
 The brief FY2023 deceleration (6.9% revenue growth) was a temporary post-pandemic normalisation, with growth re-accelerating to ~15% in FY2024-FY2025 fuelled by AI demand.
 
@@ -88,13 +92,16 @@ The brief FY2023 deceleration (6.9% revenue growth) was a temporary post-pandemi
 | BVPS | $9.19 | $10.20 | $10.74 | $13.35 | $15.55 | $18.66 | $22.09 | $27.60 | $35.95 | $46.03 |
 | Tangible BVPS | $6.90 | $5.67 | $6.11 | $7.87 | $9.85 | $12.13 | $13.13 | $18.52 | $19.98 | $30.03 |
 | Debt/Equity | 0.56 | 0.97 | **0.87** | 0.65 | 0.54 | 0.41 | 0.32 | 0.23 | 0.19 | **0.13** |
-| Debt/EBITDA | 1.44 | 2.47 | **1.59** | 1.22 | 0.96 | 0.71 | 0.54 | 0.46 | 0.39 | **0.27** |
+| Debt/EBIT | **2.00** | 3.43 | 2.06 | 1.55 | 1.20 | 0.83 | 0.64 | 0.53 | 0.47 | **0.34** |
+| Net Debt/Owner Earnings⁴ | **-3.30** | -1.77 | -2.64 | -1.44 | -1.40 | -1.08 | -0.65 | -0.82 | **-0.25** | -0.44 |
 | Current Ratio | 2.40 | **2.48** | 2.90 | 2.53 | 2.52 | 2.08 | 1.78 | 1.77 | **1.28** | 1.35 |
 | Interest Coverage | 16.2x | **10.0x** | 12.8x | 16.0x | 20.4x | 29.8x | 40.4x | 43.7x | 43.9x | **43.8x** |
 
 **Financial Fortress Assessment:**
 
-Microsoft's balance sheet is the definition of Buffett's "financial fortress." With $94.6B in cash and investments against only $43.2B in total debt, Microsoft has **$51.4B in net cash** — meaning the entire debt could be repaid tomorrow with half the cash pile left over. Debt/Equity has compressed from 0.97x in FY2017 (post-LinkedIn acquisition) to a trivial 0.13x by FY2025. Interest coverage of 43.8x means Microsoft could handle a catastrophic earnings decline and still service its debt comfortably.
+*⁴ Net Debt/Owner Earnings: Negative values indicate net cash position (cash exceeds total debt). The ratio shows how many years of Owner Earnings it would take to repay net debt — negative means the company has excess cash after retiring all debt.*
+
+Microsoft's balance sheet is the definition of Buffett's "financial fortress." With $94.6B in cash and investments against only $43.2B in total debt, Microsoft has **$51.4B in net cash** — meaning the entire debt could be repaid tomorrow with half the cash pile left over. Debt/Equity has compressed from 0.97x in FY2017 (post-LinkedIn acquisition) to a trivial 0.13x by FY2025. Debt/EBIT of just 0.34x means the company could repay all debt from four months of operating income. Interest coverage of 43.8x means Microsoft could handle a catastrophic earnings decline and still service its debt comfortably.
 
 The major balance sheet development is the dramatic growth in PP&E — from $44B in FY2020 to $205B in FY2025 — reflecting the massive AI/cloud data centre buildout. This is growth CapEx, not maintenance. Goodwill jumped from $68B to $119B in FY2024 due to the Activision Blizzard acquisition ($69B deal).
 
@@ -143,7 +150,7 @@ Total shareholder returns (buybacks + dividends) have averaged ~$44B/year over t
 | ROE % | 23.4% | 33.8% | 20.5% | 42.4% | 40.1% | **47.2%** | 47.2% | 38.8% | 37.1% | 33.3% |
 | ROA % | 8.7% | 11.7% | 6.6% | 14.4% | 15.1% | 19.3% | **20.8%** | 18.6% | 19.1% | 18.0% |
 | Debt/Equity | 0.56 | **0.97** | 0.87 | 0.65 | 0.54 | 0.41 | 0.32 | 0.23 | 0.19 | **0.13** |
-| OPM % | **23.7%** | 24.8% | 31.8% | 34.1% | 37.0% | 41.6% | 42.1% | 41.8% | 44.6% | **45.6%** |
+| EBIT Margin % | **23.7%** | 24.8% | 31.8% | 34.1% | 37.0% | 41.6% | 42.1% | 41.8% | 44.6% | **45.6%** |
 | NPM % | 19.7% | 28.3% | **15.0%** | 31.2% | 31.0% | 36.5% | **36.7%** | 34.1% | 36.0% | 36.1% |
 | Interest Coverage | 16.2x | **10.0x** | 12.8x | 16.0x | 20.4x | 29.8x | 40.4x | 43.7x | **43.9x** | 43.8x |
 | Dividend Payout %³ | 68.6% | 48.0% | 78.9% | 36.4% | 35.4% | 27.8% | 25.7% | 28.0% | 25.4% | 24.3% |
@@ -165,9 +172,12 @@ Total shareholder returns (buybacks + dividends) have averaged ~$44B/year over t
 | Positive Free Cash Flow | Positive | $71.6B (FY2025) | ✅ Massive |
 | Promoter/Insider holding | Aligned | Satya Nadella ~$1B+ in stock | ✅ Aligned |
 | Dividend payout | Paying | $3.32/share, 24% payout | ✅ Growing |
-| OPM stability | Stable/Expanding | 41-46% range, expanding | ✅ Best-in-class |
+| EBIT Margin stability | Stable/Expanding | 42-46% range, expanding | ✅ Best-in-class |
 | Moat / Pricing Power | Identifiable | Ecosystem lock-in + cloud toll bridge | ✅ Wide & widening |
+| ROIC | >15% | ~30% (5Y avg) | ✅ Outstanding |
 | Earnings yield | Reasonable | 3.8% (1/PE of 26.4x) | ⚠️ Not cheap |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Narrative:** Microsoft passes virtually every Buffett quality filter with flying colours. The only caution is valuation — at 26x TTM earnings, the earnings yield of 3.8% is above the risk-free rate but not a deep-value screaming buy. The quality is unquestionable; the price requires scrutiny.
 
@@ -181,8 +191,8 @@ Total shareholder returns (buybacks + dividends) have averaged ~$44B/year over t
 |---|---|---|---|---|---|---|---|---|---|---|
 | Revenue ($B) | 56.5 | 62.0 | 61.9 | 64.7 | 65.6 | 69.6 | 70.1 | 76.4 | 77.7 | 81.3 |
 | YoY Growth | 13% | 18% | 17% | 15% | 16% | 12% | 13% | 18% | 18% | 17% |
-| Op Income ($B) | 26.9 | 27.0 | 27.6 | 27.9 | 30.6 | 31.7 | 32.0 | 34.2 | 38.0 | 38.3 |
-| OPM % | 47.6% | 43.5% | 44.6% | 43.1% | 46.6% | 45.5% | 45.6% | 44.8% | 48.9% | 47.1% |
+| EBIT ($B) | 26.9 | 27.0 | 27.6 | 27.9 | 30.6 | 31.7 | 32.0 | 34.2 | 38.0 | 38.3 |
+| EBIT Margin % | 47.6% | 43.5% | 44.6% | 43.1% | 46.6% | 45.5% | 45.6% | 44.8% | 48.9% | 47.1% |
 | Net Income ($B) | 22.3 | 21.9 | 21.9 | 22.0 | 24.7 | 24.1 | 25.8 | 27.2 | 27.7 | 30.9 |
 | EPS | $2.99 | $2.93 | $2.94 | $2.95 | $3.30 | $3.23 | $3.46 | $3.65 | $3.72 | $4.14 |
 
@@ -192,7 +202,7 @@ Total shareholder returns (buybacks + dividends) have averaged ~$44B/year over t
 
 **Revenue Trajectory:** Quarterly revenue has grown from ~$57B to ~$81B over two years — strong and accelerating, particularly in Q2'26 ($81.3B, +17% YoY). The AI/Azure tailwind is visible in the acceleration.
 
-**Margin Trend:** Operating margins are stable to expanding in the 44-49% range, with Q1'26 showing the highest OPM at 48.9%. Despite massive CapEx on AI infrastructure, margins are NOT compressing — the revenue growth is outpacing the cost increases.
+**Margin Trend:** EBIT margins are stable to expanding in the 44-49% range, with Q1'26 showing the highest EBIT Margin at 48.9%. Despite massive CapEx on AI infrastructure (which flows through D&A over subsequent years), margins are NOT compressing — the revenue growth is outpacing the cost increases. For Microsoft, since reported Operating Income is already post-D&A, the EBIT margin directly captures the impact of rising depreciation from the AI buildout — and margins are still expanding, confirming genuine scaling rather than EBITDA-masked capital consumption.
 
 **Normalised Quarterly EPS Run-Rate:** The most recent quarter (Q2'26, Dec 2025) delivered $4.14 EPS. Annualising this gives ~$16.56, above the TTM figure of $15.99 — confirming the earnings trajectory is accelerating, not just maintaining pace.
 
@@ -308,16 +318,18 @@ Microsoft possesses arguably the **widest and deepest moat in the technology ind
 
 **Revenue Scalability:** EXCELLENT. Microsoft's products have near-zero marginal cost for each additional user. Adding one more Microsoft 365 subscriber costs virtually nothing — no physical goods, no delivery, no incremental infrastructure beyond what's already provisioned. Azure has higher marginal cost (compute/storage) but achieves massive scale economies on data centre efficiency.
 
-**Profit Scalability — Incremental Margin Analysis:**
+**Profit Scalability — Incremental EBIT Margin Analysis:**
 
-| Period | ΔRevenue ($B) | ΔOp Income ($B) | Incremental OPM | vs. Current OPM |
+| Period | ΔRevenue ($B) | ΔEBIT ($B) | Incremental EBIT Margin* | vs. Current EBIT Margin |
 |---|---|---|---|---|
 | FY2021→FY2022 | 30.2 | 13.5 | 44.6% | Above 42.1% ✅ |
 | FY2022→FY2023 | 13.6 | 5.1 | 37.7% | Below 41.8% ⚠️ |
 | FY2023→FY2024 | 33.2 | 20.9 | 63.0% | Well Above 44.6% ✅✅ |
-| FY2024→FY2025 | 36.6 | 19.1 | 52.1% | Above 45.6% ✅ |
+| FY2024→FY2025 | 36.6 | 19.1 | 52.2% | Above 45.6% ✅ |
 
-Incremental margins are consistently above current margins (except FY2023, a deceleration year). FY2024 saw an extraordinary 63% incremental margin — meaning 63 cents of every new revenue dollar dropped to operating profit. This is elite scaling.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on EBITDA. This captures whether scaling is genuine or being eaten by rising capital consumption (D&A). For a company investing heavily in data centres (like Microsoft's AI buildout), EBITDA-based incremental margins would look even better — but they'd be masking the growing depreciation burden. The EBIT-based figure tells you the truth.*
+
+Incremental EBIT margins are consistently above current margins (except FY2023, a deceleration year). FY2024 saw an extraordinary 63% incremental EBIT margin — meaning 63 cents of every new revenue dollar dropped to operating profit after D&A. This is elite scaling, and importantly, it's measured AFTER accounting for the rising depreciation from the AI data centre buildout.
 
 **Capital Scalability:**
 
@@ -389,15 +401,23 @@ Azure's growth re-acceleration to 33% (FY2025) from 29% (FY2023) is entirely dri
 
 ## 14. VALUATION ANALYSIS — The Price You Pay Determines Your Return
 
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. A steel company and a software company with identical EBITDA but vastly different capital requirements look equally valued on EV/EBITDA — but the software company is genuinely cheaper. EV/EBIT and P/Owner Earnings are the multiples Buffett would use. **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying per dollar of real cash the business generates for its owner.
+
 | Metric | FY2016 | FY2018 | FY2020 | FY2022 | FY2023 | FY2024 | FY2025 | Current |
 |---|---|---|---|---|---|---|---|---|
+| **P/Owner Earnings** (primary) | 18.1x | 32.5x | 29.5x | 24.2x | 32.7x | 34.3x | 28.7x | **27.0x** |
+| **Owner Earnings Yield** | 5.5% | 3.1% | 3.4% | 4.1% | 3.1% | 2.9% | 3.5% | **3.7%** |
 | PE Ratio | 24.4x | 46.3x | 35.3x | 26.6x | 35.2x | 37.8x | 32.9x | **26.4x** |
 | P/B Ratio | 5.6x | 9.2x | 13.1x | 11.6x | 12.3x | 12.4x | 9.7x | **9.2x** |
 | P/FCF Ratio | 16.0x | 23.5x | 34.3x | 29.7x | 42.8x | 45.0x | 46.8x | **40.5x** |
-| EV/EBITDA | 11.7x | 15.4x | 22.4x | 19.3x | 24.2x | 25.1x | 20.3x | **16.6x** |
+| EV/EBIT | 16.2x | 19.9x | 27.9x | 22.6x | 28.0x | 30.2x | 25.7x | **21.6x** |
 | Earnings Yield | 4.1% | 2.2% | 2.8% | 3.8% | 2.8% | 2.6% | 3.0% | **3.8%** |
 | FCF Yield | 6.3% | 4.3% | 2.9% | 3.4% | 2.3% | 2.2% | 2.1% | **2.5%** |
 | Dividend Yield | 2.8% | 1.7% | 1.0% | 1.0% | 0.8% | 0.7% | 0.7% | **0.8%** |
+
+*P/Owner Earnings = Price / (Owner Earnings per share). Owner Earnings per share (OEPS) = Owner Earnings from Section 8 / Diluted Shares. Current OEPS = $15.63.*
+
+> **Note on P/Owner Earnings vs PE:** P/OE (27.0x) is slightly higher than PE (26.4x) because P/OE uses FY2025 Owner Earnings ($116.6B, ending June 2025) while PE uses TTM Net Income ($119.3B, ending Dec 2025) — the TTM period includes the stronger Jul-Dec 2025 quarters, making TTM EPS ($15.99) slightly higher than FY2025 OEPS ($15.63). On a like-for-like FY2025 basis, P/OE (27.0x) is significantly lower than FY2025 PE (30.9x = $422 / $13.64), confirming that Owner Earnings better captures the company's true economic earning power. P/FCF (40.5x) is much higher because reported FCF ($71.6B) is depressed by massive growth CapEx. P/Owner Earnings sits between PE and P/FCF and represents the truest picture of what you're paying for sustainable earnings power.
 
 **Historical Comparison:** At 26.4x TTM earnings, Microsoft is trading near the LOWER end of its last 5-year PE range (26-46x) and at the cheapest level since early 2023. This is despite the business fundamentally being STRONGER than it was at those higher multiples.
 
@@ -430,7 +450,15 @@ The Base Case assumes 13% Owner Earnings growth for years 1-5 (below the 18% his
 ## 16. REVERSE DCF — Napkin Math Reality Check
 
 **Inputs:**
-- CMP: $422 | TTM EPS (Normalised): $15.99 | Current PE: 26.4x
+
+| Input | Value | Source |
+|---|---|---|
+| Current Market Price (CMP) | $422.00 | Market data |
+| TTM EPS (Normalised) | $15.99 | StockAnalysis.com (GAAP) |
+| **Owner Earnings Per Share (OEPS)** | **$15.63** | Owner Earnings ($116.6B) / Diluted Shares (7,462M) |
+| Current PE (on Normalised EPS) | 26.4x | Calculated |
+| **Current P/OE (on OEPS)** | **27.0x** | CMP / OEPS — the Buffett-pure valuation multiple |
+| Shares Outstanding (Diluted) | 7,462M | Latest data |
 
 **Implied EPS CAGR Needed:**
 
@@ -462,14 +490,37 @@ The Base Case assumes 13% Owner Earnings growth for years 1-5 (below the 18% his
 | 5 Years | 8.7% | 13.6% | 18.6% |
 | 10 Years | 9.4% | 14.3% | 19.3% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** EPS can be misleading — a company can grow EPS by underinvesting in maintenance, financial engineering, or aggressive accounting. Owner Earnings strips all this out. If the EPS-based Reverse DCF says "the market needs 13% EPS growth" but the OEPS-based version says "the business needs 15% Owner Earnings growth," that gap means the business's capital intensity is higher than EPS suggests. Buffett: *"Accounting is the language of business, but like any language, it can be used to obfuscate rather than illuminate."*
+
+#### Implied OEPS CAGR Needed (at Terminal P/OE = 17x, Market Average)
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 20.7% OEPS CAGR needed | 26.1% | 31.6% |
+| 10 Years | 15.2% OEPS CAGR needed | 20.4% | 25.7% |
+| 15 Years | 13.4% OEPS CAGR needed | 18.6% | 23.8% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal Market Avg PE (20x) / P/OE (17x) | 10-Year, 10% Hurdle |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 13.1% | |
+| Implied OEPS CAGR (from Step 3B) | 15.2% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **+2.1 pp** | |
+
+**Interpretation:** The 2.1pp gap falls in the **2-5pp "moderate capital intensity"** band. This makes sense: Microsoft is in the middle of a massive AI data centre buildout ($65B CapEx in FY2025 alone), which means D&A is rising and will continue to rise — making the gap between EBIT/EPS and Owner Earnings metrics widen slightly. However, the gap is modest, confirming that Microsoft remains a predominantly asset-light business (software/subscriptions) with a temporary capital-intensive overlay (cloud infrastructure). The standard EPS-based Reverse DCF is directionally reliable but slightly optimistic; the OEPS figure of 15.2% is the more honest benchmark.
+
 ### Reality Check:
 
-| Benchmark | EPS CAGR |
-|---|---|
-| Historical 5Y EPS CAGR | 18.8% |
-| Historical 9Y EPS CAGR | 23.1% |
-| India Nominal GDP (for US context: ~7% US nominal GDP) | ~7% |
-| Analyst consensus FY2026-FY2028 EPS growth | ~15-18% |
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| US nominal GDP growth | ~7% | ~7% | Floor for a decent business |
+| Company's own historical 5Y EPS CAGR | 18.8% | — | What it has actually delivered |
+| Company's own historical 9Y EPS CAGR | 23.1% | — | Longer-term track record |
+| Company's own historical OE CAGR | — | 17.3% (5Y) / 20.3% (9Y) | Buffett-pure benchmark |
+| Analyst consensus FY2026-FY2028 EPS growth | ~15-18% | — | Market expectations |
 
 **Traffic Light Assessment:**
 
@@ -481,7 +532,9 @@ At the historical average terminal PE of 26x:
 At a mature terminal PE of 15x (severe PE compression):
 - **10% return** requires 16.4% EPS CAGR over 10 years → **🟡 YELLOW** — Achievable but requires the business to grow at historical pace AND the market to cut the multiple in half.
 
-**Verdict:** *"At the current price of $422, to earn a 10% annualised return over 10 years assuming the market values the business at 26x PE at exit, the company needs to grow EPS at 10.2% CAGR. The company has historically grown EPS at 18.8% CAGR (5Y) and 23.1% CAGR (9Y). This implies the market is pricing in very reasonable growth — the stock is NOT priced for perfection."*
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. At Terminal P/OE = 17x, the 10% hurdle requires 15.2% OEPS CAGR over 10 years. Microsoft has historically grown Owner Earnings at 17.3% (5Y) and 20.3% (9Y). The OEPS-based verdict is also **🟢 GREEN** — confirming the EPS-based assessment is not misleadingly optimistic. Both metrics agree: the price is reasonable.
+
+**Verdict:** *"At the current price of $422, to earn a 10% annualised return over 10 years assuming the market values the business at 26x PE at exit, the company needs to grow EPS at 10.2% CAGR (and Owner Earnings at 15.2% CAGR at a 17x terminal P/OE). The company has historically grown EPS at 18.8% CAGR and Owner Earnings at 17.3% CAGR (5Y). This implies the market is pricing in very reasonable growth — the stock is NOT priced for perfection. Note: the EPS-based assessment and the Owner Earnings assessment are both GREEN, confirming the business is asset-light enough that EPS is a reliable indicator."*
 
 ### Step 6: Asymmetric Upside Check
 
