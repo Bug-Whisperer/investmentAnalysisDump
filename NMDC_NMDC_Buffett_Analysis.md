@@ -48,11 +48,13 @@ The critical Buffett question is: **Does NMDC's cost advantage provide a durable
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 12,058 | 12,356 | **6,456** | 8,828 | 11,615 | 12,153 | 11,699 | 15,370 | **25,965** | 17,667 | 21,308 | 23,906 | 27,732 |
 | Revenue Growth YoY | — | 2.5% | **-47.8%** | 36.7% | 31.6% | 4.6% | -3.7% | 31.4% | **68.9%** | -32.0% | 20.6% | 12.2% | 19% |
-| Operating Profit (EBITDA) | **7,723** | 7,765 | **2,685** | 3,595 | 5,803 | 6,925 | 6,003 | 8,790 | **12,626** | 6,054 | 7,294 | 8,150 | 8,667 |
-| OPM % | **64%** | 63% | 42% | 41% | 50% | 57% | 51% | 57% | 49% | **34%** | 34% | 34% | 31% |
+| Operating Profit (pre-D&A) | **7,723** | 7,765 | **2,685** | 3,595 | 5,803 | 6,925 | 6,003 | 8,790 | **12,626** | 6,054 | 7,294 | 8,150 | 8,667 |
+| OPM % (pre-D&A) | **64%** | 63% | 42% | 41% | 50% | 57% | 51% | 57% | 49% | **34%** | 34% | 34% | 31% |
 | Other Income | 2,182 | 2,155 | 1,682 | 910 | 667 | 588 | 416 | 351 | 716 | 2,004 | 1,087 | 1,591 | 1,548 |
 | Interest | 2 | 0 | 66 | 21 | 37 | 40 | 10 | 17 | 39 | 75 | 78 | 178 | 135 |
 | Depreciation | 151 | 173 | 218 | 197 | 257 | 279 | 295 | 229 | 288 | 336 | 351 | 420 | 466 |
+| **EBIT** | **7,572** | 7,592 | **2,467** | 3,398 | 5,546 | 6,646 | 5,708 | 8,561 | **12,338** | 5,718 | 6,943 | 7,730 | 8,201 |
+| **EBIT Margin** | **62.8%** | 61.4% | **38.2%** | 38.5% | 47.7% | 54.7% | 48.8% | 55.7% | 47.5% | **32.4%** | 32.6% | 32.3% | 29.6% |
 | PBT | **9,753** | 9,747 | **4,084** | 4,287 | 6,176 | 7,194 | 6,114 | 8,896 | **13,016** | 7,646 | 7,952 | 9,143 | 9,614 |
 | Tax Rate | 34% | 34% | 34% | **40%** | 38% | 36% | 41% | 30% | **27%** | 28% | 30% | 28% | — |
 | Net Income | 6,371 | 6,351 | **2,544** | 2,543 | 3,808 | 4,617 | 3,573 | 6,277 | **9,429** | 5,601 | 5,567 | 6,520 | 6,900 |
@@ -76,7 +78,9 @@ The critical Buffett question is: **Does NMDC's cost advantage provide a durable
 
 The income statement reveals the classic signature of a **commodity cyclical business**. Revenue and profits swing wildly with iron ore prices — FY16 saw a 48% revenue crash and 60% profit collapse, while FY22 saw a 69% revenue surge and 50% profit jump. The 10Y profit CAGR of 0% is misleading — it reflects the high base of FY15 combined with the cyclical trough of FY23-24. The 5Y CAGR of 13% is more representative of the business's current trajectory.
 
-**OPM compression is the most concerning trend.** Margins have halved from 63-64% (FY14-15) to 34% (FY23-25). This partly reflects higher royalty and statutory levies (DMF contributions), rising employee costs, and the broader shift to auctioned mine leases that increases the government's revenue share. NMDC's cost structure is rising even as iron ore prices fluctuate. Net profit margins have similarly compressed from 52.8% to 27.3%.
+**OPM compression is the most concerning trend.** Pre-D&A operating margins (Screener's OPM) have halved from 63-64% (FY14-15) to 34% (FY23-25). EBIT margins tell an even sharper story — compressing from 62.8% to 32.3%, as rising depreciation from new capex compounds the operating cost pressure. This partly reflects higher royalty and statutory levies (DMF contributions), rising employee costs, and the broader shift to auctioned mine leases that increases the government's revenue share. NMDC's cost structure is rising even as iron ore prices fluctuate. Net profit margins have similarly compressed from 52.8% to 27.3%.
+
+> **Why EBIT, not EBITDA:** Screener.in's "Operating Profit" is an EBITDA-equivalent figure (pre-D&A). This analysis tracks both OPM (pre-D&A) for Screener comparability and EBIT Margin (post-D&A) as the Buffett-pure metric. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* EBIT captures the real cost of maintaining the mining asset base. For NMDC, the EBIT-OPM gap was negligible historically (~1-2pp when D&A was ₹150-200 Cr on ₹12,000+ Cr revenue) but has widened to ~2pp as D&A grows with the capex programme.
 
 The positive signal is volume growth — production grew from ~30-35 MT to 53 MT in FY26, partially offsetting margin compression through scale. Revenue has grown consistently over 5 years despite margin pressure.
 
@@ -96,7 +100,8 @@ Buffett: *"In a commodity business, it's virtually impossible to be a lot smarte
 | Fixed Assets | 1,366 | 1,468 | 2,058 | 2,095 | 3,457 | 3,512 | 3,810 | 3,933 | 3,662 | 3,199 | 3,377 | 5,038 | 5,074 |
 | CWIP | 5,297 | 7,801 | 9,747 | 11,855 | 12,545 | 13,819 | **15,530** | **17,158** | 1,333 | 1,998 | 3,235 | 4,737 | 5,309 |
 | D/E Ratio | **0.00** | 0.00 | 0.05 | 0.00 | 0.02 | 0.01 | 0.02 | 0.07 | 0.10 | 0.02 | 0.13 | **0.14** | 0.11 |
-| Debt/EBITDA | **0.00** | 0.00 | 0.56 | 0.00 | 0.09 | 0.05 | 0.09 | 0.23 | 0.14 | 0.07 | 0.46 | **0.52** | — |
+| Debt/EBIT | **0.00** | 0.00 | 0.61 | 0.00 | 0.09 | 0.05 | 0.10 | 0.23 | 0.15 | 0.07 | 0.48 | **0.55** | — |
+| Interest Coverage (EBIT/Int.) | **3,786x** | ∞ | 37x | 162x | 150x | 166x | 571x | 504x | 316x | 76x | 89x | **43x** | 61x |
 | BVPS (₹, post-bonus adj.) | 25.18 | **27.13** | 24.54 | 23.82 | 25.75 | 28.37 | 30.15 | 34.00 | **20.50** | 25.74 | 29.19 | 33.78 | 36.92 |
 
 *Note: BVPS adjusted for 2:1 bonus by dividing by adjusted shares (actual shares × 3 for pre-bonus years). The sharp equity drop in FY22 reflects the NMDC Steel demerger. Per media reports at the time of the demerger, ₹18,650 Cr of assets and ₹1,600 Cr of liabilities were transferred to NMDC Steel. The straight equity column drop on Screener is ₹11,866 Cr (₹29,884 → ₹18,018 Cr); however, this does not adjust for FY22 net income of ₹9,429 Cr and dividends of ₹4,337 Cr earned during the same year, making the implied equity transferred closer to ₹17,000 Cr. The exact reconciliation requires access to the demerger scheme document rather than Screener's annual snapshots. This was not a loss — shareholders received NMDC Steel shares in return.*
@@ -109,7 +114,7 @@ The massive CWIP buildup from ₹5,297 Cr (FY14) to ₹17,158 Cr (FY21) represen
 
 Buffett: *"We will reject interesting opportunities rather than over-leverage our balance sheet."*
 
-NMDC passes the financial fortress test with distinction. The D/E ratio has never exceeded 0.14x. Debt/EBITDA has never exceeded 0.56x. Interest coverage is extraordinarily high — over 40x even in the most leveraged recent year (FY25). The company has virtually no default risk. CRISIL rates NMDC "AAA/Stable" — the highest possible credit rating.
+NMDC passes the financial fortress test with distinction. The D/E ratio has never exceeded 0.14x. Debt/EBIT has never exceeded 0.61x. Interest coverage (EBIT-based) is extraordinarily high — over 43x even in the most leveraged recent year (FY25). The company has virtually no default risk. CRISIL rates NMDC "AAA/Stable" — the highest possible credit rating.
 
 **Additional Balance Sheet Metrics:**
 
@@ -119,8 +124,9 @@ NMDC passes the financial fortress test with distinction. The D/E ratio has neve
 | Tangible Book Value Per Share | ₹36.92 | Equals BVPS since there is zero goodwill/intangibles. |
 | Current Ratio (Sep 2025) | ~2.5x (est.) | Other Assets (₹30,890 Cr) vs Other Liabilities (₹6,380 Cr) + short-term borrowings. Comfortable. |
 | Net Debt (FY25) | ₹4,276 Cr | Gross borrowings; NMDC also holds cash/investments but not separately disclosed on Screener. |
+| Net Debt / Owner Earnings (FY25) | 0.66x | ₹4,276 Cr / ₹6,490 Cr Owner Earnings. Debt can be repaid from less than 1 year of true economic earnings. |
 
-The balance sheet's only concern is the rising borrowings trend (from zero to ₹4,276 Cr), driven by the capex programme for capacity expansion and a new coal mine. At current profitability levels, this is trivial — less than one year's net income and half a year's EBITDA. This is a fortress.
+The balance sheet's only concern is the rising borrowings trend (from zero to ₹4,276 Cr), driven by the capex programme for capacity expansion and a new coal mine. At current profitability levels, this is trivial — less than one year's net income and 0.66x Owner Earnings. This is a fortress.
 
 ---
 
@@ -170,7 +176,8 @@ Buffett on Owner Earnings: *"If you aren't willing to own a stock for ten years,
 | ROE % | 21.3 | 20.4 | **8.3** | 9.8 | 16.2 | 18.3 | 13.3 | 21.8 | **39.4** | 27.6 | 23.1 | 23.6 |
 | ROIC % | 16.7 | 15.5 | **5.3** | 9.0 | 13.8 | 16.1 | 11.9 | 18.8 | **45.4** | 17.9 | 16.8 | 16.4 |
 | D/E | **0.00** | 0.00 | 0.05 | 0.00 | 0.02 | 0.01 | 0.02 | 0.07 | 0.10 | 0.02 | 0.13 | **0.14** |
-| OPM % | **64** | 63 | 42 | 41 | 50 | 57 | 51 | 57 | 49 | **34** | 34 | 34 |
+| OPM % (pre-D&A, Screener) | **64** | 63 | 42 | 41 | 50 | 57 | 51 | 57 | 49 | **34** | 34 | 34 |
+| **EBIT Margin %** | **62.8** | 61.4 | **38.2** | 38.5 | 47.7 | 54.7 | 48.8 | 55.7 | 47.5 | **32.4** | 32.6 | 32.3 |
 | NPM % | **52.8** | 51.4 | 39.4 | 28.8 | 32.8 | 38.0 | 30.5 | 40.8 | 36.3 | 31.7 | **26.1** | 27.3 |
 | Debtor Days | **42** | 52 | 45 | 43 | 46 | 43 | 69 | 51 | 42 | 55 | 60 | **118** |
 | Inventory Days | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
@@ -191,14 +198,16 @@ Buffett on Owner Earnings: *"If you aren't willing to own a stock for ten years,
 | Positive Free Cash Flow | Positive | Positive in most years, lumpy | ⚠️ |
 | Promoter/Insider holding | Aligned | 60.79% (Govt. of India) | ✅ |
 | Dividend payout | Paying | ~48% avg, 3.7% yield | ✅ |
-| OPM stability | Stable | 34-64% range (commodity cyclical) | ⚠️ |
+| EBIT Margin stability | Stable | 32-63% range (commodity cyclical) | ⚠️ |
 | Moat / Pricing Power | Identifiable | Low-cost producer, resource monopoly | ⚠️ |
 | ROIC | >15% | 16.4% (FY25), range 5-45% | ✅ |
 | Earnings yield | Reasonable | 8.8% (vs. risk-free ~7%) | ✅ |
 
 **Score: 8 Pass, 4 Marginal, 0 Fail**
 
-The ratios reveal a business with **excellent returns on capital driven by a genuine cost advantage, not leverage.** D/E has never exceeded 0.14x — this is as unleveraged as a mining business can get. ROE and ROCE are consistently above cost of capital benchmarks. The marginal flags all stem from the same root cause: **commodity cyclicality.** Iron ore prices determine margins, which determines profit growth, which determines FCF. This is not a franchise business with pricing power — it is a low-cost commodity producer. The 12-year ratio range (14-50% ROCE, 34-64% OPM) tells the story: NMDC is a great business through the cycle, but individual years can look very different.
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
+The ratios reveal a business with **excellent returns on capital driven by a genuine cost advantage, not leverage.** D/E has never exceeded 0.14x — this is as unleveraged as a mining business can get. ROE and ROCE are consistently above cost of capital benchmarks. The marginal flags all stem from the same root cause: **commodity cyclicality.** Iron ore prices determine margins, which determines profit growth, which determines FCF. This is not a franchise business with pricing power — it is a low-cost commodity producer. The 12-year ratio range (14-50% ROCE, 32-63% EBIT Margin) tells the story: NMDC is a great business through the cycle, but individual years can look very different.
 
 The most alarming signal is the **debtor days surge to 118 in FY25** — nearly double the historical average of ~50 days. This suggests either a strategic shift in customer credit terms or collection challenges. It directly explains the OCF weakness in FY25 and warrants close monitoring.
 
@@ -211,16 +220,21 @@ The most alarming signal is the **debtor days surge to 118 in FY25** — nearly 
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 3,720 | **5,851** | 5,395 | **4,014** | 5,410 | 6,489 | 5,414 | 4,919 | 6,568 | 7,005 | 6,739 | 6,378 | **7,611** |
-| Operating Profit | 1,141 | 2,162 | 1,994 | **1,190** | 2,007 | 2,102 | **2,340** | **1,386** | 2,372 | 2,051 | 2,478 | 1,993 | 2,144 |
-| OPM % | 31 | 37 | 37 | **28** | 37 | 32 | **43** | 28 | 36 | 29 | 37 | 31 | 28 |
+| Operating Profit (pre-D&A) | 1,141 | 2,162 | 1,994 | **1,190** | 2,007 | 2,102 | **2,340** | **1,386** | 2,372 | 2,051 | 2,478 | 1,993 | 2,144 |
+| OPM % (pre-D&A) | 31 | 37 | 37 | **28** | 37 | 32 | **43** | 28 | 36 | 29 | 37 | 31 | 28 |
+| Depreciation (est.) | ~84 | ~84 | ~88 | ~88 | ~88 | ~88 | ~105 | ~105 | ~105 | ~105 | ~116 | ~116 | ~116 |
+| **EBIT** | 1,057 | 2,078 | 1,906 | **1,102** | 1,919 | 2,014 | **2,235** | **1,281** | 2,267 | 1,946 | 2,362 | 1,877 | 2,028 |
+| **EBIT Margin %** | 28.4 | 35.5 | 35.3 | **27.5** | 35.5 | 31.0 | **41.3** | **26.0** | 34.5 | 27.8 | 35.0 | 29.4 | 26.6 |
 | Net Profit | **914** | **2,272** | 1,653 | **1,026** | 1,482 | 1,410 | **1,969** | **1,205** | 1,880 | 1,477 | 1,968 | 1,698 | 1,757 |
 | EPS (₹, adj.) | 1.04 | **2.58** | 1.88 | **1.17** | 1.69 | 1.61 | **2.24** | **1.38** | 2.14 | 1.68 | 2.24 | 1.93 | 2.00 |
+
+*Quarterly depreciation is estimated by dividing annual D&A equally across quarters of each fiscal year (FY23: ₹336 Cr → ~₹84/Q, FY24: ₹351 Cr → ~₹88/Q, FY25: ₹420 Cr → ~₹105/Q, FY26E: ₹466 Cr → ~₹116/Q).*
 
 ### Key Observations
 
 1. **Revenue Trajectory:** Quarterly revenues show a consistent upward trend. Dec 2025 revenue of ₹7,611 Cr is the highest single quarter in NMDC's history, up ~16% YoY over Dec 2024 (₹6,568 Cr). This reflects higher volumes (FY26 production grew 21% to 53.15 MT) and firmer iron ore prices following NMDC's price hikes in October 2024 and April 2026.
 
-2. **Margin Trend — Seasonality Matters:** Margins are highly seasonal. Q4 (Mar quarter) and Q2 (Sep quarter) tend to show lower OPM (28-32%), while Q1 (Jun) and Q3 (Dec) tend to be stronger (36-43%). This reflects mining seasonality (monsoon disruptions in Q2, year-end production push in Q4 with associated costs). The last four quarters average OPM of ~31% represents the new normalised margin corridor, down from ~37% a year earlier.
+2. **Margin Trend — Seasonality Matters:** Margins are highly seasonal. Q4 (Mar quarter) and Q2 (Sep quarter) tend to show lower OPM (28-32%), while Q1 (Jun) and Q3 (Dec) tend to be stronger (36-43%). This reflects mining seasonality (monsoon disruptions in Q2, year-end production push in Q4 with associated costs). The last four quarters average OPM of ~31% represents the new normalised margin corridor, down from ~37% a year earlier. **EBIT margins show a similar pattern but with an additional drag**: the Dec 2025 EBIT margin (26.6%) is notably below the OPM (28%) by 1.4pp — the gap is widening as depreciation rises from the capacity expansion capex. Pre-D&A margins may look stable, but EBIT margins reveal that rising capital consumption is eating into true operating profitability. This is precisely the pattern that EBITDA-based analysis misses.
 
 3. **Normalised Quarterly EPS Run-Rate:** Stripping out seasonality, the average quarterly EPS over the last 4 quarters (Mar25-Dec25) is ₹1.96, implying an annualised EPS of ₹7.85 — which matches the TTM EPS. There are no significant one-time items distorting this figure. The quarterly run-rate appears sustainable.
 
@@ -373,19 +387,21 @@ Iron ore mining is a business with remarkable stability in how it operates — t
 
 **Revenue Scalability:** NMDC can grow revenue through two levers: (1) volume growth (new mines, capacity expansion), and (2) price appreciation (cyclical, not within NMDC's control). The marginal cost of producing the next tonne of iron ore from an existing mine is very low (incremental extraction from open-cast pits). However, adding NEW capacity requires significant upfront investment (new mines, infrastructure, railways, pipelines).
 
-**Profit Scalability — Incremental Operating Margin Analysis:**
+**Profit Scalability — Incremental EBIT Margin Analysis:**
 
-| Year | Revenue (₹ Cr) | Rev Growth | Op Profit (₹ Cr) | Op Profit Growth | Incremental OPM |
-|---|---|---|---|---|---|
-| FY21 | 15,370 | 31.4% | 8,790 | 46.4% | 75.9% |
-| FY22 | 25,965 | 68.9% | 12,626 | 43.6% | 36.2% |
-| FY23 | 17,667 | -32.0% | 6,054 | -52.1% | 79.2%* |
-| FY24 | 21,308 | 20.6% | 7,294 | 20.5% | 34.1% |
-| FY25 | 23,906 | 12.2% | 8,150 | 11.7% | 32.9% |
+| Year | Revenue (₹ Cr) | Rev Growth | EBIT (₹ Cr) | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|
+| FY21 | 15,370 | 31.4% | 8,561 | 50.0% | 55.7% | 77.7% |
+| FY22 | 25,965 | 68.9% | 12,338 | 44.1% | 47.5% | 35.6% |
+| FY23 | 17,667 | -32.0% | 5,718 | -53.7% | 32.4% | 79.8%** |
+| FY24 | 21,308 | 20.6% | 6,943 | 21.4% | 32.6% | 33.6% |
+| FY25 | 23,906 | 12.2% | 7,730 | 11.3% | 32.3% | 30.3% |
 
-*Negative revenue change with negative profit change — incremental margin computed on the decline.*
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If incremental EBIT margins are HIGHER than current EBIT margins, the business is scaling beautifully. If LOWER, it is hitting scaling friction or becoming more capital-intensive.*
 
-The incremental operating margins of 32-36% in FY24-FY25 are roughly equal to the current OPM of 34%. This tells us NMDC is a **linear scaler** — growth doesn't make the business more efficient. Each new tonne of iron ore earns roughly the same margin as the existing tonnes. This is typical for commodity producers — there is limited operating leverage once mines are mature.
+*\*\*Negative revenue change with negative EBIT change — incremental margin computed on the decline.*
+
+The incremental EBIT margins of 30-34% in FY24-FY25 are roughly equal to the current EBIT margin of 32%. This tells us NMDC is a **linear scaler** — growth doesn't make the business more efficient. Each new tonne of iron ore earns roughly the same margin as the existing tonnes. This is typical for commodity producers — there is limited operating leverage once mines are mature. Notably, the incremental EBIT margins (30-34%) are slightly BELOW the pre-D&A incremental margins (33-34%), confirming that the rising capex programme is adding a mild capital-intensity drag.
 
 **Capital Scalability:**
 
@@ -488,31 +504,33 @@ The equity actually DECLINED by ₹250 Cr over 12 years despite retaining ₹33,
 
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| **P/Owner Earnings** | — | — | — | — | — | — | — | — | — | — | — | — | **12.1** |
 | PE Ratio | — | — | — | — | — | — | — | — | — | — | — | — | **11.3** |
 | P/B Ratio | — | — | — | — | — | — | — | — | — | — | — | — | **2.41** |
-| EV/EBITDA | — | — | — | — | — | — | — | — | — | — | — | — | **9.5** |
+| EV/EBIT | — | — | — | — | — | — | — | — | — | — | — | — | **10.1** |
 | Earnings Yield | — | — | — | — | — | — | — | — | — | — | — | — | **8.8%** |
+| Owner Earnings Yield | — | — | — | — | — | — | — | — | — | — | — | — | **8.3%** |
 | Dividend Yield | — | — | — | — | — | — | — | — | — | — | — | — | **~3.7%** |
-| P/Owner Earnings | — | — | — | — | — | — | — | — | — | — | — | — | **12.1** |
 
-*Note: Historical PE/PB require historical market prices which are not available from Screener. Current valuations use CMP of ₹89, TTM EPS of ₹7.85, Sep 2025 BVPS of ₹36.92, and TTM EBITDA of ₹8,667 Cr.*
+*Note: Historical PE/PB require historical market prices which are not available from Screener. Current valuations use CMP of ₹89, TTM EPS of ₹7.85, Sep 2025 BVPS of ₹36.92, TTM EBIT of ₹8,201 Cr, and Owner Earnings of ₹6,490 Cr (OEPS ₹7.38). P/Owner Earnings (primary Buffett-pure multiple) = CMP / OEPS = 89 / 7.38 = 12.1x. EV/EBIT is included as a secondary cross-check for institutional comparability — Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets.*
 
 **Current Valuation Summary:**
 
 | Multiple | NMDC | India Mining Avg | Assessment |
 |---|---|---|---|
+| **P/Owner Earnings (Buffett-pure)** | 12.1x | — | Primary multiple; fair for a commodity business |
 | PE (TTM) | 11.3x | ~15-20x | Below sector average — appears cheap |
 | Forward PE (FY27E) | ~9-10x | ~12-15x | Based on analyst consensus EPS of ₹9-10; cheap |
 | P/B | 2.41x | ~2-3x | Fair, reflecting high ROE |
-| EV/EBITDA | 9.5x | ~8-12x | Fair |
+| EV/EBIT | 10.1x | ~8-12x | Fair |
 | Earnings Yield | 8.8% | — | Attractive vs. risk-free rate (~7%) |
+| Owner Earnings Yield | 8.3% | — | True cash return to the owner |
 | Dividend Yield | ~3.7% | ~2-3% | Above average |
 | PEG Ratio | ~0.82 | <1 is cheap | PE 11.3 / 5Y EPS CAGR 13.8 = 0.82; suggests undervaluation |
-| P/Owner Earnings | 12.1x | — | Fair for a commodity business |
 
 **Historical Comparison:** NMDC has historically traded in a PE range of 6-15x (reflecting commodity cyclicality and PSU discount). The current PE of 11.3x is in the middle-to-upper end of this historical range. The P/B of 2.41x is near the upper end of its historical 1.0-3.0x range, reflecting the current healthy ROE of 23.6%. NMDC has NOT sustainably traded above 3x P/B in the last decade.
 
-**Is the stock cheap on all metrics?** The PE and EV/EBITDA suggest moderate cheapness. The P/B, at 2.41x, is not cheap — it reflects the market's fair assessment of NMDC's current ROE. The earnings yield of 8.8% provides a reasonable margin above the risk-free rate. Overall, NMDC appears **fairly valued to slightly cheap** — not a screaming bargain, but not expensive either.
+**Is the stock cheap on all metrics?** The PE and EV/EBIT suggest moderate cheapness. The P/Owner Earnings at 12.1x (compared to PE of 11.3x) appears to show a 0.8x gap, but this is primarily a **time-base mismatch**: P/OE uses FY25 Owner Earnings (OEPS ₹7.38) while PE uses TTM earnings (EPS ₹7.85). On the same FY25 basis, PE would be 12.0x — making the true P/OE-vs-PE gap just 0.1x. This confirms that NMDC's Owner Earnings are virtually identical to reported Net Income (maintenance capex ≈ depreciation). The P/B, at 2.41x, is not cheap — it reflects the market's fair assessment of NMDC's current ROE. The Owner Earnings yield of 8.3% provides a reasonable margin above the risk-free rate. Overall, NMDC appears **fairly valued to slightly cheap** — not a screaming bargain, but not expensive either.
 
 Buffett: *"Price is what you pay, value is what you get."* At 11.3x earnings with a 23.6% ROE, you are getting a high-quality business at a reasonable price. The commodity nature of the business means the PE should be lower than franchise businesses (where 20-30x is justified). For a cyclical commodity producer, 10-12x is fair value.
 
@@ -564,8 +582,13 @@ The DCF analysis suggests **significant undervaluation across all scenarios.** E
 | CMP | ₹89.0 | Market data (Apr 21, 2026) |
 | TTM EPS (Normalised) | ₹7.85 | Screener TTM |
 | Current PE | 11.3x | CMP / EPS |
+| **Owner Earnings Per Share (OEPS)** | **₹7.38** | Owner Earnings ₹6,490 Cr (Section 8) / 879 Cr diluted shares |
+| **Current P/OE** | **12.1x** | CMP / OEPS — the Buffett-pure valuation multiple |
 | Shares Outstanding (Post-Bonus) | 879 Cr | Latest data |
 | Historical 5Y EPS CAGR | 13.8% | FY20 EPS ₹3.89 → FY25 EPS ₹7.43 |
+| Historical 5Y OE CAGR | 13.7% | FY20 OE ₹3,418 Cr → FY25 OE ₹6,490 Cr † |
+
+*† FY20 Owner Earnings use the same ₹450 Cr maintenance capex estimate as FY25. In FY20, when depreciation was only ₹295 Cr, actual maintenance capex was likely lower (~₹295-350 Cr). Using FY20 maintenance capex = depreciation (₹295 Cr) would give FY20 OE of ₹3,573 Cr and a 5Y OE CAGR of 12.7%. Both figures comfortably exceed the 6.9% OEPS hurdle required for a 10% return.*
 | Historical 10Y EPS CAGR | 3.4% | FY15 EPS ₹5.34 → FY25 EPS ₹7.43 |
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
@@ -594,14 +617,50 @@ The DCF analysis suggests **significant undervaluation across all scenarios.** E
 | 10 Years | 9.0% | 13.9% | 18.8% |
 | 15 Years | 9.2% | 14.1% | 19.0% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading: a company can grow EPS by underinvesting in maintenance, financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense. That's nonsense."* The same insight applies to EPS vs. Owner Earnings.
+
+**Formula:**
+```
+Required Future Price         = CMP × (1 + Hurdle Rate)^n
+Required Future OEPS          = Required Future Price / Terminal P/OE Multiple
+Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
+```
+
+> **Terminal P/OE = 16x** (Market Average). For NMDC, OE ≈ NI since maintenance capex roughly equals depreciation, so the P/OE terminal (16x) is close to — but slightly above — the PE terminal (15-20x range). For capital-heavy businesses where OE << NI, the gap would be much larger.
+
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 16x)
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 4.0% OEPS CAGR needed | 8.7% | 13.4% |
+| 10 Years | 6.9% OEPS CAGR needed | 11.8% | 16.7% |
+| 15 Years | 7.9% OEPS CAGR needed | 12.9% | 17.8% |
+
+#### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Terminal Market Avg (PE=20x / P/OE=16x) | 10-Year, 10% Return |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 3.9% | |
+| Implied OEPS CAGR (from Step 3B) | 6.9% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **3.0 pp** | |
+
+**Interpretation:** The 3.0 pp gap is **primarily an artifact of the terminal multiple spread** (PE = 20x vs P/OE = 16x), not of NMDC's capital intensity. NMDC's Owner Earnings are 99.5% of Net Income (₹6,490 Cr vs ₹6,520 Cr) — maintenance capex (₹450 Cr) roughly equals depreciation (₹420 Cr), making this one of the lowest capital-intensity gaps possible.
+
+**Cross-check confirming this:** Using closer terminal multiples (PE = 15x from Step 3 vs P/OE = 16x), the implied growth rates are 7.0% and 6.9% respectively — a gap of just 0.1 pp. The 3.0 pp gap disappears entirely when terminal multiples are paired at similar levels. This confirms that for NMDC, reported EPS is a reliable proxy for true Owner Earnings, and the EPS-based Reverse DCF in Step 3 can be trusted without the OEPS adjustment.
+
+For companies where OE << NI (e.g., capital-hungry industrials where maintenance capex significantly exceeds depreciation), this gap would persist even with paired multiples — and that is where the Divergence Test adds genuine insight. For NMDC, the test confirms the business is **asset-light enough that EPS ≈ OEPS**.
+
 ### Reality Check
 
-| Benchmark | EPS CAGR |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| NMDC 5Y historical EPS CAGR | 13.8% |
-| NMDC 10Y historical EPS CAGR | 3.4% |
-| Industry analyst consensus (FY26E) | ~10-15% |
+| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 8-10% (capital-heavy) / 10-12% (asset-light) | Floor for a decent business |
+| NMDC 5Y historical EPS CAGR | 13.8% | — | What it has actually delivered |
+| NMDC 5Y historical OE CAGR | — | 13.7% | Buffett-pure growth benchmark |
+| NMDC 10Y historical EPS CAGR | 3.4% | — | Longer-term track record |
+| Industry analyst consensus (FY26E) | ~10-15% | — | Market expectations |
 
 **Traffic Light Assessment:**
 
@@ -611,7 +670,9 @@ At a terminal PE of 15x (mild re-rating from current 11.3x), a 10% return requir
 
 🟢 **GREEN** — At the current price, the market is NOT demanding extraordinary growth. NMDC needs to deliver only modest EPS growth (7-9% CAGR) to justify a 10% return over 10 years. The implied growth is LESS than the company's historical CAGR and LESS than India's GDP growth. **The price is reasonable to cheap.**
 
-> *"At the current price of ₹89, to earn a 10% annualised return over 10 years assuming the market values NMDC at 15x PE at exit, the company needs to grow EPS at 7.0% CAGR. NMDC has historically grown EPS at ~14% CAGR over 5 years and 3.4% over 10 years. The market is pricing in conservative-to-moderate growth — well within the company's demonstrated capability."*
+> **OEPS Cross-Check:** The OEPS-based verdict (6.9% OEPS CAGR needed at P/OE=16x, 10Y, 10% return) is also 🟢 GREEN — well within NMDC's demonstrated 13.7% OE CAGR. Both EPS and OEPS verdicts align. The 3.0 pp gap between EPS and OEPS implied growth is entirely driven by the terminal multiple spread (PE 20x vs P/OE 16x), not by capital intensity — NMDC's OE/NI ratio of 99.5% confirms EPS is a reliable proxy for true economic earnings.
+
+> *"At the current price of ₹89, to earn a 10% annualised return over 10 years assuming the market values NMDC at 15x PE at exit, the company needs to grow EPS at 7.0% CAGR (and Owner Earnings at 6.9% CAGR at 16x terminal P/OE). NMDC has historically grown EPS at ~14% CAGR and Owner Earnings at ~14% CAGR over 5 years. The market is pricing in conservative-to-moderate growth — well within the company's demonstrated capability. The EPS and OEPS verdicts are aligned, confirming NMDC as an asset-light-enough business where reported EPS is a reliable proxy for true economic earnings."*
 
 ### Asymmetric Upside Check — Is This a Fat Pitch?
 
@@ -868,7 +929,7 @@ If anything, regulation **strengthens NMDC's moat**: higher royalties and DMF co
 |---|---|---|
 | Business Quality | 7 | Low-cost commodity producer; excellent margins but no pricing power |
 | Moat Durability | 6 | Real cost advantage + resource monopoly; narrowing as private captive mines expand |
-| Financial Health | 9 | D/E 0.14, Debt/EBITDA 0.52, AAA rated. Fortress balance sheet. |
+| Financial Health | 9 | D/E 0.14, Debt/EBIT 0.55, AAA rated. Fortress balance sheet. |
 | Management Quality | 5 | PSU limitations; steel plant was a misstep; execution on 100 MT plan is promising |
 | Valuation | 7 | PE 11.3x, P/B 2.41x — fair for a commodity PSU. Not cheap, not expensive. |
 | Margin of Safety | 7 | 34% MoS on conservative DCF. 8.8% earnings yield. Dividend yield 3.7%. |
