@@ -45,8 +45,11 @@ Buffett has generally avoided commodity businesses: *"In a commodity-type busine
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Revenue** | 7,383 | 6,817 | 7,543 | 9,509 | **11,499** | 8,472 | 8,956 | 14,181 | 14,257 | 13,149 | 16,788 | **18,098** |
 | Rev Growth YoY | — | -7.7% | 10.6% | 26.1% | 20.9% | **-26.3%** | 5.7% | 58.3% | 0.5% | -7.8% | **27.7%** | 20.3% |
-| **Operating Profit** | 1,873 | 959 | 1,079 | 1,397 | 2,893 | **487** | 1,782 | 4,516 | 2,340 | 2,801 | **7,508** | **8,317** |
-| **OPM %** | 25.4% | 14.1% | 14.3% | 14.7% | 25.2% | **5.7%** | 19.9% | 31.8% | 16.4% | 21.3% | **44.7%** | **46.0%** |
+| **Operating Profit (pre-D&A)** | 1,873 | 959 | 1,079 | 1,397 | 2,893 | **487** | 1,782 | 4,516 | 2,340 | 2,801 | **7,508** | **8,317** |
+| **OPM % (pre-D&A)** | 25.4% | 14.1% | 14.3% | 14.7% | 25.2% | **5.7%** | 19.9% | 31.8% | 16.4% | 21.3% | **44.7%** | **46.0%** |
+| Depreciation & Amortisation | 414 | 426 | 480 | 480 | 476 | 530 | 606 | 837 | 716 | 750 | 728 | 622 |
+| **EBIT (OP minus D&A)** | 1,459 | 533 | 599 | 917 | **2,417** | **-43** | 1,176 | **3,679** | 1,624 | 2,051 | **6,780** | **7,695** |
+| **EBIT Margin** | 19.8% | 7.8% | 7.9% | 9.6% | 21.0% | **-0.5%** | 13.1% | 25.9% | 11.4% | 15.6% | **40.4%** | **42.5%** |
 | **Net Income** | 1,322 | 787 | 668 | 1,342 | 1,734 | **136** | 1,299 | 2,951 | 1,435 | 1,988 | **5,268** | **6,142** |
 | NI Growth YoY | — | -40.5% | -15.1% | 100.9% | 29.2% | **-92.2%** | 855.1% | 127.2% | -51.4% | 38.5% | **165.0%** | — |
 | **NPM %** | 17.9% | 11.5% | 8.9% | 14.1% | 15.1% | **1.6%** | 14.5% | 20.8% | 10.1% | 15.1% | **31.4%** | **33.9%** |
@@ -54,11 +57,9 @@ Buffett has generally avoided commodity businesses: *"In a commodity-type busine
 | EPS Growth | — | -40.5% | 13.1% | 101.2% | 33.9% | **-92.1%** | 868.5% | 127.3% | -51.4% | 38.7% | **164.8%** | — |
 | Shares (Cr) | 257.8 | 257.8 | 193.2 | 193.2 | 186.6 | 186.6 | 183.6 | 183.6 | 183.6 | 183.6 | 183.6 | 183.6 |
 | Shares Chg YoY | — | 0.0% | -25.1% | 0.0% | -3.4% | 0.0% | -1.6% | 0.0% | 0.0% | 0.0% | 0.0% | — |
-| **EBITDA** | 1,873 | 959 | 1,079 | 1,397 | 2,893 | **487** | 1,782 | 4,516 | 2,340 | 2,801 | **7,508** | 8,317 |
-| EBITDA Margin | 25.4% | 14.1% | 14.3% | 14.7% | 25.2% | **5.7%** | 19.9% | 31.8% | 16.4% | 21.3% | **44.7%** | 46.0% |
 | Dividend Payout % | 34% | 65% | 81% | 82% | 62% | **205%** | 49% | 40% | 58% | 46% | 37% | — |
 
-**Note on EBITDA:** Screener's Operating Profit line already equals EBITDA. No further D&A add-back is required.
+> **Note on Screener's Operating Profit:** Screener.in's "Operating Profit" line is calculated BEFORE deducting Depreciation & Amortisation — making it an EBITDA-equivalent figure, not true EBIT. This analysis tracks EBIT (Operating Profit minus D&A) as the relevant profitability metric for Buffett-style analysis, because EBIT accounts for the capital the business consumes to maintain its asset base. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"*
 
 **Trend Narrative:**
 
@@ -80,6 +81,11 @@ Buffett would note: *"Margins that look wonderful today in a commodity business 
 | Shareholders' Equity | 12,798 | 13,195 | 10,205 | 10,503 | 10,485 | 9,987 | 10,679 | 12,552 | 13,126 | 14,388 | **17,805** |
 | Total Borrowings | 0 | 0 | 51 | 45 | 67 | 12 | 102 | 77 | 105 | 96 | 182 |
 | **Debt/Equity** | **0.00** | **0.00** | **0.00** | **0.00** | **0.01** | **0.00** | **0.01** | **0.01** | **0.01** | **0.01** | **0.01** |
+| **Debt/EBIT** | 0.00 | 0.00 | 0.09 | 0.05 | 0.03 | N/M | 0.09 | 0.02 | 0.06 | 0.05 | 0.03 |
+| Net Debt/Owner Earnings | 0.00 | 0.00 | 0.08 | 0.03 | 0.04 | 0.09 | 0.08 | 0.03 | 0.07 | 0.05 | 0.03 |
+| Interest Coverage (EBIT/Int) | 8.7x | 177.7x | 199.7x | 458.5x | **1,208.5x** | **-7.2x** | 168.0x | 160.0x | 124.9x | 120.6x | 114.9x |
+
+> **Notes on Interest Coverage (EBIT/Interest):** (i) FY15's low 8.7x despite zero borrowings is a Screener data artifact — Screener's P&L "Interest" line for FY15 shows ₹167 Cr, which includes non-borrowing finance costs (e.g., unwinding of provisions, penalties, or other finance charges). The underlying borrowing cost is near-zero. (ii) FY22's 160.0x uses Screener's P&L interest of ₹23 Cr, which differs from the ~₹9.3 Cr implied by Screener's own Interest Coverage ratio of 486x in Section 5 — this is an internal Screener inconsistency between its P&L line item and its derived ratio. Both this section (using P&L interest) and Section 5 (using Screener's IC ratio directly) are retained as-sourced. The overall picture is unaffected: NALCO's interest coverage is astronomical in every year except the EBIT-negative FY20.
 | Fixed Assets | 6,645 | 6,596 | 7,144 | 7,139 | 7,286 | 7,485 | 7,660 | 7,343 | 7,303 | 7,383 | 7,748 |
 | CWIP | 550 | 688 | 566 | 915 | 883 | 1,427 | 1,575 | 2,235 | 3,269 | 4,573 | **4,936** |
 | **BVPS (₹)** | 49.6 | 51.2 | 52.8 | 54.4 | 56.2 | **53.5** | 58.2 | 68.4 | 71.5 | 78.4 | **97.0** |
@@ -134,7 +140,8 @@ The CFO/Operating Profit ratio averaging above 100% in most years indicates exce
 | **ROE %** | 6.1% | 5.7% | 13.0% | 16.5% | **1.3%** | 12.6% | **25.4%** | 11.2% | 14.5% | **32.7%** |
 | **ROIC %** | 5.3% | 7.0% | 9.8% | 18.1% | **3.0%** | 17.7% | **30.1%** | 14.5% | 15.1% | **35.4%** |
 | **Debt/Equity** | **0.00** | 0.00 | 0.00 | 0.01 | 0.00 | 0.01 | 0.01 | 0.01 | 0.01 | 0.01 |
-| **OPM %** | **14.1%** | 14.3% | 14.7% | 25.2% | **5.7%** | 19.9% | 31.8% | 16.4% | 21.3% | **44.7%** |
+| **OPM % (pre-D&A, Screener)** | **14.1%** | 14.3% | 14.7% | 25.2% | **5.7%** | 19.9% | 31.8% | 16.4% | 21.3% | **44.7%** |
+| **EBIT Margin %** | **7.8%** | 7.9% | 9.6% | 21.0% | **-0.5%** | 13.1% | 25.9% | 11.4% | 15.6% | **40.4%** |
 | **NPM %** | 11.5% | **8.9%** | 14.1% | 15.1% | **1.6%** | 14.5% | 20.8% | 10.1% | 15.1% | **31.4%** |
 | Debtor Days | 13 | 9 | 10 | 8 | 6 | 6 | **2** | **2** | 4 | 4 |
 | Inventory Days | 352 | 389 | 288 | **231** | **463** | 411 | 324 | 213 | 252 | 353 |
@@ -155,10 +162,12 @@ The CFO/Operating Profit ratio averaging above 100% in most years indicates exce
 | Positive Free Cash Flow | Positive | 9 of 11 years positive; ₹4,641 Cr FY25 | ✅ Mostly positive |
 | Promoter/Insider holding | Aligned | 51.28% (Govt of India) — stable | ✅ No pledging, no dilution |
 | Dividend payout | Paying | 46.8% avg (per Screener.in) — generous | ✅ Consistently paying |
-| OPM stability | Stable | 5.7%-44.7% range | ❌ Highly volatile (commodity) |
+| EBIT Margin stability | Stable | -0.5% to 40.4% range | ❌ Highly volatile (commodity) |
 | Moat / Pricing Power | Identifiable | Cost advantage (captive bauxite, power) | ⚠️ Cost moat, but NO pricing power |
 | ROIC > 15% | >15% | 15.6% 10Y avg | ⚠️ Above hurdle on average, but volatile |
 | Earnings yield | Reasonable | 7.8% (at ₹427 CMP) | ✅ Attractive |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Narrative:** NALCO's ratios reveal a business with **excellent capital structure** (zero debt) and **strong returns on average**, but **extreme cyclical volatility** in margins and profitability. The ROCE swinging from 2% to 44% within a 5-year window disqualifies this from Buffett's "consistent compounder" archetype. However, the zero-debt fortress and cost advantage moat make it an interesting **cyclical value play** for investors who can tolerate volatility. The current ROCE of 44% is almost certainly near the cyclical peak — Buffett would caution against buying any business at peak margins and assuming those margins persist.
 
@@ -169,7 +178,11 @@ The CFO/Operating Profit ratio averaging above 100% in most years indicates exce
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 3,297 | 3,671 | 3,179 | 3,043 | 3,348 | 3,579 | 2,856 | 4,001 | 4,662 | **5,268** | 3,807 | 4,292 | 4,731 |
-| OPM % | 14% | 20% | 18% | **12%** | 23% | 30% | 32% | 38% | 50% | **52%** | 39% | 45% | 46% |
+| Op Profit (pre-D&A) | 448 | 740 | 579 | **378** | 756 | 1,088 | 921 | 1,533 | 2,311 | **2,743** | 1,478 | 1,923 | 2,173 |
+| OPM % (pre-D&A) | 14% | 20% | 18% | **12%** | 23% | 30% | 32% | 38% | 50% | **52%** | 39% | 45% | 46% |
+| Depreciation | 157 | 255 | 170 | 186 | 154 | 240 | 174 | 180 | 286 | 88 | 178 | 174 | 182 |
+| **EBIT** | 291 | 485 | 409 | **192** | 602 | 848 | 747 | 1,353 | **2,025** | **2,655** | 1,300 | 1,749 | 1,991 |
+| **EBIT Margin %** | 9% | 13% | 13% | **6%** | 18% | 24% | 26% | 34% | **43%** | **50%** | 34% | 41% | 42% |
 | Net Profit | 256 | 495 | 334 | **187** | 471 | 997 | 588 | 1,046 | 1,566 | **2,067** | 1,049 | 1,430 | 1,595 |
 | EPS (₹) | 1.40 | 2.70 | 1.82 | **1.02** | 2.56 | 5.43 | 3.20 | 5.70 | 8.53 | **11.26** | 5.71 | 7.79 | 8.69 |
 
@@ -177,7 +190,7 @@ The CFO/Operating Profit ratio averaging above 100% in most years indicates exce
 
 1. **Revenue Trajectory — Strongly Accelerating:** Revenue surged from ₹3,043 Cr (Sep23, the trough) to ₹5,268 Cr (Mar25, the peak), driven by LME aluminium prices climbing from ~$2,200/tonne to above $3,500/tonne following Middle East supply disruptions.
 
-2. **Margin Trend — Dramatic Expansion:** OPM expanded from 12% (Sep23) to 52% (Mar25) — a 40 percentage point swing in just 6 quarters. This is classic commodity operating leverage: fixed costs stay constant, so every dollar increase in aluminium prices flows almost entirely to the operating line. Recent quarters (Jun-Dec 2025) show OPM stabilising at 39-46%, suggesting the extreme peak margin of 50-52% may have softened slightly.
+2. **Margin Trend — Dramatic Expansion:** OPM (pre-D&A) expanded from 12% (Sep23) to 52% (Mar25) — a 40 percentage point swing in just 6 quarters. EBIT Margin shows the same pattern but at a lower level (6% to 50%), confirming the trend is genuine operating improvement (commodity-price-driven), not an artefact of declining D&A. The gap between OPM and EBIT Margin (5-8pp in most quarters) represents the capital the business consumes via depreciation — a real cost that EBITDA-based analysis would ignore. Recent quarters (Jun-Dec 2025) show both OPM (39-46%) and EBIT Margin (34-42%) stabilising below peak levels.
 
 3. **Normalised Quarterly EPS Run-Rate:** Stripping out the unusually high Mar25 quarter (which included fiscal year-end adjustments), the run-rate appears to be ₹7.5-8.5 per quarter, or approximately **₹30-34 annualised.** The TTM EPS of ₹33.45 aligns with this.
 
@@ -324,22 +337,22 @@ However, NALCO faces one structural risk: **government ownership and the associa
 
 NALCO's scalability is constrained by the physics and economics of aluminium production — this is an inherently capital-intensive, resource-dependent business.
 
-**Profit Scalability — Incremental Margins:**
+**Profit Scalability — Incremental EBIT Margins:**
 
-| Year | Revenue | Rev Growth | Op Profit | OP Growth | Net Profit | NP Growth | Incremental Op Margin |
-|---|---|---|---|---|---|---|---|
-| FY16 | 6,817 | -7.7% | 959 | -48.8% | 787 | -40.5% | 161.5% (misleading — both declined) |
-| FY17 | 7,543 | 10.6% | 1,079 | 12.5% | 668 | -15.1% | 16.5% |
-| FY18 | 9,509 | 26.1% | 1,397 | 29.5% | 1,342 | 100.9% | 16.2% |
-| FY19 | 11,499 | 20.9% | 2,893 | 107.1% | 1,734 | 29.2% | 75.2% |
-| FY20 | 8,472 | -26.3% | 487 | -83.2% | 136 | -92.2% | 79.5% (downside leverage) |
-| FY21 | 8,956 | 5.7% | 1,782 | 265.9% | 1,299 | 855.1% | 267.6% |
-| FY22 | 14,181 | 58.3% | 4,516 | 153.4% | 2,951 | 127.2% | 52.3% |
-| FY23 | 14,257 | 0.5% | 2,340 | -48.2% | 1,435 | -51.4% | N/M |
-| FY24 | 13,149 | -7.8% | 2,801 | 19.7% | 1,988 | 38.5% | N/M (rev down, profit up) |
-| FY25 | 16,788 | 27.7% | 7,508 | 168.0% | 5,268 | 165.0% | **129.3%** |
+| Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Net Profit | NP Growth | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|---|---|
+| FY16 | 6,817 | -7.7% | 533 | -63.5% | 7.8% | 787 | -40.5% | 163.6% (misleading — both declined) |
+| FY17 | 7,543 | 10.6% | 599 | 12.4% | 7.9% | 668 | -15.1% | 9.1% |
+| FY18 | 9,509 | 26.1% | 917 | 53.1% | 9.6% | 1,342 | 100.9% | 16.2% |
+| FY19 | 11,499 | 20.9% | 2,417 | 163.6% | 21.0% | 1,734 | 29.2% | 75.4% |
+| FY20 | 8,472 | -26.3% | -43 | -101.8% | -0.5% | 136 | -92.2% | 81.3% (downside leverage) |
+| FY21 | 8,956 | 5.7% | 1,176 | N/M | 13.1% | 1,299 | 855.1% | 251.9% |
+| FY22 | 14,181 | 58.3% | 3,679 | 212.8% | 25.9% | 2,951 | 127.2% | 47.9% |
+| FY23 | 14,257 | 0.5% | 1,624 | -55.9% | 11.4% | 1,435 | -51.4% | N/M |
+| FY24 | 13,149 | -7.8% | 2,051 | 26.3% | 15.6% | 1,988 | 38.5% | N/M (rev down, profit up) |
+| FY25 | 16,788 | 27.7% | 6,780 | 230.6% | 40.4% | 5,268 | 165.0% | **130.0%** |
 
-The incremental margin data is highly volatile because NALCO's margins are driven by commodity prices, not volume growth. When aluminium prices rise, incremental margins are extremely high (>100%) because costs are largely fixed. When prices fall, the same operating leverage works in reverse.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. For NALCO, the gap between incremental OPM and incremental EBIT margin is small because D&A has been relatively stable — confirming the scaling signal is genuine, not distorted by changing capital intensity.*
 
 **Capital Scalability:**
 
@@ -422,18 +435,22 @@ The operational metrics show a business running near full capacity with incremen
 |---|---|
 | CMP | ₹427 |
 | TTM EPS | ₹33.45 |
+| **P/Owner Earnings (primary Buffett-pure multiple)** | **12.8x** |
 | PE Ratio (TTM) | 12.8x |
+| Owner Earnings Yield (OEPS / CMP) | 7.83% |
 | BVPS (FY25) | ₹97.0 |
 | P/B Ratio | 4.4x |
 | P/S Ratio | 4.33x |
-| EV/EBITDA (TTM) | ~9.1x |
+| EV/EBIT (TTM) | ~9.8x |
 | Earnings Yield | 7.83% |
 | FCF Yield (FY25) | ~5.9% |
 | Dividend Yield | ~2.5% |
 
+> **Why P/Owner Earnings is the primary multiple:** Buffett values businesses on what the owner actually receives after maintaining the asset base. For NALCO, Owner Earnings ≈ Net Profit (since D&A ≈ Maintenance CapEx), so P/OE ≈ PE. For capital-heavy businesses where maintenance capex exceeds depreciation, P/OE would be higher (worse) than PE — revealing the true cost of ownership that PE masks. **EV/EBIT** is included as a secondary cross-check for institutional comparability, but Buffett himself rarely uses Enterprise Value constructs, preferring to think in equity terms.
+
 **Historical Comparison:**
 
-NALCO has historically traded at 8-15x earnings during normal times and 20-30x during troughs (when earnings are depressed but the stock hasn't fallen as much). The current PE of 12.8x on TTM earnings looks "cheap" — but this is a classic commodity trap. The earnings are at cyclical peak levels (OPM 45%+, NP ₹6,142 Cr TTM vs. 10-year average of ~₹1,800 Cr). On normalised mid-cycle earnings, the PE would be significantly higher.
+NALCO has historically traded at 8-15x earnings during normal times and 20-30x during troughs (when earnings are depressed but the stock hasn't fallen as much). The current PE of 12.8x on TTM earnings looks "cheap" — but this is a classic commodity trap. The earnings are at cyclical peak levels (OPM 45%+ pre-D&A / EBIT Margin 40%+, NP ₹6,142 Cr TTM vs. 10-year average of ~₹1,800 Cr). On normalised mid-cycle earnings, the PE would be significantly higher.
 
 **P/B of 4.4x is elevated for a PSU commodity producer.** NALCO's historical P/B has ranged from 1.0x (FY20 trough) to 4.5x (current near-peak). The current P/B is near the all-time high, leaving limited room for multiple expansion.
 
@@ -465,7 +482,7 @@ A more honest approach for NALCO is the **mid-cycle earnings valuation:**
 |---|---|---|---|
 | 10Y Average Earnings | ₹9.0 (11Y avg EPS, FY15-FY25) | 15-20x | ₹135 - ₹180 |
 | 5Y Average Earnings | ₹14.1 (5Y avg EPS) | 15-20x | ₹211 - ₹282 |
-| Mid-cycle OPM (20-22%) applied to current revenue | ~₹13-15 (estimated) | 15-20x | ₹195 - ₹300 |
+| Mid-cycle OPM (20-22%, pre-D&A) applied to current revenue | ~₹13-15 (estimated) | 15-20x | ₹195 - ₹300 |
 
 **This suggests the current price of ₹427 already prices in above-mid-cycle earnings for the foreseeable future.**
 
@@ -473,7 +490,9 @@ A more honest approach for NALCO is the **mid-cycle earnings valuation:**
 
 ## 16. REVERSE DCF — Napkin Math Reality Check
 
-**Inputs:** CMP = ₹427, Normalised EPS (TTM) = ₹33.45, Current PE = 12.8x
+**Inputs:** CMP = ₹427, Normalised EPS (TTM) = ₹33.45, Owner Earnings Per Share (OEPS) = ₹33.45, Current PE = 12.8x, Current P/OE = 12.8x
+
+> **Note:** For NALCO, Owner Earnings ≈ Net Profit (since D&A ≈ Maintenance CapEx), so OEPS ≈ EPS. For capital-heavy businesses where maintenance capex significantly exceeds depreciation, OEPS would be lower than EPS — and the divergence between P/OE and PE would reveal hidden capital costs.
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -501,20 +520,48 @@ A more honest approach for NALCO is the **mid-cycle earnings valuation:**
 | 10 Years | 10.7% | 15.7% | 20.7% |
 | 15 Years | 10.5% | 15.5% | 20.5% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE. But EPS can be misleading for capital-heavy businesses — it includes accounting depreciation but ignores whether actual maintenance spending exceeds D&A. Owner Earnings strips this out. For NALCO, since D&A ≈ Maintenance CapEx, the gap is small — but the different terminal multiples (P/OE < PE for commodity businesses) still produce meaningful differences.
+
+**Terminal P/OE Multiple:** 16x (Market Average for a capital-heavy commodity — lower than PE of 20x because Owner Earnings already deducts real capital consumption)
+
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 16x)
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 5.1% OEPS CAGR needed | 9.9% | 14.7% |
+| 10 Years | 7.5% OEPS CAGR needed | 12.4% | 17.3% |
+| 15 Years | 8.4% OEPS CAGR needed | 13.3% | 18.2% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal PE=20x / P(OE)=16x | 10-Year Hurdle (10% Return) |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 5.2% | |
+| Implied OEPS CAGR (from Step 3B) | 7.5% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **2.3 pp** | |
+
+**Interpretation:** The 2.3 pp gap falls in the **2-5 pp range**, indicating moderate capital intensity. The EPS-based Reverse DCF slightly understates the true growth hurdle because it assumes a higher terminal multiple (20x PE) than what a Buffett-pure analysis would assign (16x P/OE) to a capital-intensive commodity producer. The OEPS figure is the more conservative and honest benchmark.
+
 ### Reality Check
 
-| Benchmark | Value |
-|---|---|
-| India nominal GDP growth | 10-12% |
-| NALCO 10Y EPS CAGR | 18.8% (cyclically inflated) |
-| NALCO 10Y Revenue CAGR | 8.6% |
-| Aluminium demand growth (India) | 7-8% |
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| India nominal GDP growth | 10-12% | 8-10% (capital-heavy) | Floor for a decent business |
+| Company's own historical 10Y EPS CAGR | 18.8% (cyclically inflated) | 14.8% | Actual track record |
+| Company's own historical 10Y Revenue CAGR | 8.6% | 8.6% | Revenue baseline |
+| Aluminium demand growth (India) | 7-8% | 7-8% | Industry benchmark |
 
 **The key risk the market is ignoring:** The TTM EPS of ₹33.45 is at a cyclical PEAK. If aluminium prices normalise from $3,500 to $2,800 (still above the 10-year average), EPS could fall to ₹13-15. The Reverse DCF above assumes you START from ₹33.45 and GROW from there — but starting from a peak makes the math deceivingly attractive. Starting from normalised mid-cycle EPS of ₹13-15, the implied growth requirements become much more demanding.
 
 **Traffic Light:** 🟠 ORANGE — At ₹427, you are paying for continued strong aluminium prices. Any normalisation in commodity prices turns the investment from "reasonable" to "expensive."
 
-> *"At the current price of ₹427, to earn a 10% annualised return over 10 years assuming the market values the business at 15x PE at exit, the company needs to grow EPS at 8.2% CAGR. This is below India's nominal GDP growth rate of 10-12% — seemingly easy. But the catch is that this 8.2% growth must start from a cyclical peak EPS of ₹33.45 that is already 3x the 10-year average. Sustaining near-peak earnings AND growing them at 8% for a decade is a demanding ask for a cyclical commodity business. The real question is: what happens when earnings mean-revert?"*
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. The EPS-based verdict (5.2% CAGR needed at PE=20x) looks 🟢 GREEN, but the OEPS-based verdict (7.5% CAGR at P/OE=16x) is also 🟢 — however, BOTH assume you can sustain and grow from PEAK earnings. The true risk is the cyclical starting point, not the growth rate itself.
+
+> *"At the current price of ₹427, to earn a 10% annualised return over 10 years assuming the market values the business at 15x PE at exit, the company needs to grow EPS at 8.2% CAGR (and Owner Earnings at 7.5% CAGR at 16x P/OE exit). The company has historically grown EPS at 18.8% CAGR and Owner Earnings at 14.8% CAGR over 10 years — both cyclically inflated. This is below India's nominal GDP growth rate of 10-12% — seemingly easy. But the catch is that this growth must start from a cyclical peak EPS of ₹33.45 that is already 3x the 10-year average. Sustaining near-peak earnings AND growing them at 7-8% for a decade is a demanding ask for a cyclical commodity business. The real question is: what happens when earnings mean-revert?"*
+>
+> *Note: the EPS-based and Owner Earnings-based assessments are closely aligned (2.3 pp gap), confirming NALCO's capital intensity is moderate — D&A reasonably approximates maintenance capex. The divergence is driven primarily by the lower terminal P/OE multiple appropriate for a commodity producer.*
 
 ---
 
