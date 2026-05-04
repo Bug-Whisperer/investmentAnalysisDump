@@ -29,19 +29,22 @@ Buffett: *"The key to investing is determining the competitive advantage of any 
 | Rev Growth % | N/A | 30.8% | 30.9% | 20.4% | **37.6%** | 21.7% | **9.4%** | 11.8% | 11.0% | 12.4% |
 | Gross Profit ($M) | **47,722** | 65,932 | 93,731 | 114,986 | 152,757 | 197,478 | 225,152 | 270,046 | 311,671 | **360,510** |
 | Gross Margin % | **35.1%** | 37.1% | 40.2% | 41.0% | 39.6% | 42.0% | 43.8% | 47.0% | 48.9% | **50.3%** |
-| Operating Income ($M) | 4,186 | **4,106** | 12,421 | 14,541 | 22,899 | 24,879 | 12,248 | 36,852 | 68,593 | **79,975** |
-| Operating Margin % | 3.1% | **2.3%** | 5.3% | 5.2% | 5.9% | 5.3% | 2.4% | 6.4% | 10.8% | **11.2%** |
+| Operating Profit (pre-D&A) ($M) | **12,302** | 15,584 | 27,762 | 35,826 | 48,079 | 59,312 | 54,169 | 85,515 | 121,388 | **145,731** |
+| OPM % (pre-D&A) | 9.1% | **8.8%** | 11.9% | 12.8% | 12.4% | 12.6% | 10.5% | 14.9% | 19.0% | **20.3%** |
+| Depreciation & Amortisation ($M) | **8,116** | 11,478 | 15,341 | 21,285 | 25,180 | 34,433 | 41,921 | 48,663 | 52,795 | **65,756** |
+| EBIT ($M) | 4,186 | **4,106** | 12,421 | 14,541 | 22,899 | 24,879 | 12,248 | 36,852 | 68,593 | **79,975** |
+| EBIT Margin % | 3.1% | **2.3%** | 5.3% | 5.2% | 5.9% | 5.3% | 2.4% | 6.4% | 10.8% | **11.2%** |
 | Net Income ($M) | 2,371 | 3,033 | 10,073 | 11,588 | 21,331 | 33,364 | **-2,722** | 30,425 | 59,248 | **77,670** |
 | NI Growth % | N/A | 27.9% | **232.1%** | 15.0% | 84.1% | 56.4% | **-108.2%** | N/A | 94.7% | 31.1% |
 | Profit Margin % | 1.7% | 1.7% | 4.3% | 4.1% | 5.5% | 7.1% | **-0.5%** | 5.3% | 9.3% | **10.8%** |
 | EPS (Diluted) $ | 0.24 | 0.30 | 0.98 | 1.11 | 2.02 | 3.24 | **-0.27** | 2.90 | 5.53 | **7.17** |
 | EPS Growth % | N/A | 25.0% | **226.7%** | **13.3%** | 82.0% | 60.4% | N/A | N/A | 90.7% | 29.7% |
 | Shares Out (M) | **10,053** | 10,142 | 10,268 | 10,398 | 10,544 | 10,296 | 10,189 | 10,492 | 10,721 | **10,827** |
-| EBITDA ($M) | **12,302** | 15,584 | 27,762 | 35,826 | 48,079 | 59,312 | 54,169 | 85,515 | 121,388 | **145,731** |
-| EBITDA Margin % | 9.1% | **8.8%** | 11.9% | 12.8% | 12.4% | 12.6% | 10.5% | 14.9% | 19.0% | **20.3%** |
 | SBC ($M) | **2,975** | 4,215 | 5,418 | 6,864 | 9,208 | 12,757 | 19,621 | **24,023** | 22,011 | 19,467 |
 
-**Trend Narrative:** Amazon's story over the last decade is one of a business transitioning from a "growth at all costs" retailer into a high-margin technology company. Revenue has grown from $136B in 2016 to $717B in 2025 — a 5.3x increase. But the real story is in margins: operating margins expanded from 3.1% in 2016 to 11.2% in 2025 — a near-quadrupling. Net income went from $2.4B to $77.7B. This is the classic Bezos playbook: invest aggressively for years, build an unassailable competitive position, and then harvest the margins. The 2022 dip (net loss of $2.7B) was driven by a $12.7B write-down on Rivian equity investment and COVID-era over-hiring, not operational deterioration. The recovery in 2023-2025 has been remarkable — earnings power has structurally shifted higher.
+**Trend Narrative:** Amazon's story over the last decade is one of a business transitioning from a "growth at all costs" retailer into a high-margin technology company. Revenue has grown from $136B in 2016 to $717B in 2025 — a 5.3x increase. But the real story is in margins: EBIT margins expanded from 3.1% in 2016 to 11.2% in 2025 — a near-quadrupling. Net income went from $2.4B to $77.7B. This is the classic Bezos playbook: invest aggressively for years, build an unassailable competitive position, and then harvest the margins. The 2022 dip (net loss of $2.7B) was driven by a $12.7B write-down on Rivian equity investment and COVID-era over-hiring, not operational deterioration. The recovery in 2023-2025 has been remarkable — earnings power has structurally shifted higher.
+
+> **Why EBIT, Not EBITDA:** This analysis tracks EBIT (Operating Income after D&A) rather than EBITDA as the primary operating profitability metric. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* EBITDA pretends the $65.8B Amazon spent on depreciation in 2025 was free — it wasn't. EBIT captures the real operating profit after accounting for capital consumed. For valuation, this analysis uses Owner Earnings (Section 8) and EBIT-based multiples — never EBITDA-based multiples.
 
 Buffett: *"The best business is a royalty on the growth of others, requiring little capital itself."* AWS is exactly this — a royalty on the digital transformation of every industry.
 
@@ -60,9 +63,12 @@ Buffett: *"The best business is a royalty on the growth of others, requiring lit
 | Goodwill ($M) | **3,784** | 13,350 | 14,548 | 14,754 | 15,017 | 15,371 | 20,288 | 22,789 | 23,074 | **23,273** |
 | BVPS ($) | **1.92** | 2.73 | 4.24 | 5.97 | 8.86 | 13.43 | 14.33 | 19.24 | 26.67 | **37.97** |
 | Debt/Equity | 0.40 | **0.89** | 0.54 | 0.38 | 0.34 | 0.35 | 0.46 | 0.29 | 0.18 | **0.16** |
+| Debt/EBIT | 1.84 | **6.03** | 1.89 | 1.61 | 1.39 | 1.96 | **5.48** | 1.58 | **0.77** | 0.82 |
+| Net Debt/Owner Earnings | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash | Net Cash |
+| Interest Coverage (EBIT/Int Exp) | 8.7x | **4.8x** | 8.8x | 9.1x | 13.9x | 13.8x | 5.2x | 11.6x | 28.5x | **35.2x** |
 | Current Ratio | 1.04 | 1.04 | 1.10 | 1.10 | 1.05 | **1.14** | **0.94** | 1.05 | 1.06 | 1.05 |
 
-**Financial Fortress Assessment:** Amazon sits on $123.0B of cash and short-term investments against $65.6B in long-term debt — a **net cash position of $57.4B**. Even the gross LT debt of $65.6B represents just 5.6 months of Amazon's $139.5B annual operating cash flow — trivial for a business of this scale. The current ratio of 1.05x is healthy. Shareholders' equity has grown from $19.3B to $411.1B over the decade — a 21x increase — reflecting massive retained earnings accumulation. This is a financial fortress by any standard.
+**Financial Fortress Assessment:** Amazon sits on $123.0B of cash and short-term investments against $65.6B in long-term debt — a **net cash position of $57.4B**. Debt/EBIT of just 0.82x means the entire LT debt could be repaid from less than one year of operating profits. Net Debt/Owner Earnings is not applicable — Amazon has net cash in every single year. Interest coverage of 35.2x (EBIT / Interest Expense) is fortress-grade. Even the gross LT debt of $65.6B represents just 5.6 months of Amazon's $139.5B annual operating cash flow — trivial for a business of this scale. The current ratio of 1.05x is healthy. Shareholders' equity has grown from $19.3B to $411.1B over the decade — a 21x increase — reflecting massive retained earnings accumulation. This is a financial fortress by any standard.
 
 Buffett: *"We will reject interesting opportunities rather than over-leverage our balance sheet."* Amazon has maintained financial discipline even while investing aggressively — $132B in CapEx in 2025 alone, mostly for AWS data centres and logistics.
 
@@ -98,7 +104,8 @@ Buffett: *"Owner earnings are the relevant item for valuation purposes — not r
 | ROE % | 12.3% | 12.9% | 28.3% | 21.9% | 27.4% | **28.8%** | **-1.9%** | 17.5% | 24.3% | 22.3% |
 | ROIC % | 34.7% | 16.7% | 46.2% | 42.9% | **56.6%** | 33.0% | **8.3%** | 18.9% | 28.9% | 21.8% |
 | Debt/Equity | 0.40 | **0.89** | 0.54 | 0.38 | 0.34 | 0.35 | 0.46 | 0.29 | 0.18 | **0.16** |
-| OPM % | 3.1% | **2.3%** | 5.3% | 5.2% | 5.9% | 5.3% | 2.4% | 6.4% | 10.8% | **11.2%** |
+| OPM % (pre-D&A) | 9.1% | **8.8%** | 11.9% | 12.8% | 12.4% | 12.6% | 10.5% | 14.9% | 19.0% | **20.3%** |
+| EBIT Margin % | 3.1% | **2.3%** | 5.3% | 5.2% | 5.9% | 5.3% | 2.4% | 6.4% | 10.8% | **11.2%** |
 | NPM % | 1.7% | 1.7% | 4.3% | 4.1% | 5.5% | 7.1% | **-0.5%** | 5.3% | 9.3% | **10.8%** |
 | Current Ratio | 1.04 | 1.04 | 1.10 | 1.10 | 1.05 | **1.14** | **0.94** | 1.05 | 1.06 | 1.05 |
 | Interest Coverage | 8.7x | **4.8x** | 8.8x | 9.1x | 13.9x | 13.8x | 5.2x | 11.6x | 28.5x | **35.2x** |
@@ -115,11 +122,13 @@ Buffett: *"Owner earnings are the relevant item for valuation purposes — not r
 | Positive Free Cash Flow | Positive | $7.7B (capex-heavy year) | ⚠️ |
 | Insider holding | Aligned | ~9% (Bezos) | ✅ |
 | Dividend payout | Paying | 0% (reinvests all) | ⚠️ |
-| OPM trend | Expanding | 2.4%-11.2% (5Y, strong uptrend) | ⚠️ |
+| EBIT Margin trend | Expanding | 2.4%-11.2% (5Y, strong uptrend) | ⚠️ |
 | Moat / Pricing Power | Identifiable | Flywheel + AWS lock-in | ✅ |
 | Earnings yield | Reasonable | 2.9% | ✅ |
 
-**Narrative:** The ratio trends reveal a business that has undergone a structural transformation. ROE and ROCE were modest in the early years (Amazon was reinvesting everything), but have surged to elite levels post-2023 as the margin expansion kicked in. The moat signal is unmistakable: a business that can grow revenue at 12% while expanding operating margins from 2.4% to 11.2% in three years has extraordinary pricing power and operating leverage. The only yellow flags are the lack of dividends (understandable for a company with vast reinvestment opportunities) and volatile FCF (driven by investment choices, not operational weakness).
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
+**Narrative:** The ratio trends reveal a business that has undergone a structural transformation. ROE and ROCE were modest in the early years (Amazon was reinvesting everything), but have surged to elite levels post-2023 as the margin expansion kicked in. The moat signal is unmistakable: a business that can grow revenue at 12% while expanding EBIT margins from 2.4% to 11.2% in three years has extraordinary pricing power and operating leverage. The only yellow flags are the lack of dividends (understandable for a company with vast reinvestment opportunities) and volatile FCF (driven by investment choices, not operational weakness).
 
 ---
 
@@ -128,8 +137,11 @@ Buffett: *"Owner earnings are the relevant item for valuation purposes — not r
 | Metric | Sep'23 | Dec'23 | Mar'24 | Jun'24 | Sep'24 | Dec'24 | Mar'25 | Jun'25 | Sep'25 | Dec'25 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Revenue ($M) | **143,083** | 169,961 | 143,313 | 147,977 | 158,877 | 187,792 | 155,667 | 167,702 | 180,169 | **213,386** |
-| Op Income ($M) | **11,188** | 13,209 | 15,307 | 14,769 | 17,411 | 21,203 | 18,405 | 19,171 | 17,422 | **24,977** |
-| OPM % | 7.8% | **7.8%** | 10.7% | 10.0% | 11.0% | 11.3% | **11.8%** | 11.4% | 9.7% | 11.7% |
+| Operating Profit (pre-D&A) ($M) | **23,354** | 25,706 | 27,955 | 27,702 | 30,575 | 35,253 | 32,794 | 34,071 | 33,889 | **44,977** |
+| OPM % (pre-D&A) | **16.3%** | 15.1% | 19.5% | 18.7% | 19.2% | 18.8% | **21.1%** | 20.3% | 18.8% | **21.1%** |
+| Depreciation ($M) | **12,166** | 12,497 | 12,648 | 12,933 | 13,164 | 14,050 | 14,389 | 14,900 | 16,467 | **20,000** |
+| EBIT ($M) | **11,188** | 13,209 | 15,307 | 14,769 | 17,411 | 21,203 | 18,405 | 19,171 | 17,422 | **24,977** |
+| EBIT Margin % | 7.8% | **7.8%** | 10.7% | 10.0% | 11.0% | 11.3% | **11.8%** | 11.4% | 9.7% | 11.7% |
 | Net Income ($M) | **9,879** | 10,624 | 10,431 | 13,485 | 15,328 | 20,004 | 17,127 | 18,164 | 21,187 | **21,192** |
 | NPM % | 6.9% | **6.2%** | 7.3% | 9.1% | 9.7% | 10.7% | 11.0% | 10.8% | **11.8%** | 9.9% |
 | EPS ($) | **0.94** | 1.01 | 0.98 | 1.27 | 1.43 | 1.87 | 1.58 | 1.68 | **1.96** | 1.96 |
@@ -138,7 +150,7 @@ Buffett: *"Owner earnings are the relevant item for valuation purposes — not r
 
 1. **Revenue Trajectory:** Revenue has grown consistently on a YoY basis, ranging from 9-14% growth. Q4 is seasonally the strongest quarter (holiday shopping), with Q4 2025 hitting a record $213.4B.
 
-2. **Margin Trend:** Operating margins have expanded from ~7.8% in Sep'23 to ~11.7% in Dec'25, reflecting operating leverage across all segments. The Q3 2025 dip (9.7% OPM) was due to a $2.5B FTC settlement charge and $1.8B in severance costs — without these, OPM would have been ~12%.
+2. **Margin Trend:** EBIT margins have expanded from ~7.8% in Sep'23 to ~11.7% in Dec'25, reflecting operating leverage across all segments. OPM (pre-D&A) has expanded even more dramatically — from 16.3% to 21.1% — indicating the business generates substantial operating cash before capital charges. The gap between OPM (pre-D&A) and EBIT Margin widened from ~8.5pp to ~9.4pp over this period, reflecting rising D&A from Amazon's massive $132B CapEx programme. This is a pattern EBITDA-based analysis would miss entirely — EBITDA margins look stellar at 21%, but after accounting for the capital Amazon consumes, true operating margins are ~11%. The Q3 2025 EBIT dip (9.7%) was due to a $2.5B FTC settlement charge and $1.8B in severance costs — without these, EBIT margin would have been ~12%.
 
 3. **Normalised Quarterly EPS Run-Rate:** Stripping out the Q3 2025 special charges, the normalised quarterly EPS run-rate is approximately $1.80-$2.00. Annualised, this gives a normalised earnings power of ~$7.20-$8.00 per share.
 
@@ -197,7 +209,7 @@ Buffett: *"The best businesses are those that can grow without requiring proport
 | ROA % | 2.8% | 2.8% | 6.8% | 6.0% | 7.8% | 9.0% | **-0.6%** | 6.1% | 10.3% | **10.8%** |
 | ROIC % | 34.7% | 16.7% | 46.2% | 42.9% | **56.6%** | 33.0% | **8.3%** | 18.9% | 28.9% | 21.8% |
 | ROCE % | 10.6% | 7.3% | 14.8% | 12.6% | 13.8% | 10.5% | **4.2%** | 11.0% | **17.0%** | 15.3% |
-| Op Margin % | 3.1% | **2.3%** | 5.3% | 5.2% | 5.9% | 5.3% | 2.4% | 6.4% | 10.8% | **11.2%** |
+| EBIT Margin % | 3.1% | **2.3%** | 5.3% | 5.2% | 5.9% | 5.3% | 2.4% | 6.4% | 10.8% | **11.2%** |
 
 **Return on Capital Analysis:** ROE has surged from 12.3% in 2016 to 22.3% in 2025. Critically, this is driven by GENUINE profitability improvement (net margins expanding from 1.7% to 10.8%), not by leverage — the equity multiplier has actually declined as equity has grown faster than assets. ROA of 10.8% in 2025 confirms the quality of returns.
 
@@ -230,9 +242,9 @@ Amazon passes Buffett's reinvestment test with flying colours: it earns high ret
 
 ## 11. SCALABILITY CHECK — Can This Business Scale and Is It Scaling?
 
-### Part A: Incremental Operating Margin Analysis
+### Part A: Incremental EBIT Margin Analysis
 
-| Period | Rev Change ($M) | Op Income Change ($M) | Incremental OPM | Current OPM |
+| Period | Rev Change ($M) | EBIT Change ($M) | Incremental EBIT Margin | Current EBIT Margin |
 |---|---|---|---|---|
 | 2016-2017 | 41,879 | -80 | -0.2% | 2.31% |
 | 2017-2018 | 55,021 | 8,315 | 15.1% | 5.33% |
@@ -244,7 +256,7 @@ Amazon passes Buffett's reinvestment test with flying colours: it earns high ret
 | 2023-2024 | 63,174 | 31,741 | 50.2% | 10.75% |
 | 2024-2025 | 78,965 | 11,382 | 14.4% | 11.16% |
 
-**Scaling Verdict:** The incremental operating margins in 2023-2025 have been dramatically higher than historical margins — Amazon added $31.7B in operating income on $63.2B of incremental revenue in 2023→2024 (50.2% incremental margin vs 10.8% reported margin), and $11.4B on $79B in 2024→2025 (14.4% incremental margin vs 11.2% reported margin). The 2023→2024 period was particularly remarkable — half of every incremental revenue dollar fell to operating profit. This is the hallmark of an **elite scaler** — fixed costs are absorbed, and each new dollar of revenue is disproportionately profitable.
+**Scaling Verdict:** The incremental EBIT margins in 2023-2025 have been dramatically higher than reported EBIT margins — Amazon added $31.7B in EBIT on $63.2B of incremental revenue in 2023→2024 (50.2% incremental EBIT margin vs 10.8% reported EBIT margin), and $11.4B on $79B in 2024→2025 (14.4% incremental EBIT margin vs 11.2% reported EBIT margin). The 2023→2024 period was particularly remarkable — half of every incremental revenue dollar fell to EBIT (after D&A). This is the hallmark of an **elite scaler** — fixed costs are absorbed, and each new dollar of revenue is disproportionately profitable. Critically, these are EBIT-based incremental margins (after deducting the capital the business consumes), not EBITDA-based — the scaling is genuine, not an artefact of ignoring depreciation.
 
 ### Part B: Where on the S-Curve?
 
@@ -308,15 +320,18 @@ Buffett: *"You're looking for three things: intelligence, energy, and integrity.
 ## 14. VALUATION ANALYSIS — The Price You Pay Determines Your Return
 
 **Current Valuation (April 20, 2026):**
+- **P/Owner Earnings: 29.9x** *(primary Buffett-pure multiple)*
+- Owner Earnings Yield: 3.3% (Owner Earnings Per Share $8.38 / CMP $250.48)
 - CMP: $250.48
 - TTM EPS (Diluted): $7.17
 - PE Ratio: 34.93x
 - P/B Ratio: 6.6x
 - BVPS: $37.97
 - Earnings Yield: 2.9%
-- P/FCF: 352.4x
-- EV/EBITDA: 18.2x
-- P/Owner Earnings: 29.9x
+- P/FCF: 352.4x (distorted by $132B CapEx year — not meaningful in isolation)
+- EV/EBIT: 33.2x *(secondary cross-check; Buffett himself rarely uses Enterprise Value constructs, preferring equity-value thinking)*
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. Amazon's $65.8B in D&A is not free money — it represents the wear on $818B of assets. EV/EBIT at 33.2x vs a hypothetical EV/EBITDA of 18.2x tells the honest story: after accounting for capital consumption, Amazon is more expensive than EBITDA suggests. **P/Owner Earnings (29.9x) is the preferred Buffett-pure multiple** — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each dollar of real cash the business generates for its owner.
 
 **Historical PE Context:** Amazon's 5-year average PE is ~48x and 10-year average is ~42x (excluding negative-earnings periods). The current PE of ~35x is at the LOWEST end of Amazon's historical range — suggesting the market is valuing Amazon more like a mature company than a high-growth tech leader.
 
@@ -346,7 +361,7 @@ Buffett: *"Price is what you pay. Value is what you get."*
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = $250.48 | Normalised TTM EPS = $7.17 | Current PE = 34.93x
+**Inputs:** CMP = $250.48 | Normalised TTM EPS = $7.17 | Current PE = 34.93x | Owner Earnings Per Share (OEPS) = $8.38 | Current P/OE = 29.9x
 
 **At Terminal PE = Mature (15x):**
 
@@ -376,15 +391,50 @@ Buffett: *"Price is what you pay. Value is what you get."*
 | 5 Years | 9.96% | 14.96% | 19.96% |
 | 10 Years | 9.98% | 14.98% | 19.98% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** EPS can be misleading — a company can grow EPS by underinvesting in maintenance, financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense."* The same insight applies to EPS vs. Owner Earnings.
+
+**Formula:** Required Future Price = CMP × (1 + Hurdle)^n → Required Future OEPS = Future Price / Terminal P/OE → Implied OEPS CAGR = (Required OEPS / Current OEPS)^(1/n) − 1
+
+Terminal P/OE multiples are typically lower than PE for capital-intensive businesses (since OE > NI when D&A > Maintenance CapEx). For Amazon, P/OE ≈ 0.85× PE due to moderate capital intensity. Terminal P/OE scenarios: Mature (11x), Market Average (17x), Compounder (23x).
+
+**At Terminal P/OE = Market Average (17x):**
+
+| Holding Period | 10% Return | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 23.14% | 28.74% | 34.34% |
+| 10 Years | 16.39% | 21.68% | 26.97% |
+| 15 Years | 14.22% | 19.41% | 24.60% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal Market Avg PE (20x) / P/OE (17x) | 10-Year Hurdle (10% Return) |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 16.31% | |
+| Implied OEPS CAGR (from Step 3B) | 16.39% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **0.08 pp** | |
+
+**Interpretation:** The gap is just 0.08 pp — essentially zero. This confirms Amazon is relatively asset-light when viewed through the Owner Earnings lens (D&A roughly equals maintenance CapEx, so Owner Earnings per share exceeds EPS). The standard EPS-based Reverse DCF is fully reliable for Amazon. Both metrics tell the same story — no hidden capital-intensity trap.
+
+> A gap ≤ 2 pp means the business is asset-light and EPS closely tracks real economic earnings. A gap of 2-5 pp indicates moderate capital intensity. A gap > 5 pp would mean EPS dangerously overstates true economic earnings — the EPS-based Reverse DCF would be misleading. Amazon at 0.08 pp is firmly in the asset-light camp.
+
 ### Reality Check
 
-- Amazon's historical 4Y EPS CAGR (2021-2025): ~22% (from $3.24 to $7.17)
-- US nominal GDP growth: 5-6%
-- Analyst consensus forward EPS growth: ~18-20% for next 2-3 years
+| Benchmark | Typical EPS CAGR | Typical OEPS CAGR | Use As |
+|---|---|---|---|
+| US nominal GDP growth | 5-6% | 5-6% (asset-light) | Floor for a decent business |
+| Amazon's historical 4Y EPS CAGR (2021-2025) | ~22% | — | Actual track record |
+| Amazon's historical 5Y Owner Earnings CAGR (2020-2025) | — | ~24.4% | Buffett-pure benchmark |
+| Analyst consensus forward EPS growth | ~18-20% | — | Market expectations |
 
-**Traffic Light:** At the current PE of ~35x, to earn a 10% annual return over 10 years with a terminal PE of 20x (conservative), the market needs ~16% EPS CAGR. Amazon has historically delivered ~22% over the last 4 years. This is 🟢 **GREEN** — the implied growth is well within historical range and below current trajectory.
+**Traffic Light (EPS-based):** At the current PE of ~35x, to earn a 10% annual return over 10 years with a terminal PE of 20x (conservative), the market needs ~16% EPS CAGR. Amazon has historically delivered ~22% over the last 4 years. This is 🟢 **GREEN** — the implied growth is well within historical range and below current trajectory.
 
-At a terminal PE of 28x (compounder), the required EPS CAGR is ~12.5% for a 10% return over 10 years — comfortably below Amazon's recent ~22% EPS CAGR, providing a meaningful cushion even if growth decelerates.
+**Traffic Light (OEPS-based):** At P/OE of ~30x, to earn a 10% return over 10 years with terminal P/OE of 17x, the market needs ~16.4% OEPS CAGR. Amazon's historical Owner Earnings CAGR is ~24.4% (2020-2025). This is also 🟢 **GREEN**.
+
+> **Both the EPS and OEPS verdicts converge at 🟢 GREEN**, confirming no hidden capital-intensity trap. The EPS-based assessment is equally reliable as the OEPS-based assessment for Amazon — the business's capital intensity is not masking the true growth hurdle.
+
+At a terminal PE of 28x (compounder), the required EPS CAGR is ~12.5% for a 10% return over 10 years (and ~12.9% OEPS CAGR at 23x terminal P/OE) — comfortably below Amazon's recent ~22% EPS CAGR and ~24% OEPS CAGR, providing a meaningful cushion even if growth decelerates. Since the EPS and OEPS verdicts are virtually identical (0.08 pp gap), Amazon's capital intensity is not masking the true hurdle — the business is asset-light through the Owner Earnings lens.
 
 ---
 
