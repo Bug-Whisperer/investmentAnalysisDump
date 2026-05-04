@@ -31,18 +31,21 @@ PayPal operates a **two-sided digital payments platform** connecting ~439 millio
 | Revenue Growth YoY | — | 18.0% | 15.0% | **20.7%** | 18.3% | 8.5% | 8.2% | 6.8% | **4.3%** |
 | Gross Profit | 7,160 | 8,142 | 9,136 | 10,646 | **13,996** | 13,773 | 13,704 | 14,658 | 15,465 |
 | Gross Margin | **54.7%** | 52.7% | 51.4% | 49.6% | 55.2% | 50.1% | **46.0%** | 46.1% | 46.6% |
-| Operating Income | 1,839 | 2,227 | 2,714 | 3,272 | 4,262 | **3,837** | 5,028 | 5,325 | **6,065** |
-| Operating Margin | **14.0%** | 14.4% | 15.3% | 15.3% | 16.8% | **13.9%** | 16.9% | 16.7% | **18.3%** |
+| Operating Profit (pre-D&A) | 1,839 | 2,227 | 2,714 | 3,272 | 4,262 | **3,837** | 5,028 | 5,325 | **6,065** |
+| OPM % (pre-D&A) | **14.0%** | 14.4% | 15.3% | 15.3% | 16.8% | **13.9%** | 16.9% | 16.7% | **18.3%** |
+| Depreciation & Amortisation | 611 | 665 | 751 | 890 | 1,265 | 1,317 | 1,072 | 1,032 | 963 |
+| **EBIT** | **1,228** | 1,562 | 1,963 | 2,382 | 2,997 | **2,520** | 3,956 | 4,293 | **5,102** |
+| **EBIT Margin** | **9.4%** | 10.1% | 11.0% | 11.1% | 11.8% | **9.2%** | 13.3% | 13.5% | **15.4%** |
 | Net Income | 1,795 | 2,057 | 2,459 | **4,202** | 4,169 | **2,419** | 4,246 | 4,147 | **5,233** |
 | Net Margin | 13.7% | 13.3% | 13.8% | **19.6%** | 16.4% | **8.8%** | 14.3% | 13.0% | 15.8% |
 | EPS (Diluted) | 1.47 | 1.71 | 2.07 | 3.54 | 3.52 | **2.09** | 3.84 | 3.99 | **5.41** |
 | EPS Growth | — | 16.3% | 21.1% | **71.0%** | -0.6% | **-40.6%** | **83.7%** | 3.9% | 35.6% |
 | Shares Outstanding (Dil.) | **1,221** | 1,203 | 1,188 | 1,186 | 1,186 | 1,158 | 1,107 | 1,039 | **968** |
 | Shares Change YoY | — | -1.5% | -1.2% | -0.2% | 0.0% | -2.4% | -4.4% | -6.1% | **-6.8%** |
-| EBITDA | 2,450 | 2,892 | 3,465 | 4,162 | **5,527** | **5,154** | 6,100 | 6,357 | **7,028** |
-| EBITDA Margin | 18.7% | 18.7% | 19.5% | 19.4% | **21.8%** | **18.7%** | 20.5% | 20.0% | 21.2% |
 
-**Narrative:** Revenue has compounded at 12.3% annually over 8 years (FY2017–FY2025), though growth has decelerated sharply from ~20% in the COVID era to just 4.3% in FY2025. The encouraging signal is that **operating margins are expanding** — from 14% in 2017 to 18.3% in 2025 — meaning the business is becoming more profitable even as topline growth moderates. EPS growth of 35.6% in FY2025 was powered by the combination of margin expansion AND aggressive share buybacks reducing the share count by 6.8% YoY. The share count has dropped from 1,221M to 968M — a 20.7% reduction since 2017 — making this one of the most aggressive buyback programmes among large-cap tech companies.
+> **Valuation Philosophy Note:** This analysis deliberately excludes standalone EBITDA metrics. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* EBIT (Operating Profit AFTER Depreciation) is the true operating profit after accounting for the capital the business consumes. EBIT Margin is tracked throughout this analysis as the relevant profitability metric.
+
+**Narrative:** Revenue has compounded at 12.3% annually over 8 years (FY2017–FY2025), though growth has decelerated sharply from ~20% in the COVID era to just 4.3% in FY2025. The encouraging signal is that **EBIT margins are expanding** — from 9.4% in 2017 to 15.4% in 2025 (and pre-D&A OPM from 14% to 18.3%) — meaning the business is becoming genuinely more profitable even after accounting for capital consumption. EPS growth of 35.6% in FY2025 was powered by the combination of margin expansion AND aggressive share buybacks reducing the share count by 6.8% YoY. The share count has dropped from 1,221M to 968M — a 20.7% reduction since 2017 — making this one of the most aggressive buyback programmes among large-cap tech companies.
 
 > *"Time is the friend of the wonderful business."* — Warren Buffett
 
@@ -64,9 +67,13 @@ The gross margin compression from 55% (2021) to 46% (2023–2025) reflects the m
 | BVPS | 13.10 | 14.04 | 14.21 | 16.88 | 18.32 | 17.51 | 19.02 | 19.65 | **20.93** |
 | TBVPS | 7.96 | 8.67 | 8.94 | **7.78** | 8.66 | **7.83** | 9.06 | 9.22 | **9.70** |
 | Debt/Equity | **0.31** | 0.30 | 0.30 | 0.45 | 0.37 | **0.51** | 0.46 | 0.48 | 0.49 |
-| Debt/EBITDA | 2.0x | 1.7x | **1.5x** | 2.1x | 1.5x | 2.0x | 1.6x | 1.6x | **1.4x** |
+| Debt/EBIT | **4.1x** | 3.2x | 2.6x | 3.8x | 2.7x | 4.1x | 2.4x | 2.3x | **2.0x** |
+| Net Debt/Owner Earnings | -1.1x | **-2.3x** | -2.1x | -1.1x | -0.3x | -0.1x | -0.9x | -0.2x | -0.1x |
+| Interest Coverage (EBIT/Int. Exp.) | 7.7x | 9.1x | 10.4x | 11.5x | **12.8x** | **8.3x** | 10.0x | 9.3x | 10.8x |
 
-**Buffett's Financial Fortress Assessment:** PayPal maintains a solid balance sheet. Net cash is modestly positive at $435M (FY2025), meaning the company is not overleveraged. Debt/Equity at 0.49x and Debt/EBITDA at 1.4x are both comfortably within conservative limits. The balance sheet carries $10.9B of goodwill (primarily from the Honey, iZettle, and Braintree acquisitions), which represents about 54% of equity — a meaningful intangible burden that Buffett would note.
+> **Why Debt/EBIT instead of Debt/EBITDA:** EBITDA pretends the business has no capital consumption. PayPal's Debt/EBIT of 2.0x (FY2025) is the honest measure — it shows the debt burden relative to operating profit AFTER maintaining the asset base. The Net Debt/Owner Earnings ratio is negative in all years, confirming PayPal is in a net cash position relative to its true economic earnings — a genuine financial fortress.
+
+**Buffett's Financial Fortress Assessment:** PayPal maintains a solid balance sheet. Net cash is modestly positive at $435M (FY2025), meaning the company is not overleveraged. Debt/Equity at 0.49x and Debt/EBIT at 2.0x are both comfortably within conservative limits. Interest coverage of 10.8x means EBIT covers interest expense nearly 11 times over. The balance sheet carries $10.9B of goodwill (primarily from the Honey, iZettle, and Braintree acquisitions), which represents about 54% of equity — a meaningful intangible burden that Buffett would note.
 
 > *"We never want to count on the kindness of strangers in order to meet tomorrow's obligations."* — Warren Buffett
 
@@ -110,7 +117,8 @@ The FCF profile is excellent. PayPal is a capital-light business that converts a
 | ROA % | — | 4.8 | 5.2 | **6.9** | 5.7 | **3.1** | 5.3 | 5.2 | **6.6** |
 | ROIC % | — | 14.9 | 19.4 | 21.2 | **24.7** | **13.8** | 21.6 | 23.0 | **25.8** |
 | Debt/Equity | **0.31** | 0.30 | 0.30 | 0.45 | 0.37 | **0.51** | 0.46 | 0.48 | 0.49 |
-| OPM % | **14.0** | 14.4 | 15.3 | 15.3 | 16.8 | **13.9** | 16.9 | 16.7 | **18.3** |
+| OPM % (pre-D&A, Screener) | **14.0** | 14.4 | 15.3 | 15.3 | 16.8 | **13.9** | 16.9 | 16.7 | **18.3** |
+| **EBIT Margin %** | **9.4** | 10.1 | 11.0 | 11.1 | 11.8 | **9.2** | 13.3 | 13.5 | **15.4** |
 | NPM % | 13.7 | 13.3 | 13.8 | **19.6** | 16.4 | **8.8** | 14.3 | 13.0 | 15.8 |
 | FCF Margin % | **26.5** | 18.6 | 22.0 | 25.0 | 19.3 | 18.6 | **14.2** | 21.3 | 16.8 |
 | Dividend Payout % | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2.5 |
@@ -129,8 +137,10 @@ The FCF profile is excellent. PayPal is a capital-light business that converts a
 | Positive Free Cash Flow | Positive | $5.6B (FY2025) | ✅ |
 | Insider/Institutional holding | Aligned | ~85% institutional, no single promoter | ⚠️ |
 | Dividend payout | Paying | 2.5% (just initiated) | ⚠️ |
-| OPM stability | Stable | 14.0%–18.3% range (expanding) | ✅ |
+| EBIT Margin stability | Stable | 9.2%–15.4% range (expanding) | ✅ |
 | Moat / Pricing Power | Identifiable | Two-sided network, 439M accounts | ⚠️ |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
 **Narrative:** The ratios tell a story of a high-quality business that has encountered a growth deceleration, leading to a severe stock price correction (from $310 peak to ~$50). ROE of 25.7% and ROIC of 25.8% in FY2025 are exceptional — these are returns on capital that very few businesses achieve. The expanding operating margin suggests the cost-optimisation programme is working. However, the moat question is the critical uncertainty — is PayPal's network effect durable or are competitors slowly eroding it?
 
@@ -142,18 +152,21 @@ The FCF profile is excellent. PayPal is a capital-light business that converts a
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue ($M) | 7,040 | 7,287 | 7,418 | **8,026** | 7,699 | 7,888 | 7,847 | 8,363 | **7,791** | 8,369 | 8,341 | **8,671** |
 | Rev YoY Growth | — | — | — | — | 9.4% | **8.2%** | 5.8% | 4.2% | **1.2%** | 6.1% | 6.3% | 3.7% |
-| Op. Income ($M) | 1,002 | 1,188 | 1,234 | **1,604** | **1,170** | 1,410 | 1,391 | 1,445 | **1,565** | 1,524 | 1,469 | 1,507 |
-| OPM % | **14.2%** | 16.3% | 16.6% | **20.0%** | 15.2% | 17.9% | 17.7% | 17.3% | **20.1%** | 18.2% | 17.6% | 17.4% |
+| Op. Profit (pre-D&A) ($M) | 1,002 | 1,188 | 1,234 | **1,604** | **1,170** | 1,410 | 1,391 | 1,445 | **1,565** | 1,524 | 1,469 | 1,507 |
+| OPM % (pre-D&A) | **14.2%** | 16.3% | 16.6% | **20.0%** | 15.2% | 17.9% | 17.7% | 17.3% | **20.1%** | 18.2% | 17.6% | 17.4% |
+| Depreciation (est.) | 268 | 268 | 268 | 268 | 258 | 258 | 258 | 258 | 241 | 241 | 241 | 241 |
+| **EBIT** ($M) | **734** | 920 | 966 | **1,336** | **912** | 1,152 | 1,133 | 1,187 | **1,324** | 1,283 | 1,228 | 1,266 |
+| **EBIT Margin %** | **10.4%** | 12.6% | 13.0% | **16.6%** | **11.8%** | 14.6% | 14.4% | 14.2% | **17.0%** | 15.3% | 14.7% | 14.6% |
 | Net Income ($M) | **795** | 1,029 | 1,020 | **1,402** | **888** | 1,128 | 1,010 | 1,121 | 1,295 | 1,387 | **1,107** | **1,444** |
 | EPS ($) | **0.70** | 0.93 | 0.93 | 1.29 | **0.83** | 1.08 | 0.99 | 1.11 | 1.33 | 1.43 | 1.19 | **1.54** |
 
-> *Note: FY2024 quarterly operating income from unaudited earnings releases sums to $5,416M vs the audited annual figure of $5,325M (Section 2). The $91M gap reflects reclassifications and adjustments made during the annual audit. The annual 10-K figure is authoritative.*
+> *Note: FY2024 quarterly operating income from unaudited earnings releases sums to $5,416M vs the audited annual figure of $5,325M (Section 2). The $91M gap reflects reclassifications and adjustments made during the annual audit. This gap cascades into the quarterly EBIT row (quarterly sum $4,384M vs annual $4,293M). The annual 10-K figures are authoritative.*
 
 **Key Observations:**
 
 **Revenue Trajectory:** Quarterly revenue is growing YoY but at a decelerating rate — from 9.4% in Q1'24 to 3.7% in Q4'25. The Q1'25 growth of just 1.2% was the weakest quarter, though this recovered to 6% in Q2–Q3'25. The business is growing but this is no longer a high-growth company.
 
-**Margin Trend:** OPM has improved meaningfully — Q1'25 hit 20.1%, the highest quarterly margin in the dataset. The cost restructuring is yielding results, with SBC declining and headcount rationalisation contributing to operating leverage.
+**Margin Trend:** Both OPM (pre-D&A) and EBIT Margin have improved meaningfully — Q1'25 OPM hit 20.1% and EBIT Margin hit 17.0%, the highest quarterly readings in the dataset. Critically, **both metrics are moving in the same direction**, confirming that D&A is not eating into profitability gains — a sign that PayPal's capital-light model is genuine. If OPM were expanding while EBIT Margin compressed, it would signal rising capital intensity masked by EBITDA-style analysis. That is not the case here.
 
 **Normalised Quarterly EPS Run-Rate:** The FY2025 quarterly EPS sum is $5.49 (averaging ~$1.37/quarter), slightly above the reported annual EPS of $5.41 due to varying diluted share counts across quarters. Stripping Q3'25 (lower at $1.19, likely seasonal), the normalised run-rate is approximately $1.35–$1.45 per quarter, or **$5.40–$5.80 annualised**.
 
@@ -258,20 +271,22 @@ The honest answer is **the moat is narrowing**, and this is the central investme
 
 **Revenue Scalability:** PayPal has near-zero marginal cost for processing incremental transactions — each additional payment through the platform costs almost nothing. However, the Braintree/PSP volume growth is effectively commoditised processing with thin margins.
 
-**Profit Scalability — Incremental Operating Margins:**
+**Profit Scalability — Incremental EBIT Margins:**
 
-| Year | Revenue Growth | Op. Profit Growth | Incremental Op. Margin |
-|---|---|---|---|
-| FY2018 | +$2,357M | +$388M | **16.5%** |
-| FY2019 | +$2,321M | +$487M | **21.0%** |
-| FY2020 | +$3,682M | +$558M | 15.2% |
-| FY2021 | +$3,917M | +$990M | **25.3%** |
-| FY2022 | +$2,147M | -$425M | **-19.8%** |
-| FY2023 | +$2,253M | +$1,191M | **52.9%** |
-| FY2024 | +$2,026M | +$297M | 14.7% |
-| FY2025 | +$1,375M | +$740M | **53.8%** |
+| Year | Revenue Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
+|---|---|---|---|---|---|
+| FY2018 | +$2,357M | 1,562 | +$334M | 10.1% | **14.2%** |
+| FY2019 | +$2,321M | 1,963 | +$401M | 11.0% | **17.3%** |
+| FY2020 | +$3,682M | 2,382 | +$419M | 11.1% | 11.4% |
+| FY2021 | +$3,917M | 2,997 | +$615M | 11.8% | **15.7%** |
+| FY2022 | +$2,147M | 2,520 | -$477M | 9.2% | **-22.2%** |
+| FY2023 | +$2,253M | 3,956 | +$1,436M | 13.3% | **63.7%** |
+| FY2024 | +$2,026M | 4,293 | +$337M | 13.5% | 16.6% |
+| FY2025 | +$1,375M | 5,102 | +$809M | 15.4% | **58.8%** |
 
-Incremental margins have been highly volatile but the FY2023 and FY2025 readings of 53% are exceptional — indicating that new revenue is falling almost entirely to the bottom line as operating leverage kicks in. The 2022 reading (-19.8%) was an anomaly driven by restructuring costs and strategic investment write-downs.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's pre-D&A Operating Profit. This captures whether scaling is genuine or being eaten by rising capital consumption. If the business's pre-D&A incremental margins look great but EBIT incremental margins are lower, it means D&A is growing faster than revenue — a sign of increasing capital intensity that EBITDA-based analysis would miss entirely. For PayPal, the EBIT-based incremental margins (14–64%) closely track the pre-D&A version, confirming this is genuinely a capital-light scaler.*
+
+Incremental EBIT margins have been highly volatile but the FY2023 and FY2025 readings of 64% and 59% are exceptional — indicating that new revenue is falling almost entirely to the bottom line as operating leverage kicks in, even AFTER accounting for capital consumption. The 2022 reading (-22.2%) was an anomaly driven by restructuring costs and strategic investment write-downs.
 
 **Capital Scalability:** CapEx as a percentage of revenue has declined from 5.1% to 2.6%, while revenue has grown from $13B to $33B — the business is clearly getting more capital-efficient as it scales.
 
@@ -332,14 +347,20 @@ Total net income (2017–2025): $30,727M. Total dividends: $130M. Retained: $30,
 
 | Metric | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 (CMP) |
 |---|---|---|---|---|---|---|---|---|---|
+| **P/Owner Earnings** (primary) | 44.8 | 45.5 | 46.2 | **60.8** | 45.8 | 24.9 | 13.8 | 18.6 | **8.7** |
 | PE Ratio | 49.9 | 49.2 | 52.5 | **66.2** | 53.6 | 34.0 | 16.0 | 21.4 | **9.4** |
 | P/B Ratio | 5.6 | 6.0 | 7.6 | **13.9** | 10.3 | 4.1 | 3.2 | 4.4 | **2.4** |
 | P/FCF Ratio | 25.8 | 35.2 | 33.0 | **51.9** | 45.8 | 16.1 | 16.1 | 13.1 | **8.8** |
-| EV/EBITDA | 35.7 | 33.2 | 35.6 | **65.5** | 40.3 | 15.9 | **10.4** | 13.8 | **6.9** |
-| FCF Yield | 3.9% | 2.8% | 3.0% | **1.9%** | 2.2% | 6.2% | 6.2% | 7.6% | **11.3%** |
+| EV/EBIT | 71.1 | 61.5 | 62.8 | **114.4** | 74.2 | 32.5 | **16.1** | 20.5 | **9.6** |
+| Owner Earnings Yield | 2.2% | 2.2% | 2.2% | **1.6%** | 2.2% | 4.0% | 7.3% | 5.4% | **11.6%** |
 | Earnings Yield | 2.0% | 2.0% | 1.9% | **1.5%** | 1.9% | 2.9% | 6.2% | 4.7% | **10.6%** |
+| FCF Yield | 3.9% | 2.8% | 3.0% | **1.9%** | 2.2% | 6.2% | 6.2% | 7.6% | **11.3%** |
 
-**Historical Comparison:** PayPal has NEVER sustainably traded at a PE of 9.4x. Its 5-year average PE is 26.9x, its 8-year average is ~38x. Even the post-bubble low in 2023 saw a PE of 16x. The current valuation represents the **cheapest PayPal has ever been** on virtually every metric — PE, P/B, P/FCF, EV/EBITDA, and earnings yield.
+> **Why P/Owner Earnings is the primary multiple:** P/OE uses Buffett's Owner Earnings (NI + D&A − Maintenance CapEx) as the denominator — the truest measure of cash the business generates for its owner. At 8.7x P/OE, PayPal is priced as if it were a stagnating utility, not a 26% ROIC platform business.
+>
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't real. EV/EBIT at 9.6x is included as a secondary cross-check for institutional comparability — Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets.
+
+**Historical Comparison:** PayPal has NEVER sustainably traded at a PE of 9.4x or a P/OE of 8.7x. Its 5-year average PE is 26.9x, its 8-year average is ~38x. Even the post-bubble low in 2023 saw a PE of 16x. The current valuation represents the **cheapest PayPal has ever been** on virtually every metric — PE, P/B, P/OE, P/FCF, EV/EBIT, and earnings yield.
 
 An 11.3% FCF yield is more typical of a cigar butt value stock than a platform business generating 26% ROIC.
 
@@ -371,7 +392,7 @@ The base case (10% growth, consistent with recent margin expansion + low single 
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = $50.81, Normalised TTM EPS = $5.41, Current PE = 9.4x
+**Inputs:** CMP = $50.81, Normalised TTM EPS = $5.41, Current PE = 9.4x, **Owner Earnings Per Share (OEPS) = $5.87**, **Current P/OE = 8.7x**
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -407,18 +428,45 @@ The base case (10% growth, consistent with recent margin expansion + low single 
 | 10 Years | -1.0% | 3.5% | 8.0% |
 | 15 Years | 2.5% | 7.2% | 11.9% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** EPS can be misleading — a company can grow EPS by underinvesting in maintenance, financial engineering, or aggressive accounting. Owner Earnings strips all this out and measures the TRUE economic cash the business generates for its owner. If the EPS-based Reverse DCF and the OEPS-based version agree, the EPS metric is reliable. If they diverge, the business is more capital-intensive than EPS suggests. Buffett: *"Accounting is the language of business, but like any language, it can be used to obfuscate rather than illuminate."*
+
+**At Terminal P/OE = 17x (Market Average for asset-light platform)**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | -3.9% OEPS CAGR needed | 0.5% | 4.8% |
+| 10 Years | 2.8% OEPS CAGR needed | 7.5% | 12.2% |
+| 15 Years | 5.2% OEPS CAGR needed | 9.9% | 14.7% |
+
+**The Divergence Test — EPS vs. OEPS Implied Growth:**
+
+| Metric | At Terminal Market Avg PE/P(OE) | 10-Year Hurdle (10% Return) |
+|---|---|---|
+| Implied EPS CAGR (from Step 3, Terminal PE 20x) | 2.0% | |
+| Implied OEPS CAGR (from Step 3B, Terminal P/OE 17x) | 2.8% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **0.8 pp** | |
+
+**Interpretation: Gap ≤ 2 pp → Asset-light business, EPS reliable.** PayPal's 0.8pp gap confirms what we already know from the capital analysis — this is a capital-light platform business where D&A closely approximates true maintenance capital needs, so EPS and Owner Earnings tell essentially the same story. The standard EPS-based Reverse DCF is trustworthy for this business.
+
 ### Reality Check
 
-| Benchmark | Value |
-|---|---|
-| Company's 5Y EPS CAGR | 8.9% |
-| Company's 8Y EPS CAGR | 17.7% |
-| Required EPS CAGR for 10% return @ 15x exit PE over 10Y | **5.0%** |
-| Required EPS CAGR for 15% return @ 20x exit PE over 10Y | **6.6%** |
+| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+|---|---|---|---|
+| US nominal GDP growth | 5–6% | 5–6% (asset-light) | Floor for a decent business |
+| Company's 5Y EPS CAGR | 8.9% | — | Actual track record |
+| Company's 8Y EPS CAGR | 17.7% | — | Longer-term track record |
+| Company's OE CAGR (5Y) | — | 4.5% | Buffett-pure benchmark |
+| Company's OE CAGR (8Y) | — | 13.9% | Longer-term OE track record |
+| Required for 10% return @ 15x exit PE / 17x P(OE) over 10Y | **5.0%** | **2.8%** | What the market needs |
+| Required for 15% return @ 20x exit PE / 17x P(OE) over 10Y | **6.6%** | **7.5%** | Ambitious target |
 
 **Traffic Light: 🟢 GREEN** — The market is requiring virtually NO growth to deliver a 10% annual return if the PE merely re-rates from 9.4x to 15x over 10 years. Even for a 15% return, only 6.6% EPS CAGR is needed — well below what PayPal has historically delivered. **The market is pricing in stagnation or decline. If PayPal merely survives as a steady-state business, the returns are exceptional.**
 
-> *"At $50.81, to earn a 10% annualised return over 10 years assuming the market values the business at 15x PE at exit, the company needs to grow EPS at just 5.0% CAGR. The company has historically grown EPS at 8.9% CAGR (5Y) and 17.7% (8Y). This implies the market is pricing in extremely pessimistic growth expectations — well below anything the company has ever delivered."*
+> Apply the Traffic Light to BOTH the EPS and OEPS implied growth. For PayPal, both the EPS-based verdict (🟢) and the OEPS-based verdict (🟢) agree — the 0.8pp gap is negligible. This confirms the assessment is not being distorted by capital intensity. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
+
+> *"At $50.81, to earn a 10% annualised return over 10 years assuming the market values the business at 15x PE at exit, the company needs to grow EPS at just 5.0% CAGR (and Owner Earnings at just 2.8% CAGR). The company has historically grown EPS at 8.9% CAGR (5Y) and Owner Earnings at 13.9% CAGR (8Y). This implies the market is pricing in extremely pessimistic growth expectations — well below anything the company has ever delivered. Note: the EPS-based assessment and the Owner Earnings assessment are virtually identical, indicating this is a genuinely asset-light business where EPS is reliable."*
 
 ---
 
@@ -529,7 +577,7 @@ PayPal is not in distress, but it is in a **transformation phase** — transitio
 | Factor | Score (1-10) | Notes |
 |---|---|---|
 | Revenue trajectory | 6 | Growing at 4–6%, decelerating but not declining |
-| Margin improvement | 8 | OPM expanding from 14% to 18%; clear operating leverage |
+| Margin improvement | 8 | EBIT Margin expanding from 9.4% to 15.4%; clear operating leverage |
 | Cost discipline | 8 | SBC declining sharply; headcount rationalised |
 | Product innovation | 5 | Fastlane, PYUSD, Pix integration — promising but unproven |
 | Management credibility | 4 | New CEO unproven; third leader in 3 years |
@@ -545,7 +593,7 @@ PayPal is not in distress, but it is in a **transformation phase** — transitio
 |---|---|---|
 | **Business Quality** | 7 | Capital-light platform, high ROIC (26%), strong FCF generation |
 | **Moat Durability** | 5 | Two-sided network effect present but narrowing; competitive intensity rising |
-| **Financial Health** | 8 | Net cash positive, D/E < 0.5, Debt/EBITDA 1.4x, ample liquidity |
+| **Financial Health** | 8 | Net cash positive, D/E < 0.5, Debt/EBIT 2.0x, Interest Coverage 10.8x |
 | **Management Quality** | 4 | CEO instability; admitted execution failures; unproven new leadership |
 | **Valuation** | 9 | 9.4x PE, 8.8x P/FCF, 11.3% FCF yield — historically unprecedented cheapness |
 | **Margin of Safety** | 9 | 51–69% MoS on DCF; reverse DCF shows near-zero growth needed for 10% returns |
