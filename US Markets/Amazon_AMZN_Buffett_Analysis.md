@@ -415,7 +415,7 @@ Terminal P/OE multiples are typically lower than PE for capital-intensive busine
 | Implied OEPS CAGR (from Step 3B) | 16.39% | |
 | **Gap (OEPS CAGR − EPS CAGR)** | **0.08 pp** | |
 
-**Interpretation:** The gap is just 0.08 pp — essentially zero. This confirms Amazon is relatively asset-light when viewed through the Owner Earnings lens (D&A roughly equals maintenance CapEx, so Owner Earnings per share exceeds EPS). The standard EPS-based Reverse DCF is fully reliable for Amazon. Both metrics tell the same story — no hidden capital-intensity trap.
+**Interpretation:** The gap is just 0.08 pp — essentially zero. This confirms Amazon is relatively asset-light when viewed through the Owner Earnings lens (D&A of $65.8B significantly exceeds estimated Maintenance CapEx of $52.7B — since most of Amazon's massive CapEx is growth investment — resulting in Owner Earnings per share of $8.38 exceeding EPS of $7.17). The standard EPS-based Reverse DCF is fully reliable for Amazon. Both metrics tell the same story — no hidden capital-intensity trap.
 
 > A gap ≤ 2 pp means the business is asset-light and EPS closely tracks real economic earnings. A gap of 2-5 pp indicates moderate capital intensity. A gap > 5 pp would mean EPS dangerously overstates true economic earnings — the EPS-based Reverse DCF would be misleading. Amazon at 0.08 pp is firmly in the asset-light camp.
 
