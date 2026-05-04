@@ -370,7 +370,7 @@ At P/OE of 43.7x, the stock requires continued extraordinary growth to justify. 
 
 ### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-> **Why this matters:** EPS can be misleading — it ignores the cash cost of maintaining per-share ownership through buybacks. For NVIDIA, the gap between EPS ($4.90) and OEPS ($4.58) is driven by SBC dilution costs. If the EPS-based Reverse DCF says "the market needs 17% growth" but the OEPS version says "20%," that 3pp gap is the hidden cost of SBC that most investors miss.
+> **Why this matters:** EPS can be misleading — it ignores the cash cost of maintaining per-share ownership through buybacks. For NVIDIA, OEPS ($4.58) is lower than EPS ($4.90) by about 7%, reflecting the maintenance buyback drag. At any common terminal multiple, this produces a ~0.8pp higher implied growth hurdle for OEPS vs EPS — the true SBC cost in growth terms. The total gap in the Divergence Test below (3.2pp) is larger because it also reflects the structural difference between using a lower terminal P/OE (18x) than terminal PE (22x) — a framework design choice, not a company-specific SBC effect.
 
 **Terminal P/OE multiples:** Mature (13x), Market Average (18x), Compounder (25x).
 
@@ -390,7 +390,7 @@ At P/OE of 43.7x, the stock requires continued extraordinary growth to justify. 
 | Implied OEPS CAGR (Step 3B, P/OE 18x) | **20.2%** | |
 | **Gap (OEPS − EPS)** | **3.2 pp** | |
 
-**Interpretation:** The 3.2pp gap falls in the **2-5pp range (moderate)**. For NVIDIA, this gap is driven not by physical capital intensity (minimal for fabless) but by SBC dilution costs — GAAP earnings understate the true cash required to maintain per-share value. The standard EPS-based Reverse DCF makes NVIDIA look ~3pp cheaper than it actually is. **Defer to the OEPS-based verdict.**
+**Interpretation:** The 3.2pp total gap decomposes as follows: **~0.8pp** is driven by the actual EPS-vs-OEPS difference (the true SBC dilution cost in growth terms), while **~2.4pp** is a structural artifact of the lower terminal P/OE multiple (18x) vs terminal PE (22x) — a framework design choice that would produce a similar spread for any company. At any common terminal multiple (e.g., both at 20x), NVIDIA's OEPS hurdle exceeds the EPS hurdle by only ~0.8pp — placing it in the **≤ 2pp range (asset-light)**, consistent with NVIDIA's fabless model. The SBC cost is real but modest in growth-rate terms. The OEPS-based Reverse DCF remains the more conservative and honest benchmark, but the primary reason its hurdle is higher is the lower terminal multiple assumption, not SBC per se.
 
 > Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice."* The same logic applies to EPS vs. Owner Earnings: EPS ignores the cash cost of maintaining ownership. OEPS captures the truth.
 
@@ -413,7 +413,7 @@ At Terminal PE 15x: EPS needs 21.6%; OEPS needs 24.2%. **🟠 ORANGE.**
 
 ### Step 5: Verdict
 
-> *"At $200, to earn 10% over 10 years at 22x terminal PE, NVIDIA needs 17.0% EPS CAGR (and 20.2% Owner Earnings CAGR). The company has grown EPS at ~96% CAGR over 5 years. This implies the market is pricing in growth well below the historical rate but requires sustained ~20% OE growth from a $216B revenue base — fair but optimistic. Note: the EPS-based assessment (17.0%, borderline green) is more favourable than the Owner Earnings assessment (20.2%, yellow), indicating SBC dilution costs are masking the true growth hurdle by ~3pp."*
+> *"At $200, to earn 10% over 10 years at 22x terminal PE, NVIDIA needs 17.0% EPS CAGR (and 20.2% Owner Earnings CAGR at 18x terminal P/OE). The company has grown EPS at ~96% CAGR over 5 years. This implies the market is pricing in growth well below the historical rate but requires sustained ~17-20% earnings growth from a $216B revenue base — fair but optimistic. Note: at a common terminal multiple (e.g., 20x for both), the OEPS hurdle exceeds the EPS hurdle by only ~0.8pp — indicating NVIDIA's SBC dilution cost, while real, is a modest drag in growth-rate terms. The larger gap between the 17.0% and 20.2% figures is primarily driven by the lower terminal P/OE multiple assumption (18x vs 22x)."*
 
 ---
 
