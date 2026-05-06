@@ -2,7 +2,7 @@
 
 **Prompt:** Analyse this company's financials like Warren Buffett would: <COMPANY NAME>
 
-Browse the screener tab that is open to gather all financial data, metrics, news and forecasts.
+ Gather all financial data, metrics, news and forecasts for the company through their 10-K and 10-Q filings or through official exchange websites, or through trusted brokerages or from Screener.in website for Indian equities.
 
 ---
 
