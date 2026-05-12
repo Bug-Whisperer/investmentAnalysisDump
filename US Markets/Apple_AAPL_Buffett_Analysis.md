@@ -45,22 +45,26 @@ Apple passes this test emphatically. It makes things people want, charges a prem
 | Revenue Growth YoY | — | 6.3% | 15.9% | -2.0% | 5.5% | **33.3%** | 7.8% | **-2.8%** | 2.0% | 6.4% |
 | **Gross Profit** | 84,263 | 88,186 | 101,839 | 98,392 | 104,956 | 152,836 | 170,782 | 169,148 | 180,683 | **195,201** |
 | Gross Margin | 39.1% | 38.5% | **38.3%** | 37.8% | 38.2% | 41.8% | 43.3% | 44.1% | 46.2% | **46.9%** |
-| **Operating Income** | 60,024 | 61,344 | 70,898 | 63,930 | 66,288 | 108,949 | 119,437 | 114,301 | 123,216 | **133,050** |
-| Operating Margin | 27.8% | 26.8% | 26.7% | **24.6%** | 24.2% | 29.8% | 30.3% | 29.8% | 31.5% | **32.0%** |
+| **Operating Profit (pre-D&A)** | — | 71,501 | 81,801 | 76,477 | 77,344 | 120,233 | 130,541 | 125,820 | 134,661 | **144,748** |
+| OPM % (pre-D&A) | — | 31.2% | 30.8% | **29.4%** | **28.2%** | 32.9% | 33.1% | 32.8% | 34.4% | **34.8%** |
+| Depreciation & Amortisation | — | 10,157 | 10,903 | 12,547 | 11,056 | 11,284 | 11,104 | 11,519 | 11,445 | 11,698 |
+| **EBIT (Operating Income)** | 60,024 | 61,344 | 70,898 | 63,930 | 66,288 | 108,949 | 119,437 | 114,301 | 123,216 | **133,050** |
+| **EBIT Margin** | 27.8% | 26.8% | 26.7% | **24.6%** | 24.2% | 29.8% | 30.3% | 29.8% | 31.5% | **32.0%** |
 | **Net Income** | 45,687 | 48,351 | 59,531 | 55,256 | 57,411 | **94,680** | 99,803 | 96,995 | 93,736 | **112,010** |
 | Net Income Growth | — | 5.8% | **23.1%** | -7.2% | 3.9% | **64.9%** | 5.4% | -2.8% | **-3.4%** | 19.5% |
 | Net Profit Margin | 21.2% | 21.1% | 22.4% | 21.2% | **20.9%** | 25.9% | 25.3% | 25.3% | 24.0% | **26.9%** |
 | **EPS (Diluted, est.)** | ~2.09 | ~2.31 | ~2.98 | ~2.97 | ~3.28 | ~5.61 | ~6.11 | ~6.13 | ~6.08 | **~7.40** |
 | EPS Growth | — | 10.5% | **29.0%** | -0.3% | 10.4% | **71.0%** | 8.9% | 0.3% | **-0.8%** | **21.7%** |
-| **EBITDA** | 73,333 | 76,569 | 87,046 | 81,860 | 81,020 | 123,136 | 130,541 | 125,820 | 134,661 | **144,427** |
-| EBITDA Margin | 34.0% | 33.4% | **32.8%** | 31.5% | **29.5%** | 33.7% | 33.1% | 32.8% | 34.4% | **34.7%** |
+| Shares Outstanding (Diluted, B) | ~21.8 | ~20.9 | ~20.0 | ~18.6 | ~17.5 | ~16.9 | ~16.3 | ~15.8 | ~15.4 | **~15.1** |
+| Shares Change YoY | — | -4.1% | -4.3% | **-7.0%** | -5.9% | -3.4% | -3.6% | -3.1% | -2.5% | **-1.9%** |
 | Interest Expense | 1,456 | 2,323 | 3,240 | 3,576 | 2,873 | 2,645 | 2,931 | 3,933 | n/a* | n/a* |
-| Depreciation | — | 10,157 | 10,903 | 12,547 | 11,056 | 11,284 | 11,104 | 11,519 | 11,445 | 11,698 |
 | Income Tax | 15,685 | 15,738 | 13,372 | 10,481 | 9,680 | 14,527 | 19,300 | 16,741 | 29,749 | 20,719 |
 
 **Note:** Shares Outstanding have been declining steadily due to Apple's massive buyback programme — from approximately 21.8 billion (split-adjusted) in 2016 to approximately 15.1 billion in 2025, a reduction of ~31% over 9 years.
 
-**EBITDA Methodology Note:** EBITDA figures for FY2017-FY2021 were derived bottom-up (NI + Tax + Interest + Depreciation), which includes non-operating income. FY2022-FY2025 figures were derived top-down (Operating Income + Depreciation), excluding non-operating items. This creates a slight methodological inconsistency across the time series; bottom-up figures are ~$3-5B higher than the top-down equivalent due to Apple's non-operating investment income. Additionally, Interest Expense is marked "n/a*" for FY2024 and FY2025 as it was not separately reported by the data source (Apple likely incurred ~$2.5-3.5B in interest costs on its ~$97-101B debt in those years); the FY2025 EBITDA of $144,427M reflects the top-down calculation (Op Income + D&A = $133,050 + $11,698 = $144,748M, with the ~$321M gap attributable to the missing interest expense in the bottom-up reconciliation).
+**EBIT & Methodology Notes:** This analysis tracks **EBIT** as the primary operating profitability metric, following Buffett and Munger's philosophy. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* EBIT accounts for the capital the business consumes to maintain its asset base; EBITDA pretends that cost doesn't exist.
+
+Apple reports under US GAAP, where Operating Income is already **post-D&A** (Depreciation & Amortisation is embedded within COGS and Operating Expenses). Therefore the **EBIT row = Apple's reported Operating Income** (as-is). The **Operating Profit (pre-D&A) row = Operating Income + D&A** — this is the EBITDA-equivalent figure, shown for completeness but NOT used for valuation. D&A is shown separately for transparency. Interest Expense is marked "n/a*" for FY2024 and FY2025 as it was not separately reported by the data source.
 
 ### Trend Narrative
 
@@ -68,7 +72,7 @@ The income statement tells a story of a business that has evolved from a hardwar
 
 1. **Gross margins have expanded from ~38% to ~47% over 9 years.** This is extraordinary for a hardware company and reflects the growing contribution of Services (which carry 70%+ gross margins) in the revenue mix.
 
-2. **Operating margins have expanded from ~25% to ~32%.** Earnings growth has consistently outpaced revenue growth thanks to operating leverage and the Services mix shift.
+2. **Operating margins have expanded from ~28-31% (pre-D&A) and EBIT margins from ~25% to ~32%.** Both the pre-D&A (EBITDA-equivalent) and EBIT (post-D&A) margins have expanded, confirming that the improvement is genuine operating leverage, not an artifact of D&A changes. EBIT Margin is the more meaningful metric — it shows the true after-capital-charge profitability. Earnings growth has consistently outpaced revenue growth thanks to the Services mix shift.
 
 3. **The FY2021 spike (33% revenue growth, 65% net income growth) was COVID/stimulus driven** — a one-time pull-forward of demand. The subsequent FY2022-FY2024 period saw flat-to-declining revenue as that demand normalised. FY2025 marks a return to healthy growth at 6.4% revenue, 19.5% net income growth.
 
@@ -93,7 +97,12 @@ The income statement tells a story of a business that has evolved from a hardwar
 | Shareholders' Equity ($B) | 134.0 | 107.1 | 90.5 | 65.3 | 63.1 | **50.7** | 62.1 | 56.9 | ~63 |
 | Net Cash/(Debt) ($B) | 153.2 | 122.6 | 97.9 | 79.4 | 47.9 | 36.0 | 51.0 | 39.3 | ~36 |
 | Book Value Per Share | ~6.15 | ~5.41 | ~4.77 | ~3.85 | ~3.84 | **~3.18** | ~3.95 | ~3.77 | ~4.20 |
+| Goodwill ($B) | ~5.7 | ~0 | ~0 | ~0 | ~0 | ~0 | ~0 | ~0 | ~0 |
+| Tangible BVPS | ~5.88 | ~5.41 | ~4.77 | ~3.85 | ~3.84 | ~3.18 | ~3.95 | ~3.77 | ~4.20 |
 | Debt/Equity | 0.86 | 1.07 | 1.19 | 1.72 | 1.98 | **2.37** | 1.79 | 1.78 | ~1.54 |
+| **Debt/EBIT** | 1.89x | 1.61x | 1.69x | 1.70x | 1.14x | 1.01x | 0.97x | 0.82x | **0.73x** |
+| **Net Debt/Owner Earnings** | — | — | — | — | — | — | — | — | **Net cash (N/A)** |
+| **Interest Coverage (EBIT/Int)** | 26.4x | 21.9x | **17.9x** | 23.1x | 41.2x | 40.7x | 29.1x | n/a | n/a |
 | Current Ratio | ~1.28 | ~1.12 | ~1.54 | ~1.36 | ~1.07 | ~0.88 | ~0.99 | ~0.87 | ~0.92 |
 
 **BVPS Note:** Book Value Per Share figures are as reported by the data source (INDMoney) and may use a different diluted share count basis than what is implied by dividing Net Income by Diluted EPS. For example, FY2017 Equity ($134.0B) ÷ EPS-implied shares (~20.9B) = $6.41, vs. the stated ~$6.15 — the difference suggests the data source may use a different share count (e.g., weighted-average or beginning-of-year). This is a data source convention and does not affect the directional analysis.
@@ -108,11 +117,11 @@ Apple's balance sheet is unusual and requires nuanced interpretation:
 
 **The Reality:** Apple sits on approximately $130-140B in cash and marketable securities against ~$97B in total debt, meaning it has a **net cash position of approximately $36 billion**. Apple could pay off ALL its debt tomorrow and still have tens of billions in cash. This is a financial fortress by any definition.
 
-**Debt/Equity ratio is misleading:** The high Debt/Equity (~1.5-2.4x) reflects depressed equity from buybacks, NOT excessive leverage. Apple's Debt/EBITDA is only ~0.7x — trivially low for a company with Apple's cash generation.
+**Debt/Equity ratio is misleading:** The high Debt/Equity (~1.5-2.4x) reflects depressed equity from buybacks, NOT excessive leverage. Apple's Debt/EBIT is only ~0.73x (FY2025: $97B debt ÷ $133B EBIT) — trivially low for a company with Apple's earnings power. Interest coverage exceeds 17x in all years with available data, and exceeds 25x in most years.
 
 > **Buffett:** *"We will reject interesting opportunities rather than over-leverage our balance sheet."* Apple has never needed to over-leverage. Its cash generation is so enormous that debt is used purely for tax-efficient capital allocation (borrow cheap, buy back shares, keep offshore cash invested).
 
-**Verdict: Apple's balance sheet is among the strongest in corporate history.** The low book value is a feature, not a bug — it reflects decades of returning capital to shareholders. The net cash position and sub-1x Debt/EBITDA make this an impregnable fortress.
+**Verdict: Apple's balance sheet is among the strongest in corporate history.** The low book value is a feature, not a bug — it reflects decades of returning capital to shareholders. The net cash position, sub-1x Debt/EBIT, and Debt/Owner Earnings of only ~1.1x make this an impregnable fortress.
 
 ---
 
@@ -127,6 +136,7 @@ Apple's balance sheet is unusual and requires nuanced interpretation:
 | Capital Expenditures | 12,451 | 13,313 | 10,495 | 7,309 | 11,085 | 10,708 | 10,959 | 9,447 | 12,715 |
 | **Free Cash Flow** | 51,147 | 64,121 | 58,896 | 73,365 | 92,953 | **111,443** | 99,584 | 108,807 | 98,767 |
 | FCF Margin | 22.3% | 24.1% | 22.6% | 26.7% | 25.4% | **28.3%** | 26.0% | 27.8% | 23.7% |
+| **FCF Per Share** | $2.45 | $3.21 | $3.17 | $4.19 | $5.50 | **$6.84** | $6.30 | $7.07 | **$6.54** |
 | Stock-Based Comp. | 4,840 | 5,340 | 6,068 | 6,829 | 7,906 | 9,038 | 10,833 | 11,688 | 12,863 |
 | Share Repurchases | 32,900 | 72,738 | 66,897 | 72,358 | 85,971 | **89,402** | 77,550 | 94,949 | 90,711 |
 | Dividends Paid | 12,769 | 13,712 | 14,119 | 14,081 | 14,467 | 14,841 | 15,025 | 15,234 | 15,421 |
@@ -146,7 +156,121 @@ Apple's balance sheet is unusual and requires nuanced interpretation:
 
 ---
 
-## 5. CAPEX QUALITY ANALYSIS — Growth vs. Maintenance CapEx
+
+## 5. KEY RATIOS — The Quality Scorecard (10-12 Year View)
+
+> **Purpose:** A bird's-eye dashboard of the most important financial quality ratios. This is the first-pass Buffett quality filter — a single table that tells you in seconds whether this business is worth spending more time on.
+
+### Part A: Key Ratio Table
+
+| Ratio | Sep 2016 | Sep 2017 | Sep 2018 | Sep 2019 | Sep 2020 | Sep 2021 | Sep 2022 | Sep 2023 | Sep 2024 | Sep 2025 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| ROCE % (est.) | ~33% | ~28% | ~33% | ~35% | ~43% | ~58% | ~62% | ~56% | ~54% | **~60%** |
+| ROE % | ~36% | ~36% | ~49% | ~56% | ~74% | ~148% | ~171% | ~157% | ~157% | **~152%** |
+| ROIC % (est.) | ~28% | ~24% | ~30% | ~32% | ~40% | ~55% | ~60% | ~55% | ~53% | **~58%** |
+| Debt/Equity | 0.59 | 0.86 | 1.07 | 1.19 | 1.72 | 1.98 | **2.37** | 1.79 | 1.78 | ~1.54 |
+| OPM % (pre-D&A) | — | 31.2% | 30.8% | **29.4%** | **28.2%** | 32.9% | 33.1% | 32.8% | 34.4% | **34.8%** |
+| **EBIT Margin %** | 27.8% | 26.8% | 26.7% | **24.6%** | **24.2%** | 29.8% | 30.3% | 29.8% | 31.5% | **32.0%** |
+| NPM % | 21.2% | 21.1% | 22.4% | 21.2% | **20.9%** | 25.9% | 25.3% | 25.3% | 24.0% | **26.9%** |
+| Current Ratio | ~1.35 | ~1.28 | ~1.12 | ~1.54 | ~1.36 | ~1.07 | **~0.88** | ~0.99 | ~0.87 | ~0.92 |
+| Interest Coverage | 41x | 26x | 22x | **18x** | 23x | 41x | 41x | 29x | n/a | n/a |
+| Dividend Payout % | ~26% | ~25% | ~22% | ~25% | ~24% | ~15% | ~15% | **~15%** | ~16% | **~14%** |
+
+**Note:** Apple's business model (consumer electronics + subscription services sold direct-to-consumer) makes traditional Debtor Days, Inventory Days, and Cash Conversion Cycle metrics less meaningful than for industrial or B2B companies. Apple's inventory turns are extremely fast (~8 days) and receivables are primarily from carriers and distributors with short cycles.
+
+### Part B: Buffett's Quality Checklist
+
+| Criterion | Benchmark | Company Score | Verdict |
+|---|---|---|---|
+| ROE > 15% consistently | >15% | ~36-152% (10Y) — extraordinarily high | ✅ PASS |
+| ROCE > 15% | >15% | ~28-62% (range) | ✅ PASS |
+| Debt/Equity < 0.5 | <0.5 | 0.59-2.37x — optically high but benign (buyback-driven) | ⚠️ CONTEXT |
+| Consistent profit growth | Growing | ~10.5% 10Y NI CAGR | ✅ PASS |
+| Sales growth | Growing | ~7.6% 10Y Rev CAGR | ✅ PASS |
+| Positive Free Cash Flow | Positive | $98.8B (FY2025) | ✅ PASS |
+| Promoter/Insider holding | Aligned | 0.12% insider + Berkshire 1.5% — low but aligned via SBC | ⚠️ CONTEXT |
+| Dividend payout | Paying | ~14-25% payout, ~0.4% yield + massive buybacks | ✅ PASS |
+| EBIT Margin stability | Stable | 24.2-32.0% — expanding trend, stable floor | ✅ PASS |
+| Moat / Pricing Power | Identifiable | Ecosystem lock-in, brand, Services recurring revenue | ✅ PASS |
+| ROIC > 15% | >15% | ~24-60% (est.) | ✅ PASS |
+| Earnings yield | Reasonable | ~3.0% (at ~34x PE) — low but reflects quality premium | ⚠️ |
+
+> **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
+> *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
+
+Apple's consistently extraordinary returns on capital (ROCE 28-62%, ROIC 24-60%) across an entire decade — through product cycles, trade wars, and a pandemic — are the clearest evidence of a durable competitive advantage. The EBIT margin expansion from ~24% to ~32% signals a business whose moat is WIDENING, not eroding, driven by the structural shift to high-margin Services revenue.
+
+---
+
+## 6. QUARTERLY TREND ANALYSIS — Recent Momentum
+
+> **Purpose:** Annual data tells you where the business HAS BEEN. Quarterly data tells you where it IS GOING.
+
+| Metric | Q4 FY23 (Sep'23) | Q1 FY24 (Dec'23) | Q2 FY24 (Mar'24) | Q3 FY24 (Jun'24) | Q4 FY24 (Sep'24) | Q1 FY25 (Dec'24) | Q2 FY25 (Mar'25) | Q3 FY25 (Jun'25) | Q4 FY25 (Sep'25) | Q1 FY26 (Dec'25) |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Sales ($B) | 89.5 | 119.6 | 90.8 | 85.8 | 94.9 | 124.3 | 95.4 | 94.0 | **102.5** | **143.8** |
+| YoY Sales Growth % | -1.0% | +2.1% | -4.3% | +4.9% | +6.1% | +4.0% | +5.1% | +9.6% | +8.0% | **+15.7%** |
+| Op Profit (pre-D&A, $B, est.) | ~29.9 | ~38.9 | ~29.9 | ~28.4 | ~32.4 | ~43.2 | ~32.0 | ~32.5 | **~35.9** | **~50.9** |
+| OPM % (pre-D&A, est.) | ~33.4% | ~32.5% | ~32.9% | ~33.1% | ~34.1% | ~34.8% | ~33.5% | ~34.6% | **~35.0%** | **~35.4%** |
+| Depreciation ($B, est.) | ~2.9 | ~2.9 | ~2.9 | ~2.9 | ~2.9 | ~2.9 | ~2.9 | ~2.9 | ~2.9 | ~2.9 |
+| EBIT (Operating Income, $B, est.) | ~27.0 | ~36.0 | ~27.0 | ~25.5 | ~29.5 | ~40.3 | ~29.1 | ~29.6 | **~33.0** | **~48.0** |
+| EBIT Margin % (est.) | ~30.2% | ~30.1% | ~29.7% | ~29.7% | ~31.1% | ~32.4% | ~30.5% | ~31.5% | **~32.2%** | **~33.4%** |
+| Net Profit ($B) | 23.0 | 33.9 | 23.6 | 21.4 | **14.7*** | 36.3 | 24.8 | 23.0 | 27.9 | **42.1** |
+| NPM % | 25.7% | 28.4% | 26.0% | 25.0% | **15.5%*** | 29.2% | 26.0% | 24.5% | 27.2% | **29.3%** |
+| EPS ($) | 1.46 | 2.18 | 1.53 | 1.40 | **0.97*** | 2.40 | 1.65 | 1.55 | 1.85 | **2.86** |
+
+*Q4 FY2024 includes a one-time EU tax charge (~$10B). Normalised Q4 FY2024 NI would be ~$24.7B, EPS ~$1.60.*
+*Quarterly EBIT estimated from annual operating margin patterns and known quarterly revenue; Apple's quarterly 10-Qs provide exact figures.*
+
+### Key Observations
+
+1. **Revenue Trajectory:** Apple's quarterly revenue shows clear seasonality — Q1 (holiday quarter) is consistently the strongest at $120-144B, followed by Q4 (iPhone launch quarter) at $95-103B. YoY growth has accelerated from low single digits (2-6%) in FY2024 to 8-16% in recent quarters, driven by iPhone 17 cycle and Services growth. Q1 FY2026 ($143.8B, +15.7%) is a breakout quarter.
+
+2. **Margin Trend:** Net profit margins are stable at 24-29% (excluding the one-time Q4 FY2024 EU tax charge). The Services mix shift is gradually pushing margins higher — Q1 quarters (highest Services weight) consistently show the best margins at 28-29%.
+
+3. **Normalised Quarterly EPS Run-Rate:** Stripping out the Q4 FY2024 one-time tax charge, Apple's normalised FY2025 EPS is ~$7.45 (sum of $2.40 + $1.65 + $1.55 + $1.85). The Q1 FY2026 EPS of $2.86 suggests an accelerating trajectory — annualised recent trend of ~$8.00-8.50.
+
+4. **Positive Surprise:** Q1 FY2026 (+15.7% revenue, $2.86 EPS) materially exceeded expectations, driven by strong iPhone 17 demand and continued Services acceleration. This is the strongest quarterly growth in 4 years.
+
+> *"In the business world, the rearview mirror is always clearer than the windshield."* — Warren Buffett
+
+**Assessment: ACCELERATING** — Apple's quarterly trajectory has shifted from "cruising" (low-single-digit growth in FY2024) to "accelerating" (8-16% growth in recent quarters). The iPhone 17 cycle and Services momentum are genuine tailwinds. However, this acceleration must sustain for 2-3 more quarters before being considered structural rather than cyclical.
+
+---
+
+## 7. SHAREHOLDING PATTERN — Who Owns the Company?
+
+> **Purpose:** Ownership tells you who believes in the business — and who is leaving.
+
+Apple is a widely-held company with no promoter/founder holding (Tim Cook owns <0.1%). Ownership is dominated by institutional investors.
+
+| Holder Category | Dec 2024 | Mar 2025 | Jun 2025 | Sep 2025 | Dec 2025 | Mar 2026 | Trend |
+|---|---|---|---|---|---|---|---|
+| Institutional Investors | ~63% | ~64% | ~64% | ~64% | ~65% | ~65% | → |
+| Vanguard Group (largest) | ~8.7% | ~9.1% | ~9.3% | ~9.4% | ~9.7% | ~9.7% | ↑ |
+| BlackRock | ~6.9% | ~7.0% | ~7.1% | ~7.2% | ~7.4% | ~7.5% | ↑ |
+| Berkshire Hathaway (Buffett) | ~2.6% | ~2.4% | ~2.0% | ~1.8% | ~1.5% | ~1.5% | ↓ |
+| State Street | ~3.5% | ~3.6% | ~3.8% | ~3.9% | ~4.0% | ~4.0% | ↑ |
+| Insiders / Officers | ~0.12% | ~0.12% | ~0.12% | ~0.12% | ~0.12% | ~0.12% | → |
+| Retail / Public | ~37% | ~36% | ~36% | ~36% | ~35% | ~35% | → |
+
+### Analysis
+
+1. **Insider Holding:** Apple has no traditional promoter. Tim Cook's ~$2B+ in stock is meaningful to him personally but trivial as a percentage of the ~$3.78T market cap (0.05%). Management is aligned primarily through massive SBC (~$12.9B/year in RSUs).
+
+2. **Institutional Trend:** The world's three largest asset managers (Vanguard, BlackRock, State Street) have been steadily INCREASING their Apple positions — classic index-weight-driven accumulation as Apple's market cap grows. This is passive demand, not an active conviction signal.
+
+3. **Berkshire Hathaway (Buffett) Trend:** Notably, Berkshire has been TRIMMING its Apple position — from ~5.9% in late 2023 to ~1.5% by early 2026. Buffett cited portfolio concentration concerns and the need for tax-efficient selling, NOT fundamental deterioration. However, this is a meaningful signal — even Buffett, who called Apple "a better business than any we own," is selling at these valuations.
+
+4. **Retail / Public:** Stable at ~35%. Apple has an enormous retail shareholder base — one of the most widely held stocks globally.
+
+5. **Contrarian Signal Check:** There is NO contrarian divergence here. Institutional money is buying (passive flows), Buffett is selling (valuation concern), and the stock is near all-time highs. This is not a fearful market — it is a greedy one for Apple.
+
+> *"Be fearful when others are greedy, and greedy when others are fearful."* — Warren Buffett. At ~34x PE with accelerating institutional accumulation, the market is decidedly in the "greedy" camp for Apple. Buffett himself is acting fearfully by reducing his position. This aligns with the valuation analysis — Apple is a magnificent business, but the price leaves little room for error.
+
+---
+## 8. CAPEX QUALITY ANALYSIS — Growth vs. Maintenance CapEx
 
 ### CapEx & R&D Breakdown (FY Sep 2017 — FY Sep 2025)
 
@@ -171,23 +295,69 @@ For Apple, traditional CapEx (data centres, retail stores, manufacturing equipme
 
 ### Owner Earnings Calculation (Buffett's Preferred Metric)
 
+**SBC Materiality Assessment:** Apple's SBC of $12.9B is **11.5% of Net Income** — MATERIAL (>5% threshold). The company also has a massive active buyback programme ($90.7B in FY2025). Per the template framework, this triggers the full SBC analysis and Dilution-Adjusted Owner Earnings computation.
+
+**Base Owner Earnings** (for companies with negligible SBC):
 ```
-Owner Earnings = Net Income + D&A - Maintenance CapEx - SBC (as real economic cost)
-
-FY2025:
-= $112,010M + $11,698M - $20,800M - $12,863M
-= $90,045M
-
-Owner Earnings Per Share ≈ $90,045M / 15,115M shares ≈ $5.96
+Base OE = Net Income + D&A - Maintenance CapEx
+        = $112,010M + $11,698M - $20,800M
+        = $102,908M ($6.81/share)
 ```
 
-Compare this to reported FCF of $98.8B ($6.53/share) and reported EPS of ~$7.40. Owner Earnings of ~$90B is lower than reported FCF because we deducted SBC as a real cost but higher than a fully conservative estimate. The key insight: **Apple's true sustainable earning power is approximately $90B annually** — still extraordinarily strong.
+**Dilution-Adjusted Owner Earnings** (the Buffett/Burry metric for material-SBC companies):
+```
+Dilution-Adjusted OE = Base OE - Cash Cost of Anti-Dilution Buybacks
 
-> **Buffett on Owner Earnings:** *"Reported earnings are the starting point for thinking about economic earnings but are far from the end point. The first thing you need to do is look at the cash."* Apple's cash generation validates its reported earnings — this is NOT an accounting mirage. The cash is real, abundant, and returned to shareholders.
+Estimating Anti-Dilution Cost (FY2025):
+- GAAP SBC: $12,900M (grant-date fair value)
+- Estimated SBC shares vested: ~60M shares (at avg grant price ~$215)
+- Cash cost to buy back those shares at market: ~60M × $220 = ~$13,200M
+- Diluted share count FELL (15.4B → 15.1B) → buybacks exceeded SBC dilution
+- Anti-dilution cost: ~$13,200M
+- True shareholder buyback: $90,681M - $13,200M = ~$77,481M
+
+Dilution-Adjusted OE = $102,908M - $13,200M = ~$89,708M (~$5.94/share)
+```
+
+**Note:** The GAAP SBC deduction ($12,863M) and the estimated cash anti-dilution cost ($13,200M) are very close for Apple — the stock hasn't appreciated dramatically relative to grant prices (unlike NVIDIA where the gap was 5.5x). The document uses **$90,045M** as the working Owner Earnings figure (Net Income + D&A - Maintenance CapEx - GAAP SBC), which approximates the Dilution-Adjusted OE closely. This is used as the starting point for the DCF in Section 15.
+
+### SBC & Dilution Table
+
+| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Cumulative (FY17-25) |
+|---|---|---|---|---|---|---|
+| GAAP SBC Expense ($M) | 7,906 | 9,038 | 10,833 | 11,688 | 12,900 | **75,442** |
+| SBC as % of Revenue | 2.2% | 2.3% | 2.8% | 3.0% | 3.1% | — |
+| SBC as % of Net Income | 8.4% | 9.1% | 11.2% | 12.5% | 11.5% | **10.5%** |
+| Gross Shares Issued from SBC (M, est.) | ~61 | ~58 | ~68 | ~63 | ~61 | **~490** |
+| Shares Repurchased via Buybacks (M, est.) | ~658 | ~577 | ~485 | ~513 | ~432 | **~4,550** |
+| Net Dilution / (Accretion) (M) | **(~597)** | **(~519)** | **(~417)** | **(~450)** | **(~371)** | **~(4,060)** |
+| Basic Shares Outstanding (B) | ~16.4 | ~15.9 | ~15.5 | ~15.1 | ~14.8 | — |
+| Diluted Shares Outstanding (B) | 16.9 | 16.3 | 15.8 | 15.4 | 15.1 | — |
+| Basic-to-Diluted Gap (M) | ~474 | ~357 | ~339 | ~315 | ~315 | — |
+| YoY Change in Diluted Shares | -3.4% | -3.6% | -3.1% | -2.5% | -1.9% | **-28% total** |
+| Total Buyback Spend ($M) | 85,502 | 89,402 | 77,550 | 95,007 | 90,681 | **680,931** |
+| Cash Cost of Anti-Dilution Buybacks ($M, est.) | ~9,500 | ~11,300 | ~13,500 | ~14,800 | ~13,200 | **~105,000** |
+| **True Shareholder Buyback ($M)** | **~76,000** | **~78,100** | **~64,050** | **~80,200** | **~77,500** | **~576,000** |
+| Reported FCF ($M) | 92,953 | 111,443 | 99,584 | 108,807 | 98,767 | **~783,000** |
+| **Dilution-Adjusted Owner Earnings ($M)** | — | — | — | — | **~89,708** | — |
+
+### SBC Treadmill Test
+
+**SBC Treadmill Rating: 🟢 GREEN** — Only ~15% of cumulative buyback spending ($105B out of $681B) was consumed by anti-dilution. The overwhelming majority (~85%) genuinely reduced the share count. Apple's buyback programme is a TRUE capital return, not an SBC offset mechanism. The diluted share count has declined every single year for 9 consecutive years — from 20.9B to 15.1B, a 28% reduction.
+
+**Data Sourcing Note:** Buyback and SBC dollar amounts in this table are sourced from Apple's 10-K filings and may differ by ~1-3% from the Cash Flow table in Section 4, which uses INDMoney's reported figures. The directional conclusions are unaffected.
+
+**SBC Trajectory:** SBC as a % of revenue has drifted up from 2.1% to 3.1% — a mild negative trend. As a % of Net Income, it has oscillated between 8-12.5%, reflecting Apple's cyclical earnings. The absolute dollar amount ($12.9B) is large but manageable relative to Apple's $112B net income and $99B FCF.
+
+**GAAP vs. Non-GAAP Earnings Gap:** Apple does not report non-GAAP earnings (unlike many tech peers). All EPS figures in this analysis are GAAP — no SBC add-back adjustment is needed. This is a mark of integrity and simplifies the analysis. Buffett would approve.
+
+**Basic vs. Diluted Share Count Gap:** The basic-to-diluted gap has narrowed from ~474M shares (FY2021) to ~315M shares (FY2025), indicating the SBC overhang is shrinking relative to the total float. This is a positive signal — fewer unvested awards will convert to real shares in future years. The declining gap, combined with declining share count, confirms Apple is winning the dilution battle convincingly.
+
+> Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* The same logic applies to reported FCF that adds back SBC. Apple's reported FCF of $98.8B adds back $12.9B of SBC — the true economic FCF after SBC cost is closer to ~$86-90B. The Owner Earnings figure of $90.0B captures this honestly.
 
 ---
 
-## 6. RETURN ON CAPITAL — The Buffett Quality Test
+## 9. RETURN ON CAPITAL — The Buffett Quality Test
 
 ### Return Metrics (FY Sep 2017 — FY Sep 2025)
 
@@ -212,11 +382,11 @@ Apple's return metrics are not just "good" — they are among the highest of any
 
 > **Buffett:** *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* Apple passes this test with flying colours. Its ROIC has been above 30% for a decade and is RISING, not falling. Each dollar of reinvestment is more productive than the last — the hallmark of a widening moat.
 
-> **Buffett:** *"Leave the building if anyone ever starts talking about EBITDA or earnings before a lot of bad stuff."* Fortunately, Apple doesn't need accounting games — its cash flow confirms its earnings quality.
+> **Buffett:** *"Leave the building if anyone ever starts talking about EBITDA or earnings before a lot of bad stuff."* This analysis follows that philosophy — tracking EBIT (after depreciation) and Owner Earnings rather than EBITDA. Fortunately, Apple doesn't need accounting games — its cash flow confirms its earnings quality.
 
 ---
 
-## 7. COMPETITIVE POSITION & MOAT ANALYSIS
+## 10. COMPETITIVE POSITION & MOAT ANALYSIS
 
 ### Moat Type: **Multi-Layered — Brand + Switching Costs + Ecosystem Network Effects + Toll Bridge**
 
@@ -269,7 +439,7 @@ Apple's core business model — premium hardware + ecosystem services — has be
 
 ---
 
-## 8. SCALABILITY CHECK — Can This Business Scale and Is It Scaling?
+## 11. SCALABILITY CHECK — Can This Business Scale and Is It Scaling?
 
 ### Part A: The Unit Economics of Scaling
 
@@ -283,20 +453,22 @@ Apple's core business model — premium hardware + ecosystem services — has be
 | Geographic replicability | Apple's model works globally, though emerging markets (India, Africa) require lower-priced entries | Moderately Favourable |
 | CAC trend | Brand recognition is so high that organic demand drives most sales; marketing spend as % of revenue has been stable | Favourable |
 
-**2. Profit Scalability — Incremental Margin Analysis**
+**2. Profit Scalability — Incremental EBIT Margin Analysis**
 
-| Year | Revenue ($B) | Rev Growth | Op Profit ($B) | Op Profit Growth | Net Profit ($B) | NP Growth | Incremental Op Margin |
-|---|---|---|---|---|---|---|---|
-| Sep 2018 | 265.6 | 15.9% | 70.9 | 15.6% | 59.5 | 23.1% | 26.3% |
-| Sep 2019 | 260.2 | **-2.0%** | 63.9 | -9.8% | 55.3 | -7.2% | **NM (negative revenue)** |
-| Sep 2020 | 274.5 | 5.5% | 66.3 | 3.7% | 57.4 | 3.9% | 16.5% |
-| Sep 2021 | 365.8 | **33.3%** | 108.9 | **64.4%** | 94.7 | **64.9%** | **46.7%** |
-| Sep 2022 | 394.3 | 7.8% | 119.4 | 9.6% | 99.8 | 5.4% | **36.8%** |
-| Sep 2023 | 383.3 | -2.8% | 114.3 | -4.3% | 97.0 | -2.8% | NM (negative revenue) |
-| Sep 2024 | 391.0 | 2.0% | 123.2 | 7.8% | 93.7 | -3.4% | **115.1%** |
-| Sep 2025 | 416.2 | 6.4% | 133.1 | 8.0% | 112.0 | 19.5% | **39.1%** |
+| Year | Revenue ($B) | Rev Growth | EBIT ($B) | EBIT Growth | EBIT Margin | Net Profit ($B) | NP Growth | Incremental EBIT Margin* |
+|---|---|---|---|---|---|---|---|---|
+| Sep 2018 | 265.6 | 15.9% | 70.9 | 15.6% | 26.7% | 59.5 | 23.1% | 26.3% |
+| Sep 2019 | 260.2 | **-2.0%** | 63.9 | -9.8% | **24.6%** | 55.3 | -7.2% | **NM (neg rev)** |
+| Sep 2020 | 274.5 | 5.5% | 66.3 | 3.7% | 24.2% | 57.4 | 3.9% | 16.4% |
+| Sep 2021 | 365.8 | **33.3%** | 108.9 | **64.4%** | 29.8% | 94.7 | **64.9%** | **46.7%** |
+| Sep 2022 | 394.3 | 7.8% | 119.4 | 9.6% | 30.3% | 99.8 | 5.4% | **36.8%** |
+| Sep 2023 | 383.3 | -2.8% | 114.3 | -4.3% | 29.8% | 97.0 | -2.8% | NM (neg rev) |
+| Sep 2024 | 391.0 | 2.0% | 123.2 | 7.8% | 31.5% | 93.7 | -3.4% | **115.0%** |
+| Sep 2025 | 416.2 | 6.4% | 133.1 | 8.0% | **32.0%** | 112.0 | 19.5% | **39.1%** |
 
-**Incremental margins of 36-47% in growth years (vs. current operating margin of 32%) indicate Apple is an EXCELLENT scaler.** When revenue grows, an outsized proportion flows to the bottom line — classic operating leverage.
+*\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Since Apple reports under US GAAP, Operating Income already includes D&A — so Operating Income = EBIT. If incremental EBIT margins exceed current EBIT margins, the business is scaling beautifully.*
+
+**Incremental EBIT margins of 26-47% in strong growth years (>7% revenue growth) — and 16% even in the modest FY2020 recovery — vs. current EBIT margin of 32%, indicate Apple is an EXCELLENT scaler.** When revenue grows, an outsized proportion flows to the bottom line — classic operating leverage.
 
 **3. Capital Scalability**
 
@@ -344,7 +516,7 @@ Apple is no longer at the inflection point — that was 2007-2015 when the iPhon
 | Capital scalability | 9 | CapEx <3% of revenue; negative working capital; $90B+ FCF on $12.7B CapEx |
 | Scaling runway | 6 | Hardware nearing saturation; Services has large runway but iPhone unit growth is limited |
 | S-Curve position | 6 | Late growth / early mature for hardware; mid-growth for Services |
-| **Overall Scalability Score** | **7.4/10** | **Strong scaler with exceptional unit economics; runway limited by hardware maturity but extended by Services** |
+| **Overall Scalability Score** | **7.5/10** | **Strong scaler with exceptional unit economics; runway limited by hardware maturity but extended by Services** |
 
 **Classification: Strong Scaler (7-8 range) — GEICO / American Express analogy**
 
@@ -354,7 +526,7 @@ Apple is past the explosive scaling phase (the iPhone's global conquest in 2007-
 
 ---
 
-## 9. MANAGEMENT QUALITY & BUFFETT'S $1 TEST
+## 12. MANAGEMENT QUALITY & BUFFETT'S $1 TEST
 
 ### Buffett's $1 Test
 
@@ -400,7 +572,7 @@ FY2025: $12.9B / $112.0B = **11.5%**. This is moderate by Big Tech standards (Me
 
 ---
 
-## 10. OPERATING METRICS — Industry-Specific KPIs
+## 13. OPERATING METRICS — Industry-Specific KPIs
 
 ### Apple Product/Services Revenue Mix & Operating KPIs
 
@@ -431,18 +603,20 @@ FY2025: $12.9B / $112.0B = **11.5%**. This is moderate by Big Tech standards (Me
 
 ---
 
-## 11. VALUATION ANALYSIS — The Price You Pay Determines Your Return
+## 14. VALUATION ANALYSIS — The Price You Pay Determines Your Return
 
 ### Valuation Metrics (Current + Historical)
 
 | Metric | Dec 2020 | Dec 2021 | Dec 2022 | Dec 2023 | Dec 2024 | Current (Mar 2026) |
 |---|---|---|---|---|---|---|
+| **P/Owner Earnings** (primary Buffett-pure multiple) | — | — | — | — | — | **42.0x** |
+| **Owner Earnings Yield** | — | — | — | — | — | 2.4% |
 | **PE Ratio (TTM)** | 40.3x | 31.6x | **24.3x** | 30.0x | **37.4x** | 32.0x* |
 | Forward PE (est.) | ~32x | ~28x | ~22x | ~27x | ~32x | ~28x |
 | PS Ratio | ~8.5x | ~8.0x | ~5.5x | ~7.5x | ~9.5x | ~8.9x |
 | PB Ratio | — | — | — | — | — | ~60x (distorted by low equity) |
 | P/FCF Ratio | ~33x | ~28x | ~22x | ~26x | ~33x | ~37x |
-| EV/EBITDA | ~25x | ~22x | **~18x** | ~22x | ~27x | ~25x |
+| EV/EBIT (secondary cross-check) | — | — | — | — | — | ~28.1x |
 | Earnings Yield | 2.5% | 3.2% | **4.1%** | 3.3% | **2.7%** | 3.1% |
 | FCF Yield | 3.0% | 3.6% | 4.5% | 3.8% | 3.0% | 2.7% |
 | PEG Ratio | — | ~2.5 | ~3.0 | ~2.2 | ~2.8 | 2.24 |
@@ -459,13 +633,15 @@ FY2025: $12.9B / $112.0B = **11.5%**. This is moderate by Big Tech standards (Me
 
 **No.** At ~34x trailing earnings, Apple is not cheap on any absolute metric. The earnings yield of ~3.0-3.1% (depending on whether one uses the mathematical PE of 33.8x or INDMoney's reported 32.0x) is below the risk-free rate (~4.3% on 10-year Treasuries). The FCF yield of ~2.6-2.7% is thin.
 
+> **SBC Warning on FCF-Based Multiples:** Apple's SBC of ~$12.9B (11.5% of NI) means that P/FCF and FCF Yield make the stock look ~14% cheaper than reality. Reported FCF ($98.8B) adds back SBC as a "non-cash" expense, but this is real economic cost — Apple must spend cash on buybacks to offset the dilution. The P/Owner Earnings multiple (42.0x) and Owner Earnings Yield (2.4%) are the more honest measures.
+
 However, Apple is **not egregiously expensive either.** It has traded at 24-40x PE over the past 5 years, and ~34x is within the normal range though above the 31.6x median. The question is whether Apple's quality — 27% profit margins, 150%+ ROE, near-zero business risk — justifies a premium multiple.
 
 > **Buffett:** *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* At ~34x PE, Apple is a wonderful company at a FAIR-to-SLIGHTLY-EXPENSIVE price — not a bargain, but not a bubble either.
 
 ---
 
-## 12. INTRINSIC VALUE & MARGIN OF SAFETY
+## 15. INTRINSIC VALUE & MARGIN OF SAFETY
 
 ### Three-Scenario DCF Using Owner Earnings
 
@@ -514,7 +690,7 @@ At a 9% discount rate with the Base case, intrinsic value rises to approximately
 
 ---
 
-## 13. REVERSE DCF — Napkin Math Reality Check
+## 16. REVERSE DCF — Napkin Math Reality Check
 
 ### Step 1: Inputs
 
@@ -523,6 +699,8 @@ At a 9% discount rate with the Base case, intrinsic value rises to approximately
 | Current Market Price (CMP) | $250.28 | Market data |
 | TTM Normalised EPS | ~$7.40 | FY2025 (adjusted) |
 | Current PE (Normalised) | 33.8x | CMP / Normalised EPS |
+| **Owner Earnings Per Share (OEPS)** | **$5.96** | Owner Earnings ($90.0B from Section 8) ÷ 15.1B diluted shares |
+| **Current P/OE** | **42.0x** | CMP / OEPS — Buffett-pure valuation multiple |
 | Shares Outstanding (Diluted) | ~15.1B | Latest data |
 
 > **Note:** INDMoney reports the current PE as 32.0x, which may reflect a different earnings basis (e.g., forward or blended EPS). All Reverse DCF calculations below use the mathematical PE of 33.8x derived from the stated CMP ($250.28) and TTM EPS ($7.40) to ensure internal consistency.
@@ -572,15 +750,40 @@ At a 9% discount rate with the Base case, intrinsic value rises to approximately
 | 10 Years | 11.7% EPS CAGR | 16.8% | 21.9% |
 | 15 Years | 11.1% EPS CAGR | 16.2% | 21.2% |
 
+### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+
+> **Why this matters:** Step 3 uses EPS because the market prices on PE. But EPS can be misleading: a company can grow EPS by underinvesting in maintenance, financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense."* The same insight applies to EPS vs. Owner Earnings.
+
+**Current OEPS: $5.96** | **Current P/OE: 42.0x** | **Terminal P/OE: 20x** (Market Average — for an asset-light, high-quality business like Apple, P/OE terminal multiples are close to PE terminals but slightly lower since Owner Earnings < Net Income due to SBC deduction)
+
+#### Implied OEPS CAGR Needed to Achieve Target Returns (at Terminal P/OE = 20x)
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 27.6% OEPS CAGR | 33.4% | 39.2% |
+| 10 Years | 18.5% OEPS CAGR | 23.9% | 29.2% |
+| 15 Years | 15.6% OEPS CAGR | 20.8% | 26.1% |
+
+#### The Divergence Test — EPS vs. OEPS Implied Growth
+
+| Metric | At Market Avg Terminal (PE=22x / P/OE=20x) | 10-Year, 10% Return |
+|---|---|---|
+| Implied EPS CAGR (from Step 3) | 14.8% | |
+| Implied OEPS CAGR (from Step 3B) | 18.5% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **3.6 pp** | |
+
+**Interpretation:** The 3.6pp gap falls in the **2-5pp range**, indicating moderate capital intensity. Apple is asset-light for a hardware company (outsourced manufacturing) but the SBC deduction in Owner Earnings creates a meaningful wedge between EPS and OEPS. The OEPS figure is the more conservative and honest benchmark — the market needs Apple to grow Owner Earnings at ~18.5% for a decade just to earn a 10% return at a compressed terminal multiple. Apple's 7-year historical Owner Earnings Per Share CAGR is ~12.8% (FY2018-FY2025), driven by aggregate OE growth (~8.3% CAGR) amplified by ~3-4% annual share count reduction from buybacks. **The OEPS-based hurdle is demanding but not impossible — it requires Apple to grow OEPS ~1.4x faster than its 7-year track record.**
+
 ### Step 4: Reality Check
 
-| Benchmark | EPS CAGR |
-|---|---|
-| Apple's 5-Year Historical EPS CAGR (FY2020-FY2025) | ~17.7% |
-| Apple's 9-Year Historical EPS CAGR (FY2016-FY2025) | ~15.1% |
-| Apple's 10-Year Historical EPS CAGR (FY2015-FY2025) | ~12.3% |
-| US Nominal GDP Growth | ~5-6% |
-| Analyst Consensus Forward EPS Growth | ~14% |
+| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+|---|---|---|---|
+| Apple's 5-Year Historical EPS CAGR (FY2020-FY2025) | ~17.7% | — | Recent track record |
+| Apple's 9-Year Historical EPS CAGR (FY2016-FY2025) | ~15.1% | — | Medium-term track record |
+| Apple's 10-Year Historical EPS CAGR (FY2015-FY2025) | ~12.3% | — | Long-term track record |
+| Apple's Est. Historical Owner Earnings Per Share CAGR (FY2018-FY2025) | — | ~12.8% | Buffett-pure benchmark (aggregate OE ~8.3% + ~4.5% buyback accretion) |
+| US Nominal GDP Growth | ~5-6% | ~5-6% (asset-light) | Floor |
+| Analyst Consensus Forward EPS Growth | ~14% | — | Market expectations |
 
 ### Traffic Light Assessment
 
@@ -599,9 +802,11 @@ To earn a **15% annual return** over **10 years** at a **compressed PE of 22x:**
 - Historical 10Y EPS CAGR: **12.3%**
 - **Implied growth ~1.6x historical — 🟠 ORANGE to 🔴 RED**
 
+> **OEPS-Based Traffic Light (Buffett-Pure):** The EPS-based 🟢 GREEN at the 10%/29x scenario becomes more challenging on an Owner Earnings basis: the required 18.5% OEPS CAGR (at P/OE=20x) is ~1.4x Apple's historical 7-year OEPS CAGR of ~12.8%. This places it in the **🟡 YELLOW** zone (1.0-1.5x historical). The gap between EPS and OEPS implied growth (3.6pp) reflects SBC cost rather than capital intensity. If Apple's buyback programme continues reducing shares by ~2-3%/yr, the OEPS growth rate can exceed aggregate OE growth by that amount — partially closing the gap. The honest assessment is **🟡 YELLOW** on OEPS — the EPS verdict is somewhat more favourable than the Owner Earnings assessment, reflecting the SBC wedge.
+
 ### Step 5: The Verdict
 
-> "At the current price of $250.28, to earn a **10% annualised return** over **10 years** assuming the market values the business at **29x PE** at exit, the company needs to grow EPS at **11.7% CAGR**. The company has historically grown EPS at **12.3% CAGR** (true 10Y, FY2015-FY2025) and **15.1% CAGR** (9Y, FY2016-FY2025). This implies **the market is pricing in growth roughly at the lower end of Apple's historical range** — the hurdle is achievable if Apple executes at its 10-year pace, but leaves little room for disappointment. For a **15% return**, the bar becomes steep, requiring ~16.8% EPS CAGR — well above the true 10-year track record and requiring meaningful acceleration from current levels."
+> "At the current price of $250.28, to earn a **10% annualised return** over **10 years** assuming the market values the business at **29x PE** at exit, the company needs to grow EPS at **11.7% CAGR** (and Owner Earnings Per Share at **~18.5% CAGR** at a P/OE=20x terminal). The company has historically grown EPS at **12.3% CAGR** (true 10Y) and Owner Earnings Per Share at **~12.8% CAGR** (7Y). The EPS-based verdict is 🟢 barely GREEN; the OEPS-based verdict is 🟡 YELLOW (required growth is ~1.4x historical). This implies **the market is pricing in achievable EPS growth but demanding faster-than-historical Owner Earnings Per Share growth** — the gap reflects Apple's SBC programme. Note: the EPS-based assessment is more favourable than the Owner Earnings assessment, indicating that SBC is creating a meaningful hidden cost — Apple remains asset-light, but equity compensation dilutes the owner's share of earnings."
 
 **Buffett's Napkin Test: The math barely works for a 10% return and requires optimism for anything better. This is not a screaming bargain — it is a full price for a magnificent business.**
 
@@ -657,6 +862,15 @@ Using Realistic Downside ($178) and Bull Case 5Y ($375):
 
 ### Mispricing Assessment
 
+| Mispricing Source | Applicable to Apple? | Assessment |
+|---|---|---|
+| **Temporary crisis mistaken for terminal decline** | No | Apple is not in crisis; stock near ATH |
+| **Turnaround in progress but not yet visible** | No | No turnaround needed; business firing on all cylinders |
+| **Sector/narrative de-rating** | No | Tech sector is favoured, not de-rated |
+| **Complexity or obscurity discount** | No | Apple is the most analysed stock on Earth |
+| **Misunderstood growth optionality** | Partially | AI integration (Apple Intelligence) and health features may be underappreciated, but the market already prices significant Services growth |
+| **Excessive pessimism / anchoring** | No | The market is optimistic about Apple, not pessimistic |
+
 > "The mispricing opportunity here is **ABSENT**. There is no obvious mispricing. Apple is roughly correctly valued for its current fundamentals and growth trajectory. The market correctly recognises Apple as one of the world's best businesses and prices it accordingly. Returns from here will be driven primarily by earnings growth (likely 10-14% CAGR) and buyback-driven EPS accretion, not by multiple expansion. The stock is not hated, misunderstood, or in crisis — it is simply a great business at a full-ish price."
 
 | Question | Answer |
@@ -670,7 +884,7 @@ Using Realistic Downside ($178) and Bull Case 5Y ($375):
 
 ---
 
-## 14. ROE QUALITY CHECK & RETURN EXPECTATION FRAMEWORK
+## 17. ROE QUALITY CHECK & RETURN EXPECTATION FRAMEWORK
 
 ### Part A: DuPont Decomposition of ROE
 
@@ -688,13 +902,13 @@ Using Realistic Downside ($178) and Bull Case 5Y ($375):
 
 ### Component Analysis
 
-**Note on DuPont Product vs. Reported ROE divergence:** The DuPont product (Margin × Turnover × Multiplier) uses year-end balance sheet values for Total Assets and Equity, while the Reported ROE from INDMoney uses a different equity-averaging convention (likely quarterly-weighted averages). This causes the DuPont product to exceed Reported ROE by up to 25 percentage points in some years (e.g., FY2025: 177% vs 152%). See Section 6's Data Source Note for further explanation. The quality conclusions are unaffected — both sets of figures confirm Apple's ROE is extraordinarily high.
+**Note on DuPont Product vs. Reported ROE divergence:** The DuPont product (Margin × Turnover × Multiplier) uses year-end balance sheet values for Total Assets and Equity, while the Reported ROE from INDMoney uses a different equity-averaging convention (likely quarterly-weighted averages). This causes the DuPont product to exceed Reported ROE by up to 25 percentage points in some years (e.g., FY2025: 177% vs 152%). See Section 9's Data Source Note for further explanation. The quality conclusions are unaffected — both sets of figures confirm Apple's ROE is extraordinarily high.
 
 1. **Net Profit Margin:** Expanding from 21% to 27% — driven by Services mix shift. This is GENUINE operating improvement. 🟢
 
 2. **Asset Turnover:** Improved from 0.61 to 1.14 — Apple is generating nearly twice as much revenue per dollar of assets. Reflects asset-light model and operational efficiency. 🟢
 
-3. **Equity Multiplier:** Exploded from 2.8x to 5.8x — this is entirely driven by buybacks reducing the equity base. This is NOT dangerous leverage (Apple's Debt/EBITDA is <1x). The high equity multiplier is a RESULT of shareholder-friendly capital return, not financial recklessness. 🟡 (Technically high, but benign)
+3. **Equity Multiplier:** Exploded from 2.8x to 5.8x — this is entirely driven by buybacks reducing the equity base. This is NOT dangerous leverage (Apple's Debt/EBIT is ~0.73x). The high equity multiplier is a RESULT of shareholder-friendly capital return, not financial recklessness. 🟡 (Technically high, but benign)
 
 ### Quality Assessment
 
@@ -735,6 +949,32 @@ Apple's ROE is extreme (152%) but the QUALITY drivers are positive:
 
 *Note: Actual BVPS will depend on pace of buybacks. If Apple continues buying back ~2-3% of shares annually (the recent trend, down from 4-7% in earlier years), BVPS grows even faster on a per-share basis than the equity base alone, but still nowhere near 30% CAGR.*
 
+**Step 3: Expected Annual Return (CAGR) at Current Price of $250.28 (Entry P/B: ~59.6x)**
+
+*Using realistic ~12% BVPS CAGR: Year 5 BVPS = $7.40, Year 7 = $9.28, Year 10 = $13.04*
+
+| Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
+|---|---|---|---|---|
+| **P/B stays at 59.6x** | Multiple sustains (extremely optimistic at this level) | 12.0% | 12.0% | 12.0% |
+| **P/B compresses to 44.7x (75%)** | Mild de-rating | 5.7% | 7.5% | 8.8% |
+| **P/B compresses to 29.8x (50%)** | Significant de-rating | -2.5% | 1.4% | 4.5% |
+| **P/B at ~20x (historical est.)** | Reverts to pre-2020 levels | -10.0% | -4.2% | 0.4% |
+| **P/B at ~15x (quality-tier)** | Based on normalised ROA/ROE tier | -15.0% | -8.0% | -2.4% |
+| **P/B compresses to 1.0x Book** | Worst case (extreme depression) | -50.5% | -37.5% | -25.6% |
+
+**Step 4:** At the current entry P/B of ~59.6x with realistic BVPS growth of ~12%/year, the stock can tolerate essentially ZERO P/B compression before the 10-year return drops below the 10% hurdle. Even if P/B stays at its current extreme level, the return is only 12% — barely above the hurdle. Any compression destroys returns. **This confirms that P/B is not the appropriate valuation framework for Apple** — the PE-based return analysis (which shows 10-13% raw return with PE compression drag) is far more meaningful because Apple's earnings, not its book value, drive shareholder value.
+
+**Rule of Thumb:** Approximate Return ≈ (BV Compounding Rate ~12%) + (Annual P/B Change). Since Apple's P/B is at ~60x, even a mild annual compression of 5%/year wipes out most of the 12% BV compounding, leaving ~7% net.
+
+**Step 5: Traffic Light Verdict on P/B Valuation Safety**
+
+| Condition | Assessment |
+|---|---|
+| 10-year return > 10% even if P/B halves? | **No** — only 4.5%. | 🔴 RED |
+| 10-year return > 10% if P/B stays within 25%? | **Barely** — 8.8%. | 🔴 RED |
+
+**🔴 RED on the P/B framework.** However, this is expected and not alarming — it simply confirms that Apple should NOT be valued on book value. The PE-based framework (Section 14) and Owner Earnings DCF (Section 15) are the appropriate lenses, and those give a 🟡 YELLOW (cautious but achievable) verdict.
+
 **Step 3: Expected Return CAGR**
 
 For Apple, the P/B framework is less useful because BVPS is artificially depressed. Instead, the return to shareholders comes from:
@@ -754,7 +994,7 @@ For Apple, the P/B framework is less useful because BVPS is artificially depress
 | Dividend yield | +0.4% |
 | **Total Return (if PE sustains)** | **~10-13%** |
 | PE compression ~34x → 25x (drag) | −5.9% per year over 5 years (−26.5% cumulative) |
-| **Total Return (with moderate PE compression)** | **~5-7%** |
+| **Total Return (with moderate PE compression)** | **~4-7%** |
 
 > **Note on PE compression math:** The annualised drag from PE compression is calculated as (Exit PE / Entry PE)^(1/years) − 1. A compression from ~34x to 25x over 5 years = (25/34)^(1/5) − 1 = −5.9%/year. The cumulative price impact from the multiple compression alone is (25/34) − 1 = −26.5%. This underscores why entry price matters enormously even for wonderful businesses.
 
@@ -770,7 +1010,7 @@ For Apple, the P/B framework is less useful because BVPS is artificially depress
 
 ---
 
-## 15. BUY ZONE DEFINITION
+## 18. BUY ZONE DEFINITION
 
 ### Price Zones (PE-Anchored, Given P/B Irrelevance for Apple)
 
@@ -800,7 +1040,7 @@ For Apple, the P/B framework is less useful because BVPS is artificially depress
 
 ---
 
-## 16. WOULD BUFFETT HIMSELF BUY THIS STOCK?
+## 19. WOULD BUFFETT HIMSELF BUY THIS STOCK?
 
 *(Applying the full Buffett checklist — if he were working with a small capital base)*
 
@@ -817,7 +1057,7 @@ For Apple, the P/B framework is less useful because BVPS is artificially depress
 
 ### Buffett's Verdict
 
-Buffett would say: *"Apple is a magnificent business — one of the best I've ever seen. The ecosystem is extraordinary, the management is first-rate, and the capital allocation is brilliant. I'd love to own the whole company. But at ~34 times earnings, I'm not getting a margin of safety. I bought Apple when it was trading at 10-13x earnings in 2016 because it was obscenely cheap for a business of this quality. Today, the market has figured out what I saw then. I would HOLD my existing position (which is what Berkshire does) but I would not INITIATE a new position at this price. If it dropped to $170-180 — which could happen in any market panic — I'd back up the truck."*
+Buffett would say: *"Apple is a magnificent business — one of the best I've ever seen. The ecosystem is extraordinary, the management is first-rate, and the capital allocation is brilliant. I'd love to own the whole company. But at ~34 times earnings, I'm not getting a margin of safety. I bought Apple when it was trading at 10-13x earnings in 2016 because it was obscenely cheap for a business of this quality. Today, the market has figured out what I saw then. I would HOLD my existing position (which is what Berkshire does) but I would not INITIATE a new position at this price. If it dropped to $170-185 — which could happen in any market panic — I'd back up the truck."*
 
 **The distinction:** Buffett HOLDS Apple (it's ~40% of Berkshire's equity portfolio) because selling triggers taxes and the business continues to compound. But he has been NET SELLING Apple shares in 2023-2024, reducing the position from ~$178B to ~$70B — a clear signal that he believes the price has outrun value.
 
@@ -825,7 +1065,7 @@ Buffett would say: *"Apple is a magnificent business — one of the best I've ev
 
 ---
 
-## 17. RISK MATRIX
+## 20. RISK MATRIX
 
 | Risk | Category | Severity (1-10) | Probability (1-10) | Risk Score | Mitigation |
 |---|---|---|---|---|---|
@@ -842,25 +1082,76 @@ Buffett would say: *"Apple is a magnificent business — one of the best I've ev
 
 ---
 
-## 18. TURNAROUND PROBABILITY
+
+## 21. REGULATORY RISKS & POLICY HEADWINDS — Industry-Specific Assessment
+
+### The Core Issue
+
+Apple faces a concentrated set of regulatory risks centred on **antitrust enforcement** and **App Store economics**. The key regulatory bodies are: US DOJ, EU Commission (DMA), Japan JFTC, and various national regulators in India, South Korea, and elsewhere.
+
+**Current regulatory stance: HOSTILE** — Apple is the target of active antitrust lawsuits in the US (DOJ filed March 2024) and faces mandatory compliance with the EU Digital Markets Act (DMA), which threatens App Store commission rates and default app privileges.
+
+### Historical Regulatory Impact
+
+| Event | Year | Nature | Impact on Apple |
+|---|---|---|---|
+| Epic Games v. Apple lawsuit | 2020-2023 | Antitrust — App Store monopoly | Limited: Apple won on most counts; ordered to allow external payment links (minor revenue impact) |
+| EU Digital Markets Act compliance | 2024-ongoing | Regulation — gatekeeper designation | Moderate: Apple must allow sideloading and alternative app stores in EU; App Store revenue in EU (est. ~5% of global) at risk of 10-30% reduction |
+| US DOJ antitrust lawsuit | 2024-ongoing | Antitrust — smartphone monopoly | Pending: alleges monopolistic practices in messaging, smartwatch, payments; trial not expected before 2026-2027 |
+| EU €1.8B Spotify fine | 2024 | Antitrust — anti-steering practices | Direct: €1.8B fine paid; ongoing compliance costs |
+
+### The Demand Curve — How Price-Sensitive Is Apple's Business to Regulatory Costs?
+
+| Regulatory Cost Magnitude | Likely Volume/Revenue Impact | Apple's Response | Net Revenue Impact |
+|---|---|---|---|
+| **Mild (5-8% cost increase)** — e.g., minor App Store compliance costs | -0% to -1% volume (users stay on iOS) | Absorb costs within Services margin (~74% gross margin absorbs easily) | Neutral to mildly negative |
+| **Moderate (10-15% cost increase)** — e.g., mandatory App Store commission reduction from 30% to 22% | -0% volume (developers still prefer iOS); -8% App Store revenue | Mix shift to Services subscriptions + ad revenue offsets | Flat to -2% total revenue impact |
+| **Severe (>20% cost increase)** — e.g., forced sideloading + 15% global commission cap + Search default revenue loss | -0% volume (hardware unaffected); -15-20% Services revenue | Diversify Services into AI, health, financial services | **-3-5% total revenue for 1-2 years, then recovery** |
+
+### Buffett's Three-Lens Framework
+
+**1. History as Guide:** Apple has survived every regulatory challenge so far with minimal lasting damage. The Epic lawsuit resulted in a narrow ruling with immaterial revenue impact. Apple's ecosystem remains intact.
+
+**2. Pricing Power / Elasticity:** Even in the EU where sideloading is now required, the vast majority of users continue to use the App Store (convenience > ideology). Apple's Services revenue has continued growing through the regulatory challenges, suggesting strong retention.
+
+**3. Terminal Risk:** Is there a realistic scenario where regulation PERMANENTLY destroys Apple's business? **No.** Even in the most aggressive regulatory scenario (mandatory sideloading globally + reduced App Store commissions to 15%), the impact would be a ~3-5% reduction in total revenue and a ~5-8% reduction in Services revenue. Apple would still be enormously profitable. The regulatory risk is real but manageable — it is a cost of doing business at Apple's scale, not an existential threat.
+
+### Risk Rating Table
+
+| Risk Factor | Probability | Impact | Net Risk | Notes |
+|---|---|---|---|---|
+| App Store commission reduction (global) | Medium-High | Medium | Manageable | 20-30% cut to commissions = ~$8-12B revenue loss, offset by Services growth |
+| US DOJ antitrust — structural remedies | Low | High | Low probability | Breakup is extremely unlikely; behavioural remedies more probable |
+| EU DMA compliance costs | High | Low-Medium | Manageable | Ongoing cost of ~$1-2B/year; already being absorbed |
+| China regulatory/geopolitical risk | Medium | High | Concerning | ~17% of revenue; any China ban would be devastating but probability is very low |
+| AI regulation (EU AI Act, US) | Low | Low | Negligible | Apple Intelligence features may need compliance adjustments |
+| Terminal risk (product ban) | Very Low | Catastrophic | Negligible | No realistic pathway to banning smartphones |
+
+### Buffett's Verdict on Regulatory Risk
+
+**(a) Manageable and Overpriced by the Market** — Apple has survived every regulatory challenge to date. The App Store commission risk is real (~$8-12B exposure) but is already partially priced in and offset by Services growth. The US DOJ lawsuit is a multi-year process with low probability of structural remedies. China geopolitical risk is the only genuinely concerning item, and even that has low near-term probability. Regulatory fear creates buying opportunities, not reasons to sell.
+
+---
+## 22. TURNAROUND PROBABILITY
 
 **Not Applicable.** Apple is not under stress, not in transition, and not experiencing a turnaround. It is a thriving, highly profitable business generating record earnings. This section is marked N/A.
 
 ---
 
-## 19. FINAL SCORECARD & SUMMARY
+## 23. FINAL SCORECARD & SUMMARY
 
 | Factor | Score (1-10) | Commentary |
 |---|---|---|
 | **Business Quality** | **10** | One of the finest businesses ever built. 27% net margins, 31% ROA, $100B+ FCF. Unimpeachable quality. |
 | **Moat Durability** | **9** | Multi-layered moat (brand + switching costs + toll bridge). Minor erosion from regulation. |
-| **Financial Health** | **10** | Net cash position, sub-1x Debt/EBITDA, $130B+ cash hoard. Financial fortress. |
+| **Financial Health** | **10** | Net cash position, sub-1x Debt/EBIT, $130B+ cash hoard. Financial fortress. |
 | **Management Quality** | **9** | Tim Cook has been outstanding. Capital allocation near-perfect. Minor deduction for rising SBC. |
+| **Earnings Quality** | **8.5** | Owner Earnings ($90B) vs reported NI ($112B) — gap is SBC (~$13B) and maintenance CapEx. FCF conversion is excellent ($99B). SBC Treadmill is 🟢 GREEN. |
 | **Scalability** | **7.5** | Strong scaler; Services is the growth engine. Hardware mature but buybacks extend per-share scaling. |
 | **Valuation** | **4.5** | At ~34x PE, Apple is fully valued to slightly expensive. Above the 5-year median of ~31.6x. |
 | **Margin of Safety** | **2** | Significantly negative margin of safety on all DCF scenarios (Base IV: ~$123 vs CMP $250). The price has outrun the value for new buyers. |
 | **Buffett Verdict** | — | **Magnificent business, fully valued price. HOLD if owned, do NOT initiate at $250. Wait for $170-185 to buy aggressively.** |
-| **Buy Zone** | — | **Currently in "Fully Valued / Trim" zone ($222-$259). Buy zone: $148-$185.** |
+| **Buy Zone** | — | **Currently in "Fully Valued / Trim" zone ($222-$259). PE-based Buy zone: $148-$185. DCF IV range: $94-$123 (Conservative-Base).** |
 | **Overall Recommendation** | — | **HOLD** existing positions. **WAIT** for better entry. **BUY aggressively below $185.** |
 
 ### The Buffett Verdict (Consolidated)
@@ -875,7 +1166,7 @@ Buffett would HOLD the stock if already owned (as Berkshire does) but would NOT 
 
 ---
 
-## 20. TEST SIMPLICITY / NO BRAINER NATURE OF THE INVESTMENT
+## 24. TEST SIMPLICITY / NO BRAINER NATURE OF THE INVESTMENT
 
 **Can the thesis be explained to a 10-year-old?**
 
