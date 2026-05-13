@@ -40,6 +40,7 @@ Buffett: *"The key to investing is determining the competitive advantage of any 
 | EPS (Diluted) $ | 0.24 | 0.30 | 0.98 | 1.11 | 2.02 | 3.24 | **-0.27** | 2.90 | 5.53 | **7.17** |
 | EPS Growth % | N/A | 25.0% | **226.7%** | **13.3%** | 82.0% | 60.4% | N/A | N/A | 90.7% | 29.7% |
 | Shares Out (M) | **10,053** | 10,142 | 10,268 | 10,398 | 10,544 | 10,296 | 10,189 | 10,492 | 10,721 | **10,827** |
+| Shares Chg YoY % | N/A | 0.9% | 1.2% | 1.3% | 1.4% | **-2.4%** | -1.0% | **3.0%** | 2.2% | 1.0% |
 | SBC ($M) | **2,975** | 4,215 | 5,418 | 6,864 | 9,208 | 12,757 | 19,621 | **24,023** | 22,011 | 19,467 |
 
 **Trend Narrative:** Amazon's story over the last decade is one of a business transitioning from a "growth at all costs" retailer into a high-margin technology company. Revenue has grown from $136B in 2016 to $717B in 2025 — a 5.3x increase. But the real story is in margins: EBIT margins expanded from 3.1% in 2016 to 11.2% in 2025 — a near-quadrupling. Net income went from $2.4B to $77.7B. This is the classic Bezos playbook: invest aggressively for years, build an unassailable competitive position, and then harvest the margins. The 2022 dip (net loss of $2.7B) was driven by a $12.7B write-down on Rivian equity investment and COVID-era over-hiring, not operational deterioration. The recovery in 2023-2025 has been remarkable — earnings power has structurally shifted higher.
@@ -61,6 +62,7 @@ Buffett: *"The best business is a royalty on the growth of others, requiring lit
 | Shareholders' Equity ($M) | **19,285** | 27,709 | 43,549 | 62,060 | 93,404 | 138,245 | 146,043 | 201,875 | 285,970 | **411,065** |
 | Net Cash / (Debt) ($M) | 11,640 | 6,243 | 17,755 | 31,607 | 52,580 | 47,305 | **2,876** | 28,466 | 48,579 | **57,381** |
 | Goodwill ($M) | **3,784** | 13,350 | 14,548 | 14,754 | 15,017 | 15,371 | 20,288 | 22,789 | 23,074 | **23,273** |
+| TBVPS ($) | **1.54** | 1.42 | 2.82 | 4.55 | 7.43 | 11.93 | 12.34 | 17.07 | 24.52 | **35.82** |
 | BVPS ($) | **1.92** | 2.73 | 4.24 | 5.97 | 8.86 | 13.43 | 14.33 | 19.24 | 26.67 | **37.97** |
 | Debt/Equity | 0.40 | **0.89** | 0.54 | 0.38 | 0.34 | 0.35 | 0.46 | 0.29 | 0.18 | **0.16** |
 | Debt/EBIT | 1.84 | **6.03** | 1.89 | 1.61 | 1.39 | 1.96 | **5.48** | 1.58 | **0.77** | 0.82 |
@@ -83,7 +85,9 @@ Buffett: *"We will reject interesting opportunities rather than over-leverage ou
 | Free Cash Flow ($M) | 9,706 | 6,410 | 17,296 | 21,653 | 25,924 | -14,726 | **-16,893** | 32,217 | **32,878** | 7,695 |
 | FCF Margin % | 7.1% | 3.6% | 7.4% | **7.7%** | 6.7% | -3.1% | **-3.3%** | 5.6% | 5.2% | 1.1% |
 | FCF/Share ($) | 0.97 | 0.63 | 1.68 | 2.08 | 2.46 | -1.43 | **-1.66** | **3.07** | 3.07 | 0.71 |
+| Shares Chg YoY % | N/A | 0.9% | 1.2% | 1.3% | 1.4% | **-2.4%** | -1.0% | **3.0%** | 2.2% | 1.0% |
 | SBC ($M) | **2,975** | 4,215 | 5,418 | 6,864 | 9,208 | 12,757 | 19,621 | **24,023** | 22,011 | 19,467 |
+| Share Repurchases ($M) | **0** | 0 | 0 | 0 | 0 | 0 | **6,000** | 6,069 | 2,474 | 2,000 |
 | Dividends ($M) | **0** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 **Cash Flow Commentary:** Amazon's operating cash flow has grown from $16.4B (2016) to $139.5B (2025) — an 8.5x increase. However, free cash flow is volatile and often negative due to Amazon's massive CapEx programme. In 2025, CapEx hit $131.8B (primarily AWS infrastructure and AI compute), pushing FCF down to just $7.7B despite record OCF. This is the critical nuance: Amazon is CHOOSING to reinvest virtually all its cash flow back into growth. The "low FCF" is not a sign of a cash-poor business — it's a sign of a business that sees enormous reinvestment opportunities at high returns.
@@ -108,6 +112,10 @@ Buffett: *"Owner earnings are the relevant item for valuation purposes — not r
 | EBIT Margin % | 3.1% | **2.3%** | 5.3% | 5.2% | 5.9% | 5.3% | 2.4% | 6.4% | 10.8% | **11.2%** |
 | NPM % | 1.7% | 1.7% | 4.3% | 4.1% | 5.5% | 7.1% | **-0.5%** | 5.3% | 9.3% | **10.8%** |
 | Current Ratio | 1.04 | 1.04 | 1.10 | 1.10 | 1.05 | **1.14** | **0.94** | 1.05 | 1.06 | 1.05 |
+
+> *Note: Traditional working capital metrics (Debtor Days, Inventory Days, Cash Conversion Cycle, Working Capital Days) are not presented for Amazon because (a) Amazon operates with negative working capital by design — it collects from customers immediately but pays suppliers on extended terms, and (b) the blended nature of retail + cloud + advertising makes these metrics difficult to interpret meaningfully. Amazon's current ratio of ~1.0x reflects this deliberately capital-efficient operating model, not financial stress.*
+
+| Dividend Payout % | **0%** | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | **0%** |
 | Interest Coverage | 8.7x | **4.8x** | 8.8x | 9.1x | 13.9x | 13.8x | 5.2x | 11.6x | 28.5x | **35.2x** |
 
 ### Part B: Buffett's Quality Checklist
@@ -124,9 +132,12 @@ Buffett: *"Owner earnings are the relevant item for valuation purposes — not r
 | Dividend payout | Paying | 0% (reinvests all) | ⚠️ |
 | EBIT Margin trend | Expanding | 2.4%-11.2% (5Y, strong uptrend) | ⚠️ |
 | Moat / Pricing Power | Identifiable | Flywheel + AWS lock-in | ✅ |
+| ROIC > 15% | >15% | 21.8% (FY2025) | ✅ |
 | Earnings yield | Reasonable | 2.9% | ✅ |
 
 > **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
+> *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
 
 **Narrative:** The ratio trends reveal a business that has undergone a structural transformation. ROE and ROCE were modest in the early years (Amazon was reinvesting everything), but have surged to elite levels post-2023 as the margin expansion kicked in. The moat signal is unmistakable: a business that can grow revenue at 12% while expanding EBIT margins from 2.4% to 11.2% in three years has extraordinary pricing power and operating leverage. The only yellow flags are the lack of dividends (understandable for a company with vast reinvestment opportunities) and volatile FCF (driven by investment choices, not operational weakness).
 
@@ -137,6 +148,7 @@ Buffett: *"Owner earnings are the relevant item for valuation purposes — not r
 | Metric | Sep'23 | Dec'23 | Mar'24 | Jun'24 | Sep'24 | Dec'24 | Mar'25 | Jun'25 | Sep'25 | Dec'25 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Revenue ($M) | **143,083** | 169,961 | 143,313 | 147,977 | 158,877 | 187,792 | 155,667 | 167,702 | 180,169 | **213,386** |
+| YoY Rev Growth % | 12.6% | **13.9%** | 12.5% | 10.1% | 11.0% | 10.5% | **8.6%** | 13.3% | 13.4% | 13.6% |
 | Operating Profit (pre-D&A) ($M) | **23,354** | 25,706 | 27,955 | 27,702 | 30,575 | 35,253 | 32,794 | 34,071 | 33,889 | **44,977** |
 | OPM % (pre-D&A) | **16.3%** | 15.1% | 19.5% | 18.7% | 19.2% | 18.8% | **21.1%** | 20.3% | 18.8% | **21.1%** |
 | Depreciation ($M) | **12,166** | 12,497 | 12,648 | 12,933 | 13,164 | 14,050 | 14,389 | 14,900 | 16,467 | **20,000** |
@@ -153,6 +165,8 @@ Buffett: *"Owner earnings are the relevant item for valuation purposes — not r
 2. **Margin Trend:** EBIT margins have expanded from ~7.8% in Sep'23 to ~11.7% in Dec'25, reflecting operating leverage across all segments. OPM (pre-D&A) has expanded even more dramatically — from 16.3% to 21.1% — indicating the business generates substantial operating cash before capital charges. The gap between OPM (pre-D&A) and EBIT Margin widened from ~8.5pp to ~9.4pp over this period, reflecting rising D&A from Amazon's massive $132B CapEx programme. This is a pattern EBITDA-based analysis would miss entirely — EBITDA margins look stellar at 21%, but after accounting for the capital Amazon consumes, true operating margins are ~11%. The Q3 2025 EBIT dip (9.7%) was due to a $2.5B FTC settlement charge and $1.8B in severance costs — without these, EBIT margin would have been ~12%.
 
 3. **Normalised Quarterly EPS Run-Rate:** Stripping out the Q3 2025 special charges, the normalised quarterly EPS run-rate is approximately $1.80-$2.00. Annualised, this gives a normalised earnings power of ~$7.20-$8.00 per share.
+
+> *"In the business world, the rearview mirror is always clearer than the windshield."* — Warren Buffett
 
 4. **Verdict: Cruising at high altitude with room to accelerate.** Revenue growing 12-14%, margins expanding, AWS accelerating at 20% growth. This is a classic Buffett compounding machine in its prime.
 
@@ -174,6 +188,8 @@ Amazon is a **widely-held company with no controlling promoter** (similar to mos
 
 **Analysis:** Bezos has been a steady seller (~$10B+ annually in recent years), but this is well-known and reflects personal liquidity needs and Blue Origin funding — not a loss of conviction in the business. Institutional ownership is extremely deep and broad — Amazon is a core holding for virtually every large index fund, pension fund, and mutual fund globally. This provides exceptional liquidity and price stability for a stock of this size. There is no promoter pledge risk, no regulatory holding constraint, and no concentration risk in ownership.
 
+> *"Be fearful when others are greedy, and greedy when others are fearful."* — Warren Buffett. At current prices, neither extreme fear nor extreme greed is evident in Amazon's ownership structure — institutional ownership is stable and broad-based, reflecting rational confidence rather than euphoria.
+
 ---
 
 ## 8. CAPEX QUALITY ANALYSIS — Growth vs. Maintenance CapEx
@@ -184,6 +200,7 @@ Amazon is a **widely-held company with no controlling promoter** (similar to mos
 | CapEx % Rev | **5.0%** | 6.7% | 5.8% | 6.0% | 10.4% | 13.0% | 12.4% | 9.2% | 13.0% | **18.4%** |
 | R&D ($M) | **16,085** | 22,620 | 28,837 | 35,931 | 42,740 | 56,052 | 73,213 | 85,622 | 88,544 | **108,521** |
 | R&D % Rev | 11.8% | 12.7% | 12.4% | 12.8% | **11.1%** | 11.9% | 14.2% | 14.9% | 13.9% | **15.1%** |
+| Shares Chg YoY % | N/A | 0.9% | 1.2% | 1.3% | 1.4% | **-2.4%** | -1.0% | **3.0%** | 2.2% | 1.0% |
 | SBC ($M) | **2,975** | 4,215 | 5,418 | 6,864 | 9,208 | 12,757 | 19,621 | **24,023** | 22,011 | 19,467 |
 | SBC % Rev | **2.2%** | 2.4% | 2.3% | 2.4% | 2.4% | 2.7% | 3.8% | **4.2%** | 3.5% | 2.7% |
 
@@ -197,7 +214,53 @@ The remaining ~60% of CapEx ($79.1B) is growth CapEx — primarily AWS data cent
 
 **SBC as % of Net Income:** 25.1% in 2025, down from peak levels. Still significant but declining as a proportion of earnings — the business is growing into its SBC expense.
 
-Buffett: *"The best businesses are those that can grow without requiring proportional capital reinvestment."* Amazon is an exception to this rule — it CHOOSES to reinvest massive capital because the returns on that capital (especially in AWS) are extremely attractive. The day Amazon stops finding high-return reinvestment opportunities, FCF will explode higher.
+Buffett: *"The best businesses are those that can grow without requiring proportional capital reinvestment."*
+
+### SBC & Share Dilution Analysis — The Hidden Cash Cost to Shareholders
+
+> **SBC Materiality Gate:** Amazon's SBC is $19.5B (25.1% of Net Income) in FY2025 — well above the 5% threshold. Full analysis is MANDATORY.
+
+**SBC & Dilution Table:**
+
+| Metric | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | Cumulative |
+|---|---|---|---|---|---|---|---|
+| GAAP SBC Expense ($M) | 9,208 | 12,757 | 19,621 | 24,023 | 22,011 | 19,467 | 107,087 |
+| SBC as % of Revenue | 2.4% | 2.7% | 3.8% | 4.2% | 3.5% | 2.7% | |
+| SBC as % of Net Income | 43.2% | 38.2% | N/M | 79.0% | 37.2% | 25.1% | |
+| Gross Shares Issued from SBC (M) | ~200 | ~180 | ~160 | ~270 | ~260 | ~95 | ~1,165 |
+| Shares Repurchased via Buybacks (M) | 0 | 0 | 47 | 36 | 12 | 9 | 104 |
+| Net Dilution / (Accretion) (M) | +194 | -248 | -107 | +303 | +229 | +106 | +477 |
+| Basic Shares Outstanding (M) | 10,350 | 10,117 | 10,073 | 10,304 | 10,549 | 10,632 | |
+| Diluted Shares Outstanding (M) | 10,544 | 10,296 | 10,189 | 10,492 | 10,721 | 10,827 | |
+| Basic-to-Diluted Gap (M) | 194 | 179 | 116 | 188 | 172 | 195 | |
+| YoY Change in Diluted Shares (%) | +1.4% | -2.4% | -1.0% | +3.0% | +2.2% | +1.0% | |
+| Total Buyback Spend ($M) | 0 | 0 | 6,000 | 6,069 | 2,474 | 2,000 | 16,543 |
+| Cash Cost of Anti-Dilution Buybacks ($M) | 0 | 0 | 6,000 | 6,069 | 2,474 | 2,000 | 16,543 |
+| True Shareholder Buyback ($M) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Reported FCF ($M) | 25,924 | -14,726 | -16,893 | 32,217 | 32,878 | 7,695 | 67,095 |
+| Base Owner Earnings ($M) | 30,455 | 43,376 | 13,741 | 57,997 | 78,844 | 90,699 | 315,112 |
+| **Dilution-Adjusted OE ($M)** | **30,455** | **43,376** | **7,741** | **51,928** | **76,370** | **88,699** | **298,569** |
+
+**Analysis:**
+
+**1. Gross vs. Net Dilution Trend:** Amazon's diluted share count has grown from 10,544M (2020) to 10,827M (2025) — a net increase of 283M shares (+2.7%) over 5 years. The $16.5B spent on buybacks (2022-2025) was insufficient to offset SBC-driven dilution. Every dollar of "buyback" was consumed by anti-dilution — zero was returned to shareholders as genuine capital return.
+
+**2. SBC Treadmill Test:** 100% of buyback spending was consumed by anti-dilution. Rating: 🔴 — the buyback programme is entirely an illusion for Amazon. However, context matters: Amazon's buyback programme is tiny ($2B/year) relative to its $91B Owner Earnings. The company is choosing to reinvest in growth rather than buy back shares. This is a rational choice given 20%+ returns on invested capital at AWS.
+
+**3. GAAP Expense vs. Cash Reality Gap:** Cumulative GAAP SBC expense was $107.1B. Cash spent on anti-dilution buybacks was $16.5B — just 0.15x the GAAP figure. This is the INVERSE of the typical pattern (where cash cost exceeds GAAP). Amazon is simply NOT buying back shares aggressively enough to offset dilution. The true economic cost of SBC is the GAAP expense ($107B) plus the ongoing dilution — shareholders are paying through ownership dilution, not through cash buybacks.
+
+**4. Dilution-Adjusted OE vs. Reported Metrics:** FY2025 Base OE of $90.7B vs. Dilution-Adjusted OE of $88.7B — a gap of only 2.2%. This is small because Amazon's buyback programme is tiny. The more relevant concern is the 25% SBC/NI ratio, which means a quarter of Amazon's reported profits flow to employees rather than shareholders. GAAP already captures this cost, but it's worth noting: Amazon's true per-share compounding rate is ~1% lower than headline EPS growth due to ongoing dilution.
+
+**5. SBC Trajectory:** SBC as % of revenue has declined from 4.2% (2023) to 2.7% (2025) — the business is growing into its SBC expense. SBC as % of NI has plunged from 79% (2023) to 25% (2025) as earnings surged. The trajectory is strongly favourable.
+
+**6. GAAP vs. Non-GAAP Earnings Gap:** Amazon does not prominently report non-GAAP earnings that add back SBC (unlike many tech peers). GAAP EPS of $7.17 is the relevant figure. This is a positive governance signal.
+
+**7. Basic vs. Diluted Share Count Gap:** The Basic-to-Diluted gap is 195M shares (1.8% of basic). This has been stable at 150-200M over the period, indicating the SBC overhang is not growing. The forward dilution pipeline is manageable.
+
+> Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* The same logic applies to reported FCF that ignores ongoing dilution. Amazon's $7.7B reported FCF overstates true shareholder cash flow by ignoring the ~1% annual dilution.
+
+**DCF Starting Point Decision:** This analysis uses **Base Owner Earnings ($8.38/share)** for the DCF, not Dilution-Adjusted ($8.19/share). Justification: Amazon's anti-dilution buyback cost is just $2B/year — only 2.2% of Owner Earnings — making the adjustment immaterial to the valuation conclusion (it changes IV by ~$5/share). However, investors should monitor SBC trends: if Amazon does not scale up buybacks as SBC remains elevated, the cumulative dilution will compound over time.
+ Amazon is an exception to this rule — it CHOOSES to reinvest massive capital because the returns on that capital (especially in AWS) are extremely attractive. The day Amazon stops finding high-return reinvestment opportunities, FCF will explode higher.
 
 ---
 
@@ -210,6 +273,16 @@ Buffett: *"The best businesses are those that can grow without requiring proport
 | ROIC % | 34.7% | 16.7% | 46.2% | 42.9% | **56.6%** | 33.0% | **8.3%** | 18.9% | 28.9% | 21.8% |
 | ROCE % | 10.6% | 7.3% | 14.8% | 12.6% | 13.8% | 10.5% | **4.2%** | 11.0% | **17.0%** | 15.3% |
 | EBIT Margin % | 3.1% | **2.3%** | 5.3% | 5.2% | 5.9% | 5.3% | 2.4% | 6.4% | 10.8% | **11.2%** |
+
+
+**DuPont Decomposition (see Section 17 for full 10-year table):**
+
+| Component | 2020 | 2022 | 2025 | Trend |
+|---|---|---|---|---|
+| Net Profit Margin | 5.5% | -0.5% | 10.8% | ↑↑ (strong expansion) |
+| Asset Turnover | 1.41x | 1.16x | 0.99x | ↓ (asset base growing) |
+| Equity Multiplier | 3.51x | 3.11x | 2.07x | ↓ (leverage declining) |
+| **ROE** | **27.4%** | **-1.9%** | **22.3%** | **Margin-driven quality improvement** |
 
 **Return on Capital Analysis:** ROE has surged from 12.3% in 2016 to 22.3% in 2025. Critically, this is driven by GENUINE profitability improvement (net margins expanding from 1.7% to 10.8%), not by leverage — the equity multiplier has actually declined as equity has grown faster than assets. ROA of 10.8% in 2025 confirms the quality of returns.
 
@@ -242,7 +315,21 @@ Amazon passes Buffett's reinvestment test with flying colours: it earns high ret
 
 ## 11. SCALABILITY CHECK — Can This Business Scale and Is It Scaling?
 
-### Part A: Incremental EBIT Margin Analysis
+### Part A: The Unit Economics of Scaling
+
+**1. Revenue Scalability — Can revenue grow without proportional resource additions?**
+
+| Factor | Amazon Assessment | Signal |
+|---|---|---|
+| **Marginal cost structure** | AWS: near-zero marginal cost per additional compute unit. Marketplace: zero inventory cost (3P sellers bear it). Advertising: pure margin. Retail 1P: proportional but declining with automation. | 🟢 Favourable |
+| **Pricing power at scale** | Prime price has increased 3x since launch with minimal churn. AWS has pricing power through switching costs. Advertising prices rise with platform traffic. | 🟢 Favourable |
+| **Distribution leverage** | Same logistics network delivers more packages at declining per-unit cost. Same AWS infrastructure serves more workloads. Same marketplace serves more sellers. | 🟢 Favourable |
+| **Geographic replicability** | E-commerce model replicated across 20+ countries. AWS available globally with region-based expansion. Some local regulatory friction (India, EU). | 🟢 Mostly Favourable |
+| **CAC trend** | Brand recognition makes customer acquisition nearly free (most customers come direct). Prime flywheel reduces CAC over time. | 🟢 Favourable |
+
+**2. Profit Scalability — Incremental EBIT Margin Analysis**
+
+*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on pre-D&A Operating Profit. This captures whether scaling is genuine or being eaten by rising capital consumption.*
 
 | Period | Rev Change ($M) | EBIT Change ($M) | Incremental EBIT Margin | Current EBIT Margin |
 |---|---|---|---|---|
@@ -257,6 +344,29 @@ Amazon passes Buffett's reinvestment test with flying colours: it earns high ret
 | 2024-2025 | 78,965 | 11,382 | 14.4% | 11.16% |
 
 **Scaling Verdict:** The incremental EBIT margins in 2023-2025 have been dramatically higher than reported EBIT margins — Amazon added $31.7B in EBIT on $63.2B of incremental revenue in 2023→2024 (50.2% incremental EBIT margin vs 10.8% reported EBIT margin), and $11.4B on $79B in 2024→2025 (14.4% incremental EBIT margin vs 11.2% reported EBIT margin). The 2023→2024 period was particularly remarkable — half of every incremental revenue dollar fell to EBIT (after D&A). This is the hallmark of an **elite scaler** — fixed costs are absorbed, and each new dollar of revenue is disproportionately profitable. Critically, these are EBIT-based incremental margins (after deducting the capital the business consumes), not EBITDA-based — the scaling is genuine, not an artefact of ignoring depreciation.
+
+
+
+**Scaling Quality Assessment:**
+
+| Incremental EBIT Margin vs Current | Interpretation | Amazon (Recent) |
+|---|---|---|
+| Significantly above (>1.5x current) | **Elite scaler** | 2023→2024: 50.2% inc vs 10.8% current = 4.6x ✅ |
+| Moderately above (1.0-1.5x) | **Good scaler** | 2024→2025: 14.4% inc vs 11.2% current = 1.3x ✅ |
+| Roughly equal | **Linear scaler** | — |
+| Below current margin | **Scaling friction** | 2020→2021: 2.4% inc (heavy investment year) |
+| Negative | **Anti-scaling** | 2021→2022: -28.6% (Rivian + over-hiring) |
+
+**3. Capital Scalability — Can the business grow without proportional capital reinvestment?**
+
+| Metric | 2021 | 2022 | 2023 | 2024 | 2025 | Trend |
+|---|---|---|---|---|---|---|
+| CapEx as % of Revenue | 13.0% | 12.4% | 9.2% | 13.0% | 18.4% | ↑ (AI investment surge) |
+| Revenue per $ CapEx | 7.7x | 8.1x | 10.9x | 7.7x | 5.4x | ↓ (front-loaded investment) |
+| Working Capital as % of Rev | Negative | Negative | Negative | Negative | Negative | → (structural advantage) |
+| Asset Turnover | 1.27x | 1.16x | 1.16x | 1.11x | 0.99x | ↓ (asset base growing faster than revenue) |
+
+Capital scalability is Amazon's weakest dimension — the business is investing $132B annually, and asset turnover is declining. However, this reflects CHOICE, not structural constraint. Amazon is front-loading investment in AI/AWS infrastructure that will generate returns over 10-15 year equipment lives. If CapEx normalises to 10-12% of revenue (as management has guided), capital scalability metrics will improve sharply.
 
 ### Part B: Where on the S-Curve?
 
@@ -327,8 +437,13 @@ Buffett: *"You're looking for three things: intelligence, energy, and integrity.
 - PE Ratio: 34.93x
 - P/B Ratio: 6.6x
 - BVPS: $37.97
+- Forward PE (FY2026E): ~28x (consensus EPS ~$8.90)
+- PS Ratio: 3.8x
 - Earnings Yield: 2.9%
-- P/FCF: 352.4x (distorted by $132B CapEx year — not meaningful in isolation)
+- FCF Yield: 0.3% (distorted by CapEx cycle; normalised ~3-4%)
+- PEG Ratio: ~2.0x (PE 35x / ~18% forward growth)
+- P/FCF: 352.4x (distorted by $132B CapEx year — not meaningful in isolation; additionally, reported FCF adds back $19.5B SBC in OCF, masking the dilution cost to shareholders)
+- P/Dilution-Adjusted Owner Earnings: 30.6x (using DA-OEPS $8.19 — accounts for anti-dilution buyback cost)
 - EV/EBIT: 33.2x *(secondary cross-check; Buffett himself rarely uses Enterprise Value constructs, preferring equity-value thinking)*
 
 > **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. Amazon's $65.8B in D&A is not free money — it represents the wear on $818B of assets. EV/EBIT at 33.2x vs a hypothetical EV/EBITDA of 18.2x tells the honest story: after accounting for capital consumption, Amazon is more expensive than EBITDA suggests. **P/Owner Earnings (29.9x) is the preferred Buffett-pure multiple** — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each dollar of real cash the business generates for its owner.
@@ -353,6 +468,26 @@ Terminal Growth Rate: 3%
 | Base | 15% | 10% | $254.3 | 1.5% | 1.52% |
 | Optimistic | 18% | 12% | $306.5 | 18.28% | 22.36% |
 
+
+**Full DCF Breakdown — Base Case:**
+
+| Component | Value |
+|---|---|
+| Starting OEPS | $8.38 |
+| PV of Year 1-5 Cash Flows (15% growth) | $47.97 |
+| PV of Year 6-10 Cash Flows (10% growth) | $52.33 |
+| Year 10 Owner Earnings (projected) | $27.15/share |
+| Terminal Value (Gordon Growth: $27.15 × 1.03 / 0.07) | $399.43/share |
+| PV of Terminal Value | $154.00 |
+| **Total Intrinsic Value Per Share** | **$254.30** |
+| Less: Net Debt adjustment | $0 (net cash — no adjustment needed) |
+| Diluted Shares Used | 10,827M |
+| MoS = (IV − CMP) / IV | (254.30 − 250.48) / 254.30 = **1.5%** |
+| Upside = (IV − CMP) / CMP | (254.30 − 250.48) / 250.48 = **1.52%** |
+
+> *Note: The DCF uses Base Owner Earnings ($8.38/share) rather than Dilution-Adjusted Owner Earnings ($8.19/share) because Amazon's buyback programme is small ($2B/year) relative to its $91B Owner Earnings — the anti-dilution adjustment is only 2.1%, immaterial to the valuation conclusion. However, investors should note that SBC at 25% of NI is significant, and the share count has grown ~1% annually despite buybacks. If Amazon scaled up buybacks to fully offset SBC (~$20B/year at current share prices), the cash cost would reduce Owner Earnings by ~22% — a scenario worth monitoring.*
+
+
 **Interpretation:** Under the Base Case (15% growth for 5 years, 10% for the next 5), Amazon's intrinsic value is approximately $254.3 per share — implying the stock is roughly fairly priced at $250.48. The Conservative case ($210.75) suggests ~16% downside, meaning the stock is meaningfully above intrinsic value if growth disappoints. The Optimistic case ($306.50) offers ~22% upside. The range of outcomes spans from -16% to +22%, indicating that at the current price, investors are essentially betting on at least Base Case execution — there is limited margin of safety against growth disappointment.
 
 Buffett: *"Price is what you pay. Value is what you get."*
@@ -361,7 +496,7 @@ Buffett: *"Price is what you pay. Value is what you get."*
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = $250.48 | Normalised TTM EPS = $7.17 | Current PE = 34.93x | Owner Earnings Per Share (OEPS) = $8.38 | Current P/OE = 29.9x
+**Inputs:** CMP = $250.48 | Normalised TTM EPS = $7.17 | Current PE = 34.93x | Owner Earnings Per Share (OEPS) = $8.38 | Current P/OE = 29.9x | Shares Outstanding (Diluted) = 10,827M
 
 **At Terminal PE = Mature (15x):**
 
@@ -369,6 +504,7 @@ Buffett: *"Price is what you pay. Value is what you get."*
 |---|---|---|---|
 | 5 Years | 30.26% | 36.19% | 42.11% |
 | 10 Years | 19.7% | 25.15% | 30.59% |
+| 15 Years | 16.38% | 21.67% | 26.96% |
 
 **At Terminal PE = Market Avg (20x):**
 
@@ -376,6 +512,7 @@ Buffett: *"Price is what you pay. Value is what you get."*
 |---|---|---|---|
 | 5 Years | 22.98% | 28.57% | 34.16% |
 | 10 Years | 16.31% | 21.6% | 26.88% |
+| 15 Years | 14.17% | 19.36% | 24.55% |
 
 **At Terminal PE = Compounder (28x):**
 
@@ -383,6 +520,7 @@ Buffett: *"Price is what you pay. Value is what you get."*
 |---|---|---|---|
 | 5 Years | 14.98% | 20.2% | 25.43% |
 | 10 Years | 12.46% | 17.57% | 22.68% |
+| 15 Years | 11.63% | 16.71% | 21.78% |
 
 **At Terminal PE = Historical Avg (35x):**
 
@@ -390,6 +528,7 @@ Buffett: *"Price is what you pay. Value is what you get."*
 |---|---|---|---|
 | 5 Years | 9.96% | 14.96% | 19.96% |
 | 10 Years | 9.98% | 14.98% | 19.98% |
+| 15 Years | 9.99% | 14.99% | 19.99% |
 
 ### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
@@ -436,6 +575,96 @@ Terminal P/OE multiples are typically lower than PE for capital-intensive busine
 
 At a terminal PE of 28x (compounder), the required EPS CAGR is ~12.5% for a 10% return over 10 years (and ~12.9% OEPS CAGR at 23x terminal P/OE) — comfortably below Amazon's recent ~22% EPS CAGR and ~24% OEPS CAGR, providing a meaningful cushion even if growth decelerates. Since the EPS and OEPS verdicts are virtually identical (0.08 pp gap), Amazon's capital intensity is not masking the true hurdle — the business is asset-light through the Owner Earnings lens.
 
+
+### Step 6: Asymmetric Upside Check — Is This a Fat Pitch?
+
+> Buffett: *"The stock market is a no-called-strike game. You don't have to swing at everything — you can wait for your pitch."*
+
+**Part 1: Downside Floor — How Much Can You Lose?**
+
+| Downside Scenario | Valuation Basis | Implied Price | Downside from CMP |
+|---|---|---|---|
+| **Asset / Liquidation Floor** | TBVPS = $35.82 (tangible book — extremely conservative, ignores franchise) | $35.82 | -85.7% |
+| **Recession / Trough Earnings** | Normalised trough EPS ~$4.00 × Trough PE 20x (Amazon rarely trades below 20x) | $80.00 | -68.1% |
+| **Normalised Bear Case** | Conservative DCF from Section 15 | $210.75 | -15.9% |
+| **"Business-fine-but-market-panics" Floor** | Historical low PE of ~30x × current normalised EPS $7.17 | $215.10 | -14.1% |
+
+**Most probable downside floor: ~$210-$215** — Amazon is extremely unlikely to trade below 30x normalised earnings (its historical trough) unless the business is fundamentally impaired.
+
+**Part 2: Upside Case — How Much Can You Win?**
+
+| Upside Scenario | Valuation Basis | Implied Price | Upside from CMP |
+|---|---|---|---|
+| **Base Case** | DCF Base IV from Section 15 | $254.30 | +1.5% |
+| **Bull Case** | FY2028E EPS ~$12 × 25x PE (continued margin expansion + 15% revenue growth) | $300.00 | +19.8% |
+| **Scaling Multiplier** | AWS re-rates as standalone (~$180/share) + Retail at 20x (~$120/share) = SOTP ~$300 | $300.00 | +19.8% |
+| **Re-rating Catalyst** | If PE reverts to 5Y avg of 48x on current EPS: $7.17 × 48 | $344.16 | +37.4% |
+
+**Part 3: Asymmetry Ratio**
+
+Using Base Case Upside (+1.5%) and Most Probable Downside (-15.9%):
+
+```
+Asymmetry Ratio = 1.5% / 15.9% = 0.09:1
+```
+
+| Asymmetry Ratio | Interpretation |
+|---|---|
+| **0.09:1** | **Negative asymmetry** — the downside materially exceeds the upside at the Base Case. This is NOT a fat pitch at current prices. |
+
+Using Bull Case Upside (+19.8%) and Most Probable Downside (-15.9%):
+
+```
+Asymmetry Ratio = 19.8% / 15.9% = 1.25:1
+```
+
+Even on the Bull Case, the ratio is only 1.25:1 — marginal. You need things to go right (continued margin expansion, AWS acceleration) just to achieve a modestly favourable risk/reward.
+
+**Part 4: Catalysts & Anti-Catalysts**
+
+**Catalysts (things that could trigger upside re-rating):**
+1. **AWS AI revenue acceleration** — If generative AI workloads drive AWS growth from 20% to 25-30%, the market will re-rate Amazon's PE upward. Probability: Medium. Timing: 12-24 months.
+2. **Margin expansion continues** — If operating margins expand from 11% toward 15% (driven by advertising growth and logistics efficiency), EPS could reach $10-12 by FY2027. Probability: Medium-High. Timing: 12-36 months.
+3. **CapEx normalisation** — When the AI investment cycle peaks and CapEx declines as a % of revenue, FCF will surge, attracting value and income investors. Probability: Medium. Timing: 24-48 months.
+4. **Initiation of dividends/buyback programme** — A large-scale capital return programme would signal management confidence in sustainable cash flows and attract a new investor base. Probability: Low-Medium. Timing: 24-48 months.
+
+**Anti-Catalysts (things that could cause permanent capital loss):**
+1. **Antitrust-forced structural separation** — If the FTC forces Amazon to separate AWS from retail, the sum-of-parts may be worth less than the conglomerate (loss of cross-subsidy, shared infrastructure). Probability: Very Low.
+2. **AI CapEx destruction** — If the $130B+ annual CapEx in AI infrastructure generates poor returns (AI commoditises, hyperscaler pricing war), ROI on invested capital could decline structurally. Probability: Low-Medium. This is the most credible bear case.
+3. **Sustained margin compression** — If competition (Temu, Walmart+), unionisation, and regulatory costs reverse the margin expansion, the earnings story unravels. Probability: Low.
+
+**Part 5: Fat Pitch Verdict**
+
+> *"At $250.48, the realistic downside is approximately 15.9% to ~$211 (Conservative DCF floor). The realistic base-case upside is approximately 1.5% to $254 over 3-5 years. This gives an asymmetry ratio of 0.09:1 on the Base Case, or 1.25:1 on the Bull Case. The catalysts that could unlock value are AWS AI acceleration and continued margin expansion, but these require execution — the market is already pricing in competent execution. This is NOT a fat pitch."*
+
+**Mispricing Identification:**
+
+
+**Mispricing Assessment by Type:**
+
+| Mispricing Source | Applicable to Amazon? | Assessment |
+|---|---|---|
+| **Temporary crisis mistaken for terminal decline** | No | Amazon is not in crisis — record profits, growing business |
+| **Turnaround in progress not yet visible** | No | The turnaround (margin expansion) has already played out and is visible |
+| **Sector/narrative de-rating** | Partially | Big Tech faces PE compression from "growth" to "value" re-classification, but this is rational, not a mispricing |
+| **Complexity or obscurity discount** | No | Amazon is one of the most widely covered stocks globally |
+| **Misunderstood growth optionality** | Partially | AI/AWS optionality may be undervalued, but the market is aware of it |
+| **Excessive pessimism / anchoring** | No | Amazon at 35x PE is not priced with pessimism — it reflects fair-to-moderate optimism |
+
+> *"The mispricing opportunity is ABSENT. Amazon at ~35x PE is at its historical lows, which might SEEM like a bargain — but this is also the first time Amazon has generated truly massive profits. The market has rationally re-rated Amazon from a 'high-growth, no-profit' stock (deserving 60-100x PE) to a 'high-quality, profitable compounder' (deserving 30-40x PE). This PE compression is not mispricing — it is correct revaluation. Returns from here will be driven primarily by business execution and earnings growth, not by multiple expansion or error correction."*
+
+**Final Buffett Filter:**
+
+| Question | Answer |
+|---|---|
+| Is the downside capped by tangible value, franchise value, or earnings floor? | Yes — Amazon's brand, AWS franchise, and $80B operating income provide a strong earnings floor. The stock is unlikely to trade below 25-30x normalised earnings. |
+| Is the upside driven by business fundamentals rather than just multiple expansion? | Yes — upside comes from continued 12-15% earnings growth, not from PE expansion hopes. |
+| Would you be comfortable buying MORE if the stock dropped 30% tomorrow? | Yes — at ~$175 (24x earnings), Amazon would be a screaming buy. |
+| Can you explain the thesis in 2 sentences? | "Amazon is the world's biggest store and the world's biggest cloud computer, both growing 12-15% with expanding margins. At 35x earnings — its cheapest ever — you get 8-11% annual returns even if the PE compresses further." |
+
+Buffett: *"You do things when the opportunities come along. I've had periods in my life when I've had a bundle of ideas come along, and I've had long dry spells. If I get an idea next week, I'll do something. If not, I won't do a damn thing."* Amazon at $250 is a good business at a fair price — but it is NOT the kind of overwhelming opportunity where Buffett would concentrate 20-40% of his portfolio. The appropriate position size is 3-5% for a patient long-term investor, with a plan to add aggressively if the stock drops 20-30%.
+
+
 ---
 
 ## 17. ROE QUALITY CHECK & P/B SCENARIO ANALYSIS
@@ -457,7 +686,32 @@ At a terminal PE of 28x (compounder), the required EPS CAGR is ~12.5% for a 10% 
 
 **Quality Assessment:** Amazon's ROE improvement from 12.29% to 22.29% has been driven almost entirely by **margin expansion** (net margin from 1.7% to 10.8%), NOT by leverage. The equity multiplier has actually DECLINED from 4.3x to 2.1x as equity has grown faster than assets. This is the highest-quality form of ROE improvement — genuine business economics getting better, not financial engineering.
 
-**ROCE vs ROE:** ROCE > ROE would normally indicate leverage isn't driving returns. In Amazon's case, with a net cash position and low leverage relative to equity, ROCE and ROE tell consistent stories — returns are genuine.
+
+**Quality Assessment:**
+
+| ROE Driver | Quality Signal | Danger Signal |
+|---|---|---|
+| High ROE from high Net Margin | ✅ Pricing power, moat-driven | — |
+| High ROE from high Asset Turnover | ✅ Capital-light, efficient | — |
+| High ROE from high Equity Multiplier | — | ⚠️ Leverage-driven; fragile in downturns |
+| ROE rising because Margin rising | ✅ Amazon: NPM 1.7% → 10.8% | Genuine improvement |
+| ROE rising because Leverage rising | — | Dangerous |
+
+Amazon's ROE is driven by **margin expansion** (Quality Signal) with **declining leverage** (the opposite of Danger Signal). This is the highest-quality form of ROE improvement.
+
+**ROCE vs ROE Relationship:**
+
+| Year | ROCE | ROE | Gap (ROE − ROCE) |
+|---|---|---|---|
+| 2021 | 10.5% | 28.8% | +18.3 pp |
+| 2022 | 4.2% | -1.9% | -6.1 pp |
+| 2023 | 11.0% | 17.5% | +6.5 pp |
+| 2024 | 17.0% | 24.3% | +7.3 pp |
+| 2025 | 15.3% | 22.3% | +7.0 pp |
+
+ROE exceeds ROCE by ~7pp in recent years. For Amazon, this gap is explained primarily by tax efficiency and the leverage effect of operating leases (which inflate the equity multiplier in the DuPont decomposition). The declining equity multiplier (4.3x→2.1x) confirms leverage is NOT driving the outperformance — margins are.
+
+**ROCE vs ROE: leverage isn't driving returns. In Amazon's case, with a net cash position and low leverage relative to equity, ROCE and ROE tell consistent stories — returns are genuine.
 
 ### Part B: P/B Scenario Analysis
 
@@ -470,10 +724,26 @@ At a terminal PE of 28x (compounder), the required EPS CAGR is ~12.5% for a 10% 
 | Current (6.6x) | | 20.0% | 20.0% | 20.0% |
 | 75% of current (4.9x) | | 13.1% | 15.0% | 16.5% |
 | 50% of current (3.3x) | | 4.5% | 8.7% | 12.0% |
+| Fair P/B (quality-tier ~3.5x from S9) | Based on 22% ROE quality tier | 5.7% | 9.6% | 12.6% |
 | Historical median (~8x) | | 24.7% | 23.4% | 22.3% |
 | 1x Book | | -17.7% | -8.4% | -0.6% |
 
 **Break-even P/B for 10% hurdle over 10 years:** 2.76x — meaning the stock can tolerate P/B compression from 6.6x down to 2.76x and still deliver 10% annual returns. This is a significant margin of safety on the multiple.
+
+
+**Rule of Thumb for Quick Mental Math:**
+
+```
+Approximate Annual Return ≈ (ROE × Retention) + Annual P/B Change
+where Annual P/B Change = (Exit P/B / Entry P/B)^(1/n) - 1
+```
+
+| Scenario | P/B Change | Annual Drag/Boost | 10Y Return (with 20% BV compounding) |
+|---|---|---|---|
+| P/B stays constant | 0% | 0% | ~20% |
+| P/B halves over 10Y | -50% | ~-7% drag | ~13% |
+| P/B drops to one-third | -67% | ~-11% drag | ~9% |
+| P/B drops to one-quarter | -75% | ~-13% drag | ~7% |
 
 **Traffic Light:** 🟢 GREEN — Even if P/B compresses to roughly half its current level, the 10-year return still exceeds 10% thanks to book value compounding at 20% annually.
 
@@ -557,6 +827,46 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 
 5. **Tariffs:** The Trump administration's tariff policies could increase costs for goods sourced from China. Amazon's 3P marketplace model partially insulates it (sellers bear the cost), but 1P retail margins could be pressured.
 
+
+
+### Historical Regulatory Impact
+
+| Event | Year | Nature | Impact on Amazon |
+|---|---|---|---|
+| EU VAT collection mandates | 2015-2019 | Tax regulation | Marketplace sellers required to collect VAT; Amazon built compliance tools, gaining competitive advantage over smaller platforms |
+| India FDI e-commerce restrictions | 2019 | Market access regulation | Forced restructuring of India marketplace; slowed India expansion but did not impair global business |
+| GDPR implementation | 2018 | Data privacy | Compliance costs ~$100M+/year; created barrier to entry for smaller competitors |
+| FTC antitrust lawsuit | 2023-ongoing | Competition regulation | $2.5B settlement (Q3 2025); broader litigation continues. No structural remedy imposed. |
+| EU Digital Markets Act | 2024-ongoing | Platform regulation | Gatekeeper designation; compliance costs manageable; may reduce EU marketplace take rates by 1-2% |
+
+### Buffett's Three-Lens Regulatory Framework
+
+**1. History as a Guide:** Amazon has faced regulatory scrutiny for 25+ years and has emerged stronger each time. The company has the legal resources and political sophistication to navigate complex regulatory environments. Recovery timeline from regulatory shocks has been <12 months in every case.
+
+**2. Elasticity / Pricing Power:** Amazon's consumer franchise is extremely strong — Prime members are unlikely to cancel due to regulatory changes that increase Amazon's costs. The company can pass through modest cost increases. Demand elasticity is low for the core Prime offering.
+
+**3. Terminal Risk Assessment:** The probability of a regulation that PERMANENTLY destroys Amazon's business model is negligible. Even a forced AWS separation would create two highly valuable standalone companies. There is no realistic "product ban" scenario.
+
+### Regulatory Risk Rating
+
+| Risk Factor | Probability | Impact | Net Risk | Notes |
+|---|---|---|---|---|
+| Antitrust / structural separation | Very Low | Catastrophic | Manageable | Behavioural remedies far more likely than breakup |
+| EU DMA compliance costs | High | Low-Medium | Manageable | ~1-2% margin headwind in Europe |
+| AI regulation | Medium | Medium | Manageable | Favours incumbents with compliance resources |
+| Labour regulation / unionisation | Medium | Medium | Manageable | ~$8-10B OI impact if 10% labour cost increase |
+| Tariff escalation | Medium | Medium | Manageable | 3P marketplace partially insulates Amazon |
+| Terminal risk (product ban / nationalisation) | Very Low | Catastrophic | Negligible probability | No realistic scenario |
+
+### Demand Curve — Price Sensitivity to Regulatory Costs
+
+| Regulatory Cost Magnitude | Likely Volume Impact | Amazon's Response | Net Revenue Impact |
+|---|---|---|---|
+| **Mild (5-8% cost increase)** | -1% to -2% volume | Price hike + marketplace fee adjustment | Neutral to mildly positive |
+| **Moderate (10-15% cost increase)** | -2% to -4% volume | Partial absorption + seller fee pass-through | Flat to mildly negative short-term |
+| **Severe (>20% cost increase)** | -3% to -6% volume | Mix shift + geographic rebalancing | Negative for 1-2 years, then recovery |
+
+
 **Buffett's Verdict on Regulatory Risk: (a) Manageable and potentially overpriced by the market.** Amazon has navigated regulatory headwinds for its entire existence. The regulatory framework is unlikely to destroy the business franchise, and may actually strengthen the moat by raising barriers to entry for smaller competitors.
 
 ---
@@ -585,7 +895,7 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 
 **Buy Zone:** Current price of $250.48 falls in the **Value / Buy** zone.
 
-**Overall Recommendation: BUY with conviction for long-term investors. Target allocation: 5-8% of portfolio.**
+**Overall Recommendation: BUY at fair price for long-term compounding. Target allocation: 3-5% of portfolio.** Accumulate aggressively on any 20%+ dip (below ~$200). At current prices, the risk/reward is decent but not a fat pitch — position sizing should reflect this.
 
 ---
 
