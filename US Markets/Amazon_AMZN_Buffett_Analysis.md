@@ -730,12 +730,14 @@ Approximate Annual Return ≈ (ROE × Retention) + Annual P/B Change
 where Annual P/B Change = (Exit P/B / Entry P/B)^(1/n) - 1
 ```
 
-| Scenario | P/B Change | Annual Drag/Boost | 10Y Return (with 20% BV compounding) |
-|---|---|---|---|
-| P/B stays constant | 0% | 0% | ~20% |
-| P/B halves over 10Y | -50% | ~-7% drag | ~13% |
-| P/B drops to one-third | -67% | ~-11% drag | ~9% |
-| P/B drops to one-quarter | -75% | ~-13% drag | ~7% |
+> *Note: The additive formula above slightly overstates returns under P/B compression because it ignores the interaction between compounding and de-rating. The table below uses exact multiplicative compounding: Return = ((1 + BV Compound Rate)^n × (Exit P/B / Entry P/B))^(1/n) − 1.*
+
+| Scenario | P/B Change | 10Y Return (exact, with 20% BV compounding) |
+|---|---|---|
+| P/B stays constant | 0% | ~20.0% |
+| P/B halves over 10Y | -50% | ~12.0% |
+| P/B drops to one-third | -67% | ~7.5% |
+| P/B drops to one-quarter | -75% | ~4.5% |
 
 **Traffic Light:** 🟢 GREEN — Even if P/B compresses to roughly half its current level, the 10-year return still exceeds 10% thanks to book value compounding at 20% annually.
 
