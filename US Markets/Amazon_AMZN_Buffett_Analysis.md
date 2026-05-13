@@ -112,11 +112,10 @@ Buffett: *"Owner earnings are the relevant item for valuation purposes — not r
 | EBIT Margin % | 3.1% | **2.3%** | 5.3% | 5.2% | 5.9% | 5.3% | 2.4% | 6.4% | 10.8% | **11.2%** |
 | NPM % | 1.7% | 1.7% | 4.3% | 4.1% | 5.5% | 7.1% | **-0.5%** | 5.3% | 9.3% | **10.8%** |
 | Current Ratio | 1.04 | 1.04 | 1.10 | 1.10 | 1.05 | **1.14** | **0.94** | 1.05 | 1.06 | 1.05 |
-
-> *Note: Traditional working capital metrics (Debtor Days, Inventory Days, Cash Conversion Cycle, Working Capital Days) are not presented for Amazon because (a) Amazon operates with negative working capital by design — it collects from customers immediately but pays suppliers on extended terms, and (b) the blended nature of retail + cloud + advertising makes these metrics difficult to interpret meaningfully. Amazon's current ratio of ~1.0x reflects this deliberately capital-efficient operating model, not financial stress.*
-
 | Dividend Payout % | **0%** | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | **0%** |
 | Interest Coverage | 8.7x | **4.8x** | 8.8x | 9.1x | 13.9x | 13.8x | 5.2x | 11.6x | 28.5x | **35.2x** |
+
+> *Note: Traditional working capital metrics (Debtor Days, Inventory Days, Cash Conversion Cycle, Working Capital Days) are not presented for Amazon because (a) Amazon operates with negative working capital by design — it collects from customers immediately but pays suppliers on extended terms, and (b) the blended nature of retail + cloud + advertising makes these metrics difficult to interpret meaningfully. Amazon's current ratio of ~1.0x reflects this deliberately capital-efficient operating model, not financial stress.*
 
 ### Part B: Buffett's Quality Checklist
 
@@ -229,7 +228,7 @@ Buffett: *"The best businesses are those that can grow without requiring proport
 | SBC as % of Net Income | 43.2% | 38.2% | N/M | 79.0% | 37.2% | 25.1% | |
 | Gross Shares Issued from SBC (M) | ~200 | ~180 | ~160 | ~270 | ~260 | ~95 | ~1,165 |
 | Shares Repurchased via Buybacks (M) | 0 | 0 | 47 | 36 | 12 | 9 | 104 |
-| Net Dilution / (Accretion) (M) | +194 | -248 | -107 | +303 | +229 | +106 | +477 |
+| Net Dilution / (Accretion) (M) | +146 | -248 | -107 | +303 | +229 | +106 | +429 |
 | Basic Shares Outstanding (M) | 10,350 | 10,117 | 10,073 | 10,304 | 10,549 | 10,632 | |
 | Diluted Shares Outstanding (M) | 10,544 | 10,296 | 10,189 | 10,492 | 10,721 | 10,827 | |
 | Basic-to-Diluted Gap (M) | 194 | 179 | 116 | 188 | 172 | 195 | |
@@ -260,7 +259,6 @@ Buffett: *"The best businesses are those that can grow without requiring proport
 > Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* The same logic applies to reported FCF that ignores ongoing dilution. Amazon's $7.7B reported FCF overstates true shareholder cash flow by ignoring the ~1% annual dilution.
 
 **DCF Starting Point Decision:** This analysis uses **Base Owner Earnings ($8.38/share)** for the DCF, not Dilution-Adjusted ($8.19/share). Justification: Amazon's anti-dilution buyback cost is just $2B/year — only 2.2% of Owner Earnings — making the adjustment immaterial to the valuation conclusion (it changes IV by ~$5/share). However, investors should monitor SBC trends: if Amazon does not scale up buybacks as SBC remains elevated, the cumulative dilution will compound over time.
- Amazon is an exception to this rule — it CHOOSES to reinvest massive capital because the returns on that capital (especially in AWS) are extremely attractive. The day Amazon stops finding high-return reinvestment opportunities, FCF will explode higher.
 
 ---
 
@@ -684,9 +682,6 @@ Buffett: *"You do things when the opportunities come along. I've had periods in 
 | 2024 | 9.29% | 1.11x | 2.36x | 24.29% | 24.29% |
 | 2025 | 10.83% | 0.99x | 2.07x | 22.29% | 22.29% |
 
-**Quality Assessment:** Amazon's ROE improvement from 12.29% to 22.29% has been driven almost entirely by **margin expansion** (net margin from 1.7% to 10.8%), NOT by leverage. The equity multiplier has actually DECLINED from 4.3x to 2.1x as equity has grown faster than assets. This is the highest-quality form of ROE improvement — genuine business economics getting better, not financial engineering.
-
-
 **Quality Assessment:**
 
 | ROE Driver | Quality Signal | Danger Signal |
@@ -709,9 +704,7 @@ Amazon's ROE is driven by **margin expansion** (Quality Signal) with **declining
 | 2024 | 17.0% | 24.3% | +7.3 pp |
 | 2025 | 15.3% | 22.3% | +7.0 pp |
 
-ROE exceeds ROCE by ~7pp in recent years. For Amazon, this gap is explained primarily by tax efficiency and the leverage effect of operating leases (which inflate the equity multiplier in the DuPont decomposition). The declining equity multiplier (4.3x→2.1x) confirms leverage is NOT driving the outperformance — margins are.
-
-**ROCE vs ROE: leverage isn't driving returns. In Amazon's case, with a net cash position and low leverage relative to equity, ROCE and ROE tell consistent stories — returns are genuine.
+ROE exceeds ROCE by ~7pp in recent years. For Amazon, this gap is explained primarily by tax efficiency and the leverage effect of operating leases (which inflate the equity multiplier in the DuPont decomposition). The declining equity multiplier (4.3x→2.1x) confirms leverage is NOT driving the outperformance — margins are. With a net cash position and low leverage relative to equity, ROCE and ROE tell consistent stories — returns are genuine.
 
 ### Part B: P/B Scenario Analysis
 
