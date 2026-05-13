@@ -226,9 +226,6 @@ Buffett: *"The best businesses are those that can grow without requiring proport
 | GAAP SBC Expense ($M) | 9,208 | 12,757 | 19,621 | 24,023 | 22,011 | 19,467 | 107,087 |
 | SBC as % of Revenue | 2.4% | 2.7% | 3.8% | 4.2% | 3.5% | 2.7% | |
 | SBC as % of Net Income | 43.2% | 38.2% | N/M | 79.0% | 37.2% | 25.1% | |
-| Gross Shares Issued from SBC (M) | ~200 | ~180 | ~160 | ~270 | ~260 | ~95 | ~1,165 |
-| Shares Repurchased via Buybacks (M) | 0 | 0 | 47 | 36 | 12 | 9 | 104 |
-| Net Dilution / (Accretion) (M) | +146 | -248 | -107 | +303 | +229 | +106 | +429 |
 | Basic Shares Outstanding (M) | 10,350 | 10,117 | 10,073 | 10,304 | 10,549 | 10,632 | |
 | Diluted Shares Outstanding (M) | 10,544 | 10,296 | 10,189 | 10,492 | 10,721 | 10,827 | |
 | Basic-to-Diluted Gap (M) | 194 | 179 | 116 | 188 | 172 | 195 | |
@@ -242,7 +239,9 @@ Buffett: *"The best businesses are those that can grow without requiring proport
 
 **Analysis:**
 
-**1. Gross vs. Net Dilution Trend:** Amazon's diluted share count has grown from 10,544M (2020) to 10,827M (2025) — a net increase of 283M shares (+2.7%) over 5 years. The $16.5B spent on buybacks (2022-2025) was insufficient to offset SBC-driven dilution. Every dollar of "buyback" was consumed by anti-dilution — zero was returned to shareholders as genuine capital return.
+> *Note: Three template rows — Gross Shares Issued/Vested from SBC, Shares Repurchased (count), and Net Dilution/(Accretion) (count) — are omitted because Amazon does not disclose granular SBC share-vesting data in a form that reconciles with YoY diluted share changes. Diluted share counts reflect treasury-stock-method adjustments (which fluctuate with stock price) and option/RSU repricing effects, making a clean "Gross Issued − Repurchased = Net Dilution" reconciliation unreliable. The dollar-denominated buyback spend and the diluted share count trend (both verified against SEC filings) are the reliable metrics for assessing dilution.*
+
+**1. Dilution Trend:** Amazon's diluted share count has grown from 10,544M (2020) to 10,827M (2025) — a net increase of 283M shares (+2.7%) over 5 years. The $16.5B spent on buybacks (2022-2025) was insufficient to offset SBC-driven dilution. Every dollar of "buyback" was consumed by anti-dilution — zero was returned to shareholders as genuine capital return.
 
 **2. SBC Treadmill Test:** 100% of buyback spending was consumed by anti-dilution. Rating: 🔴 — the buyback programme is entirely an illusion for Amazon. However, context matters: Amazon's buyback programme is tiny ($2B/year) relative to its $91B Owner Earnings. The company is choosing to reinvest in growth rather than buy back shares. This is a rational choice given 20%+ returns on invested capital at AWS.
 
