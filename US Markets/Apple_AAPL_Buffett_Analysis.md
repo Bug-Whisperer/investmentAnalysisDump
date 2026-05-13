@@ -516,7 +516,7 @@ Apple is no longer at the inflection point — that was 2007-2015 when the iPhon
 | Capital scalability | 9 | CapEx <3% of revenue; negative working capital; $90B+ FCF on $12.7B CapEx |
 | Scaling runway | 6 | Hardware nearing saturation; Services has large runway but iPhone unit growth is limited |
 | S-Curve position | 6 | Late growth / early mature for hardware; mid-growth for Services |
-| **Overall Scalability Score** | **7.5/10** | **Strong scaler with exceptional unit economics; runway limited by hardware maturity but extended by Services** |
+| **Overall Scalability Score** | **7.4/10** | **Strong scaler with exceptional unit economics; runway limited by hardware maturity but extended by Services** |
 
 **Classification: Strong Scaler (7-8 range) — GEICO / American Express analogy**
 
@@ -1147,7 +1147,7 @@ Apple faces a concentrated set of regulatory risks centred on **antitrust enforc
 | **Financial Health** | **10** | Net cash position, sub-1x Debt/EBIT, $130B+ cash hoard. Financial fortress. |
 | **Management Quality** | **9** | Tim Cook has been outstanding. Capital allocation near-perfect. Minor deduction for rising SBC. |
 | **Earnings Quality** | **8.5** | Owner Earnings ($90B) vs reported NI ($112B) — gap is SBC (~$13B) and maintenance CapEx. FCF conversion is excellent ($99B). SBC Treadmill is 🟢 GREEN. |
-| **Scalability** | **7.5** | Strong scaler; Services is the growth engine. Hardware mature but buybacks extend per-share scaling. |
+| **Scalability** | **7.4** | Strong scaler; Services is the growth engine. Hardware mature but buybacks extend per-share scaling. |
 | **Valuation** | **4.5** | At ~34x PE, Apple is fully valued to slightly expensive. Above the 5-year median of ~31.6x. |
 | **Margin of Safety** | **2** | Significantly negative margin of safety on all DCF scenarios (Base IV: ~$123 vs CMP $250). The price has outrun the value for new buyers. |
 | **Buffett Verdict** | — | **Magnificent business, fully valued price. HOLD if owned, do NOT initiate at $250. Wait for $170-185 to buy aggressively.** |
