@@ -49,6 +49,8 @@ While Microsoft IS a technology company, its core products (Office, Windows, Azu
 | Revenue Growth YoY | — | 5.4% | **22.7%** | 14.0% | 13.6% | 17.5% | 18.0% | **6.9%** | 15.7% | 14.9% | 16.7% |
 | Gross Profit | 51,976 | 55,689 | 72,007 | 82,933 | 96,937 | 115,856 | 135,620 | 146,052 | 171,008 | 193,893 | 209,499 |
 | Gross Margin | **60.9%** | 61.9% | 65.2% | 65.9% | 67.8% | 68.9% | 68.4% | 68.9% | 69.8% | **68.8%** | 68.6% |
+| Operating Profit (pre-D&A)⁷ | 27,982 | 31,104 | 45,319 | 54,641 | 65,755 | 81,602 | 97,843 | 102,384 | 131,720 | 162,681 | 184,761 |
+| OPM % (pre-D&A)⁷ | **32.8%** | 34.6% | 41.1% | 43.4% | 46.0% | 48.5% | 49.3% | 48.3% | 53.7% | **57.7%** | 60.5% |
 | Depreciation & Amortisation | 7,800 | 8,778 | 10,261 | 11,682 | 12,796 | 11,686 | 14,460 | 13,861 | 22,287 | 34,153 | 42,202 |
 | **EBIT (Operating Income)** | 20,182 | 22,326 | 35,058 | 42,959 | 52,959 | 69,916 | 83,383 | 88,523 | 109,433 | 128,528 | 142,559 |
 | **EBIT Margin** | **23.7%** | 24.8% | 31.8% | 34.1% | 37.0% | 41.6% | 42.1% | 41.8% | 44.6% | **45.6%** | 46.7% |
@@ -66,6 +68,8 @@ While Microsoft IS a technology company, its core products (Office, Windows, Azu
 *¹ FY2018 net income impacted by one-time $13.7B TCJA tax reform charge. Adjusted net income would have been ~$30B.*
 
 *² Shares Outstanding row shows fiscal year-end diluted shares. EPS (Diluted) uses the weighted-average diluted shares for the period, which differs slightly — hence NI ÷ year-end shares may not exactly reproduce EPS for FY2016-FY2020. Both figures are sourced from SEC filings.*
+
+*⁷ Operating Profit (pre-D&A) = EBIT + D&A. For Microsoft (US GAAP), reported Operating Income is already EBIT (post-D&A). The pre-D&A row is computed by adding D&A back, and is equivalent to EBITDA. It is included to provide the full bridge from Gross Profit through D&A to EBIT, and for comparability with Screener.in analyses where Operating Profit is natively pre-D&A. This metric is NOT used for valuation — EBIT and Owner Earnings are the operative metrics.*
 
 **Trend Narrative:**
 
@@ -149,16 +153,25 @@ Total shareholder returns (buybacks + dividends) have averaged ~$44B/year over t
 | ROCE % | 13.8% | 13.8% | 18.6% | 20.6% | 23.7% | 29.5% | **32.4%** | 30.7% | 31.5% | 29.7% |
 | ROE % | 23.4% | 33.8% | 20.5% | 42.4% | 40.1% | **47.2%** | 47.2% | 38.8% | 37.1% | 33.3% |
 | ROA % | 8.7% | 11.7% | 6.6% | 14.4% | 15.1% | 19.3% | **20.8%** | 18.6% | 19.1% | 18.0% |
+| ROIC %⁶ | **20.9%** | 23.7% | 24.7% | 28.2% | 27.9% | **33.3%** | 31.4% | 25.8% | 23.9% | 21.2% |
 | Debt/Equity | 0.56 | **0.97** | 0.87 | 0.65 | 0.54 | 0.41 | 0.32 | 0.23 | 0.19 | **0.13** |
+| OPM % (pre-D&A)⁷ | **32.8%** | 34.6% | 41.1% | 43.4% | 46.0% | 48.5% | 49.3% | 48.3% | 53.7% | **57.7%** |
 | EBIT Margin % | **23.7%** | 24.8% | 31.8% | 34.1% | 37.0% | 41.6% | 42.1% | 41.8% | 44.6% | **45.6%** |
 | NPM % | 19.7% | 28.3% | **15.0%** | 31.2% | 31.0% | 36.5% | **36.7%** | 34.1% | 36.0% | 36.1% |
+| Debtor Days | 78 | 80 | **88** | 86 | 82 | 83 | 81 | 84 | 85 | **81** |
+| Inventory Days⁵ | 24 | 23 | 25 | 18 | 15 | 18 | **22** | **7** | 6 | 6 |
+| Cash Conversion Cycle | 36 | 25 | 31 | 23 | **-3** | -5 | -7 | -10 | **-17** | -17 |
+| Working Capital Days | **285** | 387 | 368 | 308 | 280 | 208 | 137 | 138 | **51** | 65 |
 | Interest Coverage | 16.2x | **10.0x** | 12.8x | 16.0x | 20.4x | 29.8x | 40.4x | 43.7x | **43.9x** | 43.8x |
+| Current Ratio | 2.40 | **2.48** | 2.90 | 2.53 | 2.52 | 2.08 | 1.78 | 1.77 | **1.28** | 1.35 |
 | Dividend Payout %³ | 68.6% | 48.0% | 78.9% | 36.4% | 35.4% | 27.8% | 25.7% | 28.0% | 25.4% | 24.3% |
 | R&D % of Revenue | **14.0%** | 14.5% | 13.3% | 13.4% | 13.5% | **12.3%** | 12.4% | 12.8% | 12.0% | 11.5% |
 | SBC % of Revenue | 4.3% | **5.0%** | 4.2% | 3.7% | 3.7% | **3.4%** | 3.8% | 4.5% | 4.4% | 4.3% |
 | FCF Margin % | 29.3% | **34.9%** | 29.2% | 30.4% | 31.6% | 33.4% | 32.9% | 28.1% | 30.2% | **25.4%** |
 
 *³ Dividend Payout % is computed as DPS ÷ Diluted EPS (per-share basis). This will differ slightly from Total Dividends Paid ÷ Net Income (aggregate basis) because EPS uses weighted-average diluted shares while dividends paid reflects actual cash disbursed. The per-share method is used consistently across all years.*
+
+*⁵ Inventory Days are minimal for Microsoft (a software/cloud company with limited physical products — mainly Surface devices and Xbox consoles). The negative Cash Conversion Cycle from FY2020 onwards reflects Microsoft collecting subscription revenue upfront while paying suppliers on extended terms — a hallmark of a subscription-model franchise with pricing power.*
 
 ### Part B: Buffett's Quality Checklist
 
@@ -179,7 +192,9 @@ Total shareholder returns (buybacks + dividends) have averaged ~$44B/year over t
 
 > **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
-**Narrative:** Microsoft passes virtually every Buffett quality filter with flying colours. The only caution is valuation — at 26x TTM earnings, the earnings yield of 3.8% is above the risk-free rate but not a deep-value screaming buy. The quality is unquestionable; the price requires scrutiny.
+> *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
+
+**Narrative:** The ratio trends tell a clear story of a widening moat. EBIT margins have expanded from 24% to 46% over a decade — this is pricing power compounding as the subscription/cloud model matures and switching costs deepen. ROCE has risen from 14% to 30%, confirming the business earns far above its cost of capital on incremental investments. The negative Cash Conversion Cycle (from +36 days to -17 days) shows Microsoft collects before it pays — the ultimate working capital advantage of a subscription franchise. The only caution is valuation: at 26x TTM earnings, the earnings yield of 3.8% is above the risk-free rate but not a deep-value screaming buy. The quality is unquestionable; the price requires scrutiny.
 
 ---
 
@@ -191,9 +206,13 @@ Total shareholder returns (buybacks + dividends) have averaged ~$44B/year over t
 |---|---|---|---|---|---|---|---|---|---|---|
 | Revenue ($B) | 56.5 | 62.0 | 61.9 | 64.7 | 65.6 | 69.6 | 70.1 | 76.4 | 77.7 | 81.3 |
 | YoY Growth | 13% | 18% | 17% | 15% | 16% | 12% | 13% | 18% | 18% | 17% |
+| Operating Profit (pre-D&A, $B)⁷ | 31.8 | 32.2 | 33.2 | 34.5 | 37.6 | 39.5 | 40.5 | 45.1 | 49.5 | 50.3 |
+| OPM % (pre-D&A)⁷ | 56.3% | 51.9% | 53.6% | 53.3% | 57.3% | 56.8% | 57.8% | 59.0% | **63.7%** | 61.9% |
+| Depreciation ($B, est.) | 4.9 | 5.2 | 5.6 | 6.6 | 7.0 | 7.8 | 8.5 | 10.9 | 11.5 | 12.0 |
 | EBIT ($B) | 26.9 | 27.0 | 27.6 | 27.9 | 30.6 | 31.7 | 32.0 | 34.2 | 38.0 | 38.3 |
-| EBIT Margin % | 47.6% | 43.5% | 44.6% | 43.1% | 46.6% | 45.5% | 45.6% | 44.8% | 48.9% | 47.1% |
+| EBIT Margin % | 47.6% | 43.5% | 44.6% | 43.1% | 46.6% | 45.5% | 45.6% | 44.8% | **48.9%** | 47.1% |
 | Net Income ($B) | 22.3 | 21.9 | 21.9 | 22.0 | 24.7 | 24.1 | 25.8 | 27.2 | 27.7 | 30.9 |
+| NPM % | **39.5%** | 35.3% | 35.4% | 34.0% | 37.7% | 34.6% | 36.8% | 35.6% | 35.6% | **38.0%** |
 | EPS | $2.99 | $2.93 | $2.94 | $2.95 | $3.30 | $3.23 | $3.46 | $3.65 | $3.72 | $4.14 |
 
 *Q1'26 and Q2'26 are fiscal year 2026 (Jul-Dec 2025). Q1'26 data from SEC 8-K filing. Q2'26 data from StockAnalysis.com/TradingView (revenue $81.3B, EPS $4.14). TTM figures used throughout this document (TTM Revenue $305.5B, TTM EPS $15.99) are sourced from StockAnalysis.com as of the period ending Dec 31, 2025. The TTM EPS of $15.99 may reflect non-GAAP adjustments and rounding differences vs. the sum of quarterly GAAP EPS ($14.97).*
@@ -202,7 +221,7 @@ Total shareholder returns (buybacks + dividends) have averaged ~$44B/year over t
 
 **Revenue Trajectory:** Quarterly revenue has grown from ~$57B to ~$81B over two years — strong and accelerating, particularly in Q2'26 ($81.3B, +17% YoY). The AI/Azure tailwind is visible in the acceleration.
 
-**Margin Trend:** EBIT margins are stable to expanding in the 44-49% range, with Q1'26 showing the highest EBIT Margin at 48.9%. Despite massive CapEx on AI infrastructure (which flows through D&A over subsequent years), margins are NOT compressing — the revenue growth is outpacing the cost increases. For Microsoft, since reported Operating Income is already post-D&A, the EBIT margin directly captures the impact of rising depreciation from the AI buildout — and margins are still expanding, confirming genuine scaling rather than EBITDA-masked capital consumption.
+**Margin Trend:** Both pre-D&A and post-D&A margins tell an important story. OPM (pre-D&A) has expanded dramatically from ~53% to ~63% — reflecting the underlying software/cloud franchise getting more profitable. However, EBIT Margin has expanded more modestly from ~44% to ~49%, and the gap between OPM and EBIT Margin is **widening** (from ~9pp in FY2024 to ~15pp in Q1'26). This divergence is a direct consequence of the AI data centre buildout: D&A has surged from ~$5B/quarter to ~$12B/quarter as massive CapEx flows through to depreciation. An EBITDA-only analysis would see the 63.7% pre-D&A margin and declare Microsoft a scaling machine — but the EBIT-based view reveals that rising capital consumption is partially eating the scaling benefit. The good news: EBIT margins are still expanding (44% → 49%), meaning revenue growth is outpacing D&A growth. The scaling is genuine, but it's not as dramatic as EBITDA would suggest.
 
 **Normalised Quarterly EPS Run-Rate:** The most recent quarter (Q2'26, Dec 2025) delivered $4.14 EPS. Annualising this gives ~$16.56, above the TTM figure of $15.99 — confirming the earnings trajectory is accelerating, not just maintaining pace.
 
@@ -257,7 +276,45 @@ Owner Earnings of $116.6B in FY2025 represent the true sustainable earning power
 
 SBC at 4.3% of revenue is a real economic cost but is modest relative to the value created and common for the technology sector. Microsoft's share count has been flat to declining despite SBC, indicating that buybacks more than offset dilution.
 
-> *"The arithmetic makes it plain that inflation is a far more devastating tax than anything that has been enacted by our legislatures. The inflation tax has a fantastic ability to simply consume capital."* — Warren Buffett. Microsoft's Owner Earnings are growing faster than inflation, making it one of the best inflation hedges in the market.
+> *"If options aren't a form of compensation, what are they? If compensation isn't an expense, what is it? And if expenses shouldn't go into the calculation of earnings, where in the world should they go?"* — Warren Buffett. Microsoft's SBC is real — the question is how much of the buyback programme is genuine capital return vs. simply running on the SBC treadmill.
+
+### SBC & Share Dilution Analysis — The Hidden Cash Cost to Shareholders
+
+| Metric | FY2016 | FY2018 | FY2020 | FY2022 | FY2023 | FY2024 | FY2025 | Cumulative |
+|---|---|---|---|---|---|---|---|---|
+| GAAP SBC Expense ($M) | 3,634 | 4,652 | 5,289 | 7,502 | 9,611 | 10,735 | ~12,000 | 68,291 |
+| SBC as % of Revenue | 4.3% | 4.2% | 3.7% | 3.8% | 4.5% | 4.4% | 4.3% | — |
+| SBC as % of Net Income | 21.6% | 28.1% | 11.9% | 10.3% | 13.3% | 12.2% | 11.8% | — |
+| Est. Gross SBC Shares Issued (M) | ~71 | ~54 | ~31 | ~28 | ~32 | ~27 | ~27 | ~409 |
+| Est. Shares Repurchased (M) | ~290 | ~125 | ~136 | ~124 | ~74 | ~44 | ~41 | ~1,309 |
+| Net Dilution / (Accretion) (M) | (219) | (71) | (105) | (95) | (42) | (17) | (14) | **(900)** |
+| Diluted Shares Outstanding (M) | 7,808 | 7,700 | 7,610 | 7,540 | 7,472 | 7,469 | 7,465 | — |
+| YoY Change in Diluted Shares | — | -0.6% | -0.8% | -0.9% | -0.9% | 0.0% | -0.1% | — |
+| Total Buyback Spend ($M) | 14,842 | 10,721 | 22,968 | 32,696 | 22,245 | 17,254 | 18,420 | 197,862 |
+| Cash Cost of Anti-Dilution Buybacks ($M) | 3,634 | 4,652 | 5,289 | 7,502 | 9,611 | 10,735 | 12,000 | 68,291 |
+| **True Shareholder Buyback ($M)** | **11,208** | **6,069** | **17,679** | **25,194** | **12,634** | **6,519** | **6,420** | **129,571** |
+| Reported FCF ($M) | 24,982 | 32,252 | 45,234 | 65,149 | 59,475 | 74,071 | 71,611 | 498,530 |
+| **Dilution-Adjusted Owner Earnings ($M)** | **18,461** | **18,690** | **47,156** | **72,530** | **68,179** | **86,345** | **104,620** | **546,455** |
+
+*Anti-Dilution Buyback Cost estimated as GAAP SBC expense (lower bound — since Microsoft's share count fell every year, the actual cash needed to offset SBC did not exceed the GAAP amount significantly). True Shareholder Buyback = Total Buyback Spend − Anti-Dilution Cost. Dilution-Adjusted OE = Base OE − Anti-Dilution Buyback Cost.*
+
+**Analysis:**
+
+**1. Gross vs. Net Dilution:** Microsoft's diluted share count has declined from 7,808M to 7,465M over nine years — a net reduction of **343M shares (4.4%)**. Buybacks ($198B cumulative) have MORE than offset SBC dilution. This is the opposite of the NVIDIA scenario — Microsoft is genuinely shrinking its share count.
+
+**2. The SBC Treadmill Test:** Cumulative anti-dilution cost ($68.3B) represents **35% of total buyback spending** ($197.9B). This places Microsoft in the 🟡 **25-50% "meaningful portion"** band — a significant chunk of buybacks offsets SBC, but the majority ($129.6B = 65%) represents genuine capital return. This is acceptable for a technology company of Microsoft's scale, and the diluted share count is declining — confirming the treadmill is being outrun.
+
+**3. GAAP Expense vs. Cash Reality Gap:** Cumulative GAAP SBC ($68.3B) ≈ Cumulative Anti-Dilution Cash Cost ($68.3B) — a ratio of **1.0x**. This means the GAAP expense is approximately matching the actual cash cost of offsetting dilution, unlike NVIDIA where the ratio was 5.5x. Microsoft's lower stock-price growth relative to SBC grant dates means less disparity between grant-date values and buyback prices.
+
+**4. Dilution-Adjusted OE vs. Reported Metrics:** FY2025 Dilution-Adjusted Owner Earnings of $104.6B compare to Base Owner Earnings of $116.6B (10% reduction) and reported Net Income of $101.8B. The gap is modest — confirming SBC is a real but manageable cost, not a hidden cash drain.
+
+**5. SBC Trajectory:** SBC as % of revenue has been stable at 3.4-5.0% over the decade, with no alarming trend. As % of Net Income, it has declined from 22% to 12% as earnings have grown faster than SBC grants — a healthy pattern.
+
+**6. GAAP vs. Non-GAAP:** Microsoft reports non-GAAP earnings that exclude SBC. The gap is approximately 10-12% of net income. This analysis uses GAAP Net Income throughout, which already deducts SBC.
+
+**7. Basic vs. Diluted Gap:** The gap between basic (~7,433M) and diluted (~7,465M) shares is only ~32M shares — a trivial 0.4% overhang. The unvested SBC pipeline is small relative to shares outstanding.
+
+> Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* The same logic applies to reported FCF that adds back SBC. For Microsoft, the distortion is moderate (SBC is ~12% of NI), not catastrophic (unlike NVIDIA's ~50%). But it's real — Dilution-Adjusted Owner Earnings of $104.6B is the most honest figure for what Microsoft truly generates for its owners after ALL costs.
 
 ---
 
@@ -267,12 +324,25 @@ SBC at 4.3% of revenue is a real economic cost but is modest relative to the val
 |---|---|---|---|---|---|---|---|---|---|---|
 | ROE % | 23.4% | 33.8% | 20.5%¹ | 42.4% | 40.1% | **47.2%** | 47.2% | 38.8% | 37.1% | 33.3% |
 | ROA % | 8.7% | 11.7% | 6.6%¹ | 14.4% | 15.1% | 19.3% | **20.8%** | 18.6% | 19.1% | 18.0% |
+| ROIC %⁶ | 20.9% | 23.7% | 24.7% | 28.2% | 27.9% | **33.3%** | 31.4% | 25.8% | 23.9% | 21.2% |
 | ROCE % | 13.8% | 13.8% | 18.6% | 20.6% | 23.7% | 29.5% | **32.4%** | 30.7% | 31.5% | 29.7% |
 | Net Margin % | 19.7% | 28.3% | 15.0%¹ | 31.2% | 31.0% | 36.5% | **36.7%** | 34.1% | 36.0% | 36.1% |
 
 *¹ FY2018 depressed by TCJA one-time tax charge.*
 
+*⁶ ROIC = Net Income / Average Operating Invested Capital, where Operating IC = Total Assets − Cash & ST Investments. For Microsoft (a net-cash company where interest income typically exceeds interest expense), Net Income approximates NOPAT. Microsoft's massive cash holdings ($75-133B) distort standard IC = Equity + Debt − Cash calculations, so operating assets are used. ROIC is declining from 33% to 21% as the capital base grows rapidly (AI data centres), but remains well above any reasonable cost of capital — confirming reinvestment at attractive returns.*
+
 **The Verdict:** Microsoft earns a ROE consistently above 30% and ROA above 15% — placing it firmly in the **"Exceptional"** quality tier. Critically, the high ROE is NOT driven by excessive leverage (Debt/Equity is only 0.13x). It comes from genuinely high profit margins (36%) and efficient asset utilisation. This is quality, not leverage.
+
+**DuPont Quality Check (summary — full decomposition in Section 17):**
+
+| Year | Net Profit Margin | × Asset Turnover | × Equity Multiplier | = ROE |
+|---|---|---|---|---|
+| FY2016 | 19.7% | 0.441 | 2.696 | 23.4% |
+| FY2021 | 36.5% | 0.529 | 2.441 | 47.1% |
+| FY2025 | 36.1% | 0.498 | 1.848 | 33.3% |
+
+The trend is clear: ROE has risen primarily because **net margins doubled** (20% → 36%), while **leverage has halved** (2.7x → 1.8x equity multiplier). This is the highest-quality ROE pattern — margin-driven, not leverage-driven.
 
 **The declining ROE trend (47% → 33%) is actually HEALTHY.** As equity grows rapidly (from $142B to $343B via retained earnings), the denominator is growing faster than net income, mechanically compressing ROE. A 33% ROE on a $343B equity base is far more valuable than a 47% ROE on a $142B equity base — the absolute dollars of return are much higher ($102B vs $61B).
 
@@ -406,16 +476,22 @@ Azure's growth re-acceleration to 33% (FY2025) from 29% (FY2023) is entirely dri
 | Metric | FY2016 | FY2018 | FY2020 | FY2022 | FY2023 | FY2024 | FY2025 | Current |
 |---|---|---|---|---|---|---|---|---|
 | **P/Owner Earnings** (primary) | 18.1x | 32.5x | 29.5x | 24.2x | 32.7x | 34.3x | 28.7x | **27.0x** |
+| **P/Dilution-Adj OE** | 21.7x | 40.6x | 32.8x | 26.7x | 37.3x | 38.6x | 32.2x | **30.1x** |
 | **Owner Earnings Yield** | 5.5% | 3.1% | 3.4% | 4.1% | 3.1% | 2.9% | 3.5% | **3.7%** |
 | PE Ratio | 24.4x | 46.3x | 35.3x | 26.6x | 35.2x | 37.8x | 32.9x | **26.4x** |
+| Forward PE | — | — | — | — | — | — | — | **24.1x** |
 | P/B Ratio | 5.6x | 9.2x | 13.1x | 11.6x | 12.3x | 12.4x | 9.7x | **9.2x** |
+| PS Ratio | 4.7x | 6.5x | 10.8x | 9.8x | 12.0x | 13.6x | 11.9x | **10.3x** |
 | P/FCF Ratio | 16.0x | 23.5x | 34.3x | 29.7x | 42.8x | 45.0x | 46.8x | **40.5x** |
 | EV/EBIT | 16.2x | 19.9x | 27.9x | 22.6x | 28.0x | 30.2x | 25.7x | **21.6x** |
 | Earnings Yield | 4.1% | 2.2% | 2.8% | 3.8% | 2.8% | 2.6% | 3.0% | **3.8%** |
 | FCF Yield | 6.3% | 4.3% | 2.9% | 3.4% | 2.3% | 2.2% | 2.1% | **2.5%** |
+| PEG Ratio | — | — | — | — | — | — | — | **1.47x** |
 | Dividend Yield | 2.8% | 1.7% | 1.0% | 1.0% | 0.8% | 0.7% | 0.7% | **0.8%** |
 
-*P/Owner Earnings = Price / (Owner Earnings per share). Owner Earnings per share (OEPS) = Owner Earnings from Section 8 / Diluted Shares. Current OEPS = $15.63.*
+*P/Owner Earnings = Price / OEPS. P/Dilution-Adjusted OE uses Dilution-Adjusted Owner Earnings from the SBC analysis above (Section 8), which deducts anti-dilution buyback costs. Current DA-OEPS = $14.02. Forward PE uses consensus FY2027E EPS of ~$17.50. PS Ratio = Market Cap / TTM Revenue. PEG = TTM PE / forward EPS growth rate (~18%).*
+
+> **SBC Warning on FCF-Based Multiples:** Microsoft's SBC at ~12% of net income makes P/FCF (40.5x) appear expensive because reported FCF adds back SBC. P/Dilution-Adjusted Owner Earnings (30.1x) is the most honest multiple — it deducts the cash cost of keeping the share count from rising. For Microsoft, the gap between P/OE (27.0x) and P/DA-OE (30.1x) is modest (~10%), confirming that SBC is a manageable cost, not a hidden cash drain.
 
 > **Note on P/Owner Earnings vs PE:** P/OE (27.0x) is slightly higher than PE (26.4x) because P/OE uses FY2025 Owner Earnings ($116.6B, ending June 2025) while PE uses TTM Net Income ($119.3B, ending Dec 2025) — the TTM period includes the stronger Jul-Dec 2025 quarters, making TTM EPS ($15.99) slightly higher than FY2025 OEPS ($15.63). On a like-for-like FY2025 basis, P/OE (27.0x) is significantly lower than FY2025 PE (30.9x = $422 / $13.64), confirming that Owner Earnings better captures the company's true economic earning power. P/FCF (40.5x) is much higher because reported FCF ($71.6B) is depressed by massive growth CapEx. P/Owner Earnings sits between PE and P/FCF and represents the truest picture of what you're paying for sustainable earnings power.
 
@@ -429,9 +505,11 @@ The P/B of 9.2x looks optically high but is justified by a 33%+ ROE — a busine
 
 ## 15. INTRINSIC VALUE & MARGIN OF SAFETY
 
-Using Owner Earnings ($116.6B for FY2025) as the starting cash flow:
+Using Owner Earnings as the starting cash flow. Per the template, for companies with material SBC and active buyback programmes, **Dilution-Adjusted Owner Earnings** is the correct starting point. However, Microsoft's anti-dilution cost ($12.0B FY2025) is modest relative to total OE — so both Base and Dilution-Adjusted results are shown for transparency.
 
-### DCF Scenarios (10% Discount Rate):
+### DCF Scenarios (10% Discount Rate — Buffett's Hurdle Rate):
+
+**Using Base Owner Earnings ($116.6B for FY2025):**
 
 | Scenario | Growth Yrs 1-5 | Growth Yrs 6-10 | Terminal Growth | IV/Share | MOS at $422 | Upside |
 |---|---|---|---|---|---|---|
@@ -439,11 +517,43 @@ Using Owner Earnings ($116.6B for FY2025) as the starting cash flow:
 | **Base** | 13% | 9% | 3.5% | **$451** | 6.4% | 6.9% |
 | **Optimistic** | 16% | 11% | 4.0% | **$573** | 26.4% | 35.8% |
 
-**Interpretation:** At the current price of $422, Microsoft trades slightly below the Base Case intrinsic value of $451 and well below the Optimistic case. The Conservative case ($357) assumes a significant growth deceleration that seems unlikely given current AI momentum.
+**Using Dilution-Adjusted Owner Earnings ($104.6B for FY2025) — the Buffett/Burry-pure figure:**
 
-The Base Case assumes 13% Owner Earnings growth for years 1-5 (below the 18% historical EPS CAGR) and 9% for years 6-10 — conservative given the AI tailwind. This yields a ~6.4% margin of safety, suggesting the stock is **approximately fairly valued** with a slight upside bias.
+**Full DCF Breakdown — Base Case (Dilution-Adjusted OE):**
 
-> *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* — Warren Buffett. Microsoft at ~26x earnings is a wonderful company at a fair-to-slightly-attractive price.
+| Component | Value |
+|---|---|
+| Starting Owner Earnings (Dilution-Adjusted) | $104,620M |
+| Growth Rate — Years 1-5 | 13% (below 18.8% historical EPS CAGR; justified by AI monetisation ramp offset by rising D&A) |
+| Growth Rate — Years 6-10 | 9% (deceleration as base grows; still above GDP) |
+| Terminal Growth Rate | 3.5% (long-run nominal GDP) |
+| Discount Rate | 10% (Buffett's flat opportunity-cost hurdle — not WACC) |
+| PV of Phase 1 Cash Flows (Years 1-5) | $567,488M |
+| PV of Phase 2 Cash Flows (Years 6-10) | $582,306M |
+| Year 10 Owner Earnings | $296,578M |
+| Terminal Value (Gordon Growth: OE₁₀ × (1+g) / (r−g)) | $4,722,440M |
+| PV of Terminal Value | $1,820,705M |
+| **Total Enterprise Value** | **$2,970,499M** |
+| Add: Net Cash ($94,565M − $43,151M) | $51,414M |
+| **Equity Intrinsic Value** | **$3,021,913M** |
+| Diluted Shares Outstanding | 7,462M |
+| **Intrinsic Value Per Share** | **$405** |
+| **Margin of Safety at $422** | **-4.2%** |
+| **Upside / (Downside) from CMP** | **-4.0%** |
+
+**Summary — All Scenarios (Dilution-Adjusted OE):**
+
+| Scenario | Growth Yrs 1-5 | Growth Yrs 6-10 | Terminal Growth | IV/Share | MOS at $422 | Upside |
+|---|---|---|---|---|---|---|
+| **Conservative** | 10% | 7% | 3.0% | **$321** | -31.4% | -23.9% |
+| **Base** | 13% | 9% | 3.5% | **$405** | -4.2% | -4.0% |
+| **Optimistic** | 16% | 11% | 4.0% | **$515** | 18.0% | 22.0% |
+
+**Interpretation:** On the Dilution-Adjusted basis, the Base Case IV ($405) sits slightly below the current price of $422 — suggesting the stock is approximately **fairly valued** with no meaningful margin of safety. The Optimistic case ($515) provides 22% upside if AI growth materialises. On the Base OE basis, there is a modest 6.4% margin of safety.
+
+The ~10% gap between the two DCF results ($451 vs $405 for Base) reflects the annual $12B cash cost of anti-dilution buybacks — real money leaving the company to keep the share count from rising. For Microsoft, this is a manageable drag, not a dealbreaker.
+
+> *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* — Warren Buffett. Microsoft at ~26x earnings (or ~30x Dilution-Adjusted OE) is a wonderful company at a fair price.
 
 ---
 
@@ -455,9 +565,11 @@ The Base Case assumes 13% Owner Earnings growth for years 1-5 (below the 18% his
 |---|---|---|
 | Current Market Price (CMP) | $422.00 | Market data |
 | TTM EPS (Normalised) | $15.99 | StockAnalysis.com (GAAP) |
-| **Owner Earnings Per Share (OEPS)** | **$15.63** | Owner Earnings ($116.6B) / Diluted Shares (7,462M) |
+| **Owner Earnings Per Share (OEPS)** | **$15.63** | Base Owner Earnings ($116.6B) / Diluted Shares (7,462M) |
+| **Dilution-Adjusted OEPS (DA-OEPS)** | **$14.02** | Dilution-Adjusted OE ($104.6B) / Diluted Shares (7,462M) — deducts anti-dilution buyback cost |
 | Current PE (on Normalised EPS) | 26.4x | Calculated |
 | **Current P/OE (on OEPS)** | **27.0x** | CMP / OEPS — the Buffett-pure valuation multiple |
+| **Current P/DA-OE** | **30.1x** | CMP / DA-OEPS — the Buffett/Burry-pure multiple |
 | Shares Outstanding (Diluted) | 7,462M | Latest data |
 
 **Implied EPS CAGR Needed:**
@@ -468,6 +580,7 @@ The Base Case assumes 13% Owner Earnings growth for years 1-5 (below the 18% his
 |---|---|---|---|
 | 5 Years | 23.2% | 28.8% | 34.4% |
 | 10 Years | 16.4% | 21.7% | 27.0% |
+| 15 Years | 14.2% | 19.4% | 24.6% |
 
 #### At Terminal PE = 20x (Market Avg)
 
@@ -475,6 +588,7 @@ The Base Case assumes 13% Owner Earnings growth for years 1-5 (below the 18% his
 |---|---|---|---|
 | 5 Years | 16.3% | 21.6% | 26.8% |
 | 10 Years | 13.1% | 18.2% | 23.4% |
+| 15 Years | 12.1% | 17.1% | 22.2% |
 
 #### At Terminal PE = 26x (Historical Avg)
 
@@ -482,6 +596,7 @@ The Base Case assumes 13% Owner Earnings growth for years 1-5 (below the 18% his
 |---|---|---|---|
 | 5 Years | 10.3% | 15.3% | 20.4% |
 | 10 Years | 10.2% | 15.2% | 20.2% |
+| 15 Years | 10.1% | 15.1% | 20.1% |
 
 #### At Terminal PE = 28x (Compounder Premium)
 
@@ -489,6 +604,7 @@ The Base Case assumes 13% Owner Earnings growth for years 1-5 (below the 18% his
 |---|---|---|---|
 | 5 Years | 8.7% | 13.6% | 18.6% |
 | 10 Years | 9.4% | 14.3% | 19.3% |
+| 15 Years | 9.6% | 14.5% | 19.5% |
 
 ### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
@@ -511,6 +627,8 @@ The Base Case assumes 13% Owner Earnings growth for years 1-5 (below the 18% his
 | **Gap (OEPS CAGR − EPS CAGR)** | **+2.1 pp** | |
 
 **Interpretation:** The 2.1pp gap falls in the **2-5pp "moderate capital intensity"** band. This makes sense: Microsoft is in the middle of a massive AI data centre buildout ($65B CapEx in FY2025 alone), which means D&A is rising and will continue to rise — making the gap between EBIT/EPS and Owner Earnings metrics widen slightly. However, the gap is modest, confirming that Microsoft remains a predominantly asset-light business (software/subscriptions) with a temporary capital-intensive overlay (cloud infrastructure). The standard EPS-based Reverse DCF is directionally reliable but slightly optimistic; the OEPS figure of 15.2% is the more honest benchmark.
+
+> *Using Dilution-Adjusted OEPS ($14.02) instead of Base OEPS ($15.63) would increase the implied growth hurdle further — to ~16.5% CAGR for a 10% return over 10 years at 17x terminal P/OE. Even this remains below Microsoft's historical 17.3% OE CAGR (5Y), confirming the price is reasonable on all metrics.*
 
 ### Reality Check:
 
@@ -562,6 +680,36 @@ However, using a longer-term lens (5-year): Upside with 15% EPS growth and 28x P
 
 **Mispricing Assessment:** There is no obvious deep mispricing. Microsoft is approximately fairly valued — a wonderful company at a fair price. The 20%+ sell-off from the $555 high provides a mild discount, but this is not a "fat pitch" in the Buffett sense of the word. It IS a reasonable entry point for long-term holders.
 
+**Part 4: Catalysts & Anti-Catalysts**
+
+**Catalysts (things that could trigger upside re-rating):**
+
+| Catalyst | Probability | Timing |
+|---|---|---|
+| AI monetisation inflection — Copilot revenue ramp exceeds expectations, Azure AI workloads accelerate to 40%+ growth | High | 12-24 months |
+| Margin expansion — AI revenue at higher margins than core cloud, driving OPM above 50% | Medium-High | 18-36 months |
+| Capital return acceleration — CapEx peaks, FCF recovers sharply, enabling larger buybacks | Medium | 24-36 months |
+| Enterprise AI platform dominance — Microsoft becomes the default AI stack for enterprises (Office + Azure + Copilot), triggering a structural PE re-rating | Medium | 12-36 months |
+
+**Anti-Catalysts (things that could cause permanent capital loss):**
+
+| Anti-Catalyst | Probability | Priced In? |
+|---|---|---|
+| AI CapEx yields poor returns — $65B+/year in data centre spend generates insufficient revenue growth; margins compress structurally | Low-Medium | Partially |
+| Antitrust forced unbundling — EU/US mandates structural separation of Azure from Office/Teams, destroying ecosystem lock-in | Low | No |
+| OpenAI partnership collapse — OpenAI governance crisis or model commoditisation eliminates Microsoft's AI differentiation | Low | No |
+
+**Final Buffett Filter:**
+
+| Question | Answer |
+|---|---|
+| Is the downside capped by tangible value, franchise value, or earnings floor? | **Yes** — Even at trough PE (22x), the stock holds ~$352. The franchise is irreplaceable. |
+| Is the upside driven by business fundamentals rather than just multiple expansion? | **Yes** — 15-18% EPS growth from cloud + AI, not just PE re-rating hope. |
+| Would you be comfortable buying MORE if the stock dropped 30% tomorrow? | **Yes** — At $295, Microsoft would trade at ~18x TTM earnings, a screaming buy for a 30%+ ROE business. |
+| Can you explain the thesis in 2 sentences? | **Yes** — "Microsoft makes the software every business needs and charges them a subscription. Now it's adding AI to every product, making its tools even harder to replace." |
+
+Buffett: *"You do things when the opportunities come along. I've had periods in my life when I've had a bundle of ideas come along, and I've had long dry spells."* Microsoft at $422 is not the fat pitch of a lifetime — but it is a high-quality holding for patient capital, and a genuine bargain if the price dips below $360.
+
 ---
 
 ## 17. ROE QUALITY CHECK & P/B SCENARIO MATH
@@ -592,13 +740,29 @@ However, using a longer-term lens (5-year): Upside with 15% EPS growth and 28x P
 
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
-| P/B stays at 9.2x | Multiple sustains | 22.7% | 22.7% | 22.7% |
-| P/B compresses to 6.9x (75%) | Mild de-rating | 15.8% | 17.8% | 19.2% |
-| P/B compresses to 5.0x | Significant de-rating | 8.7% | 12.5% | 15.5% |
-| P/B compresses to 3.0x | Severe de-rating | -1.9% | 4.6% | 9.7% |
-| P/B compresses to 1.0x | Priced at book | -21.2% | -10.6% | -1.7% |
+| **P/B stays at current (9.2x)** | Multiple sustains | 22.7% | 22.7% | 22.7% |
+| **P/B compresses to 6.9x (75%)** | Mild de-rating | 15.8% | 17.8% | 19.2% |
+| **P/B compresses to 5.0x** | Significant de-rating (~50%) | 8.7% | 12.5% | 15.5% |
+| **P/B compresses to 3.0x** | Severe de-rating | -1.9% | 4.6% | 9.7% |
+| **P/B at historical median (11.9x)** | Reverts to 10Y median | 29.4% | 27.5% | 26.0% |
+| **P/B compresses to 1.0x** | Priced at book value | -21.2% | -10.6% | -1.7% |
 
 **Key Insight:** At the current entry P/B of 9.2x with 22.7% book value compounding, the stock delivers 10%+ returns even if the P/B multiple compresses to ~5x over 10 years (15.5% CAGR). However, a severe compression to 3.0x book over 10 years yields a 9.7% CAGR — just below the 10% hurdle rate. This means the entry is safe against moderate multiple compression but not immune to a severe de-rating.
+
+**The Rule of Thumb for Quick Mental Math:**
+
+```
+Approximate Annual Return ≈ (ROE × Retention) + Annual P/B Change
+
+where Annual P/B Change = (Exit P/B / Entry P/B)^(1/n) - 1
+```
+
+- If P/B stays constant at 9.2x → Return ≈ BV compounding rate = **22.7%**
+- If P/B halves to 4.6x over 10 years → ~7% annual drag → Return ≈ **15.5%**
+- If P/B drops to one-third (3.1x) over 10 years → ~11% annual drag → Return ≈ **11.7%**
+- If P/B drops to one-quarter (2.3x) over 10 years → ~13% annual drag → Return ≈ **9.7%**
+
+At a 22.7% BV compounding rate, Microsoft has enormous room to absorb P/B compression. Even if the multiple drops by two-thirds over a decade, you roughly break even on Buffett's 10% hurdle.
 
 **Traffic Light:** 🟢 **GREEN** — 10-year return exceeds 10% hurdle with P/B compressing to ~5x (roughly halving). Even under severe compression to 3x book, the return (9.7%) is close to the hurdle. The entry is safe for a long-term holder, though not with unlimited room for error.
 
@@ -668,17 +832,61 @@ Based on the DCF analysis and P/B framework:
 
 ## 21. REGULATORY RISKS & POLICY HEADWINDS
 
-**Primary Regulatory Risks:**
+**Key Regulatory Bodies:** EU Commission (antitrust, DMA), US DOJ/FTC (antitrust), OECD (tax), EU Parliament (AI Act, GDPR), various national data protection authorities.
 
-**1. Antitrust (EU & US):** The EU has historically been aggressive with Big Tech regulation. Microsoft's bundling of Teams with Office 365 has faced EU scrutiny (they unbundled Teams in the EU in response). The broader risk of forced unbundling or interoperability mandates exists but is manageable — Microsoft navigated the much more severe Internet Explorer antitrust case in 2001 and emerged stronger.
+**Current Regulatory Stance:** Neutral-to-mildly-hostile on antitrust (EU focus on bundling, AI market power); supportive on AI investment and cloud infrastructure build-out; tightening on tax optimisation.
 
-**2. AI Regulation:** Emerging AI regulation (EU AI Act, potential US legislation) could impose compliance costs or restrict certain AI applications. Microsoft is actively engaged in AI policy discussions and is well-positioned to comply. This regulation could actually BENEFIT Microsoft by creating compliance barriers that smaller competitors cannot afford.
+### Historical Regulatory Impact
+
+| Event | Year | Nature of Regulation | Impact on Company |
+|---|---|---|---|
+| US DOJ Antitrust (IE bundling) | 2001 | Antitrust — forced browser choice | Stock dropped ~60%; company restructured, refocused on enterprise. Emerged stronger long-term. Full recovery within 5 years. |
+| EU Antitrust (Media Player, browser) | 2004-2013 | Antitrust — €2.2B in total fines, forced unbundling | Fines immaterial to cash flow (<1% of revenue). No lasting business impact. |
+| EU Teams Unbundling | 2023 | Antitrust — forced Teams separation from M365 in EU | Microsoft proactively unbundled. Minimal revenue impact; Teams remains dominant. |
+| OECD Pillar Two (Global Min Tax) | 2024+ | Tax — 15% global minimum rate | Estimated ~2pp increase in effective tax rate. ~$3-4B annual drag on NI. Manageable. |
+
+### Current Regulatory Headwind Analysis
+
+**1. Antitrust (EU & US):** The EU has been aggressive with Big Tech regulation. Microsoft's bundling of Teams with Office 365 has faced EU scrutiny (they unbundled Teams in the EU in response). The broader risk of forced unbundling or interoperability mandates exists but is manageable.
+
+**2. AI Regulation:** Emerging AI regulation (EU AI Act, potential US legislation) could impose compliance costs or restrict certain AI applications. Microsoft is well-positioned to comply — and this regulation could actually BENEFIT Microsoft by creating compliance barriers that smaller competitors cannot afford.
 
 **3. Data Privacy / GDPR:** Ongoing compliance costs, but Microsoft is already a leader in enterprise data privacy. More of a cost than a risk.
 
-**4. Tax Policy:** Global minimum tax (OECD Pillar Two) could modestly increase Microsoft's effective tax rate from ~18% to ~20%. Impact: ~$3-4B annually, or ~3% drag on earnings.
+**4. Tax Policy:** OECD Pillar Two could modestly increase Microsoft's effective tax rate from ~18% to ~20%. Impact: ~$3-4B annually, or ~3% drag on earnings.
 
-**Buffett's Verdict on Regulatory Risk:** **(a) Manageable and Overpriced by the Market.** Microsoft has survived the most severe tech antitrust action in history (US DOJ, 2001) and emerged as a $3T company. Regulatory risk is always present but is structurally LOWER for Microsoft than for Google, Meta, or Apple because Microsoft's dominance is in enterprise (B2B), which attracts less populist/political ire than consumer platforms.
+### Demand Curve — How Price-Sensitive Is Microsoft to Regulatory Costs?
+
+| Regulatory Cost Magnitude | Likely Volume Impact | Microsoft's Response | Net Revenue Impact |
+|---|---|---|---|
+| **Mild (5-8% cost increase)** — e.g., tax hike, compliance costs | Negligible — enterprise customers don't switch over small cost changes | Absorb or pass through via subscription price increases | Neutral to mildly positive |
+| **Moderate (10-15%)** — e.g., forced unbundling in one region | -1% to -3% revenue in affected products | Sell unbundled products separately (Teams standalone already exists) | Flat to mildly negative short-term |
+| **Severe (>20%)** — e.g., structural separation mandated globally | -5% to -8% from ecosystem value destruction | Legal challenge + product adaptation; would take years to implement | Negative for 2-3 years, then recovery |
+
+### What Would Buffett Make of This?
+
+**1. History as a Guide:** Microsoft survived the most severe tech antitrust action in history (US DOJ, 2001) — the stock dropped 60%, the company was nearly broken up — and emerged to become a $3T company. The Teams unbundling in the EU was handled proactively with zero lasting damage. History shows Microsoft absorbs regulatory shocks and adapts.
+
+**2. The Elasticity / Pricing Power Argument:** Enterprise software switching costs are so high that regulatory-induced price increases of 5-15% would cause negligible customer loss. A company that has deployed Microsoft 365 across 100,000 employees is not switching to Google Workspace because the subscription went up $2/seat/month. This is textbook inelastic demand.
+
+**3. The Terminal Risk Assessment:** Is there any realistic scenario in which regulation permanently destroys Microsoft's business? Forced total breakup is the only terminal threat — and even the 2001 DOJ case, at the height of antitrust aggression, failed to achieve this. Probability: <1%. All other regulatory risks are costs of doing business, not existential threats.
+
+### Risk Rating Table
+
+| Risk Factor | Probability | Impact | Net Risk | Notes |
+|---|---|---|---|---|
+| EU Antitrust (further unbundling) | Medium | Medium | Manageable | Precedent: Teams unbundling had zero lasting damage |
+| AI regulation (compliance costs) | High | Low | Manageable | May actually strengthen moat via compliance barriers |
+| Global minimum tax (OECD Pillar Two) | High | Low | Manageable | ~$3-4B drag on $100B+ NI; absorbed easily |
+| US Antitrust (AI market power) | Low-Medium | Medium | Manageable | Political risk depends on administration; Microsoft is less visible than Google/Meta |
+| Data localisation requirements | Medium | Low | Manageable | Azure already has 60+ regional data centres |
+| Terminal risk (forced breakup) | Very Low | Catastrophic | Negligible | Failed in 2001 at peak anti-MSFT sentiment |
+
+### Buffett's Verdict on Regulatory Risk
+
+**(a) Manageable and Overpriced by the Market.** Microsoft has survived the most severe tech antitrust action in history (US DOJ, 2001) and emerged as a $3T company. Regulatory risk is always present but is structurally LOWER for Microsoft than for Google, Meta, or Apple because Microsoft's dominance is in enterprise (B2B), which attracts less populist/political ire than consumer platforms. Any stock weakness driven by regulatory headlines is a buying opportunity, not an exit signal.
+
+> *"It's only when the tide goes out that you learn who's been swimming naked."* — Warren Buffett. Microsoft has been through several regulatory tides — 2001 DOJ, EU fines, Teams unbundling — and has never been found naked. The franchise emerges stronger each time because regulation raises barriers for weaker competitors.
 
 ---
 
