@@ -758,11 +758,13 @@ where Annual P/B Change = (Exit P/B / Entry P/B)^(1/n) - 1
 ```
 
 - If P/B stays constant at 9.2x → Return ≈ BV compounding rate = **22.7%**
-- If P/B halves to 4.6x over 10 years → ~7% annual drag → Return ≈ **15.5%**
-- If P/B drops to one-third (3.1x) over 10 years → ~11% annual drag → Return ≈ **11.7%**
-- If P/B drops to one-quarter (2.3x) over 10 years → ~13% annual drag → Return ≈ **9.7%**
+- If P/B halves to 4.6x over 10 years → ~7% annual drag → Return ≈ **14.5%**
+- If P/B drops to one-third (3.1x) over 10 years → ~10% annual drag → Return ≈ **10.1%**
+- If P/B drops to one-quarter (2.3x) over 10 years → ~13% annual drag → Return ≈ **6.9%**
 
-At a 22.7% BV compounding rate, Microsoft has enormous room to absorb P/B compression. Even if the multiple drops by two-thirds over a decade, you roughly break even on Buffett's 10% hurdle.
+*Note: The formula is additive and approximate; exact returns (computed multiplicatively) are in the table above. At high BV compounding rates like Microsoft's 22.7%, the additive approximation slightly overstates returns under compression — always defer to the exact table for precise figures.*
+
+At a 22.7% BV compounding rate, Microsoft has enormous room to absorb P/B compression. Even if the multiple drops by two-thirds over a decade (to ~3.1x), the return is roughly 10% — right at Buffett's hurdle rate. Only a drop to one-quarter or below breaks the hurdle meaningfully.
 
 **Traffic Light:** 🟢 **GREEN** — 10-year return exceeds 10% hurdle with P/B compressing to ~5x (roughly halving). Even under severe compression to 3x book, the return (9.7%) is close to the hurdle. The entry is safe for a long-term holder, though not with unlimited room for error.
 
