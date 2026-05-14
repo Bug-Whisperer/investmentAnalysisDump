@@ -513,9 +513,9 @@ Using Owner Earnings as the starting cash flow. Per the template, for companies 
 
 | Scenario | Growth Yrs 1-5 | Growth Yrs 6-10 | Terminal Growth | IV/Share | MOS at $422 | Upside |
 |---|---|---|---|---|---|---|
-| **Conservative** | 10% | 7% | 3.0% | **$357** | -18.2% | -15.4% |
-| **Base** | 13% | 9% | 3.5% | **$451** | 6.4% | 6.9% |
-| **Optimistic** | 16% | 11% | 4.0% | **$573** | 26.4% | 35.8% |
+| **Conservative** | 10% | 7% | 3.0% | **$350** | -20.4% | -17.0% |
+| **Base** | 13% | 9% | 3.5% | **$444** | 4.9% | 5.2% |
+| **Optimistic** | 16% | 11% | 4.0% | **$566** | 25.5% | 34.2% |
 
 **Using Dilution-Adjusted Owner Earnings ($104.6B for FY2025) — the Buffett/Burry-pure figure:**
 
@@ -533,25 +533,25 @@ Using Owner Earnings as the starting cash flow. Per the template, for companies 
 | Year 10 Owner Earnings | $296,578M |
 | Terminal Value (Gordon Growth: OE₁₀ × (1+g) / (r−g)) | $4,722,440M |
 | PV of Terminal Value | $1,820,705M |
-| **Total Enterprise Value** | **$2,970,499M** |
-| Add: Net Cash ($94,565M − $43,151M) | $51,414M |
-| **Equity Intrinsic Value** | **$3,021,913M** |
+| **Equity Intrinsic Value**⁸ | **$2,970,499M** |
 | Diluted Shares Outstanding | 7,462M |
-| **Intrinsic Value Per Share** | **$405** |
-| **Margin of Safety at $422** | **-4.2%** |
-| **Upside / (Downside) from CMP** | **-4.0%** |
+| **Intrinsic Value Per Share** | **$398** |
+| **Margin of Safety at $422** | **-6.0%** |
+| **Upside / (Downside) from CMP** | **-5.7%** |
+
+*⁸ Methodology Note: Owner Earnings (NI + D&A − Maintenance CapEx) is an equity-level cash flow — it starts from Net Income, which is already post-interest and post-tax. Discounting equity-level cash flows at an equity hurdle rate (10%) yields equity value directly. No enterprise-to-equity bridge (adding net cash or subtracting net debt) is needed. This is consistent with Buffett's approach of thinking in terms of what the owner gets.*
 
 **Summary — All Scenarios (Dilution-Adjusted OE):**
 
 | Scenario | Growth Yrs 1-5 | Growth Yrs 6-10 | Terminal Growth | IV/Share | MOS at $422 | Upside |
 |---|---|---|---|---|---|---|
-| **Conservative** | 10% | 7% | 3.0% | **$321** | -31.4% | -23.9% |
-| **Base** | 13% | 9% | 3.5% | **$405** | -4.2% | -4.0% |
-| **Optimistic** | 16% | 11% | 4.0% | **$515** | 18.0% | 22.0% |
+| **Conservative** | 10% | 7% | 3.0% | **$314** | -34.3% | -25.5% |
+| **Base** | 13% | 9% | 3.5% | **$398** | -6.0% | -5.7% |
+| **Optimistic** | 16% | 11% | 4.0% | **$508** | 16.9% | 20.4% |
 
-**Interpretation:** On the Dilution-Adjusted basis, the Base Case IV ($405) sits slightly below the current price of $422 — suggesting the stock is approximately **fairly valued** with no meaningful margin of safety. The Optimistic case ($515) provides 22% upside if AI growth materialises. On the Base OE basis, there is a modest 6.4% margin of safety.
+**Interpretation:** On the Dilution-Adjusted basis, the Base Case IV ($398) sits below the current price of $422 — suggesting the stock is approximately **fairly valued to slightly overvalued** with no margin of safety. The Optimistic case ($508) provides 20% upside if AI growth materialises. On the Base OE basis, there is a modest 4.9% margin of safety.
 
-The ~10% gap between the two DCF results ($451 vs $405 for Base) reflects the annual $12B cash cost of anti-dilution buybacks — real money leaving the company to keep the share count from rising. For Microsoft, this is a manageable drag, not a dealbreaker.
+The ~10% gap between the two DCF results ($444 vs $398 for Base) reflects the annual $12B cash cost of anti-dilution buybacks — real money leaving the company to keep the share count from rising. For Microsoft, this is a manageable drag, not a dealbreaker.
 
 > *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* — Warren Buffett. Microsoft at ~26x earnings (or ~30x Dilution-Adjusted OE) is a wonderful company at a fair price.
 
@@ -662,19 +662,19 @@ At a mature terminal PE of 15x (severe PE compression):
 |---|---|---|---|
 | Tangible Book Value | $30/share (TBVPS) | $30 | -93% |
 | Trough Earnings × Trough PE | $9.68 (FY2023 EPS) × 20x | $194 | -54% |
-| Conservative DCF | From Section 15 | $357 | -15% |
+| Conservative DCF | From Section 15 | $350 | -17% |
 | Historical Lowest PE × Normalised EPS | 22x × $15.99 | $352 | -17% |
 
 **Upside Potential:**
 
 | Scenario | Basis | Implied Price | Upside |
 |---|---|---|---|
-| Base DCF | Owner Earnings DCF | $451 | +6.9% |
-| Optimistic DCF | AI growth materialises | $573 | +35.8% |
+| Base DCF | Owner Earnings DCF | $444 | +5.2% |
+| Optimistic DCF | AI growth materialises | $566 | +34.2% |
 | 15% EPS growth × 30x PE (5Y) | $15.99 × 1.15^5 × 30x | $965 | +129% |
 | AI Re-rating + Growth | Premium multiple + accelerating growth | $700+ | +66%+ |
 
-**Asymmetry Ratio:** Using Base Case upside (6.9%) and most probable downside (~15%): Ratio = 0.46:1. At current price, asymmetry is unfavourable for a near-term trade.
+**Asymmetry Ratio:** Using Base Case upside (5.2%) and most probable downside (~17%): Ratio = 0.31:1. At current price, asymmetry is unfavourable for a near-term trade.
 
 However, using a longer-term lens (5-year): Upside with 15% EPS growth and 28x PE = $901 (+113%), Downside with 8% growth and 20x PE = $470 (+11%). Since both scenarios yield a price above the current $422, the 5-year outlook is constructive — you make money in both the bull and bear cases, with dramatically more in the bull case. **Decent-to-strong pitch** over a 5-year horizon.
 
@@ -910,7 +910,7 @@ Based on the DCF analysis and P/B framework:
 | Scalability | **8** | Mid-cycle scaling; AI provides second inflection point |
 | Earnings Quality | **9** | OCF consistently exceeds net income; low accruals |
 | Valuation | **6** | Fair to slightly attractive at ~26x TTM. Not a deep bargain. |
-| Margin of Safety | **5** | ~6% MOS on Base DCF. Limited downside cushion at current price. |
+| Margin of Safety | **5** | ~5% MOS on Base OE DCF; negative on DA-OE DCF. No downside cushion at current price. |
 | **OVERALL SCORE** | **8.3/10** | |
 | **Buffett Verdict** | | **A world-class business at a fair price.** MSFT is the gold standard of enterprise software with an unassailable moat that is widening via AI. At ~$422 (~26x TTM), the stock is not a "fat pitch" deep-value screaming buy, but it is an outstanding long-term compounding machine at a reasonable entry point. Buffett: *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* Microsoft at $422 IS a wonderful company at a fair price. For existing holders: HOLD. For new positions: BUY with a small-to-moderate allocation, and build aggressively on any dips below $360. |
 | **Buy Zone** | | **Fair Value / Hold zone** ($400-$480). Lower end — acceptable for new positions. |
