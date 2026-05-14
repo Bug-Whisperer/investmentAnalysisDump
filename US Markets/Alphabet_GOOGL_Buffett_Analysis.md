@@ -98,7 +98,7 @@ Buffett: *"We like to own businesses with durable competitive advantages."* Alph
 | Share Buybacks | 18,396 | 31,149 | 50,274 | 59,296 | 61,504 | 62,222 | 45,709 |
 | Dividends Paid | 0 | 0 | 0 | 0 | 0 | 7,363 | 10,049 |
 
-**FCF Commentary:** Operating cash flow has tripled from $54.5B to $164.7B in six years (20.3% CAGR). FCF margin has declined from 26% to 18.2%, driven entirely by the AI CapEx supercycle ($91.4B FY2025, $175-185B guided FY2026). This is GROWTH capex — Alphabet is building the AI infrastructure for the next decade.
+**FCF Commentary:** Operating cash flow has tripled from $54.5B to $164.7B in six years (20.2% CAGR). FCF margin has declined from 26% to 18.2%, driven entirely by the AI CapEx supercycle ($91.4B FY2025, $175-185B guided FY2026). This is GROWTH capex — Alphabet is building the AI infrastructure for the next decade.
 
 Despite the CapEx surge, FCF held at $73.3B, and the company returned $55.8B via buybacks ($45.7B) and dividends ($10.0B). The share count has declined 12.5% from peak, providing meaningful EPS uplift.
 
@@ -116,8 +116,12 @@ Despite the CapEx surge, FCF held at $73.3B, and the company returned $55.8B via
 | OPM % (pre-D&A) | 33.1 | 30.0 | 26.1 | 27.9 | 29.7 | **34.5** | **31.2** | 31.3 | 36.5 | **37.3** |
 | **EBIT Margin %** | 26.3 | 23.6 | **20.1** | 21.1 | 22.6 | **30.6** | 26.5 | 27.4 | 32.1 | **32.0** |
 | NPM % | 21.6 | **11.4** | 22.5 | 21.2 | 22.1 | **29.5** | 21.2 | 24.0 | 28.6 | **32.8** |
-| Interest Coverage | — | — | — | — | — | 227x | 210x | 274x | 419x | **175x** |
+| ROCE % (pre-tax) | — | — | — | — | 18.6 | **31.3** | 27.9 | 29.7 | **35.5** | 32.3 |
+| Interest Coverage | — | — | — | — | — | 227x | 210x | 274x | **419x** | **175x** |
+| Current Ratio | — | — | — | — | — | — | — | — | — | **2.01** |
 | Dividend Payout % | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7.4 | **7.6** |
+
+*Note: Debtor Days, Inventory Days, Cash Conversion Cycle, and Working Capital Days are not meaningful for Alphabet. As a digital advertising and cloud platform, Alphabet carries no physical inventory. Revenue is overwhelmingly collected via automated digital transactions (advertiser credit card charges, cloud subscription billing) with minimal trade receivables. The standard working capital cycle metrics designed for manufacturing/retail businesses do not apply.*
 
 *Note: FY2017 net margin (11.4%) and ROE (8.7%) were depressed primarily by a ~$10B one-time tax charge from the Tax Cuts and Jobs Act (TCJA) repatriation provision, plus a $2.7B EU antitrust fine. The TCJA charge was the dominant factor, explaining roughly 75% of the shortfall versus normalised profitability.*
 
@@ -142,21 +146,26 @@ Despite the CapEx surge, FCF held at $73.3B, and the company returned $55.8B via
 
 > **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
 
+> *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
+
+The ratio trends reveal a business whose moat is **widening, not eroding.** ROE has expanded from the mid-teens to the mid-30s over a decade, driven by margin expansion (21% → 33% NPM) rather than leverage — the hallmark of a franchise strengthening its pricing power and operating leverage. ROCE above 30% signals the business generates extraordinary returns on every dollar of capital deployed. The only caution flag — thin earnings yield (3.2%) — is a valuation concern, not a quality concern.
+
 ---
 
 ## 6. QUARTERLY TREND ANALYSIS — Recent Momentum
 
-| Metric | Q1'24 | Q2'24 | Q3'24 | Q4'24 | Q1'25 | Q2'25 | Q3'25 | **Q4'25** |
-|---|---|---|---|---|---|---|---|---|
-| Revenue ($M) | 80,539 | 84,742 | 88,268 | 96,469 | 90,234 | 96,428 | 102,346 | **113,828** |
-| YoY Growth | 15.4% | 13.6% | 15.1% | 11.8% | 12.0% | 13.8% | 15.9% | **18.0%** |
-| Operating Profit (pre-D&A) | 29,007 | 31,062 | 32,448 | 35,184 | 35,090 | 36,063 | 36,633 | **42,389** |
-| OPM % (pre-D&A) | 36.0% | 36.7% | 36.8% | 36.5% | 38.9% | 37.4% | 35.8% | **37.2%** |
-| Depreciation | 3,535 | 3,637 | 3,927 | 4,212 | 4,479 | 4,798 | 5,404 | **6,455** |
-| **EBIT** | 25,472 | 27,425 | 28,521 | 30,972 | 30,611 | 31,265 | 31,229 | **35,934** |
-| **EBIT Margin %** | 31.6% | 32.4% | 32.3% | 32.1% | 33.9% | 32.4% | 30.5% | **31.6%** |
-| Net Income | 23,662 | 23,619 | 26,301 | 26,536 | 34,540 | 28,832 | 34,343 | **34,455** |
-| EPS (Diluted) | $1.89 | $1.89 | $2.12 | $2.15 | **$2.81** | $2.35 | $2.82 | **$2.82** |
+| Metric | Q3'23 | Q4'23 | Q1'24 | Q2'24 | Q3'24 | Q4'24 | Q1'25 | Q2'25 | Q3'25 | **Q4'25** |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Revenue ($M) | 76,693 | 86,310 | 80,539 | 84,742 | 88,268 | 96,469 | 90,234 | 96,428 | 102,346 | **113,828** |
+| YoY Growth | — | — | — | — | 15.1% | 11.8% | 12.0% | 13.8% | 15.9% | **18.0%** |
+| Operating Profit (pre-D&A) | 24,626 | 27,461 | 29,007 | 31,062 | 32,448 | 35,184 | 35,090 | 36,063 | 36,633 | **42,389** |
+| OPM % (pre-D&A) | 32.1% | 31.8% | 36.0% | 36.7% | 36.8% | 36.5% | 38.9% | 37.4% | 35.8% | **37.2%** |
+| Depreciation | 2,889 | 3,743 | 3,535 | 3,637 | 3,927 | 4,212 | 4,479 | 4,798 | 5,404 | **6,455** |
+| **EBIT** | 21,737 | 23,718 | 25,472 | 27,425 | 28,521 | 30,972 | 30,611 | 31,265 | 31,229 | **35,934** |
+| **EBIT Margin %** | **28.3%** | **27.5%** | 31.6% | 32.4% | 32.3% | 32.1% | **33.9%** | 32.4% | **30.5%** | 31.6% |
+| Net Income | 19,689 | 20,687 | 23,662 | 23,619 | 26,301 | 26,536 | **34,540** | 28,832 | 34,343 | **34,455** |
+| NPM % | 25.7% | **24.0%** | 29.4% | 27.9% | 29.8% | 27.5% | **38.3%** | 29.9% | 33.6% | 30.3% |
+| EPS (Diluted) | $1.55 | $1.64 | $1.89 | $1.89 | $2.12 | $2.15 | **$2.81** | $2.35 | $2.82 | **$2.82** |
 
 **Revenue is ACCELERATING.** Q4'25 at $113.8B and 18% YoY was the fastest growth since Q1'22. Cloud grew 48% to $17.7B. Search grew 17%.
 
@@ -172,13 +181,27 @@ Despite the CapEx surge, FCF held at $73.3B, and the company returned $55.8B via
 
 Alphabet has a dual-class share structure: Class A (GOOGL) = 1 vote, Class B (founders) = 10 votes, Class C (GOOG) = 0 votes.
 
-| Holder | Approximate % | Trend |
-|---|---|---|
-| Founders (Page & Brin) via Class B | ~51% voting; ~12% economic | → Stable |
-| Institutional Investors | ~72% of float | ↑ Rising |
-| Retail / Public | ~15% | → Stable |
+| Holder | Jun'24 | Sep'24 | Dec'24 | Mar'25 | Jun'25 | Sep'25 | Dec'25 | Trend |
+|---|---|---|---|---|---|---|---|---|
+| Founders (Page & Brin) via Class B | ~12% econ | ~12% | ~12% | ~12% | ~12% | ~12% | ~12% | → Stable |
+| Institutional Investors | ~71% | ~72% | ~72% | ~72% | ~73% | ~73% | ~73% | ↑ Rising |
+| FIIs (Non-US Institutions) | ~18% | ~17% | ~17% | ~16% | ~16% | ~16% | ~16% | ↓ Slight decline |
+| Mutual Funds (Top holders) | ~22% | ~23% | ~23% | ~23% | ~24% | ~24% | ~24% | ↑ Rising |
+| Retail / Public | ~16% | ~16% | ~15% | ~15% | ~15% | ~15% | ~15% | → Stable |
 
-Founder control provides long-term vision protection. Institutional ownership is broad and deep. The antitrust relief rally (April 2026) signals improving institutional sentiment.
+*Note: Alphabet is widely held with no single promoter block; the "Promoter" equivalent is the Founders' super-voting Class B shares providing 51% voting control on ~12% economic stake. Institutional ownership percentages approximate 13F filings; quarterly granularity is limited for non-US holders.*
+
+**1. Founder/Insider Holding:** Page and Brin maintain ~51% voting control via Class B shares, ensuring long-term strategic alignment without the risk of hostile activism. No pledging concerns — the founders are among the wealthiest individuals globally.
+
+**2. FII/FPI Trend:** Non-US institutional holdings have declined modestly from ~18% to ~16% over 6 quarters. This appears related to global portfolio rebalancing and USD strength rather than Alphabet-specific concerns.
+
+**3. DII/Mutual Fund Trend:** Domestic US institutional accumulation (Vanguard ~7.5%, BlackRock ~6.5%, Fidelity, State Street) has been steady and rising. These index-weighted holdings grow mechanically as Alphabet's weight in the S&P 500 increases.
+
+**4. Retail/Public Trend:** Stable at ~15%. The broadening of ownership (Alphabet is now in virtually every 401(k) and index fund) provides deep liquidity.
+
+**5. Contrarian Signal Check:** No obvious contrarian setup. Institutional accumulation and rising price are aligned — this is a consensus long, not a contrarian bet.
+
+> *"Be fearful when others are greedy, and greedy when others are fearful."* — Warren Buffett. At $340 and 31.5x PE, the market is not fearful of Alphabet — it is pricing in optimism. The shareholding pattern confirms this: institutions are accumulating, not distributing. There is no "blood in the streets" contrarian opportunity here. The stock is fairly valued by consensus, not mispriced by pessimism.
 
 ---
 
@@ -196,11 +219,63 @@ Founder control provides long-term vision protection. Institutional ownership is
 | **Owner Earnings** | 36,957 | 45,376 | 77,682 | 62,427 | 74,453 | 97,042 | **121,300** |
 | OE Per Share | $2.64 | $3.30 | $5.73 | $4.74 | $5.85 | $7.80 | **$9.92** |
 
-The AI infrastructure supercycle dominates. CapEx nearly quadrupled since FY2021. Management guided $175-185B for FY2026. This is overwhelmingly GROWTH capex. Owner Earnings of $121.3B ($9.92/share) represent true sustainable earning power. At $340, the stock trades at 34.3x Owner Earnings.
+The AI infrastructure supercycle dominates. CapEx nearly quadrupled since FY2021. Management guided $175-185B for FY2026. This is overwhelmingly GROWTH capex — Alphabet is building the AI infrastructure (custom TPU chips, data centres) that will generate revenue for the next decade. Maintenance CapEx is estimated at 35% of total, reflecting the portion needed to sustain existing infrastructure, replace ageing servers, and maintain current capacity. The remaining 65% is genuinely expansionary (new AI training clusters, new data centres, geographic buildouts).
+
+**Base Owner Earnings = Net Income + D&A − Maintenance CapEx.** GAAP Net Income already includes SBC as an expense — SBC is NOT subtracted again in the Base formula. Base OE of $121.3B ($9.92/share) represents earning power before considering the cash cost of offsetting SBC dilution.
+
+### SBC & Share Dilution Analysis — The Hidden Cash Cost to Shareholders
+
+SBC as a percentage of Net Income is **18.9%** in FY2025 — well above the 5% materiality threshold. Alphabet also has an active buyback programme ($45.7B in FY2025). Per the template, **full SBC & Dilution Analysis is mandatory.**
+
+| Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | **FY2025** | **Cumulative** |
+|---|---|---|---|---|---|---|---|
+| GAAP SBC Expense ($M) | 12,991 | 15,376 | 19,525 | 22,460 | 22,785 | **24,953** | **118,090** |
+| SBC as % of Revenue | 7.1% | 6.0% | 6.9% | 7.3% | 6.5% | **6.2%** | |
+| SBC as % of Net Income | 32.3% | 20.2% | **32.6%** | 30.4% | 22.8% | **18.9%** | |
+| Est. Gross SBC Shares Created (M) | 178 | 118 | 174 | 187 | 138 | **139** | **934** |
+| Shares Repurchased via Buybacks (M) | 427 | 387 | 529 | 513 | 377 | **254** | **2,487** |
+| Net Dilution / (Accretion) (M) | (249) | (268) | (355) | (325) | (239) | **(115)** | **(1,553)** |
+| Basic Shares Outstanding (M) | 13,390 | 13,242 | 12,849 | 12,434 | 12,131 | **11,972** | |
+| Diluted Shares Outstanding (M) | 13,740 | 13,553 | 13,159 | 12,722 | 12,447 | **12,230** | |
+| Basic-to-Diluted Gap (M) | 350 | 311 | 310 | 288 | 316 | **258** | |
+| YoY Change in Diluted Shares | -1.7% | -1.4% | **-2.9%** | **-3.3%** | -2.2% | **-1.7%** | **-12.5% total** |
+| Total Buyback Spend ($M) | 31,149 | 50,274 | 59,296 | 61,504 | 62,222 | **45,709** | **310,154** |
+| Cash Cost of Anti-Dilution Buybacks ($M) | 12,991 | 15,376 | 19,525 | 22,460 | 22,785 | **24,953** | **118,090** |
+| **True Shareholder Buyback ($M)** | 18,158 | 34,898 | 39,771 | 39,044 | 39,437 | **20,756** | **192,064** |
+| Reported FCF ($M) | 42,843 | 67,012 | 60,010 | 69,495 | 72,764 | **73,266** | **385,390** |
+| **Dilution-Adjusted Owner Earnings ($M)** | 32,385 | 62,306 | 42,902 | 51,993 | 74,257 | **96,347** | **360,190** |
+
+**Analysis:**
+
+**1. Gross vs. Net Dilution Trend:** The diluted share count has fallen by 1,750M shares (12.5%) from FY2019 to FY2025. Alphabet is WINNING the dilution battle decisively — buybacks exceed SBC dilution in every single year. The basic-to-diluted gap (SBC overhang) has narrowed from 350M to 258M shares — a positive signal that the future dilution pipeline is shrinking.
+
+**2. SBC Treadmill Test:** 38.1% of cumulative buyback spending ($118B of $310B) was consumed by anti-dilution — merely keeping SBC from inflating the share count. This falls in the **🟡 25-50% range** — meaningful. For every $1 Alphabet "returns" via buybacks, $0.38 is just paying employees by roundabout means. The remaining $0.62 genuinely shrinks the float. Not ideal, but far better than the 🔴 >75% treadmill seen at NVIDIA.
+
+**3. GAAP Expense vs. Cash Reality Gap:** GAAP captured $118.1B of SBC cost over FY2020-25. The cash cost of anti-dilution buybacks was also $118.1B — a **1.0x ratio.** For Alphabet, unlike NVIDIA, the GAAP expense is approximately accurate because grant-date values roughly match repurchase prices (the stock hasn't had a 5-10x runup from grant dates). The income statement is NOT materially understating the economic cost of SBC.
+
+**4. Dilution-Adjusted OE vs. Reported Metrics:** Reported NI of $132.2B and reported FCF of $73.3B compare to Dilution-Adjusted Owner Earnings of $96.3B. Reported NI overstates true owner earnings by 37%. Reported FCF understates it by 24% (FCF is depressed by growth CapEx). DA-OE is the honest middle ground.
+
+**5. SBC Trajectory:** SBC as a % of revenue has been stable at 6-7% — no improvement. SBC as a % of net income has declined sharply (32.6% → 18.9%) purely because earnings grew much faster than SBC. In absolute dollars, SBC continues to grow ($13B → $25B). The trend is acceptable but not improving in efficiency terms.
+
+**6. GAAP vs. Non-GAAP Earnings Gap:** Alphabet does not prominently report non-GAAP earnings excluding SBC. GAAP is the standard — SBC is correctly expensed. This is a positive governance signal.
+
+**7. Basic vs. Diluted Share Count Gap:** The gap has narrowed from 350M to 258M — a 26% reduction. The SBC overhang is shrinking, meaning fewer unvested awards remain to convert into dilutive shares in future years.
+
+> Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* The same logic applies to reported FCF that ignores the cash cost of anti-dilution buybacks. Alphabet spends $25B/year buying back shares that employees were given — that money is a real cost of doing business, not a discretionary capital return.
+
+**Dilution-Adjusted Owner Earnings (FY2025): $96,347M | DA-OE Per Share: $7.88 | P/DA-OE: 43.2x**
+
+**Use Dilution-Adjusted Owner Earnings as the DCF starting point.** With SBC at 18.9% of NI and $46B in annual buybacks, the template MANDATES Dilution-Adjusted OE. Using Base OE would overstate intrinsic value by ~20-25%.
 
 ---
 
 ## 9. RETURN ON CAPITAL — The Buffett Quality Test
+
+| Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | **FY2025** |
+|---|---|---|---|---|---|---|
+| ROCE % (pre-tax) | 18.6 | **31.3** | 27.9 | 29.7 | **35.5** | 32.3 |
+| ROE % | 19.0 | **32.1** | 23.6 | 27.4 | 32.9 | **35.7** |
+| ROA % | 13.5 | **22.4** | 16.6 | 19.2 | 23.5 | **25.3** |
 
 **DuPont Decomposition:**
 
@@ -239,6 +314,16 @@ Buffett: *"We're looking for the absence of change to protect ways already makin
 
 ## 11. SCALABILITY CHECK
 
+### Part A: Revenue Scalability — Can Revenue Grow Without Proportional Resource Additions?
+
+| Factor | Alphabet Assessment | Signal |
+|---|---|---|
+| **Marginal cost structure** | Near-zero for Search (serving the 10 billionth query costs nothing incrementally). Cloud scales with proportional but declining-unit-cost infrastructure. YouTube benefits from free user-generated content. | 🟢 Favourable |
+| **Pricing power at scale** | Google's ad auction system means prices are set by advertiser demand, not by Google. As more advertisers compete for the same intent-based queries, CPCs naturally rise with scale. YouTube's ad load can increase without user churn (proven over 15 years). | 🟢 Favourable |
+| **Distribution leverage** | Android (72% global smartphones) and Chrome (65% browsers) are free on-ramps that funnel users to Search at zero incremental cost. The same infrastructure serves Search, YouTube, Maps, and Cloud. | 🟢 Favourable |
+| **Geographic replicability** | The model is inherently global — Search works in every language, YouTube is localised automatically by creators, Cloud is a global infrastructure product. The only friction: regulatory (China, Russia). | 🟢 Favourable |
+| **Customer acquisition cost (CAC) trend** | Google's brand IS the customer acquisition — people come to Google by habit, not by marketing. CAC for Cloud is higher but declining as enterprise relationships deepen and cross-sell increases. | 🟢 Favourable |
+
 **Incremental EBIT Margins:**
 
 | Year | Revenue | Rev Growth | EBIT | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
@@ -262,9 +347,31 @@ Buffett: *"We're looking for the absence of change to protect ways already makin
 
 **TAM & Runway:** Digital advertising (~$740B), Cloud (~$600B), AI applications (trillions). Alphabet at $403B revenue = ~20% penetration. Massive runway.
 
+**Capital Scalability:**
+
+| Metric | FY2021 | FY2023 | FY2025 | Trend |
+|---|---|---|---|---|
+| CapEx as % of Revenue | 9.6% | 10.5% | **22.7%** | Rising sharply (AI investment) |
+| Revenue per $ of CapEx | $10.5 | $9.5 | **$4.4** | Declining — more capital per revenue dollar |
+| Working Capital as % Revenue | ~2% | ~2% | ~2% | Stable — not consuming cash via WC |
+| Asset Turnover | 0.76 | 0.80 | **0.77** | Dipped from AI asset buildout |
+
+Capital scalability has temporarily deteriorated due to the AI CapEx supercycle. Revenue per dollar of CapEx has fallen from $10.5x to $4.4x — each new revenue dollar requires significantly more capital investment. This is the single biggest concern for a Buffett analysis. However, this is expected to be temporary: the AI infrastructure being built in FY2024-26 will generate revenue for 5-10 years, meaning the CapEx/Revenue ratio should normalise once the investment cycle peaks (guided FY2026-27).
+
 **S-Curve:** Core business in Growth Phase; Cloud/AI at Inflection Point.
 
-**Scaling Verdict: 8/10 — Strong Scaler.** Revenue near-zero marginal cost, incremental margins above current, significant runway. Only drag: temporary capital intensity from AI investment.
+### Part C: Scaling Verdict
+
+| Dimension | Score (1-10) | Evidence |
+|---|---|---|
+| Revenue scalability (marginal economics) | 9 | Near-zero marginal cost for Search; Cloud scales efficiently |
+| Profit scalability (incremental EBIT margins) | 8 | Incremental EBIT margins consistently above current (excl. FY2022) |
+| Capital scalability (growth without proportional capital) | 5 | Temporarily capital-hungry during AI buildout; will normalise |
+| Scaling runway (TAM vs. penetration) | 9 | $2T+ TAM; ~20% penetration; AI opens entirely new markets |
+| S-Curve position (is timing right?) | 8 | Core in growth phase; Cloud/AI at inflection |
+| **Overall Scalability Score** | **8/10** | **Strong Scaler** |
+
+Buffett: *"Time is the friend of the wonderful business, the enemy of the mediocre."* Alphabet's scalability score of 8/10 makes time a powerful ally — each year makes the business larger, more efficient, and harder to compete with. The temporary capital intensity from the AI investment cycle is the only drag, and it is building the foundation for the next decade of scaling.
 
 ---
 
@@ -301,15 +408,21 @@ Every metric improving. TAC declining (less cost per unit of traffic). Cloud mar
 | Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | **Current** |
 |---|---|---|---|---|---|---|
 | **P/Owner Earnings** *(primary Buffett-pure multiple)* | 26.5x | 25.2x | **18.6x** | 23.9x | 24.1x | **34.3x** |
+| **P/Dilution-Adjusted OE** | 37.2x | 31.5x | **27.1x** | 34.3x | 31.5x | **43.2x** |
 | **Owner Earnings Yield** | 3.8% | 4.0% | **5.4%** | 4.2% | 4.1% | **2.9%** |
 | PE Ratio | 29.9x | 25.8x | **19.4x** | 24.2x | 23.4x | **31.5x** |
+| Forward PE (FY26E) | — | — | — | — | — | **27.2x** |
 | P/B Ratio | 5.4x | 7.8x | **4.5x** | 6.3x | 7.2x | **10.0x** |
+| PS Ratio | 6.6x | 7.6x | **4.1x** | 5.8x | 6.6x | **10.3x** |
 | P/FCF | 28.1x | 29.7x | **19.3x** | 25.7x | 31.9x | **56.8x** |
 | EV/EBIT | 26.2x | 23.3x | **14.2x** | 20.0x | 20.1x | **31.6x** |
 | Earnings Yield | 3.3% | 3.9% | **5.2%** | 4.1% | 4.3% | **3.2%** |
 | FCF Yield | 3.6% | 3.4% | **5.2%** | 3.9% | 3.1% | **1.8%** |
+| PEG Ratio | — | — | — | — | — | **1.06** |
 
-> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. A steel company and a software company with identical EBITDA but vastly different capital requirements look equally valued on EV/EBITDA — but the software company is genuinely cheaper. EV/EBIT accounts for the capital the business consumes before you get your return. **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying. EV/EBIT is included as a secondary cross-check for institutional comparability; Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets.
+> **SBC Warning on FCF-Based Multiples:** Alphabet's SBC is 18.9% of NI ($25B) — well above the 5% materiality threshold. The P/FCF of 56.8x makes the stock look cheaper than it is because reported FCF adds back SBC ($25B) in OCF AND ignores the $25B cash cost of anti-dilution buybacks. **P/Dilution-Adjusted Owner Earnings (43.2x)** is the most honest valuation multiple. See Section 8 for the full SBC & Dilution Analysis.
+
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT accounts for the capital the business consumes. **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture. EV/EBIT is a secondary cross-check; Buffett himself rarely uses EV constructs.
 
 **Historical Comparison:** The 31.5x PE is the highest sustained level in Alphabet's history. The 5-year average PE is ~24-25x. On normalised EPS (~$9.20-9.50, stripping equity gains), the PE is ~36-37x. The PEG ratio of ~1.06 (31.5x PE / 29.8% 5Y EPS CAGR) is near fair.
 
@@ -317,109 +430,215 @@ Every metric improving. TAC declining (less cost per unit of traffic). Cloud mar
 
 ## 15. INTRINSIC VALUE & MARGIN OF SAFETY
 
-**DCF Valuation (Owner Earnings = $121.3B, Discount Rate = 10%):**
+**DCF Valuation (Dilution-Adjusted Owner Earnings = $96.3B, Discount Rate = 10%):**
+
+> **Starting OE: Dilution-Adjusted Owner Earnings ($96,347M).** SBC is 18.9% of NI with active buybacks — the template mandates DA-OE, not Base OE. Base OE ($121.3B) overstates true cash available to the owner by ~$25B annually — the cash cost of offsetting SBC dilution. Using Base OE for DCF would overstate intrinsic value by ~20-25%.
+
+**Base Case DCF Breakdown:**
+
+| Component | Value |
+|---|---|
+| Starting DA-OE (FY2025) | $96,347M |
+| Phase 1 Growth (Y1-5) | 13% |
+| Phase 2 Growth (Y6-10) | 8% |
+| Terminal Growth | 3.5% |
+| Discount Rate | 10% (Buffett's flat hurdle) |
+| PV of Year 1-10 Cash Flows | $1,044B |
+| Terminal Value (Gordon Growth) | $4,153B |
+| PV of Terminal Value | $1,601B |
+| **Total Enterprise Value** | **$2,646B** |
+| Plus: Net Cash | $80B |
+| **Equity Intrinsic Value** | **$2,726B** |
+| Diluted Shares | 12,230M |
+| **IV Per Share** | **$222.89** |
 
 | Scenario | Growth Y1-5 | Growth Y6-10 | Terminal g | **IV/Share** | **MoS** | **Upside** |
 |---|---|---|---|---|---|---|
-| Conservative | 10% | 6% | 3.0% | **$221.86** | -53.3% | -34.7% |
-| Base | 13% | 8% | 3.5% | **$278.91** | -21.9% | -18.0% |
-| Optimistic | 16% | 10% | 4.0% | **$353.76** | +3.9% | +4.0% |
+| Conservative | 10% | 6% | 3.0% | **$177.57** | -91.5% | -47.8% |
+| Base | 13% | 8% | 3.5% | **$222.89** | -52.5% | -34.4% |
+| Optimistic | 16% | 10% | 4.0% | **$282.34** | -20.4% | -17.0% |
 
-**At $340, Alphabet trades at or above the optimistic DCF case using a 10% discount rate.** There is no margin of safety on a traditional DCF. The stock is priced for near-perfection.
+**At $340, Alphabet is overvalued on ALL three DA-OE DCF scenarios.** Even the optimistic case (16% DA-OE growth for 5 years, 10% for 5 more) yields an IV of $282 — 17% below the current price. This is a materially different conclusion than the Base OE DCF (which showed near-fair-value) and illustrates exactly why the SBC adjustment matters.
 
-**MoS = (IV − CMP) / IV:** Conservative: -53% | Base: -22% | Optimistic: +4%
+**MoS = (IV − CMP) / IV:** Conservative: -92% | Base: -53% | Optimistic: -20%
+
+> *For reference: Using Base Owner Earnings ($121.3B, ignoring the cash cost of SBC dilution), the optimistic DCF gives IV of ~$354 — close to current price. The $72 gap between $282 (DA-OE) and $354 (Base OE) is the "SBC tax" that most analyses miss. Buffett would use the DA-OE figure.*
+
+Buffett: *"If options aren't a form of compensation, what are they? If compensation isn't an expense, what is it? And if expenses shouldn't go into the calculation of earnings, where in the world should they go?"* The $25B annual SBC is a real cost. The $25B in anti-dilution buybacks is the cash manifestation of that cost. Both reduce what the owner truly gets.
 
 ---
 
 ## 16. REVERSE DCF — What Growth Is Priced In?
 
-**CMP = $340 | Reported EPS (FY2025) = $10.81 | Current PE = 31.5x | Owner Earnings Per Share (OEPS) = $9.92 | Current P/OE = 34.3x**
+**CMP = $340 | Reported EPS (FY2025) = $10.81 | Current PE = 31.5x | DA-OEPS = $7.88 | Current P/DA-OE = 43.2x**
 
-*Note: Reported EPS of $10.81 includes ~$1.60 from equity securities gains. Normalised EPS (stripping one-time gains) is ~$9.20-$9.50, implying a normalised PE of ~36-37x. The Reverse DCF below uses reported EPS as the base; if normalised EPS is used, all implied CAGR thresholds shift ~1.5-2 percentage points higher. OEPS ($9.92) is derived from Owner Earnings ($121.3B) ÷ Diluted Shares (12,230M) — the Buffett-pure earnings metric.*
+*Note: Reported EPS of $10.81 includes ~$1.60 from equity securities gains. Normalised EPS is ~$9.20-$9.50 (PE ~36-37x). DA-OEPS ($7.88) is Dilution-Adjusted Owner Earnings ($96.3B) ÷ Diluted Shares (12,230M) — the Buffett-pure metric after SBC cash cost. The Reverse DCF uses reported EPS for Step 3 and DA-OEPS for Step 3B.*
 
 ### Implied EPS CAGR Required
 
-| Terminal PE | 5Y Hold, 10% Return | 10Y Hold, 10% Return | 10Y Hold, 15% Return |
+**At Terminal PE = 15x (Mature):**
+
+| Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 15x (Mature) | 27.6% | 18.5% | 23.8% |
-| 20x (Market Avg) | 20.4% | 15.1% | 20.3% |
-| 25x (Historical) | 15.2% | **12.6%** | 17.7% |
-| 28x (Compounder) | 12.6% | **11.3%** | 16.3% |
+| 5 Years | 27.6% | 33.4% | 39.2% |
+| 10 Years | 18.5% | 23.8% | 29.2% |
+| 15 Years | 15.6% | 20.8% | 26.1% |
 
-### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
+**At Terminal PE = 20x (Market Average):**
 
-> **Why this matters:** EPS can be misleading — a company can grow EPS by underinvesting in maintenance (boosting short-term earnings while the asset base deteriorates), financial engineering, or aggressive accounting. Owner Earnings strips all this out — it measures the TRUE economic cash the business generates for its owner after maintaining its productive capacity. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense. That's nonsense."* The same insight applies to EPS vs. Owner Earnings.
+| Holding Period | 10% Return | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 20.4% | 25.9% | 31.4% |
+| 10 Years | 15.1% | 20.3% | 25.6% |
+| 15 Years | 13.4% | 18.5% | 23.7% |
+
+**At Terminal PE = 25x (Historical Average):**
+
+| Holding Period | 10% Return | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 15.2% | 20.4% | 25.6% |
+| 10 Years | **12.6%** | 17.7% | 22.8% |
+| 15 Years | 11.7% | 16.8% | 21.9% |
+
+**At Terminal PE = 28x (Compounder):**
+
+| Holding Period | 10% Return | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 12.6% | 17.7% | 22.8% |
+| 10 Years | **11.3%** | 16.3% | 21.4% |
+| 15 Years | 10.9% | 15.9% | 20.9% |
+
+### Step 3B: Buffett-Pure Reverse DCF — Implied DA-Owner Earnings Growth Required
+
+> **Why this matters:** EPS includes SBC as a GAAP expense but ignores the cash cost of buying back diluted shares. Owner Earnings strips this out. For Alphabet, the gap is material: SBC is $25B/year, and $25B in buybacks merely offsets the dilution — that cash is spoken for. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense. That's nonsense."* The same applies to treating anti-dilution buybacks as discretionary capital return rather than operating cost.
 
 **At Terminal P/OE = 17x (Market Average):**
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 26.6% OEPS CAGR | 32.3% | 38.1% |
-| 10 Years | 18.0% OEPS CAGR | 23.4% | 28.7% |
-| 15 Years | 15.3% OEPS CAGR | 20.5% | 25.7% |
+| 5 Years | 32.5% DA-OEPS CAGR | 38.6% | 44.6% |
+| 10 Years | 20.7% DA-OEPS CAGR | 26.2% | 31.7% |
+| 15 Years | 17.0% DA-OEPS CAGR | 22.4% | 27.7% |
 
-### The Divergence Test — EPS vs. OEPS Implied Growth
+### The Divergence Test — EPS vs. DA-OEPS Implied Growth
 
 | Metric | At Terminal Market Avg PE (20x) / P/OE (17x) | 10-Year Hurdle (10% Return) |
 |---|---|---|
 | Implied EPS CAGR (from Step 3) | 15.1% | |
-| Implied OEPS CAGR (from Step 3B) | 18.0% | |
-| **Gap (OEPS CAGR − EPS CAGR)** | **2.9 pp** | |
+| Implied DA-OEPS CAGR (from Step 3B) | 20.7% | |
+| **Gap (DA-OEPS CAGR − EPS CAGR)** | **5.6 pp** | |
 
-**Interpretation:** The 2.9 pp gap falls in the **2-5 pp range → moderate capital intensity.** Alphabet is not asset-light enough for EPS to tell the full story. The AI CapEx supercycle means true economic earnings (Owner Earnings) grow slower than reported EPS because the business must reinvest heavily to maintain and grow its productive capacity. The OEPS figure is the more conservative and honest benchmark. However, the gap is moderate — this is not a capital-hungry industrial where the divergence would be 5-10 pp.
+**Interpretation:** The 5.6 pp gap falls in the **>5 pp range → capital-hungry business, EPS significantly overstates true economic earnings growth.** The AI CapEx supercycle combined with material SBC ($25B/year) means Alphabet's true economic growth hurdle is dramatically higher than EPS suggests. **The EPS-based Reverse DCF is dangerously misleading for Alphabet at this stage of its investment cycle.** The DA-OEPS figure is the true benchmark.
 
-**Reality Check:** Historical 5Y EPS CAGR = 29.8%, 10Y = 25.2%. Historical 5Y Owner Earnings CAGR = 21.7%.
+**Reality Check:**
 
-| Benchmark | EPS CAGR | OEPS CAGR | Use As |
+| Benchmark | EPS CAGR | DA-OEPS CAGR | Use As |
 |---|---|---|---|
 | US nominal GDP growth | 5-6% | 5-6% | Floor |
 | Company historical 5Y EPS CAGR | 29.8% | — | Actual track record |
-| Company historical 5Y OE CAGR | — | 21.7% | Buffett-pure benchmark |
+| Company historical 5Y DA-OE CAGR | — | 24.4% | Buffett-pure benchmark |
 | Company historical 10Y EPS CAGR | 25.2% | — | Longer-term record |
 | Analyst consensus FY26E growth | ~15% | — | Market expectations |
 
-At Terminal PE = 25x over 10 years, a 10% hurdle requires 12.6% EPS CAGR — well below the 29.8% historical 5Y track record. At Terminal P/OE = 17x, a 10% hurdle requires 18.0% OEPS CAGR — just below the 21.7% historical 5Y OE CAGR.
+**EPS-based verdict: 🟢 GREEN** (12.6% needed vs 25.2% delivered). **DA-OEPS-based verdict: 🟡 YELLOW** (20.7% needed vs 24.4% delivered — only 3.7 pp of cushion, and the 24.4% DA-OE CAGR was boosted by the post-COVID recovery; the longer-term DA-OE growth rate is likely closer to 18-20%). The EPS verdict is misleadingly optimistic — **defer to the DA-OEPS verdict.** The stock is priced for sustained high-teens Owner Earnings growth, which is achievable but leaves thin margin for error.
 
-**EPS-based verdict: 🟢 GREEN.** OEPS-based verdict: **🟢 GREEN (but tighter).** Both verdicts agree, though the Owner Earnings assessment has less margin for error. The business's moderate capital intensity (AI CapEx) means the true growth hurdle is ~3 pp higher than the EPS-based analysis suggests. Always defer to the OEPS-based verdict for the Buffett-pure assessment.
-
-> *"At $340, to earn 10% over 10 years at a 25x exit PE, Alphabet needs to grow EPS at 12.6% CAGR (and Owner Earnings at 18.0% CAGR at a 17x exit P/OE). The company has historically grown EPS at 25.2% CAGR and Owner Earnings at 21.7% CAGR. This implies reasonably priced growth expectations — but the stock leaves no room for multiple de-rating. Note: the EPS-based assessment is more favourable than the Owner Earnings assessment, indicating the AI CapEx cycle is creating moderate capital intensity that masks the true growth hurdle."*
+> *"At $340, to earn 10% over 10 years at a 25x exit PE, Alphabet needs to grow EPS at 12.6% CAGR (and DA-Owner Earnings at 20.7% CAGR at a 17x exit P/OE). The company has historically grown EPS at 25.2% CAGR and DA-Owner Earnings at 24.4% CAGR. This implies the EPS-based assessment is significantly more favourable than the Owner Earnings assessment — the AI CapEx cycle and material SBC create substantial capital intensity that masks the true growth hurdle. The stock is priced for execution, not for a margin of safety."*
 
 ### Asymmetric Upside Check
 
-| Downside Scenario | Price | Downside from CMP |
-|---|---|---|
-| Conservative DCF | $222 | -35% |
-| Historical Lowest PE (19x) × Current EPS | $205 | -40% |
+**Part 1: Downside Floor:**
 
-| Upside Scenario | Price | Upside from CMP |
-|---|---|---|
-| BV Compounding (5Y, 6x P/B) | $740 | +118% |
-| BV Compounding (5Y, 4x P/B) | $494 | +45% |
-| Optimistic DCF | $354 | +4% |
+| Downside Scenario | Valuation Basis | Implied Price | Downside from CMP |
+|---|---|---|---|
+| **Asset / Liquidation Floor** | Tangible BV ($31.22/share) | $31 | -91% |
+| **Recession / Trough Earnings** | Worst EPS ($4.56 FY22) × 15x PE | $68 | -80% |
+| **Normalised Bear Case** | Conservative DA-OE DCF | $178 | -48% |
+| **Market-panic Floor** | Historical lowest PE (19x) × normalised EPS ($9.35) | $178 | -48% |
 
-**Asymmetry Ratio (Optimistic DCF upside +4% / Conservative DCF downside -35%):** ~0.1:1 — **negative asymmetry.** Even using the more generous BV compounding 4x P/B upside (+45%) against the Conservative DCF downside (-35%), the ratio is only ~1.3:1 — barely positive. **NOT a fat pitch at $340.** The valuation is too stretched for Buffett's preferred setup.
+**Most probable downside floor: ~$178** (convergence of Conservative DCF and trough PE × normalised EPS).
+
+**Part 2: Upside Case:**
+
+| Upside Scenario | Valuation Basis | Implied Price | Upside from CMP |
+|---|---|---|---|
+| **Base Case** | Base DA-OE DCF | $223 | -34% |
+| **Optimistic Case** | Optimistic DA-OE DCF | $282 | -17% |
+| **BV Compounding (5Y, 4x P/B)** | $123 BVPS × 4x | $494 | +45% |
+| **Re-rating + Growth** | If DA-OE grows 20% for 3Y → $167B; at 30x P/OE | $410 | +21% |
+
+**Part 3: Asymmetry Ratio** = Base upside (-34%) / Most probable downside (-48%) = **negative — the expected upside is ALSO negative.** Using the BV compounding alternative: +45% / 48% = **0.9:1 — still negative asymmetry.** This is NOT a fat pitch.
+
+**Part 4: Catalysts & Anti-Catalysts**
+
+**Catalysts (things that could trigger upside):**
+1. AI monetisation inflection — Google Cloud and AI Overviews driving revenue acceleration beyond consensus (Probability: Medium-High, Timing: FY2026-27)
+2. CapEx normalisation — if CapEx peaks in FY2026-27 and declines, FCF and DA-OE surge (Probability: Medium, Timing: FY2027-28)
+3. Waymo commercialisation — autonomous vehicles generating meaningful revenue (Probability: Low-Medium, Timing: FY2027+)
+4. Margin expansion from AI efficiency — AI tools reducing Google's own cost base (Probability: High, Timing: ongoing)
+5. SBC reduction as % of revenue — absolute SBC flattening while revenue grows (Probability: Medium, Timing: gradual)
+
+**Anti-Catalysts (permanent capital loss risks):**
+1. Antitrust forced divestiture (Chrome/Ad Tech) — DOJ appeal succeeds; structural breakup (Probability: Low, largely resolved)
+2. AI disruption of Search — ChatGPT/Perplexity genuinely replacing Google for intent-based queries (Probability: Low-Medium, would be gradual)
+3. CapEx ROI failure — $175B+ annual spend yields insufficient revenue growth (Probability: Medium, would become visible FY2027-28)
+
+**Part 5: Fat Pitch Verdict:**
+
+> *"At $340, the realistic downside is approximately 48% to $178 (Conservative DCF floor). The realistic base-case upside is -34% to $223 over the DCF horizon — the stock is ALREADY above intrinsic value even on the base case. Using the BV compounding model as an alternative (which assumes 32% ROE sustains indefinitely), the 5-year upside at 4x P/B is +45%. The asymmetry ratio on DCF is negative; on BV compounding it is ~0.9:1. This is NOT a fat pitch."*
+
+**Mispricing Identification:** The mispricing opportunity is **ABSENT.** The stock is roughly correctly valued or slightly overvalued for its current fundamentals when SBC dilution costs are properly accounted for. Returns from here depend on: (a) AI CapEx eventually translating to DA-OE growth exceeding 20% CAGR, and (b) the P/OE multiple not compressing. Both are possible but neither is certain. There is no obvious market error to exploit.
+
+**Buffett's Final Filter:**
+
+| Question | Answer |
+|---|---|
+| Is the downside capped by tangible value? | No — TBVPS of $31 is 91% below CMP; earnings floor (~$178) is the relevant floor |
+| Is the upside driven by fundamentals, not just multiple expansion? | Yes — BV compounds at 29.4% if ROE sustains |
+| Would you buy MORE if the stock dropped 30% tomorrow? | At $238 — possibly. That would bring P/DA-OE to ~30x and P/E to ~22x, closer to historical norms |
+| Can you explain the thesis in 2 sentences? | "Google is the world's dominant toll bridge for information and the leading AI platform. At $340, you're paying 43x true owner earnings for a business that needs to grow DA-OE at 21% for a decade — achievable but leaving no margin for error." |
 
 ---
 
 ## 17. ROE QUALITY CHECK & P/B SCENARIO MATH
 
-### DuPont Quality
+### Part A: DuPont Decomposition of ROE — Quality vs. Leverage Check
 
-ROE primarily driven by margin expansion (21%→33%) and improved asset turnover (0.64→0.77), NOT leverage (stable ~1.41x EM from FY2020 onward). Highest quality.
+| Year | Net Profit Margin | × Asset Turnover | × Equity Multiplier | = ROE (Product) | Reported ROE |
+|---|---|---|---|---|---|
+| 2019 | 21.2% | 0.64 | 1.34 | 18.2% | 18.1% |
+| 2020 | 22.1% | 0.61 | 1.40 | 18.9% | 19.0% |
+| 2021 | **29.5%** | 0.76 | 1.43 | **32.0%** | **32.1%** |
+| 2022 | 21.2% | 0.78 | 1.43 | 23.6% | 23.6% |
+| 2023 | 24.0% | 0.80 | 1.42 | 27.3% | 27.4% |
+| 2024 | 28.6% | 0.82 | 1.40 | 32.8% | 32.9% |
+| **2025** | **32.8%** | 0.77 | 1.41 | **35.6%** | **35.7%** |
 
-### P/B Scenario (Sustainable ROE = 32%, Retention = 92%, BV Compound = 29.4%)
+**Component Analysis:** NPM (+55% relative) is the dominant driver. Asset Turnover improved 20%. Equity Multiplier flat at ~1.41x from FY2020. ROE expansion is **primarily margin-driven, not leverage-driven** — the highest quality ROE profile.
 
-*Note: Sustainable ROE is set at 32% — the 3-year average (FY2023: 27.4%, FY2024: 32.9%, FY2025: 35.7%) — rather than the peak FY2025 figure of 35.7%, to reflect normalised profitability through a cycle.*
+**ROCE vs. ROE:** In most years ROCE (pre-tax, 18.6-35.5%) ≈ ROE (19.0-35.7%), confirming the business engine is genuinely powerful — ROE is NOT leverage-inflated. The FY2025 flip (ROE 35.7% > ROCE 32.3%) reflects non-operating equity gains boosting NI above EBIT — a one-time factor.
 
-| Exit P/B Scenario | 5Y CAGR | 7Y CAGR | 10Y CAGR |
-|---|---|---|---|
-| P/B stays at 10.0x | 29.4% | 29.4% | 29.4% |
-| P/B = 8.0x | 23.8% | 25.4% | 26.6% |
-| P/B = 6.0x | 16.8% | 20.3% | 23.0% |
-| P/B = 4.0x | 7.7% | 13.5% | 18.1% |
-| P/B = 3.0x | 1.7% | 9.0% | 14.7% |
+Buffett: *"When you combine ignorance and leverage, you get some pretty interesting results."* There is no leverage trick here.
 
-**Key Insight:** 10-year return exceeds 10% even if P/B compresses to 3.0x. The 29.4% BV compounding rate overwhelms severe multiple compression over a decade. **🟢 GREEN for 10-year horizon. 🟡 YELLOW for 5-year horizon** (needs P/B above ~4x).
+### Part B: P/B Multiple Scenario Analysis
+
+**Inputs:** BVPS = $33.95 | CMP = $340 | Entry P/B = 10.0x | Sustainable ROE = 32% | Retention = 92% | BV Compound Rate = 29.4%
+
+**Projected BVPS:** Year 5: $123.38 | Year 7: $206.72 | Year 10: $448.32
+
+| Exit P/B Scenario | Rationale | 5Y CAGR | 7Y CAGR | 10Y CAGR |
+|---|---|---|---|---|
+| **P/B stays at 10.0x** | Multiple sustains | 29.4% | 29.4% | 29.4% |
+| **P/B = 7.5x** | Mild de-rating (75%) | 22.1% | 24.2% | 25.7% |
+| **P/B = 6.0x** | Historical median est. | 16.8% | 20.3% | 22.9% |
+| **P/B = 5.0x** | Significant de-rating (50%) | 12.6% | 17.2% | 20.7% |
+| **P/B = 4.0x** | Severe de-rating | 7.7% | 13.5% | 18.1% |
+| **P/B = 1.0x Book** | Worst case | -18.4% | -6.9% | 2.8% |
+
+> *"At the current entry P/B of 10.0x with 32% ROE and 92% retention, book value compounds at 29.4% annually. The stock can tolerate P/B compression from 10.0x to approximately 2.0x before the 10-year return drops below the 10% hurdle rate."*
+
+**Rule of Thumb:** Return ≈ (ROE × Retention) + Annual P/B Change. P/B halving over 10Y = ~7% drag. P/B to one-third = ~11% drag. P/B to one-quarter = ~13% drag.
+
+**Traffic Light:** 🟢 GREEN for 10-year horizon (BV compounding overwhelms compression). 🟡 YELLOW for 5-year horizon (needs P/B above ~4x).
 
 ---
 
@@ -427,21 +646,21 @@ ROE primarily driven by margin expansion (21%→33%) and improved asset turnover
 
 | Zone | Price Range | Basis | Current? |
 |---|---|---|---|
-| **Deep Value / Strong Buy** | Below $220 | <20x normalised EPS | |
-| **Value / Buy** | $220 - $280 | 20-26x EPS; ~Base DCF | |
-| **Fair Value / Hold** | $280 - $360 | 26-33x EPS | **← $340 HERE** |
-| **Fully Valued / Trim** | $360 - $430 | 33-40x EPS | |
-| **Overvalued / Sell** | Above $430 | >40x EPS | |
+| **Deep Value / Strong Buy** | Below $178 | <Conservative DA-OE DCF IV | |
+| **Value / Buy** | $178 - $223 | Conservative to Base DA-OE DCF IV | |
+| **Fair Value / Hold** | $223 - $283 | Base to Optimistic DA-OE DCF IV | |
+| **Fully Valued / Trim** | $283 - $360 | Above Optimistic DA-OE DCF IV | **← $340 HERE** |
+| **Overvalued / Sell** | Above $360 | >35x P/DA-OE; extreme premium | |
 
 ### Position Assessment — What Would Buffett Do?
 
 | If Entry Was In... | Status at $340 | Recommendation |
 |---|---|---|
-| Deep Value (<$220) | +55-100%+ profit | **HOLD.** Let compounding work. Don't sell a wonderful business at fair value. |
-| Value ($220-$280) | +22-55% profit | **HOLD.** Thesis improving. Patience rewarded. |
-| Fair Value ($280-$360) | -6% to +21% | **HOLD.** Business accelerating. Time is your friend. |
-| Fully Valued ($360-$430) | -6% to -21% loss | **HOLD, don't add.** Business will grow into valuation in 2-3 years. |
-| Overvalued (>$430) | >21% loss | **REASSESS.** Thesis still intact; hold for recovery or take tax loss if needed. |
+| Deep Value (<$178) | +91%+ profit | **HOLD.** Let compounding work. Extraordinary entry. Buffett: *"Our favourite holding period is forever."* |
+| Value ($178-$223) | +53-91% profit | **HOLD.** Thesis intact, business accelerating. With a small capital base, consider trimming only to fund an even better opportunity. |
+| Fair Value ($223-$283) | +20-52% profit | **HOLD.** Good position. Business will continue compounding. Do not sell quality to chase momentum. |
+| Fully Valued ($283-$360) | -6% to +20% | **HOLD, do not add.** Entry was expensive but business quality is high enough to grow into the valuation over 2-3 years. Patience required. |
+| Overvalued (>$360) | underwater | **HOLD for recovery or reassess.** If the business thesis is intact (moat widening, AI executing), hold — the business will compound. If fundamental deterioration appears, take the loss and redeploy. |
 
 ---
 
@@ -458,7 +677,7 @@ ROE primarily driven by margin expansion (21%→33%) and improved asset turnover
 
 **Score: 5/6. The business is flawless. Only the price prevents a strong buy.**
 
-Buffett would **HOLD if already owned.** He would NOT initiate a new position at $340. He would be watching intently and **BUY AGGRESSIVELY at $220-260** — a 25-35% pullback from current prices. With a small capital base, this could be a 25-40% position at the right price.
+Buffett would **HOLD if already owned** — selling a widening-moat compounder because of short-term overvaluation is a mistake he has cautioned against. But he would NOT initiate a new position at $340. At 43.2x P/DA-OE, you are paying a premium that requires 21% annual DA-OE growth for a decade — achievable but with zero margin of error. He would be watching intently and **BUY AGGRESSIVELY at $178-223** (the DA-OE DCF value zone). With a small capital base, this could be a 25-40% position at the right price — but ONLY at the right price.
 
 ---
 
@@ -493,6 +712,24 @@ Buffett would **HOLD if already owned.** He would NOT initiate a new position at
 
 **Choice Screen Risk:** Morgan Stanley estimates 5-8% search traffic loss over 3 years ($15-25B revenue at risk). However, EU precedent shows minimal actual market share impact — users choose Google voluntarily.
 
+**Buffett's Three-Lens Framework:**
+
+**1. History as a Guide:** Alphabet has survived and thrived through every prior regulatory action — EU fines of $9.5B+ had zero impact on operational momentum. The DOJ case, the most existential threat in company history, was resolved without breakup. Track record: regulatory-resilient.
+
+**2. Elasticity / Pricing Power:** Alphabet's advertisers face no viable alternative for intent-based advertising at scale. A 5-10% increase in advertising costs (from regulatory compliance) would likely be absorbed with minimal advertiser churn. The demand curve is highly inelastic.
+
+**3. Terminal Risk Assessment:** The probability of regulation permanently destroying Google's business model (total search ban, forced nationalisation) is negligible — effectively zero. All regulatory risks are manageable costs, not existential threats.
+
+**Risk Rating Table:**
+
+| Risk Factor | Probability | Impact | Net Risk | Notes |
+|---|---|---|---|---|
+| Choice Screen (search default bans) | High | Medium | Manageable | 5-8% traffic loss; EU precedent shows minimal share impact |
+| Ad Tech restructuring (Virginia) | Medium | Medium | Manageable | May force exchange restructuring; not core search |
+| EU fines (recurring) | High | Low | Manageable | $2-5B fines on $403B revenue = rounding error |
+| Chrome divestiture (DOJ appeal) | Low | High | Low net risk | Court rejected; appeal unlikely to succeed |
+| Terminal risk (product ban) | Very Low | Catastrophic | Negligible | No realistic scenario for this |
+
 ---
 
 ## 22. TURNAROUND PROBABILITY
@@ -507,15 +744,16 @@ Buffett would **HOLD if already owned.** He would NOT initiate a new position at
 |---|---|---|
 | **Business Quality** | **10/10** | Toll bridge monopoly; #1 in search, video, and fast-growing cloud |
 | **Moat Durability** | **9/10** | Multi-layered moat widening with AI; only antitrust poses erosion |
-| **Financial Health** | **10/10** | $80B net cash; 175x interest coverage; impregnable |
-| **Management Quality** | **9/10** | $6.44 $1 test; bold AI bet; SBC is minor concern |
-| **Valuation** | **5/10** | 31.5x PE & 10x P/B are rich; fair value at best |
-| **Margin of Safety** | **4/10** | DCF shows slight overvaluation; 10Y BV math works but 5Y is tight |
+| **Financial Health** | **10/10** | $80B net cash; 175x interest coverage; Debt/EBIT 0.36x; impregnable |
+| **Management Quality** | **9/10** | $6.44 $1 test; bold AI bet; SBC ($25B) is meaningful but declining as % of NI |
+| **Earnings Quality** | **7/10** | SBC Treadmill at 38% (🟡); DA-OE ($96B) is 27% below Base OE ($121B); divergence gap 5.6pp |
+| **Valuation** | **4/10** | 31.5x PE, 43.2x P/DA-OE, 10x P/B — expensive on every metric; DA-OE DCF shows overvalued |
+| **Margin of Safety** | **3/10** | Negative on all DA-OE DCF scenarios; stock priced above optimistic IV ($282) |
 | **Growth Trajectory** | **9/10** | Revenue accelerating; Cloud at 48%; AI opening new TAM |
 | **Scalability** | **8/10** | Strong scaler with massive runway; AI capex temporarily compresses |
-| **Buffett Verdict** | **HOLD** | *One of the finest businesses in the world. Moat widening, AI is accelerant. At $340, fairly valued — too expensive for new deep-value position, too wonderful to sell. Hold for compounding; accumulate aggressively below $260.* |
-| **Buy Zone** | Fair Value / Hold | Deep Value: <$220 · Value: $220-280 · **Current ($340): Fair** · Trim: >$360 |
-| **Recommendation** | **HOLD** if owned | **WAIT** if not; target $220-$280 for accumulation |
+| **Buffett Verdict** | **HOLD / WAIT** | *One of the finest businesses in the world. Moat widening, AI is accelerant. But at $340 and 43.2x P/DA-OE, the stock is priced above intrinsic value when SBC dilution costs are honestly accounted for. The EPS-based picture (31.5x PE) looks fair, but the Buffett-pure picture (43.2x P/DA-OE) says overvalued. HOLD if owned — the business quality will grow into the valuation over 2-3 years if AI CapEx yields returns. Do NOT initiate a new position at $340. Accumulate aggressively below $220 (Conservative DA-OE DCF IV).* |
+| **Buy Zone** | Overvalued / Trim | Deep Value: <$178 · Value: $178-223 · Fair: $223-283 · **Current ($340): Fully Valued** · Trim: >$340 |
+| **Recommendation** | **HOLD** if owned | **WAIT** if not; target $178-$223 for accumulation |
 
 ---
 
@@ -527,11 +765,11 @@ Buffett would **HOLD if already owned.** He would NOT initiate a new position at
 
 **Napkin Math:**
 
-Google earns ~$11/share (reported; ~$9.35 normalised, stripping one-time equity gains). Growing at ~15% a year. In 10 years: EPS ~$44 (reported) or ~$38 (normalised). At 25x PE = $1,100 or $946. From $340, that is ~12.5% or ~10.8% annual return. Decent. Not spectacular. Needs sustained 15% growth for a decade.
+Google earns ~$11/share (reported; ~$7.88 in Dilution-Adjusted Owner Earnings after SBC cash cost). Growing at ~15% a year. In 10 years: reported EPS ~$44, DA-OE/share ~$32. At 25x PE = $1,100 (or at 17x P/OE = $544). From $340, that is ~12.5% on reported EPS or ~4.8% on DA-OE/share. The gap is the SBC tax — $25B/year that most analyses ignore.
 
 Buffett: *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."*
 
-**Verdict: The business is a no-brainer. The price makes it a "yes with patience" rather than "swing hard now."** The ideal Buffett setup is a 25-35% pullback to $220-260, converting a "good deal" into a "great deal."
+**Verdict: The business is a no-brainer. The price is the problem.** At $340, the stock is priced for perfection when SBC dilution costs are honestly accounted for. The ideal Buffett setup is a 35-48% pullback to $178-223 (the DA-OE DCF value zone), converting a "wonderful business at a crazy price" into a "wonderful business at a fair price."
 
 ---
 
