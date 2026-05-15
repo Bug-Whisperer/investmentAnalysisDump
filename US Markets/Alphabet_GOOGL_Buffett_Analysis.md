@@ -541,9 +541,9 @@ Buffett: *"If options aren't a form of compensation, what are they? If compensat
 | Company historical 10Y EPS CAGR | 25.2% | — | Longer-term record |
 | Analyst consensus FY26E growth | ~15% | — | Market expectations |
 
-**EPS-based verdict: 🟢 GREEN** (12.6% needed vs 25.2% delivered). **DA-OEPS-based verdict: 🟢 GREEN (but tighter)** (20.7% needed vs 27.3% historical 5Y DA-OEPS CAGR — 6.6 pp of cushion). The cushion is real but narrower than the EPS-based margin (17.2 pp), reflecting the capital intensity and SBC drag on true per-share economics. The EPS verdict is more favourable than the DA-OEPS verdict — **defer to the DA-OEPS verdict** for the Buffett-pure assessment.
+**EPS-based verdict: 🟢 GREEN** (12.6% needed vs 29.8% 5Y historical — 17.2 pp of cushion). **DA-OEPS-based verdict: 🟢 GREEN (but tighter)** (20.7% needed vs 27.3% historical 5Y DA-OEPS CAGR — 6.6 pp of cushion). The cushion is real but narrower than the EPS-based margin (17.2 pp), reflecting the capital intensity and SBC drag on true per-share economics. The EPS verdict is more favourable than the DA-OEPS verdict — **defer to the DA-OEPS verdict** for the Buffett-pure assessment.
 
-> *"At $340, to earn 10% over 10 years at a 25x exit PE, Alphabet needs to grow EPS at 12.6% CAGR (and DA-Owner Earnings per share at 20.7% CAGR at a 17x exit P/OE). The company has historically grown EPS at 25.2% CAGR and DA-OEPS at 27.3% CAGR. This implies the EPS-based assessment is more favourable than the Owner Earnings assessment — the AI CapEx cycle and material SBC create substantial capital intensity that masks the true growth hurdle. Both verdicts are 🟢 GREEN, but the DA-OEPS cushion (6.6 pp) is narrower than the EPS cushion (17.2 pp), reflecting the real cost of capital intensity."*
+> *"At $340, to earn 10% over 10 years at a 25x exit PE, Alphabet needs to grow EPS at 12.6% CAGR (and DA-Owner Earnings per share at 20.7% CAGR at a 17x exit P/OE). The company has historically grown EPS at 29.8% CAGR (5Y) and DA-OEPS at 27.3% CAGR (5Y). Both verdicts are 🟢 GREEN, but the DA-OEPS cushion (6.6 pp) is narrower than the EPS cushion (17.2 pp) — the AI CapEx cycle and material SBC create capital intensity that compresses true per-share economics relative to reported EPS."*
 
 ### Asymmetric Upside Check
 

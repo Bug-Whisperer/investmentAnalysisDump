@@ -345,7 +345,7 @@ Broadcom's SBC is 23.8% of GAAP Net Income in FY2025 — well above the 5% mater
 
 *Note: ROE and ROA use average equity/assets. FY2018 ROE inflated by one-time $8.1B tax benefit. FY2024 depressed by VMware intangible amortisation.*
 
-Is the business consistently earning above its cost of capital? **Yes, in normalised years.** Excluding acquisition-distorted years (FY2016, FY2019, FY2024), ROCE has been 15-28% and ROIC 12-26% — well above any reasonable cost of capital (8-10%). The business earns high returns and, crucially, can reinvest at those same high returns through its AI custom silicon and VMware subscription conversion.
+Is the business consistently earning above its cost of capital? **Yes, in normalised years.** The 10-year data shows a clear pattern: acquisition-integration years (FY2016, FY2017, FY2019, FY2020, FY2024) depress returns as the business absorbs large purchase prices, while normalised years (FY2018, FY2021–FY2023, FY2025) show ROCE of 15-28% and ROIC of 12-26% — well above any reasonable cost of capital (8-10%). Even in the two mildest integration years (FY2017 ROCE 7.5%, FY2020 ROCE 8.8%), returns were near or at cost of capital — not value-destructive, just sub-optimal while the acquired businesses were being integrated. The critical test is the trajectory: each post-integration "normalised" period shows HIGHER returns than the previous one (FY2018: 15%/12% → FY2021-23: 16-28%/13-26% → FY2025: 20%/15%), confirming that each acquisition, once digested, permanently raises the return profile.
 
 > *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* — Warren Buffett
 
