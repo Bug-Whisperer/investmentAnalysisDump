@@ -446,23 +446,24 @@ Every metric improving. TAC declining (less cost per unit of traffic). Cloud mar
 | PV of Year 1-10 Cash Flows | $1,044B |
 | Terminal Value (Gordon Growth) | $4,153B |
 | PV of Terminal Value | $1,601B |
-| **Total Enterprise Value** | **$2,646B** |
-| Plus: Net Cash | $80B |
-| **Equity Intrinsic Value** | **$2,726B** |
+| **Equity Intrinsic Value** | **$2,646B** |
+| Net Cash Adjustment | $0 (not required — equity-level DCF; OE is post-interest, so interest income on cash is already captured in NI) |
 | Diluted Shares | 12,230M |
-| **IV Per Share** | **$222.89** |
+| **IV Per Share** | **$216.32** |
 
 | Scenario | Growth Y1-5 | Growth Y6-10 | Terminal g | **IV/Share** | **MoS** | **Upside** |
 |---|---|---|---|---|---|---|
-| Conservative | 10% | 6% | 3.0% | **$177.57** | -91.5% | -47.8% |
-| Base | 13% | 8% | 3.5% | **$222.89** | -52.5% | -34.4% |
-| Optimistic | 16% | 10% | 4.0% | **$282.34** | -20.4% | -17.0% |
+| Conservative | 10% | 6% | 3.0% | **$171.01** | -98.8% | -49.7% |
+| Base | 13% | 8% | 3.5% | **$216.32** | -57.2% | -36.4% |
+| Optimistic | 16% | 10% | 4.0% | **$275.78** | -23.3% | -18.9% |
 
-**At $340, Alphabet is overvalued on ALL three DA-OE DCF scenarios.** Even the optimistic case (16% DA-OE growth for 5 years, 10% for 5 more) yields an IV of $282 — 17% below the current price. This is a materially different conclusion than the Base OE DCF (which showed near-fair-value) and illustrates exactly why the SBC adjustment matters.
+**At $340, Alphabet is overvalued on ALL three DA-OE DCF scenarios.** Even the optimistic case (16% DA-OE growth for 5 years, 10% for 5 more) yields an IV of $276 — 19% below the current price. This is a materially different conclusion than the Base OE DCF (which showed near-fair-value) and illustrates exactly why the SBC adjustment matters.
 
-**MoS = (IV − CMP) / IV:** Conservative: -92% | Base: -53% | Optimistic: -20%
+**MoS = (IV − CMP) / IV:** Conservative: -99% | Base: -57% | Optimistic: -23%
 
-> *For reference: Using Base Owner Earnings ($121.3B, ignoring the cash cost of SBC dilution), the optimistic DCF gives IV of ~$354 — close to current price. The $72 gap between $282 (DA-OE) and $354 (Base OE) is the "SBC tax" that most analyses miss. Buffett would use the DA-OE figure.*
+> *Note on DCF methodology: Owner Earnings start from Net Income, which is already post-interest and post-tax — an equity-level cash flow. The discounted value therefore equals equity value directly. Adding net cash would double-count, since the interest income earned on Alphabet's $127B cash hoard is already captured in Net Income. This is consistent with how the Amazon and Broadcom analyses in this project treat equity-level DCFs.*
+
+> *For reference: Using Base Owner Earnings ($121.3B, ignoring the cash cost of SBC dilution), the optimistic DCF gives IV of ~$346 — close to current price. The $70 gap between $276 (DA-OE) and $346 (Base OE) is the "SBC tax" that most analyses miss. Buffett would use the DA-OE figure.*
 
 Buffett: *"If options aren't a form of compensation, what are they? If compensation isn't an expense, what is it? And if expenses shouldn't go into the calculation of earnings, where in the world should they go?"* The $25B annual SBC is a real cost. The $25B in anti-dilution buybacks is the cash manifestation of that cost. Both reduce what the owner truly gets.
 
@@ -552,21 +553,21 @@ Buffett: *"If options aren't a form of compensation, what are they? If compensat
 |---|---|---|---|
 | **Asset / Liquidation Floor** | Tangible BV ($31.22/share) | $31 | -91% |
 | **Recession / Trough Earnings** | Worst EPS ($4.56 FY22) × 15x PE | $68 | -80% |
-| **Normalised Bear Case** | Conservative DA-OE DCF | $178 | -48% |
+| **Normalised Bear Case** | Conservative DA-OE DCF | $171 | -50% |
 | **Market-panic Floor** | Historical lowest PE (19x) × normalised EPS ($9.35) | $178 | -48% |
 
-**Most probable downside floor: ~$178** (convergence of Conservative DCF and trough PE × normalised EPS).
+**Most probable downside floor: ~$171-178** (convergence of Conservative DCF and trough PE × normalised EPS).
 
 **Part 2: Upside Case:**
 
 | Upside Scenario | Valuation Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
-| **Base Case** | Base DA-OE DCF | $223 | -34% |
-| **Optimistic Case** | Optimistic DA-OE DCF | $282 | -17% |
+| **Base Case** | Base DA-OE DCF | $216 | -36% |
+| **Optimistic Case** | Optimistic DA-OE DCF | $276 | -19% |
 | **BV Compounding (5Y, 4x P/B)** | $123 BVPS × 4x | $494 | +45% |
 | **Re-rating + Growth** | If DA-OE grows 20% for 3Y → $167B; at 30x P/OE | $410 | +21% |
 
-**Part 3: Asymmetry Ratio** = Base upside (-34%) / Most probable downside (-48%) = **negative — the expected upside is ALSO negative.** Using the BV compounding alternative: +45% / 48% = **0.9:1 — still negative asymmetry.** This is NOT a fat pitch.
+**Part 3: Asymmetry Ratio** = Base upside (-36%) / Most probable downside (-50%) = **negative — the expected upside is ALSO negative.** Using the BV compounding alternative: +45% / 50% = **0.9:1 — still negative asymmetry.** This is NOT a fat pitch.
 
 **Part 4: Catalysts & Anti-Catalysts**
 
@@ -584,7 +585,7 @@ Buffett: *"If options aren't a form of compensation, what are they? If compensat
 
 **Part 5: Fat Pitch Verdict:**
 
-> *"At $340, the realistic downside is approximately 48% to $178 (Conservative DCF floor). The realistic base-case upside is -34% to $223 over the DCF horizon — the stock is ALREADY above intrinsic value even on the base case. Using the BV compounding model as an alternative (which assumes 32% ROE sustains indefinitely), the 5-year upside at 4x P/B is +45%. The asymmetry ratio on DCF is negative; on BV compounding it is ~0.9:1. This is NOT a fat pitch."*
+> *"At $340, the realistic downside is approximately 50% to $171 (Conservative DCF floor). The realistic base-case upside is -36% to $216 over the DCF horizon — the stock is ALREADY above intrinsic value even on the base case. Using the BV compounding model as an alternative (which assumes 32% ROE sustains indefinitely), the 5-year upside at 4x P/B is +45%. The asymmetry ratio on DCF is negative; on BV compounding it is ~0.9:1. This is NOT a fat pitch."*
 
 **Mispricing Identification:** The mispricing opportunity is **ABSENT.** The stock is roughly correctly valued or slightly overvalued for its current fundamentals when SBC dilution costs are properly accounted for. Returns from here depend on: (a) AI CapEx eventually translating to DA-OE growth exceeding 20% CAGR, and (b) the P/OE multiple not compressing. Both are possible but neither is certain. There is no obvious market error to exploit.
 
@@ -594,7 +595,7 @@ Buffett: *"If options aren't a form of compensation, what are they? If compensat
 |---|---|
 | Is the downside capped by tangible value? | No — TBVPS of $31 is 91% below CMP; earnings floor (~$178) is the relevant floor |
 | Is the upside driven by fundamentals, not just multiple expansion? | Yes — BV compounds at 29.4% if ROE sustains |
-| Would you buy MORE if the stock dropped 30% tomorrow? | At $238 — possibly. That would bring P/DA-OE to ~30x and P/E to ~22x, closer to historical norms |
+| Would you buy MORE if the stock dropped 30% tomorrow? | At $238 — possibly. That would bring P/DA-OE to ~30x and P/E to ~22x, nearing the fair value zone ($216-276) |
 | Can you explain the thesis in 2 sentences? | "Google is the world's dominant toll bridge for information and the leading AI platform. At $340, you're paying 43x true owner earnings for a business that needs to grow DA-OE at 21% for a decade — achievable but leaving no margin for error." |
 
 ---
@@ -646,20 +647,20 @@ Buffett: *"When you combine ignorance and leverage, you get some pretty interest
 
 | Zone | Price Range | Basis | Current? |
 |---|---|---|---|
-| **Deep Value / Strong Buy** | Below $178 | <Conservative DA-OE DCF IV | |
-| **Value / Buy** | $178 - $223 | Conservative to Base DA-OE DCF IV | |
-| **Fair Value / Hold** | $223 - $283 | Base to Optimistic DA-OE DCF IV | |
-| **Fully Valued / Trim** | $283 - $360 | Above Optimistic DA-OE DCF IV | **← $340 HERE** |
+| **Deep Value / Strong Buy** | Below $171 | <Conservative DA-OE DCF IV | |
+| **Value / Buy** | $171 - $216 | Conservative to Base DA-OE DCF IV | |
+| **Fair Value / Hold** | $216 - $276 | Base to Optimistic DA-OE DCF IV | |
+| **Fully Valued / Trim** | $276 - $360 | Above Optimistic DA-OE DCF IV | **← $340 HERE** |
 | **Overvalued / Sell** | Above $360 | >35x P/DA-OE; extreme premium | |
 
 ### Position Assessment — What Would Buffett Do?
 
 | If Entry Was In... | Status at $340 | Recommendation |
 |---|---|---|
-| Deep Value (<$178) | +91%+ profit | **HOLD.** Let compounding work. Extraordinary entry. Buffett: *"Our favourite holding period is forever."* |
-| Value ($178-$223) | +53-91% profit | **HOLD.** Thesis intact, business accelerating. With a small capital base, consider trimming only to fund an even better opportunity. |
-| Fair Value ($223-$283) | +20-52% profit | **HOLD.** Good position. Business will continue compounding. Do not sell quality to chase momentum. |
-| Fully Valued ($283-$360) | -6% to +20% | **HOLD, do not add.** Entry was expensive but business quality is high enough to grow into the valuation over 2-3 years. Patience required. |
+| Deep Value (<$171) | +99%+ profit | **HOLD.** Let compounding work. Extraordinary entry. Buffett: *"Our favourite holding period is forever."* |
+| Value ($171-$216) | +57-99% profit | **HOLD.** Thesis intact, business accelerating. With a small capital base, consider trimming only to fund an even better opportunity. |
+| Fair Value ($216-$276) | +23-57% profit | **HOLD.** Good position. Business will continue compounding. Do not sell quality to chase momentum. |
+| Fully Valued ($276-$360) | -6% to +23% | **HOLD, do not add.** Entry was expensive but business quality is high enough to grow into the valuation over 2-3 years. Patience required. |
 | Overvalued (>$360) | underwater | **HOLD for recovery or reassess.** If the business thesis is intact (moat widening, AI executing), hold — the business will compound. If fundamental deterioration appears, take the loss and redeploy. |
 
 ---
@@ -677,7 +678,7 @@ Buffett: *"When you combine ignorance and leverage, you get some pretty interest
 
 **Score: 5/6. The business is flawless. Only the price prevents a strong buy.**
 
-Buffett would **HOLD if already owned** — selling a widening-moat compounder because of short-term overvaluation is a mistake he has cautioned against. But he would NOT initiate a new position at $340. At 43.2x P/DA-OE, you are paying a premium that requires 21% annual DA-OE growth for a decade — achievable but with zero margin of error. He would be watching intently and **BUY AGGRESSIVELY at $178-223** (the DA-OE DCF value zone). With a small capital base, this could be a 25-40% position at the right price — but ONLY at the right price.
+Buffett would **HOLD if already owned** — selling a widening-moat compounder because of short-term overvaluation is a mistake he has cautioned against. But he would NOT initiate a new position at $340. At 43.2x P/DA-OE, you are paying a premium that requires 21% annual DA-OE growth for a decade — achievable but with zero margin of error. He would be watching intently and **BUY AGGRESSIVELY at $171-216** (the DA-OE DCF value zone). With a small capital base, this could be a 25-40% position at the right price — but ONLY at the right price.
 
 ---
 
@@ -748,12 +749,12 @@ Buffett would **HOLD if already owned** — selling a widening-moat compounder b
 | **Management Quality** | **9/10** | $6.44 $1 test; bold AI bet; SBC ($25B) is meaningful but declining as % of NI |
 | **Earnings Quality** | **7/10** | SBC Treadmill at 38% (🟡); DA-OE ($96B) is 27% below Base OE ($121B); divergence gap 5.6pp |
 | **Valuation** | **4/10** | 31.5x PE, 43.2x P/DA-OE, 10x P/B — expensive on every metric; DA-OE DCF shows overvalued |
-| **Margin of Safety** | **3/10** | Negative on all DA-OE DCF scenarios; stock priced above optimistic IV ($282) |
+| **Margin of Safety** | **3/10** | Negative on all DA-OE DCF scenarios; stock priced above optimistic IV ($276) |
 | **Growth Trajectory** | **9/10** | Revenue accelerating; Cloud at 48%; AI opening new TAM |
 | **Scalability** | **8/10** | Strong scaler with massive runway; AI capex temporarily compresses |
-| **Buffett Verdict** | **HOLD / WAIT** | *One of the finest businesses in the world. Moat widening, AI is accelerant. But at $340 and 43.2x P/DA-OE, the stock is priced above intrinsic value when SBC dilution costs are honestly accounted for. The EPS-based picture (31.5x PE) looks fair, but the Buffett-pure picture (43.2x P/DA-OE) says overvalued. HOLD if owned — the business quality will grow into the valuation over 2-3 years if AI CapEx yields returns. Do NOT initiate a new position at $340. Accumulate aggressively below $220 (Conservative DA-OE DCF IV).* |
-| **Buy Zone** | Overvalued / Trim | Deep Value: <$178 · Value: $178-223 · Fair: $223-283 · **Current ($340): Fully Valued** · Trim: >$340 |
-| **Recommendation** | **HOLD** if owned | **WAIT** if not; target $178-$223 for accumulation |
+| **Buffett Verdict** | **HOLD / WAIT** | *One of the finest businesses in the world. Moat widening, AI is accelerant. But at $340 and 43.2x P/DA-OE, the stock is priced above intrinsic value when SBC dilution costs are honestly accounted for. The EPS-based picture (31.5x PE) looks fair, but the Buffett-pure picture (43.2x P/DA-OE) says overvalued. HOLD if owned — the business quality will grow into the valuation over 2-3 years if AI CapEx yields returns. Do NOT initiate a new position at $340. Accumulate aggressively below $216 (Base DA-OE DCF IV).* |
+| **Buy Zone** | Fully Valued / Trim | Deep Value: <$171 · Value: $171-216 · Fair: $216-276 · **Current ($340): Fully Valued** · Trim: >$340 |
+| **Recommendation** | **HOLD** if owned | **WAIT** if not; target $171-$216 for accumulation |
 
 ---
 
@@ -769,7 +770,7 @@ Google earns ~$11/share (reported; ~$7.88 in Dilution-Adjusted Owner Earnings af
 
 Buffett: *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."*
 
-**Verdict: The business is a no-brainer. The price is the problem.** At $340, the stock is priced for perfection when SBC dilution costs are honestly accounted for. The ideal Buffett setup is a 35-48% pullback to $178-223 (the DA-OE DCF value zone), converting a "wonderful business at a crazy price" into a "wonderful business at a fair price."
+**Verdict: The business is a no-brainer. The price is the problem.** At $340, the stock is priced for perfection when SBC dilution costs are honestly accounted for. The ideal Buffett setup is a 37-50% pullback to $171-216 (the DA-OE DCF value zone), converting a "wonderful business at a crazy price" into a "wonderful business at a fair price."
 
 ---
 
