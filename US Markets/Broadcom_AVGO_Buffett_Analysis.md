@@ -919,7 +919,7 @@ where Annual P/B Change = (Exit P/B / Entry P/B)^(1/n) - 1
 | P/B drops to one-third (8x) | -67% | ~-10.6% | 16.5% | **~5.9%** (poor) |
 | P/B drops to one-quarter (6x) | -75% | ~-13.1% | 16.5% | **~3.4%** (dismal) |
 
-The message is clear: at 24.3x book, you need the multiple to SUSTAIN for the business quality to flow through to your returns. If sentiment sours and the P/B drops to even 12x (still a premium multiple), BV compounding barely covers the 10% hurdle.
+The message is clear: at 24.3x book, you need the multiple to SUSTAIN for the business quality to flow through to your returns. If sentiment sours and the P/B drops to even 12x (still a premium multiple), BV compounding falls short of the 10% hurdle (~9.8% approximate, ~8.7% exact from the scenario table above).
 
 ---
 
