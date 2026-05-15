@@ -747,7 +747,7 @@ Buffett would **HOLD if already owned** — selling a widening-moat compounder b
 | **Moat Durability** | **9/10** | Multi-layered moat widening with AI; only antitrust poses erosion |
 | **Financial Health** | **10/10** | $80B net cash; 175x interest coverage; Debt/EBIT 0.36x; impregnable |
 | **Management Quality** | **9/10** | $6.44 $1 test; bold AI bet; SBC ($25B) is meaningful but declining as % of NI |
-| **Earnings Quality** | **7/10** | SBC Treadmill at 38% (🟡); DA-OE ($96B) is 27% below Base OE ($121B); divergence gap 5.6pp |
+| **Earnings Quality** | **7/10** | SBC Treadmill at 38% (🟡); DA-OE ($96B) is 21% below Base OE ($121B); divergence gap 5.6pp |
 | **Valuation** | **4/10** | 31.5x PE, 43.2x P/DA-OE, 10x P/B — expensive on every metric; DA-OE DCF shows overvalued |
 | **Margin of Safety** | **3/10** | Negative on all DA-OE DCF scenarios; stock priced above optimistic IV ($276) |
 | **Growth Trajectory** | **9/10** | Revenue accelerating; Cloud at 48%; AI opening new TAM |
