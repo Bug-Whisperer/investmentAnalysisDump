@@ -45,6 +45,8 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 1,708 | 1,817 | 1,959 | 2,072 | 2,250 | **1,605** | 1,859 | 1,260 | 1,430 | 2,281 | 2,418 | **2,529** | 2,628 |
 | Revenue Growth YoY | — | 6.4% | 7.8% | 5.8% | 8.6% | **-28.7%** | 15.8% | -32.2% | 13.5% | **59.5%** | 6.0% | 4.6% | — |
+| Gross Profit | *Not separately reported* | | | | | | | | | | | | |
+| Gross Margin | *Not separately reported* | | | | | | | | | | | | |
 | Operating Profit (pre-D&A) | 268 | 342 | 324 | 292 | 273 | **174** | 271 | 266 | 265 | 462 | 561 | **614** | 596 |
 | OPM % (pre-D&A) | 15.7% | 18.8% | 16.5% | 14.1% | 12.1% | **10.8%** | 14.6% | 21.1% | 18.5% | 20.3% | 23.2% | **24.3%** | 22.7% |
 | Depreciation & Amortisation | 106 | 119 | 114 | 111 | 114 | 131 | 143 | 95 | 100 | 126 | 161 | **177** | 171 |
@@ -58,7 +60,10 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 | EPS (₹) | 8.52 | 14.41 | 16.08 | 14.25 | 10.34 | **2.11** | 6.70 | 13.61 | 29.88 | 40.44 | 38.85 | **49.84** | 51.50 |
 | EPS Growth | — | 69.1% | 11.6% | -11.4% | -27.4% | **-79.6%** | 217.5% | 103.1% | **119.5%** | 35.3% | -3.9% | 28.3% | — |
 | Shares O/S (Cr) | 6.57 | 7.22 | 7.21 | 7.23 | 7.25 | 7.11 | 7.16 | 6.47 | 6.46 | 6.48 | 6.46 | 6.46 | — |
+| Shares Change YoY | — | +9.9% | -0.1% | +0.3% | +0.3% | -1.9% | +0.7% | -9.6% | -0.2% | +0.3% | -0.3% | 0.0% | — |
 | Dividend Payout % | 35% | 24% | 25% | 28% | 39% | **142%** | 45% | 29% | 17% | **12%** | 15% | 14% | — |
+
+*Note: Screener.in does not separately report Gross Profit or Gross Margin for Indian standalone filings. Screener bundles all operating expenses (COGS + employee costs + other expenses) into a single "Expenses" line. Gross Profit would require segment-level cost data from annual reports. The Operating Profit (pre-D&A) line is the first available profitability metric from Screener.*
 
 **Compounded Growth Rates:**
 
@@ -89,8 +94,11 @@ Buffett: *"Earnings can be as pliable as putty when a charlatan heads the compan
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Total Assets | 2,705 | 2,682 | 2,654 | 3,088 | 3,475 | 2,838 | 2,868 | 2,856 | 3,279 | 3,119 | 3,357 | **3,496** |
+| Cash & Equivalents | *Not separately reported by Screener (embedded in Other Assets)* | | | | | | | | | | | |
 | Total Borrowings | **1,098** | 751 | 622 | 911 | **1,230** | 875 | 995 | 898 | 1,163 | 732 | 616 | **553** |
+| Total Liabilities | 1,584 | 1,247 | 1,267 | 1,638 | 1,986 | 1,582 | 1,612 | 1,622 | 1,887 | 1,512 | 1,542 | **1,398** |
 | Shareholders' Equity | 1,121 | 1,435 | 1,387 | 1,450 | 1,489 | 1,256 | 1,256 | 1,234 | 1,392 | 1,607 | 1,815 | **2,098** |
+| Net Cash / (Debt) | *Approximated as negative of gross borrowings due to Screener cash limitation* | | | | | | | | | | | |
 | Book Value Per Share (₹) | 170.62 | 198.75 | 192.37 | 200.55 | 205.38 | 176.65 | 175.42 | 190.73 | 215.48 | 247.99 | 280.96 | **324.77** |
 | Debt/Equity | **0.98** | 0.52 | 0.45 | 0.63 | **0.83** | 0.70 | 0.79 | 0.73 | 0.84 | 0.46 | 0.34 | **0.26** |
 | Debt/EBIT | **6.8x** | 3.4x | 3.0x | 5.0x | **7.7x** | **20.3x** | 7.8x | 5.3x | 7.0x | 2.2x | 1.5x | **1.3x** |
@@ -98,6 +106,7 @@ Buffett: *"Earnings can be as pliable as putty when a charlatan heads the compan
 | Interest Coverage (EBIT/Int) | **2.4x** | 3.0x | 5.1x | 5.5x | 2.8x | **0.7x** | 1.8x | 5.2x | 5.9x | 5.9x | 4.6x | **5.1x** |
 | Fixed Assets + CWIP | 1,606 | 1,594 | 1,577 | 1,675 | 1,890 | 1,959 | 1,853 | 1,862 | 1,833 | 2,004 | 2,022 | 2,135 |
 | Goodwill | — | — | — | — | — | — | — | — | — | — | — | — |
+| Current Ratio (approx.) | 1.99 | 1.91 | 1.62 | 1.75 | 2.05 | **1.21** | 1.63 | 1.36 | 1.97 | 1.41 | 1.41 | 1.57 |
 
 **The Deleveraging Story — Genuinely Impressive:**
 
@@ -118,9 +127,13 @@ Buffett: *"Only when the tide goes out do you discover who's been swimming naked
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Operating Cash Flow | 184 | 266 | 310 | 205 | **58** | 250 | 107 | 349 | 181 | **523** | **588** | 429 |
+| Capital Expenditures (approx.) | 208 | 96 | 69 | 328 | 186 | 285 | 115 | 108 | 348 | — | 352 | 442 |
 | Investing Cash Flow | -208 | -96 | -69 | -328 | -186 | -285 | -115 | -108 | -348 | **222** | -352 | **-442** |
 | Free Cash Flow (CFO+CFI) | **-24** | 170 | **241** | -123 | **-128** | -35 | -8 | **241** | -167 | **745** | 236 | -13 |
 | FCF Margin | -1.4% | 9.4% | **12.3%** | -5.9% | -5.7% | -2.2% | -0.4% | **19.1%** | -11.7% | **32.7%** | 9.8% | **-0.5%** |
+| FCF Per Share (₹) | -3.65 | **23.55** | **33.43** | -17.01 | -17.66 | -4.92 | -1.12 | **37.25** | -25.85 | **114.97** | 36.53 | -2.01 |
+| Stock-Based Compensation | Negligible | — | — | — | — | — | — | — | — | — | — | — |
+| Share Repurchases | — | — | — | — | — | — | — | — | — | — | — | — |
 | Dividends Paid (est.) | ~20 | ~25 | ~29 | ~29 | ~29 | ~21 | ~22 | ~26 | ~33 | ~31 | ~38 | ~45 |
 | Net Cash Flow | -21 | -35 | -4 | 124 | 96 | -97 | -11 | -21 | 36 | 190 | 2 | -204 |
 
@@ -154,6 +167,7 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | ROCE % | 8% | 10% | 11% | 9% | 7% | **3%** | 7% | 8% | 9% | 15% | 18% | **20%** |
 | ROE % | 5.0% | 8.1% | 8.2% | 7.3% | 5.1% | **1.1%** | 3.8% | 7.1% | 14.7% | **17.5%** | 14.7% | **16.5%** |
+| ROIC % (est.) | 4.2% | 6.9% | 6.4% | 5.7% | 4.4% | **1.2%** | 3.8% | 5.5% | 5.4% | 11.4% | 12.4% | **13.1%** |
 | Debt/Equity | **0.98** | 0.52 | 0.45 | 0.63 | 0.83 | 0.70 | 0.79 | 0.73 | 0.84 | 0.46 | 0.34 | **0.26** |
 | OPM % (pre-D&A, Screener) | 15.7% | **18.8%** | 16.5% | 14.1% | 12.1% | **10.8%** | 14.6% | 21.1% | 18.5% | 20.3% | 23.2% | **24.3%** |
 | **EBIT Margin %** | **9.5%** | **12.3%** | **10.7%** | **8.7%** | **7.1%** | **2.7%** | **6.9%** | **13.6%** | **11.5%** | **14.7%** | **16.5%** | **17.3%** |
@@ -163,6 +177,7 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | Cash Conv. Cycle | **256** | 252 | 236 | 204 | 226 | 136 | 170 | 288 | 156 | 87 | **47** | 79 |
 | Working Capital Days | -10 | 26 | 20 | -16 | 0 | 16 | 45 | 58 | **146** | 14 | **6** | 19 |
 | Interest Coverage (EBIT/Int) | 2.4x | 3.0x | 5.1x | **5.5x** | 2.8x | **0.7x** | 1.8x | 5.2x | **5.9x** | 5.9x | 4.6x | 5.1x |
+| Current Ratio | 1.99 | 1.91 | 1.62 | 1.75 | 2.05 | **1.21** | 1.63 | 1.36 | 1.97 | 1.41 | 1.41 | 1.57 |
 | Dividend Payout % | 35% | 24% | 25% | 28% | 39% | **142%** | 45% | 29% | 17% | **12%** | 15% | 14% |
 
 ### Part B: Buffett's Quality Checklist
@@ -179,9 +194,12 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | Dividend payout | Paying | ~14% avg (recent) | ⚠️ Low payout |
 | EBIT Margin stability | Stable | 2.7%-17.3% range | ❌ Highly cyclical |
 | Moat / Pricing Power | Identifiable | Freight barrier, oligopoly | ⚠️ Oligopoly not pricing power |
+| ROIC > 15% | >15% | 13.1% (FY25), 6.3% (10Y avg) | ❌ Never crossed 15% |
 | Earnings yield | Reasonable | 9.0% (1/PE) at CMP | ✅ |
 
 > **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
+
+> *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
 
 **Narrative:** The ratio table reveals a business that has undergone a genuine improvement in the last 3-4 years — but whose longer-term track record is mediocre. The 10-year average ROE of ~10% and ROCE of ~10.5% are below Buffett's 15% threshold. Only in FY22-FY25 have returns crossed into quality territory. The EBIT Margin range of 2.7% to 17.3% over 12 years signals a deeply cyclical business, not a Buffett-style compounder with stable margins — and reveals far greater cyclicality than the pre-D&A OPM range (10.8%-24.3%) would suggest, because D&A absorbs a larger share of operating profit in bad years. The improvement in working capital (CCC from 256 days to 47 days in FY24) is impressive but has already partially reversed to 79 days in FY25 — and as discussed in competitive analysis, the improvement was partly a function of the favourable supply-demand environment created by HNGIL's insolvency.
 
@@ -194,6 +212,7 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 567 | **680** | 558 | 615 | 623 | 622 | **566** | 599 | 658 | **705** | 688 | **602** | 634 |
+| YoY Sales Growth % | — | — | — | — | 9.9% | **-8.5%** | 1.4% | -2.6% | 5.6% | **13.3%** | **21.6%** | 0.5% | **-3.6%** |
 | Op. Profit (pre-D&A) | **110** | **177** | 132 | 134 | 151 | 146 | 136 | 154 | **169** | 154 | 142 | 150 | 150 |
 | OPM % (pre-D&A) | **19%** | **26%** | 24% | 22% | 24% | 23% | 24% | **26%** | **26%** | 22% | 21% | 25% | 24% |
 | Depreciation | 30 | 38 | 37 | 41 | 42 | 42 | 42 | 47 | 44 | 44 | 41 | 43 | 44 |
@@ -201,6 +220,7 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | **EBIT Margin %** | **14%** | **20%** | 17% | 15% | 17% | 17% | 17% | 18% | **19%** | 16% | 15% | 18% | 17% |
 | Net Profit | **53** | **109** | 63 | 56 | 67 | 65 | 63 | 72 | **91** | **97** | 89 | 76 | 72 |
 | EPS (₹) | **8.21** | **16.82** | 9.81 | 8.68 | 10.37 | 9.98 | 9.77 | 11.14 | **13.99** | **14.93** | 13.73 | 11.77 | 11.07 |
+| NPM % | 9% | **16%** | 11% | **9%** | 11% | 10% | 11% | 12% | **14%** | **14%** | 13% | 13% | 11% |
 
 *Note: Screener.in quarterly figures may not sum exactly to annual totals due to independent rounding (e.g., FY24 quarterly OP sums to ₹563 Cr vs annual ₹561 Cr — a ₹2 Cr difference). This is a data-source artefact, not a calculation error.*
 
@@ -225,6 +245,7 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | Promoters | 60.23% | 60.23% | 60.23% | 60.23% | 60.23% | 60.23% | 60.23% | 60.23% | 60.23% | 60.23% | 60.23% | 60.23% | → |
 | FIIs/FPIs | 6.02% | 6.42% | 6.68% | 7.60% | 7.42% | 7.14% | 7.20% | **8.32%** | 7.54% | 7.61% | 7.49% | 7.24% | → (mild ↑) |
 | DIIs | 2.00% | 3.11% | 2.71% | 1.34% | 1.19% | 1.22% | 1.31% | **0.87%** | 1.06% | 1.51% | 2.22% | **2.24%** | → (rebounding) |
+| Government | 0.00% | 0.00% | 0.00% | 0.00% | 0.00% | 0.00% | 0.00% | 0.00% | 0.00% | 0.00% | 0.00% | 0.00% | → |
 | Public/Retail | 31.73% | 30.23% | 30.36% | 30.82% | 31.16% | 31.39% | 31.24% | 30.55% | 31.12% | 30.62% | 30.03% | 30.24% | → |
 | No. of S'holders | 44,907 | 45,957 | 48,387 | **61,779** | **67,343** | 60,459 | 52,183 | 50,268 | 53,899 | 53,546 | 54,922 | 55,939 | → |
 
@@ -275,7 +296,20 @@ Buffett: *"The key to investing is not assessing how much an industry is going t
 | ROE % | 5.0 | 8.1 | 8.2 | 7.3 | 5.1 | **1.1** | 3.8 | 7.1 | 14.7 | **17.5** | 14.7 | **16.5** |
 | ROA % | 2.1 | 3.9 | 4.3 | 3.6 | 2.3 | **0.5** | 1.7 | 3.1 | 6.3 | 8.2 | 7.8 | **9.4** |
 | ROCE % | 8 | 10 | 11 | 9 | 7 | **3** | 7 | 8 | 9 | 15 | 18 | **20** |
+| ROIC % (est.) | 4.2 | 6.9 | 6.4 | 5.7 | 4.4 | **1.2** | 3.8 | 5.5 | 5.4 | 11.4 | 12.4 | **13.1** |
 | Interest Coverage (EBIT/Int) | 2.4x | 3.0x | 5.1x | 5.5x | 2.8x | **0.7x** | 1.8x | 5.2x | 5.9x | 5.9x | 4.6x | **5.1x** |
+
+*Note: ROIC is estimated as NOPAT (EBIT × (1 − Effective Tax Rate)) / Average Invested Capital (Equity + Borrowings). The effective tax rate used is each year's actual tax rate from the P&L (ranging from ~24-42% over the period), not a flat assumed rate — this is more accurate but means ROIC reflects both operating and tax-regime changes. Screener.in does not provide a clean Invested Capital figure — the demerger distorts accumulated reserves — so this ROIC should be treated as directional, with ROCE as the more reliable metric.*
+
+**DuPont Decomposition (Summary — full table in Section 17):**
+
+| Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE |
+|---|---|---|---|---|
+| FY14 | 3.3% | 0.63x | 2.41x | 5.0% |
+| FY19 (trough) | **0.9%** | 0.51x | 2.30x | **1.1%** |
+| **FY25** | **12.7%** | **0.74x** | **1.75x** | **16.5%** |
+
+The ROE improvement is driven by a **4x expansion in net profit margin** (3.3% → 12.7%) and improved asset turnover (0.63x → 0.74x), while leverage has DECLINED (equity multiplier 2.41x → 1.75x). This is the healthy pattern — ROE from profitability, not leverage.
 
 **Quality Assessment:** 
 
@@ -357,6 +391,17 @@ Buffett: *"We do not get enthused about change, with a few exceptions, as a way 
 *\*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or being eaten by rising capital consumption. If pre-D&A incremental margins were used, they would appear higher (72.3% for FY24) because they ignore the D&A burden — a pattern EBITDA-based analysis would miss.*
 
 The incremental EBIT margins in FY24 (46.7%) and FY25 (33.3%) are healthy — but notably lower than the pre-D&A incremental margins (72.3% and 47.7% respectively), reflecting the real cost of maintaining the capital base. When capacity utilisation falls from 95% to 85% (as HNGIL returns), incremental margins will likely turn negative.
+
+**3. Capital Scalability — Can the business grow without proportional capital reinvestment?**
+
+| Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Trend |
+|---|---|---|---|---|---|---|---|
+| CapEx as % of Revenue | 6.2% | 8.6% | **24.3%** | — | 14.6% | **17.5%** | ↑ Rising — heavy capex cycle |
+| Revenue per unit of CapEx | 16.2x | 11.7x | **4.1x** | — | 6.9x | **5.7x** | ↓ Declining — more capital per rupee of revenue |
+| Working Capital Days | 45 | 58 | **146** | 14 | **6** | 19 | → Improved but cyclically driven |
+| Asset Turnover | 0.65x | 0.44x | 0.47x | 0.71x | **0.75x** | 0.74x | ↑ Improving (driven by revenue recovery, not asset efficiency) |
+
+Buffett: *"The ideal business is one that takes no capital, and yet grows."* AGI is the opposite — it requires ~₹14-18 Cr of capex for every ₹100 Cr of revenue. The Gwalior plant requires ₹700 Cr for an incremental ~₹400-500 Cr of annual revenue (once fully ramped), implying 1.4-1.8x capital intensity. This is a capital-heavy business where growth consumes capital.
 
 ### Part B: Scaling Runway
 
@@ -441,8 +486,13 @@ Buffett: *"The CEO who misleads others in public may eventually mislead himself 
 | **P/Owner Earnings (primary Buffett-pure multiple)** | **9.4x** | — |
 | **Owner Earnings Yield (OEPS / CMP)** | **10.7%** | — |
 | **PE Ratio (TTM)** | 11.1x | 7x - 40x+ |
+| **Forward PE (est. FY26E ~₹45 EPS)** | ~12.7x | — |
 | **P/B Ratio** | 1.76x | 0.8x - 4.0x |
+| **PS Ratio** | 1.46x | 0.5x - 2.5x |
+| **P/FCF Ratio** | N/A (FY25 FCF negative) | — |
 | **Earnings Yield** | 9.0% | — |
+| **FCF Yield** | N/A (FY25 FCF negative) | — |
+| **PEG Ratio (PE / 10Y EPS CAGR)** | 0.8x | — |
 | **Dividend Yield** | 1.2% | — |
 | **EV/EBIT** | ~9.7x | — |
 
@@ -473,20 +523,20 @@ Buffett: *"Price is what you pay, value is what you get."* The market is pricing
 | Growth Years 1-5 | 6% | 10% | 14% |
 | Growth Years 6-10 | 4% | 6% | 8% |
 | Terminal Growth | 4% | 4% | 5% |
-| Discount Rate | 12% | 11% | 10% |
+| Discount Rate | **10%** | **10%** | **10%** |
 
 **Note on Conservative Scenario:** We use ₹350 Cr starting OE (below FY25's ₹393 Cr) to reflect the expected margin compression from HNGIL's return. This is NOT a pessimistic scenario — it assumes margins compress modestly to 20-21% OPM, not all the way back to mid-cycle 17%.
 
 | Outcome | Conservative | Base | Optimistic |
 |---|---|---|---|
-| PV of 10-Year Cash Flows | ₹2,558 Cr | ₹3,552 Cr | ₹4,717 Cr |
-| PV of Terminal Value | ₹2,385 Cr | ₹4,432 Cr | ₹9,620 Cr |
-| Total Enterprise Value | ₹4,943 Cr | ₹7,983 Cr | ₹14,338 Cr |
+| PV of 10-Year Cash Flows | ₹2,801 Cr | ₹3,726 Cr | ₹4,717 Cr |
+| PV of Terminal Value | ₹3,808 Cr | ₹5,660 Cr | ₹9,620 Cr |
+| Total Enterprise Value | ₹6,609 Cr | ₹9,386 Cr | ₹14,338 Cr |
 | Less: Net Debt | ₹553 Cr | ₹553 Cr | ₹553 Cr |
-| **Equity Intrinsic Value** | **₹4,390 Cr** | **₹7,430 Cr** | **₹13,785 Cr** |
-| **IV Per Share** | **₹680** | **₹1,150** | **₹2,134** |
-| **MOS at CMP ₹570: (IV-CMP)/IV** | **16.1%** | **50.4%** | **73.3%** |
-| **Upside/(Downside) from CMP** | **+19.2%** | **+101.8%** | **+274.4%** |
+| **Equity Intrinsic Value** | **₹6,056 Cr** | **₹8,833 Cr** | **₹13,785 Cr** |
+| **IV Per Share** | **₹937** | **₹1,367** | **₹2,134** |
+| **MOS at CMP ₹570: (IV-CMP)/IV** | **39.2%** | **58.3%** | **73.3%** |
+| **Upside/(Downside) from CMP** | **+64.5%** | **+139.9%** | **+274.4%** |
 
 *Note: ₹553 Cr is gross borrowings from Screener.in's balance sheet. Screener's standalone data does not separately break out cash and cash equivalents (these are embedded within "Other Assets"). We use gross borrowings as a conservative proxy for net debt — actual net debt is likely lower by ₹100-250 Cr (the company's probable cash balance), which would add ₹15-39 per share to each scenario's IV.*
 
@@ -494,11 +544,13 @@ Buffett: *"Price is what you pay, value is what you get."* The market is pricing
 
 | Scenario | IV/Share | MOS | Upside from CMP |
 |---|---|---|---|
-| Conservative | ₹680 | 16.1% | +19.2% |
-| Base | ₹1,150 | 50.4% | +101.8% |
+| Conservative | ₹937 | 39.2% | +64.5% |
+| Base | ₹1,367 | 58.3% | +139.9% |
 | Optimistic | ₹2,134 | 73.3% | +274.4% |
 
-**Key Caveat:** The DCF assumes current-level owner earnings are sustainable. If margins compress to 17% (mid-cycle), the impact depends on the revenue base at that point. On FY25's current revenue of ₹2,529 Cr, 17% OPM would produce OE of only ~₹197-215 Cr and a conservative IV of approximately ₹380-420 per share — well below CMP. On a forward revenue base of ~₹3,000-3,200 Cr (reflecting the Gwalior capacity addition), 17% OPM would produce OE of ~₹250-280 Cr and IV of approximately ₹450-500. In either case, IV falls **below the current CMP of ₹570**, meaning zero margin of safety on normalised earnings. This is the critical risk.
+*Note: All three scenarios use Buffett's flat 10% opportunity-cost hurdle rate as the discount rate — Buffett explicitly rejects WACC, and Munger has called it "nonsense." The scenarios vary in growth assumptions, not discount rate. Sensitivity: at a 12% hurdle, the Conservative IV falls to ~₹680/share (MOS 16%) — still above CMP on peak earnings but with minimal cushion.*
+
+**Key Caveat:** The DCF assumes current-level owner earnings are sustainable. If margins compress to 17% (mid-cycle), the impact depends on the revenue base at that point. On FY25's current revenue of ₹2,529 Cr, 17% OPM would produce OE of only ~₹197-215 Cr (assuming Interest Expense of ₹85 Cr, Other Income of ₹0-24 Cr, 25% tax rate, D&A of ₹177 Cr, and maintenance capex at 60% of D&A) and a conservative IV of approximately ₹490-543 per share — **below CMP**. On a forward revenue base of ~₹3,000-3,200 Cr (reflecting the Gwalior capacity addition), 17% OPM would produce OE of ~₹250-280 Cr (assuming forward D&A of ₹200-210 Cr from expanded asset base, Interest of ₹90-100 Cr at peak debt). However, during this forward period net debt will be at its peak (~₹1,000-1,200 Cr per management guidance, not the current ₹553 Cr), so the equity bridge must use peak debt: IV of approximately ₹560-648 — **roughly at CMP**, not comfortably above it. If debt is repaid faster (back toward ₹553 Cr), IV rises to ₹645-733. The margin of safety on normalised forward earnings is therefore **marginal at best**, dependent on both capacity execution and debt reduction. The key risk is the transition period: margins may compress before the new capacity generates sufficient revenue to offset the decline.
 
 ---
 
@@ -528,6 +580,7 @@ Buffett: *"Price is what you pay, value is what you get."* The market is pricing
 |---|---|---|---|
 | 5 Years | 3.5% | 8.2% | 12.9% |
 | 10 Years | 6.7% | 11.6% | 16.4% |
+| 15 Years | 7.8% | 12.7% | 17.6% |
 
 **At Terminal PE = 20x (Market Avg)**
 
@@ -535,6 +588,7 @@ Buffett: *"Price is what you pay, value is what you get."* The market is pricing
 |---|---|---|---|
 | 5 Years | -2.3% | 2.2% | 6.6% |
 | 10 Years | 3.7% | 8.4% | 13.1% |
+| 15 Years | 5.7% | 10.6% | 15.4% |
 
 **At Terminal PE = 28x (Compounder)**
 
@@ -542,6 +596,15 @@ Buffett: *"Price is what you pay, value is what you get."* The market is pricing
 |---|---|---|---|
 | 5 Years | -8.6% | -4.5% | -0.3% |
 | 10 Years | 0.2% | 4.8% | 9.4% |
+| 15 Years | 3.4% | 8.1% | 12.8% |
+
+**At Terminal PE = 14x (Historical Avg)**
+
+| Holding Period | 10% Hurdle | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 4.9% | 9.7% | 14.5% |
+| 10 Years | 7.4% | 12.3% | 17.2% |
+| 15 Years | 8.3% | 13.2% | 18.1% |
 
 ### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
@@ -577,6 +640,8 @@ On **peak EPS of ₹51.50**, the implied growth rates are very manageable. Even 
 | Company's own historical 5Y EPS CAGR | 49.4% | 30.2% | Trough-to-peak; misleading |
 | Company's own historical 10Y EPS CAGR | 13.2% | 10.0% | Longer-term track record |
 | Company's own historical OE CAGR | — | 10.0% (10Y) | Buffett-pure benchmark |
+| Glass packaging industry growth | 8-10% | ~8-10% | Peer comparison |
+| Analyst consensus (FY26-FY27) | ~5-10% (margin compression expected) | — | Market expectations |
 
 **Traffic Light (on peak EPS): 🟢 GREEN — Reasonable price.** The market is not demanding heroic assumptions at 11x peak PE.
 
@@ -609,15 +674,56 @@ However, the more important question is: **what if current EPS is NOT sustainabl
 
 | Scenario | Basis | Implied Price | Upside from ₹570 |
 |---|---|---|---|
-| Base DCF IV | DCF at ₹1,150 | ₹1,150 | +102% |
+| Base DCF IV | DCF at ₹1,367 | ₹1,367 | +140% |
 | BV Compounding (5Y, 1.76x P/B) | ₹570 BVPS × 1.76x | ₹1,003 | +76% |
 | Peak-cycle sustained | ₹52 EPS × 20x PE | ₹1,040 | +82% |
+| Scaling Multiplier (Gwalior + Cans) | Revenue ₹3,500 Cr, 20% OPM (pre-D&A), D&A ~₹210 Cr, Interest ₹60-95 Cr → PAT ~₹319-345 Cr, 15x PE | ₹740-800 | +30-40% |
 
-**Asymmetry Ratio:** Using base case upside (+102%) and most probable downside (book value floor, -43%): **2.4:1** — a **decent pitch** but not a fat pitch.
+**Catalysts (things that could trigger upside re-rating):**
 
-**Mispricing Assessment:** There is a partial mispricing. The market has correctly de-rated the stock from its ₹1,009 high (recognising peak margins), but may not have fully priced in the extent of margin compression when HNGIL returns. The mispricing, if any, is modest — perhaps ₹100-150 of excessive pessimism on a stock whose fair value range is ₹450-680. This is NOT the kind of extreme mispricing that Buffett waits for.
+| Catalyst | Probability | Timing |
+|---|---|---|
+| Gwalior plant commissioning → revenue step-up to ₹3,000+ Cr | High | FY27-FY28 |
+| Premiumisation trend → higher specialty glass mix → better realisations | Medium | FY27-FY29 |
+| HNGIL restart slower than expected → margins sustain longer | Medium | FY27-FY28 |
+| Aluminum can business succeeds → opens new ₹3,000+ Cr addressable market | Low | FY29+ |
+| EPR regulations eliminate small competitors → market share gain | Medium | FY27-FY28 |
 
-**Fat Pitch Verdict:** At ₹570, the realistic downside is approximately 43% to ₹325 (book value floor). The realistic base-case upside is approximately 20-100% depending on margin sustainability. The asymmetry ratio of ~2.4:1 makes this a **decent pitch** but not a table-pounding opportunity. The catalysts (Indian glass demand growth, premiumisation, capacity expansion) are real but slow-burning. The anti-catalysts (HNGIL return, margin compression, capex re-leveraging) are nearer-term and more certain. **This is NOT a fat pitch at ₹570.**
+**Anti-Catalysts (things that could cause permanent capital loss):**
+
+| Anti-Catalyst | Probability | Already Priced In? |
+|---|---|---|
+| HNGIL restarts aggressively → OPM compresses to 13-15% for 3+ years | Medium-High | Partially |
+| Aluminum can facility fails / oversupply → ₹850 Cr capex stranded | Medium | Not priced in |
+| Simultaneous margin compression + re-leveraging → debt/EBIT >5x | Low-Medium | Not priced in |
+
+**Asymmetry Ratio:** Using base case upside (+140%) and most probable downside (book value floor, -43%): **3.3:1** — a **strong fat pitch** on peak earnings, though this is tempered by the normalisation risk.
+
+**Mispricing Assessment:** There is a partial mispricing. The market has correctly de-rated the stock from its ₹1,009 high (recognising peak margins), but may not have fully priced in the extent of margin compression when HNGIL returns. The mispricing, if any, is modest — perhaps ₹100-150 of excessive pessimism on a stock whose fair value range is ₹500-937 on peak OE. This is NOT the kind of extreme mispricing that Buffett waits for — because the margins driving this IV may not be sustainable.
+
+**Fat Pitch Verdict:** At ₹570, the realistic downside is approximately 43% to ₹325 (book value floor). The realistic base-case upside is approximately 64-140% depending on margin sustainability. The asymmetry ratio of ~3.3:1 makes this a **strong fat pitch on paper** — but this must be heavily caveated: the upside depends on current-level margins sustaining, while the most probable outcome (HNGIL return compressing margins) reduces the base IV to ₹380-500. The catalysts (Indian glass demand growth, premiumisation, capacity expansion) are real but slow-burning. The anti-catalysts (HNGIL return, margin compression, capex re-leveraging) are nearer-term and more certain. **On peak earnings this is a decent pitch; on normalised earnings this is NOT a fat pitch at ₹570.**
+
+**Mispricing Identification — Is the Market Giving You a Gift?**
+
+| Mispricing Source | Assessment for AGI |
+|---|---|
+| **Temporary crisis mistaken for terminal decline** | Not applicable — AGI is not in crisis. The stock decline is from peak valuation, not distress. |
+| **Turnaround in progress not yet visible in numbers** | Not applicable — AGI's numbers are at their BEST, not their worst. |
+| **Sector/narrative de-rating unrelated to fundamentals** | **Partially applicable** — mid-cap glass packaging is not a "hot" sector; the stock may be suffering from narrative apathy. But this is mild, not extreme. |
+| **Complexity or obscurity discount** | **Partially applicable** — post-demerger, AGI is less well-known than its predecessor HSIL. The company has limited institutional coverage at 7% FII ownership. |
+| **Misunderstood growth optionality** | **Partially applicable** — the Gwalior plant and aluminum can facility represent growth optionality the market may be assigning zero value to, given the focus on HNGIL margin risk. |
+| **Excessive pessimism / anchoring to recent bad results** | **Not yet applicable** — the Dec25 quarter was the first sign of deterioration. If margin compression accelerates in FY27, the market may overshoot to the downside, creating a future mispricing opportunity. |
+
+The mispricing opportunity is **PARTIALLY PRESENT but not extreme**. The market has correctly de-rated from the ₹1,009 peak but may be undervaluing the growth optionality (new capacity + aluminum cans). The buy zone of ₹350-420 is where the mispricing would become actionable — at that price, the growth optionality comes for free.
+
+**Final Buffett Filter:**
+
+| Question | Answer |
+|---|---|
+| Is the downside capped by tangible value, franchise value, or earnings floor? | **Yes** — BVPS of ₹325 (100% tangible, zero goodwill) provides a hard floor. The business has real physical assets (furnaces, plants). |
+| Is the upside driven by business fundamentals (growth, scaling, moat widening) rather than just multiple expansion hope? | **Partially** — upside requires margins to sustain AND new capacity to execute. Multiple expansion from 11x peak PE is unlikely; upside is from earnings growth if margins hold. |
+| Would you be comfortable buying MORE if the stock dropped 30% tomorrow (assuming no fundamental change)? | **Yes** — at ₹400 (1.2x book), you'd be buying real assets with a decent business at a discount. |
+| Can you explain the thesis in 2 sentences to a non-investor? | **Yes** — "AGI makes glass bottles for liquor companies. Their biggest competitor went broke for a few years so they made a lot of money, but that competitor is coming back, so profits might drop." |
 
 ---
 
@@ -625,20 +731,20 @@ However, the more important question is: **what if current EPS is NOT sustainabl
 
 ### Part A: DuPont Decomposition
 
-| Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE (Calc) |
-|---|---|---|---|---|
-| FY14 | 3.3% | 0.63x | 2.41x | 5.0% |
-| FY15 | 5.7% | 0.67x | 2.11x | 8.1% |
-| FY16 | 5.9% | 0.73x | 1.89x | 8.1% |
-| FY17 | 5.0% | 0.72x | 2.02x | 7.3% |
-| FY18 | 3.3% | 0.69x | 2.23x | 5.1% |
-| FY19 | **0.9%** | 0.51x | 2.30x | **1.1%** |
-| FY20 | 2.6% | 0.65x | 2.27x | 3.8% |
-| FY21 | 7.0% | 0.44x | 2.30x | 7.1% |
-| FY22 | **13.5%** | 0.47x | 2.34x | 14.8% |
-| FY23 | 11.5% | 0.71x | 2.13x | 17.4% |
-| FY24 | 10.4% | 0.75x | 1.89x | 14.7% |
-| **FY25** | **12.7%** | **0.74x** | **1.75x** | **16.4%** |
+| Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE (Calc) | Reported ROE |
+|---|---|---|---|---|---|
+| FY14 | 3.3% | 0.63x | 2.41x | 5.0% | 5.0% |
+| FY15 | 5.7% | 0.67x | 2.11x | 8.1% | 8.1% |
+| FY16 | 5.9% | 0.73x | 1.89x | 8.1% | 8.2% |
+| FY17 | 5.0% | 0.72x | 2.02x | 7.3% | 7.3% |
+| FY18 | 3.3% | 0.69x | 2.23x | 5.1% | 5.1% |
+| FY19 | **0.9%** | 0.51x | 2.30x | **1.1%** | **1.1%** |
+| FY20 | 2.6% | 0.65x | 2.27x | 3.8% | 3.8% |
+| FY21 | 7.0% | 0.44x | 2.30x | 7.1% | 7.1% |
+| FY22 | **13.5%** | 0.47x | 2.34x | 14.8% | 14.7% |
+| FY23 | 11.5% | 0.71x | 2.13x | 17.4% | **17.5%** |
+| FY24 | 10.4% | 0.75x | 1.89x | 14.7% | 14.7% |
+| **FY25** | **12.7%** | **0.74x** | **1.75x** | **16.4%** | **16.5%** |
 
 *Note: DuPont-derived ROE (NPM × AT × EM) may differ from Section 9's directly-computed ROE by ±0.1pp due to intermediate rounding of each component to one decimal place. Both use average equity and average assets.*
 
@@ -678,7 +784,20 @@ However, the more important question is: **what if current EPS is NOT sustainabl
 | **1.32x (mild de-rate)** | 5.7% | 7.4% | 8.8% |
 | **1.00x (book value)** | 0.0% | 3.3% | 5.8% |
 | **2.00x** | 14.9% | 14.0% | 13.4% |
-| **1.50x** | 8.4% | 9.4% | 10.2% |
+| **1.50x (historical median P/B)** | 8.4% | 9.4% | 10.2% |
+| **0.88x (P/B halves)** | -2.5% | 1.4% | 4.4% |
+
+**The Rule of Thumb for Quick Mental Math:**
+
+```
+Approximate Annual Return ≈ (ROE × Retention) + Annual P/B Change
+
+where Annual P/B Change = (Exit P/B / Entry P/B)^(1/n) - 1
+```
+
+- If P/B stays constant → Return ≈ BV compounding rate (ROE × Retention) = 11.9%
+- If P/B halves over 10 years → ~7% annual drag → return ≈ 11.9% - 7% ≈ 4.9%
+- If P/B drops to one-third over 10 years → ~11% annual drag → return ≈ 11.9% - 11% ≈ 0.9%
 
 **Key Insight:** At the current entry P/B of 1.76x with a sustainable ROE of 14% and 85% retention, book value compounds at 11.9% annually. If the P/B multiple remains at 1.76x, the return equals the BV compounding rate of ~12%. The stock can tolerate P/B compression from 1.76x down to approximately 1.32x before the 10-year return drops below the 10% hurdle rate. If P/B compresses to 1.0x (book value), the 10-year return is only 5.8% — well below the hurdle rate.
 
@@ -756,18 +875,57 @@ Buffett would likely say: *"It's far better to buy a wonderful company at a fair
 
 ## 21. REGULATORY RISKS & POLICY HEADWINDS
 
-**Key Regulatory Bodies:** BIS (Bureau of Indian Standards) for glass quality; FSSAI for food-grade packaging; state excise departments for alcohol packaging; DGTR for trade remedies (anti-dumping duties).
+**Key Regulatory Bodies:** BIS (Bureau of Indian Standards) for glass quality; FSSAI for food-grade packaging; state excise departments for alcohol packaging; DGTR for trade remedies (anti-dumping duties); Ministry of Environment (Extended Producer Responsibility).
+
+**Current Regulatory Stance:** Broadly **supportive**. Glass is the government's favoured packaging material from an environmental standpoint (100% recyclable, non-toxic, infinite lifecycle). EPR regulations are tilting the playing field in favour of glass over single-use plastic. No pricing controls exist for glass packaging.
 
 **Historical Regulatory Impact:**
 
-| Event | Year | Impact |
-|---|---|---|
-| GST Implementation | FY18 | Short-term disruption; neutral long-term |
-| COVID-19 Lockdowns | FY21 | Alcohol sales suspended briefly; ~32% revenue decline; recovered fully in FY23 |
-| Proposed EPR (Extended Producer Responsibility) for Glass | FY26 | Could raise compliance costs but favour large players with recycling infrastructure; net positive for AGI vs smaller competitors |
-| DGTR Anti-Dumping Duty on Soda Ash | FY26 | If implemented: ₹79-113/MT increase in key raw material cost; negative for margins unless passed through |
+| Event | Year | Nature of Regulation | Impact on Company |
+|---|---|---|---|
+| GST Implementation | FY18 | Tax restructuring | Short-term disruption (1-2 quarters); neutral long-term as organised players benefited from formalisation |
+| COVID-19 Lockdowns | FY21 | Public health mandate | Alcohol sales suspended for 2 months; ~32% revenue decline in FY21; fully recovered by FY23 |
+| Proposed EPR for Glass | FY26 | Environmental regulation | Could raise compliance costs by ₹5-10/tonne but favour large players with recycling infrastructure; net positive for AGI vs smaller competitors |
+| DGTR Anti-Dumping Duty on Soda Ash | FY26 | Trade protection | If implemented: ₹79-113/MT increase in key raw material cost; ~3-5% operating profit (pre-D&A) impact unless passed through via formula pricing |
 
-**Buffett's Verdict on Regulatory Risk: (b) Manageable but Fairly Priced.** Glass packaging faces minimal existential regulatory risk. The product is environmentally favoured (100% recyclable, sustainable). The main regulatory risk (soda ash duties) is a cost issue, not a demand issue. EPR regulations could actually strengthen AGI's moat by raising compliance costs that eliminate smaller competitors.
+**Current Regulatory Headwind Analysis — Soda Ash Anti-Dumping Duty:**
+
+1. **Nature and Magnitude:** Moderate — ₹79-113/MT duty on imported soda ash, AGI's largest raw material cost
+2. **Demand/Volume Impact:** Zero — duty affects AGI's costs, not its customers' demand for glass bottles
+3. **Revenue Impact:** Neutral to mildly positive — formula pricing allows pass-through with a one-quarter lag
+4. **Margin Impact:** Short-term compression of 1-2% OPM for one quarter during pass-through lag; recovers thereafter
+5. **Competitive Impact:** Neutral — all glass manufacturers face the same cost increase; smaller players with less pricing power may be hurt more
+6. **Structural vs. Cyclical:** Cyclical — a one-time cost reset that the formula pricing mechanism is designed to handle
+
+**The Demand Curve — How Price-Sensitive Is This Business to Regulatory Costs?**
+
+| Regulatory Cost Magnitude | Likely Volume Impact | Company's Response | Net Revenue Impact |
+|---|---|---|---|
+| **Mild (5-8% cost increase)** | Zero (B2B, contractual) | Formula price pass-through | Neutral |
+| **Moderate (10-15% cost increase)** | Negligible | Partial pass-through + efficiency | Mildly negative for 1-2 quarters |
+| **Severe (>20% cost increase)** | -2% to -5% volume (customers shift to PET for non-premium products) | Full pass-through attempt; may lose marginal volumes | Negative for 1-2 years |
+
+**Buffett's Three-Lens Framework:**
+
+**1. History as a Guide:** AGI survived the GST transition (1 quarter disruption, full recovery) and COVID lockdowns (2 quarters, full recovery within 2 years). The business has demonstrated resilience to regulatory shocks.
+
+**2. Elasticity / Pricing Power:** For ~76% of revenue (alco-bev packaging), glass has near-zero substitution risk at the premium end — whisky and premium beer require glass bottles for brand perception. At the value end, PET is a viable substitute, but regulatory push toward glass (EPR) is strengthening glass's position. Pricing power for cost pass-through is moderate — formula pricing provides a mechanism, but with a lag.
+
+**3. Terminal Risk Assessment:** There is no realistic scenario in which regulation could permanently destroy this business. Glass bottles are environmentally favoured, essential for alcohol and pharma packaging, and face no technology-driven regulatory threat (unlike fossil fuels or single-use plastics). The terminal risk probability is negligible.
+
+> *"It's only when the tide goes out that you learn who's been swimming naked."* — Warren Buffett. For AGI, the regulatory tide has been coming IN, not going out — environmental regulations are strengthening glass's position relative to plastic alternatives.
+
+**Risk Rating Table:**
+
+| Risk Factor | Probability | Impact | Net Risk | Notes |
+|---|---|---|---|---|
+| Soda ash anti-dumping duty | Medium | Low | Manageable | Formula pricing pass-through with 1Q lag |
+| State-level prohibition (Bihar model) | Low | Medium | Manageable | Geographic diversification to Gwalior mitigates |
+| Excise duty hikes on alcohol | Medium | Low | Manageable | Cost borne by consumers, not packaging suppliers |
+| EPR compliance costs | High | Low (net positive) | Favourable | Raises barriers for smaller competitors |
+| Environmental ban on glass (terminal) | Very Low | Catastrophic | Negligible probability | Glass is the most sustainable packaging material |
+
+**Buffett's Verdict on Regulatory Risk: (b) Manageable but Fairly Priced.** Glass packaging faces minimal existential regulatory risk. The product is environmentally favoured (100% recyclable, sustainable). The main regulatory risk (soda ash duties) is a cost issue, not a demand issue. EPR regulations could actually strengthen AGI's moat by raising compliance costs that eliminate smaller competitors. The market has not mispriced regulatory risk — there is no regulatory discount to exploit.
 
 ---
 
@@ -785,12 +943,15 @@ Not strictly applicable — AGI is not a turnaround story. It is a business at c
 | **Moat Durability** | 5/10 | Narrow moat (freight, capital barriers). Vulnerable to HNGIL's well-capitalised return. |
 | **Financial Health** | 8/10 | Excellent current balance sheet (D/E 0.26x). Will deteriorate with capex. |
 | **Management Quality** | 7/10 | Strong promoter alignment (60%), good deleveraging. Minor governance flags. |
-| **Valuation** | 6/10 | Cheap on peak earnings (11x PE), expensive on normalised (27x). |
-| **Margin of Safety** | 4/10 | Thin at current price. Meaningful only if peak margins sustain. |
+| **Valuation** | 6/10 | Cheap on peak earnings (11x PE, 9.4x P/OE), expensive on normalised (27x). |
+| **Margin of Safety** | 5/10 | At 10% hurdle: Conservative IV ₹937 (MOS 39%). But zero MOS on normalised mid-cycle earnings. |
+| **Earnings Quality** | 5/10 | OE (₹393 Cr) exceeds NI (₹322 Cr) — D&A > maintenance capex. But earnings are at cyclical peak; normalised OE is ₹200-280 Cr. |
 | **Scalability** | 4.5/10 | Capital-intensive; moderate scaling potential. |
 | **Buffett Verdict** | — | **Fair company at a fair price. Not a fat pitch. HOLD if owned, WAIT for ₹350-420 to buy.** |
 | **Buy Zone** | — | Currently in **Fair Value / Hold** zone (₹450-650). |
 | **Overall Recommendation** | — | **HOLD if owned. Do NOT initiate a new position at ₹570. Buy zone: ₹350-420 (1.1-1.3x book).** |
+
+*Note: The recommended buy zone (₹350-420) is deliberately lower than the DCF IV range (₹937-₹1,367) because the DCF is based on peak Owner Earnings (₹393 Cr at 24% OPM). Since HNGIL's return makes margin compression probable, the buy zone is anchored to P/B analysis (1.1-1.3x book) where normalised BV compounding alone generates adequate returns regardless of the margin outcome. This is the intellectually honest Buffett approach: don't pay for margins you can't count on.*
 
 **Buffett Verdict (Concise):** AGI Greenpac is India's second-largest glass bottle manufacturer — a simple, understandable business protected by freight barriers and capital intensity. The promoter family owns 60% and has demonstrated excellent capital discipline (halved debt from ₹1,230 Cr to ₹553 Cr without dilution). However, the 24% operating margin that produces the attractive-looking 11x PE is at a cyclical peak, driven primarily by the insolvency of the industry's largest player (HNGIL, 37% market share). With HNGIL now acquired by a well-capitalised buyer (INSCO/Cerberus) committed to ₹10,000 Cr of investment, margin normalisation to 15-18% is probable within 2-3 years. On normalised earnings, the stock trades at ~27x PE — not cheap. Simultaneously, AGI is embarking on a ₹1,800+ Cr capex programme (glass expansion + aluminum cans) that will re-lever the balance sheet to ₹1,000-1,200 Cr net debt. The combination of margin compression, re-leveraging, and a capex cycle creates execution risk. Buffett would respect the business but wait for a better price — approximately ₹350-420 (1.1-1.3x book) — where normalised earnings compression is already priced in and book value compounding alone generates adequate returns.
 
