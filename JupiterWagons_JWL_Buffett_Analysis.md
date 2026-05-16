@@ -46,14 +46,18 @@ Jupiter Wagons Ltd (formerly CEBBCO) is India's leading integrated railway engin
 | Net Margin % | **-51%** | -87% | **-98%** | -34% | -38% | 41% | 0% | 5.4% | 4.2% | 6.0% | 9.1% | **9.6%** |
 | EPS (₹) | -12.82 | -18.66 | **-19.07** | -6.48 | -6.72 | 9.91 | -0.02 | 5.98 | 5.59 | 3.24 | 8.07 | **8.79** |
 | Interest | 19 | 22 | 21 | **27** | **28** | 22 | 6 | 21 | 18 | 29 | 41 | 53 |
-| EPS Growth % | — | N/M | N/M | N/M | N/M | N/M | N/M | N/M | -7% | -42% | **+149%** | +9% |
-| Shares Outstanding (Diluted, Cr) | 5.5 | 5.5 | 5.5 | 5.5 | 5.5 | 8.9 | 8.9 | **38.7** | 38.7 | 38.7 | 41.2 | **42.4** |
-| Shares Change YoY | — | 0% | 0% | 0% | 0% | **+62%** | 0% | **+335%** | 0% | 0% | +6.5% | +2.9% |
+| EPS Growth % | — | N/M | N/M | N/M | N/M | N/M | N/M | N/M | -7% | -42%‡ | **+149%** | +9% |
+| Shares Outstanding (Year-End, Cr)§ | 5.5 | 5.5 | 5.5 | 5.5 | 5.5 | 8.9 | 8.9 | **38.7** | 38.7 | 38.7 | 41.2 | **42.4** |
+| Shares Change YoY (Year-End) | — | 0% | 0% | 0% | 0% | **+62%** | 0% | **+335%** | 0% | 0% | +6.5% | +2.9% |
 | Dividend Payout % | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 15 | 7 | **15** |
+
+*FY2023 EPS Growth of -42% is a share-base artefact, not business deterioration. Net Income grew +150% (₹50 → ₹125 Cr), but EPS fell because Screener's weighted-average share count for EPS jumped from ~9 Cr (FY2022, pre-amalgamation WA) to ~38.7 Cr (FY2023, full-year post-amalgamation WA).*
+
+*Shares Outstanding shows year-end shares derived from Screener's Equity Capital ÷ ₹10 Face Value. These are year-end balance sheet figures. Screener's EPS, however, uses **weighted-average shares** for the year. For FY2021-FY2022, year-end shares were 38.7 Cr (post-amalgamation) but EPS was computed on WA shares of ~9 Cr (because the CEBBCO→Jupiter amalgamation occurred mid-FY2021, so the weighted-average for the full year remained low). This means NI ÷ Year-End Shares ≠ Screener's EPS for FY2021 (54/38.7 = ₹1.40 vs EPS ₹5.98) and FY2022 (50/38.7 = ₹1.29 vs EPS ₹5.59). From FY2023 onward, both bases converge and NI/Shares ≈ EPS.*
 
 *Note: Gross Profit and Gross Margin are not reported separately on Screener.in for JWL. The "Expenses" line bundles raw materials, employee costs, and other operating expenses without a COGS breakout. This is common for Indian industrial companies. OPM (pre-D&A) serves as the closest proxy for gross-level profitability.*
 
-*†Screener.in's "Operating Profit" = Sales − Expenses (excluding D&A). This is EBITDA-equivalent, not true EBIT. Per Buffett/Munger philosophy, this prompt tracks EBIT (after D&A) as the primary operating profitability metric. Buffett (2000 Letter): "References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?" Munger: "I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"*
+*Screener.in's "Operating Profit" = Sales − Expenses (excluding D&A). This is EBITDA-equivalent, not true EBIT. Per Buffett/Munger philosophy, this prompt tracks EBIT (after D&A) as the primary operating profitability metric. Buffett (2000 Letter): "References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?" Munger: "I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"*
 
 **Trend Narrative:** This is a **turnaround story**, not a steady compounder. FY2014-FY2020 was a period of losses, distress, and near-death (the old CEBBCO entity). The Jupiter Group took control in FY2019 via the resolution process, and the business was reborn. Post-FY2021, revenues have exploded from ₹996 Cr to ₹3,871 Cr (40% CAGR over 4 years), OPM (pre-D&A) has expanded from 11% to 14%, EBIT margin has expanded from 8.5% to 13.4%, and net profit has gone from ₹54 Cr to ₹373 Cr (62% CAGR). Earnings growth has massively outpaced revenue growth — a sign of operating leverage kicking in. Notably, EBIT margin expansion (8.5% → 13.4%, +490 bps on rounded endpoints) has *outpaced* OPM expansion (10.6% → 14.2%, +360 bps) — the ~130 bps gap (verified from precise unrounded data: 483 bps vs 352 bps = 131 bps) indicates that D&A as a percentage of revenue has *declined* (from ~2.1% to ~0.8%), meaning the business is becoming more capital-efficient, not less.
 
