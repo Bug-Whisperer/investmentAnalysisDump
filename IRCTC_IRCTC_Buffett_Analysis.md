@@ -585,7 +585,7 @@ Buffett: *"The stock market is a no-called-strike game. You don't have to swing 
 | Downside Scenario | Valuation Basis | Implied Price | Downside from CMP |
 |---|---|---|---|
 | **Asset / Liquidation Floor** | Tangible Book Value Per Share (₹45.79) | ₹46 | -92% |
-| **Recession / Trough Earnings** | Pre-COVID trough EPS (₹6.41) × 12x PE | ₹77 | -86% |
+| **Recession / Trough Earnings** | Worst non-COVID EPS on 80 Cr base: FY19's ₹3.86 × 12x PE | ₹46 | -92% |
 | **Normalised Bear Case** | Conservative DCF (Section 15) | ₹422 | -25% |
 | **"Business-is-fine-but-market-panics" Floor** | Historical lowest PE (~20x) × current normalised EPS (₹17.80) | ₹356 | -37% |
 
