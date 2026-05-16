@@ -12,6 +12,8 @@
 
 ---
 
+---
+
 ## 1. THE BUSINESS — Understanding the Economic Engine
 
 Meta Platforms is the world's dominant social media and digital advertising company, operating a family of apps — Facebook, Instagram, WhatsApp, Messenger, and Threads — that collectively reach **3.58 billion daily active people** (DAP) as of December 2025, roughly 44% of the world's population.
@@ -29,6 +31,8 @@ Meta also operates **Reality Labs**, its augmented/virtual reality division (Que
 Buffett: *"I try to invest in businesses that are so wonderful that an idiot can run them. Because sooner or later, one will."* Meta's advertising business is close to this ideal — the demand is self-sustaining, the product improves automatically with more users, and the AI recommendation engine continuously optimises itself.
 
 **Would Buffett understand it?** Yes. Digital advertising is simply the modern version of newspaper classified ads and TV commercials — industries Buffett invested in heavily through the Washington Post and Capital Cities/ABC. The difference is that Meta's targeting precision and global reach are orders of magnitude better.
+
+---
 
 ---
 
@@ -52,18 +56,19 @@ Buffett: *"I try to invest in businesses that are so wonderful that an idiot can
 | EPS (Diluted) | $3.58 | $5.39 | $7.57 | $6.43 | $10.09 | $13.77 | **$8.59** | $14.87 | **$23.86** | $23.49 |
 | EPS Growth | — | 50.6% | 40.3% | -15.1% | 56.9% | 36.5% | **-37.6%** | 73.1% | **60.5%** | -1.6% |
 | Shares (Diluted, M) | **2,853** | 2,956 | 2,921 | 2,876 | 2,888 | 2,859 | 2,702 | 2,629 | 2,614 | **2,574** |
+| Shares Change YoY | — | +3.6% | -1.2% | -1.5% | +0.4% | -1.0% | **-5.5%** | -2.7% | -0.6% | -1.5% |
 
-> **Note — Why EBIT, not EBITDA:** This analysis deliberately tracks **EBIT** (Operating Profit minus D&A) as the true operating profit metric, and excludes standalone EBITDA. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* Screener's "Operating Profit" is EBITDA-equivalent (pre-D&A); EBIT captures what the business earns after maintaining its asset base. With Meta's D&A surging from $2.3B to $18.6B over the period, the gap between EBITDA and EBIT has widened dramatically — EBITDA would mask the rising capital intensity of Meta's AI infrastructure buildout.
+> **Note — Why EBIT, not EBITDA:** This analysis deliberately tracks **EBIT** (Operating Profit minus D&A) as the true operating profit metric, and excludes standalone EBITDA. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* For Meta, Operating Income per SEC filings IS EBIT (already post-D&A). The pre-D&A row is computed as EBIT + D&A. With D&A surging from $2.3B to $18.6B, the gap between pre-D&A margins (50.7%) and EBIT margins (41.4%) reveals the rising capital intensity of AI infrastructure — a pattern EBITDA-based analysis would mask.
 
 ### Trend Narrative
 
-**Revenue:** A remarkable ~25% CAGR over 9 years (2016–2025), compounding from $28B to $201B. The only wobble was FY2022 (-1.1%), caused by Apple's iOS privacy changes (ATT) and a post-COVID ad spending pullback. The recovery was swift and powerful — revenue reaccelerated to 15.7%, 21.9%, and 22.2% in subsequent years, demonstrating the durability of the advertising franchise.
+**Revenue:** A remarkable ~25% CAGR over 9 years (2016–2025), compounding from $28B to $201B. The only wobble was FY2022 (-1.1%), caused by Apple's iOS privacy changes (ATT) and a post-COVID ad spending pullback. The recovery was swift — revenue reaccelerated to 15.7%, 21.9%, and 22.2% in subsequent years, demonstrating the durability of the advertising franchise.
 
-**Margins:** Pre-D&A operating profit margins (OPM) have ranged from 36.2% (FY2022 trough) to 56.7% (FY2017 peak), with FY2025 at a healthy 50.7%. **EBIT Margin** — the true operating profitability after D&A — collapsed from 39.6% in FY2021 to 28.8% in FY2022, then rebounded to 42.2% in FY2024 before settling at 41.4% in FY2025. The gap between OPM and EBIT Margin has widened from ~7pp (FY2021) to ~9pp (FY2025), reflecting the rising D&A burden from Meta's AI infrastructure buildout — a pattern that EBITDA-based analysis would completely mask. Gross margins have been remarkably stable at 80-82%, proving that the core ad business economics are resilient.
+**Margins:** Pre-D&A operating profit margins (OPM) have ranged from 36.2% (FY2022 trough) to 56.7% (FY2017 peak), with FY2025 at 50.7%. **EBIT Margin** collapsed from 39.6% (FY2021) to 28.8% (FY2022), then rebounded to 42.2% (FY2024) before settling at 41.4% in FY2025. The widening OPM-to-EBIT gap (~7pp in FY2021 → ~9pp in FY2025) reflects rising D&A from the AI infrastructure buildout.
 
-**EPS:** FY2025 reported EPS of $23.49 includes a one-time $15.9B non-cash tax charge in Q3 2025 (related to the Corporate Alternative Minimum Tax). **Normalised FY2025 EPS is approximately $29.70** ($6.43 + $7.14 + $7.25 + $8.88, where $7.25 replaces the distorted Q3 EPS of $1.05). This distinction is critical for valuation.
+**EPS:** FY2025 reported EPS of $23.49 includes a one-time $15.9B non-cash tax charge in Q3 2025. **Normalised FY2025 EPS is approximately $29.70** ($6.43 + $7.14 + $7.25 + $8.88). This distinction is critical for valuation.
 
-Buffett: *"Earnings can be as pliable as putty when a charlatan heads the company reporting them."* In Meta's case, the Q3 2025 distortion is a genuine one-time tax event — not management manipulation. Normalised earnings reveal the true earning power.
+Buffett: *"Earnings can be as pliable as putty when a charlatan heads the company reporting them."* In Meta's case, the Q3 2025 distortion is a genuine one-time tax event — not management manipulation.
 
 ---
 
@@ -74,26 +79,27 @@ Buffett: *"Earnings can be as pliable as putty when a charlatan heads the compan
 | Cash & Investments | 29,449 | 41,711 | 42,306 | 54,855 | 61,954 | 47,998 | 40,738 | 65,403 | 77,815 | **81,592** |
 | Total Assets | 65,023 | 84,524 | 97,334 | 133,376 | 159,316 | 165,987 | 185,727 | 229,623 | 276,054 | **366,021** |
 | Total Debt | 0 | 0 | 0 | 0 | 0 | 0 | 9,922 | 18,385 | 28,826 | **58,744** |
+| Total Liabilities | 5,767 | 10,177 | 13,207 | 32,322 | 31,026 | 41,108 | 60,014 | 76,455 | 93,417 | **148,778** |
 | Shareholders' Equity | 59,194 | 74,347 | 84,127 | 101,054 | 128,290 | 124,879 | 125,713 | 153,168 | 182,637 | **217,243** |
 | Net Cash/(Debt) | 29,449 | 41,711 | 42,306 | 54,855 | **61,954** | 47,998 | 30,816 | 47,018 | 48,989 | 22,848 |
-| Debt/Equity | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.08 | 0.12 | 0.16 | **0.27** |
-| BVPS | $20.75 | $25.15 | $28.80 | $35.14 | $44.42 | $43.68 | $46.53 | $58.26 | $69.87 | **$84.40** |
 | Goodwill | 18,241 | 18,621 | 18,301 | 19,068 | 19,050 | 19,197 | 20,306 | 20,654 | 20,654 | ~28,226 |
+| Tangible BV Per Share | $14.35 | $18.85 | $22.54 | $28.51 | $37.83 | $36.96 | $39.01 | $50.40 | $61.97 | **$73.43** |
+| Book Value Per Share | $20.75 | $25.15 | $28.80 | $35.14 | $44.42 | $43.68 | $46.53 | $58.26 | $69.87 | **$84.40** |
+| Debt/Equity | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.08 | 0.12 | 0.16 | **0.27** |
 | Debt/EBIT | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.30 | 0.39 | 0.42 | **0.71** |
-| Interest Coverage (EBIT/Int.) | N/A | N/A | N/A | N/A | N/A | N/A | 192x | 83x | 75x | **49x** |
 | Net Debt/Owner Earnings | N/M | N/M | N/M | N/M | N/M | N/M | -1.4x | -1.1x | -0.7x | **-0.4x** |
+| Interest Coverage (EBIT/Int.) | N/A | N/A | N/A | N/A | N/A | N/A | 192x | 83x | 75x | **49x** |
+| Current Ratio | 6.2x | 6.4x | 6.5x | 3.9x | 4.4x | 2.8x | **1.9x** | 2.3x | 2.6x | 2.4x |
 
-> **Why Debt/EBIT instead of Debt/EBITDA:** EBITDA pretends capital consumption is free. Meta's D&A has surged from $2.3B (FY2016) to $18.6B (FY2025) as AI infrastructure ages — using EBITDA would make debt coverage look artificially comfortable. Debt/EBIT = 0.71x and Interest Coverage = 49x still show a fortress balance sheet, but honestly. Net Debt/Owner Earnings is negative (net cash exceeds debt), confirming no leverage concern.
+> **Why Debt/EBIT instead of Debt/EBITDA:** EBITDA pretends capital consumption is free. Meta's D&A has surged to $18.6B — using EBITDA would make debt coverage look artificially comfortable. Debt/EBIT = 0.71x and Interest Coverage = 49x show a fortress balance sheet, honestly. Net Debt/Owner Earnings is negative (net cash exceeds debt).
 
 ### Assessment
 
-Meta was **entirely debt-free** through FY2021 — a genuine financial fortress. It began taking on debt from FY2022, primarily to finance share buybacks at attractive prices and fund AI infrastructure. Even with $58.7B in long-term debt by FY2025, D/E remains a very comfortable 0.27x, and the company holds $81.6B in cash and investments — maintaining a **net cash position of ~$22.8B**.
+Meta was **entirely debt-free** through FY2021 — a genuine financial fortress. It began taking on debt from FY2022, primarily to finance share buybacks and AI infrastructure. Even with $58.7B in long-term debt by FY2025, D/E remains a comfortable 0.27x, and the company holds $81.6B in cash — maintaining a **net cash position of ~$22.8B**.
 
-However, the trajectory is notable: Net cash has shrunk from $62B (FY2020) to $23B (FY2025) as the company finances massive AI capex ($70B in FY2025) and buybacks. If capex guidance of $115-135B for FY2026 materialises, the balance sheet will be under significantly more stress.
+Buffett: *"Cash combined with courage in a time of crisis is priceless."* Meta's balance sheet still qualifies as a fortress, but it is no longer the impregnable castle it was in 2020.
 
-Buffett: *"Cash combined with courage in a time of crisis is priceless."* Meta's balance sheet still qualifies as a fortress, but it is no longer the impregnable castle it was in 2020. The rising leverage bears watching.
-
-**BVPS Compounding:** Book value per share has compounded from $20.75 (2016) to $84.40 (2025) — a 16.9% CAGR over 9 years — while shares outstanding DECLINED from 2.85B to 2.57B (-9.8%). This dual engine of book value growth + share count reduction is the hallmark of a Buffett-quality capital allocator.
+**BVPS Compounding:** Book value per share has compounded from $20.75 (2016) to $84.40 (2025) — a 16.9% CAGR over 9 years — while shares outstanding DECLINED from 2.85B to 2.57B (-9.8%).
 
 ---
 
@@ -104,6 +110,7 @@ Buffett: *"Cash combined with courage in a time of crisis is priceless."* Meta's
 | Operating Cash Flow | 16,108 | 24,216 | 29,274 | 36,314 | 38,747 | 57,683 | 50,475 | 71,113 | 91,328 | **115,800** |
 | Capital Expenditures | 4,491 | 6,733 | 13,915 | 15,102 | 15,115 | 18,567 | 31,186 | 27,045 | 37,256 | **69,691** |
 | Free Cash Flow | 11,617 | 17,483 | 15,359 | 21,212 | 23,632 | **39,116** | **19,289** | 44,068 | **54,072** | 46,109 |
+| FCF Per Share | $4.07 | $5.91 | $5.26 | $7.38 | $8.18 | **$13.68** | **$7.14** | $16.76 | **$20.69** | $17.91 |
 | FCF Margin % | 42.0% | 43.0% | 27.5% | 30.0% | 27.5% | 33.2% | **16.5%** | 32.7% | 32.9% | **22.9%** |
 | SBC | 3,218 | 3,726 | 4,543 | 5,765 | 6,536 | 9,164 | 11,677 | 14,027 | 16,749 | **19,550** |
 | Share Buybacks | 1,810 | 1,975 | 12,902 | 24,261 | 6,252 | **44,537** | 27,956 | 20,030 | 30,169 | 26,200 |
@@ -116,6 +123,8 @@ The single most striking feature of Meta's cash flows is the **capex explosion**
 **FCF Quality Concern:** SBC of $19.6B in FY2025 (9.7% of revenue, 25.6% of normalised net income) is a real economic cost that flatters reported FCF. Adjusting for SBC, the true free cash flow is lower — approximately $26.5B.
 
 Total capital returned to shareholders (2016-2025): ~$206.5B ($196B buybacks + $10.4B dividends). This is extraordinary shareholder friendliness — Meta has returned almost 65% of its total net income over this period.
+
+---
 
 ---
 
@@ -133,7 +142,11 @@ Total capital returned to shareholders (2016-2025): ~$206.5B ($196B buybacks + $
 | **EBIT Margin %** | 45.0 | **49.7** | 44.6 | 33.9 | 38.0 | 39.6 | **28.8** | 34.7 | **42.2** | 41.4 |
 | NPM % | 37.0 | 39.2 | **39.6** | 26.1 | 33.9 | 33.4 | **19.9** | 29.0 | **37.9** | 30.1 |
 | FCF Margin % | **42.0** | 43.0 | 27.5 | 30.0 | 27.5 | 33.2 | **16.5** | 32.7 | 32.9 | 22.9 |
+| Current Ratio | 6.2 | 6.4 | 6.5 | 3.9 | 4.4 | 2.8 | **1.9** | 2.3 | 2.6 | 2.4 |
+| Interest Coverage (EBIT/Int.) | N/A | N/A | N/A | N/A | N/A | N/A | 192x | 83x | 75x | **49x** |
 | Dividend Payout % | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 8.2 | 8.8 |
+
+> **Note on Working Capital Metrics:** Debtor Days, Inventory Days, Cash Conversion Cycle, and Working Capital Days are not meaningful for Meta's business model. Meta is a digital platform — it carries no physical inventory, its receivables cycle is short (ad payments settle within 30-60 days), and its working capital is structurally negative (it collects ad revenue before paying most operating costs). These metrics add signal for manufacturing, retail, and distribution businesses but are noise for asset-light platform businesses.
 
 ### Part B: Buffett's Quality Checklist
 
@@ -158,6 +171,12 @@ Total capital returned to shareholders (2016-2025): ~$206.5B ($196B buybacks + $
 
 The two caution flags — EBIT Margin volatility and moderate earnings yield — are important. EBIT margins have swung dramatically (28.8% to 49.7%) driven by management's willingness to dramatically increase and then cut spending. The pre-D&A operating margin (OPM) is even more volatile at 36.2-56.7%, but EBIT Margin is the honest metric because it captures the rising D&A burden from the AI capex surge — a distinction that EBITDA-based analysis would miss entirely.
 
+> *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
+
+The consistently high ROCE (27.0% 10Y avg) and ROE (25.9% avg) signal durable pricing power — Meta's network effects allow it to earn extraordinary returns on capital that no competitor can replicate. The widening OPM-to-EBIT Margin gap, however, is a moat-maintenance cost: the AI infrastructure required to defend the advertising franchise is becoming more expensive. The moat is wide but the cost of maintaining it is rising.
+
+---
+
 ---
 
 ## 6. QUARTERLY TREND ANALYSIS — Recent Momentum
@@ -172,6 +191,7 @@ The two caution flags — EBIT Margin volatility and moderate earnings yield —
 | **EBIT ($M)** | 7,161 | 9,408 | 13,658 | 16,365 | 13,816 | 14,964 | 17,372 | **23,370** | 17,518 | 19,953 | 20,548 | **24,676** |
 | **EBIT Margin %** | 25.0 | 29.4 | 40.0 | 40.8 | 37.9 | 38.3 | 42.8 | **48.3** | 41.4 | 41.7 | 40.1 | 41.2 |
 | Net Income ($B) | 5.7 | 7.8 | 11.6 | 14.0 | 12.4 | 13.5 | 15.7 | **20.8** | 16.6 | 18.3 | **2.7*** | 22.8 |
+| NPM % | 19.9 | 24.3 | 33.9 | 34.9 | 33.9 | 34.5 | 38.7 | **43.1** | 39.3 | 38.3 | **5.3*** | 38.0 |
 | EPS (Diluted) | $2.20 | $2.98 | $4.39 | $5.33 | $4.71 | $5.16 | $6.03 | **$8.02** | $6.43 | $7.14 | **$1.05*** | $8.88 |
 | DAP (Billions) | 3.0 | 3.1 | 3.1 | 3.2 | 3.2 | 3.3 | 3.3 | 3.4 | 3.4 | 3.5 | 3.5 | **3.6** |
 
@@ -186,6 +206,8 @@ The two caution flags — EBIT Margin volatility and moderate earnings yield —
 **Normalised Quarterly EPS Run-Rate:** Excluding the Q3 2025 one-time tax, the quarterly run-rate is approximately $7.25-8.88, implying a normalised annualised EPS of ~$29-30 for FY2025.
 
 **Verdict: ACCELERATING** — Revenue growth is strong and broadening (WhatsApp monetisation, AI-driven ad performance). The business is firing on all cylinders operationally even as management deliberately invests heavily for the next cycle. This is a **Buffett-quality compounding machine** in the investment phase.
+
+---
 
 ---
 
@@ -213,6 +235,12 @@ Buffett: *"I look for three things: integrity, intelligence, and energy. And if 
 
 ---
 
+> *"Be fearful when others are greedy, and greedy when others are fearful."* — Warren Buffett
+
+The strong institutional accumulation signals that professional investors view Meta as a core holding — the opposite of fearful selling. This is not a contrarian setup; it is consensus smart-money positioning.
+
+---
+
 ## 8. CAPEX QUALITY ANALYSIS — Growth vs. Maintenance CapEx
 
 | Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026E |
@@ -224,20 +252,13 @@ Buffett: *"I look for three things: integrity, intelligence, and energy. And if 
 
 ### Growth vs. Maintenance CapEx Estimate
 
-Meta's capex serves two purposes: (a) maintaining the existing data centre and network infrastructure that supports 3.58B DAP (maintenance), and (b) building massive new AI training/inference infrastructure (growth). Based on pre-AI capex levels ($15-18B annually) and infrastructure age, estimated maintenance capex is approximately **$20-21B** (~30% of FY2025 total). The remaining **~$49B** is growth capex — pure investment in AI capabilities.
+Meta's capex serves two purposes: (a) maintaining existing data centre and network infrastructure for 3.58B DAP (maintenance), and (b) building massive new AI training/inference infrastructure (growth). Based on pre-AI capex levels ($15-18B annually) and infrastructure age, estimated maintenance capex is approximately **$20-21B** (~30% of FY2025 total). The remaining **~$49B** is growth capex.
 
 ### Owner Earnings (Buffett's Preferred Metric)
 
-```
-Owner Earnings = Net Income + D&A - Maintenance CapEx
+**Base Owner Earnings = Net Income + D&A − Maintenance CapEx**
 
-FY2025 (Reported): $60,458M + $18,616M - $20,907M = $58,167M ($22.60/share)
-FY2025 (Normalised*): $76,388M + $18,616M - $20,907M = $74,097M ($28.79/share)
-
-*Adds back $15.93B one-time non-cash Q3 2025 tax charge (Corporate Alternative Minimum Tax)
-```
-
-| Year | Net Income | + D&A | - Maint. CapEx | = Owner Earnings | OE/Share |
+| Year | Net Income | + D&A | - Maint. CapEx (30%) | = Base OE | OE/Share |
 |---|---|---|---|---|---|
 | FY2021 | 39,370 | 7,967 | 5,570 | **41,767** | **$14.61** |
 | FY2022 | 23,200 | 8,686 | 9,356 | **22,530** | **$8.34** |
@@ -246,11 +267,57 @@ FY2025 (Normalised*): $76,388M + $18,616M - $20,907M = $74,097M ($28.79/share)
 | FY2025 (Reported) | 60,458 | 18,616 | 20,907 | **58,167** | **$22.60** |
 | **FY2025 (Normalised)** | **76,388** | **18,616** | **20,907** | **74,097** | **$28.79** |
 
-> **Note:** For valuation purposes (DCF in Section 15), the **normalised** Owner Earnings of $74.1B should be used, consistent with the normalised EPS of $29.70 used throughout Sections 14, 16, and 18. Using reported OE (which includes the one-time $15.9B tax charge) would understate intrinsic value by ~27%.
+### SBC & Share Dilution Analysis — The Hidden Cash Cost to Shareholders
 
-**SBC Reality Check:** SBC of $19.6B (9.7% of revenue, 25.6% of normalised net income) is a meaningful economic cost that inflates both reported earnings and FCF. Adjusting *reported* Owner Earnings for SBC yields ~$38.6B; adjusting *normalised* Owner Earnings for SBC yields ~$54.5B — a more representative figure given the one-time Q3 2025 tax charge.
+> **SBC Materiality Gate:** Meta's FY2025 SBC of $19.6B is **25.6% of normalised net income** — far above the 5% threshold. Meta also runs an active buyback programme ($26.2B in FY2025). Per the template: **Full SBC & Dilution Analysis is MANDATORY, and the DCF must use Dilution-Adjusted Owner Earnings.**
 
-Buffett: *"We consider stock-based compensation to be a real expense… It represents a transfer of wealth from current shareholders to new shareholders."*
+Buffett: *"If options aren't a form of compensation, what are they? If compensation isn't an expense, what is it? And if expenses shouldn't go into the calculation of earnings, where in the world should they go?"*
+
+#### SBC & Dilution Table
+
+| Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Cumulative† |
+|---|---|---|---|---|---|---|---|
+| GAAP SBC Expense ($B) | 6.5 | 9.2 | 11.7 | 14.0 | 16.7 | **19.6** | **95.0** |
+| SBC as % of Revenue | 7.6% | 7.8% | **10.0%** | 10.4% | 10.2% | 9.7% | — |
+| SBC as % of Net Income | 22% | 23% | **50%** | 36% | 27% | 32% | — |
+| Gross SBC Shares Issued (M) | ~25 | ~28 | **~63** | ~46 | ~33 | ~35 | ~338 |
+| Shares Repurchased (M) | ~24 | **~134** | ~150 | ~66 | ~60 | ~47 | ~589 |
+| Net Dilution/(Accretion) (M) | +1 | -107 | -88 | -20 | -27 | -12 | **-279** |
+| Basic Shares Outstanding (M) | 2,770 | 2,741 | 2,571 | 2,530 | 2,499 | **2,450** | — |
+| Diluted Shares (M) | 2,888 | 2,859 | 2,702 | 2,629 | 2,614 | **2,574** | — |
+| Basic-to-Diluted Gap (M) | 118 | 118 | **131** | 99 | 115 | **124** | — |
+| YoY Change in Diluted Shares | +0.4% | -1.0% | **-5.5%** | -2.7% | -0.6% | -1.5% | — |
+| Total Buyback Spend ($B) | 6.3 | **44.5** | 28.0 | 20.0 | 30.2 | 26.2 | **196.1** |
+| Cash Cost of Anti-Dilution BBs ($B) | 6.3‡ | 9.2 | 11.7 | 14.0 | 16.7 | **19.6** | **95.0** |
+| **True Shareholder Buyback ($B)** | 0.0 | **35.4** | 16.3 | 6.0 | 13.4 | 6.7 | **101.1** |
+| Reported FCF ($B) | 23.6 | **39.1** | **19.3** | 44.1 | **54.1** | 46.1 | **292.0** |
+| **Dilution-Adj Owner Earnings ($B)** | 24.9 | 32.6 | 10.9 | 28.1 | 49.9 | **54.5*** | — |
+
+*†Cumulative column reflects FY2016-2025 lifecycle totals (10 years), not limited to the FY2020-2025 period shown in the table.*
+
+*‡FY2020 anti-dilution cost capped at total buyback spend ($6.3B) since buybacks ($6.3B) < SBC ($6.5B). The 1.0x GAAP-to-cash ratio holds on a cumulative basis since 10-year buybacks ($196B) far exceed 10-year SBC ($95B), but breaks down in individual years where buybacks < SBC.*
+
+*\*FY2025 Dilution-Adjusted OE uses normalised NI. Dilution-Adj OE = Base OE ($74.1B) − Anti-Dilution Buyback Cost ($19.6B) = $54.5B ($21.19/share).*
+
+#### Seven Required SBC Analyses
+
+**1. Gross vs. Net Dilution Trend:** Meta has issued ~338M shares through SBC over FY2020-2025 while repurchasing ~589M — a net **accretion of 279M shares** (-9.8% reduction). Unlike NVIDIA, Meta's buybacks have decisively EXCEEDED SBC dilution. The diluted share count has fallen every year since FY2020.
+
+**2. SBC Treadmill Test:** Of $196.1B in cumulative buybacks, $95.0B (48%) was consumed offsetting SBC dilution. The remaining $101.1B (52%) genuinely reduced the share count. **Rating: 🟡 25-50%** — meaningful portion of buybacks is running in place. True capital return is materially less than headline numbers suggest.
+
+**3. GAAP Expense vs. Cash Reality Gap:** For Meta, unlike NVIDIA, the GAAP SBC expense ($95.0B cumulative) approximately equals the anti-dilution buyback cost ($95.0B) — a 1.0x ratio. This is because Meta's stock appreciation during the vesting period has been moderate relative to the grant-date values. The GAAP expense is a reasonable approximation of the true economic cost.
+
+**4. Dilution-Adjusted OE vs. Reported Metrics:** Normalised FY2025: Reported NI = $76.4B, Reported FCF = $46.1B, Base OE = $74.1B, **Dilution-Adjusted OE = $54.5B**. The gap: Base OE overstates Dilution-Adjusted OE by 36%. Reported FCF, however, is LOWER than Dilution-Adjusted OE because FCF deducts ALL capex (including growth), while OE only deducts maintenance capex.
+
+**5. SBC Trajectory:** SBC as % of revenue has stabilised at 9.7-10.4% — not improving. SBC as % of NI has improved from 50% (FY2022) to 25.6% (FY2025 normalised) due to earnings growth. In absolute dollars, SBC continues to grow ($16.7B → $19.6B).
+
+**6. GAAP vs. Non-GAAP Earnings Gap:** Meta does not emphasise non-GAAP metrics as heavily as some peers. However, GAAP Net Income already deducts $19.6B of SBC — so GAAP earnings are the correct starting point, not non-GAAP.
+
+**7. Basic vs. Diluted Share Count Gap:** The gap has remained in the 99-131M range over the analysis period, currently at 124M (FY2025). The gap peaked at 131M in FY2022 (when heavy SBC issuance during the spending surge created a larger unvested overhang) and has since moderated — a stable, not growing, SBC overhang.
+
+> Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* The same logic applies to reported FCF that ignores the cash cost of anti-dilution buybacks.
+
+**DCF Starting Point Decision:** Per the template, Meta's material SBC (25.6% of NI) with active buybacks requires the DCF in Section 15 to use **Dilution-Adjusted Owner Earnings of $54.5B ($21.19/share)** as the starting cash flow — not Base OE ($74.1B). Note: since Meta's GAAP-to-cash ratio is 1.0x (unlike NVIDIA's 5.5x), the theoretical double-count overlap is nearly 100% — the GAAP SBC expense already captures the full economic cost. The Dilution-Adjusted figure is therefore a **conservatively honest** lower bound. The truth likely lies between $54.5B and $74.1B, but intellectual honesty demands using the conservative figure when real money is at stake.
 
 ---
 
@@ -270,6 +337,10 @@ Buffett: *"We consider stock-based compensation to be a real expense… It repre
 **ROA: 19.7% average** — Critically, ROA is high. This means the high ROE is driven by genuine business profitability, NOT by leverage. Meta's equity multiplier is only 1.6x — very conservative for a company of this scale.
 
 Buffett: *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* Meta meets this test emphatically — it reinvests tens of billions at 25%+ ROIC.
+
+> **DuPont Decomposition** — For the full 3-factor DuPont breakdown (Net Profit Margin × Asset Turnover × Equity Multiplier = ROE), see Section 17 Part A. Key finding: Meta's ROE is driven by high margins (37% normalised NPM) with modest leverage (1.6x equity multiplier) — the quality pattern Buffett prefers.
+
+---
 
 ---
 
@@ -298,6 +369,8 @@ Buffett: *"We do not get enthused about change… we're looking for the absence 
 This is Meta's **weakest point from a Buffett perspective**. The tech sector changes rapidly — social media platforms rise and fall (Myspace, Friendster, Vine). However, Meta has proven uniquely durable: Facebook has been the dominant social platform for 22 years; Instagram has maintained dominance for 14 years; WhatsApp is the world's primary messaging app. The risk of disruption is real but has been consistently overestimated by the market.
 
 **Moat Verdict: WIDE but under constant competitive pressure. The moat is enduring but requires continuous reinvestment (AI, product innovation) to maintain.** This is more American Express than Coca-Cola — the moat is strong but needs active defence.
+
+---
 
 ---
 
@@ -342,6 +415,8 @@ The FY2023-2024 period showed **elite scaling** — incremental EBIT margins of 
 
 ---
 
+---
+
 ## 12. MANAGEMENT QUALITY & BUFFETT'S $1 TEST
 
 ### Buffett's $1 Test
@@ -368,6 +443,8 @@ Buffett: *"It's not necessary to do extraordinary things to get extraordinary re
 
 ---
 
+---
+
 ## 13. OPERATING METRICS — Industry-Specific KPIs
 
 | Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
@@ -390,62 +467,115 @@ Buffett: *"It's not necessary to do extraordinary things to get extraordinary re
 
 ---
 
+---
+
 ## 14. VALUATION ANALYSIS — The Price You Pay Determines Your Return
 
 | Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | Current |
 |---|---|---|---|---|---|---|
-| **P/Owner Earnings** (primary Buffett-pure) | ~24x | ~18x | ~20x | ~19x | ~23x | **23.9x (normalised)** |
-| **Owner Earnings Yield** | 4.2% | 5.5% | 5.1% | 5.3% | 4.3% | **4.2% (normalised)** |
-| PE Ratio | ~28x | ~24x | ~13x | ~33x | ~26x | **29.2x (reported) / 23.1x (normalised)** |
+| **P/Owner Earnings** (primary Buffett-pure) | ~24x | ~18x | ~20x | ~19x | ~23x | **23.9x (Base, norm.)** |
+| **P/Dilution-Adj OE** (most honest) | — | — | — | — | — | **32.4x** |
+| **Owner Earnings Yield (Base)** | 4.2% | 5.5% | 5.1% | 5.3% | 4.3% | **4.2%** |
+| **OE Yield (Dilution-Adjusted)** | — | — | — | — | — | **3.1%** |
+| PE Ratio | ~28x | ~24x | ~13x | ~33x | ~26x | **29.2x (rep.) / 23.1x (norm.)** |
+| Forward PE | — | — | — | — | — | **22.9x** (FY2026E EPS ~$30) |
 | P/B Ratio | ~7.0x | ~7.3x | ~4.3x | ~6.5x | ~8.5x | **8.1x** |
+| P/S Ratio | — | — | — | — | — | **8.8x** |
 | P/FCF | ~24x | ~19x | ~23x | ~18x | ~28x | **38.4x** |
 | EV/EBIT | ~22x | ~19x | ~9x | ~19x | ~21x | **21.0x** |
-| Earnings Yield | 3.5% | 4.2% | 7.8% | 3.0% | 3.8% | **3.4% / 4.3% (norm)** |
+| Earnings Yield | 3.5% | 4.2% | 7.8% | 3.0% | 3.8% | **3.4% / 4.3% (norm.)** |
 | FCF Yield | 4.2% | 5.4% | 4.3% | 5.6% | 3.6% | **2.6%** |
 | Dividend Yield | 0% | 0% | 0% | 0% | 0.3% | **0.3%** |
+| PEG Ratio | — | — | — | — | — | **1.04x** (PE 23.1 / EPS Gr 22.2%) |
 
-> **Why P/Owner Earnings is the primary multiple:** P/Owner Earnings uses Buffett's preferred measure of true economic cash flow (Net Income + D&A − Maintenance CapEx). Unlike PE, it accounts for the capital the business consumes; unlike P/FCF, it excludes growth capex and isn't inflated by SBC add-backs. **EV/EBIT** is included as a secondary cross-check for institutional comparability — Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets. EV/EBITDA is excluded entirely per Buffett and Munger's explicit philosophy.
+> **Why P/Owner Earnings is the primary multiple:** P/Owner Earnings uses Buffett's preferred measure of true economic cash flow. **P/Dilution-Adjusted OE** (32.4x) is the most honest multiple for Meta given its material SBC — it captures the full cost of compensating employees with equity. **EV/EBIT** is a secondary cross-check for institutional comparability. EV/EBITDA is excluded per Buffett/Munger philosophy.
+
+> **SBC Warning:** At 25.6% of normalised NI, Meta's SBC significantly distorts FCF-based multiples. P/FCF (38.4x) looks expensive because it deducts ALL capex; P/Base OE (23.9x) looks cheap because it ignores SBC's cash cost. P/Dilution-Adjusted OE (32.4x) splits the difference honestly.
 
 ### Historical Comparison
 
-At 29.2x reported PE (23.1x normalised), Meta trades near its historical median range. The stock briefly traded as cheap as 9-13x PE in late 2022 — that was a once-in-a-decade opportunity that has passed. Current valuation is **fair but not cheap** by any measure.
-
-The P/FCF of 38x is elevated because of the massive capex surge. On a normalised capex basis ($35-40B rather than $70B), P/FCF would be ~22-25x — more reasonable.
+At 23.1x normalised PE, Meta trades near its historical median. The stock briefly traded at 9-13x PE in late 2022 — a once-in-a-decade opportunity. Current valuation is **fair on PE, but the Dilution-Adjusted P/OE of 32.4x suggests the stock is more fully priced than headline PE implies.**
 
 ---
 
 ## 15. INTRINSIC VALUE & MARGIN OF SAFETY
 
-### DCF Using Normalised Owner Earnings ($74.1B starting point, 10% discount rate)
+### DCF Using Dilution-Adjusted Owner Earnings ($54.5B starting point, 10% discount rate)
 
-> **Note:** The DCF uses **normalised** FY2025 Owner Earnings of $74.1B (adding back the one-time $15.9B Q3 2025 non-cash tax charge), consistent with the normalised EPS of $29.70 used in Sections 14, 16, and 18.
+> **Starting OE choice:** Per the template mandate for material-SBC companies with active buybacks, this DCF uses **Dilution-Adjusted Owner Earnings of $54.5B** — which deducts the $19.6B cash cost of anti-dilution buybacks from the normalised Base OE of $74.1B. This is the conservatively honest figure representing cash genuinely available to the owner. Note: since Meta's GAAP-to-cash SBC ratio is 1.0x, the Base OE ($74.1B) may be more representative — the "true" IV likely falls between the two DCFs. Both are presented for transparency.
+
+#### Full DCF Breakdown (Base Case)
+
+| Component | Amount |
+|---|---|
+| Starting Dilution-Adjusted OE | $54,500M |
+| PV of Phase 1 Cash Flows (Yrs 1-5, 15% growth) | $312,300M |
+| PV of Phase 2 Cash Flows (Yrs 6-10, 10% growth) | $340,600M |
+| Terminal Value (3.5% perpetual growth) | $2,814,000M |
+| PV of Terminal Value | $1,084,700M |
+| **Total Enterprise Value** | **$1,737,600M** |
+| Plus: Net Cash | $22,848M |
+| **Equity Intrinsic Value** | **$1,760,400M** |
+| Diluted Shares | 2,574M |
+| **Intrinsic Value Per Share** | **$684** |
+
+#### Summary Table — Three Scenarios
 
 | Scenario | Gr. Yrs 1-5 | Gr. Yrs 6-10 | Terminal | IV/Share | MoS (IV-CMP)/IV | Upside |
 |---|---|---|---|---|---|---|
-| **Conservative** | 10% | 6% | 3% | **$634** | **-8.4%** | -7.8% |
-| **Base Case** | 15% | 10% | 3.5% | **$926** | **25.8%** | +34.8% |
-| **Optimistic** | 20% | 12% | 4% | **$1,276** | **46.1%** | +85.7% |
+| **Conservative** | 10% | 6% | 3% | **$469** | **-46.5%** | -31.8% |
+| **Base Case** | 15% | 10% | 3.5% | **$684** | **-0.4%** | -0.4% |
+| **Optimistic** | 20% | 12% | 4% | **$941** | **27.0%** | +37.0% |
+
+#### For Reference — Base OE DCF (excludes SBC cash cost)
+
+| Scenario | IV/Share (Base OE) | IV/Share (Dil-Adj OE) | Difference |
+|---|---|---|---|
+| Conservative | $634 | $469 | -26% |
+| Base Case | $926 | $684 | -26% |
+| Optimistic | $1,276 | $941 | -26% |
 
 ### Interpretation
 
-At the current price of ~$687, the base-case DCF suggests Meta is **meaningfully undervalued**, with an intrinsic value of ~$926 per share implying ~35% upside and a 26% margin of safety. Even the conservative case ($634) shows only modest downside of ~8%, meaning the risk-reward is asymmetric in the investor's favour.
+**On a Dilution-Adjusted OE basis, Meta is approximately FAIRLY VALUED at ~$687.** The base case IV of $684 is essentially equal to the current price — zero margin of safety. The conservative case ($469) shows meaningful downside (-32%), while the optimistic case ($941) shows meaningful upside (+37%).
 
-The base case requires 15% owner earnings growth for years 1-5 and 10% for years 6-10 — well within Meta's demonstrated capabilities given its historical 22% revenue CAGR and 25%+ normalised EPS CAGR. The conservative case (10%/6% growth) would imply a dramatic growth deceleration that seems unlikely absent a structural impairment of the advertising franchise.
+**The SBC treatment is the decisive variable.** Using Base OE ($74.1B), the base-case IV is $926 with 26% margin of safety. Using Dilution-Adjusted OE ($54.5B), it drops to $684 with no margin of safety. The truth lies between, but intellectual honesty requires presenting the conservative figure — especially since $19.6B of annual SBC is a real, recurring cash cost that will persist.
 
-Buffett: *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* On a normalised earnings basis, Meta appears to be a wonderful company at a **good price** — not a screaming bargain, but with meaningful margin of safety in the base case. The gap between the PE-based assessment (fair value at 23x) and the DCF (meaningful undervaluation) reflects the market's uncertainty about whether Meta's massive AI capex will generate the 15%+ earnings growth embedded in the base case.
+Buffett: *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* On a Dilution-Adjusted basis, Meta at $687 is a wonderful company at a **full price** — not overvalued, but with no meaningful margin of safety for new purchases. On a Base OE basis, it's a wonderful company at a **good price**. The investment decision depends on your view of whether the SBC cash cost should be fully deducted (conservative) or partially absorbed (since GAAP already captures it).
 
 ---
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-### Inputs
-- CMP: $687
-- Normalised EPS: $29.70 (excluding Q3 2025 one-time tax)
-- **Owner Earnings Per Share (OEPS):** $28.79 (Normalised Owner Earnings $74.1B / 2,574M diluted shares)
-- Current PE (normalised): 23.1x
-- **Current P/OE (on OEPS):** 23.9x — this is the Buffett-pure valuation multiple
+### Step 1: Inputs
 
-### Implied EPS CAGR Needed to Achieve Target Returns
+| Input | Value | Source |
+|---|---|---|
+| Current Market Price (CMP) | $687 | Market data |
+| TTM Normalised EPS | $29.70 | Excluding Q3 2025 one-time tax |
+| **Owner Earnings Per Share (OEPS)** | **$21.19** | Dilution-Adjusted OE $54.5B / 2,574M diluted shares |
+| Current PE (normalised) | 23.1x | CMP / Normalised EPS |
+| **Current P/OE (Dilution-Adjusted)** | **32.4x** | CMP / Dil-Adj OEPS |
+| Diluted Shares | 2,574M | Latest |
+
+### Step 2: Terminal PE Scenarios
+
+| Scenario | Terminal PE | Rationale |
+|---|---|---|
+| **Mature** | 15x | Growth ≈ GDP; Meta in steady-state |
+| **Market Average** | 20x | Moderate growth with durable moat |
+| **Historical Average** | 25x | Meta's 5-10 year median PE |
+| **Compounder** | 28x | Strong growth sustained; premium justified |
+
+### Step 3: EPS-based Reverse DCF (36 cells)
+
+**At Terminal PE = 15x (Mature):**
+
+| Holding Period | 10% Return | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 20.0% | 25.4% | 30.9% |
+| 10 Years | 14.9% | 20.1% | 25.3% |
+| 15 Years | 13.2% | 18.4% | 23.5% |
 
 **At Terminal PE = 20x (Market Average):**
 
@@ -463,48 +593,120 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | 10 Years | 9.1% | 14.1% | 19.1% |
 | 15 Years | 9.4% | 14.4% | 19.4% |
 
+**At Terminal PE = 28x (Compounder):**
+
+| Holding Period | 10% Return | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 5.9% | 10.7% | 15.5% |
+| 10 Years | 7.9% | 12.8% | 17.7% |
+| 15 Years | 8.6% | 13.5% | 18.5% |
+
 ### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-> **Why this matters:** EPS can be misleading — a company can grow EPS by underinvesting in maintenance, financial engineering, or aggressive accounting. Owner Earnings strips all this out. If the EPS-based Reverse DCF says "the market needs 12% EPS growth" but the OEPS-based version says "the business needs 14% Owner Earnings growth," the gap means rising capital intensity is masking the true hurdle. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense."* The same insight applies to EPS vs. Owner Earnings.
+> **Why this matters:** EPS can overstate true economic earnings because GAAP Net Income deducts SBC as a non-cash expense but doesn't capture the cash cost of buybacks needed to offset that dilution. Dilution-Adjusted OEPS corrects this.
 
-**Formula:** Required Future Price = CMP × (1 + Hurdle)^n; Required Future OEPS = Price / Terminal P/OE; Implied OEPS CAGR = (Future OEPS / Current OEPS)^(1/n) − 1
-
-**At Terminal P/OE = 17x (Market Average for moderately capital-intensive business):**
+**At Terminal P/OE = 17x (Market Average), Dil-Adj OEPS = $21.19:**
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 17.7% OEPS CAGR | 23.1% | 28.4% |
-| 10 Years | 13.8% OEPS CAGR | 19.0% | 24.1% |
-| 15 Years | 12.5% OEPS CAGR | 17.6% | 22.7% |
+| 5 Years | 25.2% OEPS CAGR | 30.8% | 36.5% |
+| 10 Years | 17.3% OEPS CAGR | 22.7% | 28.0% |
+| 15 Years | 14.8% OEPS CAGR | 20.1% | 25.3% |
 
 #### The Divergence Test — EPS vs. OEPS Implied Growth
 
 | Metric | At Terminal Market Avg (PE=20x / P/OE=17x), 10-Year, 10% Hurdle |
 |---|---|
 | Implied EPS CAGR (from Step 3) | 11.6% |
-| Implied OEPS CAGR (from Step 3B) | 13.8% |
-| **Gap (OEPS CAGR − EPS CAGR)** | **2.2 pp** |
+| Implied OEPS CAGR (from Step 3B) | 17.3% |
+| **Gap (OEPS CAGR − EPS CAGR)** | **5.7 pp** |
 
-**Interpretation:** The 2.2pp gap places Meta in the **moderate capital intensity** zone (2-5pp). The EPS-based Reverse DCF is slightly optimistic — the true economic hurdle rate (in Owner Earnings terms) is ~2pp higher than what EPS alone suggests. This is driven by Meta's surging D&A ($18.6B in FY2025, rising rapidly as AI capex depreciates). For a company historically considered "asset-light," this is a notable shift. The OEPS figure provides the more conservative and honest assessment.
+**Interpretation:** The 5.7pp gap places Meta in the **capital-hungry zone (>5pp)**. The EPS-based Reverse DCF is **dangerously misleading** — it suggests the market only needs 11.6% EPS growth, but the true economic hurdle (in Dilution-Adjusted Owner Earnings terms) is 17.3%. This large gap is driven by two factors: (a) Meta's $19.6B annual SBC representing a massive hidden cash cost, and (b) the rising D&A from AI infrastructure. The OEPS figure is the honest benchmark.
 
-### Reality Check
+### Step 4: Reality Check
 
 | Benchmark | EPS CAGR | OEPS CAGR | Use As |
 |---|---|---|---|
 | US nominal GDP growth | 4-5% | 3-4% | Floor |
-| Historical 9Y EPS CAGR (normalised) | **26.5%** | — | Actual track record |
-| Historical 9Y OEPS CAGR | — | **24.8%** | Buffett-pure benchmark |
-| Historical 5Y EPS CAGR (normalised) | **24.1%** | — | Recent track record |
-| Historical 5Y OEPS CAGR | — | **21.4%** | Recent Buffett-pure benchmark |
+| Historical 9Y EPS CAGR (normalised) | **26.5%** | — | Track record |
+| Historical 9Y OEPS CAGR (Dil-Adj) | — | **24.8%** | Buffett-pure benchmark |
+| Historical 5Y OEPS CAGR (Dil-Adj) | — | **21.4%** | Recent benchmark |
 | Analyst consensus FY2026 EPS | ~$30 | — | Market expectations |
 
-> **Apply the Traffic Light to BOTH the EPS and OEPS implied growth.** If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
+> **Apply the Traffic Light to BOTH.** If EPS verdict is 🟢 but OEPS is 🟡 or worse, defer to the OEPS verdict.
 
-**EPS Traffic Light: 🟢 GREEN** — At terminal PE 25x, the market requires only 9% EPS CAGR for 10% returns. Meta's historical 24-26% EPS CAGR makes this comfortably achievable.
+**EPS Traffic Light: 🟢 GREEN** — At terminal PE 25x, the market requires only 9% EPS CAGR for 10% returns. Meta's 24-26% historical EPS CAGR makes this comfortable.
 
-**OEPS Traffic Light: 🟢 GREEN** — At terminal P/OE 17x, the market requires 13.8% OEPS CAGR for 10% returns. Meta's historical 21-25% OEPS CAGR exceeds this. Both verdicts agree — the stock is reasonably priced.
+**OEPS Traffic Light: 🟡 YELLOW** — At terminal P/OE 17x, the market requires 17.3% Dil-Adj OEPS CAGR for 10% returns. Meta's historical 21-25% OEPS CAGR exceeds this, but the required growth is 1.0-1.5x the historical track record. Not heroic, but optimistic.
 
-**Verdict:** At ~$687, the market is pricing in **reasonable growth** — roughly 10-14% EPS CAGR (or 12-14% OEPS CAGR) for a decade. Meta has consistently delivered 2x+ this level. The stock is priced as if growth will significantly decelerate — which it probably will from 25%+ to 12-18%, but that still exceeds what the market requires. The EPS-based assessment is slightly more favourable than the Owner Earnings assessment (by 2.2pp), indicating that Meta's rising capital intensity is a real but manageable factor — the business is transitioning from ultra-asset-light to moderately capital-intensive as it builds AI infrastructure.
+### Step 5: Verdict
+
+> *"At $687, to earn a 10% annualised return over 10 years assuming terminal PE of 20x, Meta needs to grow EPS at 11.6% CAGR. On a Dilution-Adjusted Owner Earnings basis (P/OE 17x), it needs 17.3% OEPS CAGR. The company has historically grown EPS at 26.5% and Dil-Adj OEPS at 24.8%. This implies the EPS-based assessment is misleadingly optimistic — the Owner Earnings assessment reveals the true growth hurdle is ~50% higher than what EPS suggests, due to Meta's material SBC ($19.6B) and rising capital intensity.*
+
+**The EPS-based verdict says 🟢 (reasonable). The OEPS-based verdict says 🟡 (fair but optimistic). Per the template: defer to OEPS. The stock is fairly priced, not cheap.**
+
+### Step 6: Asymmetric Upside Check — Is This a Fat Pitch?
+
+**Part 1: Downside Floor**
+
+| Downside Scenario | Valuation Basis | Implied Price | Downside from CMP |
+|---|---|---|---|
+| **Trough EPS × Trough PE** | $8.59 × 12x | $103 | -85% |
+| **2x Book Value** | $84.40 × 2 | $169 | -75% |
+| **Conservative DCF** | Dil-Adj OE, 10%/6% growth | $469 | **-32%** |
+| **Historical Trough PE × Normalised EPS** | 13x × $29.70 | $386 | -44% |
+
+Most probable downside floor: **$469** (Conservative DCF) — assumes dramatic growth deceleration but no structural impairment.
+
+**Part 2: Upside Case**
+
+| Upside Scenario | Valuation Basis | Implied Price | Upside from CMP |
+|---|---|---|---|
+| **Base Case DCF (Dil-Adj)** | 15%/10% growth, Dil-Adj OE | $684 | **~0%** |
+| **Optimistic DCF (Dil-Adj)** | 20%/12% growth | $941 | +37% |
+| **Base OE DCF (if SBC overlap acknowledged)** | 15%/10% growth, Base OE | $926 | +35% |
+
+**Part 3: Asymmetry Ratio**
+
+Using Dil-Adj DCF: Base upside ~0% / Conservative downside 32% = **0:1 — negative asymmetry.**
+Using Base OE DCF: Base upside 35% / Conservative downside 8% = **4.4:1 — strong fat pitch.**
+
+The SBC treatment is the ENTIRE difference between "fat pitch" and "no pitch." This is precisely why the template mandates the conservative approach.
+
+**Part 4: Catalysts**
+
+| Catalyst | Probability | Timing |
+|---|---|---|
+| AI capex generating visible revenue uplift (ad performance, Meta AI monetisation) | High | 2026-2027 |
+| WhatsApp business messaging monetisation at scale | Medium | 2026-2028 |
+| TikTok US ban driving engagement and ad spend to Meta | Medium | 2026 |
+| Reality Labs reaching breakeven or strategic sale | Low | 2028+ |
+| FY2026 capex lower than guided ($115-135B), signaling discipline | Medium | 2026 |
+
+**Anti-Catalysts:**
+
+| Anti-Catalyst | Probability | Permanent? |
+|---|---|---|
+| AI capex fails to generate adequate returns; becomes structural maintenance cost | Medium | Yes — would permanently lower Owner Earnings |
+| Apple further restricts tracking; ad targeting impaired | Medium | Potentially — but Meta survived ATT |
+| Antitrust breakup (Instagram/WhatsApp forced divestiture) | Low | Yes — but unlikely and potentially value-unlocking |
+
+**Part 5: Fat Pitch Verdict**
+
+> *"At $687, on a Dilution-Adjusted OE basis, the realistic downside is approximately 32% to $469 (Conservative DCF). The realistic base-case upside is approximately 0% to $684. This gives an asymmetry ratio of 0:1. This is NOT a fat pitch on the conservative (template-mandated) basis."*
+
+> *"However, acknowledging the significant GAAP-to-cash SBC overlap (ratio 1.0x for Meta vs. 5.5x for NVIDIA), the Base OE DCF presents a more moderate picture: base-case IV of $926 with 35% upside vs. 8% conservative downside = 4.4:1 asymmetry. The truth lies between these extremes."*
+
+**Mispricing Identification:** The mispricing opportunity is **ABSENT on a Dilution-Adjusted basis** and **PRESENT on a Base OE basis.** The stock is NOT obviously mispriced when SBC's cash cost is fully recognised. However, if the market is over-penalising Meta for SBC (since GAAP already captures the expense), then the Base OE valuation ($926) reveals a moderate mispricing of 35%.
+
+**Final Buffett Filter:**
+
+| Question | Answer |
+|---|---|
+| Is the downside capped? | ⚠️ Partially — Conservative DCF floor of $469 means ~32% downside in bear case |
+| Is the upside from fundamentals? | ✅ Yes — driven by earnings growth, not multiple expansion |
+| Would you buy more at 30% lower? | ✅ Yes — at $480, even Dil-Adj DCF shows meaningful margin of safety |
+| Can you explain in 2 sentences? | ✅ Yes — see Section 24 |
 
 ---
 
@@ -523,7 +725,16 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 
 **Quality Assessment:** Meta's ROE is driven overwhelmingly by **high net profit margins** (Buffett's preferred driver), with modest asset turnover and very conservative leverage. The equity multiplier of 1.61x is low — this is NOT a leverage-driven return profile. The ROE quality is **excellent**.
 
-**ROCE vs. ROE:** ROCE (29.4%) is close to ROE (30.2%), confirming the returns are driven by business quality, not financial engineering. This is the healthy pattern Buffett seeks.
+**ROCE vs. ROE:** ROCE (29.4%) is close to ROE (30.2%) — ROCE > ROE would signal that the pre-tax, pre-interest business engine is even stronger than the after-tax returns suggest. In Meta's case, the near-equality confirms the returns are driven by genuine business quality, not financial engineering. This is the healthy pattern Buffett seeks.
+
+**Quality Assessment:**
+
+| ROE Driver | Assessment for Meta |
+|---|---|
+| High ROE from high Net Margin (37% norm.) | ✅ Quality — Pricing power, moat-driven |
+| Modest Asset Turnover (0.63x) | Neutral — typical for high-margin platform |
+| Low Equity Multiplier (1.6x) | ✅ Quality — NOT leverage-driven |
+| ROE rising because Margin rising | ✅ Genuine improvement (FY2022→2024) |
 
 ### Part B: P/B Scenario Analysis
 
@@ -545,10 +756,25 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 | **4.0x** | Significant de-rating | 8.9% | 13.4% | 16.9% |
 | **3.0x** | Severe de-rating | 2.8% | 8.8% | 13.6% |
 | **2.0x** | Extreme de-rating (Bear) | -5.2% | 2.7% | 9.0% |
+| **1.0x Book** | Valued at book value (worst case) | -17.5% | -7.0% | 1.8% |
+
+**The Rule of Thumb for Quick Mental Math:**
+
+```
+Approximate Annual Return ≈ (ROE × Retention) + Annual P/B Change
+where Annual P/B Change = (Exit P/B / Entry P/B)^(1/n) - 1
+```
+
+- If P/B stays constant → Return ≈ BV compounding rate (25.5%)
+- If P/B halves over 10 years → ~7% annual drag → return ≈ 18.5%
+- If P/B drops to one-third over 10 years → ~11% annual drag → return ≈ 14.5%
+- If P/B drops to one-quarter over 10 years → ~13% annual drag → return ≈ 12.5%
 
 **Key Insight:** At the current entry P/B of 8.1x with a sustainable ROE of 28% and 91% retention, book value compounds at ~25.5% annually. The stock can tolerate P/B compression from 8.1x down to approximately **2.18x** before the 10-year return drops below the 10% hurdle rate. This is massive — the stock would need to lose ~73% of its valuation multiple while book value quadruples. That's a strong margin of safety against multiple compression.
 
 **Verdict: 🟢 GREEN** — Even if P/B halves from 8.1x to 4.0x over 10 years, the annual return is still 16.9% — well above the hurdle rate. BV compounding overwhelms multiple compression.
+
+---
 
 ---
 
@@ -578,28 +804,30 @@ Working with a small capital base, Buffett would say: *"With small sums, I could
 
 ---
 
+---
+
 ## 19. WOULD BUFFETT HIMSELF BUY THIS STOCK?
 
 ### Full Buffett Checklist
 
 | Question | Answer |
 |---|---|
-| Does it fall within his circle of competence? | ✅ Yes — digital advertising is the modern version of newspaper ads, which Buffett owned through the Washington Post |
-| Is the moat enduring? | ✅ Yes — 3.58B DAP, network effects, but requires continuous AI investment to maintain |
-| Is management trustworthy and rational? | ✅ Yes — Zuckerberg's "Year of Efficiency" pivot and buyback timing demonstrate exceptional capital allocation |
-| Is the business resistant to technological disruption? | ⚠️ Moderate risk — Tech changes rapidly; TikTok and AI competitors pose ongoing threats |
-| Can the business sustain its economics for 10+ years? | ✅ Likely — Advertising is a permanent need; Meta's platform dominance appears durable |
-| Is the price significantly below intrinsic value? | ⚠️ Mixed — PE-based valuation (23x normalised) suggests fair pricing; DCF base-case IV of ~$926 implies 26% margin of safety. Depends on whether 15% OE growth materialises. |
+| Does it fall within his circle of competence? | ✅ Yes — digital advertising is the modern version of newspaper ads |
+| Is the moat enduring? | ✅ Yes — 3.58B DAP, network effects, but requires continuous AI investment |
+| Is management trustworthy and rational? | ✅ Yes — "Year of Efficiency" pivot and buyback timing show exceptional capital allocation |
+| Is the business resistant to disruption? | ⚠️ Moderate risk — TikTok, AI competitors, Apple privacy tightening |
+| Can the business sustain its economics for 10+ years? | ✅ Likely — Advertising is permanent; Meta's platform dominance appears durable |
+| Is the price significantly below intrinsic value? | ⚠️ Depends on SBC treatment — Dil-Adj OE DCF says fairly priced ($684 IV); Base OE DCF says meaningfully undervalued ($926 IV) |
 
 ### Honest Verdict
 
-**Would the 2026 Buffett buy META at $687?** Possibly a moderate position. The DCF base case suggests meaningful undervaluation (~26% margin of safety), and the business quality is elite. However, the 23x normalised PE is not screamingly cheap, and the massive AI capex ($115-135B FY2026) introduces execution uncertainty. This is closer to a fair pitch than a fat pitch — Buffett might nibble rather than swing hard.
+**Would Buffett buy META at $687?** This is a genuinely close call. On a Dilution-Adjusted Owner Earnings basis (the conservative, template-mandated approach), Meta is fairly valued with zero margin of safety — Buffett would likely **pass on a new position** and wait for a better price. On a Base OE basis, there is ~26% margin of safety — he might **nibble at a moderate position.**
 
-**Would the 1960s Buffett (small capital base) buy META at $687?** More likely — with a small capital base, the concentration potential and quality of the business matter more than demanding extreme cheapness. Meta is arguably the highest-quality advertising franchise on Earth, compounding book value at 25%+ annually with a DCF-derived margin of safety. A small-capital Buffett would likely take a meaningful position and add aggressively on any significant pullback.
+**Would the 1960s Buffett (small capital base) buy at $687?** More likely. The business quality is elite, the moat is wide, and the 25%+ ROE compounding engine is extraordinary. A small-capital Buffett would accept a thinner margin of safety for a business this good and add aggressively on any pullback below $500.
 
-**Would Buffett hold META if he already owned it?** Absolutely yes. The business is wonderful, management is capable, and the compounding engine is running at full speed. He would not sell into the AI spending uncertainty — he would trust the management team and the durability of the moat.
+**Would Buffett hold if already owned?** Absolutely. The business is wonderful, management is capable, and the compounding engine is running. He would not sell into AI spending uncertainty.
 
-Buffett: *"Our favourite holding period is forever."* Meta qualifies as a forever hold — if bought at the right price.
+Buffett: *"Our favourite holding period is forever."* Meta qualifies — if bought at the right price.
 
 ---
 
@@ -618,26 +846,53 @@ Buffett: *"Our favourite holding period is forever."* Meta qualifies as a foreve
 
 ---
 
+---
+
 ## 21. REGULATORY RISKS & POLICY HEADWINDS
 
 ### Core Regulatory Landscape
 
-Meta operates under intense regulatory scrutiny from multiple jurisdictions: EU (GDPR, DMA, DSA), US (FTC antitrust suit, state-level privacy laws), and others. The company paid $372M in civil penalties to New Mexico in March 2026 related to consumer protection law violations.
+Meta operates under intense regulatory scrutiny: EU (GDPR, DMA, DSA), US (FTC antitrust suit, state-level privacy laws), and others. The company paid $372M in civil penalties in March 2026.
 
 ### Historical Regulatory Impact
 
-| Event | Year | Impact | Recovery |
+| Event | Year | Nature | Impact |
 |---|---|---|---|
-| Cambridge Analytica Scandal | 2018 | -5% revenue growth deceleration, $5B FTC fine (2019) | Full recovery within 2 quarters |
-| Apple iOS ATT Changes | 2021-22 | -$10B estimated annual revenue loss; stock -65% | Recovered through AI-driven targeting improvements; revenue exceeded pre-ATT trajectory by 2024 |
-| EU GDPR Implementation | 2018+ | Increased compliance costs; minimal revenue impact | Ongoing compliance cost absorbed |
-| FTC Antitrust Suit | 2020+ | Ongoing legal proceedings; no material business impact yet | Likely settlement or modest remedies |
+| Cambridge Analytica Scandal | 2018 | Data privacy breach | -5% revenue growth deceleration; $5B FTC fine (2019); full recovery in 2 quarters |
+| Apple iOS ATT Changes | 2021-22 | Platform privacy policy | -$10B estimated annual revenue loss; stock -65%; recovered via AI targeting by 2024 |
+| EU GDPR Implementation | 2018+ | Data regulation | Increased compliance costs; minimal revenue impact; ongoing |
+| FTC Antitrust Suit | 2020+ | Antitrust | Ongoing proceedings; no material business impact yet |
+
+### Demand Curve — Regulatory Cost Sensitivity
+
+| Regulatory Cost | Volume Impact | Company Response | Net Revenue Impact |
+|---|---|---|---|
+| **Mild (5-8%)** | -1% to -3% | Full pass-through via ad pricing | Neutral to mildly positive |
+| **Moderate (10-15%)** | -3% to -5% | Partial pass-through + AI efficiency gains | Flat to mildly negative short-term |
+| **Severe (>20%)** | -5% to -10% | Structural adaptation (as with ATT) | Negative 1-2 years, then recovery |
+
+### Buffett's Three-Lens Framework
+
+**1. History as Guide:** Meta has survived every major regulatory challenge and emerged stronger. The ATT crisis was the most severe — and Meta rebuilt its targeting capability within 2 years using AI.
+
+**2. Pricing Power / Elasticity:** Meta has substantial pricing power. Ad prices per impression have grown 6% YoY even with 18% impression growth. Advertisers have no viable alternative at Meta's scale.
+
+**3. Terminal Risk:** Could regulation permanently destroy Meta? A forced breakup (Instagram/WhatsApp divestiture) is theoretically possible but would likely UNLOCK value (sum of parts > whole). A total advertising ban is inconceivable. Terminal risk probability: **negligible.**
+
+### Risk Rating Table
+
+| Risk | Probability | Impact | Net Risk |
+|---|---|---|---|
+| EU DMA compliance costs & restrictions | High | Medium | Manageable |
+| US antitrust — structural remedies | Low | High | Manageable (potentially value-unlocking) |
+| Further Apple privacy restrictions | Medium | High | Manageable (proven adaptation via AI) |
+| ESG-driven institutional selling | Low | Low | Negligible |
+| Content moderation / child safety regulation | Medium | Medium | Manageable |
+| Terminal risk (product ban / nationalisation) | Very Low | Catastrophic | Negligible probability |
 
 ### Buffett's Verdict on Regulatory Risk
 
-**(a) Manageable and potentially overpriced by the market.** Meta has survived every major regulatory challenge thrown at it — Cambridge Analytica, the $5B FTC fine, Apple's ATT changes, EU DMA — and emerged stronger each time. The company's $115.8B in operating cash flow provides an enormous buffer to absorb fines and compliance costs.
-
-The Apple ATT privacy change was the most damaging regulatory event in Meta's history, yet the company rebuilt its ad targeting capability within 2 years using AI — a remarkable demonstration of resilience. If Meta can survive Apple weaponising its OS against Meta's core business model, it can survive anything regulators throw at it.
+**(a) Manageable and potentially overpriced by the market.** Meta has survived every regulatory challenge thrown at it and emerged stronger. The $115.8B in OCF provides an enormous buffer. The ATT survival proves that even when Apple weaponises its OS against Meta's core model, the franchise adapts and recovers.
 
 ---
 
@@ -647,22 +902,24 @@ The Apple ATT privacy change was the most damaging regulatory event in Meta's hi
 
 ---
 
+---
+
 ## 23. FINAL SCORECARD & SUMMARY
 
 | Factor | Score (1-10) | Commentary |
 |---|---|---|
 | Business Quality | **9** | World's largest social media franchise; 3.58B DAP; 82% gross margin; advertising toll bridge with network effects |
 | Moat Durability | **8** | Wide moat from network effects and data/AI advantage; requires continuous reinvestment; Apple dependency is a structural risk |
-| Financial Health | **8** | $81.6B cash, 0.27x D/E, but rising leverage and massive capex surge reduce fortress quality |
+| Financial Health | **8** | $81.6B cash, 0.27x D/E, Debt/EBIT 0.71x, Interest Coverage 49x — fortress, but rising leverage from AI capex |
 | Management Quality | **9** | Zuckerberg's 2023 pivot was masterful; $196B in well-timed buybacks; dual-class risk but excellent track record |
 | Scalability | **7** | Elite unit economics but AI capex breaks capital-light model; meaningful TAM runway remains |
-| Valuation | **6** | ~23x normalised PE is fair, not cheap; P/B of 8.1x is high but justified by 28% ROE |
-| Margin of Safety | **7** | DCF base-case IV of ~$926 implies ~26% MoS and ~35% upside; conservative case ($634) shows only ~8% downside — asymmetric risk-reward |
-| Earnings Quality | **7** | Strong OCF conversion but $19.6B SBC inflates earnings; normalisation required for Q3 2025 tax charge |
-| **Overall Score** | **7.6 / 10** | |
-| **Buffett Verdict** | | **Wonderful business at a good price.** Meta is a Buffett-quality franchise — possibly the best advertising business ever created. On normalised earnings, the DCF suggests ~26% margin of safety (base-case IV ~$926). The PE-based assessment (23x normalised) is more conservative, suggesting fair value. The gap reflects market uncertainty about AI capex returns. For existing owners, this is a clear HOLD — the compounding engine is running at full speed. For new investors, the quality-to-price ratio is attractive enough for a moderate position, with aggressive accumulation on any pullback below $550. Working with a small capital base, Buffett would take a meaningful position and add on dips. |
-| **Buy Zone** | | **Fair Value / Hold** ($594-$743) — current price in the upper half of the zone |
-| **Overall Recommendation** | | **HOLD** if owned — the business is compounding beautifully. **ACCUMULATE** moderately for new investors — business quality justifies a position at current prices, with more aggressive buying below $550 (18-19x normalised EPS). |
+| Valuation | **5** | P/Dil-Adj OE 32.4x → fairly valued (zero MoS on conservative basis); P/Base OE 23.9x → good value (26% MoS). SBC treatment is the decisive variable. |
+| Margin of Safety | **4** | Dil-Adj OE DCF: Base IV $684 = CMP (zero MoS). Base OE DCF: $926 (26% MoS). Conservative case: $469 (-32% downside). |
+| Earnings Quality | **6** | Strong OCF conversion but $19.6B SBC (25.6% of NI) inflates earnings; Treadmill rating 🟡; normalisation required for Q3 2025 tax |
+| **Overall Score** | **7.0 / 10** | |
+| **Buffett Verdict** | | **Wonderful business at a FULL price (Dilution-Adjusted basis) / GOOD price (Base OE basis).** Meta is a Buffett-quality franchise — possibly the best advertising business ever created. The investment conclusion depends critically on SBC treatment: the conservative (template-mandated) Dilution-Adjusted OE DCF shows $684 IV (zero MoS), while the Base OE DCF shows $926 IV (26% MoS). The GAAP-to-cash SBC ratio of 1.0x (vs NVIDIA's 5.5x) means the conservative approach may over-penalise Meta. For existing owners, this is a clear HOLD. For new investors, a **moderate position is justified on a Base OE basis**, with aggressive accumulation below $500 where even the conservative DCF shows meaningful value. |
+| **Buy Zone** | | **Fair Value / Hold** ($594-$743) — current price in the upper half |
+| **Overall Recommendation** | | **HOLD** if owned. **MODERATE ACCUMULATE** for new investors with awareness that Dilution-Adjusted valuation shows no margin of safety. Buy aggressively below $500. |
 
 ---
 
@@ -670,26 +927,27 @@ The Apple ATT privacy change was the most damaging regulatory event in Meta's hi
 
 **Can the thesis be explained to a 10-year-old?**
 
-*"Meta owns Facebook, Instagram, and WhatsApp — apps used by almost half the people on Earth. Companies pay Meta to show ads to these people. More people join every year, and companies keep paying more for ads. Meta makes about $60 billion a year in profit. Right now, the stock costs about 23 times what it earns, which means it's not super cheap but also not crazy expensive."*
+*"Meta owns Facebook, Instagram, and WhatsApp — apps used by almost half the people on Earth. Companies pay Meta to show ads to these people. More people join every year, and companies keep paying more for ads. Meta makes about $60 billion a year in profit. But it also gives about $20 billion worth of stock to employees every year, which means the real cash left for owners is closer to $55 billion. At today's stock price, you're paying about 32 times that real cash — which means it's not super cheap."*
 
 Yes — it passes the simplicity test.
 
 **Does the math work on a napkin?**
 
-- Meta earns ~$30 normalised EPS growing at ~15-20%
-- At 23x PE, if EPS grows to $60 in 5 years (15% CAGR), stock = $60 × 23 = $1,380 → ~15% annual return
-- Even at 18x PE (de-rating), stock = $60 × 18 = $1,080 → ~9.5% annual return
-- Downside floor: core ad business alone worth $800+ (stripping Reality Labs losses)
+- Meta earns ~$30 normalised EPS (~$21 Dilution-Adjusted OEPS) growing at ~15-20%
+- At 23x PE, if EPS grows to $60 in 5 years (15% CAGR), stock = $60 × 23 = $1,380 → ~15% annual return (EPS basis)
+- But Dil-Adj OEPS starting at $21 growing at 15% = $42 in 5Y → at 17x P/OE = $714 → ~0.8% annual return (honest basis)
+- At 20x P/OE = $840 → ~4% annual return — still below the 10% hurdle
+- Downside floor: core ad business at trough PE → ~$400-470
 
-The napkin math works — and on normalised earnings, the DCF confirms meaningful margin of safety (~26% in base case). Buffett: *"If you need to use Excel, it's an automatic pass."* Meta at $687 doesn't require a spreadsheet — the core thesis is simple: half of humanity uses the product, advertisers must pay the toll, and normalised earnings power is ~$30/share growing at 15-20%.
+The napkin math tells two stories. The EPS story says "buy." The Dilution-Adjusted story says "wait for a better price." Buffett: *"If you need to use Excel, it's an automatic pass."* At $687, the honest napkin math requires some faith that SBC costs moderate relative to earnings growth.
 
-**At $500 or below, it becomes a true no-brainer fat pitch. At $687, it's a wonderful business at a good price — worthy of holding and moderate accumulation, with aggressive buying reserved for meaningful pullbacks.**
+**At $500 or below, it becomes a no-brainer on BOTH bases. At $687, it's a wonderful business at a full-to-good price — worthy of holding, with new buying reserved for meaningful pullbacks below $500.**
 
 ---
 
 *"The stock market is a device for transferring money from the impatient to the patient."* — Warren Buffett
 
-**This analysis was prepared using Python-verified calculations from raw SEC filing data. All figures have been cross-referenced against primary sources and verified for internal consistency across all 24 sections.**
+**This analysis was prepared using Python-verified calculations from raw SEC filing data. All figures have been cross-referenced against primary sources and verified for internal consistency across all 24 sections. The Dilution-Adjusted Owner Earnings framework follows the mandatory SBC treatment for material-SBC companies per the project template.**
 
 ---
 
