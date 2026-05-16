@@ -194,7 +194,7 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | Dividend payout | Paying | ~14% avg (recent) | ⚠️ Low payout |
 | EBIT Margin stability | Stable | 2.7%-17.3% range | ❌ Highly cyclical |
 | Moat / Pricing Power | Identifiable | Freight barrier, oligopoly | ⚠️ Oligopoly not pricing power |
-| ROIC > 15% | >15% | 13.1% (FY25), 6.3% (10Y avg) | ❌ Never crossed 15% |
+| ROIC > 15% | >15% | 13.1% (FY25), 6.9% (10Y avg) | ❌ Never crossed 15% |
 | Earnings yield | Reasonable | 9.0% (1/PE) at CMP | ✅ |
 
 > **Note on ROIC:** Buffett cares deeply about returns on incremental invested capital, but he evaluates this intuitively from the business economics (can the company reinvest retained earnings at high rates?) rather than from a formulaic ROIC calculation. Formulaic ROIC can be distorted by goodwill treatment, lease capitalisation, and other accounting choices. The Owner Earnings framework in Section 8 captures this more honestly. Use ROIC as a directional signal, not a precise score.
