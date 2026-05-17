@@ -49,14 +49,14 @@ The genius of IRCTC is that the **high-margin internet ticketing segment subsidi
 | NP Growth YoY | — | 44.3% | 21.2% | -3.5% | 39.8% | 66.0% | **-63.5%** | **252.9%** | 52.4% | 10.4% | 18.4% | ~15% |
 | NPM % | 12.4% | 13.8% | 15.1% | 15.1% | 16.5% | 22.7% | 24.1% | **35.1%** | 28.4% | 26.1% | 28.1% | 28.4% |
 | EPS (₹) | 13.06 | 18.86 | 11.45 | 11.03 | 3.86 | 6.41 | **2.34** | 8.24 | 12.57 | 13.89 | **16.43** | 17.80 |
-| EPS Growth | — | 44.4% | -39.3% | -3.7% | **-65.0%** | **66.1%** | -63.5% | **252.1%** | 52.5% | 10.5% | 18.3% | ~15% |
+| EPS Growth | — | 44.4% | N/M † | -3.7% | N/M † | **66.1%** | -63.5% | **252.1%** | 52.5% | 10.5% | 18.3% | ~15% |
 | Shares (Cr) | 10 | 10 | 20 | 20 | 80 | 80 | 80 | 80 | 80 | 80 | 80 | 80 |
 | Shares Change YoY | — | 0% | +100% | 0% | +300% | 0% | 0% | 0% | 0% | 0% | 0% | — |
 | Dividend Payout % | 20% | 40% | 49% | 21% | **98%** | 39% | 43% | 42% | 44% | 47% | 49% | — |
 
 *† Gross Profit / Gross Margin: IRCTC does not separately report Cost of Goods Sold in its P&L (Screener.in bundles all operating expenses into a single "Expenses" line). As a services company, the concept of Gross Margin is not meaningfully distinct from Operating Margin. The Operating Profit (pre-D&A) row serves as the closest available proxy.*
 
-**Note:** EPS figures reflect the share base at each point. FY17 saw a 1:1 bonus (shares doubled). FY19 saw a stock split (face value ₹10→₹2) and the share count moved from 20 Cr to 80 Cr on a split-adjusted basis. Post-split, the base is 80 Cr shares. All historical share counts and EPS figures in this table are presented on a split-adjusted basis and are verified consistent (NI / EPS = Shares for all years).
+**Note:** Screener.in reports EPS using each year's actual share base — the data is NOT on a common split-adjusted basis. FY17 saw a 1:1 bonus (shares 10→20 Cr). FY19 saw a stock split (face value ₹10→₹2, shares 20→80 Cr). Post-split, the base is 80 Cr shares. Because the share base changed in FY17 and FY19, EPS Growth is not meaningful (marked N/M †) for those years — use NP Growth YoY instead, which is comparable across all years. For periods where the share base is constant (FY20-FY25), EPS Growth ≈ NP Growth.
 
 > **EBIT vs. Screener's Operating Profit:** Screener.in's "Operating Profit" is calculated BEFORE deducting Depreciation & Amortisation — making it EBITDA-equivalent, not true EBIT. This analysis computes and tracks **EBIT = Screener Operating Profit − D&A** as the true operating profit after capital consumption. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* EBIT Margin is the relevant profitability metric — it tells you what the business earns after maintaining its asset base.
 

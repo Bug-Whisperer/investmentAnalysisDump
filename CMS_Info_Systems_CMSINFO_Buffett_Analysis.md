@@ -738,7 +738,7 @@ Realistic Base Upside: +125% (to ₹671) | Most Probable Downside: -33% (to ₹2
 
 > *Fair P/B of 4.6x is derived from Gordon Growth Model: (ROE − g) / (CoE − g) = (17% − 11.9%) / (13% − 11.9%) = 4.6x. This is theoretically justified but very high — it reflects the narrow gap between the book value compounding rate (11.9%) and the cost of equity (13%). In practice, the stock is unlikely to sustain >4x P/B unless ROE expands above 20%. The historical median P/B of 3.0x is a more realistic anchor.*
 
-**Key Insight:** At the current entry P/B of 2.16x with 17% ROE and 70% retention, book value compounds at ~11.9% annually. If P/B **halves** from 2.16x to ~1.1x over 10 years, the expected return drops to approximately **4.6%** — well below the 10% hurdle rate. The stock can tolerate P/B compression from 2.16x down to approximately **1.5x** before the 10-year return drops below 10% (at 1.5x, 10Y CAGR is 7.9%). The more realistic scenario — P/B compressing to the historical median of 3.0x — actually delivers an excellent 15.7% CAGR over 10 years.
+**Key Insight:** At the current entry P/B of 2.16x with 17% ROE and 70% retention, book value compounds at ~11.9% annually. If P/B **halves** from 2.16x to ~1.1x over 10 years, the expected return drops to approximately **4.6%** — well below the 10% hurdle rate. The stock can tolerate P/B compression from 2.16x down to approximately **1.82x** before the 10-year return drops below 10% (at 1.82x: Year 10 BVPS ₹425.3 × 1.82 = ₹773, CAGR from ₹298 = 10.0%). Compression to 1.5x still delivers 7.9% — below the hurdle but not disastrous. The more realistic scenario — P/B compressing to the historical median of 3.0x — actually delivers an excellent 15.7% CAGR over 10 years.
 
 **Rule of Thumb for Quick Mental Math:**
 
@@ -751,7 +751,7 @@ Approximate Annual Return ≈ BV Compounding Rate + Annual P/B Change
 - If P/B drops to one-third over 10 years → ~10.4% annual drag → net return ~1.5%
 - If P/B expands to 3.0x (historical median) over 10 years → ~3.3% annual boost → net return ~15.2%
 
-🟡 **MODERATE RISK** — Returns are acceptable if P/B compression is modest (to ~1.5x), but a severe de-rating to book value would destroy returns. The historical median P/B of 3.0x suggests the current 2.16x may actually be below the stock's natural trading range — implying P/B expansion potential, not compression.
+🟡 **MODERATE RISK** — The 10-year return meets the 10% hurdle as long as exit P/B stays above ~1.82x (a ~16% compression from the current 2.16x). Compression to 1.5x delivers only 7.9% — below the hurdle but still positive. The historical median P/B of 3.0x suggests the current 2.16x may actually be below the stock's natural trading range — implying P/B expansion potential, not compression.
 
 ---
 
