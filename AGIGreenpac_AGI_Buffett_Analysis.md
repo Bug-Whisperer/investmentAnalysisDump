@@ -507,7 +507,7 @@ Buffett: *"The CEO who misleads others in public may eventually mislead himself 
 | PE | ~57x | ~11x | ~10x | ~17x | ~14x | 11.1x |
 | P/B | ~0.7x | ~1.5x | ~1.6x | ~2.3x | ~2.2x | 1.76x |
 
-**Assessment:** On trailing numbers, AGI looks optically cheap at 11.1x PE and 1.76x P/B. However, this is a **peak-earnings PE trap**. The TTM EPS of ₹51.50 reflects peak margins (24% OPM) in a structurally favourable competitive environment. On normalised earnings (assuming 17% OPM, mid-cycle), EPS would be approximately ₹21, making the normalised PE approximately **27x** — not cheap at all. On a stressed basis (15% OPM), EPS would be ~₹15 and PE would be ~38x.
+**Assessment:** On trailing numbers, AGI looks optically cheap at 11.1x PE and 1.76x P/B. However, this is a **peak-earnings PE trap**. The TTM EPS of ₹51.50 reflects peak margins (24% OPM) in a structurally favourable competitive environment. On normalised earnings (assuming 17% OPM, mid-cycle), EPS would be approximately ₹21, making the normalised PE approximately **27x** — not cheap at all. On a stressed basis (15% OPM, assuming other income normalises to ~₹15-27 Cr), EPS would be approximately ₹15-17 and PE would be ~34-38x; or as low as ₹14 EPS (~41x PE) if other income falls to near zero.
 
 Buffett: *"Price is what you pay, value is what you get."* The market is pricing AGI at ₹570 — you pay 11x peak earnings. The question is whether you are getting a company that will sustain ₹51 EPS or one that will see earnings compress to ₹20-30 as the competitive environment normalises.
 
@@ -525,7 +525,7 @@ Buffett: *"Price is what you pay, value is what you get."* The market is pricing
 | Terminal Growth | 4% | 4% | 5% |
 | Discount Rate | **10%** | **10%** | **10%** |
 
-**Note on Conservative Scenario:** We use ₹350 Cr starting OE (below FY25's ₹393 Cr) to reflect the expected margin compression from HNGIL's return. This is NOT a pessimistic scenario — it assumes margins compress modestly to 20-21% OPM, not all the way back to mid-cycle 17%.
+**Note on Conservative Scenario:** We use ₹350 Cr starting OE (below FY25's ₹393 Cr) to reflect the expected margin compression from HNGIL's return. **This is NOT a deeply pessimistic scenario** — at FY25's other income of ₹75 Cr, ₹350 Cr OE implies OPM of ~22% (vs current 24.3%); at normalised other income of ₹27-39 Cr, it implies OPM of ~23.5-24% (essentially current-level margins). The "conservative" label refers to growth assumptions (6% Y1-5, 4% Y6-10), not margin assumptions. **For a scenario reflecting meaningful HNGIL-driven margin compression (17% OPM, mid-cycle), see the Key Caveat below — that scenario produces IV of ₹490-648, at or below CMP.**
 
 | Outcome | Conservative | Base | Optimistic |
 |---|---|---|---|
@@ -547,6 +547,8 @@ Buffett: *"Price is what you pay, value is what you get."* The market is pricing
 | Conservative | ₹937 | 39.2% | +64.5% |
 | Base | ₹1,367 | 58.3% | +139.9% |
 | Optimistic | ₹2,134 | 73.3% | +274.4% |
+
+> **⚠️ Important:** All three scenarios above use **current-level (peak) owner earnings (24% OPM)**. The 39-73% margin of safety figures depend on these margins sustaining. If margins normalise to mid-cycle 17% OPM (the most probable outcome per the competitive analysis), IV falls to ₹490-648 — **at or below CMP**, meaning zero or marginal margin of safety. See the Key Caveat below.
 
 *Note: All three scenarios use Buffett's flat 10% opportunity-cost hurdle rate as the discount rate — Buffett explicitly rejects WACC, and Munger has called it "nonsense." The scenarios vary in growth assumptions, not discount rate. Sensitivity: at a 12% hurdle, the Conservative IV falls to ~₹680/share (MOS 16%) — still above CMP on peak earnings but with minimal cushion.*
 
@@ -643,7 +645,7 @@ On **peak EPS of ₹51.50**, the implied growth rates are very manageable. Even 
 | Glass packaging industry growth | 8-10% | ~8-10% | Peer comparison |
 | Analyst consensus (FY26-FY27) | ~5-10% (margin compression expected) | — | Market expectations |
 
-**Traffic Light (on peak EPS): 🟢 GREEN — Reasonable price.** The market is not demanding heroic assumptions at 11x peak PE.
+**Traffic Light (on peak EPS — conditional finding): 🟢 GREEN — Reasonable price *if* current 24% OPM sustains.** The market is not demanding heroic assumptions at 11x peak PE. **However, this verdict is conditional on margin sustainability — see the normalised earnings view in Step 5 for the contrarian assessment.**
 
 However, the more important question is: **what if current EPS is NOT sustainable?** If EPS normalises to ₹21 (mid-cycle scenario), the current price of ₹570 implies a PE of 27x on normalised earnings — and to earn 10% over 10 years at 15x terminal PE, you would need EPS to grow from ₹21 to ₹99 — a 16.7% CAGR from already-normalised levels. That is demanding.
 
@@ -653,7 +655,7 @@ However, the more important question is: **what if current EPS is NOT sustainabl
 
 > *"At the current price of ₹570, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 3.7% CAGR (and Owner Earnings at only 2.0% CAGR, since OE > NI for this business). The company has historically grown EPS at 13.2% CAGR and Owner Earnings at 10.0% CAGR over 10 years. This implies the market is pricing in reasonable growth on peak earnings. Note: the OEPS-based hurdle (2.0%) is lower than the EPS-based hurdle (3.7%), with a gap of -1.7pp — confirming the EPS analysis is conservative, not misleadingly optimistic. This business generates more real economic cash than its income statement reports."*
 
-**On peak earnings: 🟢 GREEN — Reasonable price.**
+**On peak earnings: 🟢 GREEN — Reasonable price (conditional on margins sustaining).**
 
 **On normalised earnings: 🟠 ORANGE — Expensive.** At 27x normalised PE, the stock is priced for sustained peak-level profitability. If margins compress, the stock has material downside.
 
@@ -697,11 +699,11 @@ However, the more important question is: **what if current EPS is NOT sustainabl
 | Aluminum can facility fails / oversupply → ₹850 Cr capex stranded | Medium | Not priced in |
 | Simultaneous margin compression + re-leveraging → debt/EBIT >5x | Low-Medium | Not priced in |
 
-**Asymmetry Ratio:** Using base case upside (+140%) and most probable downside (book value floor, -43%): **3.3:1** — a **strong fat pitch** on peak earnings, though this is tempered by the normalisation risk.
+**Asymmetry Ratio:** Using base case upside (+140%) and most probable downside (book value floor, -43%): **3.3:1** — mathematically this crosses the "strong fat pitch" threshold (3:1-5:1 band), but the ratio is misleading because the upside is anchored to **peak earnings** that the competitive analysis says are unlikely to sustain. On a probability-weighted basis (with HNGIL's return reducing IV to ₹490-648), the realistic asymmetry collapses to roughly 1:1 — a marginal, not fat, pitch.
 
-**Mispricing Assessment:** There is a partial mispricing. The market has correctly de-rated the stock from its ₹1,009 high (recognising peak margins), but may not have fully priced in the extent of margin compression when HNGIL returns. The mispricing, if any, is modest — perhaps ₹100-150 of excessive pessimism on a stock whose fair value range is ₹500-937 on peak OE. This is NOT the kind of extreme mispricing that Buffett waits for — because the margins driving this IV may not be sustainable.
+**Mispricing Assessment:** There is a partial mispricing. The market has correctly de-rated the stock from its ₹1,009 high (recognising peak margins), but may not have fully priced in the extent of margin compression when HNGIL returns. The mispricing, if any, is modest — perhaps ₹100-150 of excessive pessimism on a stock whose fair value range is ₹937-1,367 on peak OE (Conservative to Base DCF at 10% hurdle). This is NOT the kind of extreme mispricing that Buffett waits for — because the margins driving this IV may not be sustainable.
 
-**Fat Pitch Verdict:** At ₹570, the realistic downside is approximately 43% to ₹325 (book value floor). The realistic base-case upside is approximately 64-140% depending on margin sustainability. The asymmetry ratio of ~3.3:1 makes this a **strong fat pitch on paper** — but this must be heavily caveated: the upside depends on current-level margins sustaining, while the most probable outcome (HNGIL return compressing margins) reduces the base IV to ₹380-500. The catalysts (Indian glass demand growth, premiumisation, capacity expansion) are real but slow-burning. The anti-catalysts (HNGIL return, margin compression, capex re-leveraging) are nearer-term and more certain. **On peak earnings this is a decent pitch; on normalised earnings this is NOT a fat pitch at ₹570.**
+**Fat Pitch Verdict:** At ₹570, the realistic downside is approximately 43% to ₹325 (book value floor). The realistic base-case upside is approximately 64-140% on peak earnings, but collapses to -14% to +14% (vs. CMP) if margins normalise — because the most probable outcome (HNGIL return) reduces the base IV to ₹490-648 (per the Section 15 Key Caveat, depending on whether the revenue base is current or forward, and on peak vs. repaid debt). The headline asymmetry ratio of 3.3:1 (which mathematically falls in the "strong fat pitch" band) is therefore misleading — it uses peak-OE upside against book-value downside, but the probability-weighted upside is much lower. The catalysts (Indian glass demand growth, premiumisation, capacity expansion) are real but slow-burning. The anti-catalysts (HNGIL return, margin compression, capex re-leveraging) are nearer-term and more certain. **This is NOT a fat pitch at ₹570 — neither on peak earnings (asymmetry is mathematical, not probability-weighted) nor on normalised earnings (no margin of safety at all).**
 
 **Mispricing Identification — Is the Market Giving You a Gift?**
 
@@ -796,8 +798,8 @@ where Annual P/B Change = (Exit P/B / Entry P/B)^(1/n) - 1
 ```
 
 - If P/B stays constant → Return ≈ BV compounding rate (ROE × Retention) = 11.9%
-- If P/B halves over 10 years → ~7% annual drag → return ≈ 11.9% - 7% ≈ 4.9%
-- If P/B drops to one-third over 10 years → ~11% annual drag → return ≈ 11.9% - 11% ≈ 0.9%
+- If P/B halves over 10 years → return ≈ 4.4% (per table — the linear "drag" approximation gives ~4.9%, but compound math is more accurate)
+- If P/B drops to one-third over 10 years → return ≈ 0.3% (per precise calculation — the linear approximation of ~0.9% breaks down at extreme compression)
 
 **Key Insight:** At the current entry P/B of 1.76x with a sustainable ROE of 14% and 85% retention, book value compounds at 11.9% annually. If the P/B multiple remains at 1.76x, the return equals the BV compounding rate of ~12%. The stock can tolerate P/B compression from 1.76x down to approximately **1.48x** before the 10-year return drops below the 10% hurdle rate — the table above confirms that 1.50x yields 10.2% (above hurdle) while 1.32x yields only 8.8% (below hurdle). If P/B compresses to 1.0x (book value), the 10-year return is only 5.8% — well below the hurdle rate.
 
