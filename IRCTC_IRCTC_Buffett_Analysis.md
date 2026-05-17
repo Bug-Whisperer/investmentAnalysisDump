@@ -546,7 +546,7 @@ Buffett: *"Price is what you pay, value is what you get."* At ₹565, you are pa
 | Implied OEPS CAGR (from Step 3B, at 17x P/OE) | 17.9% | |
 | **Gap (OEPS CAGR − EPS CAGR)** | **2.7 pp** | |
 
-**Interpretation:** The 2.7 pp gap falls in the **2-5 pp range (moderate capital intensity).** This tells us IRCTC is predominantly asset-light (the gap is small), but the terminal P/OE multiple for Owner Earnings is inherently more conservative than a PE multiple, making the OEPS-based hurdle slightly harder. For most practical purposes, the EPS-based Reverse DCF is reliable for IRCTC — the business is genuinely asset-light and EPS closely tracks Owner Earnings.
+**Interpretation:** The 2.7 pp gap is **NOT a capital intensity signal** for IRCTC. The true asset-light test is the direct comparison of Owner Earnings to Net Income: ₹1,325 Cr vs ₹1,315 Cr = a gap of just **0.8%**, confirming the business is genuinely asset-light (maintenance CapEx of ~₹43 Cr is nearly offset by D&A of ₹53 Cr). The 2.7 pp Reverse DCF gap arises from two mechanical artifacts: (a) the Step 3B table uses Terminal P/OE = 17x while Step 3 uses Terminal PE = 20x, and (b) the starting points differ (FY25 OEPS ₹16.56 vs TTM EPS ₹17.80). If both calculations are normalised to the same terminal multiple (20x) and the same starting point (TTM), the gap collapses to ~0.1 pp — fully consistent with asset-light classification. The framework here is applying a higher hurdle to OEPS because of multiple selection, not because of capital consumption. **Verdict: IRCTC is asset-light; the EPS-based Reverse DCF is fully reliable.**
 
 ### Reality Check
 
