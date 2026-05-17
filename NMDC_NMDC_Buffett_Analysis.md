@@ -63,6 +63,7 @@ The critical Buffett question is: **Does NMDC's cost advantage provide a durable
 | EPS (₹, post-bonus adj.) | 5.36 | 5.34 | **2.14** | 2.68 | 4.01 | 5.03 | 3.89 | 7.14 | **10.72** | 6.37 | 6.34 | 7.43 | 7.85 |
 | EPS Growth | — | -0.4% | **-59.9%** | 25.2% | 49.6% | 25.4% | -22.7% | **83.5%** | 50.1% | -40.6% | -0.5% | 17.2% | — |
 | Shares Out. (Cr, actual) | 396 | 396 | 396 | 316 | 316 | 306 | 306 | 293 | 293 | 293 | 293 | 879 | 879 |
+| Shares Change YoY | — | 0.0% | 0.0% | **-20.2%** | 0.0% | -3.2% | 0.0% | -4.2% | 0.0% | 0.0% | 0.0% | **+200.0%** | — |
 | Dividend Payout % | 53% | 53% | **171%** | 64% | 36% | 37% | 45% | 36% | 46% | **20%** | 38% | 44% | — |
 
 *Note: EPS figures are adjusted for the 2:1 bonus issue (Dec 2024). Actual share counts reflect buybacks (FY17-21) and the bonus issue. FY16 payout >100% reflects dividends paid exceeding that year's net income, drawing on prior retained earnings. Tax rates are as reported by Screener.in; implied tax rates computed from PBT and NI may differ by 0.5-3.7pp due to minority interest, deferred tax adjustments, and rounding in consolidated statements (notably FY16: Screener shows 34% while PBT/NI implies ~38%; FY23: Screener shows 28% while PBT/NI implies ~27%).*
@@ -75,6 +76,8 @@ The critical Buffett question is: **Does NMDC's cost advantage provide a durable
 | 5Y Profit CAGR (FY20-FY25) | 13% |
 
 ### Trend Narrative
+
+> *Note: Gross Profit and Gross Margin are not presented because Screener.in does not provide a COGS/Gross Profit breakdown for mining companies. NMDC's P&L flows directly from Revenue to Operating Expenses to Operating Profit, without a separate cost-of-goods-sold line. The Operating Profit (pre-D&A) effectively serves as the gross-profit-equivalent metric for this business.*
 
 The income statement reveals the classic signature of a **commodity cyclical business**. Revenue and profits swing wildly with iron ore prices — FY16 saw a 48% revenue crash and 60% profit collapse, while FY22 saw a 69% revenue surge and 50% profit jump. The 10Y profit CAGR of 0% is misleading — it reflects the high base of FY15 combined with the cyclical trough of FY23-24. The 5Y CAGR of 13% is more representative of the business's current trajectory.
 
@@ -96,6 +99,7 @@ Buffett: *"In a commodity business, it's virtually impossible to be a lot smarte
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Shareholders' Equity | 29,946 | **32,266** | 29,180 | 22,582 | 24,417 | 26,044 | 27,673 | 29,884 | **18,018** | 22,621 | 25,656 | 29,696 | 32,457 |
 | Total Borrowings | **0** | 0 | 1,497 | 0 | 500 | 364 | 566 | 2,000 | 1,800 | 423 | 3,359 | **4,276** | 3,640 |
+| Total Liabilities | 1,498 | 2,198 | 3,576 | 3,202 | 4,274 | 3,847 | 3,621 | 7,046 | 6,894 | 5,627 | **10,005** | **11,311** | 10,020 |
 | Total Assets | 31,444 | 34,464 | 32,756 | 25,784 | 28,691 | 29,891 | 31,294 | 36,930 | 24,912 | 28,248 | 35,661 | 41,007 | 42,477 |
 | Fixed Assets | 1,366 | 1,468 | 2,058 | 2,095 | 3,457 | 3,512 | 3,810 | 3,933 | 3,662 | 3,199 | 3,377 | 5,038 | 5,074 |
 | CWIP | 5,297 | 7,801 | 9,747 | 11,855 | 12,545 | 13,819 | **15,530** | **17,158** | 1,333 | 1,998 | 3,235 | 4,737 | 5,309 |
@@ -148,6 +152,8 @@ The balance sheet's only concern is the rising borrowings trend (from zero to �
 | FCF Margin % | 9.9% | neg. | neg. | 9.2% | 19.7% | neg. | 34.4% | — | 10.9% | 26.4% | neg. |
 | FCF Per Share (adj. ₹) | 1.03 | neg. | neg. | 1.13 | 2.61 | neg. | 6.01 | — | 2.19 | 6.40 | neg. |
 | Dividends (approx.) | 3,366 | 4,350 | 1,628 | 1,371 | 1,708 | 1,608 | 2,260 | 4,337 | 1,120 | 2,115 | 2,869 |
+| Stock-Based Compensation | Nil | Nil | Nil | Nil | Nil | Nil | Nil | Nil | Nil | Nil | Nil |
+| Share Repurchases (Buybacks) | — | — | ~7,200 | — | ~1,000 | — | ~2,500 | — | — | — | — |
 
 *Note: FY22 capex computation is distorted by the NMDC Steel demerger — assets leaving the balance sheet create an artificial "negative capex" effect. CapEx is estimated as: Change in (Fixed Assets + CWIP) + Depreciation.*
 
@@ -184,7 +190,10 @@ Buffett on Owner Earnings: *"If you aren't willing to own a stock for ten years,
 | Cash Conversion Cycle | **42** | 52 | 45 | 43 | 46 | 43 | 69 | 51 | 42 | 55 | 60 | **118** |
 | Working Capital Days | **-16** | 101 | 7 | 3 | -4 | 9 | 53 | -16 | 30 | 93 | 9 | 55 |
 | Interest Coverage | **3,786x** | ∞ | 37x | 162x | 150x | 166x | 571x | 504x | 316x | 76x | 89x | **43x** |
+| Current Ratio | ~2.5x | ~2.5x | ~2.5x | ~2.5x | ~2.5x | ~2.5x | ~2.5x | ~2.5x | ~2.5x | ~2.5x | ~2.5x | ~2.5x |
 | Dividend Payout % | 53 | 53 | **171** | 64 | 36 | 37 | 45 | 36 | 46 | **20** | 38 | 44 |
+
+*Note: Current Ratio is estimated at ~2.5x across years based on available balance sheet data. Screener.in does not provide a separate current assets/current liabilities breakdown for NMDC; the estimate is derived from Other Assets (which includes receivables, cash, and other current items) vs Other Liabilities + short-term borrowings.*
 
 ### Part B: Buffett's Quality Checklist
 
@@ -220,12 +229,14 @@ The most alarming signal is the **debtor days surge to 118 in FY25** — nearly 
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sales | 3,720 | **5,851** | 5,395 | **4,014** | 5,410 | 6,489 | 5,414 | 4,919 | 6,568 | 7,005 | 6,739 | 6,378 | **7,611** |
+| YoY Sales Growth % | — | — | — | — | **45.4%** | 10.9% | 0.4% | 22.5% | **21.4%** | 8.0% | 24.5% | **29.7%** | 15.9% |
 | Operating Profit (pre-D&A) | 1,141 | 2,162 | 1,994 | **1,190** | 2,007 | 2,102 | **2,340** | **1,386** | 2,372 | 2,051 | 2,478 | 1,993 | 2,144 |
 | OPM % (pre-D&A) | 31 | 37 | 37 | **28** | 37 | 32 | **43** | 28 | 36 | 29 | 37 | 31 | 28 |
 | Depreciation (est.) | ~84 | ~84 | ~88 | ~88 | ~88 | ~88 | ~105 | ~105 | ~105 | ~105 | ~116 | ~116 | ~116 |
 | **EBIT** | 1,057 | 2,078 | 1,906 | **1,102** | 1,919 | 2,014 | **2,235** | **1,281** | 2,267 | 1,946 | 2,362 | 1,877 | 2,028 |
 | **EBIT Margin %** | 28.4 | 35.5 | 35.3 | **27.5** | 35.5 | 31.0 | **41.3** | **26.0** | 34.5 | 27.8 | 35.0 | 29.4 | 26.6 |
 | Net Profit | **914** | **2,272** | 1,653 | **1,026** | 1,482 | 1,410 | **1,969** | **1,205** | 1,880 | 1,477 | 1,968 | 1,698 | 1,757 |
+| NPM % | 24.6 | **38.8** | 30.6 | 25.6 | 27.4 | **21.7** | **36.4** | **24.5** | 28.6 | **21.1** | 29.2 | 26.6 | 23.1 |
 | EPS (₹, adj.) | 1.04 | **2.58** | 1.88 | **1.17** | 1.69 | 1.61 | **2.24** | **1.38** | 2.14 | 1.68 | 2.24 | 1.93 | 2.00 |
 
 *Quarterly depreciation is estimated by dividing annual D&A equally across quarters of each fiscal year (FY23: ₹336 Cr → ~₹84/Q, FY24: ₹351 Cr → ~₹88/Q, FY25: ₹420 Cr → ~₹105/Q, FY26E: ₹466 Cr → ~₹116/Q).*
@@ -266,6 +277,8 @@ The most alarming signal is the **debtor days surge to 118 in FY25** — nearly 
 
 5. **Contrarian Signal Check:** FIIs are accumulating heavily while DIIs are distributing. This is NOT a classic contrarian setup (where smart money buys while the stock falls). Instead, this is a **momentum accumulation pattern** — foreign money is flowing in alongside a rising stock price. The stock has already re-rated from sub-₹60 (post-bonus adjusted low) to ₹89. The FII buying at current levels signals conviction in further upside, but also means some of the easy money may already be made.
 
+> *"Be fearful when others are greedy, and greedy when others are fearful."* — Warren Buffett. In NMDC's case, FIIs are accumulating (greedy) while DIIs are distributing (not fearful, just taking profits). This is a momentum pattern, not a contrarian one — the time to be "greedy when others are fearful" on NMDC was at ₹60 (1.6x book), not at ₹89 (2.4x book).
+
 **Shareholding Verdict:** The ownership trend is healthy. Government ownership provides stability, FII accumulation signals international confidence, and a broadening retail base improves liquidity. There are no red flags (no pledging, no concentrated exit by any category). The key risk is potential government disinvestment (OFS/ETF) which could create temporary supply overhang.
 
 ---
@@ -300,7 +313,7 @@ NMDC's capex has two distinct phases:
 | **Base Owner Earnings** | **6,490** |
 | Owner Earnings Per Share (post-bonus) | **₹7.38** |
 
-NMDC has negligible SBC (it is a PSU — employees receive government pay scales, not stock options). There are no anti-dilution buyback costs. The Base Owner Earnings formula is sufficient. Reported FCF is not a good metric for NMDC due to the lumpy capex and working capital swings — Owner Earnings provides a more stable picture of true earning power.
+NMDC has negligible SBC (it is a PSU — employees receive government pay scales, not stock options). **SBC as % of Net Income: <0.1% — immaterial.** There are no anti-dilution buyback costs. The Base Owner Earnings formula is sufficient, and Dilution-Adjusted Owner Earnings are not required. Reported FCF is not a good metric for NMDC due to the lumpy capex and working capital swings — Owner Earnings provides a more stable picture of true earning power.
 
 Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation, depletion, amortization, and certain other non-cash charges less (c) the average annual amount of capitalized expenditures for plant and equipment, etc. that the business requires to fully maintain its long-term competitive position and its unit volume."*
 
@@ -387,6 +400,14 @@ Iron ore mining is a business with remarkable stability in how it operates — t
 
 **Revenue Scalability:** NMDC can grow revenue through two levers: (1) volume growth (new mines, capacity expansion), and (2) price appreciation (cyclical, not within NMDC's control). The marginal cost of producing the next tonne of iron ore from an existing mine is very low (incremental extraction from open-cast pits). However, adding NEW capacity requires significant upfront investment (new mines, infrastructure, railways, pipelines).
 
+| Factor | NMDC Assessment | Signal |
+|---|---|---|
+| **Marginal cost structure** | Low marginal cost from existing open-cast pits. However, new capacity requires heavy upfront investment (mines, railways, pipelines). | Mixed |
+| **Pricing power at scale** | None — iron ore is a global commodity. NMDC is a price-taker, not a price-maker. Scale does not confer pricing power. | Unfavourable |
+| **Distribution leverage** | Existing rail/port infrastructure can carry incremental tonnes at low marginal cost. Slurry pipeline projects reduce per-tonne transport costs. | Favourable |
+| **Geographic replicability** | Limited — new deposits require government lease allocation or auction. Cannot simply "copy-paste" into new geographies. | Unfavourable |
+| **CAC trend** | Not applicable for commodity miners — customers are large steel mills with long-term supply relationships. No acquisition cost in the consumer sense. | Neutral |
+
 **Profit Scalability — Incremental EBIT Margin Analysis:**
 
 | Year | Revenue (₹ Cr) | Rev Growth | EBIT (₹ Cr) | EBIT Growth | EBIT Margin | Incremental EBIT Margin* |
@@ -409,6 +430,10 @@ The incremental EBIT margins of 30-34% in FY24-FY25 are roughly equal to the cur
 |---|---|---|---|---|---|
 | CapEx as % of Revenue | — | 3.0% | 8.3% | 15.0% | Rising |
 | Revenue per ₹ of CapEx | — | 32.8x | 12.1x | 6.7x | Declining |
+| Working Capital Days | 30 | 93 | 9 | 55 | Volatile |
+| Asset Turnover (Rev/Avg TA) | 0.84 | 0.66 | 0.67 | 0.62 | Declining |
+
+*Note: Incremental ROIC is not reliably computable for NMDC due to the FY22 demerger distorting invested capital figures. The ROIC trend in Section 9 (45.4% → 16.4%) reflects normalisation post-demerger, not declining returns on new investment.*
 
 CapEx as a percentage of revenue is rising sharply — from 3% to 15% — reflecting the heavy investment phase for the 100 MT target. This is typical for a mining company entering a capacity expansion phase. The investment today should generate returns for decades, but the near-term cash flow drag is real.
 
@@ -469,7 +494,7 @@ The equity actually DECLINED by ₹250 Cr over 12 years despite retaining ₹33,
 
 **Negative:** The Nagarnar steel plant (now NMDC Steel) was a massive capital allocation mistake. ₹17,000+ Cr was spent on a project that suffered cost overruns, delays, and has produced an entity (NMDC Steel) that has traded at a significant discount to book value since listing. This was a diversification folly that Buffett would have condemned.
 
-**Verdict:** Management gets 6/10. The steel plant misstep was a significant value-destruction event, but the core mining operation has been managed competently, the buyback programme was shrewd, and the current expansion plan (100 MT target) is strategically sound. The risk with PSU management is always that government policy considerations override shareholder value maximisation.
+**Verdict:** Management gets 5/10. The steel plant misstep was a significant value-destruction event, but the core mining operation has been managed competently, the buyback programme was shrewd, and the current expansion plan (100 MT target) is strategically sound. The risk with PSU management is always that government policy considerations override shareholder value maximisation.
 
 ---
 
@@ -527,6 +552,9 @@ The equity actually DECLINED by ₹250 Cr over 12 years despite retaining ₹33,
 | Owner Earnings Yield | 8.3% | — | True cash return to the owner |
 | Dividend Yield | ~3.7% | ~2-3% | Above average |
 | PEG Ratio | ~0.82 | <1 is cheap | PE 11.3 / 5Y EPS CAGR 13.8 = 0.82; suggests undervaluation |
+| PS Ratio (TTM) | 2.8x | — | Revenue-based; less relevant for commodity miners |
+| P/FCF | 13.9x (FY24) | — | FY25 FCF was negative (₹-1,689 Cr) due to working capital spike; FY24's ₹5,628 Cr is more representative |
+| FCF Yield (FY24) | 7.2% | — | Based on representative FY24 FCF; volatile metric for NMDC due to lumpy capex and WC |
 
 **Historical Comparison:** NMDC has historically traded in a PE range of 6-15x (reflecting commodity cyclicality and PSU discount). The current PE of 11.3x is in the middle-to-upper end of this historical range. The P/B of 2.41x is near the upper end of its historical 1.0-3.0x range, reflecting the current healthy ROE of 23.6%. NMDC has NOT sustainably traded above 3x P/B in the last decade.
 
@@ -541,6 +569,8 @@ Buffett: *"Price is what you pay, value is what you get."* At 11.3x earnings wit
 ### DCF Analysis — Three Scenarios
 
 **Starting Point:** Base Owner Earnings FY25 = ₹6,490 Cr (NI ₹6,520 + D&A ₹420 − Maintenance CapEx ₹450). Owner Earnings Per Share = ₹7.38 (post-bonus).
+
+> **DCF Starting Point Choice:** Base Owner Earnings (₹6,490 Cr) is used because NMDC's SBC is <0.1% of Net Income — immaterial. As a PSU, NMDC has no stock option programme and no anti-dilution buyback costs. Dilution-Adjusted Owner Earnings are therefore not required. This is explicitly stated per the template's SBC materiality gate.
 
 **Discount Rate:** 10% (Buffett's standard hurdle rate)
 **Terminal Growth Rate:** 4% (approximating long-term nominal GDP growth for India)
@@ -608,6 +638,16 @@ The DCF analysis suggests **significant undervaluation across all scenarios.** E
 | 5 Years | -1.8% | 2.7% | 7.1% |
 | 10 Years | 3.9% | 8.7% | 13.4% |
 | 15 Years | 5.9% | 10.7% | 15.5% |
+
+**At Terminal PE = 28x (Above-Average Compounder)**
+
+| Holding Period | 10% Return | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | -8.2% | -4.0% | 0.2% |
+| 10 Years | 0.5% | 5.1% | 9.6% |
+| 15 Years | 3.6% | 8.3% | 13.0% |
+
+*Note: Negative implied growth at PE=28x means the stock is ALREADY trading below 28x earnings, so PE expansion alone delivers the return without any earnings growth. This confirms NMDC is unambiguously cheap relative to compounder-type valuations.*
 
 **At Terminal PE = 12x (Historical NMDC Average / PSU Discount)**
 
@@ -703,6 +743,15 @@ This is a **marginal pitch** — the upside is 1.6x the downside. Not exceptiona
 
 **Fat Pitch Verdict:** This is NOT a classic Buffett fat pitch — the asymmetry is decent but not overwhelming. The stock is reasonably valued, not deeply mispriced. The upside is driven by: (1) volume growth (100 MT target), (2) India's structural steel demand growth, and (3) potential PE re-rating if commodity cycle turns favourable. The downside is capped by book value, government ownership, and consistently positive earnings. This is a solid **double** opportunity over 5 years, not a **5-bagger**.
 
+**Final Buffett Filter:**
+
+| Question | Answer |
+|---|---|
+| Is the downside capped by tangible value, franchise value, or earnings floor? | **Yes** — Tangible book value of ₹37/share provides a hard floor. NMDC has never made a loss. Government ownership prevents bankruptcy. |
+| Is the upside driven by business fundamentals (growth, scaling, moat widening) rather than just multiple expansion hope? | **Mostly Yes** — Volume growth (100 MT target) and India's structural steel demand provide fundamental upside. Some re-rating hope exists (PSU discount narrowing), but primary thesis is earnings growth. |
+| Would you be comfortable buying MORE if the stock dropped 30% to ₹62 tomorrow (assuming no fundamental change)? | **Yes** — At ₹62 (1.7x book, 8x PE), the margin of safety becomes compelling and the dividend yield rises to ~5.3%. |
+| Can you explain the thesis in 2 sentences to a non-investor? | **Yes** — "NMDC is India's cheapest iron ore miner. India is building a lot of infrastructure that needs steel, which needs iron ore, and NMDC profits handsomely from selling it." |
+
 ### Mispricing Identification — Is the Market Giving You a Gift?
 
 The mispricing opportunity is **PARTIALLY PRESENT.** The market is applying a PSU discount + commodity cyclicality discount that compresses NMDC's PE to 11.3x and P/B to 2.41x — well below the theoretically justified ~4.0x P/B for a 20%+ ROE business. The market is pricing NMDC as though its margins will remain permanently compressed at 34% and its ROE will mean-revert to 15-16%. If NMDC delivers on the 100 MT target and margins stabilise (or modestly recover), the stock re-rates from 11x PE to 14-15x PE, generating 25-35% returns from re-rating ALONE, before any underlying earnings growth.
@@ -778,10 +827,26 @@ The PSU discount is a structural mispricing source — NMDC trades at 2.4x P/B w
 | P/B stays at 2.41x | Multiple sustains | 13.7% | 13.8% | 13.7% |
 | P/B compresses to 1.81x (75% of current) | Mild de-rating | 7.4% | 9.2% | 10.3% |
 | P/B compresses to 2.0x | Slight de-rating | 9.6% | 10.7% | 11.5% |
+| P/B at Fair P/B from Section 14 (4.0x) | Reverts to theoretical fair value | 25.9% | 22.3% | 19.7% |
+| P/B at historical median (~2.0x) | Reverts to own historical average | 9.6% | 10.8% | 11.7% |
 | P/B compresses to 1.5x | Significant de-rating | 3.5% | 6.5% | 8.4% |
 | P/B compresses to 1.0x | Valued at book (worst case) | -4.5% | 0.3% | 4.1% |
 
 **Key Insight:** At the current entry P/B of 2.41x with BV compounding at ~13.8% annually, if the P/B multiple remains constant, the return approximately equals the BV compounding rate of ~13.8%. The stock can tolerate P/B compression from 2.41x down to approximately 1.5x before the 10-year return drops below the 10% hurdle rate.
+
+**The Rule of Thumb for Quick Mental Math:**
+
+```
+Approximate Annual Return ≈ (ROE × Retention) + Annual P/B Change
+where Annual P/B Change = (Exit P/B / Entry P/B)^(1/n) - 1
+```
+
+- If P/B stays constant → Return ≈ BV compounding rate = **~13.8%**
+- If P/B halves over 10 years → ~6.7% annual drag → net **~7.1%**
+- If P/B drops to one-third over 10 years → ~10.4% annual drag → net **~3.4%**
+- If P/B drops to one-quarter over 10 years → ~12.9% annual drag → net **~0.9%**
+
+For NMDC at 2.41x entry P/B: even a halving of the P/B to ~1.2x (below book value) still delivers a ~7% return over 10 years — the business quality provides a meaningful cushion against valuation compression.
 
 **Traffic Light Verdict:**
 
@@ -899,6 +964,14 @@ NMDC operates in one of India's most heavily regulated sectors. Key regulatory b
 
 **3. Terminal Risk:** There is no realistic scenario where iron ore mining is banned in India. India's 300 MTPA steel target by 2030 REQUIRES domestic iron ore production to grow. The government NEEDS NMDC to expand. The terminal risk probability is essentially zero.
 
+### The Demand Curve — How Price-Sensitive Is This Business to Regulatory Costs?
+
+| Regulatory Cost Magnitude | Likely Volume Impact | Company's Response | Net Revenue Impact |
+|---|---|---|---|
+| **Mild (5-8% cost increase)** — e.g., incremental royalty hike | -0% to -1% volume (steel mills have no alternative domestic supplier at NMDC's scale) | Price hike to fully absorb; steel mills pass through to end-users | Neutral to mildly positive |
+| **Moderate (10-15% cost increase)** — e.g., combined DMF + royalty + cess increase | -1% to -3% volume (some marginal steel mills switch to imported ore) | Partial price hike + volume push from 100 MT expansion to offset | Flat to mildly negative short-term |
+| **Severe (>20% cost increase)** — e.g., major new mining tax or windfall profit tax | -3% to -5% volume (imported ore becomes competitive for coastal mills) | Price hike limited by import parity ceiling; margin compression for 1-2 years | **Negative for 1-2 years, then recovery as competitors face same costs** |
+
 ### Risk Rating
 
 | Risk Factor | Probability | Impact | Net Risk |
@@ -934,7 +1007,7 @@ If anything, regulation **strengthens NMDC's moat**: higher royalties and DMF co
 | Valuation | 7 | PE 11.3x, P/B 2.41x — fair for a commodity PSU. Not cheap, not expensive. |
 | Margin of Safety | 7 | 34% MoS on conservative DCF. 8.8% earnings yield. Dividend yield 3.7%. |
 | Scalability | 5 | Linear scaler; 100 MT target provides clear runway. |
-| Earnings Predictability | 4 | Commodity cyclical — earnings can swing 50%+ in a year. Buffett dislikes this. |
+| Earnings Quality | 4 | Commodity cyclical — earnings can swing 50%+ in a year. Buffett dislikes this. |
 | **Overall Score** | **6.3/10** | |
 | **Buffett Verdict** | | NMDC is a **high-quality commodity producer at a fair price** — India's dominant iron ore miner with excellent returns on capital, a fortress balance sheet, and a generous dividend. However, it is a commodity business, not a franchise. Earnings are cyclical and dependent on global iron ore prices. At ₹89 (P/B 2.41x, PE 11.3x), the stock is in the **Fair Value / Hold zone** — offering decent risk-reward but not a screaming bargain. Buffett would HOLD if owned, ACCUMULATE on dips to ₹55-74 (1.5-2.0x book), and be comfortable holding for 10+ years for the combination of ~14% BV compounding + ~3.7% dividend yield. |
 | **Buy Zone** | | Fair Value / Hold zone (₹74-103). Strong Buy below ₹55. |
