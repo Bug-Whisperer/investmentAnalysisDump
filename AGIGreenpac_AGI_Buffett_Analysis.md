@@ -799,11 +799,11 @@ where Annual P/B Change = (Exit P/B / Entry P/B)^(1/n) - 1
 - If P/B halves over 10 years → ~7% annual drag → return ≈ 11.9% - 7% ≈ 4.9%
 - If P/B drops to one-third over 10 years → ~11% annual drag → return ≈ 11.9% - 11% ≈ 0.9%
 
-**Key Insight:** At the current entry P/B of 1.76x with a sustainable ROE of 14% and 85% retention, book value compounds at 11.9% annually. If the P/B multiple remains at 1.76x, the return equals the BV compounding rate of ~12%. The stock can tolerate P/B compression from 1.76x down to approximately 1.32x before the 10-year return drops below the 10% hurdle rate. If P/B compresses to 1.0x (book value), the 10-year return is only 5.8% — well below the hurdle rate.
+**Key Insight:** At the current entry P/B of 1.76x with a sustainable ROE of 14% and 85% retention, book value compounds at 11.9% annually. If the P/B multiple remains at 1.76x, the return equals the BV compounding rate of ~12%. The stock can tolerate P/B compression from 1.76x down to approximately **1.48x** before the 10-year return drops below the 10% hurdle rate — the table above confirms that 1.50x yields 10.2% (above hurdle) while 1.32x yields only 8.8% (below hurdle). If P/B compresses to 1.0x (book value), the 10-year return is only 5.8% — well below the hurdle rate.
 
 **Traffic Light Verdict:**
 
-At CMP ₹570 (1.76x P/B): If P/B halves to 0.88x over 10 years, the 10-year CAGR is approximately 4.4% — **below hurdle**. The stock needs P/B to stay above ~1.3x to deliver 10% returns over 10 years.
+At CMP ₹570 (1.76x P/B): If P/B halves to 0.88x over 10 years, the 10-year CAGR is approximately 4.4% — **below hurdle**. The stock needs P/B to stay above ~1.5x to deliver 10% returns over 10 years.
 
 **🟡 YELLOW — Risky entry.** Returns are dependent on sentiment sustaining the P/B multiple near current levels. If the market de-rates AGI back to 1.0x book (which it did in FY19), the returns are poor despite decent BV compounding.
 
