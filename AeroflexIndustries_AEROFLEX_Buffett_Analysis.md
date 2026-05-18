@@ -2,7 +2,7 @@
 
 **Analysis Date:** April 29, 2026  
 **CMP:** ₹289 (as of April 10, 2026)  
-**Market Cap:** ₹3,823 Cr  
+**Market Cap:** ₹3,843 Cr  
 **Sector:** Capital Goods — Industrial Products (Iron & Steel Products)  
 **Mode:** STANDARD (Non-Financial Industrial Manufacturer)
 
@@ -61,7 +61,7 @@ Buffett: *"I try to invest in businesses that are so wonderful that an idiot can
 | EPS (Split-Adj, ₹) | **0.43** | 0.52 | 2.43 | 2.61 | 3.23 | **4.08** | 3.80 |
 | EPS Growth YoY | — | 20.9% | **367.3%** | 7.4% | 23.8% | 26.3% | **-6.9%** |
 | Shares Outstanding (Cr) | 2.3 | 2.3 | 2.3 | 11.5 | 13.0 | 13.0 | 13.2 |
-| Shares Change YoY | — | 0.0% | 0.0% | **+400.0%** (5:1 split) | +13.0% (IPO) | 0.0% | +1.8% (pref allotment) |
+| Shares Change YoY | — | 0.0% | 0.0% | **+400.0%** (5:1 split) | +13.0% (IPO) | 0.0% | +2.3% (pref allotment) |
 | Dividend Payout % | 0% | 0% | 0% | 8% | 8% | 7% | — |
 
 *†Gross Profit is approximated. Screener.in's expense breakdown does not isolate COGS for Aeroflex; Gross Margin is estimated using raw material cost as a proxy (typically 45-55% of revenue for SS metal hose manufacturing). Treat these as directional indicators of cost-of-goods stability, not precise figures.*
@@ -169,7 +169,7 @@ OCF quality varies — FY23 had weak OCF (₹7 Cr vs ₹30 Cr NI) likely due to 
 
 *Maintenance capex estimated at 30% of total capex, given the heavy growth investment phase. The remaining 70% is growth capex (new capacity, new products, acquisition).*
 
-Buffett: *"Owner earnings are approximated by reported earnings plus depreciation, depletion, amortisation, and certain other non-cash charges less the average annual amount of capitalised expenditures for plant and equipment that the business requires to fully maintain its long-term competitive position and unit volume."* At ₹41.8 Cr of Owner Earnings on a market cap of ₹3,823 Cr, the stock trades at **~91.5x Owner Earnings** — an extremely rich multiple that demands exceptional future growth to justify.
+Buffett: *"Owner earnings are approximated by reported earnings plus depreciation, depletion, amortisation, and certain other non-cash charges less the average annual amount of capitalised expenditures for plant and equipment that the business requires to fully maintain its long-term competitive position and unit volume."* At ₹41.8 Cr of Owner Earnings on a market cap of ₹3,843 Cr (CMP × 13.30 Cr shares), the stock trades at **~92x Owner Earnings** — an extremely rich multiple that demands exceptional future growth to justify.
 
 ---
 
@@ -269,7 +269,7 @@ The consistently high ROCE (22-36%) signals genuine pricing power and competitiv
 
 **Analysis:**
 
-**Promoter:** Stable at 66.99% for 2+ years until Feb 2026, when it dipped to 65.47% due to the preferential allotment of ~23 lakh shares to institutional investors (including Ashish Kacholia). The promoter's holding decreased purely due to dilution from the preferential issue, not from selling. No pledging of promoter shares.
+**Promoter:** Stable at 66.99% for 2+ years until Feb 2026, when it dipped to 65.47% due to the preferential allotment of ~30 lakh shares to institutional investors (including Ashish Kacholia). The promoter's holding decreased purely due to dilution from the preferential issue, not from selling. No pledging of promoter shares.
 
 **FIIs:** Very low and volatile (0.13% to 1.57%), reflecting the small-cap nature and limited institutional coverage. The stock is too small for most large FII mandates.
 
@@ -304,7 +304,7 @@ The capex surge in FY24-FY25 (₹64-74 Cr) represents a **step-change** in the b
 - Miniature metal bellows facility
 - Robotic welding and automation (₹97.56 Cr total planned investment)
 
-**SBC & Dilution:** Aeroflex does not have material stock-based compensation. The only dilution event was the IPO (FY24) which raised equity from ₹23 Cr to ₹26 Cr, and the Feb 2026 preferential allotment of ~23 lakh shares at ₹182.70 (taking diluted share count from 13.0 Cr to 13.23 Cr). Total dilution since IPO is modest (~15% from pre-IPO base), and the Feb 2026 allotment was at a meaningful premium to book value (₹182.70 vs BVPS of ~₹27.8) — **value-accretive** to existing shareholders.
+**SBC & Dilution:** Aeroflex does not have material stock-based compensation. The only dilution event was the IPO (FY24) which raised equity from ₹23 Cr to ₹26 Cr, and the Feb 2026 preferential allotment of ~30 lakh shares at ₹182.70 (taking diluted share count from 13.00 Cr to 13.30 Cr). Total dilution since IPO is modest (~15% from pre-IPO base), and the Feb 2026 allotment was at a meaningful premium to book value (₹182.70 vs BVPS of ~₹27.8) — **value-accretive** to existing shareholders.
 
 Buffett: *"The ideal business is one that takes no capital, and yet grows."* Aeroflex is far from that ideal in its current phase — it is investing aggressively. The test will be whether these investments generate returns above the cost of capital over the next 3-5 years.
 
@@ -442,12 +442,12 @@ Aeroflex is at the **Inflection Point / Scaling Phase** — the business model i
 | Metric | Value |
 |---|---|
 | IPO Market Cap (Aug 2023, ₹141/share × 13.0 Cr post-IPO shares) | ~₹1,833 Cr |
-| Current Market Cap | ~₹3,823 Cr |
-| Market Cap Change | +₹1,990 Cr |
+| Current Market Cap (₹289 × 13.30 Cr post-allotment shares) | ~₹3,843 Cr |
+| Market Cap Change | +₹2,010 Cr |
 | Retained Earnings since IPO (FY24+FY25, net of dividends) | ~₹88 Cr |
-| **$1 Test Result** | **₹22.6 per ₹1 retained** |
+| **$1 Test Result** | **₹22.8 per ₹1 retained** |
 
-The ₹22.6x result is extraordinary — but misleading. The market has re-rated the stock massively (PE expanded from ~44x at IPO to ~76x now), which is driving most of the market cap increase. The genuine value creation is in the underlying business improvement (revenue growth, margin expansion, debt elimination), but the $1 test is heavily inflated by speculative multiple expansion.
+The ₹22.8x result is extraordinary — but misleading. The market has re-rated the stock massively (PE expanded from ~44x at IPO to ~76x now), which is driving most of the market cap increase. The genuine value creation is in the underlying business improvement (revenue growth, margin expansion, debt elimination), but the $1 test is heavily inflated by speculative multiple expansion.
 
 **Capital Allocation:** The management has been disciplined: repaid all debt, invested in capacity expansion, made a sensible bolt-on acquisition (Hyd-Air at 3-4x revenue), and commenced dividends (7-8% payout). The Feb 2026 preferential issue at ₹182.70 (well above book value of ₹27.8) was accretive to existing shareholders.
 
@@ -477,7 +477,7 @@ The operational story is clear: capacity is expanding, product mix is improving 
 
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current |
 |---|---|---|---|---|---|---|---|
-| **P/Owner Earnings** (primary Buffett-pure) | — | — | — | — | — | 91x | **~91.5x** |
+| **P/Owner Earnings** (primary Buffett-pure) | — | — | — | — | — | 92x | **~92x** |
 | PE Ratio (TTM) | — | — | — | — | ~43x | ~55x | **76.1x** |
 | Forward PE (on FY26E EPS ~₹4.30) | — | — | — | — | — | — | **~67x** |
 | PS Ratio | — | — | — | — | ~6.0x | ~7.7x | **9.4x** |
@@ -493,7 +493,7 @@ The operational story is clear: capacity is expanding, product mix is improving 
 
 **Historical Comparison:** The stock has never traded below 40x PE since listing. The current TTM PE of 76x is at the **high end** of its short trading history. The P/B of 11x is extreme for an industrial manufacturer — typical industrial P/B ratios are 2-5x.
 
-**Is the stock cheap on any metric?** No. On every valuation metric — PE, P/B, EV/EBIT, P/Owner Earnings, earnings yield, owner earnings yield — the stock is trading at premium-to-extreme valuations. The owner earnings yield of 1.1% means an investor is paying ~₹91.5 for every ₹1 of true economic earnings.
+**Is the stock cheap on any metric?** No. On every valuation metric — PE, P/B, EV/EBIT, P/Owner Earnings, earnings yield, owner earnings yield — the stock is trading at premium-to-extreme valuations. The owner earnings yield of 1.1% means an investor is paying ~₹92 for every ₹1 of true economic earnings.
 
 Buffett: *"Price is what you pay, value is what you get."* At 76x TTM earnings and 11x book, the price being paid is extraordinary. The question is whether the value (future earnings growth) can justify it.
 
@@ -530,18 +530,18 @@ Buffett: *"Price is what you pay, value is what you get."* At 76x TTM earnings a
 | **Total Enterprise Value** | | **₹1,937 Cr** |
 | Less: Net Debt (Aeroflex has ~₹26 Cr net cash → subtracting -26) | | +₹26 Cr |
 | **Equity Intrinsic Value** | | **₹1,963 Cr** |
-| Diluted Shares Outstanding (post Feb 2026 allotment) | | 13.23 Cr |
+| Diluted Shares Outstanding (post Feb 2026 allotment) | | 13.30 Cr |
 | **Intrinsic Value Per Share** | | **₹148** |
 | Margin of Safety vs CMP ₹289 = (148 − 289) / 148 | | **−95.3%** |
-| Downside from CMP = (148 − 289) / 289 | | **−48.7%** |
+| Downside from CMP = (148 − 289) / 289 | | **−48.8%** |
 
 ### Summary — All Three Scenarios (Discount Rate = 10% Flat)
 
 | Scenario | Growth Yr 1-5 | Growth Yr 6-10 | Terminal g | IV/Share | MoS (vs IV) | Upside/(Downside) vs CMP ₹289 |
 |---|---|---|---|---|---|---|
-| **Conservative** | 12% | 10% | 5% | **₹109** | **−165.1%** | **(−62.3%)** |
-| **Base** | 18% | 12% | 5% | **₹148** | **−95.3%** | **(−48.7%)** |
-| **Optimistic** | 22% | 15% | 5% | **₹193** | **−49.7%** | **(−33.2%)** |
+| **Conservative** | 12% | 10% | 5% | **₹108** | **−167.6%** | **(−62.6%)** |
+| **Base** | 18% | 12% | 5% | **₹148** | **−95.3%** | **(−48.8%)** |
+| **Optimistic** | 22% | 15% | 5% | **₹192** | **−50.5%** | **(−33.6%)** |
 
 > *Note on Growth Anchor — Honest Disclosure:* The Base case Year 1-5 growth of 18% is anchored closer to the **3Y EPS CAGR of ~19%** than to the **3Y Owner Earnings CAGR of ~14%**. This is a forward-looking choice — we are assuming the heavy FY24-FY25 capex translates into earnings growth that catches up with EPS growth (i.e., the gap between EPS growth and OE growth narrows as maintenance capex stabilises relative to depreciation). If OE growth continues to lag EPS growth at the historical 4-5 pp gap, the more honest base case would use 14%/10%/5%, which yields an IV of approximately **₹118** — much closer to the Conservative case. **Either way, the stock is materially overvalued.**
 
@@ -553,15 +553,15 @@ Sensitivity of Base case IV to this assumption:
 
 | Maintenance CapEx % | Maint CapEx FY25 (₹ Cr) | Owner Earnings (₹ Cr) | OEPS (₹) | P/OE | Base IV/Share |
 |---|---|---|---|---|---|
-| 25% (more aggressive) | 18.5 | 45.5 | 3.44 | 84x | **₹161** |
-| **30% (document base)** | **22.2** | **41.8** | **3.16** | **91.5x** | **₹148** |
-| 35% (more conservative) | 25.9 | 38.1 | 2.88 | 100x | **₹135** |
-| 40% (heavy sustaining) | 29.6 | 34.4 | 2.60 | 111x | **₹122** |
-| 50% (worst case) | 37.0 | 27.0 | 2.04 | 142x | **₹97** |
+| 25% (more aggressive) | 18.5 | 45.5 | 3.42 | 84.5x | **₹161** |
+| **30% (document base)** | **22.2** | **41.8** | **3.14** | **92.0x** | **₹148** |
+| 35% (more conservative) | 25.9 | 38.1 | 2.86 | 100.9x | **₹135** |
+| 40% (heavy sustaining) | 29.6 | 34.4 | 2.59 | 111.7x | **₹122** |
+| 50% (worst case) | 37.0 | 27.0 | 2.03 | 142.4x | **₹96** |
 
-**Key takeaway:** Across the entire plausible range of maintenance capex assumptions (25-50%), the Base case IV varies from ₹97 to ₹161 — and remains materially below the current price of ₹289 in every single case. Even at a 25% maintenance capex assumption (aggressive — assumes most capex is genuine growth), the IV of ₹161 implies a 44% downside from current price. The thesis (overvalued at ₹289) does not depend on the precise maintenance capex assumption.
+**Key takeaway:** Across the entire plausible range of maintenance capex assumptions (25-50%), the Base case IV varies from ₹96 to ₹161 — and remains materially below the current price of ₹289 in every single case. Even at a 25% maintenance capex assumption (aggressive — assumes most capex is genuine growth), the IV of ₹161 implies a 44% downside from current price. The thesis (overvalued at ₹289) does not depend on the precise maintenance capex assumption.
 
-**Verdict:** Under ALL three DCF scenarios at the proper 10% hurdle rate, the intrinsic value is **significantly below** the current market price of ₹289. Even the most optimistic case (22% growth for 5 years, 15% for next 5) yields an IV of only ₹193 — a 33% downside from the current price. The Base case implies the stock should be worth ~₹148, meaning the current price overstates intrinsic value by ~95%.
+**Verdict:** Under ALL three DCF scenarios at the proper 10% hurdle rate, the intrinsic value is **significantly below** the current market price of ₹289. Even the most optimistic case (22% growth for 5 years, 15% for next 5) yields an IV of only ₹192 — a 34% downside from the current price. The Base case implies the stock should be worth ~₹148, meaning the current price overstates intrinsic value by ~95%.
 
 The stock is trading at a level that implicitly assumes growth rates and terminal values far beyond what traditional Buffett DCF analysis can justify. The market is pricing in either (a) the liquid cooling optionality being worth substantial additional value, or (b) sustained 20%+ earnings growth for well over a decade, or (c) speculative momentum premium.
 
@@ -571,7 +571,7 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = ₹289, Normalised TTM EPS = ₹3.80, Current PE = 76.1x, **Owner Earnings Per Share (OEPS) = ₹3.16** (FY25 OE ₹41.8 Cr / 13.23 Cr current diluted shares post-Feb 2026 allotment), **Current P/OE = 91.5x**
+**Inputs:** CMP = ₹289, Normalised TTM EPS = ₹3.80, Current PE = 76.1x, **Owner Earnings Per Share (OEPS) = ₹3.14** (FY25 OE ₹41.8 Cr / 13.30 Cr current diluted shares post-Feb 2026 allotment), **Current P/OE = 92.0x**
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -636,7 +636,7 @@ Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
 | Implied OEPS CAGR (from Step 3B) | 28.1% | |
 | **Gap (OEPS CAGR − EPS CAGR)** | **+2.4 pp** | |
 
-**Interpretation:** The 2.4 pp gap reflects **moderate capital intensity.** Aeroflex's estimated maintenance capex (₹22.2 Cr) meaningfully exceeds its accounting depreciation (₹11 Cr), so Owner Earnings (₹41.8 Cr) are ~21% below Net Income (₹53 Cr). Starting from a lower OEPS base (₹3.16 vs EPS ₹3.80), the business needs somewhat faster Owner Earnings growth to deliver the same future stock price. The EPS-based Reverse DCF in Step 3 is directionally reliable but **slightly understates the true growth hurdle** — the honest Buffett-pure benchmark is ~28% OEPS CAGR, not 26% EPS CAGR. This 2-3 pp gap is worth noting but does not dramatically change the conclusion — the stock is overvalued on both metrics.
+**Interpretation:** The 2.4 pp gap reflects **moderate capital intensity.** Aeroflex's estimated maintenance capex (₹22.2 Cr) meaningfully exceeds its accounting depreciation (₹11 Cr), so Owner Earnings (₹41.8 Cr) are ~21% below Net Income (₹53 Cr). Starting from a lower OEPS base (₹3.14 vs EPS ₹3.80), the business needs somewhat faster Owner Earnings growth to deliver the same future stock price. The EPS-based Reverse DCF in Step 3 is directionally reliable but **slightly understates the true growth hurdle** — the honest Buffett-pure benchmark is ~28% OEPS CAGR, not 26% EPS CAGR. This 2-3 pp gap is worth noting but does not dramatically change the conclusion — the stock is overvalued on both metrics.
 
 ### Reality Check
 
@@ -671,7 +671,7 @@ Buffett would say: *"If you need a spreadsheet to figure out whether it's a good
 |---|---|---|---|
 | **Asset / Liquidation Floor** | Tangible Book Value/Share = ₹26 | ₹26 | −91% |
 | **Recession / Trough Earnings** | Worst-year EPS (FY20 split-adj ₹0.43) × Trough PE 12x | ₹5 | −98% (theoretical only) |
-| **Normalised Bear Case** | Conservative DCF IV (10% hurdle) | ₹109 | −62% |
+| **Normalised Bear Case** | Conservative DCF IV (10% hurdle) | ₹108 | −63% |
 | **"Business-is-fine-but-market-panics" Floor** | Historical lowest PE since IPO ~30x × TTM EPS ₹3.80 | ₹114 | −61% |
 
 **Most probable downside floor: ~₹110-150** — the range where the Conservative DCF and a typical small-cap drawdown PE (30-40x) converge. This is what you would realistically expect in a market correction, given Aeroflex's underlying business strength prevents a TBV-level collapse.
@@ -681,7 +681,7 @@ Buffett would say: *"If you need a spreadsheet to figure out whether it's a good
 | Upside Scenario | Valuation Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
 | **Base Case** | Base DCF IV (18%/12% growth, 10% hurdle) | ₹148 | **−49%** |
-| **Bull Case** | Optimistic DCF IV (22%/15% growth) | ₹193 | **−33%** |
+| **Bull Case** | Optimistic DCF IV (22%/15% growth) | ₹192 | **−34%** |
 | **Scaling Multiplier** | If liquid cooling delivers ₹300-350 Cr revenue with 25% EBIT margin in 5 years, add ~₹75-100 Cr to EBIT → IV ~₹280-320 | ₹280-320 | **−3% to +11%** |
 | **Re-rating Catalyst** | If market maintains current 76x PE on 5Y forward EPS of ~₹9 (assuming 18% CAGR) | ₹684 | **+137%** (requires PE sustaining at 76x for 5 years — unrealistic) |
 
@@ -962,12 +962,12 @@ Buffett with a small capital base would love this business — it is exactly his
 | **Growth Trajectory** | 8/10 | Multiple levers: capacity, product mix, liquid cooling, bellows |
 | **Scalability** | 7/10 | Strong scaler (7/10 composite score from Section 11), but capital-intensive phase |
 | **Earnings Quality** | 6/10 | OE = 79% of NI (maintenance capex > D&A); ~21% genuine economic earnings gap |
-| **Valuation** | 1/10 | 76x PE, 11x P/B, 91.5x P/OE — extreme premium with no margin of safety |
-| **Margin of Safety** | 1/10 | DCF (at 10% hurdle) shows 33-62% downside to intrinsic value (₹109-193 vs CMP ₹289) |
+| **Valuation** | 1/10 | 76x PE, 11x P/B, 92x P/OE — extreme premium with no margin of safety |
+| **Margin of Safety** | 1/10 | DCF (at 10% hurdle) shows 34-63% downside to intrinsic value (₹108-192 vs CMP ₹289) |
 | **Overall Score** | **54/90** | |
 | **Asymmetry Ratio** | | **0.84 : 1 (NEGATIVE)** — downside dominates upside; this is NOT a fat pitch |
-| **Buffett Verdict** | | **Wonderful small business in a niche market with genuine competitive advantages and a long growth runway. But at ₹289 (76x PE, 11x P/B, 91.5x P/Owner Earnings), the valuation is pricing in perfection for a decade. Even the most optimistic DCF (22%/15% growth at 10% hurdle) yields IV of only ₹193. The reverse DCF shows the market demands 25-44% annual EPS growth just to earn 10% returns — well above the company's demonstrated ~19% EPS CAGR (3Y, split-adjusted). The asymmetry is negative: realistic upside (−49% to ₹148 Base case) is smaller than realistic downside (−58% to ~₹120). Buffett would admire the business but PASS at this price.** |
-| **Buy Zone** | | **🔴 Overvalued (>₹260).** Conservative-to-Base IV range: **₹109-148**. Buy zone: **₹100-150** (3.8-5.7x P/B, 26-39x PE). |
+| **Buffett Verdict** | | **Wonderful small business in a niche market with genuine competitive advantages and a long growth runway. But at ₹289 (76x PE, 11x P/B, 92x P/Owner Earnings), the valuation is pricing in perfection for a decade. Even the most optimistic DCF (22%/15% growth at 10% hurdle) yields IV of only ₹192. The reverse DCF shows the market demands 25-44% annual EPS growth just to earn 10% returns — well above the company's demonstrated ~19% EPS CAGR (3Y, split-adjusted). The asymmetry is negative: realistic upside (−49% to ₹148 Base case) is smaller than realistic downside (−58% to ~₹120). Buffett would admire the business but PASS at this price.** |
+| **Buy Zone** | | **🔴 Overvalued (>₹260).** Conservative-to-Base IV range: **₹108-148**. Buy zone: **₹100-150** (3.8-5.7x P/B, 26-39x PE). |
 | **Overall Recommendation** | | **AVOID at current prices.** Add to watchlist for pullbacks to ₹150 or below where the risk-reward becomes attractive. Realistic 10% return entry: ₹150. |
 
 ---
@@ -980,7 +980,7 @@ Buffett with a small capital base would love this business — it is exactly his
 
 **Does the math make sense without Excel?**
 
-*"The company earns ₹53 Cr per year. The stock market values it at ₹3,823 Cr. That means you are paying ₹72 for every ₹1 of profit. Even if profits triple in 5 years to ₹159 Cr, the stock price stays at ₹289, and the PE compresses to ~25x — you've earned nothing in 5 years of waiting. For you to earn a decent return, profits need to MORE than triple AND the market needs to keep paying a premium. The math requires a spreadsheet."*
+*"The company earns ₹53 Cr per year. The stock market values it at ₹3,843 Cr. That means you are paying ₹72 for every ₹1 of profit. Even if profits triple in 5 years to ₹159 Cr, the stock price stays at ₹289, and the PE compresses to ~25x — you've earned nothing in 5 years of waiting. For you to earn a decent return, profits need to MORE than triple AND the market needs to keep paying a premium. The math requires a spreadsheet."*
 
 ❌ **That is an automatic PASS in Buffett's framework.**
 
