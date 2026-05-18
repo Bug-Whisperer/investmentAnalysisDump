@@ -60,7 +60,7 @@ Buffett: *"I try to invest in businesses that are so wonderful that an idiot can
 | Net Profit Margin | **3.5%** | 4.2% | 11.6% | 11.2% | 13.2% | **14.1%** | 12% |
 | EPS (Split-Adj, ₹) | **0.43** | 0.52 | 2.43 | 2.61 | 3.23 | **4.08** | 3.80 |
 | EPS Growth YoY | — | 20.9% | **367.3%** | 7.4% | 23.8% | 26.3% | **-6.9%** |
-| Shares Outstanding (Cr) | 2.3 | 2.3 | 2.3 | 11.5 | 13.0 | 13.0 | 13.2 |
+| Shares Outstanding (Cr) | 2.3 | 2.3 | 2.3 | 11.5 | 13.0 | 13.0 | 13.3 |
 | Shares Change YoY | — | 0.0% | 0.0% | **+400.0%** (5:1 split) | +13.0% (IPO) | 0.0% | +2.3% (pref allotment) |
 | Dividend Payout % | 0% | 0% | 0% | 8% | 8% | 7% | — |
 
