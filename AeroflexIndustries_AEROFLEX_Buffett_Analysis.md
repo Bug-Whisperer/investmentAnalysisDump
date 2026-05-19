@@ -571,7 +571,7 @@ Buffett: *"It's far better to buy a wonderful company at a fair price than a fai
 
 ## 16. REVERSE DCF — What Growth Is the Market Pricing In?
 
-**Inputs:** CMP = ₹289, Normalised TTM EPS = ₹3.80, Current PE = 76.1x, **Owner Earnings Per Share (OEPS) = ₹3.14** (FY25 OE ₹41.8 Cr / 13.30 Cr current diluted shares post-Feb 2026 allotment), **Current P/OE = 92.0x**
+**Inputs:** CMP = ₹289, Normalised TTM EPS = ₹3.80, Current PE = 76.1x, **Owner Earnings Per Share (OEPS) = ₹3.22** (FY25 OE ₹41.8 Cr / 13.0 Cr FY25 shares, on the same ~13.0 Cr basis as the TTM EPS quarterly-sum method — this ensures the Divergence Test below isolates capital intensity rather than mixing in share-count effects from the Feb 2026 allotment), **Current P/OE = 89.8x on FY25 share basis** (≈92x on current 13.30 Cr post-allotment basis, used in Sections 14, 15, 23 for forward valuation)
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -622,21 +622,21 @@ Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
 
 | Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 49.1% OEPS CAGR | 55.9% | 62.6% |
-| 10 Years | 28.1% OEPS CAGR | 33.9% | 39.7% |
-| 15 Years | 21.7% OEPS CAGR | 27.3% | 32.8% |
+| 5 Years | 48.6% OEPS CAGR | 55.3% | 62.1% |
+| 10 Years | 27.8% OEPS CAGR | 33.6% | 39.5% |
+| 15 Years | 21.6% OEPS CAGR | 27.1% | 32.6% |
 
-*Note on Terminal P/OE: The Divergence Test uses the SAME absolute terminal multiple (20x) for both PE and P/OE. This is intentional — it holds the exit valuation framework constant so that ANY gap between implied EPS CAGR and implied OEPS CAGR is driven purely by the difference in starting metrics (EPS vs OEPS), which in turn reflects the gap between accounting depreciation and true maintenance capex. Using a scaled terminal P/OE (e.g., PE × EPS/OEPS) would algebraically force the gap to zero regardless of capital intensity — a tautology that cannot diagnose the business economics.*
+*Note on Terminal P/OE: The Divergence Test uses the SAME absolute terminal multiple (20x) for both PE and P/OE. This is intentional — it holds the exit valuation framework constant so that ANY gap between implied EPS CAGR and implied OEPS CAGR is driven purely by the difference in starting metrics (EPS vs OEPS), which in turn reflects the gap between accounting depreciation and true maintenance capex. Using a scaled terminal P/OE (e.g., PE × EPS/OEPS) would algebraically force the gap to zero regardless of capital intensity — a tautology that cannot diagnose the business economics. Both metrics also use the same FY25 share count (~13.0 Cr) to isolate capital intensity from the share-count effect of the Feb 2026 allotment.*
 
 #### The Divergence Test — EPS vs. OEPS Implied Growth
 
 | Metric | At Terminal Market Avg 20x (same for PE and P/OE) | 10-Year, 10% Return |
 |---|---|---|
 | Implied EPS CAGR (from Step 3) | 25.7% | |
-| Implied OEPS CAGR (from Step 3B) | 28.1% | |
-| **Gap (OEPS CAGR − EPS CAGR)** | **+2.4 pp** | |
+| Implied OEPS CAGR (from Step 3B) | 27.8% | |
+| **Gap (OEPS CAGR − EPS CAGR)** | **+2.1 pp** | |
 
-**Interpretation:** The 2.4 pp gap reflects **moderate capital intensity.** Aeroflex's estimated maintenance capex (₹22.2 Cr) meaningfully exceeds its accounting depreciation (₹11 Cr), so Owner Earnings (₹41.8 Cr) are ~21% below Net Income (₹53 Cr). Starting from a lower OEPS base (₹3.14 vs EPS ₹3.80), the business needs somewhat faster Owner Earnings growth to deliver the same future stock price. The EPS-based Reverse DCF in Step 3 is directionally reliable but **slightly understates the true growth hurdle** — the honest Buffett-pure benchmark is ~28% OEPS CAGR, not 26% EPS CAGR. This 2-3 pp gap is worth noting but does not dramatically change the conclusion — the stock is overvalued on both metrics.
+**Interpretation:** The 2.1 pp gap reflects **moderate capital intensity.** Aeroflex's estimated maintenance capex (₹22.2 Cr) meaningfully exceeds its accounting depreciation (₹11 Cr), so Owner Earnings (₹41.8 Cr) are ~21% below Net Income (₹53 Cr). Starting from a lower OEPS base (₹3.22 vs EPS ₹3.80, both on FY25 ~13.0 Cr basis), the business needs somewhat faster Owner Earnings growth to deliver the same future stock price. The EPS-based Reverse DCF in Step 3 is directionally reliable but **slightly understates the true growth hurdle** — the honest Buffett-pure benchmark is ~28% OEPS CAGR, not 26% EPS CAGR. This 2 pp gap is worth noting but does not dramatically change the conclusion — the stock is overvalued on both metrics.
 
 ### Reality Check
 
@@ -651,13 +651,13 @@ Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
 
 > **Apply the Traffic Light to BOTH the EPS and OEPS implied growth.** If the EPS-based verdict is 🟢 but the OEPS-based verdict is 🟡 or worse, the EPS verdict is misleadingly optimistic — the business's capital intensity is masking the true growth hurdle. Always defer to the OEPS-based verdict for the final Buffett-pure assessment.
 
-**Traffic Light Assessment:** Even at the most generous terminal PE of 40x (which is itself very high for a 10-year exit), the stock needs **25% EPS CAGR for 5 years just to earn 10% return.** The OEPS-based assessment is moderately more demanding: at a terminal P/OE of 20x, the required OEPS CAGR is 49% for 5 years (vs 44% EPS CAGR at 20x PE) — a ~5 pp gap at the 5-year horizon, compressing to ~2.4 pp shown in the Divergence Test over 10 years. At a more reasonable terminal PE of 20x, the stock needs **44% EPS CAGR for 5 years** — more than double the 3Y historical EPS CAGR of ~19%. The verdict is unambiguously 🔴 RED.
+**Traffic Light Assessment:** Even at the most generous terminal PE of 40x (which is itself very high for a 10-year exit), the stock needs **25% EPS CAGR for 5 years just to earn 10% return.** The OEPS-based assessment is moderately more demanding: at a terminal P/OE of 20x, the required OEPS CAGR is 49% for 5 years (vs 44% EPS CAGR at 20x PE) — a ~5 pp gap at the 5-year horizon, compressing to ~2.1 pp shown in the Divergence Test over 10 years. At a more reasonable terminal PE of 20x, the stock needs **44% EPS CAGR for 5 years** — more than double the 3Y historical EPS CAGR of ~19%. The verdict is unambiguously 🔴 RED.
 
 **Verdict: 🔴 RED — Crazy Price.** The implied growth required is 1.5-2x the company's own historical CAGR. At the current price, you are betting on heroic growth assumptions that the business has never sustained at this scale.
 
-> *"At the current price of ₹289, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 25.7% CAGR (and Owner Earnings at 28.1% CAGR). The company has historically grown EPS at ~19% CAGR (3Y, split-adjusted — lower than the 24% NI CAGR due to IPO dilution) and Owner Earnings at ~14% CAGR (3Y). This implies the market is pricing in heroic/impossible growth."*
+> *"At the current price of ₹289, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 25.7% CAGR (and Owner Earnings at 27.8% CAGR). The company has historically grown EPS at ~19% CAGR (3Y, split-adjusted — lower than the 24% NI CAGR due to IPO dilution) and Owner Earnings at ~14% CAGR (3Y). This implies the market is pricing in heroic/impossible growth."*
 
-> *Note: the OEPS-based assessment is moderately more demanding than the EPS-based assessment (+2.4 pp gap), reflecting the fact that maintenance capex exceeds accounting depreciation. The 🔴 RED verdict holds — and is slightly strengthened — on both metrics.*
+> *Note: the OEPS-based assessment is moderately more demanding than the EPS-based assessment (+2.1 pp gap), reflecting the fact that maintenance capex exceeds accounting depreciation. The 🔴 RED verdict holds — and is slightly strengthened — on both metrics.*
 
 Buffett would say: *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."*
 
