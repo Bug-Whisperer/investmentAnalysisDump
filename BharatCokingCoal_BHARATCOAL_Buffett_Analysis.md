@@ -59,7 +59,7 @@ BCCL's moat is not a classic Buffett moat. It is a **regulatory and geological m
 
 **Trend Narrative:**
 
-The income statement tells the story of a dramatic turnaround followed by a concerning reversal. FY21 was an operational catastrophe — the company lost ₹1,202 Cr on ₹6,567 Cr of revenue. Then came a remarkable recovery: revenue doubled by FY24 as total coal production surged from ~30.5 MT (FY22) to ~41.1 MT (FY24), and pre-D&A margins expanded from -21.7% to +14.7% — a 36-percentage-point swing.
+The income statement tells the story of a dramatic turnaround followed by a concerning reversal. FY21 was an operational catastrophe — the company lost ₹1,202 Cr on ₹6,567 Cr of revenue. Then came a remarkable recovery: revenue more than doubled by FY24 (to ₹14,246 Cr, a 2.17x increase) as total coal production surged from ~30.5 MT (FY22) to ~41.1 MT (FY24), and pre-D&A margins expanded from -21.7% to +14.7% — a 36-percentage-point swing.
 
 However, FY25 shows the first cracks: revenue declined 3.1%, EBIT margins compressed from 12.3% to 8.5%, and net profit fell 21% from the FY24 peak. The quarterly data (Section 6) reveals the situation has deteriorated sharply in FY26.
 
@@ -202,6 +202,8 @@ BCCL is a PSU with negligible stock-based compensation, so no SBC adjustment is 
 
 ## 6. QUARTERLY TREND ANALYSIS — Recent Momentum
 
+> **Data Coverage Note:** Only 4 quarters (Q3 FY25 and Q1-Q3 FY26) are presented because BCCL listed on the NSE/BSE in January 2026. Post-listing SEBI quarterly filings are available only from Q4 FY25 onwards; the Q1 FY26 row marked with an asterisk is derived/estimated from the 9-month (9M FY26) Investor Presentation rather than from a standalone Q1 disclosure. The template ideally requires 10-13 quarters; for BCCL this is constrained by data availability, not analytical choice. Coverage will expand naturally with subsequent quarterly filings.
+
 | Metric | Q3 FY25 (Dec 2024) | Q1 FY26 (Jun 2025) | Q2 FY26 (Sep 2025) | Q3 FY26 (Dec 2025) |
 |---|---|---|---|---|
 | Sales | **3,688** | ~3,087* | **2,572** | 2,783 |
@@ -224,7 +226,7 @@ BCCL is a PSU with negligible stock-based compensation, so no SBC adjustment is 
 
 2. **Margin Trend — Collapsing:** EBIT margins tell an even starker story than pre-D&A OPM: from +12.5% (Q3 FY25) to -18.9% (Q2 FY26) to -3.3% (Q3 FY26). Notably, OPM turned marginally positive in Q3 FY26 (+1%), but EBIT remained negative (-3.3%) because depreciation (₹127 Cr) exceeded the thin operating profit (₹34 Cr). This is exactly the pattern EBITDA-based analysis misses — the business looks break-even on pre-D&A margins but is actually loss-making after accounting for capital consumption. The cost structure is rigid (32,000+ employees, heavy machinery, mining leases), so any production shortfall immediately crushes margins.
 
-3. **Normalised Quarterly EPS Run-Rate:** At the current trajectory, FY26 full-year EPS is likely to be ₹0.22-0.30 — implying a forward PE of 120-160x. This is deeply unattractive. Even normalising to FY25 levels (₹2.66 EPS), the PE is only 13.5x — reasonable if you believe FY25 earnings are sustainable, which FY26 data suggests they are not.
+3. **Normalised Quarterly EPS Run-Rate:** At the current trajectory, FY26 full-year EPS is likely to be ₹0.22-0.30 — implying a forward PE of ~119-163x. This is deeply unattractive. Even normalising to FY25 levels (₹2.66 EPS), the PE is only 13.5x — reasonable if you believe FY25 earnings are sustainable, which FY26 data suggests they are not.
 
 4. **Red Flags:** The Q2 FY26 other income of ₹470 Cr (vs ~₹70 Cr in other quarters) is a massive anomaly that obscured what would have been an even worse operating loss. FY26 annual production decline of 12.3% combined with cost rigidity is a devastating combination.
 
@@ -315,6 +317,8 @@ However, the FY26 production decline (-12.3%) despite this elevated CapEx is con
 | FY23 | 5.3% | 1.02 | 3.51 | 18.8% |
 | FY24 | **11.0%** | 0.99 | 3.15 | **34.3%** |
 | FY25 | 9.0% | 0.84 | 2.78 | 21.0% |
+
+*Note on rounding: components are displayed to 1 decimal place; multiplying the rounded components for FY23 gives 5.3% × 1.02 × 3.51 = 19.0%, slightly above the stated 18.8% which is computed from un-rounded inputs (NPM = 5.27%, AT = 1.016, EM = 3.51 → product = 18.79%). The ROE row reflects the more precise calculation from raw Screener data.*
 
 **Quality Assessment:**
 
@@ -418,7 +422,17 @@ The TAM for coking coal in India is projected to grow from 67 MT (FY25) to 104 M
 | S-Curve position | 5 | Growth phase, but cyclical dip |
 | **Overall Scalability** | **4.6/10** | **Moderate Scaler with High Cyclical Risk** |
 
-**Classification:** Moderate Scaler (4-6 range) — growth requires proportional capital and is subject to significant operational and market risks.
+**Scaling Tier Reference Table:**
+
+| Score Band | Tier | Definition | Buffett Analogy |
+|---|---|---|---|
+| 9-10 | **Elite Scaler** | Near-zero marginal cost, infinite runway, network effects compound advantage | See's Candies, Coca-Cola |
+| 7-8 | **Strong Scaler** | Operating leverage drives margin expansion with scale; sustainable competitive moat | Apple (services), American Express, Visa |
+| **4-6** | **Moderate Scaler** | **Growth requires proportional capital, but durable demand and runway exist; subject to cyclicality** | **Kraft-Heinz, BNSF Railroad (BCCL fits here)** |
+| 2-3 | **Limited Scaler** | Growth requires disproportionate capital or faces structural margin pressure | Airlines, Textiles |
+| 0-1 | **Anti-Scaler** | Negative incremental economics; scale destroys rather than creates value | Newspaper publishing, dial-up ISPs |
+
+**Classification:** Moderate Scaler (4-6 range) — growth requires proportional capital and is subject to significant operational and market risks. BCCL is closer to BNSF (capital-heavy, regulated infrastructure with cyclical commodity exposure) than to See's Candies (asset-light, brand-driven compounding).
 
 ---
 
@@ -479,7 +493,7 @@ The revenue realisation per tonne has been broadly flat at ₹3,300-3,500, confi
 | Owner Earnings Yield | — | — | — | **8.2%** | <1% |
 | EPS (₹) | 0.24 | 1.43 | 3.36 | 2.66 | 0.36 |
 | PE Ratio | — | — | — | 13.5x | **99.4x** |
-| Forward PE (FY26 est.) | — | — | — | — | ~120-160x |
+| Forward PE (FY26 est.) | — | — | — | — | ~119-163x |
 | BVPS (₹) | 7.03 | 8.17 | 11.43 | 13.88 | ~14.1 est |
 | P/B Ratio | — | — | — | 2.58x | ~2.54x |
 | P/S Ratio | — | — | — | 1.21x | 1.21x |
@@ -521,6 +535,8 @@ Using **Owner Earnings** (₹1,363 Cr, FY25) as the starting point, with a **10%
 | **Conservative** | 3% | 2% | 2% | **₹43.78** | ₹35.80 | **18.2%** | +22.3% |
 | **Base** | 6% | 4% | 3% | **₹55.31** | ₹35.80 | **35.3%** | +54.5% |
 | **Optimistic** | 10% | 6% | 3% | **₹68.38** | ₹35.80 | **47.6%** | +91.0% |
+
+> **Scenario Labelling Disclosure:** The three scenarios above all use FY25 Owner Earnings of ₹1,363 Cr as the Year 0 base. The "Conservative" 3% growth assumption implies Year 1 (FY26) Owner Earnings of ~₹1,404 Cr — but quarterly data (§6) indicates actual FY26 is tracking toward ₹200-400 Cr (~15-30% of base). In this sense, "Conservative" is better understood as "Normalised Base — Low Growth": it assumes FY25 was sustainable earning power and applies modest growth from there. **The genuine conservative case for an investor worried about mean-reversion is the Mid-Cycle DCF table that follows (OE = ₹750 Cr), where the "Conservative" scenario produces an IV of ₹26.27 with MoS of −36%.** Both views are presented for transparency.
 
 ### Detailed Base Case DCF Breakdown
 
@@ -615,7 +631,7 @@ The terminal PE is what the market will likely pay for BCCL at the END of the ho
 
 ### Step 3B: Buffett-Pure Reverse DCF — Implied Owner Earnings Growth Required
 
-> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading for capital-intensive businesses: it deducts accounting depreciation, but if actual maintenance spending exceeds depreciation (as it often does in inflationary mining environments), EPS overstates real earnings. Owner Earnings strips this out. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."* The same logic applies to EPS vs. Owner Earnings.
+> **Why this matters:** Step 3 uses EPS because the market prices on PE — it tells you what the *market* needs to believe. But EPS can be misleading for capital-intensive businesses, in *either* direction. If actual maintenance spending exceeds depreciation (as it often does in inflationary mining environments), EPS overstates real earnings. Conversely, if depreciation exceeds maintenance spending — **as is the case for BCCL in FY25, where D&A (₹581 Cr) exceeds maintenance CapEx (₹458 Cr)** — EPS *understates* owner earnings (BCCL's OE of ₹1,363 Cr is ₹123 Cr higher than NI of ₹1,240 Cr). Either way, the OEPS framework corrects for this by replacing the accounting depreciation charge with the actual economic maintenance cost. Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice. Doing so implies that depreciation is not truly an expense, given that it is a 'non-cash' charge. That's nonsense."* The same insight applies to EPS vs. Owner Earnings — accept the depreciation charge as a discipline, but verify whether it actually matches what you must spend to maintain the asset base.
 
 **Formula:**
 ```
@@ -764,6 +780,8 @@ Buffett: *"You do things when the opportunities come along. I've had periods in 
 | FY24 | 11.0% | 0.99 | 3.15 | **34.3%** |
 | FY25 | 9.0% | 0.84 | 2.78 | 21.0% |
 
+*Note: see rounding footnote in §9 — FY23 components shown to 1 decimal multiply to 19.0%; the stated 18.8% reflects the precise un-rounded calculation.*
+
 The deleveraging trend (equity multiplier declining from 3.71 to 2.78) is healthy — ROE is increasingly driven by genuine operating performance (margins and asset turnover) rather than leverage. ROCE (29%) exceeding ROE (21%) in FY25 confirms that pre-tax business returns are strong and that leverage is NOT the primary ROE driver.
 
 **Quality Assessment — Where Does BCCL's ROE Come From?**
@@ -822,11 +840,11 @@ Based on FY25 BVPS of ₹13.88:
 
 | Zone | P/B Range | Price Range | Rationale |
 |---|---|---|---|
-| **Deep Value / Strong Buy** | <1.2x | <₹16.70 | Priced below book — only if balance sheet is clean (it is) |
-| **Value / Buy** | 1.2x-1.8x | ₹16.70-₹25.00 | IPO price zone; attractive risk-reward |
+| **Deep Value / Strong Buy** | <1.2x | <₹16.66 | Priced below book — only if balance sheet is clean (it is) |
+| **Value / Buy** | 1.2x-1.8x | ₹16.66-₹25.00 | IPO price zone; attractive risk-reward |
 | **Fair Value / Hold** | 1.8x-2.5x | ₹25.00-₹34.70 | Fair for mid-cycle earnings |
-| **Fully Valued / Trim** | 2.5x-3.5x | ₹34.70-₹48.60 | Premium pricing; needs execution to justify |
-| **Overvalued / Sell** | >3.5x | >₹48.60 | Priced for perfection |
+| **Fully Valued / Trim** | 2.5x-3.5x | ₹34.70-₹48.58 | Premium pricing; needs execution to justify |
+| **Overvalued / Sell** | >3.5x | >₹48.58 | Priced for perfection |
 
 **Current Price ₹35.80 at 2.58x P/B falls in: Fully Valued / Trim zone.**
 
@@ -834,11 +852,11 @@ Based on FY25 BVPS of ₹13.88:
 
 | Your Entry Zone | Entry Price Range | Current Position | Buffett's Advice |
 |---|---|---|---|
-| Deep Value (<₹16.70) | <1.2x Book | **Profitable (+114%+)** | Hold and compound. Exceptional entry — let BV compounding work. |
-| Value / Buy (₹16.70-₹25) | IPO zone | **Profitable (+43-114%)** | Hold. Good entry. Consider trimming if P/B exceeds 3.5x. |
+| Deep Value (<₹16.66) | <1.2x Book | **Profitable (+114%+)** | Hold and compound. Exceptional entry — let BV compounding work. |
+| Value / Buy (₹16.66-₹25) | IPO zone | **Profitable (+43-114%)** | Hold. Good entry. Consider trimming if P/B exceeds 3.5x. |
 | Fair Value (₹25-₹34.70) | 1.8x-2.5x Book | **Marginally profitable (+3-43%)** | Hold cautiously. FY26 deterioration is concerning. |
-| Fully Valued (₹34.70-₹48.60) | Current zone | **Flat to underwater** | **Do NOT average down** until FY26 results clarify. No margin of safety at these levels. |
-| Overvalued (>₹48.60) | Listing-day buyers | **Underwater (-20%+)** | Book loss for tax harvesting if applicable. Reassess after FY27 clarity. |
+| Fully Valued (₹34.70-₹48.58) | Current zone | **Flat to underwater** | **Do NOT average down** until FY26 results clarify. No margin of safety at these levels. |
+| Overvalued (>₹48.58) | Listing-day buyers | **Underwater (-20%+)** | Book loss for tax harvesting if applicable. Reassess after FY27 clarity. |
 
 ---
 
@@ -871,7 +889,7 @@ Buffett would **PASS** on BCCL at the current price of ₹35.80. Here's why:
 
 > *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* — Buffett. BCCL is neither wonderful nor available at a wonderful price. It is a fair (cyclical, commodity, PSU) company at a fair-but-not-margin-of-safety price.
 
-**The one exception:** If the stock fell to ₹21-25 (1.5-1.8x book), the asymmetry ratio would shift to 2.5:1+ and Buffett might nibble as a deep value / special situation — buying India's dominant coking coal producer near book value during a cyclical trough. Even Buffett bought commodity businesses (oil majors, railways) when the price was right. But at ₹35.80 and 2.58x book, the price is not right.
+**The one exception:** If the stock fell to ₹21-25 (1.5-1.8x book), the asymmetry ratio would improve sharply and Buffett might nibble as a deep value / special situation — buying India's dominant coking coal producer near book value during a cyclical trough. *[Worked example at ₹25 entry: upside to Base IV ₹55.31 = (55.31−25)/25 = 121.2%; downside to ₹21 floor = (25−21)/25 = 16.0%; asymmetry ratio ≈ **7.6:1** — well above the 5:1 threshold required for an "Exceptional fat pitch" classification per Section 16 Step 6.]* Even Buffett bought commodity businesses (oil majors, railways) when the price was right. But at ₹35.80 and 2.58x book, the price is not right.
 
 ---
 
@@ -923,7 +941,7 @@ Buffett would **PASS** on BCCL at the current price of ₹35.80. Here's why:
 
 | Regulatory Cost Magnitude | Likely Volume Impact | BCCL's Response | Net Revenue Impact |
 |---|---|---|---|
-| **Mild (5-8% cost increase)** | Minimal — steel plants have no alternative (BCCL or imports) | Pass through to customers | Neutral to mildly positive |
+| **Mild (5-8% cost increase)** | Minimal — steel plants have no alternative (BCCL or imports) | Seek CIL administrative price adjustment — slow, politically constrained; limited partial recovery over 2-4 quarters | Mildly negative to neutral (with time lag) |
 | **Moderate (10-15% cost increase)** | -3% to -5% if imports become cheaper | Partial pass-through; some demand loss to imports | Mildly negative for 1-2 quarters |
 | **Severe (>20% cost increase, e.g., carbon tax)** | -10% to -20% — imports become permanently cheaper | Significant share loss; structural margin compression | **Negative for 3-5 years; possibly permanent** |
 
@@ -986,11 +1004,11 @@ The turnaround depends primarily on production recovery. If BCCL can revert to 4
 | FCF Generation | 3 | Collapsing FCF trend; FY25 = ₹32 Cr |
 | Scalability | 5 | 4.6/10 — Moderate Scaler with high cyclical risk |
 | Growth Outlook | 5 | India coking coal demand growing; but execution uncertain |
-| **Overall Score** | **4.5/10** | (Average of 11 factor scores: 50 ÷ 11 = 4.55) |
-| **Buffett Verdict** | | **PASS at current price.** BCCL is India's dominant coking coal producer with a clean balance sheet, ₹2,260 Cr net cash, and 195 years of mine life — a genuine strategic asset. However, it is a commodity PSU with cyclical earnings (FY24 NI ₹1,564 Cr → likely ~₹150-200 Cr FY26), no pricing power, PSU governance with zero insider ownership, and secular headwinds from the energy transition. At ₹35.80 (2.58x P/B), the Base DCF (10% rate, FY25 OE) gives 35% MoS — adequate at peak earnings — but mid-cycle DCF erases this entirely. The asymmetry ratio of 1.32:1 (Section 16 Step 6) falls in the "Marginal pitch" zone — upside ~55% to ₹55, downside ~41% to ₹21. Buffett would wait for the price to fall to ₹21-25 (1.5-1.8x P/B) for a 2.5:1+ asymmetry before entering. |
+| **Overall Score** | **4.5/10** | (Average of 11 factor scores: 50 ÷ 11 = 4.545, displayed as 4.5) |
+| **Buffett Verdict** | | **PASS at current price.** BCCL is India's dominant coking coal producer with a clean balance sheet, ₹2,260 Cr net cash, and 195 years of mine life — a genuine strategic asset. However, it is a commodity PSU with cyclical earnings (FY24 NI ₹1,564 Cr → likely ~₹150-200 Cr FY26), no pricing power, PSU governance with zero insider ownership, and secular headwinds from the energy transition. At ₹35.80 (2.58x P/B), the Base DCF (10% rate, FY25 OE) gives 35% MoS — adequate at peak earnings — but mid-cycle DCF erases this entirely. The asymmetry ratio of 1.32:1 (Section 16 Step 6) falls in the "Marginal pitch" zone — upside ~55% to ₹55, downside ~41% to ₹21. Buffett would wait for the price to fall to ₹21-25 (1.5-1.8x P/B), where the asymmetry ratio improves to ~5-8:1 (see §19 worked example) — an "Exceptional fat pitch" — before entering. |
 | **Buy Zone** | | **Fully Valued / Trim** (Section 18) — avoid fresh entry; the stock is in the upper half of the fair value band |
-| **Target Range** | | Base DCF IV: **₹55.31** (10% rate, FY25 OE); Conservative DCF IV: **₹43.78**. Buy Zone trigger: **<₹25** for 1.8x P/B value zone; **<₹17** for deep value below 1.2x book |
-| **Overall Recommendation** | | **AVOID at ₹35.80.** Revisit below ₹25 (1.8x P/B) or below ₹17 (1.2x P/B) for deep value. The OFS supply overhang (govt must sell ~70 Cr more shares for SEBI 25% public float) may provide that opportunity over 2-3 years. |
+| **Target Range** | | Base DCF IV: **₹55.31** (10% rate, FY25 OE); Conservative DCF IV: **₹43.78**. Buy Zone trigger: **<₹25** for 1.8x P/B value zone; **<₹16.66** for deep value below 1.2x book |
+| **Overall Recommendation** | | **AVOID at ₹35.80.** Revisit below ₹25 (1.8x P/B) or below ₹16.66 (1.2x P/B) for deep value. The OFS supply overhang (govt must sell ~70 Cr more shares for SEBI 25% public float) may provide that opportunity over 2-3 years. |
 
 ---
 
@@ -1004,7 +1022,7 @@ The turnaround depends primarily on production recovery. If BCCL can revert to 4
 
 At ₹35.80, you're paying 2.6x book value for a company that earns 15-20% ROE in good years but can lose money in bad years. The book value compounds at ~15% in good years (assuming full retention). If you pay 2.6x book and P/B compresses to even 2.0x, you lose ~23% of your investment even as book value grows. You need P/B to SUSTAIN at 2.5x+ for this to work — and for a cyclical commodity PSU facing energy transition headwinds, that's a tall ask.
 
-**Napkin math:** Buy at ₹25 (1.8x book), BV compounds at ~15% for 7 years → BVPS ≈ ₹37. If market assigns 2.0x P/B → stock at ₹74, which is a ~17% CAGR. THAT would be a Buffett-worthy entry. At ₹35.80 (2.6x book) → same scenario gives you only 10.9% CAGR — only marginally above the 10% hurdle rate, leaving virtually no cushion for execution failure, commodity-price cyclicality, or the secular energy-transition risk. The ₹25 entry, by contrast, delivers ~7 percentage points of buffer over the hurdle — that is the margin of safety Buffett demands for a cyclical commodity PSU.
+**Napkin math:** Buy at ₹25 (1.8x book), BV compounds at ~15% for 7 years → BVPS ≈ ₹37. If market assigns 2.0x P/B → stock at ₹74, which is a ~17% CAGR. THAT would be a Buffett-worthy entry. At ₹35.80 (2.6x book) → same scenario gives you only 10.9% CAGR — only marginally above the 10% hurdle rate (0.9 pp cushion), leaving virtually no buffer for execution failure, commodity-price cyclicality, or the secular energy-transition risk. The ₹25 entry, by contrast, delivers 17% CAGR — **7 percentage points above the 10% hurdle** and ~6 pp above the ₹35.80 entry — exactly the kind of margin of safety Buffett demands for a cyclical commodity PSU.
 
 > *"If you need to use Excel, it's an automatic pass."* — Buffett (attributed). The napkin math says: **wait for a better price.**
 
