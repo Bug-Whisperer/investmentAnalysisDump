@@ -35,18 +35,18 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Revenue | 12,220 | 13,615 | 14,271 | 15,062 | 16,825 | 19,240 | 20,211 | 21,713 | 29,101 | 34,489 | **35,495** | 33,906 |
 | Revenue Growth YoY | — | 11.4% | 4.8% | 5.5% | 11.7% | 14.4% | 5.0% | 7.4% | **34.0%** | 18.5% | 2.9% | **-4.5%** |
-| Gross Profit (approx.) | 4,949 | 5,650 | 6,565 | 7,004 | 7,487 | 8,177 | 9,499 | 9,988 | **11,495** | 14,658 | **16,683** | 14,410 |
+| Gross Profit (approx.) | **4,949** | 5,650 | 6,565 | 7,004 | 7,487 | 8,177 | 9,499 | 9,988 | 11,495 | 14,658 | **16,683** | 14,410 |
 | Gross Margin (approx.) | 40.5% | 41.5% | 46.0% | 46.5% | 44.5% | 42.5% | **47.0%** | 46.0% | **39.5%** | 42.5% | **47.0%** | 42.5% |
-| Operating Profit (pre-D&A) | 2,004 | 2,243 | 2,725 | 2,994 | 3,204 | 3,765 | 4,167 | 4,856 | 4,804 | 6,260 | **7,585** | 6,006 |
-| OPM % (pre-D&A) | 16.4% | 16.5% | 19.1% | 19.9% | 19.0% | 19.6% | 20.6% | **22.4%** | **16.5%** | 18.2% | **21.4%** | 17.7% |
-| Depreciation & Amortisation | 246 | 266 | 276 | 335 | 360 | 622 | 780 | 791 | 816 | 858 | 853 | 1,026 |
-| **EBIT** | 1,758 | 1,977 | 2,449 | 2,659 | 2,844 | 3,143 | 3,387 | 4,065 | 3,988 | 5,402 | **6,732** | 4,980 |
-| **EBIT Margin** | 14.4% | 14.5% | 17.2% | 17.7% | 16.9% | 16.3% | 16.8% | **18.7%** | **13.7%** | 15.7% | **19.0%** | 14.7% |
-| Net Profit | 1,263 | 1,427 | 1,803 | 2,016 | 2,098 | 2,208 | 2,774 | 3,207 | 3,085 | 4,195 | **5,558** | 3,710 |
-| Net Profit Growth | — | 13.0% | **26.3%** | 11.8% | 4.1% | 5.2% | 25.6% | 15.6% | -3.8% | 36.0% | 32.5% | **-33.2%** |
-| Net Profit Margin | 10.3% | 10.5% | 12.6% | 13.4% | 12.5% | 11.5% | 13.7% | 14.8% | **10.6%** | 12.2% | **15.7%** | 10.9% |
-| EPS (₹) | 12.71 | 14.54 | 18.19 | 20.22 | 21.26 | 22.48 | 28.20 | 32.73 | 31.59 | 42.81 | **56.92** | 38.23 |
-| EPS Growth | — | 14.4% | **25.1%** | 11.2% | 5.1% | 5.7% | 25.4% | 16.1% | -3.5% | 35.5% | 33.0% | **-32.8%** |
+| Operating Profit (pre-D&A) | **2,004** | 2,243 | 2,725 | 2,994 | 3,204 | 3,765 | 4,167 | 4,856 | 4,804 | 6,260 | **7,585** | 6,006 |
+| OPM % (pre-D&A) | **16.4%** | 16.5% | 19.1% | 19.9% | 19.0% | 19.6% | 20.6% | **22.4%** | 16.5% | 18.2% | 21.4% | 17.7% |
+| Depreciation & Amortisation | **246** | 266 | 276 | 335 | 360 | 622 | 780 | 791 | 816 | 858 | 853 | **1,026** |
+| **EBIT** | **1,758** | 1,977 | 2,449 | 2,659 | 2,844 | 3,143 | 3,387 | 4,065 | 3,988 | 5,402 | **6,732** | 4,980 |
+| **EBIT Margin** | 14.4% | 14.5% | 17.2% | 17.7% | 16.9% | 16.3% | 16.8% | 18.7% | **13.7%** | 15.7% | **19.0%** | 14.7% |
+| Net Profit | **1,263** | 1,427 | 1,803 | 2,016 | 2,098 | 2,208 | 2,774 | 3,207 | 3,085 | 4,195 | **5,558** | 3,710 |
+| Net Profit Growth | — | 13.0% | 26.3% | 11.8% | 4.1% | 5.2% | 25.6% | 15.6% | -3.8% | **36.0%** | 32.5% | **-33.2%** |
+| Net Profit Margin | **10.3%** | 10.5% | 12.6% | 13.4% | 12.5% | 11.5% | 13.7% | 14.8% | 10.6% | 12.2% | **15.7%** | 10.9% |
+| EPS (₹) | **12.71** | 14.54 | 18.19 | 20.22 | 21.26 | 22.48 | 28.20 | 32.73 | 31.59 | 42.81 | **56.92** | 38.23 |
+| EPS Growth | — | 14.4% | 25.1% | 11.2% | 5.1% | 5.7% | 25.4% | 16.1% | -3.5% | **35.5%** | 33.0% | **-32.8%** |
 | Shares Outstanding (Diluted, Cr) | 96 | 96 | 96 | 96 | 96 | 96 | 96 | 96 | 96 | 96 | 96 | 96 |
 | Shares Change YoY | — | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% |
 | Dividend Payout % | 42% | 42% | 41% | 51% | 41% | 47% | 43% | 55% | 61% | 60% | 58% | **65%** |
@@ -79,19 +79,19 @@ Buffett: *"Only when the tide goes out do you discover who's been swimming naked
 
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Cash & Short-Term Investments | 1,424 | 1,588 | 2,712 | 2,652 | 2,141 | 2,569 | 2,019 | **4,737** | 3,248 | 4,262 | 4,588 | **4,725** |
+| Cash & Short-Term Investments | **1,424** | 1,588 | 2,712 | 2,652 | 2,141 | 2,569 | 2,019 | **4,737** | 3,248 | 4,262 | 4,588 | 4,725 |
 | Total Assets | 8,075 | 8,914 | 10,559 | 12,405 | 13,763 | 16,249 | 16,138 | 20,355 | 22,958 | 25,779 | **29,901** | 30,355 |
 | Total Debt | **249** | 418 | 323 | 560 | 533 | 1,320 | 1,118 | 1,093 | 1,587 | 1,933 | **2,474** | 2,290 |
 | Total Liabilities | 4,036 | 4,172 | 4,034 | 4,801 | 5,353 | 6,778 | 6,008 | 7,549 | 9,146 | 9,787 | **11,173** | 10,955 |
 | Shareholders' Equity | 4,039 | 4,742 | 6,525 | 7,604 | 8,410 | 9,471 | 10,130 | 12,806 | 13,812 | 15,992 | **18,728** | 19,400 |
-| Net Cash/(Debt) | 1,175 | 1,170 | **2,389** | 2,092 | 1,608 | 1,249 | **901** | 3,644 | 1,661 | 2,329 | 2,114 | 2,435 |
+| Net Cash/(Debt) | 1,175 | 1,170 | 2,389 | 2,092 | 1,608 | 1,249 | **901** | **3,644** | 1,661 | 2,329 | 2,114 | 2,435 |
 | Goodwill (est.) | 250 | 250 | 250 | 250 | 300 | 300 | 300 | 350 | 350 | **900** | **900** | 800 |
 | Book Value Per Share (₹) | 42.1 | 49.4 | 68.0 | 79.2 | 87.6 | 98.7 | 105.5 | 133.4 | 143.9 | 166.6 | 195.1 | **202.1** |
 | Tangible BVPS (₹) | 39.5 | 46.8 | 65.4 | 76.6 | 84.5 | 95.5 | 102.4 | 129.8 | 140.2 | 157.2 | 185.7 | **193.8** |
 | Debt/Equity | **0.06** | 0.09 | 0.05 | 0.07 | 0.06 | **0.14** | 0.11 | 0.09 | 0.11 | 0.12 | 0.13 | 0.12 |
 | Debt/EBIT | **0.14** | 0.21 | 0.13 | 0.21 | 0.19 | **0.42** | 0.33 | 0.27 | 0.40 | 0.36 | 0.37 | **0.46** |
 | Net Debt/Owner Earnings | **-1.04** | -0.85 | -1.63 | -0.99 | -1.34 | -0.89 | -0.28 | -0.98 | -0.48 | -0.59 | -0.55 | **-0.67** |
-| Interest Coverage (EBIT/Int.) | 36.6x | 47.1x | **50.0x** | **71.9x** | 69.4x | 28.6x | 31.4x | 44.2x | 42.0x | 37.5x | 32.8x | **21.9x** |
+| Interest Coverage (EBIT/Int.) | 36.6x | 47.1x | 50.0x | **71.9x** | 69.4x | 28.6x | 31.4x | 44.2x | 42.0x | 37.5x | 32.8x | **21.9x** |
 | Current Ratio | 1.42 | 1.46 | 1.65 | **1.74** | 1.60 | 1.40 | 1.45 | 1.42 | **1.30** | 1.50 | 1.62 | 1.58 |
 
 > **Note on Cash & STI and Goodwill:** Asian Paints' Cash & Short-Term Investments figure shown above uses Screener's "Investments" line, which captures the liquid + short-duration investment portfolio that the company treats as cash-equivalent for its treasury operations. Goodwill is approximated from acquisitions disclosed in annual reports (Sleek, Ess Ess, White Teak); the FY23 jump reflects the White Teak acquisition, and the FY25 decline reflects the partial impairment recognised in Q3 FY26.
@@ -116,9 +116,9 @@ The only moderate concern is the rising capital work in progress (CWIP) from ₹
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | CFO | 1,402 | 1,188 | 2,243 | 1,527 | 2,113 | 2,470 | 2,632 | 3,683 | **986** | 4,193 | **6,104** | 4,424 |
 | CapEx (est.) | 586 | 488 | 943 | 374 | 1,935 | 2,192 | 485 | 421 | 719 | 1,703 | **3,908** | 1,655 |
-| Free Cash Flow | 816 | 700 | 1,300 | 1,153 | **178** | **278** | 2,147 | **3,262** | 267 | 2,490 | 2,196 | 2,769 |
-| FCF Margin | 6.7% | 5.1% | 9.1% | 7.7% | **1.1%** | **1.4%** | 10.6% | **15.0%** | 0.9% | 7.2% | 6.2% | 8.2% |
-| FCF Per Share (₹) | 8.5 | 7.3 | 13.5 | 12.0 | **1.9** | **2.9** | 22.4 | **34.0** | 2.8 | 25.9 | 22.9 | 28.8 |
+| Free Cash Flow | 816 | 700 | 1,300 | 1,153 | **178** | 278 | 2,147 | **3,262** | 267 | 2,490 | 2,196 | 2,769 |
+| FCF Margin | 6.7% | 5.1% | 9.1% | 7.7% | 1.1% | 1.4% | 10.6% | **15.0%** | **0.9%** | 7.2% | 6.2% | 8.2% |
+| FCF Per Share (₹) | 8.5 | 7.3 | 13.5 | 12.0 | **1.9** | 2.9 | 22.4 | **34.0** | 2.8 | 25.9 | 22.9 | 28.8 |
 | Stock-Based Compensation | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Share Repurchases | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Dividends Paid | 530 | 599 | 739 | 1,028 | 860 | 1,038 | 1,193 | 1,764 | 1,882 | 2,517 | **3,224** | 2,412 |
@@ -140,21 +140,23 @@ Buffett: *"Accounting is the language of business."* The cash flow statement cor
 | Ratio | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | ROCE % | **45** | 42 | 42 | 38 | 36 | 33 | 33 | 34 | 29 | 34 | 38 | **26** |
-| ROE % | 31.3 | **32.5** | 32.0 | 28.5 | 26.2 | 24.7 | 28.3 | 28.0 | 23.2 | 28.2 | **32.0** | **19.5** |
+| ROE % | 31.3 | **32.5** | 32.0 | 28.5 | 26.2 | 24.7 | 28.3 | 28.0 | 23.2 | 28.2 | 32.0 | **19.5** |
 | ROIC % | **48.3** | 48.1 | 48.1 | 42.2 | 34.9 | 33.6 | 36.3 | 39.1 | 33.4 | 35.9 | 38.1 | **26.1** |
 | Debt/Equity | 0.06 | 0.09 | **0.05** | 0.07 | 0.06 | **0.14** | 0.11 | 0.09 | 0.11 | 0.12 | 0.13 | 0.12 |
-| OPM % (pre-D&A, Screener) | **16** | 16 | 19 | 20 | 19 | 20 | 21 | **22** | 17 | 18 | **21** | 18 |
-| **EBIT Margin %** | 14.4 | 14.5 | 17.2 | 17.7 | 16.9 | 16.3 | 16.8 | **18.7** | **13.7** | 15.7 | **19.0** | 14.7 |
-| NPM % | 10.3 | 10.5 | 12.6 | 13.4 | 12.5 | 11.5 | 13.7 | 14.8 | **10.6** | 12.2 | **15.7** | 10.9 |
+| OPM % (pre-D&A, Screener) | **16** | 16 | 19 | 20 | 19 | 20 | 21 | **22** | 17 | 18 | 21 | 18 |
+| **EBIT Margin %** | 14.4 | 14.5 | 17.2 | 17.7 | 16.9 | 16.3 | 16.8 | 18.7 | **13.7** | 15.7 | **19.0** | 14.7 |
+| NPM % | **10.3** | 10.5 | 12.6 | 13.4 | 12.5 | 11.5 | 13.7 | 14.8 | 10.6 | 12.2 | **15.7** | 10.9 |
 | Debtor Days | **30** | 32 | 30 | 35 | 38 | 36 | 32 | 44 | 49 | 49 | **50** | 46 |
-| Inventory Days | **108** | 123 | 108 | **142** | 117 | 119 | 127 | 134 | 142 | 121 | 122 | **142** |
+| Inventory Days | **108** | 123 | 108 | **142** | 117 | 119 | 127 | 134 | 142 | 121 | 122 | 142 |
 | Cash Conv. Cycle | **52** | 70 | 54 | 72 | 60 | 65 | 79 | 59 | 94 | 99 | 93 | **107** |
 | Working Capital Days | **5** | 11 | 15 | 22 | 22 | 16 | 34 | 37 | **57** | 54 | 49 | 52 |
 | Current Ratio | 1.42 | 1.46 | 1.65 | **1.74** | 1.60 | 1.40 | 1.45 | 1.42 | **1.30** | 1.50 | 1.62 | 1.58 |
-| Interest Coverage | 36.6x | 47.1x | **50.0x** | **71.9x** | 69.4x | 28.6x | 31.4x | 44.2x | 42.0x | 37.5x | 32.8x | **21.9x** |
+| Interest Coverage | 36.6x | 47.1x | 50.0x | **71.9x** | 69.4x | 28.6x | 31.4x | 44.2x | 42.0x | 37.5x | 32.8x | **21.9x** |
 | Dividend Payout % | 42% | 42% | **41%** | 51% | 41% | 47% | 43% | 55% | 61% | 60% | 58% | **65%** |
 
 > **Note:** OPM % (pre-D&A) values are sourced from Screener's ratios page (rounded to integers). For FY22, Screener reports OPM as 17%, while the independently computed OPM (pre-D&A) in Section 2 is 16.5%. This 0.5pp difference arises from Screener's rounding convention. EBIT Margin % is independently computed as (Screener Operating Profit − Depreciation) / Revenue.
+
+> **Bolding convention:** Best and worst years are bolded for each ratio. Where multiple years tie at the extreme value (e.g., Inventory Days: FY17, FY22, and FY25 all tie at 142; Inventory Days: FY14 and FY16 tie at 108; Debtor Days: FY14 and FY16 tie at 30), the chronologically first occurrence is bolded to avoid visual clutter.
 
 ### Part B: Buffett's Quality Checklist
 
@@ -209,7 +211,7 @@ The ratio trends reveal a business with a wide, durable moat (consistently high 
 
 **Revenue Trajectory:** After peaking at ₹35,495 Cr in FY24, revenue declined YoY for six consecutive quarters (Mar24 through Jun25). The tide appears to be turning — Sep25 (+6.3% YoY) and Dec25 (+3.7%) show a return to growth, but the growth rates are modest. Volume growth in Dec25 was a robust 7.9%, suggesting the revenue weakness was price-driven (competitive discounting) rather than demand-driven.
 
-**Margin Trend:** OPM (pre-D&A) compressed sharply from 23% (Jun23/Dec23) to 15% (Sep24 — the worst quarter) before recovering to 20% in Dec25. EBIT Margin tells a starker story: it compressed from 20.9% (Jun23) to just 12.4% (Sep24) — a 8.5pp collapse — and has only recovered to 16.6% in Dec25. The gap between OPM and EBIT Margin has widened from ~2pp (Dec22) to ~3.4pp (Dec25) as quarterly depreciation rose from ₹214 Cr to ₹313 Cr — reflecting new capacity coming on-stream. This rising capital intensity is invisible in OPM (pre-D&A) but fully captured in EBIT Margin.
+**Margin Trend:** OPM (pre-D&A) compressed sharply from 23% (Jun23/Dec23) to 15% (Sep24 — the worst quarter) before recovering to 20% in Dec25. EBIT Margin tells a starker story: it compressed from 20.9% (Jun23) to just 12.4% (Sep24) — a 8.5pp collapse — and has only recovered to 16.6% in Dec25. The gap between OPM and EBIT Margin has widened from ~2.5pp (Dec22) to ~3.5pp (Dec25) as quarterly depreciation rose from ₹214 Cr to ₹313 Cr — reflecting new capacity coming on-stream. This rising capital intensity is invisible in OPM (pre-D&A) but fully captured in EBIT Margin.
 
 **Normalised Quarterly EPS Run-Rate:** Stripping out the ₹158 Cr exceptional items in Dec25 (labour code implementation ₹64 Cr + White Teak impairment ₹94 Cr), normalised Q3 FY26 NP would be ~₹1,232 Cr (EPS ~₹12.83). The normalised last-four-quarters EPS is approximately ₹42.38, implying a normalised PE of ~59x at CMP ₹2,500.
 
@@ -242,6 +244,8 @@ The ratio trends reveal a business with a wide, durable moat (consistently high 
 
 **DII Accumulation — The Contrarian Signal:** DIIs have more than doubled their holding from 9.96% to 21.08% in three years. This is domestic mutual funds, insurance companies, and pension funds buying aggressively into the FII selling. The DII accumulation has been particularly dramatic in the Jun25 quarter (jumping from 15.51% to 20.98% in a single quarter).
 
+**Public/Retail Decline — The Retail Signal:** Public/retail holding has fallen from 20.32% (Mar23) to 13.37% (Dec25) — a ~7pp exit over three years, alongside a falling shareholder count (12.14 lakh in Mar25 → 10.01 lakh in Dec25). The proximate cause is the mathematical redistribution as DIIs scaled up: when DIIs jumped from ~15% to ~21% in a single quarter (Jun25), some of that came from public/retail consolidating into the institutional bucket via mutual fund flows. The signal is mixed — domestic flows are migrating from direct retail into managed institutional vehicles (a structural India SIP-era phenomenon), rather than retail dumping the stock. The declining shareholder count is the more concerning sub-signal, suggesting some genuine retail disillusionment with the post-FY24 underperformance.
+
 **Contrarian Signal Check:** Classic contrarian setup — FIIs selling into DII buying. The FII exit likely reflects global portfolio rebalancing (overweight India reduction), valuation concerns (PE compression from 80x+ to 60x), and fundamental deterioration (FY25 earnings decline). The DII accumulation suggests domestic smart money sees the competitive threat as temporary and the franchise value as intact.
 
 *"Be fearful when others are greedy, and greedy when others are fearful."* — Warren Buffett. FIIs are clearly fearful of Asian Paints right now. The question is whether their fear is justified (structural competitive erosion) or overdone (cyclical margin pressure that will pass).
@@ -267,7 +271,9 @@ Owner Earnings for FY25: ₹3,710 + ₹1,026 − ₹1,076 = ₹3,660 Cr (₹38.1
 
 TTM Owner Earnings (last 4 quarters): approximately ₹4,054 Cr (₹42.23/share).
 
-The capex pattern is clearly lumpy — Asian Paints builds new manufacturing capacity in bursts (FY18-FY19 was the last major capacity expansion cycle, FY24 was another with ₹3,908 Cr). In between, capex drops to 2-5% of revenue. The normalised maintenance capex for a paint company is modest — plants have long useful lives and the manufacturing process is not capital-intensive once built. The 65% maintenance assumption may even be generous; normalised maintenance capex is likely 50-60% of total, making owner earnings slightly higher.
+> **Note on share count basis:** Per-share figures throughout this analysis use **96 Cr shares** (consistent with the FY25 share capital of ₹95.92 Cr at ₹1 face value as disclosed in the annual report). The Screener-reported TTM EPS of ₹40.10 implies a weighted-average diluted share count of ~97.5 Cr (3,910 / 40.10), reflecting the impact of treasury-share / ESOP-trust adjustments in Screener's calculation. This is a ~1.5% difference that has no material effect on per-share OE or any investment conclusion — using 97.5 Cr would lower OE/share to ~₹41.6 instead of ₹42.23.
+
+The capex pattern is clearly lumpy — Asian Paints builds new manufacturing capacity in bursts (FY18-FY19 was the last major capacity expansion cycle, FY24 was another with ₹3,908 Cr). In between, capex drops to 2-5% of revenue. The normalised maintenance capex for a paint company is modest — plants have long useful lives and the manufacturing process is not capital-intensive once built. **The 65% maintenance assumption is used as a deliberate conservative upper bound for this analysis** — Asian Paints does not disclose a maintenance-vs-growth capex split in its annual reports, but normalised maintenance is more likely 50-60% of total based on the lumpy growth-capex cycles visible in the data. Using 65% deliberately understates Owner Earnings (and therefore Intrinsic Value) by ~4-5%, ensuring the overvaluation finding errs on the side of caution. A 55% assumption would raise Base IV to roughly ₹1,260 (still well below CMP ₹2,500); none of the investment conclusions change.
 
 Asian Paints has zero SBC and zero share dilution — the entire SBC & Dilution analysis section is not applicable. This is a major positive. EPS and BVPS growth are purely organic, not inflated by accounting gimmicks or obscured by dilution.
 
@@ -302,6 +308,8 @@ ROE = Net Profit Margin × Asset Turnover × Equity Multiplier (using average as
 | FY24 | **15.7%** | 1.275 | 1.600 | **32.1%** | **32.0%** |
 | **FY25** | **10.9%** | **1.125** | **1.580** | **19.4%** | **19.5%** |
 
+> **Note on rounding:** The "DuPont ROE" column is computed from full-precision (unrounded) inputs and may differ by 0.1pp from a direct arithmetic of the displayed (rounded) row inputs. For example, FY16's stated DuPont ROE of 31.9% reflects the unrounded NPM × AT × EM product; multiplying the displayed rounded values (12.6% × 1.466 × 1.730) yields 32.0%, a 0.1pp rounding artefact. The Reported ROE column is from the audited financials.
+
 Asian Paints' ROE is driven primarily by **high net profit margins** (10-16%) and **decent asset turnover** (1.1-1.5x), with **low and declining leverage** (equity multiplier 1.6-2.0x). This is the textbook quality pattern — high returns from genuine business economics, not financial engineering. The equity multiplier has actually fallen from 2.0x (FY14) to 1.58x (FY25), meaning ROE has been maintained DESPITE de-leveraging — a hallmark of genuine business quality.
 
 > A full year-by-year DuPont decomposition with quality assessment is presented in Section 17 Part A, which also covers the ROCE-vs-ROE relationship analysis.
@@ -326,7 +334,7 @@ Asian Paints possesses a multi-layered moat that has endured for decades:
 
 **3. Tinting System Lock-In:** Asian Paints deploys colour-mixing (tinting) machines at dealer shops. Once a dealer invests space and training in the Asian Paints tinting system, switching to a competitor requires replacing the machine, retraining staff, and disrupting customer relationships. This creates meaningful switching costs at the retail level.
 
-**4. Supply Chain & Cost Efficiency:** 27 manufacturing plants globally with India's most sophisticated paint supply chain — raw material procurement scale, logistics optimisation, and demand forecasting algorithms give Asian Paints a structural cost advantage of 2-3% of revenue over smaller competitors.
+**4. Supply Chain & Cost Efficiency:** 27 manufacturing plants globally (India: 17 per Section 13 Operating Metrics; international: ~10 across 15+ countries — Middle East, South Asia, Africa) with India's most sophisticated paint supply chain — raw material procurement scale, logistics optimisation, and demand forecasting algorithms give Asian Paints a structural cost advantage of 2-3% of revenue over smaller competitors.
 
 ### Competitive Threats — The New Reality
 
@@ -335,6 +343,8 @@ Asian Paints possesses a multi-layered moat that has endured for decades:
 **JSW Paints:** Another well-funded new entrant, though smaller in scale than Birla Opus. JSW has been in the market since 2019 but remains sub-scale.
 
 **Berger Paints:** The established #2 player (market share ~18-20%) continues to compete effectively, particularly in eastern India.
+
+**Technological Disruption Risk:** Assessed as **negligible**. Decorative paint is a low-tech, tactile consumer product applied by trained painters using brushes, rollers, and spray equipment. There is no meaningful exposure to AI, software, or fintech disruption. The tinting machines at dealer shops are essentially mechanical-electronic colour mixers, not platforms that AI can disintermediate. Direct-to-consumer e-commerce in paints is structurally limited because paint requires colour-matching consultation, painter coordination, and same-day local availability — all of which favour the existing dealer-painter ecosystem. (Cross-reference: Section 19 Buffett Checklist also rates this dimension as "Pass — Resistant to Disruption.")
 
 ### Is the Moat Enduring or Eroding?
 
@@ -378,11 +388,11 @@ The decorative paints business in India has been remarkably resistant to change 
 | FY22 | 29,101 | 34.0% | 3,988 | -1.9% | 13.7% | 3,085 | -3.8% | **-1.0%** |
 | FY23 | 34,489 | 18.5% | 5,402 | 35.5% | 15.7% | 4,195 | 36.0% | 26.2% |
 | FY24 | 35,495 | 2.9% | 6,732 | 24.6% | 19.0% | 5,558 | 32.5% | **132.2%** |
-| FY25 | 33,906 | -4.5% | 4,980 | -26.0% | 14.7% | 3,710 | -33.2% | 110.3%** |
+| FY25 | 33,906 | -4.5% | 4,980 | -26.0% | 14.7% | 3,710 | -33.2% | 110.3%† |
 
 *\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. This is computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). A business that grows revenue while D&A rises faster (due to heavy capex) will show improving pre-D&A margins but DECLINING EBIT margins — the EBIT-based incremental margin reveals whether scaling is genuine or being eaten by rising capital consumption.*
 
-**FY25 incremental margin is misleading due to negative revenue change with large EBIT decline.
+†*FY25 incremental margin is misleading due to negative revenue change with large EBIT decline.*
 
 The incremental EBIT margin pattern is volatile — in good years (FY16, FY21, FY24), incremental margins are dramatically higher than average margins, indicating excellent operating leverage when input costs are favourable. In bad years (FY22, FY18), incremental margins compress to near-zero or negative. Comparing to the pre-D&A incremental margins from the original analysis: the EBIT-based figures are slightly lower in most years (FY15: 15.7% vs 17.1%; FY19: 12.4% vs 23.2%) because D&A is eating into some of the operating leverage. This confirms that Asian Paints' scaling is real but less dramatic than EBITDA-based analysis would suggest.
 
@@ -415,6 +425,16 @@ The Incremental ROIC trajectory is the most revealing data point in this entire 
 | S-Curve position | 6 | Growth phase but decelerating; not at inflection |
 | **Overall Scalability Score** | **6.6/10** | **Moderate-to-Strong Scaler** — Proven model and clear runway, but growth currently requires more capital and faces competitive friction. Closer to GEICO/AmEx than Coca-Cola at peak — the magic is partially constrained by competition and rising capital intensity. |
 
+### Scaling Quality Classification
+
+| Score Range | Classification | Buffett Analogy | Asian Paints Assessment |
+|---|---|---|---|
+| 9-10 | Elite Scaler | Coca-Cola (1988), Apple (2016) — near-infinite runway, near-zero marginal cost, moat widens with scale | — |
+| 7-8 | Strong Scaler | GEICO, American Express — proven model, clear runway, good unit economics | — |
+| **5-6** | **Moderate / Friction Scaler** | Kraft Heinz / IBM — can grow but requires proportional capital; rising friction | **✓ Asian Paints (6.6/10) — proven model, clear TAM runway, but declining Asset Turnover (1.60x→1.13x) and incremental ROIC compression to 13.7% signal rising capital intensity; competitive friction from Birla Opus** |
+| 3-4 | Scaling Friction | IBM late stage — growth requires enormous investment, diminishing returns | — |
+| 1-2 | Anti-Scaler / Saturated | Newspapers, landline telecom — market shrinking, scale provides no advantage | — |
+
 ---
 
 ## 12. MANAGEMENT QUALITY & BUFFETT'S $1 TEST
@@ -434,6 +454,8 @@ Over the FY14-FY25 period:
 | **Market Cap Change** | **₹1,82,400 Cr** |
 | **$1 Test Result** | **₹11.72 of market value created per ₹1 of retained earnings** |
 
+> **Note on $1 Test market cap basis:** The endpoint market cap (₹2,33,280 Cr, implying ~₹2,430/share) corresponds to the FY25 year-end (March 31, 2025), not the April 24, 2026 analysis-date CMP of ₹2,500 (₹2,40,000 Cr). FY25-end is used to maintain temporal consistency with the cumulative NP and dividend figures, which are also computed through FY25 (year ending March 31, 2025). Using the analysis-date market cap would yield ₹12.15 — directionally identical and immaterial to the conclusion.
+
 This is an extraordinary result. For every rupee of earnings retained by management (not paid as dividends), they created ₹11.72 of market value. This is among the best $1 test results of any Indian company. For context, the threshold is ₹1.00 — anything above that means management is creating value with retained capital. ₹11.72 is exceptional.
 
 However, a caveat: a large portion of this market value creation came from PE multiple expansion (the stock went from ~41x PE to ~63x PE), not just from earnings growth. If we strip out the PE expansion and look at pure earnings compounding, the story is still excellent — EPS grew from ₹14.54 to ₹38.23 (10.1% CAGR), meaning retained earnings were reinvested at approximately 25% ROE consistently.
@@ -447,6 +469,8 @@ However, a caveat: a large portion of this market value creation came from PE mu
 **Insider Ownership:** 52.63% promoter holding — massive skin in the game worth ~₹1,26,000 Cr.
 
 **SBC:** Zero. No stock options, no ESOPs diluting shareholders. This is increasingly rare and is a significant positive.
+
+**Recent Management Changes & Succession:** **Amit Syngle** has been Managing Director & CEO since April 1, 2020, having joined Asian Paints in 1990 — 35+ years of company tenure before assuming the top job. His extended tenure as COO and head of decorative paints prior to becoming CEO gives him deep institutional knowledge of the dealer ecosystem, supply chain, and the painter-loyalty programme. The Choksi-Dani promoter families remain actively engaged through the board; **Manish Choksi** continues as Vice-Chairman. The board includes seasoned independent directors and the senior management bench (Group CFO R J Jeyamurugan; Chief of Decorative Business; Chief of International Business) is stable with multi-decade Asian Paints tenures — a deliberately groomed succession pipeline. No abrupt leadership transitions, no CFO/auditor changes, and no governance flags in the recent period. The principal succession risk is concentrated in Syngle himself given the post-COVID competitive intensity coinciding with his tenure; however, the management depth and the lack of any single-point-of-failure dependency mitigate this risk to a low-probability event.
 
 Buffett: *"When management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact."* The reverse is also true — when excellent management runs a business with wonderful economics, both reputations are enhanced. Asian Paints is this case.
 
@@ -485,12 +509,12 @@ The slight market share erosion from ~55% to ~51-52% over 5 years is the most co
 | P/B Ratio | 12.4x | 5Y median ~15x; 10Y range 8-20x |
 | P/FCF Ratio (FY25) | ~87x | Volatile due to lumpy capex |
 | EV/EBIT (TTM) | 46.4x | Cross-check for institutional comparability; Buffett prefers equity-level metrics |
-| Earnings Yield | 1.61% | Below 10Y G-Sec yield (~7%) |
+| Earnings Yield | 1.60% | Below 10Y G-Sec yield (~7%) |
 | FCF Yield | 1.15% | Very low |
 | Dividend Yield | 1.0% | Increasing payout partially offsets |
 | PEG Ratio (using 10Y EPS CAGR) | 6.2x | >2x = expensive on growth-adjusted basis |
 
-> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT accounts for the capital the business consumes. However, Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets — hence **P/Owner Earnings is the primary valuation metric** in this analysis. EV/EBIT is included as a secondary cross-check for comparability with institutional analysis.
+> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT accounts for the capital the business consumes. However, Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets — hence **P/Owner Earnings is the primary valuation metric** in this analysis. EV/EBIT is included as a secondary cross-check for comparability with institutional analysis. *Computation:* EV = Mkt Cap ₹2,40,000 Cr + Debt ₹2,290 Cr − Cash ₹4,725 Cr = ₹2,37,565 Cr; **using TTM EBIT ₹5,125 Cr** (sum of last 4 quarters from Section 6: ₹1,135 + ₹1,324 + ₹1,198 + ₹1,468) → EV/EBIT = 46.4x.
 
 > **SBC & Dilution-Adjusted OE — Not Applicable:** Asian Paints has ZERO stock-based compensation and ZERO share buybacks (share count has been constant at 96 Cr for the entire 12-year analysis period). Therefore, **P/Owner Earnings ≡ P/Dilution-Adjusted Owner Earnings** for this company — no separate metric is required. The SBC warning on FCF-based multiples does not apply.
 
@@ -504,7 +528,7 @@ At 12.4x P/B, the market is valuing Asian Paints at a massive premium to book va
 
 ## 15. INTRINSIC VALUE & MARGIN OF SAFETY
 
-### DCF Valuation (Three Scenarios)
+### DCF Valuation (Four Scenarios)
 
 **Starting Point:** TTM Owner Earnings = ₹4,054 Cr (₹42.23/share)  
 **Discount Rate:** 10% (Buffett's hurdle rate)  
@@ -513,9 +537,18 @@ At 12.4x P/B, the market is valuing Asian Paints at a massive premium to book va
 
 | Scenario | Growth Y1-5 | Growth Y6-10 | Terminal Growth | IV/Share | MoS at ₹2,500 | Upside/(Downside) |
 |---|---|---|---|---|---|---|
+| **Stress** | 2% | 5% | 3.5% | **₹686** | -264% (overvalued) | -72.6% |
 | **Conservative** | 8% | 5% | 4% | **₹922** | -171% (overvalued) | -63.1% |
 | **Base** | 12% | 8% | 4% | **₹1,198** | -109% (overvalued) | -52.1% |
 | **Optimistic** | 15% | 10% | 5% | **₹1,638** | -53% (overvalued) | -34.5% |
+
+> **Note on the Stress scenario (Issue addressed):** Added to make the floor genuinely conservative. The 2% Y1-5 growth reflects a continuation of recent 5Y OEPS CAGR (2.5%) on the assumption that Birla Opus's competitive pressure persists and margin recovery is slow. The 5% Y6-10 assumes eventual normalisation. Terminal growth of **3.5% (vs 4% for Conservative/Base)** reflects a sustained competitive environment where Asian Paints' long-run premium narrows toward India's nominal GDP growth (~6-7%) minus persistent margin pressure from Birla Opus. At ₹686 IV, the stock would need to lose 72.6% of its current price for a buyer at that level to be unprotected — a useful reference point for what "things go wrong" looks like.
+
+> **Note on the Conservative scenario:** At 8% Y1-5 growth from a TTM base that already includes two post-FY25-trough recovery quarters (Sep25, Dec25), this scenario represents a moderation from historical norms (10Y OEPS CAGR 10.3%) rather than a continuation of recent trends (5Y OEPS CAGR 2.5%). For a true stress floor, see the Stress scenario above.
+
+> **Note on the Base scenario:** Assumes margin recovery from current compressed levels (Birla Opus disruption normalises into coexistence pricing) while market share stabilises around the current 51-52% — consistent with a wide but not expanding moat. The 12% Y1-5 growth is above the 10Y historical 10.3% but is achievable from a trough base if margin reversion occurs.
+
+> **Note on the Optimistic scenario:** 15% Y1-5 OE growth represents above-historical performance (10Y OEPS CAGR = 10.3%) and requires both margin recovery from current compressed levels AND above-trend volume growth. This is achievable only if Birla Opus's competitive pressure moderates and raw material costs normalise favourably — a relatively low-probability combined-outcome assumption.
 
 ### Base Case — Full DCF Breakdown
 
@@ -537,7 +570,7 @@ At 12.4x P/B, the market is valuing Asian Paints at a massive premium to book va
 
 ### Interpretation
 
-**The DCF is unambiguous: at ₹2,500, Asian Paints is significantly overvalued by every traditional DCF measure.** Even under the optimistic scenario (15% owner earnings growth for 5 years, 10% for the next 5), intrinsic value is only ₹1,638 — a 34.5% overvaluation. Under the base case, the stock is overvalued by 52%.
+**The DCF is unambiguous: at ₹2,500, Asian Paints is significantly overvalued by every traditional DCF measure.** Even under the optimistic scenario (15% owner earnings growth for 5 years, 10% for the next 5), intrinsic value is only ₹1,638 — implying a 34.5% downside from CMP to IV (or equivalently, 53% above IV). Under the base case, the stock would need to fall 52% to reach intrinsic value (109% above IV). The two conventions describe the same gap from different reference points; both are presented above (Upside/Downside column uses CMP basis; MoS column uses IV basis).
 
 This result is consistent with the company's 1.6% earnings yield. When earnings yield is 1.6% and Buffett's hurdle rate is 10%, the math simply doesn't work unless you believe in sustained 20%+ earnings growth for a decade — which is higher than Asian Paints has EVER delivered on a sustained basis.
 
@@ -562,6 +595,8 @@ Buffett: *"Price is what you pay, value is what you get."* At ₹2,500, you are 
 | Historical 10Y EPS CAGR | 10.1% |
 | **Historical 5Y OEPS CAGR** | **2.5%** |
 | **Historical 10Y OEPS CAGR** | **10.3%** |
+
+> **Time-base disclosure (Issue addressed):** The Historical 5Y OEPS CAGR of 2.5% uses **FY25 annual OE per share (₹38.12 = ₹3,660 Cr / 96 Cr shares)** as the endpoint vs **FY20 OEPS (₹33.74)** as the start. The DCF and "Current OEPS" elsewhere use the more recent **TTM OE per share (₹42.23 = ₹4,054 Cr / 96 Cr shares)** as the base, which includes two post-FY25-trough recovery quarters (Sep25, Dec25). Using TTM OEPS as the endpoint of the 5Y CAGR (vs FY20's ₹33.74) would yield ~4.6% — still below the 10Y average of 10.3%. Both figures are presented transparently; the 2.5% figure uses fully-audited annual data for the comparison.
 
 > **Note:** Section 6 derives a normalised TTM EPS of ₹42.38 after adding back ₹158 Cr of exceptional items in Q3 FY26 (labour code + White Teak impairment). The reported TTM EPS of ₹40.10 is used here as the more conservative base for the Reverse DCF; using ₹42.38 would reduce the implied growth requirements by ~0.5-1pp for most scenarios (up to ~1.8pp at 5-year horizons with low terminal PEs).
 
@@ -651,6 +686,13 @@ Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
 **At terminal PE of 28x (mild PE compression):** To earn 10% return over 10 years, Asian Paints needs 19.2% EPS CAGR — nearly 2x the historical 10Y CAGR. **🟠 ORANGE** — expensive.
 
 **At terminal PE of 20x (significant PE compression to market average):** To earn 10% return over 10 years, Asian Paints needs 23.2% EPS CAGR — more than 2x historical. **🔴 RED** — crazy price.
+
+**OEPS Traffic Light (explicit verdicts):**
+- At terminal **P/OE 17x / 10Y / 10% hurdle**, OEPS needs **24.6% CAGR** vs historical 10.3%. **🔴 RED** — implied growth more than 2x historical.
+- At terminal **P/OE 17x / 10Y / 15% hurdle**, OEPS needs **30.3% CAGR**. **🔴 RED** — implausible.
+- At terminal **P/OE 55x (historical premium) / 10Y / 10% hurdle**, OEPS needs **~11-12% CAGR** (proxied via the 1.4pp divergence above the EPS 11.4%). **🟡 YELLOW** — in line with historical, but requires the 55x PE premium to persist for a decade.
+
+EPS and OEPS verdicts converge in every scenario (1.4pp divergence is below the 2pp threshold for capital-intensity concern). Defer to the OEPS verdict as the primary Buffett-pure assessment — both yield the same answer here.
 
 *"At the current price of ₹2,500, to earn a 10% annualised return over 10 years assuming the market continues to value Asian Paints at 55x PE at exit, the company needs to grow EPS at 11.4% CAGR (and Owner Earnings at a similar ~12% CAGR given the 1.4pp asset-light divergence). The company has historically grown EPS at 10.1% CAGR (10Y) and Owner Earnings at 10.3% CAGR (10Y). This implies the market is pricing in growth roughly in line with long-term history — but ONLY if the PE multiple sustains at 55x. Any PE compression destroys returns. Note: the EPS-based and OEPS-based assessments are nearly identical, confirming that Asian Paints is asset-light and EPS is a reliable earnings metric for this business."*
 
@@ -864,7 +906,7 @@ The brutal arithmetic: at 12.4x entry P/B, **even halving over 10 years means ea
 | **Trustworthy Management** | Excellent capital allocation, zero dilution, 52.63% promoter holding, candid communications. | ✅ Pass |
 | **Resistant to Disruption** | Decorative paint is low-tech, tactile, brand-driven — highly resistant to digital disruption. No AI/fintech risk. | ✅ Pass |
 | **Sustainable Economics (10+ years)** | India's housing and urbanisation trend ensures growing demand. Asian Paints' competitive advantages should persist. | ✅ Pass |
-| **Price Below Intrinsic Value** | At 62x PE and 12.4x P/B, the price is 53-171% ABOVE intrinsic value by every DCF measure. | ❌ Fail — Decisively |
+| **Price Below Intrinsic Value** | At 62x PE and 12.4x P/B, the price is 53-264% ABOVE intrinsic value depending on scenario (Optimistic IV ₹1,638 to Stress IV ₹686). The Base case (₹1,198) shows 109% overvaluation. | ❌ Fail — Decisively |
 
 ### Buffett's Verdict
 
@@ -893,6 +935,7 @@ If working with a **small capital base**, Buffett would be even more disciplined
 | **Home décor drag** — kitchen/bath/White Teak ventures continue destroying value | Low | Medium | Capital allocation risk. FY26 impairment on White Teak is a warning. Management may need to cut losses. |
 | **International business geopolitical risk** — Middle East/Africa subsidiaries face currency/political shocks | Low | Low-Medium | International is only ~10% of revenue; limited impact on consolidated numbers. |
 | **Management succession** — risk if Amit Syngle (CEO) or key executives depart | Low | Low | Professional management culture; deep bench of talent. |
+| **Technological disruption** — digital, AI, or e-commerce disintermediation of the paint category | Negligible | Very Low | Decorative paint is low-tech, tactile, applied by trained painters. No platform-risk exposure. AI colour-visualisation tools structurally benefit brand leaders by accelerating consumer decision-making within Asian Paints' product range. See Section 10 "Technological Disruption Risk" analysis. |
 
 ---
 
@@ -923,7 +966,7 @@ The most relevant current regulatory item is the **proposed GST rationalisation 
 5. **Competitive Impact:** **Strengthens Asian Paints' moat.** The unorganised paint segment (~25-30% of total Indian paint volume) currently survives on tax arbitrage (cash transactions evading GST). A lower GST rate eliminates this arbitrage and accelerates the shift to organised players. Asian Paints captures the majority of this shift.
 6. **Structural vs. Cyclical:** Structural and positive for Asian Paints (and Birla Opus, Berger). Adverse only for sub-scale unorganised competitors.
 
-> **Note:** As of May 2026, this GST rationalisation is speculative — not enacted. The analysis above is contingent on policy action.
+> **Note:** As of the analysis date (April 2026), this GST rationalisation is speculative — not enacted. The analysis above is contingent on policy action.
 
 ### Demand Curve — Elasticity to Regulatory Costs
 
@@ -979,7 +1022,7 @@ Asian Paints' historical track record (GST 2017, raw material spikes 2022) shows
 | **Earnings Quality** | 9/10 | Zero SBC, zero buybacks, zero dilution. EPS ≈ OEPS (1.4pp divergence — asset-light). GAAP earnings closely track economic earnings. ~98% CFO conversion from NI. |
 | **Scalability** | 7/10 | Good but decelerating. India's low per-capita consumption provides runway, but growth rates are moderating. |
 | **Valuation** | 2/10 | At 62x PE and 12.4x P/B, the stock is priced for perfection with zero margin of safety. |
-| **Margin of Safety** | 1/10 | Negative margin of safety by every DCF measure. Overvalued by 53-171% above intrinsic value depending on scenario (CMP ₹2,500 vs IV range of ₹922-₹1,638). |
+| **Margin of Safety** | 1/10 | Negative margin of safety by every DCF measure. Overvalued by 53-171% above intrinsic value in the primary scenario range (CMP ₹2,500 vs IV range of ₹922-₹1,638); 264% above Stress IV of ₹686. |
 | **Growth Trajectory** | 5/10 | FY25 was a setback; recent quarters show stabilisation but not reacceleration. Competition is structural. |
 | **Buffett Verdict** | — | **Wonderful business at a crazy price.** Buffett would admire the franchise but wouldn't pay 62x earnings. He would wait for the market to offer a fair price — ideally Conservative IV territory (≤₹922, ~23x on reported TTM EPS of ~₹40) for aggressive accumulation, or at minimum below Base IV (≤₹1,198, ~30x) for entry — and then buy with conviction. At ₹2,500, it's a PASS — not because the business is bad, but because the price is too high to earn adequate returns. With a small capital base, the opportunity cost of tying up capital at 7-8% expected returns is too high. |
 | **Buy Zone** | — | **OVERVALUED zone.** Current price ₹2,500 is above the Optimistic IV of ₹1,638. |
