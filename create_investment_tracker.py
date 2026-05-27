@@ -231,7 +231,7 @@ companies = [
     ("Swaraj Engines", "SWARAJENG", "NSE", "8/10", 2000, 2700, 3600, 4500, 3377, 5014, 6335, False, "Captive Mahindra supplier; 42% ROE, 56% ROCE, zero debt, 80% payout"),
     ("Systango Technologies", "SYSTANGO", "NSE", "6.7/10", 200, 275, 400, 550, 519, 1043, 1703, False, "Micro-cap IT; 36% margins, zero debt, 54% profit CAGR. Client concentration risk"),
     ("Tanfac Industries", "TANFACIND", "NSE", "8/10", 1705, 2728, 4092, 5456, 1887, 3322, 6228, False, "India's largest fluorine chemicals; 45% ROCE, regulatory moat, near-zero debt"),
-    ("Tata Motors", "TMPV", "NSE", "6/10", 240, 400, 600, 900, 571, 834, 1168, False, "Deep value at 1.15x book; 87% EV dominance, India CV #1. JLR cyclically stressed"),
+    ("Tata Motors", "TMPV", "NSE", "6.0/10", 240, 400, 600, 900, 571, 834, 1168, False, "Post-demerger PV+EV+JLR; 12% India PV share, 87% EV share. JLR tariff/demand headwinds, cyclical"),
     ("Tata Power", "TATAPOWER", "NSE", "5.6/10", 168, 247, 336, 426, 90, 182, 371, False, "Regulated monopoly T&D (62% rev); strong Tata backing. Overpriced at 34x PE"),
     ("Tata Steel", "TATASTEEL", "NSE", "4.9/10", 61, 91, 122, 186, 4, 60, 224, False, "India cost moat via captive iron ore. At historic peak P/B; commodity cyclical"),
     ("Titan Company", "TITAN", "NSE", "8.3/10", 1850, 2550, 3500, 4650, 2181, 3946, 6525, False, "Trust-based jewellery moat; 9/10 quality, 30%+ ROE. 89x PE = no MoS"),
@@ -272,6 +272,25 @@ companies = [
     ("Shalimar Paints", "SHALPAINTS", "NSE", "1.8/10", 7, 17, 25, 35, 0, 0, 7, True, "Chronically loss-making (<1% share); -23% ROE, eroding equity, 70.5% promoter pledge. Value trap"),
     # ── Batch 12 ──
     ("Berger Paints India", "BERGEPAINT", "NSE", "7.8/10", 240, 335, 425, 525, 204, 304, 393, False, "#2 paint co (20% share); 20%+ ROE, near-zero debt (D/E 0.11), 75% promoter. Paint War headwinds"),
+    # ── Batch 13 ──
+    ("Interglobe Aviation (IndiGo)", "INDIGO", "NSE", "6.2/10", 2800, 4130, 5260, 6580, 8107, 11840, 16420, False, "India's dominant LCC (64% share); cost moat + scale, negative working capital. Oil/geopolitical earnings volatility"),
+    # ── Batch 14 ──
+    ("AGI Greenpac", "AGI", "NSE", "6.1/10", 325, 450, 650, 850, 680, 1150, 2134, False, "India's #2 container glass maker; freight-protected oligopoly, 60% promoter. HNGIL return threatens peak 24% OPM"),
+    ("Zensar Technologies", "ZENSARTECH", "NSE", "6.4/10", 450, 550, 750, 900, 906, 1114, 1324, False, "Mid-tier IT services; fortress balance sheet (net cash 22% of mkt cap), 49% RPG promoter. AI disruption risk, slow revenue growth"),
+    # ── Batch 15 ──
+    ("Laurus Labs", "LAURUSLABS", "NSE", "6.4/10", 400, 600, 850, 1100, 444, 673, 889, False, "World's largest 3rd-party ARV API supplier + growing CDMO; founder-CEO. Cyclical earnings, capital-intensive, negative cumulative FCF"),
+    ("CIE Automotive India", "CIEINDIA", "NSE", "7.4/10", 350, 450, 600, 750, 547, 694, 842, False, "Multi-tech auto-comp supplier; D/E 0.09, 65.7% CIE Spain parent. OPM expanding 10%→15%, EV pivot underway"),
+    ("Sonata Software", "SONATSOFTW", "NSE", "6.2/10", 227, 324, 423, 512, 324, 423, 512, False, "Microsoft ecosystem IT services; 27% ROE, Quant acquisition integrating. CEO transition, margin compression risk"),
+    ("Kronox Lab Sciences", "KRONOX", "NSE", "8.1/10", 87, 125, 207, 330, 125, 207, 330, False, "High-purity specialty fine chemicals; 33% OPM, zero debt, 74% promoter. Micro-cap with switching cost moat, 185 products"),
+    ("Polycab India", "POLYCAB", "NSE", "9.0/10", 5235, 6630, 8375, 10470, 4740, 5729, 7450, False, "India's #1 wires & cables (27% share); debt-free, 22.7% ROE, 61.5% promoter. 46x PE prices in perfection"),
+    # ── Batch 16 ──
+    ("Cummins India", "CUMMINSIND", "NSE", "8.9/10", 1617, 2426, 3235, 4448, 2103, 2873, 3475, False, "Tech-moated industrial franchise; 36% ROCE, zero debt, 51% Cummins Inc parent. Aftermarket annuity, 64.7x PE prices in perfection"),
+    ("JSW Steel", "JSWSTEEL", "NSE", "5.0/10", 350, 550, 850, 1100, 103, 364, 787, False, "India's largest steelmaker (36 MTPA); commodity cyclical, D/E 1.24, OPM 11-27% range. 57x normalised PE is absurd for steel"),
+    ("Indian Hotels", "INDHOTEL", "NSE", "8.8/10", 350, 450, 550, 700, 352, 531, 688, False, "India's largest hospitality co (Tata); 120-yr Taj brand, 33% OPM, D/E 0.28, capital-light pivot. 45-50x PE, fully valued"),
+    ("Mastek", "MASTEK", "NSE", "6.6/10", 1300, 1800, 2600, 3500, 3178, 4118, 4962, False, "Mid-cap IT; UK govt franchise + Oracle Cloud specialisation. 13.4x PE historically cheap, 45% MoS to conservative IV"),
+    ("JK Tyre", "JKTYRE", "NSE", "5.3/10", 200, 300, 400, 500, 203, 389, 744, False, "India's #4 tyre maker, #1 TBR; commodity-dependent, D/E 1.0, OPM 9-16% cyclical. 16.2x PE at upper range, no MoS"),
+    # ── Batch 17 ──
+    ("Aelea Commodities Ltd", "544213", "BSE", "4.0/10", 41, 70, 115, 170, 41, 113, 167, False, "BSE SME cashew processor; no moat, OPM -1.5% to 10.8%, negative FCF every year. 61.8x P/OE, 3.9x P/B for 1.9% ROE. AVOID at ₹152. Buy below ₹70; deep value < ₹41"),
 ]
 
 NUM = len(companies)
