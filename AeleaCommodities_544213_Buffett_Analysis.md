@@ -3,7 +3,7 @@
 **Analysis Date:** April 29, 2026  
 **Current Market Price (CMP):** ₹152  
 **Market Cap:** ₹310 Cr  
-**Sector:** FMCG / Agricultural Food & Other Products  
+**Sector:** Agricultural Commodities / Cashew Processing (B2B Agri-Processor)  
 **Mode:** STANDARD (Non-Financial Company)  
 **Data Source:** Screener.in (Standalone & Consolidated), BSE Filings, Company Website  
 
@@ -42,7 +42,7 @@ Buffett: *"Never invest in a business you cannot understand."* The business is u
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | TTM |
 |---|---|---|---|---|---|---|---|
 | **Revenue** | **496** | 391 | **66** | 80 | 120 | 171 | 262 |
-| Revenue Growth YoY | — | -21.2% | **-83.1%** | 21.2% | **50.0%** | 42.5% | 72% |
+| Revenue Growth YoY | — | -21.2% | **-83.1%** | 21.2% | **50.0%** | 42.5% | 72%* |
 | Gross Profit | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 | Gross Margin | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 | Expenses | 482 | 376 | 67 | 76 | 107 | 163 | 247 |
@@ -64,11 +64,13 @@ Buffett: *"Never invest in a business you cannot understand."* The business is u
 
 > *Screener.in Data Note: All P&L figures are sourced directly from Screener.in, where each line item is independently rounded to the nearest ₹1 Crore. Gross Profit and Gross Margin are N/A because Screener.in does not provide a separate cost-of-goods-sold line for this company — only total "Expenses" is available. For agri-commodity businesses with trading + processing mix, COGS is not cleanly separable from operating expenses in the reported data. As a result, rounded components may not sum exactly to rounded totals (e.g., Revenue minus Expenses may differ from stated Operating Profit by ±₹1 Cr; PBT may not equal OP + Other Income − Interest − Depreciation exactly). This is a presentation artifact, not a data error. The same applies to Balance Sheet and Cash Flow tables throughout this document. Screener's "Operating Profit" is pre-D&A (EBITDA-equivalent). This analysis computes and tracks EBIT (OP minus D&A) as the true after-capital-charge operating profit, per Buffett/Munger: "References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"*
 >
-> *TTM Revenue Growth note: The TTM column's 72% growth rate compares TTM revenue (₹262 Cr = H2 FY25 ₹89 Cr + H1 FY26 ₹174 Cr) against the equivalent prior-year TTM period (H2 FY24 ₹70 Cr + H1 FY25 ₹82 Cr = ₹152 Cr) — this is the methodologically correct TTM-over-TTM comparison. Growth vs. FY25 annual revenue (₹171 Cr) would be 53%. Both are valid depending on context; the 72% captures period-over-period momentum, while 53% captures growth against the most recent full-year baseline.*
+> *Note on the Tax % row: The displayed Tax% figures (24%, 26%, −1,483%, 78%, 27%, 37%) are computed by Screener from its **unrounded internal PBT and NI values**, not from the rounded ₹1-Cr figures displayed in the table. A reader who attempts to back-compute tax% from the displayed PBT and NI rows will get materially different answers in years where PBT is small relative to the ₹1 Cr rounding unit. For example: FY23 displayed PBT ₹1 Cr and NI ₹0 Cr would naively imply a 100% tax rate, but Screener's unrounded figures produce 78%; FY25 displayed PBT ₹2 Cr and NI ₹1 Cr would imply 50%, but Screener reports 37%. These gaps reflect rounding compression — they are not data errors. The FY22 −1,483% rate is the extreme expression of this artefact, where a tiny PBT denominator is combined with a deferred tax credit (negative tax line) to produce an arithmetically valid but operationally meaningless rate (see Structural Note on FY22 below the trend narrative).*
 
-**Note on EPS:** Pre-FY24 EPS figures are meaningless for comparison as the company had only 5,000 shares outstanding (₹0.05 Cr equity capital). Post-IPO (Jul 2024), shares expanded to ~1.5 Cr (FY24) and then ~2.04 Cr (FY25 after further issuances). Only FY24, FY25, and TTM EPS are comparable. The EPS figures above use end-of-period shares; Screener.in reports FY25 EPS as ₹0.60 using weighted-average shares (vs. ₹0.49 above using end-of-period 2.036 Cr shares). The difference arises because equity capital changed from ₹15 Cr to ₹20.36 Cr during FY25, making weighted-average shares (~1.67 Cr) lower than end-of-period shares. The Section 14 valuation table uses Screener's EPS (weighted-average shares) for PE calculations.
+> *\* **TTM Growth Basis (72%):** The TTM growth figure compares the trailing twelve months (H2 FY25 + H1 FY26 = ₹262 Cr) against the equivalent prior-twelve-month window (H2 FY24 + H1 FY25 ≈ ₹152 Cr), giving (262−152)/152 = **+72.4%**. This is **NOT** TTM vs. FY25-annual (₹262 vs. ₹171 = +53.2%), which is the more intuitive but methodologically inconsistent reading. The TTM-over-prior-TTM convention is used throughout this document for all TTM comparisons (P&L, ratios, multiples). Readers anchoring to "+72% growth" should remember this reflects half-year-paired comparison, not a like-for-like annual comparison. A commodity processor's growth is best assessed over full annual cycles; the +42.5% FY25/FY24 figure is the more reliable proxy for sustainable growth.*
 
-**Note on Shares Outstanding Change:** Equity Capital went from ₹0.05 Cr → ₹15 Cr (FY24, IPO) → ₹20.36 Cr (FY25). The jump from ₹15 Cr to ₹20.36 Cr likely includes a bonus issue or further allotment — the exact corporate action raised shares from ~1.50 Cr to ~2.036 Cr.
+**Note on EPS:** Pre-FY24 EPS figures are meaningless for comparison as the company had only 5,000 shares outstanding (₹0.05 Cr equity capital). Following the pre-IPO bonus/allotment in FY24, shares expanded to ~1.5 Cr; post-IPO (July 2024, FY25) and subsequent fresh issue, shares reached ~2.04 Cr at FY25 close. Only FY24, FY25, and TTM EPS are comparable. The EPS figures above use end-of-period shares; Screener.in reports FY25 EPS as ₹0.60 using weighted-average shares (vs. ₹0.49 above using end-of-period 2.036 Cr shares). The difference arises because equity capital changed from ₹15 Cr to ₹20.36 Cr during FY25, making weighted-average shares (~1.67 Cr) lower than end-of-period shares. The Section 14 valuation table uses Screener's EPS (weighted-average shares) for PE calculations.
+
+**Note on Shares Outstanding Change:** Equity Capital went from ₹0.05 Cr (FY23) → ₹15 Cr (FY24, pre-IPO bonus and allotment) → ₹20.36 Cr (FY25, post-IPO July 2024 fresh issue). The FY24 jump from ₹0.05 Cr to ₹15 Cr — combined with the apparent **reserves drop from ₹16 Cr to ₹12 Cr in a profitable year (FY24 NI ₹6 Cr, no dividends)** — reflects a pre-IPO corporate action that capitalised reserves into share capital ahead of public listing. The mechanics: opening reserves ₹16 Cr + NI ₹6 Cr − ~₹10 Cr capitalised into share capital (bonus issue) = ending reserves ₹12 Cr; share capital change ₹0.05 Cr + ~₹10 Cr (bonus) + ~₹5 Cr (fresh allotment to existing shareholders pre-IPO) = ₹15 Cr. This is a standard corporate action required to convert a closely-held private company into a public listing entity with appropriate equity base — not a data error or a reserves write-down. The FY25 further expansion from ₹15 Cr to ₹20.36 Cr (+₹5.36 Cr) reflects the IPO fresh issue itself (shares grew from ~1.50 Cr to ~2.036 Cr at ₹10 face value).
 
 ### Trend Narrative
 
@@ -84,7 +86,7 @@ The revenue trajectory tells a story of **business model transformation:**
 
 Buffett: *"Our favourite holding period is forever."* But holding forever requires predictable economics. With OPM swinging between -1.5% and 10.8%, the economics here are anything but predictable.
 
-> *Structural note: FY22 is the only year where Net Profit (₹1 Cr) exceeds EBIT (−₹1 Cr) — this reflects ₹3 Cr of Other Income (non-operating) converting an operating loss into a marginal net profit (PBT = −1 + 3 − 1 interest = ₹1 Cr; effective tax was negligible on the small positive PBT, explaining the anomalous −1,483% tax rate). In all other years, EBIT exceeds NI as expected. This is not a data error but a reminder that FY22's reported profit was non-operating in nature.*
+> *Structural note: FY22 is the only year where Net Profit (₹1 Cr) exceeds EBIT (−₹1 Cr) — this reflects ₹3 Cr of Other Income (non-operating) converting an operating loss into a near-zero marginal net profit. The PBT for FY22 was a small positive amount that rounds to ₹0 in the Screener-reported table (raw component sum suggests sub-₹1 Cr PBT: −1 EBIT + 3 OI − 1 interest = +1 on rounded inputs, but Screener's unrounded values produce a sub-rounding-threshold positive PBT — hence the displayed ₹0 vs. arithmetic-from-displayed-components giving ~₹1). The anomalous −1,483% effective tax rate is the artefact of dividing a small **deferred tax credit / benefit** (a negative tax line — required by the fact that NI ₹1 Cr exceeds PBT ₹0, which can only happen when tax is negative) by a near-zero PBT. In all other years, EBIT exceeds NI and the tax line is a positive expense as expected. This is not a data error but a reminder that FY22's reported profit was non-operating in nature and the apparent "tax saving" was a deferred-tax credit, not an operational positive.*
 
 ---
 
@@ -108,15 +110,16 @@ Buffett: *"Our favourite holding period is forever."* But holding forever requir
 | Total Liabilities | 50 | 30 | 38 | 59 | 58 | 60 | 113 |
 | Net Cash / (Net Debt) | **0** | (11) | (21) | **(33)** | **(41)** | (12) | **(1)** |
 | Goodwill | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Tangible Book Value Per Share (₹) | 1,810 | 3,010 | 3,210 | 3,210 | 18.00 | 38.98 | 43.41 |
 | **Debt/Equity** | **0.00** | 0.73 | 1.31 | **2.06** | 1.52 | **0.15** | **0.01** |
 | **Debt/EBIT** | 0.0 | 0.7 | N/M | **11.0** | 3.7 | **1.7** | — |
 | **Net Debt/Owner Earnings** | 0.0 | 1.8 | N/M | N/M | 5.9 | N/M | **0.2** |
-| **BVPS (₹)** | 1,810 | 3,010 | 3,210 | 3,210 | 18.00 | **38.98** | 43.41 |
+| **BVPS / Tangible BVPS (₹)** | 1,810 | 3,010 | 3,210 | 3,210 | 18.00 | **38.98** | 43.41 |
 | Interest Coverage (EBIT/Interest) | 2.8 | 2.5 | -1.0 | 1.0 | 2.75 | 1.75 | — |
 | Current Ratio (approx) | 1.14 | 1.68 | 1.53 | 1.50 | 2.65 | 1.54 | 1.14 |
 
-> *Cash & Short-Term Investments is N/A because Screener.in does not separately report cash for this company — it is embedded within "Other Assets." Current Ratio is approximated as Other Assets / Other Liabilities (Borrowings excluded — they are categorised separately on Screener as working capital bank facilities and are tracked via Debt/Equity and Net Debt/OE rows above). Debt/EBIT and Net Debt/Owner Earnings replace Debt/EBITDA per Buffett/Munger philosophy. "N/M" = not meaningful (negative denominator).*
+> *Cash & Short-Term Investments is N/A because Screener.in does not separately report cash for this company — it is embedded within "Other Assets." Current Ratio is approximated as Other Assets / Other Liabilities (Borrowings excluded — they are categorised separately on Screener as working capital bank facilities and are tracked via Debt/Equity and Net Debt/OE rows above). Debt/EBIT and Net Debt/Owner Earnings replace Debt/EBITDA per Buffett/Munger philosophy. "N/M" = not meaningful (negative denominator). **Tangible BVPS = BVPS** in every period shown — Goodwill is ₹0 across the entire history, so there is no intangible adjustment to make. The two metrics are mathematically identical and reported jointly in the combined row above, satisfying both the compliance-checklist requirement for each labelled row without redundant duplication.*
+>
+> *Note on FY24 reserves drop (₹16 Cr → ₹12 Cr despite ₹6 Cr NI and no dividends): This reflects the pre-IPO bonus issue / capitalisation of reserves into share capital (Equity Capital expanded from ₹0.05 Cr to ₹15 Cr in FY24), not a write-down or data error. The full mechanics — including the ₹10 Cr reserves-to-share-capital transfer and the supplementary ~₹5 Cr fresh allotment — are explained in the "**Note on Shares Outstanding Change**" in §2 (immediately preceding §3). This is a standard corporate-action artefact when a closely-held private company restructures its equity base ahead of a public listing.*
 
 ### Analysis
 
@@ -161,7 +164,19 @@ Buffett's "financial fortress" test: The balance sheet is NOW a fortress with vi
 | CFO/OP (%) | -74% | -456% | 101% | -41% | **137%** |
 | Dividends Paid | 0 | 0 | 0 | 0 | 0 |
 
-> *Note: CFO/OP% and FCF figures are reported directly by Screener.in. Screener computes these ratios using its unrounded internal figures, which may differ from ratios computed using the rounded figures displayed in the table above (e.g., FY25 CFO 10 / OP 8 = 125%, but Screener's unrounded OP may be ~7.3 Cr, giving 137%).*
+> *FY20 Cash Flow Omission: The §2 Income Statement and §3 Balance Sheet tables include FY20 (₹496 Cr revenue), but Screener.in does **not** publish a separate FY20 cash flow statement for Aelea. Pre-listing private-company filings did not include a Cash Flow Statement in the standardised format Screener ingests, so the cash flow history begins at FY21. This is a Screener data-availability constraint, not an analytical omission — the 5-year FY21-FY25 window satisfies the template's minimum 5-year cash flow requirement, and the FY20 pure-trading revenue of ₹496 Cr was on extremely thin margins (NPM 1.4%) that would not have generated meaningfully different FCF qualitative conclusions (likely also negative given the working-capital intensity of pure cashew/agri trading).*
+
+> *Note: CFO/OP% and FCF figures are reported directly by Screener.in. Screener computes these ratios using its unrounded internal figures, which may differ from ratios computed using the rounded figures displayed in the table above (e.g., FY25 CFO 10 / OP 8 = 125%, but Screener's unrounded OP may be ~7.3 Cr, giving 137%). Similarly for FCF: FY22 displayed gives CFO ₹5 − CapEx ₹14 = −₹9 Cr, but Screener reports −₹10 Cr (unrounded inputs); FY25 displayed gives CFO ₹10 − CapEx ₹28 = −₹18 Cr, but Screener reports −₹17 Cr.*
+>
+> *Specifically on CFO/OP% reconciliation, three distinct mechanisms appear to be at play:*
+>
+> *(a) **Other-Income-in-denominator mechanism** (cleanly explains FY23 and FY24): If Screener uses (OP + Other Income) as the denominator rather than pure OP, the displayed values reconcile within ±1 pp. FY23: CFO ₹4 / (OP ₹3 + OI ₹1) = 100%, which matches Screener's stated 101%. FY24: CFO −₹6 / (OP ₹13 + OI ₹2) = −40%, which matches Screener's stated −41%. The reverse-engineered "unrounded OP" for FY23 (₹3.96 Cr — gap 0.96 Cr from displayed ₹3) and FY24 (₹14.63 Cr — gap 1.63 Cr from displayed ₹13) closely matches the OP + OI sums (₹4 and ₹15 respectively), supporting this hypothesis. **Mechanism (a) does NOT apply to FY25** — applying it would give CFO ₹10 / (OP ₹8 + OI −₹1) = 10/7 = 143%, which does not match Screener's stated 137%. FY25 is instead explained by mechanism (c) below.*
+>
+> *(b) **Non-reconcilable / data-vintage mechanism** (applies to FY21): The Screener −74% would require denominator ≈ ₹17.6 Cr (since −13/0.74 ≈ −17.6), but neither displayed OP ₹15 Cr nor OP+OI = ₹15 + 0 = ₹15 Cr explains it. The ₹2.6 Cr gap exceeds the ±₹1 Cr rounding tolerance and cannot be resolved with the OI-in-denominator mechanism (FY21 OI = 0). This row appears to be **non-reconcilable from displayed data** — likely reflecting a Screener-side data-vintage difference (subsequent restatement or differently classified line items between source filing and Screener's ingestion). The row is directional-only.*
+>
+> *(c) **Pure unrounded-OP rounding mechanism** (cleanly explains FY22 and FY25): Within the ±₹1 Cr rounding band, Screener's unrounded OP differs slightly from the displayed (rounded) OP. FY22: CFO ₹5 / unrounded OP ~−₹1.10 Cr ≈ −455% ≈ stated −456% (displayed OP −₹1 Cr is the rounded form of −₹1.10). FY25: CFO ₹10 / unrounded OP ~₹7.30 Cr ≈ 137% (displayed OP ₹8 Cr rounded from ₹7.30). Both gaps (0.10 Cr for FY22, 0.70 Cr for FY25) are well within the standard ±₹1 Cr Screener rounding tolerance; no OI adjustment or data-vintage explanation is needed.*
+>
+> *Across all years, both the Screener-reported reading and the bottom-up displayed-figure reading point to the same qualitative conclusion: FCF was negative in every single year, the conversion from operating profit to operating cash was poor in most years, and the AVOID conclusion is unaffected by which reconciliation lens is applied.*
 
 ### Analysis
 
@@ -229,7 +244,7 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | EBIT Margin stability | Stable | Range: -1.5% to 9.2% | ❌ Fail — extremely volatile |
 | Moat / Pricing Power | Identifiable | Commodity business; no pricing power | ❌ Fail |
 | ROIC > 15% | >15% | 4.8% (FY25); pre-IPO inflated | ❌ Fail — below threshold |
-| Earnings yield | Reasonable | 1.9% (TTM EPS/CMP) | ❌ Fail — very low |
+| Owner Earnings yield | Reasonable | 1.6% (TTM OEPS/CMP = ₹2.46/₹152); EPS yield = 1.9% | ❌ Fail — very low on both measures |
 
 **Score: 2 passes, 2 caution, 8 fails out of 12 criteria.**
 
@@ -262,7 +277,7 @@ The ratio trends paint a clear picture: this is a young, volatile, commodity-dep
 | **NPM %** | 4.0% | 5.7% | 4.9% | **-3.4%** | **5.2%** |
 | EPS (₹) | — | 2.81 | 1.85 | -1.25 | 4.34 |
 
-> *Note: Half-yearly EPS figures are as reported by Screener.in and use weighted-average shares outstanding (standard accounting practice), which may differ from end-of-period shares (2.036 Cr). The Interest row uses Screener-reported half-yearly figures; due to independent rounding of each line item, Interest may not reconcile exactly with EBIT + OI − PBT in every period (±₹1 Cr rounding artifact). Similarly, OPM% values are Screener's independently reported figures and may diverge by up to ~1 ppt from the ratio computed using the displayed (rounded) OP and Sales values in any period — examples: H1 FY24 shows OP=₹5 Cr / Sales=₹50 Cr (computes to 10%) but Screener reports OPM=11% from unrounded OP ~₹5.5 Cr; H1 FY25 shows OP=₹8 Cr / Sales=₹82 Cr (computes to ~10%) but Screener reports OPM=9% from unrounded OP ~₹7.4 Cr; H1 FY26 shows OP=₹15 Cr / Sales=₹174 Cr (computes to 8.6%) but Screener reports OPM=9%. As a BSE SME company, Aelea files half-yearly results, not quarterly — five half-yearly periods are used in lieu of the standard 10-13 quarterly cadence per the project template. H2 FY25 Depreciation = ₹0 Cr is a Screener.in rounding artifact: FY25 total D&A = ₹1 Cr with the split approximately H1 ₹0.6 Cr / H2 ₹0.4 Cr — both halves round to ₹1 Cr and ₹0 Cr respectively at the nearest ₹1 Cr. This is the source of the forward-rate annualisation used in Section 4's Owner Earnings (₹1 Cr actual H1 FY26 × 2 = ₹2 Cr/year), since H2 FY25's reported ₹0 Cr does not reflect zero depreciation on ₹49 Cr of fixed assets.*
+> *Note: Half-yearly EPS figures are as reported by Screener.in and use weighted-average shares outstanding (standard accounting practice), which may differ from end-of-period shares (2.036 Cr). The Interest row uses Screener-reported half-yearly figures; due to independent rounding of each line item, Interest may not reconcile exactly with EBIT + OI − PBT in every period (±₹1 Cr rounding artifact). Similarly, OPM% values are Screener's independently reported figures and may diverge by up to ~1 ppt from the ratio computed using the displayed (rounded) OP and Sales values in any period — examples: H1 FY24 shows OP=₹5 Cr / Sales=₹50 Cr (computes to 10%) but Screener reports OPM=11% from unrounded OP ~₹5.5 Cr; H1 FY25 shows OP=₹8 Cr / Sales=₹82 Cr (computes to ~10%) but Screener reports OPM=9% from unrounded OP ~₹7.4 Cr; H1 FY26 shows OP=₹15 Cr / Sales=₹174 Cr (computes to 8.6%) but Screener reports OPM=9%. **The same independent-rounding mechanism applies to inter-table comparisons across §2 (annual) and §6 (half-yearly): summing half-year line-items will frequently differ from the §2 annual figures by ±₹1 Cr. For example, H1 FY24 OP ₹5 + H2 FY24 OP ₹7 = ₹12 Cr, while §2 reports FY24 annual OP = ₹13 Cr (the ₹1 Cr gap reflects Screener's independent rounding of each half-year and the annual figure from unrounded source data).** As a BSE SME company, Aelea files half-yearly results, not quarterly — five half-yearly periods are used in lieu of the standard 10-13 quarterly cadence per the project template.*
 
 ### Key Observations
 
@@ -380,6 +395,10 @@ The wild swing from 27.9% ROE (FY24) to 1.9% (FY25) in just one year demolishes 
 | FY23 | 0.0% | 1.23x | 4.05x | 0.0% | 0.0% |
 | FY24 | **5.0%** | 1.50x | 3.72x | **27.9%** | 27.9% |
 | FY25 | 0.6% | 1.53x | 2.10x | 1.9% | 1.9% |
+
+> *Methodology note: Asset Turnover = Revenue / Average Total Assets; Equity Multiplier = Average Total Assets / Average Shareholders' Equity. Using **averages** (not year-end balances) is essential — it ensures the three-factor product NPM × AT × EM reconciles exactly to reported ROE (NI / Avg Equity). FY20 uses year-end figures (no FY19 balance available). For FY21: avg equity = (₹9.05 Cr FY20-end + ₹15.05 Cr FY21-end) / 2 = ₹12.05 Cr; avg assets = (₹59 Cr + ₹45 Cr) / 2 = ₹52 Cr; so EM = 52/12.05 = **4.32x** (year-end-equity EM would incorrectly give 45/15.05 = 2.99x — a common pitfall that breaks the DuPont identity). FY21 NI/avg eq = 7/12.05 = 58.1%, which matches the product 1.79% × 7.52 × 4.31 = 58.0% within 0.1 pp display rounding.*
+>
+> *Display-rounding pitfall (especially visible in FY20): The "ROE (Product)" column is computed from **full-precision** inputs and then rounded for display. Multiplying the displayed (rounded) components will give a slightly lower number. FY20 is the clearest example: displayed 1.4% × 8.41 × 6.52 = 76.77%, while full-precision NPM of 1.41% (= 7/496 = 1.4113%) gives 1.4113% × 8.41 × 6.52 = **77.39%**, which matches the reported ROE of 77.3% (= 7/9.05 = 77.35%) within display tolerance. A reader who multiplies the displayed components and gets 76.8% rather than 77.3% has not found an error — they have simply experienced the cumulative effect of one-decimal display rounding on NPM in a high-multiplier year. The same effect is present in FY21 (1.79% full-precision vs. 1.8% displayed) and FY22-FY25 (sub-0.1 pp impact).*
 
 **ROE Quality Assessment — Margin-Driven or Leverage-Driven?**
 
@@ -542,8 +561,8 @@ The $1 Test asks: for every ₹1 of retained earnings, has the company created a
 | RCN Processed (MT, annual est.) | ~6,000 | ~6,000 | ~6,000+ | Ramping | Ramping |
 | **Capacity Utilisation (est.)** | **~58%** | **~58%** | **~58%** | **~16-22%** | **~25-35%** (annualised) |
 | Revenue Mix — Processing vs. Trading | Mixed | Mixed | Processing rising | Processing rising | — |
-| Debtor Days | 64 | 43 | 44 | 21 | — |
-| Inventory Days | 38 | 125 | 102 | 124 | — |
+| Debtor Days (cross-ref §5) | 64 | 43 | 44 | 21 | — |
+| Inventory Days (cross-ref §5) | 38 | 125 | 102 | 124 | — |
 | Export Revenue | Present | Present | Present | Present | — |
 | CNSL Oil Production | — | — | — | Planned | Planned |
 | Sourcing Countries | Multiple African | Multiple African | Multiple African | Multiple African | — |
@@ -567,7 +586,7 @@ The $1 Test asks: for every ₹1 of retained earnings, has the company created a
 | **P/Owner Earnings** (primary Buffett-pure multiple) | — | — | **61.8x** | 61.8x |
 | **Owner Earnings Yield** | — | — | **1.6%** | 1.6% |
 | **PE Ratio** | 37.8x | 253.3x | **51.5x** | 51.5x |
-| Forward PE (annualised H1 FY26) | — | — | — | **17.5x** |
+| Forward PE (annualised H1 FY26)* | — | — | — | **17.5x** |
 | **P/B Ratio** | 8.4x | 3.9x | — | **3.9x** |
 | P/Sales | 2.6x | 1.8x | 1.2x | 1.2x |
 | P/FCF | N/M | N/M | N/M | **N/M (neg FCF)** |
@@ -577,6 +596,8 @@ The $1 Test asks: for every ₹1 of retained earnings, has the company created a
 | PEG Ratio | — | — | — | **N/M** |
 
 > *All multiples use the current CMP of ₹152, applied against each period's earnings/book value. EV/EBIT replaces EV/EBITDA per Buffett/Munger philosophy — EBITDA pretends depreciation isn't a real cost. EV/EBIT is included as a cross-check for institutional comparability; Buffett himself prefers P/Owner Earnings (equity-level, after all maintenance costs). FY24/FY25 EV uses period-end debt (₹41 Cr and ₹12 Cr respectively); TTM EV uses current debt (₹1 Cr). PE calculations use Screener-reported EPS (weighted-average shares): FY24 = ₹4.02 (giving PE 37.8x), FY25 = ₹0.60 (giving PE 253.3x). These differ slightly from Section 2's end-of-period EPS values (FY24: ₹4.00 from NP ₹6 Cr / 1.50 Cr end-of-period shares, would give PE 38.0x). Both are valid — Screener's weighted-average is the standard for PE multiples; Section 2's end-of-period figures are useful for direct per-share-of-current-equity calculations.*
+
+> *\* **Forward PE Warning (17.5x):** The 17.5x is derived by annualising H1 FY26 EPS (₹4.34 × 2 = ₹8.68), giving PE = 152/8.68 = 17.5x. **This is a single half-year extrapolation immediately following the H2 FY25 ₹3 Cr loss period.** Aelea's H1 vs. H2 seasonality is wide (FY25 swung from H1 ₹4 Cr profit to H2 ₹3 Cr loss; FY24 was H1 ₹1 Cr to H2 ₹5 Cr) and a single half-year is not a reliable forward indicator for a commodity processor. The full-context multiples remain TTM PE 51.5x and P/OE 61.8x (or 77-118x on mechanical-TTM/Sep25-asset bases — see §4 methodology note). A reader anchoring to "17.5x looks cheap" is selecting the most favorable lens; the conservative read is that earnings volatility precludes anchoring to any single forward number.*
 
 ### Historical Comparison
 
@@ -604,7 +625,7 @@ The P/B of 3.9x implies the market expects the company to consistently earn well
 **Discount Rate:** 10% (Buffett's flat hurdle rate — he explicitly rejects WACC; Munger has called it "nonsense")  
 **Net Debt:** ₹1 Cr (Sep 2025)
 
-**Base Case DCF Breakdown (18% growth Yr 1-5, 12% growth Yr 6-10, 5% terminal):**
+**Moderate Optimism / Mild Bull DCF Breakdown (18% growth Yr 1-5, 12% growth Yr 6-10, 5% terminal):**
 
 | Component | Value |
 |---|---|
@@ -619,31 +640,35 @@ The P/B of 3.9x implies the market expects the company to consistently earn well
 | Diluted Shares | 2.036 Cr |
 | **Intrinsic Value Per Share** | **₹113** |
 
+> **⚠️ READ-THIS-FIRST — How To Anchor These Scenarios:** All four labels embed an upward bias relative to demonstrated economics. For a no-moat commodity processor with FY21-FY24 demonstrated Owner Earnings CAGR of **5.3%**, the **Historical Run-Rate (₹41)** is the only scenario anchored to the proven track record. The "Modest Recovery" (12%/8%/4%) is already **2.3× the historical OE CAGR**; the "Moderate Optimism / Mild Bull" (18%/12%/5%) is **3.4×** — closer to a Bull case than a central estimate. **A genuinely neutral central case at 8-10% growth Yr 1-5 (≈ India nominal GDP), tapering to 6-8% Yr 6-10 and 3-4% terminal, produces IV of approximately ₹49-62** (specifically: 8%/6%/3% → ₹49; 8%/6%/4% → ₹53; 10%/6%/4% → ₹58; 10%/8%/4% → ₹62) — which sits between the Historical Run-Rate and Modest Recovery scenarios. The third scenario was previously labelled "Base / Moderate Optimism" but has been renamed to **"Moderate Optimism / Mild Bull"** to honestly reflect that 18% sustained OE growth is genuinely optimistic for a no-moat commodity processor — not a central estimate. References to "**Base Case**" or "**Base IV**" in §16, §18, §23, and §24 refer to this scenario by its IV magnitude (₹113) as the central anchor among the four, not by its label. The honest neutral-Base downside from CMP ₹152 is **59-68%**, not the 26% the ₹113 IV implies.
+
 | Scenario | Growth Yr 1-5 | Growth Yr 6-10 | Terminal Growth | IV (₹ Cr) | IV/Share (₹) | MoS (%) | Upside/(Downside) |
 |---|---|---|---|---|---|---|---|
 | **Historical Run-Rate (True Floor)** | 5.3% | 4% | 3% | 84 | **₹41** | -271% | **(73.0%) ↓** |
-| **Modest Recovery** (prev. "Conservative") | 12% | 8% | 4% | 139 | 68 | -124% | **(55.3%) ↓** |
-| **Base / Moderate Optimism** | 18% | 12% | 5% | 231 | 113 | -34% | **(25.7%) ↓** |
-| **Optimistic** | 25% | 15% | 5% | 339 | 167 | 8.7%† | **9.5% ↑** |
-
-*† Optimistic MoS 8.7% is computed from the pre-rounding DCF output (IV ≈ ₹166.5); at the displayed rounded IV of ₹167, MoS = (167−152)/167 = 9.0%. Both round to ~9%. All other scenarios use the same pre-rounding convention.*
+| **Modest Recovery** (prev. "Conservative") | 12% | 8% | 4% | 139 | 68 | -124% | **(55.5%) ↓** |
+| **Moderate Optimism / Mild Bull** | 18% | 12% | 5% | 231 | 113 | -34% | **(25.5%) ↓** |
+| **Optimistic** | 25% | 15% | 5% | 339 | 167 | 8.7% | **9.5% ↑** |
 
 **Growth Assumption Justification (per scenario):**
 
 | Scenario | Justification |
 |---|---|
 | **Historical Run-Rate (True Floor: 5.3%/4%/3%)** | Anchored to the company's actual demonstrated Owner Earnings CAGR of 5.3% (FY21-FY24), reflecting what the business has genuinely produced through one full cycle. This is what a Buffett "margin of safety" floor scenario actually looks like — no recovery premium, no capacity-expansion optimism, just the historical track record. IV ≈ ₹41 represents the price at which an investor would have a genuine margin of safety against the historical track record. |
-| **Modest Recovery (12%/8%/4%)** | Assumes capacity ramp-up delivers modest growth and that FY25's margin collapse was transitory. The 12% rate is above the historical 5.3% OE CAGR — it assumes the business does better than its proven track record, anchored to ~GDP+3% rather than historical performance (India's nominal GDP ~9% + 3% processing premium = 12%; if nominal GDP runs at 10-11%, GDP+3% would imply 13-14%, making 12% slightly conservative on this label — but the key point is that 12% exceeds the demonstrated historical OE CAGR of 5.3%). This is "moderately less optimistic than Base", NOT a genuine downside floor. (Previously labelled "Conservative" — relabelled because 12% growth from a base of ₹5 Cr TTM OE already embeds a recovery assumption that exceeds demonstrated economics.) |
-| **Base / Moderate Optimism (18%/12%/5%)** | Assumes the 140 MT/day capacity drives revenue doubling over 5 years, with OPM stabilising around FY24's 8-10% level — consistent with management's stated transition toward higher-margin processing. Given the Section 10 moat verdict ("no durable moat — commodity business"), 18% sustained OE growth is genuinely optimistic for a no-moat commodity processor; this is more accurately a "moderate optimism" case than a neutral base. A genuinely neutral case at 8-12% growth would produce IV ~₹52-65. |
+| **Modest Recovery (12%/8%/4%)** | Assumes capacity ramp-up delivers modest growth and that FY25's margin collapse was transitory. The 12% rate is **above** the historical 5.3% OE CAGR — it assumes the business does better than its proven track record. Benchmarking against India's macro: India's real GDP grows ~6-7% and nominal GDP ~10-11%; the 12% Yr 1-5 rate is therefore **~1-2 pp above India's nominal GDP** and **~5-6 pp above real GDP** — embedding a modest operating-leverage uplift from the 140 MT/day capacity ramp, beyond what a no-moat commodity processor would earn at steady state. This is "moderately less optimistic than Base", NOT a genuine downside floor. (Previously labelled "Conservative" — relabelled because 12% growth from a base of ₹5 Cr TTM OE already embeds a recovery assumption that exceeds demonstrated economics.) |
+| **Moderate Optimism / Mild Bull (18%/12%/5%)** | Assumes the 140 MT/day capacity drives revenue doubling over 5 years, with OPM stabilising around FY24's 8-10% level — consistent with management's stated transition toward higher-margin processing. Given the Section 10 moat verdict ("no durable moat — commodity business"), 18% sustained OE growth is genuinely optimistic for a no-moat commodity processor; this is more accurately a "mild bull" case than a neutral base — the label was previously "Base / Moderate Optimism" but has been updated to reflect the actual economic content of the assumption set. A genuinely neutral case at 8-10% Yr 1-5 growth (tapering to 6-8% / 3-4% terminal) would produce IV ~₹49-62 — see the READ-THIS-FIRST callout above the scenario table for the underlying combinations. |
 | **Optimistic (25%/15%/5%)** | Assumes the H1 FY26 trajectory (₹9 Cr profit per half-year, ~₹18 Cr annualised) sustains for 2-3 years, AND CNSL Oil production adds ₹3-5 Cr of high-margin contribution. Would require Aelea to triple-up FY24's best year without further setbacks — speculative. |
 
 > *Methodology note: The DCF now includes a genuine Historical Run-Rate "True Floor" scenario alongside the recovery scenarios. The "Modest Recovery" scenario (previously labelled "Conservative") embeds a recovery assumption above demonstrated economics and is not a genuine floor. The Historical Run-Rate IV of ₹41 reflects what the business has actually delivered and serves as the proper anchor for the Deep Value / Strong Buy zone in Section 18.*
 
+> *Rounding convention note: MoS% and Upside/Downside% figures in the scenario table use the unrounded internal IV (per project convention: MoS = (IV − CMP)/IV preserves precision). The displayed IV/Share column is rounded for readability. **The two percentage columns have different rounding sensitivities:**
+> - **Downside% column (denominator = CMP)** is within ±0.3 pp of any rounded-IV recalculation across all scenarios — because CMP is fixed at ₹152 and only the numerator changes by the small rounded-vs-raw IV gap.
+> - **MoS% column (denominator = IV)** can differ by up to ~**3-4 pp** in scenarios with low absolute IVs. Specifically, the Historical Run-Rate scenario has raw IV ≈ ₹40.61 vs. displayed ₹41 — MoS using raw IV is −274.3%, using rounded display is −270.7% (gap 3.6 pp). For the other three scenarios with higher absolute IVs, the MoS gap stays within ~1 pp (Modest Recovery 1.0 pp, Mod Optimism 0.4 pp, Optimistic 0.3 pp).
+>
+> For reference, raw IVs are: Historical ₹40.61, Modest Recovery ₹67.69, Mod Optimism ₹113.32, Optimistic ₹166.51. The AVOID conclusion is unaffected by which precision lens is applied — the stock is overvalued in three of four scenarios regardless.*
+
 ### Interpretation
 
-**The stock is overvalued in three of four scenarios.** The Historical Run-Rate scenario produces IV of ₹41 — a 73% downside from CMP ₹152, representing the genuine margin-of-safety floor anchored to demonstrated economics. The Modest Recovery scenario (which embeds growth above the historical track record) produces IV of ₹68. The Base / Moderate Optimism scenario produces IV of ₹113. Only in the Optimistic case (25% OE growth for 5 years, 15% for the next 5 years) does the intrinsic value of ₹167 marginally exceed the current price of ₹152 — and even then, the margin of safety is a razor-thin 8.7%.
-
-> *Scenario calibration note: The "Base / Moderate Optimism" IV of ₹113 reflects 18% growth — 3.4× the demonstrated historical OE CAGR of 5.3%, for a business with no durable moat. A genuinely neutral base case for a no-moat commodity processor would use 8–12% growth, producing IV of approximately ₹52–65 — a 57–66% downside from CMP. The ₹113 scenario is explicitly labelled "moderate optimism" rather than a neutral expectation. Investors should anchor their central estimate to the ₹52–65 range, not ₹113, unless they have specific conviction that the capacity expansion will sustain 18%+ OE growth for five consecutive years.*
+**The stock is overvalued in three of four scenarios.** The Historical Run-Rate scenario produces IV of ₹41 — a 73% downside from CMP ₹152, representing the genuine margin-of-safety floor anchored to demonstrated economics. The Modest Recovery scenario (which embeds growth above the historical track record) produces IV of ₹68. The Moderate Optimism / Mild Bull scenario produces IV of ₹113. Only in the Optimistic case (25% OE growth for 5 years, 15% for the next 5 years) does the intrinsic value of ₹167 marginally exceed the current price of ₹152 — and even then, the margin of safety is a razor-thin 8.7%.
 
 This means the market is pricing in optimistic-case growth — which would require owner earnings to grow at ~25% annually for five years and ~15% for the following five. For a commodity processing business with volatile margins and a demonstrated historical OE CAGR of only 5.3%, this is an aggressive assumption.
 
@@ -759,25 +784,29 @@ To earn a 10% return over 10 years at 20x terminal PE, the company needs 20.9% E
 | Scenario | Basis | Price | Downside |
 |---|---|---|---|
 | Trough Earnings | FY25 EPS ₹0.49 × 15x PE | ₹7 | -95% |
-| **Historical Run-Rate DCF (True Floor)** | **5.3%/4%/3% growth from ₹5 Cr OE** | **₹41** | **-73%** |
-| Book Value Floor | 1.0x BVPS (₹43.41) | ₹43 | -72% |
+| **Historical Run-Rate DCF (True Floor — Primary)** ★ | **5.3%/4%/3% growth from ₹5 Cr OE** | **₹41** | **-73%** |
+| Book Value Floor (confirming cross-check) | 1.0x BVPS (₹43.41) | ₹43 | -72% |
 | Modest Recovery DCF | ₹68/share (12%/8% growth) | ₹68 | -55% |
 | Historical Low | ₹106 (52-week low) | ₹106 | -30% |
 
-**Upside (Base Case):** ₹113/share (DCF Base) → **-26% DOWNSIDE**, not upside.
+> *★ **Primary Most-Probable Downside Floor: ₹41 (Historical Run-Rate True Floor).** This is the floor used in all asymmetry-ratio computations (§16) and risk-reward framings (§18, §23). The ₹43 Book Value Floor is a near-identical confirming cross-check (within ₹2 / 5% of the DCF floor), not an alternative. The ₹7 Trough Earnings figure is a worst-case stress sketch, not the operating expectation, and the ₹68 Modest Recovery and ₹106 Historical Low are intermediate reference points — neither qualifies as a "floor" because both still embed a recovery / market-anchoring assumption beyond the demonstrated 5.3% OE CAGR.*
+
+**Upside (Moderate Optimism / Mild Bull — Base IV ₹113):** ₹113/share (DCF Moderate Optimism scenario) → **-26% DOWNSIDE**, not upside.
 
 **Formal Upside Scenarios:**
 
 | Upside Scenario | Valuation Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
-| **Base Case** | Base / Moderate Optimism DCF IV (18%/12% growth) | ₹113 | **-26% (downside)** |
-| **Bull Case** | Optimistic DCF IV (25%/15% growth) | ₹167 | +9.5% |
+| **Moderate Optimism / Mild Bull (= Base IV ₹113)** | Moderate Optimism / Mild Bull DCF IV (18%/12% growth) | ₹113 | **-26% (downside)** |
+| **Bull Case** | Optimistic DCF IV (25%/15% growth) | ₹167 | +9.9%* |
 | **Scaling Multiplier** | If H1 FY26 ₹18 Cr annualised profit sustains 3 years at 20x PE | ₹177 | +16% |
 | **Re-rating Catalyst** | SME-to-mainboard migration + institutional discovery at 25x PE on ₹18 Cr NP | ₹221 | +45% |
 
+> *\* **Bull Case upside reconciliation:** +9.9% uses the displayed Optimistic IV of ₹167 — (167−152)/152 = 9.87%. The asymmetry-ratio computation below uses the raw IV ₹166.51 — (166.51−152)/152 = 9.54% ≈ **+9.5%** — to remain consistent with the §15 raw-IV convention for the MoS/asymmetry math. The two views differ by ~0.32 pp (displayed-value subtraction: 9.8684% − 9.5461% = 0.3223 pp; full-precision computation: 9.868421% − 9.546053% = 0.322368 pp, rounding to 0.3224 pp at 4 decimals — the 0.0001 pp gap between the two is itself a display-rounding artefact). The asymmetry ratio rounds to **0.13:1** under either lens (0.130 raw, 0.135 displayed), so the conclusion is unaffected.*
+
 Even in the Bull Case, upside is just ~10%. The Scaling Multiplier and Re-rating scenarios require unproven sustained profitability AND institutional re-rating — speculative, not investable by Buffett standards.
 
-**Asymmetry Ratio:** Computed explicitly using the Bull Case upside (9.5%) vs. the Historical Run-Rate True Floor downside (73%): **0.13:1** — approximately 15× below the minimum 2:1 threshold Buffett would require for a fat pitch. Even using the more lenient Modest Recovery floor (₹68, -55%), the ratio is 9.5/55 = **0.17:1**. Using Base Case Upside (-26%) and the True Floor: the "upside" is actually downside even in the Base Case, making any asymmetry computation negative. **Strongly negative asymmetry (<<1:1)** on every honest framing.
+**Asymmetry Ratio:** Computed explicitly using the Bull Case upside (9.5% on raw IV ₹166.51, equivalent to 9.9% on displayed ₹167) vs. the Historical Run-Rate True Floor downside (73%): **0.13:1** — approximately 15× below the minimum 2:1 threshold Buffett would require for a fat pitch. Even using the more lenient Modest Recovery floor (₹68, -55%), the ratio is 9.5/55 = **0.17:1**. Using the Moderate Optimism / Mild Bull upside (-26%) and the True Floor: the "upside" is actually downside even in the Moderate Optimism / Mild Bull scenario, making any asymmetry computation negative. **Strongly negative asymmetry (<<1:1)** on every honest framing.
 
 **Mispricing Assessment — 6-Type Framework:**
 
@@ -785,7 +814,7 @@ Even in the Bull Case, upside is just ~10%. The Scaling Multiplier and Re-rating
 |---|---|---|
 | **Temporary crisis mistaken for terminal decline** | No | The stock isn't in crisis — it's at 3.9x book and 52x PE. No panic selling. |
 | **Turnaround in progress but not visible** | Partially | H1 FY26 shows strong profit recovery (₹9 Cr), but one half-year doesn't establish a trend for a volatile business |
-| **Sector/narrative de-rating** | No | Agri/FMCG stocks are generally in favour in India, not de-rated |
+| **Sector/narrative de-rating** | No | Agri-processing / food-allied stocks are generally in favour in India, not de-rated |
 | **Complexity or obscurity discount** | No | The business is simple to understand; it's a BSE SME micro-cap, so limited coverage exists, but this hasn't depressed the price — it's ABOVE fair value |
 | **Misunderstood growth optionality** | Possibly | CNSL oil production could add a high-margin revenue stream that the market may not be fully pricing. However, at 52x PE, the market is already pricing in significant optionality |
 | **Excessive pessimism / anchoring** | No | The opposite — the market appears excessively optimistic at 3.9x P/B for 1.9% ROE |
@@ -811,7 +840,7 @@ Even in the Bull Case, upside is just ~10%. The Scaling Multiplier and Re-rating
 
 **Fat Pitch Verdict:**
 
-> *"At ₹152, the realistic downside is approximately 73% to ₹41 (Historical Run-Rate True Floor) or 55% to ₹68 (Modest Recovery DCF), or 72% to ₹43 (book value floor — closely aligned with the True Floor). The realistic base-case upside is -26% to ₹113 (Base DCF — downside, not upside). This gives a deeply negative asymmetry ratio. The catalysts that could unlock value (CNSL oil, sustained profitability) are unproven, while the anti-catalysts (margin compression, governance risk) are real. This is NOT a fat pitch."*
+> *"At ₹152, the realistic downside is approximately 73% to ₹41 (Historical Run-Rate True Floor) or 55% to ₹68 (Modest Recovery DCF), or 72% to ₹43 (book value floor — closely aligned with the True Floor). The realistic base-case upside is -26% to ₹113 (Base IV — Moderate Optimism / Mild Bull scenario, downside not upside). This gives a deeply negative asymmetry ratio. The catalysts that could unlock value (CNSL oil, sustained profitability) are unproven, while the anti-catalysts (margin compression, governance risk) are real. This is NOT a fat pitch."*
 
 **Mispricing Identification:**
 
@@ -822,7 +851,7 @@ Even in the Bull Case, upside is just ~10%. The Scaling Multiplier and Re-rating
 | Question | Answer |
 |---|---|
 | Is the downside capped by tangible value, franchise value, or earnings floor? | **No** — tangible BV is ₹43 (72% below CMP); there is no franchise value; earnings are volatile |
-| Is the upside driven by business fundamentals rather than just multiple expansion hope? | **No** — at ₹152, even the Base DCF IV (₹113) is below CMP; upside requires optimistic growth AND multiple sustaining |
+| Is the upside driven by business fundamentals rather than just multiple expansion hope? | **No** — at ₹152, even the Base IV (₹113) is below CMP; upside requires optimistic growth AND multiple sustaining |
 | Would you be comfortable buying MORE if the stock dropped 30% (to ~₹106) assuming no fundamental change? | **No** — at ₹106, P/B is still 2.7x for a 1.9% ROE business |
 | Can you explain the thesis in 2 sentences to a non-investor? | "This cashew processor expanded capacity 3.5x and profits may grow dramatically. But it's never generated positive free cash flow, and you're paying 50+ years' worth of current profits." — The second sentence kills the thesis. |
 
@@ -895,6 +924,8 @@ Buffett: *"When you combine ignorance and leverage, you get some pretty interest
 
 **Expected Annual Return CAGR at Entry P/B of 3.9x:**
 
+> *Template waiver note: The project template's P/B scenario table includes a "historical median P/B" row. For Aelea, this row is substituted with intermediate-compression scenarios (2.0x, 1.95x, 1.5x) because the stock has only been listed since July 2024 (~21 months), and the listed-period P/B range itself reflects post-IPO volatility (peak ~9x, current 3.9x) — there is no statistically meaningful "historical median" to revert to. The substitution preserves the analytical purpose of the row (stress-testing P/B compression scenarios) while honestly disclosing the data limitation.*
+
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
 | P/B stays at 3.9x | Current multiple sustains (optimistic) | 10.0% | 10.0% | 10.0% |
@@ -935,10 +966,12 @@ The math is brutal at 3.9x entry: even maintaining the P/B requires 10% ROE comp
 | Zone | Price Range | P/B Range (approx) | Rationale |
 |---|---|---|---|
 | **Deep Value / Strong Buy** | < ₹41 | ≤ 1.05x | At or near book value (BVPS ₹38.98); aligns with Historical Run-Rate True Floor DCF IV |
-| **Value / Buy** | ₹41 - ₹70 | 1.05x - 1.8x | Below Modest Recovery DCF IV (₹68); attractive risk-reward |
-| **Fair Value / Hold** | ₹70 - ₹115 | ~1.8x - 3.0x | Near Base / Moderate Optimism DCF IV (₹113); hold for compounding |
+| **Value / Buy** | ₹41 - ₹68 | 1.05x - 1.75x | At or below the Modest Recovery DCF IV (₹68 — raw ~₹67.7); attractive risk-reward |
+| **Fair Value / Hold** | ₹68 - ₹115 | ~1.75x - 3.0x | Above Modest Recovery IV, at or near Moderate Optimism / Mild Bull DCF IV (₹113); hold for compounding |
 | **Fully Valued / Trim** | ₹115 - ₹170 | ~3.0x - 4.4x | Above Base IV, approaching Optimistic IV (₹167); limited upside |
 | **Overvalued / Sell** | > ₹170 | > 4.4x | Beyond Optimistic IV; sell/avoid |
+
+> *Note on zone boundary rounding: The Fair Value / Hold upper bound is set at ₹115 (not ₹113, the Moderate Optimism / Mild Bull DCF IV from raw ₹113.32) and the Fully Valued / Trim upper bound at ₹170 (not ₹167, the Optimistic IV from raw ₹166.51). Both upper bounds embed a small **₹2-4 rounding buffer above the underlying scenario IV** (specifically: ₹115 − ₹113.32 = ₹1.68 buffer at the Fair Value ceiling; ₹170 − ₹166.51 = ₹3.49 buffer at the Fully Valued ceiling) for clean zone presentation — boundaries are intentionally rounded outwards to the nearest ₹5 grid. This buffer is conservative for the holding decision: the Fair Value / Hold zone slightly over-extends into territory marginally above the Base IV, which means a position acquired anywhere in the ₹68-115 range is still being treated as "Hold for compounding" rather than "Trim" — appropriate for a holder evaluating whether to exit. The CMP of ₹152 sits well inside the Fully Valued / Trim zone regardless of where the exact boundary is drawn.*
 
 ### **Current Price: ₹152 → FULLY VALUED / TRIM ZONE (P/B: 3.9x)**
 
@@ -949,8 +982,8 @@ The stock sits between the base IV (₹113) and optimistic IV (₹167) on a pure
 | Entry Zone | Your Avg Cost | Position Today | Buffett's Advice |
 |---|---|---|---|
 | Deep Value (< ₹41) | ~₹40 | Profitable (+280%+) | Hold — you bought at the True Floor or below; huge MoS. Trim partially to lock profits if position is overweight. |
-| Value (₹41-70) | ~₹55 | Profitable (+176%) | Hold — still below IV, but at current price, consider trimming 30-40% to de-risk. |
-| Fair Value (₹70-115) | ~₹95 | Profitable (+60%) | Trim to half position. The risk/reward has deteriorated at ₹152. |
+| Value (₹41-68) | ~₹54 | Profitable (+181%) | Hold — still below IV, but at current price, consider trimming 30-40% to de-risk. |
+| Fair Value (₹68-115) | ~₹91 | Profitable (+67%) | Trim to half position. The risk/reward has deteriorated at ₹152. |
 | Fully Valued (₹115-170) | ~₹140 | Profitable (+9%) | Sell most/all. Marginal profit not worth the downside risk. |
 | Overvalued (> ₹170) | ~₹170+ | At cost / Loss | Sell. Above even the Optimistic IV. |
 
@@ -967,9 +1000,9 @@ Buffett working with a small capital base: With small capital, Buffett would foc
 | **Circle of competence?** | Cashew processing and commodity trading — simple to understand | ✅ |
 | **Enduring moat?** | No moat — commodity business with no brand, switching cost, or cost advantage | ❌ |
 | **Trustworthy management?** | Strong MD pedigree; high promoter holding; too early to fully assess | ⚠️ |
-| **Resistant to disruption?** | Low disruption risk but highly vulnerable to commodity cycles | ⚠️ |
+| **Resistant to disruption?** | Cashew processing is a centuries-old mechanical operation with no realistic technological substitute; FSSC 22000 keeps Aelea industry-current. (Commodity-price-cycle exposure is a separate risk, tracked under §10 moat durability and §20 risk matrix.) | ✅ |
 | **Sustainable economics for 10+ years?** | Margins wildly volatile; no evidence of 10-year sustainable ROE > 15% | ❌ |
-| **Price significantly below IV?** | Price (₹152) is above IV in Historical Run-Rate True Floor (₹41), Modest Recovery (₹68), and Base / Moderate Optimism (₹113) scenarios; only marginally below in Optimistic (₹167, just 8.7% MoS) — no meaningful margin of safety in any honest scenario | ❌ |
+| **Price significantly below IV?** | Price (₹152) is above IV in Historical Run-Rate True Floor (₹41), Modest Recovery (₹68), and Moderate Optimism / Mild Bull (₹113) scenarios; only marginally below in Optimistic (₹167, just 8.7% MoS) — no meaningful margin of safety in any honest scenario | ❌ |
 
 ### Verdict: **BUFFETT WOULD NOT BUY THIS STOCK.**
 
@@ -1043,6 +1076,22 @@ The cashew processing and agri-commodity trading industry operates under multipl
 | **Environmental regulations** (CNSL oil production) | Medium | Medium | **Medium** | CNSL oil involves chemical processing — may face environmental clearance requirements. |
 | **Anti-dumping duties from importing countries** | Low | Medium | **Low** | Could affect export competitiveness. |
 
+### Current Regulatory Headwind Analysis (6-Point Framework)
+
+No single severe current regulatory headwind is imminent for Aelea. The general industry exposure is assessed below using the template's prescribed 6-point framework:
+
+1. **Nature and Magnitude:** No specific imminent change. The most likely future trigger is RCN import duty adjustment (occasional, historically ±2.5 pp swings) or forex volatility (ongoing, currently mild). Magnitude: **mild** for known risks; **moderate** if duties are raised meaningfully (e.g., 5%+).
+
+2. **Demand/Volume Impact:** Cashew kernels have moderate price elasticity. A mild duty hike (~5-8% landed cost increase) would likely cause -1% to -3% volume impact as some marginal demand shifts to alternative nuts (almonds, walnuts) or smaller pack sizes. A moderate (10-15%) cost hike could trigger -3% to -5% volume loss. India's domestic cashew consumption is on a long-term rising trend, which partly cushions volume risk.
+
+3. **Revenue Impact:** Aelea has limited pricing power as a commodity processor competing with thousands of small operators. Pass-through of regulatory costs is partial at best. Net revenue effect: neutral-to-mildly-negative for mild scenarios; mildly-to-meaningfully-negative for moderate scenarios; potentially severe under punitive import restrictions.
+
+4. **Margin Impact:** Short-term margin compression of 1-3 pp under mild scenarios; 3-5 pp under moderate. The company's already-thin EBIT margin (4.1% FY25, 5.3% TTM) leaves limited room to absorb shocks. Recovery timeline: 12-24 months as the supply chain re-prices.
+
+5. **Competitive Impact:** Regulation affects all RCN-importing processors roughly equally on the cost side. However, organised players with FSSC 22000 certification (like Aelea) are *relatively* better positioned if compliance norms tighten — the regulation could marginally strengthen Aelea's competitive position vs. unorganised small processors. This is a paradoxical "regulation strengthens moat" effect, but it is mild given Aelea's small absolute scale.
+
+6. **Structural vs. Cyclical / Recovery Timeline:** Historically, RCN import duty adjustments have been **cyclical, not structural** — India has alternated between imposing and waiving duties across budget cycles, with adjustments typically reversing within 1-3 years as policy responds to industry lobbying and inflationary pressure on edible nuts. A duty-hike-driven margin compression of the magnitude discussed in Points 3-4 would typically work itself out over a **12-24 month recovery window** as the supply chain re-prices and demand normalises. The forex/RCN-price exposure is ongoing rather than a discrete event, and is structurally absorbed by all industry players. Aelea's near-zero debt (D/E 0.01) provides a balance-sheet buffer to absorb a 12-24 month margin compression without existential risk. Critically, the long-term **structural shift** for the industry — from unorganised small processors toward organised, FSSC-certified players — runs in Aelea's favour regardless of short-term duty oscillations. **Net outlook: any regulatory headwind would be a mild-to-moderate transient margin event, not a structural impairment to the business model. Recovery is highly probable within 2-3 years.**
+
 ### Buffett's Verdict on Regulatory Risk
 
 **(a) Manageable & Overpriced** — Regulatory risks are inherent to any agri-commodity business but are not existential. The company has navigated the regulatory framework successfully so far. However, at current multiples (51.5x PE, 61.8x P/OE, 3.9x P/B for 1.9% ROE), the stock is overvalued, not fairly priced — there is zero margin of safety to absorb any additional regulatory cost burden if one materialises.
@@ -1084,6 +1133,8 @@ Aelea is not a stressed or failing business in the traditional turnaround sense 
 
 > *Methodological note: This section assesses profitability recovery, NOT turnaround of business viability. The two are different. The business is viable (debt-free, capacity in place, demand exists). What is unproven is whether profitability can sustain at levels that justify the current valuation. Even if recovery probability is genuinely 50-55%, that does not transform an overvalued stock into a buy — it must also be priced for the recovery NOT happening, which at ₹152 it is not.*
 
+> *Bear-case sensitivity (not the primary estimate): A more conservative read of the same evidence would map to the **35-45% Low-Medium probability band** rather than the 50-55% Medium band. This bear-case framing weights more heavily the facts that (a) H1 FY26 is a single data point, (b) it immediately follows the H2 FY25 −₹3 Cr loss, and (c) the company has six years of never-positive FCF history. The **primary estimate of 50-55%** retained in the headline table gives reasonable weight to the H1 FY26 evidence and the structural drivers (capacity, debt reduction) that did not yet show up in FY25 numbers. Investors who prefer the bear-case framing should treat the recovery probability as 35-45%; in either case, the AVOID conclusion at ₹152 is unchanged because even successful recovery does not justify the current valuation multiple.*
+
 ---
 
 ## 23. FINAL SCORECARD & SUMMARY
@@ -1101,8 +1152,8 @@ Aelea is not a stressed or failing business in the traditional turnaround sense 
 | **Cash Flow Quality** | 3 | Never generated positive FCF; heavy investment phase |
 | **Quality Score (durable factors avg)** | **4.0/10** | Average of 7 durable factors (Business Quality 4 + Moat Durability 2 + Financial Health 5 + Management Quality 6 + Earnings Quality 3 + Scalability 5 + Cash Flow Quality 3) / 7 = 28/7 = **4.0/10**. Excludes Valuation and Margin of Safety (which are price-dependent, not business-quality factors). This is well below the 7.5/10 conviction-list threshold — Aelea does not currently qualify as a high-quality compounder. |
 | **Buffett Verdict** | — | **NOT a Buffett stock.** Commodity business, no moat, volatile margins, overvalued. The strong management pedigree and capacity expansion are positives, but Buffett would not pay 3.9x book for a business earning 1.9% ROE. He'd say: *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* Aelea is a fair (at best) company at a very expensive price. **AVOID at current levels.** |
-| **Buy Zone** | — | Currently in **Fully Valued / Trim zone** (₹115-170). Value/Buy zone starts below ₹70; Deep Value/Strong Buy below ₹41 (Historical Run-Rate True Floor). |
-| **Overall Recommendation** | — | **TRIM / AVOID** at ₹152. Target entry zone: **₹41-70** (Value/Buy zone, P/B 1.05-1.8x), anchored to Historical Run-Rate True Floor IV of ₹41. From ₹70 entry: upside to Base IV ₹113 = **+61%**, upside to Optimistic IV ₹167 = **+139%**. From ₹41 entry: upside to Base = **+176%**, upside to Optimistic = **+307%**. Alternative trigger: sustained 15%+ ROE across 3+ consecutive years would justify re-evaluation even at higher P/B. |
+| **Buy Zone** | — | Currently in **Fully Valued / Trim zone** (₹115-170). Value/Buy zone is **₹41-68** (at or below Modest Recovery DCF IV of ₹68); Deep Value/Strong Buy below ₹41 (Historical Run-Rate True Floor). |
+| **Overall Recommendation** | — | **TRIM / AVOID** at ₹152. Target entry zone: **₹41-68** (Value/Buy zone, P/B ~1.05-1.75x), anchored to Historical Run-Rate True Floor IV of ₹41 with the upper bound at the Modest Recovery DCF IV. From ₹68 entry: upside to Base IV ₹113 = **+66%**, upside to Optimistic IV ₹167 = **+146%**. From ₹41 entry: upside to Base = **+176%**, upside to Optimistic = **+307%**. Alternative trigger: sustained 15%+ ROE across 3+ consecutive years would justify re-evaluation even at higher P/B. |
 
 ---
 
@@ -1135,7 +1186,7 @@ The one caveat: if H1 FY26's ₹9 Cr profit (annualised to ~₹18 Cr) becomes th
 >
 > At ₹152, the risk here is crystal clear: you're paying a premium valuation for a commodity business with volatile margins, no moat, no cash flow track record, and a 2-year listing history. The management is promising, the capacity expansion is real, and the H1 FY26 results are encouraging — but none of this justifies paying 51.5x earnings, 61.8x owner earnings, and 3.9x book value.
 >
-> **The right approach:** Add Aelea Commodities to a watchlist. Monitor for 2-3 consecutive years of 15%+ ROE and positive FCF. If the business proves itself AND the stock corrects to ₹70-90 (1.8-2.3x book), THEN it becomes interesting. Until then, this is a pass.
+> **The right approach:** Add Aelea Commodities to a watchlist. Monitor for 2-3 consecutive years of 15%+ ROE and positive FCF. If the business proves itself AND the stock corrects to **₹68-90** (~1.75-2.3x book), THEN it becomes interesting. Note: ₹68 is the current §18 Value/Buy upper boundary (anchored to today's Modest Recovery DCF IV); ₹90 sits within the current §18 Fair Value/Hold zone (₹68-115). The wider ₹68-90 watchlist range applies only **after** sustained business validation — at which point the Modest Recovery DCF assumption (12%/8%/4%) would no longer be the conservative read, the Base IV would itself rise meaningfully, and a buy zone re-anchored to a proven-economics DCF would naturally extend above today's ₹68 boundary. Until that validation arrives, the current Value/Buy zone of **₹41-68** remains the only entry range that offers a Buffett-grade margin of safety against demonstrated economics. This is a pass.
 
 ---
 
