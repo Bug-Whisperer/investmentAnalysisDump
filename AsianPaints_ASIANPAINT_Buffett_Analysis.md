@@ -33,10 +33,10 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Revenue | 12,220 | 13,615 | 14,271 | 15,062 | 16,825 | 19,240 | 20,211 | 21,713 | 29,101 | 34,489 | **35,495** | 33,906 |
+| Revenue | **12,220** | 13,615 | 14,271 | 15,062 | 16,825 | 19,240 | 20,211 | 21,713 | 29,101 | 34,489 | **35,495** | 33,906 |
 | Revenue Growth YoY | — | 11.4% | 4.8% | 5.5% | 11.7% | 14.4% | 5.0% | 7.4% | **34.0%** | 18.5% | 2.9% | **-4.5%** |
 | Gross Profit (approx.) | **4,949** | 5,650 | 6,565 | 7,004 | 7,487 | 8,177 | 9,499 | 9,988 | 11,495 | 14,658 | **16,683** | 14,410 |
-| Gross Margin (approx.) | 40.5% | 41.5% | 46.0% | 46.5% | 44.5% | 42.5% | **47.0%** | 46.0% | **39.5%** | 42.5% | **47.0%** | 42.5% |
+| Gross Margin (approx.) | 40.5% | 41.5% | 46.0% | 46.5% | 44.5% | 42.5% | **47.0%** | 46.0% | **39.5%** | 42.5% | 47.0% | 42.5% |
 | Operating Profit (pre-D&A) | **2,004** | 2,243 | 2,725 | 2,994 | 3,204 | 3,765 | 4,167 | 4,856 | 4,804 | 6,260 | **7,585** | 6,006 |
 | OPM % (pre-D&A) | **16.4%** | 16.5% | 19.1% | 19.9% | 19.0% | 19.6% | 20.6% | **22.4%** | 16.5% | 18.2% | 21.4% | 17.7% |
 | Depreciation & Amortisation | **246** | 266 | 276 | 335 | 360 | 622 | 780 | 791 | 816 | 858 | 853 | **1,026** |
@@ -49,7 +49,7 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 | EPS Growth | — | 14.4% | 25.1% | 11.2% | 5.1% | 5.7% | 25.4% | 16.1% | -3.5% | **35.5%** | 33.0% | **-32.8%** |
 | Shares Outstanding (Diluted, Cr) | 96 | 96 | 96 | 96 | 96 | 96 | 96 | 96 | 96 | 96 | 96 | 96 |
 | Shares Change YoY | — | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% |
-| Dividend Payout % | 42% | 42% | 41% | 51% | 41% | 47% | 43% | 55% | 61% | 60% | 58% | **65%** |
+| Dividend Payout % | 42% | 42% | **41%** | 51% | 41% | 47% | 43% | 55% | 61% | 60% | 58% | **65%** |
 
 > **Note on Gross Profit:** Asian Paints does not separately report a "Gross Profit" line on Screener's consolidated P&L view. The Gross Profit figures above are approximations derived from Revenue minus the Cost of Materials Consumed + Purchases + Change in Inventory line from the detailed annual reports. Indian paint companies typically report a 40-47% gross margin range; the FY22 dip (~39.5%) reflects the crude oil / TiO₂ inflation shock, while FY24's ~47% reflects favourable input costs.
 
@@ -80,17 +80,17 @@ Buffett: *"Only when the tide goes out do you discover who's been swimming naked
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Cash & Short-Term Investments | **1,424** | 1,588 | 2,712 | 2,652 | 2,141 | 2,569 | 2,019 | **4,737** | 3,248 | 4,262 | 4,588 | 4,725 |
-| Total Assets | 8,075 | 8,914 | 10,559 | 12,405 | 13,763 | 16,249 | 16,138 | 20,355 | 22,958 | 25,779 | **29,901** | 30,355 |
+| Total Assets | **8,075** | 8,914 | 10,559 | 12,405 | 13,763 | 16,249 | 16,138 | 20,355 | 22,958 | 25,779 | 29,901 | **30,355** |
 | Total Debt | **249** | 418 | 323 | 560 | 533 | 1,320 | 1,118 | 1,093 | 1,587 | 1,933 | **2,474** | 2,290 |
-| Total Liabilities | 4,036 | 4,172 | 4,034 | 4,801 | 5,353 | 6,778 | 6,008 | 7,549 | 9,146 | 9,787 | **11,173** | 10,955 |
-| Shareholders' Equity | 4,039 | 4,742 | 6,525 | 7,604 | 8,410 | 9,471 | 10,130 | 12,806 | 13,812 | 15,992 | **18,728** | 19,400 |
+| Total Liabilities | 4,036 | 4,172 | **4,034** | 4,801 | 5,353 | 6,778 | 6,008 | 7,549 | 9,146 | 9,787 | **11,173** | 10,955 |
+| Shareholders' Equity | **4,039** | 4,742 | 6,525 | 7,604 | 8,410 | 9,471 | 10,130 | 12,806 | 13,812 | 15,992 | 18,728 | **19,400** |
 | Net Cash/(Debt) | 1,175 | 1,170 | 2,389 | 2,092 | 1,608 | 1,249 | **901** | **3,644** | 1,661 | 2,329 | 2,114 | 2,435 |
-| Goodwill (est.) | 250 | 250 | 250 | 250 | 300 | 300 | 300 | 350 | 350 | **900** | **900** | 800 |
-| Book Value Per Share (₹) | 42.1 | 49.4 | 68.0 | 79.2 | 87.6 | 98.7 | 105.5 | 133.4 | 143.9 | 166.6 | 195.1 | **202.1** |
-| Tangible BVPS (₹) | 39.5 | 46.8 | 65.4 | 76.6 | 84.5 | 95.5 | 102.4 | 129.8 | 140.2 | 157.2 | 185.7 | **193.8** |
-| Debt/Equity | **0.06** | 0.09 | 0.05 | 0.07 | 0.06 | **0.14** | 0.11 | 0.09 | 0.11 | 0.12 | 0.13 | 0.12 |
-| Debt/EBIT | **0.14** | 0.21 | 0.13 | 0.21 | 0.19 | **0.42** | 0.33 | 0.27 | 0.40 | 0.36 | 0.37 | **0.46** |
-| Net Debt/Owner Earnings | **-1.04** | -0.85 | -1.63 | -0.99 | -1.34 | -0.89 | -0.28 | -0.98 | -0.48 | -0.59 | -0.55 | **-0.67** |
+| Goodwill (est.) | **250** | 250 | 250 | 250 | 300 | 300 | 300 | 350 | 350 | **900** | 900 | 800 |
+| Book Value Per Share (₹) | **42.1** | 49.4 | 68.0 | 79.2 | 87.6 | 98.7 | 105.5 | 133.4 | 143.9 | 166.6 | 195.1 | **202.1** |
+| Tangible BVPS (₹) | **39.5** | 46.8 | 65.4 | 76.6 | 84.5 | 95.5 | 102.4 | 129.8 | 140.2 | 157.2 | 185.7 | **193.8** |
+| Debt/Equity | 0.06 | 0.09 | **0.05** | 0.07 | 0.06 | **0.14** | 0.11 | 0.09 | 0.11 | 0.12 | 0.13 | 0.12 |
+| Debt/EBIT | 0.14 | 0.21 | **0.13** | 0.21 | 0.19 | 0.42 | 0.33 | 0.27 | 0.40 | 0.36 | 0.37 | **0.46** |
+| Net Debt/Owner Earnings | -1.04 | -0.85 | **-1.63** | -0.99 | -1.34 | -0.89 | **-0.28** | -0.98 | -0.48 | -0.59 | -0.55 | -0.67 |
 | Interest Coverage (EBIT/Int.) | 36.6x | 47.1x | 50.0x | **71.9x** | 69.4x | 28.6x | 31.4x | 44.2x | 42.0x | 37.5x | 32.8x | **21.9x** |
 | Current Ratio | 1.42 | 1.46 | 1.65 | **1.74** | 1.60 | 1.40 | 1.45 | 1.42 | **1.30** | 1.50 | 1.62 | 1.58 |
 
@@ -115,13 +115,13 @@ The only moderate concern is the rising capital work in progress (CWIP) from ₹
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | CFO | 1,402 | 1,188 | 2,243 | 1,527 | 2,113 | 2,470 | 2,632 | 3,683 | **986** | 4,193 | **6,104** | 4,424 |
-| CapEx (est.) | 586 | 488 | 943 | 374 | 1,935 | 2,192 | 485 | 421 | 719 | 1,703 | **3,908** | 1,655 |
+| CapEx (est.) | 586 | 488 | 943 | **374** | 1,935 | 2,192 | 485 | 421 | 719 | 1,703 | **3,908** | 1,655 |
 | Free Cash Flow | 816 | 700 | 1,300 | 1,153 | **178** | 278 | 2,147 | **3,262** | 267 | 2,490 | 2,196 | 2,769 |
 | FCF Margin | 6.7% | 5.1% | 9.1% | 7.7% | 1.1% | 1.4% | 10.6% | **15.0%** | **0.9%** | 7.2% | 6.2% | 8.2% |
 | FCF Per Share (₹) | 8.5 | 7.3 | 13.5 | 12.0 | **1.9** | 2.9 | 22.4 | **34.0** | 2.8 | 25.9 | 22.9 | 28.8 |
 | Stock-Based Compensation | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Share Repurchases | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Dividends Paid | 530 | 599 | 739 | 1,028 | 860 | 1,038 | 1,193 | 1,764 | 1,882 | 2,517 | **3,224** | 2,412 |
+| Dividends Paid | **530** | 599 | 739 | 1,028 | 860 | 1,038 | 1,193 | 1,764 | 1,882 | 2,517 | **3,224** | 2,412 |
 
 ### Commentary
 
@@ -194,18 +194,20 @@ The ratio trends reveal a business with a wide, durable moat (consistently high 
 | Sales | 8,637 | 8,787 | **9,182** | 8,479 | 9,103 | 8,731 | 8,970 | **8,028** | 8,549 | 8,359 | 8,939 | 8,531 | 8,867 |
 | Op. Profit (pre-D&A) | 1,611 | 1,865 | **2,121** | 1,716 | 2,056 | 1,691 | 1,694 | **1,240** | 1,637 | 1,436 | 1,625 | 1,503 | 1,781 |
 | OPM % (pre-D&A) | 19% | 21% | **23%** | 20% | 23% | 19% | 19% | **15%** | 19% | 17% | 18% | 18% | 20% |
-| Depreciation | 214 | 220 | 198 | 209 | 220 | 226 | 228 | 242 | 256 | 301 | 301 | 305 | 313 |
-| **EBIT** | 1,397 | 1,645 | **1,923** | 1,507 | 1,836 | 1,465 | 1,466 | **998** | 1,381 | 1,135 | 1,324 | 1,198 | **1,468** |
+| Depreciation | 214 | 220 | **198** | 209 | 220 | 226 | 228 | 242 | 256 | 301 | 301 | 305 | **313** |
+| **EBIT** | 1,397 | 1,645 | **1,923** | 1,507 | 1,836 | 1,465 | 1,466 | **998** | 1,381 | 1,135 | 1,324 | 1,198 | 1,468 |
 | **EBIT Margin %** | 16.2% | 18.7% | **20.9%** | 17.8% | 20.2% | 16.8% | 16.3% | **12.4%** | 16.2% | 13.6% | 14.8% | 14.0% | 16.6% |
 | Net Profit | 1,097 | 1,258 | **1,575** | 1,232 | 1,475 | 1,275 | 1,187 | **694** | 1,128 | 701 | 1,117 | 1,018 | 1,074 |
 | NPM % | 12.7% | 14.3% | **17.2%** | 14.5% | 16.2% | 14.6% | 13.2% | 8.6% | 13.2% | **8.4%** | 12.5% | 11.9% | 12.1% |
-| EPS (₹) | 11.18 | 12.87 | **16.16** | 12.57 | 15.09 | 13.10 | 12.20 | **7.24** | 11.58 | 7.22 | 11.47 | 10.36 | 11.05 |
+| EPS (₹) | 11.18 | 12.87 | **16.16** | 12.57 | 15.09 | 13.10 | 12.20 | 7.24 | 11.58 | **7.22** | 11.47 | 10.36 | 11.05 |
 
 ### YoY Quarterly Revenue Growth
 
 | Quarter | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|
 | YoY Growth | +5.4% | -0.6% | -2.3% | **-5.3%** | **-6.1%** | -4.3% | -0.3% | +6.3% | +3.7% |
+
+> **Bolding convention:** Best and worst quarters are bolded for each row. Where multiple quarters tie at the extreme (e.g., OPM % (pre-D&A): Jun23 and Dec23 both at 23%), only the chronologically first occurrence (Jun23) is bolded, consistent with the convention used in Section 5A. The most recent quarter (Dec25) is not bolded unless it is itself a best/worst extreme.
 
 ### Key Observations
 
@@ -258,12 +260,12 @@ The ratio trends reveal a business with a wide, durable moat (consistently high 
 
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Total CapEx (est.) | 586 | 488 | 943 | 374 | 1,935 | 2,192 | 485 | 421 | 719 | 1,703 | **3,908** | 1,655 |
-| CapEx as % Revenue | 4.8% | 3.6% | 6.6% | 2.5% | **11.5%** | **11.4%** | 2.4% | 1.9% | 2.5% | 4.9% | **11.0%** | 4.9% |
-| Depreciation | 246 | 266 | 276 | 335 | 360 | 622 | 780 | 791 | 816 | 858 | 853 | 1,026 |
-| Maint. CapEx (65% est.) | 381 | 317 | 613 | 243 | 1,258 | 1,425 | 315 | 274 | 467 | 1,107 | 2,540 | 1,076 |
-| **Owner Earnings** | 1,128 | 1,376 | 1,466 | 2,108 | 1,200 | 1,405 | **3,239** | **3,724** | 3,434 | 3,946 | 3,871 | 3,660 |
-| OE Per Share (₹) | 11.75 | 14.33 | 15.27 | 21.96 | 12.50 | 14.64 | 33.74 | 38.79 | 35.77 | 41.10 | 40.32 | 38.12 |
+| Total CapEx (est.) | 586 | 488 | 943 | **374** | 1,935 | 2,192 | 485 | 421 | 719 | 1,703 | **3,908** | 1,655 |
+| CapEx as % Revenue | 4.8% | 3.6% | 6.6% | 2.5% | **11.5%** | 11.4% | 2.4% | **1.9%** | 2.5% | 4.9% | 11.0% | 4.9% |
+| Depreciation | **246** | 266 | 276 | 335 | 360 | 622 | 780 | 791 | 816 | 858 | 853 | **1,026** |
+| Maint. CapEx (65% est.) | 381 | 317 | 613 | **243** | 1,258 | 1,425 | 315 | 274 | 467 | 1,107 | **2,540** | 1,076 |
+| **Owner Earnings** | **1,128** | 1,376 | 1,466 | 2,108 | 1,200 | 1,405 | 3,239 | 3,724 | 3,434 | **3,946** | 3,871 | 3,660 |
+| OE Per Share (₹) | **11.75** | 14.33 | 15.27 | 21.96 | 12.50 | 14.64 | 33.74 | 38.79 | 35.77 | **41.10** | 40.32 | 38.12 |
 
 **Base Owner Earnings = Net Income + D&A − Maintenance CapEx**
 
@@ -287,8 +289,8 @@ Buffett: *"The first test of earnings quality is whether they are reported hones
 
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| ROE % | 31.3 | **32.5** | 32.0 | 28.5 | 26.2 | 24.7 | 28.3 | 28.0 | 23.2 | 28.2 | **32.0** | **19.5** |
-| ROA % | 15.6 | 16.8 | **18.5** | 17.6 | 16.0 | 14.7 | 17.1 | 17.6 | 14.2 | 17.2 | **20.0** | **12.3** |
+| ROE % | 31.3 | **32.5** | 32.0 | 28.5 | 26.2 | 24.7 | 28.3 | 28.0 | 23.2 | 28.2 | 32.0 | **19.5** |
+| ROA % | 15.6 | 16.8 | 18.5 | 17.6 | 16.0 | 14.7 | 17.1 | 17.6 | 14.2 | 17.2 | **20.0** | **12.3** |
 | ROIC % | **48.3** | 48.1 | 48.1 | 42.2 | 34.9 | 33.6 | 36.3 | 39.1 | 33.4 | 35.9 | 38.1 | **26.1** |
 | ROCE % | **45** | 42 | 42 | 38 | 36 | 33 | 33 | 34 | 29 | 34 | 38 | **26** |
 
@@ -516,7 +518,7 @@ The slight market share erosion from ~55% to ~51-52% over 5 years is the most co
 
 > **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT accounts for the capital the business consumes. However, Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets — hence **P/Owner Earnings is the primary valuation metric** in this analysis. EV/EBIT is included as a secondary cross-check for comparability with institutional analysis. *Computation:* EV = Mkt Cap ₹2,40,000 Cr + Debt ₹2,290 Cr − Cash ₹4,725 Cr = ₹2,37,565 Cr; **using TTM EBIT ₹5,125 Cr** (sum of last 4 quarters from Section 6: ₹1,135 + ₹1,324 + ₹1,198 + ₹1,468) → EV/EBIT = 46.4x.
 
-> **SBC & Dilution-Adjusted OE — Not Applicable:** Asian Paints has ZERO stock-based compensation and ZERO share buybacks (share count has been constant at 96 Cr for the entire 12-year analysis period). Therefore, **P/Owner Earnings ≡ P/Dilution-Adjusted Owner Earnings** for this company — no separate metric is required. The SBC warning on FCF-based multiples does not apply.
+> **SBC & Dilution-Adjusted OE — Not Applicable:** Asian Paints has ZERO stock-based compensation and ZERO share buybacks (share count has been constant at 96 Cr for the entire 12-year analysis period). Therefore, **P/Owner Earnings ≡ P/Dilution-Adjusted Owner Earnings** for this company — no separate metric is required. The SBC warning on FCF-based multiples does not apply. (For completeness per the template: GAAP Net Income already includes any SBC as an expense, so SBC is never subtracted a second time in the Base Owner Earnings formula — but here SBC is zero, so the point is moot.)
 
 ### Historical Comparison
 
@@ -544,9 +546,9 @@ At 12.4x P/B, the market is valuing Asian Paints at a massive premium to book va
 
 > **Note on the Stress scenario (Issue addressed):** Added to make the floor genuinely conservative. The 2% Y1-5 growth reflects a continuation of recent 5Y OEPS CAGR (2.5%) on the assumption that Birla Opus's competitive pressure persists and margin recovery is slow. The 5% Y6-10 assumes eventual normalisation. Terminal growth of **3.5% (vs 4% for Conservative/Base)** reflects a sustained competitive environment where Asian Paints' long-run premium narrows toward India's nominal GDP growth (~6-7%) minus persistent margin pressure from Birla Opus. At ₹686 IV, the stock would need to lose 72.6% of its current price for a buyer at that level to be unprotected — a useful reference point for what "things go wrong" looks like.
 
-> **Note on the Conservative scenario:** At 8% Y1-5 growth from a TTM base that already includes two post-FY25-trough recovery quarters (Sep25, Dec25), this scenario represents a moderation from historical norms (10Y OEPS CAGR 10.3%) rather than a continuation of recent trends (5Y OEPS CAGR 2.5%). For a true stress floor, see the Stress scenario above.
+> **Note on the Conservative scenario (label caveat):** At 8% Y1-5 growth from a TTM base that already includes two post-FY25-trough recovery quarters (Sep25, Dec25), this scenario represents a moderation from historical norms (10Y OEPS CAGR 10.3%) rather than a continuation of recent trends (5Y OEPS CAGR 2.5%). **This is labelled "Conservative" relative to Asian Paints' long-run historical average, NOT relative to its recent trend.** 8% OE growth is roughly 3× the actual 5Y OEPS CAGR of 2.5% and requires genuine margin recovery — it is not a status-quo continuation. **The Stress scenario (2% Y1-5, IV ₹686) is the true bear case** for a reader who wants a worst-case anchored to recent performance. A reader relying on scenario labels alone should treat the Conservative case as a "modest recovery" scenario, not a downside floor.
 
-> **Note on the Base scenario:** Assumes margin recovery from current compressed levels (Birla Opus disruption normalises into coexistence pricing) while market share stabilises around the current 51-52% — consistent with a wide but not expanding moat. The 12% Y1-5 growth is above the 10Y historical 10.3% but is achievable from a trough base if margin reversion occurs.
+> **Note on the Base scenario (label caveat & moat reconciliation):** Assumes margin recovery from current compressed levels (Birla Opus disruption normalises into coexistence pricing) while market share stabilises around the current 51-52% — consistent with a wide but not expanding moat. The 12% Y1-5 growth is **above the 10Y historical 10.3%**, which sits in tension with the moat-narrowing narrative of Section 10 ("first serious competitive assault in decades") and the decelerating trajectory of Section 6. **This 12% Base therefore requires full margin recovery AND market-share stabilisation to occur simultaneously — it is a conditional recovery bet, not a pure status-quo central estimate.** Given the current competitive headwinds, a reader should regard the Conservative (8%) scenario as the more probable central case, and treat the 12% Base as the "recovery succeeds" branch. Critically, **the overvaluation conclusion holds across every scenario** — even the Optimistic 15% case yields IV ₹1,638, still 34.5% below CMP — so the labelling debate does not change the AVOID verdict; it only affects which IV a reader anchors their buy zone to.
 
 > **Note on the Optimistic scenario:** 15% Y1-5 OE growth represents above-historical performance (10Y OEPS CAGR = 10.3%) and requires both margin recovery from current compressed levels AND above-trend volume growth. This is achievable only if Birla Opus's competitive pressure moderates and raw material costs normalise favourably — a relatively low-probability combined-outcome assumption.
 
@@ -567,6 +569,8 @@ At 12.4x P/B, the market is valuing Asian Paints at a massive premium to book va
 | **Margin of Safety = (IV − CMP) / IV** | **-108.7%** | Negative — stock priced 108.7% ABOVE intrinsic value |
 
 > **Note on Discount Rate:** This DCF uses a flat 10% discount rate per Buffett's stated hurdle rate. Buffett explicitly rejects WACC; Munger has called it "nonsense." A WACC-based discount rate for Asian Paints would likely fall in the 9-11% range (given low debt, low beta, and India equity risk premium of ~6%), making it numerically close to 10% — but conceptually, the 10% hurdle is the opportunity-cost benchmark, not a precision calculation.
+
+> **Note on the starting base (transparency):** This Base Case uses TTM Owner Earnings (₹4,054 Cr) as the starting point, which includes two post-FY25-trough recovery quarters (Sep25, Dec25). If instead the FY25 annual Owner Earnings of ₹3,660 Cr were used as the base — a more conservative anchor that excludes the recent recovery — the Base IV would fall to approximately ₹1,080/share (vs ₹1,198 from the TTM base). Both bases yield the same conclusion: the stock at ₹2,500 is significantly overvalued. The TTM base is used as the primary figure because it reflects the most current run-rate, but readers preferring a more conservative anchor should note the ₹1,080 alternative.
 
 ### Interpretation
 
@@ -1046,7 +1050,7 @@ A 10-year-old would understand this instantly. This IS a Buffett business.
 
 Even a 10-year-old would say: "That sounds expensive."
 
-**Buffett's Napkin Test:** The math doesn't work on a napkin. ₹2,500 / ₹40 EPS = 62.5x PE. For 10% returns over 10 years, you need the stock to reach ₹6,484 in 10 years. At a terminal PE of 55x, that requires EPS of ₹118 — implying 11.4% EPS CAGR. The company has delivered 10.1% historically and 6.3% over the last 5 years. It's close to achievable — but ONLY if the PE stays at 55x, which is a big "if." On a napkin, this is "maybe works if everything goes right" — not the "screaming no-brainer" that Buffett demands.
+**Buffett's Napkin Test:** The math doesn't work on a napkin. ₹2,500 / ₹40.10 EPS = 62.3x PE (consistent with Section 14). For 10% returns over 10 years, you need the stock to reach ₹6,484 in 10 years. At a terminal PE of 55x, that requires EPS of ₹118 — implying 11.4% EPS CAGR. The company has delivered 10.1% historically and 6.3% over the last 5 years. It's close to achievable — but ONLY if the PE stays at 55x, which is a big "if." On a napkin, this is "maybe works if everything goes right" — not the "screaming no-brainer" that Buffett demands.
 
 *"If you need a spreadsheet to figure out whether it's a good deal, it's not a good deal."* At ₹2,500, you definitely need a spreadsheet (and some optimistic assumptions) to make the math work. **Automatic pass.**
 
