@@ -406,9 +406,11 @@ Buffett on change: *"We do not get enthused about change as a way to make a lot 
 | FY22 | 6,369 | 25.5% | **479** | **-31.4%** | **7.5%** | **-16.9%** |
 | FY23 | 7,543 | 18.4% | 638 | 33.2% | 8.5% | 13.5% |
 | FY24 | 7,801 | 3.4% | **838** | 31.3% | **10.7%** | 77.5% |
-| FY25 | 7,823 | 0.3% | 740 | -11.7% | 9.5% | **Neg.** |
+| FY25 | 7,823 | 0.3% | 740 | -11.7% | 9.5% | **−445%**† |
 
 *\*Incremental EBIT Margin = Change in EBIT / Change in Revenue. Computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether profit scaling is genuine or being eaten by rising capital consumption.*
+
+*†FY25 incremental margin of −445% reflects the mechanical effect of a near-zero ΔRevenue denominator (₹22 Cr) combined with a meaningful ΔEBIT (−₹98 Cr). The ratio is mathematically extreme but analytically clear: the business generated ₹22 Cr more revenue and produced ₹98 Cr less profit, confirming a complete loss of operating leverage at current scale. This is among the worst single-year scalability signals in the document — the cost base has structurally outgrown the revenue base.*
 
 ### Capital Scalability — Can the business grow without proportional capital reinvestment?
 
@@ -426,7 +428,8 @@ Buffett on change: *"We do not get enthused about change as a way to make a lot 
 |---|---|
 | FY15-FY17: Incremental >> Base (21-52% vs 11-16%) | **Elite scaling phase** — operating leverage was kicking in beautifully |
 | FY19-FY22: Incremental NEGATIVE while Base positive | **Anti-scaling** — adding revenue destroyed profit |
-| FY23-FY25: Volatile (13% / 77% / Neg.) | **Scaling friction** — no clear pattern of operating leverage |
+| FY23-FY24: Volatile (13% / 77%) | **Scaling friction / recovery attempt** — temporary post-COVID margin recovery, no durable operating-leverage pattern |
+| FY25: −445% | **Anti-scaling / Decline onset** — incremental margin collapse confirms operating leverage has broken; ₹22 Cr more revenue produced ₹98 Cr less profit |
 
 The incremental EBIT margins tell a troubling story. During FY15-FY17, the business showed excellent scaling characteristics (incremental EBIT margins of 21-52% — well above the base EBIT Margin of 10-16%). But from FY18 onwards, incremental margins have been volatile and frequently negative. FY25 is particularly alarming — revenue growth was essentially zero while EBIT declined 11.7%. The business is NOT scaling.
 
@@ -455,10 +458,10 @@ Buffett: *"The ideal business is one that takes no capital, and yet grows."* See
 | Early/Pre-inflection | Small, unproven | ❌ No |
 | **Inflection / Scaling** | Model proven, growth accelerating, margins expanding | ❌ No |
 | Growth phase | Large, still growing, margins near peak | ⚠️ Past this — was here in FY15-FY18 |
-| **Mature / Saturated** | Market share captured, growth ≈ GDP, margins stable/compressing | **✅ HERE** |
-| Decline | Revenue declining | ❌ Not yet, but at risk |
+| **Mature / Saturated** | Market share captured, growth ≈ GDP, margins stable/compressing | **⚠️ Late-Mature** |
+| Decline | Revenue declining | **✅ HERE — earnings already declining (FY25 EBIT −11.7% on +0.3% revenue); revenue not yet declining nominally but the operating trajectory has entered Decline-early-stage** |
 
-**S-Curve Position: Mature / Saturated** — the inflection point is BEHIND Kansai Nerolac, not ahead. The business has already absorbed its scaling phase (FY15-FY17 was elite scaling). Now it is a mature company in a competitive industry, growing only as fast as the broader market lets it.
+**S-Curve Position: Decline (early stage) — revenue still nominally positive, earnings already trending negative.** The inflection point is BEHIND Kansai Nerolac, not ahead. The business has already absorbed its scaling phase (FY15-FY17 was elite scaling). The evidence — decorative market share 17%→15% over 5 years (declining, not stable), capacity utilisation 85%→60-65% (a structural collapse), FY25 EBIT −11.7% on essentially zero revenue growth, FY25 incremental EBIT margin −445% (complete loss of operating leverage), asset turnover 1.51x→1.00x — supports classifying KN as **at the early stage of Decline rather than merely "Mature approaching Decline"**. Revenue has not yet declined in absolute terms, but earnings are already declining, capacity is being underutilised, and share is being lost to Birla Opus and JSW. This is the present condition, not a future risk.
 
 ### Part C: Scaling Verdict
 
@@ -468,7 +471,7 @@ Buffett: *"The ideal business is one that takes no capital, and yet grows."* See
 | Profit scalability (incremental margins) | 3 | Incremental EBIT margins volatile and frequently negative since FY18 |
 | Capital scalability | 4 | Asset turnover declining; capital intensity rising |
 | Scaling runway (TAM vs penetration) | 6 | TAM is large and growing, but KN is losing share, not gaining |
-| S-Curve position (timing) | 4 | Mature phase — growth comparable to GDP, not above |
+| S-Curve position (timing) | 3 | Decline (early stage) — revenue stagnant, earnings already declining (FY25 EBIT −11.7% on +0.3% revenue) |
 | **Overall Scalability Score** | **4/10** | **Scaling Friction (per template classification)** |
 
 | Score | Classification | Buffett Analogy |
@@ -554,7 +557,7 @@ However, the management has been **less forthcoming about market share erosion i
 
 5. **Dealer network expansion has been measured** (~26,000 to ~29,500 dealers in 5 years, +13%). This is below Asian Paints' growth (~75,000+ dealers) and well below Birla Opus's aggressive land-grab strategy. Distribution moat is not widening.
 
-The operational picture shows a company that is strong in its niche (auto coatings) but struggling to compete in the much larger decorative segment. The heavy capex of FY18-FY20 has built capacity that is now sitting underutilised, dragging down all return metrics. **The operational trend confirms what the financial trend already showed: the business is decelerating into a mature/saturated state with no clear path to re-acceleration.**
+The operational picture shows a company that is strong in its niche (auto coatings) but struggling to compete in the much larger decorative segment. The heavy capex of FY18-FY20 has built capacity that is now sitting underutilised, dragging down all return metrics. **The operational trend confirms what the financial trend already showed: the business has passed through its Mature phase and entered Decline (early stage) — earnings are already declining (FY25 EBIT −11.7%) while revenue growth stagnates near zero (FY25 +0.3%), with no clear catalyst for re-acceleration.**
 
 ---
 
@@ -609,7 +612,7 @@ At ₹188, the stock is trading at **26.6x normalised earnings** and **2.37x boo
 
 **Historical Comparison:** The stock has historically traded at 30-50x earnings during bull markets (when the business was growing at 15%+) and 20-25x during moderate periods. At 26.6x normalised PE, it is at the upper end of moderate — not cheap by any standard.
 
-**The P/B multiple is particularly informative.** At 2.37x book for a business earning 9% normalised ROE, the market is pricing in a return to ~15%+ ROE. Using the Gordon Growth Model with the document's own inputs (ROE 10%, retention 72%, g = 7.2%, cost of equity 11%), the fair P/B is approximately **0.7-0.8x** — meaning the stock at 2.37x book could be **roughly 3x its theoretically justified P/B**, or ~65-70% overvalued on a P/B basis. Even assuming a more generous ROE normalisation to 12% and lower retention, the fair P/B barely reaches 1.0-1.2x.
+**The P/B multiple is particularly informative.** At 2.37x book for a business earning 8.6% normalised ROE, the market is pricing in a return to ~15%+ ROE. Using the Gordon Growth Model with the actual FY25 ROE: g = 8.6% × 72% retention = 6.19%; Fair P/B = (8.6% − 6.19%) / (11% − 6.19%) = **0.50x** — meaning the stock at 2.37x book is **~4.7x its theoretically justified P/B** if current ROE persists, or ~370% above Gordon-model fair value. Using a more generous assumed ROE of 10% (mild recovery): g = 7.2%; Fair P/B = (10% − 7.2%) / (11% − 7.2%) = **0.74x** — still implying the stock is ~3x its justified multiple. Even assuming an aggressive ROE normalisation to 12% with lower retention, the fair P/B barely reaches 1.0-1.2x. **In no plausible scenario does Gordon Growth justify a P/B above 1.2x for this business — versus the current 2.37x.**
 
 ---
 
@@ -660,6 +663,19 @@ At ₹188, the stock is trading at **26.6x normalised earnings** and **2.37x boo
 | **Base** | 10% | 7% | 4% | 10% | ₹12,820 Cr | +₹1,554 Cr | ₹14,374 Cr | **₹178** | **−6%** | **−5%** |
 | **Optimistic** | 13% | 9% | 4% | 10% | ₹15,536 Cr | +₹1,554 Cr | ₹17,090 Cr | **₹211** | **+11%** | **+12%** |
 
+### Supplementary Stress Scenarios — Reflecting the Section 10-13 Qualitative Reality
+
+> **Why these are added:** The three primary scenarios above use standard Buffett-template growth tiers (8/10/13%), but for a business with the specific competitive dynamics laid out in Sections 10-13 (eroding moat in decorative, structural market-share decline 17%→15%, capacity utilisation collapse 85%→60-65%, failed $1 Test, FY25 revenue +0.3% and EBIT −11.7%), even the 8% "Conservative" assumption requires a re-acceleration that is NOT visible in current data. To honour the qualitative analysis, the table below adds two additional stress tests that reflect what the Sections 10-13 evidence actually points to.
+
+| Stress Scenario | Growth Y1-5 | Growth Y6-10 | Terminal | Discount | IV/Share | **MoS** | **Upside** |
+|---|---|---|---|---|---|---|---|
+| **Truly Conservative** (assumes modest OE stabilisation to 5% from the 1.9% recent EPS trend — implies SOME business stabilisation, not pure continuation-of-trend; closer to a "Modest Recovery" interpretation) | 5% | 3% | 4% | 11% | **~₹116** | **−62%** | **−38%** |
+| **Structural Decline** (extends FY20-FY25 trajectory at ~1.9% with ongoing share erosion — this is actually the pure continuation-of-trend case given the document's own caveat that future OE ≈ NI growth) | 3% | 3% | 3% | 12% | **~₹93** | **−103%** | **−51%** |
+
+> *Note on stress-scenario growth assumptions: (a) "Truly Conservative" (5%) is meaningfully above the 1.9% 5Y EPS CAGR — it represents modest stabilisation, NOT continuation-of-trend. Given the document's own structural caveat that future OE ≈ NI growth (~1.9%), the "Structural Decline" scenario at 3%/3% is closer to the genuine continuation-of-trend case. The label "Truly Conservative" is preserved for cross-reference stability throughout the document. (b) Both Phase 2 growth rates are held at 3% — materially below India's nominal GDP growth (~10-12%) and closer to the company's own 1.9% 5Y EPS CAGR. For a market-share-losing business in early Decline, 3% nominal OE growth represents approximately zero real growth after India's ~4-5% inflation, reflecting ongoing share erosion. (c) Structural Decline's Phase 2 = Terminal at 3% is the standard convention for a fully matured business with no expected growth differential between the operating period and perpetuity; a lower terminal would assume nominal contraction, which is not the central case for a paint manufacturer in a growing economy.*
+
+> **Reading the labels honestly:** Mapping the audit-tested scenario tiers to Kansai Nerolac's actual track record, the document's "Conservative" (8%) is more accurately a "Moderate Recovery" case — it assumes a meaningful re-acceleration from recent 1.9% EPS growth and 0.3% FY25 revenue growth. A genuinely conservative scenario for a business with eroding moat and failed $1 Test sits closer to ₹95-116, not ₹136. **The investment conclusion (AVOID) becomes stronger, not weaker, under the more honest framing — the stock is overvalued under every scenario except Turnaround Success.**
+
 ### Assessment — A More Nuanced Picture
 
 The corrected DCF (properly accounting for Kansai Nerolac's ₹1,554 Cr net cash position) paints a more nuanced picture than a quick glance suggests:
@@ -667,12 +683,20 @@ The corrected DCF (properly accounting for Kansai Nerolac's ₹1,554 Cr net cash
 - **Conservative case (₹136):** Stock is overvalued by 28% — meaningful downside if Kansai Nerolac continues to lose share and grow at sub-GDP rates.
 - **Base case (₹178):** Stock is roughly fairly valued, with a small (−5%) overvaluation. NOT a margin of safety, but also not catastrophically overpriced.
 - **Optimistic case (₹211):** Stock has modest upside (+12%) if Kansai Nerolac executes a turnaround — recovering EBIT margin toward 13-15%, growing revenue at 10%+ matching the industry.
+- **Truly Conservative (₹116) and Structural Decline (₹93) stress cases:** Stock is overvalued by 62-103% — the range that the Sections 10-13 evidence actually points to.
 
-**Are the growth assumptions realistic?** This is where intellectual honesty matters. The Base case assumes 10% Phase 1 growth — Kansai Nerolac's actual normalised EPS CAGR over the last 10 years was 7.6%, and over the last 5 years it was a mere 1.9%. The Base case effectively assumes a meaningful re-acceleration that is NOT visible in current trends. The **Conservative case is the more honest reflection of recent trajectory**, and it shows the stock is ~28% overvalued.
+**Are the growth assumptions realistic?** This is where intellectual honesty matters. The Base case assumes 10% Phase 1 growth — Kansai Nerolac's actual normalised EPS CAGR over the last 10 years was 7.6%, and over the last 5 years it was a mere 1.9%. The Base case effectively assumes a meaningful re-acceleration that is NOT visible in current trends. Even the **"Conservative" 8% assumption is more accurately a "Moderate Recovery" case**; the Truly Conservative (5%/3%) and Structural Decline (3%/3%) stress cases above are the more honest reflection of the Sections 10-13 evidence.
 
-> *Buffett: "Be approximately right rather than precisely wrong." A range of ₹136-₹211 is the honest answer — and the current price (₹188) sits in the upper half of that range, leaving little to no margin of safety. A genuine Buffett purchase would require the price to drop into the lower half (~₹120-150) to provide a credible 25-30% MoS.*
+> **Caveat on the 5Y OE CAGR (8.1%):** The recent 5Y OE CAGR of 8.1% (Section 8) — which appears to support an 8% "Conservative" forward assumption — was mechanically driven by a one-time post-capex-cycle gap between rising D&A (₹142→₹202 Cr) and falling Maintenance CapEx (₹305→₹237 Cr over FY20→FY25). That gap of ~₹128 Cr is now essentially exhausted: going forward, D&A (~₹200-210 Cr) and Maint CapEx (~₹210-238 Cr) approximately cancel, meaning future OE growth will revert to approximating Net Income growth (~1.9% on the recent 5Y track). The 8.1% OE CAGR is a backward-looking artefact, not forward earning power.
 
-**There is NO margin of safety at the current price under the Base or Conservative cases.** Buffett requires a significant margin of safety (typically 25-40%) before buying. At ₹188, you would need the optimistic scenario to play out just to break even on intrinsic value — and you would earn essentially nothing above the discount rate.
+> *Buffett: "Be approximately right rather than precisely wrong." A range of ₹93-₹211 is the honest answer — and the current price (₹188) sits in the upper half of even the optimistic range, leaving zero margin of safety. A genuine Buffett purchase would require:*
+> - *For a 25-30% MoS vs the primary Conservative IV (₹136): entry at **~₹95-102**.*
+> - *For a 25-30% MoS vs the Truly Conservative stress-case IV (₹116): entry at **~₹81-87**.*
+> - *For a 25-30% MoS vs the Structural Decline stress-case IV (₹93): entry at **~₹65-70**.*
+>
+> *The honest range for a "Buffett-grade" entry — weighted toward the conservative-to-stress scenarios that the Sections 10-13 evidence supports — is therefore **~₹70-100, not ₹95-135**. The previously defined Value/Buy zone of ₹100-135 represents 'at or near' fair value under conservative assumptions, NOT a 25% discount to it.*
+
+**There is NO margin of safety at the current price under any scenario except Turnaround Success.** Buffett requires a significant margin of safety (typically 25-40%) before buying. At ₹188, you would need the Optimistic (Turnaround) scenario to play out just to break even on intrinsic value — and you would earn essentially nothing above the discount rate.
 
 ---
 
@@ -966,10 +990,12 @@ Based on the corrected DCF (Section 15: Conservative ₹136, Base ₹178, Optimi
 | Zone | PE Range (Norm.) | P/B Range | Price Range | Rationale |
 |---|---|---|---|---|
 | **Deep Value / Strong Buy** | <14x | <1.2x | **<₹100** | Below Conservative IV minus margin of safety; exceptional MoS |
-| **Value / Buy** | 14-19x | 1.2-1.7x | **₹100 – ₹135** | Below Conservative IV (₹136); attractive for patient investor with ~25% MoS |
+| **Value / Buy** | 14-19x | 1.26-1.7x | **₹100 – ₹135** | Below Conservative IV (₹136); MoS gradient from ~26% (at ₹100) to ~0.7% (at ₹135) — buy aggressively near ₹100, accumulate selectively above ₹120 |
 | **Fair Value / Hold** | 19-23x | 1.7-2.1x | **₹135 – ₹165** | Between Conservative and Base IV; fair price, hold for compounding |
 | **Fully Valued / Trim** | 23-28x | 2.1-2.6x | **₹165 – ₹200** | Above Base IV but below Optimistic; limited upside |
 | **Overvalued / Sell** | >28x | >2.6x | **> ₹200** | Above Optimistic IV; only justifiable if heroic growth materialises |
+
+> *MoS gradient in the Value/Buy zone (vs Conservative IV ₹136): at ₹100 → 26.5% MoS; at ₹110 → 19.1%; at ₹120 → 11.8%; at ₹130 → 4.4%; at ₹135 → 0.7%. The "~25% MoS" descriptor is accurate only near the lower end (₹100-105) of this zone. An investor entering at the upper end (₹130-135) has effectively zero MoS versus the document's most conservative IV — and negative MoS versus the Truly Conservative (~₹116) and Structural Decline (~₹93) stress scenarios from Section 15. **Read the zone as a ladder: ₹100 is a real bargain, ₹135 is roughly fair, points in between offer proportional MoS.**
 
 **Current price (₹188) falls in the FULLY VALUED / TRIM zone** — close to the Base case IV of ₹178 (about 6% above), and below the Optimistic case IV of ₹211. At this price, expected returns over 10 years are ~5-8% annually (below the hurdle rate) unless the company delivers a meaningful improvement in ROE.
 
@@ -983,7 +1009,7 @@ Based on the corrected DCF (Section 15: Conservative ₹136, Base ₹178, Optimi
 | Fully Valued (₹165-200) | ₹180 | +4% gain | **TRIM or HOLD** — Marginal positive. With a small capital base, this position isn't earning its keep. Redeploy into higher-conviction ideas. |
 | Overvalued (>₹200) | ₹230 | -18% loss | **HOLD/EXIT** — Purchase price is a sunk cost. Forward expected returns from ₹188 are sub-par. Buffett: *"The most important thing to do if you find yourself in a hole is to stop digging."* Tax-loss harvest if applicable. |
 
-> *Buffett on small-capital base discipline: With limited capital, opportunity cost is paramount. Every rupee in Kansai Nerolac is a rupee NOT in a higher-conviction idea (Asian Paints at a fair price, or an entirely different sector with a fat pitch). The patient discipline is to wait for the Value zone (₹100-135), where a ~25% MoS exists vs Conservative IV. Anything above ~₹165 violates the "fair price for a fair company" principle.*
+> *Buffett on small-capital base discipline: With limited capital, opportunity cost is paramount. Every rupee in Kansai Nerolac is a rupee NOT in a higher-conviction idea (Asian Paints at a fair price, or an entirely different sector with a fat pitch). The patient discipline is to wait for the lower half of the Value zone (₹100-120), where a real 12-26% MoS exists vs Conservative IV — and a positive MoS exists even versus the Truly Conservative (~₹116) stress scenario. Anything above ~₹165 violates the "fair price for a fair company" principle.*
 
 ---
 
@@ -1125,10 +1151,10 @@ This section is **partially applicable.** Kansai Nerolac is not under financial 
 | Earnings Quality | 4 | Reported earnings inflated by exceptional Other Income (FY24/FY25); normalised EPS ~50% lower |
 | Valuation | 4 | 26.6x normalised PE, 2.37x P/B, 29.3x P/OE — expensive for current economics |
 | Margin of Safety | 3 | Base DCF MoS −6%, Conservative MoS −38%; no MoS at current price |
-| Scalability | 4 | Scaling Friction phase; growth stalled, asset turnover declining |
-| **Buffett Verdict** | | **Kansai Nerolac is a decent paint franchise with an excellent balance sheet (₹1,554 Cr net cash) and committed Japanese parent — but it is the #3 player in an increasingly competitive market, with declining returns on capital (normalised ROE 8.6% vs ~15-18% historically; peaked at 18.2% in FY15), stagnant growth (FY25 revenue +0.3%), and a stock priced as if these problems don't exist. The corrected DCF gives an intrinsic value range of ₹136 (Conservative) to ₹211 (Optimistic), with the Base case at ₹178 — putting the current price of ₹188 modestly above fair value. The OEPS-based Reverse DCF shows the market demands 16.9% Owner Earnings growth to justify the price, vs. an actual 10Y delivered OE CAGR of 5.5% — a 3.1x gap that is firmly in 🔴 RED territory. The asymmetry ratio of 0.11:1 (base case) to 0.33:1 (bull case) makes this the opposite of a fat pitch. Buffett would PASS at this price. He might become interested at ₹100-135 (1.3-1.7x book), where a ~25% MoS exists vs Conservative IV — but even then, he would likely prefer Asian Paints (the Coca-Cola of Indian paints) at a fair price rather than Kansai Nerolac at a cheap price.** |
+| Scalability | 4 | Scaling Friction phase; growth stalled, asset turnover declining; FY25 EBIT −11.7% on essentially zero revenue growth — S-Curve at Decline early-stage |
+| **Buffett Verdict** | | **Kansai Nerolac is a decent paint franchise with an excellent balance sheet (₹1,554 Cr net cash) and committed Japanese parent — but it is the #3 player in an increasingly competitive market, with declining returns on capital (normalised ROE 8.6% vs ~15-18% historically; peaked at 18.2% in FY15), stagnant growth (FY25 revenue +0.3%), and a stock priced as if these problems don't exist. The corrected DCF gives an intrinsic value range of ₹136 (Conservative) to ₹211 (Optimistic), with the Base case at ₹178 — putting the current price of ₹188 modestly above fair value. The OEPS-based Reverse DCF shows the market demands 16.9% Owner Earnings growth to justify the price, vs. an actual 10Y delivered OE CAGR of 5.5% — a 3.1x gap that is firmly in 🔴 RED territory. The asymmetry ratio of 0.11:1 (base case) to 0.33:1 (bull case) makes this the opposite of a fat pitch. Buffett would PASS at this price. He might become interested at ₹100-135 (1.26-1.70x book) — with a meaningful 19-26% MoS at the lower end of the zone (₹100-110), tapering to near-zero MoS at the upper end (₹135) — but even then, he would likely prefer Asian Paints (the Coca-Cola of Indian paints) at a fair price rather than Kansai Nerolac at a cheap price.** |
 | **Buy Zone** | | **Fully Valued / Trim zone (₹165-200)** — see Section 18 |
-| **Overall Recommendation** | | **AVOID at current price. Target Buy range: ₹100-135 (Conservative IV minus ~10-25% MoS). Upside from current price to Base IV: −5%. Upside from current price to Optimistic IV: +12%.** |
+| **Overall Recommendation** | | **AVOID at current price. Target Buy range: ₹100-135 — meaningful MoS (19-26%) at the lower end (₹100-110) vs Conservative IV (₹136), tapering to near-zero MoS at ₹135. For a 25-30% MoS vs the Truly Conservative IV (₹116), entry would need to be ~₹81-87. Upside from current price to Base IV: −5%. Upside from current price to Optimistic IV: +12%.** |
 
 ---
 
@@ -1148,7 +1174,7 @@ Buffett: *"If you need a spreadsheet to figure out whether it's a good deal, it'
 
 *"The stock market is a device for transferring money from the impatient to the patient."* — Warren Buffett
 
-The patient investor waits for Kansai Nerolac to be offered at ₹100-135 (Value/Buy zone with ~25% MoS vs Conservative IV) — or, more likely, directs their attention to the industry leader (Asian Paints) when it inevitably goes through a rough patch and offers a genuine margin of safety.
+The patient investor waits for Kansai Nerolac to be offered in the lower half of the Value/Buy zone (₹100-120, where ~12-26% MoS exists vs Conservative IV) — or, more likely, directs their attention to the industry leader (Asian Paints) when it inevitably goes through a rough patch and offers a genuine margin of safety.
 
 ---
 
