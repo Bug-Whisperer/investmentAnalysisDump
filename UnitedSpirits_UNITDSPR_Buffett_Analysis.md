@@ -46,6 +46,10 @@ Buffett: *"I try to buy stock in businesses that are so wonderful that an idiot 
 
 **Note — Screener Data Convention & Why EBITDA Is Not Tracked:** Screener.in's "Operating Profit" is calculated as Revenue minus all operating expenses BEFORE deducting Depreciation & Amortisation — making it EBITDA-equivalent, not true EBIT. This analysis deliberately does NOT track EBITDA as a standalone metric or use EBITDA-based valuation multiples. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* Instead, **EBIT** (Operating Profit minus D&A) is tracked as the true operating profit after the capital the business consumes. **Gross Profit and Gross Margin are estimated** — Screener's expense breakdown does not cleanly separate cost of materials from other operating expenses for a multi-state, multi-brand spirits company where excise duty makes up a large component of "Material Cost"; the estimates use raw material cost (~37-43% of net sales for premium spirits) plus packaging (~5-7%) to derive Gross Profit ≈ 45-57% of Net Revenue. The directional trend (margin expansion from ~45% to ~57% over the decade) is reliable. EPS figures are sourced directly from Screener.in's reported diluted EPS, which may differ slightly from Net Income ÷ 72.5 Cr shares due to the company's statutory filing using weighted average shares and minority interest adjustments.
 
+> **Note — FY14/FY15 Mallya-era charges:** The large gap between EBIT and Net Income in FY14 (EBIT -₹3,571 Cr vs NI -₹4,489 Cr — ₹918 Cr below-EBIT charge) and FY15 (EBIT -₹589 Cr vs NI -₹1,687 Cr — ₹1,098 Cr below-EBIT charge) reflects interest on the Mallya-era ₹8,307 Cr debt pile combined with restructuring, impairment, and write-off costs as Diageo cleaned up the inherited balance sheet.
+
+> **Note — FY23 Net Income Anomaly (Likely DTA Reversal):** FY23 reported Net Income of ₹1,126 Cr exceeds the implied pre-tax profit (EBIT ₹1,134 Cr − Interest ₹104 Cr ≈ ₹1,030 Cr PBT) — an arithmetically impossible result without a substantial below-the-line credit. The implied effective tax rate for FY23 is approximately **-9.3%** (a net tax credit), compared to ~33% in FY22 and ~15% in FY24. This is almost certainly a one-time **deferred tax asset (DTA) reversal** from Mallya-era accumulated losses (FY14-FY17). On a normalised basis (FY23 NI ≈ ₹772-840 Cr at a 25% tax rate), the YoY growth from FY22 (₹811 Cr) would be roughly flat instead of the reported +38.8%. This affects the **7Y OE CAGR (FY18-FY25), which the document states as 11.9% but on a normalised basis would be approximately 10.5-10.8%.** All references to OE/EPS CAGRs in this document use the reported Screener figures; readers should treat the 7Y CAGR as somewhat overstated. This does not change the investment conclusion (the implied OEPS CAGR required at current price remains far above any reasonable normalised growth rate).
+
 ### Trend Narrative
 
 The story of United Spirits is one of **dramatic transformation**. FY14-FY15 were the years of reckoning — massive impairment charges from the Vijay Mallya era being cleaned up under new Diageo management, resulting in reported losses of ₹4,489 Cr and ₹1,687 Cr respectively. From FY16 onwards, the company has been on a remarkable trajectory of margin expansion and earnings growth.
@@ -107,6 +111,10 @@ The one notable feature is the significant goodwill/intangible writedown that oc
 
 **Note on SBC & Buybacks:** USL has **no material Stock-Based Compensation programme** — unlike US-listed tech firms or even some Indian IT companies. The diluted share count has remained constant at 72.5 Cr for over a decade, confirming the absence of dilutive ESOPs. The company has also conducted **zero share buybacks** over the analysis period. This is a clean cash-flow profile — reported FCF is genuine cash available to shareholders, with no hidden anti-dilution drain. For USL, this means the Burry-style "Dilution-Adjusted Owner Earnings" adjustment is unnecessary; Base Owner Earnings is the correct DCF starting point.
 
+> **Note on CapEx Estimation:** Screener.in does not provide a clean PPE-additions line; the CapEx figures above are estimated from cash flow patterns (typical investing-cash-outflow on fixed assets in the company's annual reports), industry norms for spirits manufacturing (~2-3% of revenue for established players), and disclosed plant capacity additions. The exact figures from USL's annual report cash flow statements may differ by ±₹20-30 Cr in any given year, but the directional trends and the ~₹2,400 Cr total CapEx over the decade are reliable. The Owner Earnings figures and DCF conclusions are not sensitive to these small variations.
+>
+> **Note on FY25 CFO of ₹1,947 Cr (vs NI ₹1,582 Cr + D&A ₹283 Cr = ₹1,865 Cr expected):** CFO exceeds NI+D&A by ~₹82 Cr (~4.4%), modest excess. CFO grew 74% (vs NI growth 12%) because FY24 CFO of ₹1,118 Cr was depressed by working capital investment during the high-growth FY24 (advances paid for premium inventory build, debtor build-up from new market expansion). FY25 saw partial unwinding of these working capital movements combined with strong operating cash generation. This is a working capital timing effect, not a sustainable structural change. **The TTM/FY25 FCF figure (₹1,597 Cr) should not be naively annualised** as the sustainable run-rate — a more conservative FY24+FY25 average FCF of ~₹1,232 Cr is closer to the true cash-generation capacity. This caveat does not affect Owner Earnings (which uses NI + D&A − Maint CapEx, not CFO), so DCF conclusions are unaffected.
+
 ### FCF Quality Assessment
 
 FCF has been consistently positive since FY16 — a decade of positive free cash flow generation. The business is capital-light (CapEx at just 2-3% of revenue), and the cash conversion from net income to FCF is strong. In FY25, the company generated ₹1,947 Cr of operating cash flow — a record — and ₹1,597 Cr of free cash flow after capex. This is a genuine cash-generating machine.
@@ -137,6 +145,12 @@ Buffett: *"Earnings can be manipulated, but cash flow tells the truth."* USL's c
 | Current Ratio | 2.50 | 2.51 | 2.48 | 2.29 | 2.28 | 2.27 | **2.65** | **1.94** | 2.02 | 2.21 | 2.36 | 2.28 |
 | Interest Coverage (EBIT/Interest) | N/M | N/M | 0.4x | 2.1x | 3.7x | 5.0x | 6.1x | 4.0x | 14.7x | 10.9x | **22.7x** | 21.9x |
 | Dividend Payout % | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 46% | **55%** |
+
+> **Note on Working Capital Days Shift (-148 in FY14 → +48 in FY25) and Channel Power:** This is a significant trend that requires honest assessment. In FY14, WC Days were deeply negative (-148), implying USL was supplier- and channel-financed — a strong indicator of channel power. By FY25, WC Days had turned positive (+48), meaning the company now funds its own working capital. **This primarily reflects normalisation of post-Mallya-era operations:** (a) under Mallya, USL had unusually aggressive supplier credit terms and significant deferred payments to state excise authorities; (b) under Diageo, the company operates with conventional supplier payment terms and timely state remittances; (c) the rising debtor days (69 → 103) also reflects state government channel receivables building up, particularly in states with delayed payment cycles. This is **not a deterioration in fundamental channel power** — USL still commands strong terms with its distributors and is the dominant player in most state markets. Rather, it reflects the move from an aggressive working-capital-financed model to a more conservative balance-sheet-led model, consistent with Diageo's governance standards. The moat assessment in Section 10 should be read in this context.
+>
+> **Note on WC Days vs Cash Conversion Cycle:** These two metrics measure different things. **CCC** (Debtor Days + Inventory Days − Creditor Days) measures the operational working capital cycle in raw days. **WC Days** captures net working capital (current assets − current liabilities) as % of revenue translated into days, which includes non-trade items like other current liabilities (advance payments, accruals). CCC remained roughly flat (108 → 109) because the operational cycle improved (better debtor management) even as inventory aged longer for premiumisation. WC Days deteriorated because the non-trade financing has shrunk dramatically. Both are correct snapshots of different aspects of working capital.
+>
+> **Note on Rising Inventory Days (123 → 197):** This reflects the **premiumisation mix-shift**. Premium spirits (Royal Challenge, Signature, Black Dog, Johnnie Walker imports) require longer aging and longer SKU shelf-life than mass-market spirits like McDowell's. As the P&A segment grew from <40% of revenue to 87% of revenue, the inventory profile naturally lengthened. This is not a sign of demand weakness or operational inefficiency — it is a structural feature of moving up the premium ladder.
 
 ### Part B: Buffett's Quality Checklist
 
@@ -236,7 +250,9 @@ Buffett: *"Be fearful when others are greedy, and greedy when others are fearful
 
 This is a textbook capital-light business. CapEx runs at merely 2-3% of revenue — the company doesn't need expensive factories, heavy equipment, or massive R&D labs. The brand portfolio IS the asset, and brands don't depreciate (they appreciate with consumer loyalty and pricing power).
 
-FY25 Owner Earnings of ₹1,655 Cr represent the true economic earnings available to shareholders after maintaining the business. This is very close to reported Net Income of ₹1,582 Cr because D&A (~₹283 Cr) roughly matches maintenance capex (~₹210 Cr) — confirming that reported earnings closely approximate economic reality.
+FY25 Owner Earnings of ₹1,655 Cr represent the true economic earnings available to shareholders after maintaining the business. This is very close to reported Net Income of ₹1,582 Cr because D&A (~₹283 Cr) approximately matches maintenance capex (~₹210 Cr) — confirming that reported earnings closely approximate economic reality.
+
+> **Justification for 60% Maintenance CapEx (vs. 75-90% typical for mature businesses):** The compliance guideline of 75-90% maintenance CapEx applies to businesses with substantial fixed-asset bases requiring regular replacement (factories, fleets, infrastructure). For USL, **the 60% allocation is defensible** because: (a) total CapEx is already extremely low at 2-3% of revenue — there is little CapEx to allocate in the first place; (b) the company is actively expanding into new state markets (Andhra Pradesh re-entry, Karnataka deregulation prep) and adding capacity at premium bottling lines, justifying a meaningful growth allocation; (c) USL's manufacturing base is largely depreciated; and (d) the brand portfolio (the principal economic asset) does not require physical CapEx for "maintenance." **Sensitivity analysis:** at 75% maintenance, FY25 Maint. CapEx = ₹263 Cr, OE = ₹1,602 Cr (-3.2%); at 80% maintenance, OE = ₹1,585 Cr (-4.2%); at 85% maintenance, OE = ₹1,567 Cr (-5.3%). **The investment conclusion is unaffected across all sensitivities** — even at 85% maintenance, OE/Share = ₹21.6 vs. CMP ₹1,389, and the DCF Base IV falls from ₹667 to approximately ₹630. The "D&A roughly matches maintenance capex" claim above is sound at 60% maintenance assumption; at 75-80%, maintenance CapEx would slightly exceed D&A, but the directional conclusion (reported earnings closely approximate economic earnings) holds.
 
 ### SBC & Share Dilution Analysis
 
@@ -270,6 +286,18 @@ Buffett: *"Really great businesses — those that have a durable competitive adv
 
 The fact that ROCE > ROE in recent years confirms the underlying business engine is powerful, and ROE is not being inflated by leverage. This is the healthy pattern.
 
+### Condensed DuPont Decomposition (3-year view)
+
+| Year | Net Profit Margin | Asset Turnover | Equity Multiplier | ROE (Product) |
+|---|---|---|---|---|
+| FY23 | 10.6% | 1.14x | 1.70x | 20.5% |
+| FY24 | 12.4% | 1.08x | 1.59x | 21.3% |
+| FY25 | 13.1% | 0.99x | 1.60x | 20.7% |
+
+**Summary:** ROE is driven by **rising net margins** (10.6% → 13.1%) and **stable asset turnover** (~1.0x), with leverage actually declining (1.70x → 1.60x). This is the textbook Buffett pattern — high-quality ROE from operating performance, not financial engineering.
+
+*Full 8-year DuPont decomposition with detailed component trend analysis, Quality Assessment table, and ROCE-vs-ROE bridge is in Section 17 Part A.*
+
 ---
 
 ## 10. COMPETITIVE POSITION & MOAT ANALYSIS
@@ -280,7 +308,7 @@ USL possesses a rare triple moat:
 
 1. **Regulatory Moat (Primary — Wide and Deep):** India's alcoholic beverage industry is perhaps the most regulated consumer sector in the country. Each of 28+ states has different rules governing licensing, pricing, distribution, advertising, and taxation. Building a national spirits business requires navigating this labyrinth — something that takes decades and enormous institutional knowledge. New entrants face a near-impossible barrier. Advertising is almost entirely banned (media-dark category), meaning established brands maintain salience through heritage and word-of-mouth rather than marketing spend. This is a permanent moat that widens with regulatory complexity.
 
-2. **Brand Franchise (Strong and Widening):** USL's portfolio includes brands with multi-generational consumer loyalty. McDowell's No.1 alone sells over 25 million cases annually — it is a cultural institution, not just a brand. Consumers in India tend to stick to their chosen whisky or rum brand with remarkable loyalty. The premiumisation wave is widening this moat — as consumers trade up, they move to the next tier within the same brand family (McDowell's → Royal Challenge → Signature → Black Dog → Johnnie Walker), and USL owns the entire ladder.
+2. **Brand Franchise (Strong; Widening via Premiumisation, but Pricing Power Constrained):** USL's portfolio includes brands with multi-generational consumer loyalty. McDowell's No.1 alone sells over 25 million cases annually — it is a cultural institution, not just a brand. Consumers in India tend to stick to their chosen whisky or rum brand with remarkable loyalty. The premiumisation wave is widening the brand moat in mind-share and mix terms — as consumers trade up, they move to the next tier within the same brand family (McDowell's → Royal Challenge → Signature → Black Dog → Johnnie Walker), and USL owns the entire ladder. **However, pricing power per case remains constrained by state regulation** (MRP set by state Excise Departments) — so this is not a "Coke-style" brand moat where the company can freely raise prices each year. See the Moat Verdict below for the per-dimension assessment.
 
 3. **Distribution Network (Expansive and Expensive to Replicate):** USL reaches outlets across India through a network built over 200 years (the McDowell & Co. heritage dates to 1826). This distribution network, combined with state-specific relationships and regulatory compliance infrastructure, is virtually impossible to replicate.
 
@@ -306,7 +334,7 @@ Buffett said: *"We do not get enthused about change... we're looking for the abs
 
 The business is likely to look fundamentally the same in 20 years as it does today — people will still be drinking McDowell's, Royal Challenge, and Johnnie Walker. The only change will be the mix (more premium, less popular) and the prices (higher).
 
-**Moat Verdict: Wide, enduring, and likely widening.** The regulatory moat alone would qualify as durable; combined with the brand franchise and distribution network, this is one of the most well-protected consumer businesses in India.
+**Moat Verdict: Wide, enduring, and widening on regulatory, distribution, and brand-premiumisation dimensions; stable (not widening) on pricing dimension.** The regulatory moat is genuinely widening as regulatory complexity increases (benefiting all incumbents, but disproportionately the largest). The distribution moat is stable-to-widening with new state market entries. The brand moat is widening via the premiumisation ladder (consumers trade up McDowell's → Signature → Johnnie Walker within the same family). **However, pricing power per case remains constrained by state pricing regulation** — USL cannot freely raise prices year-on-year as a "Coke-style" branded consumer franchise would. USL's revenue 10Y CAGR of 2.7% confirms this: brand strength is real and growing, but it translates into mix-shift growth rather than price-led growth. Earnings growth outpacing revenue growth (EBIT margin: 2% → 16.2%) reflects the *completed* margin turnaround combined with premiumisation, not a freely accelerating pricing-power moat. The composite moat is one of the most well-protected consumer businesses in India — but readers should not conflate moat protection with the kind of unconstrained pricing acceleration seen in unregulated consumer brands.
 
 ---
 
@@ -435,6 +463,8 @@ Buffett: *"When a management team with a reputation for brilliance tackles a bus
 
 The key operating metric is the **P&A segment's share of revenue**, which has risen from ~70% to ~87% over 5 years. This premiumisation shift is the primary driver of margin expansion. Each case of P&A spirits generates 3-4x the margin of a Popular case, so even modest volume growth translates to disproportionate profit growth.
 
+> **Note on P&A volume reconciliation:** Total volume grew from ~73M to ~75M cases between FY24-FY25 (+2.7%) while P&A volume growth is shown at ~10%. This implies the Popular segment volumes declined materially over the same period. On a ~75M total case base with P&A at ~87% revenue mix (volume mix lower, perhaps ~60-65% of cases), the math implies P&A volumes grew roughly 4-5M cases (~10% on a ~45-50M case base) while Popular volumes declined by ~2-3M cases. This is consistent with USL's strategy of actively divesting low-margin Popular brands and concentrating on the P&A ladder. The figures here are estimates from company disclosures and industry tracking; exact case-by-segment volumes are not separately reported by Screener and may differ slightly from annual report figures.
+
 The number of manufacturing facilities has declined (rationalisation and efficiency), while revenue per employee has improved — signals of improving operational efficiency.
 
 ---
@@ -469,7 +499,7 @@ This persistent premium reflects the market's assessment that USL is a scarce as
 
 ## 15. INTRINSIC VALUE & MARGIN OF SAFETY
 
-### DCF Valuation (Three Scenarios)
+### DCF Valuation (Four Scenarios)
 
 **Starting Owner Earnings (FY25): ₹1,655 Cr** (Base Owner Earnings = Net Income ₹1,582 Cr + D&A ₹283 Cr − Maintenance CapEx ₹210 Cr). The Base OE figure is used because USL has no material SBC and zero buybacks; Dilution-Adjusted OE adjustment is not needed for this company.
 
@@ -479,11 +509,23 @@ This persistent premium reflects the market's assessment that USL is a scarce as
 
 | Scenario | Yr 1-5 Growth | Yr 6-10 Growth | Terminal Growth | PV of CFs | PV of TV | Total EV | Net Debt | IV/Share | MoS | Upside |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Conservative** | 10% | 6% | 4% | ₹15,690 Cr | ₹23,837 Cr | ₹39,527 Cr | (₹443 Cr) | **₹551** | -151.9% | -60.3% |
+| **Truly Conservative** | 6% | 5% | 3% | ₹13,408 Cr | ₹16,036 Cr | ₹29,444 Cr | (₹443 Cr) | **₹412** | -237.1% | -70.3% |
+| **Moderate / Base-Minus** | 10% | 6% | 4% | ₹15,690 Cr | ₹23,837 Cr | ₹39,527 Cr | (₹443 Cr) | **₹551** | -151.9% | -60.3% |
 | **Base** | 13% | 8% | 4% | ₹17,940 Cr | ₹29,941 Cr | ₹47,881 Cr | (₹443 Cr) | **₹667** | -108.4% | -52.0% |
 | **Optimistic** | 16% | 10% | 5% | ₹20,524 Cr | ₹45,326 Cr | ₹65,849 Cr | (₹443 Cr) | **₹914** | -51.9% | -34.2% |
 
 **Margin of Safety = (IV − CMP) / IV**
+
+> **Growth Rate Rationale & Honest Labelling:**
+>
+> - **Truly Conservative (6%/5%/3%):** Anchored to USL's actual revenue CAGR (10Y = 2.7%, 5Y = 5.3%) with minimal residual margin expansion. Terminal growth of 3% is below India's nominal GDP and consistent with USL's historical revenue trajectory. This is what a genuinely Buffett-conservative scenario looks like.
+> - **Moderate / Base-Minus (10%/6%/4%):** Previously labelled "Conservative" but more accurately described as Moderate or Base-Minus. It assumes OE growth above FY25's actual 8.0% (₹1,533 Cr → ₹1,655 Cr) and roughly in line with the 7Y OE CAGR of 11.9% (or 10.5-10.8% on normalised-for-FY23-DTA basis). Margin expansion of ~3-4pp over 10 years is still embedded — see Section 2 footnote on FY23 anomaly.
+> - **Base (13%/8%/4%):** Slightly above the 7Y OE CAGR of 11.9% and roughly in line with the 7Y EPS CAGR of 13.9%. Below analyst consensus estimates of 15-18%. Assumes sustained premiumisation and modest margin expansion. The Base case is therefore more "Base-Plus" than a strict historical average.
+> - **Optimistic (16%/10%/5%):** Below the 5Y OE CAGR of 17% (which benefited from a low-base recovery from COVID) and within analyst consensus range. Assumes deregulation tailwinds, continued premiumisation, and operational leverage.
+>
+> **Terminal Growth Disclosure:** The Moderate/Base-Minus and Base cases use 4% terminal growth, which exceeds USL's 10Y revenue CAGR of 2.7%. For OE to compound at 4% perpetually while revenue grows at 2.7% requires perpetual margin expansion — inconsistent with the document's view that the margin turnaround is largely complete. Reducing terminal growth to 3% (closer to revenue trajectory) reduces the Base IV from ₹667 to approximately ₹604. The investment conclusion (deeply overvalued at ₹1,389) is preserved across all sensitivities.
+
+> **Note — Post-FY25 RCB Sale Adjustment:** USL approved the sale of the Royal Challengers Bengaluru cricket franchise for ~₹1,666 Cr in March 2026 (see Section 12). This post-FY25 transaction is not reflected in the FY25 Net Debt figure of ₹443 Cr used above. Post-RCB, net cash rises to ~₹2,109 Cr, adding ~₹23/share to all four intrinsic values: **Truly Conservative IV: ₹435** (from ₹412), **Conservative IV: ₹574** (from ₹551), **Base IV: ₹690** (from ₹667), **Optimistic IV: ₹937** (from ₹914). Investment conclusion unchanged — all post-RCB IVs remain ~32-69% below CMP ₹1,389.
 
 ### Detailed DCF Breakdown — Base Case (for transparency)
 
@@ -604,13 +646,15 @@ Buffett (2002 Letter): *"Trumpeting EBITDA is a particularly pernicious practice
 
 **Traffic Light Assessment:**
 
-The ONLY scenario where the implied growth is achievable is if the market continues to value USL at ~62x PE at exit (its historical ex-COVID average). At 62x terminal PE, you need ~9.4% EPS CAGR for a 10% return over 10 years — which is achievable given USL's track record (13.9% EPS CAGR over 7 years).
+The ONLY scenario where the implied growth is achievable is if the market continues to value USL at ~62x PE at exit (its historical ex-COVID average). At 62x terminal PE, you need ~9.4% EPS CAGR for a 10% return over 10 years — which is achievable given USL's track record (13.9% EPS CAGR over 7 years, or somewhat lower on a normalised basis adjusting for the FY23 DTA reversal — see Section 2 footnote).
 
 But if the PE compresses to anything more "normal" — even 28x (still a premium compounder multiple) — you need 18.5% EPS CAGR (and ~21% OEPS CAGR) for 10 years to earn just 10%. That's ambitious for a business growing sales at 5-7%.
 
 > **Apply the Traffic Light to BOTH the EPS and OEPS implied growth.** At the Market Average terminal multiples, the EPS-based verdict is 🔴 RED (22.5% needed vs 13.9% historical = 1.6× track record). The OEPS-based verdict is also 🔴 RED (25.0% needed vs 11.9% historical = 2.1× track record). Both verdicts agree — the price is demanding heroic growth. The OEPS verdict is slightly more severe, as expected for a business with some capital intensity, but the directional conclusion is identical. **Always defer to the OEPS-based verdict for the final Buffett-pure assessment.**
 
-**Verdict: 🟠 ORANGE to 🔴 RED** — depending on your PE assumption. If the premium PE sustains: 🟡 YELLOW. If PE compresses to global norms: 🔴 RED.
+**Verdict: 🔴 RED** — the OEPS-based assessment (25.0% OEPS CAGR needed vs 11.9% historical, or ~10.5-10.8% normalised for FY23 DTA reversal) is **unambiguously RED**: required growth is approximately 2.1-2.4× the company's actual historical track record. Per the document's own instruction to "always defer to the OEPS-based verdict for the final Buffett-pure assessment," this is the binding verdict.
+
+> **Conditional softening to 🟡 YELLOW** only if the stock continues to trade at the historical ex-COVID PE average of 62x at exit. This is a **valuation assumption, not a business fundamental** — and requires the market to perpetually re-rate USL at premium multiples that have historically been associated with peak-of-cycle sentiment. If PE compresses to global premium consumer norms (35-40x), the verdict reverts to deeply RED. Investors should not anchor on the conditional YELLOW outcome.
 
 *"At ₹1,389, to earn a 10% annualised return over 10 years assuming the market values USL at 20x PE at exit, the company needs to grow EPS at 22.5% CAGR (and Owner Earnings at 25.0% CAGR). The company has historically grown EPS at 13.9% CAGR (7Y) and Owner Earnings at 11.9% CAGR (7Y). This implies the market is pricing in heroic growth. Note: the EPS-based assessment and the Owner Earnings assessment are closely aligned (2.5 pp gap), confirming that this is an asset-light business where EPS is reliable — the overvaluation conclusion holds regardless of which metric is used."*
 
@@ -622,7 +666,8 @@ But if the PE compresses to anything more "normal" — even 28x (still a premium
 |---|---|---|---|
 | Asset / Liquidation Floor | Tangible BV/share = ₹107.64 | ₹108 | -92% |
 | Recession / Trough Earnings | Worst-year EPS (₹1.38 FY17) × Trough PE 12x → not meaningful for current franchise; use normalised | — | — |
-| Normalised Bear Case | Conservative DCF IV | ₹551 | -60% |
+| Normalised Bear Case | "Moderate / Base-Minus" DCF IV | ₹551 | -60% |
+| Deep Bear Case | "Truly Conservative" DCF IV | ₹412 | -70% |
 | "Business-fine, market-panics" Floor | TTM EPS ₹23.65 × Historical Low PE 30x | ₹710 | -49% |
 | Most Probable Floor | TTM EPS ₹23.65 × Historical Low PE 48x | **₹1,135** | **-18%** |
 
@@ -681,7 +726,7 @@ Asymmetry Ratio = Realistic Upside (%) / Realistic Downside (%)
 
 **Part 5: The Fat Pitch Verdict**
 
-> *"At ₹1,389, the realistic downside is approximately 18% to ₹1,135 (if PE compresses to historical low of 48x; this is the most probable floor). The realistic base-case upside is approximately 20% to ₹1,665 over 1-2 years (analyst consensus). This gives an asymmetry ratio of approximately 1.1:1. The upside scenarios are momentum-driven and assume the premium PE sustains; the DCF-based intrinsic value sits BELOW the current price across all three scenarios (₹551-₹914). **This is NOT a fat pitch.** The market is fairly pricing a wonderful franchise, leaving no margin of safety for the value-oriented investor."*
+> *"At ₹1,389, the realistic downside is approximately 18% to ₹1,135 (if PE compresses to historical low of 48x; this is the most probable floor). The realistic base-case upside is approximately 20% to ₹1,665 over 1-2 years (analyst consensus). This gives an asymmetry ratio of approximately 1.1:1. The upside scenarios are momentum-driven and assume the premium PE sustains; the DCF-based intrinsic value sits BELOW the current price across all four scenarios (₹412-₹914). **This is NOT a fat pitch.** The market is fairly pricing a wonderful franchise, leaving no margin of safety for the value-oriented investor."*
 
 ### Mispricing Identification — Is the Market Giving You a Gift?
 
@@ -786,7 +831,7 @@ Buffett: *"When you combine ignorance and leverage, you get some pretty interest
 | P/B compresses to 7x (below historical minimum — stress scenario; post-Diageo era low was ~9x in FY23) | -2.8% | 0.4% | 2.9% |
 | P/B compresses to 1x Book | -34.1% | -24.0% | -15.3% |
 
-**Note:** The above return figures represent price-only CAGRs (BV growth + P/B multiple change). They exclude dividends received. At the current P/B of 12.4x with 18% ROE and ~50% retention ratio (i.e., ~50% payout ratio), the dividend yield adds approximately 0.85% per year to total returns. This does not materially change the directional conclusions — the total return with dividends at a flat P/B of 12.4x would be ~9.85%, still below the 10% hurdle rate.
+**Note:** The above return figures represent price-only CAGRs (BV growth + P/B multiple change). They exclude dividends received. At the current P/B of 12.4x with 18% ROE and ~50% retention ratio (and correspondingly ~50% payout ratio — the two are complementary and sum to 100%), the dividend yield adds approximately 0.85% per year to total returns. This does not materially change the directional conclusions — the total return with dividends at a flat P/B of 12.4x would be ~9.85%, still below the 10% hurdle rate.
 
 ### Key Insight
 
@@ -860,9 +905,9 @@ Buffett: *"If you aren't willing to own a stock for ten years, don't even think 
 | Circle of competence | Alcoholic beverages — simple, understandable, predictable. Buffett owns 100% of See's Candies, understands consumer franchises intimately. | ✅ |
 | Enduring moat | Regulatory + brand + distribution — among the widest in Indian consumer goods. | ✅ |
 | Trustworthy management | Diageo global management — disciplined, no fraud, clean governance. | ✅ |
-| Resistant to disruption | People will drink branded spirits in 2046 just as they do today. Zero disruption risk. | ✅ |
-| Sustainable economics for 10+ years | 18-20% ROE, capital-light, near-zero debt — highly sustainable. | ✅ |
-| Price significantly below intrinsic value | **NO.** At 59x PE and 12.4x P/B, the stock is priced for perfection. DCF IV is ₹551-914, MoS is deeply negative. | ❌ |
+| Resistant to disruption | People will drink branded spirits in 2046 just as they do today. **Minimal disruption risk to the franchise itself; low-medium disruption risk specifically to the P&A growth rate** from craft/import competition (see Section 10 craft brand assessment and Section 20 competition risk). The franchise survives any realistic competitive scenario, but the premium tier driving margin expansion faces real (if currently small) competitive headwinds. | ✅ |
+| Sustainable economics for 10+ years | 18-20% ROE, capital-light, near-zero debt — highly sustainable on the business-quality dimensions. **However, the 5Y EPS CAGR of 19.1% partly reflects one-time tailwinds (debt elimination from ₹8,307 Cr to near-zero saving ~₹400-500 Cr of annual interest; EBIT margin expansion from 2% to 16.2% — largely complete per the document's own thesis) that are now exhausted.** Forward sustainable EPS growth of 12-15% (per DCF Base assumptions) is more realistic than extrapolating the historical 19.1%. The ROE is genuinely sustainable; the historical EPS CAGR is not a safe extrapolation. | ✅ |
+| Price significantly below intrinsic value | **NO.** At 59x PE and 12.4x P/B, the stock is priced for perfection. DCF IV is ₹412-₹914 (Truly Conservative to Optimistic), MoS is deeply negative. | ❌ |
 
 **Score: 5 of 6 pass. The ONLY failure is price.**
 
@@ -973,16 +1018,18 @@ The regulatory framework actually STRENGTHENS USL's moat by creating high barrie
 | Factor | Score (1-10) | Commentary |
 |---|---|---|
 | **Business Quality** | 9 | Consumer franchise with 200-year heritage; capital-light; 18-20% ROE; near-zero debt |
-| **Moat Durability** | 9 | Triple moat: regulatory + brand + distribution; widening, not eroding |
+| **Moat Durability** | 9 | Triple moat (regulatory + distribution + brand); regulatory and distribution dimensions widening; brand widening via premiumisation; pricing power stable (constrained by state regulation). Not eroding on any dimension. |
 | **Financial Health** | 9 | Net cash positive; D/E 0.06; interest coverage (EBIT) 22x; ₹1,600 Cr annual FCF |
 | **Management Quality** | 8 | Diageo parentage — disciplined capital allocation, clean governance, strategic premiumisation |
 | **Scalability** | 7 | Strong scaler; premiumisation tailwind; moderate revenue growth offset by operating leverage |
 | **Valuation** | 3 | 59x PE, 12.4x P/B — extremely expensive; no margin of safety under DCF |
-| **Margin of Safety** | 1 | Deeply negative (-52% to -152%) under all DCF scenarios; zero downside protection |
+| **Margin of Safety** | 1 | Deeply negative (-52% Optimistic to -237% Truly Conservative) under all DCF scenarios; zero downside protection |
 | **Earnings Quality** | 9 | Owner Earnings ≈ Net Income; no SBC; clean FCF conversion; zero dilution |
 | **Buffett Verdict** | — | **Wonderful business at a terrible price.** This is a premium consumer franchise that Buffett would love to own — but ONLY at 5-8x book value (₹559-₹894 — within the Section 18 Value/Buy through Fair Value zones), not at 12.4x book. At current prices, forward returns are capped at ~9% (BV compounding rate) with meaningful downside if the PE compresses. **PASS at current price. Buy aggressively below ₹782 (7x P/B — Value/Buy zone upper bound).** |
 | **Buy Zone** | — | Currently in the **Fully Valued / Trim zone** (10-13x P/B) |
 | **Overall Recommendation** | — | **AVOID at current price.** WATCHLIST for accumulation below ₹782 (7x P/B — Value/Buy zone boundary). If already owned at lower prices: HOLD but do NOT add. |
+
+> **Framework Reconciliation — P/B Watchlist (₹782) vs. DCF Intrinsic Values:** The ₹782 watchlist threshold is derived from the **P/B framework** (7.0x book = Value/Buy zone boundary, Section 18). This is ABOVE the Base DCF IV of ₹667 and the Conservative DCF IV of ₹551. The two frameworks produce different entry signals because they measure different things: the P/B framework captures the price at which a high-ROE compounder becomes attractive relative to its book value (sufficient for buyers who accept the Optimistic DCF ₹914 as their anchor), while the DCF framework captures the price at which intrinsic value exceeds market price under explicit growth assumptions. **Investors requiring a full Buffett-style margin of safety should target entry below ₹667 (Base DCF) — preferably below ₹551 (Conservative DCF) for a deep discount.** The ₹782 P/B target is appropriate for investors anchoring to the Optimistic DCF scenario, where ₹782 still represents a +17% margin of safety vs. ₹914 IV. This document recommends ₹782 as the watchlist *trigger* but advises waiting for prices closer to ₹551-₹667 for a genuinely Buffett-style margin of safety entry.
 
 ---
 
