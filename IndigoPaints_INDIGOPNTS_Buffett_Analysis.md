@@ -64,7 +64,7 @@ All figures in ₹ Crores (Standalone).
 
 > **ᵗ FY23 Tax Rate of 15% is anomalous:** This is well below the standard Indian corporate tax rate of 22-25% and likely reflects a one-time deferred tax reversal or MAT credit utilisation. Normalising FY23 at 25%: NP would be ~₹117 Cr (vs ₹132 Cr reported, ~13% inflation), and FY23 EPS would be ~₹24.4 (vs ₹27.73 reported). This means the FY23 NPM "peak" of 12.3% includes ~1.4 pp of tax benefit; the underlying operating peak NPM was closer to ~10.9%. The 3Y EPS CAGR figure cited in Section 16 ("~20%") is endpoint-driven (FY22→FY25, both having normal tax rates of 26%/25%) and is **not** materially distorted by the FY23 anomaly; the ~19.6% CAGR stands. However, anyone reading the peak NP/NPM figures and extrapolating them should adjust for the tax-driven inflation of FY23.
 
-> **Note on Gross Profit / Gross Margin:** Screener.in does not separately report Gross Profit or Gross Margin for most Indian companies, as COGS is bundled into operating expenses on the consolidated P&L. The Gross Profit and Gross Margin rows above are **approximations sourced from Indigo's annual reports** (raw materials run ~55-58% of sales, implying gross margins in the 42-45% range). Use them as directional indicators of margin trend, not precise figures — Screener does not publish exact COGS line-items. The Operating Profit (pre-D&A) and EBIT rows below are the authoritative profitability metrics for this analysis.
+> **Note on Gross Profit / Gross Margin:** Screener.in does not separately report Gross Profit or Gross Margin for most Indian companies, as COGS is bundled into operating expenses on the consolidated P&L. The Gross Profit and Gross Margin rows above are **approximations sourced from Indigo's annual reports**. The ~42-45% range (raw materials ~55-58% of sales) applies **from FY19 onwards**; FY17-FY18 raw-material intensity was higher (~60% of sales), so gross margins those years were lower — approximately **39.8% (FY17)** and **41.4% (FY18)** — as reflected in the row above. Use these as directional indicators of margin trend, not precise figures — Screener does not publish exact COGS line-items. The Operating Profit (pre-D&A) and EBIT rows below are the authoritative profitability metrics for this analysis.
 
 > **Note on FY19 EPS Growth (+936%):** This appears extreme but reflects mathematical leverage off a tiny ₹0.90 base in FY18. The absolute EPS movement was from ₹0.90 to ₹9.32 — meaningful but not the explosive growth the percentage suggests.
 
@@ -101,13 +101,13 @@ All figures in ₹ Crores (Standalone).
 | Goodwill | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Other Assets | 167 | 201 | 199 | 509 | 442 | 414 | 471 | 451 |
 | **Shareholders' Equity** | 100 | 129 | 179 | 564 | 650 | 777 | 915 | **1,048** |
-| **Total Debt (Borrowings)** | 54 | 88 | 75 | 9 | 12 | 12 | 17 | **20** |
+| **Total Debt (Borrowings)** | 54 | **88** | 75 | **9** | 12 | 12 | 17 | 20 |
 | Other Liabilities | 125 | 156 | 169 | 239 | 258 | 274 | 290 | 290 |
 | **Total Liabilities** | 179 | 244 | 244 | 248 | 270 | 286 | 307 | **310** |
 | **Debt / Equity** | 0.54 | 0.68 | 0.42 | **0.02** | 0.02 | 0.02 | 0.02 | 0.02 |
 | **Debt / EBIT** | 7.7x | 2.4x | 1.1x | **0.1x** | 0.1x | 0.1x | 0.1x | 0.1x |
-| **Net Debt / Owner Earnings** | 4.0x | 2.0x | 1.0x | **-0.5x** | -1.7x | -0.8x | -1.0x | **-1.4x** |
-| **Interest Coverage (EBIT / Int.)** | 1.8x | 7.4x | 11.8x | 24.8x | **105.0x** | 148.0x | 93.5x | 59.3x |
+| **Net Debt / Owner Earnings** | **4.0x** | 2.0x | 1.0x | -0.5x | **-1.7x** | -0.8x | -1.0x | -1.4x |
+| **Interest Coverage (EBIT / Int.)** | **1.8x** | 7.4x | 11.8x | 24.8x | 105.0x | **148.0x** | 93.5x | 59.3x |
 | Net Cash / (Debt) | -39 | -68 | -54 | 41 | 161 | 120 | 171 | **227** |
 | BVPS (₹) | 34.5 | 44.5 | 61.7 | 117.5 | 135.4 | 161.9 | 190.6 | **218.3** |
 | Tangible BV/Share (₹) | 34.5 | 44.5 | 61.7 | 117.5 | 135.4 | 161.9 | 190.6 | 218.3 |
@@ -170,21 +170,23 @@ This is ~15% higher than reported net income, reflecting the difference between 
 | Ratio | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|---|---|---|---|---|
 | ROCE % | **-10** | 5 | 21 | **31** | 25 | 19 | 22 | 23 | 20 |
-| ROE % | -14.1 | 3.0 | 23.6 | **31.2** | 19.1 | 13.8 | 18.5 | 17.6 | **14.7** |
-| ROIC % | N/M | 6 | 18 | **23** | 19 | 15 | 22 | 20 | 17 |
-| Debt/Equity | 0.53 | 0.54 | 0.68 | 0.42 | **0.02** | 0.02 | 0.02 | 0.02 | 0.02 |
-| OPM % (pre-D&A, Screener) | -1 | 6 | 10 | 15 | 17 | 15 | 17 | **19** | 18 |
-| **EBIT Margin %** | **-5.5** | 1.7 | 6.9 | 11.4 | **13.7** | 11.6 | 13.8 | **14.9** | 13.9 |
+| ROE % | **-14.1** | 3.0 | 23.6 | **31.2** | 19.1 | 13.8 | 18.5 | 17.6 | 14.7 |
+| ROIC % | N/M | **6** | 18 | **23** | 19 | 15 | 22 | 20 | 17 |
+| Debt/Equity | 0.53 | 0.54 | **0.68** | 0.42 | **0.02** | 0.02 | 0.02 | 0.02 | 0.02 |
+| OPM % (pre-D&A, Screener) | **-1** | 6 | 10 | 15 | 17 | 15 | 17 | **19** | 18 |
+| **EBIT Margin %** | **-5.5** | 1.7 | 6.9 | 11.4 | 13.7 | 11.6 | 13.8 | **14.9** | 13.9 |
 | NPM % | **-5.5** | 0.7 | 5.0 | 7.7 | 9.8 | 9.3 | **12.3** | 11.9 | 11.3 |
 | Debtor Days | **99** | 92 | 71 | 61 | 61 | 69 | 68 | **59** | 63 |
 | Inventory Days | **107** | 81 | 85 | 87 | 92 | 84 | **72** | 93 | 80 |
 | Cash Conv. Cycle | 16 | 2 | -11 | -9 | **-27** | 10 | 18 | 29 | **54** |
-| Working Capital Days | 9 | 6 | -9 | 0 | 3 | 22 | 25 | **37** | 35 |
-| Current Ratio | 1.41 | 1.34 | 1.29 | 1.18 | 2.13 | 1.71 | 1.51 | 1.62 | 1.56 |
-| Interest Coverage (pre-D&A) | N/M | 6.0x | 10.8x | 15.2x | 30.8x | **136.0x** | 182.0x | 116.5x | 77.3x |
-| Div. Payout % | 0 | 0 | 0 | 0 | 0 | 17 | 13 | 11 | 12 |
+| Working Capital Days | 9 | 6 | **-9** | 0 | 3 | 22 | 25 | **37** | 35 |
+| Current Ratio | 1.41 | 1.34 | 1.29 | **1.18** | **2.13** | 1.71 | 1.51 | 1.62 | 1.56 |
+| Interest Coverage (EBIT/Int.) | N/M | **1.8x** | 7.4x | 11.8x | 24.8x | 105.0x | **148.0x** | 93.5x | 59.3x |
+| Div. Payout % | 0 | 0 | 0 | 0 | 0 | **17** | 13 | 11 | 12 |
 
 > *Note on ROCE source: ROCE values are sourced from Screener.in, which computes ROCE as EBIT / (Total Assets − Current Liabilities) on a year-end basis. Section 3 of this document does not break out current vs non-current liabilities separately (all non-debt liabilities are grouped as "Other Liabilities"), so the ROCE figures cannot be independently recomputed from the data shown here. They are however internally consistent between Sections 5 and 9 (all 8 years match) and broadly track the ROCE pattern implied by EBIT margin and asset turnover trends.*
+
+> *Note on interest coverage basis: the row above now uses the framework-preferred **EBIT/Interest** (EBIT = Screener Operating Profit − D&A), consistent with §3 (FY25: 59.3x). For reference, the pre-D&A (EBITDA/Interest) version is higher — FY25: 77.3x, with the FY22–FY24 figures at 136.0x / 182.0x / 116.5x — because it does not charge depreciation before covering interest. Both bases confirm the same conclusion: interest is covered dozens of times over, so leverage risk is negligible. FY17 is N/M (not meaningful) because EBIT was negative that year.*
 
 ### Part B: Buffett's Quality Checklist
 
@@ -194,7 +196,7 @@ This is ~15% higher than reported net income, reflecting the difference between 
 | ROCE > 15% | >15% | 22% (5Y avg FY21-25) | ✅ Pass — strong operating returns |
 | ROIC > 15% | >15% | ~19% (5Y avg FY21-25) | ✅ Pass — high incremental returns on invested capital |
 | Debt/Equity < 0.5 | <0.5 | 0.02 | ✅ Pass — virtually debt-free |
-| Consistent profit growth | Growing | 25% CAGR 5Y | ✅ Pass — strong, but FY25 declined |
+| Consistent profit growth | Growing | 25% CAGR 5Y (FY20→FY25 NP) | ✅ Pass — strong over the window, but FY25 grew just 1.8%; the CAGR is endpoint-driven and front-loaded into FY20-FY24 |
 | Sales growth | Growing | 15% CAGR 5Y | ⚠️ Decelerating sharply (1.8% in FY25) |
 | Positive Free Cash Flow | Positive | ₹30 Cr (FY25) | ⚠️ Positive but thin (2.3% FCF margin) |
 | Promoter/Insider holding | Aligned | 53.9% | ✅ Pass — strong promoter stake |
@@ -300,6 +302,8 @@ The **genuine DII accumulation** — which IS a meaningful signal — is the tre
 > 3. **Asset-light distribution model:** Unlike Asian Paints (heavy automation, robotic warehouses), Indigo's distribution is dealer-based, requiring minimal proprietary capex. The 60% figure (vs. 75-80% typical for mature businesses) appropriately reflects that depreciation overstates true maintenance requirements during this growth phase.
 >
 > Sensitivity: If true maintenance capex is 80% of D&A (more conservative), FY25 OE drops to ₹155 Cr (₹32/share, P/OE 26.2x). If 40% (more aggressive), OE rises to ₹176 Cr (₹37/share, P/OE 22.6x). The 60% midpoint is defensible for Indigo's current growth stage.
+>
+> **Caveat — defensive capex under competitive pressure:** The maintenance/growth split treats all above-maintenance spending as discretionary *growth* capex (which, being optional, is excluded from Owner Earnings). But under an active competitive assault from Birla Opus, some spending labelled "growth" — accelerated dealer-network expansion, faster SKU refresh, brand/advertising-linked capex — is arguably *defensive*: it is required merely to *retain* existing share, not to expand. To the extent that is true, the genuine maintenance burden is higher than 60% of D&A, and Owner Earnings (and hence every DCF IV in §15) is modestly *overstated*. This is not quantifiable from disclosed data, but it biases the OE figure optimistically — a further reason the grounded Base (₹929) should be treated as a ceiling on "fair," not a floor.
 
 **SBC & Share Dilution:** Indigo Paints has negligible stock-based compensation. There are no material ESOPs, buyback programmes, or share dilution post-IPO. The diluted share count has remained flat at 4.8 Cr since FY21. This means Base Owner Earnings = Dilution-Adjusted Owner Earnings. The SBC Treadmill analysis is not applicable — this is a clean Indian company with no SBC distortion. 🟢
 
@@ -307,7 +311,7 @@ The **genuine DII accumulation** — which IS a meaningful signal — is the tre
 
 The company is in a **heavy growth capex phase**. The massive ₹318 Cr investment in FY21 (funded by IPO proceeds) and ongoing ₹143-175 Cr annual capex in FY24-25 are building new manufacturing capacity. The Jodhpur plant expansion (solvent-based + water-based + powder) represents the next leg of capacity that should support revenue growth over FY26-FY28.
 
-Owner Earnings of ₹166 Cr in FY25 (₹34.6/share) are ~15% above reported net profit — reflecting the difference between D&A charges and true maintenance capital needs. The P/Owner Earnings ratio is 837/34.6 = **24.2x**, which is modestly cheaper than the P/E of 27.5x.
+Owner Earnings of ₹166 Cr in FY25 (₹34.6/share on rounded table values; ₹34.5 exact) are ~15% above reported net profit — reflecting the difference between D&A charges and true maintenance capital needs. The P/Owner Earnings ratio is 837/34.6 = **24.2x** on the rounded figure (24.3x on the exact ₹34.5 OEPS used in §14/§16), modestly cheaper than the P/E of 27.5x.
 
 > *Note: The table above uses rounded values (₹ Cr to whole numbers). The exact OE used for DCF in Section 15 is ₹165.6 Cr (₹34.5/share), calculated with unrounded maintenance capex of ₹32.4 Cr.*
 
@@ -327,7 +331,7 @@ Owner Earnings of ₹166 Cr in FY25 (₹34.6/share) are ~15% above reported net 
 | Asset Turnover | 1.56 | 1.64 | **1.57** | 1.17 | 1.05 | 1.08 | 1.10 | 0.99 |
 | Equity Multiplier | 2.79 | 2.89 | 2.58 | **1.66** | 1.43 | 1.39 | 1.35 | 1.31 |
 
-> *Note on Equity Multiplier methodology: EM values follow a **mixed convention dictated by data availability**. From FY20 onwards, EM uses the textbook **average balance sheet** convention: EM = [(Assets_t + Assets_{t-1})/2] ÷ [(Equity_t + Equity_{t-1})/2] — verifiable from the §3 table (e.g., FY25: (1358+1222)/(1048+915) = 1.31; FY20: (422+373)/(179+129) = 2.58). This is the same averaging convention used for ROE and ROA, which is why NPM × AT × EM = ROE reconciles cleanly for FY20–FY25. For **FY18 and FY19, the EM falls back to year-end** (FY18: 279/100 = 2.79; FY19: 373/129 = 2.89) because §3 does not display the FY16/FY17 balance sheet figures required for averaging. The averaging-based EM for FY19 would be (373+279)/(129+100) = 2.85 (a 0.04x difference, immaterial to trend interpretation). This mixed convention reflects the underlying Screener.in data limitation, not an analytical inconsistency.*
+> *Note on Equity Multiplier methodology: EM values follow a **mixed convention dictated by data availability**. From FY20 onwards, EM uses the textbook **average balance sheet** convention: EM = [(Assets_t + Assets_{t-1})/2] ÷ [(Equity_t + Equity_{t-1})/2] — verifiable from the §3 table (e.g., FY25: (1358+1222)/(1048+915) = 1.31; FY20: (422+373)/(179+129) = 2.58). This is the same averaging convention used for ROE and ROA, which is why NPM × AT × EM = ROE reconciles cleanly for FY20–FY25. For **FY18 and FY19, the EM falls back to year-end** (FY18: 279/100 = 2.79; FY19: 373/129 = 2.89) because §3 does not display the FY16/FY17 balance sheet figures required for averaging. The averaging-based EM for FY19 would be (373+279)/(129+100) = 2.85 (a 0.04x difference, immaterial to trend interpretation). This mixed convention reflects the underlying Screener.in data limitation, not an analytical inconsistency. The same applies to the FY19 ROA in the table above: it uses average assets (27/((373+279)/2) ≈ 8.3%) whereas FY18 falls back to year-end (3/279 ≈ 1.1%) for want of the FY16/FY17 balance sheet — a single-year, ~1 pp convention difference with no bearing on the trend or any conclusion.*
 
 **DuPont Analysis (FY20-FY25):**
 
@@ -343,6 +347,8 @@ Owner Earnings of ₹166 Cr in FY25 (₹34.6/share) are ~15% above reported net 
 > *Note: DuPont ROE (NPM × AT × EM) may show minor differences (±0.2%) from the directly calculated ROE in Section 5 due to rounding in each component. For example, FY22 DuPont gives 14.0% vs. direct calculation of 13.8%, and FY24 gives 17.7% vs. 17.6%. The direct ROE figures in Section 5 are the authoritative values.*
 
 **Critical Insight:** The ROE decline from 31% in FY20 to 14.7% in FY25 is **dominantly driven by the drop in Equity Multiplier** (from 2.58x to 1.31x — accounting for ~93% of the decline when isolated first) which happened because the IPO injected massive equity capital while deleveraging the balance sheet — this is actually a POSITIVE sign: the company went from leverage-driven ROE to margin-driven ROE. **However, the Asset Turnover decline (from 1.57x to 0.99x) is also a material contributor** — accounting for ~70% of the decline when isolated first (DuPont decomposition is order-dependent, so both figures coexist). Unlike the benign EM decline (a one-time consequence of the IPO that won't repeat), the AT decline reflects real operational inefficiency as new plant capacity has not yet generated proportional revenue. This is the genuine concern flagged in §17. Once the new Jodhpur capacity ramps up, asset turnover should improve.
+
+> *Attribution calculation (ceteris-paribus / "isolated first" method): Total ROE decline FY20→FY25 = 31.2% − 14.7% = 16.5 pp. Changing **only EM** (2.58→1.31, holding NPM and AT at FY20 levels) drops ROE to 15.8% — a 15.4 pp effect = **93%** of the decline. Changing **only AT** (1.57→0.99) drops ROE to 19.7% — an 11.5 pp effect = **70%**. These exceed 100% combined because rising NPM (7.7%→11.3%) offsets ~88% in the other direction, and there are interaction terms. Both the 93% and 70% figures are therefore correct under this method; they coexist precisely because DuPont decomposition is order-dependent and the factors interact.*
 
 **ROCE vs. ROE:** ROCE (20%) exceeds ROE (14.7%), confirming that the underlying business engine is strong — the gap is explained by taxes, not leverage. This is the healthy pattern.
 
@@ -385,7 +391,7 @@ The moat is **narrow and potentially eroding**. Indigo's category-creation advan
 
 **Susceptibility to Change:**
 
-Decorative paints is a remarkably stable business. The basic product hasn't changed fundamentally in decades. Houses will need painting for the foreseeable future. There is no existential technology disruption risk. Buffett would appreciate this absence of change. The risk is competitive, not technological — and competitive risk in a growing market is more manageable than disruption risk.
+Decorative paints is a remarkably stable business. The basic product hasn't changed fundamentally in decades. Houses will need painting for the foreseeable future. There is no *existential* technology disruption risk — no substitute for paint exists. Buffett would appreciate this absence of change. That said, the claim should be qualified: digital colour-matching tools, online paint retail, and direct-to-consumer apps are slowly changing how paint is *chosen and bought*, and these directionally erode the dealer-relationship moat that incumbents (and Indigo) rely on — a larger, better-capitalised player can deploy these tools faster. So the disruption risk to the *product* is negligible, but the disruption risk to the *distribution moat* is low-but-non-zero and favours scale players. The dominant risk remains competitive, not technological — and competitive risk in a growing market is more manageable than disruption risk.
 
 > *"We do not get enthused about change, with a few exceptions, as a way to make a lot of money. We're looking for the absence of change to protect ways that are already making a lot of money."* — Buffett
 
@@ -465,11 +471,13 @@ The "land and expand" potential is real but moderate — these are not the kind 
 |---|---|---|---|
 | 9-10 | Elite Scaling Machine | Coca-Cola (1988), Apple (2016) | No |
 | 7-8 | Strong Scaler | GEICO, American Express | No |
-| 5-6 | **Moderate Scaler** | **Kraft Heinz** — can grow but requires proportional capital | **✅ Indigo fits here** |
+| 5-6 | **Moderate Scaler** | **Asian Paints circa FY06** — capital-intensive mid-growth, national scaling, large runway ahead | **✅ Indigo fits here** |
 | 3-4 | Scaling Friction | IBM | No |
-| 1-2 | Anti-Scaler / Saturated | Newspaper industry | No |
+| 1-2 | Anti-Scaler / Saturated | Newspaper industry, **mature Kraft Heinz** | No |
 
-Buffett: *"Time is the friend of the wonderful business, the enemy of the mediocre."* A Moderate Scaler like Indigo benefits from time, but not at the magical compounding rate of a truly elite business. The TAM is large, but converting that TAM into Indigo's revenue requires building plants, dealer relationships, and brand awareness against well-funded competitors. Each rupee of growth costs roughly a rupee of capital — sound economics, but no scaling magic.
+> **Why Asian Paints (FY06), not Kraft Heinz, is the right analogy:** A "Moderate Scaler" here means *capital-intensive growth with a long runway* — NOT a saturated, no-growth business. Kraft Heinz is genuinely saturated: mature category, near-zero growth, declining brand relevance, no TAM runway. Indigo is the opposite on runway — it has ~1.5% share of an ₹80,000 Cr+ market (a ~63x penetration runway) and growing adjacencies. The "Moderate" label reflects Indigo's *capital intensity* (each rupee of growth needs roughly a rupee of capital) and its *current execution challenge* against Birla Opus — NOT a saturated opportunity. The honest framing: Indigo has the runway of an early-stage Asian Paints but must prove it can convert that runway into revenue against far better-funded competitors. The opportunity is large; the execution is the question.
+
+Buffett: *"Time is the friend of the wonderful business, the enemy of the mediocre."* A Moderate Scaler like Indigo benefits from time *if it executes*, but not at the magical compounding rate of a truly elite business. The TAM is large (unlike Kraft Heinz), but converting that TAM into Indigo's revenue requires building plants, dealer relationships, and brand awareness against well-funded competitors. Each rupee of growth costs roughly a rupee of capital — sound economics, but no scaling magic, and the FY25 deceleration shows the conversion is not guaranteed.
 
 ---
 
@@ -487,18 +495,23 @@ Buffett: *"Time is the friend of the wonderful business, the enemy of the medioc
 | Market Value Change | **-₹5,582 Cr** |
 | Value Created per ₹1 Retained | **-₹12.57** |
 
-The $1 test **fails spectacularly** — for every ₹1 retained, the market has destroyed ₹12.57 of value. However, this is primarily a function of the **massively overpriced IPO** (listed at ₹2,607 against BVPS of ~₹118 — a P/B of 22x) rather than poor management capital allocation. The stock was priced for perfection at listing, and the subsequent 75% decline reflects a normalisation of expectations, not a failure of the underlying business.
+The $1 test **fails spectacularly** — for every ₹1 retained, the market has destroyed ₹12.57 of value. Most of this reflects the **massively overpriced IPO** (listed at ₹2,607 against BVPS of ~₹118 — a P/B of 22x), which management cannot be blamed for: the subsequent 75% decline is largely a normalisation of an absurd listing valuation, not evidence of value destruction by management.
+
+But the exoneration must be only partial, because the $1 test conflates two distinct questions:
+
+1. **Why did the stock decline?** → IPO overvaluation normalising. Legitimate — management does not control the listing price. ✅ Not a management failure.
+2. **Have post-IPO capital allocation decisions created value?** → **Not yet evidenced.** The ₹300+ Cr Jodhpur capacity investment has not yet produced proportional revenue (FY25 revenue grew just 1.8%), and asset turnover *declined* from 1.57x (FY20) to 0.99x (FY25). Capital has been deployed into capacity; the return on that capital is currently **unverified**, pending the FY26–FY28 revenue ramp. ⚠️ Verdict pending.
 
 If we measure management by operating metrics rather than market price:
-- Revenue grew 41% from ₹906 Cr (FY22) to ₹1,277 Cr (FY25)
+- Revenue grew 41% from ₹906 Cr (FY22) to ₹1,277 Cr (FY25) — though almost all of that growth was FY22–FY24; FY25 added just 1.8%
 - Pre-D&A operating margins expanded from 15% to 18% (EBIT margins from 12% to 14%)
 - Balance sheet remained debt-free
-- New manufacturing capacity being built (Jodhpur plant)
+- New manufacturing capacity being built (Jodhpur plant) — but utilisation/return is unproven
 - No questionable acquisitions or related-party transactions
 
 > *"When management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact."* — Buffett
 
-The management is competent and honest. The $1 test failure is a valuation issue (the stock was absurdly overvalued), not a management quality issue.
+**Honest framing:** Management is competent and honest, and the bulk of the $1 test failure is IPO-valuation normalisation, not capital misallocation. However, the verdict on the most consequential recent capital allocation decision — the Jodhpur capacity expansion — is **not yet in.** It depends entirely on whether FY26–FY28 revenue materialises to fill that capacity. The declining asset turnover is a yellow flag that this capital has not yet earned its keep. Capital allocation quality here is currently **unverified — not yet rewarded, but also not yet proven sound.**
 
 **Recent Management Changes:** No recent senior management changes — Hemant Jalan has led the company as founder-MD since incorporation (2000). The CFO, COO, and senior leadership team have been stable. Stability of senior management is a quiet but important Buffett indicator: it signals organisational continuity and absence of board-driven turmoil.
 
@@ -518,7 +531,9 @@ The management is competent and honest. The $1 test failure is a valuation issue
 | Category-Creator Products | ~8-10 | ~10 | ~10+ | ~10+ | ~10+ | ~10+ |
 | Differentiated Product Market Share | 80-90% | 80-90% | 80-90% | 80-90% | 80-90% | 80-90% (claimed) |
 
-The operational fundamentals show steady distribution expansion (dealer network growing from ~15,000 to ~27,000+) but the revenue growth has not kept pace with distribution growth — suggesting either lower per-dealer productivity or competitive pressure reducing wallet share at existing dealers.
+> *Note on the static 80-90% niche-share figure: this is a management-claimed figure repeated across years and is **not independently reconciled** with the FY25 revenue deceleration (1.8% vs. 8-10% industry). Two readings are possible and the document cannot definitively distinguish them from disclosed data: (a) **niche share is genuinely stable** but the slowdown comes from the larger *commodity-adjacent* portion of Indigo's portfolio underperforming as Birla Opus competes on price — in which case the differentiated moat is intact but is a smaller share of revenue than the headline suggests; or (b) **the niche share itself is beginning to erode** as larger players replicate the category-creating products, and the "80-90%" is a stale claim. The truth matters for the moat thesis, but Indigo does not disclose segment-level revenue to settle it. Treat the 80-90% as an unverified management claim, not an audited fact.*
+
+The operational fundamentals show steady distribution expansion (dealer network growing from ~15,000 to ~27,000+, roughly +80% FY20→FY25) alongside revenue growth of ~104% over the same period (₹625 Cr → ₹1,277 Cr). Since revenue grew *faster* than the dealer count, per-dealer productivity has been **flat-to-improving**, not declining — the earlier concern was the FY25 *single-year* deceleration (revenue +1.8%), which reflects competitive pressure on incremental wallet share at the margin, not a structural fall in dealer productivity over the period. The genuine question is whether the newest dealers can be activated to the productivity of established ones as Birla Opus competes for the same shelf space.
 
 ---
 
@@ -526,7 +541,7 @@ The operational fundamentals show steady distribution expansion (dealer network 
 
 | Metric | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current |
 |---|---|---|---|---|---|---|---|
-| **P/Owner Earnings (primary Buffett-pure multiple)** | — | — | — | — | — | — | **24.2x** |
+| **P/Owner Earnings (primary Buffett-pure multiple)** | — | — | — | — | — | — | **24.3x** |
 | **Owner Earnings Yield (OEPS / CMP)** | — | — | — | — | — | — | **4.1%** |
 | EPS (₹) | 16.48 | 14.89 | 17.67 | 27.73 | 31.22 | 30.22 | 30.41 (TTM) |
 | BVPS (₹) | 61.7 | 117.5 | 135.4 | 161.9 | 190.6 | 218.3 | ~218.3 |
@@ -560,11 +575,13 @@ Fair P/B = (0.15 - 0.10) / (0.11 - 0.10) = 0.05 / 0.01 = 5.0x
 
 At a Fair P/B of ~5.0x (which assumes 15% ROE is sustained), the stock at 3.83x appears **undervalued relative to its justified multiple** — if the ROE holds.
 
+> *Caveat: this Fair P/B is sensitive to the assumed perpetual growth rate. The g = 10% used here is higher than any of the §15 DCF terminal growth rates (3–5%), and because the denominator (CoE − g) is so small, a high g inflates the theoretical multiple. At a DCF-consistent g of 4%, the formula gives (0.15 − 0.04)/(0.11 − 0.04) = 1.6x — far below where the stock trades. The 5.0x figure is therefore best read as illustrative of "what a 15%-ROE perpetual compounder could justify," not a hard target; the §17 P/B scenario analysis (which tests a range of exit multiples explicitly) is the primary P/B framework.*
+
 ---
 
 ## 15. INTRINSIC VALUE & MARGIN OF SAFETY
 
-### Three-Scenario DCF (Standard Mode)
+### Multi-Scenario DCF (Standard Mode)
 
 **Starting Owner Earnings:** ₹165.6 Cr (₹34.5/share)  
 **Discount Rate:** 10% (Buffett's flat hurdle rate — explicitly NOT WACC, per Buffett's own valuation discipline)  
@@ -573,69 +590,84 @@ At a Fair P/B of ~5.0x (which assumes 15% ROE is sustained), the stock at 3.83x 
 
 > **Why Base Owner Earnings (not Dilution-Adjusted):** Indigo Paints has zero stock-based compensation and zero active buyback programmes. The diluted share count has been flat at 4.8 Cr since the IPO (FY21). Base OE = Dilution-Adjusted OE for this company. This choice is explicitly justified in Section 8.
 
-#### Full DCF Breakdown — Base Case (illustrative; same structure applies to Conservative and Optimistic)
+#### Full DCF Breakdown — Base Case (illustrative; same structure applies to every scenario)
 
-**Phase 1 (Years 1-5): Growth at 15% p.a.**
+> **Why 10%/8% is the Base (not 15%/10%):** The Base case must be grounded in the *current* competitive reality, not the pre-competition historical average. Section 10 concludes the moat is "narrow and potentially eroding," with Birla Opus "already" taking share. The FY23→FY25 OE CAGR was ~6.7% and FY25 OE growth was −0.6%. A Base case of 10%/8% assumes a *partial* recovery — new Jodhpur capacity contributes and Indigo claws back modest share — without assuming a full return to the 15%+ growth of the pre-Birla era. Using the old 15%/10% as "Base" would be mean-reversion optimism that contradicts the moat analysis (see the scenario ladder below, where 15%/10% is correctly labelled "Strong Recovery").
 
-| Year | OE (₹ Cr) | Discount Factor (10%) | PV (₹ Cr) |
-|---|---|---|---|
-| 1 | 190 | 0.909 | 173 |
-| 2 | 219 | 0.826 | 181 |
-| 3 | 252 | 0.751 | 189 |
-| 4 | 290 | 0.683 | 198 |
-| 5 | 333 | 0.621 | 207 |
-| **PV Phase 1** | | | **₹948 Cr** |
-
-**Phase 2 (Years 6-10): Growth at 10% p.a.**
+**Phase 1 (Years 1-5): Growth at 10% p.a.**
 
 | Year | OE (₹ Cr) | Discount Factor (10%) | PV (₹ Cr) |
 |---|---|---|---|
-| 6 | 366 | 0.564 | 207 |
-| 7 | 403 | 0.513 | 207 |
-| 8 | 443 | 0.467 | 207 |
-| 9 | 488 | 0.424 | 207 |
-| 10 | 536 | 0.386 | 207 |
-| **PV Phase 2** | | | **₹1,034 Cr** |
+| 1 | 182 | 0.909 | 166 |
+| 2 | 200 | 0.826 | 166 |
+| 3 | 220 | 0.751 | 166 |
+| 4 | 242 | 0.683 | 166 |
+| 5 | 267 | 0.621 | 166 |
+| **PV Phase 1** | | | **₹828 Cr** |
+
+**Phase 2 (Years 6-10): Growth at 8% p.a.**
+
+| Year | OE (₹ Cr) | Discount Factor (10%) | PV (₹ Cr) |
+|---|---|---|---|
+| 6 | 288 | 0.564 | 163 |
+| 7 | 311 | 0.513 | 160 |
+| 8 | 336 | 0.467 | 157 |
+| 9 | 363 | 0.424 | 154 |
+| 10 | 392 | 0.386 | 151 |
+| **PV Phase 2** | | | **₹784 Cr** |
 
 **Terminal Value (Year 10+, Gordon Growth at 4%):**
-- Year 10 OE: ₹536.4 Cr → Year 11 OE: ₹536.4 × 1.04 = ₹557.9 Cr
-- TV (undiscounted) = ₹557.9 / (0.10 − 0.04) = **₹9,298 Cr**
-- PV of TV = ₹9,298 / 1.10¹⁰ = **₹3,585 Cr**
+- Year 10 OE: ₹391.9 Cr → Year 11 OE: ₹391.9 × 1.04 = ₹407.5 Cr
+- TV (undiscounted) = ₹407.5 / (0.10 − 0.04) = **₹6,792 Cr**
+- PV of TV = ₹6,792 / 1.10¹⁰ = **₹2,619 Cr**
 
-> *Note: Intermediate values shown above use one decimal place for arithmetic transparency. The PV of TV (₹3,585 Cr) and IV/share (₹1,207) are computed from the exact, unrounded calculation chain. Reconciliation tolerance ±₹10 Cr.*
+> *Note: Intermediate values shown above use rounded figures for arithmetic transparency. The per-year PV entries in Phase 1 each display as ₹166 Cr (the exact value is ₹165.6 Cr, since 10% growth exactly offsets the 10% discount), so the displayed column appears to sum to ₹830 Cr while the **exact** Phase 1 total is 5 × ₹165.6 = **₹828 Cr** — the stated figure. Likewise the Phase 2 displayed rows sum to ₹785 Cr versus the exact ₹783.9 Cr (stated as ₹784 Cr). The PV of TV (₹2,619 Cr) and IV/share (₹929) are computed from the exact, unrounded calculation chain throughout; the small display-vs-exact gaps (±₹1-2 Cr) are rounding artefacts with no effect on any intrinsic value. Reconciliation tolerance ±₹10 Cr.*
 
 **Equity Bridge:**
-- Total Enterprise Value = PV Phase 1 + PV Phase 2 + PV TV = 948 + 1,034 + 3,585 = **₹5,567 Cr**
+- Total Enterprise Value = PV Phase 1 + PV Phase 2 + PV TV = 828 + 784 + 2,619 = **₹4,231 Cr**
 - Add: Cash & Investments = ₹247 Cr
 - Less: Total Debt = ₹20 Cr
-- **Equity Intrinsic Value = ₹5,794 Cr**
+- **Equity Intrinsic Value = ₹4,458 Cr**
 - Diluted Shares = 4.8 Cr
-- **Intrinsic Value Per Share = ₹1,207**
-- **Margin of Safety = (1,207 − 837) / 1,207 = 30.7%**
-- Upside from CMP = (1,207 − 837) / 837 = 44.2%
+- **Intrinsic Value Per Share = ₹929**
+- **Margin of Safety = (929 − 837) / 929 = 9.9%**
+- Upside from CMP = (929 − 837) / 837 = 11.0%
 
-#### Summary Table — All Four Scenarios
 
-| Scenario | Yr 1-5 Growth | Yr 6-10 Growth | Terminal Growth | PV Phase 1 | PV Phase 2 | PV TV | Equity IV | IV/Share | MoS | Upside |
-|---|---|---|---|---|---|---|---|---|---|---|
-| **Bear** | 4% | 3% | 3% | ₹702 Cr | ₹516 Cr | ₹1,325 Cr | ₹2,770 Cr | **₹577** | **-45.1%** ⁂ | -31.1% |
-| **Conservative** | 12% | 8% | 4% | ₹874 Cr | ₹858 Cr | ₹2,866 Cr | ₹4,825 Cr | **₹1,005** | **16.7%** | 20.1% |
-| **Base** | 15% | 10% | 4% | ₹948 Cr | ₹1,034 Cr | ₹3,585 Cr | ₹5,794 Cr | **₹1,207** | **30.7%** | 44.2% |
-| **Optimistic** | 18% | 12% | 5% | ₹1,027 Cr | ₹1,242 Cr | ₹5,406 Cr | ₹7,902 Cr | **₹1,646** | **49.2%** | 96.7% |
+#### Summary Table — Full Scenario Ladder (Seven Scenarios)
 
-⁂ *Negative MoS in the Bear scenario means the current price (₹837) EXCEEDS the intrinsic value (₹577) — i.e., at this growth path, the stock has -31% downside risk, not upside. This is the explicit "what if things go WRONG" scenario.*
+> **Labelling philosophy:** Scenario labels are anchored to the *current* competitive trajectory (FY25 OE −0.6%; FY23→FY25 OE CAGR ~6.7%; moat "narrow and eroding" per §10), NOT to the pre-Birla-Opus historical average. The "recovery" scenarios are explicitly named as such — they require the business to *reverse* its current deceleration, which is a thesis to be proven, not a base assumption. The Genuine Bear is the honest downside floor and sits in the table, not in a footnote.
+>
+> *Note on the 6.7% figure: the FY23→FY25 OE CAGR is precisely ~6.5-6.6% (₹146 Cr → ₹166 Cr over 2 years = 6.6%); it is rounded to ~6.7% throughout this document for readability. The 0.1 pp difference is immaterial to any scenario or conclusion.*
 
-**Growth Rate Justification:**
-- **Bear 4%/3% (NEW — genuine downside scenario):** Reflects the *current* trajectory continuing — FY25 revenue grew just 1.8% and OE was flat (-0.6% YoY). The 4%/3% assumption is *generous* relative to current performance and roughly matches industry-level growth if Indigo's narrow moat erodes against Birla Opus, JSW, and Asian Paints' niche retaliation. Terminal 3% ≈ India long-term real GDP growth. This is the capital-preservation scenario. **For comparison, a Deep Bear at 2% sustained (current run-rate) yields IV ≈ ₹487 — implying ~42% downside from ₹837.**
-- **Conservative 12%/8%:** Below the 5Y historical revenue CAGR of 15% and 5Y EPS CAGR of ~13%. Assumes the FY25 deceleration is *temporary* — new Jodhpur capacity, normalising raw material costs, and stabilising competitive dynamics drive a modest growth recovery. Terminal 4% ≈ India long-term inflation. This is the "growth recovers somewhat" scenario, NOT a true bear case.
-- **Base 15%/10%:** In line with 5Y historical revenue CAGR. Assumes new Jodhpur capacity drives a fuller growth re-acceleration as competitive pressure stabilises.
-- **Optimistic 18%/12%:** Approaches the 3Y EPS CAGR of ~20% (FY22→FY25 — note that FY23's anomalous 15% tax rate inflates the *path* but not the *endpoints*; the CAGR itself is undistorted). Requires successful capacity ramp AND share gain. Not the base case given current 1.8% revenue growth.
+| Scenario | Yr 1-5 Growth | Yr 6-10 Growth | Terminal | Equity IV | IV/Share | MoS | Upside |
+|---|---|---|---|---|---|---|---|
+| **Genuine Bear** | 0% | 3% | 3% | ₹2,368 Cr | **₹493** | **-69.8%** ⁂ | -41.1% |
+| **Subdued Growth** | 4% | 3% | 3% | ₹2,770 Cr | **₹577** | **-45.1%** | -31.1% |
+| **Conservative** | 7% | 6% | 4% | ₹3,714 Cr | **₹774** | **-8.1%** | -7.5% |
+| **Base** | 10% | 8% | 4% | ₹4,458 Cr | **₹929** | **+9.9%** | +11.0% |
+| **Recovery** | 12% | 8% | 4% | ₹4,825 Cr | **₹1,005** | **+16.7%** | +20.1% |
+| **Strong Recovery** | 15% | 10% | 4% | ₹5,794 Cr | **₹1,207** | **+30.7%** | +44.2% |
+| **Bull** | 18% | 12% | 5% | ₹7,902 Cr | **₹1,646** | **+49.2%** | +96.7% |
+
+⁂ *Negative MoS means the current price (₹837) EXCEEDS intrinsic value — the stock is overvalued in that scenario. In the Genuine Bear, ₹837 is 70% above IV (₹493); even at the recommended ₹650 Value-zone entry, the Genuine Bear implies −24% downside. This is the honest "what if the deceleration is structural" floor.*
+
+**Growth Rate Justification (each grounded in evidence, not aspiration):**
+- **Genuine Bear (0%/3%):** OE stays flat for 5 years — only *slightly* worse than FY25's actual −0.6% — then a tepid 3% recovery as the category grows. This is what happens if Birla Opus permanently caps Indigo's pricing and share. IV ₹493. *This is the true downside floor and the most important number for capital-preservation thinking.*
+- **Subdued Growth (4%/3%):** The current ~2–4% trajectory persists with a marginal uptick. Still leaves the stock 45% overvalued at ₹837. IV ₹577.
+- **Conservative (7%/6%):** Matches the **actual** FY23→FY25 OE CAGR of 6.7% — i.e., assumes the *recent* (post-competition) trend continues, neither worsening nor recovering. IV ₹774 → −8% MoS, showing the stock is slightly overvalued on a genuinely conservative (trend-continuation) basis.
+- **Base (10%/8%):** A *partial* recovery — new Jodhpur capacity contributes and Indigo regains modest share, but growth stays well below the pre-Birla 15%+ era because the moat analysis says the competitive environment has structurally changed. IV ₹929 → only +10% MoS. **This is an *optimistic-central* case, not the modal-most-likely outcome.** Given the eroding moat (§10) and the fact that §22 notes new capacity provides *supply, not demand*, trend-continuation (the Conservative case, 7%/6%) may be the more defensible modal scenario. The probable weight within the Conservative-to-Base band likely sits closer to the Conservative end (₹774) absent clear evidence of demand recovery — so the honest central estimate skews toward "fairly-valued-to-modestly-overvalued," not undervalued.
+- **Recovery (12%/8%):** Competitive pressure stabilises and Indigo recovers toward low-teens growth. Requires Birla Opus's assault to plateau. IV ₹1,005. *A recovery thesis, not a base assumption.*
+- **Strong Recovery (15%/10%):** Growth returns to the pre-competition 5Y historical CAGR of 15%. This assumes the moat fully holds and the FY25 deceleration was cyclical, not structural — which contradicts §10. IV ₹1,207. *This is the old "Base" — now correctly labelled as the recovery thesis it always was.*
+- **Bull (18%/12%):** Full capacity ramp plus genuine share gains against the incumbents. Approaches the FY22→FY25 3Y EPS CAGR of ~20%. IV ₹1,646. *Requires Indigo to win the competitive war outright.*
 
 **Summary:**
 
-The four-scenario range is wide: from ₹577 (Bear, −31% downside) to ₹1,646 (Optimistic, +97% upside), with Base at ₹1,207 (+44%) and Conservative at ₹1,005 (+20%). The Bear case is the single most important reality check — at the current trajectory of near-zero OE growth, intrinsic value drops below the current market price, implying meaningful capital loss risk. The "Conservative" label is therefore misleading on its own; Conservative still assumes growth recovery and produces 17% MoS. **The genuine bear case shows -45% MoS — this is what's at stake if the growth deceleration is structural rather than cyclical.**
+The honest reading: the **probable-outcome band is the Conservative-to-Base range (₹774–₹929), which straddles the current price of ₹837** — and, given the eroding moat, the probability weight within that band sits closer to the Conservative (₹774) end than the Base (₹929) end. The stock is therefore **roughly fairly valued to modestly overvalued** at ₹837 — not the +31% undervalued that the old "Base" (15%/10%, ₹1,207) implied. That old figure assumed a return to pre-competition growth and is now correctly labelled "Strong Recovery" — an upside thesis, not a base case.
 
-The thesis hinges entirely on whether growth re-accelerates from FY25's 1.8% (toward 12-15%) as new capacity comes online and competitive pressures stabilise. If yes, Conservative/Base/Optimistic apply. If no, the Bear case is the relevant valuation — and the stock should be ₹500-600, not ₹837.
+The downside is real and material: the Genuine Bear (₹493, −70% MoS) is not a tail scenario requiring catastrophe — it only requires OE to stay flat (which is *better* than FY25's actual −0.6%). The asymmetry at ₹837 is therefore unattractive: roughly −70% to −45% downside (Genuine Bear to Subdued) against +10% to +31% upside (Base to Strong Recovery), with the most-likely cases clustered around the current price.
+
+The investment case hinges entirely on whether growth re-accelerates from FY25's 1.8%. The evidence (eroding moat, Birla Opus "already" taking share, −0.6% OE) says caution. The recovery is possible — new capacity is real — but it is a thesis to be proven, and at ₹837 the market is already pricing in the Base-to-Recovery outcome. There is no margin of safety for the downside.
 
 ---
 
@@ -649,10 +681,10 @@ The thesis hinges entirely on whether growth re-accelerates from FY25's 1.8% (to
 | TTM EPS (Normalised) | ₹30.41 | Screener TTM (GAAP) |
 | **Owner Earnings Per Share (OEPS)** | **₹34.5** ᵒ | TTM Owner Earnings ₹165.6 Cr / 4.8 Cr diluted shares — exact unrounded figure consistent with §15 DCF |
 | Current PE (on Normalised EPS) | 27.5x | CMP / EPS |
-| **Current P/OE (on OEPS)** | **24.2x** | CMP / OEPS — the Buffett-pure valuation multiple |
+| **Current P/OE (on OEPS)** | **24.3x** | CMP / OEPS = 837 / 34.5 = 24.26x → 24.3x — the Buffett-pure valuation multiple |
 | Shares Outstanding (Diluted) | 4.8 Cr | Latest data |
 
-> *ᵒ Note on OEPS rounding: §8 displays OEPS as ₹34.6 (from rounded table values: ₹166 Cr / 4.8 Cr = 34.58). The exact unrounded OEPS used here and in §15 DCF is ₹165.6 Cr / 4.8 Cr = ₹34.50. The difference is immaterial — P/OE = 837/34.5 = 24.26x and P/OE = 837/34.6 = 24.19x both round to 24.2x. This section uses the precise ₹34.5 figure for internal consistency with §15.*
+> *ᵒ Note on OEPS rounding: §8 displays OEPS as ₹34.6 (from rounded table values: ₹166 Cr / 4.8 Cr = 34.58). The exact unrounded OEPS used here and in §15 DCF is ₹165.6 Cr / 4.8 Cr = ₹34.50. Using the exact ₹34.50, the precise P/OE is 837 / 34.50 = 24.26x, which rounds to **24.3x** — the figure used throughout the primary valuation sections (§14, §16, §23). The §8 line, which divides by the rounded ₹34.6, shows 24.2x; the ~0.1x difference is a pure rounding artefact.*
 
 ### Step 2: Terminal PE Scenarios
 
@@ -764,9 +796,9 @@ If the terminal PE compresses to 15x (as for a mature slow-grower):
 
 ### Step 5: The Verdict
 
-> *"At the current price of ₹837, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 13.6% CAGR (and Owner Earnings at 14.0% CAGR — virtually identical). The company has historically grown EPS at ~13% CAGR and Owner Earnings at ~24% CAGR (the OE CAGR is higher because Owner Earnings expanded from a lower base as margins improved). This implies the market is pricing in a continuation of historical EPS growth — which is reasonable IF growth re-accelerates from the current lull, but optimistic if it doesn't."*
+> *"At the current price of ₹837, to earn a 10% annualised return over 10 years assuming the market values the business at 20x PE at exit, the company needs to grow EPS at 13.6% CAGR (and Owner Earnings at 14.0% CAGR — virtually identical). The company grew EPS at ~13% CAGR over the past 5 years, but its **most recent** trajectory is far weaker — FY25 EPS/OE growth was roughly flat (−0.6% OE), and the FY23→FY25 OE CAGR was just 6.7%. So the market at ₹837 is pricing in a return to the *historical* 13-14% growth rate — which requires reversing the current deceleration. Given §10's conclusion that the moat is narrow and eroding, that re-acceleration is a thesis to be proven, not a base assumption. The market is paying for the recovery up front."*
 
-> *Note: The EPS-based assessment matches the Owner Earnings assessment (gap of just 0.4 pp), confirming the business is maintenance-capital-efficient and reported EPS is reliable as a valuation anchor. Note that this maintenance efficiency is distinct from growth capital intensity — Section 11 correctly identifies Indigo as a "Moderate Scaler" requiring significant growth CapEx.*
+> *Note: The EPS-based assessment matches the Owner Earnings assessment (gap of just 0.4 pp), confirming the business is maintenance-capital-efficient and reported EPS is reliable as a valuation anchor. This maintenance efficiency is distinct from growth capital intensity — Section 11 identifies Indigo as a "Moderate Scaler" requiring significant growth CapEx. The implied ~14% growth hurdle is well above the recent 6.7% OE CAGR, which is why the grounded Base DCF (10%/8%, IV ₹929) shows the stock only marginally undervalued and the asymmetry (Step 6) is unfavourable at ₹837.*
 
 ### Step 6: Asymmetric Upside Check — Fat Pitch Assessment
 
@@ -776,43 +808,49 @@ If the terminal PE compresses to 15x (as for a mature slow-grower):
 |---|---|---|---|
 | Asset / Liquidation Floor | Tangible Book Value ₹218/share × 1.0x | ₹218 | -74% |
 | Recession / Trough Earnings | Worst-year normalised EPS ₹20 × Trough PE 12x | ₹240 | -71% |
-| Normalised Bear Case | If growth stalls permanently: PE compresses to 15x on flat ₹30 EPS | ₹450 | -46% |
-| **§15 Bear DCF (cross-ref)** | DCF with 4%/3% growth, 10% discount | **₹577** | **-31%** |
+| **§15 Genuine Bear DCF** | DCF: OE flat 5Y (0%), then 3%, 10% discount | **₹493** | **-41%** |
+| Normalised Bear (PE compression) | If growth stalls permanently: PE compresses to 15x on flat ₹30 EPS | ₹450 | -46% |
+| **§15 Subdued Growth DCF** | DCF with 4%/3% growth, 10% discount | **₹577** | **-31%** |
 | "Business-is-fine-but-market-panics" Floor | Historical low PE since IPO ~25x × Normalised EPS ₹30 | ₹750 | -10% |
 
-**Most Probable Downside Floor: ₹450-580** (range from PE-compression Bear Case at ₹450 to DCF Bear at ₹577). If growth doesn't recover, PE de-rating to 15x on flat earnings is realistic (giving ~₹450), while a DCF at 4%/3% growth gives ~₹577. The ₹218 Tangible Book floor is theoretical only — the business is profitable and won't liquidate.
+**Most Probable Downside Floor: ₹450–₹577** (the Genuine Bear DCF ₹493, the PE-compression bear ₹450, and the Subdued Growth DCF ₹577 all cluster here). Critically, the Genuine Bear (₹493) requires only that OE stay *flat* — which is actually *better* than FY25's realised −0.6%. This is not a catastrophe scenario; it is the "deceleration is structural" scenario, and §10's eroding-moat analysis says it is a live possibility. The ₹218 Tangible Book floor is theoretical only — the business is profitable and won't liquidate.
 
 **Part 2: Upside Case — How Much Can You Win?**
 
 | Scenario | Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
-| Base DCF (Section 15) | DCF with 15%/10% growth assumptions | ₹1,207 | +44% |
-| Bull DCF (Section 15) | DCF with 18%/12% growth assumptions | ₹1,646 | +97% |
-| Scaling Multiplier | New Jodhpur capacity drives 20% revenue growth resumption → EPS ₹50 × 25x PE in 4 years | ₹1,250 | +49% |
+| **Grounded Base DCF (Section 15)** | DCF with 10%/8% growth (moat-consistent partial recovery) | **₹929** | **+11%** |
+| Strong Recovery DCF (Section 15) | DCF with 15%/10% growth (return to pre-competition CAGR) | ₹1,207 | +44% |
+| Bull DCF (Section 15) | DCF with 18%/12% growth | ₹1,646 | +97% |
 | Re-rating Catalyst | If growth recovers AND market re-rates to historical 35x PE on ₹40 EPS | ₹1,400 | +67% |
 
 **Part 3: Asymmetry Ratio — Reward-to-Risk**
 
+The grounded Base case is the honest anchor for upside, and the Genuine Bear is the honest anchor for downside:
 ```
-Base Case Upside (Section 15 Base DCF): +44% to ₹1,207
-Most Probable Downside Floor: -46% to ₹450 (Normalised Bear Case)
-Asymmetry Ratio = 44 / 46 = 0.96 : 1
-```
-
-Alternative, less pessimistic downside (₹750 panic floor):
-```
-Asymmetry Ratio = 44 / 10 = 4.4 : 1
+Grounded Base Upside (Section 15, 10%/8%):  +11% to ₹929
+Most Probable Downside (Genuine Bear ₹493): -41% to ₹493
+Asymmetry Ratio = 11 / 41 = 0.27 : 1  → NEGATIVE asymmetry
 ```
 
-The asymmetry depends critically on which downside you weight as most probable. The range is **0.96:1 (bear) to 4.4:1 (mild de-rate)** — call it a **central case of ~2:1**.
+Even using the optimistic Strong Recovery as the upside anchor:
+```
+Strong Recovery Upside (15%/10%): +44% to ₹1,207
+Genuine Bear Downside:            -41% to ₹493
+Asymmetry Ratio = 44 / 41 = 1.07 : 1  → roughly symmetric
+```
+
+The asymmetry at ₹837 is **unfavourable**: on grounded assumptions it is **0.27:1** (you risk ~4x what you stand to make), and even crediting the full recovery thesis it is only ~1:1. This is the opposite of a fat pitch — it is closer to "picking up pennies in front of a steamroller" unless you are confident the recovery thesis (Strong Recovery or better) will play out.
 
 | Asymmetry Ratio | Interpretation |
 |---|---|
 | > 5:1 | Exceptional fat pitch |
 | 3:1 to 5:1 | Strong fat pitch |
-| **2:1 to 3:1** | **Decent pitch — positive expected value but not table-pounding ✅ THIS IS WHERE INDIGO SITS** |
+| 2:1 to 3:1 | Decent pitch — positive expected value but not table-pounding |
 | 1:1 to 2:1 | Marginal pitch |
-| < 1:1 | Negative asymmetry — pass |
+| **< 1:1** | **Negative asymmetry — pass. ◄ THIS IS WHERE INDIGO SITS AT ₹837 (0.27:1 on grounded Base)** |
+
+> **At ₹650 (the Value-zone entry), the asymmetry improves materially:** grounded Base ₹929 = +43% upside vs Genuine Bear ₹493 = −24% downside → 1.8:1, approaching a decent pitch. At ₹550–600, with grounded Base +55–69% upside vs Genuine Bear −10–18% downside, the ratio exceeds 3:1 and becomes a genuine fat pitch. **This is why the entry price matters so much: the business may be fine, but ₹837 offers no margin of safety, while ₹550–650 does.**
 
 **Part 4: Catalysts & Anti-Catalysts**
 
@@ -830,33 +868,33 @@ The asymmetry depends critically on which downside you weight as most probable. 
 
 **Part 5: Fat Pitch Verdict**
 
-> *"At ₹837, the realistic downside is approximately 10-46% (range: ₹450 in bear case to ₹750 in mild de-rate). The realistic base-case upside is +44% to ₹1,207 over 3-5 years. This gives an asymmetry ratio of 0.96:1 (bear weighting) to 4.4:1 (mild de-rate weighting), with a central case around 2:1. The key catalysts are new capacity coming online and competitive stabilisation. This is a DECENT PITCH but not a FAT PITCH — positive expected value, but not the kind of table-pounding asymmetry that demands aggressive sizing. **Note: 'Normal position sizing' applies at the Value zone entry point (~₹650), NOT at the current market price of ₹837, which falls in the Fair Value / Hold zone per §18 and is a HOLD per §19.** The tiered entry framework: **₹650 = start building position (Value zone, ~21x P/E reset); ₹550-600 = Buffett-grade conviction entry where the asymmetry becomes 5:1+ and matches the §19 verdict that 'Buffett would be interested'**."*
+> *"At ₹837, the realistic downside is approximately −31% to −41% (Subdued Growth ₹577 to Genuine Bear ₹493), and the Genuine Bear requires only that OE stay flat — better than FY25's actual −0.6%. The grounded base-case upside is just +11% to ₹929 (10%/8% growth, moat-consistent); only the recovery thesis (Strong Recovery, 15%/10%) delivers +44% to ₹1,207. This gives an asymmetry ratio of 0.27:1 on grounded assumptions and ~1:1 even crediting the full recovery. This is NOT a fat pitch — at ₹837 the asymmetry is negative-to-symmetric, meaning you are not being paid for the downside risk. **'Normal position sizing' does NOT apply at ₹837, which is a HOLD per §18 and §19.** The tiered entry framework: **₹650 = mechanical Value-zone entry where asymmetry improves to ~1.8:1 (grounded Base +43% vs Genuine Bear −24%); ₹550-600 = Buffett-grade conviction entry where asymmetry exceeds 3:1 (though the Genuine Bear at ₹493 still implies ~10–18% downside even there — improved asymmetry, not a true margin of safety against the bear itself).**"*
 
 **Mispricing Identification:**
 
 | Mispricing Source | Indigo's Situation | Present? |
 |---|---|---|
-| Temporary crisis mistaken for terminal decline | Growth deceleration may be the new normal, not temporary | **Partially** — depends on Jodhpur ramp |
+| Temporary crisis mistaken for terminal decline | Growth deceleration may be the new normal, not temporary | **Unclear** — §10 says moat is eroding, so this may be structural, not a misperception |
 | Turnaround in progress, not yet in numbers | New capacity not yet generating revenue; Apple Chemie growing | **Yes** — modest |
 | Sector/narrative de-rating unrelated to fundamentals | Paint sector under pressure from new entrants; entire sector de-rated | **Yes** — Indigo down 75% from peak |
 | Complexity/obscurity discount | Indigo is well-covered by analysts; no obscurity discount | No |
 | Misunderstood growth optionality | New capacity ramp could surprise; market is sceptical | **Yes** — modest |
-| Excessive pessimism / recent-bad-results anchoring | Market anchoring to 1.8% FY25 growth as permanent | **Yes** — likely |
+| Excessive pessimism / recent-bad-results anchoring | Market anchoring to 1.8% FY25 growth — but this may be correct, not excessive | **Possibly not** — the deceleration is real |
 
-> *"The mispricing opportunity here is PARTIALLY PRESENT. The market is anchoring to FY25's 1.8% revenue growth and pricing in permanent deceleration. The evidence from the analysis (new capacity coming online, Apple Chemie growth, normalising competitive pressure) suggests this anchoring is excessive. If growth recovers to 12-15% by FY27, the stock re-rates from 27.5x to ~32x on ₹40 EPS, generating ~50% returns even before factoring in earnings growth. This is the 'Heads I win moderately' part of the asymmetry. However, if growth stays at 5%, the PE will compress to 18-20x, generating a -20% to -30% loss. The mispricing thesis is real but uncertain — not the high-conviction setup of a true fat pitch."*
+> *"The mispricing opportunity here is AMBIGUOUS, and possibly ABSENT at ₹837. The bullish reading is that the market is over-anchoring to FY25's 1.8% growth and pricing in permanent deceleration. But §10's moat analysis cuts the other way: if the moat is genuinely eroding under Birla Opus, then the deceleration is structural and the market's caution is correct, not excessive. At 27.5x earnings on a business with −0.6% OE growth and an eroding moat, the stock is NOT obviously cheap — it is pricing in the recovery thesis already. For the mispricing to be real, you must believe the recovery (Strong Recovery, 15%/10%) will materialise — and §10 gives you reason to doubt it. This is the opposite of the classic Buffett setup where pessimism is excessive; here the pessimism may be warranted."*
 
 **Final Buffett Filter — 4 Yes/No Questions:**
 
 | Question | Answer | Reasoning |
 |---|---|---|
-| Is the downside capped by tangible value, franchise value, or earnings floor? | **Partially** | TBV (₹218) is theoretical; earnings floor (~₹450) is meaningful but represents a ~46% loss. Not capped tightly. |
-| Is the upside driven by business fundamentals rather than just multiple expansion hope? | **Yes** | Base DCF upside relies on 13-15% earnings growth (consistent with historical) — fundamentals, not just re-rating. |
-| Would you be comfortable buying MORE if the stock dropped 30% to ~₹585 tomorrow? | **Yes** | At ₹585, P/B ~2.7x, PE ~19x — clear Value zone. Adding would be a strong move. |
-| Can you explain the thesis in 2 sentences to a non-investor? | **Yes** | "Indigo Paints is a small, niche-focused decorative paint company growing slower than expected due to new competition. New capacity comes online in 2026, and if growth recovers, the stock has ~40% upside; if not, downside is moderate." |
+| Is the downside capped by tangible value, franchise value, or earnings floor? | **No** | The Genuine Bear (₹493) is −41% from CMP and requires only flat OE. The downside is real and not tightly capped. |
+| Is the upside driven by business fundamentals rather than just multiple expansion hope? | **Only partially** | The grounded Base upside is just +11%; the +44% case requires a return to 15% growth that contradicts the eroding-moat analysis. The bigger upside depends on a recovery thesis that is unproven. |
+| Would you be comfortable buying MORE if the stock dropped 30% to ~₹585 tomorrow? | **Yes** | At ₹585, P/B ~2.7x, PE ~19x — clear Value zone where the grounded Base offers ~+59% and the Genuine Bear downside narrows to ~−16%. Adding there would be rational. |
+| Can you explain the thesis in 2 sentences to a non-investor? | **Yes** | "Indigo Paints is a small, niche decorative paint company whose growth has stalled under new competition from Birla Opus. At ₹837 it's priced for a recovery that may not come; it only becomes a margin-of-safety buy below ₹650." |
 
-Buffett: *"You do things when the opportunities come along. I've had periods in my life when I've had a bundle of ideas come along, and I've had long dry spells."* Indigo at ₹837 is not in Buffett's "bundle of ideas" zone. It's a watchlist item. At ₹550-600, it becomes interesting.
+Buffett: *"You do things when the opportunities come along. I've had periods in my life when I've had a bundle of ideas come along, and I've had long dry spells."* Indigo at ₹837 is not in Buffett's "bundle of ideas" zone — the asymmetry is negative. It's a watchlist item. At ₹550-600, where the asymmetry improves to >3:1 (the Genuine Bear still implies ~10–18% downside there, but the reward-to-risk is far more favourable), it becomes interesting.
 
-**Mispricing Assessment Summary:** The mispricing opportunity is **PARTIALLY PRESENT**. The market is pricing Indigo at 27.5x earnings despite near-zero growth, which suggests either (a) the market expects growth to re-accelerate (priced in), or (b) the stock hasn't fully de-rated to reflect the new reality. The steady DII accumulation since Sep 2024 suggests some institutional smart money sees scenario (a). If they're right, there's meaningful upside. If they're wrong, there's still significant downside.
+**Mispricing Assessment Summary:** The mispricing is **AMBIGUOUS and possibly ABSENT at ₹837**. The market prices Indigo at 27.5x earnings despite −0.6% OE growth — which means the recovery is *already priced in*, not ignored. The steady DII accumulation since Sep 2024 suggests some institutional money is betting on recovery, but §10's eroding-moat conclusion gives a credible reason the deceleration is structural. At ₹837 you are paying for a recovery that the moat analysis says may not arrive — there is no margin of safety. The asymmetry only turns favourable below ₹650.
 
 ---
 
@@ -895,20 +933,26 @@ Buffett: *"When you combine ignorance and leverage, you get some pretty interest
 
 **Inputs:** BVPS = ₹218.3, CMP = ₹837, P/B = 3.83x, Sustainable ROE = 15%, Retention = 88%, BV Compound Rate = 13.2%
 
-**Projected BVPS:** Year 5: ₹406 | Year 7: ₹520 | Year 10: ₹754
+> **Sensitivity — the 15% ROE assumption is aspirational, not current.** FY25 ROE is already **14.7%** (below 15%), and the trend is *declining* (FY21 19.1% → FY23 normalised ~16.6% → FY25 14.7%). The 15%/13.2%-compounding figures below are therefore an *optimistic* anchor. At a more realistic **14% ROE** (12.3% BV compounding): Year 5 BVPS ≈ ₹390 (vs ₹406), Year 7 ≈ ₹492 (vs ₹520), Year 10 ≈ ₹698 (vs ₹754 — an ~8% overstatement at 15%). Critically, the **Fair P/B at 14% ROE falls to 4.0x** (vs 5.0x at 15%), per Gordon Growth: (0.14 − 0.10)/(0.11 − 0.10) = 4.0x. So if 14.7% is the new normal rather than a trough, both the BV compounding *and* the justified exit multiple are lower than the base table assumes — compounding the downside. Every CAGR in the table below should be read as the *optimistic (15% ROE)* case; subtract ~1 pp from each for the 14% ROE scenario.
 
-#### Expected Annual Return (CAGR) at ₹837 (Entry P/B: 3.83x)
+**Projected BVPS (at 15% ROE / 13.2% compounding):** Year 5: ₹406 | Year 7: ₹520 | Year 10: ₹754
+
+#### Expected Annual Return (CAGR) at ₹837 (Entry P/B: 3.83x) — *Optimistic Case: 15% ROE / 13.2% BV Compounding*
+
+> *Table header note: This table uses the **aspirational 15% ROE** (13.2% BV compounding). Current FY25 ROE is 14.7% and declining — see the sensitivity caveat above. For the more realistic 14% ROE case, subtract ~1 pp from each CAGR below and use BVPS projections of ₹390/₹492/₹698 (Year 5/7/10) instead of ₹406/₹520/₹754.*
 
 | Exit P/B | Rationale | 5Y CAGR | 7Y CAGR | 10Y CAGR |
 |---|---|---|---|---|
 | 3.83x (current) | Sustains | 13.2% | 13.2% | 13.2% |
-| 2.87x (0.75x current) | Mild de-rating | 6.9% | 8.6% | 10.0% |
+| 2.87x (0.75x current) | Mild de-rating | 6.8% | 8.6% | 10.0% |
 | **5.00x (Fair P/B from §14)** | Re-rates upward to justified multiple if 15% ROE sustains | **19.4%** | **17.6%** | **16.2%** |
 | **6.30x (Historical median P/B, FY23-FY25)** | Reverts to post-stabilisation historical median | **25.0%** | **21.5%** | **19.0%** |
-| 1.92x (0.5x current) | Halves (significant de-rating) | -1.5% | 2.5% | 5.6% |
+| 1.92x (0.5x current) | Halves (significant de-rating) | -1.4% | 2.6% | 5.6% |
 | 1.00x Book | Worst case for quality co. | -13.5% | -6.6% | -1.0% |
 
 > *Note: The pre-IPO/IPO-era P/B (22x at listing, ~14.8x in FY22) is excluded from "historical median" because it reflected the IPO-era valuation bubble and is not a realistic reversion target. The FY23-FY25 median (~6.3x) is the more defensible reference. The Fair P/B of 5.0x derives from the Gordon Growth Model in §14: (ROE 15% − g 10%) / (CoE 11% − g 10%) = 5.0x — this is what the stock SHOULD trade at if 15% ROE is sustained, not where it has traded.*
+>
+> **⚠️ Important caveat on the 5.00x row:** That Fair P/B uses g = 10% in perpetuity, which is **higher than any of the §15 DCF terminal growth rates (3–5%)**. Because the Gordon denominator (CoE − g) is so small, a high g inflates the multiple disproportionately. At a DCF-consistent g = 4%, the formula gives (0.15 − 0.04)/(0.11 − 0.04) ≈ **1.6x**, not 5.0x. The 5.00x row (and its 16–19% implied CAGRs) is therefore best read as illustrative of *what Indigo would justify if it were a perpetual ~10%-growth compounder* — **not a realistic near-term re-rating target** given the Conservative/Base DCF assumptions. Treat the 2.87x–6.30x rows above 3.83x as upside scenarios contingent on sustained 15% ROE *and* a growth re-acceleration, not as base expectations.*
 
 **Key Insight:**
 
@@ -942,23 +986,25 @@ Based on the DCF analysis, P/B scenario math, and earnings power assessment:
 
 | Zone | PE Range | Price Range (₹) | Rationale |
 |---|---|---|---|
-| **Deep Value / Strong Buy** | <18x | <₹550 | Below conservative DCF. P/B <2.5x. Screaming buy for long-term holders. |
-| **Value / Buy** | 18-22x | ₹550 – ₹670 | Below base-case fair value. P/B 2.5-3.0x. Attractive risk-reward. |
-| **Fair Value / Hold** | 22-28x | ₹670 – ₹850 | Reasonably priced. P/B 3.0-3.9x. Hold for compounding if owned. |
-| **Fully Valued / Trim** | 28-35x | ₹850 – ₹1,065 | Above fair value. Limited upside. |
-| **Overvalued / Sell** | >35x | >₹1,065 | Priced for aggressive growth that may not materialise. |
+| **Deep Value / Strong Buy** | <18x | <₹550 | At/below the Conservative DCF (₹774) with a large cushion, and **already below the Subdued-Growth DCF floor (₹577)**. P/B <2.5x. Genuine Bear downside (₹493) is only −10% from here. Screaming buy for long-term holders. |
+| **Value / Buy** | 18-22x | ₹550 – ₹670 | Below the grounded Base (₹929). P/B 2.5-3.0x. At ₹650, grounded Base offers +43% vs Genuine Bear −24% (≈1.8:1). Attractive risk-reward; conviction entry at the ₹550-600 lower end where asymmetry exceeds 3:1. |
+| **Fair Value / Hold** | 22-28x | ₹670 – ₹850 | Brackets the grounded Base (₹929) and Conservative (₹774). P/B 3.0-3.9x. **No margin of safety** — CMP ₹837 sits inside the probable band, with negative asymmetry (grounded Base +11% vs Genuine Bear −41%). Hold if owned; do not add. |
+| **Fully Valued / Trim** | 28-35x | ₹850 – ₹1,065 | Above grounded fair value; only justified if the Recovery/Strong Recovery thesis (₹1,005–₹1,207) plays out. Limited upside, real downside. |
+| **Overvalued / Sell** | >35x | >₹1,065 | Priced for the Strong Recovery/Bull thesis (return to 15%+ growth) that contradicts the eroding-moat analysis. |
 
-**Current Price (₹837) falls in: Fair Value / Hold zone** — at the upper end, bordering on Fully Valued.
+**Current Price (₹837) falls in: Fair Value / Hold zone** — at the upper end, bordering on Fully Valued. Critically, this is the zone with **no margin of safety**: the grounded Base (₹929) is only +11% away while the Genuine Bear (₹493) is −41% away.
 
 ### If Already Holding — What Would Buffett Do?
 
 | Your Entry Zone | Entry Price Range | Current P/L | Buffett's Recommendation |
 |---|---|---|---|
-| Deep Value (<₹550) | ₹400-550 | +52% to +109% profit | **HOLD** — you bought well. Let compounding work. Consider trimming only if the thesis breaks. |
-| Value (₹550-670) | ₹550-670 | +25% to +52% profit | **HOLD** — decent entry. Monitor growth recovery closely. |
-| Fair Value (₹670-850) | ₹670-850 | -2% to +25% | **HOLD cautiously** — no action needed if conviction in growth recovery is high. |
-| Fully Valued (₹850-1065) | ₹850-1065 | -22% to -1% loss | **HOLD or average down** if thesis intact. Purchase price is sunk cost; forward expected value matters. With small capital, averaging down at <₹700 would improve the position. |
+| Deep Value (<₹550) | ₹400-550 | +52% to +109% profit | **HOLD** — you bought well, below even the Conservative DCF. Let compounding work. Consider trimming only if the thesis breaks. |
+| Value (₹550-670) | ₹550-670 | +25% to +52% profit | **HOLD** — decent entry below the grounded Base (₹929). Monitor growth recovery closely. |
+| Fair Value (₹670-850) | ₹670-850 | -2% to +25% | **HOLD, do not add** — you are near the grounded Base IV with no margin of safety. No forced action, but recognise the Genuine Bear (₹493) implies meaningful downside if the deceleration proves structural. |
+| Fully Valued (₹850-1065) | ₹850-1065 | -22% to -1% loss | **HOLD if thesis intact; do NOT average down at these levels.** Averaging down only makes sense below ₹650, where the grounded Base offers a real cushion. Purchase price is a sunk cost; forward asymmetry at ₹850+ is negative. |
 | Overvalued (>₹1065) | ₹1065+ | -21% to -75% loss | **HOLD if thesis intact, but DO NOT add.** The original purchase was at an unjustifiable valuation. With small capital, consider tax-loss harvesting if you have gains elsewhere to offset. |
+
+> *Note: The "Current P/L" column assumes the stock is at ₹837. The recommendation in every zone is consistent with the §23 verdict: HOLD if owned, but new capital should wait for ₹650 or below, where the asymmetry (grounded Base upside vs Genuine Bear downside) turns favourable. The honest downside anchor in all cases is the Genuine Bear IV of ₹493, not the milder ₹577 — because the Genuine Bear requires only flat OE, which is better than FY25's actual −0.6%.*
 
 ---
 
@@ -967,17 +1013,17 @@ Based on the DCF analysis, P/B scenario math, and earnings power assessment:
 | Criterion | Assessment | Pass? |
 |---|---|---|
 | Circle of Competence | Paint is simple and understandable | ✅ |
-| Enduring Moat | Narrow moat — niche category creation, but under competitive pressure from giants | ⚠️ |
+| Moat Durability | Narrow moat — niche category creation, but under competitive pressure from giants; §10 judges it "narrow and potentially eroding" | ⚠️ |
 | Trustworthy Management | Hemant Jalan — aligned, honest, 54% holding | ✅ |
-| Resistant to Disruption | Paint is a stable industry; no tech disruption risk | ✅ |
+| Resistant to Disruption | Paint is a stable industry; no major tech disruption risk (though digital colour-matching, online retail, and D2C apps directionally erode the dealer-relationship moat — see §10) | ✅ |
 | Sustainable Economics 10+ Years | **Industry will persist** (India needs paint) but **Indigo's specific competitive position over 10 years is uncertain** — depends on whether the narrow moat holds against Birla Opus, JSW, and Asian Paints' potential retaliation in niche categories | ⚠️ |
-| Price Below Intrinsic Value | Borderline — at fair value, not deep discount | ⚠️ |
+| Price Below Intrinsic Value | **Bifurcated: price is BELOW the grounded Base IV (₹929, +10% upside) but ABOVE the Conservative IV (₹774, −8% MoS). At 'fair value' in the Base/recovery scenarios; overvalued in the Conservative and Genuine Bear scenarios (₹493, 70% above IV). No margin of safety on grounded-conservative assumptions.** | ⚠️ |
 
 **Verdict: Buffett would likely PASS at the current price.**
 
-The business is good — simple, understandable, well-managed, debt-free, growing industry. But the moat is narrow (not wide like Asian Paints), the price is not cheap enough to compensate for the risk of sustained growth deceleration, and the P/B of 3.83x doesn't offer enough margin of safety for a business earning only 14.7% ROE.
+The business is good — simple, understandable, well-managed, debt-free, growing industry. But the moat is narrow (not wide like Asian Paints), and crucially **the price offers no margin of safety on grounded assumptions.** The grounded Base case (10%/8% growth, IV ₹929) implies only +10% upside, while the Genuine Bear (flat OE — better than FY25's actual −0.6% — IV ₹493) implies −41% downside. That is negative asymmetry. The +31–44% upside the bullish case cites requires a return to pre-competition 15% growth ("Strong Recovery"), which §10's eroding-moat analysis says is far from assured. A 14.7% ROE business at 3.83x book with a narrow, eroding moat and no margin of safety does not clear Buffett's bar.
 
-If the stock fell to ₹550-600 (P/B ~2.5-2.75x), Buffett would be more interested. At that level, you're paying a reasonable premium for a quality business, and even if ROE stays at 14-15%, the entry price provides adequate long-term returns.
+If the stock fell to ₹550-600 (P/B ~2.5-2.75x), Buffett would be more interested. At that level, the grounded Base offers +55–69% while the Genuine Bear downside narrows to −10–18% — a significantly improved asymmetry (>3:1) rather than a true margin of safety against the Genuine Bear itself (which would require buying at or below the Genuine Bear IV of ₹493). It is not zero risk at ₹550–600, but it is a far more favourable setup than ₹837.
 
 > *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* — Buffett
 
@@ -993,8 +1039,8 @@ Indigo Paints is a good (not wonderful) company at a fair (not cheap) price. Thi
 | **Sustained Revenue Deceleration** | High | Medium | New Jodhpur capacity may re-accelerate growth; improving macro for housing |
 | **Raw Material Cost Inflation** (TiO2, crude-linked inputs) | Medium | Medium | Industry-wide; can pass through partially via price hikes |
 | **Margin Compression** from trade discounts / competitive pricing | Medium | Medium-High | Strong pre-D&A OPM trend but under pressure from new entrants |
-| **Key Man Risk** (Hemant Jalan) | Medium | Low | Founder-dependent but building institutional capabilities |
-| **Market Share Erosion** | High | Medium | Growing dealer network but sub-scale vs. leaders |
+| **Key Man Risk** (Hemant Jalan) | Medium | Medium | Founder is sole MD since 2000, 53.9% holder, and the primary public face; no demonstrated succession depth. Institutional capabilities are being built but unproven — hence Medium, not Low, probability. |
+| **Market Share Erosion** | High | Medium-High | **Already occurring**: FY25 revenue grew 1.8% vs. 8-10% industry, implying current share loss, not just future risk. Growing dealer network but sub-scale vs. leaders. |
 | **Regulatory Risk** (GST rate changes, BIS VOC tightening, environmental norms) | Low | Low | Net positive for organised players — tighter norms hurt unorganised sector and favour Indigo. See §21 for full Buffett three-lens analysis and historical impact table. |
 | **Technology Disruption** | Low | Very Low | Paint is a stable, non-disruptible industry; no AI/digital substitution risk; product hasn't fundamentally changed in decades |
 | **Macro Risk** (Real estate slowdown, construction downturn) | Medium | Low-Medium | Paint is repaint-driven (~65% of demand), less cyclical than new construction |
@@ -1063,7 +1109,7 @@ There is **no acute regulatory headwind** currently facing Indigo Paints. Howeve
 
 ### Buffett's Verdict on Regulatory Risk
 
-**Verdict: (b) Manageable & Fairly Priced** — leaning toward **(a) Manageable & Overpriced by the Market** for the regulatory-risk component specifically.
+**Verdict: (b) Manageable & Fairly Priced** — leaning toward **(a) Manageable, and the market over-discounts the regulatory risk** for the regulatory-risk component specifically. *(To avoid ambiguity: "(a)" means the market is too pessimistic about regulation — it over-discounts a risk that is actually benign-to-favourable for Indigo; it does NOT mean the stock is overpriced because of regulatory concerns.)*
 
 The regulatory environment is benign-to-supportive for Indigo. The historical record shows the company has consistently benefited from regulatory tightening (which hurts unorganised competitors more than organised ones). Terminal risk is negligible. The market is not pricing in any meaningful regulatory discount — this is correct.
 
@@ -1078,11 +1124,15 @@ This section is **partially applicable**. Indigo is not a distressed company —
 | Factor | Score (1-10) | Evidence |
 |---|---|---|
 | Business quality fundamentals | 7 | 20% ROCE, ~14% EBIT margin, debt-free |
-| New capacity coming online | 8 | Jodhpur solvent (live Feb 2026), water-based (Jun 2026), powder expansion |
-| Competitive dynamics | 4 | Birla Opus pricing aggression; Asian Paints' dominance |
+| New capacity coming online | 6 | Jodhpur solvent (live Feb 2026), water-based (Jun 2026), powder expansion. **Scored 6, not higher: capacity provides SUPPLY, not DEMAND. FY25 revenue grew just 1.8% despite existing capacity being available — the constraint is winning customers against Birla Opus, not manufacturing capacity. New capacity only helps if demand materialises, and Birla Opus is simultaneously adding capacity while suppressing pricing.** |
+| Competitive dynamics | 4 | Birla Opus pricing aggression; Asian Paints' dominance — the binding constraint on the turnaround |
 | Industry tailwind | 7 | Indian paint market growing 8-10% CAGR |
-| Valuation reset | 7 | Stock down 75% from peak; DII accumulation |
-| **Overall Turnaround Probability** | **6.6/10** | Moderate probability of growth re-acceleration |
+| Valuation reset | 6 | Stock down 75% from peak; DII accumulation. **Scored 6, not higher: a stock-price decline measures investor re-rating potential, NOT business-recovery probability. A 75% price fall does not improve revenue growth, competitive position, or execution — it only changes the entry valuation. This factor is a sentiment/entry metric, not a fundamental turnaround driver.** |
+| **Overall Turnaround Probability** | **6.0/10** | Moderate probability of growth re-acceleration — gated entirely on whether demand (not supply) recovers against intensifying competition |
+
+> *Note on scoring discipline: The two factors most prone to over-optimism — "New capacity" (conflating supply with demand) and "Valuation reset" (conflating a cheaper stock with a recovering business) — were deliberately scored at 6 rather than 8/7. The turnaround hinges on the single factor scored lowest (Competitive dynamics, 4): can Indigo win customers against Birla Opus? Capacity and a cheaper share price do not answer that question.*
+
+> *Reconciling the 6.0/10 turnaround score with the negative asymmetry (§16): these are not contradictory, and the distinction matters. The 6.0/10 reflects the **subjective probability that *some* growth recovery materialises** — it is a broad statement about business trajectory, not a verdict on the stock at ₹837. The §16 asymmetry of 0.27:1, by contrast, is computed from the **grounded Base** (the most conservative "recovery" assumption, +11%) against the **Genuine Bear** downside (−41%) **at the current price**. The negative asymmetry reflects the gap between what the market is making you pay for at ₹837 (a recovery) and what the grounded Base actually delivers (+10%) — it is not a probability-weighted expected-value calculation. Under a fuller recovery (Strong Recovery ₹1,207 vs Genuine Bear ₹493), the asymmetry at ₹837 is roughly symmetric (~1:1). The reconciliation: a moderately likely turnaround (6/10) does not make ₹837 an attractive entry, because the price already embeds the recovery. Lower the entry price to ₹550–600 and the same 6/10 turnaround probability produces a >3:1 asymmetry — which is precisely why the recommendation is "wait for a better price," not "the turnaround is unlikely."*
 
 ---
 
@@ -1094,18 +1144,18 @@ This section is **partially applicable**. Indigo is not a distressed company —
 | **Moat Durability** | 5 | Narrow moat — category-creation niche, but under competitive assault |
 | **Financial Health** | 9 | Virtually debt-free (Debt/EBIT 0.1x), net cash ₹227 Cr, strong OCF |
 | **Management Quality** | 7 | Aligned promoter (54%), honest communications, competent execution |
-| **Valuation** | 6 | 27.5x PE, 24.2x P/OE, 3.83x P/B — fair-to-slightly-expensive for current growth |
-| **Margin of Safety** | 5 | DCF MoS range: -45% (Bear) / +17% (Conservative) / +31% (Base) / +49% (Optimistic). Conservative-to-Base range (+17 to +31%) is meaningful but not decisive; the Bear case shows -45% if growth deceleration is structural — significant downside risk. |
+| **Valuation** | 6 | 27.5x PE, 24.3x P/OE, 3.83x P/B — fair-to-slightly-expensive for current growth |
+| **Margin of Safety** | 4 | DCF MoS by scenario: Genuine Bear (0% OE) −70% / Subdued (4%/3%) −45% / Conservative (7%/6%, matches actual 6.7% CAGR) −8% / **grounded Base (10%/8%) +10%** / Recovery (12%/8%) +17% / Strong Recovery (15%/10%) +31%. The probable band (Conservative-to-Base, ₹774–₹929) straddles the ₹837 CMP — **no margin of safety at current price**; downside (−41% to −70% in the bear cases) materially exceeds grounded upside (+10%). |
 | **Earnings Quality** | 8 | OCF/NP 1.4x, OE > NI, no SBC distortion, EPS-OEPS gap just 0.4 pp (maintenance-capital-efficient) |
-| **Scalability** | 6 | Moderate Scaler (5.8/10) — large TAM but capital-heavy, decelerating |
-| **Buffett Verdict** | — | **Good business at a fair price — HOLD if owned, WATCH for better entry** |
+| **Scalability** | 6 | Moderate Scaler (5.8/10) — large TAM (~63x runway, unlike a saturated business) but capital-heavy and currently decelerating |
+| **Buffett Verdict** | — | **Good business at a price with no margin of safety — HOLD if owned, WATCH for a better entry below ₹650** |
 | **Buy Zone** | — | Current price (₹837) is in the **Fair Value / Hold** zone |
-| **Target Range** | — | **Conservative IV ₹1,005 — Base IV ₹1,207** (20-44% upside from CMP) |
-| **Overall Recommendation** | — | **HOLD** existing positions. Accumulate below ₹650 (Value zone). The ₹670-850 range is Fair Value / Hold — not attractive for new positions. |
+| **Target Range** | — | **Probable (grounded) band: Conservative ₹774 — Base ₹929** (−7.5% to +11.0% price return from CMP). Recovery thesis (upside): ₹1,005–₹1,207. Honest downside floor (Genuine Bear): ₹493. The grounded band straddles the CMP — the stock is roughly fairly valued, not undervalued. |
+| **Overall Recommendation** | — | **HOLD** existing positions (the business is sound and a forced sale at ₹837 is not warranted). **Do NOT initiate or add at ₹837** — the asymmetry is negative (≈0.27:1 on grounded assumptions). **Accumulate only below ₹650**, where the grounded Base offers +43% against a −24% Genuine Bear downside; **conviction entry ₹550–600**, where the asymmetry exceeds 3:1 (the Genuine Bear still implies ~10–18% downside at those prices — a far more favourable setup than ₹837, but not zero risk). |
 
 **Buffett's Final Word:**
 
-Indigo Paints is a well-managed, debt-free, profitable decorative paints company with a niche differentiation strategy and a committed promoter. The business generates 20% ROCE and has expanded margins from near-zero to 18% over a decade. However, the moat is narrow — it relies on category-creation in niche segments that larger competitors can replicate over time. The sharp growth deceleration in FY25 (1.8% revenue growth vs. 15-17% in prior years) raises serious questions about competitive dynamics, particularly with Birla Opus's aggressive entry. At 27.5x PE and 3.83x P/B, the stock is fairly valued for a 15% ROE business but offers insufficient margin of safety to compensate for the growth uncertainty. The steady DII accumulation (genuine +5% stake addition since Sep 2024) is a mildly bullish signal, but the thesis requires growth to re-accelerate — and that is not yet evident in the numbers. Buffett would say: "It's a good business, not a wonderful one. At this price, I'd watch it, not buy it. If it falls to ₹550-600, I'd be interested."
+Indigo Paints is a well-managed, debt-free, profitable decorative paints company with a niche differentiation strategy and a committed promoter. The business generates 20% ROCE and has expanded margins from near-zero to 18% over a decade. However, the moat is narrow — it relies on category-creation in niche segments that larger competitors can replicate over time — and §10 judges it "narrow and potentially eroding." The sharp growth deceleration in FY25 (1.8% revenue growth, −0.6% OE vs. 15-17% revenue growth in prior years) raises serious questions about competitive dynamics, particularly with Birla Opus's aggressive entry. The critical valuation point: on **grounded assumptions** (Base case at 10%/8% growth, consistent with the eroding moat), intrinsic value is **₹929 — only ~10% above the ₹837 price** — while the honest downside (Genuine Bear, requiring only flat OE) is **₹493, or −41%.** That is negative asymmetry: you risk roughly 4x what you stand to make. The +31–44% upside the bullish case cites depends on a return to pre-competition 15% growth ("Strong Recovery"), which the moat analysis says is far from assured — and at 27.5x earnings, that recovery is already priced in, not ignored. The steady DII accumulation (+5% stake since Sep 2024) is a mildly bullish counter-signal, but it is a bet on a recovery that the fundamentals do not yet support. Buffett would say: "It's a good business, not a wonderful one, and at this price there's no margin of safety. I'd hold it if I owned it, but I wouldn't buy it here. If it falls to ₹550-600 — where even a flat-growth bear case doesn't lose me much — I'd be interested."
 
 ---
 
@@ -1118,11 +1168,11 @@ Indigo Paints is a well-managed, debt-free, profitable decorative paints company
 **Does the math work without Excel?**
 
 - The stock costs ₹837. It earns about ₹30/year per share. That's a 3.6% yield.
-- Book value is ₹218 per share, growing at ~13% per year.
-- In 5 years, book value should be ~₹400. If the market values it at 3x book, the price would be ~₹1,200 — a 7-8% annual return.
-- If the market values it at 2x book, the price would be ~₹800 — essentially flat from here.
+- Book value is ₹218 per share, growing at ~12.3-12.9% per year (at current 14.7% ROE: 14.7% × 88% = 12.9%; at a more conservative 14% ROE: 14% × 88% = 12.3%; the 15% ROE that gives 13.2% is aspirational, not current).
+- In 5 years, book value should be ~₹390-401 (₹390 at 14% ROE, ₹401 at the current 14.7%). If the market values it at 3x book, the price would be ~₹1,170-1,205 — roughly a 7% annual return.
+- If the market values it at 2x book, the price would be ~₹780-800 — a slightly negative return from here (about −1% annually).
 
-The napkin math says: you're getting a 7-8% return if things go well, and a flat-to-negative return if the market de-rates. This is NOT a no-brainer.
+The napkin math says: you're getting roughly a 7% return if things go well (3x exit multiple AND ROE holds near its current 14.7%), and a flat-to-negative return if the market de-rates to 2x or ROE settles at 14%. This is NOT a no-brainer.
 
 > *"If you need to use Excel, it's an automatic pass."* — Buffett
 
