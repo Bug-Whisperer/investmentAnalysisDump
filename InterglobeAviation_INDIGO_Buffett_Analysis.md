@@ -46,25 +46,26 @@ IndiGo is a **capacity-constrained commodity business with some cost advantages.
 
 | Metric | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | **FY24** | FY25 | TTM |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Revenue | 16,140 | 18,580 | 23,021 | 28,497 | 35,756 | **14,641** | 25,931 | 54,446 | **68,904** | 80,803 | 84,676 |
+| Revenue | 16,140 | 18,580 | 23,021 | 28,497 | 35,756 | **14,641** | 25,931 | 54,446 | 68,904 | **80,803** | 84,676 |
 | Revenue Growth YoY | 15.9% | 15.1% | 23.9% | 23.8% | 25.5% | **-59.1%** | 77.1% | **110.0%** | 26.6% | 17.3% | 11% |
 | Gross Profit | N/A‡ | N/A‡ | N/A‡ | N/A‡ | N/A‡ | N/A‡ | N/A‡ | N/A‡ | N/A‡ | N/A‡ | N/A‡ |
 | Gross Margin | N/A‡ | N/A‡ | N/A‡ | N/A‡ | N/A‡ | N/A‡ | N/A‡ | N/A‡ | N/A‡ | N/A‡ | N/A‡ |
-| Operating Profit (pre-D&A) | 3,164 | 2,219 | 3,030 | **-151** | 4,069 | 2 | 558 | 6,521 | **16,331** | 18,050 | 17,185 |
+| Operating Profit (pre-D&A) | 3,164 | 2,219 | 3,030 | **-151** | 4,069 | 2 | 558 | 6,521 | 16,331 | **18,050** | 17,185 |
 | OPM % (pre-D&A) | 20% | 12% | 13% | **-1%** | 11% | 0% | 2% | 12% | **24%** | 22% | 20% |
 | Depreciation & Amortisation | 505 | 457 | **437** | 760 | 3,974 | 4,699 | 5,068 | 5,101 | 6,406 | **8,637** | 10,428 |
 | **EBIT** | 2,659 | 1,762 | 2,593 | -911 | 95 | **-4,697** | -4,510 | 1,420 | **9,925** | 9,413 | 6,757 |
 | **EBIT Margin** | **16.5%** | 9.5% | 11.3% | -3.2% | 0.3% | **-32.1%** | -17.4% | 2.6% | 14.4% | 11.6% | 8.0% |
-| Other Income | 515 | 789 | 947 | 1,325 | 1,531 | 1,036 | 725 | 1,431 | 2,326 | **3,307** | 2,642 |
-| Interest Expense | 350 | 406 | 413 | 563 | 1,902 | 2,170 | 2,386 | 3,168 | 4,208 | **5,133** | 5,818 |
+| Other Income | **515** | 789 | 947 | 1,325 | 1,531 | 1,036 | 725 | 1,431 | 2,326 | **3,307** | 2,642 |
+| Interest Expense | **350** | 406 | 413 | 563 | 1,902 | 2,170 | 2,386 | 3,168 | 4,208 | **5,133** | 5,818 |
 | Net Profit | 1,986 | 1,659 | 2,242 | 156 | -248 | -5,830 | **-6,171** | -317 | **8,168** | 7,253 | 3,233 |
 | Net Profit Margin | **12.3%** | 8.9% | 9.7% | 0.5% | -0.7% | **-39.8%** | -23.8% | -0.6% | 11.9% | 9.0% | 3.8% |
 | EPS (₹) | 55.1 | 45.9 | 58.3 | 4.1 | -6.4 | -151.5 | **-160.2** | -8.2 | **211.6** | 187.7 | 83.7 |
 | EPS Growth | — | -16.7% | **27.0%** | **-93.0%** | N/M | N/M | N/M | N/M | N/M | -11.3% | — |
-| Shares Outstanding (Cr) | 36.0 | 36.1 | 38.4 | 38.4 | 38.5 | 38.5 | 38.5 | 38.6 | 38.6 | 38.6 | 38.7 |
-| Shares Change YoY | — | 0.3% | **6.4%** | 0.0% | 0.3% | 0.0% | 0.0% | 0.3% | 0.0% | 0.0% | — |
+| Shares Outstanding (Cr) | **36.0** | 36.1 | 38.4 | 38.4 | 38.5 | 38.5 | 38.5 | **38.6** | 38.6 | 38.6 | 38.7 |
+| Shares Change YoY | — | 0.3% | **6.4%** | **0.0%** | 0.3% | 0.0% | 0.0% | 0.3% | 0.0% | 0.0% | — |
 
 **Notes:**
+- The TTM (trailing twelve months) column is excluded from best/worst bolding throughout this table, as it represents a rolling 12-month period straddling fiscal years rather than a complete fiscal year. Best/worst extremes are identified among the full-year columns (FY16-FY25) only.
 - FY20 onwards: IndAS 116 implementation capitalised operating leases, inflating D&A and Interest while boosting Operating Profit. Pre-FY20 and post-FY20 margins are NOT directly comparable.
 - Screener's "Operating Profit" line is EBITDA-equivalent (pre-D&A). This analysis tracks it as "Operating Profit (pre-D&A)" but computes and tracks **EBIT** (Operating Profit minus D&A) as the true after-capital-charge operating profit. Buffett (2000 Letter): *"References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?"* EBIT Margin is the relevant profitability metric; OPM % (pre-D&A) figures are rounded to whole numbers as sourced from Screener.
 - The massive interest expense (₹5,133 Cr in FY25) is primarily lease liability interest under IndAS 116, not traditional debt interest.
@@ -88,16 +89,16 @@ Buffett: *"When a management team with a reputation for brilliance tackles a bus
 
 | Metric | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Total Assets | 12,630 | 15,210 | 21,129 | 25,012 | 42,048 | 42,974 | 45,860 | 59,043 | 82,069 | **1,15,914** |
-| Fixed Assets + CWIP | 4,779 | 3,819 | 4,611 | 5,686 | 16,918 | 18,887 | 21,407 | 27,671 | 36,037 | **51,568** |
-| Cash & Short-Term Investments§ | 986 | 3,713 | 6,344 | 6,517 | 9,499 | 7,290 | 8,033 | 11,514 | 16,453 | **26,402** |
-| Investments (incl. above) | 986 | 3,713 | 6,344 | 6,517 | 9,499 | 7,290 | 8,033 | 11,514 | 16,453 | **26,402** |
-| Borrowings (incl. Lease Liab.) | 3,245 | 2,596 | 2,453 | 2,429 | **22,719** | 29,860 | 36,878 | 44,860 | 51,280 | **67,088** |
-| Goodwill | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0**¶ |
-| Total Liabilities | 9,907 | 11,431 | 14,052 | 18,068 | **36,185** | 42,903 | 51,896 | 65,352 | 80,137 | **1,06,608** |
-| Shareholders' Equity | **2,723** | 3,779 | **7,077** | 6,944 | 5,863 | 71 | **-6,036** | -6,309 | 1,932 | **9,306** |
-| BVPS (₹) | 76 | 105 | **184** | 181 | 152 | 2 | **-157** | -163 | 50 | **241** |
-| Tangible BVPS (₹) | 76 | 105 | **184** | 181 | 152 | 2 | **-157** | -163 | 50 | **241** |
+| Total Assets | **12,630** | 15,210 | 21,129 | 25,012 | 42,048 | 42,974 | 45,860 | 59,043 | 82,069 | **1,15,914** |
+| Fixed Assets + CWIP | 4,779 | **3,819** | 4,611 | 5,686 | 16,918 | 18,887 | 21,407 | 27,671 | 36,037 | **51,568** |
+| Cash & Short-Term Investments§ | **986** | 3,713 | 6,344 | 6,517 | 9,499 | 7,290 | 8,033 | 11,514 | 16,453 | **26,402** |
+| Investments (incl. above) | **986** | 3,713 | 6,344 | 6,517 | 9,499 | 7,290 | 8,033 | 11,514 | 16,453 | **26,402** |
+| Borrowings (incl. Lease Liab.) | 3,245 | 2,596 | 2,453 | **2,429** | 22,719 | 29,860 | 36,878 | 44,860 | 51,280 | **67,088** |
+| Goodwill | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0¶ |
+| Total Liabilities | **9,907** | 11,431 | 14,052 | 18,068 | 36,185 | 42,903 | 51,896 | 65,352 | 80,137 | **1,06,608** |
+| Shareholders' Equity | 2,723 | 3,779 | 7,077 | 6,944 | 5,863 | 71 | -6,036 | **-6,309** | 1,932 | **9,306** |
+| BVPS (₹) | 76 | 105 | 184 | 181 | 152 | 2 | -157 | **-163** | 50 | **241** |
+| Tangible BVPS (₹) | 76 | 105 | 184 | 181 | 152 | 2 | -157 | **-163** | 50 | **241** |
 | Debt/Equity | 1.19 | 0.69 | **0.35** | 0.35 | 3.87 | **420.6** | Neg Eq | Neg Eq | 26.5 | 7.21 |
 | Debt/EBIT | 1.2x | 1.5x | **0.9x** | N/M | **239x** | N/M | N/M | 31.6x | 5.2x | 7.1x |
 | Interest Coverage (EBIT/Int.) | **7.6x** | 4.3x | 6.3x | -1.6x | 0.0x | **-2.2x** | -1.9x | 0.4x | 2.4x | 1.8x |
@@ -127,17 +128,17 @@ The balance sheet is paradoxically both weaker and stronger than it appears. Wea
 
 ### Cash Flow Statement (Standalone, ₹ Crores)
 
-| Metric | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | **FY24** | **FY25** |
+| Metric | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | **FY24** | FY25 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Operating Cash Flow | 3,116 | 3,782 | 3,903 | 3,160 | 6,943 | **-1,620** | 2,064 | 12,703 | 21,183 | **24,065** |
-| CapEx (est.) | -249 | 376† | -1,220 | -1,706 | -1,060 | -420 | -339 | -532 | -403 | **-1,219** |
+| CapEx (est.) | -249 | **376†** | -1,220 | **-1,706** | -1,060 | -420 | -339 | -532 | -403 | -1,219 |
 | Free Cash Flow | 2,867 | 4,158 | 2,683 | 1,454 | 5,883 | **-2,040** | 1,725 | 12,171 | 20,780 | **22,846** |
 | FCF Margin | 17.8% | 22.4% | 11.7% | 5.1% | 16.5% | **-13.9%** | 6.7% | 22.4% | **30.2%** | 28.3% |
 | FCF Per Share (₹) | 80 | 115 | 70 | 38 | 153 | **-53** | 45 | 315 | 538 | **592** |
-| Stock-Based Compensation | ~0 | ~0 | ~0 | ~0 | ~0 | ~0 | ~0 | ~0 | ~0 | **~0** |
-| Share Repurchases | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| Dividends Paid | 536 | 1,228 | 224 | 192 | 0 | 0 | 0 | 0 | 0 | 363 |
-| CFO / Operating Profit | 117% | 190% | 153% | N/M | 178% | N/M | 404% | 201% | 133% | 136% |
+| Stock-Based Compensation | ~0 | ~0 | ~0 | ~0 | ~0 | ~0 | ~0 | ~0 | ~0 | ~0 |
+| Share Repurchases | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Dividends Paid | 536 | **1,228** | 224 | 192 | **0** | 0 | 0 | 0 | 0 | 363 |
+| CFO / Operating Profit | **117%** | 190% | 153% | N/M | 178% | N/M | **404%** | 201% | 133% | 136% |
 
 *Note: CFO/Operating Profit ratios are sourced directly from Screener.in's pre-computed figures. Screener's underlying "Operating Profit" definition for this ratio differs from the P&L Operating Profit (EBITDA) line shown in Section 2 — the divergence is material for pre-FY20 years (18-34 pp gap) but narrows to 2-3 pp post-IndAS 116 adoption. These ratios should be taken as Screener-sourced figures rather than independently derived from this document's P&L data.*
 
@@ -166,7 +167,7 @@ Buffett: *"Accounting is the language of business. If you don't understand it, y
 | Ratio | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | ROCE % | **61** | 38 | 40 | 0 | 5 | **-14** | -13 | 7 | 25 | 17 |
-| ROE % | **127** | 51 | 41 | 2 | -4 | **-197** | N/M | N/M | N/M | 129 |
+| ROE % | 127 | 51 | 41 | 2 | -4 | **-197** | N/M | N/M | N/M | **129** |
 | ROIC % | N/M† | N/M† | N/M† | N/M† | N/M† | N/M† | N/M† | N/M† | N/M† | N/M† |
 | Debt/Equity | 1.19 | 0.69 | **0.35** | 0.35 | 3.87 | **420.6** | Neg | Neg | 26.5 | 7.21 |
 | OPM % (pre-D&A, Screener) | 20 | 12 | 13 | **-1** | 11 | 0 | 2 | 12 | **24** | 22 |
@@ -215,16 +216,16 @@ IndiGo passes Buffett's quality test on growth and competitive position, but **f
 
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Sales | 14,933 | 14,161 | 16,683 | 14,944 | 19,452 | 17,825 | 19,571 | 16,970 | 22,111 | 22,152 | 20,496 | 18,555 | **23,472** |
-| YoY Growth % | — | — | — | — | **30.3%** | 25.9% | 17.3% | 13.6% | 13.7% | 24.3% | 4.7% | 9.3% | 6.2% |
-| Operating Profit (pre-D&A) | 3,114 | 2,748 | **4,968** | 2,196 | 5,144 | 3,984 | 5,146 | 1,618 | 5,160 | **6,082** | 5,205 | **545** | 5,353 |
-| OPM % (pre-D&A) | 21% | 19% | **30%** | 15% | 26% | 22% | 26% | 10% | 23% | **27%** | 25% | **3%** | 23% |
-| Depreciation | 1,342 | 1,352 | 1,404 | 1,545 | 1,660 | 1,796 | 1,866 | 2,078 | 2,215 | 2,477 | 2,553 | 2,629 | **2,768** |
-| **EBIT** | 1,772 | 1,396 | **3,564** | 651 | 3,484 | 2,188 | 3,280 | **-460** | 2,945 | **3,605** | 2,652 | **-2,084** | 2,585 |
-| **EBIT Margin %** | 11.9% | 9.9% | **21.4%** | 4.4% | 17.9% | 12.3% | 16.8% | **-2.7%** | 13.3% | **16.3%** | 12.9% | **-11.2%** | 11.0% |
-| Net Profit | 1,418 | 916 | **3,087** | 188 | 2,998 | 1,894 | 2,727 | **-989** | 2,442 | **3,073** | 2,161 | **-2,614** | 613 |
-| **NPM %** | 9.5% | 6.5% | **18.5%** | 1.3% | 15.4% | 10.6% | 13.9% | **-5.8%** | 11.0% | 13.9% | 10.5% | **-14.1%** | 2.6% |
-| EPS (₹) | 36.79 | 23.76 | **80.07** | 4.87 | 77.69 | 49.07 | 70.64 | **-25.60** | 63.20 | **79.53** | 55.91 | **-67.62** | 15.85 |
+| Sales | 14,933 | **14,161** | 16,683 | 14,944 | 19,452 | 17,825 | 19,571 | 16,970 | 22,111 | 22,152 | 20,496 | 18,555 | **23,472** |
+| YoY Growth % | — | — | — | — | **30.3%** | 25.9% | 17.3% | 13.6% | 13.7% | 24.3% | **4.7%** | 9.3% | 6.2% |
+| Operating Profit (pre-D&A) | 3,114 | 2,748 | 4,968 | 2,196 | 5,144 | 3,984 | 5,146 | 1,618 | 5,160 | **6,082** | 5,205 | **545** | 5,353 |
+| OPM % (pre-D&A) | 21% | 19% | **30%** | 15% | 26% | 22% | 26% | 10% | 23% | 27% | 25% | **3%** | 23% |
+| Depreciation | **1,342** | 1,352 | 1,404 | 1,545 | 1,660 | 1,796 | 1,866 | 2,078 | 2,215 | 2,477 | 2,553 | 2,629 | **2,768** |
+| **EBIT** | 1,772 | 1,396 | 3,564 | 651 | 3,484 | 2,188 | 3,280 | -460 | 2,945 | **3,605** | 2,652 | **-2,084** | 2,585 |
+| **EBIT Margin %** | 11.9% | 9.9% | **21.4%** | 4.4% | 17.9% | 12.3% | 16.8% | -2.7% | 13.3% | 16.3% | 12.9% | **-11.2%** | 11.0% |
+| Net Profit | 1,418 | 916 | **3,087** | 188 | 2,998 | 1,894 | 2,727 | -989 | 2,442 | 3,073 | 2,161 | **-2,614** | 613 |
+| **NPM %** | 9.5% | 6.5% | **18.5%** | 1.3% | 15.4% | 10.6% | 13.9% | -5.8% | 11.0% | 13.9% | 10.5% | **-14.1%** | 2.6% |
+| EPS (₹) | 36.79 | 23.76 | **80.07** | 4.87 | 77.69 | 49.07 | 70.64 | -25.60 | 63.20 | 79.53 | 55.91 | **-67.62** | 15.85 |
 
 ### Key Observations
 
@@ -246,12 +247,12 @@ IndiGo passes Buffett's quality test on growth and competitive position, but **f
 
 | Holder | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 | Trend |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Promoters | 67.86 | 67.77 | 63.25 | 63.12 | 57.29 | 55.29 | 49.29 | 49.27 | 49.27 | 43.54 | 41.58 | **41.57** | ↓↓↓ |
-| FIIs | 19.43 | 19.76 | 20.29 | 18.70 | 23.66 | 24.43 | 25.40 | 24.83 | 25.12 | 27.31 | 28.44 | **24.99** | ↑ (recent dip) |
-| DIIs | 10.43 | 10.37 | 13.25 | 14.65 | 15.03 | 15.36 | 20.59 | 21.14 | 20.66 | 24.02 | 24.58 | **28.08** | ↑↑↑ |
-| Government | 0.07 | 0.07 | 0.07 | 0.07 | 0.07 | 0.07 | 0.07 | 0.07 | 0.07 | 0.07 | 0.04 | **0.04** | → (negligible) |
-| Public | 2.19 | 2.02 | 3.16 | 3.45 | 3.95 | 4.85 | 4.64 | 4.69 | 4.88 | 5.05 | 5.32 | **5.31** | ↑ |
-| No. of Shareholders | 1,06,266 | 1,05,511 | 1,40,179 | 1,41,106 | 1,70,059 | 2,39,650 | 2,49,061 | 2,73,677 | 2,89,444 | 3,03,062 | 3,16,246 | **3,87,056** | ↑↑↑ |
+| Promoters | **67.86** | 67.77 | 63.25 | 63.12 | 57.29 | 55.29 | 49.29 | 49.27 | 49.27 | 43.54 | 41.58 | **41.57** | ↓↓↓ |
+| FIIs | 19.43 | 19.76 | 20.29 | **18.70** | 23.66 | 24.43 | 25.40 | 24.83 | 25.12 | 27.31 | **28.44** | 24.99 | ↑ (recent dip) |
+| DIIs | 10.43 | **10.37** | 13.25 | 14.65 | 15.03 | 15.36 | 20.59 | 21.14 | 20.66 | 24.02 | 24.58 | **28.08** | ↑↑↑ |
+| Government | **0.07** | 0.07 | 0.07 | 0.07 | 0.07 | 0.07 | 0.07 | 0.07 | 0.07 | 0.07 | **0.04** | 0.04 | → (negligible) |
+| Public | 2.19 | **2.02** | 3.16 | 3.45 | 3.95 | 4.85 | 4.64 | 4.69 | 4.88 | 5.05 | **5.32** | 5.31 | ↑ |
+| No. of Shareholders | 1,06,266 | **1,05,511** | 1,40,179 | 1,41,106 | 1,70,059 | 2,39,650 | 2,49,061 | 2,73,677 | 2,89,444 | 3,03,062 | 3,16,246 | **3,87,056** | ↑↑↑ |
 
 ### Analysis
 
@@ -278,9 +279,9 @@ The shareholding pattern signals **mixed sentiment** — institutional smart mon
 | Metric | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|---|---|---|---|
 | Net Income | 2,242 | 156 | -248 | -5,830 | **-6,171** | -317 | **8,168** | 7,253 |
-| + Depreciation & Amort. | 437 | 760 | 3,974 | 4,699 | 5,068 | 5,101 | 6,406 | 8,637 |
-| - Est. Maintenance CapEx | -610 | -853 | -530 | -210 | -170 | -266 | -202 | -610 |
-| = **Owner Earnings** | **2,069** | **63** | **3,196** | **-1,341** | **-1,272** | **4,518** | **14,372** | **15,280** |
+| + Depreciation & Amort. | **437** | 760 | 3,974 | 4,699 | 5,068 | 5,101 | 6,406 | **8,637** |
+| - Est. Maintenance CapEx | -610 | **-853** | -530 | -210 | **-170** | -266 | -202 | -610 |
+| = **Owner Earnings** | 2,069 | 63 | 3,196 | **-1,341** | -1,273 | 4,518 | 14,372 | **15,280** |
 
 **Notes on CapEx:**
 - IndiGo's traditional CapEx is very low (₹400-1,200 Cr/year) because the airline LEASES rather than owns its aircraft. The major "capital" commitments are the lease obligations, which under IndAS 116 show up as D&A and interest, not CapEx.
@@ -323,9 +324,9 @@ The OE formula as applied here adds back the full ₹8,637 Cr of D&A while deduc
 | Metric | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | ROCE % | **61** | 38 | 40 | 0 | 5 | **-14** | -13 | 7 | 25 | 17 |
-| ROE % | **127** | 51 | 41 | 2 | -4 | **-197** | N/M | N/M | N/M | 129 |
+| ROE % | 127 | 51 | 41 | 2 | -4 | **-197** | N/M | N/M | N/M | **129** |
 | ROIC % | N/M | N/M | N/M | N/M | N/M | N/M | N/M | N/M | N/M | N/M |
-| ROA % | 17.0 | 11.9 | 12.3 | 0.7 | **-0.7** | **-13.7** | -13.9 | -0.6 | **11.6** | 7.3 |
+| ROA % | **17.0** | 11.9 | 12.3 | 0.7 | -0.7 | -13.7 | **-13.9** | -0.6 | 11.6 | 7.3 |
 
 *ROIC: Not computable due to IndAS 116 distortions (see Section 5A footnote). ROCE is the relevant return metric for IndiGo.*
 
@@ -335,11 +336,11 @@ Buffett: *"The ideal business is one that earns very high returns on capital and
 
 | Year | Net Margin | Asset Turnover | Equity Multiplier | ROE (DuPont) | Reported ROE |
 |---|---|---|---|---|---|
-| FY16 | 12.3% | 1.38x | 7.5x | 126.5% | 127% |
+| FY16 | **12.3%** | **1.38x** | 7.5x | 126.5% | 127% |
 | FY17 | 8.9% | 1.33x | 4.3x | 51.0% | 51% |
-| FY18 | 9.7% | 1.27x | 3.3x | 41.3% | 41% |
-| FY19 | 0.5% | 1.24x | 3.3x | 2.2% | 2% |
-| FY25 | 9.0% | 0.82x | 17.6x | 129.1% | 129% |
+| FY18 | 9.7% | 1.27x | **3.3x** | 41.3% | 41% |
+| FY19 | **0.5%** | 1.24x | 3.3x | **2.2%** | 2% |
+| FY25 | 9.0% | **0.82x** | **17.6x** | **129.1%** | 129% |
 
 *FY20-FY24 omitted: equity was negative or near-zero in FY21-FY23, making the Equity Multiplier arithmetically nonsensical and DuPont ROE meaningless. The Return Metrics table above shows N/M (not meaningful) flags for these years. Rounding note: ROE (DuPont) column uses full-precision underlying ratios; multiplying displayed rounded component values may differ by up to ~1pp — see Section 17 for detailed explanation.*
 
@@ -578,7 +579,7 @@ Roughly two-thirds of the stock's appreciation came from genuine earnings growth
 
 | Metric | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | Current (TTM) |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **P/Owner Earnings** (primary) | ~22x | ~20x | ~25x | N/M | ~16x | N/M | N/M | ~20x | ~8x | **11.9x** | — |
+| **P/Owner Earnings** (primary Buffett-pure multiple) | ~22x | ~20x | ~25x | N/M | ~16x | N/M | N/M | ~20x | ~8x | **11.9x** | — |
 | PE Ratio | ~20x | ~28x | ~25x | N/M | N/M | N/M | N/M | N/M | ~23x | ~24x | **54.6x** |
 | Forward PE (FY26E) | — | — | — | — | — | — | — | — | — | — | **~22.8x** |
 | PS Ratio | — | — | — | — | — | — | — | — | — | **2.2x** | — |
@@ -777,9 +778,11 @@ The DCF range is wide (₹4,511 to ₹16,419) reflecting genuine uncertainty abo
 
 The honest reading: GREEN at Market Average multiples (20x PE / 16x P/OE) — which is what the market is currently paying — but YELLOW at Mature airline-appropriate multiples (15x PE / 12x P/OE), which is closer to how Buffett would value the business. Given Section 6's "DECELERATING" verdict, Section 8's OE overstatement caveat (52-65%), and Buffett's 2020 exit from airlines, the YELLOW signal at Mature multiples is the more relevant lens for a strict Buffett-pure analysis.
 
+> **Lease-adjusted caveat (the most conservative lens):** The 6.8% OEPS hurdle above uses *reported* OEPS of ₹383.5. Section 8 establishes that reported Owner Earnings overstate sustainable economic earnings by 52-65% under IndAS 116 (the full ₹8,637 Cr D&A is added back while ₹8,000-10,000 Cr of lease payments flow through financing). On a lease-adjusted OEPS base of ~₹137-188 (midpoint ~₹160), the growth required to earn 10% at a 16x terminal P/OE rises to roughly **15-19% CAGR (midpoint ~17%)** — versus just 6.8% on the reported figure. That hurdle sits near the upper end of IndiGo's historical growth and leaves little-to-no margin of safety, materially eroding the headline 🟢 GREEN signal. This reinforces that the YELLOW-at-Mature-multiples reading — not the headline GREEN — is the more relevant Buffett-pure conclusion.
+
 > Apply the Traffic Light to BOTH EPS and OEPS implied growth across multiple terminal multiples. **At Mature airline-appropriate multiples (15x PE / 12x P/OE), both are 🟡 YELLOW — this is the more relevant signal for a strict Buffett-pure analysis.** At Market Average multiples (20x PE / 16x P/OE), both are 🟢 GREEN — achievable but dependent on IndiGo sustaining historical average multiples. The structural takeaway holds in either case: Owner Earnings are *more generous* than reported earnings, confirming that the lease-heavy accounting depresses reported profits more than economic reality warrants — but the price the market is currently paying assumes Market Average multiples will be sustained.
 
-**Verdict:** *"At ₹4,565, to earn 10% annualised return over 10 years assuming 20x exit PE, IndiGo needs 12.2% EPS CAGR (and just 6.8% Owner Earnings CAGR at 16x terminal P/OE). The company has delivered ~18-19% sales CAGR historically. This implies the market is pricing in reasonable growth — not heroic assumptions. The Owner Earnings assessment is more favourable than the EPS assessment, indicating that IndiGo's lease accounting depresses reported earnings below true economic earning power."*
+**Verdict:** *"At ₹4,565, to earn 10% annualised return over 10 years assuming 20x exit PE, IndiGo needs 12.2% EPS CAGR (and just 6.8% Owner Earnings CAGR at 16x terminal P/OE). The company has delivered ~18-19% sales CAGR historically. This implies the market is pricing in reasonable growth — not heroic assumptions — on reported numbers. The Owner Earnings assessment is more favourable than the EPS assessment on a reported basis; but note the lease-adjusted caveat above — if reported OE is overstated 52-65% per Section 8, the conservative OEPS hurdle rises to ~15-19% CAGR, so 'reasonable' holds on reported figures and tightens materially under the conservative lens."*
 
 ---
 
@@ -1013,7 +1016,7 @@ Approximate Annual Return ≈ BV Compounding Rate (decelerating) + Annual P/B Ch
 | Trustworthy management | Bhatia has been excellent; CEO transition creates uncertainty; promoter selling raises concerns | ⚠️ (Transition + selling) |
 | Resistant to disruption | Airlines face fuel/regulatory/competitive disruption constantly | ❌ (Not resistant) |
 | Sustainable economics for 10+ years | India's aviation demand is secular; IndiGo's position is strong but moat narrowing | ⚠️ (Likely but at risk) |
-| Price below intrinsic value | Base DCF suggests 44% MOS; Genuine Conservative DCF shows NO MoS; P/Owner Earnings 11.9x is attractive (with OE caveat from Section 8) | ⚠️ (Mixed) |
+| Price below intrinsic value | Base DCF suggests 43.7% MOS; Genuine Conservative DCF shows NO MoS; P/Owner Earnings 11.9x is attractive (with OE caveat from Section 8) | ⚠️ (Mixed) |
 
 ### Honest Verdict
 
@@ -1030,9 +1033,11 @@ Per the compliance checklist, the verdict must be classified as one of:
 - **(b) Fair company at wonderful price** — acceptable if discount is large
 - **(c) Value trap** — superficially cheap, but business is deteriorating
 
-**IndiGo is classified as: (b) Fair company at a fair (not wonderful) price.**
+**IndiGo is classified as: (b) Fair company at a fair price.**
 
-**Rationale for (b):** IndiGo is a "fair" (not "wonderful") business — it has cost advantages and scale, but it operates in a structurally challenging industry where moats can erode (engine issues, fuel spikes, competitive revival). It is currently at a "fair" (not "wonderful") price — Base DCF suggests 44% MoS but Genuine Conservative shows no MoS. The thesis requires both (a) the business recovers to recent peak earnings AND (b) the moat holds against Air India / A350 transition.
+*Classification note: (b) is assigned as the closest fit among the three checklist categories — it is clearly neither (a) (not a wonderful business) nor (c) (not a value trap). The one caveat is on the price: the checklist's standard (b) implies a "wonderful" (deeply discounted) price, whereas IndiGo currently trades at a fair price, not a wonderful one — the margin of safety is insufficient to qualify as a true "wonderful price" entry. A price below ₹4,130 (the Buy Zone threshold per Section 18), or ideally the ₹4,000-4,200 accumulation band, would supply the discount needed to qualify cleanly as (b).*
+
+**Rationale:** IndiGo is a "fair" (not "wonderful") business — it has cost advantages and scale, but it operates in a structurally challenging industry where moats can erode (engine issues, fuel spikes, competitive revival). It is currently at a "fair" (not "wonderful") price — Base DCF suggests 43.7% MoS but Genuine Conservative shows no MoS. The thesis requires both that the business recovers to recent peak earnings AND that the moat holds against the Air India revival / A350 transition.
 
 **Why NOT (a):** Earnings unpredictability disqualifies "wonderful" — Sep25 lost ₹2,614 Cr in a single quarter. The moat is narrowing, not strengthening.
 
@@ -1152,7 +1157,7 @@ A reader should choose based on their own risk tolerance. **The strict Buffett v
 | **Financial Health** | 7 | Strong cash generation; negative working capital; IndAS 116 distorts leverage metrics |
 | **Management Quality** | 6 | Bhatia excellent; CEO transition concern; promoter selling (Sec 12: "significant governance concern") caps the score |
 | **Valuation** | 7 | Attractive on P/Owner Earnings (11.9x) and OE Yield (8.4%); moderate on EV/EBIT (23.1x); expensive on P/B (19x) and TTM P/E (54.6x) |
-| **Margin of Safety** | 5 | Base DCF suggests 44% MOS; but Genuine Conservative DCF (₹4,511) shows NO margin of safety at current price |
+| **Margin of Safety** | 5 | Base DCF suggests 43.7% MOS; but Genuine Conservative DCF (₹4,511) shows NO margin of safety at current price |
 | **Scalability** | 6 | India's aviation TAM is massive; but FY25 in Friction Scaling mode (Inc. ROIC -1.7%); Section 11 verdict downgraded to Moderate Scaler |
 | **Earnings Quality** | 6 | CFO/Op Profit consistently >100% (high quality cash conversion); but earnings predictability is poor (-2,614 Cr loss in Sep25) |
 | **Buffett Verdict** | — | **Strict Buffett: PASS** (earnings unpredictability disqualifies it from "wonderful business" standard). **Pragmatic Buffett-disciple: ACCUMULATE on dips** for those willing to tolerate volatility for India's aviation TAM exposure. The Base DCF IV of ₹8,107 assumes recovery to recent peak earnings; the Genuine Conservative IV of ₹4,511 shows the stock is fairly priced today if headwinds persist. |
@@ -1172,7 +1177,7 @@ A reader should choose based on their own risk tolerance. **The strict Buffett v
 - IndiGo earned ₹188 per share in FY25 (a good year)
 - You're paying ₹4,565 → about 24x earnings
 - India's flying population is growing 15-20% a year
-- If IndiGo grows earnings at even 12% for 10 years: EPS = ₹188 × 3.11 = ₹584
+- If IndiGo grows earnings at even 12% for 10 years: EPS = ₹188 × ~3.1 ≈ ₹584
 - At 20x PE in 10 years: price = ₹11,680 → **~10% annual return**
 - At 25x PE: price = ₹14,600 → **~12.3% annual return**
 
