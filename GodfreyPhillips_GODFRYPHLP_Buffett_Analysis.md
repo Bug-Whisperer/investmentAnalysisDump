@@ -27,10 +27,10 @@ Godfrey Phillips India Ltd (GPIL) is India's **second-largest cigarette manufact
 - **Confectionery:** Funda and Naturalz Imli brands — a small but growing diversification play.
 - **24Seven Retail (discontinued/wound down):** Convenience store chain that was a drag on profitability; now substantially exited.
 
-Buffett: *"I try to invest in businesses that are so wonderful that an idiot can run them. Because sooner or later, one will."* A cigarette business is about as close to this ideal as exists — the product sells itself, the brand loyalty is fierce, and the distribution network, once built, is a self-reinforcing moat.
+Buffett: *"I try to invest in businesses that are so wonderful that an idiot can run them. Because sooner or later, one will."* A cigarette business is about as close to this ideal as exists — the product sells itself, the brand loyalty is fierce, and the distribution network, once built, is a self-reinforcing moat. GPIL's 40.7% ROIC, ~19% EBIT margins, and CapEx/Revenue of just 1.1% confirm exactly this — the business throws off cash with minimal reinvestment.
 
 **The Marlboro Licence — The Hidden Crown Jewel:**
-The Marlboro distribution licence in India is an asset that does not appear on the balance sheet but is enormously valuable. It gives GPIL exclusive access to the world's most recognised cigarette brand in one of the world's largest potential cigarette markets. PMI's 25.1% equity stake ensures alignment of interests and makes licence termination extremely unlikely.
+The Marlboro distribution licence in India is an asset that does not appear on the balance sheet but is enormously valuable. It gives GPIL exclusive access to the world's most recognised cigarette brand in one of the world's largest potential cigarette markets. PMI's 25.1% equity stake ensures alignment of interests and makes licence termination extremely unlikely (though the same PMI relationship carries a long-dated counter-risk given PMI's global smoke-free/IQOS strategy — see Section 10).
 
 ---
 
@@ -38,19 +38,19 @@ The Marlboro distribution licence in India is an asset that does not appear on t
 
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** | TTM |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Revenue (₹ Cr) | 2,477 | 2,586 | 2,331 | 2,403 | 2,326 | 2,497 | 2,877 | 2,525 | 2,688 | 3,562 | 4,018 | **5,611** | 6,177 |
+| Revenue (₹ Cr) | 2,477 | 2,586 | 2,331 | 2,403 | **2,326** | 2,497 | 2,877 | 2,525 | 2,688 | 3,562 | 4,018 | **5,611** | 6,177 |
 | Rev Growth YoY | — | 4.4% | -9.9% | 3.1% | -3.2% | 7.3% | 15.2% | **-12.2%** | 6.5% | 32.5% | 12.8% | **39.6%** | 26% |
 | Operating Profit (pre-D&A) (₹ Cr) | 367 | 367 | 324 | **254** | 260 | 403 | 592 | 541 | 633 | 804 | 903 | **1,177** | 1,301 |
 | OPM % (pre-D&A) | 14.8% | 14.2% | 13.9% | **10.6%** | 11.2% | 16.1% | 20.6% | 21.4% | **23.5%** | 22.6% | 22.5% | 21.0% | 21.1% |
-| Depreciation & Amortisation (₹ Cr) | 91 | 108 | 107 | 98 | 98 | 99 | 155 | 141 | 145 | 154 | 108 | 124 | 130 |
+| Depreciation & Amortisation (₹ Cr) | **91** | 108 | 107 | 98 | 98 | 99 | **155** | 141 | 145 | 154 | 108 | 124 | 130 |
 | **EBIT (₹ Cr)** | 276 | 259 | 217 | **156** | 162 | 304 | 437 | 400 | 488 | 650 | 795 | **1,053** | 1,171 |
 | **EBIT Margin** | 11.1% | 10.0% | 9.3% | **6.5%** | 7.0% | 12.2% | 15.2% | 15.8% | 18.2% | 18.2% | **19.8%** | 18.8% | 19.0% |
-| Other Income (₹ Cr) | 12 | 32 | 37 | 47 | 73 | 79 | 107 | 119 | 114 | 252 | 328 | 349 | 472 |
+| Other Income (₹ Cr) | **12** | 32 | 37 | 47 | 73 | 79 | 107 | 119 | 114 | 252 | 328 | **349** | 472 |
 | Net Profit (₹ Cr) | 175 | 183 | 170 | **137** | 159 | 260 | 385 | 376 | 438 | 690 | 884 | **1,072** | 1,284 |
-| NP Growth YoY | — | 4.6% | -7.1% | **-19.4%** | 16.1% | 63.5% | 48.1% | -2.3% | 16.5% | 57.5% | 28.1% | **21.3%** | 20% |
+| NP Growth YoY | — | 4.6% | -7.1% | **-19.4%** | 16.1% | **63.5%** | 48.1% | -2.3% | 16.5% | 57.5% | 28.1% | 21.3% | 20% |
 | NPM % | 7.1% | 7.1% | 7.3% | **5.7%** | 6.8% | 10.4% | 13.4% | 14.9% | 16.3% | 19.4% | **22.0%** | 19.1% | 20.8% |
 | EPS (₹, adj.) | 11.25 | 11.75 | 10.88 | **8.80** | 10.20 | 16.69 | 24.67 | 24.14 | 28.08 | 44.26 | 56.61 | **68.72** | 82.31 |
-| EPS Growth | — | 4.4% | -7.4% | **-19.1%** | 15.9% | 63.6% | 47.8% | -2.1% | 16.3% | 57.6% | 27.9% | **21.4%** | — |
+| EPS Growth | — | 4.4% | -7.4% | **-19.1%** | 15.9% | **63.6%** | 47.8% | -2.1% | 16.3% | 57.6% | 27.9% | 21.4% | — |
 | Shares Outstanding (Cr, adj.) | 15.6 | 15.6 | 15.6 | 15.6 | 15.6 | 15.6 | 15.6 | 15.6 | 15.6 | 15.6 | 15.6 | 15.6 | 15.6 |
 | Shares Change YoY | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
 | Div Payout % | 24% | 23% | 25% | 30% | 26% | **16%** | 32% | 33% | 33% | 33% | 33% | **46%** | — |
@@ -76,26 +76,28 @@ Critically, **earnings growth has massively outpaced revenue growth** — the ha
 - Net Profit: 10Y 19.3%, 5Y 22.7%
 - EPS: 10Y 19.3%, 5Y 22.7%
 
+*Note: "10Y" CAGRs are computed FY15→FY25 (10 fiscal years of compounding), consistent with the $1 Test period in Section 12. Including FY14 (the first year shown in the table) yields 11Y CAGRs of 7.7% for revenue and 17.9% for net profit/EPS — slightly lower because FY14 was a relatively stronger base year. The FY15-base figures are used throughout for consistency.*
+
 ---
 
 ## 3. BALANCE SHEET ANALYSIS — Financial Fortress Assessment
 
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Total Assets (₹ Cr) | 1,941 | 2,073 | 2,159 | 2,208 | 2,465 | 2,866 | 3,295 | 3,732 | 4,102 | 4,968 | 5,843 | **6,969** |
-| Shareholders' Equity (₹ Cr) | 1,184 | 1,312 | 1,576 | 1,660 | 1,793 | 2,038 | 2,187 | 2,582 | 2,927 | 3,548 | 4,232 | **5,245** |
-| Total Liabilities (₹ Cr) | 757 | 761 | 583 | 548 | 672 | 828 | 1,108 | 1,150 | 1,175 | 1,420 | 1,611 | **1,724** |
-| Total Borrowings (₹ Cr) | 239 | **277** | 132 | 73 | **28** | 42 | 357 | 396 | 337 | 355 | 345 | **179** |
-| Investments (₹ Cr) | 327 | 273 | 410 | 507 | 924 | 1,232 | 1,251 | 1,554 | 1,844 | 2,669 | 3,000 | **3,197** |
-| Net Cash/(Debt) (₹ Cr) | 88 | (4) | 278 | 434 | 896 | **1,190** | 894 | 1,158 | 1,507 | 2,314 | 2,655 | **3,018** |
+| Total Assets (₹ Cr) | **1,941** | 2,073 | 2,159 | 2,208 | 2,465 | 2,866 | 3,295 | 3,732 | 4,102 | 4,968 | 5,843 | **6,969** |
+| Shareholders' Equity (₹ Cr) | **1,184** | 1,312 | 1,576 | 1,660 | 1,793 | 2,038 | 2,187 | 2,582 | 2,927 | 3,548 | 4,232 | **5,245** |
+| Total Liabilities (₹ Cr) | 757 | 761 | 583 | **548** | 672 | 828 | 1,108 | 1,150 | 1,175 | 1,420 | 1,611 | **1,724** |
+| Total Borrowings (₹ Cr) | 239 | 277 | 132 | 73 | **28** | 42 | 357 | **396** | 337 | 355 | 345 | 179 |
+| Investments (₹ Cr) | 327 | **273** | 410 | 507 | 924 | 1,232 | 1,251 | 1,554 | 1,844 | 2,669 | 3,000 | **3,197** |
+| Net Cash/(Debt) (₹ Cr) | 88 | **(4)** | 278 | 434 | 896 | 1,190 | 894 | 1,158 | 1,507 | 2,314 | 2,655 | **3,018** |
 | Goodwill (₹ Cr) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| Debt/Equity | 0.20 | **0.21** | 0.08 | 0.04 | **0.02** | 0.02 | 0.16 | 0.15 | 0.12 | 0.10 | 0.08 | **0.03** |
-| Debt/EBIT | 0.9x | 1.1x | 0.6x | 0.5x | **0.2x** | **0.1x** | 0.8x | 1.0x | 0.7x | 0.5x | 0.4x | **0.2x** |
-| Borrowings/Owner Earnings † | 1.1x | 1.2x | 0.6x | 0.4x | **0.1x** | **0.2x** | 1.4x | 1.0x | 0.7x | 0.4x | 0.4x | **0.2x** |
+| Debt/Equity | 0.20 | **0.21** | 0.08 | 0.04 | **0.02** | **0.02** | 0.16 | 0.15 | 0.12 | 0.10 | 0.08 | 0.03 |
+| Debt/EBIT | 0.9x | **1.1x** | 0.6x | 0.5x | 0.2x | **0.1x** | 0.8x | 1.0x | 0.7x | 0.5x | 0.4x | 0.2x |
+| Borrowings/Owner Earnings † | 1.1x | 1.2x | 0.6x | 0.4x | **0.1x** | 0.2x | **1.4x** | 1.0x | 0.7x | 0.4x | 0.4x | 0.2x |
 | Interest Coverage (EBIT/Int) | **9.5x** | 13.6x | 21.7x | 39.0x | 81.0x | **304.0x** | 14.6x | 12.9x | 14.4x | 22.4x | 56.8x | 87.8x |
-| BVPS (₹, adj.) | 75.9 | 84.1 | 101.0 | 106.4 | 114.9 | 130.6 | 140.2 | 165.5 | 187.6 | 227.4 | 271.3 | **336.2** |
-| Tangible BVPS (₹, adj.) | 75.9 | 84.1 | 101.0 | 106.4 | 114.9 | 130.6 | 140.2 | 165.5 | 187.6 | 227.4 | 271.3 | **336.2** |
-| Fixed Assets (₹ Cr) | **707** | 675 | 695 | 700 | 650 | 694 | 1,015 | 1,034 | 983 | 932 | 893 | **732** |
+| BVPS (₹, adj.) | **75.9** | 84.1 | 101.0 | 106.4 | 114.9 | 130.6 | 140.2 | 165.5 | 187.6 | 227.4 | 271.3 | **336.2** |
+| Tangible BVPS (₹, adj.) | **75.9** | 84.1 | 101.0 | 106.4 | 114.9 | 130.6 | 140.2 | 165.5 | 187.6 | 227.4 | 271.3 | **336.2** |
+| Fixed Assets (₹ Cr) | 707 | 675 | 695 | 700 | **650** | 694 | 1,015 | **1,034** | 983 | 932 | 893 | 732 |
 | Current Ratio (approx.) | 1.66 | 2.19 | **2.23** | 2.08 | 1.35 | **1.18** | 1.35 | 1.48 | 1.47 | 1.26 | 1.53 | 1.95 |
 
 *Note: All BVPS figures adjusted to post-bonus share base of ~15.6 Cr shares. GPIL has zero goodwill (no acquisitions), so Tangible BVPS = BVPS. Screener.in does not provide a separate "Cash & Short-Term Investments" line; the "Investments" row includes both current and non-current investments and serves as the primary liquid financial asset proxy. Net Cash = Investments − Borrowings. † The template specifies "Net Debt/Owner Earnings," but GPIL is a net-cash company (Net Debt is deeply negative at −₹3,018 Cr). The ratio shown uses gross Borrowings/OE instead, which is more conservative and more informative — it shows how many years of Owner Earnings are needed to repay all debt, ignoring the offsetting cash pile.*
@@ -104,7 +106,7 @@ Critically, **earnings growth has massively outpaced revenue growth** — the ha
 
 This balance sheet is a **fortress of the highest order.** The company sits on ₹3,018 Cr of net cash (investments minus borrowings) against total equity of ₹5,245 Cr — meaning nearly 58% of book value is backed by liquid financial assets. Debt/equity has collapsed from 0.20 in FY14 to a negligible 0.03 in FY25. The company is effectively debt-free.
 
-The investment portfolio (₹3,197 Cr) has grown 10x over the decade, reflecting the company's ability to generate far more cash than it needs to run and grow the business. This is the classic Buffett signal — a business that throws off cash like a geyser and needs almost no capital to maintain its competitive position.
+The investment portfolio (₹3,197 Cr) has grown nearly 10x over the decade (from ₹327 Cr in FY14, a 9.8x increase), reflecting the company's ability to generate far more cash than it needs to run and grow the business. This is the classic Buffett signal — a business that throws off cash like a geyser and needs almost no capital to maintain its competitive position.
 
 Fixed assets have remained essentially flat in nominal terms — ₹707 Cr in FY14 to ₹732 Cr in FY25 (a mere ₹25 Cr increase over 11 years, which represents a significant decline in real, inflation-adjusted terms) — while revenue has more than doubled. This is the hallmark of a capital-light business — it generates ever-increasing revenue from a near-static fixed asset base.
 
@@ -116,17 +118,17 @@ Buffett: *"The best business is a royalty on the growth of others, requiring lit
 
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| CFO (₹ Cr) | 296 | **63** | 319 | 245 | **516** | 362 | 375 | 310 | 479 | **736** | 290 | 107 |
-| CapEx (₹ Cr, est.) | 91 | 95 | 111 | 67 | **53** | **139** | 479 | 169 | 110 | 83 | 57 | 62 |
-| FCF (₹ Cr) | 205 | (32) | 208 | 178 | **463** | 223 | **(104)** | 141 | 369 | **653** | 233 | 45 |
-| FCF Margin | 8.3% | (1.2%) | 8.9% | 7.4% | **19.9%** | 8.9% | **(3.6%)** | 5.6% | 13.7% | **18.3%** | 5.8% | 0.8% |
-| FCF Per Share (₹, adj.) | 13.1 | (2.1) | 13.3 | 11.4 | **29.7** | 14.3 | **(6.7)** | 9.0 | 23.7 | **41.9** | 14.9 | 2.9 |
+| CFO (₹ Cr) | 296 | **63** | 319 | 245 | 516 | 362 | 375 | 310 | 479 | **736** | 290 | 107 |
+| CapEx (₹ Cr, est.) | 91 | 95 | 111 | 67 | **53** | 139 | **479** | 169 | 110 | 83 | 57 | 62 |
+| FCF (₹ Cr) | 205 | (32) | 208 | 178 | 463 | 223 | **(104)** | 141 | 369 | **653** | 233 | 45 |
+| FCF Margin | 8.3% | (1.2%) | 8.9% | 7.4% | **19.9%** | 8.9% | **(3.6%)** | 5.6% | 13.7% | 18.3% | 5.8% | 0.8% |
+| FCF Per Share (₹, adj.) | 13.1 | (2.1) | 13.3 | 11.4 | 29.7 | 14.3 | **(6.7)** | 9.0 | 23.7 | **41.9** | 14.9 | 2.9 |
 | Stock-Based Compensation | Nil | Nil | Nil | Nil | Nil | Nil | Nil | Nil | Nil | Nil | Nil | **Nil** |
 | Share Repurchases | Nil | Nil | Nil | Nil | Nil | Nil | Nil | Nil | Nil | Nil | Nil | **Nil** |
-| D&A (₹ Cr) | 91 | 108 | 107 | 98 | 98 | 99 | 155 | 141 | 145 | 154 | 108 | 124 |
-| Owner Earnings (₹ Cr) | 211 | 234 | 210 | 195 | 225 | 276 | 253 | 416 | 517 | **794** | **958** | **1,159** |
-| OE/Share (₹, adj.) | 13.5 | 15.0 | 13.5 | 12.5 | 14.4 | 17.7 | 16.2 | 26.7 | 33.1 | 50.9 | 61.4 | **74.3** |
-| Dividends Paid (₹ Cr, est.) | 42 | 42 | 43 | 41 | 41 | 42 | 123 | 124 | 145 | 228 | 292 | **493** |
+| D&A (₹ Cr) | **91** | 108 | 107 | 98 | 98 | 99 | **155** | 141 | 145 | 154 | 108 | 124 |
+| Owner Earnings (₹ Cr) | 211 | 234 | 210 | **195** | 225 | 276 | 253 | 416 | 517 | 794 | 958 | **1,159** |
+| OE/Share (₹, adj.) | 13.5 | 15.0 | 13.5 | **12.5** | 14.4 | 17.7 | 16.2 | 26.7 | 33.1 | 50.9 | 61.4 | **74.3** |
+| Dividends Paid (₹ Cr, est.) | 42 | 42 | 43 | **41** | **41** | 42 | 123 | 124 | 145 | 228 | 292 | **493** |
 
 *Owner Earnings = Net Income + D&A − Estimated Maintenance CapEx (60% of total CapEx). SBC is negligible for this Indian FMCG company, so Base Owner Earnings = Dilution-Adjusted Owner Earnings.*
 
@@ -148,17 +150,17 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 
 | Ratio | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| ROCE % | 22% | 18% | 14% | **12%** | **10%** | 16% | 20% | 15% | 17% | 22% | 23% | **26%** |
-| ROE % | 14.8% | 14.7% | 11.8% | **8.5%** | 9.2% | 13.6% | 18.2% | 15.8% | 15.9% | 21.3% | **22.7%** | **22.6%** |
+| ROCE % | 22% | 18% | 14% | 12% | **10%** | 16% | 20% | 15% | 17% | 22% | 23% | **26%** |
+| ROE % | 14.8% | 14.7% | 11.8% | **8.5%** | 9.2% | 13.6% | 18.2% | 15.8% | 15.9% | 21.3% | **22.7%** | 22.6% |
 | ROIC % | 22.8% | 18.7% | 17.5% | **14.3%** | 19.7% | 32.3% | 34.3% | 29.3% | 34.3% | **51.5%** | 45.8% | 40.7% |
-| Debt/Equity | 0.20 | **0.21** | 0.08 | 0.04 | **0.02** | 0.02 | 0.16 | 0.15 | 0.12 | 0.10 | 0.08 | **0.03** |
+| Debt/Equity | 0.20 | **0.21** | 0.08 | 0.04 | **0.02** | **0.02** | 0.16 | 0.15 | 0.12 | 0.10 | 0.08 | 0.03 |
 | OPM % (pre-D&A, Screener) | 14.8% | 14.2% | 13.9% | **10.6%** | 11.2% | 16.1% | 20.6% | 21.4% | **23.5%** | 22.6% | 22.5% | 21.0% |
 | **EBIT Margin %** | 11.1% | 10.0% | 9.3% | **6.5%** | 7.0% | 12.2% | 15.2% | 15.8% | 18.2% | 18.2% | **19.8%** | 18.8% |
 | NPM % | 7.1% | 7.1% | 7.3% | **5.7%** | 6.8% | 10.4% | 13.4% | 14.9% | 16.3% | 19.4% | **22.0%** | 19.1% |
 | Debtor Days | 15 | 18 | 17 | 27 | 13 | 10 | **9** | 18 | 21 | 15 | 16 | **34** |
 | Inventory Days | 216 | 248 | **257** | 187 | **179** | 218 | 199 | 222 | 247 | 190 | 242 | 224 |
-| Cash Conv Cycle | 176 | 217 | **231** | 169 | **140** | **130** | 134 | 170 | 192 | 131 | 191 | 202 |
-| Working Capital Days | 23 | 39 | **74** | 70 | 30 | **9** | 21 | 33 | 42 | 21 | 56 | **89** |
+| Cash Conv Cycle | 176 | 217 | **231** | 169 | 140 | **130** | 134 | 170 | 192 | 131 | 191 | 202 |
+| Working Capital Days | 23 | 39 | 74 | 70 | 30 | **9** | 21 | 33 | 42 | 21 | 56 | **89** |
 | Current Ratio | 1.66 | 2.19 | **2.23** | 2.08 | 1.35 | **1.18** | 1.35 | 1.48 | 1.47 | 1.26 | 1.53 | 1.95 |
 | Interest Coverage (EBIT/Int) | **9.5x** | 13.6x | 21.7x | 39.0x | 81.0x | **304.0x** | 14.6x | 12.9x | 14.4x | 22.4x | 56.8x | 87.8x |
 | Div Payout % | 24% | 23% | 25% | 30% | 26% | **16%** | 32% | 33% | 33% | 33% | 33% | **46%** |
@@ -175,7 +177,7 @@ Buffett: *"Owner earnings represent (a) reported earnings plus (b) depreciation,
 | Positive Free Cash Flow | Positive | Positive in 10 of 12 years | ✅ |
 | Promoter/Insider holding | Aligned | **72.58% promoter** (KK Modi + PMI 25.1%) | ✅ |
 | Dividend payout | Paying | **~30% average (12Y), rising to 46%** | ✅ |
-| EBIT Margin stability | Stable | **6.5–19.8% range (expanding strongly); 15–19% last 5Y** | ✅ |
+| EBIT Margin stability | Stable | **6.5–19.8% range (expanding strongly); 15.8–19.8% last 5Y** | ✅ |
 | Moat / Pricing Power | Identifiable | **Marlboro licence + brand portfolio + addictive product** | ✅ |
 | ROIC | >15% | **40.7% latest; 40.3% 5Y avg (FY21-FY25)** | ✅ |
 | Earnings yield | Reasonable | **3.84% at CMP** | ⚠️ (not cheap) |
@@ -194,19 +196,19 @@ The ratio trends reveal a company that has transformed from a mediocre cigarette
 
 | Metric | Dec22 | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | **Dec25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Sales (₹ Cr) | 920 | **796** | 1,046 | 1,158 | 1,250 | 875 | 1,088 | 1,360 | 1,589 | 1,573 | 1,486 | **1,289** | **1,829** |
-| YoY Sales Gr % | — | — | — | — | 35.9% | 9.9% | 4.0% | 17.4% | 27.1% | 79.8% | 36.6% | -5.2% | **15.1%** |
+| Sales (₹ Cr) | 920 | **796** | 1,046 | 1,158 | 1,250 | 875 | 1,088 | 1,360 | 1,589 | 1,573 | 1,486 | 1,289 | **1,829** |
+| YoY Sales Gr % | — | — | — | — | 35.9% | 9.9% | 4.0% | 17.4% | 27.1% | **79.8%** | 36.6% | **-5.2%** | 15.1% |
 | Op Profit (pre-D&A) (₹ Cr) | 210 | **152** | 253 | 224 | 228 | 191 | 270 | 277 | 361 | 269 | 338 | 314 | **380** |
-| OPM % (pre-D&A) | 23% | **19%** | 24% | 19% | 18% | 22% | **25%** | 20% | 23% | **17%** | 23% | 24% | 21% |
-| Depreciation (₹ Cr) | 39 | 37 | 37 | 36 | 36 | 28 | 27 | 27 | 28 | 42 | 28 | 29 | 31 |
-| **EBIT (₹ Cr)** | 171 | **115** | 216 | 188 | 192 | 163 | **243** | 250 | **333** | 227 | 310 | 285 | **349** |
+| OPM % (pre-D&A) | 23% | 19% | 24% | 19% | 18% | 22% | **25%** | 20% | 23% | **17%** | 23% | 24% | 21% |
+| Depreciation (₹ Cr) | 39 | 37 | 37 | 36 | 36 | 28 | **27** | **27** | 28 | **42** | 28 | 29 | 31 |
+| **EBIT (₹ Cr)** | 171 | **115** | 216 | 188 | 192 | 163 | 243 | 250 | 333 | 227 | 310 | 285 | **349** |
 | **EBIT Margin %** | 18.6% | **14.4%** | 20.7% | 16.2% | 15.4% | 18.6% | **22.3%** | 18.4% | 21.0% | **14.4%** | 20.9% | 22.1% | 19.1% |
-| Net Profit (₹ Cr) | 199 | **147** | 254 | 202 | 212 | 215 | 229 | 248 | 316 | 280 | **356** | 305 | **343** |
-| NPM % | 21.6% | **18.5%** | **24.3%** | 17.4% | 17.0% | 24.6% | 21.0% | 18.2% | 19.9% | 17.8% | 23.9% | 23.7% | 18.8% |
-| EPS (₹, adj.) | 12.77 | **9.43** | 16.31 | 12.95 | 13.61 | 13.73 | 14.65 | 15.92 | 20.25 | 17.90 | **22.84** | 19.56 | **22.01** |
-| Other Inc (₹ Cr) | 79 | 44 | 53 | 38 | 87 | **114** | 40 | 94 | 80 | **136** | **141** | 101 | 94 |
+| Net Profit (₹ Cr) | 199 | **147** | 254 | 202 | 212 | 215 | 229 | 248 | 316 | 280 | **356** | 305 | 343 |
+| NPM % | 21.6% | 18.5% | 24.3% | 17.4% | **17.0%** | **24.6%** | 21.0% | 18.2% | 19.9% | 17.8% | 23.9% | 23.7% | 18.8% |
+| EPS (₹, adj.) | 12.77 | **9.43** | 16.31 | 12.95 | 13.61 | 13.73 | 14.65 | 15.92 | 20.25 | 17.90 | **22.84** | 19.56 | 22.01 |
+| Other Inc (₹ Cr) | 79 | 44 | 53 | **38** | 87 | 114 | 40 | 94 | 80 | 136 | **141** | 101 | 94 |
 
-*Note: FY24 quarterly "Sales" figures from Screener sum to ₹4,329 Cr vs the annual "Revenue" figure of ₹4,018 Cr — a ₹311 Cr (7.7%) discrepancy. This is a Screener reporting-basis difference (quarterly Sales may include gross excise/duty components that are netted in the annual P&L), not an analytical error. Similarly, FY24 quarterly Depreciation figures sum to ₹137 Cr vs the annual figure of ₹108 Cr; accordingly, FY24 quarterly EBIT and EBIT Margin figures (Jun23 through Mar24) should be interpreted with this reporting-basis caveat. FY25 quarterly sums match the annual figures for both Sales and D&A. As a result, some FY25 YoY quarterly growth rates (especially Mar25's 79.8%) may appear distorted when compared against the FY24 quarterly base.*
+*Note: FY24 quarterly "Sales" figures from Screener sum to ₹4,329 Cr vs the annual "Revenue" figure of ₹4,018 Cr — a ₹311 Cr (7.7%) discrepancy. This is a Screener reporting-basis difference (quarterly Sales may include gross excise/duty components that are netted in the annual P&L), not an analytical error. Similarly, FY24 quarterly Depreciation figures sum to ₹137 Cr vs the annual figure of ₹108 Cr; accordingly, FY24 quarterly EBIT and EBIT Margin figures (Jun23 through Mar24) should be interpreted with this reporting-basis caveat. Quantifying the impact: the FY24 quarterly D&A overshoot of ₹29 Cr spread across four quarters means each FY24 quarter's EBIT may be understated by roughly ₹7-10 Cr versus a comparable annual basis. Against the respective quarterly revenue bases (₹875-1,250 Cr), this works out to approximately 0.6-0.9 percentage points of EBIT margin per quarter (e.g. ₹7.25 Cr ÷ ₹875 Cr ≈ 0.83 pp in the smallest quarter, ÷ ₹1,250 Cr ≈ 0.58 pp in the largest). A reader comparing the Dec23 EBIT margin (15.4%) with Jun24 (22.3%) should therefore attribute most of the step-change to genuine improvement, but allow for ~0.6-0.9 pp of the gap being FY24 data-basis noise. FY25 quarterly sums match the annual figures for both Sales and D&A. As a result, some FY25 YoY quarterly growth rates (especially Mar25's 79.8%) may appear distorted when compared against the FY24 quarterly base.*
 
 ### Key Observations:
 
@@ -216,7 +218,7 @@ The ratio trends reveal a company that has transformed from a mediocre cigarette
 
 **3. Normalised Quarterly EPS Run-Rate:** Stripping out volatility, the last 4 quarters (Mar25 through Dec25) deliver total EPS of ₹82.31 (TTM). The normalised quarterly run-rate is approximately ₹20-22/share, implying annualised earnings power of ₹80-88/share. This supports the TTM EPS of ₹82.31 as a reliable base for valuation.
 
-**4. Red Flags / Positive Surprises:** The Other Income line has become significant (₹472 Cr TTM, ~27% of PBT). This is primarily investment income from the growing treasury (₹3,197 Cr in investments). While this boosts reported EPS, it is lower-quality income dependent on market conditions. Core operating earnings remain the primary value driver.
+**4. Red Flags / Positive Surprises:** The Other Income line has become significant (₹472 Cr TTM, ~28% of PBT). This is primarily investment income from the growing treasury (₹3,197 Cr in investments). While this boosts reported EPS, it is lower-quality income dependent on market conditions. Core operating earnings remain the primary value driver.
 
 **Verdict: CRUISING with Upward Bias** — The business is generating steady, predictable earnings with an underlying growth trajectory of 15-20%. Quarterly earnings are predictable within a 15% band, which satisfies Buffett's predictability criterion. The excise duty transition is being absorbed without structural damage to profitability.
 
@@ -224,14 +226,14 @@ The ratio trends reveal a company that has transformed from a mediocre cigarette
 
 ## 7. SHAREHOLDING PATTERN — Who Owns the Company?
 
-| Holder | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | **Dec25** | Trend |
+| Holder | Mar23 | Jun23 | Sep23 | Dec23 | Mar24 | Jun24 | Sep24 | Dec24 | Mar25 | Jun25 | Sep25 | Dec25 | Trend |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Promoters | 72.58 | 72.58 | 72.58 | 72.58 | 72.58 | 72.58 | 72.58 | 72.58 | 72.58 | 72.58 | 72.58 | **72.58** | → Stable |
-| FIIs/FPIs | 10.05 | 10.05 | 9.93 | 10.13 | 10.76 | 10.83 | 10.80 | 10.63 | 9.72 | 9.32 | **7.94** | 8.15 | ↓ Declining |
-| DIIs (MFs+Ins) | 1.62 | 1.49 | 1.55 | 1.55 | 1.52 | 1.90 | 1.97 | 1.99 | 3.29 | 3.85 | 4.12 | **4.21** | ↑ Rising |
+| Promoters | 72.58 | 72.58 | 72.58 | 72.58 | 72.58 | 72.58 | 72.58 | 72.58 | 72.58 | 72.58 | 72.58 | 72.58 | → Stable |
+| FIIs/FPIs | 10.05 | 10.05 | 9.93 | 10.13 | 10.76 | 10.83 | 10.80 | 10.63 | 9.72 | 9.32 | 7.94 | 8.15 | ↓ Declining |
+| DIIs (MFs+Ins) | 1.62 | 1.49 | 1.55 | 1.55 | 1.52 | 1.90 | 1.97 | 1.99 | 3.29 | 3.85 | 4.12 | 4.21 | ↑ Rising |
 | Government | 0.05 | 0.05 | 0.05 | 0.05 | 0.05 | 0.05 | 0.05 | 0.05 | 0.05 | 0.05 | 0.02 | 0.02 | → Minimal |
-| Public/Retail | 15.69 | 15.83 | 15.88 | 15.68 | 14.67 | 14.24 | 14.19 | 14.43 | 14.36 | 14.21 | 15.33 | **15.03** | → Stable |
-| No. of Shareholders | 44,386 | 44,566 | 38,936 | 41,640 | 38,489 | 39,116 | 73,826 | 78,189 | 74,994 | 63,714 | **1,12,766** | **1,23,283** | ↑ Sharp Rise |
+| Public/Retail | 15.69 | 15.83 | 15.88 | 15.68 | 14.67 | 14.24 | 14.19 | 14.43 | 14.36 | 14.21 | 15.33 | 15.03 | → Stable |
+| No. of Shareholders | 44,386 | 44,566 | 38,936 | 41,640 | 38,489 | 39,116 | 73,826 | 78,189 | 74,994 | 63,714 | 1,12,766 | 1,23,283 | ↑ Sharp Rise |
 
 *Note: The five listed categories may not sum to exactly 100% in all quarters. Screener's data includes an "Others" category (Bodies Corporate, Trusts, etc.) of ~0.4% in Mar24–Dec24 quarters, which is not shown above. This does not affect the analysis of major holder trends.*
 
@@ -239,7 +241,7 @@ The ratio trends reveal a company that has transformed from a mediocre cigarette
 
 **1. Promoter Holding — Rock Solid at 72.58%.** The KK Modi family holds ~47.5% and Philip Morris holds ~25.1%. Zero pledging. Zero dilution. The promoter structure is a fortress — both parties are long-term committed, and PMI's stake ensures the Marlboro licence is secure. No regulatory overhang.
 
-**2. FII Trend — Declining from 10.8% peak (Jun24) to 8.15% (Dec25).** FIIs have reduced by ~260 bps over 6 quarters, representing approximately ₹870 Cr of selling. This likely reflects global tobacco ESG concerns (many ESG-mandated funds exclude tobacco), not company-specific fundamentals. The FII selling has created a price headwind — GPIL's stock has corrected ~45% from its ₹3,947 high.
+**2. FII Trend — Declining from 10.8% peak (Jun24) to 8.15% (Dec25).** FIIs have reduced by ~260 bps over 6 quarters, representing approximately ₹870 Cr of selling. While global tobacco ESG exclusion mandates are the primary driver (many ESG-mandated funds are structurally prohibited from holding tobacco), some of the selling may also reflect genuine caution around the February 2026 excise duty restructuring and its near-term volume impact, as well as stop-loss-driven selling triggered by the ~45% price correction from the ₹3,947 high. The distinction matters: ESG-driven selling is a structural, fundamentals-agnostic demand constraint (bearish for the multiple but not the business), whereas excise/volume-driven selling would be a fundamentals signal. The DII accumulation pattern (below) suggests domestic institutions read the weakness as primarily the former.
 
 **3. DII Trend — Strongly Rising from 1.5% (FY23) to 4.2% (Dec25).** Domestic mutual funds have nearly tripled their holding — a powerful contrarian signal. DII accumulation into FII selling at depressed valuations is the classic setup Buffett loves. Domestic smart money is seeing value that global ESG-constrained money cannot access.
 
@@ -253,12 +255,14 @@ The ratio trends reveal a company that has transformed from a mediocre cigarette
 
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| CapEx (₹ Cr, est.) | 91 | 95 | 111 | 67 | 53 | 139 | 479 | 169 | 110 | 83 | 57 | **62** |
-| CapEx as % of Rev | 3.7% | 3.7% | 4.8% | 2.8% | 2.3% | 5.6% | **16.6%** | 6.7% | 4.1% | 2.3% | **1.4%** | **1.1%** |
-| D&A (₹ Cr) | 91 | 108 | 107 | 98 | 98 | 99 | 155 | 141 | 145 | 154 | 108 | 124 |
-| Maint CapEx (₹ Cr, est. 60%) | 55 | 57 | 67 | 40 | 32 | 83 | 288 | 101 | 66 | 50 | 34 | **37** |
-| **Owner Earnings (₹ Cr)** | 211 | 234 | 210 | 195 | 225 | 276 | 253 | 416 | 517 | **794** | **958** | **1,159** |
-| OE/Share (₹, adj.) | 13.5 | 15.0 | 13.5 | 12.5 | 14.4 | 17.7 | 16.2 | 26.7 | 33.1 | 50.9 | 61.4 | **74.3** |
+| CapEx (₹ Cr, est.) | 91 | 95 | 111 | 67 | **53** | 139 | **479** | 169 | 110 | 83 | 57 | 62 |
+| CapEx as % of Rev | 3.7% | 3.7% | 4.8% | 2.8% | 2.3% | 5.6% | **16.6%** | 6.7% | 4.1% | 2.3% | 1.4% | **1.1%** |
+| D&A (₹ Cr) | **91** | 108 | 107 | 98 | 98 | 99 | **155** | 141 | 145 | 154 | 108 | 124 |
+| Maint CapEx (₹ Cr, template 60%) † | 55 | 57 | 67 | 40 | **32** | 83 | **288** | 101 | 66 | 50 | 34 | 37 |
+| **Owner Earnings (₹ Cr)** | 211 | 234 | 210 | **195** | 225 | 276 | 253 | 416 | 517 | 794 | 958 | **1,159** |
+| OE/Share (₹, adj.) | 13.5 | 15.0 | 13.5 | **12.5** | 14.4 | 17.7 | 16.2 | 26.7 | 33.1 | 50.9 | 61.4 | **74.3** |
+
+*† The 60% maintenance share is the standard template convention and is the optimistic (highest-OE) end of the sensible range for GPIL. Because the company's productive asset base has been flat for a decade, an economically rigorous reading would use 90-100% maintenance — see the detailed note below the calculation. The 60% figure is retained for cross-analysis consistency; the OE impact of the alternative is small (1.6-2.2%).*
 
 **Owner Earnings Calculation:**
 
@@ -285,11 +289,13 @@ Buffett: *"If options aren't a form of compensation, what are they? If compensat
 
 | Metric | FY14 | FY15 | FY16 | FY17 | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| ROE % | 14.8 | 14.7 | 11.8 | **8.5** | 9.2 | 13.6 | 18.2 | 15.8 | 15.9 | 21.3 | **22.7** | **22.6** |
+| ROE % | 14.8 | 14.7 | 11.8 | **8.5** | 9.2 | 13.6 | 18.2 | 15.8 | 15.9 | 21.3 | **22.7** | 22.6 |
 | ROA % | 9.0 | 9.1 | 8.0 | **6.3** | 6.8 | 9.8 | 12.5 | 10.7 | 11.2 | 15.2 | 16.4 | **16.7** |
 | ROIC % | 22.8 | 18.7 | 17.5 | **14.3** | 19.7 | 32.3 | 34.3 | 29.3 | 34.3 | **51.5** | 45.8 | 40.7 |
-| ROCE % | 22 | 18 | 14 | **12** | **10** | 16 | 20 | 15 | 17 | 22 | 23 | **26** |
-| Debt/Equity | 0.20 | 0.21 | 0.08 | 0.04 | 0.02 | 0.02 | 0.16 | 0.15 | 0.12 | 0.10 | 0.08 | **0.03** |
+| ROCE % | 22 | 18 | 14 | 12 | **10** | 16 | 20 | 15 | 17 | 22 | 23 | **26** |
+| Debt/Equity | 0.20 | **0.21** | 0.08 | 0.04 | **0.02** | **0.02** | 0.16 | 0.15 | 0.12 | 0.10 | 0.08 | 0.03 |
+
+*Note: ROCE (26%) is Screener.in's published figure (EBIT / [Total Assets − Current Liabilities]), used uniformly across all years for comparability. ROIC (40.7%) is an operating-return measure that already reflects the capital-light operating base. A whole-company ROCE on average total capital employed is ~21% for FY25; an operating-capital-only ROCE (excluding the ₹3,197 Cr non-operating investment portfolio) would be materially higher (~47%). See the methodology note below the Quality Test for the full reconciliation.*
 
 **The Buffett Quality Test:**
 
@@ -300,7 +306,11 @@ GPIL passes the return-on-capital test with flying colours in recent years. The 
 - **ROIC** of 40.7% is staggering — it means every incremental rupee of capital invested generates 41 paise of after-tax operating income. Very few businesses in India sustain ROIC above 30%.
 - **ROCE** of 26% is well above any reasonable cost of capital (10-12%), confirming massive value creation.
 
-The key insight: **ROCE > ROE** in this case (26% vs 22.6%). This is the healthy pattern — it means the underlying business engine is powerful, and the slightly lower ROE reflects tax drag and financing structure, not leverage tricks. Buffett would be delighted by this pattern.
+The key insight: **ROCE > ROE** in this case (26% vs 22.6%). This is the healthy pattern — it means the underlying business engine is powerful. The mechanism is that ROCE (on Screener's EBIT / capital-employed basis) is a pre-tax operating-return measure, while ROE is a post-tax measure on the full equity base — and that full equity base is inflated by the large ₹3,197 Cr investment portfolio earning only bond/deposit-like returns, which dilutes the blended ROE down to 22.6%. Strip the operating franchise out on its own and it earns returns dramatically higher than either headline figure (see the methodology note below). This is a quality signal, not a leverage trick: the operating business is even better than the headline ROE suggests. Buffett would be delighted by this pattern.
+
+> **Note on ROCE methodology:** The 26% figure is **Screener.in's published ROCE**, computed as EBIT / (Total Assets − Current Liabilities). On this basis FY25 ROCE = 26%, and it is used throughout this table because Screener's capital-employed definition is applied uniformly across all years (ensuring cross-year comparability). For reference, two alternative constructions bracket this figure: (1) a *whole-company* ROCE using average total capital employed (Equity + Borrowings, including the investment book) computes to ~21% for FY25 (₹1,053 / ~₹5,000 Cr avg) — slightly below Screener's figure because Screener's denominator (Total Assets − Current Liabilities) differs from Equity + Borrowings; (2) an *operating-capital-only* ROCE that strips the ₹3,197 Cr non-operating investment portfolio out of capital employed would be *much higher* — roughly 47% on year-end operating CE (₹1,053 / ₹2,227 Cr) — because the operating franchise uses very little capital. The takeaway across all three constructions is the same: the operating business earns returns far above its cost of capital. The 26% Screener figure is retained as the headline for consistency and verifiability against the public data source.
+
+> **DuPont cross-reference:** The full three-factor DuPont decomposition of ROE (Net Profit Margin × Asset Turnover × Equity Multiplier) is presented in Section 17 (Part A), including the year-by-year breakdown and the Quality Assessment table. The headline finding: GPIL's ROE is driven almost entirely by Net Profit Margin expansion (5.7% → 19-22%), not by leverage (which actually declined) — the highest-quality driver of return.
 
 Buffett: *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* GPIL's ROIC of 40%+ confirms it meets this standard. The question is whether there are enough reinvestment opportunities to compound at these rates — Section 11 (Scalability) addresses this.
 
@@ -334,9 +344,11 @@ The PMI equity stake (25.1%) and Marlboro licence create a unique strategic moat
 
 **Is the business susceptible to change?**
 
-Buffett favours businesses with an *absence of change.* Cigarettes are the textbook example — the product is identical to what it was 50 years ago. The same tobacco, wrapped in paper, sold in packs. There is no technological disruption risk, no product cycle, no risk of obsolescence. People smoked cigarettes in 1950, they smoke them in 2026, and they will smoke them in 2050.
+Buffett favours businesses with an *absence of change.* Cigarettes are close to the textbook example — the core product is largely identical to what it was 50 years ago. The same tobacco, wrapped in paper, sold in packs. The product cycle is extraordinarily slow and the risk of obsolescence is low: people smoked cigarettes in 1950, they smoke them in 2026, and most will continue to in 2050.
 
-The only credible long-term structural threat is **declining smoking prevalence** through generational shifts, public health campaigns, and alternatives (vaping, heated tobacco). However, in India, cigarettes represent less than 10% of total tobacco consumption (most is bidis, gutka, and chewing tobacco). There is a *structural tailwind* from trade-up: as incomes rise, bidi and smokeless tobacco users migrate toward cigarettes, partially offsetting any per-capita decline.
+The one genuine technology risk worth monitoring is **Heat-Not-Burn (HNB) / smoke-free substitution.** HNB products — PMI's IQOS, BAT's glo, JTI's Ploom — have demonstrated real disruption in markets where permitted: IQOS captured roughly 30-40% of the Japanese tobacco market within a decade, and PMI's stated global strategy is an explicit pivot away from combustible cigarettes toward a "smoke-free future." This creates a unique and double-edged situation for GPIL: its 25.1% equity partner, Philip Morris, is the global leader in the very technology that threatens GPIL's core combustible franchise. Two factors currently limit this risk in the Indian context: (1) India banned e-cigarettes and HNB devices under the 2019 PECA Act, so the disruptive category is not legally available domestically; and (2) the price points of HNB devices are far above the mass-market Indian cigarette consumer's reach. However, if the regulatory stance on HNB were to reverse, PMI's long-term interests could diverge from GPIL's combustible-cigarette franchise — PMI might prefer to introduce IQOS through a different structure. This is a low-probability, long-dated risk, but it is the single most credible "absence of change" violation in the thesis and warrants ongoing monitoring. It is captured explicitly in the Risk Matrix (Section 20).
+
+The other credible long-term structural threat is **declining smoking prevalence** through generational shifts, public health campaigns, and alternatives (vaping, heated tobacco). However, in India, cigarettes represent less than 10% of total tobacco consumption (most is bidis, gutka, and chewing tobacco). There is a *structural tailwind* from trade-up: as incomes rise, bidi and smokeless tobacco users migrate toward cigarettes, partially offsetting any per-capita decline.
 
 Buffett: *"We do not get enthused about change... we're looking for the absence of change to protect ways that are already making a lot of money."* GPIL is the embodiment of this philosophy.
 
@@ -379,9 +391,12 @@ The incremental EBIT margin has been volatile (10-54%) but generally at or near 
 |---|---|---|---|---|---|---|---|---|
 | CapEx as % of Revenue | 16.6% | 6.7% | 4.1% | 2.3% | 1.4% | **1.1%** | Declining ↓ | Capital-light scaling |
 | Revenue / CapEx | 6.0x | 14.9x | 24.4x | 42.9x | 70.5x | **90.5x** | Rising ↑ | More revenue per ₹ invested |
-| Working Capital as % of Rev | 9.1% | 14.4% | 14.8% | **7.9%** | 16.8% | **26.3%** | Rising ↑ | WC absorbing cash (excise transition + growing treasury) |
+| Incremental ROIC (ΔNOPAT/ΔOp.IC) † | 22% | n.m. | n.m. | n.m. | 32% | **30%** | High where measurable | Reinvestment at attractive returns |
+| Working Capital as % of Rev | 9.1% | 14.4% | 14.8% | 7.9% | 16.8% | **26.3%** | Rising ↑ | WC absorbing cash (excise transition + growing treasury) |
 | Asset Turnover (Rev/Avg TA) | 0.93x | 0.72x | 0.69x | 0.79x | 0.74x | **0.88x** | Recovering ↑ | Improving efficiency |
 | Fixed Asset Turnover | 2.8x | 2.4x | 2.7x | 3.8x | 4.5x | **7.7x** | Rising ↑ | Revenue growing on flat asset base |
+
+*† Incremental ROIC = ΔNOPAT / ΔOperating Invested Capital (NOPAT = EBIT × (1 − 25%), using a normalised 25% tax rate; operating IC = Equity + Borrowings − Investment portfolio, consistent with the ROCE methodology in Section 9). It is marked "n.m." (not meaningful) for FY21-FY23 because operating invested capital barely changed or fell in those years, producing ratios that are erratic rather than economically informative: FY21 computes to roughly −21% (NOPAT dipped while operating IC rose modestly during the COVID-affected year), and FY23 computes to a large positive (NOPAT rose while operating IC actually fell — economically excellent, but the small/negative denominator makes the precise ratio unstable). In the years where it is cleanly measurable (FY20, FY24, FY25), incremental ROIC of 22-32% confirms the business reinvests operating capital at attractive returns (at the FY25-specific 22.9% effective tax rate these would be ~1pp higher; immaterial to the conclusion). Revenue/CapEx (rising to 90.5x) is the more robust capital-scalability signal for this cash-rich, asset-light business.*
 
 Buffett: *"The ideal business is one that takes no capital, and yet grows."* GPIL is approaching this ideal — CapEx/Revenue has fallen to just 1.1%, and fixed asset turnover has nearly tripled.
 
@@ -415,13 +430,15 @@ Buffett: *"The ideal business is one that takes no capital, and yet grows."* GPI
 | Total Net Profit (FY15-FY25) | ₹4,754 Cr |
 | Total Dividends Paid | ~₹1,613 Cr |
 | Total Retained Earnings | ~₹3,141 Cr |
-| Market Cap ~FY15 (est.) | ~₹6,381 Cr |
+| Market Cap ~FY15 (est. at 12x PE) | ~₹2,196 Cr |
 | Market Cap Current (Apr 2026) | ~₹33,400 Cr |
-| Market Value Created | ~₹27,018 Cr |
-| **$ Test Result: Per ₹1 Retained** | **₹8.60 of Market Value Created** |
+| Market Value Created | ~₹31,204 Cr |
+| **$1 Test Result: Per ₹1 Retained** | **₹9.9 of Market Value Created** |
 | **Verdict** | **PASS ✅ — Exceptional** |
 
-For every ₹1 management retained instead of paying as dividend, the market valued that retention at ₹8.60. This is an extraordinary result — a $1 test score above 3x is considered excellent. ₹8.60 reflects both genuine value creation (earnings compounding at 19% CAGR) and some multiple expansion (market re-rating the stock from deep value to quality compounder).
+For every ₹1 management retained instead of paying as dividend, the market valued that retention at ₹9.9. This is an extraordinary result — a $1 test score above 3x is considered excellent. ₹9.9 reflects both genuine value creation (earnings compounding at 19% CAGR) and some multiple expansion (market re-rating the stock from deep value to quality compounder).
+
+*Note on the FY15 starting market cap: GPIL's FY15 net profit was ₹183 Cr. In FY15 the business was in its "mediocre phase" — flat revenues, ~14% OPM, declining ROCE (18%) — and would have traded at a modest 10-18x PE. A defensible 12x PE implies a starting market cap of ~₹2,196 Cr. (An earlier estimate of ₹6,381 Cr implied an implausible ~35x FY15 PE and has been corrected; the lower, more realistic starting market cap actually strengthens the $1 test result, from ₹8.60 to ₹9.9 per ₹1 retained.)*
 
 **Capital Allocation Track Record:**
 - **Dividend policy:** Progressively increasing — from ₹42 Cr (FY14) to ₹493 Cr (FY25). The FY25 payout ratio of 46% signals management's confidence in durable earnings.
@@ -446,16 +463,18 @@ Buffett: *"When management with a reputation for brilliance tackles a business w
 
 | Metric | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** |
 |---|---|---|---|---|---|---|---|
-| Revenue (₹ Cr) | 2,326 | 2,497 | 2,877 | 2,525 | 2,688 | 3,562 | 4,018 | **5,611** |
+| Revenue (₹ Cr) | **2,326** | 2,497 | 2,877 | 2,525 | 2,688 | 3,562 | 4,018 | **5,611** |
 | Cigarette Rev % of Total | ~95% | ~95% | ~96% | ~97% | ~98% | ~99% | ~99% | **~99%** |
 | Mkt Share (Volume %) | ~13% | ~13% | ~13% | ~13% | ~13% | ~14% | ~14% | **~14%** |
-| OPM % (pre-D&A) | 11.2% | 16.1% | 20.6% | 21.4% | 23.5% | 22.6% | 22.5% | **21.0%** |
+| OPM % (pre-D&A) | **11.2%** | 16.1% | 20.6% | 21.4% | **23.5%** | 22.6% | 22.5% | 21.0% |
 | Revenue/Employee (₹ Cr) | — | — | — | — | — | — | — | — |
-| Debtor Days | 13 | 10 | 9 | 18 | 21 | 15 | 16 | **34** |
-| Inventory Days | 179 | 218 | 199 | 222 | 247 | 190 | 242 | **224** |
-| Working Capital Days | 30 | 9 | 21 | 33 | 42 | 21 | 56 | **89** |
-| CapEx/Revenue | 2.3% | 5.6% | 16.6% | 6.7% | 4.1% | 2.3% | 1.4% | **1.1%** |
-| Fixed Asset Turnover | 3.4x | 3.6x | 2.8x | 2.4x | 2.7x | 3.8x | 4.5x | **7.7x** |
+| Debtor Days | 13 | 10 | **9** | 18 | 21 | 15 | 16 | **34** |
+| Inventory Days | **179** | 218 | 199 | 222 | **247** | 190 | 242 | 224 |
+| Working Capital Days | 30 | **9** | 21 | 33 | 42 | 21 | 56 | **89** |
+| CapEx/Revenue | 2.3% | 5.6% | **16.6%** | 6.7% | 4.1% | 2.3% | 1.4% | **1.1%** |
+| Fixed Asset Turnover | 3.4x | 3.6x | 2.8x | **2.4x** | 2.7x | 3.8x | 4.5x | **7.7x** |
+
+*Note: Revenue/Employee is shown blank because employee headcount is not disclosed by GPIL in Screener.in or in a consistently extractable form in the annual report filings used for this analysis. The row is retained for template completeness.*
 
 **Key Observations:**
 
@@ -472,14 +491,16 @@ The operational fundamentals are **improving beneath the financial surface:**
 | Metric | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | **FY25** | **Current** |
 |---|---|---|---|---|---|---|---|---|
 | **P/Owner Earnings (primary Buffett-pure multiple)** | ~19x | ~15x | ~14x | ~13x | ~15x | ~28x | ~28x | **28.8x (on FY25 OE)** |
-| Owner Earnings/Share (₹) | 17.7 | 16.2 | 26.7 | 33.1 | 50.9 | 61.4 | 74.3 | **74.3 (FY25)** |
-| **Owner Earnings Yield** | — | — | — | — | — | — | — | **3.47%** |
+| P/Owner Earnings (TTM basis) | — | — | — | — | — | — | — | **24.3x (on TTM OE ₹88.1)** |
+| P/Operating OE (ex-treasury, FY25) | — | — | — | — | — | — | — | **37.5x (on Operating OE ₹57.1)** |
+| Owner Earnings/Share (₹) | 17.7 | 16.2 | 26.7 | 33.1 | 50.9 | 61.4 | 74.3 | **74.3 (FY25) / 88.1 (TTM)** |
+| **Owner Earnings Yield** | — | — | — | — | — | — | — | **3.47% (FY25) / 4.12% (TTM)** |
 | EPS (₹, adj.) | 16.69 | 24.67 | 24.14 | 28.08 | 44.26 | 56.61 | 68.72 | **82.31 (TTM)** |
-| PE Ratio (approx.) | ~20x | ~10x | ~15x | ~15x | ~17x | ~30x | ~30x | **26.0x (on TTM EPS)** |
+| PE Ratio (approx.) | ~20x | ~10x | ~15x | ~15x | ~17x | ~30x | ~30x | **26.0x (on TTM EPS) / 31.2x (on FY25 EPS)** |
 | Earnings Yield | — | — | — | — | — | — | — | **3.84%** |
 | Book Value/Share (₹) | 130.6 | 140.2 | 165.5 | 187.6 | 227.4 | 271.3 | 336.2 | **336.2 (FY25)** |
 | P/B Ratio | ~2.6x | ~1.8x | ~2.2x | ~2.3x | ~3.3x | ~6.3x | ~6.1x | **6.4x (on FY25 BV)** |
-| Forward PE (FY26E) | — | — | — | — | — | — | — | **~22.5x (on est. FY26E EPS ~₹95)** |
+| Forward PE (FY26E) | — | — | — | — | — | — | — | **~25.2x (on est. FY26E EPS ~₹85)** |
 | PS Ratio | — | — | — | — | — | — | — | **5.4x (on TTM Revenue)** |
 | P/FCF Ratio | — | — | — | — | — | — | — | **~51x (normalised); FY25 FCF distorted by WC** |
 | FCF Yield | — | — | — | — | — | — | — | **~2.0% (normalised)** |
@@ -489,6 +510,12 @@ The operational fundamentals are **improving beneath the financial surface:**
 
 > **Why P/Owner Earnings is the primary multiple:** P/OE starts from Buffett's preferred measure of true economic cash flow (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates. PE is useful for comparability but can be distorted by D&A timing. EV/EBIT is included as a secondary cross-check for institutional comparability — Buffett himself rarely uses Enterprise Value constructs, preferring to think in terms of equity value and what the owner gets.
 
+> **On the different OE multiples shown:** Three P/OE figures are presented for transparency. (1) **P/OE on FY25 OE = 28.8x** — the headline figure using the FY25 annual Owner Earnings (₹74.3/share). (2) **P/OE on TTM OE = 24.3x** — using trailing-twelve-month OE (₹88.1/share, period ending Dec 2025), which is the period-consistent comparison to the 26.0x TTM PE; on this consistent basis P/OE (24.3x) < PE (26.0x), confirming the asset-light nature of the business (OE > EPS because D&A exceeds maintenance CapEx). (3) **P/Operating OE = 37.5x** — strips out the treasury/investment income to value the pure operating franchise (Operating OE ₹57.1/share, per the Section 15 separation methodology). The 37.5x reflects how the market values the cigarette franchise alone, before crediting the ₹3,197 Cr financial-asset portfolio. A reader comparing GPIL's operating franchise to peers should use this figure; one comparing whole-company cash generation should use the TTM 24.3x.
+
+> **Note on the historical P/OE row (FY19-FY25):** The historical P/OE figures (~19x to ~28x) are computed on **total Owner Earnings** (the same basis as the headline FY25 28.8x), not Operating OE, so the time series is internally consistent. They are not directly comparable to the ₹57.1 Operating-OE / 37.5x figure, which is shown only for the current period to isolate the operating franchise.
+
+> **TTM OE derivation:** TTM Owner Earnings ≈ TTM Net Income (₹1,284 Cr) + TTM D&A (₹130 Cr) − estimated TTM maintenance CapEx (~₹40 Cr, i.e. 60% of an estimated ~₹66 Cr TTM total CapEx extrapolated from the recent quarterly run-rate) = ₹1,374 Cr, or ₹88.1 per share on 15.6 Cr shares. (TTM CapEx is not separately tabulated in Sections 4/8, which show annual figures; the ₹66 Cr estimate is consistent with the FY25 annual CapEx of ₹62 Cr.)
+
 **Valuation Context:**
 
 At ₹2,141, GPIL trades at 26x TTM PE and 6.4x book value. The stock has corrected ~45% from its Sep 2024 all-time high of ₹3,947 (pre-bonus adjusted), bringing it from "extremely expensive" territory (40x+ PE at the peak) into the "fair to slightly elevated" range.
@@ -497,13 +524,22 @@ At ₹2,141, GPIL trades at 26x TTM PE and 6.4x book value. The stock has correc
 
 Compared to ITC (which trades at ~24-26x PE), GPIL's current valuation is roughly in line with the sector leader despite being a smaller, higher-growth company. This suggests GPIL is no longer trading at a premium to ITC — an anomaly given GPIL's superior recent growth trajectory (EPS CAGR 23% vs ITC's ~14%).
 
-The P/B of 6.4x is optically high, but this reflects the asset-light, high-ROIC nature of the business. A business earning 22% ROE with a 12% cost of equity deserves a P/B well above 1x. Using the Gordon Growth Model: Fair P/B = (ROE - g) / (CoE - g) = (0.22 - 0.10) / (0.12 - 0.10) = 6.0x. At 6.4x, the stock is trading approximately at its theoretically justified P/B.
+The P/B of 6.4x is optically high, but this reflects the asset-light, high-ROIC nature of the business. A business earning 22% ROE with a 12% cost of equity deserves a P/B well above 1x. Using the Gordon Growth Model: Fair P/B = (ROE - g) / (CoE - g) = (0.22 - 0.10) / (0.12 - 0.10) = 6.0x. At 6.4x, the stock is trading approximately at this theoretically justified P/B — **but this result is highly sensitive to the assumed long-run growth rate**, because the denominator (CoE − g) is very small at g=10%. The sensitivity is material:
+
+| Long-run growth (g) | Fair P/B = (0.22−g)/(0.12−g) |
+|---|---|
+| 7% | 3.0x |
+| 8% | 3.5x |
+| 9% | 4.3x |
+| 10% | 6.0x |
+
+At g=7% (still above global developed-economy averages), fair P/B falls to 3.0x — which would imply the current 6.4x is roughly double the justified multiple. The 6.0x figure at g=10% should therefore be read as an **upper-bound** fair P/B that assumes GPIL sustains near-GDP perpetual growth, not a central estimate. A more conservative g of 7-8% implies the stock is meaningfully above its Gordon-Growth fair value on P/B — consistent with the "fair-to-slightly-rich, not cheap" conclusion from the DCF and the P/B scenario analysis in Section 17.
 
 ---
 
 ## 15. INTRINSIC VALUE & MARGIN OF SAFETY
 
-### DCF Valuation — Three Scenarios Using Owner Earnings
+### DCF Valuation — Four Scenarios Using Owner Earnings
 
 > **Critical Methodology Note — Avoiding Double-Counting of Financial Assets:**
 > FY25 Total Owner Earnings of ₹1,159 Cr are derived from Net Income of ₹1,072 Cr, which includes ₹349 Cr of Other Income — primarily investment income generated by the ₹3,197 Cr investment portfolio. If total OE (including this investment income) were used as the DCF cash flow AND the investment portfolio were also added as net cash in the equity bridge, the same asset would be valued twice: once as a stream of future income, and again as a lump-sum addition. To avoid this, the DCF uses **Operating Owner Earnings** (Total OE minus after-tax Other Income) to value the operating business, then adds **Net Cash** (₹3,018 Cr) separately at face value. This cleanly separates operating value from financial asset value.
@@ -516,33 +552,43 @@ The P/B of 6.4x is optically high, but this reflects the asset-light, high-ROIC 
 **Net Cash Position:** ₹3,018 Cr (added separately to operating enterprise value)
 **Shares Outstanding:** 15.6 Cr (diluted, post-bonus)
 
-| Parameter | Conservative | Base | Optimistic |
-|---|---|---|---|
-| Growth Yr 1-5 | 12% | 15% | 18% |
-| Growth Yr 6-10 | 8% | 10% | 12% |
-| Terminal Growth | 4% | 4.5% | 5% |
-| Rationale | Excise headwinds persist, volume flat | Moderate pricing + volume, excise absorbed | Strong premiumisation + volume + pricing |
-| PV of Phase 1 Cash Flows — Yr 1-5 (₹ Cr) | 4,699 | 5,095 | 5,520 |
-| PV of Phase 2 Cash Flows — Yr 6-10 (₹ Cr) | 4,610 | 5,558 | 6,675 |
-| Total PV of 10Y Operating Cash Flows (₹ Cr) | 9,309 | 10,652 | 12,195 |
-| Terminal Value (undiscounted) (₹ Cr) | 39,947 | 54,777 | 75,355 |
-| PV of Terminal Value (₹ Cr) | 15,401 | 21,119 | 29,052 |
-| Operating Enterprise Value (₹ Cr) | 24,710 | 31,771 | 41,247 |
-| Plus: Net Cash (₹ Cr) | 3,018 | 3,018 | 3,018 |
-| **Equity Value (₹ Cr)** | **27,728** | **34,789** | **44,265** |
-| **IV Per Share (₹)** | **₹1,777** | **₹2,230** | **₹2,838** |
-| **Margin of Safety (IV−CMP)/IV** | **-20.5%** | **4.0%** | **24.6%** |
-| **Upside/(Downside) from CMP** | **-17.0%** | **+4.2%** | **+32.6%** |
+> **Note on the FY25 base year:** FY25 was an above-trend year for operating earnings — revenue grew 39.6%, driven substantially by excise-restructuring pass-through pricing. The ₹890 Cr Operating OE starting point therefore reflects a cyclically elevated base. To address this, the scenario ladder below includes a **Bear/Stress case that normalises the starting OE downward by ~10% to ₹800 Cr** (reflecting mean reversion from the excise-spike year) and applies sub-GDP growth. The Conservative case retains the ₹890 base but applies genuinely conservative growth (9%/7%) that is at or below GPIL's 10-year revenue CAGR of 8.1%. Readers should note that normalising the Base/Optimistic starting OE downward by 10-15% would compress those IVs proportionally — the Base IV would fall from ₹2,230 to approximately ₹1,930-2,025.
+
+| Parameter | Bear/Stress | Conservative (Moderate) ‡ | Base | Optimistic |
+|---|---|---|---|---|
+| Starting OE (₹ Cr) | 800 (normalised) | 890 | 890 | 890 |
+| Growth Yr 1-5 | 7% | 9% | 15% | 18% |
+| Growth Yr 6-10 | 5% | 7% | 10% | 12% |
+| Terminal Growth | 3.5% | 4% | 4.5% | 5% |
+| Rationale | OE normalises from excise-spike base; volume declines, minimal pricing | Volume flat, pricing-only growth at/below 8.1% 10Y revenue CAGR | Moderate pricing + volume, excise absorbed | Strong premiumisation + volume + pricing |
+| PV of Phase 1 Cash Flows — Yr 1-5 (₹ Cr) | 3,684 | 4,330 | 5,095 | 5,520 |
+| PV of Phase 2 Cash Flows — Yr 6-10 (₹ Cr) | 3,036 | 3,916 | 5,558 | 6,675 |
+| Total PV of 10Y Operating Cash Flows (₹ Cr) | 6,720 | 8,246 | 10,652 | 12,195 |
+| Terminal Value (undiscounted) (₹ Cr) | 22,802 | 33,291 | 54,777 | 75,355 |
+| PV of Terminal Value (₹ Cr) | 8,791 | 12,835 | 21,119 | 29,052 |
+| Operating Enterprise Value (₹ Cr) | 15,512 | 21,081 | 31,771 | 41,247 |
+| Plus: Net Cash (₹ Cr) | 3,018 | 3,018 | 3,018 | 3,018 |
+| **Equity Value (₹ Cr)** | **18,530** | **24,099** | **34,789** | **44,265** |
+| **IV Per Share (₹)** | **₹1,188** | **₹1,545** | **₹2,230** | **₹2,838** |
+| **Margin of Safety (IV−CMP)/IV** | **-80.2%** | **-38.6%** | **4.0%** | **24.6%** |
+| **Upside/(Downside) from CMP** | **-44.5%** | **-27.8%** | **+4.2%** | **+32.6%** |
 
 ### Summary:
 
 | Scenario | IV/Share | MoS | Upside |
 |---|---|---|---|
-| Conservative | ₹1,777 | -20.5% | -17.0% |
+| Bear/Stress | ₹1,188 | -80.2% | -44.5% |
+| Conservative (Moderate) ‡ | ₹1,545 | -38.6% | -27.8% |
 | **Base** | **₹2,230** | **4.0%** | **+4.2%** |
 | Optimistic | ₹2,838 | 24.6% | +32.6% |
 
-At the current price of ₹2,141, the DCF suggests GPIL is **approximately fairly valued** under the Base scenario (IV ₹2,230, ~4% margin of safety — essentially at fair value). The Conservative scenario implies ~17% overvaluation, while the Optimistic scenario offers ~33% upside with a 25% margin of safety. This is consistent with the PE-based valuation assessment (26x TTM PE in the "Fair Value / Hold" zone) and the P/B scenario analysis (🟡 YELLOW at 6.4x entry P/B).
+‡ *"Conservative (Moderate)" — see the note immediately below on why this scenario, though using conservative growth, retains the elevated FY25 base; the Bear/Stress case is the fully-normalised conservative anchor.*
+
+> **How "conservative" is the Conservative case?** The Conservative scenario here is more precisely a **Moderate-Conservative** case: it applies genuinely conservative growth (9%/7%, at or below the 8.1% 10Y revenue CAGR) but retains the *elevated* FY25 Operating OE base of ₹890 Cr. A *fully* normalised conservative view — one that haircuts the base for the FY25 excise-spike *and* applies sub-trend growth — is the **Bear/Stress case (₹800 Cr base, 7%/5%, IV ₹1,188)**, which is the closest approximation to a truly normalised conservative outcome. A middle path (≈₹825 Cr base × 7-8% growth) would yield an IV of roughly ₹1,300-1,450, between the two. Readers seeking the most demanding conservative anchor should reference the Bear/Stress case rather than the Conservative case.
+
+> **Note on the Bear/Stress terminal growth (3.5%):** This terminal rate is *below* India's long-run CPI inflation (typically 5-6%), so it implies the operating business contracts in *real* (inflation-adjusted) terms in perpetuity. That is a deliberately severe assumption — it models structural volume decline outpacing pricing — and is what makes the Bear case a genuine stress test rather than merely a low-growth scenario.
+
+At the current price of ₹2,141, the DCF suggests GPIL is **approximately fairly valued** under the Base scenario (IV ₹2,230, ~4% margin of safety — essentially at fair value). The Conservative scenario implies the stock is ~28% above a genuinely conservative intrinsic value, and the Bear/Stress case (which normalises the elevated FY25 base) implies ~45% downside — a reminder that paying fair value for a cyclically elevated earnings base carries real risk if earnings mean-revert. The Optimistic scenario offers ~33% upside with a 25% margin of safety. This range is consistent with the PE-based valuation assessment (26x TTM PE in the "Fair Value / Hold" zone) and the P/B scenario analysis (🟡 YELLOW at 6.4x entry P/B).
 
 The net cash position (₹3,018 Cr, or ~₹194/share) is already incorporated in the IV calculation above. It represents ~9% of market cap as liquid financial assets and provides a tangible balance sheet floor.
 
@@ -626,7 +672,9 @@ Implied OEPS CAGR             = (Required Future OEPS / Current OEPS)^(1/n) - 1
 | Implied OEPS CAGR (from Step 3B) | 16.0% | |
 | **Gap (OEPS CAGR − EPS CAGR)** | **3.1 pp** | |
 
-**Interpretation:** The 3.1 pp gap falls in the **2-5 pp "moderate capital intensity"** band. However, for GPIL this gap is NOT caused by capital intensity (the business is extremely capital-light). It arises because the Terminal P/OE multiple (17x) is lower than the Terminal PE (20x), reflecting the general principle that P/OE < PE for most businesses. For GPIL specifically, OE/share (₹74.3) is actually *higher* than EPS (₹68.72) because D&A exceeds maintenance CapEx — so the gap is a multiple-convention difference, not a capital-intensity red flag. **Both the EPS and OEPS verdicts point in the same direction: reasonable growth expectations.**
+**Interpretation:** The 3.1 pp gap nominally falls in the 2-5 pp band that the generic template flags as "moderate capital intensity." For GPIL, however, this label does NOT apply — the gap here is a **multiple-convention gap, not capital intensity.** The business is extremely capital-light: OE/share (₹74.3) is actually *higher* than EPS (₹68.72) because D&A exceeds maintenance CapEx. The 3.1 pp gap arises purely mechanically because the Terminal P/OE multiple (17x) is set lower than the Terminal PE (20x), reflecting the general convention that P/OE < PE — applying a lower multiple to the higher OE figure inflates the implied OEPS growth burden. A genuinely capital-intensive business would show OE *below* EPS and a gap driven by heavy maintenance capex; GPIL shows the opposite. **Both the EPS and OEPS verdicts point in the same direction: reasonable growth expectations, confirming the business is capital-light and EPS is a reliable proxy.**
+
+> **Note on period consistency:** The 3.1 pp gap above uses FY25 OEPS (₹74.3) as the current OEPS, to match the FY25 base used in the DCF. The Step 3 EPS figure, however, uses TTM EPS (₹82.31). On a fully period-consistent **TTM basis** using TTM OEPS of ₹88.1 (disclosed in Section 14), the implied OEPS CAGR at 17x terminal P/OE over 10 years falls to **14.0%**, which narrows the divergence versus the 12.9% implied EPS CAGR to just **1.1 pp** — firmly within the ≤2 pp "asset-light" band. In other words, the apparent 3.1 pp gap is partly a period-mismatch artifact; on a like-for-like TTM basis the gap nearly vanishes, reinforcing that GPIL is genuinely capital-light and that EPS is a reliable proxy for economic earnings.
 
 ### Step 4: Reality Check
 
@@ -663,7 +711,7 @@ If the PE compresses to 15x (mature business), GPIL needs 16.2% EPS CAGR for a 1
 |---|---|---|---|
 | Asset/Liquidation Floor | TBVPS ~₹336 + Net Cash ₹194/share | ~₹530 | -75% |
 | Recession/Trough Earnings | Worst EPS (₹8.80) × 12x PE | ~₹106 | -95% (unrealistic) |
-| Normalised Bear Case | Conservative DCF | ₹1,777 | -17.0% |
+| Normalised Bear Case | Conservative DCF (9%/7% growth) | ₹1,545 | -27.8% |
 | Market-Panics Floor | Historical lowest PE ~10x × TTM EPS | ~₹823 | -62% |
 | **Realistic Floor** | **20x Normalised EPS (reasonable trough multiple)** | **₹1,646** | **-23%** |
 
@@ -687,6 +735,8 @@ Asymmetry Ratio: 33% / 23% = 1.4:1
 ```
 
 The DCF-based asymmetry ratio is approximately **1.4:1** — falling in the **1:1 to 2:1 band ("Marginal pitch")** per the Buffett framework. The Optimistic upside exceeds the realistic downside, but not by enough to be a conviction buy on DCF alone. The Scaling scenario (18% EPS CAGR × 28x PE in 5Y → ₹5,273) offers a much higher asymmetry if the business executes at the top end of its capability. The PE-based upside scenarios (Scaling + Re-rating) amplify the asymmetry further.
+
+> **Note on the floor choice:** This calculation uses the PE-multiple floor of ₹1,646 (20x TTM EPS) as the realistic downside, giving 23% downside and a 1.4:1 ratio. If instead the **Conservative DCF value of ₹1,545** is used as the floor, the downside is 27.8% and the asymmetry falls to **1.17:1** — still within the "Marginal pitch" band, but closer to its lower (toss-up) boundary. The ₹1,646 PE-floor is preferred here because it represents the market-price support level where institutional/DII buying has historically concentrated (a more realistic *floor* than a DCF point estimate), but the reader should be aware the asymmetry is sensitive to this choice: on the most demanding (Conservative DCF) floor, the risk-reward is closer to even. Neither framing reaches the ≥2:1 "fat pitch" threshold — both confirm this is a fair-price hold, not a table-pounding buy at ₹2,141.
 
 **Part 4: Catalysts & Anti-Catalysts**
 
@@ -770,7 +820,7 @@ The Equity Multiplier (leverage) has actually *declined* from 1.64x to 1.35x ove
 
 Asset Turnover has been stable-to-declining (1.28x → 0.88x), reflecting the growing investment portfolio (which adds to assets but doesn't directly generate operating revenue). The operating asset turnover (revenue/fixed assets) has actually improved dramatically.
 
-**ROCE vs ROE relationship:** ROCE (26%) > ROE (22.6%) — the healthy pattern. The gap is explained by tax drag, not leverage. The underlying business engine generates premium returns before the tax and financing structure is applied.
+**ROCE vs ROE relationship:** ROCE (26%, Screener's EBIT / capital-employed basis) > ROE (22.6%, post-tax on full equity) — the healthy pattern. ROE is held down by the large ₹3,197 Cr investment portfolio earning only bond/deposit-like returns, which dilutes the blended figure; the operating franchise on its own earns far more than either headline number. This is a quality signal, not a leverage trick. (See Section 9 for the full ROCE methodology note, including the whole-company ~21% and operating-only ~47% reference figures.)
 
 ### Part B: P/B Multiple Scenario Analysis
 
@@ -782,36 +832,36 @@ Asset Turnover has been stable-to-declining (1.28x → 0.88x), reflecting the gr
 | CMP | ₹2,141 |
 | Entry P/B | 6.4x |
 | Sustainable ROE | 18% (conservatively below recent 22-23%) |
-| Retention Ratio | 60% (conservatively; FY25 payout was 46%) |
-| BV Compounding Rate | 10.8% (ROE × Retention) |
+| Retention Ratio | 54% (FY25 actual; payout was 46%) |
+| BV Compounding Rate | 9.7% (ROE × Retention) |
 
 **Projected BVPS:**
 
 | Year | Projected BVPS |
 |---|---|
 | Current | ₹336 |
-| Year 5 | ₹561 |
-| Year 7 | ₹689 |
-| Year 10 | ₹938 |
+| Year 5 | ₹535 |
+| Year 7 | ₹644 |
+| Year 10 | ₹850 |
 
 **Expected Annual Return (CAGR) at CMP ₹2,141 (Entry P/B: 6.4x):**
 
 | Exit P/B | Rationale | 5Y CAGR | 7Y CAGR | 10Y CAGR |
 |---|---|---|---|---|
-| **6.4x (stays at current)** | Multiple sustains (optimistic for high P/B) | **10.9%** | **10.9%** | **10.9%** |
-| 4.8x (75% of current) | Mild de-rating | 4.7% | 6.4% | 7.7% |
-| 4.0x (Fair P/B from Section 14 ≈ Gordon Growth 6.0x, discounted) | Reverts toward theoretical fair value | 0.9% | 3.7% | 5.8% |
-| 3.2x (50% of current) | Significant de-rating | -3.5% | 0.4% | 3.4% |
-| 3.0x (Historical median P/B, approx.) | Reverts to own historical average (pre-quality-re-rating) | -4.7% | -0.5% | 2.8% |
-| 1.0x Book | Valued at book value (worst case for quality company) | -23.5% | -15.0% | -7.9% |
+| **6.4x (stays at current)** | Multiple sustains (optimistic for high P/B) | **9.8%** | **9.8%** | **9.8%** |
+| 4.8x (75% of current) | Mild de-rating | 3.7% | 5.4% | 6.7% |
+| 4.0x (Fair P/B from Section 14 ≈ Gordon Growth 6.0x, discounted) | Reverts toward theoretical fair value | 0.0% | 2.7% | 4.7% |
+| 3.2x (50% of current) | Significant de-rating | -4.4% | -0.6% | 2.4% |
+| 3.0x (Historical median P/B, approx.) | Reverts to own historical average (pre-quality-re-rating) | -5.6% | -1.5% | 1.8% |
+| 1.0x Book | Valued at book value (worst case for quality company) | -24.2% | -15.8% | -8.8% |
 
 **The Key Insight:**
 
-> *"At the current entry P/B of 6.4x with a sustainable ROE of 18% and 60% retention, book value compounds at 10.8% annually. If the P/B multiple remains at 6.4x, the return equals the BV compounding rate of ~10.9%. The stock can tolerate P/B compression from 6.4x down to approximately 5.9x before the 10-year return drops below the 10% hurdle rate."*
+> *"At the current entry P/B of 6.4x with a sustainable ROE of 18% and 54% retention (FY25 actual), book value compounds at 9.7% annually. If the P/B multiple remains at 6.4x, the return equals the BV compounding rate of ~9.8% — already marginally below the 10% hurdle. For the 10-year return to reach the 10% hurdle at this retention rate, the exit P/B would need to EXPAND slightly to ~6.5x; any P/B compression pushes returns below the hurdle."*
 
-**Break-even Exit P/B for 10% CAGR over 10 years: 5.92x**
+**Break-even Exit P/B for 10% CAGR over 10 years: 6.53x**
 
-This is relatively tight — the stock needs to maintain a P/B above 5.9x over 10 years to deliver the hurdle rate. However, a business earning 18-22% ROE consistently deserves a P/B of 4-6x using the Gordon Growth Model. The current P/B of 6.4x provides a small buffer but is not deeply discounted.
+This is a tight result — at the more honest 54% retention rate, the stock at 6.4x entry P/B is fractionally below the level required to clear the 10% hurdle if the multiple merely holds. The business would need either a slight P/B expansion, ROE above the assumed 18%, or higher retention to comfortably clear the hurdle from a sustained-multiple base. A business earning 18-22% ROE consistently deserves a P/B of 4-6x using the Gordon Growth Model; at 6.4x the stock is trading slightly above its theoretically justified multiple, reinforcing the "fairly valued, not cheap" conclusion.
 
 **Rule of Thumb for Quick Mental Math:**
 
@@ -822,22 +872,22 @@ where Annual P/B Change = (Exit P/B / Entry P/B)^(1/n) - 1
 
 | Scenario | P/B Change Effect | BV Compounding | Approx. Return |
 |---|---|---|---|
-| P/B stays at 6.4x | 0% drag | +10.8% | **~10.8%** |
-| P/B halves to 3.2x over 10Y | ~-7% drag | +10.8% | **~3.8%** |
-| P/B drops to one-third (2.1x) over 10Y | ~-10.5% drag | +10.8% | **~0.3%** |
-| P/B drops to one-quarter (1.6x) over 10Y | ~-13% drag | +10.8% | **~-2.2%** |
+| P/B stays at 6.4x | 0% drag | +9.7% | **~9.7%** |
+| P/B halves to 3.2x over 10Y | ~-6.7% drag | +9.7% | **~3.0%** |
+| P/B drops to one-third (2.1x) over 10Y | ~-10.4% drag | +9.7% | **~-0.7%** |
+| P/B drops to one-quarter (1.6x) over 10Y | ~-12.9% drag | +9.7% | **~-3.2%** |
 
-The message is clear: at 6.4x entry P/B, the BV compounding rate of 10.8% barely covers the hurdle rate even with zero de-rating. Any meaningful compression destroys returns. This is the price of buying a wonderful business at a fair (not cheap) price.
+The message is clear: at 6.4x entry P/B, the BV compounding rate of 9.7% does not even fully cover the 10% hurdle with zero de-rating. Any meaningful compression destroys returns. This is the price of buying a wonderful business at a fair (not cheap) price.
 
 **Traffic Light Verdict:**
 
 | Condition | Assessment |
 |---|---|
-| 10Y return > hurdle if P/B halves? | ❌ No — 3.4% return if P/B halves to 3.2x |
-| 10Y return > hurdle if P/B stays within 25%? | ✅ Yes — 7.7% at 4.8x, 10.9% at 6.4x |
-| Needs P/B expansion for hurdle? | ❌ No — P/B can compress ~8% and still deliver |
+| 10Y return > hurdle if P/B halves? | ❌ No — 2.4% return if P/B halves to 3.2x |
+| 10Y return > hurdle if P/B stays within 25%? | ⚠️ Marginal — 6.7% at 4.8x, 9.8% at 6.4x (just below hurdle even at sustained multiple) |
+| Needs P/B expansion for hurdle? | ⚠️ Yes — at 54% retention, break-even is 6.53x, so a slight P/B expansion (or higher ROE/retention) is needed to clear the 10% hurdle from a sustained-multiple base |
 
-**🟡 YELLOW — Risky Entry at the Multiple Level.** Returns are dependent on the P/B sustaining above ~5.9x. If business quality sustains (ROE >18%), this multiple is justified. But there is limited margin of safety against de-rating risk. A better entry point would be 4-5x P/B (₹1,350-1,680), which would make the P/B scenario analysis firmly 🟢 GREEN.
+**🟡 YELLOW — Risky Entry at the Multiple Level.** At the honest 54% retention rate, the BV compounding rate (9.7%) falls just short of the 10% hurdle even if the multiple holds at 6.4x — the break-even exit P/B is 6.53x. Returns therefore depend on either modest P/B expansion, ROE running above the assumed 18% (recent actuals are 22-23%, which would help), or higher retention. If business quality sustains at the recent 22% ROE rather than the conservative 18% assumed here, the maths improves materially. But on conservative assumptions there is limited-to-negative margin of safety against de-rating risk. A better entry point would be 4-5x P/B (₹1,350-1,680), which would make the P/B scenario analysis firmly 🟢 GREEN.
 
 ---
 
@@ -852,6 +902,8 @@ The message is clear: at 6.4x entry P/B, the BV compounding rate of 10.8% barely
 | **Overvalued / Sell** | > 35x | **> ₹2,881** | Priced for perfection; any disappointment causes sharp correction |
 
 **Current Position:** At ₹2,141 and 26.0x TTM PE → **FAIR VALUE / HOLD zone** (lower half).
+
+> **Note — Buy Zone boundary vs. Conservative DCF:** The Deep Value boundary above (₹1,646) is a **PE-multiple support level** (20x TTM EPS), reflecting the price at which institutional/DII buying has historically concentrated and the stock has found support. It is *not* the same as the Conservative DCF intrinsic value. The Conservative DCF scenario (Section 15) yields an IV of ₹1,545, which sits ₹101 *below* the ₹1,646 Deep Value boundary. The two are reconciled as follows: an investor who buys at ₹1,646 is paying ~6.5% above the Conservative DCF value but is still within the Value zone on a PE/quality basis. **An investor who anchors strictly to the Conservative DCF should treat ₹1,545 as the "buy aggressively" threshold rather than ₹1,646.** The Base-case DCF (₹2,230) and the PE-multiple framework support the ₹1,646 level as a strong-buy trigger; the Conservative DCF is more demanding. Both views are presented so the reader can choose their own margin-of-safety anchor.
 
 ### If You Already Hold — Scenario Analysis:
 
@@ -873,18 +925,18 @@ The message is clear: at 6.4x entry P/B, the BV compounding rate of 10.8% barely
 |---|---|---|
 | Within circle of competence? | Cigarette company — extremely simple business, easy to understand | ✅ |
 | Is the moat enduring? | Addictive product + brand portfolio + Marlboro licence + regulatory barriers | ✅ |
-| Management trustworthy & rational? | $1 test: ₹8.60 per ₹1 retained; zero dilution; smart capital allocation | ✅ |
-| Resistant to tech disruption? | Product unchanged for 100+ years; no disruption risk | ✅ |
+| Management trustworthy & rational? | $1 test: ₹9.9 per ₹1 retained; zero dilution; smart capital allocation | ✅ |
+| Resistant to tech disruption? | Core combustible product structurally stable; HNB/IQOS substitution is the most credible long-term disruption risk but currently low-probability given India's PECA 2019 ban and device price points — monitor PMI's India strategy and regulatory stance (see Sections 10, 20) | ⚠️ |
 | Can sustain economics for 10+ years? | Addiction ensures demand; pricing power ensures profitability | ✅ |
 | Price significantly below IV? | DCF Base case suggests approximately fair value (~4% MoS); not significantly below IV | ⚠️ |
 
-**Score: 5/6 Clear Passes, 1 Caution (Price).**
+**Score: 4/6 Clear Passes, 2 Cautions (Tech Disruption, Price).**
 
 **Honest Verdict:**
 
-This is a **true Buffett business** — simple, understandable, capital-light, high-ROIC, with a durable moat and competent management. It checks every qualitative box on the Buffett checklist.
+This is a **near-textbook Buffett business** — simple, understandable, capital-light, high-ROIC, with a durable moat and competent management. It passes almost every qualitative box on the Buffett checklist; the one genuine qualitative caution is the long-dated Heat-Not-Burn / IQOS substitution risk (currently constrained by India's HNB ban and device economics, but worth monitoring given that PMI — GPIL's 25.1% equity partner — leads that category globally).
 
-The only issue is **price.** At ₹2,141 (26x PE), GPIL is in the "fair value" zone — not cheap enough to be a screaming buy, but not expensive enough to be a pass. Buffett's early-career approach (small capital base, concentrated bets, looking for 30-50% annual returns) would likely lead him to **wait for a better entry point** around 20-22x PE (₹1,650-1,800), where the margin of safety expands materially.
+The bigger near-term issue is **price.** At ₹2,141 (26x PE), GPIL is in the "fair value" zone — not cheap enough to be a screaming buy, but not expensive enough to be a pass. Buffett's early-career approach (small capital base, concentrated bets, looking for 30-50% annual returns) would likely lead him to **wait for a better entry point** around 20-22x PE (₹1,646-1,800), where the margin of safety expands materially.
 
 However, if Buffett already owned it (bought during the FY17-FY20 period at 10-15x PE), he would absolutely **hold and let it compound.** This is the kind of business you never sell once you own it at a good price.
 
@@ -905,10 +957,11 @@ Buffett on cigarettes: He has historically praised tobacco businesses as having 
 | **Smoking Prevalence Decline** | Medium | Medium (long-term) | Structural trade-up from bidis/smokeless partially offsets; India lags global trend by decades |
 | **Key Person Risk (KK Modi Family)** | Low-Med | Low | PMI's 25.1% stake provides strategic stability independent of family dynamics |
 | **Raw Material (Tobacco Leaf) Cost** | Low | Low-Med | Tobacco is a small fraction of retail price (excise is the dominant component); pricing power absorbs input costs |
+| **Heat-Not-Burn / E-Cigarette Substitution** | Low-Med | Low (currently); Med (long-term) | India bans HNB/e-cigarettes under the 2019 PECA Act, and device price points are far above the mass-market consumer; however, PMI's global smoke-free pivot (IQOS took 30-40% of Japan in a decade) creates long-term franchise uncertainty if the regulatory stance reverses — monitor regulatory changes and PMI's India intentions |
 | **PMI Licence Termination** | Catastrophic | Very Low | PMI holds 25.1% equity; termination would destroy their own investment value |
 | **Outright Smoking Ban** | Catastrophic | Very Low | Politically unfeasible — tobacco supports millions of farmers, generates massive tax revenue |
 
-**Overall Risk Assessment:** The risk profile is dominated by **regulatory/taxation risk** — a known, recurring headwind that the company has successfully navigated for decades. The existential risks (ban, licence termination) are extremely low probability. The business-specific risks (competition, disruption) are minimal given the addictive nature of the product and the duopoly market structure.
+**Overall Risk Assessment:** The risk profile is dominated by **regulatory/taxation risk** — a known, recurring headwind that the company has successfully navigated for decades. The existential risks (ban, licence termination) are extremely low probability. The main business-specific risk worth monitoring is **Heat-Not-Burn substitution** — currently limited by India's HNB ban and high device prices, but a genuine long-dated technology risk given that GPIL's own equity partner (PMI) leads the disruptive category globally. The remaining business risks (competition, raw materials) are minimal given the addictive nature of the product and the duopoly market structure.
 
 ---
 
@@ -952,15 +1005,15 @@ The current restructuring falls in the **mild-to-moderate** category in terms of
 
 ### Risk Rating:
 
-| Risk | Probability | Impact | Net Risk |
-|---|---|---|---|
-| Excise duty hikes (ongoing) | High | Medium | **Manageable** — absorbed through pricing |
-| Advertising ban tightening | Medium | Low | **Manageable** — already near-maximum restriction |
-| Plain packaging mandate | Medium | Low-Med | **Manageable** — hurts new entrants more than incumbents |
-| ESG institutional exclusion | Medium | Medium | **Manageable** — DII buying offsets FII selling |
-| Total smoking ban | Very Low | Catastrophic | **Negligible probability** |
+| Risk | Probability | Impact | Net Risk | Notes |
+|---|---|---|---|---|
+| Excise duty hikes (ongoing) | High | Medium | **Manageable** | Absorbed through pricing; GPIL has raised prices every year for a decade |
+| Advertising ban tightening | Medium | Low | **Manageable** | Already near-maximum restriction; no incremental impact |
+| Plain packaging mandate | Medium | Low-Med | **Manageable** | Hurts new entrants more than incumbents; strengthens brand moat |
+| ESG institutional exclusion | Medium | Medium | **Manageable** | DII buying offsets FII selling; structural demand constraint not fundamental |
+| Total smoking ban | Very Low | Catastrophic | **Negligible probability** | Government depends on ₹50,000+ Cr annual tobacco tax revenue |
 
-**Verdict: (a) Manageable and Overpriced by the Market.** The excise restructuring fear has contributed to a 45% correction from highs. The business has survived worse, the moat is intact, and the price decline creates a buying opportunity for patient investors. The market is pricing in more regulatory damage than is likely to materialise.
+**Verdict: (b) Manageable and Fairly Priced by the Market.** The excise restructuring fear has contributed to a 45% correction from highs, and the regulatory risk has been partially overstated in that correction. The business has survived worse, the moat is intact, and a total ban is a negligible probability. However, after accounting for all factors, the DCF (Section 15) shows the stock at approximately fair value (~4% MoS under the Base case) — not undervalued. The verdict therefore sits at the boundary of (a) and (b): the regulatory pessimism is somewhat overdone, but the stock is not cheap enough on a base-case basis to call it a clear regulatory-fear-driven bargain. A genuine buying opportunity would emerge on a further correction into the ₹1,646-1,975 Value zone.
 
 ---
 
@@ -977,7 +1030,7 @@ GPIL is **not a turnaround situation.** The business is performing at its best-e
 | **Business Quality** | **9/10** | Capital-light cigarette franchise with Marlboro licence; one of the best business models in India |
 | **Moat Durability** | **9/10** | Addictive product + brand + regulatory barriers + PMI alliance; moat widening, not eroding |
 | **Financial Health** | **10/10** | Net cash ₹3,018 Cr; D/E 0.03; investment-grade fortress balance sheet |
-| **Management Quality** | **8/10** | $1 test: ₹8.60; zero dilution; smart capital allocation; conservative approach |
+| **Management Quality** | **8/10** | $1 test: ₹9.9; zero dilution; smart capital allocation; conservative approach |
 | **Growth Trajectory** | **8/10** | EPS CAGR 19% (10Y), 23% (5Y); pricing power + premiumisation runway |
 | **Valuation** | **6/10** | 26x PE is fair, not cheap; limited margin of safety at current price |
 | **Margin of Safety** | **5/10** | DCF shows approximately fair value at current price; no meaningful MoS unless Optimistic scenario plays out |
@@ -990,9 +1043,11 @@ GPIL is **not a turnaround situation.** The business is performing at its best-e
 
 GPIL is a **genuine Buffett-quality business** — arguably one of the finest franchises listed on Indian exchanges. It has the hallmarks Buffett treasures: simplicity, durability, capital-lightness, pricing power, addictive demand, and competent management with skin in the game. The Marlboro licence adds a layer of scarcity value that no competitor can replicate.
 
-At the current price of ₹2,141 (26x TTM PE), the stock sits in the **Fair Value zone.** The DCF-anchored intrinsic value range is **₹1,777 (Conservative) to ₹2,230 (Base), with an Optimistic case of ₹2,838** — implying the stock is approximately fairly valued with a marginal 4% MoS under the Base case and 25% MoS under the Optimistic case. It is not cheap enough for a concentrated "swing hard" bet (which would require <20x PE or ~₹1,650), but it is reasonable enough for a starter position with the intention to accumulate aggressively on any correction into the ₹1,650-1,975 Value zone.
+At the current price of ₹2,141 (26x TTM PE), the stock sits in the **Fair Value zone.** The DCF-anchored intrinsic value range spans **₹1,545 (Conservative) to ₹2,230 (Base) to ₹2,838 (Optimistic)**, with a Bear/Stress case of ₹1,188 if the elevated FY25 earnings base mean-reverts — implying the stock is approximately fairly valued with a marginal 4% MoS under the Base case and 25% MoS under the Optimistic case, but with meaningful downside if growth disappoints. At ₹2,141, the CMP sits at ~96% of the top of the Conservative-to-Base target range (₹1,545–₹2,230) — i.e. near the ceiling of that range, leaving little base-case upside and reinforcing the "fair value, wait for a pullback" stance. It is not cheap enough for a concentrated "swing hard" bet (which would require <20x PE or ~₹1,646), but it is reasonable enough for a starter position with the intention to accumulate aggressively on any correction into the ₹1,646-1,975 Value zone.
 
-**Recommendation:** **HOLD if owned; ACCUMULATE on dips below ₹2,000; BUY aggressively below ₹1,650.**
+> **Note on the ₹1,646 trigger vs. Conservative DCF (₹1,545):** The "BUY aggressively below ₹1,646" level is a **PE-multiple support floor** (20x TTM EPS), not a DCF-conservative intrinsic value. The Conservative DCF scenario yields ₹1,545, which is ₹101 below ₹1,646. A reader who anchors strictly to the Conservative DCF should wait for a price below ₹1,545 before buying aggressively; the ₹1,646 level is justified by the Base-case DCF and the PE/quality framework, which are less demanding than the Conservative DCF. See Section 18 for the full reconciliation.
+
+**Recommendation:** **HOLD if owned; ACCUMULATE on dips below ₹2,000; BUY aggressively below ₹1,646 (PE-support floor; strict DCF-conservative buyers should wait for <₹1,545 — see Section 18).**
 
 The long-term thesis is compelling: a business compounding earnings at 15-20% annually, with near-zero capital needs, operating in a structurally protected duopoly, and sitting on a mountain of cash. The short-term headwinds (excise transition, FII selling, valuation normalisation from the 2024 euphoria) are temporary. The earnings compounding is permanent.
 
@@ -1019,6 +1074,8 @@ Yes. Here's the napkin math:
 - If growth continues closer to the historical 15-18% and the PE sustains at 25x, the stock could be worth ₹8,300-10,800 in 10 years — a 14-18% CAGR from price appreciation alone.
 
 The math works without a spreadsheet. The business is simple to understand. The competitive position is unassailable. The financial fortress is impregnable. The only question is price — and at 26x PE, you're not getting a screaming bargain, but you're getting a fair price for an exceptional business.
+
+> **Napkin conservative reconciliation:** The 12% growth used above is a simplified illustration of a "much slower than history" path — but it is *not* the downside case, and it is more optimistic than the formal Conservative DCF. In the formal Conservative DCF (Section 15), growth of 9%/7% from the FY25 base yields an intrinsic value of ₹1,545 — implying the stock at ₹2,141 is approximately **28% above** the conservative value (a −28% downside, not the +9% price-appreciation the 12% napkin implies). The 12% figure is best read as *roughly what the business needs to deliver for today's price to be justified*, not as a floor. A reader relying only on this napkin should consult Section 15's Conservative and Bear/Stress scenarios to see the genuine downside if growth disappoints.
 
 Buffett: *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* At ₹2,141, GPIL is a wonderful company at a fair price. Not a table-pounding fat pitch today, but a business worth owning for a very long time.
 
