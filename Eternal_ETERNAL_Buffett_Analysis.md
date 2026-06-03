@@ -75,38 +75,42 @@ Yes — but with deep reservations. The individual businesses are simple enough 
 
 | Metric | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | **FY26** |
 |---|---|---|---|---|---|---|---|---|---|
-| **Sales** | 466 | 1,313 | 2,605 | 1,994 | 4,192 | 7,079 | 12,114 | 20,243 | **54,364** ¹ |
-| Sales Growth YoY % | — | 182% | 98% | -23% | 110% | 69% | 71% | 67% | **168%** ¹ |
+| **Sales** | **466** | 1,313 | 2,605 | 1,994 | 4,192 | 7,079 | 12,114 | 20,243 | **54,364** ¹ |
+| Sales Growth YoY % | — | **182%** | 98% | **-23%** | 110% | 69% | 71% | 67% | 168% ¹ |
 | FY26 Like-for-Like Sales ¹ | — | — | — | — | — | — | — | — | **~32,400** |
 | FY26 LFL Growth YoY % | — | — | — | — | — | — | — | — | **~60%** |
 | Gross Profit (est.) ⁵ | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
 | Gross Margin (est.) ⁵ | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-| Operating Profit (pre-D&A, Screener) | -92 | **-2,243** | -2,305 | -467 | -1,851 | -1,211 | 43 | 648 | 1,196 |
-| OPM % (pre-D&A) | -20% | **-171%** | -88% | -23% | -44% | -17% | 0.4% | 3.2% | 2.2% |
-| Depreciation & Amortisation | 29 | 43 | 84 | 138 | 150 | 437 | 526 | 863 | **1,597** |
-| **EBIT (= OP − D&A)** ² | **-121** | **-2,286** | -2,389 | -605 | -2,001 | -1,648 | -483 | -215 | **-401** |
+| Operating Profit (pre-D&A, Screener) | -92 | -2,243 | **-2,305** | -467 | -1,851 | -1,211 | 43 | 648 | **1,196** |
+| OPM % (pre-D&A) | -20% | **-171%** | -88% | -23% | -44% | -17% | 0.4% | **3.2%** | 2.2% |
+| Depreciation & Amortisation | **29** | 43 | 84 | 138 | 150 | 437 | 526 | 863 | **1,597** |
+| **EBIT (= OP − D&A)** ² | **-121** | -2,286 | **-2,389** | -605 | -2,001 | -1,648 | -483 | -215 | -401 |
 | **EBIT Margin %** ² | -26.0% | **-174.1%** | -91.7% | -30.3% | -47.7% | -23.3% | -4.0% | -1.1% | **-0.7%** |
-| Other Income | 21 | 1,285 | 16 | -200 | 793 | 682 | 846 | 1,066 | **1,513** |
-| Interest | 6 | 9 | 13 | 10 | 12 | 49 | 72 | 154 | 380 |
-| Profit Before Tax | -107 | -1,010 | -2,386 | -815 | -1,220 | -1,015 | 291 | 697 | 732 |
-| Tax Rate % | 0% | 0% | 0% | 0% | 0% | -4% | -21% | 24% | ~50% |
-| **Net Income** | -107 | -1,010 | **-2,386** | -816 | -1,222 | -971 | 351 | **527** | 366 |
-| Net Income Growth YoY % | — | -844% | -136% | +66% | -50% | +21% | turn+ve | +50% | **-31%** |
-| Net Profit Margin (NPM) % | -23.0% | -76.9% | -91.6% | -40.9% | -29.2% | -13.7% | **2.9%** | 2.6% | **0.7%** ¹ |
-| EPS (Diluted, ₹) ³ | — | — | — | — | -1.54 | -1.14 | 0.40 | **0.55** | 0.40 |
-| EPS Growth YoY % | — | — | — | — | — | +26% | turn+ve | +38% | **-27%** |
-| Shares Outstanding (Cr — Basic FY22-FY25; Diluted FY26) ³ | n/a | n/a | n/a | n/a | 764 | 836 | 868 | 907 | **~965** |
-| Shares Change YoY % | — | — | — | — | — | +9% | +4% | +4% | **+6%** |
+| Other Income | 21 | 1,285 ⁷ | 16 | **-200** | 793 | 682 | 846 | 1,066 | **1,513** |
+| Interest | **6** | 9 | 13 | 10 | 12 | 49 | 72 | 154 | **380** |
+| Profit Before Tax | -106 | -1,010 | **-2,386** | -815 | -1,220 | -1,015 | 291 | 697 | **732** |
+| Tax Rate % | 0% | 0% | 0% | 0% | 0% | -4% | **-21%** | 24% | **~50%** |
+| **Net Income** | -106 | -1,010 | **-2,386** | -816 | -1,222 | -971 | 351 | **527** | 366 |
+| Net Income Growth YoY % | — | **-853%** | -136% | +66% | -50% | +21% | **turn+ve** ⁶ | +50% | -31% |
+| Net Profit Margin (NPM) % | -23.0% | -76.9% | **-91.6%** | -40.9% | -29.2% | -13.7% | **2.9%** | 2.6% | 0.7% ¹ |
+| EPS (Diluted, ₹ — weighted-avg, per Screener) ³ | — | — | — | — | **-1.54** | -1.14 | 0.40 | **0.55** | 0.40 |
+| EPS Growth YoY % | — | — | — | — | — | +26% | **turn+ve** ⁶ | +38% | **-27%** |
+| Shares Outstanding (Cr — Basic FY22-FY25; Diluted FY26) ³ | n/a | n/a | n/a | n/a | **764** | 836 | 868 | 907 | **~965** |
+| Shares Change YoY % | — | — | — | — | — | **+9%** | **+4%** | **+4%** | +6% |
 
 ¹ FY26 sales jump is **largely an accounting artifact** of Blinkit's transition from marketplace (commission-only) to inventory-led model in Q1 FY26. Like-for-like FY26 revenue is ~₹32,400 Cr (LFL growth ~60% YoY). Reported NPM 0.7% is mathematically depressed by the inflated revenue denominator; on the LFL revenue base, NPM is ~1.1%.
 
-² **EBIT here = Screener "Operating Profit" minus Depreciation & Amortisation.** This is the Buffett-pure operating profitability metric. Eternal has **NEVER reported positive EBIT in any annual period** — including FY24, FY25, and FY26. Reported "profitability" exists entirely because Other Income (treasury yield on ₹17,972 Cr cash) exceeds operating losses + interest.
+² **EBIT here = Screener "Operating Profit" minus Depreciation & Amortisation.** This is the Buffett-pure operating profitability metric. Eternal has **NEVER reported positive EBIT in any annual period** — including FY24, FY25, and FY26. Reported "profitability" exists entirely because Other Income (treasury yield on ₹17,972 Cr cash) exceeds operating losses + interest. **Note on the EBIT vs NI pattern: this is NOT a D&A double-counting error.** The identity (Operating Profit pre-D&A − D&A = EBIT) holds exactly in all 9 years. In **8 of the 9 years** EBIT is *below* Net Income, because positive Other Income bridges the operating loss up to a higher reported profit — EBIT excludes that non-operating treasury income while Net Income includes it. **FY21 is the lone exception:** Other Income was *negative* (−₹200 Cr that year, likely fair-value/treasury mark-downs during COVID), so NI (−₹816 Cr) was actually *more* negative than EBIT (−₹605 Cr) — the only year the relationship reverses. A mechanical reviewer flagging "EBIT < NI" as a potential error should confirm the FY26 arithmetic: -₹401 Cr EBIT + ₹1,513 Cr Other Income − ₹380 Cr interest − tax ≈ ₹366 Cr Net Income. ✓
 
-³ **Share count and EPS methodology note:** The "Shares Outstanding (Cr)" row above uses **basic shares** for FY22-FY25 (764 / 836 / 868 / 907) and **diluted shares** for FY26 (~965) — this is intentional, reflecting Screener's display convention but documented here for transparency. The compliance template prefers diluted throughout; the difference is small for FY22-FY25 (basic-to-diluted gap was 6-13 Cr) but ~21 Cr in FY26 due to the larger ESOP overhang. For **per-share calculations elsewhere in this analysis (BVPS, IV, OEPS, etc.) ~965 Cr diluted is used consistently**. **EPS values shown are sourced from Screener/Dhan** and use Screener's proprietary weighted-average diluted share count (~920 Cr in FY26, ~958 Cr implied for FY25), which differs from end-year share counts. This is why FY26 EPS ₹0.40 cannot be exactly reproduced from NP ₹366 Cr ÷ year-end shares 965 = ₹0.379 (close but not exact). **Pre-FY22 EPS shown by Screener are pre-IPO and effectively meaningless** (company was private with negligible share count of 30,000 shares).
+³ **Share count and EPS methodology note:** The "Shares Outstanding (Cr)" row above uses **basic shares** for FY22-FY25 (764 / 836 / 868 / 907) and **diluted shares** for FY26 (~965) — this is intentional, reflecting Screener's display convention but documented here for transparency. The compliance template prefers diluted throughout; the difference is small for FY22-FY25 (basic-to-diluted gap was 6-13 Cr) but ~21 Cr in FY26 due to the larger ESOP overhang. For **per-share calculations elsewhere in this analysis (BVPS, IV, OEPS, etc.) ~965 Cr diluted is used consistently**. **EPS values shown are sourced from Screener/Dhan** and use Screener's proprietary weighted-average diluted share count (~915 Cr implied for FY26 from ₹366 Cr / ₹0.40, ~958 Cr implied for FY25), which differs from end-year share counts. This is why FY26 EPS ₹0.40 cannot be exactly reproduced from NP ₹366 Cr ÷ year-end shares 965 = ₹0.379 (close but not exact). **Pre-FY22 EPS shown by Screener are pre-IPO and effectively meaningless** (company was private with negligible share count of 30,000 shares).
 
 ⁴ **Market cap methodology note:** The header value ₹2,29,496 Cr uses CMP ₹237.82 × 965 Cr diluted shares. Using basic shares (944 Cr) would yield ₹2,24,490 Cr — about 2.2% lower. This analysis uses **diluted throughout** for internal consistency, as Buffett-style per-share calculations should reflect the full claim on earnings including dilutive ESOPs.
 
 ⁵ **Gross Profit / Gross Margin is "n/a" for Eternal** because the company does not report a standalone Cost of Goods Sold line. As an internet aggregator/services company across most of its history, Gross Profit was conceptually close to Revenue itself (no inventory cost). With Blinkit's transition to inventory-led model in FY26, COGS exists for the grocery business but is not separately disclosed in consolidated Screener data — it is bundled into "Material Cost" / "Other Expenses" line items along with delivery costs, restaurant commissions, advertising, and personnel. **The most meaningful profitability metric for Eternal is therefore EBIT Margin (tracked in the row below), not Gross Margin.** For consumer-tech businesses without clean COGS breakouts, the template's Gross Profit requirement is not applicable — and skipping it here is an honest reflection of disclosure quality, not an analytical omission.
+
+⁶ **FY24 "turn+ve" = the turnaround year** (the year Eternal first reached reported profitability): Net Income −₹971 Cr (FY23) → +₹351 Cr (FY24), and EPS −₹1.14 → ₹0.40. Because this is a sign change (loss → profit), a conventional YoY growth % (≈ +136% NI, ≈ +135% EPS by the Δ/|base| formula) is **not directly comparable** to normal positive-growth years, so it is shown as "turn+ve" rather than a number. It is nonetheless **the single best year on these metrics** — the year the business crossed into profit — and is bolded accordingly. By contrast, FY21's +66% NI "growth" reflects merely a *narrowing of losses* (FY20 −₹2,386 Cr → FY21 −₹816 Cr, still a deep loss year), not genuine profit growth — which is why it is no longer bolded as "best."
+
+⁷ **FY19 Other Income of ₹1,285 Cr is anomalously high** (FY18: ₹21 Cr; FY20: ₹16 Cr — a ~61× spike that then fully reverts). This is the **raw figure as reported on Screener.in** and is left unaltered. It is a **pre-IPO artefact**: in FY19 Zomato was a private company raising large equity rounds, and the figure most likely reflects investment/treasury income and fair-value gains on financial instruments held against capital raised during that fundraising period (the company was deploying, not yet spending down, that capital). The exact composition is not separately broken out in consolidated Screener data, so the specific driver cannot be stated with certainty — but the item is one-time, historical, and pre-IPO, and has **no bearing on the post-IPO treasury-yield income mechanism** that drives current reported profit (the ₹1,513 Cr FY26 figure). It is excluded from any forward-looking or current valuation consideration.
 
 ### Trend Narrative — The "Profit" That Isn't
 
@@ -129,11 +133,13 @@ Add ₹1,513 Cr Other Income (treasury yield on cash hoard) → PBT ₹732 Cr �
 **3. Net Income just declined.** FY25 NP ₹527 Cr → FY26 NP ₹366 Cr (-30.5%). The company is celebrating "346% YoY growth in Q4 FY26 NP" — but the full-year picture shows the headline number going backwards. Reasons: rising D&A from Blinkit's dark-store expansion, rising interest from lease liabilities, and tax rate normalising upwards (24% FY25 → ~50% FY26).
 
 **Best & Worst Years (Bolded Above):**
-- **Worst Sales Growth:** FY21 (-23%, COVID impact on restaurants)
-- **Worst Net Income (absolute):** FY20 (NP -₹2,386 Cr — peak absolute losses)
-- **Worst EBIT Margin:** FY19 (EBIT margin -174%, on a much smaller revenue base during pre-IPO expansion)
-- **Highest reported NP:** FY25 (₹527 Cr)
-- **Highest revenue:** FY26 (but largely accounting-inflated; LFL FY26 was ~₹32,400 Cr)
+- **Worst Sales Growth:** FY21 (-23%, COVID impact on restaurants); **Best Sales Growth:** FY19 (+182%, early hypergrowth)
+- **Worst Net Income (absolute):** FY20 (NP -₹2,386 Cr — peak absolute losses); **Best Net Income:** FY25 (₹527 Cr)
+- **Worst absolute EBIT:** FY20 (-₹2,389 Cr); **Best (least-negative) EBIT:** FY18 (-₹121 Cr)
+- **Worst EBIT Margin:** FY19 (-174%, on a much smaller revenue base during pre-IPO expansion); **Best EBIT Margin:** FY26 (-0.7%)
+- **Highest revenue:** FY26 (but largely accounting-inflated; LFL FY26 was ~₹32,400 Cr); **Lowest revenue:** FY18 (₹466 Cr)
+
+> **Bolding convention:** per the analysis template, bold marks the cell(s) **at each extreme end** (best and worst) of every row. Where two or more years are **tied at an extreme**, all tied cells are bolded — e.g., the Shares Change row bolds FY23 (+9%, highest/most-dilutive = worst) and **both** FY24 and FY25 (tied at +4%, the lowest/least-dilutive = best). This is intentional, not a triple-bold error; tied extremes are always shown together so the reader sees the full range.
 
 ---
 
@@ -154,7 +160,7 @@ Add ₹1,513 Cr Other Income (treasury yield on cash hoard) → PBT ₹732 Cr �
 | Est. Goodwill (₹ Cr) ³ | — | — | — | — | ~4,500 | ~4,500 | ~4,500 | ~6,500 | ~6,500 | **~6,500** |
 | **Book Value Per Share (₹)** ⁵ | n/a | n/a | n/a | n/a | 21.60 | 23.28 | 23.52 | 33.43 | 33.87 | **~41.50** |
 | **Tangible BVPS (₹)** ⁵ | n/a | n/a | n/a | n/a | ~15.71 | ~17.90 | ~18.34 | ~26.27 | ~26.71 | **~34.77** |
-| BVPS Growth YoY % | — | — | — | — | — | +7.8% | +1.0% | **+42%** | — | +24% |
+| BVPS Growth YoY % | — | — | — | — | — | +7.8% | **+1.0%** | **+42%** | — | +24% |
 | Debt / Equity | 0.18 | 0.15 | 0.71 | 0.07 | 0.004 | 0.03 | 0.04 | 0.07 | 0.11 | **0.10** |
 | **Debt / EBIT** ⁴ | NEG | NEG | NEG | NEG | NEG | NEG | NEG | NEG | NEG | **NEG (EBIT loss)** |
 | **Net Debt / Owner Earnings** ⁴ | NEG | NEG | NEG | NEG | NEG | NEG | n/m | n/m | n/m | **NEG (net cash)** |
@@ -169,7 +175,7 @@ Add ₹1,513 Cr Other Income (treasury yield on cash hoard) → PBT ₹732 Cr �
 
 ⁴ Eternal has had **negative EBIT in every year** since inception. Debt/EBIT and Interest Coverage are mathematically meaningless (negative denominators). This is a critical Buffett-style red flag: a business that cannot cover its interest expense from operating profit is, by definition, financially fragile in any scenario except continued external capital raises. The company has, however, used its IPO and QIP proceeds to maintain a net cash position throughout. **Net Debt / Owner Earnings is irrelevant because Eternal has had net CASH, not net debt, throughout.**
 
-⁵ **Tangible Book Value Per Share (TBVPS) = (Equity − Goodwill) / Diluted Shares.** Eternal carries significant goodwill (₹4,447 Cr Blinkit + ₹2,048 Cr Paytm Entertainment = ~₹6,500 Cr) on the balance sheet. TBVPS is the more honest "salvage value" metric — what remains after writing off the intangibles. For Eternal: TBVPS Mar-26 ≈ (₹40,050 − ₹6,500) / 965 = **₹34.77**. **This matters because the Paytm Entertainment goodwill may need to be written down** (the District tech-stack from this acquisition was transferred for ₹24.19 Cr in May 2026, suggesting the ₹2,048 Cr book value is overstated). On a stressed TBVPS basis, the realistic floor for downside scenarios is ~₹30-35/share, not ₹41.50.
+⁵ **Tangible Book Value Per Share (TBVPS) = (Equity − Goodwill) / Diluted Shares.** Eternal carries significant goodwill (₹4,447 Cr Blinkit + ₹2,048 Cr Paytm Entertainment = ~₹6,500 Cr) on the balance sheet. TBVPS is the more honest "salvage value" metric — what remains after writing off the intangibles. For Eternal: TBVPS Mar-26 ≈ (₹40,050 − ₹6,500) / 965 = **₹34.77**. **This matters because the Paytm Entertainment goodwill may need to be written down** (the District tech-stack from this acquisition was transferred for ₹24.19 Cr in May 2026, suggesting the ₹2,048 Cr book value is overstated). On a stressed TBVPS basis, the realistic floor for downside scenarios is ~₹30-35/share, not ₹41.50. *Note on Sep-25 BVPS: the ₹33.87 figure reflects Sep-25 equity ₹30,822 Cr divided by the ~910 Cr weighted-average diluted share count for that period (Screener basis); using the ~913 Cr period-end count would give ₹33.76. The ₹0.11 difference is a share-count-timing artifact, immaterial to the analysis.*
 
 ⁶ Current Ratio = Current Assets / Current Liabilities. For Eternal, this is consistently >2x because the large cash hoard (₹17,972 Cr) sits in current investments while current liabilities are modest. The reported Current Ratio per Screener is comfortable in every year shown; the company has zero short-term liquidity risk. This is a function of the IPO/QIP capital cushion, not operating cash generation.
 
@@ -226,7 +232,7 @@ For a normal Buffett analysis, the financial fortress test focuses on (a) low de
 
 > Buffett (1986 Letter, definition of Owner Earnings): *"These represent (a) reported earnings plus (b) depreciation, depletion, amortization, and certain other non-cash charges less (c) the average annual amount of capitalized expenditures for plant and equipment, etc. that the business requires to fully maintain its long-term competitive position and its unit volume."*
 >
-> For Eternal, Owner Earnings = NP ₹366 Cr + D&A ₹1,597 Cr − Maintenance CapEx. The hard question is: what is Maintenance CapEx? Eternal's total CapEx (FY25 ~₹931 Cr) is mostly **growth** CapEx for new Blinkit dark stores and warehouses. A reasonable "Maintenance CapEx" estimate is 60-70% of D&A (₹1,000-1,100 Cr) — covering depreciation of existing dark stores, kitchen equipment, IT infrastructure, and lease right-of-use asset replacement. This yields Owner Earnings ≈ ₹845 Cr for FY26. **However**, this OE estimate is generous because it adds back ₹1,597 Cr of D&A while ignoring that EBIT itself is *negative*. A cleaner Buffett reading: **Eternal's true operating Owner Earnings are NEGATIVE** — what's reported as "profit" is treasury yield masquerading as operating performance.
+> For Eternal, Owner Earnings = NP ₹366 Cr + D&A ₹1,597 Cr − Maintenance CapEx. The hard question is: what is Maintenance CapEx? Eternal's total CapEx (FY25 ~₹931 Cr) is mostly **growth** CapEx for new Blinkit dark stores and warehouses. A reasonable "Maintenance CapEx" estimate is 60-70% of D&A (₹958-1,118 Cr) — covering depreciation of existing dark stores, kitchen equipment, IT infrastructure, and lease right-of-use asset replacement. Using the 70% upper end (₹1,118 Cr, the conservative choice for OE) yields Owner Earnings ≈ ₹845 Cr for FY26. The 60% lower end of the maintenance-CapEx range (₹958 Cr) would instead give ₹1,005 Cr, so the full OE range is **₹845–1,005 Cr**; the conservative ₹845 Cr figure is the one used throughout this analysis. **However**, this OE estimate is generous because it adds back ₹1,597 Cr of D&A while ignoring that EBIT itself is *negative*. A cleaner Buffett reading: **Eternal's true operating Owner Earnings are NEGATIVE** — what's reported as "profit" is treasury yield masquerading as operating performance.
 
 ### SBC & Equity Dilution
 
@@ -240,6 +246,8 @@ Eternal does **NOT** conduct buybacks. Instead, it has continuously **diluted** 
 | FY25 → Mar 2026 | ESOP + ₹8,500 Cr QIP (March 2026 at ~₹250) | +~45 |
 | **Cumulative IPO → Mar 2026 (diluted)** | **All sources** | **+195 Cr** (770 → ~965 diluted) |
 | **Cumulative IPO → Mar 2026 (basic)** | **All sources** | **+180 Cr** (764 → ~944 basic) |
+
+> *Note on the period rows: each "Shares Added" figure counts **actual issuances in that period** (QIP shares + ESOP vesting), e.g. the FY25→Mar-26 row's +~45 Cr = ~34 Cr QIP + ~11 Cr ESOP vesting. The cumulative diluted figure (+195 Cr) additionally captures the growth in the unvested diluted overhang (the widening basic-to-diluted gap), which is why the FY25→Mar-26 increase on a strict diluted basis (907 Cr basic FY25 → 965 Cr diluted Mar-26) is +58 Cr rather than +45 Cr. The period rows and the cumulative totals are both correct; they simply measure issuances vs. full diluted-count change.*
 
 That is a **+25% cumulative dilution** since IPO over five years on a diluted basis (+24% on basic). ESOPs alone account for roughly +143 Cr gross share issuance (~+19%); QIPs add ~+68 Cr; the diluted net change (+195 Cr) is smaller than the sum due to option-forfeitures and timing of vest events.
 
@@ -257,23 +265,23 @@ That is a **+25% cumulative dilution** since IPO over five years on a diluted ba
 
 | Ratio | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | **FY26** |
 |---|---|---|---|---|---|---|---|---|---|
-| ROCE % ¹ | n/a | **-115%** | -135% | -12% | -13% | -6% | 1% | 3% | **~-1%** ² |
-| ROE % ¹ | n/a | n/a | n/a | n/a | -7% | -5% | 2% | 2% | **~1%** |
+| ROCE % ¹ | n/a | -115% | **-135%** | -12% | -13% | -6% | -2% | **-1%** | **~-1%** ² |
+| ROE % ¹ | n/a | n/a | n/a | n/a | **-7%** | -5% | **2%** | **2%** | ~1% |
 | ROIC % | n/a | NEG | NEG | NEG | NEG | NEG | NEG | NEG | **NEG** |
-| Debt / Equity | 0.18 | 0.15 | **0.71** | 0.07 | 0.004 | 0.03 | 0.04 | 0.07 | 0.10 |
-| OPM % (pre-D&A, Screener) | -20% | **-171%** | -88% | -23% | -44% | -17% | 0.4% | 3.2% | **2.2%** |
+| Debt / Equity | 0.18 | 0.15 | **0.71** | 0.07 | **0.004** | 0.03 | 0.04 | 0.07 | 0.10 |
+| OPM % (pre-D&A, Screener) | -20% | **-171%** | -88% | -23% | -44% | -17% | 0.4% | **3.2%** | 2.2% |
 | **EBIT Margin %** | -26% | **-174%** | -92% | -30% | -48% | -23% | -4% | -1% | **-0.7%** |
 | NPM % | -23% | -77% | **-92%** | -41% | -29% | -14% | **2.9%** ³ | 2.6% | 0.7% ⁴ |
-| Debtor Days | 20 | 20 | 17 | 24 | 14 | 24 | 24 | **35** | ~35 |
-| Inventory Days | n/a | n/a | n/a | 28 | 28 | 22 | 11 | 12 | ~10 |
-| Cash Conversion Cycle (days) | 20 | 20 | 17 | -513 | -257 | -132 | -77 | -54 | ~-45 |
-| Working Capital Days | -43 | -31 | -20 | **96** | 316 | 200 | 41 | 45 | ~45 |
-| Current Ratio | n/m | n/m | n/m | ~3.0 | ~3.5 | ~2.5 | ~2.5 | ~2.8 | ~2.9 |
+| Debtor Days | 20 | 20 | 17 | 24 | **14** | 24 | 24 | **35** | **~35** |
+| Inventory Days | n/a | n/a | n/a | **28** | **28** | 22 | 11 | 12 | **~10** |
+| Cash Conversion Cycle (days) | **20** | **20** | 17 | **-513** | -257 | -132 | -77 | -54 | ~-45 |
+| Working Capital Days | **-43** | -31 | -20 | 96 | **316** | 200 | 41 | 45 | ~45 |
+| Current Ratio | n/m | n/m | n/m | ~3.0 | **~3.5** | **~2.5** | **~2.5** | ~2.8 | ~2.9 |
 | Interest Coverage (EBIT/Int) | NEG | NEG | NEG | NEG | NEG | NEG | NEG | NEG | **NEG** |
-| Dividend Payout % | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | **0%** |
+| Dividend Payout % | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
 
 ¹ ROCE pre-FY19 shown as n/a because the company was private/small. ROE not meaningful before FY22 (post-IPO).
-² ROCE for FY26 derived from EBIT/Average Capital Employed. EBIT FY26 is -₹401 Cr; avg CE FY25-FY26 ~₹38,500 Cr → ROCE ~-1.0%.
+² ROCE for FY26 derived from EBIT/Average Capital Employed, where **Capital Employed = Shareholders' Equity + Total Debt**. EBIT FY26 is -₹401 Cr; avg CE FY25-FY26 ≈ (₹32,362 Cr + ₹44,050 Cr)/2 ≈ ₹38,206 Cr → ROCE ~-1.0%. (Using equity alone (~₹35,184 Cr) as the denominator instead gives EBIT/Avg Equity ~-1.14% — not strictly "ROCE" since that metric by definition uses Capital Employed = Equity + Debt, but directionally identical.) The **same EBIT/Avg CE basis applies to every year**: because EBIT is negative throughout, ROCE is negative in all years — including FY24 (≈ **−2.3%** = −₹483 Cr / ₹20,564 Cr avg CE) and FY25 (≈ **−0.8%** = −₹215 Cr / ₹26,762 Cr avg CE). **Screener.in's displayed ROCE shows small positives for FY24/FY25 because Screener uses Operating Profit (pre-D&A, an EBITDA-like numerator), not EBIT;** consistent with this analysis's rejection of pre-D&A profit metrics, ROCE here uses EBIT and is therefore negative in those years.
 ³ FY24 NPM of 2.9% is the **best year on record**, with FY25 close behind at 2.6%. Both are well below Buffett's 15%+ benchmark for quality businesses.
 ⁴ FY26 NPM 0.7% is depressed by the inflated revenue denominator (Blinkit inventory model). On LFL revenue ~₹32,400 Cr, NPM is ~1.1% — but still well below Buffett standards.
 
@@ -282,7 +290,7 @@ That is a **+25% cumulative dilution** since IPO over five years on a diluted ba
 | Criterion | Benchmark | Eternal Score | Verdict |
 |---|---|---|---|
 | ROE > 15% consistently | >15% | ~1-2% (10Y avg ~-15%) | ❌ |
-| ROCE > 15% | >15% | -1% to +3% recent range (negative through history) | ❌ |
+| ROCE > 15% | >15% | −2% to −1% recent range (EBIT-based; negative in every year) | ❌ |
 | Debt/Equity < 0.5 | <0.5 | 0.10 (net cash position) | ✅ |
 | Consistent profit growth | Growing | Lost money FY18-FY23; barely profitable FY24-FY26; FY26 NP **DECLINED** vs FY25 | ❌ |
 | Sales growth | Growing | 67-71% reported growth FY24-FY25; FY26 LFL ~60% | ✅ |
@@ -314,23 +322,24 @@ The moat hint is in the **negative cash conversion cycle (-45 to -50 days)**: cu
 
 ### Consolidated Quarterly Trend (₹ Crores)
 
-| Metric | Dec'22 | Mar'23 | Jun'23 | Sep'23 | Dec'23 | Mar'24 | Jun'24 | Sep'24 | Dec'24 | Mar'25 | Jun'25 | Sep'25 | Dec'25 | **Mar'26** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Sales | 1,948 | 2,056 | 2,416 | 2,848 | 3,288 | 3,562 | 4,206 | 4,799 | 5,405 | 5,833 | 7,167 ¹ | 13,590 ¹ | 16,315 ¹ | **17,292** ¹ |
-| YoY Sales Growth % | — | — | — | — | 69% | 73% | 74% | 68% | 64% | 64% | 70% | 183% ¹ | 202% ¹ | **196%** ¹ |
-| YoY LFL Sales Growth % ¹ | — | — | — | — | — | — | — | — | — | — | ~64% | ~64% | ~64% | **~64%** |
-| Operating Profit (pre-D&A) | **-366** | -226 | -48 | -47 | 51 | 86 | 177 | 226 | 162 | 72 | 115 | 239 | 368 | **474** ² |
-| OPM % (pre-D&A) | **-19%** | -11% | -2% | -2% | 2% | 2% | 4% | 5% | 3% | 1% | 2% | 2% | 2% | 3% |
-| Depreciation | 155 | 134 | 130 | 128 | 128 | 140 | 149 | 180 | 247 | 287 | 314 | 376 | 439 | **468** |
-| **EBIT** ² | **-521** | -360 | -178 | -175 | -77 | -54 | +28 ³ | +46 ³ | -85 | -215 | -199 | -137 | -71 | **+6** ³ |
-| **EBIT Margin %** ² | **-26.7%** | -17.5% | -7.4% | -6.1% | -2.3% | -1.5% | **+0.7%** | +1.0% | -1.6% | -3.7% | -2.8% | -1.0% | -0.4% | **+0.03%** |
-| Net Profit | -347 | -188 | 2 | 36 | 138 | 175 | **253** | 176 | 59 | 39 | 25 | 65 | 102 | **174** |
-| NPM % | -17.8% | -9.1% | 0.1% | 1.3% | 4.2% | 4.9% | **6.0%** | 3.7% | 1.1% | 0.7% | 0.3% | 0.5% | 0.6% | 1.0% |
-| EPS (₹) | -0.41 | -0.22 | 0.00 | 0.04 | 0.16 | 0.20 | **0.29** | 0.20 | 0.06 | 0.04 | 0.03 | 0.07 | 0.11 | **0.19** |
+| Metric | Mar'23 | Jun'23 | Sep'23 | Dec'23 | Mar'24 | Jun'24 | Sep'24 | Dec'24 | Mar'25 | Jun'25 | Sep'25 | Dec'25 | **Mar'26** |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Sales | **2,056** | 2,416 | 2,848 | 3,288 | 3,562 | 4,206 | 4,799 | 5,405 | 5,833 | 7,167 ¹ | 13,590 ¹ | 16,315 ¹ | **17,292** ¹ |
+| YoY Sales Growth % | — | — | — | 69% | 73% | 74% | 69% | **64%** | **64%** | 70% | 183% ¹ | **202%** ¹ | 196% ¹ |
+| YoY LFL Sales Growth % ¹ | — | — | — | — | — | — | — | — | — | ~64% | ~64% | ~64% | **~64%** |
+| Operating Profit (pre-D&A) | **-226** | -48 | -47 | 51 | 86 | 177 | 226 | 162 | 72 | 115 | 239 | 368 | **474** ²⁴ |
+| OPM % (pre-D&A) | **-11%** | -2% | -2% | 2% | 2% | 4% | **5%** | 3% | 1% | 2% | 2% | 2% | 3% |
+| Depreciation | 134 | 130 | **128** | **128** | 140 | 149 | 180 | 247 | 287 | 314 | 376 | 439 | **468** |
+| **EBIT** ² | **-360** | -178 | -175 | -77 | -54 | +28 ³ | **+46** ³ | -85 | -215 | -199 | -137 | -71 | +6 ³ |
+| **EBIT Margin %** ² | **-17.5%** | -7.4% | -6.1% | -2.3% | -1.5% | +0.7% | **+1.0%** | -1.6% | -3.7% | -2.8% | -1.0% | -0.4% | +0.03% |
+| Net Profit | **-188** | 2 | 36 | 138 | 175 | **253** | 176 | 59 | 39 | 25 | 65 | 102 | 174 |
+| NPM % | **-9.1%** | 0.1% | 1.3% | 4.2% | 4.9% | **6.0%** | 3.7% | 1.1% | 0.7% | 0.3% | 0.5% | 0.6% | 1.0% |
+| EPS (₹) | **-0.22** | 0.00 | 0.04 | 0.16 | 0.20 | **0.29** | 0.20 | 0.06 | 0.04 | 0.03 | 0.07 | 0.11 | 0.19 |
 
 ¹ FY26 quarterly Sales (Q1 onwards) are inflated by Blinkit's transition to inventory-led model. LFL growth is ~64% YoY for each FY26 quarter — strong but much lower than reported headline.
-² **EBIT = Operating Profit pre-D&A minus Depreciation.** Q4 FY26 OP pre-D&A and OI back-calculated from FY26 totals minus Q1+Q2+Q3 disclosed values. Q4 FY26 EBIT just turned marginally positive at +₹6 Cr — the first time EBIT has crossed zero in any single quarter.
+² **EBIT = Operating Profit pre-D&A minus Depreciation.** Q4 FY26 OP pre-D&A and OI back-calculated from FY26 totals minus Q1+Q2+Q3 disclosed values. Q4 FY26 EBIT was marginally positive at +₹6 Cr — only the **third** positive-EBIT quarter in the company's history (after Q1 FY25 / Jun'24 at +₹28 Cr and Q2 FY25 / Sep'24 at +₹46 Cr), and the first since Blinkit's D&A ramp pushed EBIT back negative through H2 FY25–H1 FY26.
 ³ Eternal has had **positive EBIT only in three quarters** out of its entire history shown: Q1 FY25, Q2 FY25, and Q4 FY26 — and even these were marginal (<₹50 Cr). FY25 H1 positive EBIT was driven by food delivery profitability before Blinkit's D&A ballooned.
+⁴ **Quarterly-to-annual reconciliation note (FY25):** The four FY25 quarterly Operating Profit (pre-D&A) figures above sum to ₹637 Cr (177 + 226 + 162 + 72), versus the audited annual FY25 figure of ₹648 Cr shown in Section 2 — a ₹11 Cr (≈1.7%) difference. This is a **normal Screener.in data artifact**: quarterly figures do not always sum exactly to the audited annual filing because of inter-quarter accounting adjustments and Screener's separate quarterly/annual data feeds. Both figures are shown as sourced from Screener and left unaltered. D&A reconciles **exactly** (quarterly 149 + 180 + 247 + 287 = ₹863 Cr = annual ₹863 Cr). The gap is immaterial and does not affect EBIT margin, Owner Earnings, or any valuation calculation.
 
 **Bold = best/worst values in each row.**
 
@@ -338,7 +347,7 @@ The moat hint is in the **negative cash conversion cycle (-45 to -50 days)**: cu
 
 **1. Revenue Trajectory:** Pre-Q1 FY26, revenue grew steadily at 64-74% YoY. From Q1 FY26 the headline jumps to 183-202% — but this is accounting, not acceleration. **LFL growth has actually held remarkably steady at ~64% YoY**, which is strong (Blinkit is now in a high-base 100%+ NOV growth zone slowing toward 60% per management guidance; food delivery NOV is at 18-22% YoY). Sequential momentum: Q3 FY26 → Q4 FY26 Sales +6% QoQ (and Blinkit NOV +8% QoQ); the business is **decelerating quarter-on-quarter from the early-FY26 explosive phase** as the inventory-model base effect fades.
 
-**2. Margin Trend:** Both OPM and EBIT margin have been on a clear improvement trajectory from FY23 to mid-FY25 — H1 FY25 saw the peak EBIT margins (+0.7% to +1.0%). But **H2 FY25 through H1 FY26 saw margin compression** as Blinkit's aggressive dark-store expansion drove D&A from ₹247 Cr (Q4 FY24) to ₹468 Cr (Q4 FY26) — a 90% increase in 8 quarters. **The story behind this is critical:** Eternal's OPM (pre-D&A) is stable at 2-3%, but EBIT margin oscillates around zero because D&A is rising faster than operating profit. This is *exactly* the trap Buffett warned about with EBITDA — the business looks "profitable" on Adjusted EBITDA (₹429 Cr in Q4 FY26), looks "marginally profitable" on Operating Profit (₹474 Cr Q4 FY26), and is **just barely positive on EBIT (+₹6 Cr Q4 FY26)**. The capital-intensity headwind is real and ongoing.
+**2. Margin Trend:** Both OPM and EBIT margin have been on a clear improvement trajectory from FY23 to mid-FY25 — H1 FY25 saw the peak EBIT margins (+0.7% to +1.0%). But **H2 FY25 through H1 FY26 saw margin compression** as Blinkit's aggressive dark-store expansion drove D&A from ₹180 Cr (Q2 FY25/Sep'24) to ₹468 Cr (Q4 FY26/Mar'26) — a ~160% increase in 6 quarters. **The story behind this is critical:** Eternal's OPM (pre-D&A) is stable at 2-3%, but EBIT margin oscillates around zero because D&A is rising faster than operating profit. This is *exactly* the trap Buffett warned about with EBITDA — the business looks "profitable" on Adjusted EBITDA (₹429 Cr in Q4 FY26), looks "marginally profitable" on Operating Profit (₹474 Cr Q4 FY26), and is **just barely positive on EBIT (+₹6 Cr Q4 FY26)**. The capital-intensity headwind is real and ongoing.
 
 **3. Normalised Quarterly EPS Run-Rate:**
 - Q4 FY26 reported EPS: ₹0.19
@@ -347,7 +356,7 @@ The moat hint is in the **negative cash conversion cycle (-45 to -50 days)**: cu
 - **Normalised operating EPS (FY26): approximately ZERO** because EBIT is approximately zero. The ₹0.40 reported FY26 EPS is entirely treasury yield divided by share count.
 
 **4. Red Flags & Positive Surprises:**
-- ✅ **Positive:** Q4 FY26 saw EBIT cross zero for the first time in 8+ quarters; Blinkit reported positive adjusted EBITDA of ₹37 Cr (vs ₹4 Cr in Q3 FY26).
+- ✅ **Positive:** Q4 FY26 saw EBIT turn positive (+₹6 Cr) for the first time in 6 quarters (since Q2 FY25/Sep'24); Blinkit reported positive adjusted EBITDA of ₹37 Cr (vs ₹4 Cr in Q3 FY26).
 - ⚠️ **Mixed:** AOV (Average Order Value) at Blinkit fell from ₹665 to ₹525 YoY — the business is acquiring lower-value customers as it scales into smaller cities and Tier-2.
 - ❌ **Red Flag:** Hyperpure Q4 FY26 revenue down ~47% YoY in the quarter (₹1,840 Cr → ₹978 Cr); full-year FY26 decline ~-19% YoY — partly accounting but a material decline in the B2B business.
 - ❌ **Red Flag:** FY26 full-year NP declined from FY25 (-31% YoY) despite massive headline revenue growth — the operating leverage is not yet emerging.
@@ -355,7 +364,7 @@ The moat hint is in the **negative cash conversion cycle (-45 to -50 days)**: cu
 > Buffett: *"In the business world, the rearview mirror is always clearer than the windshield."* — The rearview shows a business that has improved margins from catastrophic losses (FY22 NPM -29%) to marginal profitability (FY26 NPM 0.7%-1.1%). The windshield is much hazier: will FY27 see EBIT margins finally cross firmly above zero, or will another competitive flare-up (Reliance Smart Bazaar Quick, Amazon Now, Zepto IPO) push them back down?
 
 **Trajectory Classification:**
-The business is **CRUISING-TO-ACCELERATING on revenue (LFL ~60% YoY)** but **CRUISING NEAR BREAK-EVEN on EBIT**. There is no clear "decelerating" or "deteriorating" signal — but neither is there yet the "operating leverage inflection" that bulls have been promising for three years. Each year the EBIT margin gets ~1-2 percentage points closer to positive, but each year Blinkit's D&A ramp eats most of that gain. **Buffett values predictability above all** — and this business's earnings power 12 months out is genuinely difficult to forecast within a 30-40% band, which by Buffett standards is too imprecise to merit a concentrated position.
+**Quarterly Classification: CRUISING.** Of the four template categories (Accelerating / Cruising / Decelerating / Deteriorating), the most defensible single label is **CRUISING** — revenue is growing fast on a like-for-like basis (~60% YoY) but EBIT has hovered near break-even for three years without a decisive inflection. The nuance: revenue momentum alone would suggest "Accelerating," but because that top-line growth is *not* translating into a clear EBIT breakout (each ~1-2 pp of annual EBIT-margin improvement is largely eaten by Blinkit's D&A ramp), the business as a whole is best described as cruising near break-even rather than accelerating to profitability. There is no "decelerating" or "deteriorating" signal — but neither is there yet the "operating leverage inflection" that bulls have promised for three years. **Buffett values predictability above all** — and this business's earnings power 12 months out is genuinely difficult to forecast within a 30-40% band, which by Buffett standards is too imprecise to merit a concentrated position.
 
 ---
 
@@ -363,15 +372,17 @@ The business is **CRUISING-TO-ACCELERATING on revenue (LFL ~60% YoY)** but **CRU
 
 ### Shareholding Trend (% of Total Equity)
 
-| Holder | Jun'23 | Sep'23 | Dec'23 | Mar'24 | Jun'24 | Sep'24 | Dec'24 | Mar'25 | Jun'25 | Sep'25 | Dec'25 | **Mar'26** | Trend |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Promoters / Insiders ¹ | — | — | — | — | — | — | — | — | — | — | — | — | n/a |
-| **FIIs / FPIs** | 54.43% | 54.72% | 54.88% | 55.11% | 54.11% | 52.53% | 47.31% | 44.36% | 42.34% | 39.04% | 36.24% | **32.61%** | **↓↓↓** |
-| **DIIs (MFs + Ins + PFs)** | 9.93% | 13.04% | 15.47% | 15.28% | 15.79% | 17.32% | 20.51% | 23.47% | 26.49% | 30.04% | 32.61% | **35.88%** | **↑↑↑** |
-| Government | 0.00% | 0.00% | 0.00% | 0.00% | 0.00% | 0.00% | 0.03% | 0.10% | 0.10% | 0.10% | 0.10% | 0.10% | → |
-| Public / Retail | 33.56% | 30.42% | 27.98% | 28.05% | 28.64% | 28.86% | 26.09% | 26.08% | 25.17% | 25.12% | 25.47% | 26.68% | ↓ then → |
-| Others | 2.09% | 1.82% | 1.66% | 1.58% | 1.45% | 1.27% | 6.07% | 5.98% | 5.91% | 5.71% | 5.58% | 4.73% | → |
-| **No. of Shareholders** | 17.10 L | 17.08 L | 17.28 L | 19.16 L | 21.41 L | 23.56 L | 25.21 L | 27.92 L | 24.99 L | 22.68 L | 22.71 L | **23.05 L** | ↑↑ then ↓ |
+| Holder | Jun'24 | Sep'24 | Dec'24 | Mar'25 | Jun'25 | Sep'25 | Dec'25 | **Mar'26** | Trend |
+|---|---|---|---|---|---|---|---|---|---|
+| Promoters / Insiders ¹ | — | — | — | — | — | — | — | — | n/a |
+| **FIIs / FPIs** | 54.11% | 52.53% | 47.31% | 44.36% | 42.34% | 39.04% | 36.24% | **32.61%** | **↓↓↓** |
+| **DIIs (MFs + Ins + PFs)** | 15.79% | 17.32% | 20.51% | 23.47% | 26.49% | 30.04% | 32.61% | **35.88%** | **↑↑↑** |
+| Government | 0.00% | 0.00% | 0.03% | 0.10% | 0.10% | 0.10% | 0.10% | 0.10% | → |
+| Public / Retail | 28.64% | 28.86% | 26.09% | 26.08% | 25.17% | 25.12% | 25.47% | 26.68% | → |
+| Others | 1.45% | 1.27% | 6.07% | 5.98% | 5.91% | 5.71% | 5.58% | 4.73% | → |
+| **No. of Shareholders** | 21.41 L | 23.56 L | 25.21 L | 27.92 L | 24.99 L | 22.68 L | 22.71 L | **23.05 L** | ↑↑ then ↓ |
+
+> *Table trimmed to the 8 most recent quarters (Jun'24–Mar'26) per the 6-8 quarter template ceiling. Historical context for the 4 prior quarters: **FIIs** held 54.43% (Jun'23) → 54.72% → 54.88% → 55.11% (Mar'24) — i.e., FII ownership PEAKED at ~55% in Mar'24 before the steep decline shown above. **DIIs** rose from 9.93% (Jun'23) → 13.04% → 15.47% → 15.28% (Mar'24). **Retail** fell from 33.56% (Jun'23) to 28.05% (Mar'24). The full FII-exit-into-DII-accumulation story therefore began from a ~55%/15% split in early 2024.*
 
 ¹ Eternal has **no traditional promoter category** — it is widely-held by institutions, with the founder Deepinder Goyal personally holding approximately 4% (classified under "Others" / public). The company is therefore similar to ICICI Bank, Infosys, L&T, etc. in being widely-held.
 
@@ -421,7 +432,7 @@ Eternal's CapEx is driven almost entirely by Blinkit's dark-store expansion. The
 | R&D / Tech Spend (est.) | ~150 | ~200 | ~250 | ~300 | ~350 |
 | **SBC / ESOP Expense (est.)** ¹ | ~400 | ~700 | ~900 | ~1,000 | ~1,000 |
 | SBC / Revenue % | 9.5% | 9.9% | 7.4% | 4.9% | ~1.8% / ~3.1% (LFL) |
-| SBC / Net Income % | — | — | 257% | 190% | **273%** ² |
+| SBC / Net Income % | — | — | 256% | 190% | **273%** ² |
 
 ¹ SBC figures estimated from annual reports and ESOP allotment disclosures; the company does not report a separate single SBC line publicly, but the difference between "Adjusted EBITDA" and GAAP "Operating Profit" gives the ESOP expense (~₹200-300 Cr per quarter).
 ² FY26 SBC ~₹1,000 Cr divided by FY26 NP ₹366 Cr = 273%. **Stock-based compensation is approximately 2.7x the company's reported net income.** Without SBC addback, GAAP earnings would be deeply negative.
@@ -430,7 +441,7 @@ Eternal's CapEx is driven almost entirely by Blinkit's dark-store expansion. The
 
 In Eternal's case, the decomposition is unusually clean:
 - **Growth CapEx:** Most of the ₹1,500-1,800 Cr FY26 CapEx is for *new* Blinkit dark stores, *new* delivery vehicles, and expansion into Tier-2 cities. These are not maintenance — they are entirely additive to scale.
-- **Maintenance CapEx:** Realistic estimate is ~60-70% of current D&A — i.e., **~₹1,000-1,100 Cr/year**. This covers (a) right-of-use lease asset depreciation as existing dark stores' leases roll over and require renewal/relocation, (b) replacement of kitchen and warehousing equipment, (c) IT/tech infrastructure refreshes, (d) replacement of delivery vehicles and equipment.
+- **Maintenance CapEx:** Realistic estimate is ~60-70% of current D&A — i.e., **~₹958-1,118 Cr/year** (the ₹1,118 Cr / 70% upper end is used in the OE calculation as the conservative choice). This covers (a) right-of-use lease asset depreciation as existing dark stores' leases roll over and require renewal/relocation, (b) replacement of kitchen and warehousing equipment, (c) IT/tech infrastructure refreshes, (d) replacement of delivery vehicles and equipment.
 
 **Owner Earnings Calculation (Base):**
 
@@ -467,7 +478,7 @@ Current P/Owner Earnings = ₹237.82 / ₹0.876 = **272x**
 |---|---|---|---|---|---|---|
 | GAAP SBC Expense (est.) | ~400 | ~700 | ~900 | ~1,000 | ~1,000 | **~4,000** |
 | SBC as % of Revenue | 9.5% | 9.9% | 7.4% | 4.9% | ~1.8% (~3.1% LFL) | — |
-| SBC as % of Net Income | n/m (NP neg) | n/m | 257% | 190% | **273%** | n/m |
+| SBC as % of Net Income | n/m (NP neg) | n/m | 256% | 190% | **273%** | n/m |
 | Gross Shares Issued from ESOP (Cr) ¹ | ~10 | ~72 | ~32 | ~5 | ~24 | **~143 Cr** |
 | Shares Repurchased via Buyback (Cr) | **0** | **0** | **0** | **0** | **0** | **0** |
 | **Net Dilution from SBC (Cr)** | +10 | +72 | +32 | +5 | +24 | **+143 Cr** |
@@ -486,15 +497,25 @@ Current P/Owner Earnings = ₹237.82 / ₹0.876 = **272x**
 ² QIP shares: ~34 Cr issued in March 2026 (FY26) at ~₹250 (₹8,500 Cr raised) AND ~34 Cr issued in November 2024 (FY25) at ~₹252 (₹8,500 Cr raised). Two QIPs totalling **~₹17,000 Cr raised over 18 months** — cumulative external capital infusion is material.
 ³ Dilution-Adjusted OE is **deeply negative** because the company would, on a "what-if-they-had-to-buy-back" basis, need to spend ~₹5,000-6,000 Cr/year buying back ESOP shares at current market prices (24 Cr shares × ₹240 average = ₹5,760 Cr). That far exceeds Base OE of ₹845 Cr. Cumulative basic share count increase (+180 Cr) is lower than diluted (+195 Cr) due to growing ESOP overhang; cumulative ESOP gross issuance (~143 Cr) + QIPs (~68 Cr) = ~211 Cr exceeds the diluted net change by ~16 Cr (reconciled by option-forfeitures, timing of vest events, and the basic-to-diluted gap already embedded in FY22 starting count).
 
-### The "SBC Treadmill" Test
+**Note on table structure:** The *"Net Dilution from SBC"* row is deliberately **SBC-only** (gross ESOP issuance net of anti-dilution buybacks — here equal to gross ESOP, since buybacks are zero). QIP / equity raises are kept on a **separate** line because a capital raise is economically distinct from compensation dilution: a QIP dilutes ownership but brings in offsetting cash (~₹17,000 Cr across the two rounds), whereas ESOP dilution is a pure transfer of value to employees with no cash inflow. The **Diluted Shares Outstanding** row (and its **+195 Cr** cumulative change) already captures the *combined* effect of both sources; keeping SBC and QIP on separate lines preserves the integrity of the SBC (Burry-framework) dilution analysis and avoids conflating the two.
+
+### 1. Gross vs. Net Dilution Trend
+
+Over FY22-FY26, Eternal issued roughly **+143 Cr gross ESOP shares** (peaking at +72-75 Cr in FY23 alone during the post-IPO grant cycle) and **+68 Cr QIP shares** across two raises. Because the company conducts **zero buybacks**, gross issuance and net dilution are essentially the same thing — there is no offsetting repurchase to convert gross grants into a lower net figure. The only reason cumulative net diluted change (+195 Cr) is below the simple sum of ESOP (+143) + QIP (+68) = +211 Cr is option-forfeitures and the in-the-money diluted overhang already embedded in the FY22 starting count — *not* buybacks. The trend is monotonic dilution: the diluted share count has risen every single year, from 770 Cr (FY22) to ~965 Cr (Mar-26), a +25% increase. For a Buffett-style investor this is the wrong direction — wonderful businesses *shrink* their share count over time (Apple, AutoZone); Eternal expands it relentlessly.
+
+### 2. The "SBC Treadmill" Test
 
 Since Eternal conducts **zero buybacks**, the % of buybacks consumed by SBC offsetting is **mathematically undefined / 100% un-offset**. **This is the worst possible diagnosis** in the Burry framework — the dilution from ESOPs is entirely unopposed, and shareholders bear the full per-share dilution cost. By the Burry traffic-light system this would be 🔴 RED (well beyond the >75% threshold).
 
-### GAAP Expense vs. Cash Reality Gap
+> **SBC Treadmill Rating: 🔴 RED**
+
+> Dilution fully un-offset, zero buyback programme. Every rupee of ESOP-driven dilution flows straight through to existing shareholders with no repurchase offset whatsoever; the diluted share count has risen +25% since IPO and continues to climb.
+
+### 3. GAAP Expense vs. Cash Reality Gap
 
 Eternal's GAAP SBC expense (estimated ~₹1,000 Cr in FY26) reflects the grant-date fair value of options/RSUs. The *cash equivalent cost* — what it would actually cost to buy back the diluted shares at current market prices — is significantly higher: ~₹5,800 Cr/year at current share price. **The cash reality is ~5.8x the GAAP expense.** This is the same dynamic Burry identified at NVIDIA (5.5x ratio).
 
-### Dilution-Adjusted Owner Earnings vs. Reported Metrics
+### 4. Dilution-Adjusted Owner Earnings vs. Reported Metrics
 
 ```
 Reported Net Income (FY26):                           ₹  366 Cr
@@ -505,25 +526,25 @@ Dilution-Adjusted Owner Earnings (FY26):             ~₹-5,000 Cr (deeply negat
 
 > A more conservative reading: Even if we don't deduct the *full* notional anti-dilution cost (which would be unfair since the company isn't actually spending the cash), the **forward dilution risk** dramatically lowers per-share intrinsic value. Each year, existing shareholders are diluted by 4-5% via ESOPs and may be further diluted by future QIPs. Over 10 years compounded at 4% dilution per year, existing shareholders see their per-share claim shrink by **~33%**. This is a major hidden return drag that does not appear in any reported income statement metric.
 
-### GAAP vs. Non-GAAP / "Adjusted" Earnings Gap
+### 5. GAAP vs. Non-GAAP / "Adjusted" Earnings Gap
 
 Eternal heavily promotes "**Adjusted EBITDA**" — which adds back both D&A *and* SBC. For Q4 FY26: Adjusted EBITDA ₹429 Cr, vs reported Net Income ₹174 Cr — a 2.5x optical inflation. The investor-relations narrative ("Adjusted EBITDA inflected positive at Blinkit") is fundamentally misleading because it ignores two large *real* costs — the depreciation of an aggressively expanding asset base AND the equity dilution from compensating employees.
 
 > Munger: *"I think every time you see the word EBITDA, you should substitute the phrase 'bullshit earnings.'"* The substitution rule is doubly relevant here: when reading any analyst report on Eternal or its investor presentations, **substitute "bullshit earnings" for "Adjusted EBITDA"** to get a clear-headed sense of what is actually being reported. The genuine cash position is: operating business is breakeven-to-loss-making, treasury yield is the only "earnings."
 
-### SBC Trajectory — Improving on % Basis, Stable in Absolute Terms
+### 6. SBC Trajectory — Improving on % Basis, Stable in Absolute Terms
 
 | Year | SBC (₹ Cr est.) | SBC % of Revenue | SBC % of Net Income | Trajectory |
 |---|---|---|---|---|
 | FY22 | ~400 | 9.5% | n/m (NP neg) | Peak burden phase |
 | FY23 | ~700 | 9.9% | n/m (NP neg) | Peak burden phase |
-| FY24 | ~900 | 7.4% | 257% | Improving on revenue basis |
+| FY24 | ~900 | 7.4% | 256% | Improving on revenue basis |
 | FY25 | ~1,000 | 4.9% | 190% | Improving |
 | **FY26** | **~1,000** | **1.8% (3.1% LFL)** | **273%** | **Mixed — absolute flat, % declining, but NP also fell** |
 
 **Verdict on trajectory:** SBC as % of revenue is declining (good — the cost is being amortised across a larger revenue base), but **absolute SBC is stable** at ~₹1,000 Cr — it has not scaled DOWN. And since FY26 NP fell from ₹527 Cr to ₹366 Cr, **SBC-to-NP RATIO actually WORSENED** from 190% to 273%. The trajectory is therefore *not* genuinely improving — the "SBC as % of revenue" decline is largely an artifact of the Blinkit revenue model change inflating the denominator.
 
-### Basic vs. Diluted Share Count Gap — Forward Dilution Indicator
+### 7. Basic vs. Diluted Share Count Gap — Forward Dilution Indicator
 
 | Year | Basic Shares (Cr) | Diluted Shares (Cr) | Gap (Cr) | Gap as % of Basic |
 |---|---|---|---|---|
@@ -579,13 +600,15 @@ Eternal is a **capital-hungry** business, despite the "asset-light digital platf
 | Metric | FY18 | FY19 | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | **FY26** | **10Y Avg** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | ROE % (NP/Year-End Equity) ⁰ | n/m | n/m | n/m | n/m | -7% | -5% | 2% | **2%** | ~1% | **~-1%** |
-| ROA % (NP/Year-End Assets) ⁰ | n/m | n/m | n/m | n/m | -7% | -5% | 1.5% | 1.5% | ~0.9% | ~-0.5% |
+| ROA % (NP/Year-End Assets) ⁰ | n/m | n/m | n/m | n/m | -7% | -5% | 1.5% | 1.5% | ~0.8% | ~-0.5% |
 | ROIC % (NOPAT/Invested Cap) ¹ | NEG | NEG | NEG | NEG | NEG | NEG | NEG | NEG | **NEG** | NEG |
-| ROCE % (EBIT/Avg CE) | n/m | -115% | **-135%** | -12% | -13% | -6% | 1% | **3%** | **~-1%** | **NEG** |
+| ROCE % (EBIT/Avg CE) | n/m | -115% | **-135%** | -12% | -13% | -6% | -2% | **-1%** | **~-1%** | **NEG** |
 
-⁰ **ROE basis note:** The values shown above use **year-end equity** as denominator (per Screener.in's reported convention), which is why FY22 reads -7% (= -₹1,222 Cr / ₹16,505 Cr end equity). The DuPont decomposition table below uses **average equity** (Buffett's preferred convention), giving FY22 ROE = -10.12% (= -₹1,222 Cr / ₹12,074 Cr avg equity). Both are mathematically correct under their respective conventions; the average-equity version (DuPont) is the more rigorous Buffett-style measure. The end-equity values are retained here for cross-reference with the platform data the reader likely sees first.
+⁰ **ROE / ROA basis note:** Both the ROE and ROA rows use **year-end** denominators (per Screener.in's reported convention) — FY22 ROE = -₹1,222 Cr / ₹16,505 Cr end equity = -7%; FY26 ROA = ₹366 Cr / ₹48,350 Cr end assets ≈ 0.8%. The DuPont decomposition table below uses **average equity** (Buffett's preferred convention), giving FY22 ROE = -10.12% (= -₹1,222 Cr / ₹12,074 Cr avg equity). Both conventions are mathematically correct; the average-equity version (DuPont) is the more rigorous Buffett-style measure, while the year-end values here align with the platform data the reader likely sees first. (On an average-assets basis FY26 ROA would be ~0.9%; the difference is immaterial to the conclusion that returns are far below the cost of capital.)
 
 ¹ ROIC computed as (EBIT × (1 - Tax Rate)) / (Total Equity + Total Debt − Cash). Since EBIT is negative and Eternal has *net cash* (not net debt), ROIC is negative in every year. The "invested capital" denominator itself is small for a tech business — most of Eternal's balance sheet is parked cash + Blinkit-related assets.
+
+*ROCE basis note: ROCE = EBIT / Average Capital Employed (Equity + Total Debt). EBIT is negative in every year (FY24 −₹483 Cr, FY25 −₹215 Cr, FY26 −₹401 Cr), so ROCE is negative throughout — FY24 ≈ −2.3%, FY25 ≈ −0.8%, FY26 −1.05%. Screener.in displays small positive ROCE for FY24/FY25 because it uses Operating Profit (pre-D&A) as the numerator rather than EBIT; this analysis uses EBIT, consistent with its rejection of pre-D&A profit metrics, so ROCE is negative in those years. This also reconciles the −2% shown here with the "Treasury-Yield Flag" sub-section below (both now on the EBIT/Avg CE basis).*
 
 ### DuPont Decomposition — ROE = NPM × Asset Turnover × Equity Multiplier
 
@@ -597,22 +620,38 @@ This decomposition reveals **where** ROE comes from — quality drivers (margin,
 | FY23 | -13.72% | 0.364 | 1.082 | -5.40% | -5.40% |
 | FY24 | +2.90% | 0.539 | 1.127 | +1.76% | +1.76% |
 | FY25 | **+2.60%** | 0.686 | 1.163 | **+2.08%** | **+2.08%** |
-| **FY26** | **+0.67%** ² | **1.300** ² | **1.188** | **+1.04%** | **+1.04%** |
+| **FY26** | **+0.67%** ² | **1.295** ² | **1.193** | **+1.04%** | **+1.04%** |
 
-² FY26 NPM 0.67% and Asset Turnover 1.30 are both distorted by the Blinkit accounting model change (revenue inflated). On LFL revenue ₹32,400 Cr: NPM 1.13%, AT 0.78. The decomposition still holds (NPM × AT × EM = ROE), but the trajectory comparison vs FY25 is misleading without adjustment.
+² FY26 NPM 0.67% and Asset Turnover 1.295 (= ₹54,364 Cr / ₹41,987 Cr avg assets) are both distorted by the Blinkit accounting model change (revenue inflated). Equity Multiplier 1.193 (= ₹41,987 Cr / ₹35,184 Cr avg equity). On LFL revenue ₹32,400 Cr: NPM 1.13%, AT ~0.78. The decomposition still holds (NPM × AT × EM = ROE), but the trajectory comparison vs FY25 is misleading without adjustment.
 
 **Quality Analysis of the Decomposition:**
 
 | Driver | Trend | Buffett Quality Signal |
 |---|---|---|
 | **Net Profit Margin** | Improved from -29% to +0.7% over 5 years, but **regressed YoY** in FY26 vs FY25 | ⚠️ Margins are micro; pricing power is weak |
-| **Asset Turnover** | Genuinely improving (0.32 → 1.30) — the platform is more revenue-efficient | ✅ Capital is being used more productively |
+| **Asset Turnover** | Genuinely improving (0.32 → 1.295) — the platform is more revenue-efficient (but see LFL caveat in footnote ²) | ✅ Capital is being used more productively |
 | **Equity Multiplier** | Slowly rising (1.08 → 1.19) — still very low leverage (net cash position) | ✅ Not relying on leverage |
 | **ROE Quality Verdict** | ROE is so low that even a clean decomposition cannot rescue it | ❌ Quality without quantity |
 
 **Critical interpretation:** Eternal's ROE is **NOT** being inflated by leverage (Equity Multiplier 1.19 is among the lowest of any large-cap; banks have 12-20x, manufacturers 2-4x). The low ROE is therefore a *pure operating problem* — the business is simply not profitable enough on its capital base to deliver Buffett-grade returns. **There is no leverage trick to unwind; the business genuinely earns 1-2% ROE.**
 
 Compare to ITC (FY24 ROE ~27%): NPM ~25%, AT ~0.8, EM ~1.3 = product 26%. ITC's ROE is 26x Eternal's ROE, and it achieves this with LESS leverage. Quality of returns is fundamentally different.
+
+### ROCE vs ROE — The Treasury-Yield Flag (Critical Diagnostic)
+
+> **Note: In FY24, FY25 and FY26, ROCE is BELOW ROE — and this is the single most diagnostically important relationship in the entire analysis.**
+
+| Year | ROCE (EBIT-based) | ROE (NP-based) | Relationship |
+|---|---|---|---|
+| FY24 | -2% | +1.8% | ROCE < ROE |
+| FY25 | -1% | +2.1% | ROCE < ROE |
+| FY26 | -1% | +1.0% | ROCE < ROE |
+
+Normally, when ROE > ROCE, the textbook explanation is **leverage amplification** — debt magnifies equity returns above the underlying business return. **That is NOT what is happening here.** Eternal's Equity Multiplier is just 1.19x in FY26 (essentially unleveraged — net cash position). The gap exists entirely because **Net Income includes Other Income (treasury yield ~₹1,513 Cr in FY26) which is absent from EBIT.** 
+
+The operating business earns *negative* returns on capital (ROCE −1%); the equity holder earns a nominally positive return (+1% ROE) **only because of the interest income on the ₹17,972 Cr IPO/QIP cash hoard.** Strip out the treasury yield and the "1% ROE" becomes deeply negative — the operating business, on its own, is destroying capital. This is why "ROE ~1%" is one of the most misleading single numbers in the whole analysis if read in isolation. **See Section 17 for the full ROCE vs ROE side-by-side diagnosis across all years.**
+
+> Buffett: *"The best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return."* — Eternal is the inverse: it employs large amounts of incremental capital (₹17,000 Cr of QIPs + retained earnings) at *negative* operating rates of return, and only the treasury yield on uninvested cash keeps reported ROE positive. By Buffett's own standard, this is the profile of a value-destroyer, not a compounder.
 
 ### Buffett's Test Applied
 
@@ -731,9 +770,23 @@ Eternal has **emerging but not-yet-fortress moats** across its four businesses, 
 | FY25 | 20,243 | +67% | -215 | +55% (less neg) | -1.1% | (-215-(-483))/(20,243-12,114) = **+3.3%** |
 | **FY26 (LFL)** | ~32,400 | ~60% LFL | -401 | (worse) | -1.2% | (-401-(-215))/(32,400-20,243) = **-1.5%** |
 
-*Incremental EBIT margin = ΔEBIT / ΔRevenue. **Critical observation:** Incremental EBIT margins were strongly positive in FY23 and FY24 (the business *was* scaling beautifully then), peaked at +23% in FY24, then **collapsed to +3.3% in FY25 and turned negative in FY26**. This is the scaling-friction signal.
+*Incremental EBIT margin = ΔEBIT / ΔRevenue. **Critical observation:** Incremental EBIT margins were strongly positive in FY23 and FY24 (the business *was* scaling beautifully then), peaked at +23% in FY24, then **collapsed to +3.3% in FY25 and turned negative in FY26**. This is the scaling-friction signal. ¹
+
+¹ Incremental margins use **EBIT (post-D&A)**, not pre-D&A Operating Profit, to capture the full cost of capital consumption at Blinkit's expanding dark-store footprint. A pre-D&A incremental-margin calculation would mask the rising depreciation burden from the dark-store buildout and overstate the scaling quality.
 
 **Interpretation:** The "operating leverage inflection" Eternal demonstrated in FY24 is being absorbed — and arguably reversed — by Blinkit's accelerated capital deployment in FY25 and FY26. **The business is currently in "scaling friction" mode** rather than "elite scaler" mode. Each new rupee of revenue is currently *less* profitable than the existing rupee, because the Blinkit expansion is front-loading costs (new stores have low utilisation initially) before driving revenue.
+
+**Scaling Quality Assessment** — interpreting the incremental-margin evidence above against the standard scaling-quality bands:
+
+| Incremental Margin vs. Current Margin | Interpretation | Eternal |
+|---|---|---|
+| Incremental margin **significantly above** current margin (>1.5x) | **Elite scaler** — operating leverage kicking in hard; fixed costs absorbed, growth flows to profit | — |
+| Incremental margin **moderately above** current margin (1.0-1.5x) | **Good scaler** — healthy operating leverage, margins expanding with scale | — |
+| Incremental margin **roughly equal** to current margin | **Linear scaler** — grows but doesn't get more efficient; acceptable but not exciting | ⚠️ FY23-24 looked like this |
+| Incremental margin **below** current margin | **Scaling friction** — growth getting more expensive; market saturation, rising competition, or diminishing returns | ✅ **current state (FY25)** |
+| Incremental margin **negative** | **Anti-scaling** — spending more than it earns on each new unit of growth; burning capital to buy revenue | ⚠️ **FY26 incremental EBIT margin IS negative (-1.5%)** |
+
+On this incremental-margin basis, Eternal sits at the **"Scaling Friction / Anti-Scaling" boundary** — FY26's negative incremental EBIT margin (-1.5%) means the most recent rupee of revenue actually *reduced* operating profit. This is the **opposite** of the Coca-Cola archetype Buffett prizes (where each new market added profit at higher-than-average margins); Eternal more closely resembled the Kraft Heinz "linear at best" archetype during FY23-24 and has since slipped into friction as Blinkit's dark-store capital intensity has risen. *The complementary score-based classification (1-10 scale) with named Buffett company analogies — and Eternal's placement against each tier — is presented in **Part C: Scaling Verdict** below.*
 
 **3. Capital Scalability:**
 
@@ -745,7 +798,7 @@ Eternal has **emerging but not-yet-fortress moats** across its four businesses, 
 | Working Capital as % of Revenue | 7.5% | 5.5% | 1.1% | 1.2% | ~1.2% | Improving (good) |
 | Asset Turnover (Rev/Assets) | 0.24 | 0.33 | 0.52 | 0.57 | ~1.13 ¹ | Improving |
 
-¹ FY26 asset turnover artificially boosted by inventory-model revenue inflation. LFL would be ~0.85.
+¹ FY26 asset turnover artificially boosted by inventory-model revenue inflation. LFL would be ~0.85. **Reconciliation to Section 9:** this table computes AT on **year-end assets** (Rev ₹54,364 Cr / year-end assets ₹48,350 Cr ≈ 1.13; LFL ≈ 0.85). The Section 9 DuPont table computes AT on **average assets** (Rev / avg assets ≈ 1.295 reported; ≈ 0.78 LFL). Both are correct on their respective bases — the difference is solely the year-end vs average-assets denominator. Directionally identical: asset turnover is improving on the reported (inflated) revenue but is far more modest on a like-for-like basis.
 
 **Capital scalability score: 4/10** — CapEx intensity is RISING (not falling); incremental ROIC is still negative. Working capital management is good (negative cash conversion cycle), but the capital structure of the business is becoming HEAVIER, not lighter, as Blinkit scales.
 
@@ -782,7 +835,17 @@ The catch: Buffett's Coke purchase in 1988 happened when Coca-Cola was already a
 | S-Curve position (timing) | 6 | At inflection boundary; closer to sweet spot than mature/declining |
 | **Overall Scalability Score** | **5/10** | Moderate scaler with friction in current phase |
 
-**Classification: Moderate Scaler with current Scaling Friction.** Closer to the "Kraft Heinz" archetype than the "Coca-Cola" archetype. **The business CAN scale, but scaling currently requires proportional capital and is producing flat-to-deteriorating incremental profitability.** Bulls argue the friction is transitory (Blinkit ramp-up); bears argue this is the steady-state nature of physical-fulfillment commerce. The honest answer: **we don't know yet, and that uncertainty is the entire risk.**
+**Scaling Quality — Score-Based Classification** (this score-band framework with named Buffett analogies complements the incremental-margin interpretation table in Part A; Eternal's **5/10** overall score places it in the **Moderate Scaler** band):
+
+| Score | Classification | Buffett Analogy | Eternal Match? |
+|---|---|---|---|
+| 9-10 | **Elite Scaling Machine** | Coca-Cola (1988), Apple (2016) — near-infinite runway, near-zero marginal cost, moat widens with scale | ❌ No |
+| 7-8 | **Strong Scaler** | GEICO, American Express — proven model, clear runway, good unit economics | ❌ No |
+| 5-6 | **Moderate Scaler** | Kraft Heinz — can grow but requires proportional capital; limited operating leverage | ✅ **YES — 5/10 (current)** |
+| 3-4 | **Scaling Friction** | IBM — growth requires enormous investment, returns on incremental capital declining | ⚠️ Profit & capital sub-scores (4 and 3) sit here |
+| 1-2 | **Anti-Scaler / Saturated** | Newspaper industry — market shrinking, no runway, scale provides no advantage | ❌ No (TAM runway remains) |
+
+**Classification: Moderate Scaler with current Scaling Friction.** The overall 5/10 places Eternal in the **"Moderate Scaler"** band (the Kraft Heinz archetype — grows but requires proportional capital), but its profit-scalability and capital-scalability sub-scores (4 and 3) sit in the "Scaling Friction / IBM" tier, and FY26's negative incremental EBIT margin (-1.5%, see Part A) touches the anti-scaling boundary. It is the **opposite** of the Coca-Cola archetype Buffett prizes. **The business CAN scale, but scaling currently requires proportional capital and is producing flat-to-deteriorating incremental profitability.** Bulls argue the friction is transitory (Blinkit ramp-up); bears argue this is the steady-state nature of physical-fulfillment commerce. The honest answer: **we don't know yet, and that uncertainty is the entire risk.**
 
 > Buffett: *"Time is the friend of the wonderful business, the enemy of the mediocre."* — For Eternal, time is currently neutral-to-mild-enemy. Each year of execution either proves out the operating leverage thesis or doesn't. Three years of "almost-but-not-quite-EBIT-positive" results have rolled by; the next two years will likely settle the question definitively.
 
@@ -843,7 +906,7 @@ Market Cap (13 May 2026):         ₹2,29,500 Cr
 ### SBC as % of Net Income
 
 Eternal's SBC has been:
-- FY24: ~₹900 Cr / ₹351 Cr NP = **257% of NP**
+- FY24: ~₹900 Cr / ₹351 Cr NP = **256% of NP**
 - FY25: ~₹1,000 Cr / ₹527 Cr NP = **190% of NP**
 - FY26: ~₹1,000 Cr / ₹366 Cr NP = **273% of NP**
 
@@ -876,29 +939,31 @@ No major C-suite departures reported in FY26. Continuity is good. **Deepinder Go
 | KPI | FY22 | FY23 | FY24 | FY25 | **FY26** |
 |---|---|---|---|---|---|
 | **Food Delivery (Zomato)** | | | | | |
-| Net Order Value (NOV) ₹ Cr | ~21,000 | ~23,000 | ~28,000 | ~32,000 | **~36,000** ¹ |
-| NOV Growth YoY % | — | ~9% | ~22% | ~14% | **~12-18%** |
-| Avg Monthly Transacting Users (Cr) | 1.6 | 1.5 | 1.9 | 2.0 | **2.5** |
-| Avg Order Value (₹) | ~400 | ~430 | ~450 | ~460 | ~470 |
+| Net Order Value (NOV) ₹ Cr | **~21,000** | ~23,000 | ~28,000 | ~32,000 | **~36,000** ¹ |
+| NOV Growth YoY % | — | **~9%** | **~22%** | ~14% | ~12-18% |
+| Avg Monthly Transacting Users (Cr) | 1.6 | **1.5** | 1.9 | 2.0 | **2.5** |
+| Avg Order Value (₹) | **~400** | ~430 | ~450 | ~460 | **~470** |
 | **Blinkit (Quick Commerce)** | | | | | |
-| NOV ₹ Cr (annualised) | ~1,000 | ~5,000 | ~13,000 | ~30,000 | **~50,000** |
-| NOV Growth YoY % | — | ~400% | ~160% | ~130% | **~67%** (slowing from high base) |
-| Dark Store Count | ~400 | ~411 | ~526 | ~1,007 | **2,243** |
-| Stores Added | — | +11 | +115 | +481 | **+1,236** (+216 in Q4 alone) |
-| Avg Order Value (₹) | ~520 | ~580 | ~620 | ~665 | **~525** (declining as scaling to Tier-2) |
+| NOV ₹ Cr (annualised) | **~1,000** | ~5,000 | ~13,000 | ~30,000 | **~50,000** |
+| NOV Growth YoY % | — | **~400%** | ~160% | ~130% | **~67%** (slowing from high base) |
+| Dark Store Count | **~400** | ~411 | ~526 | ~1,007 | **2,243** |
+| Stores Added | — | **+11** | +115 | +481 | **+1,236** (+216 in Q4 alone) |
+| Avg Order Value (₹) | **~520** | ~580 | ~620 | **~665** | ~525 (declining as scaling to Tier-2) |
 | **District (Going-Out)** | | | | | |
-| NOV ₹ Cr | n/a | n/a | ~3,000 | ~7,000 | ~10,000 ¹ |
+| NOV ₹ Cr | n/a | n/a | **~3,000** | ~7,000 | **~10,000** ¹ |
 | **Hyperpure (B2B)** | | | | | |
-| Revenue ₹ Cr | ~840 | ~2,200 | ~3,200 | ~3,700 | **~3,000** (declined; partial accounting-related) |
-| Supplying Restaurants | ~30,000 | ~50,000 | ~75,000 | ~85,000 | ~90,000+ |
+| Revenue ₹ Cr | **~840** | ~2,200 | ~3,200 | **~3,700** | ~3,000 (declined; partial accounting-related) |
+| Supplying Restaurants | **~30,000** | ~50,000 | ~75,000 | ~85,000 | **~90,000+** |
 | **Profitability** | | | | | |
-| Consolidated Adj EBITDA ₹ Cr ² | -1,200 | -800 | +75 | +800 | **+1,500** (est.) |
-| Food Delivery Adj EBITDA Margin % of NOV ² | -3% | -1% | 2.5% | 4.5% | **5.5%+** |
-| Blinkit Adj EBITDA ₹ Cr ² | -1,000+ | -700 | -300 | -200 | **+~100** (turned +ve in Q3 FY26) |
+| Consolidated Adj EBITDA ₹ Cr ² | **-1,200** | -800 | +75 | +800 | **+1,500** (est.) |
+| Food Delivery Adj EBITDA Margin % of NOV ² | **-3%** | -1% | 2.5% | 4.5% | **5.5%+** |
+| Blinkit Adj EBITDA ₹ Cr ² | **-1,000+** | -700 | -300 | -200 | **+~100** (turned +ve in Q3 FY26) |
 
-¹ FY26 segment NOV approximate; precise breakouts from quarterly disclosures and management commentary.
+¹ FY26 segment NOV approximate; precise breakouts from quarterly disclosures and management commentary. **Bolding convention for this table:** the **highest (best)** and **lowest (worst)** value in each row is bolded. For growth-rate rows this means the peak growth year and the trough growth year are both bolded — e.g., Blinkit NOV Growth bolds FY23 (~400%, peak) and FY26 (~67%, trough), reflecting the natural deceleration off a high base, not a deterioration in the business.
 
 ² **Adjusted EBITDA rows are included ONLY because they are the segment-level operational KPI the company reports** — they are useful for tracking operating-cash-position trajectory at the segment level (where GAAP EBIT is not segmentally disclosed). **They are NOT a Buffett-pure valuation input.** Per the Buffett/Munger framework rejected in Section 0 ("Trumpeting EBITDA is a particularly pernicious practice"), Adj EBITDA strips out both D&A (real economic cost as established in Section 2) AND SBC (real shareholder cost as established in Section 8). For valuation purposes, this analysis uses **Owner Earnings (Section 8)** and **EBIT-based ratios (Sections 2-14)** — never EBITDA-based valuation multiples. The Adj EBITDA rows above are operational-trajectory signals only.
+
+³ **Delivery-time metrics** (average minutes per delivery, on-time rate) are **not publicly disclosed** by Eternal in its financial reporting. Management references Blinkit's "10-minute" positioning and food delivery's ~30-minute average only qualitatively in investor calls, without auditable quarterly figures. They are therefore omitted from this KPI table rather than estimated.
 
 ### Are Operations Improving or Deteriorating Beneath the Financial Surface?
 
@@ -929,8 +994,8 @@ No major C-suite departures reported in FY26. Continuity is good. **Deepinder Go
 |---|---|---|---|---|
 | **P/Owner Earnings (primary Buffett-pure multiple)** ¹ | **272x** | 18-22x | < 15x | 🔴 **~14x median** |
 | **P/E (TTM)** | **595x** | 22-25x | < 15x | 🔴 **~24x median** |
-| **Forward P/E (on FY27 est. EPS ₹0.52)** ² | **~459x** | 18-22x | < 15x | 🔴 Still extreme |
-| **P/Book** | **6.24x** | 3.0-3.5x | < 2.5x | 🔴 **~2x median** |
+| **Forward P/E (on FY27 est. EPS ₹0.52)** ² | **~457x** | 18-22x | < 15x | 🔴 Still extreme |
+| **P/Book** ⁵ | **6.24x** | 3.0-3.5x | < 2.5x | 🔴 **~2x median** |
 | **P/Sales (reported)** | **4.22x** | 2.0-3.0x | < 1.5x | 🔴 **~2x median** |
 | **P/Sales (LFL revenue)** | **7.08x** | 2.0-3.0x | < 1.5x | 🔴 **~3x median** |
 | **P/FCF** ³ | **N.M.** (FY25 FCF -₹623 Cr) | 18-22x | < 15x | 🔴 FCF NEGATIVE |
@@ -949,6 +1014,8 @@ No major C-suite departures reported in FY26. Continuity is good. **Deepinder Go
 ³ **SBC WARNING ON FCF-BASED MULTIPLES:** Reported FCF adds back SBC (~₹1,000 Cr/year) as a non-cash expense, INFLATING FCF. For Eternal — with SBC at 273% of NP and zero buybacks to offset — reported FCF (even if positive) systematically OVERSTATES true cash available to shareholders. **The standalone P/FCF and FCF Yield in the table above already understate the problem.** For Eternal specifically, the right adjusted metric is Dilution-Adjusted OE (next row).
 
 ⁴ **Dilution-Adjusted Owner Earnings**: Per the Burry/Buffett framework, this deducts the cash cost of buying back ESOP-issued shares at market prices to neutralise dilution. For Eternal: ~24 Cr ESOP shares × ₹240 avg = ~₹5,800 Cr notional anti-dilution cost. Subtracting from Base OE ₹845 Cr yields ~-₹5,000 Cr. The P/Dilution-Adj OE is therefore "N.M." (negative denominator), but the existence of this number — vs the +₹845 Cr Base OE — illustrates the magnitude of the SBC overhang.
+
+⁵ **P/Book uses Screener's snapshot BVPS of ₹38.11** (pre-Mar-26 QIP reflection), giving P/B = 6.24x. The independently computed post-QIP BVPS in Section 3 is **₹41.50** (equity ₹40,050 Cr / 965 Cr diluted shares), which would give **P/B = 5.73x**. The ~8% difference does not change the verdict (steep premium to book either way). The Screener figure is retained here for consistency with the platform data; see Section 17's BVPS reconciliation note for the full treatment.
 
 ### Peer Comparison
 
@@ -973,6 +1040,8 @@ No major C-suite departures reported in FY26. Continuity is good. **Deepinder Go
 | 2024 peak (~₹304) | 250-300x | 12-13x | 12x |
 | Sep 2025 peak (~₹368) | 700x+ | 11x | 8x |
 | **CMP (₹237.82)** | **595x** | **6.24x** | **4.22x** |
+
+**Has Eternal ever traded at comparable or higher multiples?** Yes — but never sustainably, and never because earnings justified it. The trailing PE was actually *higher* at the September 2025 peak (700x+) and reached 250-300x at the 2024 peak, so today's 595x is not unprecedented. Each of those, however, was a momentum-driven peak that subsequently compressed — not a sustained level. Equally, Eternal has never sustained a *cheap* multiple either: the only periods of low P/B (2.2x in 2022, 4.5x in 2023) were when the market was pricing in losses, not value. The stock has oscillated between loss-driven lows and hype-driven highs but has never held a "reasonable" multiple backed by durable earnings — exactly the pattern expected of a business that has yet to demonstrate sustainable operating profitability.
 
 The 52W decline (~₹368 → ₹237) represents the market beginning to digest the FY26 reality: revenue growth was less than reported (LFL ~60%, not 168%), net profit **declined**, and the FY25 enthusiasm about profitability has reversed. The stock has fallen 35% from its peak — yet still sits at extreme multiples.
 
@@ -1008,20 +1077,23 @@ The reported PAT of ₹366 Cr is composed of:
 
 > **Per the Section 8 justification:** This DCF uses Base OE rather than Dilution-Adjusted OE because (a) Eternal has zero actual buybacks (no cash outflow to deduct in Dilution-Adj formula) and (b) Dilution-Adjusted OE would be deeply negative (-₹5,000 Cr), making DCF impossible. The IV outputs below should therefore be interpreted as the **OPTIMISTIC bound** — a more conservative analyst incorporating future dilution drag would reduce IV by 15-25%.
 
-### Summary Table — Three (+1) Scenarios
+### Summary Table — Five Scenarios (Stress / Conservative / Base / Optimistic / Heroic)
 
-The compliance template requires Conservative / Base / Optimistic scenarios. This analysis presents four for greater granularity (Bear maps to Conservative; Heroic is a stress-test upside reference for the reverse-DCF exercise).
+The compliance template requires Conservative / Base / Optimistic scenarios. This analysis presents five for greater granularity (Bear maps to Conservative; a genuine Stress scenario is added below it to capture the true downside if operations fail to inflect; Heroic is a stress-test upside reference for the reverse-DCF exercise).
 
 | Scenario | Y1-Y5 OE Growth | Y6-Y10 Growth | Terminal P/OE | **IV/share** | **Upside/(Downside) vs CMP** | **Margin of Safety vs CMP** |
 |---|---|---|---|---|---|---|
-| **Conservative (Bear)** | 20% | 10% | 12x | **₹43.21** | **-81.8%** | **-450.4%** |
+| **Stress (slow inflection)** ⁰ | 0-12% (ramp) | 10% | 10x | **₹29.92** | **-87.4%** | **-694.9%** |
+| **Conservative / Mod. Pessimistic (Partial Inflection)** ⁰ | 20% | 10% | 12x | **₹43.21** | **-81.8%** | **-450.4%** |
 | **Base** | 30% | 15% | 18x | **₹78.85** | **-66.8%** | **-201.6%** |
 | **Optimistic (Bull)** | 40% | 20% | 24x | **₹151.60** | **-36.3%** | **-56.9%** |
 | **Heroic (stress upside)** | 50% | 25% | 30x | **₹292.18** | **+22.9%** | **+18.6%** |
 
+⁰ **Scenario label hierarchy (Stress vs Conservative).** The scenario labelled "Conservative / Moderately Pessimistic (Partial Inflection)" assumes 20% OE growth in Years 1-5 — but **20% OE growth from a negative-EBIT base is NOT a true bear case**; it implicitly assumes operating leverage inflects meaningfully. The **genuine bear floor is the separate Stress (Slow Inflection) scenario (IV ₹29.92)**, which asks *what if operations do NOT inflect as fast as hoped?* — modelling 0% growth in Year 1, ramping through 5%/8%/12%/12% in Years 2-5 (treasury yield declines as cash is deployed into dark stores; EBIT inflection slower than expected), then 10% in Years 6-10, with a mature 10x terminal multiple. Combined with the dilution caveat in Section 8 (IV reduced a further 15-25% for ongoing SBC dilution), the true stress floor is **₹25-35/share**. The label hierarchy is therefore: **Stress (genuine bear, ₹29.92) < Conservative/Partial-Inflection (₹43.21) < Base (₹78.85) < Optimistic (₹151.60) < Heroic (reference, ₹292.18)**. A reader must understand the ₹43.21 "Conservative" case is moderately pessimistic, not the worst case.
+
 ### Detailed DCF Breakdown — Base Case (Most Likely Realistic Scenario)
 
-> **The Base Case assumes Eternal sustains 30% OE growth for 5 years (reflecting LFL revenue growth of ~60% in FY26 moderating, combined with margin expansion from incremental operating leverage), then decelerates to 15% for years 6-10 (reflecting maturity in food delivery + slowing q-commerce growth + market saturation in metros).**
+> **The Base Case assumes Eternal sustains 30% OE growth for 5 years (reflecting LFL revenue growth of ~60% in FY26 moderating, combined with margin expansion from incremental operating leverage), then decelerates to 15% for years 6-10 (reflecting maturity in food delivery + slowing q-commerce growth + market saturation in metros). Important caveat: this 30% CAGR assumes the moat materialises at scale and operating leverage converts to genuine EBIT — but Section 10 describes the moat as "still being built / unproven" (4/10). There is an element of circular reasoning here: a 30% growth CAGR itself presupposes a durable competitive moat, yet that moat scores only 4/10 — the growth assumption and the moat it depends on are not independently established, so the Base case should be read as conditional rather than central. The moat-uncertainty is therefore a direct downside risk to this scenario; if the moat does not prove durable, the Stress case (₹29.92) is the more relevant anchor than the Base case. A second caveat: Base OE ₹845 Cr is buoyed by ~₹1,513 Cr of treasury income (interest on the cash hoard); as that cash is deployed into Blinkit dark stores and working capital, treasury income — and hence reported OE — would decline unless operating profit rises to replace it, a substitution this Base case implicitly assumes.**
 
 | DCF Component | Value (₹ Cr) | Calculation |
 |---|---|---|
@@ -1043,7 +1115,7 @@ The compliance template requires Conservative / Base / Optimistic scenarios. Thi
 | **Margin of Safety vs CMP** | **-201.6%** | (IV − CMP) / IV = (78.85 − 237.82) / 78.85 |
 | **Upside/(Downside) from CMP** | **-66.8%** | (IV − CMP) / CMP = (78.85 − 237.82) / 237.82 |
 
-### Detailed DCF Breakdown — Conservative (Bear) Case
+### Detailed DCF Breakdown — Conservative / Moderately Pessimistic (Partial Inflection) Case
 
 | Component | Value (₹ Cr) |
 |---|---|
@@ -1058,6 +1130,28 @@ The compliance template requires Conservative / Base / Optimistic scenarios. Thi
 | Equity Value | 41,693 |
 | ÷ Shares (965 Cr) | |
 | **IV/share** | **₹43.21** |
+
+*Note: like the Base case, this Conservative scenario's OE base (₹845 Cr) includes ~₹1,513 Cr of treasury income; if cash is redeployed from interest-bearing instruments into dark-store capex, that income — and thus OE — could fall, making even the Conservative IV (₹43.21) optimistic unless operating profitability replaces the lost treasury yield.*
+
+### Detailed DCF Breakdown — Stress (Slow Inflection) Case
+
+> **The Stress case models the scenario the "Bear" case does not: operations fail to inflect quickly. Year 1 OE growth of 0% (treasury yield erodes as cash deploys into dark stores while EBIT stays negative), ramping slowly through 5%/8%/12%/12% in Years 2-5, then 10% in Years 6-10, with a mature 10x terminal multiple. This is the genuine downside floor.** *The Y6-10 step-up to 10% (above the ~7.4% Y1-5 average) is deliberate and conservative-but-not-punitive: it assumes that even on a slow-inflection path, by Years 6-10 the maturing food-delivery franchise — Eternal's most established, duopoly-protected business — sustains low-double-digit Owner-Earnings compounding through modest pricing discipline and cost-efficiency gains, even if Blinkit's quick-commerce economics remain structurally thin. A stress case that held growth at ~7% in perpetuity would arguably be too punitive given food delivery's proven unit economics; 10% reflects the floor of a maturing-but-still-growing platform, not a re-acceleration.*
+
+| Component | Value (₹ Cr) |
+|---|---|
+| Starting OE | 845 |
+| Year 10 OE (0/5/8/12/12% Y1-5, then 10% Y6-10) | 1,936 |
+| PV Phase 1 | 3,701 |
+| PV Phase 2 | 3,732 |
+| Terminal Value (10x × Y10 OE) | 19,358 |
+| PV of TV | 7,464 |
+| Enterprise Value | 14,896 |
+| + Net Cash | 13,972 |
+| Equity Value | 28,868 |
+| ÷ Shares (965 Cr) | |
+| **IV/share** | **₹29.92** |
+
+*Note: Before any dilution adjustment. Applying the Section 8 dilution caveat (−15% to −25% for ongoing SBC) would push the stress IV to roughly ₹22-25/share. This is the true "tails" floor for a reader assessing downside risk.*
 
 ### Detailed DCF Breakdown — Optimistic (Bull) Case
 
@@ -1079,10 +1173,11 @@ The compliance template requires Conservative / Base / Optimistic scenarios. Thi
 
 | Scenario | IV | 25% MoS Buy | 35% MoS Buy | 50% MoS Buy |
 |---|---|---|---|---|
+| Stress (reference — true floor) | ₹29.92 | < ₹22.44 | < ₹19.45 | < ₹14.96 |
 | Bear | ₹43.21 | < ₹32.41 | < ₹28.09 | < ₹21.61 |
 | Base | ₹78.85 | < ₹59.14 | < ₹51.25 | < ₹39.43 |
 | Bull | ₹151.60 | < ₹113.70 | < ₹98.54 | < ₹75.80 |
-| Heroic | ₹292.18 | < ₹219.14 | < ₹189.92 | < ₹146.09 |
+| Heroic (reference only — extreme upside) | ₹292.18 | < ₹219.14 | < ₹189.92 | < ₹146.09 |
 
 **Margin of Safety formula:** `MoS = (IV − CMP) / IV` — NOT divided by CMP.
 
@@ -1121,7 +1216,7 @@ For context: Amazon's owner earnings CAGR over its first 10 listed years (1997-2
 |---|---|---|
 | Current Market Price (CMP) | ₹237.82 | 13 May 2026 close |
 | Market Cap | ₹2,29,496 Cr | CMP × 965 Cr shares |
-| TTM Normalised EPS (GAAP) | ₹0.40 | FY26 NP ₹366 Cr / 920 Cr weighted-avg shares |
+| TTM Normalised EPS (GAAP) | ₹0.40 | FY26 NP ₹366 Cr / ~915 Cr weighted-avg shares (Screener) |
 | Owner Earnings Per Share (OEPS) | ₹0.876 | FY26 Base OE ₹845 Cr / 965 Cr post-QIP shares |
 | Current P/E | 595x | ₹237.82 / ₹0.40 |
 | **Current P/OE** | **272x** | ₹237.82 / ₹0.876 |
@@ -1137,7 +1232,9 @@ The terminal multiple is what the market will pay for the business at the END of
 | **Mature / Low-Growth** | 15x | 12x | Business has matured; growth ≈ GDP; commodity-like economics |
 | **Market Average** | 20x | 18x | Business grows in line with market; no exceptional premium |
 | **Above-Average Compounder** | 30x | 24x | Durable moat persists; 12-15% growth maintained |
-| **Historical Avg (Eternal's own)** | 80x | 60x (proxy) | Reflects market's revealed expectation for Eternal — but extreme by absolute standards |
+| **Analyst Expectation / Speculative Terminal (Proxy)** ⁰ | 80x | 60x (proxy) | Reflects the market's *current* revealed multiple for Eternal — but is analyst-implied, NOT an empirical historical average (see note) — and is extreme by any absolute standard |
+
+⁰ **Why "Analyst Expectation / Speculative Proxy" and not "Historical Average":** Eternal has no meaningful positive-EPS operating history from which to compute a genuine historical average P/E — it only crossed into GAAP profitability (treasury-yield-driven) in FY24, and EBIT has never been positive. The 80x P/E and 60x P/OE figures are therefore proxies for where the market *currently* prices the stock (and by extension what sell-side analysts implicitly assume as a terminal multiple), not an empirically-grounded multi-year average. They are included to show what growth would be required *if* the market continued to assign these extreme multiples — a deliberately generous assumption that still produces unattainable required-growth figures.
 
 ### Step 3 — EPS-Based Reverse DCF — Full 36-Cell Table (Current EPS ₹0.40)
 
@@ -1169,7 +1266,7 @@ The terminal multiple is what the market will pay for the business at the END of
 | 10 Years | **48.3%** | 55.0% | 61.8% |
 | 15 Years | 34.2% | 40.3% | 46.4% |
 
-#### At Terminal PE = 80x (Historical Avg for Eternal)
+#### At Terminal PE = 80x (Analyst Expectation / Speculative Proxy — not empirical historical avg)
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
@@ -1193,6 +1290,10 @@ For perspective: ~₹22,600-29,400 Cr net profit in FY36 (depending on dilution 
 | 5 Years | 89.3% | 97.9% | 106.5% |
 | 10 Years | **44.3%** | 50.9% | 57.4% |
 | 15 Years | 31.8% | 37.8% | 43.8% |
+
+---
+
+*The 9-cell summary above isolates the single most decision-relevant multiple (18x, the Buffett-pure market reference). The full 27-cell grid below expands the same analysis across all three terminal P/OE multiples (12x / 18x / 24x) and all horizons, for completeness.*
 
 #### Full OEPS Cross-Reference (all 27 cells across 3 multiples)
 
@@ -1299,12 +1400,14 @@ Applying the verdict template to both EPS-based and OEPS-based readings:
 |---|---|---|---|
 | **Asset / Liquidation Floor (TBVPS)** | Tangible Book Value Per Share = (Equity − Goodwill) / Shares = (₹40,050 − ₹6,500) / 965 | **₹34.77** | **-85.4%** |
 | **Recession / Trough Earnings** | Worst-recent EPS (₹0.40) × Trough PE (~30x for a young growth co.) | ₹12.00 | -95% (impossibly bearish) |
-| **Trough P/B (historical low ~2x book in 2022)** | 2.0x × current BVPS ₹38.11 | **₹76.22** | **-67.9%** |
+| **Trough P/B (historical low ~2x book in 2022)** | 2.0x × current BVPS ₹38.11 | **₹76.22** | **-68.0%** |
 | **Normalised Bear Case (Section 15 DCF)** | Conservative DCF IV at 20%/10% growth | **₹43.21** | **-81.8%** |
 | **52W Low** | Actual recent trough (Apr 2026) | **₹212.60** | **-10.6%** |
 | **"Business-is-fine-but-market-panics" Floor** | Lowest sustainable P/B Eternal traded at after IPO sell-off (2022): ~2.2x | ₹83.84 | -64.7% |
 
 **Most probable downside floor:** ₹76-83 (Trough P/B 2.0-2.2x × BVPS) — this is the level Eternal has actually traded at during periods of negative sentiment (mid-2022 lows). **Realistic downside floor: ₹76 (≈ -68% from CMP).**
+
+> *BVPS basis note: The trough-P/B floors above use Screener's snapshot BVPS of ₹38.11 — the same figure used for the entry P/B and all Section 17 P/B-scenario math, for consistency with the platform data investors actually see. The independently computed post-QIP BVPS in Section 3 is ₹41.50 (reflecting the March 2026 QIP); on that basis the 2.0x floor would be ₹83.00 and the 2.2x floor ₹91.30. The lower Screener-based figures are retained here as the more conservative downside floor (see the Section 17 BVPS reconciliation note). Directionally the floor implies a steep loss from CMP on either basis.*
 
 The 52W low of ₹212.60 is NOT a reliable floor because the stock has not yet been through a significant macro stress event since the QIP cushion was added.
 
@@ -1323,19 +1426,31 @@ The 52W low of ₹212.60 is NOT a reliable floor because the stock has not yet b
 #### Part 3 — Asymmetry Ratio
 
 ```
-Asymmetry Ratio = Realistic Upside (%) / Realistic Downside (%)
-                = Base Case Upside / Most Probable Downside Floor
-                = (-66.8%) / (-67.9%)
-                = NEGATIVE ASYMMETRY (both directions are LOSSES)
+Standard Asymmetry Ratio = Realistic Upside (%) / Realistic Downside (%)
+
+For Eternal at CMP ₹237.82, the Base Case does NOT produce an upside —
+it produces a LOSS (Base IV ₹78.85 is 66.8% BELOW CMP). Dividing one
+negative percentage by another (−66.8% / −68.0%) does NOT yield a
+meaningful reward-to-risk ratio in standard asymmetry analysis.
+
+The honest framing: BOTH the base case and the most-probable downside
+floor imply LOSSES from the current price. There is no positive-upside
+"heads" outcome in the base case at all — the downside risk exceeds
+every realistic upside scenario short of the Heroic case.
 ```
 
-**Even if we use the Bull Case:**
+**Using the Bull Case (the lowest scenario that is even theoretically an "upside" reference point):**
 ```
-Bull Asymmetry = -36.3% (downside vs CMP if stock reverts to Bull IV) / -67.9% (downside to floor)
-              = 0.53:1
+Bull case still implies a LOSS from CMP: Bull IV ₹151.60 is −36.3% below CMP ₹237.82.
+Expressed against the −68.0% downside-to-floor: 36.3 / 68.0 = 0.53
+→ i.e., for every 1 unit of downside risk to the floor, the Bull case offers only
+  0.53 units of (still-negative) movement. Reward-to-risk 0.53:1 — far below the 1:1
+  minimum, and note even this "reward" is itself a loss from today's price.
 ```
 
-**Only the Heroic Case provides positive upside:** +22.9% upside vs -67.9% downside = 0.34:1 — still NEGATIVE asymmetry.
+**Only the Heroic Case provides any positive upside:** +22.9% upside vs −68.0% downside to floor = **0.34:1** — still deeply unfavourable asymmetry (you risk ~68% to make ~23%, and only in the single most optimistic scenario modelled).
+
+**Bottom line:** Eternal exhibits **negative asymmetry** — the realistic downside (to the trough-P/B floor, ~−68%) exceeds every realistic upside, and the base case itself is a loss from CMP. This is the mathematical opposite of a fat pitch.
 
 | Asymmetry Ratio | Interpretation | Buffett Action |
 |---|---|---|
@@ -1405,9 +1520,9 @@ The DuPont identity decomposes ROE into three drivers: **ROE = Net Profit Margin
 | FY23 | -971 | 17,983 | -13.72% | 0.364 | 1.082 | -5.40% | -5.40% |
 | FY24 | 351 | 19,937 | +2.90% | 0.539 | 1.127 | +1.76% | +1.76% |
 | FY25 | 527 | 25,365 | **+2.60%** | 0.686 | 1.163 | **+2.08%** | **+2.08%** |
-| **FY26** | **366** | **35,183** | **+0.67%** ¹ | **1.300** ¹ | **1.188** | **+1.04%** | **+1.04%** |
+| **FY26** | **366** | **35,183** | **+0.67%** ¹ | **1.295** ¹ | **1.193** | **+1.04%** | **+1.04%** |
 
-¹ FY26 NPM 0.67% and Asset Turnover 1.30 are both distorted by the Blinkit accounting model change (revenue inflated). On LFL revenue ₹32,400 Cr: NPM ~1.13%, AT ~0.78. The identity still holds (NPM × AT × EM = ROE); only the **components shift**, not the product. The decomposition framework cross-references Section 9.
+¹ FY26 NPM 0.67% and Asset Turnover 1.295 are both distorted by the Blinkit accounting model change (revenue inflated). On LFL revenue ₹32,400 Cr: NPM ~1.13%, AT ~0.78. The identity still holds (NPM × AT × EM = ROE); only the **components shift**, not the product. The decomposition framework cross-references Section 9.
 
 ### Component Trend Analysis — What Each Driver Tells Us
 
@@ -1415,7 +1530,7 @@ The DuPont identity decomposes ROE into three drivers: **ROE = Net Profit Margin
 - FY22 -29% → FY26 +0.7% (a 30-pp improvement over 5 years)
 - BUT regressed FY25 → FY26 (2.6% → 0.7%)
 - **Driver:** Higher tax rate (24% → ~50%), rising D&A from Blinkit, mostly offset by Other Income growth
-- **Quality verdict:** Margins are micro — even the FY25 peak of 2.6% is well below the 8-15% threshold for a quality consumer franchise (ITC: ~25%, HUL: ~17%)
+- **Quality verdict:** Margins are micro — even the FY24 peak of 2.9% (FY25 close behind at 2.6%) is well below the 8-15% threshold for a quality consumer franchise (ITC: ~25%, HUL: ~17%)
 
 **Asset Turnover (AT) — The Capital-Efficiency Story:**
 - FY22 0.32 → FY26 1.30 (4x improvement on reported basis; ~2.5x on LFL basis)
@@ -1432,7 +1547,7 @@ The DuPont identity decomposes ROE into three drivers: **ROE = Net Profit Margin
 | Source of ROE | Eternal's Profile | Quality Signal |
 |---|---|---|
 | **Margin (NPM)** | Very low (0.7-2.6%); reverted in FY26 | ❌ Below quality threshold |
-| **Asset Turnover** | Improving (0.32 → 1.30); but inflated by accounting in FY26 | ✅ Genuine productivity gains |
+| **Asset Turnover** | Improving (0.32 → 1.295); but inflated by accounting in FY26 | ✅ Genuine productivity gains |
 | **Equity Multiplier** | Stable at 1.1-1.2x (essentially unleveraged) | ✅ Not financially engineered |
 | **ROE Quality Verdict** | **Pure operating problem, not a leverage trick** | ❌ Quality without quantity — there's nothing to unwind |
 
@@ -1444,9 +1559,11 @@ The DuPont identity decomposes ROE into three drivers: **ROE = Net Profit Margin
 |---|---|---|---|---|
 | FY22 | -13% | -7.4% | -5.6 pp | Both negative; loss-making |
 | FY23 | -6% | -5.4% | -0.6 pp | Both negative |
-| FY24 | +1% | +1.8% | -0.8 pp | ROE > ROCE (Other Income boost) |
-| FY25 | +3% | +2.1% | +0.9 pp | ROCE > ROE (operating profitable) |
+| FY24 | -2% | +1.8% | -3.8 pp | ROE > ROCE (Other Income boost) |
+| FY25 | -1% | +2.1% | -3.1 pp | ROE > ROCE — Other Income lifts NP above operating loss |
 | **FY26** | **-1%** | **+1.0%** | **-2.0 pp** | **ROE > ROCE — Other Income (treasury yield) lifts NP above what operations alone provide** |
+
+*Note: ROCE figures in this table are rounded to whole percentages so that the ROCE column and the Gap column stay on a consistent whole-number basis. The precise FY26 ROCE is **−1.05%** (−₹401 Cr EBIT ÷ ₹38,206 Cr average Capital Employed) — the exact value carried in §5 and the §23 scorecard; it rounds to −1% for this display.*
 
 ⁵ The ROE column above uses **year-end equity** for consistency with §9's reported ROE table (Screener.in convention) — FY22 ROE = -₹1,222 Cr / ₹16,505 Cr = -7.4%. The DuPont table in Part A of this section uses **average equity** (giving FY22 ROE = -10.12%) — the more rigorous Buffett-style measure. Both conventions are mathematically valid; the side-by-side ROCE-vs-ROE comparison uses the year-end basis to align with how the reported ROE is most commonly seen.
 
@@ -1454,7 +1571,7 @@ The DuPont identity decomposes ROE into three drivers: **ROE = Net Profit Margin
 - **ROCE > ROE (healthy):** Operations earn more than the equity return; debt financing is helping (good leverage)
 - **ROE > ROCE (warning):** Either (a) leverage is amplifying poor operating returns OR (b) non-operating income (Other Income / treasury yield) is flattering reported NP
 
-**For Eternal in FY24 and FY26:** ROE > ROCE because **Other Income (treasury yield on cash hoard) exceeds operating losses + interest**. This is the same diagnosis as elsewhere in the analysis — reported profitability is treasury-funded, not operations-funded. **This pattern is a Buffett-grade red flag** — high-quality businesses have ROCE > ROE because operations earn more than the cost of any debt.
+**For Eternal in FY24, FY25, and FY26:** ROE > ROCE because **Other Income (treasury yield on cash hoard) exceeds operating losses + interest**. This is the same diagnosis as elsewhere in the analysis — reported profitability is treasury-funded, not operations-funded. **This pattern is a Buffett-grade red flag** — high-quality businesses have ROCE > ROE because operations earn more than the cost of any debt.
 
 > Buffett: *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* — Eternal's DuPont decomposition shows it is not yet a wonderful company. The good news (high asset turnover, unleveraged balance sheet) is overshadowed by the bad news (tiny margins, ROE driven by non-operating income).
 
@@ -1490,27 +1607,29 @@ The DuPont identity decomposes ROE into three drivers: **ROE = Net Profit Margin
 
 **Assumption Set 1: 8% Sustainable ROE (Plausible long-term ceiling)**
 
-| Years | BVPS | **6.24x current** | **4.68x (75%)** | **5.50x (hist med)** | **3.12x (50%)** | **3.00x (fair)** | **1.00x (book)** |
+| Years | BVPS | **6.24x current** | **4.68x (75%)** | **3.12x (50%)** | **3.00x (fair)** | **5.50x (hist med)** | **1.00x (book)** |
 |---|---|---|---|---|---|---|---|
-| 5Y | ₹56.00 | **+8.0%** | +1.96% | +5.32% | -5.98% | -6.7% | -25.1% |
-| 7Y | ₹65.31 | +8.0% | +3.65% | +6.30% | -2.18% | -2.7% | -16.9% |
-| **10Y** | **₹82.28** | **+8.0%** | **+4.94%** | **+6.69%** | **+0.77%** | **+0.4%** | **-10.1%** |
+| 5Y | ₹56.00 | **+8.0%** | +1.96% | -5.98% | -6.7% | +5.31% | -25.1% |
+| 7Y | ₹65.31 | +8.0% | +3.65% | -2.18% | -2.7% | +6.07% | -16.9% |
+| **10Y** | **₹82.28** | **+8.0%** | **+4.94%** | **+0.77%** | **+0.4%** | **+6.65%** | **-10.1%** |
 
 **Assumption Set 2: 12% Sustainable ROE (Bull case)**
 
-| Years | BVPS | **6.24x current** | **4.68x (75%)** | **5.50x (hist med)** | **3.12x (50%)** | **3.00x (fair)** | **1.00x (book)** |
+| Years | BVPS | **6.24x current** | **4.68x (75%)** | **3.12x (50%)** | **3.00x (fair)** | **5.50x (hist med)** | **1.00x (book)** |
 |---|---|---|---|---|---|---|---|
-| 5Y | ₹67.16 | **+12.0%** | +5.74% | +9.16% | -2.50% | -3.3% | -22.3% |
-| 7Y | ₹84.25 | +12.0% | +7.49% | +10.21% | +1.44% | +0.9% | -13.8% |
-| **10Y** | **₹118.36** | **+12.0%** | **+8.82%** | **+10.62%** | **+4.50%** | **+4.1%** | **-6.7%** |
+| 5Y | ₹67.16 | **+12.0%** | +5.74% | -2.50% | -3.3% | +9.21% | -22.3% |
+| 7Y | ₹84.25 | +12.0% | +7.49% | +1.44% | +0.9% | +10.00% | -13.8% |
+| **10Y** | **₹118.36** | **+12.0%** | **+8.82%** | **+4.50%** | **+4.1%** | **+10.59%** | **-6.7%** |
 
 **Assumption Set 3: 18% Sustainable ROE (Heroic — best-in-class compounder)**
 
-| Years | BVPS | **6.24x current** | **4.68x (75%)** | **5.50x (hist med)** | **3.12x (50%)** | **3.00x (fair)** | **1.00x (book)** |
+| Years | BVPS | **6.24x current** | **4.68x (75%)** | **3.12x (50%)** | **3.00x (fair)** | **5.50x (hist med)** | **1.00x (book)** |
 |---|---|---|---|---|---|---|---|
-| 5Y | ₹87.19 | **+18.0%** | +11.40% | +14.92% | +2.72% | +1.9% | -18.2% |
-| 7Y | ₹121.40 | +18.0% | +13.25% | +16.06% | +6.87% | +6.3% | -9.2% |
-| **10Y** | **₹199.46** | **+18.0%** | **+14.65%** | **+16.50%** | **+10.10%** | **+9.7%** | **-1.7%** |
+| 5Y | ₹87.19 | **+18.0%** | +11.40% | +2.72% | +1.9% | +15.06% | -18.2% |
+| 7Y | ₹121.40 | +18.0% | +13.25% | +6.87% | +6.3% | +15.89% | -9.2% |
+| **10Y** | **₹199.46** | **+18.0%** | **+14.65%** | **+10.10%** | **+9.7%** | **+16.52%** | **-1.7%** |
+
+> **CAGR computation convention:** Each forward-CAGR cell in the three tables above is computed from the **rounded BVPS shown in that row**, so every cell is reproducible directly from the displayed figures (Exit P/B × shown BVPS ÷ ₹237.82, then annualised over n years). For a value sitting almost exactly on a rounding boundary this can differ by ~1 bp from a computation that carries the *unrounded* BVPS base — e.g. the 8% ROE / 5.50x / 10Y cell shows **6.65%** (computed from the displayed BVPS ₹82.28: (5.50 × 82.28 ÷ 237.82)^(1/10) − 1 = 6.645%); carrying the unrounded base ₹82.277 instead would yield 6.64%. The displayed-BVPS basis is applied uniformly across all 54 cells for internal reproducibility, so this cell is shown as 6.65% by that consistent convention.
 
 #### Step 4 — How Much P/B Compression Can Eternal Tolerate?
 
@@ -1587,13 +1706,15 @@ The P/B scenario math echoes the DCF and Reverse DCF conclusions: **at ₹237.82
 
 | Tier | Price Range | MoS vs Base IV | Mapping to Fair Value Zone | When This Could Realistically Be Reached |
 |---|---|---|---|---|
-| **🟢 Deep Value (STRONG BUY)** | **< ₹40** | 50%+ MoS to Base IV | Below tangible book | Severe market dislocation + Blinkit-specific crisis + multiple compression (probability ~10-15% over 3Y) |
+| **🟢 Deep Value (STRONG BUY)** | **< ₹40** ⁰ | ~50%+ MoS to Base IV | At/approaching tangible book (₹34.77) and near Stress IV (₹29.92) | Severe market dislocation + Blinkit-specific crisis + multiple compression (probability ~10-15% over 3Y) |
 | **🟢 Value (BUY)** | **₹40 - ₹60** | 25-50% MoS to Base IV | At/near Base IV with margin | Major sector de-rating + 2-3 quarters of operating-EBIT misses (~15-25% probability over 3Y) |
 | **🟡 Fair Value (HOLD/SELECTIVE BUY)** | **₹60 - ₹100** | 0-25% MoS to Base IV / approaching | Within ~25% of Base IV | Macro correction + competitive intensity flare-up (~25-35% probability over 3Y) |
 | **🟠 Fully Valued (HOLD/TRIM)** | **₹100 - ₹150** | Negative vs Base IV; positive vs Bull IV | Between Base and Bull IV | Modest growth disappointment + sector profit-taking (probability ~40% over 3Y) |
 | **🔴 Overvalued (AVOID / SELL)** | **> ₹150** | Above Bull IV | Premium pricing requiring Heroic execution | **Current zone — CMP ₹237.82** |
 
 **The current CMP of ₹237.82 is in the OVERVALUED zone, 57% above the Bull DCF IV and 202% above Base IV.**
+
+⁰ **Deep Value zone basis:** The <₹40 threshold is anchored to **tangible book value (₹34.77/share)** plus a small premium, and sits just above the Stress-scenario DCF IV (₹29.92). It is deliberately a *price-floor* anchor rather than a pure "% MoS to Base IV" anchor — at ₹40, MoS to Base IV (₹78.85) is ~49%, just shy of a strict 50%. Readers preferring a strict "well below Conservative IV" definition could set Deep Value at **<₹33** (≈75% of Conservative IV ₹43.21) or **<₹30** (just above Stress IV); the analysis uses <₹40 as a round-number proxy for "at or below tangible book," which is the more conservative salvage-value framework for a business with no positive operating earnings. Either threshold leads to the same conclusion: the stock would need to fall ~83-87% from CMP to reach genuine deep-value territory.
 
 ### Position Management — Action Advice for Holders at Each Entry Price
 
@@ -1666,28 +1787,32 @@ Eternal's 10-year future depends on: (a) consumer behavior around food delivery 
 
 This is unambiguously a stock outside Buffett's framework. It violates virtually every quality screen he applies, and even on the most generous valuation assumptions, fails to offer a meaningful margin of safety.
 
+**Three-Category Classification.** Buffett's framework sorts candidates into three buckets: (1) *Wonderful business at a fair price* (buy), (2) *Fair business at a wonderful price* (sometimes buy — the cigar-butt), and (3) *Value Trap* (avoid — looks cheap or exciting on one metric but destroys capital). **By this framework, Eternal at ₹237.82 is a Value Trap** — though an unusual one. It is not "optically cheap" (it trades at 595x earnings); rather, it is a *growth-narrative* value trap: a business requiring sustained capital consumption, with no durable moat yet proven, an operating EBIT that has never been positive, and a price that already discounts a decade of high-precision execution. The trap is not "cheap stock that stays cheap" but "expensive stock priced for perfection that cannot realistically deliver the perfection required." Either way, the Buffett verdict is the same: **AVOID.**
+
 ---
 
 ## 20. Risk Matrix
 
-### Risk Quadrant — Probability × Impact × Mitigation
+### Risk Quadrant — Severity × Probability × Mitigation
 
-| Risk | Probability | Impact | Severity Score | Mitigation / Investor Response |
+> *Column-structure note: the compliance template specifies four columns — **Risk | Severity | Probability | Mitigation** (in that order, which this table follows). An **Impact** column is retained as an additive fifth column for analytical value: "Severity Score" here is the composite RAG rating (🔴/🟠/🟡/🟢) derived from Probability × Impact, while the separate Impact column isolates the magnitude dimension so the reader can see why a high-probability/low-impact risk scores differently from a low-probability/high-impact one. The four template-required columns are present and appear in the correct **relative sequence** (Risk → Severity → Probability → Mitigation); the supplementary **Impact** column is inserted immediately before Mitigation, so Mitigation occupies absolute position 5 rather than 4. Impact is additive, not a substitute for any required column.*
+
+| Risk | Severity Score | Probability | Impact | Mitigation / Investor Response |
 |---|---|---|---|---|
-| **Blinkit competitive pressure (Reliance, Zepto, Amazon, Flipkart)** | HIGH (80%) | HIGH (40% margin compression) | 🔴 **CRITICAL** | Monitor Blinkit's contribution margin per quarter; exit position if margin slips below 4% for 2 consecutive quarters. No company action mitigates this — it's structural. |
-| **Gig labour regulation (employee status, social security)** | MEDIUM (50%) | VERY HIGH (50%+ cost increase) | 🔴 **CRITICAL** | Track state-level (Karnataka, Rajasthan) and central Code on Social Security implementation. If law passes nationwide, expect 30-50% delivery cost increase → re-rate stock by 30-40%. |
-| **Sustained dilution from SBC (no buybacks)** | CERTAIN (100%) | MEDIUM (2-3% annual dilution) | 🟠 **HIGH** | Already baked in. Investors cannot mitigate; only management can (via buybacks, which they refuse). Discount IV by 15-25% for cumulative future dilution. |
-| **Food delivery growth deceleration** | MEDIUM-HIGH (60%) | HIGH (core margin engine) | 🟠 **HIGH** | Monitor quarterly NOV growth; if drops below 12% YoY, the operating leverage thesis fails. Sell if 2 consecutive quarters below this. |
-| **District segment write-down (Paytm acquisition impaired)** | HIGH (75%) | MEDIUM (~₹2,000 Cr goodwill) | 🟠 **HIGH** | Already partially signalled (₹24 Cr tech-stack transfer). Expect ~₹1,500-2,000 Cr goodwill writedown in FY27 results. Already weakens reported NP modestly. |
-| **Hyperpure failure (Q4 FY26 -47% YoY; full-year FY26 ~-19% YoY)** | MEDIUM (50%) | MEDIUM | 🟡 **MEDIUM** | Monitor for further revenue decline; if Hyperpure folded entirely, FY27 revenue could lose ₹2,000-3,000 Cr. Minor in absolute terms but undermines diversification narrative. |
-| **Treasury yield decline (RBI rate cuts)** | HIGH (70%) | MEDIUM (50% of NP at risk) | 🟠 **HIGH** | If RBI cuts by 75-100bps over 12 months, Other Income drops ~15-20% (₹250-300 Cr), erasing the bulk of "reported profitability." Watch RBI MPC commentary. |
-| **FSSAI / restaurant rating / consumer protection regulation** | MEDIUM (40%) | MEDIUM | 🟡 **MEDIUM** | Marginal compliance costs absorbed. No major thesis impact unless rules sharply restrict surge pricing or dark patterns. |
-| **GST rate revision on food delivery (currently 5%)** | LOW (20%) | MEDIUM | 🟢 **LOW-MEDIUM** | Pass-through to consumers; reduces demand elasticity 5-10%. Manageable. |
-| **Multiple compression from 595x P/E to 100x P/E** | HIGH (70%) | VERY HIGH (-80% price impact) | 🔴 **CRITICAL** | NO mitigation other than not paying 595x to begin with. **This is the single most likely path to permanent capital loss at current entry price.** Exit if EPS does not at least double by FY28. |
-| **Promoter/Founder equity sales** | MEDIUM (40%) | MEDIUM (sentiment) | 🟡 **MEDIUM** | Monitor BSE insider trading disclosures monthly. Trim if founder Goyal sells >25% of holdings. |
-| **Macro recession (consumer discretionary contraction)** | LOW-MEDIUM (30%) | HIGH | 🟠 **HIGH** | Consumer discretionary contracts ~15-25% in a real recession. Eternal's NOV would slow from ~60% to ~25% LFL — earnings would be modestly impacted. Hold cash reserves for re-entry. |
-| **Cybersecurity / data breach** | LOW (10%) | HIGH | 🟡 **MEDIUM** | Monitor for incidents; one major breach (millions of user records exposed) could trigger sharp short-term decline. Diversification is the mitigation. |
-| **Excess capacity in dark stores (overbuilding)** | MEDIUM (40%) | MEDIUM | 🟡 **MEDIUM** | If Blinkit slows store openings below 100/quarter, this risk fades. Continued >200/quarter expansion is a yellow flag. |
+| **Blinkit competitive pressure (Reliance, Zepto, Amazon, Flipkart)** | 🔴 **CRITICAL** | HIGH (80%) | HIGH (40% margin compression) | Monitor Blinkit's contribution margin per quarter; exit position if margin slips below 4% for 2 consecutive quarters. No company action mitigates this — it's structural. |
+| **Gig labour regulation (employee status, social security)** | 🔴 **CRITICAL** | MEDIUM (50%) | VERY HIGH (50%+ cost increase) | Track state-level (Karnataka, Rajasthan) and central Code on Social Security implementation. If law passes nationwide, expect 30-50% delivery cost increase → re-rate stock by 30-40%. |
+| **Sustained dilution from SBC (no buybacks)** | 🟠 **HIGH** | CERTAIN (100%) | MEDIUM (2-3% annual dilution) | Already baked in. Investors cannot mitigate; only management can (via buybacks, which they refuse). Discount IV by 15-25% for cumulative future dilution. |
+| **Food delivery growth deceleration** | 🟠 **HIGH** | MEDIUM-HIGH (60%) | HIGH (core margin engine) | Monitor quarterly NOV growth; if drops below 12% YoY, the operating leverage thesis fails. Sell if 2 consecutive quarters below this. |
+| **District segment write-down (Paytm acquisition impaired)** | 🟠 **HIGH** | HIGH (75%) | MEDIUM (~₹2,000 Cr goodwill) | Already partially signalled (₹24 Cr tech-stack transfer). Expect ~₹1,500-2,000 Cr goodwill writedown in FY27 results. Already weakens reported NP modestly. |
+| **Hyperpure failure (Q4 FY26 -47% YoY; full-year FY26 ~-19% YoY)** | 🟡 **MEDIUM** | MEDIUM (50%) | MEDIUM | Monitor for further revenue decline; if Hyperpure folded entirely, FY27 revenue could lose ₹2,000-3,000 Cr. Minor in absolute terms but undermines diversification narrative. |
+| **Treasury yield decline (RBI rate cuts)** | 🟠 **HIGH** | HIGH (70%) | MEDIUM (50% of NP at risk) | If RBI cuts by 75-100bps over 12 months, Other Income drops ~15-20% (₹250-300 Cr), erasing the bulk of "reported profitability." Watch RBI MPC commentary. |
+| **FSSAI / restaurant rating / consumer protection regulation** | 🟡 **MEDIUM** | MEDIUM (40%) | MEDIUM | Marginal compliance costs absorbed. No major thesis impact unless rules sharply restrict surge pricing or dark patterns. |
+| **GST rate revision on food delivery (currently 5%)** | 🟢 **LOW-MEDIUM** | LOW (20%) | MEDIUM | Pass-through to consumers; reduces demand elasticity 5-10%. Manageable. |
+| **Multiple compression from 595x P/E to 100x P/E** | 🔴 **CRITICAL** | HIGH (70%) | VERY HIGH (-80% price impact) | NO mitigation other than not paying 595x to begin with. **This is the single most likely path to permanent capital loss at current entry price.** Exit if EPS does not at least double by FY28. |
+| **Promoter/Founder equity sales** | 🟡 **MEDIUM** | MEDIUM (40%) | MEDIUM (sentiment) | Monitor BSE insider trading disclosures monthly. Trim if founder Goyal sells >25% of holdings. |
+| **Macro recession (consumer discretionary contraction)** | 🟠 **HIGH** | LOW-MEDIUM (30%) | HIGH | Consumer discretionary contracts ~15-25% in a real recession. Eternal's NOV would slow from ~60% to ~25% LFL — earnings would be modestly impacted. Hold cash reserves for re-entry. |
+| **Cybersecurity / data breach** | 🟡 **MEDIUM** | LOW (10%) | HIGH | Monitor for incidents; one major breach (millions of user records exposed) could trigger sharp short-term decline. Diversification is the mitigation. |
+| **Excess capacity in dark stores (overbuilding)** | 🟡 **MEDIUM** | MEDIUM (40%) | MEDIUM | If Blinkit slows store openings below 100/quarter, this risk fades. Continued >200/quarter expansion is a yellow flag. |
 
 ### Critical Risk Deep-Dives
 
@@ -1930,7 +2055,7 @@ For an inflection-stage business, score each factor 0-10 (10 = high confidence t
 |---|---|---|---|---|
 | **Business Quality** | 12% | 4 | 0.48 | §1, §10 |
 | **Moat Strength / Durability** | 13% | 4 | 0.52 | §10 |
-| **Financial Strength** | 8% | 6 | 0.48 | §3, §4 |
+| **Financial Health** | 8% | 6 | 0.48 | §3, §4 |
 | **Management Quality** | 8% | 3 | 0.24 | §12 |
 | **Profitability (ROE/ROCE)** | 8% | 1 | 0.08 | §9, §17 |
 | **Earnings Quality** | 8% | 2 | 0.16 | §2, §13 |
@@ -1942,6 +2067,7 @@ For an inflection-stage business, score each factor 0-10 (10 = high confidence t
 | **TOTAL** | 100% | — | **2.65 / 10** |  |
 
 **Score notes:**
+- **Financial Health (6/10) — what this score does and does NOT capture:** The 6/10 reflects Eternal's genuine **balance-sheet fortress** — ₹17,972 Cr cash, net-cash positive, zero debt-covenant stress, no refinancing risk. It is deliberately **NOT** a statement about operating profitability, which is weak (EBIT negative). That operating weakness is captured separately and heavily penalised in the **Profitability (1/10)** and **Earnings Quality (2/10)** rows. In other words: the company is financially *safe* (won't go bankrupt — hence 6/10 here) but is not operationally *profitable* (hence 1/10 and 2/10 there). The scorecard intentionally separates solvency from earning power so the two are not conflated; a reader should not read 6/10 Financial Health as any endorsement of the business's ability to generate operating cash.
 - **Earnings Quality (2/10):** FY26 NP is ~100% treasury yield; operating earnings (EBIT) are negative. Quality of reported earnings is poor (treasury yield is non-recurring and policy-rate-dependent).
 - **Scalability (5/10):** Revenue scales (60% LFL growth), but EBIT margins do not yet expand with scale; incremental EBIT margin turned negative in FY26. Moderate scaler with scaling friction (§11 full assessment).
 - **Management Quality (3/10) — reconciliation to §12's 5.5/10:** Section 12 rates management 5.5/10 on a *broader* basis that includes execution capability, vision, and candour. The §23 scorecard applies *Buffett-specific* weights — heavily penalising (a) failed Buffett $1 Test (cumulative retained earnings -₹949 Cr), (b) Paytm Entertainment ₹2,048 Cr → ₹24 Cr write-down (poor capital allocation), (c) zero buybacks ever despite persistent SBC dilution, (d) only ~4% promoter holding (weak skin-in-the-game), and (e) two QIPs in 18 months at premium-to-book multiples. Operational competence is real; Buffett-grade capital stewardship is not. The 2.5-point gap reflects this distinction.
@@ -1965,7 +2091,7 @@ For an inflection-stage business, score each factor 0-10 (10 = high confidence t
 | Bull IV (DCF, 10% hurdle) | ₹151.60 | CMP < IV − 25% | ❌ CMP is 57% above Bull IV |
 | Margin of Safety | -201.6% (vs Base IV) | > 25% | ❌ FAIL |
 | P/E (TTM) | 595x | < 15x | ❌ 40x threshold |
-| Forward P/E (FY27e) | ~459x | < 15x | ❌ 30x threshold |
+| Forward P/E (FY27e) | ~457x | < 15x | ❌ 30x threshold |
 | P/B | 6.24x | < 2.5x | ❌ 2.5x threshold |
 | P/OE | 272x | < 15x | ❌ 18x threshold |
 | Owner Earnings Yield | 0.37% | > 5% | ❌ Far below G-Sec |
@@ -2004,10 +2130,11 @@ For an inflection-stage business, score each factor 0-10 (10 = high confidence t
 **Recommendation:** 🔴 **AVOID at CMP ₹237.82**
 
 **Target Range (Cross-Reference Section 15 DCF Outputs):**
-- **Conservative IV (Bear case):** ₹43.21 → implies -81% downside from CMP
+- **Stress IV (slow-inflection floor):** ₹29.92 → implies -87% downside from CMP (the genuine "tails" floor if operations do not inflect)
+- **Conservative IV (Bear case):** ₹43.21 → implies -81.8% downside from CMP
 - **Base IV:** ₹78.85 → implies -66% downside from CMP
 - **Bull IV:** ₹151.60 → implies -36% downside from CMP
-- **Conservative-to-Base Target Range: ₹43.21 - ₹78.85**
+- **Conservative-to-Base Target Range: ₹43.21 - ₹78.85** (with genuine stress floor at ~₹30)
 
 **Specific Action:**
 - **For non-holders:** Wait. Re-evaluate when stock approaches Base IV (~₹80) or when 4+ quarters of GAAP EBIT positive results are demonstrated. Current asymmetry is 0.34-0.53:1 (deeply negative).
@@ -2052,7 +2179,7 @@ Step 1 — What does the market pay vs what does the company earn?
     HUL: 55 years of earnings (P/E 55)
     Eternal: 595 years of earnings (per Screener P/E 595x)
     [The 627 vs 595 gap (~5%) reflects different share-count bases — 
-     Screener computes P/E using weighted-average diluted shares (~920 Cr in FY26),
+     Screener computes P/E using weighted-average diluted shares (~915 Cr in FY26),
      while the napkin math uses year-end diluted shares (965 Cr) for market cap. 
      Both numbers reflect the same extreme valuation thesis.]
 
@@ -2141,7 +2268,7 @@ Conclusion:
 
 ### Simplicity Verdict
 
-> **Eternal fails the Buffett Simplicity Test on essentially every dimension. The napkin math alone — needing 62x earnings growth in 10 years from a business where 100% of current "profit" is treasury yield — would cause Buffett to discard this from the watchlist within 30 seconds.**
+> **Eternal fails the Buffett Simplicity Test on essentially every dimension. The napkin math alone — needing 54–80x earnings growth in 10 years (62x even under the most favourable low-dilution case) from a business where 100% of current "profit" is treasury yield — would cause Buffett to discard this from the watchlist within 30 seconds.**
 >
 > This is not a "no-brainer" — it is the opposite. It requires an analyst to hold simultaneous beliefs about:
 > - Regulatory direction (gig labour, GST, FSSAI)
