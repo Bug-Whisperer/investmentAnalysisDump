@@ -83,11 +83,13 @@ The TTM revenue surge to ₹13,008 Cr (25% growth) reflects both volume recovery
 
 **Financial Fortress Verdict:**
 
-This is a textbook Buffett-quality balance sheet. The company has been in a **net cash position** since FY16, with D/E at or below 0.16x since FY16. EBIT-based interest coverage has never fallen below 20x — meaning the business could survive a catastrophic earnings decline and still service its debt. Net Debt/Owner Earnings is negative (net cash) in most years, meaning the company has MORE liquid assets than debt relative to its true earning power. The balance sheet is getting STRONGER over time, not weaker.
+This is a textbook Buffett-quality balance sheet. The company has been in a **net cash position** since FY16, with D/E at or below 0.16x since FY16. EBIT-based interest coverage has never fallen below 20x — meaning the business could survive a catastrophic earnings decline and still service its debt. Net Debt/Owner Earnings is negative (net cash) in most years, meaning the company has MORE liquid assets than debt relative to its true earning power. On leverage and solvency the balance sheet is getting STRONGER over time, not weaker — though short-term liquidity has softened (see the Current Ratio caveat below).
 
 > *"We will reject interesting opportunities rather than over-leverage our balance sheet."* — Warren Buffett
 
 Marico's balance sheet would earn an unambiguous pass from Buffett. The one nuance: BVPS growth has been modest (10Y CAGR of 8.1%) because the company has averaged a ~67% dividend payout ratio (ranging from 28% to 97% across years, with recent payouts consistently at 83%). This is a conscious capital allocation choice — the business doesn't need much capital to grow, so excess cash is returned to shareholders. This is the right decision for a capital-light franchise business.
+
+The one area worth monitoring: the Current Ratio has declined steadily from 2.02x (FY15) to a 12-year low of 1.04x (FY25), reflecting faster growth in trade payables and other current liabilities than in current assets. For a strongly cash-generative FMCG franchise with 37x EBIT-based interest coverage and a net cash position, 1.04x is not alarming — but the "getting stronger" verdict applies to leverage and solvency, not to short-term liquidity coverage, which has weakened.
 
 ---
 
@@ -117,6 +119,8 @@ Marico's balance sheet would earn an unambiguous pass from Buffett. The one nuan
 > *"We define owner earnings as net income plus depreciation, depletion, amortisation, and certain other non-cash charges less the average annual amount of capitalised expenditures for plant and equipment that the business requires to fully maintain its competitive position and its unit volume."* — Warren Buffett
 
 Marico is a capital-light business. CapEx as a % of revenue averages just 3-4%. Maintenance CapEx (estimated at ~50% of total) is minimal. The business generates substantial free cash flow relative to reported earnings — a hallmark of quality FMCG businesses. SBC is negligible for an Indian FMCG company (ESOP allotments of ~10,000-17,000 shares per tranche are immaterial against 130 Cr shares outstanding), so Base Owner Earnings suffice — no dilution adjustment is needed.
+
+> *Note: FY25 Owner Earnings of ₹1,732 Cr is somewhat flattered by an unusually low CapEx year (₹208 Cr vs ₹613-669 Cr in FY23-FY24), which compressed maintenance CapEx. A normalised 3-year average is ~₹1,409 Cr. This matters for valuation — see the detailed caveats in Sections 8 and 15, where the DCF anchoring is addressed.*
 
 ---
 
@@ -162,6 +166,10 @@ Marico is a capital-light business. CapEx as a % of revenue averages just 3-4%. 
 
 The ratio story is extraordinary in one dimension and troubling in another. The BUSINESS is phenomenal: ROCE consistently above 40% since FY16 (averaging 42% over 12 years across a 29-45% range), ROE approaching 40%, near-zero leverage, capital-light operations, and dominant market positions. These are among the best operating ratios in the Indian FMCG universe. The PRICE, however, tells a different story — at 57x earnings and 25x book, the earnings yield is just 1.7%, which means you're paying for decades of perfection upfront. Buffett's quality filter says "wonderful business"; his valuation filter says "wait for a better price."
 
+> *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
+
+Marico's 12-year ratio record IS the quantitative fingerprint of a durable competitive advantage: only a business with genuine pricing power and a defensible moat can sustain 42% ROCE and 40% ROE for over a decade while barely using leverage. The consistency of these returns — not just their height — is what signals the moat is real. The challenge is purely one of price, addressed in the valuation sections that follow.
+
 ---
 
 ## 6. QUARTERLY TREND ANALYSIS — Recent Momentum
@@ -183,7 +191,7 @@ The ratio story is extraordinary in one dimension and troubling in another. The 
 
 1. **Revenue Trajectory — Accelerating:** Revenue growth has accelerated dramatically from -1.9% YoY (Dec23) to 26.6% YoY (Dec25). However, much of this is pricing-driven (copra inflation pass-through), not pure volume. Underlying India volume growth is high single digits (~8%), which is healthy but not exceptional. The ~27% headline growth should moderate as pricing anniversarises.
 
-2. **Margin Trend — Under Pressure:** Both OPM (pre-D&A) and EBIT Margin have COMPRESSED from their Jun23-Jun24 peaks to the recent quarters. OPM fell from 24% to the 16-17% range; EBIT Margin fell from 22.2% to the 15-16% range. The compression is similar in both metrics, indicating this is driven by input cost inflation (copra) rather than rising capital intensity. If OPM were stable but EBIT Margin were compressing, it would signal rising D&A eating into profitability — a pattern EBITDA-based analysis would miss. That is NOT the case here: both margins are moving in tandem, confirming the issue is temporary commodity-cost driven.
+2. **Margin Trend — Under Pressure:** Both OPM (pre-D&A) and EBIT Margin have COMPRESSED from their Jun23-Jun24 peaks to the recent quarters. OPM fell from 24% to the 16-17% range; EBIT Margin fell from 22.2% to the 15-16% range (with a low of 14.7% in Sep25). The compression is similar in both metrics, indicating this is driven by input cost inflation (copra) rather than rising capital intensity. If OPM were stable but EBIT Margin were compressing, it would signal rising D&A eating into profitability — a pattern EBITDA-based analysis would miss. That is NOT the case here: both margins are moving in tandem, confirming the issue is temporary commodity-cost driven.
 
 3. **Normalised Quarterly EPS Run-Rate:** Stripping seasonality, the run-rate is approximately ₹3.20-3.50 per quarter, implying annualised EPS of ₹12.80-14.00. The TTM EPS of ₹13.22 (Mar25+Jun25+Sep25+Dec25) appears representative of current earnings power.
 
@@ -208,7 +216,7 @@ The ratio story is extraordinary in one dimension and troubling in another. The 
 
 **Analysis:**
 
-1. **Promoter Holding:** The Mariwala family holds ~59% — very strong skin in the game. The gradual decline (59.42% → 58.93% over 3 years) is entirely due to ESOP exercises diluting the denominator, NOT promoter selling. No pledging has been reported. This is a clean, aligned promoter structure.
+1. **Promoter Holding:** The Mariwala family holds ~59% — very strong skin in the game. The decline over the period is small (0.49 pp over 3 years, from 59.42% to 58.93%), accompanied by a modest rise in the diluted share count (roughly 131 Cr to 132 Cr). The cited routine ESOP allotments (~10,000-17,000 shares per tranche) are far too small to fully account for this, so the precise mechanism (likely a mix of larger cumulative equity issuance and ESOP pool expansion) has not been independently verified here. What can be said with confidence: no promoter selling has been publicly reported, no pledging has been reported, and at 58.93% the family's alignment with minority shareholders remains strong. The 0.49 pp drift is immaterial to the investment case regardless of its exact cause.
 
 2. **FII Trend:** FIIs peaked at 25.91% (Sep23) and dropped to a low of 22.09% (Mar25) before recovering to 24.02%. The FII exit around Mar25 was part of a broader FMCG sector rotation — foreign money was exiting premium-valued FMCG names amid high valuations and muted volume growth. The recent recovery suggests FIIs see the volume/pricing cycle turning positive.
 
@@ -239,7 +247,9 @@ Maintenance CapEx is estimated at ~50% of total CapEx for Marico. Justification:
 
 Marico is a quintessentially **capital-light** business. Total CapEx averages just 3.5% of revenue over the period. For an FMCG company, the physical infrastructure (factories, warehouses) is modest relative to the brand value and distribution network that generate returns. Maintenance CapEx is low because the manufacturing process (coconut oil processing, blending, packaging) does not require heavy continuous investment.
 
-The CapEx spikes in FY23-FY24 (₹669-613 Cr) coincide with Marico's capacity expansion for new product categories (Foods, Digital-first brands) and international expansion — these are growth investments, not maintenance. The FY25 drop to ₹208 Cr suggests the major expansion cycle is complete.
+The CapEx spikes in FY23-FY24 (₹669-613 Cr) coincide with Marico's capacity expansion for new product categories (Foods, Digital-first brands) and international expansion — these are growth investments, not maintenance. The FY25 drop to ₹208 Cr is consistent with the major expansion cycle winding down, though this should be treated as an observation rather than a confirmed structural conclusion — the company has not provided explicit forward CapEx guidance, and a reversion to ₹300-400 Cr in FY26-27 (within historical norms) would lower Owner Earnings by ~11-16%. This is the key sensitivity behind the DCF caveat in Section 15.
+
+> *Methodology note: A uniform 50% maintenance-CapEx split is applied across all years for consistency. This is a simplification — in the FY23-FY24 expansion-spike years, the genuine maintenance portion was likely lower (~20-30%, since most of the spike was clearly growth CapEx), which means Owner Earnings in those two years is understated by the table. Conversely, in low-CapEx years the maintenance share is likely higher. The effect on the DCF is immaterial because the FY25 starting base (₹208 Cr total CapEx) is within the normal range where a 50% split is reasonable. A stricter Buffett reading would set maintenance CapEx ≈ D&A; for FY25 that would imply ~₹178 Cr maintenance (vs ₹104 Cr at 50%), reducing FY25 OE by ~₹74 Cr to ~₹1,658 Cr — reinforcing the Section 15 caveat that the ₹1,732 Cr base is generous.*
 
 SBC is negligible — ESOP allotments of 10,000-17,000 shares per quarter against 130 Cr shares outstanding. The SBC analysis framework from the prompt is not applicable here as this is a traditional Indian FMCG company with minimal equity-based compensation.
 
@@ -256,7 +266,7 @@ SBC is negligible — ESOP allotments of 10,000-17,000 shares per quarter agains
 | **ROIC %** | 31.6 | 33.4 | 39.0 | 43.8 | 39.4 | 46.0 | 40.6 | 45.4 | 44.5 | 43.6 | 44.7 | **49.8** |
 | **ROCE %** | 29 | 38 | 44 | **45** | 42 | 42 | 43 | 43 | 43 | 42 | 43 | **45** |
 
-**12-Year Averages: ROE 37.8% | ROA 21.5% | ROIC 41.7% | ROCE 42%**
+**12-Year Averages: ROE 37.8% | ROA 21.6% | ROIC 41.7% | ROCE 42%**
 
 These are among the highest return metrics in the entire Indian listed universe. A 12-year average ROIC of 41.7% means the business earns ₹42 of after-tax operating profit for every ₹100 of invested capital. Very few businesses on earth can sustain returns this high for this long.
 
@@ -313,7 +323,9 @@ The coconut oil moat is exceptionally durable. The product hasn't changed in 50 
 
 **Disruption Risk:** LOW. Coconut oil, hair oil, and edible oils are not being disrupted by technology. The categories will exist in 2036 exactly as they exist in 2026. The Saffola brand faces more competitive intensity from new health-food entrants, but Marico's distribution advantage provides a strong defence.
 
-**Verdict:** The moat is WIDE and DURABLE. Market shares are stable to growing. The business is resistant to technological disruption, and the categories are characterised by the "absence of change" that Buffett prizes.
+**One counterpoint worth monitoring:** Debtor days have risen from 11 (FY15) to 43 (FY25) — a near 4x increase. This partly reflects Marico's deliberate push into general trade and e-commerce channels (which carry longer credit terms than traditional distributors) and rising international revenue (where receivables cycles are longer). It is not yet a red flag given the company's strong cash generation, but for a business with alleged pricing power and dominant share, a sustained rise in receivables is a data point that mildly qualifies the "unassailable bargaining power" narrative and bears watching.
+
+**Verdict:** The moat is WIDE and DURABLE. Market shares are stable to growing. The business is resistant to technological disruption, and the categories are characterised by the "absence of change" that Buffett prizes. The rising debtor-days trend is a minor caveat, not a moat-breaker.
 
 ---
 
@@ -338,23 +350,24 @@ The coconut oil moat is exceptionally durable. The product hasn't changed in 50 
 | FY19 | 7,334 | 16.0% | 1,194 | 13.9% | 16.3% | 14.4% |
 | FY21 | 8,048 | 10.0% | 1,450 | 9.1% | 18.0% | 16.5% |
 | FY22 | 9,512 | 18.2% | 1,542 | 6.3% | 16.2% | 6.3% |
+| FY23 | 9,764 | 2.6% | 1,655 | 7.3% | 17.0% | 44.8% |
 | FY25 | 10,831 | 12.2% | 1,961 | 5.0% | 18.1% | 7.9% |
 
 *\*Incremental EBIT Margin = Change in EBIT / Change in Revenue — computed on EBIT (after D&A), not on Screener's Operating Profit (which is pre-D&A). This captures whether scaling is genuine or is being eaten by rising capital consumption. A business that grows revenue while D&A rises faster will show improving pre-D&A margins but DECLINING EBIT margins — the EBIT-based figure reveals the truth.*
 
-The incremental EBIT margins are volatile and generally **in line with or below** current EBIT margins. This tells us Marico is a **linear scaler**, not an operating-leverage monster.
+The incremental EBIT margins are volatile, swinging between elite operating leverage in low-revenue-growth years and friction when copra costs spike. The pattern is mixed rather than uniformly linear.
 
 **Scaling Quality Assessment:**
 
 | Incremental EBIT Margin vs. Current | Interpretation | Marico |
 |---|---|---|
-| Significantly above current (>1.5x) | **Elite scaler** — operating leverage kicking in | — |
+| Significantly above current (>1.5x) | **Elite scaler** — operating leverage kicking in | ✅ FY23 (44.8% vs 17.0%) |
 | Moderately above current (1.0-1.5x) | **Good scaler** — healthy operating leverage | FY19 (14.4% vs 16.3%) — close |
 | Roughly equal to current | **Linear scaler** — grows but no efficiency gain | ✅ FY21 (16.5% vs 18.0%) |
 | Below current | **Scaling friction** — growth getting more expensive | ⚠️ FY22 (6.3% vs 16.2%), FY25 (7.9% vs 18.1%) |
 | Negative | **Anti-scaling** — burning capital to buy revenue | — |
 
-Marico's pattern is **linear-to-friction** — each incremental rupee of revenue is roughly as profitable as existing revenue in good years, but significantly less so when copra costs spike (FY22, FY25). This is typical for FMCG businesses where variable costs (raw materials) dominate.
+Marico's pattern is **mixed (elite-to-friction)**. In low-revenue-growth years like FY23 (only ₹252 Cr revenue added), EBIT disproportionately benefits from operating leverage and cost control, producing an elite 44.8% incremental margin. But in high-growth years driven by copra-inflation pricing (FY22, FY25), incremental margins compress to single digits because raw-material costs rise alongside revenue. Averaged across the cycle, the business is a roughly **linear scaler** — typical for FMCG where variable costs (raw materials) dominate. The takeaway: Marico's scaling quality is real but heavily modulated by the commodity cycle, not a consistent operating-leverage machine like a software business.
 
 **Capital Scalability:**
 
@@ -397,7 +410,7 @@ Over FY15-FY25 (10 years):
 - Market Cap Change: ~₹65,669 Cr (from ~₹30,900 Cr at FY15-end to ~₹96,571 Cr at FY25-end, using closing price ₹744 × ~129.8 Cr basic shares outstanding per BSE market cap convention; note that the EPS-row diluted share count of ~132 Cr includes unvested ESOPs and is used for per-share earnings computation, not market cap)
 - **$1 Test Result: ₹19.43 of market value created per ₹1 retained**
 
-This is a spectacular result — among the highest $1 test scores in the Indian market. For every rupee the company retained instead of paying as dividends, it created ₹19.43 of market value. This reflects both genuine business compounding AND significant PE multiple expansion over the decade. The caveat is that PE expansion from ~30x to ~57x accounts for a substantial portion — if the multiple mean-reverts, the $1 test score would be lower.
+This is a spectacular result — among the highest $1 test scores in the Indian market. For every rupee the company retained instead of paying as dividends, it created ₹19.43 of market value. Importantly, this reflects almost entirely genuine business compounding, NOT multiple inflation: the implied PE at FY15-end was already ~53x (₹234 price / ₹4.45 EPS), expanding only modestly to 57.3x today — a ~9% PE re-rating over the decade. PE expansion thus accounts for only ~8% of the total market-cap gain; the remaining ~92% came from real earnings growth (EPS compounded 2.8x). This strengthens the management quality assessment — the value creation is real, not a product of the market simply paying a higher multiple.
 
 **Management Assessment:**
 
@@ -454,11 +467,13 @@ The international business has emerged as a genuine second growth engine, delive
 | P/Sales | ~5.0x | ~4.9x | ~4.9x | ~5.6x | ~5.4x | ~4.7x | ~5.9x | ~9.0x | **7.6x** |
 | Earnings Yield | 2.1% | 2.4% | 2.5% | 2.0% | 1.8% | 2.3% | 2.1% | 1.7% | **1.7%** |
 | **Owner Earnings Yield** | — | — | 2.9% | 2.6% | 2.4% | 2.5% | 2.4% | 1.8% | **1.8%** |
-| FCF Yield | — | 2.0% | 2.7% | 3.7% | 1.4% | 1.6% | 1.4% | 1.2% | **~1.8%** |
+| FCF Yield | — | 2.0% | 2.7% | 3.7% | 1.4% | 1.6% | 1.4% | 1.2% | **~1.2%** |
 | PEG Ratio | — | — | — | — | — | — | — | — | **5.3x** |
 | Dividend Yield | ~1.0% | ~1.0% | ~1.5% | ~1.4% | ~1.5% | ~1.1% | ~1.3% | ~1.4% | **~1.4%** |
 
-> **Why EV/EBIT instead of EV/EBITDA:** EV/EBITDA flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT accounts for the capital the business consumes. Buffett (2000 Letter): *"References to EBITDA make us shudder."* **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates. EV/EBIT is included as a secondary cross-check for institutional comparability, not as a Buffett-pure metric.
+> *Note on share count: Historical-year multiples (P/OE, PE) are computed on each year's basic share count (~129.8 Cr, consistent with the BSE market-cap convention), while the Current (TTM) P/OE of ~54x uses diluted shares (~131.9 Cr). The ~2% difference between basic and diluted is immaterial to the valuation conclusion but is noted for precision; see Sections 15 and 16 for the share-count basis used in the DCF and Reverse DCF.*
+
+> **Why EV/EBIT instead of the EBITDA-based equivalent:** An EV-to-pre-D&A-profit multiple flatters capital-intensive businesses by pretending depreciation isn't a real cost. EV/EBIT accounts for the capital the business consumes. Buffett (2000 Letter): *"References to EBITDA make us shudder."* **P/Owner Earnings is the preferred Buffett-pure multiple** — it starts from true economic earnings (NI + D&A − Maintenance CapEx) and gives the most honest picture of what you're paying for each rupee of real cash the business generates. EV/EBIT is included as a secondary cross-check for institutional comparability, not as a Buffett-pure metric.
 
 **Historical Comparison:** Marico has historically traded in a PE band of 40-55x. The current TTM PE of 57.3x is at the **upper end of its historical range**. The P/B of 25x is near all-time highs. The stock has NEVER traded sustainably at these multiples for extended periods — periods of 55x+ PE have historically been followed by periods of consolidation or de-rating.
 
@@ -485,11 +500,13 @@ At 57x earnings, the price is steep. The question is whether the quality justifi
 | Terminal Value | ₹71,042 Cr | ₹89,081 Cr | ₹1,34,632 Cr |
 | PV of Terminal Value | ₹27,390 Cr | ₹34,345 Cr | ₹51,906 Cr |
 | Enterprise Value | ₹44,249 Cr | ₹53,647 Cr | ₹74,016 Cr |
-| Less: Net Debt | (₹1,036) | (₹1,036) | (₹1,036) |
+| Plus: Net Cash | +₹1,036 Cr | +₹1,036 Cr | +₹1,036 Cr |
 | **Equity Value** | **₹45,285 Cr** | **₹54,683 Cr** | **₹75,052 Cr** |
 | **IV Per Share** | **₹349** | **₹421** | **₹578** |
 | **Margin of Safety** | **-117%** | **-80%** | **-31%** |
 | **Upside/(Downside)** | **(54%)** | **(44%)** | **(24%)** |
+
+> **Important — FY25 Owner Earnings is cyclically elevated by a CapEx trough.** FY25 OE of ₹1,732 Cr was a 27.9% surge over FY24's ₹1,354 Cr, driven NOT by genuine earnings improvement (Net Income grew only 10.4%) but primarily by total CapEx collapsing from ₹613 Cr (FY24) to ₹208 Cr (FY25), which halved maintenance CapEx and inflated OE. A more conservative base is the 3-year average OE (FY23-FY25) of ₹1,409 Cr. **Using this normalised base, the Conservative IV falls from ₹349 to approximately ₹284** — pushing the Conservative Margin of Safety from -117% to roughly -167% and the downside from -54% to roughly -62%. This makes the overvaluation case STRONGER, not weaker. The ₹349 Conservative IV stated above should therefore be read as a generous upper bound on the conservative floor, not a true worst-case. The DCF intrinsic values per share are computed on ~129.8 Cr basic shares (per BSE market-cap convention); using ~132 Cr diluted shares would reduce each IV by ~2%.
 
 ### Summary Table
 
@@ -499,9 +516,11 @@ At 57x earnings, the price is steep. The question is whether the quality justifi
 | Base | ₹421 | **-80%** (Overvalued) | **(44%)** |
 | Optimistic | ₹578 | **-31%** (Overvalued) | **(24%)** |
 
-**The DCF verdict is unambiguous: Marico is significantly overvalued at ₹757 under all three scenarios using a 10% discount rate.** Even the optimistic scenario (16% OE growth for 5 years, 12% for the next 5, 5% terminal growth) yields an intrinsic value of ₹578 — 24% below the current price.
+**The DCF verdict is unambiguous: Marico is significantly overvalued at ₹757 under all three scenarios using a 10% discount rate.** Even the optimistic scenario (16% OE growth for 5 years — roughly 1.5× the historical 10-year EPS CAGR of 10.9% — then 12% for the next 5, 5% terminal growth) yields an intrinsic value of ₹578, still 24% below the current price.
 
 This doesn't mean Marico is a bad business. It means the market has priced in more growth than even optimistic assumptions can justify at a 10% hurdle rate. The stock price embeds an implicit assumption that Marico will grow owner earnings at ~15%+ CAGR for 15+ years — which is materially above its 10-year track record of 11% NP CAGR.
+
+> **On the growth assumptions:** The scenario growth rates (Conservative 10%, Base 13%, Optimistic 16% for years 1-5) should be read with two caveats. First, they are applied to an already-elevated FY25 base (see the CapEx-trough caveat above), so the effective compounding from a "normal" earnings year is higher than the labels suggest — the "Conservative" 10% off the peak base implies roughly 15% CAGR measured from the last normal pre-spike year (FY22). Second, the Base case's 13% OE growth requires ~4-5 pp of annual margin expansion on top of the 6-8% historical revenue CAGR, since OE cannot durably outgrow revenue without margin gains. Marico's copra-normalisation tailwind is largely spent (already in FY25 numbers), limiting forward margin headroom. These caveats all point the same direction: the realistic intrinsic value is at the LOWER end of the ₹349-578 range, reinforcing the overvaluation verdict.
 
 > *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* — Warren Buffett. But even a wonderful company at a CRAZY price is a bad investment.
 
@@ -522,6 +541,8 @@ This doesn't mean Marico is a bad business. It means the market has priced in mo
 | Historical EPS CAGR (5Y) | 9.7% | FY20→FY25 |
 | Historical OE CAGR (10Y) | 12.5% | FY15→FY25 |
 | Historical OE CAGR (5Y) | 10.4% | FY20→FY25 |
+
+> *Note on the Owner Earnings base: This Reverse DCF uses TTM Owner Earnings (~₹1,824 Cr, trailing 12 months through Dec 2025) rather than the FY25 annual OE of ₹1,732 Cr used in the Section 15 DCF. The Section 15 DCF uses full-year FY25 figures for period consistency, while Section 16 uses the most recent TTM profile. The ₹92 Cr difference is the gap between the 12 months ending March 2025 and the 12 months ending December 2025. Using the FY25 base would raise the implied OEPS CAGR by ~0.7 pp — immaterial to the conclusion. Note also that both OE figures carry the same caveat flagged in Section 15: they are elevated by the FY25 maintenance-CapEx trough.*
 
 ### Implied EPS CAGR Needed to Achieve Target Returns
 
@@ -728,7 +749,7 @@ Buffett: *"When you combine ignorance and leverage, you get some pretty interest
 - Sustainable ROE: ~40% | Retention Ratio: ~17% (83% payout)
 - **BV Compounding Rate: ROE × Retention = 40% × 17% ≈ 6.8%** (actual 5Y BVPS CAGR: 5.6%)
 
-This is the critical insight: despite a 40%+ ROE, the book value compounds at only ~7% because Marico pays out 83% of earnings. The high ROE is wonderful for the business — but for shareholders who buy at 25x book, the BVPS growth rate matters enormously.
+This is the critical insight: despite a 40%+ ROE, the book value compounds at only ~6.8% because Marico pays out 83% of earnings. The high ROE is wonderful for the business — but for shareholders who buy at 25x book, the BVPS growth rate matters enormously.
 
 **Projected Book Value Per Share:**
 
@@ -743,18 +764,18 @@ This is the critical insight: despite a 40%+ ROE, the book value compounds at on
 
 | Exit P/B Scenario | Rationale | 5Y CAGR | 7Y CAGR | 10Y CAGR |
 |---|---|---|---|---|
-| **25.1x (Current)** | Multiple sustains | 7.0% | 7.0% | 7.0% |
-| **18.8x (0.75× Current)** | Mild de-rating | 1.0% | 2.7% | 4.0% |
-| **12.6x (0.5× Current)** | Significant de-rating | -6.9% | -3.1% | -0.2% |
-| **15x** | Reasonable premium for quality FMCG | -3.5% | -0.6% | 1.6% |
-| **10x** | Market re-rates to fair premium | -11.0% | -6.2% | -2.4% |
-| **5x** | Deep value / sector de-rating | -22.5% | -15.0% | -8.9% |
+| **25.1x (Current)** | Multiple sustains | 6.8% | 6.8% | 6.8% |
+| **18.8x (0.75× Current)** | Mild de-rating | 0.8% | 2.5% | 3.8% |
+| **12.6x (0.5× Current)** | Significant de-rating | -7.0% | -3.2% | -0.3% |
+| **15x** | Reasonable premium for quality FMCG | -3.7% | -0.8% | 1.4% |
+| **10x** | Market re-rates to fair premium | -11.2% | -6.4% | -2.6% |
+| **5x** | Deep value / sector de-rating | -22.7% | -15.2% | -9.1% |
 
 **The Key Insight:**
 
-> *"At the current entry P/B of 25.1x with a sustainable ROE of 40% and 17% retention, book value compounds at ~7% annually. If the P/B multiple remains at 25.1x, the price CAGR equals the BV compounding rate of ~7%. Adding the ~1.3% dividend yield (ROE × payout / P/B = 40% × 83% / 25.1), the total shareholder return at constant P/B is ~8.1% — still BELOW the 10% hurdle rate. There is NO exit P/B scenario in which the 10-year total return reaches 10%. Even with zero multiple compression, the high entry P/B dilutes the dividend yield to just ~1.3%, capping total returns at ~8%."*
+> *"At the current entry P/B of 25.1x with a sustainable ROE of 40% and 17% retention, book value compounds at ~6.8% annually. If the P/B multiple remains at 25.1x, the price CAGR equals the BV compounding rate of ~6.8%. Adding the ~1.3% dividend yield (ROE × payout / P/B = 40% × 83% / 25.1), the total shareholder return at constant P/B is ~8.1% — still BELOW the 10% hurdle rate. There is NO exit P/B scenario in which the 10-year total return reaches 10%. Even with zero multiple compression, the high entry P/B dilutes the dividend yield to just ~1.3%, capping total returns at ~8%."*
 
-Even in the BEST case (P/B sustaining at 25.1x), the 10-year price CAGR is ~7% and total return including dividends is ~8% — both BELOW the 10% hurdle rate. If P/B compresses to even 15x (still a healthy premium for an FMCG leader), the 10-year price return turns negligible at 1.6%.
+Even in the BEST case (P/B sustaining at 25.1x), the 10-year price CAGR is ~6.8% and total return including dividends is ~8% — both BELOW the 10% hurdle rate. If P/B compresses to even 15x (still a healthy premium for an FMCG leader), the 10-year price return turns negligible at ~1.4%.
 
 **Traffic Light Verdict:**
 
@@ -790,6 +811,8 @@ Based on the DCF, Reverse DCF, and P/B scenario analysis:
 
 **Current Price ₹757 → Falls in the FULLY VALUED / TRIM zone (50-60x PE)**
 
+> **Note — reconciling PE-based zones with DCF intrinsic value:** The zones above are derived from PE multiples (market-relative entry points), not directly from the Section 15 DCF. The two frameworks diverge: the Buffett-pure DCF intrinsic values are Conservative ₹349, Base ₹421, Optimistic ₹578. The PE-based zone upper bounds run 14-26% above the corresponding DCF IVs (e.g., the "Value/Buy" zone extends to ₹529, which is 26% above the Base DCF IV of ₹421). **For a strict Margin-of-Safety entry, the target should be at or below the Base DCF IV of ₹421 — i.e., the ~₹450 buy trigger referenced in Sections 16, 19, and 24, not the top of the PE-based Value band.** The PE zones are useful for gauging market sentiment; the DCF is the binding valuation discipline.
+
 ### What Would Buffett Do If You Already Hold?
 
 | Your Entry Zone | Current P&L | Buffett's Recommendation |
@@ -817,7 +840,7 @@ Based on the DCF, Reverse DCF, and P/B scenario analysis:
 | **Sustainable Economics for 10+ years** | 42% avg ROIC over 12 years (above 40% since FY19); highly likely to continue | ✅ |
 | **Price Below Intrinsic Value** | DCF IV: ₹349-578 vs. CMP ₹757. Overvalued by 31-117% | ❌ **FAIL** |
 
-**5 out of 5 quality criteria pass. 0 out of 1 valuation criteria pass.**
+**5 out of 6 total criteria pass (5 quality ✅, 1 valuation ❌).**
 
 This is the classic Buffett dilemma: **a wonderful business at a terrible price.**
 
@@ -914,16 +937,18 @@ Marico is NOT a turnaround situation. The company is a healthy, growing, well-ma
 | Factor | Score (1-10) | Commentary |
 |---|---|---|
 | **Business Quality** | **9/10** | Capital-light consumer franchise with 40%+ ROIC since FY19 (12Y avg ~42%) |
+| **Return on Capital** | **10/10** | Elite: 12Y avg ROCE 42%, ROIC 41.7%, ROE 37.8% — among the best in Indian FMCG, driven by margins not leverage |
 | **Moat Durability** | **9/10** | 62% coconut oil share held for 50 years; distribution moat widening |
 | **Financial Health** | **10/10** | Net cash, D/E 0.14, interest coverage (EBIT-based) 37x — textbook fortress |
 | **Management Quality** | **9/10** | 59% promoter holding, disciplined capital allocation, seamless succession |
 | **Earnings Quality** | **9/10** | Owner Earnings ≈ Net Income (asset-light); negligible SBC; 1.4pp EPS-OEPS divergence confirms reliability |
 | **Scalability** | **6.4/10** | Capital-light but linear growth; moderate runway remaining |
+| **Growth Outlook** | **6/10** | Moderate: 10Y revenue CAGR 6.6%, EPS CAGR ~11% but decelerating (5Y EPS CAGR 9.7%); GDP+ growth with limited acceleration levers |
 | **Valuation** | **2/10** | 57x PE, 25x P/B — at or near all-time highs; no margin of safety |
 | **Margin of Safety** | **1/10** | Negative under all DCF scenarios; overvalued by 31-117% (MoS) |
 | **Buffett Verdict** | — | **Wonderful business at a terrible price. PASS at ₹757.** |
 | **Buy Zone** | — | Deep Value: <₹397 / Value: ₹397-529 / Fair: ₹529-661 |
-| **Overall Recommendation** | — | **AVOID at current levels. WATCHLIST for ₹500 or below.** |
+| **Overall Recommendation** | — | **AVOID at current levels. WATCHLIST for ₹450 or below.** |
 
 **Buffett Verdict (Expanded):**
 
@@ -931,7 +956,7 @@ Marico is one of the finest consumer franchises in India — a Parachute blue-bo
 
 However, at 57x earnings and 25x book value, the market has already priced in all this quality — and then some. The DCF analysis under all three scenarios shows the stock is overvalued by 31-117% (Margin of Safety). The Reverse DCF shows the market is demanding 18%+ EPS CAGR for a decade (vs. 11% historical track record) just for you to earn a 10% return. The P/B scenario analysis shows that even with no multiple compression, total return (price appreciation plus dividends) caps out at ~8% — below the 10% hurdle — and any compression destroys returns entirely.
 
-Buffett working with a small capital base would admire this business, add it to his watchlist, and wait patiently for the market to offer it at a sensible price. That price is likely ₹450-500 (~34-38x earnings), which could materialise during a broad market correction, an FMCG sector rotation, or a severe copra cycle that temporarily compresses margins and spooks the market.
+Buffett working with a small capital base would admire this business, add it to his watchlist, and wait patiently for the market to offer it at a sensible price. That price is around ₹450 (~34x earnings, approaching the Base DCF intrinsic value of ₹421), which could materialise during a broad market correction, an FMCG sector rotation, or a severe copra cycle that temporarily compresses margins and spooks the market.
 
 > *"The stock market is a no-called-strike game. You don't have to swing at everything — you can wait for your pitch."* — Warren Buffett
 
