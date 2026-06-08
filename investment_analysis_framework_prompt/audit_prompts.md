@@ -28,7 +28,8 @@ File to be analysed is: @<FileName>
 ## Claude Code — Subsequent Audits Prompt
 
 ```
-The analysis file: @<FileName> has been revised since, can you run the same analysis again.
+1. The analysis file: @<FileName> has been revised since, can you run the same analysis again.
+2. The aforementioned issues have been fixed. Can you verify if the fixes are in place and if the file is now publication ready ?
 ```
 
 ---
