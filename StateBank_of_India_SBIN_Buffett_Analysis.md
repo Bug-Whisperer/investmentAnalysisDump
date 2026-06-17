@@ -58,7 +58,7 @@ From that trough, SBI has executed one of the most impressive bank turnarounds i
 - Revenue growth has been steady at 9-19% CAGR over various periods
 
 **Key concerns to watch:**
-- The 5-year profit CAGR of 36.3% is spectacular but is heavily base-effected (starting from the NPA crisis trough). Going forward, profit growth will normalise to 12-15%.
+- The 5-year consolidated profit CAGR of ~31% (FY2020 ₹21,140 Cr → FY2025 ₹80,523 Cr) is spectacular but is heavily base-effected (starting from the NPA crisis trough). Going forward, profit growth will normalise to 12-15%.
 - Other Income at ₹1,99,771 Cr (TTM) is very significant — driven by subsidiary income (SBI Life, SBI MF), treasury gains, and fee income. This diversification is a strength.
 
 > *Buffett: "In business, I look for economic castles protected by unbreachable moats."* — SBI's ₹54+ lakh crore deposit base IS the moat. No competitor can replicate this overnight.
@@ -119,7 +119,9 @@ From that trough, SBI has executed one of the most impressive bank turnarounds i
 | Metric | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|---|
 | Net Income | 21,140 | 23,888 | 37,183 | 57,750 | 69,543 | 80,523 |
-| Dividends Paid | 0 | 3,822 | 6,693 | 10,395 | 12,517 | 14,494 |
+| Dividends Paid | 0 | 3,822 ³ | 6,693 | 10,395 | 12,517 | 14,494 |
+
+*(³ FY2021 Dividends Paid: ₹3,822 Cr as per cash flow statement. DPS (₹4.0) × shares (892 Cr) = ₹3,568 Cr — the ₹254 Cr gap likely reflects dividend distribution tax or subsidiary-level dividends captured in the consolidated cash flow.)*
 | **Retained Earnings** | 21,140 | 20,066 | 30,490 | 47,355 | 57,026 | 66,029 |
 | Retention Ratio | 100% | 84% | 82% | 82% | 82% | 82% |
 | BVPS Growth | 7% | 10% | 11% | 17% | 16% | 17% |
@@ -140,7 +142,132 @@ SBI's internal capital generation rate has improved dramatically — from ~7% in
 
 ---
 
-## 5. CAPEX QUALITY ANALYSIS — Earnings Quality & Provision Adequacy Analysis [BANK MODE]
+## 5. KEY RATIOS — The Quality Scorecard (10-12 Year View) [BANK/NBFC MODE]
+
+> **Purpose:** A bird's-eye dashboard of the most important financial quality ratios across the longest available period. This is the first-pass Buffett quality filter — a single table that tells you in seconds whether this business is worth spending more time on.
+
+### Part A: Key Ratio Table (Bank/NBFC Mode)
+
+| Ratio | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| ROE % | 7% | **0%** | **-2%** | 1% | 7% | 9% | 12% | 17% | 17% | **17%** | 15% |
+| ROA % | **~0.4%** | **~0%** | ~-0.1% | ~0.1% | ~0.5% | ~0.5% | ~0.7% | ~1.0% | ~1.1% | **~1.15%** | ~1.1% |
+| NIM % ² | ~2.5% | ~2.3% | **~2.1%** | ~2.5% | ~2.8% | ~3.0% | ~3.1% | **~3.4%** | ~3.3% | ~3.1% | ~3.0% |
+| Cost-to-Income Ratio % ¹ | ~56% | ~55% | **~60%** | ~57% | ~55% | ~54% | ~53% | ~52% | **~50%** | ~51% | ~52% |
+| GNPA % | ~6.5% | ~7.5% | **~10.9%** | ~7.5% | ~6.2% | ~5.0% | ~3.97% | ~2.78% | ~2.24% | **~2.13%** | ~2.0% |
+| NNPA % | ~3.8% | ~4.0% | **~5.7%** | ~3.0% | ~2.2% | ~1.5% | ~1.02% | ~0.67% | ~0.57% | **~0.52%** | ~0.5% |
+| PCR % | ~58% | ~60% | ~66% | ~78% | ~83% | ~87% | ~88% | ~89% | ~91% | **~93%** | ~93% |
+| CASA Ratio % (Est.) | **~47%** | ~46% | ~45% | ~45% | ~44% | ~45% | ~45% | ~44% | ~43% | ~42% | **~41%** |
+| CRAR % (Total) | ~13.1% | ~13.1% | ~12.6% | ~12.7% | ~13.1% | ~13.7% | ~13.8% | ~14.0% | ~14.3% | **~14.0%** | **~14.0%** |
+| Credit Cost % | ~1.5% | ~2.0% | **~3.0%** | ~2.5% | ~1.8% | ~1.4% | ~0.9% | ~0.5% | ~0.3% | **~0.3%** | ~0.3% |
+| Leverage (Assets/Equity) | 17.0x | 15.8x | 15.7x | 16.6x | 16.7x | 17.6x | 17.5x | 16.6x | 16.2x | **15.0x** | 14.0x |
+| Dividend Payout % | 17% | **859%** | 0% | 0% | 0% | 16% | 18% | 18% | 18% | 18% | **19%** |
+
+*(¹ C/I Ratio definitional note: Section 5A uses a broader C/I definition (operating expenses including certain overhead allocations as a share of total income) sourced from Screener/annual report headline ratios, yielding ~50-51% for FY2025. Sections 9 and 13 use a narrower definition (operating expenses excluding provisions / net total income) as computed from the DuPont decomposition, yielding ~45%. The 6pp gap is definitional, not a data error. Both series show consistent improvement from 55-60% to their respective current levels. For comparability with private bank peers (who typically report the narrower definition), the ~45% figure from Sections 9/13 is more appropriate.)*
+
+*(² NIM definitional note: Section 5A uses the headline NIM reported in annual reports (NII / average earning assets), which may differ slightly from the DuPont-derived NIM in Sections 9/13 (which uses total assets as denominator). The ~0.2pp gap between 3.1% (S5A) and 3.3% (S9/13) for FY2025 reflects this denominator difference. Both show the same directional trend: expansion from ~2.1% to ~3.1-3.3% and modest compression in FY2025-26. For sell-side comparability, the S5A figure (~3.1%) is more commonly used.)*
+
+*(Note: FY2017 Dividend Payout of 859% is not meaningful — the bank paid a normal dividend on near-zero consolidated profit. FY2018-FY2019 had zero payout due to losses/thin profits. Bold indicates statistical best and worst for each row — primarily across the operating window FY2020-FY2026, with NPA-era extremes (FY2017-2019) also bolded where they represent the absolute worst in the full history.)*
+
+### Part B: Buffett's Quality Checklist (Bank/NBFC Mode)
+
+| Criterion | Benchmark | Company Score | Verdict |
+|---|---|---|---|
+| ROE > 12% consistently | >12% | ~8.5% (10Y avg FY2016-25); ~14.4% (5Y avg FY2021-25) | ⚠️ — 10Y dragged by NPA years; recent 5Y is excellent |
+| ROA > 1.0% | >1.0% | 0.5% (10Y avg); ~1.0% (3Y avg) | ⚠️ — Achieved in recent years only; needs sustained proof |
+| GNPA < 3% | <3% | 2.13% (FY2025); peak 10.9% (FY2018) | ✅ — Current excellent; history cautionary |
+| NNPA < 1% | <1% | 0.52% (FY2025) | ✅ |
+| CASA > 40% | >40% | ~41-42% (FY2025) | ⚠️ — Just above threshold; declining trend is a concern |
+| CRAR > 15% | >15% | ~14% (FY2025) | ⚠️ — Below fortress level; adequate but thin |
+| NIM > 3% | >3% | ~3.1% (FY2025) | ✅ — Healthy; has ranged 2.1-3.4% over a decade |
+| Cost-to-Income improving | Declining trend | ~51% (FY2025) vs ~56% (FY2016) | ✅ — Clear improvement from 60%+ to ~50% |
+| PCR > 65% | >65% | ~93% (FY2025) | ✅ — Very strong provision coverage |
+| Consistent book value growth | Growing | ~13% CAGR (10Y) | ✅ — Strong BV compounding |
+| Promoter/Insider holding | Aligned | Govt. of India ~55.5% | ✅ — Sovereign backing; but government ownership = political risk |
+| No equity dilution in 5 years | No dilution | QIP in FY2026 (892→923 Cr shares, ~3.5% dilution) | ⚠️ — Recent dilution, though at premium to book (accretive) |
+
+> *"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage."* — Warren Buffett
+
+SBI's ratio trends tell the story of a bank that has emerged from a devastating NPA supercycle (FY2016-2020) with fundamentally improved asset quality (GNPA from 10.9% to 2.1%), operating efficiency (C/I ratio from ~60% to ~50-51% on the headline basis, or ~45% on the narrower DuPont basis — see footnote ¹), and profitability (ROA from near-zero to 1.15%). The competitive advantage — cheap CASA funding, unmatched distribution, and implicit sovereign guarantee — remains intact and arguably strengthened post-cleanup. The key risk visible in the ratios is the declining CASA ratio (from ~47% to ~41%) and the thin CRAR (~14%), which limit the bank's headroom for aggressive growth without occasional equity dilution.
+
+---
+
+
+## 6. QUARTERLY TREND ANALYSIS — Recent Momentum [BANK/NBFC MODE]
+
+> **Purpose:** Annual data tells you where the business HAS BEEN. Quarterly data tells you where it IS GOING. This section captures the most recent trajectory.
+
+### Consolidated Quarterly Figures (₹ Crores)
+
+| Metric | Mar'23 | Jun'23 | Sep'23 | Dec'23 | Mar'24 | Jun'24 | Sep'24 | Dec'24 | Mar'25 | Jun'25 | Sep'25 | Dec'25 | Mar'26 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Revenue | **98,083** | 101,460 | 107,391 | 112,868 | 117,469 | 118,242 | 121,045 | 124,654 | 126,840 | 125,729 | 128,040 | 130,386 | **131,080** |
+| Interest Expense | 53,451 | 58,045 | 62,955 | 68,092 | 70,644 | 71,701 | 73,619 | 77,397 | 78,227 | 78,266 | 78,002 | 78,783 | 79,953 |
+| Net Interest Income (Est.) | 44,632 | **43,415** | 44,436 | 44,776 | 46,825 | 46,541 | 47,426 | 47,257 | 48,613 | 47,463 | 50,038 | **51,603** | 51,127 |
+| Other Income | 38,769 | **30,873** | 36,865 | 33,103 | 47,445 | 33,883 | 42,758 | 43,200 | 52,722 | 41,263 | 50,884 | **55,262** | 49,999 |
+| PBT | 23,436 | 25,208 | 21,936 | **15,245** | 28,852 | 26,428 | 27,474 | 25,566 | 26,897 | 29,229 | 28,657 | **30,067** | 26,076 |
+| Net Profit | 18,769 | 19,094 | 16,648 | **11,598** | **22,203** | 20,094 | 20,565 | 19,484 | 20,379 | 22,121 | 21,861 | 22,176 | 20,508 |
+| EPS (₹) | 20.27 | 20.77 | 18.04 | **12.40** | **23.96** | 21.65 | 22.17 | 21.12 | 21.96 | 23.76 | 22.90 | 23.09 | 21.28 |
+
+*(Source: Screener.in consolidated quarterly data. Bold indicates best and worst quarters across the table.)*
+
+### Key Observations:
+
+**1. Revenue/NII Trajectory:** Revenue has grown consistently from ~₹98,000 Cr (Mar'23) to ~₹131,000 Cr (Mar'26), a ~33% increase over 13 quarters. NII growth has been steadier, rising from ~₹44,600 Cr to ~₹51,100 Cr. YoY revenue growth has decelerated from ~20%+ (FY2024 quarters) to ~5% (FY2026 quarters) as the high-base effect kicks in. Sequential growth is modest at 1-3% per quarter.
+
+**2. Margin Trend:** NIM has been stable to slightly compressing in recent quarters as rate cuts begin to flow through. The Dec'23 quarter saw an anomalous dip in net profit (₹11,598 Cr) likely due to higher provisions or one-time items, but earnings recovered to ₹20,000-22,000 Cr per quarter thereafter. The EPS run-rate has stabilised at ₹21-24 per quarter.
+
+**3. Normalised Quarterly EPS Run-Rate:** Stripping out the anomalous Dec'23 quarter (₹12.40 EPS — driven by higher provisions) and Mar-quarter lumps (seasonally higher other income), the normalised quarterly EPS run-rate is approximately **₹21-22**, implying annualised EPS of **₹84-88**. This aligns with FY2025 reported EPS of ₹86.91 and FY2026 reported EPS of ~₹91.03 (sum of quarterly: 23.76+22.90+23.09+21.28).
+
+**4. Red Flags or Positive Surprises:**
+- Dec'23 was a clear negative outlier (₹11,598 Cr NP vs ₹16,000-22,000 Cr trend) — driven by lumpy provisioning, now normalised
+- Other Income shows significant quarterly volatility (₹30,873 Cr to ₹55,262 Cr) — treasury income and insurance subsidiary contributions swing meaningfully
+
+> *"In the business world, the rearview mirror is always clearer than the windshield."* — Warren Buffett. SBI's recent quarterly trajectory confirms a business that is **Cruising** — stable and predictable, the classic Buffett compounding machine. Growth has moderated from the recovery phase to a sustainable 5-10% trajectory. Earnings predictability is high, with quarterly NP settling in a narrow ₹20,000-22,000 Cr band (excluding one-off quarters).
+
+---
+
+
+## 7. SHAREHOLDING PATTERN — Who Owns the Company?
+
+> **Purpose:** Ownership tells you who believes in the business — and who is leaving. Shifts in institutional ownership often precede stock price moves.
+
+### Quarterly Shareholding Trend (%)
+
+| Holder | Jun'23 | Sep'23 | Dec'23 | Mar'24 | Jun'24 | Sep'24 | Dec'24 | Mar'25 | Jun'25 | Sep'25 | Dec'25 | Mar'26 | Trend |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Promoters (Govt. of India) | 57.47 | 57.49 | 57.49 | 57.54 | 57.54 | 57.51 | 57.43 | 57.43 | 57.42 | 55.50 | 55.50 | 55.52 | ↓ |
+| FIIs / FPIs | 10.36 | 10.72 | 10.91 | 11.09 | 11.15 | 10.71 | 10.27 | 9.94 | 9.33 | 9.57 | 10.34 | 11.41 | → (volatile) |
+| DIIs (MFs + Insurance + PFs) | 24.83 | 24.36 | 24.15 | 23.96 | 23.61 | 23.96 | 24.79 | 24.92 | 25.54 | 27.65 | 27.04 | 26.11 | ↑ |
+| Government (Non-Promoter) | 0.03 | 0.03 | 0.03 | 0.03 | 0.03 | 0.14 | 0.14 | 0.14 | 0.14 | 0.14 | 0.13 | 0.13 | → |
+| Public / Retail | 7.30 | 7.41 | 7.40 | 7.37 | 7.67 | 7.67 | 7.35 | 7.54 | 7.56 | 7.13 | 6.97 | 6.81 | ↓ |
+| No. of Shareholders (Lakhs) | 29.49 | 30.29 | 30.48 | 31.50 | 36.13 | 37.92 | 37.20 | 38.27 | 37.54 | 36.19 | 35.67 | 37.63 | ↑ |
+
+*(Source: Screener.in / BSE filings)*
+
+### Analysis:
+
+**1. Promoter/Insider Holding & Changes:** The Government of India's stake dropped from 57.4% to 55.5% in Sep'25 due to the QIP (Qualified Institutional Placement) equity raise that expanded the share count from 892 Cr to 923 Cr shares. This was NOT a government divestment — the dilution came from new shares issued to institutional investors. The government did not sell. This is neutral-to-positive — it raises capital for growth without signalling loss of confidence. No promoter pledging exists (government-owned banks cannot pledge).
+
+**2. FII / FPI Trend:** FII holding has been volatile — rising from 10.4% to a peak of 11.15% (Jun'24), then declining to 9.3% (Jun'25) before recovering to 11.4% (Mar'26). The mid-2025 dip coincided with broader EM outflows and India banking sector de-rating fears. The sharp recovery to 11.4% in Mar'26 suggests FIIs are returning. This V-shaped pattern is consistent with global portfolio rebalancing rather than fundamental concerns about SBI.
+
+**3. DII Trend:** Domestic institutions have steadily increased their holding from 24.8% to 26.1% over the period — a clear accumulation trend. DII buying was particularly strong during the FII exit phase (Sep'25: 27.65%), acting as a contrarian stabiliser. This is a bullish signal — domestic smart money sees value in SBI.
+
+**4. Retail / Public Trend:** Retail holding has declined slightly from 7.3% to 6.8%, while the number of shareholders increased from ~29.5 lakhs to ~37.6 lakhs. This means more retail investors own SBI but hold smaller average positions — consistent with growing retail awareness.
+
+**5. Contrarian Signal Check:** The classic contrarian setup — FIIs selling while DIIs buy — played out perfectly in mid-2025. DIIs accumulated during the dip, and FIIs have since returned. This suggests the mid-2025 selling was technical (global outflows), not fundamental.
+
+> *"Be fearful when others are greedy, and greedy when others are fearful."* — Warren Buffett. The shareholding pattern signals healthy institutional interest in SBI, with DII accumulation providing a solid floor. The FII volatility creates buying opportunities for patient investors. The broad base (~37 lakh shareholders) indicates deep liquidity.
+
+**Bank/NBFC Additional Checks:**
+- **RBI/Regulatory Holding Limits:** FIIs at 11.4% are well below the 20% individual and 49% aggregate FII cap for public sector banks. No structural constraint on further FII buying.
+- **Promoter Holding Compliance:** Government stake at 55.5% is above the regulatory minimum of 51% for PSU banks, but the QIP-driven dilution signals the government is comfortable with gradual stake reduction through equity issuance.
+- **Pledge Position:** Zero pledging — not applicable for government-owned banks.
+
+---
+
+
+## 8. CAPEX QUALITY ANALYSIS — Earnings Quality & Provision Adequacy Analysis [BANK MODE]
 
 For banks, the equivalent of "maintenance CapEx" is credit cost (provisions). Just as a factory must spend to maintain its equipment, a bank must provision to maintain the quality of its loan book.
 
@@ -172,9 +299,22 @@ Since FY2023, however, the actual credit cost has fallen BELOW the historical 5-
 
 > *Buffett on the difference between accounting earnings and economic earnings: "Accounting is the language of business... but it can also obscure the truth."* — For SBI, the truth is that ~₹73/share of EPS is sustainable through a normal credit cycle. The extra ₹15-18/share is cyclical tailwind from benign credit conditions.
 
+**⚠️ Credit Cost Sensitivity — The Most Important Assumption in This Analysis:**
+
+The normalised credit cost above uses a recovery-era window (FY2021-2025 average ~0.9%). This is the optimistic end of a range. Full-cycle normalisation tells a very different story:
+
+| Normalisation Window | Avg Credit Cost | Norm. Provisions (₹ Cr) | Norm. Earnings (₹ Cr) | Norm. EPS | Implied Fair Value (14.5x PE) |
+|---|---|---|---|---|---|
+| **Recovery-era (FY2021-2025)** | **~0.9%** | **~35,000** | **~65,000** | **~₹73** | **~₹1,059 (≈ CMP)** |
+| Buffett conservative (1.2%) | ~1.2% | ~46,000 | ~54,000 | ~₹60 | ~₹870 |
+| Mid-cycle (FY2018-2025) | ~1.5% | ~57,000 | ~43,000 | ~₹48 | ~₹696 |
+| Full-cycle (FY2016-2025) | ~2.0% | ~76,000 | ~24,000 | ~₹27 | ~₹391 |
+
+The analysis uses ₹73 (recovery-era) as the primary normalised EPS. If a more conservative 1.2% credit cost is applied (roughly midway between the current benign 0.4% and the 2.0% full-cycle average), normalised EPS falls to ~₹60 and fair value to ~₹870 — implying the stock is **moderately overvalued at ₹1,059**. This sensitivity is the single most important variable for the investment decision. The "Good Bank at a Fair Price" verdict holds only under recovery-era normalisation; under full-cycle normalisation, SBI appears overvalued.
+
 ---
 
-## 6. RETURN ON CAPITAL — The Buffett Quality Test
+## 9. RETURN ON CAPITAL — The Buffett Quality Test
 
 ### ROE, ROA, and Key Efficiency Metrics
 
@@ -226,7 +366,7 @@ SBI sits at the boundary between "Good" and "Excellent" — its ROA of 1.15% pla
 
 ---
 
-## 7. COMPETITIVE POSITION & MOAT ANALYSIS
+## 10. COMPETITIVE POSITION & MOAT ANALYSIS
 
 ### Moat Type: **Cost Advantage (Cheap Deposits) + Distribution Scale + Regulatory Moat**
 
@@ -273,7 +413,7 @@ SBI's moat (cheap deposits, branch network, government backing) is particularly 
 
 ---
 
-## 8. SCALABILITY CHECK — Can This Business Scale and Is It Scaling?
+## 11. SCALABILITY CHECK — Can This Business Scale and Is It Scaling?
 
 ### Part A: The Unit Economics of Scaling
 
@@ -312,7 +452,7 @@ At the current ROE (~17%) and retention ratio (~82%), SBI generates internal cap
 ### Part B: Scaling Runway — TAM & Penetration
 
 **1. TAM vs. Current Penetration:**
-India's banking credit-to-GDP ratio is ~55-60%, compared to 150%+ in developed economies. India's total banking system advances are ~₹175 lakh crore. SBI has ~19% share (~₹38 lakh crore). As India grows toward a $7-10 trillion economy, total banking credit could reach ₹500-600 lakh crore by 2035. Even if SBI's market share stays flat, its loan book triples. If India's financial inclusion deepens (which it will), the runway is enormous.
+India's banking credit-to-GDP ratio is ~55-60%, compared to 150%+ in developed economies. India's total banking system advances are ~₹175 lakh crore. SBI has ~19-22% share (~₹33-38 lakh crore, depending on whether deposit or advance market share is used). As India grows toward a $7-10 trillion economy, total banking credit could reach ₹500-600 lakh crore by 2035. Even if SBI's market share stays flat, its loan book triples. If India's financial inclusion deepens (which it will), the runway is enormous.
 
 **2. Adjacent Expansion:**
 - Insurance (SBI Life — growing at 15-20% annually)
@@ -342,7 +482,7 @@ SBI is in the **Growth Phase** — large and growing, growth rate moderating fro
 
 ---
 
-## 9. MANAGEMENT QUALITY & BUFFETT'S $1 TEST
+## 12. MANAGEMENT QUALITY & BUFFETT'S $1 TEST
 
 ### Buffett's $1 Test
 
@@ -350,7 +490,7 @@ For every ₹1 of retained earnings, has SBI created at least ₹1 of market val
 
 | Period | Total Retained Earnings (₹ Cr) | Market Cap Change (₹ Cr) | $1 Test Ratio |
 |---|---|---|---|
-| FY2020-FY2025 (5 years) | ~2,21,000 | +7,67,000 (from ~₹1,78,000 Cr to ~₹9,45,000 Cr) | **~3.5x** ✅ |
+| FY2021-FY2025 (5 years) | ~2,21,000 | +7,67,000 (from ~₹1,78,000 Cr to ~₹9,45,000 Cr) | **~3.5x** ✅ |
 | FY2022-FY2025 (3 years) | ~1,71,000 | +5,26,000 (from ~₹4,19,000 Cr to ~₹9,45,000 Cr) | **~3.1x** ✅ |
 
 For every rupee SBI retained over the last 5 years, it created approximately ₹3.5 of market value. This spectacularly passes Buffett's $1 test — but with a caveat: much of this value creation came from the NPA recovery and PE re-rating (the stock went from ~0.6-0.7x book to ~1.65x book). Note: Starting MCap uses estimated Mar 2020 close price of ~₹200 per share × 892 Cr shares. Current MCap uses ₹1,059 × 892 Cr shares (FY2025 share count, pre-QIP). Going forward, value creation will be more modest as the re-rating tailwind fades.
@@ -377,7 +517,7 @@ SBI does not have meaningful SBC as a PSU bank. Management compensation is modes
 
 ---
 
-## 10. OPERATING METRICS — Banking-Specific KPIs
+## 13. OPERATING METRICS — Banking-Specific KPIs
 
 ### Comprehensive Banking KPI Dashboard
 
@@ -436,7 +576,7 @@ The operational fundamentals are unambiguously improving:
 
 ---
 
-## 11. VALUATION ANALYSIS — The Price You Pay Determines Your Return
+## 14. VALUATION ANALYSIS — The Price You Pay Determines Your Return
 
 > **Critical Note:** For banks, EV/EBITDA, EV/FCF, P/FCF, and PS Ratio are meaningless. Price-to-Book (P/B) and Price-to-Earnings (PE) are the only meaningful valuation metrics.
 
@@ -446,7 +586,7 @@ The operational fundamentals are unambiguously improving:
 |---|---|---|---|---|---|---|---|---|---|
 | Stock Price (Mar close, approx) | ~250 | ~290 | ~180 | ~360 | ~470 | ~540 | ~745 | ~780 | **₹1,059** |
 
-*(Note: FY2020 stock price of ~₹180 represents the COVID-panic intra-month low reached around 23 March 2020. The actual March 31 close was approximately ₹195-200. The P/B of 0.64x reflects the intra-month trough; on the month-end close of ~₹200, P/B was ~0.71x. The $1 Test in Section 9 uses ~₹200 as the more accurate March-end close.)*
+*(Note: FY2020 stock price of ~₹180 represents the COVID-panic intra-month low reached around 23 March 2020. The actual March 31 close was approximately ₹195-200. The P/B of 0.64x reflects the intra-month trough; on the month-end close of ~₹200, P/B was ~0.71x. The $1 Test in Section 12 uses ~₹200 as the more accurate March-end close.)*
 | Book Value Per Share (₹) | ~258 | ~263 | ~281 | ~309 | ~343 | ~402 | ~465 | ~546 | ~641 |
 | **P/B Ratio** | **0.97x** | 1.10x | **0.64x** | 1.16x | 1.37x | 1.34x | 1.60x | 1.43x | **1.65x** |
 | EPS (₹) | -5.11 | 2.58 | 22.15 | 25.11 | 39.64 | 62.35 | 75.17 | 86.91 | 91.71 (TTM) |
@@ -455,8 +595,8 @@ The operational fundamentals are unambiguously improving:
 | Earnings Yield | NM | 0.9% | 12.3% | 7.0% | 8.4% | 11.5% | 10.1% | 11.1% | 8.3% |
 
 **Historical Comparison:**
-- 5-Year Median PE: 10.5x → Current 12.1x is **above** the median by 15%
-- 5-Year Median P/B: 1.5x → Current 1.65x is **above** the median by 10%
+- 5-Year Median PE: ~9.9x → Current 12.1x is **above** the median by ~22%
+- 5-Year Median P/B: ~1.37x (sorted FY2021-25: 1.16, 1.34, **1.37**, 1.43, 1.60) → Current 1.65x is **above** the median by ~20%
 - 10-Year Median P/B: 1.3x → Current 1.65x is **above** the 10-year median by 27%
 - P/B Low (FY2020): 0.64x during COVID panic → Current is 2.6x that trough
 - P/B High (Recent): ~2.0x at the peak in Dec 2024 → Current is below the peak
@@ -490,18 +630,18 @@ Fair P/B = (15% - 12.3%) / (11% - 12.3%) = 2.7% / (-1.3%)
 | **ROE = 15-16% (SBI normalised)** | **1.8-2.5x Book** | **Good bank — moderate premium** |
 | ROE = 17-20% | 2.0-3.0x Book | Excellent bank |
 
-**At ₹1,059 with BVPS of ₹641, SBI trades at 1.65x book.** Against a Fair P/B of 1.8-2.2x, the stock appears slightly undervalued to fairly valued. There is modest upside from re-rating, but the real thesis is book value compounding.
+**At ₹1,059 with estimated current BVPS of ~₹641 (forward estimate from H1FY26 published BVPS of ₹617 plus estimated Dec'25/Mar'26 retained earnings of ~₹24/share; the published ₹617 figure gives P/B of ~1.72x), SBI trades at ~1.65x book on the estimated basis (~1.72x on the published basis).** Against a Fair P/B of 1.8-2.2x, the stock appears slightly undervalued to fairly valued on either basis. There is modest upside from re-rating, but the real thesis is book value compounding.
 
 ---
 
-## 12. INTRINSIC VALUE & MARGIN OF SAFETY
+## 15. INTRINSIC VALUE & MARGIN OF SAFETY
 
 ### Method 1: ROE / Book Value Compounding Model (Buffett's Primary Bank Valuation)
 
 | Scenario | Sustainable ROE | Retention Ratio | BV Compounding Rate | Exit P/B (Year 5) | Exit P/B (Year 10) |
 |---|---|---|---|---|---|
 | Conservative | 13% | 82% | 10.7% | 1.3x | 1.2x |
-| **Base** | **15%** | **82%** | **12.3%** | **1.6x** | **1.5x** |
+| **Base** | **15%** | **82%** | **12.3%** | **1.6x** | **1.5x ²** |
 | Optimistic | 17% | 82% | 13.9% | 2.0x | 1.8x |
 
 **Projected BVPS and Stock Price:**
@@ -522,7 +662,11 @@ Fair P/B = (15% - 12.3%) / (11% - 12.3%) = 2.7% / (-1.3%)
 | **Base** | **11.1%** | **11.6%** | **11.8%** | **11.2%** |
 | Optimistic | 21.4% | 18.4% | 17.1% | 14.9% |
 
+**Stress Scenario Warning (Not Modelled Above):** The Conservative scenario above models ROE declining to a sustained 13% — a "mild underperformance" scenario. It does NOT model a genuine NPA cycle. SBI's actual through-cycle history includes ROE of 0% (FY2017), -2% (FY2018), and 1% (FY2019) — just 6-8 years ago. A genuine stress scenario (GNPA rising to 5-6%, credit cost returning to 1.5-2.0%, ROE collapsing to 5-8% for 2-3 years before recovering) would produce significantly negative 5-year returns from CMP ₹1,059. The downside floor under a genuine credit cycle is 0.7-1.0x book (₹450-641), not the Conservative IV of ₹915. Investors should size positions with this tail risk in mind — the Conservative case is a "slower compounding" scenario, not a "things go wrong" scenario. Buffett: *"Only when the tide goes out do you discover who's been swimming naked."*
+
 **Key Insight:** In the Base Case, SBI offers ~11-12% annual returns over 5-10 years at the current price. This is roughly equivalent to the cost of equity — meaning you get a FAIR return, not an exceptional one. The Optimistic case delivers 15-19% returns (very attractive), while the Conservative case delivers only 5-7% (below hurdle rate).
+
+*(² Exit P/B justification: The 10-year exit P/B of 1.5x is above SBI's 10-year median of 1.3x. This premium is justified by the structural improvement in ROA from 0.5% (pre-cleanup) to ~1.0%+ (post-cleanup). The 1.3x median reflects the NPA-era years when ROE was 0-7% and the bank deserved a discount to book. A sustained 14-15% ROE commands 1.5-2.0x P/B per the Gordon Growth Model. If ROE reverts to 12% or below, the 1.3x historical median is the more appropriate exit multiple — which reduces the 10-year Base CAGR from 11.2% to ~9.7%, below the 10% hurdle. This is the key risk to the base case.)*
 
 ### Method 2: Excess Return Model (Residual Income Approach)
 
@@ -567,14 +711,14 @@ Excess Return per year = (ROE - CoE) × Book Value
 
 ---
 
-## 13. REVERSE DCF — Napkin Math Reality Check
+## 16. REVERSE DCF — Napkin Math Reality Check
 
 ### Step 1: Inputs
 
 | Input | Value | Source |
 |---|---|---|
 | Current Market Price (CMP) | ₹1,059 | Market data (17 Mar 2026) |
-| TTM EPS (Normalised) | ₹73 | Normalised from Section 5 (stripping cyclically low provisions) |
+| TTM EPS (Normalised) | ₹73 | Normalised from Section 8 (stripping cyclically low provisions) |
 | Current PE (on Normalised EPS) | 14.5x | CMP / Normalised EPS |
 | Reported TTM EPS | ₹91.71 | Screener |
 | Reported PE (on FY2025 EPS ₹86.91) | 12.1x | CMP / FY2025 EPS |
@@ -586,7 +730,7 @@ Excess Return per year = (ROE - CoE) × Book Value
 |---|---|---|
 | Mature / Low-Growth | 8x | SBI re-rates to PSU bank average; growth slows to GDP |
 | Market Average (PSU Bank) | 10x | Sector median PE for PSU banks |
-| Historical Median | 10.5x | SBI's own 5-year median PE |
+| Historical Median | ~9.9x | SBI's own 5-year median PE (sorted: 8.7, 9.0, **9.9**, 11.9, 14.3 for FY2021-25) |
 | Above-Average | 14x | If SBI maintains premium ROE within PSU space |
 
 ### Terminal P/B Alternative (More Meaningful for Banks)
@@ -594,10 +738,18 @@ Excess Return per year = (ROE - CoE) × Book Value
 | Scenario | Terminal P/B | Rationale |
 |---|---|---|
 | Bear | 1.0x | Market values SBI at book (ROE ≈ CoE perception) |
-| Base | 1.5x | 5-year median P/B |
+| Base | ~1.37x | True 5-year median P/B (FY2021-25 sorted: 1.16, 1.34, 1.37, 1.43, 1.60) |
 | Bull | 2.0x | Premium for sustained 15%+ ROE |
 
 ### Step 3: Implied EPS CAGR Needed for Target Returns
+
+**At Terminal PE = 8x (Mature / Low-Growth / PSU Bank Trough):**
+
+| Holding Period | 10% Return (Hurdle) | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 23.9% EPS CAGR | 29.5% | 35.2% |
+| 10 Years | 16.7% EPS CAGR | 22.1% | 27.4% |
+| 15 Years | 14.5% EPS CAGR | 19.7% | 24.9% |
 
 **At Terminal PE = 10x (PSU Bank Average):**
 
@@ -605,13 +757,15 @@ Excess Return per year = (ROE - CoE) × Book Value
 |---|---|---|---|
 | 5 Years | 18.5% EPS CAGR | 23.9% | 29.3% |
 | 10 Years | 14.2% EPS CAGR | 19.4% | 24.5% |
+| 15 Years | 12.8% EPS CAGR | 17.9% | 23.0% |
 
-**At Terminal PE = 10.5x (Historical Median):**
+**At Terminal PE = ~9.9x (Historical Median):**
 
 | Holding Period | 10% Return | 15% Return | 20% Return |
 |---|---|---|---|
-| 5 Years | 17.3% EPS CAGR | 22.7% | 28.0% |
-| 10 Years | 13.6% EPS CAGR | 18.8% | 23.9% |
+| 5 Years | 18.7% EPS CAGR | 24.1% | 29.5% |
+| 10 Years | 14.3% EPS CAGR | 19.5% | 24.7% |
+| 15 Years | 12.8% EPS CAGR | 18.0% | 23.1% |
 
 **At Terminal PE = 14x (Above-Average Compounder):**
 
@@ -619,29 +773,52 @@ Excess Return per year = (ROE - CoE) × Book Value
 |---|---|---|---|
 | 5 Years | 10.8% EPS CAGR | 15.8% | 20.9% |
 | 10 Years | 10.4% EPS CAGR | 15.4% | 20.4% |
+| 15 Years | 10.3% EPS CAGR | 15.3% | 20.3% |
 
 ### Step 4: Reality Check
 
 | Benchmark | EPS CAGR |
 |---|---|
 | India nominal GDP growth | 10-12% |
-| SBI historical 5Y EPS CAGR | 36% (base-effected from crisis) |
+| SBI historical 5Y EPS CAGR | ~31% (FY2020 ₹22.15 → FY2025 ₹86.91; base-effected from crisis) |
 | SBI normalised forward EPS growth estimate | 12-15% |
 | PSU Banking sector growth | 10-14% |
 | Analyst consensus | ~12-14% |
 
 **Traffic Light Assessment:**
 
-Using normalised EPS of ₹73 and Terminal PE of 10.5x:
-- For a **10% return** over 10 years → Need **13.6% EPS CAGR** → 🟡 YELLOW — at the upper end of normalised forward growth expectations
-- For a **15% return** over 10 years → Need **18.8% EPS CAGR** → 🟠 ORANGE — requires significant acceleration above historical norms
-- For a **20% return** over 10 years → Need **23.9% EPS CAGR** → 🔴 RED — unrealistic for a large PSU bank
+Using normalised EPS of ₹73 and Terminal PE of ~9.9x (Historical Median):
+- For a **10% return** over 10 years → Need **14.3% EPS CAGR** → 🟡 YELLOW — at the upper end of normalised forward growth expectations
+- For a **15% return** over 10 years → Need **19.5% EPS CAGR** → 🟠 ORANGE — requires significant acceleration above historical norms
+- For a **20% return** over 10 years → Need **24.7% EPS CAGR** → 🔴 RED — unrealistic for a large PSU bank
 
 ### Step 5: The Verdict
 
-> **"At the current price of ₹1,059, to earn a 10% annualised return over 10 years assuming the market values SBI at 10.5x PE at exit, the company needs to grow normalised EPS at ~13.6% CAGR. SBI's normalised forward EPS growth potential is approximately 12-15% CAGR. This implies the market is pricing in growth at the upper end of the realistic range — achievable but with limited margin for error. For a 15%+ return, the required ~19% EPS CAGR is a stretch for a bank of SBI's size."**
+> **"At the current price of ₹1,059, to earn a 10% annualised return over 10 years assuming the market values SBI at ~9.9x PE (historical median) at exit, the company needs to grow normalised EPS at ~14% CAGR. SBI's normalised forward EPS growth potential is approximately 12-15% CAGR. This implies the market is pricing in growth at the upper end of the realistic range — achievable but with limited margin for error. For a 15%+ return, the required ~19% EPS CAGR is a stretch for a bank of SBI's size."**
 
-**Buffett's Napkin Test:** 🟡 The math works on a napkin — but the required ~13.6% normalised EPS CAGR is above India's nominal GDP growth rate (10-12%) and at the upper end of SBI's realistic forward growth range (12-15%). It's achievable, but with limited cushion. For 15%+ returns, you need things to go distinctly right. This is a FAIR price, not a GREAT price.
+**Step 3B — OEPS-Based Reverse DCF (Bank-Mode: Normalised EPS = OEPS):**
+
+For banks, normalised EPS (₹73) IS the bank-equivalent of OEPS (Owner Earnings Per Share) — it strips out cyclically low provisioning that inflates reported EPS. The formal table below uses normalised EPS as the starting point and the historical median P/OE of ~9.9x as the terminal multiple.
+
+| Holding Period | 10% Return | 15% Return | 20% Return |
+|---|---|---|---|
+| 5 Years | 18.7% | 24.1% | 29.5% |
+| 10 Years | 14.3% | 19.5% | 24.7% |
+| 15 Years | 12.8% | 18.0% | 23.1% |
+
+**Divergence Test — Normalised (OEPS) vs Reported EPS:**
+
+| Metric | At Terminal ~9.9x, 10-Year Hurdle (10% Return) |
+|---|---|
+| Implied CAGR using Reported EPS (₹92) | 11.7% |
+| Implied CAGR using Normalised EPS / OEPS (₹73) | 14.3% |
+| **Gap** | **2.6 pp** |
+
+**Classification:** 2.6pp falls in the **moderate capital intensity** tier (2-5pp). The EPS-based analysis is somewhat optimistic but not egregiously misleading. Defer to the OEPS/normalised verdict for the Buffett-pure assessment. The 2.6pp gap means the Reported EPS analysis is **misleadingly optimistic** — it suggests a 10% return needs only ~12% EPS CAGR, when the honest (normalised) figure requires ~14%. This confirms that current earnings overstate sustainable earning power by ~20-25%. The traffic lights above are applied to the normalised (harder) benchmark. Defer to the OEPS/normalised verdict.
+
+
+
+**Buffett's Napkin Test:** 🟡 The math works on a napkin — but the required ~14% normalised EPS CAGR is above India's nominal GDP growth rate (10-12%) and at the upper end of SBI's realistic forward growth range (12-15%). It's achievable, but with limited cushion. For 15%+ returns, you need things to go distinctly right. This is a FAIR price, not a GREAT price.
 
 ### Step 6: Asymmetric Upside Check — Is This a Fat Pitch?
 
@@ -659,7 +836,7 @@ Using normalised EPS of ₹73 and Terminal PE of 10.5x:
 | Upside Scenario | Valuation Basis | Implied Price | Upside from CMP |
 |---|---|---|---|
 | Base Case (5Y) | BVPS ₹1,149 × 1.6x P/B | ₹1,838 | +74% |
-| Bull Case (5Y) | BVPS ₹1,240 × 2.0x P/B | ₹2,480 | +134% |
+| Bull Case (5Y) | BVPS ₹1,231 × 2.0x P/B | ₹2,462 | +133% |
 | Base Case (3Y) | BVPS ₹910 × 1.6x P/B | ₹1,456 | +37% |
 
 **Part 3: Asymmetry Ratio**
@@ -691,6 +868,8 @@ Asymmetry Ratio = Base Case 5Y Upside / Most Probable Downside
 
 > **"At ₹1,059, the realistic downside is approximately 39% to ₹641 (1x Book — Tails scenario). The realistic base-case upside is approximately 74% to ₹1,838 over 5 years (Heads scenario). This gives an asymmetry ratio of 1.9:1. The catalysts include sustained ROE improvement, subsidiary value unlocking, and India's structural credit growth. However, the asymmetry ratio is below the 3:1 threshold for a true Buffett fat pitch. This is a DECENT pitch — not a fat pitch."**
 
+*(Time horizon note: The upside (74%) is a 5-year forward projection; the downside (39%) is an immediate mark-to-book floor. On a consistent 5-year basis, even the worst P/B scenario in Section 17 (P/B falls to 1.0x, Year 5) implies a stock price of ~₹1,145 — a modest +8% gain, not a loss. The 1.9:1 ratio is therefore conservative: it overstates the downside by using immediate liquidation value rather than the 5-year compounding floor.)*
+
 **Mispricing Identification:**
 
 > **"The mispricing opportunity here is MODEST. SBI is NOT deeply mispriced — the market recognises its turnaround and has re-rated the stock from 0.5x book to 1.65x book over 5 years. However, there is a residual PSU discount — SBI trades at 1.65x book while HDFC Bank (similar ROE) trades at 2.5-3x book. Part of this gap is justified (PSU governance, lower ROA), but part reflects the market's persistent scepticism toward PSU banks. If SBI demonstrates through-cycle ROE stability (maintaining >14% even in a downturn), the gap will narrow. This re-rating from 1.65x to 2.0x+ book — if it happens — would add 20-25% to returns BEFORE any earnings growth."**
@@ -707,7 +886,11 @@ Asymmetry Ratio = Base Case 5Y Upside / Most Probable Downside
 
 ---
 
-## 14. ROE QUALITY CHECK & RETURN EXPECTATION FRAMEWORK
+## 17. ROE QUALITY CHECK & RETURN EXPECTATION FRAMEWORK
+
+### ROCE vs. ROE — Bank-Mode Inapplicability Note
+
+> For banks, ROCE (Return on Capital Employed) is not a meaningful metric because there is no clean separation between "operating capital" and "financing capital" — deposits are simultaneously the bank's primary liability AND its core operating asset. ROIC faces the same issue. For this reason, the compliance template's ROCE > ROE quality check is replaced with the **ROA > 1% quality check** (which tests whether the bank earns genuinely on its asset base) and the **ROA × Leverage = ROE decomposition** (which tests whether high ROE comes from operational quality or financial gearing). See below.
 
 ### Part A: Bank-Specific ROE Decomposition (Quality vs. Leverage)
 
@@ -725,7 +908,9 @@ Asymmetry Ratio = Base Case 5Y Upside / Most Probable Downside
 **Is ROE being inflated by low provisions?**
 - Current credit cost (~0.3%) is well below the 5-year average (~0.9%). This means current reported ROE of 17% is cyclically elevated.
 - Normalised ROE (using normalised credit cost) is approximately **14-15%** — still comfortably above cost of equity.
-- **Verdict: Current ROE is ~2-3% above sustainable levels due to benign credit cycle, but the underlying ROA improvement from 0.5% to ~0.9-1.0% is REAL and structural.**
+- *(Note on credit cost figures: The ~0.3% credit cost shown in Sections 5A/9/13 is sourced from Screener's ratio page. Back-computing from actual provisions (~₹16,000 Cr) on ~₹38 lakh Cr advances yields ~0.42%. The discrepancy likely reflects different advance-base denominators (gross vs net, average vs closing). The normalised earnings calculation in Section 8 uses absolute ₹ figures, not percentages, ensuring internal consistency.)*
+
+**Verdict: Current ROE is ~2-3% above sustainable levels due to benign credit cycle, but the underlying ROA improvement from 0.5% to ~0.9-1.0% is REAL and structural.**
 
 ### Part B: P/B Multiple Scenario Analysis — Expected Return CAGR
 
@@ -754,7 +939,8 @@ Asymmetry Ratio = Base Case 5Y Upside / Most Probable Downside
 | Exit P/B Scenario | Rationale | 5-Year CAGR | 7-Year CAGR | 10-Year CAGR |
 |---|---|---|---|---|
 | **P/B stays at 1.65x** | Multiple sustains | **12.3%** | **12.3%** | **12.3%** |
-| P/B compresses to 1.5x (5Y median) | Mild de-rating | 10.2% | 10.8% | 11.2% |
+| P/B compresses to 1.5x | Mild de-rating from current | 10.2% | 10.8% | 11.2% |
+| P/B compresses to ~1.37x (5Y median) | Reverts to 5Y median | 8.2% | 9.3% | 10.2% |
 | P/B compresses to 1.3x (10Y median) | Reverts to long-term avg | 7.0% | 8.5% | 9.6% |
 | P/B compresses to 1.0x Book | Worst case for quality bank | **1.6%** | **4.5%** | **6.8%** |
 | P/B expands to 2.0x (bull) | Sustained high ROE premium | 16.7% | 15.4% | 14.5% |
@@ -762,15 +948,30 @@ Asymmetry Ratio = Base Case 5Y Upside / Most Probable Downside
 
 ### Key Insight
 
-> **"At the current entry P/B of 1.65x with a sustainable ROE of 15% and 82% retention, book value compounds at 12.3% annually. If the P/B multiple remains at 1.65x, the return equals the BV compounding rate of ~12.3%. The stock can tolerate P/B compression from 1.65x down to approximately 1.3x before the 10-year return falls marginally below the 10% hurdle rate (9.6%). At 1.5x exit P/B, the 10-year CAGR is ~11.2% — still above hurdle."**
+**Rule of Thumb for Quick Mental Math:**
+
+```
+Approximate Annual Return ≈ (ROE × Retention) + Annual P/B Change
+where Annual P/B Change = (Exit P/B / Entry P/B)^(1/n) - 1
+```
+
+- If P/B stays constant → Return ≈ BV compounding rate (15% × 82% = 12.3%)
+- If P/B halves over 10 years → ~7% annual drag → Net return ≈ 12.3% − 7% ≈ 5.3%
+- If P/B drops to 1.0x from 1.65x over 10 years → ~4.9% drag → Net return ≈ 12.3% − 4.9% ≈ 7.4%
+- If P/B rises to 2.0x from 1.65x over 10 years → +1.9% tailwind → Net return ≈ 12.3% + 1.9% ≈ 14.2%
+
+*(These are approximations; the precise CAGR table above is more accurate, but this gives napkin-level intuition.)*
+
+> **"At the current entry P/B of 1.65x with a sustainable ROE of 15% and 82% retention, book value compounds at 12.3% annually. If the P/B multiple remains at 1.65x, the return equals the BV compounding rate of ~12.3%. The stock can tolerate P/B compression from 1.65x down to approximately 1.3x before the 10-year return falls marginally below the 10% hurdle rate (9.6%). At ~1.37x exit P/B (true 5Y median), the 10-year CAGR is ~10.2% — just above the 10% hurdle."**
 
 ### Traffic Light Verdict
 
 | Condition | Verdict | Signal |
 |---|---|---|
 | 10-year return > 10% even if P/B drops to 1.3x | Just misses — 9.6% at 10Y median P/B (borderline) | 🟡 YELLOW |
-| 10-year return > 10% if P/B stays at 1.5x | Yes — ~11.2% return | 🟢 GREEN |
-| 5-year return > 10% requires P/B to stay at 1.5x+ | 10.2% at 1.5x P/B — passes | 🟡 YELLOW |
+| 10-year return > 10% if P/B stays at ~1.37x (5Y median) | Yes — ~10.2% return (barely) | 🟡 YELLOW |
+| 5-year return > 10% at 1.5x P/B (mild de-rating) | Yes — ~10.2% return | 🟡 YELLOW |
+| 5-year return > 10% at true 5Y median (~1.37x P/B) | **No — only 8.2% return** | 🔴 RED for 5Y horizon |
 
 **Overall Traffic Light: 🟡 YELLOW — Fair entry, not a screaming buy. Returns are REASONABLE if the bank executes, but there's limited margin for error on the multiple side. A 20-25% price correction would turn this GREEN.**
 
@@ -778,7 +979,7 @@ Asymmetry Ratio = Base Case 5Y Upside / Most Probable Downside
 
 ---
 
-## 15. BUY ZONE DEFINITION [P/B-Anchored for Banks]
+## 18. BUY ZONE DEFINITION [P/B-Anchored for Banks]
 
 | Zone | P/B Range | Price Range (BVPS ₹641) | Rationale |
 |---|---|---|---|
@@ -821,18 +1022,20 @@ Asymmetry Ratio = Base Case 5Y Upside / Most Probable Downside
 
 ---
 
-## 16. WOULD BUFFETT HIMSELF BUY THIS STOCK (Working With a Small Capital Base)?
+## 19. WOULD BUFFETT HIMSELF BUY THIS STOCK (Working With a Small Capital Base)?
+
+> **[Bank/NBFC Mode — Criteria Substitution]:** The standard 6-criteria Buffett checklist (circle of competence, enduring moat, trustworthy management, resistant to disruption, sustainable economics, price below IV) is adapted below for banking: "resistant to disruption" is replaced with "asset quality solid" (banks are disrupted by credit cycles, not technology); "sustainable economics" is replaced with "capital adequacy" (the binding constraint for bank sustainability). Circle of competence and enduring moat are assessed within the banking-specific criteria below.
 
 ### Full Buffett Checklist
 
 | Step | Question | Metric | Pass Threshold | SBI Result | Pass/Fail |
 |---|---|---|---|---|---|
 | 1 | Is management trustworthy? | Track record, insider ownership, NPA history | No fraud, meaningful skin in game | GOI owns 55.5%; NPA cleanup demonstrated discipline; no major fraud | ✅ PASS |
-| 2 | Does the bank have cheap funding? | CASA ratio, NIM | CASA >40%, NIM >3% | CASA ~41%, NIM ~3.2% | ✅ PASS (borderline on CASA) |
+| 2 | Does the bank have cheap funding? | CASA ratio, NIM | CASA >40%, NIM >3% | CASA ~41%, NIM ~3.1% (Section 5A convention; ~3.3% per DuPont — see S5A footnote ²) | ✅ PASS (borderline on CASA) |
 | 3 | Are returns above cost of capital? | ROE, ROA | ROE >12%, ROA >1% | ROE 17%, ROA 1.15% | ✅ PASS |
 | 4 | Is asset quality solid? | GNPA, NNPA, PCR | GNPA <3%, NNPA <1%, PCR >65% | GNPA 2.13%, NNPA 0.52%, PCR ~93% | ✅ PASS |
 | 5 | Is the bank well-capitalised? | CRAR | >15% | ~14.0-14.5% | ⚠️ BORDERLINE FAIL |
-| 6 | Is the price reasonable? | P/B vs Fair P/B | P/B < Fair P/B | P/B 1.65x vs Fair P/B ~2.0-2.3x | ✅ PASS |
+| 6 | Is the price reasonable? | P/B vs Fair P/B; Excess Return; SOTP | P/B < Fair P/B | **BORDERLINE.** By Gordon Growth P/B: ✅ (1.65x vs fair 2.0-2.3x). By Excess Return Model (conservative): ❌ (CMP ₹1,059 > IV ₹915). By SOTP: ❌ (CMP > ₹793 post-discount). Price is acceptable in Base/Optimistic scenarios only — not in the Conservative case. | ⚠️ BORDERLINE |
 
 **Score: 5 out of 6 pass (1 borderline).**
 
@@ -862,7 +1065,7 @@ Honestly, probably not at TODAY'S price with his current capital. Here's why:
 
 ---
 
-## 17. RISK MATRIX
+## 20. RISK MATRIX
 
 | Risk | Type | Severity (1-5) | Probability (1-5) | Overall Rating | Mitigation |
 |---|---|---|---|---|---|
@@ -878,7 +1081,79 @@ Honestly, probably not at TODAY'S price with his current capital. Here's why:
 
 ---
 
-## 18. TURNAROUND PROBABILITY (Not Applicable — Turnaround is COMPLETE)
+## 21. REGULATORY RISKS & POLICY HEADWINDS — Industry-Specific Assessment [BANK/NBFC MODE]
+
+> **Purpose:** Every bank operates under the constant shadow of regulatory action. Buffett pays close attention to regulatory risk because it can permanently impair economics — or, paradoxically, it can STRENGTHEN moats by raising barriers to entry.
+
+### The Core Issue:
+
+SBI operates under the supervision of the Reserve Bank of India (RBI), SEBI (for listed entity compliance), and the Department of Financial Services (DFS) under the Ministry of Finance. The regulatory stance toward Indian banking has been **broadly supportive** since 2015 — the RBI's Asset Quality Review (AQR), while painful short-term, ultimately cleaned up the banking system and created a healthier foundation for the current profit cycle.
+
+### Historical Regulatory Impact:
+
+| Event | Year | Nature of Regulation | Impact on SBI |
+|---|---|---|---|
+| RBI Asset Quality Review (AQR) | 2015-16 | Forced NPA recognition | GNPA spiked from ~5% to ~10.9%; short-term P&L devastation; long-term cleansing |
+| IBC / NCLT framework | 2016 | Resolution mechanism for stressed assets | Enabled recovery on large NPAs; SBI recovered thousands of crores from Essar Steel, Bhushan Steel etc. |
+| Demonetisation | Nov 2016 | ₹500/1000 note withdrawal | Short-term disruption; massive CASA surge benefited SBI's deposit franchise |
+| Farm Loan Waivers | 2017-19 | State-level directed waivers | ~₹5,000 Cr impact for SBI; manageable given scale |
+| COVID Moratorium / Restructuring | 2020-21 | RBI-directed moratorium | Temporary NIM compression; restructured book peaked at ~1.5% then resolved cleanly |
+| Digital Lending Norms | 2022-23 | RBI tightened digital lending framework | Minimal direct impact on SBI (primarily brick-and-mortar); indirectly beneficial by constraining fintech competitors |
+| RBI Rate Hike Cycle | 2022-24 | Repo rate +250bps | NIM expanded as asset repricing led deposit repricing; now reversing |
+| Expected Rate Cut Cycle | 2025-26 | Repo rate cuts beginning | NIM compression expected; partially offset by lower deposit costs (lagging) |
+
+### Current Regulatory Headwind Analysis:
+
+**1. Interest Rate Cycle Reversal (Moderate Impact):** The RBI has begun cutting rates, which will compress NIM by 10-30bps over the next 12-18 months. SBI is mildly liability-sensitive — deposit repricing lags asset repricing — so the initial impact of rate cuts compresses NIM before deposit costs adjust downward.
+
+**2. CASA Erosion / Deposit Competition:** As rates fall, CASA ratios tend to improve (savings become relatively more attractive vs. term deposits). However, competition from small finance banks, payment banks, and high-yield fintech products creates structural pressure on deposit costs.
+
+**3. Priority Sector Lending (PSL):** SBI must lend 40% of adjusted net bank credit to priority sectors (agriculture, MSMEs, housing, education). This constrains lending flexibility and often carries lower yields. However, SBI has historically met PSL targets without significant stress.
+
+### The Demand Curve — How Price-Sensitive Is Banking to Regulatory Costs?
+
+| Regulatory Cost | Volume Impact | SBI's Response | Net Impact |
+|---|---|---|---|
+| NIM compression (10-20bps) | None — demand for credit is rate-elastic, not NIM-elastic | Grow volumes to offset margin compression | Flat to mildly negative |
+| Higher provisioning norms | None — regulatory, not demand-driven | Absorb through PPOP buffer | Earnings impact but manageable |
+| Capital adequacy tightening | Constrains growth if CRAR is thin | Occasional equity raise (QIP) | Minor dilution |
+
+### Buffett's Three-Lens Framework:
+
+**1. History as a Guide:** SBI survived the AQR (2015-16), demonetisation (2016), farm loan waivers (2017-19), and COVID (2020-21). Each time, the franchise emerged intact. The bank's sheer scale and government backing mean it absorbs regulatory shocks that would cripple smaller institutions. Recovery took 2-3 years from the worst of the NPA cycle.
+
+**2. The Elasticity / Pricing Power Argument:** Banking is a spread business — SBI's pricing power comes from its cheap deposit base, not from customer willingness to pay higher rates. Regulatory costs (higher provisioning, PSL requirements) are absorbed through operating efficiency and volume growth, not pricing power. SBI's scale is its pricing moat.
+
+**3. The Terminal Risk Assessment:** Is there any realistic scenario where regulation permanently destroys SBI? **No.** As a D-SIFI (Domestic Systemically Important Financial Institution) with implicit sovereign guarantee, SBI is literally too big to fail. The terminal risk probability is negligible. Even nationalisation is moot — SBI is already government-owned.
+
+> *"It's only when the tide goes out that you learn who's been swimming naked."* — Warren Buffett. SBI was "swimming naked" during the NPA cycle, and the tide went out hard. But the bank survived, cleaned up, and emerged stronger. The regulatory framework that caused the pain (AQR, IBC) actually STRENGTHENED SBI's moat by forcing competitors to recognise bad loans too, while SBI's scale gave it the capital buffer to survive.
+
+### Risk Rating Table:
+
+| Risk Factor | Probability | Impact | Net Risk | Notes |
+|---|---|---|---|---|
+| NIM compression from rate cuts | High | Medium | Manageable | 10-30bps compression; offset by volume growth and lower deposit costs (lagged) |
+| RBI prudential norm tightening | Medium | Medium | Manageable | SBI typically meets/exceeds RBI norms; PCR at 93% provides heavy buffer |
+| Priority Sector Lending stress | Low | Low | Low | SBI has historically met PSL norms without significant NPA stress |
+| Digital lending regulation | Low | Low | Positive | Constrains fintech competitors more than SBI |
+| Government interference (farm waivers, directed lending) | Medium | Medium | Manageable | Perennial risk for PSU banks; recent track record shows improving governance |
+| Capital adequacy tightening | Low | Medium | Manageable | QIP mechanism available; internal capital generation increasingly adequate |
+| Terminal risk (bank failure / nationalisation) | Very Low | Catastrophic | Negligible | D-SIFI status + sovereign backing = zero probability of failure |
+
+### Buffett's Verdict on Regulatory Risk:
+
+**(a) Manageable and Overpriced by the Market** — SBI has survived every regulatory disruption thrown at it over the last decade. The current regulatory environment is actually the most benign since 2014 (clean balance sheets, high PCR, stable NPA framework). The primary regulatory headwind — NIM compression from rate cuts — is cyclical and self-correcting (deposit costs follow with a lag). The market periodically prices in excessive regulatory fear around PSU banks, creating buying opportunities for patient investors.
+
+**Bank/NBFC Additional Regulatory Dimensions:**
+- **RBI Monetary Policy:** Rate cut cycle has begun. SBI is mildly liability-sensitive — initial NIM compression expected, with recovery as deposit costs adjust. Net impact: -10 to -20bps on NIM over 12-18 months.
+- **RBI Prudential Norms:** No major tightening expected. SBI's PCR at 93% and GNPA at 2.13% exceed all current and foreseeable regulatory requirements.
+- **Priority Sector Lending:** SBI meets targets; agriculture and MSME exposure is manageable at its scale.
+- **Governance / Fit & Proper:** RBI has strengthened governance norms for banks. SBI's board quality has improved, though short CEO tenures (2-3 years for PSU bank chiefs) remain a structural limitation.
+
+---
+
+
+## 22. TURNAROUND PROBABILITY (Not Applicable — Turnaround is COMPLETE)
 
 SBI's turnaround from the NPA supercycle (FY2016-2020) is **already complete.** This is not a turnaround candidate; it is a **post-turnaround compounder.**
 
@@ -892,7 +1167,7 @@ Evidence:
 
 ---
 
-## 19. FINAL SCORECARD & SUMMARY
+## 23. FINAL SCORECARD & SUMMARY
 
 ### [BANK/NBFC MODE — Enhanced Scorecard]
 
@@ -909,11 +1184,11 @@ Evidence:
 | Book Value Compounding Potential | **8** | BV compounding at 11-14% annually; self-funding growth; no dilution needed |
 | **Buffett Verdict** | — | **Good Bank at a Fair Price — Not a fat pitch, but a solid compounder for patient capital. ROE of 17% driven by genuine ROA improvement (not leverage) is the most encouraging sign. At 1.65x P/B, you're paying a fair premium for a transformed franchise. The turnaround is DONE; the question is sustainability. Buffett would HOLD if owned (as you do at ₹800 — excellent entry), and would start a SMALL position as a new buyer at ₹1,059, adding aggressively only on dips below 1.3x P/B (₹830). This is not a 2020-style generational buying opportunity — but it's a solid, low-risk compounder for someone building long-term wealth in India's banking growth story.** |
 | Buy Zone | — | **FAIR VALUE / HOLD zone** (₹833 - ₹1,154 at current BV) |
-| Overall Recommendation | — | **Existing Holder: HOLD firmly. New Buyer: Cautious BUY — small starter position, add aggressively on dips to ₹850-950 range.** |
+| Overall Recommendation | — | **Existing Holder: HOLD firmly. New Buyer: Cautious BUY — small starter position, add aggressively on dips to ₹850-950 range. IV-derived target range: ₹915 (Conservative, Excess Return) to ₹1,255 (Base, Excess Return), implying -14% to +19% from CMP ₹1,059.** |
 
 ---
 
-## 20. TEST SIMPLICITY / NO-BRAINER NATURE OF THE INVESTMENT
+## 24. TEST SIMPLICITY / NO-BRAINER NATURE OF THE INVESTMENT
 
 ### Can the thesis be explained to a 10-year-old?
 
@@ -932,9 +1207,11 @@ Evidence:
 - Book value: ₹641 today
 - BV compounds at ~11.5% per year (ROE 14% × 82% retention)
 
-*(Note: Section 14 uses 15% sustainable ROE for formal return analysis; this napkin math uses 14% as the conservative end of the 14-15% normalised range, keeping the back-of-envelope deliberately cautious.)*
+*(Note: Section 17 uses 15% sustainable ROE for formal return analysis; this napkin math uses 14% as the conservative end of the 14-15% normalised range, keeping the back-of-envelope deliberately cautious.)*
 - In 10 years: ₹641 × 3.0 = ~₹1,900
 - If market pays 1.5x book (conservative): ₹1,900 × 1.5 = ~₹2,850
+
+*(Note: 1.5x exit P/B is justified by the structural ROA improvement above pre-cleanup levels — see Section 15 footnote ². At the corrected 5Y historical median of 1.37x, the napkin return falls to ~9.4% price CAGR + ~1.5% dividend = ~10.9% total — marginally above the combined hurdle, confirming the 🟡 YELLOW traffic light from Section 17.)*
 - From ₹1,059 today → ~₹2,850 in 10 years = ~10.4% annual return + ~1.5% dividend = **~12% total**
 - From ₹800 (your cost) → ~₹2,850 = ~13.5% annual return + dividends = **~15% total**
 
