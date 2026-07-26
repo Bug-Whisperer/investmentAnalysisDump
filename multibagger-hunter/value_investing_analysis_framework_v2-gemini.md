@@ -91,6 +91,87 @@ Can the thesis be explained on the back of a napkin (e.g., *"earnings ~3x in 5 y
 3. **Target-price / intrinsic-value RANGE** (never a single number), implied upside/downside, and the margin of safety required to buy.
 4. **The re-rating catalyst and discovery runway** — what carries it toward the institutional-radar zone.
 5. **Portfolio fit — YES / NO:** does this deserve a place in a high-conviction, concentrated portfolio meant to multiply a small capital base via micro/small-cap gems with explosive, durable runways? Weigh the multibagger probability against the existential risks from Sections 3 and 5.
+6. **Conviction Rating (0–10) — Buy calls only.** If (and only if) the tactical action is **Buy & Accumulate**, assign a single conviction score. For Wait/Hold/Trim/Exit, mark **N/A**. Follow the rubric below.
+
+---
+
+### Conviction Rating rubric (0–10)
+
+**What it measures.** Conviction is your confidence that **the thesis actually plays out** — probability × strength of evidence — **NOT the size of the potential return.** A near-certain 2.5x is *higher* conviction than a low-probability 10x. Keep magnitude (napkin math, Section 7) and conviction separate; capital should concentrate in the highest-*conviction* names, sized by conviction, not by the biggest dream.
+
+**Gated by the weakest link, not an average.** Score the pillars below, but the final number is pulled down toward the **weakest** hard-gate pillar — a strong business with a governance stain is not a 7 just because the average says so. Conviction can never exceed what the shakiest hard gate allows.
+
+Pillars to weigh:
+- **Business quality & moat durability** (hard gate)
+- **Governance & forensic integrity** (hard gate)
+- **Cash-backed earnings / no working-capital trap** (hard gate)
+- **Margin of safety & reverse-DCF headroom** — how far implied growth sits *below* quantified achievable growth
+- **Catalyst clarity & nearness** — how visible and how soon the re-rating trigger / discovery runway is
+- **Residual/existential risk** — severity of what's left after the gates (concentration, execution dependence, single-catalyst reliance)
+
+**Calibration bands (be honest — do not cluster at 7–8):**
+- **9–10 — Exceptional, rare.** All hard gates pristine; wide margin of safety; near-certain earnings trajectory; clear, near-term catalyst; minimal residual risk. You may see a handful in a career. Reserve this; if you're tempted to hand it out often, you're miscalibrated.
+- **7–8 — Strong, high-conviction buy.** Gates clean; good margin of safety; credible catalyst; one or two known, manageable risks.
+- **5–6 — Speculative / starter buy.** Attractive thesis that hinges on one or two things going right (on-time capacity ramp, a single large client, an unproven execution step). Small/starter position only.
+- **3–4 — Weak; probably should be Watch, not Buy.** If you scored this a Buy, re-examine the call.
+- **0–2 — Inconsistent with a Buy.** Do not pair with a Buy action.
+
+**Required with the score:**
+- **The rationale (mandatory).** Two or three sentences explaining *why this number and not one higher or lower* — walk pillar by pillar, naming which pillars earned the score, which held it back, and where the balance landed. The reader should be able to reconstruct the number from the reasoning, not just take it on faith. "8/10 because business quality and governance are pristine and margin of safety is wide, held back from 9–10 only by reliance on a single anchor client and an unproven second plant" is a rationale; "8/10, strong buy" is not.
+- The **single biggest factor capping** the number (the weakest link).
+- The specific, **observable** development that would raise conviction by **≥2 points** (e.g., two more quarters of margin delivery, confirmed net-debt-free balance sheet, a marquee order converting to revenue, a governance/board upgrade).
+- A **coherence check:** if you had to use the **15%** rate for genuine business risk, conviction of 9–10 is usually inconsistent (real structural risk caps certainty) — reconcile or revise.
+- **Sizing implication:** highest-conviction names (8+) earn the largest allocations; 5–6 is a starter/tracking position at most; below 5 shouldn't be funded.
+
+---
+
+### Entry & Accumulation Plan (Buy calls only)
+
+If the action is **Buy & Accumulate**, lay out a concrete execution blueprint — not just "buy." All figures are **templates the investor calibrates to their own concentration tolerance, number of holdings, and max single-name cap**; present them as ranges, not commands.
+
+- **Target position size, anchored to conviction.** Map the conviction score to a *target portfolio weight range*, then let the investor scale it to their own risk appetite:
+  - **9–10:** top-tier / full high-conviction weight.
+  - **7–8:** standard core position.
+  - **5–6:** starter / tracking position (a fraction of a core weight) — earn the right to size up.
+  - **<5:** not funded.
+  Note the investor's own single-name **maximum cap** (a concentrated book still caps any one micro-cap given liquidity and blow-up risk), and that the target is a *destination*, reached over time — not deployed in one click.
+
+- **Tranche the entry — never deploy the full target at once.** Split into staggered tranches, each released by a *reason*, not a calendar:
+  - **Tranche 1 (initial):** on confirmation the thesis is intact and price sits inside the accumulation range below.
+  - **Add-on tranches** triggered by: (a) a deeper margin of safety (price falls further below the intrinsic-value range without any thesis impairment), (b) a **thesis-confirming event** (a quarter of delivery, catalyst materialising, capacity commissioned, order-book conversion), or (c) thesis-neutral volatility drawdowns.
+  - **Distinguish price weakness from thesis impairment.** Averaging *down* is only allowed while the hard gates still hold; if a gate breaks (governance, cash-flow, structural demand), that's an **Exit**, not a discount to add into.
+
+- **Accumulation price ranges — express in rupees, tied to the intrinsic-value range and margin of safety, never a single number.** Convert the Section-8 intrinsic-value range into concrete price bands off the current price:
+  - **Aggressive-accumulate band:** price below ~the deep-MoS level (e.g., <~70% of base intrinsic value) → larger tranches.
+  - **Accumulate band:** within the margin-of-safety zone → standard tranches.
+  - **Pause / hold-off:** as price approaches fair value and the reverse-DCF re-rating cushion thins → stop adding (this is the Watch line).
+  State the actual rupee bands so the plan is usable, e.g. *"accumulate ₹X–₹Y; add aggressively below ₹X; stop adding above ₹Z."*
+
+- **Averaging up vs. down.** For a genuine compounder, adding **on strength as earnings confirm** (Kedia/Lynch: feed your winners) is legitimate and distinct from averaging down into weakness — but every add still respects the max single-name cap and a sensible price vs. the *updated* intrinsic-value range.
+
+- **Exit discipline is thesis-based, not a price stop.** Micro-caps are too volatile for a mechanical price stop-loss; the real stop is a **hard-gate failure** (Sections 1–3, 5–6). Name the specific, observable events that would force a full Exit regardless of price. (Full framework below.)
+
+---
+
+### Exit & Sell Discipline (the hardest decision)
+
+**Default = do nothing.** The costliest error in multibagger investing is not a bad buy — it is selling a genuine compounder too early. People sell at 2x or 3x and forfeit the 20x–100x, and no cleverness about the sell ever recovers that lost compounding. So the **burden of proof sits on the sell, not the hold** ("buy right, sit tight"). A rising price is *not*, by itself, a reason to sell. Re-underwrite the thesis each period, but require a *specific, named reason* below to act.
+
+**The only valid reasons to sell — everything else is noise:**
+1. **A materially better opportunity (capital reallocation).** Sell only if capital is *demonstrably* better deployed elsewhere on a **risk-adjusted** basis — and clear a **high bar**, because exiting a proven winner for an unproven one carries reinvestment risk, re-entry-timing risk, and (in a taxable account) a tax drag that resets your compounding base. This reason is the one most easily abused into over-trading; treat "also attractive" as *not* sufficient.
+2. **Egregious valuation *and* an earnings peak.** A rich multiple **alone is a HOLD** while the earnings engine still runs. The sell signal is extreme valuation **coupled with** EPS topping out — *or* the forward-looking market beginning to price a future EPS peak/rollover (once the market recognises the peak, the re-rating reverses fast). Distinguishing "expensive but still compounding" from "expensive and rolling over" is the whole game — get this one right and you avoid both the early sell and the round-trip.
+3. **The fundamentals change (thesis break).** Moat erosion, governance/forensic red flags, structural demand decline, an emerging working-capital trap, serial dilution, or capital-allocation deterioration — the **hard-gate failures**. This is a **non-negotiable, price-independent full Exit**, whether you're up 10x or down 50%.
+4. **Reverse DCF becomes structurally impossible (GARP-specific).** Sell when the price implies a growth rate unachievable under *any* realistic scenario because the **TAM itself cannot support it** — a genuine ceiling, not merely a high number. Respect the asymmetry from Section 4: a high-but-*achievable* implied growth is still a **hold**; this trigger fires only when the required growth is arithmetically impossible against the addressable market's own growth.
+
+**Trim vs. full Exit:**
+- **Trim (partial):** for position-size/risk management, or for reason 2's *extreme valuation while earnings still grow* — take some chips off, keep the compounder working.
+- **Full Exit:** reason 3 (thesis break) always; reason 2 when valuation is egregious **and** earnings are peaking; reason 4 (TAM-impossible); or reason 1 (materially better use of capital).
+
+**What is NOT a reason to sell (the early-sell traps — name and reject these):** hitting an arbitrary round-number price target; "it's already 2x/3x"; short-term volatility or a drawdown with the thesis intact; macro/market noise; boredom or impatience; a high P/E *while earnings still compound*. Each of these is how investors amputate their winners.
+
+**Business-specific, pre-committed triggers (required output).** For **this** company, list concrete, *observable, monitorable* sell/trim triggers mapped to the four reasons — decided now, in the cold light of analysis, not in the heat of a price move. Examples of the form (populate with the real specifics): loss or renegotiation of a named anchor client; gross/EBITDA margin falling below X% for two consecutive quarters (moat erosion); promoter **pledging appears** or promoter stake falls below Y%; auditor qualification/resignation; CFO/PAT divergence opening up or receivable days breaking out; a named competitor's capacity coming online and compressing pricing; TAM saturation signs (share > Z% with the pond no longer growing); or P/E entering egregious territory *while* volume/earnings growth decelerates below a stated threshold. Each trigger must be specific enough that you'd recognise it in a quarterly result without ambiguity.
+
+---
 
 ---
 
