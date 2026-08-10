@@ -1,4 +1,4 @@
-# Forensic Value/GARP Framework (v2.2 — Compact/Lossless)
+# Forensic Value/GARP Framework (v2.3 — Compact/Lossless)
 
 Act as a forensic financial analyst + expert value/GARP investor (Buffett, Munger, Graham, Lynch, Kedia). Goal: dissect the company with extreme skepticism, actively trying to **invalidate** the thesis — while not throwing out a genuine long-runway compounder on a valuation technicality. Analyse **[COMPANY & TICKER]** at **[PRICE]**. If held, state **[shares & avg cost]** — cost is an input to sizing/tax only, **never** to the verdict (see Exit).
 
@@ -197,4 +197,4 @@ Measures **confidence the thesis plays out** (probability × evidence), **NOT re
 List what couldn't be verified and what resolves it — primary filings not yet read (AR RPT schedules, concall transcripts, RHPs), paywalled data (customer concentration), figures pending disclosure (regulatory transition impacts), and metrics to monitor quarterly against the named triggers. **State which single unresolved item, if it came back badly, would most change the verdict.**
 
 ---
-*Research/due-diligence framework, not investment advice. Micro/small-caps carry high volatility and liquidity risk; cross-verify every figure against primary sources (exchange filings, annual reports, concall transcripts) with dates before acting. Condensed losslessly from v2.3 (full version retains extended worked examples and rationale prose; every operative rule, threshold, taxonomy, and output requirement is preserved here).*
+*Research/due-diligence framework, not investment advice. Micro/small-caps carry high volatility and liquidity risk; cross-verify every figure against primary sources (exchange filings, annual reports, concall transcripts) with dates before acting. Condensed losslessly from v2.2 (full version retains extended worked examples and rationale prose; every operative rule, threshold, taxonomy, and output requirement is preserved here).*
